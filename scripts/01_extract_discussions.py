@@ -60,6 +60,9 @@ def get_wikitext_xml(page):
 
     if debug_more: print 'opening query xml: ' + query_xml % page
 
+    opener = urllib2.build_opener()
+    infile = opener.open(query_xml % urllib2.quote(page.encode('utf-8')))
+    page = infile.read().decode('utf-8')
     try:
         opener = urllib2.build_opener()
         infile = opener.open(query_xml % urllib2.quote(page.encode('utf-8')))
@@ -111,6 +114,7 @@ def wiki_discussion_scraper(article_title):
 
     if debug_more: print 'wiki_discussion_scraper: calling get_wikitext_xml(%s)' % article_title
     id, title, wiki_text = get_wikitext_xml(article_title)
+    print(get_wikitext_xml(article_title)) # consistently returns (-1, '', '')
 
     #function 'get_wikitext_xml' returns id=0 in case of redirect
     while id == 0:
@@ -224,6 +228,7 @@ def load_id_list_from_file(file_name):
 
 if __name__ == '__main__':
     titles = load_id_list_from_file(args.article_list)
+#    print titles
     for id in sorted(titles):
         if verbose or debug: print u'\nProcessing article: ' + unicode(id) + u' ' + unicode(titles[id])
         if write_log:
@@ -234,6 +239,7 @@ if __name__ == '__main__':
         t = string.replace(titles[id],u' ', u'_')
 
         xml = wiki_discussion_scraper(u"Talk:" + titles[id] ) #titles[id])
+        print(u'Talk:' + titles[id])
         if xml == '':
             not_found.append(titles[id])
             if debug: print u'   Talk page not found: ' + u"Talk:" + titles[id]
