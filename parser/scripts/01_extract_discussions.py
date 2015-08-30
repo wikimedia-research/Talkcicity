@@ -13,14 +13,14 @@ parser.add_argument('-l', action="store", dest="article_list", default="../artic
                     help="""
                     A file containing the list of articles to be scraped through Wikipedia API (one article title per line, with id and title separated by tab)
                     """)
-parser.add_argument('-o', action="store", dest="output_folder", default="../talk_pages/", 
+parser.add_argument('-o', action="store", dest="output_folder", default="./data/talk_pages/", 
                     help="""
                     Output folder for storing the talk pages (one file per article)
                     """)
 
 args = parser.parse_args()
 
-log_folder = '../logs/'
+log_folder = './logs/'
 
 #query = 'http://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&format=json&titles=%s' #for json
 query_xml = u'http://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&format=xml&titles=%s'

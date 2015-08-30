@@ -1,0 +1,103 @@
+<article id="488476" title=Talk:Balarama>
+	<talkpage id="488476" title="Talk:Balarama">
+{{talkheader}}
+{{WikiProjectBannerShell|1=
+{{WP Hinduism|class=B|importance=Top|vaishnavism=yes|krishna=yes}}
+{{WP Religion|class=B|importance=Top}}
+{{WP India|class=c|importance=low}}
+{{WP Jainism|importance=high}}
+}}
+
+==Avatar==
+Isn't Balarama the 9th (and not the 8th) avatar ?No he was just Sri Krishna's brother and just avatar of Shesha .And where in the avatar box does Buddha and [[Chaitanya Mahaprabhu]] come ? [[User:Jay|Jay]] 17:29, 25 Feb 2004 (UTC)
+
+:You're right about ninth, I've fixed it. Balarama is the most common candidate for the ninth avatar, and I didn't think it was worth cluttering up the box, so I left Buddha out. Chaitanya is totally out of the question, the dasavatara story has been around far longer than he has; I don't think anyone except the descendants of his disciples considers him an avatar :) -- [[User:Arvindn|Arvindn]] 18:28, 25 Feb 2004 (UTC)
+
+::OK, I've added Buddha. I think I've figured out about Chaitanya: he's the Hare Krishna guy, and Hare Krishna is somewhat well-known outside India, and so Chaitanya as an avatar might have some weight in Western studies on Hinduism, one of which must have originally formed the basis for the [[avatar]] article. But no Hindus accept that view, so I don't think its fair to put him in the box. -- [[User:Arvindn|Arvindn]] 18:40, 25 Feb 2004 (UTC)
+
+Just as a note, the 'Hare Krishna guy' referred to is 'Sri Krishna [[Caitanya]] Mahaprabhu' who appeared in India in 1486. He is not included within the standard list of Vishnu avatars in the [[Bhagavata Purana]], but is known as the 'hidden' avatar. There are verses foretelling His appearance in a number of places in [[Mahabharata]] and later on in the Bhagavata Purana. His divinity is accepted amongst [[Gaudiya Vaishnavas]] inside and outside India (including [[ISKCON]]) but He is not so well known by 'Hindus' as a whole.
+--[[User:GourangaUK|GourangaUK]] 09:33, 11 January 2006 (UTC)
+
+== Bit about Yasoda? ==
+
+The part about Krishna being in Yasoda's womb can't be right because she was not Krishna's mother by birth, so it's completely illogical. --[[User:Grammatical error|Grammatical error]] 06:57, 21 May 2006 (UTC)
+
+: I think you have a point there GM ... maybe we could replace it with another pastime more in line with the rest of Balarama's lila. Best Wishes, [[User:GourangaUK|GourangaUK]] 20:05, 21 May 2006 (UTC)
+
+==Strength==
+My apologies for misunderstanding the text and pointing the link incorrectly.
+
+Wikipedia policy is to [[Wikipedia:Disambiguation pages with links|discourage linking directly to disambiguation pages]], especially when the word is being used in a particular sense. What would be an appropriate link here? Is this the same &lt;i&gt;bala&lt;/i&gt; referenced in [[Vishnu]]? Is it same or different than [[The Five Powers]] referenced at the end of the [[bala]] disambiguation page? Should it have an explanatory article of its own? (Titled what? There's a temporary placeholder, [[bala (strength)]], in the Vishnu article but that may not be the best choice for the article's name.) Or is the word &quot;strength&quot; being used so amorphously here that it makes better sense to link to the wiktionary definition, [[wikt:strength]]? [[User:Sanguinity|Sanguinity]] 23:06, 25 August 2006 (UTC)
+
+:Hi Sanguinity, I've linked it to the wikitionary definition which you gave above - I thought it shouldn't be tied down to a specific spin on strength, [[User:GourangaUK|GourangaUK]] 22:26, 26 August 2006 (UTC)
+
+:: Thank you much! [[User:Sanguinity|Sanguinity]] 23:29, 26 August 2006 (UTC)
+
+==Origins==
+I believe the quote regarding the origins of Balarama from the British Museum (I'm assuming from a plaque that went alongside the coin?) is not suitable for inclusion with the coin caption. It gives a non-universal opinion, which would be fine if referenced from a study or book by a scholar knowledgeable in the origins of Hinduism, within the main text alongside other counter-views. However, at present it is written ''as fact'', and I would not personally consider a caption at the British museum a reliable source on such a complex issue. For dates I would consider such a source reliable, but not so for theories of this type. [[User:GourangaUK|Gouranga(UK)]] 19:31, 24 June 2007 (UTC)
+
+==British Museum coin caption==
+
+''&quot;Balarama, holding mace and conch on a Maurya coin (lower right), 3rd-2nd century CE. British Museum.&quot;''
+
+The Mauryan empire was an empire of the 3rd-2nd century ''BCE'', not CE.--[[User:SohanDsouza|SohanDsouza]] ([[User talk:SohanDsouza|talk]]) 02:54, 23 May 2008 (UTC)
+==File:Balarama at ISKCON Bangalore.jpg Nominated for speedy Deletion==
+{|
+|-
+| [[File:Image-x-generic.svg|100px]] 
+| An image used in this article, [[commons:File:Balarama at ISKCON Bangalore.jpg|File:Balarama at ISKCON Bangalore.jpg]], has been nominated for speedy deletion at [[Wikimedia Commons]] for the following reason: ''Copyright violations'' 
+;What should I do?
+''Don't panic''; deletions can take a little longer at Commons than they do on Wikipedia. This gives you an opportunity to contest the deletion (although please review Commons guidelines before doing so). The best way to contest this form of deletion is by posting on the image talk page.
+* If the image is [[WP:NFCC|non-free]] then you may need to upload it to Wikipedia (Commons does not allow fair use)
+* If the image isn't freely licensed and there is no [[WP:FUR|fair use rationale]] then it cannot be uploaded or used.
+* If the image has already been deleted you may want to try [[commons:COM:UR|Commons Undeletion Request]]
+
+''This notification is provided by a Bot'' --[[User:CommonsNotificationBot|CommonsNotificationBot]] ([[User talk:CommonsNotificationBot|talk]]) 00:31, 11 October 2011 (UTC)
+|}
+==File:Illustrations from the Barddhaman edition of Mahabharata in Bangla, which were printed in wood engraving technique (5).jpg Nominated for Deletion==
+{|
+|-
+| [[File:Image-x-generic.svg|100px]] 
+| An image used in this article, [[commons:File:Illustrations from the Barddhaman edition of Mahabharata in Bangla, which were printed in wood engraving technique (5).jpg|File:Illustrations from the Barddhaman edition of Mahabharata in Bangla, which were printed in wood engraving technique (5).jpg]], has been nominated for deletion at [[Wikimedia Commons]] in the following category: ''Deletion requests April 2012'' 
+;What should I do?
+''Don't panic''; a discussion will now take place over on Commons about whether to remove the file. This gives you an opportunity to contest the deletion, although please review Commons guidelines before doing so.
+* If the image is [[WP:NFCC|non-free]] then you may need to upload it to Wikipedia (Commons does not allow fair use)
+* If the image isn't freely licensed and there is no [[WP:FUR|fair use rationale]] then it cannot be uploaded or used.
+To take part in any discussion, or to review a more detailed deletion rationale please visit the relevant [[commons:File:Illustrations from the Barddhaman edition of Mahabharata in Bangla, which were printed in wood engraving technique (5).jpg|image page (File:Illustrations from the Barddhaman edition of Mahabharata in Bangla, which were printed in wood engraving technique (5).jpg)]]
+
+''This is Bot placed notification, another user has nominated/tagged the image'' --[[User:CommonsNotificationBot|CommonsNotificationBot]] ([[User talk:CommonsNotificationBot|talk]]) 14:55, 11 April 2012 (UTC)
+|}
+==File:Krishna and his brother Balarama as young playful cowherds.jpg Nominated for Deletion==
+{|
+|-
+| [[File:Image-x-generic.svg|100px]] 
+| An image used in this article, [[commons:File:Krishna and his brother Balarama as young playful cowherds.jpg|File:Krishna and his brother Balarama as young playful cowherds.jpg]], has been nominated for deletion at [[Wikimedia Commons]] in the following category: ''Deletion requests April 2012'' 
+;What should I do?
+''Don't panic''; a discussion will now take place over on Commons about whether to remove the file. This gives you an opportunity to contest the deletion, although please review Commons guidelines before doing so.
+* If the image is [[WP:NFCC|non-free]] then you may need to upload it to Wikipedia (Commons does not allow fair use)
+* If the image isn't freely licensed and there is no [[WP:FUR|fair use rationale]] then it cannot be uploaded or used.
+To take part in any discussion, or to review a more detailed deletion rationale please visit the relevant [[commons:File:Krishna and his brother Balarama as young playful cowherds.jpg|image page (File:Krishna and his brother Balarama as young playful cowherds.jpg)]]
+
+''This is Bot placed notification, another user has nominated/tagged the image'' --[[User:CommonsNotificationBot|CommonsNotificationBot]] ([[User talk:CommonsNotificationBot|talk]]) 02:42, 27 April 2012 (UTC)
+|}
+
+== Translation/meaning of &quot;Balarama&quot; ==
+
+In &quot;Book Of Vishnu&quot; by Nanditha Krishna, it is said that Balarama means &quot;Rama with the plough.&quot; This is on page 99. I am new to Wikipedia, so I will let someone else decide whether to make this edit or not. But it is in that book, plain as day, and it seems like a valid citation.
+
+Can be read on google books:
+http://books.google.com/books?id=f9cSlaLMlgEC&amp;pg=PA98&amp;dq=balarama+revathi+plough&amp;hl=en&amp;sa=X&amp;ei=AhfCUPrCGZS08ASVmYHQBQ&amp;ved=0CDYQ6AEwAg#v=snippet&amp;q=plough&amp;f=false
+
+[[Special:Contributions/68.52.189.176|68.52.189.176]] ([[User talk:68.52.189.176|talk]]) 16:44, 7 December 2012 (UTC)
+
+== Sankarshana form of Vishnu ==
+If this is what is going in the summary paragraph it needs a link or an explanation. If Sankarshana is supposed to refer to Adi Shesha than that should be written instead for clarity. Googling the phrase &quot;Sankarshana form of Vishnu&quot; only leads to this wiki and does not clearly explain things in an encyclopedic manner. Either rewrite it, add a link for sankarshana, or it should be removed as it detracts from the clarity and simplicity of the opening description.
+[[User:Iṣṭa Devata|Iṣṭa Devata]] ([[User talk:Iṣṭa Devata|talk]]) 18:23, 20 December 2014 (UTC)
+: There is a concept of [[Chaturvyuha]]s in [[Pancharatra]] texts (some background found in last para of [[Vaikuntha_Chaturmurti#Development_and_symbolism]]). Samkarshana denotes Balarama as part of Chaturvyuha possibly. --[[User:Redtigerxyz|&lt;font color = &quot;red&quot; &gt;Redtigerxyz&lt;/font&gt;]] &lt;sup&gt; [[User talk:Redtigerxyz|Talk]] &lt;/sup&gt; 19:11, 20 December 2014 (UTC)
+Then it needs to say that, or we make a real shankarshana page to go to, or remove the word, because it is just confusing without an explanation. It sounds like it is implying a shaiva (shankara) form.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Iṣṭa Devatā|Iṣṭa Devatā]] ([[User talk:Iṣṭa Devatā|talk]] • [[Special:Contributions/Iṣṭa Devatā|contribs]]) 16:49, 29 June 2015 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Indic Language Removal on Wikipedia ==
+
+Hi, Ogress I was reading the policy conversations you mentioned on this subject and had a hard time figuring out what their actual conclusions were. I was wondering if you could explain or point me to a place where it simply states the policy instead of the debate over it. Either way this seems like a troubling policy to implement for historical articles (it almost seemed like the debate was over figures and place names largely). As a linguist you that removing the devanagari AND the IAST from Sanskrit articles means that there is vital information missing from the page that the IPA does not provide. To be able to use any of these articles academically (which I do, studying for my masters in yoga studies and history) one needs to have the standards of Indic academia addressed. My text books use IAST exclusively and no IPA ever. If you were academically studying these topics, the IPA is useless to you, and only the IAST matters. That's the only reason there is an International Alphabet of Sanskrit Transliteration that is nearly universal in Indic studies. I understand removing excessive modern indic translations with their thousand regional variations, but this is removing troves of important information about a static and dead language, and you're not even replacing it with the IPA first, so the next editor will have a harder time making a proper IPA transliteration. Very concerning. It feels like watching books burn.[[User:Iṣṭa Devatā|Iṣṭa Devatā]] ([[User talk:Iṣṭa Devatā|talk]]) 17:04, 29 June 2015 (UTC)
+	</talkpage>
+</article>

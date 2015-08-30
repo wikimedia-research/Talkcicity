@@ -1,0 +1,70 @@
+<article id="61147" title=Talk:A priori>
+	<talkpage id="61147" title="Talk:A priori">
+{{WikiProject Philosophy|class=disambig|importance=na|logic=yes|metaphysics=yes|epistemology=yes}}
+{{DisambigProject}}
+
+==Merge==
+Shouldn't this page discuss &quot;a priori&quot; more precisely from a philosophical perspective?  --[[user:Daniel C. Boyer]] 10:23, 9 July 2002 (UTC)
+
+:This page should be merged with the a priori / a posteriori propositional knowledge wiki. Any objections? [[User:Lucidish|Lucidish]] 17:49, 29 Jun 2004 (UTC)
+
+::Its late, but I agree these two pages need to be merged --[[User:Kzollman|Kzollman]] 02:51, Apr 29, 2005 (UTC)
+This this term is used in a variety of fields, it would be more consistent for this to be be added as one more subheading the existing a priori article.--[[User:Esprit15d|Esprit15d]] 13:56, 5 January 2006 (UTC)
+
+Don't you think a disambiguation page would be more appropriate? I look at &quot;a priori languages&quot; more as a compound term than at &quot;a priori&quot; as an attribute in its own right, with regard to constructed languages. (YMMV.) -- [[User:Syzygy|Syzygy]] 14:01, 5 January 2006 (UTC)
+
+Definitely do '''not merge'''. ''A priori'' on this page refers to Kant's epistimologic concept of innate perception of certain abstracts like time and space. ''A priori'' on the other page refers to the idea of constructing languages from scratch. The two concepts are unrelated, linked only by their names. A disambiguation page probably would be appropriate here. - &lt;strong&gt;&lt;font color=&quot;#003399&quot;&gt;[[User:CorbinSimpson|Corbin]]&lt;/font&gt;&lt;/strong&gt;&lt;em&gt;&lt;font color=&quot;#009933&quot;&gt;[[User_talk:CorbinSimpson|Simpson]]&lt;/font&gt;&lt;/em&gt; 14:17, 5 January 2006 (UTC)
+
+:Agreed with Corbin/Syz., disambiguation would be preferable. Do not merge. [[User:Lucidish|Lucidish]] 17:50, 5 January 2006 (UTC)
+
+::Agreed—a coincidence of names is no reason to merge. [[User:Tesseran|Tesseran]] 01:11, 6 January 2006 (UTC)
+
+:::Removing merge tag per above discussion. Also putting a disambig notice at the top of both pages. [[User:Kerowyn|Kerowyn]] 12:04, 15 January 2006 (UTC)
+::::[http://en.wikipedia.org/w/index.php?title=A_priori_(languages)&amp;diff=prev&amp;oldid=35263459 See diff] - [[User:Wbm1058|Wbm1058]] ([[User talk:Wbm1058|talk]]) 15:15, 10 May 2013 (UTC)
+
+Hi all.  I know that no one wants to merge the different uses of &quot;a priori&quot; and that disambiguation is preferable there.  So, i just carried out the further work of actually making this a full-fledged disambiguation page (see below for more on that).  However, I did take the liberty of merging [[a priori (philosophy)]] with [[a posteriori]].  I hope no one minds.  The [[a priori]] and [[a posteriori]] entries were both slim and the two are best presented together. There wasn't much talk going on those talk pages either, so I thought it would be best and that everyone would agree. - [[User:Jaymay|Jaymay]] 07:55, 25 August 2006 (UTC)
+:*[[special:permalink/71765962|A priori and a posteriori (philosophy), created at 07:16, 25 August 2006]]
+:* 11:58, 25 November 2008‎ [[user:Skomorokh|Skomorokh]] (moved {{no redirect|A priori and a posteriori (philosophy)}} to [[A priori and a posteriori]]: superfluous disambiguation)
+:**I'm not so sure about that. When you combine two ambiguous terms into a single article, do you somehow magically make them unambiguous? [[User:Wbm1058|Wbm1058]] ([[User talk:Wbm1058|talk]]) 14:31, 10 May 2013 (UTC)
+
+==Disambiguation==
+Hi all.  I've made this article into a disambiguation article.  But, have no fear, everything has been preserved; it's just been reorganized.  As you can see, I've created links to what could be the articles for other uses of the term &quot;a priori&quot;, such as [[a priori (math modeling)]].  I've created an article called ''a priori (philosophy)'' for the philosophy one, except it redirects to the new [[a priori and a posteriori (philosophy)]] article&amp;mdash;see below under &quot;Merge&quot; for more on that. I hope I haven't stepped on anyone's toes.  I just thought that it would have been too confusing, time-consuming, and otherwise difficult to try and spell out how to reorganize all this on the talk page.  So, instead, I just did, so everyone can see.  It really seems like an obvious and intuitive way to organize things.  I really hope that the [[a priori and a posteriori (philosophy)]] entry can get polished up more too on it's own. - [[User:Jaymay|Jaymay]] 07:55, 25 August 2006 (UTC)
+
+== Merge with [[A priori and a posteriori (philosophy)]] ==
+[[User:Ajo Mama|User Ajo Mama]] has suggested some sort of merger.  I'm not sure exactly what he wants merged and why.  It would be nice if Ajo Mama would clarify here on the talk page. - [[User:Jaymay|Jaymay]] 23:48, 28 August 2006 (UTC)
+:See [http://en.wikipedia.org/w/index.php?title=A_priori&amp;diff=72452420&amp;oldid=71769254 this diff]. It makes no sense to propose merging a disambiguation page into one of the links on that page. – [[User:Wbm1058|Wbm1058]] ([[User talk:Wbm1058|talk]]) 13:54, 10 May 2013 (UTC)
+
+::Since [[User:Ajo Mama|User Ajo Mama]] hasn't provided any discussion here regarding his suggestion, I'm just going to take off the merge banner.  But, by all means, discuss it here if you'd like. -- [[User:Jaymay|Jaymay]] 22:03, 30 August 2006 (UTC)
+
+== Pronounciation ==
+
+Is it pronounced: ah-pree-ori, or ay-pry-oriy? [[User:128.6.175.30|128.6.175.30]] 14:22, 21 April 2006 (UTC)
+
+:Either way, I think.  I have heard professionals pronounce it each way pretty much 50/50.  I don't think there's a way to tell how it is &quot;truly&quot; pronounced, since it is Latin. - [[User:Jaymay|Jaymay]] 04:10, 15 August 2006 (UTC)
+
+== Hyphen? ==
+
+Is ''a priori'' ever hyphenated? It seems like it should be, but I almost never see it. [[User:BenFrantzDale|—Ben FrantzDale]] 13:39, 30 May 2006 (UTC)
+
+:I have never seen it hyphened, at least in philosophy.  Sometimes professional philosophers write it together as one word, especially when used as a noun, e.g. &quot;aprioricity&quot;.  I think it's just an attempt to make it a term of art in philosophy, which, by now, it is. - [[User:Jaymay|Jaymay]] 04:13, 15 August 2006 (UTC)
+
+== Please don't delete the &quot;mathematical&quot; sense from this disambig page! ==
+
+It is distinct from the others and there is no reason to delete it.  &lt;small&gt;—The preceding [[Wikipedia:Signatures|unsigned]] comment was added by [[User:140.254.93.113|140.254.93.113]] ([[User talk:140.254.93.113|talk]] • [[Special:Contributions/140.254.93.113|contribs]]){{#if:{{{2|}}}|&amp;#32;{{{2}}}|}}.&lt;/small&gt;&lt;!-- Template:Unsigned --&gt;
+
+:The entry should probably remain, but the long explanation here should be moved to the page.  The goal of disambiguation pages is provide all readers reasonably easy access to the information they are looking for - and having long descriptions on the page makes it harder for those looking for OTHER articles to navigate to them quickly. (John [[User:Jwy]] [[User talk:Jwy|talk]]) 03:44, 15 May 2007 (UTC)
+
+== Algorithm ==
+
+Any reason that the [[Apriori_algorithm]] page (A Priori computer algorithm) isn't linked here? [[User:220.233.27.104|220.233.27.104]] 00:09, 6 June 2007 (UTC)
+:It's been linked from this dab since [http://en.wikipedia.org/w/index.php?title=A_priori&amp;diff=prev&amp;oldid=139354712 03:38, 20 June 2007] – [[User:Wbm1058|Wbm1058]] ([[User talk:Wbm1058|talk]]) 13:24, 10 May 2013 (UTC)
+
+== Merge June 2012 ==
+This page has been tagged for merge since April. If there are no objections I'm going to do a merge in a few days time. --[[User:Karl.brown|KarlB]] ([[User talk:Karl.brown|talk]]) 17:28, 20 June 2012 (UTC)
+:I had to do some digging to find what this merge section was talking about.
+:*[[special:permalink/488334911|A priori (statistics), 13:48, 20 April 2012]], a former stand-alone article that was tagged for deletion, which was changed to:
+:*[[special:permalink/498526981|A priori (statistics), 17:30, 20 June 2012]], an incomplete disambiguation, which was redirected:
+:*[[special:permalink/499584682|A priori (statistics), 10:53, 27 June 2012]], redirect to [[A priori]]
+:—[[User:Wbm1058|Wbm1058]] ([[User talk:Wbm1058|talk]]) 13:06, 10 May 2013 (UTC)
+	</talkpage>
+</article>

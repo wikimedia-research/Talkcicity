@@ -1,0 +1,32 @@
+<article id="237643" title=Talk:National Institute of Neurological Disorders and Stroke>
+	<talkpage id="237643" title="Talk:National Institute of Neurological Disorders and Stroke">
+{{WikiProjectBannerShell|1=
+{{WikiProject United States|class=C|importance=Low|NIH=Yes|USGov=Yes|USGov-importance=low}}
+{{WikiProject Medicine|class=C|importance=Mid}}
+{{WikiProject National Institutes of Health}}
+}}
+
+==Original source==
+''The original version of this article was taken from the public domain source at http://www.ninds.nih.gov/about_ninds/ninds_overview.htm Please wikify as necessary.''
+
+== Possible sources ==
+*{{cite journal |title=Brainstorms Abound At NIH's Neurological And Stroke Institute |work=The Scientist |year=1995 |volume=9 |issue=6 |page=14 |date=March 20, 1995 |url=http://www.the-scientist.com/article/display/16440/ }}
+*{{cite journal |title=NINDS at 50: An Incomplete History Celebrating the Fiftieth Anniversary of the National... |author=Freemon |work=JAMA |year=2003 |volume=290 |page=1925-1926 |url=http://jama.ama-assn.org/cgi/content/full/290/14/1925 }} [A book review, I think.]
+
+
+Both of these require access that I don't have. -- &lt;font style=&quot;font-family:Monotype Corsiva; font-size:15px;&quot;&gt;[[User:John Broughton|John Broughton]] &lt;/font&gt; [[User talk:John Broughton |(♫♫)]] 16:33, 18 June 2009 (UTC)
+
+Thanks! The second one I've already seen - alas, it is a book review. [[User:Awadewit|Awadewit]] ([[User talk:Awadewit|talk]]) 17:11, 18 June 2009 (UTC)
+
+== Achievements ==
+The article briefly lists the various areas of research that NINDS covers. But it doesn't give the reader any idea of what they have achieved over the years. One example is the NINDS Antiepileptic Drug Development Program, which took up the challenge of developing new anticonvulsants when the drug industry lost interest in the late 1960s. At the time, the US was falling behind Europe wrt epilepsy (and it remains so, in some ways). See [http://www3.interscience.wiley.com/cgi-bin/fulltext/122250225/HTMLSTART this history] for a brief mention, [http://www3.interscience.wiley.com/cgi-bin/fulltext/119611607/PDFSTART?CRETRY=1&amp;SRETRY=0 this PDF article] for more. You find much more by with Google: &quot;Antiepileptic Drug Development Program&quot;.
+
+Perhaps there are other achievements that can be attributed to NINDS?
+
+BTW: There's a bit too much info on the current director. Surely most of that should go into her own article, and some of the praise (&quot;distinguished career&quot;) toned down.
+
+[[User:Colin|Colin]]°[[User talk:Colin|&lt;sup&gt;Talk&lt;/sup&gt;]] 20:15, 22 June 2009 (UTC)
+
+:I agree about the research - I'm trying to find good descriptions of what they have done. LexisNexis was no help on that front, I'm afraid. I just found newspaper articles reporting on &quot;discoveries&quot; made by people funded by NINDS. The ''NINDS at 50'' book as some sections on the research, so hopefully I'll be able to add more from that book, but it would be nice to have more sources. Thanks for that article - it looks good! I'll remove some of the material on the director. [[User:Awadewit|Awadewit]] ([[User talk:Awadewit|talk]]) 18:48, 7 July 2009 (UTC)
+	</talkpage>
+</article>

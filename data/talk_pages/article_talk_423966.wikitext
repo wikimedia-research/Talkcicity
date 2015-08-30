@@ -1,0 +1,167 @@
+<article id="423966" title=Talk:The Call of the Wild>
+	<talkpage id="26671509" title="Talk:The Call of the Wild/Archive 1">
+{{talkarchive}}
+== Page move was wrong ==
+
+The change from &quot;The Call of the Wild&quot; to &quot;Call of the Wild&quot; is incorrect. The title of the book is &quot;The Call of the Wild,&quot; with a &quot;The.&quot; The word &quot;The&quot; is a part of the title.
+
+Daniel Dyer's annotated edition gives its title as &quot;The Call of the Wild.&quot; 
+Russ Kingman's ''A Pictorial Biography of Jack London'' gives its title as &quot;The Call of the Wild.&quot;
+
+The Library of America edition of ''Jack London's Novels and Stories'' gives its title as &quot;The Call of the Wild.&quot;
+
+Joan London (Jack London's daughter) refers to it in ''Jack London and His Times'' as &quot;The Call of the Wild.&quot; It appears in the index to that book as &quot;Call of the Wild, The.&quot; 
+
+Clarice Stasz, in her book, ''Jack London's Women,&quot; refers to it as &quot;The Call of the Wild.&quot; In the index to her book, it appears under &quot;Writings and Film Adaptations&quot; as &quot;The Call of the Wild,&quot; where it is alphabetized as if it began with C but the word &quot;The&quot; is present.
+
+At [http://sunsite.berkeley/edu/London/Writings http://sunsite.berkeley/edu/London/Writings] it appears in the list of writings as &quot;The Call of the Wild&quot; (alphabetized under C).
+
+I can find no example whatsoever where the title is given without the word &quot;The.&quot; [[User:Dpbsmith|Dpbsmith]] 01:17, 8 Jan 2004 (UTC)
+ 
+
+i think that many people have many different opinoions so this site is not that accurate because any one can add anything even if it's not true  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/75.140.155.178|75.140.155.178]] ([[User talk:75.140.155.178|talk]]) 03:29, 3 March 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== wording ==
+
+Someone pointed out to me that the sentence ''When Thornton is killed by &quot;Yeehat Indians,&quot; Buck returns to the wild'' is incorrect.  According to this person, Buck was raised by a lawyer, and thus was never in the wild in the first place.  Having never read the book, I thought it best to solicit the opinions of those who have.  [[User:Ingoolemo|&lt;font color=blue&gt;&amp;rarr;I&amp;ntilde;g&amp;#333;lemo&amp;larr;&lt;/font&gt;]] [[User_talk:Ingoolemo|&lt;font color=blue&gt;&lt;sup&gt;talk&lt;/font&gt;&lt;/sup&gt;]] [[Donations for victims of the 2004 Indian Ocean earthquake|&lt;font color=red&gt;donate&lt;/font&gt;]] 02:58, 2005 Feb 14 (UTC)
+
+I think &quot;Return&quot; is meant here in the sense of returning to your ancestors. Buck has memories of older times, something like a collective memory of dogs or maybe genetic ones? anyway, in that sense, he goes back to the wild. This represents the dog as a species, not buck as an individual.
+Also, his return to the wild is process, beginning with his arrival to Alaska, and maybe even earlier. Thornton's death is just the last straw, where his last contact to civilization is severed.
+
+Duck was not raised by a lawyer but by &quot;Judge Miller&quot;. And the book is not really about dogs but is about Humanity; the dog represents what is civilized in us and as Buck becomes a wolf he represents what is natural or instinct. [[User:J.P.S.C.|Patrick]] ([[User talk:J.P.S.C.|talk]]) 22:01, 16 January 2008 (UTC)
+
+:Agreed. But you can't necessarily say the story is a human allegory; that's still a hot debate. [[Special:Contributions/24.16.140.61|24.16.140.61]] ([[User talk:24.16.140.61|talk]]) 02:46, 4 June 2008 (UTC)
+
+Back to the main point, of &quot;returning to the wild&quot;, i just turned it into &quot;turn(ed) to the wild&quot;. I hope you'll agree that it's better this way. -- [[User:Jokes Free4Me|Jokes Free4Me]] ([[User talk:Jokes Free4Me|talk]]) 13:48, 24 June 2009 (UTC)
+
+== Buck ==
+
+I added an entry and made a line to Buck. I'd appreciate it if anyone can expand on it. 
+
+[[User:128.139.226.36|128.139.226.36]] 3 July 2005 20:03 (UTC)
+
+Actually, when London uses the word &quot;return&quot; it is referring to the time Buck spent with the timberwolf who initially made the &quot;call&quot; and Buck came back, only to find John Thornton dead. Thus, &quot;returning&quot; to the wild is correct.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/24.205.146.12|24.205.146.12]] ([[User talk:24.205.146.12|talk]]) 07:58, 2 September 2007 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+: Erm, Buck doesn't find Thornton dead when he runs with the timberwolf, he finds Thornton dead after killing a moose. [[User:Raiespio|Raiespio]] ([[User talk:Raiespio|talk]]) 19:20, 16 May 2010 (UTC)
+
+I have an Essay for the first 4 chapters (to pg. 29) about Buck's transformation from a pet to a &quot;Dominant Primordial Beast&quot;, does someone want to see and/or add to it; maybe it can be added to the page. [[User:J.P.S.C.|Patrick]] ([[User talk:J.P.S.C.|talk]]) 21:55, 25 January 2008 (UTC)
+
+== &quot;a wilderness valley called the Nahane...&quot; ==
+
+:&quot;A few readers claim careful reading of the directions would place the final part of the book in the Northwest Territory in a wilderness valley called the Nahane. The Nahane has a mystical reputation on its own.&quot;
+I'm frankly skeptical about this. I've never heard of it, we have no article on the [[Nahane]]. It's presumably a reference to the Nahane Indians[http://www.canadiangenealogy.net/indians/nahane_indians.htm]. But Dyer's annotated edition of ''The Call of the Wild'' mentions no such thing. If a source citation is not provided&amp;mdash;''what'' readers, precisely, make this claim?''&amp;mdash; I intend to remove it as original research (see [[WP:NOR]]. All Wikipedia content needs to be traceable to a published source. [[User:Dpbsmith|Dpbsmith]] [[User_talk:dpbsmith|(talk)]] 00:09, 11 June 2006 (UTC)
+
+== External link policy reevaluation ==
+
+I run a start-up non-profit web site titled SearchLIT.org with the goal of identifying, collecting and organizing great links and information around public domain books for educators and students. A book, such as &quot;Call of the Wild&quot; on SearchLIT.org identifies important information such as grade level and age appropriateness, plus links to wonderful supplementary sites (including Wikipedia) and value-adding lesson plans and quizzes for teachers when appropriate. It is not a commercial site at all. I invite you to check-out SearchLIT.org's text record page for &quot;Call of the Wild&quot; at: http://www.SearchLIT.org/elibrary/viewnovel.php?novel_id=270
+
+After reviewing the contents of this page, do you agree that this provides a strong complement to Wikipedia's page? If so, do you feel that adding this as an external link is suitable? If not, how can I add help Wikipedia with the information that I have collected?  ''Note: this unsigned post was made by [[User:Searchlit|Searchlit]] [[User_talk:Searchlit|(talk)]]''
+
+:I have re-added the external link to Searchlit, without the spammy taste.  They are a non-profit non-commercial site, and I believe the perception of linkspam is an education issue for a new user.  [[WP:NOOB]] applies here, so I've added back the link and will discuss the issue with the user directly.--[[User:BradPatrick|Brad Patrick]] 05:27, 3 August 2006 (UTC)
+
+::I disagree. I've removed it and I see that some other commercial links have been inserted and I've removed them too. Although the SearchLit page itself is not obvious spam, every link I clicked on turned out to link to an advertising-heavy page. [[User:Dpbsmith|Dpbsmith]] [[User_talk:dpbsmith|(talk)]] 13:56, 3 August 2006 (UTC)
+
+== Law of club and fang ==
+
+I added a merge suggestion to the [[Law of club and fang]] article, suggesting that it should be merged into this article. It would, of course, have to be edited, but that ''Law of club and fang'' would be a reasonable redirect page for this article. &lt;font face=&quot;monospace&quot; color=&quot;#004080&quot;&gt;[[User:Flowerpotman|&lt;span style=&quot;color:#004080; font-variant:small-caps&quot;&gt;FlowerpotmaN&lt;/span&gt;]]&amp;middot;([[User talk:Flowerpotman|t]])&lt;/font&gt; 01:22, 22 September 2007 (UTC)
+
+I agree with &quot;FlowerpotmaN&quot; [[User:J.P.S.C.|Patrick]] ([[User talk:J.P.S.C.|talk]]) 22:09, 16 January 2008 (UTC)
+
+== Banned? ==
+
+Zittrain writes in [http://yupnet.org/zittrain/archives/14#62 The Future of the Internet and How to Stop It]
+
+&lt;blockquote&gt;
+Imagine a world in which all copies of once-censored books like Candide, '''The Call of the Wild''', and Ulysses had been permanently destroyed at the time of the censoring and could not be studied or enjoyed after subsequent decision-makers lifted the ban.
+&lt;/blockquote&gt;
+
+The Wikipedia article doesn't mention when or why '''The Call of the Wild''' was banned nor who banned it.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/130.76.32.182|130.76.32.182]] ([[User talk:130.76.32.182|talk]]) 00:55, 21 July 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+It's all over the web that Mussolini banned it, but it is not clear why he bothered.  It would be a good addition to the article if someone would dig into this. fotoguzzi [[Special:Contributions/69.64.235.42|69.64.235.42]] ([[User talk:69.64.235.42|talk]]) 02:04, 12 August 2009 (UTC)
+	</talkpage>
+	<talkpage id="423966" title="Talk:The Call of the Wild">
+{{Vital article|level=4|topic=Art|class=B}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Novels|class=B|importance=Top|listas=Call of the Wild, The}}
+{{WikiProject Dogs|class=B|importance=Mid}}
+{{WikiProject Animals in media|class=B|importance=Top}}
+}}
+
+{{archivebox|auto=long}}
+
+== This article needs to be longer!!! ==
+
+Again here's another article on a Jack London piece of work that is in desperate need of being lengthened! This is degrading to any fans of Jack London to have to read an article like this! Please would someone lengthen this! -James Pandora Adams  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/71.176.154.190|71.176.154.190]] ([[User talk:71.176.154.190|talk]]) 20:59, 27 February 2011 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+There's nothing more to include. It's already pretty descriptive. Maybe the time should be added.--[[Special:Contributions/99.141.169.115|99.141.169.115]] ([[User talk:99.141.169.115|talk]]) 19:42, 25 April 2011 (UTC)reader§
+
+== What about the sequal? ==
+
+The story &quot;White Fang,&quot; is often considered a sequal to the story &quot;Call of the Wild,&quot; and even if this is not true the parallel similartie between the two is to important not to be mentioned. In &quot;Call of the Wild,&quot; the dog goes from being a house dog to being a wild dog and in &quot;White Fang,&quot; the dog goes from being a wild dog to a house dog? This would be an excellent way to lengthen this article! -Again James Pandora Adams  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/71.176.154.190|71.176.154.190]] ([[User talk:71.176.154.190|talk]]) 22:29, 27 February 2011 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+: I've read both stories many times, and there is nothing in either to indicate that one is the sequel of the other. The two stories parallel each other (in reverse directions) but there is no continuity between the two.[[User:Mediatech492|Mediatech492]] ([[User talk:Mediatech492|talk]]) 03:26, 12 January 2012 (UTC)
+
+== Style and content of this article needs to be improved ==
+
+The tone of the article doesn't read clearly and smoothly like a good encyclopaedia article should. Sometimes the text seems clunky or childlike. There are problems also with the content of the article; some sentences trail off into areas not relevant to the article itself. [[Special:Contributions/210.80.129.127|210.80.129.127]] ([[User talk:210.80.129.127|talk]]) 03:25, 29 June 2011 (UTC)
+
+== Generally Considered His Best? BAH!!!! ==
+
+That claim is completely erroneous. It is his most popular, partly because vehement McCarthyism cast a shadow over his more intellectual works that defended and explored socialism. Too often do we think of most popular as best. I challenge a wikier to change this misconception. I believe that among the literary community, Martin Eden is generally considered to be his magnum opus.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/24.41.31.131|24.41.31.131]] ([[User talk:24.41.31.131|talk]]) 14:05, 14 August 2011 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Yeehats  ==
+
+If you read the novel carefully the characters leave the Yukon valley over the moutains heading '''east.''' This puts the Yeehats and final scene in the Canadian Northwest frontier not Alaska. Yes I am one of those Bonds.[[User:RichardBond|RichardBond]] ([[User talk:RichardBond|talk]]) 02:33, 12 January 2012 (UTC)
+
+== First edition in Canada? ==
+
+In the infobox, the country of the first edition is indicated as Canada. Is this correct? Wasn't this book published first in the United States? --[[User:Panda10|Panda10]] ([[User talk:Panda10|talk]]) 23:03, 26 April 2012 (UTC)
+
+: The first edition was published in 1903 by the Macmillan Company which is New York based, an offshoot of Macmillan Publishers of London England. The Macmillan Canada office was not established until 1905. As I understand it up until that time the Macmillan company did have presses in Canada in order to circumvent the high import tariff on books. So some of the first edition were printed in Canada for the Canadian market. [[User:Mediatech492|Mediatech492]] ([[User talk:Mediatech492|talk]]) 23:46, 26 April 2012 (UTC)
+
+== Anime adaption ==
+
+There's also an Anime adaption of this novel, an approx. 70 minute movie. However, I have very little info on it, just a European VHS release which unhelpfully has no opening or closing credits (not even a title screen). I believe it to be the work of [[Toei]] (possibly the same production crew as [[Ginga Nagareboshi Gin]]), based on the animation and art-style though again I have no way of confirming this. Does anyone know more about it so a note could be added under Adaptions in the article? --[[User:HannuMakinen|TheHande]] ([[User talk:HannuMakinen|talk]]) 16:20, 27 June 2012 (UTC)
+
+: It was broadcasted on January 3, 1981 by [[Fuji Television|Fuji-TV net]]. The title was &quot;Kouya no yobigoe. Hoero, Buck.　(荒野の呼び声　吠えろバック: The Call of the Wild. Buck, bark!)&quot; and it was a program of &quot;[[Nippon Life|NISSEI]] family special ([[:ja:日生ファミリースペシャル]])&quot; series. The director was Kouzou Morishita ([[:ja:森下孝三]]) and he is a vice-president of [[Toei Animation]] now. Time of the film is 68min. If you want to know more information, please check this Japanese page. ([http://www.allcinema.net/prog/show_c.php?num_c=235384 荒野の呼び声　吠えろバック])--[[User:Watcher0911|Watcher0911]] ([[User talk:Watcher0911|talk]]) 12:24, 28 October 2012 (UTC)
+
+:: More information is [http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5078 here], someone needs to create an entry for it on Wikipedia and also add a reference on [[The Call of the Wild]] article as well. [[User talk:Darkmorpher|&lt;span style=&quot;color:Teal;text-shadow: 0px 0px 4px Teal&quot;&gt;Hei Liebrecht&lt;/span&gt;]] 17:30, 16 February 2014 (UTC)
+
+== Source == 
+
+I will be using the source below and don't know how to format {sfn} style: 
+
+*London, Jack. ''The Call of the Wild and White Fang''. New York: Barnes and Noble. 2003. ISBN 978-1-59308-002-0
+
+These are the various chapters I'll be using: 
+
+*Chapters &gt; &quot;Jack London&quot; (no author); &quot;The World of Jack London&quot; (no author); &quot;Introduction&quot; author = Tina Gianquitto; &quot;Endnotes&quot; author = Tina Gianquitto; &quot;Inspired by The Call of the Wild&quot; (no author); &quot;Comments and Questions&quot; (no author)
+
+Thanks. [[User:Truthkeeper88|Truthkeeper]] ([[User talk:Truthkeeper88|talk]]) 21:53, 31 August 2012 (UTC)
+
+==Reverted copyedits==
+A copyedit has now twice been reverted, described as &quot;erroneous&quot;.[http://en.wikipedia.org/w/index.php?title=The_Call_of_the_Wild&amp;diff=prev&amp;oldid=548943889],  [http://en.wikipedia.org/w/index.php?title=The_Call_of_the_Wild&amp;diff=548946836&amp;oldid=548945050] I have access to the sources and wrote most of the text in the article, so am interested to know what's erroneous. Will change anything that's inaccurate. Thanks. [[User:Truthkeeper88|Truthkeeper]] ([[User talk:Truthkeeper88|talk]]) 18:36, 6 April 2013 (UTC)
+::I reverted back to your edits after a lot of digging. I don't know who messed them up, but the page went through a lot of unnoticed vandalism between edits of a certain range. I corrected all of that today as well. Your version of the lead is far cleaner and more informative. [[User:Icarus of old|Icarus of old]] ([[User talk:Icarus of old|talk]]) 02:03, 23 April 2013 (UTC)
+:::This had fallen off my watchlist and I'd forgotten about it, but thanks for reinstating. I'd already reverted at least once. [[User:Truthkeeper88|Truthkeeper]] ([[User talk:Truthkeeper88|talk]]) 15:41, 24 April 2013 (UTC)
+
+== Is there an abridged version or something? ==
+
+[[Special:Contributions/99.246.93.154|99.246.93.154]] ([[User talk:99.246.93.154|talk]]) 03:33, 29 June 2014 (UTC)I just read Call of the Wild in a collection entitled something like &quot;Jack London: Tales of the North&quot; from a reputable publisher. It has the illustrations of this page and the same plot, but it's only about 40-50 pages long, plus the plot summary episode (here) of the Skookum King doesn't occur. Am I reading an earlier version, an unacknowledged unabridged piece, or something else? The page as currently written provided no guidance.
+
+: Yes, there are several abridged versions. [[User:Mediatech492|Mediatech492]] ([[User talk:Mediatech492|talk]]) 19:14, 30 June 2014 (UTC)
+
+== Actually a Novella ==
+
+It would help if this article could refer to this book in all instances as a novella as opposed to a novel.  &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/107.199.76.165|107.199.76.165]] ([[User talk:107.199.76.165|talk]]) 07:56, 21 July 2015 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+: The book is clearly too long to qualify as a novella. [[User:Mediatech492|Mediatech492]] ([[User talk:Mediatech492|talk]]) 00:51, 24 July 2015 (UTC)
+
+:: No. It is not too long to qualify by word count. I just counted 32,262 words. On the novella page, you can see the major awards cap at 35k to 40k. On Chesil Beach, which caused a stir in 2007 by being shortlisted for the Booker Prize, is a whopping 38k or 39k. By today's standards, it is a novella.  &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/107.199.76.165|107.199.76.165]] ([[User talk:107.199.76.165|talk]]) 08:23, 15 August 2015 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:: As further evidence, I present the &quot;Novella&quot; page. It lists the book right under &quot;notable examples&quot;.  &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/107.199.76.165|107.199.76.165]] ([[User talk:107.199.76.165|talk]]) 08:28, 15 August 2015 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:::Luckily we're not bound by &quot;today's standards&quot; which is a weird form of presentism. It was considered a novel then and is now by many, regardless of some definitions. In any case, formal consensus would be needed to make a change. All best. [[User:Icarus of old|Icarus of old]] ([[User talk:Icarus of old|talk]]) 20:18, 25 August 2015 (UTC)
+::::Thank you for giving me a reasonable amount of consideration with my opinion. https://en.wikipedia.org/wiki/Novella#Notable_examples. If someone familiar with the formal procedure could bring this to a vote here on the talk page. It has more qualities of a novella than just word count, but I concede it also has characteristics of a novel. Much appreciated. [[Special:Contributions/107.199.76.165|107.199.76.165]] ([[User talk:107.199.76.165|talk]]) 23:26, 26 August 2015 (UTC)
+
+Hi, chiming in a  bit belatedly. I've [https://en.wikipedia.org/w/index.php?title=Novella&amp;diff=prev&amp;oldid=678620556 removed it from the Novella page] until we have sources verifying it as such. I wrote almost all the text here and looked at the sources used - none refer to it as a novella. I'll dig around a bit more, and if there are scholarly sources  identifying it as a novella, then the best thing to do would be to add an additional section explaining the discrepancy. [[User:Victoriaearle|Victoria]] ([[User talk:Victoriaearle|tk]]) 15:32, 30 August 2015 (UTC)
+	</talkpage>
+</article>

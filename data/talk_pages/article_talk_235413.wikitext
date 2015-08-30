@@ -1,0 +1,130 @@
+<article id="235413" title=Talk:Mayo Clinic>
+	<talkpage id="235413" title="Talk:Mayo Clinic">
+{{WikiProject Minnesota|class=c|importance=high}}
+{{WikiProject Hospitals |class = c|importance = top|attention = |needs-infobox = |needs-photo = |needs-coord = }}
+
+{{WP1.0|v0.7=fail|class=Start|category=Socsci}}
+{{OnThisDay|date1=2004-07-08|oldid1=4760254|date2=2005-07-08|oldid2=18376583}}
+
+== Famous patients ==
+Why the list of famous patients? I'd prefer to see a list of famous doctors, trainees, or medical students. Evry top 20 hospital could boast of its many famous patients: everyone gets sick...
+
+:I agree somewhat, although to be fair Mayo is known for treating a disproportionate amount of the worlds rich and famous, in fact its probably the only city that has a downtown almost entirely devoted to serving these patients.  Rochester itself has a large temporary population that seeks care at the clinic (more than the cities resident population). [[User:Gtadoc|Gtadoc]] 04:41, 19 June 2007 (UTC)
+
+::I think the list belongs in a &quot;History of Mayo Clinic&quot; sibling article rather than on the main page.--[[User:Daveswagon|Daveswagon]] 16:21, 10 August 2007 (UTC)
+
+== Mayo Clinic diet ==
+ehhhh.. Why is there a link to the 'mayo clinic diet' here? It's something which has no connection(bar the obvious one)to the Mayo Clinic. I've deleted it before but it was put back.
+
+[[User:Helminski|Helminski]] 02:22, 8 July 2007 (UTC)Well, speaking as the Mayo Clinic's former trademark attorney, I think it's important to keep the mention in as long as it's made clear that the diet is bogus.  Even Mayo's own website mentions it because the supposed diet keeps circulating all over the place and refuses to die.  Many people have heard of this diet, and should be reminded that it's a fraud.
+
+:It's not Wikipedia's purpose to defend an organization's branding scheme or expose fraud.--[[User:Daveswagon|Daveswagon]] 16:23, 10 August 2007 (UTC)
+
+::Perhaps not, but it is noteworthy.  That said, the best way to dispel the myth might be to not mention it at all.  My only concern (knowing nothing specific about the diet) being that people would potentially put their health at risk following something they believe to be backed by legitimate health professionals. [[User:Gtadoc|Gtadoc]] 20:23, 10 August 2007 (UTC)  
+
+== Copyrighted source ==
+Ugh, this text appears to have been [http://www.mayoclinic.org/about/history.html lifted] from a copyrighted source (just a fragment, though).
+
+*The above comment is old, from May 27, 2003 &amp;mdash;[[User:Mulad|Mulad]] [[User talk:Mulad|(talk)]] 20:28, May 19, 2005 (UTC)
+
+== &quot;World renowned&quot; ==
+I suspect that &quot;world renowned&quot; is a bit of an overstatement. &quot;Renowned in the United States&quot; would probably be more accurate. [[User:David.Monniaux|David.Monniaux]] 11:43, 2 Jan 2005 (UTC)
+
+:I disagree.  People fly from all over the world just to go to the Mayo Clinic. -- [[User:DarkNight|DarkNight]] 15:47, 2005 Jan 3 (UTC)
+
+::True, especially before 9/11 folks were coming from all over, and especially the Mideast.
+
+:::I agree, world renowned is accurate, in fact the international airport at Rochester existed so that people, particularly from the ME, could fly directly there to get medical care at Mayo.  In my personal experience its also recognized by name in many foreign countries, some I didn't expect (India, Pakistan, China, Thailand, Cambodia from my own experience).  [[User:Gtadoc|Gtadoc]] 18:06, 10 June 2007 (UTC)
+
+Also, I removed a reference to Johns Hopkins, seemed a bit tacky to have them advertising there; also interesting they don't want any mention of Mayo on their page and for same reason I don't think it needs to be listed here.
+
+The concept of taking a patient into a clinic and doing a full assessment including diagnostic testing that was perhaps outside of the scope of the acute illness then gather in a grand round setting and discussing in a team fashion an approach to further diagnosis  and then treatment certainly was a unique Mayo approach. In an era of cost saving this remains a very unusual approach to patient care. Clinical evidence that a patient is better served by this approach is indirect but it is non-the less a gratifying experience for both Doctor and Patient. This is the 'world-renowned&quot; reference. If you could afford it this was a beacon of hope to the sick and has been a reason the world &quot;beat a path&quot; to tiny Rochester Mn. I do not see any PR in this really as certainly a PR department would have generated some of this idea in this rather bland article. Perhaps this is why Wiki is not ever going to be a great encyclopedia. To write well you must bring some fact and opinion that is based on consensus.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/24.1.208.129|24.1.208.129]] ([[User talk:24.1.208.129|talk]]) 21:03, 19 October 2008 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:The phrase &quot;world-renowned&quot; appears in Wikipedia's examples of [[Wikipedia:Avoid peacock terms|peacock terms]]. [[User:SlowJog|SlowJog]] ([[User talk:SlowJog|talk]]) 01:40, 25 November 2008 (UTC)
+
+:Changing &quot;world renowned&quot; to &quot;internationally renowned&quot; doesn't fix the problem.  The same principle applies, even if the new term isn't in the list of peacock terms. The list is  not intended to be exhaustive. [[User:SlowJog|SlowJog]] ([[User talk:SlowJog|talk]]) 23:25, 27 May 2009 (UTC)
+
+==Carillon==
+They also have a 56-bell [[carillon]] in the Plummer bldg.[http://www.i-90-hotels.com/mn_interstate_90_index.htm#Rochester%20Carillon][http://www.mayoclinic.org/news2004-rst/2312.html][http://www.quincynet.com/daytrips/rochester/attractions.htm]  ([http://www.emporis.com/en/wm/bu/?id=127949 This page] says 23 but it may simply be decades out of date; there seems to have been an expansion.[http://stevenball.com/HMERochesterMN.htm]) The bells were made by [[Petit &amp; Fritsen]][http://www.petit-fritsen.nl] and [[Gillett &amp; Johnston]][http://www.gillettjohnston.co.uk]. [[User:Kwantus|Kwantus]] 02:55, 2005 Mar 26 (UTC)
+
+==infobox== 
+If anyone has time can you put the information about how many patients, how much grant money, etc. etc. in an info box?  Might be a better way to list it than in the article.  If not I'll try to figure out how to do it. [[User:Gtadoc|Gtadoc]] 17:32, 24 June 2007 (UTC)
+
+==Pop culture section==
+Unencyclopedic and unworthy of an article about one of the world's best hospitals. I don't understand why these trivial sections show up so often. [[User:MoodyGroove|MoodyGroove]] 00:40, 29 June 2007 (UTC)MoodyGroove
+
+== Entered by the Mayo's P.R. Dept? ==
+The Mayo Clinic entry is so sycophantic that it almost seems as though it has been written by the Mayo Clinic's public relations department.  In the interests of the Wiki dictum that articles should be neutral maybe a few references to a some of the Mayo's peccadillos should be included?
+[[User:WikiUserisme|WikiUserisme]] ([[User talk:WikiUserisme|talk]]) 19:48, 8 March 2008 (UTC)
+
+You're right.
+{{}}
+
+:Provide [[WP:RS|reliable sources]] which detail the criticisms, and you'll be fine.  &lt;font face=&quot;Arial&quot;&gt;[[User:Corvus cornix|&lt;span style=&quot;color:green&quot;&gt;Corvus cornix&lt;/span&gt;]]&lt;sub&gt;''[[User talk:Corvus cornix|&lt;span style=&quot;color:Green&quot;&gt;talk&lt;/span&gt;]]''&lt;/sub&gt;&lt;/font&gt; 23:12, 12 May 2008 (UTC)
+
+So far as Wikipedia is concerned, apparently the Wall Street Journal and the U.S. Dept of Justice aren't &quot;reliable sources.&quot; I posted links to a WSJ article about a Mayo Clinic patent and a U.S. Dept. of Justice account where the Mayo was fined $6.5 million for misapplying a taxpayer grant.  They were edited out.   Seems like a double standard.  Is the Mayo Clinic a Wiki benefactor?  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:WikiUserisme|WikiUserisme]] ([[User talk:WikiUserisme|talk]] • [[Special:Contributions/WikiUserisme|contribs]]) 13:44, 13 May 2008 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:You didn't add the links to those sources as a reasonable edit to the article, you added a polemic which had to be removed.  If you want to create a section on Criticisms, list the criticisms in an encyclopedic manner, and add those sources that way, that would be fine.  &lt;font face=&quot;Arial&quot;&gt;[[User:Corvus cornix|&lt;span style=&quot;color:green&quot;&gt;Corvus cornix&lt;/span&gt;]]&lt;sub&gt;''[[User talk:Corvus cornix|&lt;span style=&quot;color:Green&quot;&gt;talk&lt;/span&gt;]]''&lt;/sub&gt;&lt;/font&gt; 16:02, 13 May 2008 (UTC)
+
+I'm trying to remove some of the &quot;PRness&quot; the article has at the moment. [[User:Bjweeks|BJ]]&lt;small&gt;&lt;sup&gt;[[User talk:Bjweeks|Talk]]&lt;/sup&gt;&lt;/small&gt; 22:56, 15 May 2008 (UTC)
+
+Thanks, BJ.  You did a good job.  It'll be interesting to see if the Mayo Clinic P.R. people (I read that the Mayo calls them &quot;The Dept of External Affairs&quot;)try and sneak some puffery back into it.  Thanks again.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:WikiUserisme|WikiUserisme]] ([[User talk:WikiUserisme|talk]] • [[Special:Contributions/WikiUserisme|contribs]]) 17:41, 17 May 2008 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+I don't want to create a criticism section.* And I didn't want to criticise the Mayo Clinic.  Anyone with access to a computer can find out for themselves that, just like everyone else and every other organisation on the planet, the Mayo Clinic has skeletons in its closets. It is more that I wanted to criticise Wikipedia for allowing what I thought was a just a syrupy sales puff piece for the Mayo Clinic rather than a scholarly encyclopedic statement.  It was so blatant that IMO it was written by some Mayo Clinic P.R. hack.  A sort of amalgam of their sales brochures.
+
+*If you start having criticism sections couldn't it lead to anyone with an axe to grind about the subject of any entry having a field day?  I'd be interested in the opinions of others as to whether or not they think your suggestion about a criticism section has merit.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:WikiUserisme|WikiUserisme]] ([[User talk:WikiUserisme|talk]] • [[Special:Contributions/WikiUserisme|contribs]]) 17:32, 17 May 2008 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+**I don't think a criticism section is needed at this time, Mayo doesn't really receive enough criticism that would merit it. [[User:Bjweeks|BJ]]&lt;small&gt;&lt;sup&gt;[[User talk:Bjweeks|Talk]]&lt;/sup&gt;&lt;/small&gt; 17:57, 17 May 2008 (UTC)
+
+:If someone has an ax to grind or not, they need to use NPOV language, and cite references. [[User:SlowJog|SlowJog]] ([[User talk:SlowJog|talk]]) 01:58, 25 November 2008 (UTC)
+
+I seldom come to the talk page of a WP article, but I had to this time to check and see if it had been mentioned how absurdly non-neutral this article is.  Reading it feels like reading an advertisement for Mayo -- it's not at all the normal WP feeling.  Bragging, comparative words like &quot;more than&quot; are severely overused.  Rankings are severely over-emphasized.  I'm really not that surprised, given how many times I've visited Mayo Clinic's articles and been graced with the numerous, large advertisements interspersed with the medical information I'm looking for.  As my opinion of this institution declines, I'm becoming more and more interested in those 'skeletons in the closet' that someone else mentioned.  Think I'll head off now to search for them and balance out the amount of glittered hype that I've just read!  Really hope some folks can beat this back into a neutral article.  And ''Mayo Clinic people -- please, back off and let others fix this.  You're hurting your credibility.'' [[Special:Contributions/2601:E:CC80:118:7C9C:8F34:C4E6:1D3D|2601:E:CC80:118:7C9C:8F34:C4E6:1D3D]] ([[User talk:2601:E:CC80:118:7C9C:8F34:C4E6:1D3D|talk]]) 11:08, 13 March 2015 (UTC)
+
+== Split? ==
+
+Mayo owns a dizzying amount of property and this article doesn't (and can't) properly describe them all. Right now the article seems to focus on Rochester and doesn't say much of anything about the actual hospitals. I think this article should cover Mayo the foundation and 3 article should be broken off for the three hospitals. ([[Mayo Building]] being one?) Comments? [[User:Bjweeks|BJ]]&lt;small&gt;&lt;sup&gt;[[User talk:Bjweeks|Talk]]&lt;/sup&gt;&lt;/small&gt; 23:04, 15 May 2008 (UTC)
+:Maybe there should be an article on [[Mayo Health System]] which addresses all of those other sites.  Right now it's just a redirect to here.  &lt;font face=&quot;Arial&quot;&gt;[[User:Corvus cornix|&lt;span style=&quot;color:green&quot;&gt;Corvus cornix&lt;/span&gt;]]&lt;sub&gt;''[[User talk:Corvus cornix|&lt;span style=&quot;color:Green&quot;&gt;talk&lt;/span&gt;]]''&lt;/sub&gt;&lt;/font&gt; 17:38, 16 May 2008 (UTC)
+::I'm not sure about the clinics but aren't hospitals &quot;notable by default&quot;? [[User:Bjweeks|BJ]]&lt;small&gt;&lt;sup&gt;[[User talk:Bjweeks|Talk]]&lt;/sup&gt;&lt;/small&gt; 18:41, 16 May 2008 (UTC)
+:::There should be a separate article on the Mayo Clinic Health System. These hospitals are run by Mayo Clinic, but, if you go to their web site's list of locations, Rochester, Minnesota isn't shown. It is reasonable to conclude they are separate but related entities. And, my understanding is, yes, hospitals are notable by default. [[Special:Contributions/199.86.16.239|199.86.16.239]] ([[User talk:199.86.16.239|talk]]) 03:01, 6 September 2014 (UTC)
+Mayo did not own or operate a hospital until the mid 1980's.  St. Mary's and the Methodist Hospital were operated independent of the Clinic. It started out as a private medical practice in the 1860's, and evolved into a not-for-profit Clinic in 1919.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/75.163.56.99|75.163.56.99]] ([[User talk:75.163.56.99|talk]]) 01:50, 30 June 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:::Even though they weren't 'owned' by Mayo, they were run by Mayo, and Mayo physicians exclusively practiced there and at the clinic, so the difference was really in named only.  [[User:ChillyMD|ChillyMD]] ([[User talk:ChillyMD|talk]]) 01:23, 10 January 2009 (UTC)
+::::But, they were separate entities, each with their own histories. If Mayo's history is to be expanded in one article, there could be three parallel histories. On that basis, assuming all three will have a significantly sized history section in Wikipedia, I favor three articles. By the way, the &quot;integration agreement&quot; was signed May 28, 1986, according to Mayo's website. Prior to that, Mayo regards the relationship as &quot;collaborative&quot;. [[User:SlowJog|SlowJog]] ([[User talk:SlowJog|talk]]) 05:19, 11 September 2014 (UTC)
+
+== Building Category ==
+There were too many red-links on the list of buildings previously list on this article. Should there be a category for the existing building pages, since some will have no links to them? Say, [[:Category:Mayo Clinic Buildings]]?[[User:Mangledorf|Mangledorf]] ([[User talk:Mangledorf|talk]]) 13:26, 17 July 2008 (UTC)
+
+:My feeling is that most individual articles on the buildings would fail to meet notability guidelines, and never grow beyond stub class. I would favor an article on the Mayo Campus, with a a section for each of the more important buildings. [[User:SlowJog|SlowJog]] ([[User talk:SlowJog|talk]]) 01:17, 25 November 2008 (UTC)
+
+:Maybe three articles:  One each for Rochester, Scottsdale, and Jacksonville.  On the other hand, Saint Marys in Rochester might deserve its own article. [[User:SlowJog|SlowJog]] ([[User talk:SlowJog|talk]]) 17:58, 7 September 2009 (UTC)
+
+==Version 0.7==
+This topic would definitely be important enough, but the article right now is very weak.  Please renominate for the next release once it reaches B-Class or so, and it'll probably be included. [[User:Walkerma|Walkerma]] ([[User talk:Walkerma|talk]]) 03:09, 1 November 2008 (UTC)
+
+:The current article is very weak.  Its a shame, I remember one time (not sure when) this article was long and rather good.[[User:ChillyMD|ChillyMD]] ([[User talk:ChillyMD|talk]]) 01:32, 10 January 2009 (UTC)
+
+::Yes, surprisingly weak for such a prominent institution. If there was a better article, maybe it could be found, and reverted back to that.  [[User:SlowJog|SlowJog]] ([[User talk:SlowJog|talk]]) 00:38, 2 June 2009 (UTC)
+
+== Notable people who have visited the clinic ==
+
+Is there a list of these people anywhere? Should one be included in the article? [[Special:Contributions/67.135.49.116|67.135.49.116]] ([[User talk:67.135.49.116|talk]]) 19:39, 12 August 2009 (UTC)
+:That would be an exceedingly long list and probably not useful. A great many notable people visit every year. 
+:A list of notable staff of the clinic, on the other hand, might be manageable. [[User:Jonathunder|Jonathunder]] ([[User talk:Jonathunder|talk]]) 21:39, 12 August 2009 (UTC)
+::There probably are or have been many people employed at Mayo who are or were prominent in their field. They may have received recognition such as a Nobel Prize. I think such a list would be worthwhile. [[User:SlowJog|SlowJog]] ([[User talk:SlowJog|talk]]) 18:06, 7 September 2009 (UTC)
+
+== founding - role of Catholic nuns ==
+
+I am curious why the Sisters of St Francis aren't mentioned - they were the ones who suggested a hospital to Dr Mayo in the first place, and were among the first staffers.  I've read this elsewhere, and the MC website itself mentions it.  Was this considered and left out for a no-doubt good reason?  http://www.mayoclinic.org/tradition-heritage/ and links. --[[User:Richardson mcphillips|Richardson mcphillips]] ([[User talk:Richardson mcphillips|talk]]) 02:42, 20 September 2010 (UTC)
+
+== Mayo Clinic's dark underside ==
+
+I see a sterile page here, yet there's been some issues with fraud coming from the Mayo Foundation, including an ongoing case: [http://www.pittsburghlive.com/x/dailycourier/s_701274.html] [http://twincities.bizjournals.com/twincities/stories/2010/09/27/daily8.html] [http://www.kttc.com/Global/story.asp?S=13229715] and going as far back as 2005: [http://www.justice.gov/opa/pr/2005/May/05_civ_292.htm]. [[User:Torinir|Torinir]] ( &lt;font color=&quot;Red&quot;&gt;[[User_Talk:Torinir|Ding my phone]]&lt;/font&gt; &lt;font color=&quot;Green&quot;&gt;[[Special:Contributions/Torinir|My support calls]]&lt;/font&gt; &lt;font color=&quot;Blue&quot;&gt;[[Special:Emailuser/Torinir|E-Support Options]]&lt;/font&gt; ) 16:49, 30 September 2010 (UTC)
+
+==Disclosure==
+
+I am an employee of the Mayo Clinic.  The quality of this article is very low, so I have undertaken a well cited and non-biased update to the article.  I'm adding historical information, as well as some information about the institution.  I am personally staying out of the &quot;need&quot; that some claim say is necessary to mention things such as fraud etc.  This is a DISCLOSURE for a possible Conflict of Interest (COI); however, I'm specifically updating the ''factual'' pieces of the Clinic's history and current status.--[[User:BrandonBigheart|BrandonBigheart]] ([[User talk:BrandonBigheart|talk]]) 18:26, 24 October 2011 (UTC)
+:Thanks for saying that. I will be happy to help out with the article. This page is on my watchlist, but if anyone wants to raise an issue please don't hesitate to contact me at my talk page. Thanks. [[User:Jesanj|Jesanj]] ([[User talk:Jesanj|talk]]) 18:44, 24 October 2011 (UTC)
+
+== The &quot;dirt&quot; on Mayo Clinic ==
+
+Look, I understand Mayo Clinic is considered one of the world's best medical centers, but I think we ought to take a more journalistic approach to things: find the nitty gritty, the undesirable, the &quot;dirt&quot;... Mayo Clinic is like that perfect princessy type girl. You know that there's a darker side to it all, but you just don't hear about it ;) Or at least you hope there is... I Already see a few links to law suits etc, I think we should give them greater notability [[Special:Contributions/134.148.10.13|134.148.10.13]] ([[User talk:134.148.10.13|talk]]) 22:10, 20 October 2014 (UTC)
+	</talkpage>
+</article>

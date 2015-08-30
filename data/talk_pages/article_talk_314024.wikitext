@@ -1,0 +1,176 @@
+<article id="314024" title=Talk:Symbiosis>
+	<talkpage id="13486602" title="Talk:Symbiosis/Archive 1">
+{{atnhead}}
+
+I got redirected from biotrophic to here, but theres no mention of it in the article (necrotrophic isn't mentioned either). Could anyone add it in. Also this article seems very short bfor such an important topic. Thanks.
+
+This article is dire. In the second section 'Changes in Interactions' there is a very subjective assertion that 'Mutualism, parasitism, and commensalism are often not discrete categories of interactions and should rather be perceived as a continuum of interaction ranging from parasitism to mutualism.' This is not cited. In 'Symbiosis and Evolution', the quote &quot;Life did not take over the globe by combat, but by networking.&quot; is not referenced properly and I would question its relevance or correctness. THe article on the whole is very poor.
+
+Please mention corals and other interesting examples. I do not have the credentials to do so. [[User:Ketankhare|Ketankhare]] 10:03, 23 September 2006 (UTC)
+
+mucous -&gt; [[mucus]], surely, unless a [[mucous membrane]] is meant? -- Anon.
+
+How does an emotive relationship play in to a Symbiotic relationship. ie. a pet. if a dog gets food and shelter under this definition the dog is peraisitic. that doesn't seem right.
+
+Doesn't this article need to at least mention antibiosis? soverman 16:06 9 Jan 2006 (UTC)
+
+Dogs are parasitic. They leech food and shelter off humans and give nothing back except slobber, fleas and rabies. I declare myself thoroughly a cat person.
+Whoever removed this text before clearly doesn't understand the nature of a discussion page.
+
+A dog is not a parasite. It gets food and shelter, while the human owner gets some real or percieved benefit. After all, the human chooses to feed the dog. I suppose a cat might consider humans to be parasites who live in the cat's house.--[[User:RLent|RLent]] 17:56, 9 March 2006 (UTC)
+
+You might also say (á la Agent Smith) that humans are the parasites of the world, but this isn't the point.
+
+A parasite is an organism that increases its own fitness (reproductive success) while causing a cost to the fitness of another individual. Since all pets obtain food (and veterinary treatment) due to time and money spent by humans, they should be classified as parasites. It doesn't matter that the human perceives a benefit. If a mosquito injected you with ecstasy while it sucked your blood you wouldn't claim that it shouldn't be classed as a parasite.
+
+You're all confused. Parasitism is a relationship between members of different species in which the parasite benefits and the host is harmed. Whether or not a dog is a parasite depends on your interpretation of human losses and gains in the relationship. If you believe that humans benefit from dogs (emotionally or otherwise, it doesn't matter; emotions are not unbiological) substantially--or, as research has often shown, that our life expectancy can be increased because of their presence, then you have to conclude that the dog-human relationship is a kind of mutualism. &quot;But, it's cultural, it's related to human desires&quot; you could argue, but you'd be wrong...culture and desire are an evolved aspect of the human species and they are not phenomena that exist independently of biology and ecology.
+
+On the other hand, if you think people are compromising their ability to find mates or to fight diseases or to properly nourish themselves when they acquire a dog (an argument -could- be made, I suppose), then the dog is a parasite. This is a stricter scrutiny on the idea of &quot;detriment&quot; or &quot;cost.&quot; Species that expend energy for a benefit are not necessarily experiencing parasitism. A pear tree that transports its seeds to distant grounds via the bowels of a horse, and meanwhile adds to the weight that the horse must carry throughout the day -- this tree is not a parasite. Even mutualist relationships, like that of a crocodile and its dental-hygenist birds, require energy expenditure. It has to be more than that, it has to compromise the species' evolved function in its ecological niche...e.g. lessen its chances of producing fertile offspring, its chances of normal life expectancy, etc.
+
+Some of you, in this discussion, are using the term parasite as a [[metaphor]]. Owen Wilson's most recent character 'Dupree' is a parasite (metaphorically)...an individual &quot;living off,&quot; or otherwise burdening, another member of his own species. Hurting the host, benefiting the parasite. But this is just a way of understanding the tenor of a story or a relationship through the vehicle of a convenient biological term. The term &quot;parasitism,&quot; when used in connection with symbiosis, describes an evolutionary result of the ongoing relationship between evolved species. If I buy a dog tomorrow, and he weakens my immune system while getting fat on my dime, his parasitism is metaphorical; it's a unique dysfunction of the evoled relationship between dogs and humans (whatever that is).  A mosquito, by contrast, bites you in exactly the way that its DNA have designed it to bite you, and it benefits accordingly, at your expense. And YES, if a species of mosquito evolved that conferred positive psychotropics (maybe a benign, creativity-inspiring, low-side-effects strand of XTC) upon its host, and the benefits of the psychotropics outweighed the costs of the bite, then we would describe that as a mutualist relationship. Don't get confused by the standard or conventional (i.e. metaphorical) ways of thinking about parasitism; it should not be a moral or aesthetic issue.
+
+
+Should a link be made to Adam Smith? [[User:Me lkjhgfdsa|Me lkjhgfdsa]] 21:30, 6 June 2006 (UTC)
+: I looked at the Smith page and didn't see anything about symbiosis (a biological phenomenon). What would be your reason for the link? [[User:Satyrium|Satyrium]] 02:22, 14 August 2006 (UTC)
+	</talkpage>
+	<talkpage id="314024" title="Talk:Symbiosis">
+{{talkheader}}
+{{summary in|biological interaction}}
+{{Vital article|level=4|topic=Science|subpage=Biology|class=C}}
+{{ecology|class=C|importance=Top}}
+{{biology|class=C|importance=Top}}
+{{archive box | auto=yes}}
+
+== Symbiosis is not altruistic ==
+
+I think it should be noted somewhere that symbiosis is not altruistic. The organisms in symbiosis may benefit from each other but it is purely out of a need to survive and not from a desire to help the other. Cleaner fish consume parasites off of sharks but do not do this to benefit the shark but simply as a source of food. And likewise, a shark doesn't allow a cleaner fish to get close enough simply so the fish can have a meal. It allows the fish to do this so that the shark itself can be free of parasites. There are many other examples that can be given.
+
+Also, I think in the amensalism section of the article, it should be stated that there are two types of amensalism: competition and antibiosis. In competition, one organism excludes another from a resource. In antibiosis, one organism secretes a chemical killing the other while the one that secreted the chemical is unaffected.
+
+Lastly, the examples for commensalism could be better. For example, epiphytes growing on a woody plant. The epiphyte uses the woody plant as support and for access to sunlight. The woody plant is unaffected by this. [[User:Sumner.44|Sumner.44]] ([[User talk:Sumner.44|talk]]) 21:42, 30 September 2014 (UTC)
+
+
+== Artificial Symbiosis ==
+
+How can artificial symbiosis be mutually beneficial?  Can the artifact benefit?  This doesn't make sense to me. &lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[Special:Contributions/128.100.5.75|128.100.5.75]] ([[User talk:128.100.5.75|talk]]) 19:03, 23 March 2007 (UTC).&lt;/small&gt;&lt;!-- HagermanBot Auto-Unsigned --&gt;
+
+: An example would be a conservatory. In this case, the human organizer of symbiotic and competitive relationships gets money, excercise, and if they're any good, recognition and [[sex]]. [[User:Brewhaha@edmc.net|Brewhaha@edmc.net]] 05:34, 8 May 2007 (UTC)
+
+--&gt;Sorry I had to write , could not find how to open up a new topic. I am writing a essay about bacteria symbiosis and are currently reading through some articles concerning symbiosis. On this page it says that the therm symbiosis was first used by Anton de Bary in 1879, but the term symbiotismus was first introduced in 1877 by A. B. Frank. If someone want to change this or investigate, use this article and look in the references:  
+
+Rai, A. N., E. Soderback, et al. (2000). &quot;Tansley Review No. 116. Cyanobacterium-Plant Symbioses.&quot; New Phytologist 147(3): 449-481.
+
+May 6 2008  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/129.242.201.21|129.242.201.21]] ([[User talk:129.242.201.21|talk]]) 11:15, 6 May 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== there's a surprisingly high amount of vandalism here ==
+
+despite them being all very quickly reverted edits, the frequency here is oddly high, or at least i think so. Perhaps an admin should block it from being edited by new/unregistered users? &lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:Pfzngn|Pfzngn]] ([[User talk:Pfzngn|talk]] • [[Special:Contributions/Pfzngn|contribs]]) 01:28, 30 March 2007 (UTC).&lt;/small&gt;&lt;!-- HagermanBot Auto-Unsigned --&gt;
+Agreed!  I took 
+== Neutralism ==
+The definition given at the top of the article doesn't really incorporate neutralism. It says something like, at least one organism must benefit or suffer; in neutralism neither organism does.
+
+: I was just wondering about that one myself. I think the definition requires more than proximity. [[User:Brewhaha@edmc.net|Brewhaha@edmc.net]] 05:47, 8 May 2007 (UTC)
+
+
+&quot;There is no single universally agreed upon definition of symbiosis. Some define symbiosis in the sense that De Bary intended, describing a close relationship between organisms in which the outcome for each is highly dependent upon the other. The relationship may be categorized as mutualism, parasitism, commensalism, or any biological interaction in which at least one organism benefits. &lt;b&gt;Others define it more narrowly&lt;/b&gt;, as only those relationships from which both organisms benefit, in which case it would be synonymous with mutualism.&quot;
+
+^that is definately not neutral [[User:Drrake|Drrake]] 16:32, 22 October 2007 (UTC)
+
+::The discussion you're replying to, apart from being months old and in reference to a long gone version of the article, refers to '''[[neutralism]]''' not [[WP:NPOV|neutrality]]. Even were that not the case, your comment still wouldn't make any sense. There are no neutrality problems with the lead; in the context of describing the differing definitions of a technical term, ''narrow'' is a perfectly neutral antonym of ''broad''. Neither term implies a value judgement on the correctness of either definition. &amp;ndash;&amp;nbsp;[[User:ConfuciusOrnis|&lt;font face=&quot;arial black&quot; color=&quot;#737CA1&quot;&gt;ornis&lt;/font&gt;]][[User talk:ConfuciusOrnis|&lt;font color=&quot;#C11B17&quot; size=&quot;2pt&quot;&gt;⚙&lt;/font&gt;]] 04:42, 23 October 2007 (UTC)
+
+== I have to challenge the neutrality of this article on a minor scale... ==
+
+Right at the end of the entire article it states that ''&quot;&quot;Life did not take over the globe by combat, but by networking.&quot; As in humans, organisms that cooperate with others of their own or different species often out-compete those that do not.&quot;'' This is not necessarily true, take Emily Dickinson for example. She lived a very secluded and introverted life, yet she is regarded as one of America's greatest poets of the 19th century. Sure, that's a while back, but it doesn't change the fact that she 'didn't co-operate with others' and was still very successful.
+
+Thankyou, that is all.
+
+[[User:220.235.112.102|220.235.112.102]] 11:45, 13 May 2007 (UTC)
+
+That bit added at the end about Margulis's work is a bit dubious-- that is, her work may be important, but the explanation of it sets up Darwin's theory as a straw man which Margulis benefits by demolishing. Darwin proposed that evolution progressed by natural selection, and organisms best adapted to their environments are those that thrive. There's no absolute requirement that an adaptation translate DIRECTLY into a competitive advantage. (But, of course, a parasite/symbiont that chooses a successful partner is more likely to succeed than one that doesn't.) In any case, there's been more than a hundred years of research into evolution since Darwin, so it's not surprising that thousands of scientists working together (or in competition?) have managed to refine his theory.[[User:144.171.207.28|144.171.207.28]] 14:21, 19 June 2007 (UTC)
+
+
+== Incorrect Description?  ==
+&quot;The living together in permanent or prolonged close association of members of usually two different species, with beneficial or deleterious consequences for at least one of the parties.&quot;
+Surely a Symbiotic relationship is beneficial to both parties, not just one, or its parasitic? 
+&lt;ref&gt;or commensal&lt;/ref&gt;
+
+== hi guys, i rewrote the intro to emphasise the use of the word symbiosis, and  ==
+
+point out its importance in the living world.  Added a good general reference, and cleaned some stuff up.
+
+i removed that artificial symbiosis thing.  the sentence didn't make sense, and i've never heard of it.  a reference would be useful.
+
+what do you think?
+
+the examples seem rather arbitrary, that's why i added my 4 in the intro.  these seemed the most important and pervasive ones.  the examples in th body are fun.  perhaps we can have specific examples of each VARIETY of symbiosis described in the varieties section.
+
+perhaps i'll consider adding more.  [[User:Wikiskimmer|Wikiskimmer]] 10:10, 1 July 2007 (UTC)
+
+:Not bad, just needs a quick run-through of the various types of commensalism (amensalism etc). [[User:Richard001|Richard001]] 07:27, 22 July 2007 (UTC)
+
+== Varieties Of Symbioses ==
+
+First, thanks ConfuciousO for all the work on this article.
+
+Do we need the [[Symbiosis#Varieties of Symbiosis]] section. There's not much detail there that isn't in the article in other places. [[Mutualism]] and such have their own sections and are also mentioned in the intro. Maybe create little sections about endo/ecto-symbiosis that summarize and link to those articles and drop this section?  [[User:Jmeppley|Jmeppley]] 14:04, 5 October 2007 (UTC)
+:Well yeah, I was planning on nuking that section once I'd finished filling out the subsections. I just left it there so I wasn't leaving the reader with nothing. I think ther should be a section on ecto-endo symbiosis, maybe another on obligate and facultative relationships, and perhaps a subsection to evo on endosymbiotic theory. Once that's done, it's just a matter of providing a few more examples and making sure everything is properly cited. [[User:ConfuciusOrnis|&lt;font face=&quot;arial black&quot; color=&quot;#737CA1&quot;&gt;&amp;nbsp;–&amp;nbsp; ornis&lt;/font&gt;]][[User talk:ConfuciusOrnis|&lt;font color=&quot;#C11B17&quot; size=&quot;2pt&quot;&gt;⚙&lt;/font&gt;]] 14:10, 5 October 2007 (UTC)
+
+== Punctuation ==
+
+&quot;Endosymbiosis, is any symbiotic relationship in which the symbiont lives within the tissues of the host.&quot;
+
+&quot;The term Mutualism, describes any relationship between individuals of different species where both individuals derive a fitness benefit.&quot;
+
+English isn't my native speech, so I would like to ask, if commas after words &quot;endosimbiosis&quot; and &quot;mutualism&quot; are really needed (in my language they wouldn't be needed). I'm going to work with this text, so I'd like to fix it before printing if it's a mistake.
+
+[[User:Vikte|Vikte]] 15:20, 14 November 2007 (UTC)
+
+
+:The commas are not needed and are incorrect.  [[User:Hardyplants|Hardyplants]] 20:44, 14 November 2007 (UTC)
+
+== Objection? ==
+
+I've read through all the articles cited under the objection section which state that symbiosis is used as an arguement against evolution. Could someone link the correct articles or remove this section?
+
+== Definitions Revisited ==
+
+If &quot;Mutualism is a biological interaction between individuals of two different species, where both individuals derive a fitness benefit&quot;, and  &quot;symbiotic&quot; is a sub-classification within &quot;mutualism&quot;, how can &quot;parasitic&quot; be a sub-classification within symbiosis, as written on the Wikipedia &quot;Symbiosis&quot; page?  Commensalism is also listed as a type of symbiosis on the &quot;Symbiosis&quot; page, being defined as &quot;a kind of relationship between two organisms where one benefits and the other is not significantly harmed or helped&quot;.  If these other definitions are correct, then the definition of &quot;mutualism&quot; must be incorrect.  
+
+Are there, in fact, no universally accepted definitions?  Is this a matter of different schools of biology having their own definitions?  Can a coherent set of working definitions not be formulated?    
+
+[This note has been added to both the &quot;Mutualism&quot; and &quot;Symbiosis&quot; Talk pages.]  [[User:Heavenlyblue|Heavenlyblue]] ([[User talk:Heavenlyblue|talk]]) 23:55, 18 May 2008 (UTC)
+
+
+Response:  &quot;Symbiosis&quot; as originally defined in the 19th Century by Anton de Bary refers to any close association by two or more species, regardless of the outcome of the association for those species.  Therefore symbiosis can be mutualistic (for example lichens, anemonefish-anemone interactions, fig pollination, etc.), commensalistic, parasitic (most parasitic relationships are symbiotic in the sense that the parasite can only exist in or on the host)or wholly neutral.  However, in the 20th century, &quot;symbiosis&quot; came to be used exclusively for what should really be termed &quot;mutualistic symbiosis&quot;.  Biologists are now divided on the issue; some (myself included) believe that we should refer to symbiotic relationships using the original definition (symbiosis simply refers to &quot;living with&quot; and says nothing about the outcome of that living together).  Other biologists happily go along with the change in definition.  I think they're wrong, but hey ho, there's no pleasing everyone all of the time!  In that sense, therefore, there's not a &quot;universally accepted definition&quot;.  Hope that's clarified the issue? [[User:Speakingofcities|Speakingofcities]] ([[User talk:Speakingofcities|talk]]) 10:04, 25 May 2008 (UTC)
+
+== Symbiote / Symbiont ==
+
+The article still uses the word &quot;symbiote&quot;. The &quot;Hard SF&quot; author Hal Clement, in the foreword to &quot;Through the Eye of the Needle&quot; (ISBN 0-345-25850-9), apologises for using the word &quot;symbiote&quot; in the previous book &quot;Needle&quot; and promises to use the correct word &quot;symbiont&quot; in future. 
+Interestingly, he also comments that his mistake seems to have propagated, and the effect of his correction, if any, will possibly be of interest to those who study social phenomena. That would be about us, I guess. [[Special:Contributions/81.107.126.162|81.107.126.162]] ([[User talk:81.107.126.162|talk]]) 20:37, 1 February 2009 (UTC)
+: Thanks for pointing that out, I've changed the only use of symbiote to symbiont. [[User:Smartse|Smartse]] ([[User talk:Smartse|talk]]) 02:03, 17 August 2009 (UTC)
+
+== Commensalism vs. Parasitism ==
+There seems to be an error under parasitism. The definition states that a parasite benefits at the expense of the host, but the example of the remora and the shark is commensalism, the remora benefits but the shark is unharmed.[[Special:Contributions/143.238.91.98|143.238.91.98]] ([[User talk:143.238.91.98|talk]]) 04:26, 12 October 2009 (UTC)
+
+== Holobiont ==
+
+I came looking for information on holobionts, which are the sum of the creatures of symbiosis. Maybe it could be a subsection or a new article someday. --[[User:Trakon|Trakon]] ([[User talk:Trakon|talk]]) 17:53, 29 January 2010 (UTC)
+
+:Would that be a species that evolved as a result of symbiosis, or would it as you say be the 'sum' which I would take to mean something along the lines of 'fusion' which sounds more like [[endosymbiosis]] &lt;- this is already covered.[[User:1812ahill|1812ahill]] ([[User talk:1812ahill|talk]]) 17:43, 28 May 2010 (UTC)
+
+== Mistletoes are endoparasites ==
+
+in the intro, mistletoes are used as an example for ectosymbiosis. This is incorrect.  Mistletoes are generally considered parasites or hemiparasites by those who work with them.  Certain genera (Arceuthobium in particular) are known to cause serious growth reductions and mortality in their hosts. Other genera derive their water and mineral requirements from their hosts, in some cases causing severe growth reductions and mortality- particularly in drought stressed hosts. Hundreds of peer reviewed publications support these statements. See articles in forestry journals by Hawksworth, Wiens, Mathiasen, Geils among many others. An alternative good example of ectosymbiosis in the plant world would be epiphites.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Patho11|Patho11]] ([[User talk:Patho11|talk]] • [[Special:Contributions/Patho11|contribs]]) 02:25, 21 June 2010 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== chemoautotrophic symbionts ==
+
+Usually found in the gills of snails on the ocean floor near black smokers, chemoautotrophic symbionts oxidize minerals, allowing animals to survive in oxygen poor waters. True or false?  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/72.214.235.210|72.214.235.210]] ([[User talk:72.214.235.210|talk]]) 21:03, 4 October 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== References ==
+
+The references are quite poor - just the author's name and year.  I would like to see some titles in there.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Nelsnelson|Nelsnelson]] ([[User talk:Nelsnelson|talk]] • [[Special:Contributions/Nelsnelson|contribs]]) 11:15, 9 August 2011 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Humans and various animal species==
+I'm somewhat surprised that this article lacks mention of the symbiotic relationship between humans and various animal species. We should work to include at least a small section on this aspect. &lt;span style=&quot;background:black;color:white&quot;&gt;&amp;nbsp;&amp;nbsp;'''''—&amp;nbsp;'''''[[User:CMBJ|&lt;span style=&quot;background:black;color:white&quot;&gt;'''''C&amp;nbsp;M&amp;nbsp;B&amp;nbsp;J'''''&lt;/span&gt;]]&amp;nbsp;&amp;nbsp;&lt;/span&gt; 05:07, 5 November 2011 (UTC)
+	</talkpage>
+</article>

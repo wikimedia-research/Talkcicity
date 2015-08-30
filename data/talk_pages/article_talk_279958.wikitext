@@ -1,0 +1,10 @@
+<article id="279958" title=Talk:Hooker County, Nebraska>
+	<talkpage id="279958" title="Talk:Hooker County, Nebraska">
+{{WikiProject United States|class=start|importance=low|U.S. counties=yes|NE=Yes|NE-importance=}}
+
+
+==Untitled==
+Wondering how to edit this U.S. County Entry?&lt;br/&gt;
+The [[Wikipedia:WikiProject U.S. counties|WikiProject U.S. Counties]] standards might help.
+	</talkpage>
+</article>

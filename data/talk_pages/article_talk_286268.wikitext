@@ -1,0 +1,240 @@
+<article id="286268" title=Talk:Self-publishing>
+	<talkpage id="161845" title="Talk:Self-publishing/Archive 1">
+{{talkarchive}}
+One headline says:
+
+'''New Age-Discrimination Rules Proposed'''.
+
+Another says:
+
+'''New-Age Discrimination Rules Proposed'''.
+
+There is no doubt that the traditional use of hyphens is slowly dying, but I continue to resist.  Just consider the difference in meaning between the two headlines, and you can see the utility and efficiency of hyphens.  -- Mike Hardy
+	</talkpage>
+	<talkpage id="286268" title="Talk:Self-publishing">
+{{WikiProject Journalism|class=Start}}
+{{WikiProject Media|class=Start}} 
+{{archivebox|auto=yes}}
+
+==Unsorted text==
+It seems that this page has not undergone any serious revisions since 2003.  Technology, especially the Internet, has changed the opportunities available for authors looking to self-publish.  I broke the section titled &quot;printing and production quality&quot; into multiple sections.  The original section covered printing techniques at the beginning and ended with obstacles to self-publishers such as marketing and advertising.  So, I broke that off into a section entitled &quot;Obstacles&quot; and I pulled some of the printing and production quality section out and integrated it into the proper topic under &quot;Types of Self-Publishing,&quot; a breakdown of the various types of self-publishing, including &quot;True Self-Publishing,&quot; &quot;Print on Demand,&quot; and &quot;Subsidy Publishing&quot; and the previous entry of &quot;Vanity Publishing.&quot;  
+
+I think this is a good start to looking deeper into what self-publishing means to people today, and all explores various types of self-publishing.  I don't think an entry can be complete without an updated look into how the Internet and technology affect the self-pub. industry.
+
+As I said, this is a start and will need updating and input from varied sources to be a complete entry.
+[[User:Jamesmetzger2|Jamesmetzger2]] ([[User talk:Jamesmetzger2|talk]]) 23:11, 23 March 2008 (UTC)
+----
+The section on Printing and Production Quality needs to be reworked.  It begins talking about typesetting and gets into POD and difficulties faced by self-publishers including marketing.  Difficulties faced by self publishers can be a section in itself.  Perhaps a section on POD publishing is in order -- it has become more and more popular.  Some of the services that POD companies offer can be explored.  A section on the history of self-publishing, talking about some of the authors mentioned in the Self-Published Best Sellers section may also be worthwhile.
+[[User:Jamesmetzger2|Jamesmetzger2]] ([[User talk:Jamesmetzger2|talk]]) 06:16, 12 March 2008 (UTC)
+----
+This article is somewhat POV at present, I've self-published my own stuff and whilst I may not be JK Rowlings I've steadily sold to an audience in the [[vegan]] and [[permaculture]] markets (and not even used wiki for publicity ends!). There's more to self-publishing than 'vanity presses' (like not wanting to be beholden to any sort of editorial control) and I resent the insinuation that one can either be 'published' or self-deluded. For me self-publishing represents a 'third way'. I can be creatively free, make a modest income, and spend my evenings in ways that are more stimulating than watching [[EastEnders]] ... Here's my website, make up your own minds; [http://www.landandliberty.co.uk] (oops what was that about not using wiki for self promotion???) [[User:Quercusrobur|quercus robur]] 01:15, 2 Aug 2003 (UTC)
+
+*207.44.148.201 was [[User:Jstanley01]] who forgot to log in. With the advent of [[personal computers]] and the [[internet]], the 'third way' you talk about has become much more viable than in the olden days of typewriters and photocopy machines. Just look at what the 'third way' is doing to the music industry. That said, looking at self-publishing as a whole, I believe your success still represents a statistically-rate exception.
+
+:As far as POV, if it ain't NPOV, correct it. That's what Wikipedia is all about. Recognize, though, that writing about a subject with a perfectly NPOV can appear to have a biased POV to someone with a stake in the subject. [[User:Jstanley01|&lt;font color=red&gt;ô&lt;font color=green&gt;¿&lt;font color=red&gt;ô&lt;font color=black&gt;]] 01:37, Aug 2, 2003 (UTC)
+
+*Good job on the changes. [[User:Jstanley01|&lt;font color=red&gt;ô&lt;font color=green&gt;¿&lt;font color=red&gt;ô&lt;font color=black&gt;]] 02:10, Aug 2, 2003 (UTC)
+----
+This article fails to note the prevalance of self-publishing in the past.  In former centuries, the first edition of many books that are now regarded as &quot;classics&quot; were self-published.  --[[User:Daniel C. Boyer|Daniel C. Boyer]] 16:13, 2 Aug 2003 (UTC)
+
+
+That's really interesting, Daniel. Can you add that statement, with some examples, to the article? -- [[User:The Anome|The Anome]] 16:15, 2 Aug 2003 (UTC)
+
+::Indeedy. there is alot more that can be added- please do so! Weren't the original writings of [[William Blake]], [[William Morris]], etc self published? (I'm not sure enough of this to add it myself). self publishing is a fine &amp; venerable tradition, which is perhaps why I saw red at first when it was originally dismissed as 'vanity publishing'... Also stuff on the [[Diggers (True Levellers)|Digger]] tracts, the writings of [[Abneizer Coppe]], etc, etc?? [[User:Quercusrobur|quercus robur]] 17:44, 2 Aug 2003 (UTC)
+:::I know that Blake's were, but I'm unfamiliar with Morris.  Those who have read Blake's work as only poems on a black-and-white page don't know Blake at all; the unique method of engraving he invented and the integration of pictures and writing in his beautiful and extremely subtle engravings are the real Blake.  --[[User:Daniel C. Boyer|Daniel C. Boyer]] 16:40, 3 Aug 2003 (UTC) 
+
+As far as I can tell, the source for the &quot;Self-published best-sellers&quot; is [http://www.selfpublishingseminars.com/famousauthors.htm ''Famous Authors who have self published their own books''], part of an advertising website for Daphna Moore and her self publishing seminars and private conferences.  However, I cannot find any source that will corroborate.  To the contrary, I find many sources contradicting some of those examples.  Should the whole section be deleted?  Or should I only delete the authors and items that I KNOW are wrong?  [[User:Kindofdavish|Kindofdavish]] ([[User talk:Kindofdavish|talk]]) 13:33, 12 April 2009 (UTC)
+----
+How about self-published/released music? Is there an article on that, or should it go in here?[[User:Vicki Rosenzweig|Vicki Rosenzweig]] 17:50, 2 Aug 2003 (UTC)
+
+:it's certainly pertinent, esp the [[post punk]] independent record labels boom and the [[DIY punk ethic]] (which informs my own attitudes to self publishing BTW). A paragraph could certainly be integrated, or at least links added in the 'see also' area. Not tonight by me though, I'm off for a barbie in the garden with mucho lager and rum drinking in store.... [[User:Quercusrobur|quercus robur]] 17:56, 2 Aug 2003 (UTC)
+
+-------
+
+Until Edison and his dog came along, all music,  except for sheet music, was &quot;self published.&quot; You just sat down at your [[harpsichord]] and played for whoever was over that night for supper. Once tunes became a marketable commodity -- to be recorded, packaged, and distributed -- music began to be dominated by big companies, the way print had long been dominated (not to mention that the proportion of the population which learned to play musical instruments dropped sharply).
+
+As far as print: until [[Gutenberg]] came along, and with him translations of the Bible and other works in the vernacular, most people remained illiterate. The earliest &quot;self-published&quot; works were often [[Protestant]] diatribes, at first against [[Catholicism]], and then against one another (sorta like [[Wikipedia:NPOV dispute|Wikipedia NPOV disputes]]).
+
+With the rise of print, came the rise of literacy, and with the rise of literacy, came a rise in the demand for published works, and with the rise in demand for published works, came the flowering of poetry, fiction, and non-fiction, ongoing to this day. The publishing industry was organized to meet that demand.
+
+As the article notes, with the advent of PCs (that's &quot;personal computers,&quot; Ethyl, NOT the &quot;[[politically correct]]&quot;) for production, and the Internet for promotion and distribution, self-publishing has become much easier. However, it looks to me like the practice is making its biggest inroads, not in print publishing, but in the [[music industry]].  If true, it's probably due to the fact that there are a heck of a lot more good musicians out there than there are good writers.
+
+As far as researching and writing about this...of course, I'm busy with other stuff too...like dissecting the [[fractals]] in my [[belly button]]-[[lint]] -- a [[surrealist]]'s endeavor sure.[[User:Jstanley01|&lt;font color=red&gt;ô&lt;font color=green&gt;¿&lt;font color=red&gt;ô&lt;font color=black&gt;]] 20:08, Aug 3, 2003 (UTC)
+
+:Jstanley said; ''However, it looks to me like the practice is making its biggest inroads, not in print publishing, but in the [[music industry]].  If true, it's probably due to the fact that there are a heck of a lot more good musicians out there than there are good writers.''
+
+:This statement seesm to make the assumption that the aim of every writer is to be validated by being published by a 'real' publisher and to sell [[bucketloads]] of books to the 'mainstream' punters (whoever they are...). maybe yer average local [[allotment]] historian, [[situationist]] prankster, [[anarchist]] [[ranter]], [[permaculture]] plotter, [[gnostic]] [[visionary]], old [[lawnmower]] collector and renovator is quite content to address their specific audience in a way which is direct and unmediated and that has it's niche- it's not to do with quality of writing but what you want to say and to whom. Are you saying that the average published [[Mills and Boon]] novel is of a higher quality than, say, the well researched history of Rottingdean allotments (yes, there is such a book, I own a copy, and found it fascinating rerading), simply by dint of the fact that the Mills &amp; Boon book is published by a recognised publisher? Maybe the aims and objectives of the allotment book are not the same as those as the M &amp; B writer....
+
+
+:Is the music of [[Queen (band)|Queen]] or [[Status Quo (band)|Status Quo]] more artistically valid than that of say, [[Spontaneous Music Ensemble]] simply because they shift more units? [[User:Quercusrobur|quercus robur]] 22:20, 3 Aug 2003 (UTC)
+
+Oh, I was talking about &quot;good&quot; in the sense that there are a sufficient number of people willing to go to the effort and expense of procuring someone's music or books, that her/his efforts can be counted as something other than mere narcissistic doodlings.
+
+I'm not telling you that &quot;Mills and Boon&quot; (whoever they are) are &quot;good.&quot; It's the people who buy, read, and enjoy their novels that are telling you that. If those novels are just &quot;banal entertainment,&quot; okay. But who are you to say that a little banal entertainment now and then is a bad thing?
+
+Don't fool yourself. It's the enjoyment you, and people like you, derive from niche works that gives them their niches.
+
+Be advised, I was talking about &quot;good,&quot; not &quot;artistically valid.&quot; For me, dissecting the fractals in my navel lint is an entirely valid artistic endeavor, even if no one else agrees. Methinks, though, that the joy of making music or literature ought to be the joy of having someone else listen or read, and like it.
+
+That's the whole point, ain't it? Then again, I'm just the old-fashioned type who prefers making love over just &quot;choking my chicken.&quot; [[User:Jstanley01|&lt;font color=red&gt;ô&lt;font color=green&gt;¿&lt;font color=red&gt;ô&lt;font color=black&gt;]] 00:40, Aug 4, 2003 (UTC)
+
+--------
+Jtdrl, where abouts in the world exactly are the terms 'vanity publishing' and 'self publishing' synonomous? Vanity publishing may be one form of self publishing, but I can't accept that the traditions of fanzine production, samizdat, come under the vanity publishing heading. Peter Finch's 'How To publish Yourself' lists a number of options for the self-publisher, of which Vanity publishing is but one, and about which he unequivocacbly states ''To be avoided at all costs'' because basically they will publish any old shit and leave you stuck with 500 unsalable books. He also lists 'private presses', 'independant publishers', small presses and subsidy publishers as options for the self publisher. [[User:Quercusrobur|quercus robur]] 14:25, 4 Aug 2003 (UTC)
+
+[[User:Quercusrobur|quercus robur]] 14:15, 4 Aug 2003 (UTC)
+
+I have a lot of contacts in the book trade (I used to work in it and now it publishes my stuff). They are equated I know in Ireland and in dealing the UK reps who were visiting Ireland they use both terms interchangably. That may be because with the appearance of DP self-publishing is now a more viable option, it moving into the niche that was called vanity publishing. My guess is that s-p is effectively taking over VP, with VP as a term evolving to have a broader new meaning that heretofore. That is just my theory from my experience of publishers and the book trade and their usage of language. VP as a specific niche, where a printer prints text to order, is less in demand now that authors can use DP to ''do'' their own text, reducing costs and so making it possible for them to have very small print runs. It is all, like the entire book trade right now, a rapidly changing area. [[User:Jtdirl|FearÉIREANN]] 14:57, 4 Aug 2003 (UTC)
+
+
+----
+
+== Kat's View ==
+
+This article needs work and some refactoring.
+
+I am uncomfortable with the use of &quot;Vanity Publishing&quot; as a synonym.  
+
+:We should be careful about the use of this phrase as it is more of an attempt to read the motives of the self-publisher than a neutral description of the phenomenon.  The motives probably range all over the map.  --[[User:Daniel C. Boyer|Daniel C. Boyer]] 13:54, 7 Aug 2003 (UTC)
+
+::My point entirely Daniel and expressed most succinctly. I'm very happy with kat's editing and refactoring though which positions Vanity publishing as but one manifestation of the motives/manifestations of self-publishing. [[User:Quercusrobur|quercus robur]] 19:32, 7 Aug 2003 (UTC)
+
+There is a fair amount of self-published material that is not inherently self-aggrandizing.  [[Willys World]] and [[Salmagundie]] are both self-published magazines, yet have moved well beyond the 'zine moniker and are published more as a service than because of vanity.  In books, there are any number of locally significant books on an area's history that are self-published yet not self-aggrandizing.  There are probably better examples.
+
+The article dances around the distinction between self-printed and self-published work.  This should be called out and discussed more clearly.
+
+&quot;Death of the Dream&quot;, for example, is published by a county historical society, iirc, that commissioned the writing and photography that it contains.  Inasmuch as that organization has published little else, this volume might best be considered self-published.  Yet, it was printed in considerable quantity and has printing, binding, and overall production values comparable to any other &quot;coffee table&quot; book.  Self-published; but not self-printed.
+
+:This is a really bizarre definition of &quot;self-published&quot; that reverses the actual definition.  Whether or not something is &quot;self-published&quot; does not depend on the publishing record of the publisher &lt;i&gt;other than that book&lt;/i&gt;, just whether or not that &lt;i&gt;particular book&lt;/i&gt; was &quot;self-published.&quot;  --[[User:Daniel C. Boyer|Daniel C. Boyer]] 13:27, 14 Aug 2003 (UTC)
+
+And finally, the article doesn't address the distinction (or lack of one?) between self-published books and such things as political and religious pamphlets.
+
+[[User:Kat|Kat]] 15:57, 5 Aug 2003 (UTC)
+
+:I'd welcome your inputs Kat, this is a subject I feel strongly about, I've self published stuff but I don't think I'm particularly 'vain', but decided to step back from this for a few days at least to get a better perspective on what needs to be said here. Your inputs may well help to make me feel less embattled over this issue, which is how I'm tending to feel at the moment... [[User:Quercusrobur|quercus robur]] 16:08, 5 Aug 2003 (UTC)
+
+==No-cost self publishing==
+In sharp contrast to the 'vulture press' variety of vanity press outfits that charge 100% of the cost to the author, a new bunch of companies like lulu.com has sprung up that charge the author nothing and the author retains 100% of the rights. All the costs are folded into the sales price of the books, which are printed on demand as they're ordered.
+
+Another thing, which has gone pretty much nowhere, is the point of sale book machine. The idea is to allow a bookstore to have a machine that produces books on demand, with a selection of paper and binding grades. If a buyer wants a cheap paperback to read once, she can get it without having to wait weeks or months for the more expensive hardcover to sell down its print run enough for the publisher to start on the softcover. At the same time, a book collector can get the utmost in acid-free heavy paper with a hardcover, from the same machine.
+
+The cost for the machine would be a large chunk of change, but a bookstore with one would save big by not having to keep hundreds or thousands of books in stock, and the worst thing that can happen too a book store, selling out of a popular book, would never happen.
+
+== External links ==
+
+I have issues with the flag placed in the external links section. I understand the intent (and frustration) behind the flag--I remove way more links than I add--but wikipedia isn't just a link to dmoz. Editors should be able to add external links that provide additional info and that are notable per [[WP:EL]]. Figuring out which ones of those to keep is the challenge; removing spam is much easier. [[User:Flowanda|Flowanda]] | [[User talk:Flowanda|Talk]] 10:19, 20 December 2007 (UTC)
+
+== Library of Congress ==
+
+I have just removed two copies of a section regarding the Library of Congress's supposed &quot;dismissal&quot; of self-published items as &quot;not really books.&quot;  The section fell somewhere between opinionated argument and borderline vandalism. Aside from being poorly sourced (the Library of Congress effort referred to did not address publishing in general, but was only a guide to a limited range of forthcoming titles intended to be used by libraries in considering new acquisitions. Aside from self-published titles, it also excluded  certain textbooks, reissued books, mass market paperbacks (whether original or reprint), travel guides, electronic books, and other categories.   The presentation of the LOC activity in the article was highly opinionated, if not downright inaccurate, and failed to present the limited information it contained in a manner that met WP:NPOV requirements.  The only relevant information one could infer from the sources is that very few self-published books are acquired by libraries; assuming that inference to be accurate, it should be stated concisely and sourced appropriately, rather than harangued in multiple sections. [[User:Minos P. Dautrieve|Minos P. Dautrieve]] ([[User talk:Minos P. Dautrieve|talk]]) 21:34, 27 April 2008 (UTC)
+
+== Order? ==
+
+I noticed that &quot;Vanity publishing&quot; is mentioned several times before it is defined.  Perhaps &quot;Vanity Publishing&quot; should be moved above &quot;true self-publishing&quot; because all of the types below reference it.
+
+[[User:Spandox|Spandox]] ([[User talk:Spandox|talk]]) 17:48, 31 December 2008 (UTC)
+
+
+I made the change based on lack of objection
+[[User:Spandox|Spandox]] ([[User talk:Spandox|talk]]) 21:00, 15 January 2009 (UTC)
+
+== Motives for self-publishing ==
+
+I would love these to be a more neutral tone.  Here some some of my suggestions
+
+Commercial publishers must be confident of sales of several thousand copies to take on a book.  A book may not have this potential for many reasons:
+
+* author wants complete control over the books outcome, database, sales and customers.
+fine
+* overall low publishing cost (Can be as low as $400 for those on a budget)
+fine
+* author lacks important literary skills
+This one is sort of mean
+
+* topic is obscure 
+fine
+
+* author refuses editorial input
+How about: Author doesn't agree with editorial changes or censorship
+
+* author is unknown and does not have substantial resume
+fine
+* author would prefer to publish content independently 
+fine
+* topic is of interest only in a small geographic area or only to a handful of people, such as a family reading about its own genealogy
+fine
+* content is controversial or offensive enough that publishers do not wish to be associated with it
+fine
+
+Why not separate it into two categories?
+* Author cannot get published by traditional publishers
+** Author is unknown
+** Topic is obscure
+** Topic is controversial
+** Topic is only of interest to a small geographic are small group of people
+** Writing, style, or genré was rejected
+
+* Author desires complete artistic freedom
+** Author does not agree with editorial changes a publisher would make
+** Author wants complete control over the books outcome, database, sales and customers
+** Overall low publishing cost
+** Author would prefer to publish content independently
+
+[[User:Spandox|Spandox]] ([[User talk:Spandox|talk]]) 18:05, 31 December 2008 (UTC)
+
+Especially interesting is the category of 'Author is unknown', implying that an author must be known to the public in order to publish his/her first book. Another reason, but not mentioned, is the age at first publication. Publishers want authors to be very young, because the publicity campaign to turn the author into a marketable celebrity is costly; so they want to ensure that these costs yield over several decades, which is kind of impossible if the new author is over 50. So the age factor is huge.
+
+For authors who are not in the public eye for some reason, and who are older than 20 years, self-publishing is the only outlet. While figures are not available officially, some reports say more books are self-published than trad. published. Most self-publishing authors nowadays did not even bother with submissions prior to publishing. 95 % of books from trad. publishers get pulped anyway, which are those 95 % who cannot attract a review in the newspaper. It is important for the public to know that self-publishing is not a judgement on quality; it simply means that people over twenty, who are neither celebrities nor academics do not fit the requirements of the trad publishing industry. There are also more books written than there is space on the shop shelves. 
+
+The industry has changed, books are seen as an extension to the movie industry, the music industry, sports, political argument, academia, the newspapers, and yellow press - or they must be young, so they can be marketed as the new sensation. Any book or author who is not in one of these slots, must stand on his/her own two feet. [[Special:Contributions/144.136.176.116|144.136.176.116]] ([[User talk:144.136.176.116|talk]]) 04:53, 21 January 2011 (UTC)
+
+== Editorial control - economic control ==
+The issue of giving up editorial control has less impact on the writer than signing over economic control. The publishing houses have more experience than the individual author and unless they insert too many clichés or shift the fundamentals this is more of a sideline issue which I don't believe drives many people to self-publishing. What has a lot more influence on a writer's/ a book's success is that the signature on the dotted line means giving up economic control. 
+
+When a book is published by a publisher in one country, normally the country where the author resides, it could well never go further than being sold in that one country. 'Sister' companies of the publisher in other countries are independent entities, despite having the same name, who make their own decisions on what they release in their territory. Giving an Australian example: The print run is normally 2,500 to 3,000 books. Nearly all Australian authors would look to expand their market into the other English speaking countries, but if the catalogues of the overseas sister companies are 'full', then the trad-published Australian author is excluded from approaching other companies and is left with the low figures of the Australian market. Some books have truly international content and could so easily 'get stuck' in a small market in a small country. After several years the rights might fall back to the author, but by then he/she might have undertaken a career change to pay the bills. 
+
+With self-publishing, the author reaches a global audience immediately, although of course the penetration of each market is not as good as it would be as part of a solid publicity campaign from a publishing house. Authors have to weigh up where their priorities lie, but the increasing success of self-publishing in all media plus book shop closures suggest that the balance is shifting. For self-publishers, book shop closures are actually a good thing as they break the market dominance of the publishing industry who has so little room for new writers. [[Special:Contributions/144.136.176.128|144.136.176.128]] ([[User talk:144.136.176.128|talk]]) 05:28, 18 February 2011 (UTC)
+
+== Vanity Press ==
+
+is listed first as a &quot;not to be confused with [self publishing]&quot; and then as a &quot;type of self publishing&quot;.  I don't have an opinion as to which of these it is but am pretty sure that it can't be both.[[User:Originalname37|Originalname37]] ([[User talk:Originalname37|talk]]) 16:33, 17 February 2009 (UTC)
+:*I'm visiting the talk page to make the exact same comment.  My impression is that someone in the &quot;self-publishing&quot; industry is engaging in a bit of PR.  The distinction from a vanity press eludes me. [[User:Agradman|Andrew Gradman]]&amp;nbsp;&lt;small&gt;&lt;sup&gt;[[User talk:Agradman|talk]]&lt;/sup&gt;/&lt;sub&gt;[[WP:Hornbook]]&lt;/sub&gt;&lt;/small&gt; 07:08, 13 August 2009 (UTC)
+::*Although I know nothing of the inner workings of &quot;true&quot; self publishing or &quot;vanity press,&quot; they definitely have different meanings ''to me'' that I think the article comes reasonably close to explaining.  I know several people who have self published business books.  They act like a publisher - they may hire an editor or at least an editorial assistant, they may hire a book designer or graphic artist, they find a printer, they handle the marketing, etc...  They typical vanity press, on the other hand, is essentially a turnkey operation which provides most or all of the services, for a fee, that a commercial publisher provides when it is publishing a book for its own list. I do agree that the notation at the top of the page is itself confusing.  All of the articles listed at the top of the page seem to fall under the broad category of self publishing and are better handled by dropping them to the &quot;See also&quot; section.  I will do that and see if anyone objects. -- [[User:DS1953|DS1953]] &lt;sup&gt;&lt;font color=&quot;green&quot;&gt;[[User_talk:DS1953|talk]]&lt;/font&gt;&lt;/sup&gt; 15:31, 13 August 2009 (UTC)
+  Hello! Sometime back in the 1980s, I submitted a book of poetry written by me alone, to some publishers. I only got two responses. I can't recall the name of the second company now, who still has the manuscript I hope, but the other one, I believe their actual company name is, &quot;Vanity Press&quot;. If that is an actial company name, shouldn't the people here be very careful about using &quot;vanity press&quot; in the manner that you've been doing, lest people confuse those comments with the actual reputation of that company? By the way, I do know that the other company's name starts with an &quot;E&quot; at least. [[User:LeoStarDragon1|LeoStarDragon1]] ([[User talk:LeoStarDragon1|talk]]) 05:38, 7 December 2011 (UTC)
+
+== More on Motives for self-publishing ==
+
+Within this section, reasons authors cannot publish traditionally include &quot;Author is unknown&quot; and &quot;Topic is controversial.&quot; Since unknown (&quot;debut&quot;) authors are published regularly, as are controversial books, it's unclear that either of these things are barriers, by themselves, to publishing traditionally. I've added a &quot;citation needed&quot; to each, but if no citations are available wonder if they ought to be removed entirely. [[Special:Contributions/64.134.226.130|64.134.226.130]] ([[User talk:64.134.226.130|talk]]) 22:12, 21 June 2010 (UTC)
+
+:They're both issues, because they both affect the sales of the books.  Publishers ultimately want things that sell. 
+:* An unknown author does not have a ready-made fan base (people that bought the previous book and might by more inclined to buy a subsequent one).  The marketing requires more work.  (NB that these are relative barriers, not absolute:  The statement here is &quot;given two essentially identical books, the publisher's going to pick the established author over the newbie&quot;, ''not'' &quot;newbies never, ever, ever get published&quot;.)
+:* A controversial topic might not have a market behind it.  For example, a political book called ''New Evidence on 9/11:  Bush Did It'' might be controversial and still have a market; by contrast, a political book called ''Convicted Child Rapists are Good Adoptive Parents'' would certainly be controversial, but it would probably not have a profitable market.  [[User:WhatamIdoing|WhatamIdoing]] ([[User talk:WhatamIdoing|talk]]) 00:12, 22 June 2010 (UTC)
+
+== What? ==
+
+The opening paragraph, especially the opening sentence, is false and I suspect one of the proponents in the self-pub/vanity press business slanted the article. As is clear from the comments above, the article once equated forms of self-publishing with vanity publishing, but now denies the association. Wikipedia articles are not supposed to be sales promotional pieces and I intend to correct this.
+
+--[[User:UnicornTapestry|UnicornTapestry]] ([[User talk:UnicornTapestry|talk]]) 01:39, 10 January 2011 (UTC)
+
+:I agree that there are problems with the lead, if only because there is are inconsistencies with the body of the article and, indeed, the lead itself. I've removed the problem lines, but much of this article is unsourced, so I think we should be looking at how to improve it as a whole as well. - [[User:Bilby|Bilby]] ([[User talk:Bilby|talk]]) 02:07, 10 January 2011 (UTC)
+
+::Good, Bilby! It annoys me when a company says one thing and means the opposite.
+
+::--[[User:UnicornTapestry|UnicornTapestry]] ([[User talk:UnicornTapestry|talk]]) 04:03, 10 January 2011 (UTC)
+
+== Electronic publishing? ==
+
+How about publishing directly to Kindle for example? [[User:Hcobb|Hcobb]] ([[User talk:Hcobb|talk]]) 21:37, 2 February 2011 (UTC)
+
+Would love to, but they discriminate against non-US authors. [[Special:Contributions/144.136.176.82|144.136.176.82]] ([[User talk:144.136.176.82|talk]]) 04:22, 14 February 2011 (UTC)
+
+:Hcobb, &lt;!-- begin Template:Uw-sofixit --&gt;Thank you for your suggestion{{#if:|&amp;#32;regarding [[:{{{1}}}]]}}. When you believe an article needs improvement, please feel free to make those changes.  Wikipedia is a [[wiki]], so anyone can edit almost any article by simply following the '''{{lcfirst:{{int:edit}}}}''' link at the top. The Wikipedia community encourages you to [[Wikipedia:Be bold in updating pages|be bold in updating pages]]. Don't worry too much about making honest mistakes—they're likely to be found and corrected quickly. If you're not sure how editing works, check out [[Wikipedia:how to edit a page|''how to edit a page'']], or use the [[Wikipedia:Sandbox|sandbox]] to try out your editing skills.  [[Wikipedia:Welcome, newcomers|New contributors are always welcome]]. You don't even need to [[Special:Userlogin|log in]] (although there are [[Wikipedia:Why create an account?|many reasons why you might want to]]).&lt;!-- end Template:Uw-sofixit --&gt;  [[User:WhatamIdoing|WhatamIdoing]] ([[User talk:WhatamIdoing|talk]]) 19:16, 15 February 2011 (UTC)
+
+== Kids ==
+
+http://www.nytimes.com/2012/04/01/us/young-writers-find-a-devoted-publisher-thanks-mom-and-dad.html on kids self-publishing books might be interesting to add to thus article.  [[User:WhatamIdoing|WhatamIdoing]] ([[User talk:WhatamIdoing|talk]]) 22:23, 15 April 2012 (UTC)
+
+== Blanking ==
+
+I agree that [http://en.wikipedia.org/w/index.php?title=Self-publishing&amp;diff=548451887&amp;oldid=542258417 all this] needs decent sources, but that's a lot of blanking, and I suspect that at least the basic information about who is responsible for marketing (e.g., that if a self-published book is going to get marketed, then the authors are the ones who have to do it, since there is no publisher) and the general advantages and disadvantages is not only easily [[WP:Verifiable]], but some of it might even be [[WP:BLUE]].  [[User:WhatamIdoing|WhatamIdoing]] ([[User talk:WhatamIdoing|talk]]) 05:46, 10 June 2013 (UTC)
+	</talkpage>
+</article>

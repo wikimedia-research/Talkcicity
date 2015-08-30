@@ -1,0 +1,22 @@
+<article id="280527" title=Talk:Data Protection Directive>
+	<talkpage id="280527" title="Talk:Data Protection Directive">
+{{WikiProject European Union | class = Start | importance = Mid}}
+{{WikiProject Mass surveillance|class=Start|importance=Mid}}
+
+
+==Untitled==
+'''Moved from [[Wikipedia:Village pump]]''' [[User:Hdk|Hdk]] 19:39 28 Jul 2003 (UTC)
+
+Is the title of [[Directive 95/46/EC on the protection of personal data]] ok? 46 is not a subpage of directive 95, but the forward slashes make it look like it is. I realise subpages are not meant to be used, but what should happen with a title that has a / in it? Would [[Data protection]] be a better title? [[User:Angela|Angela]] 14:38 27 Jul 2003 (UTC)
+
+:There's nothing inherently wrong with slashes in article titles. In the User: namspace they behave in a special way (you get a backlink to the parent page, as with [[User:Camembert/Sandbox]], for example), but in articles they're treated just like any other character, so it's fine to use them if warranted. Whether that article title is the best possible is another matter, of course, but it seems OK to me (I don't think [[data protection]] would be good, since the article is about a specific directive, not about data protection in general). --[[User:Camembert|Camembert]]
+
+
+::European directives are officially numbered in this fashion yy/no/EC, that's why I used it in the title. Giving the article a general name like [[data protection]] would be misleading, in my opinion.  There is already an article about [[Data privacy]], which covers the same topic.
+
+::Omitting the number would be a possibility, if it's mentionned immediately in the article.  Law's change, and it's important to know what law is being discussed.  --[[User:Hdk|Hdk]] 16:50 27 Jul 2003 (UTC)
+
+:::Ok, if there's no problem with forward slashes in titles, it may be best to leave it as it is. [[User:Angela|Angela]] 19:26 27 Jul 2003 (UTC)
+----
+	</talkpage>
+</article>

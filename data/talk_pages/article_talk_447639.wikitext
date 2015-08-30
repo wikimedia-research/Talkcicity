@@ -1,0 +1,56 @@
+<article id="447639" title=Talk:Safety valve>
+	<talkpage id="447639" title="Talk:Safety valve">
+{{TrainsWikiProject|class=start|importance=high|Locos=yes|unref=yes}}
+{{WikiProject Engineering|class=start|importance=high|unref=yes}}
+{{WikiProject Occupational Safety and Health |class = start |importance = mid}}
+{{GOCEreviewed}}
+
+==Disambiguation==
+&quot;Safety Valve&quot; also refers to a provision of the United States Sentencing Guidelines, section 5C1.2, limiting the applicability of statutory mandatory minimum sentences in certain cases
+
+==Discussion==
+{{oldpeerreview|archive=1}}
+A ''temperature relief valve'' is not something with which I am familiar.  I ask an Engineer to comment but it seems to me the only way a valve could relieve temperature would be as a consequence of the reduction of pressure.  [[Ideal Gas Law]].  So it is just a ''pressure relief valve'':  The ''temperature and pressure  relief valve'' mentioned in the article maybe doesn't exist?  Thermostat is to temperature as relief valve is to pressure??  Anyway:  please help out here!  [[User:Psb777|Psb777]] 08:30, 30 Jan 2004 (UTC)
+
+*A google search shows the term to be common.  However the context seems to be that &quot;a pressure rise (due to a temperature rise) is vented by the operation of such a valve&quot;. [[User:Elde|Elde]] 05:41, 1 Feb 2004 (UTC)
+
+**I had never heard of ''temperature and pressure relieve valves'' before (even though I've personally seen safety valves at an oil refinery). Here [http://www.tanklesswaterheaters.com/wat10relval.html] I found info about one of those. Characteristic is that these valves are equipped with a temperature sensor. Ordinary ''pressure relief valves'' open when a preset pressure is reached. ''Temperature and pressure relieve valves'' open when a preset pressure is reached. The aim of both types is the same: prevention of overpressure, but the working principle is different. Johan Lont, [[User:194.149.80.4|194.149.80.4]] 10:06, 4 Jun 2004 (UTC)
+*This is a source for more information: [http://www.valve-world.net/srv/types.asp www.valve-world.net]
+
+*There may be some confusion here. I believe the correct term is a '''thermal''' relief valve (TRV), not a 'temperature' relief valve. This type of valve is used to relief the pressure caused by expansion of a liquid due to a temperature increase in an '''isolated''' section. Imagine a piece of pipe, heat exchanger, etc. filled with water (or another liquid) and exposed to a fire or other heat source. The water will expand, causing an increase of pressure. The TRV will open at a set pressure, disposing a small amount of liquid which immediately reduces the pressure. This type of valve is typically sized for a very small capacity compared to normal pressure relief valves. The latter type is sized to dispose potentially large amounts of fluids (liquids and/or gasses) during process upsets on 'live' parts of the plant. --[[User:Reptile209|Reptile209]] ([[User talk:Reptile209|talk]]) 07:20, 16 October 2008 (UTC)
+
+== Safety Valve vs. Pressure Relief Valve ==
+
+A safety valve, as described in steam engineering, will relieve excess pressure and a further pressure reduction of aprox 6% below the pressure that it popped at.
+
+A pressure relief valve will release only the excess pressure and bring the system pressure down to popping pressure until the excess pressure condition is reduced.
+
+It could be said that although the condition causing excess pressure in a system could still be there, a safety valve will close because of the blow down and may again open up causing cycling of the valve.  If the excess pressure condition still exists with a pressure relief valve, it will not cycle like a safety valve but will stay open until the excess pressure condition is changed to reduce the system pressure.
+
+A safety valve must be pressure, temperature and flow rated for the application (or any combination of safety valves on the system).  In other words a safety valve, or valves if more than one is used to control the unsafe pressure condition, must be able to expell all gas or vapour the system is capable of producing. &lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[Special:Contributions/204.19.151.8|204.19.151.8]] ([[User talk:204.19.151.8|talk]]) 19:08, 30 April 2007 (UTC).&lt;/small&gt;&lt;!-- HagermanBot Auto-Unsigned --&gt;
+
+M.ARAVINDH......  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/115.249.38.30|115.249.38.30]] ([[User talk:115.249.38.30|talk]]) 09:59, 17 April 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+==List in External Links==
+Should there really be a list in the 'external links' section?
+[[User:Devnull0|- /dev/null]] 13:52, 5 November 2007 (UTC)
+There are specific calculations required which are referenced in the References and external links section. I can collaborate with the author to improve the page by adding some information on the calculations required for sizing the relief (safety) valve for liquid, vapor and two phase. I specifically have information on 2 phase DIERS estimation  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Seasund|Seasund]] ([[User talk:Seasund|talk]] • [[Special:Contributions/Seasund|contribs]]) 23:27, 15 March 2012 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Incomplete sentences: Don't use! ==
+
+This article has a major problem with 'sentences' which are not syntactically correct English in any suitable dialect thereof. I hesitate to edit the article myself because I'm often not sure how to complete the broken sentences. They fall short of conveying meaning.
+
+I would also like to see more to the article than merely a list of terms and their applications. I would like to know how to recognize the type of valve I might happen to have by looking at how it's constructed, for instance. I would not want to install a vacuum relief valve thinking it was a pressure relief valve. I also understand from elsewhere on the internet that many valves create 'water hammer' or possibly cavitation problems. It would be nice if the article addressed which valve types are likely culprits of such surge problems.
+
+Finally, there are three wikipedia articles conveying essentially the same information, and they should definitely be combined.
+
+[[User:Dlw20070716|Dlw20070716]] ([[User talk:Dlw20070716|talk]]) 00:19, 23 April 2011 (UTC)
+
+== [[Safety valve#types]] ==
+
+The [[Safety valve#types]] section was tagged for copy editing back in October 2011. As a GOCE member, I looked at this section myself, since I have a technical background, and I consulted a mechanical engineer. We are agreed that this section is a mess, and of no use to any engineer or casual reader who might consult it. What this section needs is for a mechanical engineering expert to provide an entirely new section. Consequently I have suspended any copy editing effort and tagged the section as needing Engineering expert advice. --[[User:Dthomsen8|DThomsen8]] ([[User talk:Dthomsen8|talk]]) 01:38, 25 September 2012 (UTC)
+
+: What is a safety valve, and do we need two articles?
+: There is a conflict (see the history of the now-removed [[steam injector]] at [[talk:Injector]]) between the steam engine historians and the chemical engineers - well ''one'' chemical engineer. I'm reluctant to waste time adding a history section here ([[User:Andy_Dingley/My_created_pages/History_of_safety_valves|I wrote one a few years ago]]) only to have it removed again forthwith. [[User:Andy Dingley|Andy Dingley]] ([[User talk:Andy Dingley|talk]]) 09:25, 25 September 2012 (UTC)
+	</talkpage>
+</article>

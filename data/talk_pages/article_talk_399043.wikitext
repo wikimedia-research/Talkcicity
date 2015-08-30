@@ -1,0 +1,14 @@
+<article id="399043" title=Talk:Growth factor>
+	<talkpage id="399043" title="Talk:Growth factor">
+{{WikiProject Cell Signaling|importance=high|class=start}}
+{{Wikiproject MCB|importance=High|class=Start}}
+
+==Untitled==
+I'm not very familiar with growth factors, but the description seems to be bit different from those for what I'm familiar with...such as EGF, NGF, PDGF, TGF alpha and beta.  I'm especially interested in the role of EGF and TGF beta in development.
+:[[User:Hideshi|Hideshi]] 20:48, 12 Dec 2003 (UTC)
+
+I don't know if other people think this is of high importance - I think this page could be made much better.
+[[User:Dr Aaron|Dr Aaron]] 03:17, 14 November 2006 (UTC)
+:I agreee it can be made much, much better. As for high importance, the [[Wikipedia:WikiProject Molecular and Cellular Biology/Worklist#Importance|(somewhat arbitrary) measure that we use]] is that we assign a topic &quot;high&quot; importance if it is generally examined at the lower-division college level (RNA polymerase) or briefly mentioned at the high school level (endoplasmic reticulum). I think that this straddles the line between high and mid, and the class assignment of &quot;start&quot; is dead on. I think its current assignments are fine. &amp;ndash; [[User:ClockworkSoul|Clockwork]][[User_talk:ClockworkSoul|&lt;b&gt;Soul&lt;/b&gt;]] 13:16, 14 November 2006 (UTC)
+	</talkpage>
+</article>

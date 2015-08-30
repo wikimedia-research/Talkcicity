@@ -1,0 +1,18 @@
+<article id="3696228" title=Talk:Certification>
+	<talkpage id="3696228" title="Talk:Certification">
+{{WikiProject Education}}
+
+This used to be an article that talked about [[professional certification]] and [[product certification]], in addition had MANY unrelated incoming links for meanings such as [[RIAA certification]], [[film certification]], [[digital signatures]].  Refactored the lot of it and made a disambig page.  &lt;span class=&quot;user-sig user-Quarl&quot;&gt;&lt;i&gt;&amp;mdash;[[User:Quarl|Quarl]] &lt;sup&gt;([[User Talk:Quarl|talk]])&lt;/sup&gt; &lt;small&gt;[[2006-01-12]]&amp;nbsp;10:27[[ISO 8601|Z]]&lt;/small&gt;&lt;/i&gt;&lt;/span&gt;
+
+== in IT Industry ==
+Added types of certification into: Exam-based and Education-based. 
+This is from: Dr. Magdy Hanna, IIST Chairman &amp; CEO (2006): The Value of Certification for Software Test and Quality Professionals .
+Also added to the existing softwaretest certification other ones.
+--[[User:Erkan Yilmaz|Erkan Yilmaz]] 16:55, 12 October 2006 (UTC)
+
+== 3rd Party Forest Certification ==
+
+I can't possibly imagine that this one instance of &quot;Certification&quot; should get its own section.  It should be addressed in the list of examples down below.
+[[User:TheodoreLarson|TheodoreLarson]] ([[User talk:TheodoreLarson|talk]]) 00:00, 12 April 2011 (UTC)
+	</talkpage>
+</article>

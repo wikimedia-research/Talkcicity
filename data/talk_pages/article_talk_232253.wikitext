@@ -1,0 +1,484 @@
+<article id="232253" title=Talk:Crystal radio>
+	<talkpage id="36252161" title="Talk:Crystal radio/Archive 1">
+{{talkarchivenav}}
+
+==sections==
+Will add a How-to section in the next few days. &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Robertkeller|Robertkeller]] ([[User talk:Robertkeller|talk]] • [[Special:Contributions/Robertkeller|contribs]]) 06:00, 23 May 2003‎&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt;
+
+: Should you combine it with the Construction section? &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:JA.Davidson|JA.Davidson]] ([[User talk:JA.Davidson|talk]] • [[Special:Contributions/JA.Davidson|contribs]]) 20:08, 18 November 2006‎&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt;
+
+== Move to Crystal Radio ==
+
+It appears awkward to call this article '''Crystal Radio ''Receiver''''' instead of the normal term of reference of '''Crystal Radio'''.  I propose we move it to '''Crystal Radio''' and redirect '''Crystal Radio Receiver''' to it just in case anyone ever searches for the &quot;Receiver&quot; version.  
+
+[[User:JA.Davidson|John]] 15:22, 17 November 2006 (UTC)
+
+:I've removed this request from the [[WP:RM]] backlog, as it appears to have been done with no opposition. [[User:Andrewa|Andrewa]] 18:09, 14 December 2006 (UTC)
+
+== Lead Section ==
+The lead section is confusing, especially to laymen, I would like to omit jargon like &quot;LC&quot;.  Many simple crystal radios do not even use variable capacitors for tuning.   Crystal radios use a variety of circuits and to present one circuit as defining could be misleading; the lead section should be more generic and inclusive of all that is crystal radio.  It is also somewhat wrong in presenting &quot;LC&quot; tuning as the simpliest because inductor-only tuning is simplier than the &quot;LC&quot; tuning.  If no one objects I plan to offer an improved, simplier, jargon-free more technically accurate, and more aware lead section wording.  -DONE
+
+[[User:JA.Davidson|John]] 06:14, 12 November 2006 (UTC)
+
+That is a beautifully built artistic radio by VE6AB but in my opinion it is not as representative of crystal radio as an old one.  Also, I am concerned that it is a bit commercial because it is offered for sale too.  I propose to substitute a photo of a simple-minded, strictly functional old one-slider radio with an open cat whisker detector if I can find one.
+
+[[User:JA.Davidson|John]] 15:19, 17 November 2006 (UTC)
+
+Why is this awkwardly called '''Crystal Radio Receiver''' instead of the normal term of reference of '''Crystal Radio'''?  I propose we move it to '''Crystal Radio''' and redirect '''Crystal Radio Receiver''' to it just in case anyone ever searches for the &quot;Receiver&quot; version.  
+
+[[User:JA.Davidson|John]] 15:22, 17 November 2006 (UTC)
+
+== How it works ==
+
+
+Added a simple-minded explanation of how it works.  Although I have posted a similar explanation elsewhere, I am the original author and I have the right to post it here and hereby declare that I release all copywright to it.  
+
+[[User:JA.Davidson|John]] 15:58, 17 November 2006 (UTC)
+
+== Crystal Connections is closed ==
+
+The page referenced by &quot;Crystal Connections&quot; is closed.  We could remove it, or leave it in until web rot gives us a 404 not found.
+
+:Removed--[[User:Light current|Light current]] 09:35, 18 July 2006 (UTC)
+
+== CONSTRUCTION circuit diagram looks wrong ==
+
+The capacitor should be BEFORE the detector so that it forms a resonant (tank) circuit with the coil. The circuit diagram shows the capacitor after the detector: I'm sure this is wrong.
+
+:I think its wrong too! If its not fixed shortly, I will remove this misleading diagram--[[User:Light current|Light current]] 09:50, 18 July 2006 (UTC)
+
+::(original commenter) I've been looking at other crystal set designs on the midnightscience.com site and the classic 'Oat Box Radio' apparently uses this circuit with the phones across the capacitor (see http://www.midnightscience.com/project.html). Maybe I'm missing the point, perhaps the coil tunes through parasitic capacitance or something. But I still think it looks wrong, or at least misleading.
+
+:::The &quot;Oat Box Radio&quot; looked odd to me too, until I figured that: 1) Station tuning is by the resonant circuit formed by the 100pF capacitor and the part of the coil in parallel with it. The only way to retune is by changing a tap on the coil. The manual says that making more taps will make tuning &quot;sharper&quot;. That is not the right word since the resonance Q-factor can not be increased that way. 2) I believe the earpiece is a crystal type not an inductive type. A crystal earpiece resembles a capacitor, hence it does not pass current and discharges via the 47 kilohm resistor connected in parallel. (A personal reminiscence is that the first crystal set I tried to make was similar to this design. It made no sound at all. Later I found my error had been to wind my coil around a tin can.) [[User:Cuddlyable3|Cuddlyable3]] ([[User talk:Cuddlyable3|talk]]) 08:48, 17 December 2008 (UTC) 
+
+-----------
+The design shown is correct! It is the classic &quot;Fox hole&quot; radio. The coil tunes using a slider connection and resonates against the capacitance of the antenna. This design was used because Variable Caps were not available to the builders (eg soldiers in trenches).
+
+To put it another way, the capacitance of a long wire antena is quite large. This capacitance will swamp a normal tuned circuit and will prevent the tuning cap covering the band. At the very least the antenna needs to be tapped well down the coil or coupled in via a small value cap in series. The solution to all this was to delete the tuning cap, and instead adjust the number of turns in the coil (as shown correctly in the diagram).
+
+BTW, the small cap shown is to bypass the RF after the detector. It is not really necessary. 
+
+The capacitor symbol is wrong (should have only two bars), but again, it attempts to show a &quot;homemade&quot; cap (perhaps made from layers of tinfoil from a bubblegum wrapper).
+
+The mention of &quot;ultra-thin litz wire inductors&quot; is clumsy. It should be something like &quot;many thin strands&quot;. Also Litz is NOT a new idea. It is very old.
+
+The reference to the Pixie-2 is wrong. It's receiver is NOT a crystal set, it is a &quot;Direct Conversion&quot;  set using an &quot;Active Mixer&quot;. 
+
+The reference also seems to confuse Crystal Oscillators with Crystal detectors. These are two very different things. 
+
+
+----
+
+== CONSTRUCTION Section Needs Work==
+
+
+This section seems to lack focus.  Is the title of this section appropriate?  It does not seem to address how to construct a 'crystal radio'.  Is it intended to address the components that make it up?  How they are connected?  How it works or what?  I think it would be helpful to figure out what this section is doing, do it and name it appropriately.  
+
+[[User:JA.Davidson|John]] 15:33, 17 November 2006 (UTC)
+
+Not sure what the Construction section is doing but it has a number of problems:  
+It introduces the concept of the simplest radio yet fails to use the simplest circuit, (which should be a coil without the tuning capacitor across it.)  
+If someone actually builds this for the Broadcast Band, it will not tune the whole band because of the fixed antenna capacitance across the variable capacitor.  
+Some mineral detectors are not crystals, like Lead Peroxide.  
+Cadmium sulphide is not a reasonably good detector.  
+The detector does not need to be (and not even typically) mounted in a brass cup (it is typically potted in Woods metal.)  
+The cost of the antenna wire is off topic.  
+The “…provides audio output in proportion to signal strength of signal …” is misleading in 2 ways.    
+The “passive” and “no amplification” is redundant.  
+The statement about “no way to control volume” is not necessarily factual.  
+The paragraph about detection efficiency is rambling.  
+
+Anyone think we should keep this section?  
+
+[[User:JA.Davidson|John]] 05:08, 19 April 2007 (UTC)
+
+-------------
+
+== Diagram  ==
+Never mind that the circuit was correct, especially for a very early set.
+It was also the circuit of the famous Boy Scouts &quot;slider coil&quot; radio.
+
+Have a look at the photo at the top right of the page. Can you see a tuning capacitor?
+For &quot;clarity&quot; you should remove that photo as well.
+
+And by the way, it isn't a photo of a &quot;modern set&quot;, its a re-creation of a very old set, from before the days when tuning capacitors were readily available.
+
+----
+
+
+[[image:Crystal radio receiver.PNG]]
+
+
+This diagram?
+
+
+What is confusing about it?
+
+[[User:69.76.192.205|69.76.192.205]] 20:06, 24 December 2006 (UTC)
+
+Answer to 69.76.192.205 question: what is confusing about the above diagram:  Except for antenna and ground, all of the schematic symbols are non-standard, they are made up in such a way that they are not symbolic enough of the parts to wikify.  These are not even antique versions of the symbols.  Why not use standard symbols so all can understand?  
+[[User:JA.Davidson|John]] 05:23, 19 April 2007 (UTC)
+
+
+really they are all easy to understand. Capacitor ... antenna ... crystal rectifier ... headphones ... and the ground ... [[User:Reddi|J. D. Redding]] 02:57, 11 May 2007 (UTC)
+
+Oh yea .. forgot to say ... thereis a rheostat coil there too ... [[User:Reddi|J. D. Redding]]
+
+Reply to [[User:Reddi|J. D. Redding]].  Why use non-standard symbols?  We don't need to make up symbols; it demonstrates lack of knowledge and cannot be researched (except for the antenna symbol.)  We should not be introducing readers to incorrect symbols.  This should be changed to a wiring pictorial or a valid schematic.  Besides being out of place and unreferenced, there are technical problems with this diagram.   The antenna and detector should be connected to the same point on the coil, or in a more complex circuit the detector connection separately adjustable.  The capacitor is for VLF use only, and invites confusion with use as a tuning capacitor.  Does it have enough value to retain?  Can we fix and reference it or delete it?  [[User:JA.Davidson|John]] 20:38, 15 May 2007 (UTC)
+
+Technical problems with this diagram? What? This is one of the ''many different types of crystal radio circuits'' (not recognizing this is something that demonstrates a lack of knowledge about crystal radios). The circuit works too ... because this is the one I built and received sound on. No need to &quot;fix&quot; something that is not broken ... 
+
+This is symbols that are used in various crystal radio diagrams. Have you looked at alot of crystal radio diagrams from the 1920s up to now? These symbols have been used ... and can be used. Does not have to be a certain &quot;wiring pictorial&quot; or a certain type of schematic. Do you wanna change the G. W. Pickard picture because he isn't using &quot;valid schematic&quot;. [[User:Reddi|J. D. Redding]] 21:59, 17 May 2007 (UTC)
+
+:Historic schematics made before standards do not necessarily use standard symbols for obvious reasons.  People who draw schematics today are expected to do so.  I don't think you can reference a historic schematic that uses that capacitor symbol?  Or coil?  Could you please explain the problem with correcting it?  I can do it.  [[User:JA.Davidson|John]] 05:19, 29 May 2007 (UTC)
+
+==Espionage==
+It has been suggested that crystal radios may still be in use by [[espionage|spies]].  This may be because crystal sets have no local [[electronic oscillator|oscillator]] so a counter-espionage organisation cannot determine that any receiver is being used by picking up the local [[oscillator]] frequency.  This is a bit silly since various categories of receivers have no oscillators (e.g. TRF, Regen) and their much higher performance would be greatly prefered over a crystal set.
+by --[[User:Light current|Light current]] 00:34, 8 September 2006 (UTC)
+:a TRF doesn't have a local oscilator but it does have quite a bit of RF amplification which may be able to be spotted, i'm not too familiar with regen so i can't say if that would be simliar.  [[User:Plugwash|Plugwash]] 20:02, 20 November 2006 (UTC)
+::It would be a strange TRF receiver that re-radiated enough signal to be distinguished from the background by another receiver at a distance, yet not oscillate due to feedback to itself. [[User:Cuddlyable3|Cuddlyable3]] ([[User talk:Cuddlyable3|talk]]) 08:59, 17 December 2008 (UTC)
+:::Apparently it is possible to ''remotely'' detect the presence of semiconductor p/n junctions, such as the diode in a crystal radio. Apparently you transmit an RF signal, and the semiconductors 'receive' it and give off a characteristic signal (harmonics?). This was reportedly used in the days when electronic devices were far less common. IF it works it may now be impractical as there are so many electronic devices around. Too many 'false' positives. --[[Special:Contributions/220.101.28.25|220.101.28.25]] ([[User talk:220.101.28.25|talk]]) 20:31, 26 October 2009 (UTC)
+:: Found it! See this article, '''[[Nonlinear junction detector]]''' short but interesting!  '''--[[Special:Contributions/220.101.28.25|220.101.28.25]] ([[User talk:220.101.28.25|talk]]) 00:33, 6 December 2009 (UTC)'''
+
+== Transistors in diode detection ==
+
+The following section has been twice removed from the article, however the reasons of removing seem not convincible for the contributor:
+The diode detector is not effective, as for weak signals (that must be rectified) the forward and reverse conductivity of the diode differs much less than it would differ for the stronger current. For the signal lever is between 20 - 100 mV, the transmission coefficient of the diode detector varies from 0.12 till as low as 0.01 &lt;ref&gt;Raschepliajev J, Solovjev B. (1964). Effective transistor detectors. ''Radio'', '''7''', p. 39&lt;/ref&gt;. The alternative methods of detection using transistors are also known. In the simpliest case, the base and emitter of the pnp bipolar transistor are connected together, and to the radio signal source. The detected radio signal is taken from collector. The transistor, connected this way can be up till 6 times more effective than diode.
+
+Radio was the leading amateur journal in the Soviet Union and should count as a reliable source. Also, from the characteristic of the semiconductor [[diode]] in Wikipedia it is also self evident that forward and reverse conductivity does not differ much for the weak signals.  [[User:Audriusa|Audriusa]] 15:36, 27 January 2007 (UTC)
+
+It is true that a diode is an inefficient detector for weak signals (it operates in the Square Law mode). However the connection as described simply does not work. Shorting the base and emitter of a transistor produces a normal diode at the collector junction. [[User:Gutta Percha|Gutta Percha]]
+
+I removed the above referenced part one of those times mostly because it was hard to understand because of grammatical and technical problems, which were subsequently improved.  It is still a little flaky, however, wouldn't you agree a B-E junction of some transistors have a very sharp (non-square law) avalanche in reverse bias (ie. needs a battery!) mode, which can sometimes be more efficient than unbiased detection.  [[User:JA.Davidson|John]] 06:47, 27 February 2007 (UTC)
+
+No. You describe an Avalanche diode, which is an active device. The radio is then no longer a Crystal set. [[User:Gutta Percha|Gutta Percha]] 10:04, 13 June 2007 (UTC)
+
+== Proposed Elevation of Cristadyne Sect to new article ==
+The Crystadyne section is facinating, but not squarely on topic for this article.  It is an early discovery of solid state amplification instead of passive crystal radio.  I plan to remove it and create a new stand alone article with it if there are no objections.  [[User:JA.Davidson|John]] 22:02, 10 May 2007 (UTC)
+
+Good Idea. In the early days there were many references to amplification using crystal detectors with multiple &quot;catswhiskers&quot; and bias. It is clear that Schottky was familiar with this work when he first set out to develop the Transistor. [[User:Gutta Percha|Gutta Percha]] 10:12, 13 June 2007 (UTC)
+
+:This crystal radio article is attracting a lot of amplifier schemes that use power from the signal.  There are many more out there that have not been cited yet.  Some of these cannot work because they violate laws of physics.  Others are misunderstandings of how the circuit really works.  So far, none have worked better for receiving weak signals than plain half wave rectification with attention to impedance matching.  I think they should all be moved out of crystal radio.  Maybe they belong as historic background under amplifiers.  Or maybe there is a better idea?  [[User:JA.Davidson|John]] 15:42, 13 June 2007 (UTC)
+
+== Frequency coverage ==
+Can somebody familiar with classic sets and recent experimentation comment on the range of frequencies/wavelengths which this type of receiver is effective with? I note elsewhere reference to around 300m and there's an old story (possibly apocryphal) of picking up 2LO [350m] with a coil of wire wrapped around your hand and a bit of coal :-)
+
+Noting that Russia has just booted out the BBC there could be a revival of interest in simple receivers as an alternative to Internet-distributed news which is too easy to monitor or block. [[User:MarkMLl|MarkMLl]] 10:39, 18 August 2007 (UTC)
+
+:We here build regenerative radios ;)) There are two circuits for FET and BJT respectively, we call it &quot;three-pointie&quot; (&quot;трёхточка&quot;, &quot;trehtochka&quot; in Russian) - almost nothing is needed beyond a throttling pot, transistor, LC and 1,5V cell.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/85.140.16.75|85.140.16.75]] ([[User talk:85.140.16.75|talk]]) 19:53, 9 September 2007 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+::Frequency coverage on the low end is not limited, lower than 20KHz is practical.  On the high end it may sometimes be limited by detector self-capacitance or wiring style, 100 MHz (FM slope detection) is not uncommon.  Note however, this is not a general discussion page.  [[User:JA.Davidson|John]] 01:19, 10 September 2007 (UTC)
+
+:::Thanks, John, very interesting. I wonder whether it would be worth adding some comment to the main article to make clear it's applicable to more than antique LW AM? Hopefully somebody will write up the трёхточка somewhere, it sounds fascinating [[User:MarkMLl|MarkMLl]] 21:21, 10 September 2007 (UTC)
+
+::::Valid point, Mark.  Maybe I will do that, thanks.  [[User:JA.Davidson|John]] 01:21, 11 September 2007 (UTC)
+
+== future of crystal radio? ==
+
+One item I'd like to see addressed is the future (or end?) or crystal radio.  As you may or may not know, in the USA, TV broadcasts are being FORCED! to broadcast digitally.  Soon they will shut down the analog broadcast transmitters.  2009 is current target date.  
+
+Well, radio in the US and I am sure various parts of the world is showing a voluntary trend in the same direction.  I hear FM stations, and yes, AM stations bragging they they now, or will be broadcasting digitally.  FM claims CD quality sound, AM claims current FM quality sound from an AM digital format.  New digital receivers are slowly making their way onto the market.  
+
+I don't think anyone is going to come up with a crystal digital receiver as the radio industry evolves.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Bth8446|Bth8446]] ([[User talk:Bth8446|talk]] • [[Special:Contributions/Bth8446|contribs]]) 16:02, 9 October 2007 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:AM radio is still the main broadcast medium in much of the third world and likely to remain so as long as they require only the cheapest kind of receiver (Matthew 26:11, Mark 14:7, and John 12:8). Crystal radios can as now be kept alive by enthusiasts for a long time yet. I don't expect the USA to outpace the rest of world in going to digital broadcasting to such an extent that millions of AM receivers owned by Americans become useless. See [[WP:BALL]]. [[User:Cuddlyable3|Cuddlyable3]] ([[User talk:Cuddlyable3|talk]]) 09:18, 17 December 2008 (UTC)
+
+== Problems with 3 slider &quot;Improved Circuit&quot; article==
+
+Loading the antenna to the tuned circuit will make the RF resistance of the tuned circuit become the load, leaving too little power for the detector.  
+
+The antenna is not up to 72 ohms in resistance but far beyond.  
+
+Antenna reactance is not due to antenna capacity.
+
+Earphone impedance should properly load detector, not highest possible.[[User:JA.Davidson|John]] ([[User talk:JA.Davidson|talk]]) 23:51, 18 November 2007 (UTC)
+
+
+== Drifting Away From Crystal Radio ==
+
+This article has drifted far from crystal radio.  The 20' &amp; 30's section contains almost nothing about crystal radio.  Other sections contain amplifier discussions and other unrelated information.  These are interesting but are misplaced here.  This material should be removed or moved to other articles.  [[User:JA.Davidson|John]] ([[User talk:JA.Davidson|talk]]) 02:31, 9 January 2008 (UTC)
+
+== This is an encyclopedia, not a how it works booklet for pre-grades ==
+
+&quot;Then it uses a crystal detector to convert this radio wave electricity back to sound electricity.&quot;  C'mon!  [[Special:Contributions/131.203.76.50|131.203.76.50]] ([[User talk:131.203.76.50|talk]]) 08:01, 16 April 2008 (UTC)
+
+C'mon yourself.  I strongly disagree, this is an encyclopedia for everybody.  As a teacher of young readers, I commend efforts to include easily understandable material.  We need more considerate articles.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/64.203.52.78|64.203.52.78]] ([[User talk:64.203.52.78|talk]]) 01:55, 24 May 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+: I recently removed this section, but it was re-instated with the comment &quot;''Don't think there is a consensus on removing it''&quot;.  Well, let's discuss.  IMO, this section was badly written, and as I said in my edit summary, simplistic to the point of gibberish.  &quot;''This electricity is connected to the crystal radio by the antenna and ground wire.''&quot;?  &quot;''convert this radio wave electricity back to sound electricity''&quot;?  &quot;''It uses earphones to convert the sound electricity to sound you can hear in the earphones''&quot;?  This is unencyclopaedic meandering, and there's no reason for its retention.  Wikipedia isn't specifically written for &quot;younger readers&quot;, and whilst of course I'm not suggesting we alienate such readers, we shouldn't be gearing the article prose at the reading comprehension of a six year old.  [[User:Oli Filth|Oli Filth]]&lt;sup&gt;([[User talk:Oli Filth|talk]])&lt;/sup&gt; 21:39, 26 May 2008 (UTC)
+
+::I agree it does not use big words or customary technical jargon for EE, but it is grammatically correct and I do not see a technical flaw in it; actually it is precisely correct, technically.  Guess I don't know what 'unencyclopaedic' means.  It seems to me to stay on topic, I must have overlooked the meandering part.  I see no problem with keeping this as at least one section that is understandable by laymen, or even 'young readers.' However, if you have a better suggestion... [[User:JA.Davidson|John]] ([[User talk:JA.Davidson|talk]]) 23:34, 6 September 2008 (UTC)
+
+:::I agree with [[User:Oli Filth|Oli Filth]] that the quoted text is ridiculously dumbed down. The sentence ''The crystal radio uses a tuner to tune the electricity to receive just one station.'' is laughable. It does no service to any reader of any age to describe different &quot;kinds&quot; of electricity. JA.Davidson, that is far from ''precisely correct, technically.''
+::: The heading &quot;How it works (simple version)&quot; is silly when it is the only version on the page. [[User:Cuddlyable3|Cuddlyable3]] ([[User talk:Cuddlyable3|talk]]) 20:38, 15 December 2008 (UTC)
+
+::::I also agree that this section needs work and is a little confusing to read due to the attempted oversimplification. Perhaps it should be rewritten to refer to ''energy'' rather than ''electricity'', ie &quot;radio stations convert sound wave energy into radio wave energy and broadcast it...antenna recieves radio energy &amp; converts to electrical current...coil/cap tunes specific frequency of ac current...crystal detector converts radio frequency ac current to sound frequency current...earphones convert electrical current to sound wave energy&quot; - thoughts? [[User:StealthFox|'''&lt;font color=&quot;#000&quot;&gt;S&lt;font color=&quot;#444&quot;&gt;t&lt;font color=&quot;#888&quot;&gt;e&lt;font color=&quot;#bbb&quot;&gt;a&lt;font color=&quot;#ddd&quot;&gt;lt&lt;/font&gt;h&lt;/font&gt;F&lt;/font&gt;o&lt;/font&gt;x&lt;/font&gt;''']] 12:47, 16 December 2008 (UTC)
+
+:::::The radio wave has the same energy whether silence or sound is transmitted. [[User:Cuddlyable3|Cuddlyable3]] ([[User talk:Cuddlyable3|talk]]) 14:24, 16 December 2008 (UTC)
+
+::::::I was under the impression that it was the amplitude of the carrier wave that was modulated, which would change the energy of the wave surely? Or have I got the wrong end of the stick? regardless, perhaps &quot;recovers sound frequency current from the recieved radio frequency current&quot; or similar would be a better wording [[User:StealthFox|'''&lt;font color=&quot;#000&quot;&gt;S&lt;font color=&quot;#444&quot;&gt;t&lt;font color=&quot;#888&quot;&gt;e&lt;font color=&quot;#bbb&quot;&gt;a&lt;font color=&quot;#ddd&quot;&gt;lt&lt;/font&gt;h&lt;/font&gt;F&lt;/font&gt;o&lt;/font&gt;x&lt;/font&gt;''']] 14:43, 16 December 2008 (UTC)
+
+:::::::We understand that [[Amplitude modulation|AM]] does not add to or subtract from the ''averaged'' energy (power) of the carrier wave, while you are right that the ''instantaneous'' energy (power) changes both up and down when there is a sound. The text should not say that the radio wave energy is a converted form of the sound wave energy, for the reason I stated.
+:::::::RECEIVED is the proper spelling. [[User:Cuddlyable3|Cuddlyable3]] ([[User talk:Cuddlyable3|talk]]) 19:59, 16 December 2008 (UTC)
+
+== Non-electric amplification ==
+
+This is unsourced, and while interesting (if true), at present it's tangential to the topic. Perhaps it could be folded into [[Loudspeaker]]. [[Special:Contributions/69.22.250.169|69.22.250.169]] ([[User talk:69.22.250.169|talk]]) 22:00, 29 January 2009 (UTC)
+
+:Moving the content to [[Loudspeaker]] would not solve the lack of souces and it would be misleading to imply that these are viable loudspeaker designs today. Eventually the information could be moved to [[Sound recording and reproduction#History]]. [[User:Cuddlyable3|Cuddlyable3]] ([[User talk:Cuddlyable3|talk]]) 13:06, 12 June 2009 (UTC)
+
+== Power source ==
+
+I'll bet that non of the people writing this article can explain why the radio can drive a headphone with only radiowaves...
+There simply is not enough power obtainable and the density is not enough, but researching this fact would be regarded pseudoscience.
+Ignorance makes the world a sad place, hopefully things will one day change... --[[User:Nabo0o|Nabo0o]] ([[User talk:Nabo0o|talk]]) 22:15, 11 June 2009 (UTC)
+
+:The power density really is enough, not only to drive a headphone but in the case of Hertz' experiments to produce a visible spark in a receiver spark gap. The &quot;How it works&quot; section is poorly written with unclear phrasing such as &quot;recovers the original sound frequency current from the radio frequency carrier&quot;. [[User:Cuddlyable3|Cuddlyable3]] ([[User talk:Cuddlyable3|talk]]) 13:06, 12 June 2009 (UTC)
+
+: I agree.  There isn't much power from the aerial but there is enough the power the radio.  Crystal radios operate perfectly satisfactorily at microwatt power levels.  Take a look at the typical modern crystal earpiece and how it differs to other modern headphones - the whole design is optimised to send tiny amounts of sound into the ear in a way that makes even very quiet sounds audible, but even then the signal is not particularly loud.  Basically, the whole design is optimised to work at miniscule power levels.  In any case, I notice that you are quick to dismiss the gerneally accepted view of how a crystal set is powered but do not offer any alternative interpretation. [[User:CrispMuncher|CrispMuncher]] ([[User talk:CrispMuncher|talk]]) 14:35, 12 June 2009 (UTC)
+
+::I am sorry for for that, but I had my reasons, as the aforementioned &quot;pseudoscience-stamp&quot; would immediately have been evoked. The energy density of radio-waves in an area normally distanced from emitters is not a whole lot, and I was thinking specifically of the crystal radios which was strong enough to power a small speaker audible through several rooms, as they actually exists though are less known to the general public. One such circuit has been named &quot;the crystal mystery set&quot; and the circuit is discussed at these links:
+::[http://members.fortunecity.com/freeenergy2000/uniquecrystalradio.htm]
+::[http://www.clarion.org.au/crystalset/mystery.html]
+::
+::The explanation to why I think that it can power a larger load than what the radio waves themselves could possibly manage is not perpetual motion or over unity, as these explanations are mostly used by the very &quot;debunker's&quot; that wants to prove the phenomenon wrong. The answer lies in several established facts, combined with observations which many private experimenters have observed related to resonance as a way to amplify power. If you study particle physics you will learn how all observable energy is ultimately a result of the constantly appearing and disappearing particle flux, which because of its strange behavior have been called the 'virtual particle flux'. Energy is constantly being created and destroyed (at least as far as todays scientists can reach in terms of observation), and so explaining an extra influx of energy would be no more of a problem than saying that the symmetry for a given reaction was not completely perfect, and so more energy was gained by the constantly energetic particle flux than what was used to excite it. This is also where the term COP (coefficient of performance) is better to use than efficiency, since it describes the reaction better than an efficiency calculation. --[[User:Nabo0o|Nabo0o]] ([[User talk:Nabo0o|talk]]) 14:12, 13 June 2009 (UTC)
+
+:::The two links above describe crystal sets such as &quot;The Mystery Crystal Set&quot; that feature multi-section coils where the coil connected to the tuning capacitor has no direct earth connection. This is not very mysterious because the coil sections are coupled together inductively, since they are wound on the same former, creating a transformer. Stray capacitance provides a route for the antenna signal to earth. Partly isolating the resonant circuit this way helps achieve a high [[Q factor]] which explains the &quot;mystery&quot; of these radios' good performances. The established understanding of the resonance here is that it does not &quot;amplify&quot; power, instead it provides an optimum power transfer from the antenna to the detector at the resonant frequency. Postulating that there is an unproven &quot;extra influx of energy&quot; that needs to be explained by ideas from particle physics is WP:OR. I do not regard any ''research'' as pseudoscience but invoking special explanations for common phenomena and disparaging anyone who is unconvinced as &quot;ignorant&quot; and/or a &quot;debunker that wants to prove [a] phenomenon wrong&quot; is characteristic language of [[pseudoscience]]. [[User:Cuddlyable3|Cuddlyable3]] ([[User talk:Cuddlyable3|talk]]) 20:43, 13 June 2009 (UTC)
+
+:::I agree - there is nothing mystical about this circuit.  Here the coil is doing double-duty as tuning component and audio transformer.  On the aerial side that increases the impedance of the load.  Since the aerial has has incredibly high output impedance this increases the voltage generated in the circuit.  On the earpiece side there is a current boost at the expense of voltage.  Ultimately this modified design simply provides a better match up between the characteristics of the aerial and the earpiece - you don't get something for nothing.
+
+:::As regards the whole vacuum energy stuff, this is nonsense.  You can't tap vacuum energy as a power source - doing so fundamentally breaks the conservation of energy.  I'd suggest reading up on the reasoning behind Hawking radiation.  Even under extreme conditions (in this case near a black hole) everything has to balance.  This is so well understood that it changed our understanding of black holes. [[User:CrispMuncher|CrispMuncher]] ([[User talk:CrispMuncher|talk]]) 18:55, 14 June 2009 (UTC)
+
+::::The multisection coil works as a radio frequency not audio frequency transformer. A long outdoor aerial has a significant capacitance to earth and hence presents a low ''impedance'' though practically infinite resistance. For this reason it is advantageous to couple the aerial loosely to the resonant circuit. That gives a stepped up voltage and does not restrict the upper tuning frequency. [[User:Cuddlyable3|Cuddlyable3]] ([[User talk:Cuddlyable3|talk]]) 13:27, 15 June 2009 (UTC)
+
+:::::Resistance is one of the factors that makes up impedance, so it is an oxymoron to state that it has high resistance but low impedance.  As for the transformer, yes, it is passing an audio modulated RF carrier.  Crystal radios never strip out the carrier, it goes straight to the earpeice. [[User:CrispMuncher|CrispMuncher]] ([[User talk:CrispMuncher|talk]]) 21:59, 15 June 2009 (UTC)
+
+::::::A capacitance C has the [[impedance]]
+::::::&lt;math&gt;\tilde{Z}_{\text{capacitor}} = -j\frac{1}{\omega C}  .&lt;/math&gt;
+::::::Thus [[impedance]] is a complex (vector) quantity and one may equate it with [[resistance]] ''only'' in a [[direct current|DC]] circuit. This is basic AC circuit theory and the suggestion that I have expressed an oxymoron is wrong. Most crystal radios have a reservoir capacitor following the detector. It's purpose is to strip carrier frequency and pass audio. Thus it is wrong to claim that crystal radios always send carrier to the earpiece, although that mode is possible with reduced efficiency. [[User:Cuddlyable3|Cuddlyable3]] ([[User talk:Cuddlyable3|talk]]) 10:33, 16 June 2009 (UTC)
+
+:::::::No, that is the ''reactance'' of the capacitor.  Impedance is the sum total of the DC resistance and any inductive and capacitive reactances.  As [[electrical impedance]] states &quot;It is important to realize that resistance and reactance are not individually significant; together they determine the magnitude and phase of the impedance...&quot; [[User:CrispMuncher|CrispMuncher]] ([[User talk:CrispMuncher|talk]]) 17:59, 16 June 2009 (UTC)
+
+::::::::If you have found [[Electrical impedance]] then please read the section called ''Deriving the device specific impedances''. There you will find the equation I quoted. Capacitive reactance is given by
+::::::::&lt;math&gt;\Chi_C = -\frac {1} {\omega C} &lt;/math&gt;'
+::::::::If there were resistance in parallel with the aerial then [[Electrical impedance]] also shows how to calculate its overall impedance. However in the case of the simple aerial we can say it has no (0 ohm) resistance in series ''or'' infinite resistance in parallel; these statements are equivalent and mean that resistance plays no rôle in the aerial's impedance. BTW this is for an aerial that is small relative to the received wavelength. [[User:Cuddlyable3|Cuddlyable3]] ([[User talk:Cuddlyable3|talk]]) 06:52, 17 June 2009 (UTC)
+::::::::&lt;small&gt;If you wish to discuss these points further I suggest placing these posts under a different heading than &quot;Powrr source&quot;. [[User:Cuddlyable3|Cuddlyable3]] ([[User talk:Cuddlyable3|talk]]) 06:52, 17 June 2009 (UTC) &lt;/small&gt;
+:::::::::Sorry to respond to such an old comment but I couldn't let that drop: CrispMuncher has this correct on both counts.  Impedance IS generally defined in the broader sense used by CrispMuncher. The two equations for reactance are equivalent and not understanding why suggests that it is you that needs to do a little more reading up on this.  Better to do that than suggesting ignorance on the part of someone who clearly has a deeper understanding of he material. [[Special:Contributions/87.112.122.73|87.112.122.73]] ([[User talk:87.112.122.73|talk]]) 20:26, 20 August 2011 (UTC).
+
+:::::Interesting discussion; I might add a couple of comments.  The power is enough to drive phones; it takes only a few nanowatts to produce audible sound in efficient phones.  In theory and in practice, this is easily produced in an antenna by MW and HF radio waves from stations thousands of miles away, no need for quantum mechanics here.  It does not need to power a larger load than the radio waves can manage.  (I have personally made the calculations and I have made the measurements to prove it.  It is a problem above VHF, but then, xtal sets do not work well there.)  Inverted L antennas with length around an eighth to quarter wavelength do not have incredibly high impedances, they are quite easy to match, thats why it works so well.  
+
+:::::A good discussion is involved for this page, but briefly:  In weak signal mode, the phones are not actually the load on the tank, the diode is.  Furthermore, the diode impedance is the source impedance for the phones, not the tank.  We match the tank to the diode, and the phones to the diode.  The antenna coupling circuitry, including the RF transformer actually matches the real part of the antenna radiation resistance, ground resistance and loss resistance to the diode.  [[User:JA.Davidson|John]] ([[User talk:JA.Davidson|talk]]) 04:28, 20 June 2009 (UTC)
+	</talkpage>
+	<talkpage id="232253" title="Talk:Crystal radio">
+{{Talk header}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Radio}}
+{{WikiProject Electronics|class=B|importance=high}}
+}}
+{{DYK talk|2 April|2004|entry=...that a '''[[crystal set]]''' is the simplest kind of [[radio]] [[receiver]]?}}
+
+==Naive?==
+
+I object to the use of the perjorative &quot;Naive&quot; in regards to the simple circuit presented.  It implies a preference or judgement that has no place in an encyclopedic article.
+
+For example, getting 8-year-olds to build a working radio in less than an hour requires some simplification, and the the circuit presented does that.  Perfect for the application.
+
+[[User:Thbusch|Thbusch]] ([[User talk:Thbusch|talk]]) 16:53, 27 August 2009 (UTC)
+
+:I agree, it does imply judgment, but there is nothing wrong with sound engineering judgment, it is something we need more of.  
+: ... and perfect?  Actually, that circuit does come pretty close to naive by adding a part (variable capacitor) that does more harm than good, it reduces the tuning range over the simpler slide tuner circuit.  Many people add the variable capacitor because they are unaware that most inverted L antennas already have the needed capacitance.  I am very sympathetic to your motive of making this article assessable to young people, but eight-year-olds are not going to understand how a variable capacitor works anyway, a simpler, slider tuner radio would be easier to build and understand.    
+:That circuit is just plain hard to justify from any angle.  [[User:JA.Davidson|John]] ([[User talk:JA.Davidson|talk]]) 03:04, 31 August 2009 (UTC)
+
+== Broken Links ==
+
+2 of the first 3 links are broken, 1 to the 'enthusiasts', the other to using modern components 
+for 'hi' performance.&lt;br&gt;Just after I added some text to the cites too! ADVICE always check a link works before trying to 'improve'it! &lt;br&gt;
+Dug out a few links that may be relevant. Some are obviously ''commercial'' sites, for those who are interested.&lt;br&gt;
+*http://www.crystalradio.net/
+**http://www.crystalradio.net/crystalplans/index.shtml
+*http://www.crystalradio.org/
+*http://www.crystalradio.us/index.htm
+*http://scitoys.com/scitoys/scitoys/radio/homemade_radio.html
+*http://www.ccmr.cornell.edu/education/modules/documents/CrystalRadio.pdf
+*http://www.hobbytech.com/crystalradio/crystalradio2.htm&lt;br&gt;
+'''--[[Special:Contributions/220.101.28.25|220.101.28.25]] ([[User talk:220.101.28.25|talk]]) 09:28, 6 December 2009 (UTC)'''
+
+== Expanded 'How it works' section ==
+
+Added subsections under 'How it works' describing the different parts of a crystal set, addressing some of the topics discussed on this page, such as impedance matching and selectivity.  --&lt;font color=&quot;blue&quot;&gt;[[User:Chetvorno|Chetvorno]]&lt;/font&gt;&lt;sup&gt;''&lt;small&gt;[[User talk:Chetvorno|&lt;font color=&quot;Purple&quot;&gt;TALK&lt;/font&gt;]]&lt;/small&gt;''&lt;/sup&gt; 06:40, 12 July 2010 (UTC)
+
+:This revision has some problems.  It adds a capacitor across the coil, which will not work to tune the BCB, and is not the simple circuit, it does not address the antenna as the capacitor that tunes the inductor.  We need to restore it to the previous version. [[User:JA.Davidson|John]] ([[User talk:JA.Davidson|talk]]) 06:22, 18 August 2010 (UTC)
+
+::Which part are you referring to specifically? --&lt;font color=&quot;blue&quot;&gt;[[User:Chetvorno|Chetvorno]]&lt;/font&gt;&lt;sup&gt;''&lt;small&gt;[[User talk:Chetvorno|&lt;font color=&quot;Purple&quot;&gt;TALK&lt;/font&gt;]]&lt;/small&gt;''&lt;/sup&gt; 07:36, 18 August 2010 (UTC)
+
+:::Much of the added subsections under &quot;How it Works&quot;.  This material is assuming a variable capacitor can tune the BCB with a coil, and it is not practical.  We don't want to mislead people with this.  See &quot;The Naive Circuit&quot; section.  Electrically short antennas are capacitive and coil tunes the antenna in a single pole circuit, a variable capacitor cannot be used in this circuit.  [[User:JA.Davidson|John]] ([[User talk:JA.Davidson|talk]]) 18:51, 18 August 2010 (UTC)
+
+::::All of the diagrams in this section were sourced from actual circuits.  Keep in mind that this is a &quot;How it works&quot; section, for nontechnical people.  It's important to emphasize for them that a capacitor is always necessary in a tuned circuit, whether provided by the capacitance of the antenna or a descrete component.  So the text mentioned that some circuits use the capacitance of the antenna alone, but most of the circuits I chose used tuning capacitors.  And you're certainly mistaken if you think that practical BCB crystal sets didn't use tuning capacitors.  There are literally hundreds of circuits of crystal sets that were tuned capacitively.  See [http://www.crystalradio.net/crystalplans/ here] I didn't have time to check how they solved the tuning range problem, but it looks like many use tapped coils and cover the band in separate sections.  I think it's important to have a historical POV and show a variety of the circuits that were actually used.   Your point about tuning range is important, and deserves a section, but I think removing all circuits with tuning capacitors is going too far. --&lt;font color=&quot;blue&quot;&gt;[[User:Chetvorno|Chetvorno]]&lt;/font&gt;&lt;sup&gt;''&lt;small&gt;[[User talk:Chetvorno|&lt;font color=&quot;Purple&quot;&gt;TALK&lt;/font&gt;]]&lt;/small&gt;''&lt;/sup&gt; 02:38, 19 August 2010 (UTC)
+
+:::::Sets do use tuning capacitors, but it is not physically possible for practical sets to use them the way this diagram shows.  Does what I said above suggest removing all sets with tuning capacitors?  I do not.  That diagram shows a variable capacitor and an antenna, and is not correct.  I am very familiar with that site, and I am extremely familiar with how this problem is resolved: by not using this circuit.  It is a common mistake and this article needs to avoid it.  Please become familiar with this issue before editing this.  I will be happy to discuss it with you.  BTW, I am not sure hundreds of circuits means something works.  Please do not put this figure back. I would like to make the &quot;how it works&quot; section correct.  [[User:JA.Davidson|John]] ([[User talk:JA.Davidson|talk]]) 02:56, 20 August 2010 (UTC)
+
+This edit war on the article needs to stop. Discuss the matter here with regard to Wikipedia's policies and guidelines, ''then'' change the article in accordance with compromise and consensus. Discuss the reliability of the sources and the representation of the cited sources in the article text and diagrams, ''not'' each other's intelligence, abilities or personal views. Having said that, here is my input: First, the scan of the 1950s article by L.B. Robbins looks authentic to me. Does anyone have any evidence that it is a modern con with technical errors introduced by someone else? If not then it seems to be a [[WP:RS]] reliable source and may be used to support the article. Second, I have made that circuit and so I know it works. This is [[WP:OR]] and so cannot be used in the article, but should be enough to stop the bickering. (I was trying to re-create a crystal radio made by my grandfather during WW2 and so wound a coil like his on a wooden former, but used a [[schottky diode]] as a detector and an audio amplifier instead of Hi-Z headphones. My grandfather's design was capacitor-less with a sliding earth-tap on the coil, connected by sandpapering away some insulation lacquer after winding it. Adding a small trimmer capacitor increased the selectivity and 'peaked' the reception slightly, but still only the most local medium-wave station was really receivable). So, the circuit is authentic, and it works. What's the problem with mentioning it in this article? --[[User:Nigelj|Nigelj]] ([[User talk:Nigelj|talk]]) 08:29, 20 August 2010 (UTC)
+
+P.S. A completely different inductance is needed with the capacitor compared to without it, for the same long wire antenna and same reception band. I can dig out my old experiments and count the turns if anyone's interested, but it's largely irrelevant as it's [[WP:OR]], however it shows the principle is sound. --[[User:Nigelj|Nigelj]] ([[User talk:Nigelj|talk]]) 08:37, 20 August 2010 (UTC)
+
+:Right you are, [[User:Nigelj|Nigelj]], no more EWing.  The argument is not over whether the circuit works; I think [[User:JA.Davidson|John]] would agree it does.  The problem is that the circuit is impractical for an actual radio because it can't tune the entire broadcast band.  John thinks that for this reason it shouldn't be included in the article, I think it should.  John, I understand the issue.   The AM broadcast band requires a tuning range of 3.09:1. So the tuning capacitance requires a range of the square of this: 9.5:1.  Since the minimum capacitance is the antenna capacitance, the tuning capacitor must be at least 9.5 times the antenna capacitance.  For a 15 meter antenna, which has a capacitance of about 135pF that's about 1300pF.  It's difficult to find air variables that large, so with a standard capacitor the radio won't tune the whole band.  So what?   These are technical details.  The circuit does in fact work.  Many people build crystal radios just for the educational value and don't care whether it covers the entire band.       
+
+:More importantly, the purpose of the schematic John deleted is not to present a practical radio, but to illustrate for novices the operation of a crystal radio with the simplest, most easy-to-understand circuit.  Since the tuning capacitor is mentioned in the text, it has to include a tuning capacitor.  The circuit I used is the one most commonly employed in the literature to introduce crystal radios, and is ''very'' widely seen: [http://books.google.com/books?id=AJBBf5hCYqIC&amp;pg=PA41#v=onepage&amp;q&amp;f=false 1], [http://books.google.com/books?id=t-N1KdTb0FwC&amp;pg=PT107#v=onepage&amp;q=crystal%20radio&amp;f=false 2], [http://www.skywaves.ar88.net/xtalset102/xtalset102.htm 3], [http://www.oldradioworld.de/gollum/dhistor.htm 4], [http://bellsouthpwp2.net/w/u/wuggy/rs99fun.htm 5], [http://books.google.com/books?id=uoj3IWFxbVYC&amp;pg=PA299#v=onepage&amp;q&amp;f=false 6].  It says in [[WP:DUE]] that &quot;due weight&quot; must be given to different aspects of a subject &quot;in proportion to their representation in reliable sources&quot;.  Considering the wide appearance of this circuit in crystal radio literature, I think it probably should be included.
+
+:I have no objection to mentioning the drawbacks of this circuit in the article, in fact I insist on it.  But I don't think there is a better circuit for illustrating how crystal radios work.   John, I have given 6 references above, plus the 2 in the article, on the wide use of this circuit.   Where are your references backing up your claims that it is unusable?  --&lt;font color=&quot;blue&quot;&gt;[[User:Chetvorno|Chetvorno]]&lt;/font&gt;&lt;sup&gt;''&lt;small&gt;[[User talk:Chetvorno|&lt;font color=&quot;Purple&quot;&gt;TALK&lt;/font&gt;]]&lt;/small&gt;''&lt;/sup&gt; 10:08, 20 August 2010 (UTC)
+
+::Tuning across the whole MW band is irrelevant. The poor overall Q-factor due to the inefficiency of a (short) long wire antenna, the almost complete lack of impedance matching at every point (antenna -&gt; tuned circuit; tuned circuit -&gt; headphones), and probably a poor earth, means that the selectivity of the receiver is woeful. If you have a relatively local AM station, that is all you will copy, with all the others appearing as noise, wherever you tune in the band. All you really change is the s/n of the local station compared to all the others heard together. I found better selectivity in some of the low shortwave bands (4 MHz, 7 MHz?) using a smaller inductor, if I remember correctly. I found a variable inductor (sliding tap) essential in the absence of being given a precise 'recipe' including number of turns, length of antenna, short connection to ground spike or buried pipes, etc. --[[User:Nigelj|Nigelj]] ([[User talk:Nigelj|talk]]) 15:10, 20 August 2010 (UTC)
+
+:::Shouldn't we keep this article from becoming an article about tuned circuits, it is how simple crystal radios work.  It is easy to get carried away.  The way most simple crystal radios work is to tune the BCB by tuning a short (capacitive) antenna with a coil only.  The diagram does not reflect that.  Adding a capacitor across that coil simply aggravates the tuning problem, doing nothing to help it, and is going in the wrong direction.  Also, we have articles on resonance and Q that we can reference for details.  [[User:JA.Davidson|John]] ([[User talk:JA.Davidson|talk]]) 19:51, 20 August 2010 (UTC)
+
+::::Adding a capacitor improves the Q and therefore the sensitivity and selectivity of any xtal set (I assume by masking the combined R &amp; C of the antenna with a purer C term). Capacitors may have been expensive and rare in the 1920s and 30s, unavailable under Nazi occupation in the 1940s, but in fairly standard usage by the 1950s if that reference is anything to go by. --[[User:Nigelj|Nigelj]] ([[User talk:Nigelj|talk]]) 21:29, 20 August 2010 (UTC)
+
+:::::I agree.  John, there are hundreds of crystal circuits and most of them do use a tuning capacitor of some kind.  I have researched xtal sets back to the 20s and have added more than 80 references to this article.  I can give you dozens of examples.   This article is not just about &quot;simple&quot; crystal radios, but many &quot;simple&quot; circuits do use a capacitor, and solve the tuning range problem easily by taps on the coil or a loading capacitor in the antenna circuit.  Besides the lower Q, the main problem with omitting a tuning capacitor is that the tuning range varies with the capacitance of the antenna.  If a longer antenna is used, the coil may not tune to the top of the band.  
+
+:::::And you're missing the point of this particular image.  It needs to be a simple introductory circuit people can refer to while reading the &quot;How it works&quot; section.   The majority of readers will be nontechnical people who don't know what a &quot;tuned circuit&quot; is.  If the example circuit lacks an explicit tuning capacitor, it will be confusing.  The section already has a pictorial schematic of a coil-only circuit, right at the top. --&lt;font color=&quot;blue&quot;&gt;[[User:Chetvorno|Chetvorno]]&lt;/font&gt;&lt;sup&gt;''&lt;small&gt;[[User talk:Chetvorno|&lt;font color=&quot;Purple&quot;&gt;TALK&lt;/font&gt;]]&lt;/small&gt;''&lt;/sup&gt; 21:57, 20 August 2010 (UTC)
+
+== Removal of mention of capacitance in 'How it works' section ==
+I notice that, in addition to deleting the image, all mention of capacitance has been removed from the &quot;Tuned circuit&quot; bullet point at the top of the 'How it works' section.  This is grossly false, and misleading to nontechnical readers, since it defines a tuned circuit as an inductor alone: &quot;''[A tuned circuit] . . . consists of a coil of wire called an [[inductor]] or ''tuning coil'' used to tune in different stations.''&quot;  Helllowwwww????   As the text made clear before it was eviscerated, a tuned circuit in a crystal radio always consists of an inductor and a capacitance, but some circuits use the capacitance of the antenna.  The original description was thoroughly sourced.   I don't want to be accused of continuing the above edit war, but unless somebody comes up with a compelling reason this dreck should stay, I'm changing it back. --&lt;font color=&quot;blue&quot;&gt;[[User:Chetvorno|Chetvorno]]&lt;/font&gt;&lt;sup&gt;''&lt;small&gt;[[User talk:Chetvorno|&lt;font color=&quot;Purple&quot;&gt;TALK&lt;/font&gt;]]&lt;/small&gt;''&lt;/sup&gt; 22:24, 20 August 2010 (UTC)
+
+:I agree, it was clearer before (e.g. [http://en.wikipedia.org/w/index.php?title=Crystal_radio&amp;oldid=379850156]) and I don't see any reason why the capacitor version should be expunged from the article. Maybe it can be better still with the compromise of introducing the capacitance inherent in a 'short' (detuned) antenna, and the possible use of this as part of the tuning 'tank', with disadvantages, when a capacitor is unavailable or impractical. I'm not sure where this new material should go, but somewhere in the 'How it works' section. --[[User:Nigelj|Nigelj]] ([[User talk:Nigelj|talk]]) 22:53, 20 August 2010 (UTC)
+
+::Changed it back --&lt;font color=&quot;blue&quot;&gt;[[User:Chetvorno|Chetvorno]]&lt;/font&gt;&lt;sup&gt;''&lt;small&gt;[[User talk:Chetvorno|&lt;font color=&quot;Purple&quot;&gt;TALK&lt;/font&gt;]]&lt;/small&gt;''&lt;/sup&gt; 23:05, 20 August 2010 (UTC)
+
+:::What I read now is better in my opinion.  I did not intend to remove 'all mention' of C, if I did (?) I got confused.  However, there are still substantial issues with this discussion of resonance, and how the antenna's L and C get tuned with reactances in crystal sets.  There is still wrong stuff being stated as fact; this topic is not trivial and kinda beyond the scope of most readers of this article.  I wish y'all would fix it or leave it to the antenna folks in the antenna article.  I would suggest consider omitting stuff rather than misleading people.  I hate to criticize without offering the solution, but I simply don't have time now.  [[User:JA.Davidson|John]] ([[User talk:JA.Davidson|talk]]) 05:46, 21 August 2010 (UTC)
+
+::::Sorry, I should have realized the capacitance thing was just an oversight.  I hope you'll explain about the errors you mention when you have time.  BTW, I appreciate you raising the issue of the tuning range of the &quot;naive circuit&quot;, even if I disagree with your solution.   This article is kind of a specialized subject and I'm glad there are knowlegeable editors working on it.  --&lt;font color=&quot;blue&quot;&gt;[[User:Chetvorno|Chetvorno]]&lt;/font&gt;&lt;sup&gt;''&lt;small&gt;[[User talk:Chetvorno|&lt;font color=&quot;Purple&quot;&gt;TALK&lt;/font&gt;]]&lt;/small&gt;''&lt;/sup&gt; 07:22, 21 August 2010 (UTC)
+
+:::::No problem, I will try but it may take me a few weeks at least.  If someone else wants to take it on, that'd be nice; my hope was to leave it alone in this article but it keeps coming up.  This is involved because an antenna acts like both coils and capacitors and they depend on the frequency.  An electrically short antenna has too much C and needs L in the radio to tune the whole system of radio &amp; antenna.  It also affects Z matching since X is part of Z = X + R.  The previous version of Fig 1 would have had to add too much L to tune with C, and the C would have needed way more range than any physically realizable variable cap could muster.  There are references for this issue in some of the old 1920s textbooks but thats another research project.[[User:JA.Davidson|John]] ([[User talk:JA.Davidson|talk]]) 16:39, 23 August 2010 (UTC)
+
+::::::Yes, they used loading coils and capacitors to tune out the reactance of the antenna.  I didn't go into that in the &quot;How it works&quot; section, in the interest of keeping it short and accessible for general readers, but maybe something should be said about it.  Do you think the existing text states things that are false or misleading?  Where? --&lt;font color=&quot;blue&quot;&gt;[[User:Chetvorno|Chetvorno]]&lt;/font&gt;&lt;sup&gt;''&lt;small&gt;[[User talk:Chetvorno|&lt;font color=&quot;Purple&quot;&gt;TALK&lt;/font&gt;]]&lt;/small&gt;''&lt;/sup&gt; 23:25, 23 August 2010 (UTC)
+
+:::::::To mention a couple, I think I see problems with the treatment of Capacitor in the Tuned Circuit section and the the Crystal Detector section is completely wrong in stating that detection efficiency is related to low forward threshold. [[User:JA.Davidson|John]] ([[User talk:JA.Davidson|talk]]) 14:16, 26 August 2010 (UTC)
+
+::::::::Yes; technically there is no sharp diode &quot;threshold&quot; but only the exponential IV curve.  But I didn't want to go into the Shockley equation and the resulting reciprocal relation between a diode's forward current and its small-signal AC resistance.  The idea of a &quot;threshold&quot; for conduction is an approximation commonly used for diode's IV curves.  It's an easy way for novices to visualize the detector's sensitivity problem, and especially why a bias voltage can improve sensitivity, by getting rid of the threshold.   Crystal radio detectors' lack of sensitivity is often explained that way, as shown in the references.  If you can come up with a better way, I'm all ears. --&lt;font color=&quot;blue&quot;&gt;[[User:Chetvorno|Chetvorno]]&lt;/font&gt;&lt;sup&gt;''&lt;small&gt;[[User talk:Chetvorno|&lt;font color=&quot;Purple&quot;&gt;TALK&lt;/font&gt;]]&lt;/small&gt;''&lt;/sup&gt; 17:48, 25 August 2010 (UTC)  
+
+::::::::I think the best way to illustrate the problem, found in early books,  is to give a graph of a diode's IV curve with the applied sinusoidal voltage against the horizontal axis, and show graphically how it creates a very poorly rectified output current waveform.  Maybe such an image could be gotten from an early book and put in the article. --&lt;font color=&quot;blue&quot;&gt;[[User:Chetvorno|Chetvorno]]&lt;/font&gt;&lt;sup&gt;''&lt;small&gt;[[User talk:Chetvorno|&lt;font color=&quot;Purple&quot;&gt;TALK&lt;/font&gt;]]&lt;/small&gt;''&lt;/sup&gt; 17:35, 25 August 2010 (UTC)
+
+:::::::::You could make a real curve for a 1N34 with pSpice along with the real detected signal curves.  But more importantly, there is no sharp diode threshold, but further, there is no diode threshold at all, this notion is not even approximately right.  This comes as a shock to most engineers, but the diode curve has no knee (NONE) at all, it is a complete optical illusion.  Mathematically the diode equation (and real diodes conduction) is an [[e (mathematical constant)|e-to-the-x form curve]] (with slight variation, corrupted slighted by &quot;n&quot; the so-called efficiency parameter), and that has no point of max curvature (knee), it just does not exist.  Don't take my word for it, check the second derivative of a real 1N34 plot, or plot this and look at it on different scales, the &quot;knee&quot; changes.  I realize the notion of a knee is very popular (to the point it is emotional to many), but utterly fictitious.  It misleads people to think germanium diodes will always detect better than silicon.  Not true, it completely depends on the impedance of the radio tuner and transformed antenna.  A lot of crystal set design is substantially suboptimal because of this misunderstanding; being popular doesn't make it technically right.  It doesn't even make sense, though college professors actually teach this nonsense in top universities.  Reality is that, for signals weak enough for the curve to be approximated by a linear segment, the inverse slope of the IV curve at the operating point (AKA detection Z) needs to match the Z of the radio, again not a trivial issue.  It is a tough point to communicate, and few will believe it, I would suggest just deleting the wrong stuff in the article and reference some Agilent papers or something.  [[User:JA.Davidson|John]] ([[User talk:JA.Davidson|talk]]) 14:16, 26 August 2010 (UTC)
+
+== The illustration incorrectly describes the slider ==
+
+The slider in the illustration is on the right, not the left.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/68.42.44.186|68.42.44.186]] ([[User talk:68.42.44.186|talk]]) 13:22, 18 July 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:Fixed it.  Thank you very much for catching my screwup.  I must have had a touch of dislexia :) --&lt;font color=&quot;blue&quot;&gt;[[User:Chetvorno|Chetvorno]]&lt;/font&gt;&lt;sup&gt;''&lt;small&gt;[[User talk:Chetvorno|&lt;font color=&quot;Purple&quot;&gt;TALK&lt;/font&gt;]]&lt;/small&gt;''&lt;/sup&gt; 16:20, 18 July 2010 (UTC)
+
+== The detector ==
+
+The explanation of how the crystal detector is wrong. I have made several attempts to correct (perhaps not very well) but my edit is simply removed. There does not seem to be any point in correcting errors if the corrections are simply removed and the incorrect explanation retained.
+
+david.tucker2@virgin.net
+[[User:Davidpetertucker|Davidpetertucker]] ([[User talk:Davidpetertucker|talk]]) 17:09, 30 January 2011 (UTC)
+
+Crystal detector
+
+This explanation would only work is the signal measured several volts peak to peak.
+
+Since the signal in only micro volts p-p how can a diode possibly rectify such a signal?
+
+The real explanation relies on the fact that the diode is a nonlinier conductor and this mices the sidebands and carrier frequencies resulting in the recovery of the modulating frequency (among others). The purpose of the bias is to move the opperating point to the part of the diode's curve which maximises the amptitude of the desired signal.
+ &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Davidpetertucker|Davidpetertucker]] ([[User talk:Davidpetertucker|talk]] • [[Special:Contributions/Davidpetertucker|contribs]]) 09:55, 2 February 2011 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+The latest revision is better because it avoids the false myth of &quot;a knee in the diode curve,&quot; and is more small signal oriented.  A technical explanation of this can take the frequency domain approach of collapsing sidebands, but that is very abstract for many.  There is also a very clear time domain explanation that requires a very clear understanding of detection.  [[Special:Contributions/128.49.9.18|128.49.9.18]] ([[User talk:128.49.9.18|talk]]) 17:25, 9 November 2011 (UTC)
+
+:I wrote the original explanation, that used the &quot;knee of the IV curve&quot; language.  I was aware that this was an inaccurate explanation, but I thought that  &quot;the signal voltage has to overcome the diode's forward voltage drop&quot;   was a more concrete, visual way of explaining to a general reader why biasing the junction improves sensitivity (the same wording is used on many crystal radio websites, see refs).  I couldn't think of a way to explain the actual nonlinear curve understandably.  [[User:Davidpetertucker|Davidpetertucker]] and others rightly pointed out that this was a bogus explanation. I reverted your edits; I felt at the time it was more important to keep it simple. [[User:24.152.166.100|24.152.166.100]] recently did a good job of correcting the explanation.  I understand the desire to correct the &quot;myth of the knee&quot; and present an accurate picture of small-signal rectification in a xtal set, but its inclusion makes the description of the how the diode works awfully &quot;fuzzy&quot;.  --&lt;font color=&quot;blue&quot;&gt;[[User:Chetvorno|Chetvorno]]&lt;/font&gt;&lt;sup&gt;''&lt;small&gt;[[User talk:Chetvorno|&lt;font color=&quot;Purple&quot;&gt;TALK&lt;/font&gt;]]&lt;/small&gt;''&lt;/sup&gt; 05:47, 10 November 2011 (UTC)
+
+==Wrong Units==
+&quot;energy of only 10−16 W/cm2&quot;&lt;br /&gt;
+
+W/cm2 is a power density NOT energy (which should be Joules).
+Someone put this right, please.
+[[Special:Contributions/194.72.120.131|194.72.120.131]] ([[User talk:194.72.120.131|talk]]) 10:23, 11 May 2011 (UTC)
+:Fixed. But you can fix things, too. [[Wikipedia:Be Bold]] used to be a guiding principle around here. --[[User:Wtshymanski|Wtshymanski]] ([[User talk:Wtshymanski|talk]]) 13:52, 11 May 2011 (UTC)
+
+==Need to delete Construction section==
+Do we need a section about how to make a radio that is ineffective at tuning? [[User:JA.Davidson|John]] ([[User talk:JA.Davidson|talk]]) 04:43, 28 June 2011 (UTC)
+:It wasn't really about construction and operation, was it? I&quot;ve moved it to the discussion of tuned circuits; it's an interesting point and this was exactly the explanation I needed as a kid to explain why I could only get CFRW (1470) and never CBW (990) on any of the crystal sets I made or had given to me. --[[User:Wtshymanski|Wtshymanski]] ([[User talk:Wtshymanski|talk]]) 13:46, 28 June 2011 (UTC)
+
+==Buzzer?==
+Was this actually used in the day, &lt;s&gt;or some contributor's original research? I've never seen a book or Web page describing this technique of setting a cat's whisker, and &lt;/s&gt; One thing that troubles me is how one is expected to hear anything in the headphones with a buzzer running within arm's reach. --[[User:Wtshymanski|Wtshymanski]] ([[User talk:Wtshymanski|talk]]) 22:32, 10 November 2011 (UTC)
+:nevermind. [http://radiohistory.org/wp-content/uploads/2010/06/VOL-13-No-3-Radio-Television-Museum-News-September-2007.pdf]] says the WWI BC14A artillery spotter receiver (no tubes!) had a tuning buzzer. --[[User:Wtshymanski|Wtshymanski]] ([[User talk:Wtshymanski|talk]]) 22:44, 10 November 2011 (UTC)
+::Yes, they were actually used. Check the reference at the end of the sentence, that's what its for. --&lt;font color=&quot;blue&quot;&gt;[[User:Chetvorno|Chetvorno]]&lt;/font&gt;&lt;sup&gt;''&lt;small&gt;[[User talk:Chetvorno|&lt;font color=&quot;Purple&quot;&gt;TALK&lt;/font&gt;]]&lt;/small&gt;''&lt;/sup&gt; 23:49, 10 November 2011 (UTC)
+::: Just because most Wikipedia references are junk doesn't mean I should always ignore them. A bad habit of mine. --[[User:Wtshymanski|Wtshymanski]] ([[User talk:Wtshymanski|talk]]) 15:32, 11 November 2011 (UTC)
+==File:Modern crystal radio set.jpg Nominated for speedy Deletion==
+&lt;!--TSTAMP:{{{4}}}--&gt;
+{|
+|-
+| [[File:Image-x-generic.svg|100px]] 
+| &lt;!--IMAGES--&gt;
+An image used in this article, [[:File:Modern crystal radio set.jpg|File:Modern crystal radio set.jpg]], has been nominated for speedy deletion for the following reason: ''All Wikipedia files with unknown copyright status'' 
+&lt;!--/IMAGES--&gt;
+;What should I do?
+''Don't panic''; you should have time to contest the deletion (although please review [[WP:CSD|deletion guidelines]] before doing so). The best way to contest this form of deletion is by posting on the image talk page.
+* If the image is [[WP:NFCC|non-free]] then you may need to provide a [[WP:FUR|fair use rationale]]
+* If the image isn't freely licensed and there is no fair use rationale, then it cannot be uploaded or used.
+* If the image has already been deleted you may want to try [[WP:DRV|Deletion Review]]
+To take part in any discussion, or to review a more detailed deletion rationale please visit the relevant [[:File:Modern crystal radio set.jpg|image page (File:Modern crystal radio set.jpg)]]
+
+''This is Bot placed notification, another user has nominated/tagged the image'' --[[User:CommonsNotificationBot|CommonsNotificationBot]] ([[User talk:CommonsNotificationBot|talk]]) 10:00, 15 June 2012 (UTC)
+|}
+
+==Crystal earpiece impedance==
+The article describes the impedance of the crystal (piezo) earpiece as being ~ 1 Mohm. This is the DC value. IIRC, the AC impedance is still quite low (~5kOhm), so a coupling transformer is desirable. Have I got this right? I haven't changed the article; someone better informed may wish to.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/87.194.171.29|87.194.171.29]] ([[User talk:87.194.171.29|talk]]) 02:29, 10 August 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Ground connection ==
+
+In order for a radio to work it is necessary to have a ground connection or the radio needs a very large capacitance to act in lieu of the earth. 
+
+This requirement is similar to that for a power delivery system. The current from a power plant arrives at your home, it passes through various devices in your home and then travels to the ground wire in the circuit box and from there to a ground wire buried in the earth under your home. In a sense the earth itself is the conductor that returns the current to the power plant where there is a massive grid of conductors buried in the ground. The earth is not a great conductor but there is a lot of it and so it works. There is no wire that returns the current to the power plant. The earth could be replaced with a gigantic capacitor but that would be prohibitively expensive. Similarly, a radio needs either a ground connection or to be connected to a large capacitance that acts like the earth. The use of early crystal radio sets in aircraft and such was problematic due to the vibrations to which the radio was subject not due to grounding problems. I am not certain about the grounding of aircraft but will speculate that the tremendous amount of air through which a moving craft is passing will act like a sufficient ground/capacitance. [[User:Zedshort|Zedshort]] ([[User talk:Zedshort|talk]]) 16:16, 12 September 2014 (UTC)
+:I suspect [[User:Wtshymanski|Wtshymanski]] understood that; he may have been thinking of [[counterpoise]]s.  As you alluded to, a lot of early crystal sets used capacitive grounding via a counterpoise instead of an earth ground;  that is what early aircraft and zeppelin wireless sets used. [http://books.google.com/books?id=4JVEAAAAIAAJ&amp;pg=PA311#v=onepage&amp;q=counterpoise&amp;f=false  1, p.312]  From the early 1900s there have been portable crystal sets carried on the body which could not have earth grounds.  For example, in the photo at the top of the page, the crystal radio the boy is listening to does not have a ground wire, but is grounded sufficiently by the capacitance of his body through his hand holding the set.  --&lt;font color=&quot;blue&quot;&gt;[[User:Chetvorno|Chetvorno]]&lt;/font&gt;&lt;sup&gt;''&lt;small&gt;[[User talk:Chetvorno|&lt;font color=&quot;Purple&quot;&gt;TALK&lt;/font&gt;]]&lt;/small&gt;''&lt;/sup&gt; 16:56, 12 September 2014 (UTC)
+:: Cell phones.  Airplanes. Spacecraft.  How much capacitance is there between a satellite in synchronous orbit and the Earth?  A Mars rover and the Earth?  (For that matter, light is just really really high frequency radio waves and propagates just fine over intergalactic distances.) The Tesla model is inappropriate - radio receivers work with the free space field and any use of earth is for convenience.  At the frequencies used for AM broadcast, it's inconvenient to build an antenna that collects enough power to operate an earpiece, so you use the earth as part of the system  - but it's not really correct to think of Tesla-style currents running through the Earth from transmitter to receiver. --[[User:Wtshymanski|Wtshymanski]] ([[User talk:Wtshymanski|talk]]) 23:59, 12 September 2014 (UTC)
+:::What are you basing the above upon? Is it just opinion? A ground is shown in most all diagrams of radios. Why are they shown? What purpose does a ground have? In the case of a rover or spacecraft, they too have enough capacitance to function as a ground. Your injection of a counterpoise into the definition makes no sense. A counterpoise is used in the case that a proper ground cannot be made at the transmitter site.  [[User:Zedshort|Zedshort]] ([[User talk:Zedshort|talk]]) 04:42, 13 September 2014 (UTC)
+::::[[User:Zedshort|Zedshort]], were you addressing [[User:Wtshymanski|Wtshymanski]] or me?  A crystal radio does not have to have a ground, it could use a dipole antenna; it's just that with the long wire antennas needed, a dipole would require a second long wire, doubling the length of the antenna, to give the same reception.   A monopole, due to the ground reflection, has 3 dB more gain than an equivalent dipole.    Another issue is that AM stations broadcast in vertical polarization, so a horizontal dipole isn't as efficient as a vertical monopole.  A crystal radio with a monopole antenna without a ground can also work,  because the radio's case and the hand holding it can function as the other half of a dipole antenna.  It will be much less sensitive but is probably adequate for the strong signals in an urban area. --&lt;font color=&quot;blue&quot;&gt;[[User:Chetvorno|Chetvorno]]&lt;/font&gt;&lt;sup&gt;''&lt;small&gt;[[User talk:Chetvorno|&lt;font color=&quot;Purple&quot;&gt;TALK&lt;/font&gt;]]&lt;/small&gt;''&lt;/sup&gt; 10:14, 13 September 2014 (UTC)  
+
+::::A [[dipole antenna]] does not use a ground, but a [[monopole antenna]], which is what was used with crystal radios, requires the other side of the transmitter or receiver to be connected to some type of conductive [[ground plane]], which functions as a reflector, not a radiator. [http://books.google.com/books?id=J06OFiCSBroC&amp;pg=PA142&amp;dq=counterpoise+monopole   1, p.142]   It doesn't have to be connected to the Earth.   The size of ground plane required depends on the frequency, it should ideally extend at least a quarter-wavelength from the antenna.   The [[medium frequency|MF]] and [[low frequency|LF]] broadcast freqs received by crystal sets require a large ground plane, at least 1000 ft in dia., so the Earth is the most convenient conducting plane available.   If an Earth ground connection cannot be made, a counterpoise, a wire screen capacitance to Earth, can be used.[http://books.google.com/books?id=J06OFiCSBroC&amp;pg=PA142&amp;dq=counterpoise+monopole   1, p.142], [http://books.google.com/books?id=fO2wvcdgroQC&amp;pg=PA523&amp;dq=counterpoise   2, p.523]    &quot;Counterpoises&quot; were widely used during the wireless era for receivers as well as transmitters. [http://books.google.com/books?id=0DFLAAAAMAAJ&amp;pg=PA157&amp;lpg=PA157&amp;dq=counterpoise   3, p.157], [http://books.google.com/books?id=yffNAAAAMAAJ&amp;pg=PA217&amp;dq=counterpoise  4, p.217], [http://books.google.com/books?id=-CwwAAAAYAAJ&amp;pg=PA278#v=onepage&amp;q=counterpoise&amp;f=false  5, p.278], [http://books.google.com/books?id=4JVEAAAAIAAJ&amp;pg=PA311#v=onepage&amp;q=counterpoise&amp;f=false   6, p.311-312], [http://books.google.com/books?id=6qFRAAAAMAAJ&amp;pg=PA45&amp;dq=counterpoise   7, p.45]  However early radio researchers didn't really understand how they worked.  If a counterpoise is too small or too far away from the Earth, its voltage will not remain constant and it will radiate (or in a receiver pick up radio waves), simply functioning as the other half of a dipole antenna.  That is actually how the [[whip antenna]]s in modern walkie-talkies, CB, and portable FM radios work. [http://www.wisegeek.com/what-is-a-whip-antenna.htm   8],  [http://books.google.com/books?id=fvtXAwAAQBAJ&amp;pg=PA53&amp;dq=counterpoise   9, p.53],   [http://books.google.com/books?id=4LtmjGNwOPIC&amp;pg=PA49&amp;dq=counterpoise   10, p.48-49]  The whip is nominally a &quot;monopole&quot; antenna, but the other side of the transmitter or receiver is merely &quot;grounded&quot; to the radio's chassis or circuit board.  So the chassis and whip function as the two halves of an asymmetrical dipole antenna.  This is also how small portable crystal radios without grounds work. --&lt;font color=&quot;blue&quot;&gt;[[User:Chetvorno|Chetvorno]]&lt;/font&gt;&lt;sup&gt;''&lt;small&gt;[[User talk:Chetvorno|&lt;font color=&quot;Purple&quot;&gt;TALK&lt;/font&gt;]]&lt;/small&gt;''&lt;/sup&gt; 09:04, 13 September 2014 (UTC)  
+
+
+::::[http://books.google.com/books?id=-CwwAAAAYAAJ&amp;pg=PA21#v=onepage&amp;q&amp;f=false   This photo] shows a woman in 1922 with a crystal radio in a parasol.  It has a wire antenna in the parasol, but is not grounded.   The radio itself and the woman's body function either as the &quot;ground&quot; or the other half of the antenna.  If they have enough capacitance to ground they function as a counterpoise.  If not, they function with the parasol as the two halves of a dipole antenna; the incoming radio wave induces opposite phase oscillating voltages in the antenna and the radio's case including the attached earphone wires, etc. which constitutes the input signal applied to the tuned circuit.  --&lt;font color=&quot;blue&quot;&gt;[[User:Chetvorno|Chetvorno]]&lt;/font&gt;&lt;sup&gt;''&lt;small&gt;[[User talk:Chetvorno|&lt;font color=&quot;Purple&quot;&gt;TALK&lt;/font&gt;]]&lt;/small&gt;''&lt;/sup&gt; 09:04, 13 September 2014 (UTC)
+
+Well, this has been a truly fascinating exchange and collection of factoids. Now, would someone please explain the presence of a ground connection in diagrams of radios without using the circular reference of a counterpoise, and do so in twenty words or less. Thank you. [[User:Zedshort|Zedshort]] ([[User talk:Zedshort|talk]]) 14:03, 13 September 2014 (UTC)
+
+:Sorry, I may have had too much coffee last night.  What it boils down to is: The oscillating current from the wire antenna, after passing through the radio, needs some conductor with a high capacity to flow into.  The Earth is ideal, but it doesn't have to be the Earth. --&lt;font color=&quot;blue&quot;&gt;[[User:Chetvorno|Chetvorno]]&lt;/font&gt;&lt;sup&gt;''&lt;small&gt;[[User talk:Chetvorno|&lt;font color=&quot;Purple&quot;&gt;TALK&lt;/font&gt;]]&lt;/small&gt;''&lt;/sup&gt; 18:47, 13 September 2014 (UTC)
+
+::So, in order for a current to slosh back and forth within a circuit, the charges needs something to slosh into and out from that has lots of space to allow the sloshing, that thing being a capacitor. Whether the antenna is connected to the ground directly via a conductor into the ground or coupled to the ground by a counterpoise makes no difference, provided the capacitance is sufficiently large relative to the need. But of course, in writing the article, that idea needs to be expressed. Should the article describe the &quot;ground&quot; as a very large capacitance? If it is described as I did, as a large reservoir, that might work. The ground wire analogy with a physical connection back to the transmitter obviously fails in the case of spacecraft communications. [[User:Zedshort|Zedshort]] ([[User talk:Zedshort|talk]]) 20:05, 13 September 2014 (UTC)
+
+: The simple statement is that crystal radios need good antennas because the power that drives the headphones comes from the antenna. The more power the antenna delivers, the better. A half-wave dipole is a good antenna, and it does not need a ground (but for practical reasons might need a balun). Over-the-air powered RFIDs can use dipole antennas. AM transistor radios also used ferrite loopsticks; they capture the magnetic field and do not need a ground. Consequently, a good ground is not a requirement. Back when crystal radios were popular, the operating frequency was low, the transmitted power levels were high (that pesky atmospheric noise required it), and people often used a crappy, untuned, single-ended, long-wire antenna. Grounding those antennas improved them. If the ground were perfect (which it isn't), it would make an image antenna and cause current to flow in the antenna wire. Simplistically, if there were no connection to ground (and no capacitance to ground), then no current (and no power) would flow from the single-ended antenna. [[User:Glrx|Glrx]] ([[User talk:Glrx|talk]]) 01:17, 15 September 2014 (UTC)
+
+== Impedance Matching ==
+
+I have made a quite serious edit to this section.  Given the interest in crystal sets evident in this talk page, it is likely that what I have done will prove to be controversial, so I shall try to explain.  Firstly I have corrected the statement of the max power transfer theorem, so that it reads correctly.  Impedances should not be equal for max power transfer, but one should be the conjugate of the other. I do not expect any disagreement over this.  
+However, it seems to me that the only respect in which this theorem can be applied to a crystal set is that the impedance of the power source (i.e. the aerial) should be matched to that of the the load (the earphones).  Ideally, the equivalent resistance of the tuned circuit at resonance should be severely mismatched to the source impedance of the aerial in order to minimise resistive losses in the tuned circuit, which can only be wasteful.  If  the tuned circuit were power matched to the aerial, maximum power would be transferred to the resistance of the tuned circuit, which is not what is required.   It is for this reason that I have deleted all references to the idea of matching the aerial to the tuned circuit.  Transforming the equivalent resistance of the aerial has significance in relation to selectivity, and this concept is best treated separately.  Both topics (impedance matching for max power transfer to the headphones, and aerial resistance transformation for improved selectivity) are complicated by the fact that so many different crystal set circuits are used.  In the circuit which accompanies the &quot;Impedance Matching&quot; section, it is clear that the left-hand slider can be used for tuning, and the right-hand one for impedance matching, and that the right-hand slider will also affect the Q of the inductor, and therefore the selectivity.  In more complicated circuits where a variable capacitor is used for tuning, and the aerial is connected to a variable tap on the inductor, the useful effect of the different tap positions will be to improve selectivity when the tap is low, since then the Q of the parallel tuned circuit will be at its greatest.  In this type of circuit, the resistance of the headphones will lower the Q of the parallel tuned circuit, so for greater selectivity, the resistance of the phones should be high.  In this circuit, power transfer to the phones will also be affected by the tap position, so that the tap control can be used either to improve selectivity, or to achieve best sensitivity, depending on requirements.  g4oep  &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/77.96.60.31|77.96.60.31]] ([[User talk:77.96.60.31|talk]]) 11:43, 4 January 2015 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;[[User:G4oep|G4oep]] ([[User talk:G4oep|talk]])
+:I don't agree with your idea that maximum power is produced by mismatching the impedance of antenna and tuned circuit; neither do any of the sources cited in the article.    The aerial is connected to the crystal/earphone circuit ''through'' the tuned circuit.  Although there are many different circuits, the load resistance the aerial sees is some parallel combination of the resistance of the crystal/earphone circuit and the parasitic resistance of the tuned circuit (scaled by the impedance transformation of the antenna tap on the coil).   You can't separate those two resistances. To transfer max power to the earphone, the antenna must be matched to the impedance it sees, which is the parallel combination; that's what the [[maximum power transfer theorem]] says.   The max power theorem doesn't discriminate between resistances in the circuit; maximizing power to the earphone also maximizes power lost in the coil. --&lt;font color=&quot;blue&quot;&gt;[[User:Chetvorno|Chetvorno]]&lt;/font&gt;&lt;sup&gt;''&lt;small&gt;[[User talk:Chetvorno|&lt;font color=&quot;Purple&quot;&gt;TALK&lt;/font&gt;]]&lt;/small&gt;''&lt;/sup&gt; 21:02, 31 March 2015 (UTC)
+
+Hi - I have looked at the paragraph you refer to, and although there is not much there to object to, I feel that the ideas involved in this section could be presented more rigorously.  The paragraph starts by stating that the aim is to transfer power to the headphones, then states &quot;Therefore, in better receiver circuits, to match the antenna impedance to the receiver's impedance...&quot;.  The point that I tried to express in the material you deleted is that the first objective is not necessarily achieved when the second is fulfilled.  True, it is necessary to match the receiver's aerial and earth terminals to the actual aerial/earth system in order to maximise power absorbed from the aerial, but then this absorbed power must be transferred to the phones with as little as possible lost in the tuned circuit. 
+The resistive component of the input admittance of the receiver (considered as a parallel equivalent circuit) can be represented by 2 parallel components - 1) the transformed equivalent parallel resistance of the coil (or of the tuned circuit as a whole- Rc)) and 2) the transformed resistance of the phones/detector combination (Rp).  For maximum power in the phones, Rc should be large compared with Rp since in a parallel equivalent circuit, the same voltage is applied to both resistors, and P is inversely proportional to R (P = V^2/R).  This condition (Rc &gt;&gt; Rp) can be  represented by saying that the antenna should be matched to the phones, and mismatched to the resistance of the inductor.  That was what I wrote, and I feel that it should not have been deleted without proper justification. The resistances of the coil, and of the phones are indeed separable, and the design and adjustment of the circuit can be altered to control the fraction of the available power which is dissipated in each simply by adjusting their relative magnitudes.  These magnitudes are under the control of the various transformation ratios. This idea is completely false: &quot;maximizing power to the earphone also maximizes power lost in the coil&quot;.   I have altered the text again.  I expect that someone will quibble that the points I have made are not referenced, but it should be obvious to anyone who understands ac circuit theory that what I have written is correct; trust me - I am an engineer.  If you don't understand circuit theory, don't change it.  g4oep.
+
+:::: The issues are much more complex than transformer matching. I reverted to the sourced version. [[User:Glrx|Glrx]] ([[User talk:Glrx|talk]]) 01:29, 7 April 2015 (UTC)
+
+== Modulation fix wanted ==
+
+In the section about &quot;use as a power supply&quot; it states that AM stations modulate only 30 percent.  This is only partially true.  Aircraft navaid stations modulate their IDs 30% to leave room for voice modulation over the ID.  But broadcasting stations routinely modulate 100% and even 125% in the positive direction.  Can someone fix this please?
+
+[[Special:Contributions/108.244.204.22|108.244.204.22]] ([[User talk:108.244.204.22|talk]]) 01:12, 10 January 2015 (UTC)
+Chip Veres 1-08-15
+
+== Crystal Radios CAN demodulate FM signals! ==
+
+Intro page says &quot;By the nature of their operation, crystal radios can only demodulate amplitude modulation (AM) signals, not frequency modulation (FM) or digital signals.&quot;
+
+Not true...
+
+Crystal Radios CAN demodulate FM signals very easily.  There's a number of HOWTO DIY pages on this.
+
+See: http://scitoys.com/scitoys/scitoys/radio/radio.html#crystal for one example.
+or http://frank.pocnet.net/other/Sylvania/40_Uses_for_Germanium_Diodes.pdf
+or http://www.radio-electronics.com/info/rf-technology-design/fm-reception/fm-slope-detector-discriminator.php  &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/50.185.136.67|50.185.136.67]] ([[User talk:50.185.136.67|talk]]) 03:53, 31 March 2015 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:I agree.  [[slope detector|Slope detection]] is a time-honored way of demodulating an FM signal with an AM radio, although I don't know how much this technique was used with crystal radios. --&lt;font color=&quot;blue&quot;&gt;[[User:Chetvorno|Chetvorno]]&lt;/font&gt;&lt;sup&gt;''&lt;small&gt;[[User talk:Chetvorno|&lt;font color=&quot;Purple&quot;&gt;TALK&lt;/font&gt;]]&lt;/small&gt;''&lt;/sup&gt; 06:21, 31 March 2015 (UTC)
+:Well, I would be careful... I don't see anything in the three references above that actually says it has been successful in practice (although I haven't read every word in each of them - perhaps someone will quote the relevant bit(s)). First, the reception bandwidth of many practical crystal sets is very wide, due to lack of good filtering or tuning. This means there isn't much 'slope' anywhere to perform the FM to AM conversion. Secondly, the power capture of a traditional crystal set depends on a very long (e.g. hundreds of feet) random wire antenna. These are not much use at VHF, where most FM is transmitted, and would not capture more received power than a one or two meter tuned dipole. I don't know that such short reception antennae, even if tuned, would ever pick up enough power to hear directly unless one was very close to a transmitter. (VHF transmitters don't put out megawatts, as they know the range will be limited by line-of-sight anyway). I'd like to see a quote from an actual [[WP:RS]] before stating that crystal radios are practical on FM bands. --[[User:Nigelj|Nigelj]] ([[User talk:Nigelj|talk]]) 19:41, 31 March 2015 (UTC)
+
+::Good points.  Even if it has been done just to prove it was possible, that's a long way from saying it is a practical technique.  Without more specific sources I don't think FM reception should me mentioned in the article. --&lt;font color=&quot;blue&quot;&gt;[[User:Chetvorno|Chetvorno]]&lt;/font&gt;&lt;sup&gt;''&lt;small&gt;[[User talk:Chetvorno|&lt;font color=&quot;Purple&quot;&gt;TALK&lt;/font&gt;]]&lt;/small&gt;''&lt;/sup&gt; 20:26, 31 March 2015 (UTC)
+	</talkpage>
+</article>

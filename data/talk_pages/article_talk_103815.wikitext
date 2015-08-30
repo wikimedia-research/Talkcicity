@@ -1,0 +1,29 @@
+<article id="103815" title=Talk:Davidson County, Tennessee>
+	<talkpage id="103815" title="Talk:Davidson County, Tennessee">
+{{WikiProject Tennessee|class=start|importance=mid|listas=Davidson County, Tennessee}}
+{{WikiProject United States|class=start|importance=low|U.S. counties=yes}}
+
+
+==Untitled==
+Wondering how to edit this U.S. County Entry?&lt;br/&gt;
+The [[Wikipedia:WikiProject U.S. counties|WikiProject U.S. Counties]] standards might help.
+
+==Tributaries of the Cumberland in Davidson County==
+
+Although the old Tennessee Gazateer lists Poplar Creek and Sycamore Creek as important tributaries of the Cumberland in Davidson County, I wasn't able to find either of them in the 1982 Cumberland River Navigational Charts or the 1994 U.S. Geological Survey Water-Data Report for Tennessee. All of the other tributaries could be found in both modern references. I imagine they have either disappeared due to dams or other development or been renamed. I have removed them from the list for now. [[User:Kaldari|Kaldari]] 01:38, 7 March 2006 (UTC)
+
+==Improving Article Quality==
+Hello, I will be making significant improvements to this page as time goes on. If you have any suggestions, leave me a message on my talk page. [[User:Terrancee|Terrancee]] ([[User talk:Terrancee|talk]]) 06:54, 24 February 2009 (UTC)
+
+==Davidson County, TN versus NC==
+
+Please note the reference to NC, which appears to be a typo since this article is dicussing Davidson, TN.
+
+&quot;Davidson County is the oldest county in Middle Tennessee. It dates to 1783, when the North Carolina legislature created the county and named it in honor of William Lee Davidson, a North Carolina officer who died in the Revolutionary War on January 1, 1782.&quot;
+
+[[Special:Contributions/74.223.187.42|74.223.187.42]] ([[User talk:74.223.187.42|talk]]) 19:51, 21 October 2010 (UTC)
+
+:That's not a typo. If I understand the history correctly, Tennessee was part of North Carolina at that time, and the county was created by the North Carolina legislature. --[[User:Orlady|Orlady]] ([[User talk:Orlady|talk]]) 20:37, 21 October 2010 (UTC)
+::Correct. [[User:Kaldari|Kaldari]] ([[User talk:Kaldari|talk]]) 21:01, 21 October 2010 (UTC)
+	</talkpage>
+</article>

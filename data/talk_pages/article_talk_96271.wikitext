@@ -1,0 +1,9 @@
+<article id="96271" title=Talk:Beaver County, Utah>
+	<talkpage id="96271" title="Talk:Beaver County, Utah">
+{{WikiProject United States|class=start|importance=Mid|UT=yes|UT-importance=Mid|U.S. counties=yes}}
+
+==Untitled==
+Wondering how to edit this U.S. County Entry?&lt;br/&gt;
+The [[Wikipedia:WikiProject U.S. counties|WikiProject U.S. Counties]] standards might help.
+	</talkpage>
+</article>

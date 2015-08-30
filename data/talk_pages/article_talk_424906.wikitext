@@ -1,0 +1,229 @@
+<article id="424906" title=Talk:Initial-stress-derived noun>
+	<talkpage id="424906" title="Talk:Initial-stress-derived noun">
+{{WikiProject Linguistics}}
+{{Old AfD}}
+== What title should we use? ==
+
+Move to [[List of minimal pairs demonstrating stress in phonemic in English]]? ;) Is that less or more of a mouthful. [[User:Morwen|Morwen]] 00:21, Jan 9, 2004 (UTC)
+
+No.  That misses the point.  There are many such minimal pairs that obviously would not belong on this list.  You're talking about a completely different topic. [[User:Michael Hardy|Michael Hardy]] 00:39, 9 Jan 2004 (UTC)
+
+:I look forward to you thinking up an accurate and shorter name for this page, then. [[User:Morwen|Morwen]] 00:42, Jan 9, 2004 (UTC)
+
+== What words should be in the list? ==
+
+I see that someone added ''perfume''.  That would never have occurred to me, since I have always pronounced it only with the accent on the second syllable.  But perhaps in some dialects, it belongs in this category. [[User:Michael Hardy|Michael Hardy]] 00:41, 9 Jan 2004 (UTC)
+
+How about making this a section of a page called [[List of English homographs]]? In fact I think I will make that page now. --[[User:Nohat|Nohat]] 02:57, 2004 Jan 9 (UTC)
+
+I'm not sure this page is very accurate.  A lot of the words on this list are commonly pronounced the same way whether noun or verb.  To pick a mildly ironic example, the thing over the é is an ACCent, and one ACCents the first syllable in that word.  In some dialects one might accENT it, but this is unusual, at least in American English. --[[User:Delirium|Delirium]] 03:04, Jan 9, 2004 (UTC)
+
+:Well, after reading a lot of this, I can't say that in my normal speech I would use accENT, as a verb, but oddly enough, I want to.  Like one of those things where you know the right way to do something, but you use it so rarely that you want to apply regularization to it.  An example is the plural of a computer &quot;mouse&quot;.  While we all &quot;know&quot; it should be &quot;mice&quot;, a great number of people struggle with wanting to regularize it, but neither can they bring themselves to say &quot;*mouses&quot;.  The same sort of thing happens for me with accENT as a verb.  It doesn't sound right, but I keep getting the sense that that's how it's supposed to be said. --[[User:131.107.0.106|131.107.0.106]] 00:57, 10 March 2006 (UTC)
+
+A little better now, but the following are still questionable in [[American English]]:
+*The following are typically pronounced with accent on the 1st syllable in all cases:
+**finance
+***I was going to dispute that with the totally opposite charge - it's always stressed on the second syllable where I come from (&quot;f'-NANCE&quot;). So it's questionable in [[English English]] too. I think what's going on here is that it's nothing more than an Americanism to pronounce it FI-nance.[[User:Phlogistomania|Phlogistomania]] 15:15, Jun 21, 2005 (UTC)
+**&quot;hand out&quot;
+***Not true.  Stress on &quot;out&quot; when a verb.  [[User:RickK|RickK]] 04:34, 9 Jan 2004 (UTC)
+***I disagree.  &quot;Please HAND out these papers to the class.&quot; is what somebody would say.  Nobody would say &quot;Please hand OUT these papers to the class.&quot; --[[User:Delirium|Delirium]] 08:09, Jan 9, 2004 (UTC)
+****'''''I''''' do.  [[User:RickK|RickK]] 01:43, 11 Jan 2004 (UTC)
+**&quot;make up&quot;
+***Again, stress on &quot;up&quot; when a verb.  [[User:RickK|RickK]] 04:34, 9 Jan 2004 (UTC)
+***Umm, no.  Again, &quot;MAKE up a word&quot;, not &quot;Make UP a word&quot; (unless you're trying to emphasize the ''up'' for some unrelated reason).
+****No, I'm stressing the word because that's the way I pronounce it. [[User:RickK|RickK]] 07:57, 10 Jan 2004 (UTC)
+**purpose
+***You're absolutely wrong about this one, and I suggest you look in a dictionary. &quot;Purpose&quot; is a verb ''only'' when the accent is on the second syllable. [[User:Michael Hardy|Michael Hardy]] 21:10, 9 Jan 2004 (UTC)
+****I did: the American Heritage and Webster's dictionaries both list it as a verb ''only'' with the accent on the first syllable. Accent on the second syllable is not listed as an acceptable pronounciation for either verb or noun. --[[User:Delirium|Delirium]] 02:35, Jan 11, 2004 (UTC)
+****Nope, it's just the only way I've ever said it.  And I've never noticed anybody else saying it any other way.  [[User:RickK|RickK]] 01:43, 11 Jan 2004 (UTC)
+*** I've removed this one from the article pending further investigation.  I had in mind that it would rhyme with &quot;those&quot; when a verb. [[User:Michael Hardy|Michael Hardy]] 00:25, 10 Jan 2004 (UTC)
+**** Michael &lt;s&gt;is&lt;/s&gt; '''was''' incorrect, as noted by me [[User talk:Michael Hardy|here]]. [[User:Jwrosenzweig|Jwrosenzweig]] 23:50, 9 Jan 2004 (UTC)
+**research
+***Again, I'd always stress this on the second syllable (r'-SEARCH). RE-search is merely an Americanism. [[User:Phlogistomania|Phlogistomania]] 15:15, Jun 21, 2005 (UTC)
+**transplant
+*The following are typically pronounced with accent on the 2nd syllable in all cases:
+**affect
+***Not true at all. [[User:RickK|RickK]] 04:34, 9 Jan 2004 (UTC)
+***Point conceded. --[[User:Delirium|Delirium]] 08:11, Jan 9, 2004 (UTC)
+***All cases but one. As a noun, the OED says to stress it on the first syllable only when used in relation to Psychology. All other senses of the noun, however, are marked as obsolete. It's questionable if this is a common enough noun to merit inclusion on the list at all. [[User:Phlogistomania|Phlogistomania]] 15:15, Jun 21, 2005 (UTC)
+*The following are pronounced with accent on the 1st syllable as nouns, and with accent on ''either'' the first or second as verbs (both pronunciations are used):
+**ally
+**compost
+**detail
+**discard
+**discharge
+**discount
+**dismount
+**escort
+**excerpt
+**exploit
+**export
+**impact
+**implant
+**import
+**impound
+**overcount
+**overlook
+**protest
+**recap
+**retake
+**transport
+**undercount
+**update
+*The following word has only one syllable:
+**down
+
+::''down'' was included as part of the two-word phrase ''crack down'', which I have now moved to the list of two-word phrases following this pattern.
+
+*The following word is not a verb (the verb is ''envelop''):
+**envelope
+*The following is pronounced with accent on the 1st syllable when a noun, and either the 1st or '''third''' syllable when a verb (but not second):
+**interchange
+
+--[[User:Delirium|Delirium]] 03:28, Jan 9, 2004 (UTC)
+
+== What to do with the content ==
+
+Unless there are any objections, I'm going to add the content of this page to [[List of English homographs]] and make this page a redirect (which quite possibly ought to be deleted). --[[User:Nohat|Nohat]] 03:42, 2004 Jan 9 (UTC)
+
+What's this? Shouldn't be moved to ''Wikibooks'' or ''Wikitionary''? What's about [[List of English words can be used both as nouns and verbs]]? :O --[[User:Yacht|&amp;#24555;&amp;#33351;]] ([[User talk:Yacht|Talk]])[[Yacht|&amp;#9786;]] 04:15, Jan 9, 2004 (UTC)
+
+I don't think that pages that are little more than lists of words are all that helpful, however they are titled. (See [[Wikipedia:Wikipedia is not a dictionary]].) However, the idea of words changing from one [[part of speech]] to another when the stress is moved is an interesting one, and may well merit an article. Is this a recognised phenomenon in linguistics? Does it have a name? In what other languages does it occur? If anyone can think of an appropriate name, perhaps the page could be moved there. The article could well still include the list of words, as I don't think there is an overwhelming number of them.
+
+As for pronunciations being different for different speakers, explaining the differences in usage in the article would be more useful than just removing the affected words altogether. I've retrieved the words removed from the page and listed them below. I can't see what was wrong with a large proportion of them. The &quot;ak-SENT&quot; form, to take the first example, is perfectly normal in British English, so it shoudn't be removed just because the same is not true in other forms of English.
+
+The phrases &quot;crack down&quot;, &quot;drop out&quot;, &quot;fall out&quot;, &quot;hand out&quot; were also removed. These aren't words, so obviously don't really fit into the category being discussed. However, they do display a similar behaviour, since moving the stress to the first syllable (in writing, merging them into a single word with or without a hyphen) turns them into nouns. This could perhaps be discussed somewhere in the article. -- [[User:Oliver Pereira|Oliver P.]] 07:12, 9 Jan 2004 (UTC)
+
+== Removed words ==
+
+accent - addict - admit - advert
+- affix - annex
+- combat
+- confines
+- decrease
+- detail - discard - discount
+- envelope - escort - essay - excerpt - exempt
+- export
+- implant - import - incline - increase
+- intercept - interchange - intrigue - invite
+- overcount - overlay - overlook - perfume
+- proceeds
+- purpose
+
+:I agree that &quot;accent&quot; does not belong and I'm surprised it was there.  By why delete the others?  The all fit.  Except &quot;perfume&quot;. (&quot;Invite&quot; is not one I'd use as a noun; I'd say &quot;invitation&quot;, but I reocgnize it when others use it.) And why do you not identify yourself?  [[User:Michael Hardy|Michael Hardy]] 22:30, 9 Jan 2004 (UTC)
+
+::&quot;Invite&quot; should never be a noun.  This is a perverse colloquialism which bugs the hell out of me personally.  I removed it from the page and added it above.--[[User:64.70.34.251|64.70.34.251]] 00:25, 10 Jul 2004 (UTC)
+
+:::: (1) Because it 'bugs the hell out of' you personally is scarcely an objective reason for removing it. (2) Is colloquial English somehow not real English? (3) What is 'bugs the hell out of me'? a colloquialism, certainly, and one that will irritate (or, as you might prefer, bug the hell out of) many people. &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:217.158.132.38|217.158.132.38]] ([[User talk:217.158.132.38|talk]] • [[Special:Contributions/217.158.132.38|contribs]]) 17:18, 6 November 2007 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned --&gt;
+
+::: Sorry, but just because you think something is a &quot;perverse colloquialism&quot; and it annoys you doesn't mean it's not a word. [[User:Nohat|Nohat]] 02:17, 2004 Jul 10 (UTC)
+
+:::Moreover, it's a perverse colloquialism that dates back to [[1659]]. &quot;1659 H. L'ESTRANGE Alliance Div. Off. 326 Bishop Cranmer..gives him an earnest invite to England.&quot; - the quotations in the OED are your friend :-D [[User:Phlogistomania|Phlogistomania]] 15:19, Jun 21, 2005 (UTC)
+
+:: Most (or all, I can't remember off the top of my head) of the above words were removed by Tannin as &quot;highly questionable&quot; or &quot;dodgy&quot;. (See the article's [http://en.wikipedia.org/w/wiki.phtml?title=Initial-stress-derived_noun&amp;action=history edit history].) I retrieved them from the history and listed them on the talk page so that they could be discussed. I would recommend that any other words removed from the article be added to the above list so that they can be discussed too. Oh, and &quot;accent&quot; ''does'' belong, according to the pronunciation described in the ''[[New Oxford Dictionary of English]]''. -- [[User:Oliver Pereira|Oliver P.]] 09:03, 12 Jan 2004 (UTC)
+
+::::The criterion is not whether you can find a dictionary which records a particular usage, but rather whether that usage is in widespread use. Of the 32 words listed at the time I write, 22 of them represent stress distinctions which I would observe. I am prepared to believe the other 10 are observed by some other English speakers. I would not delete them because I don't use them. &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:217.158.132.38|217.158.132.38]] ([[User talk:217.158.132.38|talk]] • [[Special:Contributions/217.158.132.38|contribs]]) 17:18, 6 November 2007 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned --&gt;
+
+:::I am surpised anyone would consider ''combat'' dubious: &quot;He was injured in COMbat&quot; (noun, accent on 1st syllable); &quot;How can we comBAT this problem?&quot; (verb, accent on second syllable).  Similarly ''proceeds''.  This is never used as a noun without the final ''s'' as far as I know: &quot;The proceeds will be donated to the starving pagans in Matagonia.&quot;  As for &quot;affix&quot;, I think that is frequently used as a noun, with the accent on the frist syllable, only by linguists and their ilk: a prefix, a suffix, an infix, and a circumfix are all affixes.  ''Prefix'' and ''suffix'' are nouns with the accent on the first syllable; ''affix'' is used similarly. [[User:Michael Hardy|Michael Hardy]] 21:31, 12 Jan 2004 (UTC)
+
+::::A proceed can be singular. The OED says that they're only &quot;almost always plural&quot;. There's a particularly nice quotation illustrating the singular usage: &quot;1891 STEVENSON Valima Lett. viii. (1895) 74 Dust and not flour is the proceed.&quot; [[User:Phlogistomania|Phlogistomania]] 15:22, Jun 21, 2005 (UTC)
+
+- minute
+:I just removed minute.  Though the verb means &quot;to record minutes&quot;, it is closely related to minute (meeting notes or the unit of time) which is accented the same.  Minute (the adjective meaning small) is, indeed accented differently, but this is an adj, not a verb.  - Charles  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/76.26.147.212|76.26.147.212]] ([[User talk:76.26.147.212|talk]]) 23:51, 17 November 2007 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== This topic is fascinating ==
+
+Folks here are pretty knowledgeable about this.  As a comment from a regular user, this topic is fascinating. I have a 5th grader who I have had an ongoing discussion about the importance of good pronunciation.  I came across this article after browsing the delete list.  From the perspective of someone who enjoys learning new things about the english language, this is a gem.  It strikes me it is also a big issue to the folks interested in computer translation of documents.  I'd encourage a title that would make the article findable if someone was interested in the topic of [[pronunciation]] [[User:Kd4ttc|Kd4ttc]] 18:47, 10 Jan 2004 (UTC)
+
+== ''Perfume'' ==
+
+Regarding perfume, this came up on a Sherlock search:
+perfume
+\Per*fume&quot;\, v. t. [imp. &amp; p. p. Perfumed; p. pr. &amp; vb. n. Perfuming.] [F. parfumer (cf. Sp. perfumar); par (see Par) + fumer to smoke, L. fumare, fr. fumus smoke. See Fume.] To fill or impregnate with a perfume; to scent.
+
+And Carmel's flowery top perfumes the skies. --Pope.
+
+perfume
+
+\Per&quot;fume\, n. [F. parfum; cf. Sp. perfume. See Perfume, v.] 1. The scent, odor, or odoriferous particles emitted from a sweet-smelling substance; a pleasant odor; fragrance; aroma.
+
+No rich perfumes refresh the fruitful field. --Pope.
+
+2. A substance that emits an agreeable odor.
+
+Note that the verb is accented on the second syllable, the noun on the first.
+Steve [[User:Kd4ttc|Kd4ttc]] 02:18, 11 Jan 2004 (UTC)
+
+:Actually, if I am [[scansion|scanning]] those right as [[iambic]] [[pentameter]], Pope is stressing both like we'd now stress the verb! [[User:Phlogistomania|Phlogistomania]] 15:24, Jun 21, 2005 (UTC)
+
+Reinserted perfume into list.  American Heritage College Dictionalry shows that as a transitive verb it is always accented on the second syllable, while as a noun it may be pronounced with the accent on either the first or second syllable. [[User:Kd4ttc|Kd4ttc]] 19:04, 11 Jan 2004 (UTC)
+
+In my experience the distinction between the two stresses of 'perfume' is almost always observed in Britain, but many (perhaps most?) North Americans do not distinguish them. &lt;br /&gt; -MD &lt;br /&gt; &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/217.158.132.38|217.158.132.38]] ([[User talk:217.158.132.38|talk]]) 17:09, 6 November 2007 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:While I've not been to England, I can attest that the distinction is common with American English speakers.  -[[User:Aeonoris|Aeonoris]] ([[User talk:Aeonoris|talk]]) 17:38, 10 April 2011 (UTC)
+
+== History merge ==
+
+This talk page became duplicated as a result of a copy-and-paste page move. I have merged the histories of both pages together, and have (I hope) restored all the comments in a way that makes sense, but you might like to check for yourselves... -- [[User:Oliver Pereira|Oliver P.]] 09:03, 12 Jan 2004 (UTC)
+
+== Other languages? ==
+
+There are other languages that also use the same process (I believe Hebrew does, but I don't speak it...).  Should this page be more general with English as a sub-heading? -mahern
+
+:This process is normally associated with languages with a low amount of inflexion (contrast Classical Greek, in which the noun &quot;perfume&quot; is &amp;#956;&amp;#965;&amp;#961;&amp;#959;&amp;#957;, whilst to say &quot;I perfume [DIRECT OBJECT]&quot; one would write &amp;#960;&amp;#961;&amp;#959;&amp;#956;&amp;#965;&amp;#961;&amp;#953;&amp;#950;&amp;#969; &amp;#960;&amp;#961;&amp;#959; [GENITIVE] - the stem &amp;#956;&amp;#965;&amp;#961;- is there in both words, but there are an awful lot of other things going on) and with a relatively low amount of consistency on which syllable carries the stress (contrast modern Italian, where the stress is almost always on the penultimate, except when marked with a grave on the ultimate (e.g. città) or an acute on the antepenultimate (e.g. Nápoli)). English is probably the strongest example of displaying both these characteristics. [[User:Phlogistomania|Phlogistomania]] 15:59, Jun 21, 2005 (UTC)
+:: I'd like to correct you in some details about modern Italian, being an Italian native speaker. The stress is not &quot;almost always&quot; on the penultimate, even if that's the most common case; also, the graphical stress is only compulsory if on the last syllable. So, whether the accent is on the penultimate or the antepenultimate is unpredictable, and even many native speakers tend to get some cases wrong. Napoli is the correct spelling, and Nàpoli would only ever be used by a dictionary to mark the stress - it's allowed but unexpected in real writing. Nápoli is today considered incorrect; 'a', 'i', 'u' can only take a grave accent, while on 'e' and 'o' the used accent must be the grave for open vowels (IPA /ɛ/, /ɔ/), and the acute for closed vowels (IPA /e/, /o/). I've found mention of the rule you describe in the Italian wikipedia ([http://it.wikipedia.org/wiki/Accento_grafico#L.27accento_grave_.28.60.29_e_l.27accento_acuto_.28.C2.B4.29_in_italiano]), as used until some decades ago (until the reform of 1967).
+:: Finally, utensile can be both a noun and an adjective, and can have different stress in the two cases; the adjective must be pronounced utènsile, the noun is utensìle, or less frequently utènsile. I don't think there are many other cases, if any. --[[User:Blaisorblade|Blaisorblade]] ([[User talk:Blaisorblade|talk]]) 18:10, 18 February 2009 (UTC)
+
+I believe [[Portuguese language|Portuguese]] also has this process. [[User:FilipeS|FilipeS]] 17:46, 27 February 2007 (UTC)
+
+Regarding Hebrew: Polysyllabic Hebrew verbs never (or almost never) have first-syllable stress, while Hebrew nouns often do, and it seems quite plausible that there would be some verb-noun pairs that differ only in this regard (though I can't think of any offhand). Nonetheless, I'd hesitate to say that shifting the stress is a productive way to form nouns from verbs, as it is in English; rather, nouns are formed in various ways (called ''mishkalim'') from roots (''shorashim''), and verbs are formed in various different ways (called ''binyanim'') from the same roots, and it would almost seem coincidental to me if there are mishkalim that differ from binyanim only in stress placement. —[[User:Ruakh|Ruakh]]&lt;sub&gt;&lt;small&gt;&lt;i&gt;[[User_talk:Ruakh|TALK]]&lt;/i&gt;&lt;/small&gt;&lt;/sub&gt; 20:56, 27 February 2007 (UTC)
+
+== Rationale for spelling differences in some pairs ==
+
+There are two examples (envelop/envelope, unit/unite) where the spelling is different in the name and in the verb. In both cases, after learning about the [[silent e]] feature of English spelling, one could say that the stress change prompted for a different (i.e. tense) pronunciation of the vowel in the last syllable (the 'o' in envelope, the 'i' in unite), which was reflected in spelling by the addition of a silent 'e'. I can't add it to the article since that is absolutely original research and I'm not a linguist, but is there some reputable source claiming this? --[[User:Blaisorblade|Blaisorblade]] ([[User talk:Blaisorblade|talk]]) 18:21, 18 February 2009 (UTC)
+
+: I suspect you're more likely to get a good answer to that question at [[Wikipedia:Reference desk/Language]] or in specialized internet forums, than here. [[User:Michael Hardy|Michael Hardy]] ([[User talk:Michael Hardy|talk]]) 22:02, 18 February 2009 (UTC)
+
+== Exceptions ==
+
+A list of exceptions (for example &quot;comment&quot; stressed on the first syllable either as a noun or as a verb) may be useful here.--[[User:S.Camus|S.Camus]] ([[User talk:S.Camus|talk]]) 11:41, 29 May 2009 (UTC)
+
+I have compiled the following list of exceptions so far (at least in British English, RP):
+Posture&lt;br /&gt;
+Order&lt;br /&gt;
+Patent&lt;br /&gt;
+Rebuke&lt;br /&gt;
+Breakfast&lt;br /&gt;
+Lunch&lt;br /&gt;
+appeal&lt;br /&gt;
+bicycle, &lt;br /&gt;
+motor,&lt;br /&gt;
+Repeal&lt;br /&gt;
+bypass&lt;br /&gt;
+function&lt;br /&gt;
+sentence&lt;br /&gt;
+challenge&lt;br /&gt;
+party&lt;br /&gt;
+wager&lt;br /&gt;
+mortgage&lt;br /&gt;
+reply&lt;br /&gt;
+purpose&lt;br /&gt;
+return&lt;br /&gt;
+affray&lt;br /&gt;
+array&lt;br /&gt;
+comment&lt;br /&gt;
+reward&lt;br /&gt;
+&lt;br /&gt;[[User:MoreToThisWorld|MoreToThisWorld]] ([[User talk:MoreToThisWorld|talk]]) 05:56, 1 November 2014 (UTC)
+
+== ''Bombard'' ==
+
+See [[Bombard (weapon)]].  Should ''bombard'' be on this list? [[User:Michael Hardy|Michael Hardy]] ([[User talk:Michael Hardy|talk]]) 05:51, 24 August 2009 (UTC)
+
+== &quot;alternate&quot;? ==
+
+In my experience of this word, it's pronounced so that its last syllable rhymes with &quot;eight&quot; when it's a verb, but the vowel in the last syllable is maximally [[reduced vowel|reduced]] when it's a noun or an adjective.  But I've never heard it pronounced with the accent on a later syllable than the first, so it would appear not to belong on this list.  I deleted it. [[User:Michael Hardy|Michael Hardy]] ([[User talk:Michael Hardy|talk]]) 16:45, 24 June 2011 (UTC)
+
+== Wiktionary ==
+
+A category relating to initial stress–derivation can be created under [[wikt:Category:English terms by etymology]], and a template to be placed in the Etymology sections of articles. Not sure precisely how this should be done, but I think this etymology-related category would be the most appropriate place for it. — [[User:Erutuon|Eru]]·[[User_talk:Erutuon|tuon]] 04:57, 18 December 2014 (UTC)
+	</talkpage>
+</article>

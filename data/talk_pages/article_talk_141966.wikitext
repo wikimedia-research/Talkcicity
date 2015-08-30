@@ -1,0 +1,306 @@
+<article id="141966" title=Talk:Lists of mathematicians>
+	<talkpage id="141966" title="Talk:Lists of mathematicians">
+{{maths rating|frequentlyviewed=yes|class=List|priority=Low|field=general}}
+__TOC__
+== Who is Joel David Bondurant? ==
+
+I have never heard of him (which doesn't mean much), and I can't find anything on the web.
+
+:Since I have had no reply, and can find no references on the web, I have deleted Joel David Bondurant. I think to be on this list Mathematicians should have some theorem, proof or claim to fame. Just as I would not add my mother-in-law to a list of artists, though she does a fair watercolour, it is not just enough to do maths. Of course, if someone knows that he has some claim to fame in the mathematics world then add him again, perhaps with a page to describe his work. -- [[User:Chris Q|Chris Q]] 07:48 Nov 5, 2002 (UTC)
+
+== Questioning other Entries ==
+
+Why is [[Christopher Wren]] on this list?  He is a famous architect, but -- as far as I know -- not a mathematician.     Also, his page does not mention the
+word &quot;math&quot; at all. [[User:Aleph4|Aleph4]] 20:12, 5 Nov 2003 (UTC)
+
+:See http://www-history.mcs.st-and.ac.uk/history/Mathematicians/Wren.html.  Nevertheless, I am tempted to remove him from the list of mathematicians.  [[User:Dominus|Dominus]] 20:25, 5 Nov 2003 (UTC)
+
+:Wren is usually mentioned in a History of Math text.  [[User:gbeehler|gbeehler]] 5:18, 6 Nov 2003 (UTC)
+
+Isn't it a bad general idea to make listing here a 'recognition' matter?
+
+[[User:Charles Matthews|Charles Matthews]] 09:30, 6 Nov 2003 (UTC)
+
+:No.  Who cares about people who haven't contributed anything demonstrably significant to Mathematics?  There are plenty of people who have. [[User:MrJones|MrJones]] 11:48, 6 Nov 2003 (UTC)
+
+----
+
+What is the rule for country attribution? I changed the country for Janos and Farkas Bolyai -  two Hungarian mathematicians, whose city of birth now lies in Romania - to Hungary. I think this priciple is better, as all the ancient Greek/Persian/Arab mathematicians are also listed by historic countries.
+
+: I don't think we have established rules. -- [[User:Waltpohl|Walt Pohl]] 21:00, 14 Mar 2004 (UTC)
+
+----
+
+I'm not sure why Asger Aaboe is on this list, but since he was there, I filled in his full name.  -- [[User:Dominus|Dominus]] 14:27, 22 Mar 2004 (UTC)
+
+----
+
+I added [[Alexander Dewdney|A. K. Dewdney]] and touched up his article a bit also.  But 1) I'm unable to find more bio on him (such as birthdate), &amp; 2) I'm mildly surprised that the famous [[Mathematical Recreations]] column in ''[[Scientific American]]'' (which was Dewdney's for a while) has no entry yet. -- [[User:Ds13|Ds13]] 06:29, 2004 Apr 15 (UTC)
+
+
+----
+Would it be interesting to have a separate list of people who received academic training in mathematics but became famous for something other than math or science (might help dispell stereotypes about mathematicians) ? The list would include [[Tom Lehrer]], [[Ahmed Chalabi]], [[J. P. Morgan]], the [[Unabomber]], [[Alexander Solzhenitsyn]], [[Harry Blackmun]], [[David Dinkins]], [[Bram Stoker]], [[Art Garfunkel]], [[Robert A. Heinlein]], and [[Larry Ellison]]. Maybe [[Christopher Wren]] and [[Lewis Carroll]]. [[User:Loren Rosen|Loren Rosen]] 06:54, 25 May 2004 (UTC)
+
+== Aleksandrov ==
+
+[[List of mathematicians|The article]] was subject to [http://en.wikipedia.org/w/wiki.phtml?title=List_of_mathematicians&amp;diff=5034442&amp;oldid=4996357 an edit]that is described in [http://en.wikipedia.org/w/wiki.phtml?title=List_of_mathematicians&amp;action=history the history] by 
+: 12:05, 2004 Aug 4 [[User:BACbKA|BACbKA]] (another Alexandrov (A.D.) added, life ranges added for both) 
+That edit added the following Wiki-markup, including a complete entry:
+: *[[Aleksandr Danilovich Aleksandrov]] (Russia, [[1912]] - [[1999]])
+&lt;!-- A.D. was born before the USSR was formed and died after it has disintegrated.
+P.S. Alexandrov died still during the Soviet period, hence I am not modifying the USSR there...
+[[User:BACbKA|BACbKA]] 12:05, 4 Aug 2004 (UTC)
+---&gt;
+(The edit also added dates for [[Pavel Sergeevich Alexandrov]].) As can be seen by editing this section, that markup includes a note left inside a comment: 
+: A.D. was born before the USSR was formed and died after it has disintegrated.
+: P.S. Alexandrov died still during the Soviet period, hence I am not modifying the USSR there...
+This is potentially cryptic, especially since &quot;P.S.&quot; is a relevant standard English abbreviation (and A.D. one at least associated with dates). One might infer the following confusing meaning: 
+: A.D. [Alexandrov] ... died after [the USSR] has disintegrated.
+: P[ost].S[cript]. [i.e., &quot;Oh, i forgot to say:&quot;, or &quot;By the way, though it didn't fit in well above, i'll mention this:&quot;] [this same] Alexandrov died still during the Soviet period [which extends beyond that disintegration] ...
+But that would be mistaken: 
+: &quot;A.D.&quot; and &quot;P.S.&quot; should be understood in the context of the Russian practice of referring to males by their given name and  their [[patronymic]], i.e. what English-speakers generally construe simply as &quot;a middle name&quot;, and 
+: the involvement in the edit of &quot;another Alexandrov&quot; must be kept in mind.  
+
+The editor implies fairly clearly that they ignored the fact that Aleksandr Danilovich Aleksandrov was a Soviet citizen for roughly ages 6 thru 78, seeing the birth and death status as reason to label him with &quot;Russia&quot;. IMO the correct construction of the part starting with &quot;P.S.&quot; is:
+:In contrast, '''P'''avel who was '''S'''ergei's son ''died'' as a Soviet, so i let his nationality stand as &quot;USSR&quot; rather than changing it to &quot;Russia&quot;.
+--[[User:Jerzy|Jerzy]][[User talk:Jerzy|(t)]] 16:20, 2004 Aug 31 (UTC)
+
+== Do cryptographers and geneticists belong here? ==
+
+I am in process of putting here the mathematicins from the [[list of mathematical topics]]. The question is, should I also list the cryptographers from there? I couple I saw are [[Étienne Bazeries]] and  [[Whitfield Diffie]]. Thanks. [[User:Oleg Alexandrov|Oleg Alexandrov]] 03:10, 24 Apr 2005 (UTC)
+
+:I finished adding the mathematicians from the [[list of mathematical topics]] (well, the ones which are in a mathematician category and not the redlinks). There are some people whom I don't know what to do about. I place them here, feel free to add them if you believe it is useful. I will remove them from the [[list of mathematical topics]]. [[User:Oleg Alexandrov|Oleg Alexandrov]] 01:01, 29 Apr 2005 (UTC)
+
+* [[Étienne Bazeries]] -- military cryptanalyst
+* [[Whitfield Diffie]] --  cryptographer
+* [[William F. Friedman]] -- cryptologist
+* [[Martin Hellman]] -- cryptologist
+* [[Bruce Schneier]] -- cryptographer
+* [[John Maynard Smith]] -- evolutionary biologist and geneticist
+
+== [[Talk:List of Indian mathematicians]] ==
+
+* Halló! Please see also [[Talk:List of Indian mathematicians]]. Best regards [[User:Gangleri|Gangleri]] | [{{SERVER}}{{localurl:User talk:Gangleri|action=history}} Th] | [[{{ns:User_talk}}:Gangleri|T]] 09:29, 10 August 2005 (UTC)
+
+== My recent changes (or which is the last name) ==
+
+I replaced links of the form 
+
+:&lt;nowiki&gt;[[Abraham bar Hiyya Ha-Nasi]]&lt;/nowiki&gt;
+
+with
+
+:&lt;nowiki&gt;[[Abraham bar Hiyya Ha-Nasi|Abraham bar Hiyya Ha-Nasi]]&lt;/nowiki&gt;
+
+Ideally, this link should be of the form
+
+:&lt;nowiki&gt;[[Abraham bar Hiyya Ha-Nasi|bar Hiyya Ha-Nasi, Abraham]]&lt;/nowiki&gt;
+
+however, I have no idea if this split in first name/last name format is gramatically correct. 
+
+Now, you may ask why I need to bother creating links of the form &lt;nowiki&gt;[[XXX|YYY]]&lt;/nowiki&gt; instead of simply &lt;nowiki&gt;[[XXX]]&lt;/nowiki&gt;. The reason is that I plan to sort and update this list automatically. And sorting proper names is a nightmare; no program can reliably figure out given a name which is first name and which is last name, and whether this split makes sense in a given setting. 
+
+So, I went through the existing links, and wherever I could I replaced links of the form
+
+:&lt;nowiki&gt;[[First Last]]&lt;/nowiki&gt;
+
+by
+
+:&lt;nowiki&gt;[[First Last|Last, First]]&lt;/nowiki&gt;.
+
+In places where I could not figure out the first and the last names, I just replaced
+
+:&lt;nowiki&gt;[[XX YY]]&lt;/nowiki&gt;
+
+with
+
+:&lt;nowiki&gt;[[XX YY|XX YY]]&lt;/nowiki&gt;.
+
+Any help in figuring out the first names and last names (and if this at all makes sence) for Arabic and Chinese names is very welcome. [[User:Oleg Alexandrov|Oleg Alexandrov]] 20:19, 13 August 2005 (UTC)
+
+== Sorting mathematicians (comments?) ==
+
+I sorted the mathematicians in this list. The sorting algorithm is as follows:
+
+* If a name is in the form 
+
+::&lt;nowiki&gt;[[First Last|Last, First]]&lt;/nowiki&gt;
+
+:then it was sorted by &quot;Last&quot;, that is, by the family name.
+
+* Names of the form
+
+::&lt;nowiki&gt;[[XX YY]]&lt;/nowiki&gt;
+: that is, without a pipe, were sorted by &quot;XX&quot;. For example, [[Leonardo of Pisa]] is sorted by &quot;Leonardo&quot; and not by &quot;Pisa&quot;.
+
+*Names like 
+
+::&lt;nowiki&gt;[[Bartel Leendert van der Waerden|van der Waerden, Bartel Leendert]]&lt;/nowiki&gt;
+: were sorted by &quot;Waerden&quot;, even if the last name starts with &quot;van&quot;. This because I think the &quot;van&quot; and &quot;der&quot; are just prepositions, and not part of the name. 
+
+* I still don't know how to tweak my algorithm to sort [[Guillaume François Antoine, Marquis de l'Hôpital]] by &quot;Hôpital&quot; instead of &quot;Guillaume&quot;, or instead of &quot;Marquis&quot;. 
+
+As it can be seen, sorting people by last name is a mess. Any suggestions for improving the sorting algorithm are welcome. [[User:Oleg Alexandrov|Oleg Alexandrov]] 21:08, 13 August 2005 (UTC)
+
+== Recent edit summaries ==
+
+Recently my bot updates this list in fully automatic mode, after being under close monitoring for a while. Sorry for the silly edit summary though, I forgot to change it to something more meaningful, and then I was busy with other things these days and forgot to check. Fixed now. [[User:Oleg Alexandrov|Oleg Alexandrov]] 04:12, 2 October 2005 (UTC)
+
+== Sorting ==
+
+I think that Willard Van Orman Quine must be sort in Q; Abul-Wafa Al-buzjani in B; Johann P.G. Lejeune Dirichket in L.; van Waveren Hudde in H.--[[User:Honcharov A.V.|Honcharov A.V.]] 13:30, 16 October 2005 (UTC)
+
+: To have Willard Van Orman Quine sort in Q, write that link as 
+:: &lt;nowiki&gt;[[Willard Van Orman Quine|Quine, Willard Van Orman]]&lt;/nowiki&gt;
+: and my [[User:mathbot|bot]] will sort it in the right place next time it updates the page (in at most one day). Same for the others. There are around 1500 items in this list, when I first started sorting them I used an algorithm to guess the sort key, and I could not always get it right. [[User:Oleg Alexandrov|Oleg Alexandrov]] ([[User talk:Oleg Alexandrov|talk]]) 14:06, 16 October 2005 (UTC)
+
+Articles de, della, du, ibn, van, von are ignored by sorting. Why does article Al not ignore?--[[User:Honcharov A.V.|Ahonc]] 07:46, 22 October 2005 (UTC)
+: Done. [[User:Oleg Alexandrov|Oleg Alexandrov]] ([[User talk:Oleg Alexandrov|talk]]) 08:03, 22 October 2005 (UTC)
+Why Marquis de Condorcet sorted on Ma, but not on Ca or Co?--[[User:Honcharov A.V.|Ahonc]] 10:51, 11 November 2005 (UTC)
+
+: Because my bot sorts by the name, the part after the pipe in &lt;nowiki&gt;[[First Last|Last, First]]&lt;/nowiki&gt;. I put that person's name now as &quot;Caritat, Marie Jean Antoine Nicolas, marquis de Condorcet&quot;, this will force my bot to sort it at &quot;C&quot;. Mr Honcharov, thank you for your help. I think I spent 20 hours of my life at some point trying to fix this list, but it seems it is just a blackhole, all because people can have all these weird names. [[User:Oleg Alexandrov|Oleg Alexandrov]] ([[User talk:Oleg Alexandrov|talk]]) 19:30, 11 November 2005 (UTC)
+
+== Years ==
+
+I find some differencies in year in others Wikipedias (German, French). Fior example, see Apianus in German and French Wikipedia. 
+
+di Giorghi - wrong years
+
+(unsigned post by [[User:Honcharov A.V.|Honcharov A.V.]])
+
+: My bot gets the years from the categories. For example, for [[Apianus]], it reads from the bottom of that article &quot;Categories: 1495 births | 1557 deaths&quot; and puts that info in here. If you want to change the dates, better correct them in individual articles, then my bot will transfer that information in this list.
+
+: Now, the curse of dates is that they can be wrong. One can double check dates at at [http://www-groups.dcs.st-and.ac.uk/~history/ McTutor] and on the internet. That's life. :) [[User:Oleg Alexandrov|Oleg Alexandrov]] ([[User talk:Oleg Alexandrov|talk]]) 14:12, 16 October 2005 (UTC)
+
+But in Deutsch Wikipedia and in MacTutor wrote that Apianus died in 1552.
+
+di Giorghi cannot bore after his death!!!
+[[User:Honcharov A.V.|Honcharov A.V.]] 08:03, 18 October 2005 (UTC)
+: So I guess you can fix it here, in the article [[Apianus]], its category, and if you with, also in the [[list of mathematicians]], although the bot will do the latter thing for you anyway. :) [[User:Oleg Alexandrov|Oleg Alexandrov]] ([[User talk:Oleg Alexandrov|talk]]) 08:06, 18 October 2005 (UTC)
+
+== Countries ==
+
+Mr. Honcharov has been adding country information to various mathematicians. That is great, with one big problem. Next time my bot updates this list, it will overwrite the country info with whatever information is available in the mathematician article. For example, [[Carl Friedrich Gauss]] will go from being a Holy Roman Empire mathematician back to being merely German mathematician, because at the bottom of the [[Carl Friedrich Gauss]] article it is listed in [[:Category:German mathematicians]]. 
+
+I can easily modify my bot so that it does not mess up with existing country information. The big problem is that most of the time it is actually conventient to get country information from categories and overwriting this list. What to do? [[User:Oleg Alexandrov|Oleg Alexandrov]] ([[User talk:Oleg Alexandrov|talk]]) 09:41, 18 October 2005 (UTC)
+
+:You must see articles about all German &amp; Italian mathematicians who lived between 1806 and 1871 and write countries for them manually.
+
+:To 1806 Germany and Northern Italy were parts of Holy Roman Empire.
+--[[User:Honcharov A.V.|Ahonc]] 10:24, 21 October 2005 (UTC)
+:: Is it worth the trouble? One should be able to read these details in the articles themselves. [[User:Oleg Alexandrov|Oleg Alexandrov]] ([[User talk:Oleg Alexandrov|talk]]) 10:45, 21 October 2005 (UTC)
+Are Persia in Arabia same countries is this list? [[User:Honcharov A.V.|Ahonc]] 08:27, 22 October 2005 (UTC)
+: I don't know. Again, I did not invent the country information. :) I read it from articles. If you want to change the country information for a mathematician, you should change the category in that mathematician's article. Then the change will propagate here. [[User:Oleg Alexandrov|Oleg Alexandrov]] ([[User talk:Oleg Alexandrov|talk]]) 08:34, 22 October 2005 (UTC)
+:: And if you change things here, but you don't change in the mathematician articles, my bot will overwrite the changes. That's life. Without a bot this list would have been half this size. A bot forces certain things to be done in certain ways. [[User:Oleg Alexandrov|Oleg Alexandrov]] ([[User talk:Oleg Alexandrov|talk]]) 08:36, 22 October 2005 (UTC)
+::: persia is the historical name of iran. this name should logically refer also to newly-created countries like tajikistan, bahrain, afghanistan, iraq, .. . however arabia does not exist. did you mean saudi-arabia? if so, it has never been part of persia, as far as i know. in my opinion, the correct way of associating countries to individuals is by birth (now in ..) and death (now in ..). Darw. on 21 Feb 2006.
+ 
+And why did your bot change country information about Gauss?!! I change it again.--[[User:Honcharov A.V.|Ahonc]] 09:30, 22 November 2005 (UTC)
+
+== Amateur mathematicians ?!? ==
+
+What's the point of the list of amateur mathematicians ?!? I could add myself to the list,how about that ?
+[[User:Stefan Udrea|Stefan Udrea]] 22:24, 30 October 2005 (UTC)
+
+:On Wikipedia, you should ''always'' understand the word 'famous'. We don't say 'list of famous mathematicians', for example, but everyone understands it is that. [[User:Charles Matthews|Charles Matthews]] 12:53, 22 November 2005 (UTC)
+
+== Fighting my bot ==
+
+This is a message primarily for Honcharov A.V., but also for everybody who attempts to update this list.
+
+The way my bot works, it goes through the mathematician categories at [[list of mathematics categories]] and searches for mathematicians, whom it puts in this list. The bot also downloads actual articles, and gets from there birth/death/country information (from the categories at the bottom of articles).
+
+The bot gives more priority to what is in those article pages than to what is in this list, so stuff in this list may be overwritten. This is by design. I assume that more accurate information can be found in the article than here. That is, if you want to change a mathematicians's name, or country, or dates of birth/death, you must change ''in the mathematician's article'', and the change will propagate here. If you change here but not there, your changes ''will be overwritten''.
+
+For example, we have a duplicate now for Fourier, there is both 
+
+:&lt;nowiki&gt;[[Joseph Fourier|Fourier, Joseph]] (France, 1768 – 1830)&lt;/nowiki&gt;
+
+and
+
+:&lt;nowiki&gt;[[Jean Baptiste Joseph Fourier|Fourier, Jean Baptiste Joseph]] (France, 1768 – 1830)&lt;/nowiki&gt;
+
+There is no point in removing the first entry from this list, my bot will add it back. This because the article about Fourier is called [[Joseph Fourier]] and the other one, [[Jean Baptiste Joseph Fourier]] is just a redirect to it. You either remove the second entry, and the bot will not put it back, or move the article [[Joseph Fourier]] to [[Jean Baptiste Joseph Fourier]], then the first will become a redirect, and my bot will not add it.
+
+In the same way, don't attempt to change here the entry for Gauss from
+
+:&lt;nowiki&gt; [[Carl Friedrich Gauss|Gauss, Carl Friedrich]] (Germany, 1777 – 1855)&lt;/nowiki&gt;
+
+to 
+
+:&lt;nowiki&gt; [[Carl Friedrich Gauss|Gauss, Carl Friedrich]] (Holy Roman Empire/Kingdom of Hanover, 1777 – 1855)&lt;/nowiki&gt;
+
+In the [[Carl Friedrich Gauss]] article, he is listed in the German mathematicians category, so my bot will rename the more historically accurate Holy Roman Empire/Kingdom of Hanover back to Germany.  If you want Gauss to be indeed in the Holy Roman Empire/Kingdom of Hanover, you need to change that information in the article about Gauss (there might need to be some discussion about it, as it would be a big change).
+
+I stated all this before, but I would like to write here clearly again, to make sure people do not spend their time changing things which my bot will overwrite. 
+
+By the way, my bot does not detect when an article gets moved. That's why sometimes new duplicates show up. I have a code to detect that, but I run it seldom, say once in a month or two. So help with removing duplicates is appreciated, as long as you remove the redirect and not the actual article (which my bot will put back). [[User:Oleg Alexandrov|Oleg Alexandrov]] ([[User talk:Oleg Alexandrov|talk]]) 17:39, 22 November 2005 (UTC)
+
+: May be we must not write &quot;?- &quot; for Bourbaki and The Martians because It is groups of mathematicians.--[[User:Honcharov A.V.|Ahonc]] 13:49, 23 November 2005 (UTC)
+
+:: You are right. This will require me to modify the code. I will try to get to it soon. --Unsigned by [[User:Oleg Alexandrov|Oleg Alexandrov]] ([[User talk:Oleg Alexandrov|talk]]) 01:54, 30 November 2005 (UTC) several days ago.
+
+::: Done. [[User:Oleg Alexandrov|Oleg Alexandrov]] ([[User talk:Oleg Alexandrov|talk]]) 01:54, 30 November 2005 (UTC)
+
+==Suggestions for [[User:Mathbot|mathbot]]==
+
+[[User:Honcharov A.V.|Ahonc]] suggested on my talk page (in Russian) that the bot should not modify the country for the mathematicians in this list. I would not agree with that. I would think it is good to keep synchronized with the information in the mathematician article. If the country changes there, I think it is good for it to change here. I wonder what other people think. If there are more opinions favoring that, I will do it. [[User:Oleg Alexandrov|Oleg Alexandrov]] ([[User talk:Oleg Alexandrov|talk]]) 17:00, 23 November 2005 (UTC)
+:I don't understand why do you think so. If the entry is full we must not change it. For example
+* Abel, Niels Henrik (Norway, 1802 &amp;mdash; 1829)
+How can you change it? I think. That it doesn't need change. It is full entry.--[[User:Honcharov A.V.|Ahonc]] 11:55, 26 November 2005 (UTC)
+:: Often times a mathematician gets recategorized; for example, a new category is added or the old one is removed. I think there is no point in having different information about a mathematician in this list as compared to the mathematician's biography article. That is to say, if you want Gauss to be a Holy Roman Empire mathematician, you could as well add him to the [[:Category:Holy Roman Empire mathematicians]] then the bot will copy that info here. Of course, you better ask on the talk page of Gauss, to see what people have to say. [[User:Oleg Alexandrov|Oleg Alexandrov]] ([[User talk:Oleg Alexandrov|talk]]) 19:33, 26 November 2005 (UTC)
+::: See [http://en.wikipedia.org/w/index.php?title=List_of_mathematicians&amp;curid=80143&amp;diff=29309531&amp;oldid=29280038 this] for an example (country changed from England to Britain). This kind of stuff is better dealt with on the article page than in this list, as  things are more visible there). [[User:Oleg Alexandrov|Oleg Alexandrov]] ([[User talk:Oleg Alexandrov|talk]]) 00:06, 27 November 2005 (UTC)
+
+==removing some recent entries==
+The following recently-added figures, according to their bios, were/are not actually mathematicians. I'm removing them. They could be re-added if justification/references are provided. (Note that physicists should not be on this list unless they're also mathematicians; just being physicists who use mathematics doesn't count.)
+
+* [[Bharata Muni|Muni, Bharata]] (India, circa 450 BC)
+* [[Chandrasekhara Venkata Raman|Raman, Chandrasekhara Venkata]] (India, 1888 – 1970)
+* [[George Sudarshan|Sudarshan, George]] (India, 1931 – ) /*&quot;interest in fibre bundles&quot; in the mathematical sense? Has he published anything on them? That might qualify, possibly. */
+* [[Gopalasamudram Narayana Iyer Ramachandran|Ramachandran, Gopalasamudram Narayana Iyer]] (India, 1922 – 2001)
+* [[Jagdish Chandra Bose|Bose, Jagdish Chandra]] (India, 1858 – 1937)
+* [[Meghnad Saha|Saha, Meghnad]] (India, 1893 – 1956)
+
+Several others in the same group seem to be at least arguably OK. I left [[Yajnavalkya]] even though today he'd be an astronomer, not a mathematician; back then there probably wasn't a clear distinction. Still, either he ought to be added to some subcat of [[:Category:Mathematicians]] or else removed from this list. There were a lot of redlinks added at the same time: D.K. Ray-Chaudhuri, Gadadhara Bhattacharya, Jagadisha Tarkalankara, M.V. Subbarao, Mathuranatha Tarkavagisha, Pakshadhara, Raghunatha Shiromani, Sankara Narayana, Shankara Mishra, Vasudeva Sarvabhauma, Vijayanandi, Yativrsabha, and Yavanesvara. Since these people don't have WP articles, it's harder for me to check whether they belong or not, but the circumstances of their addition to the list are not encouraging; maybe someone should check. --[[User:Trovatore|Trovatore]] 06:39, 22 February 2006 (UTC)
+
+== Mathbot limitations ==
+
+[[User:Mathbot|Mathbot]], which updates this [[list of mathematicians]], gets the dates of birth and country from categories (for example, at [[Archimedes]], the country is Ancient Greece, and the birth year is 287. Any modifications to dates and countries, like [http://en.wikipedia.org/w/index.php?title=List_of_mathematicians&amp;diff=40885631&amp;oldid=40753612 these], will unfortunately be overwritten with information from the categories in the [[Archimedes]] articles and the others. 
+
+This is by design, seems that keeping the mathematicians articles with their entries in this list is the better thing to do. But then, if you want to change something about dates or country, you should not do it here, where information will be overwritten, but in the articles themselves. Thanks. [[User:Oleg Alexandrov|Oleg Alexandrov]] ([[User talk:Oleg Alexandrov|talk]]) 18:42, 23 February 2006 (UTC)
+
+:So it's of no use to add them by hand ? (I just created [[Raphaël Salem]] as { { mathematician-stub } } - will your bot find it ?) &amp;mdash; [[User:MFH|MFH]]:[[User talk:MFH|Talk]] 16:41, 16 March 2006 (UTC)
+::Generally, when you create a stub article, you should put it in a permanent category as well as a stub category. For example [[Raphaël Salem]] should be in [[:Category:20th century mathematicians]] and [[:Category:Greek mathematicians]], at least. --[[User:Trovatore|Trovatore]] 16:46, 16 March 2006 (UTC)
+
+And, is addition in Births / Deaths sections of the respective years (and days) also somehow automatized ?&amp;mdash; [[User:MFH|MFH]]:[[User talk:MFH|Talk]]
+
+: If you create an aritcle, you need to enter the category of nationality and birth and death categories by hand in the article. My bot will then copy the mathematician's name as well as all other data to this list. [[User:Oleg Alexandrov|Oleg Alexandrov]] ([[User talk:Oleg Alexandrov|talk]]) 16:48, 16 March 2006 (UTC)
+
+== Karl Ernst Krafft ==
+What did Krafft do to get on this list?  I think he is an astrologer, not even an astronomer. [[User:Giftlite|Giftlite]] 03:27, 12 May 2006 (UTC)
+: I removed it. Thanks for the note. [[User:Oleg Alexandrov|Oleg Alexandrov]] ([[User talk:Oleg Alexandrov|talk]]) 19:38, 30 June 2006 (UTC)
+
+== Deletion ==
+This list and most other lists of mathematicians will be deleted under this proposal: [[User:Sidatio/Proto WP:LIST]], specifically the part which says &quot;there should be at least three criteria for inclusion on a stand-alone list of people&quot;. [[User:Kappa|Kappa]] 05:27, 16 August 2007 (UTC)
+: I doubt this proposal would pass. This list is very useful anyway, and it is unlikely it will get deleted even if the proposal passes. [[User:Oleg Alexandrov|Oleg Alexandrov]] ([[User talk:Oleg Alexandrov|talk]]) 15:27, 16 August 2007 (UTC)
+
+==Can we have a list of famous mathematicians only?==
+This list would stand a chance for deletion as it has little but dates to add to the category mathematicians (don't worry, I won't propose deletion; there's much too much work here and I've been on the receiving end of deleted lists myself). However, most other lists of scientist are restricted to at most a few hundred famous representatives, preferably with their specializations and/or most notable achievement, while this list seems to add all people with a mathematician category and a wikipedia entry (in effect duplicating the category's job). A list of famous individuals is subjective and needs policing, but it is also useful (e.g. to get an overview of the major achievements in math). [[User:Afasmit|Afasmit]] 06:09, 11 November 2007 (UTC)
+
+==RfC: What is a mathematician?==
+{{rfc|sci|bio|rfcid=EB2F015}}
+It seems to be widely accepted that any one of the following three criteria is sufficient for being called a &quot;mathematician&quot;: (1) having a doctorate in math, (2) teaching math at a tertiary institution, (3) conducting original math research. Should other criteria also be used? If so, which of the following groups of people should be called &quot;mathematicians&quot; even if they do not meet any of the preceding criteria?
+:*(A) Artists who use mathematical ideas in their art (e.g. [[Ada Dietz]], [[M.C. Escher]])
+:*(E) Math education theorists (e.g. [[Robert M. Gagné]], [[Robert Parris Moses]])
+:*(H) Historians or philosophers of math (e.g. [[Jacob Klein (philosopher)]], [[W.V. Quine]])
+:*(P) Popularizers of math (e.g. [[Martin Gardner]], [[Lily Serna]])
+:*(Ps) Psychologists of math (e.g. [[Brian Butterworth]], [[Stanislas Dehaene]])
+--[[User:Sammy1339|Sammy1339]] ([[User talk:Sammy1339|talk]]) 22:34, 21 August 2015 (UTC)
+:Sammy, please see [[Wikipedia:Forum shopping]] and don't start new discussions at other locations when there are perfectly good existing discussions whose consensus seems to be going against you. This discussion started at [[Talk:List of female mathematicians]] and seems to be continuing perfectly well there. Asking here for more input to the existing discussion is appropriate (as I did for instance already at [[WT:WPM]]); starting a new discussion here with no reference to the previous discussion is not. —[[User:David Eppstein|David Eppstein]] ([[User talk:David Eppstein|talk]]) 23:56, 21 August 2015 (UTC)
+::Sorry, you're right. I thought it was sufficient to link to this discussion from there. Anyway, anyone can see the original discussion now. --[[User:Sammy1339|Sammy1339]] ([[User talk:Sammy1339|talk]]) 00:24, 22 August 2015 (UTC)
+*'''None'''. I am in favor of construing the term relatively strictly, in line with the common definitions of all sorts of scientists. I do not object to listing people falling in any of the above categories in separate sections of &quot;list of mathematicians&quot; articles, but this should be done without claiming they are mathematicians. I also note that many of the people in the lettered categories already qualify by criteria (1)-(3) anyway, and I of course have no objection to calling those people mathematicians. --[[User:Sammy1339|Sammy1339]] ([[User talk:Sammy1339|talk]]) 00:35, 22 August 2015 (UTC)
+*'''Have you stopped beating your wife?''' The question is written in such a way as to presuppose the answer Sammy wants, and is therefore too non-neutral to produce valid results. In particular, neither having a mathematics Ph.D., nor being a mathematics professor, not publishing mathematics research, are sufficient to be listed in any of these lists, if one is not ''notable'' for those activities. So I believe the correct phrasing is that one should be listed in any of these lists if one has done something notable in mathematics. Note that mathematics is a strict subset of the union of (mathematics research, conducting tertiary education in mathematics) and includes also mathematical pedagogy research, mathematics popularization, philosophy of mathematics, history of mathematics, mathematical art, mathematical textbook writing, etc. If a subject is notable for any of those things, they should be listed as a mathematician. By Sammy's elitist standards even Euclid would not count as a mathematician, since it is primarily as a textbook writer that he is known. See also a long previous discussion at [[Talk:Vi Hart]] (who has indeed conducted original mathematics research, but is notable not for that but for her mathematics popularization) which came to roughly the same conclusions. —[[User:David Eppstein|David Eppstein]] ([[User talk:David Eppstein|talk]]) 00:44, 22 August 2015 (UTC)
+:*{{ping|David Eppstein}} It was my (mis?)understanding that being a mathematician, but being notable for something else entirely, was sufficient for being in these lists. If that's not the case, you may be right that the question needs to be rephrased. --[[User:Sammy1339|Sammy1339]] ([[User talk:Sammy1339|talk]]) 00:59, 22 August 2015 (UTC)
+
+I agree with David that this is an unnecessary duplication of the discussion already happening at [[Talk:List of female mathematicians]], so people should comment there, instead of here. [[User:Mark L MacDonald|Mark MacD]] ([[User talk:Mark L MacDonald|talk]]) 09:51, 22 August 2015 (UTC)
+	</talkpage>
+</article>

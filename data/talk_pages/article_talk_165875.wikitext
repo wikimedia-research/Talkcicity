@@ -1,0 +1,32 @@
+<article id="165875" title=Talk:Index of Thailand-related articles>
+	<talkpage id="165875" title="Talk:Index of Thailand-related articles">
+{{Talkheader}}
+{{WikiProjectBannerShell|collapsed=yes|1=
+{{WikiProject Thailand
+|class=List
+|importance=low
+|attention=
+|collaboration-candidate=
+|past-collaboration=
+|peer-review= 
+|old-peer-review=
+|needs-infobox=
+}}
+{{WikiProject Index}}
+}}
+{{British-English}}
+
+Olivier, I don't understand how keeping the self-link serves your purposes.  -- [[User:Zoe|Zoe]]
+
+:It simply makes changes to the page itself appear when clicking on &quot;related changes&quot;. Otherwise, one would need to check &quot;related changes&quot; AND &quot;older versions&quot; to check what's new in the articles and on the list itself. It is just a time saver. Is there any objection to the self link? The [[List of mathematical topics]] uses this method as well. [[User:Olivier|olivier]] 05:19 Jan 6, 2003 (UTC)
+
+== Proposed move ==
+As per the above-noted [[Wikipedia:Articles for deletion/List of Angola-related topics|AfD discussion]], suggest projectifying this page  to the Southeast Asian WikiProject. (I haven't listed this at requested moves, since it should be fairly uncontroversial.) [[User:Paul 012|Paul_012]] &lt;sup&gt;([[User talk:Paul 012|talk]])&lt;/sup&gt; 19:01, 15 December 2007 (UTC)
+:Agreed. Good looking out. — '''[[User:Wisekwai|Wise]]'''''[[User talk:Wisekwai|Kwai]]'' 19:05, 15 December 2007 (UTC)
+::Moved. [[User:Paul 012|Paul_012]] &lt;sup&gt;([[User talk:Paul 012|talk]])&lt;/sup&gt; 14:39, 18 December 2007 (UTC)
+
+== Moved again ==
+
+To the Thailand WikiProject this time. - [[User:Paul 012|Paul_012]] &lt;sup&gt;([[User talk:Paul 012|talk]])&lt;/sup&gt; 21:54, 9 April 2008 (UTC)
+	</talkpage>
+</article>

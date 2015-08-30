@@ -1,0 +1,224 @@
+<article id="292915" title=Talk:Metafiction>
+	<talkpage id="292915" title="Talk:Metafiction">
+{{WikiProjectBannerShell|1=
+{{WikiProject Literature|class=Start|importance=Mid}}
+{{WikiProject Film|class=Start|importance=}}
+{{WikiProject Television|class=Start|importance=}}
+}}
+
+{{Copied|from=Fictional fictional character|from_oldid=379644304|to=Metafiction|to_diff=379936678|to_oldid=377871141}}
+
+==Question==
+Would the following passage from [[Huck Finn]] be considered metafictional?
+
+:You don't know about me without you have read a book by the name of The Adventures of Tom Sawyer; :but that ain't no matter. That book was made by Mr. Mark Twain, and he told the truth, mainly. 
+:There was things which he stretched, but mainly he told the truth. 
+
+--[[User:Savethemooses|Savethemooses]] 22:05, 15 January 2006 (UTC)
+
+::Looks it to me. [[User:Scix|Scix]] 02:31, 12 September 2006 (UTC)
+
+:::Can't believe no one has added it yet.  It was the first thing I thought of, and is the first words of the novel.  [[Special:Contributions/75.225.109.210|75.225.109.210]] ([[User talk:75.225.109.210|talk]]) 04:37, 17 November 2012 (UTC)
+
+==Discworld==
+Some of [[Terry Pratchett]]'s Discworld stuff probably belongs here: [[Witches Abroad]] seems like a good choice. And a case could be made for [[Don Quixote]]. Opinions? [[User:Vicki Rosenzweig|Vicki Rosenzweig]] 01:38, 10 Aug 2003 (UTC)
+
+It's been quite a while since I've read any Pratchett, so I'm not sure.  I think Don Quixote is not self-conscious enough to count as metafiction, though.  The Pratchett novel I know best is [[Good Omens]], which has enough metafictional parts that I wouldn't be surprised.
+
+::Pratchett should definitely be in here; &quot;Narrativium&quot; is an elemental particle in the Discworld, and his &quot;[[The Science of Discworld]]&quot; series with [[Ian Stewart (mathematician)|Ian Stewart]] and [[Jack Cohen (scientist)|Jack Cohen]] features our world as a magical creation within the Discworld, which the characters travel to and experiment with. [[User:PhilHibbs|PhilHibbs]] | [[User talk:PhilHibbs|talk]] 12:54, 24 November 2005 (UTC)
+
+==Seinfeld==
+A sequence of episodes in the series portrayed the cast as writing a sitcom that they referred to as &quot;a show about nothing&quot; which was a self-reference to the very sitcom they were in.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/24.165.88.30|24.165.88.30]] ([[User talk:24.165.88.30|talk]]) 22:28, 26 July 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+ 
+:The episodes about the cast pitching the show ''Jerry'' to NBC executives is exactly the topic being referenced here.  [[Special:Contributions/75.225.109.210|75.225.109.210]] ([[User talk:75.225.109.210|talk]]) 04:39, 17 November 2012 (UTC)
+
+==Witches Abroad==
+Ahh, I just found a site [http://www.co.uk.lspace.org/books/reviews/witches-abroad.html here] with a little summary of ''Witches Abroad''--&quot;The sheer power of the Story&quot; sounds very metafictional to me.  If the Story (as a capitalized concept) plays a major role in the novel, then add it, by all means. [[User:Thirdreel|Thirdreel]] 16:27, 10 Aug 2003 (UTC)
+
+: I was thinking of Witches Abroad also, but I thought it probably wasn't appropriate. The reason is that while one of the characters is driven by an attempt to make life work like it does in a story, the protagonists are driven by exactly the opposite - i.e. by an insistence that life should be lifelike, and that making it storylike is a manipulation of people. If anything I would say its anti-metafiction.
+
+==Hamlet==
+While we're on the subject, Hamlet? Sure Hamlet has a strong sense of destiny, but is that enough to class it as metafiction? Many people in real life have a strong sense of destiny. I can't think of anything in Hamlet designed to remind the reader that they are watching a work of fiction (Now Rozencrantz and Guildenstern are Dead, that's another story - if you'll pardon the expression).
+
+:I consider Hamlet to have a metafictional element in the Hamlet's use of the play &quot;The Murder of Gonzago&quot;, which mirrors Claudius's own supposed crime, in attempt to prick Claudius's conscience.  --[[User:Fubar Obfusco|FOo]]
+
+: I see your point. Aren't there some stronger examples though? The play-within-a-play doesn't, for me, call attention to the fictional nature of the story; at least not nearly as much as Adapation or The Princess Bride (the book rather than the movie by the way). Again I would think that Rosencrantz and Guildenstern is a better example. [[User:DJ Clayworth|DJ Clayworth]] 13:33, 15 Oct 2003 (UTC)
+
+:If the presence of a play-within-a-play identified metafiction (it doesn't, because ''The Murder of Gonzago'' is 'happening' within the fiction, right there at the Danish court) then the rustics' play in '' A Midsummer Night's Dream'' would be a metafiction too (but it's not). The Chorus' address to the audience in ''Henry V'' is more metafictional. Metafictions 'break the spell.' An author's aside to the reader, as in Fielding or Thackeray, manipulates the situation, but from ''outside'' the fiction. [[User:Wetman]]..
+
+: I'm going to pull Hamlet from the list for a number of reasons.  While it has metafctional elements, it's not in itself a work of metafiction.  It doesn't have the self-consciousness present in most metafiction.  For instance, &lt;i&gt;Breakfast of Champions&lt;/i&gt; is, at its heart, a book about Vonnegut's writerly persona; Hamlet is not a play about Shakespeare (except in some convoluted modern reading.)  A lot of metafiction is &quot;writing a book about writing a book.&quot;  There's no way to summarize [[House of Leaves]], for instance, without mentioning that it is a book about someone writing a book about someone who wrote a book about someone who made a movie.  No one, however, would summarize Hamlet as &quot;a play about someone performing a play.&quot;  The metafictional elements are incidental to the plot.  
+
+: Most of all, I'm going to pull it because of the intention of the list.  If someone asked me, &quot;What is metafiction?&quot; I would suggest they read certain texts to get a feel for the literary movement.  Calvino, certainly.  Alameddine, certainly.  Shakespeare, no.  If I was trying to get a feel for metafictional theatre, I'd suggest something more like [[Luigi Pirandello|Pirandello's]] &lt;i&gt;Six Characters in Search of an Author&lt;/i&gt;. [[User:Thirdreel|Thirdreel]] 11:54, 17 Oct 2003 (UTC)
+
+:'''Hamlet together with Don Quixote are two of the most remarked examples of metafiction''' in scholarship. Not only the play-inside-the-play thing (which is enough by itself) but all the questions he rises about acting and theatre. Why should the actor cry about Hecuba, who is Hecuba for him (remember?). The monologue mourning the death of the actor, where he takes his skull, is maybe the second most known one after the &quot;to be or not to be&quot; one. Midsummer Night Dream is indeed metafictional, so are most Shakespear's plays, an so is all Barroque literature. [[Jorge Luis Borges]] argues that Don Quixote and Hamlet make as wonder if we, ourselves, are not fictional charachter being read or watched. Of course, Pirandello is more explicite, but Hamlet it's a must in such a list. See [[http://literature.wikia.com/wiki/Metafiction literawiki on metafiction]]--[[User:Rataube|Rataube]] 13:34, 4 December 2006 (UTC)
+
+==List of metafiction==
+I'm becoming concerned that this article is being taken over by this growing list of metafictional novels.  I think we should cull the list now and move all but the best entries over to [[List of Metafictional Novels]] or just delete them.  If we were to delete them there would be the possibility of creating a category for metafictional novels which would create a list of the existing books which would be easier to maintain.
+
+Any thoughts about this?
+
+Well I went ahead and moved all the examples to [[List of metafictional texts]].  Some of the examples should probably be moved back but no more than five of the best. --[[User:Kevin Mulligan|Kevin]] 19:23, Mar 26, 2005 (UTC)
+
+* I think this is important. This list has become ridiculous. If I have time this week, I'll work on it a bit. Not only are there too many listed, but obvious ones (like Mark Twain and Seinfeld) are overlooked while people seem to be simply listing their favorites.
+
+==Mise en abyme==
+There's a counterpart of english-american metafiction in France, which calls itself &quot;mise en abyme&quot; (ofcourse as you already know). So, what's the diference? It's one of the crucial aspect of postmodernist fictional evolution, isn't it... Some low-costed theorists indiferently group them terming &quot;embedding&quot; or self-reference. Godel's already self-reference, no less than Hegel, everything interesting in any symbolism. There ''is'' certain diference. For example, as English fiction focuses on personae (Faulkner is extreme in this sense), French one picks up some concrete medial objects (journal, lettre, &amp;c.) when embedding. Shakespeare was no doubt one of the original models for French medial embedding scheme, though the intentionality is parallel to metafiction. That causes alternative reading effects.
+
+Third approach may be sought in minor fictions like of Philip K. Dick. (Not that academic ''VALIS''!  ''Ubik'', ''Flow my tears,...'' are neither personal nor medial, for exemple. They also are great metafictional art work.)
+
+--[[User:NoirNoir|NoirNoir]] 06:47, 14 August 2005 (UTC)
+
+==Proust?==
+Would [[In Search of Lost Time]] be considered metafictional? --[[User:Tothebarricades.tk|Tothebarricades]] 01:25, 31 October 2005 (UTC)
+::Odds are good. [[User:Scix|Scix]] 02:36, 12 September 2006 (UTC)
+
+==A contradiction==
+The definition of &quot;metafictional&quot; in [[Metafiction]] (A) contradicts the definition in [[Fictional fictional character]] (B). [[User:Anthony Appleyard|Anthony Appleyard]] 06:58, 15 December 2005 (UTC):-
+
+*(A) Metafiction is a kind of fiction which self-consciously addresses the devices of fiction. Some common metafictive devices include:-
+**(1) A novel about a person writing a novel.
+**(2) A novel about a person reading a novel.
+**(3) A story that addresses the specific conventions of story, such as title, paragraphing or plots.
+**(4) A non-linear novel, which can be read in some order other than beginning to end.
+**(5) Narrative footnotes, which continue the story while commenting on it.
+**(6) A novel in which the author is a character.
+**(7) A story that anticipates the reader's reaction to the story.
+**(8) Characters who do things because those actions are what they would expect from characters in a story.
+**(9) Characters who express awareness that they are in a work of fiction.
+
+*(B) Something is metafictional if:
+** It only exists in the fictional world of a story.
+** That story was written within another fictional world and its text (or movie reels or whatever) does not exist in full in our world.
+A notable example is Captain Proton, which is meta-fictional within the Star Trek fictional scenario.
+&lt;br&gt;[[User:Anthony Appleyard|Anthony Appleyard]] 07:25, 15 December 2005 (UTC)
+----
+My (= [[User:Anthony Appleyard|Anthony Appleyard]] 07:37, 15 December 2005 (UTC)) guesses are:-
+*(1) A novel X about a person writing a novel Y.
+*(2) A novel X about a person reading a novel Y.
+** In both cases, the story Y exists in the world of story X. Y is metafiction if definition (B) above is satisfied.
+*(3) A story X that addresses the specific conventions of story, such as title, paragraphing or plots.
+** Only if a specific story Y exists in the world of story X.
+*(4) A non-linear novel, which can be read in some order other than beginning to end.
+** No.
+*(5) Narrative footnotes, which continue the story while commenting on it.
+** No. 
+*(6) A novel in which the author is a character.
+** No. This mostly means that the &quot;I&quot; character is not involved in the common story writer's [[dilemma]] between ''having to keep repeating names'' and ''making pronoun reference ambiguities''.
+*(7) A story that anticipates the reader's reaction to the story.
+** This seems to be includable in (5). Example please?
+*(8) Characters who do things because those actions are what they would expect from characters in a story.
+** Example please?
+*(9) Characters who express awareness that they are in a work of fiction.
+** Example please?
+[[User:Anthony Appleyard|Anthony Appleyard]] 07:37, 15 December 2005 (UTC)
+----
+I think all of these can be reasonably argued to be &quot;metafiction&quot;. I have had a go at the language on both pages, and removed the link to this talk page. — [[User:PhilHibbs|PhilHibbs]] | [[User talk:PhilHibbs|talk]] 13:45, 16 December 2005 (UTC)
+----
+*(4): If e.g. a story X contains a note &quot;If you don't want to read through all the space battle, skip from here to chapter 11.&quot;, that would satisfy definition (4): but how would that make the story metafiction? [[User:Anthony Appleyard|Anthony Appleyard]] 15:41, 16 December 2005 (UTC)
+*(5): Example please. Much of the text in a story could be treated as commenting on previous parts of the text of the story. [[User:Anthony Appleyard|Anthony Appleyard]] 15:41, 16 December 2005 (UTC)
+*(6): &quot;''A novel in which the author is a character.''&quot; can have two meanings:-
+**(i): For example, I wrote a long [[Transformers]] story at [http://www.kuroyumes-developmentzone.com/appleyard/sf/opttale/opttale.htm this link] where (in its early episodes) [[Optimus Prime]] is &quot;I&quot;, but how does that make the story metafictional? 
+**(ii): I am Anthony Appleyard. If I wrote a story that Anthony Appleyard was a commando frogman and describing heroic exploits, that would involve me as a character; it would be [[untruth]], but how would it be metafiction?
+*(7): [[The Lion, the Witch and the Wardrobe]] contains a sentence saying that &quot;If I [= the author] describe these monsters in detail, your parents would probably not let you read this book.&quot;; this seems to satisfy definition (7), but how is it metafiction?
+[[User:Anthony Appleyard|Anthony Appleyard]] 15:55, 16 December 2005 (UTC)
+
+
+Some newspaper comic strips, including &quot;Arlo and Janis&quot; and &quot;Foxtrot&quot; have had metafictional elements.  In one example, Arlo, speaking for the comic strip writer, asked the readers to vote on Janis' new hairdo.
+
+==Greek Chorus==
+Does a Greek Chorus count as meta? [[User:Scix|Scix]] 02:35, 12 September 2006 (UTC)
+
+Since a chorus is an integral part of all Classical Greek drama, I hardly consider it to be metafiction, just a dramatic convention.  Classical Greek theatre was never meant to be a literal depiction of actual events even when the plays were based on actual historic themes.  The chorus help advance the narrative much in the same way that modern filmakers use devices such as smash cuts.  [[Special:Contributions/75.225.109.210|75.225.109.210]] ([[User talk:75.225.109.210|talk]]) 04:55, 17 November 2012 (UTC)
+
+== The Fourth Wall ==
+
+Are some of these examples not actually meta fiction (A fiction about fiction or a fiction within fiction) but rather breaking the fourth wall? The fourth wall referring to the outside world, the readers world compared to the fictional. Or to put it in a new way, is meta fiction (meta = above btw) including all definitions, including fourth wall breaking (referring to the reader's world) and actually meta (being beyond the pale of fiction but not necessarily hinting into the reader's world but rather commenting on it without calling it out). 
+
+Reading the SG1 example made me think of that, as its a clear example of breaking the fourth wall but it really doesn't show any insight into the real world.
+
+[[User:Zanduar|Zanduar]] 05:23, 25 July 2007 (UTC)
+
+:More strictly, breaking the fourth wall is any time when the characters or the work itself acknowledges the existence of the audience. This is slightly different from the most general case of meta-references, which are any references by the work or characters to the fact that they are characters in a book, movie, video game, etc.  The theme show music thing falls into that category, but does not directly acknowledge the existence of the audience, so it may not be breaking the fourth wall. However, it definitely strains or even breaks the suspension of disbelief. 
+:Meta-fiction should strictly only be fiction inside a fictional work. Meta-fiction could perhaps include the Red Book of the LOTR series, because that multi-volume book is without a doubt a reference to the real world books themselves. Presumably the Red Book even references itself in the same places. So within the LOTR universe, it is a mere meta-reference in a historical book, but to us, it is the fictional book inside itself, so one could argue it is a meta-fictional device.
+:However from the article it is clear that while meta-fiction should be merely fiction inside fiction, the term has been abused to encompass anything and everything that might strain the suspension of disbelief. But it also includes some things that don't necessarily stretch the suspension of disbelief at all, such as the example of ''Clerks'' referencing the ''Star Wars'' series. [[User:Tacvek|Tacvek]] ([[User talk:Tacvek|talk]]) 22:33, 4 December 2007 (UTC)
+
+:Stargate: Wormhole Extreme did break the fourth wall but only as a humor bit, as I recall. In the bit, one of the actors who played one of the ... actors in W E was unable to remember at which level reality actually is. [[User:Lots42|Lots42]] ([[User talk:Lots42|talk]]) 22:01, 6 November 2008 (UTC)
+
+== Breakfast Of Champions ==
+
+This article suggests that Beakfast of Champions is a novel in which the author is a character and also says that it is not in two contraditory bullets. Idk which one is true. Could someone fix that?  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/{{{IP|{{{User|216.17.140.155}}}}}}|{{{IP|{{{User|216.17.140.155}}}}}}]] ([[User talk:{{{IP|{{{User|216.17.140.155}}}}}}|talk]]) {{{Time|22:26, August 25, 2007 (UTC)}}}&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Clive Barker ==
+
+Didn't Clive Barker write a book where the plot was a demon communicating via the very book the reader was holding? [[User:Lots42|Lots42]] ([[User talk:Lots42|talk]]) 13:42, 31 July 2008 (UTC)
+
+== Rhinoceros ==
+
+In Eugene Ionesco's play ''Rhinoceros'', a character asks another if he's seen any of Ionesco's plays, and recommends he do so.  Does that qualify as metafiction?  And if so, is it a different type than those listed here, or does it fit into one of the subcategories? [[User:Markekeller|Markekeller]] ([[User talk:Markekeller|talk]]) 04:33, 23 January 2009 (UTC)
+
+== An interesting note or five ==
+
+There's a Buffy novel I wanna dig up where several of the female characters express admiration for the looks of Seth Green, actor. The metafiction being that Seth Green plays the character Oz, a prominent character in the show. Just thought it might be noteable. There's the bit in the article about television shows mentioning their own actors but not tie-in novels. And now that I think about it...what about real shows mentioned in a fictional context? Buffy the show mentions 'Enterprise' starring Scott Bakula. So they established their have their own version of Bakula and all related actors that exist in a world of demons and vampires and now I've gone cross-eyed. [[User:Lots42|Lots42]] ([[User talk:Lots42|talk]]) 13:03, 3 April 2009 (UTC)
+
+== Get Rid of Lists Altogether!! Propose New Article- ==
+
+There are several problems with '''Various devices of metafiction''' and especially under the subheading
+''Some common metafictive devices include:'' 
+What apparently started as a list of Devices of Metafiction has seriously degenerated because of a determination to include many examples of each device.  Now it reads much more like a list of works that contain Metafiction, and in fact, this Discussion is also becoming such a list.! Such a list might be compiled elsewhere, perhaps as a separate article. 
+There is also the inclusion of unique examples of Metafiction which are very interesting, but not appropriate examples of &quot;common devices&quot;, because they are either not common, or not notable. Its more of a trivia list. For example, television shows where the character sings the show's theme song- there's a nice collection of examples- but is that really notable? [[Godel, Escher, Bach]] is a nice reference because the major theme is self-reference, but it also contains unusual and unique examples that do not illustrate &quot;''Common'' Metafictive Devices.&quot;
+
+''&quot;Metafiction is primarily associated with Modernist and Postmodernist literature, but is found at least as early as the 9th century One Thousand and One Nights, Cervantes' Don Quixote and Chaucer's 14th century Canterbury Tales.&quot;'' Really I think that list should be enough for written literature, covering the earliest, most influential example and the earliest well known English example.  Don Quixote came out in January 1605, maybe that's already too much.
+Sadly [[Tristram Shandy]](1767) by Laurence Sterne has been left off, but if I added now it would defeat the argument here.
+
+''with authors and works such as John Barth's Lost in the Funhouse, Robert Coover's The Babysitter and The Magic Poker, Kurt Vonnegut's Slaughterhouse Five, and William H. Gass's Willie Master's Lonesome Wife.'' This is apparently part of a literary movement, although its not clear of the exact relationship between the French noveau roman and English novels that follow. There's an argument to be made for inclusion.
+There's a lot that would be better organized under the media rather than devices used: film/animation/cartoon/television/music  Unfortunately it looks like a major rewrite is in order [[User:Cuvtixo|Cuvtixo]] ([[User talk:Cuvtixo|talk]]) 16:11, 23 April 2009 (UTC)
+
+:I agree. The list is long and unwieldy. It begs the question, &quot;What ''isn't'' metafiction?&quot; Some brave soul needs to wave a pointed stick at all the English Department village explainers here and cut this list down to size. [[User:SCFilm29|SCFilm29]] ([[User talk:SCFilm29|talk]]) 18:44, 8 June 2010 (UTC)
+
+== Jiggy McCue ==
+
+Hi guys, I'm very new to Wikipedia editing so please forgive me if I'm breaking any conventions, but I merely wondered if the popular children's story, Jiggy McCue, was worth a mention in this article. Written by Michael Lawrence, all 9 books in the series consist of footnotes at the bottom supposedly written by the story's protagonist, and at times it often references the fact that the protagonist is the narrator and occasionally mentions how the protagonist / narrator is writing down the events described in the book. If any of you know what I'm talking about, do tell me if you think it's worth mentioning.
+--[[User:Futile Crush|Futile Crush]] ([[User talk:Futile Crush|talk]]) 13:49, 11 January 2010 (UTC)
+
+== Brazil ==
+
+This article mentions that &quot;Sam Lowry of Brazil hums/listens to/sings the film's self-titled theme song&quot; but I'm not sure if that's metafictional.  The song is not named after the film; rather, the film was named after the song.  I don't think that this character's attraction to that song is at all related to any sort of idea of him being a character in a film. [[Special:Contributions/70.61.247.31|70.61.247.31]] ([[User talk:70.61.247.31|talk]]) 20:33, 24 August 2010 (UTC) ~Mike R.
+
+
+'''Fixed'''
+fixed it. your welcome.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/96.253.86.132|96.253.86.132]] ([[User talk:96.253.86.132|talk]]) 16:53, 30 August 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Moby Dick ==
+
+Moby Dick is an early conciously-meta example. It contains discussions of the nature of stories outside the narrative, a natural history of whales shoe-horned into a swipe at the type of books in publication at the time, and chapters that aren't even part of the narrative. Could also be taken to be the author showing off.
+
+== ''It's Garry Shandig's Show'' ==
+
+Not only was the show's [[theme song]] about being asked to write a theme song for the show, including the line, &quot;How do you like it so far?  It's almost halfway finished,&quot; but in one episode Garry tunes the TV only to find himself watching his own show, apparently this episode.  This is going well beyond just breaking the [[fourth wall]], which went on constantly throughout the show's run.  [[Special:Contributions/75.225.109.210|75.225.109.210]] ([[User talk:75.225.109.210|talk]]) 04:49, 17 November 2012 (UTC)
+:Sorry to quibble on spelling but you probably mean [[It's Garry Shandling's Show]]? I agree from the description (I don't really recall the show myself) that it is quite metafictional. [[User:Joshua Davis|Joshua Davis]] ([[User talk:Joshua Davis|talk]]) 21:55, 18 November 2012 (UTC)
+
+== Hitchhiker's Guide to the Galaxy ==
+
+Is this really metafiction. It is about the writing of the guide but in the guide is meant to be non-fictional within the Hitchhiker universe. Even if it is metafiction (I would be the first to admit i am not hugely knowledgeable about this topic, I would say it is not a particularly clear example so should be removed. [[User:Schizocarp|Schizocarp]] ([[User talk:Schizocarp|talk]]) 11:02, 14 December 2012 (UTC)
+
+== Would Community fit somewhere in here? ==
+
+The TV show community makes several runs at the fourth wall, but I'm not sure which of the categories there already is it would fit into.--[[User:Ollyoxenfree|Ollyoxenfree]] ([[User talk:Ollyoxenfree|talk]]) 23:41, 11 March 2013 (UTC)
+
+== Fiction about fiction =/= self-reflection about being fiction ==
+
+Under History it says:
+
+&lt;blockquote&gt;...metafiction is specifically fiction about fiction, i.e. fiction which deliberately reflects upon itself&lt;/blockquote&gt;
+
+But isn't it that fiction about fiction doesn't necessarily have to reflect upon itself but otherwise reach the meta-realm?
+
+For instance fiction can construct settings and use plot devices to explore fiction itself.&lt;br/&gt;
+For example I think ''[[A Dream of Wessex]]'' is such a case.
+
+Please check if that sentence / the article needs to be changed.&lt;br/&gt;
+And if it doesn't need to be changed what about a [[:Category:Fiction about fiction]] (or sth similar)?
+
+--[[:User:Fixuture|'''F'''ix'''uture''']] ([[:User talk:Fixuture|talk]]) 23:06, 18 July 2015 (UTC)
+	</talkpage>
+</article>

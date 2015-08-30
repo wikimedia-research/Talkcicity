@@ -81,7 +81,7 @@ optparser.add_option("-n", "--name", dest="name", default="",
 prefix = opts.name
 if prefix != "": prefix += '_'
 outFolder = "../discussions/" + prefix
-logFolder = '../logs/' + prefix
+logFolder = './logs/' + prefix
 
 #inventing the ids of users... 
 #reading ids from DB or file not supported in this version

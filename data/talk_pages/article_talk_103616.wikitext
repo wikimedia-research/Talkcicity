@@ -1,0 +1,13 @@
+<article id="103616" title=Talk:Pickens County, South Carolina>
+	<talkpage id="103616" title="Talk:Pickens County, South Carolina">
+{{WikiProject United States|class=start|importance=low|U.S. counties=yes|SC=Yes|SC-importance=high}}
+
+
+==Untitled==
+Wondering how to edit this U.S. County Entry?&lt;br/&gt;
+The [[Wikipedia:WikiProject U.S. counties|WikiProject U.S. Counties]] standards might help.
+
+==Vandalism==
+I don't know what joker did it, but I removed the county seal of Pickens County which appeared to be a Cincinnati Bengals player.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/96.3.72.93|96.3.72.93]] ([[User talk:96.3.72.93|talk]]) 01:43, 7 May 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

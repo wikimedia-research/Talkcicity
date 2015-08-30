@@ -1,0 +1,41 @@
+<article id="350221" title=Talk:Interaction>
+	<talkpage id="350221" title="Talk:Interaction">
+{{physics|class= Start|importance=mid}}
+{{WikiProject Community|class=Start|importance=High}}
+* I'm not sure how to proceed here because I have a specific need. A family member has had a mental illness for many years and has taken medication for that period. However, she has been found to have a number of physical symptoms including polycystic ovary syndrome, diabetes, thyroid imbalance, obesity. All these may have been the side-effects of the drugs ahe has taken. Monitoring is the keyword. And monitoring is still a tricky undertaking because it is difficult to measure symptoms and as the number of drugs proliferates so does the assessment of interaction and the regulation of dosage.
+
+* what could be done to extract the shared idea about interaction in different sciences? [[User:Pe3|Pe3]] 06:49, 18 May 2005 (UTC)
+
+* how would you feel about merging this article with the article about [[interactivity]]? [[User:Pe3|Pe3]] 08:12, 18 May 2005 (UTC)
+
+== Disambiguation==
+[[Image:Interaction_DA.jpg|thumb|246px|right]]
+Maybe a disambiguation page would be a good thing.  [[User:smoe]] 01/06
+
+I agree that the 'Interaction' topic desperately needs disambiguation. I propose the organizational structure to the right for a disambiguation page:
+Please post your ideas/suggestions/concerns about disambiguating this topic.
+--[[User:DanSoper|DanSoper]] 08:19, 12 June 2006 (UTC)
+
+[[Prototype]]: {{tl|LearningObject}}
+
+&lt;!-- superclass=LearningObject --&gt;
+{| class=prettytable
+!'''[[Computational sociology|Computational Sociology 101]]'''
+|-
+|'''''[[Beauty|Beautiful]]''' [[Interaction]] it indeed is.''&lt;br /&gt;
+''[[Understanding]] it we are.  &lt;small&gt;-[[Yoda]]-''&lt;/small&gt; 
+|-
+|'''[[context]]:''' [[change]] [[agent]][[faith|*]]
+|-
+|[[Unified Modeling Language]] &lt;small&gt;''[[Victor Turner|VT lives!]]''&lt;/small&gt;
+|-
+|[[User:CQ|CQ]] &amp;bull; 14:44, 31 July 2006 (UTC)  [[Image:Community.png]]
+|}
+
+== Additive interaction==
+In the interaction in medicine part of article there is talk about an &quot;additive interaction&quot;, which is explained as the effect of the drugs combined is equal to the sum of the individual effects of the drugs. In my understanding, that would be the case if there were no interaction between the drugs. This in contrast with synergy and antagonism, where indeed there is interaction between the drugs, leading to a combined effect which is less (antagonism) or more (synergy) than the sum of the individual effects.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/137.120.181.160|137.120.181.160]] ([[User talk:137.120.181.160|talk]]) 10:24, 25 October 2011 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== WikiProject class rating==
+This article was automatically assessed because at least one WikiProject had rated the article as start, and the rating on other projects was brought up to start class. [[User:BetacommandBot|BetacommandBot]] 09:55, 10 November 2007 (UTC)
+	</talkpage>
+</article>

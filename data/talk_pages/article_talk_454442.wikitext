@@ -1,0 +1,58 @@
+<article id="454442" title=Talk:Tagged union>
+	<talkpage id="454442" title="Talk:Tagged union">
+{{Maths rating|class=start|priority=Low|field=foundations}}
+==Pascal==
+Uh, I suggest you reconsider your tagged union example for Pascal, not so much because of the Big-Brother implications of an Employee record tracking how many lovers someone has, which is merely bad from a legal and social point of view, but more because it has a serious logical flaw: it assumes that marriage and multiple lovers are mutually exclusive. This, of course, is fundamentally in error, making this a bad example of a tagged union, whose alternatives must be exclusive. Using code examples that demonstrate a significant misapprehension of one's problem domain only encourages buggy programming.
+
+---
+
+This is entirely true - I'll try and think of a better example. I was operating under the false assumption of 100% fidelity. It's a silly example anyway.
+[[User:Dcoetzee|Derrick Coetzee]] 13:54, 4 Feb 2004 (UTC)
+-------------
+== Merge on [[tagged union]] ==
+
+I'd like your justification on the merge header you added to [[tagged union]]. I'm inclined to remove it, since there's a great deal more to be said about tagged unions than about unions in general. That said, I have considered merging it into a term which does not imply a particular implementation, such as disjoint union or discriminated union. [[User:Dcoetzee|Derrick Coetzee]] 00:55, 19 Sep 2004 (UTC)
+
+:I agree that there is a great deal to say about tagged union. But, I ask, is there much to say about untagged union? Although I don't know which is more popular, tagged or untagged union, I believe the theoritical importance is about tagged union and I seems to me untagged union is really just lousy datatype or something not really union. And as you see, the current [[union (computer science)|union]] article is really about untagged union and is not so good actually. If not merge, another option would be let tagged union be a new [[union (computer science)|union]] and the current [[union (computer science)|union]] article to be [[untagged union]]. I guess I don't believe there is a great deal to say about union in general and untagged union. Do you think not? -- [[User:TakuyaMurata|Taku]] 01:15, Sep 19, 2004 (UTC)
+
+:Put in another way, I don't believe union in C/C++ is a good example of union. It is too primitive and is usually not used in the way unions are supposed to be used. -- [[User:TakuyaMurata|Taku]] 01:18, Sep 19, 2004 (UTC)
+
+::This is not so much a question of importance as of word usage. The word ''union'' by itself almost exclusively refers to untagged unions, both in the literature and in popular culture (where it's used almost entirely in the C/C++ community). Tagged unions are not called ''tagged unions'' quite so often, however. In literature they're generally called discriminated or disjoint unions, but these terms are often considered to refer to the pure mathematical set theory concept. As a programming concept about the closest thing is ML's '''datatype''' construction, which is obviously an ambiguous term. The term ''tagged union'' is fairly widely used and understood, and avoids the problems with other terms, but to many it seems to imply a particular implementation (the use of an explicit tag field), which isn't quite what I intended. [[User:Dcoetzee|Derrick Coetzee]] 02:22, 19 Sep 2004 (UTC)
+
+I don't think the term tagged union has any problem; it is well-understood and unambigous. But the question is do we need a separate article about untagged unions. I doubt the current [[union (computer science)]] will grow in the way there is little overlap with [[tagged union]]. I know that a name union particularly gives an impression of union type in C. But the article should be about a concept of union datatype in general and I don't think there are a lot to say about unions without the way of type checking, or tagging. I think we use terms like discriminated unions or such because we want to emphasize they are tagged, like we say static type checking instead of just type checking. But discussing the general concept, we don't have to be too specific. If you really want to see a name tagged and to avoid a false impression, we can name the combined article &quot;[[tagged and untagged union]]&quot;, &quot;[[union datatype]]&quot; or something, though I think it is unnecessary. -- [[User:TakuyaMurata|Taku]] 05:50, Sep 19, 2004 (UTC)
+
+:I think the links to ''tagged union'' in the ''union (computer science)'' article, which I made repeated and prominent (self-advertising after all ;) serve this purpose well enough. Another reason I avoid use of the word ''union'' for a discriminated union is because as mathematical concepts these are entirely distinct, and the Wikipedia already professes this viewpoint in the articles [[union (set theory)]] and [[discriminated union]]. You'll never hear the word ''untagged'' or ''undiscriminated union'' in mathematical discourse, to my knowledge. [[User:Dcoetzee|Derrick Coetzee]] 23:46, 20 Sep 2004 (UTC)
+
+== Is a set of C++ classes similar to a tagged union? ==
+
+Can a set of C++ classes that inherit from a common base class, using a [[virtual method table]] to determine which (virtual) methods to call, be considered an example of a tagged union where the vtable pointer acts as the tag? --[[User:Damian Yerrick|Dami'''a'''n Yerri'''c'''k]] ([[User talk:Damian Yerrick|talk]] | [[Special:Contributions/Damian Yerrick|stalk]]) 18:54, 31 July 2007 (UTC)
+:In short, yes, but with the limitation that you can't modify which subclass is used; this is fixed at creation time. Also, C++ classes can be implemented by means other than vtables; depending on the implementation the tag may be implicit. [[User:Dcoetzee|Dcoetzee]] 00:25, 1 August 2007 (UTC)
+::You are saying that the tags are not mutable. This is the same behavior as in ML and other languages with algebraic data types. --[[User:Spoon!|Spoon!]] ([[User talk:Spoon!|talk]]) 05:26, 5 December 2007 (UTC)
+
+== The tree example is irrelevant ==
+
+As far as I can see, the tree example is about structs, not unions. And, at the very least, doesn't bring any new insights about unions to the reader. [[User:Gwrede|Gwrede]] 15:45 21 February 2009 (UTC)
+
+:A tree is a tagged union which can be either a Leaf or a Node. Leaf is a [[unit type]] and Node is a structure containing an integer and two trees. [[User:Oktal|Oktal]] ([[User talk:Oktal|talk]]) 16:55, 21 August 2014 (UTC)
+
+== Algebraic data type ==
+
+Merge with [[Algebraic data type]]! --[[User:Jonah.ru|Jonah.ru]] ([[User talk:Jonah.ru|talk]]) 19:29, 3 April 2011 (UTC)
+
+== &quot;An enumerated type can be seen as a degenerate case&quot; ==
+
+Possibly change there section of the introduction to this?
+&quot;An enumerated type can be seen as a degenerate case: a tagged union of unit types. It corresponds to a set of nullary constructors A^0 + B^0 and may be implemented as a simple tag variable, since it holds no additional data besides the value of the tag&quot; --[[Special:Contributions/199.119.232.2|199.119.232.2]] ([[User talk:199.119.232.2|talk]]) 00:44, 21 February 2012 (UTC)
+
+== Merge from [[variant type]] ==
+
+I propose that [[variant type]] be merged into [[tagged union]]. The [[variant type]] article is of a low quality, covering too narrow a context and just being confusing. It seems to be describing a concept which is identical to the one described by [[tagged union]], which does a much better job of describing it. [[Variant type]] could even be renamed [[Variant type (Visual Basic)]]. -- [[User:Oktal|Oktal]] ([[User talk:Oktal|talk]]) 21:49, 19 August 2014 (UTC)
+
+
+No.  These two describe entirely different datatypes.  Granted, the [[variant type]] article is of a low quality as you say, and certainly could be improved to cover other languages that feature variant typing.  But variant typing and tagged unions are far too different to be merged.  One is a compile-time check on how much memory a particular symbol represents, while the other is a run-time feature for dynamic typing.  In Visual Basic, a [[variant type]] is essentially a reference that is not strongly typed until runtime.
+
+== ALGOL 68/Typed Racket/Ceylon union types ==
+
+[[Union type]] currently talks about overlapped memory accessed through different types (untagged variants). This article says tagged unions are also called &quot;[[Variant type|variant]], variant record, [[Disjoint union|discriminated union, disjoint union]], or sum type&quot; but the [[ALGOL 68]], [[Racket (programming language)|Typed Racket]], and [[Ceylon (programming language)|Ceylon]] unions are tagged unions, but not sum types or any of these other terms. They're [[Union (set theory)|unions]], where &lt;code&gt;T ∪ T ≡ T&lt;/code&gt;, &lt;code&gt;A ∪ B ≡ B ∪ A&lt;/code&gt;, and &lt;code&gt;A ∪ B ∪ C ≡ (A ∪ B) ∪ C ≡ A ∪ (B ∪ C)&lt;/code&gt;. [[User:Specsluce|Specsluce]] ([[User talk:Specsluce|talk]]) 23:08, 26 November 2014 (UTC)
+	</talkpage>
+</article>

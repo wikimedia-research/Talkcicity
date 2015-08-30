@@ -1,0 +1,124 @@
+<article id="373135" title=Talk:Polish notation>
+	<talkpage id="373135" title="Talk:Polish notation">
+{{philosophy|importance=|class=start|logic=yes}}
+{{WPPOLAND|importance=low|class=start}}
+
+==Query==
+
+This stub is confusing. The notation for [[existential quantifier]] ($x)Gx does not seem to match the notation used in the artical.
+
+Also, ''postfix notation'' redirects to [[Reverse Polish Notation]]
+
+but   [[Polish notation]] redirects to ''prefix notation''.
+
+I am tempted to fix this but the stub does not seem to say much on the general concept of prefix notation, and I don't think my maths is up to it.
+-- [[User:Chris Q|Chris Q]] 09:39, 20 Nov 2003 (UTC)
+----
+I've just added the &quot;Query&quot; title here. --[[User:Ludvikus|Ludvikus]] 00:10, 13 October 2007 (UTC)
+
+== Merits ==
+
+The following part of the article removed, for clarifications.
+
+This was a piece from article:
+:Polish notation is slightly easier to implement for computers, since the operation is encountered first, then the data to perform the operation comes later.  However, people are much more familiar with [[infix notation]].
+
+This is a recent commment added by an anon into the article body:
+
+:''The &quot;easier&quot; part is simply not true, and the argumentation is arbitrary.''
+
+:''[[Reverse Polish notation]] is, indeed, easier to implement, mainly because we are spared of the need for speculating about the order of operations.  &quot;Straight&quot; Polish notation, however, is even a step-back from [[Infix notation]] with that respect, if we have to process it in natural (left-to-right) order.''
+
+:''The ordering of operands with respect to the operation is of imaginary significance and is completely irrelevant to the ease of implementation &quot;for computers.&quot;  Note that what comes after the operation is not necessarily &quot;data,&quot; but may be another prefix expression.''
+
+The remarks  are of merit IMO. So, what are ''real'' advantages of this notation? See [[Reverse Polish Notation]] how they are presented. [[User:Mikkalai|Mikkalai]] 19:59, 18 Mar 2005 (UTC)
+
+:The point was that the original text was misleading, and was most probably due to confusion with RPN.  PN is essentially isomorphic to RPN, and can be processed as such from right to left, thus leveraging the benefits of, but offering no advantages over, RPN.
+
+:--[[User:Aos|AoS]] 14:51, 21 Mar 2005 (UTC)
+
+
+Polish notation is also used for [[Symbolic Logic]], in fact it was invented for this purpose.   This fact is ignored in the article.  I intend to correct this latter when I can get to my own computer.
+
+== Tcl ==
+
+The note about this being used in Tcl is rather misleading. math in Tcl is in infix notation, but the language syntax is polish notation. Being this is a math article and when I first read the line, I became rather confused at what it meant. Could someone re-word this to read more clearly? I'm unsure how to word it myself. &amp;mdash; [[User:Striker|Striker]] 22:48, 5 December 2005 (UTC)
+
+== Question about sentence ==
+
+:''The &quot;conventional&quot; notation did not become so until the 1970s and 80s.''
+Does this mean to say that &quot;The (common OR currently used) notation did not become conventional until the 1970s and 80s.&quot; or somesuch? - [[User:Centrx|Centrx]] 22:59, 21 May 2006 (UTC)
+
+== Tone ==
+This page is written in a strange tone. I don't think it's good form to use the word &quot;we&quot; in an article (just as an example). [[User:Mo-Al|Mo-Al]] 06:19, 25 June 2006 (UTC)
+
+== Polish notation for logic maybe wrong? ==
+
+I believe that the D operator is not the &quot;nand&quot; (sheffer stroke) operator but the &quot;dubious&quot; operator, which is a unary operator:
+
+  Dx = ExNx
+
+That is, when x is equivalent to not-x. This makes sense for the many-valued logics. (See C.I.Lewis and C.H. Langford's Symbolic Logic, (Dover Press, 1959), where they write about Łukasiewicz's 3-valued logic, Ł3.
+
+-RR
+
+== Reference to Łukasiewicz Articles ==
+
+A reference to an article by Łukasiewicz which introduces this system is needed. The notation is used in his works written in the 1920s, though I think that the standard is Elements of Mathematical Logic written 1929.
+
+== Is this a mistake? ==
+
+The article reads : 
+&quot;Although obvious, it is important to note that the number of operands in an expression must equal the number of operators plus one, otherwise the statement makes no sense (assuming only binary operators are used in the expression). This can be easy to overlook when dealing with longer, more complicated expressions with several operators, so care must be taken to double check that an expression makes sense when using Polish notation.&quot;
+
+I'm not sure I understand it, can someone please add an explanation or confirm if it's a mistake?
+
+:It means that the number of things getting operated on is the number of operators + 1. For example, in &quot;+ 1 2&quot;, &quot;+&quot; is the operator, and &quot;1&quot; and &quot;2&quot; are the operands. [[User:Mo-Al|Mo-Al]] 02:40, 12 August 2006 (UTC)
+
+== In a more technically polish way ==
+
+I'm reading this article, and towards the end it gives examples of association and distribution. For each it offers a more polish way of writing the statement of equivalence, using &quot;=&quot; as a binary operator.
+
+I'm not sure that this use is appropriate, because it renders the equivalence confusing (and I have never seen this usage before... which does not mean it is incorrect, of course). [[User:Slightly Drunk|Slightly Drunk]] 19:58, 4 January 2007 (UTC)
+
+== [[Polish notation]] vs. [[Prefix notation]] ==
+
+*As a formal student of Philosophy and Logic in the United States, I have always known this subject by its former name.
+Furthermore, Google shows us the former is far more common.
+:Accordingly, I'm recommending that the Title of this Article be changed to the former. [[Yours truly]], --[[User:Ludvikus|Ludvikus]] 00:08, 13 October 2007 (UTC)
+:*'''76,900''' Google hits for '''&quot;Prefix notation&quot;''': [http://www.google.com/search?hl=en&amp;q=%22Prefix+notation%22&amp;btnG=Google+Search]. --[[User:Ludvikus|Ludvikus]] 00:14, 13 October 2007 (UTC)
+:*'''155,000''' Google hits for '''&quot;Polish notation&quot;''': [http://www.google.com/search?hl=en&amp;q=%22Polish+notation%22&amp;btnG=Search] --[[User:Ludvikus|Ludvikus]] 00:17, 13 October 2007 (UTC)
+::Should we also change all occurences of &quot;prefix notation&quot; (but not necessarily &quot;prefix expression&quot;) to &quot;Polish notation&quot; in the article? I think we should either do that, or change the &quot;or less frequently known as 'Prefix notation'&quot; in the first sentence to &quot;also known as 'Prefix notation'&quot; (although the former is true, the article doesn't call it that &quot;less frequently&quot; than the alternative). --[[User:Spug|Spug]] ([[User talk:Spug|talk]]) 01:04, 12 December 2007 (UTC)
+:: I think the article should be called ''Prefix notation'' since it is country neutral. Accordingly, [[Reverse Polish Notation]] should be ''Postfix notation''. [[Special:Contributions/68.239.247.134|68.239.247.134]] ([[User talk:68.239.247.134|talk]]) 05:24, 27 December 2009 (UTC)
+
+== Sections &quot;Computer programming&quot; and &quot;Order of operations&quot; ==
+We should probably rewrite these sections; they overlap, and the former describes RPN as used in many stack-based programming languages, while the former says that PN is especially popular with those languages. --[[User:Spug|Spug]] ([[User talk:Spug|talk]]) 01:01, 12 December 2007 (UTC)
+
+== example is incorrect? ==
+
+The statement &quot;In the previous example, the parentheses in the infix version were required, since moving them 
+(5 − 6) + 7
+or simply removing them
+5 − 6 + 7
+would change the meaning and result of the overall expression.&quot;
+
+This is not true. Addition is associative - the parentheses don't matter! This would be true if addition and multiplication were mixed: 
+5 - (6 * 7) &lt;&gt; (5 - 6) * 7 
+[[User:Jesse1919|Jesse1919]] ([[User talk:Jesse1919|talk]]) 03:37, 24 February 2008 (UTC)
+
+
+Yes, I also think that the example fails to illustrate the point. I will change it to one that mixes addition and multiplication. [[User:Borromean-ring|Borromean-ring]] ([[User talk:Borromean-ring|talk]]) 16:21, 4 May 2008 (UTC)
+
+== Polish logic == Polish notation? ==
+
+Is Polish notation also referred to as &quot;Polish logic,&quot; or does/can that term have a different meaning? The article [[Polish Logic]], about an anthology, has a [[Wikipedia:HATNOTE|hatnote]] pointing to this article. -- [[User:Alarob|ℜob C.]] ''alias'' [[User_talk:Alarob|'''ᴀʟᴀʀoʙ''']] 18:39, 7 September 2008 (UTC)
+
+== Conversion of Infix to Prefix notation ==
+is there an algorithm to convert infix to prefix?&lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/72.68.199.83|72.68.199.83]] ([[User talk:72.68.199.83|talk]]) 05:04, 3 March 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt;
+:Certainly. For example, construct the parse tree of the infix formula, and traverse it in [[Tree traversal|preorder]].—[[User:EmilJ|Emil]]&amp;nbsp;[[User talk:EmilJ|J.]] 15:45, 18 October 2010 (UTC)
+:See [[Shunting-yard algorithm]]. —[[User:Bkell|Bkell]] ([[User talk:Bkell|talk]]) 16:19, 18 October 2010 (UTC)
+
+== Infix equivalent needlessly complex ==
+The example ((15 / (7 - (1 + 1))) * 3) - (2 + (1 + 1)) uses an unnecessary number of parentheses, (15 / (7 - (1 + 1))) * 3 - (2 + 1 + 1) is, as far as I can tell, the normal equivalent example. If parentheses are used to avoid talking about precedence rules, perhaps this should be noted. Exaggerating the verbosity of infix notation makes the article look biased. Polish notation, especially reverse, is beautiful and clearly much more efficient, so no cheating is needed :).  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/83.179.7.128|83.179.7.128]] ([[User talk:83.179.7.128|talk]]) 10:41, 18 February 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

@@ -1,0 +1,85 @@
+<article id="291131" title=Talk:Bus stop>
+	<talkpage id="291131" title="Talk:Bus stop">
+{{WikiProject Buses|class=c|importance=top}}
+{{WikiProject Architecture|class=Start|importance=Low}}
+
+== untitled ==
+This article should not have been retitled from [[bus stop]] to [[bus and tram stop]]. The latter term implies a place where both buses and trams stop.
+
+Of course, I realize that it's hard to come up with a generic term which can indicate any of:
+*[[bus stop]]
+*[[tram stop]]
+*[[subway stop]]
+*[[train station]]
+
+The English word ''stop'' can mean any of these. But &quot;stop&quot; wouldn't make a very good article title, would it?
+
+I'd like to move the article back to [[bus stop]] and add a redirect from [[tram stop]]. What do you think? --[[User:Ed Poor|Uncle Ed]] 13:22, 7 Aug 2003 (UTC)
+
+:How about ''transit stop'' or ''transport stop''?--[[User:67.160.146.193|67.160.146.193]] 20:57, 9 September 2005 (UTC)
+
+'''Link removed'''
+
+Removed wikilink on interchange, as I was making a UK english point and the link refers to US english meaning of the word.  May restore if [[Interchange]] is altered. [[User:Stamford spiney|Stamford spiney]] 14:09, 5 September 2005 (UTC)
+
+
+== The first image faces imminent deletion.  ==
+
+: The first image faces imminent deletion. [[User:Fred chessplayer|Fred]]-[[User_talk:Fred chessplayer|Chess]] 20:32, 26 September 2005 (UTC)
+
+== Operators stickers ==
+
+Can someone explain what &quot;operators stickers&quot; are. AFAIK this term is used neither in Hong Kong nor Canada. An explanation in the article would be much appreciated.—[[User:Gniw|Gniw (Wing)]] 05:54, 3 November 2005 (UTC)
+
+Can't say I'm familiar with it being used in [[Queensland, Australia]] either.[[User:Alex Law|Alex Law]] 11:55, 3 November 2005 (UTC)
+
+== unsourced statement ==
+
+&quot;A number of research efforts have concluded that the optimal bus stop spacing for most transit routes is somewhere between 1000-2000 feet (300-600m).&quot;  would be good to refer to these by name. &lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[Special:Contributions/69.241.238.25|69.241.238.25]] ([[User talk:69.241.238.25|talk]]) 03:27, 6 April 2007 (UTC).&lt;/small&gt;&lt;!-- HagermanBot Auto-Unsigned --&gt;
+
+== Unsourced fictitious image ==
+
+The image of &quot;A typical [[London bus]] stop&quot; is no such thing.  It is a fabricated image in the style of a London bus stop.  Inter alia:
+1  Is the roundel something which London transport authorities claim as theirs and theirs alone?  If so then 
+the image should be deleted.
+2  The routes shown have no point in common.
+3  Whether Fairfax Bus Station and Axtley exist anywhere else or not, they do not exist in the London 
+transport  area, however defined.
+4  In London there's no express 3XX let alone to Giggleswick and environs
+
+This image should be deleted[[User:SilasW|SilasW]] 13:23, 15 May 2007 (UTC)
+
+== Omnibus ? ==
+The article starts: ''A bus stop or omnibus stop is ...''  Does anybody still use 'omnibus' nowadays ?? --[[User:Jotel|Jotel]] 18:34, 26 September 2007 (UTC)
+
+== Delete? ==
+
+It seems like the information in this article, at least that which is useful, could better be incorporated into other articles. Perhaps this article should then be deleted. [[Special:Contributions/66.234.220.195|66.234.220.195]] ([[User talk:66.234.220.195|talk]]) 20:07, 16 February 2008 (UTC)
+:That's the Wikipedia's way,  in its full glory...--[[User:Jotel|Jotel]] ([[User talk:Jotel|talk]]) 20:12, 16 February 2008 (UTC)
+
+== Image moratorium ==
+
+I've removed all images pending a sensible discussion on what to include or not. This is one of those articles where there are a million and one images out there, and where users insist on adding more and more, without any consideration of proper placement and formatting, leading to section headers being pushed down the page and large white areas in the article. And remember, not everybody views articles on the same resolution, what looks fine on your wide monitor may not be ok on someone elses. There is a minimum standard defined somewhere. At the very lest, any image on this page needs to be informative, and be placed next to a relevant piece of text. We have a Commons gallery, so there is no pressing need to cram images on this page without proper consideration. I don't intend on leaving the article empty for very long, but the last incarnation following tbe latest addition was ridiculous and needed this action. [[User:MickMacNee|MickMacNee]] ([[User talk:MickMacNee|talk]]) 15:09, 23 May 2009 (UTC)
+
+== Image isn't representative ==
+
+I don't think the present image at the top of the page (the windmill stop) is very representative. How many bus stops look like that? It might be better to have a more 'average' one as the first image. [[Special:Contributions/94.194.66.92|94.194.66.92]] ([[User talk:94.194.66.92|talk]]) 17:28, 1 November 2009 (UTC)
+
+:It may not be representative but it is well-designed. I think its attractiveness makes it a good introductory image to our article. [[User:Bus stop|Bus stop]] ([[User talk:Bus stop|talk]]) 21:21, 4 February 2010 (UTC)
+
+== Fake bus stops ==
+
+This section was deleted because it didn't add to the understanding of what bus stops were. I feel that the material was worthwhile, and it was referenced, so I have restored it. [[Special:Contributions/121.45.194.165|121.45.194.165]] ([[User talk:121.45.194.165|talk]]) 12:53, 21 June 2011 (UTC)
+:The reference refers to two pretend bus stops in Germany, but the article mentions Australia and the UK as well, on what basis? While the idea is interesting it is relevant as a therapy for dementia, not as a significant aspect of understanding what bus stops are. The use of a bus stop in this context is no more notable than a bus stop appearing in a film, or as a prop on stage. Wikipedia is not an [[WP:INDISCRIMINATE|indiscriminate]] collection of information. [[User:Exok|Exok]] ([[User talk:Exok|talk]]) 13:11, 21 June 2011 (UTC)
+
+::Yes, ''&quot;it is relevant as a therapy for dementia,&quot;'' but it also has bearing on the topic of the article. We need not define the scope of the article narrowly. You mention ''&quot;...a bus stop appearing in a film, or as a prop on stage.&quot;'' In many instances I don't think a bus stop appearing in a film or as a prop on a stage would likely have exactly the gravity of significance as a bus stop put to the use that it is as a ''&quot;therapy for dementia&quot;.'' There are many ways that a bus stop could function in theatrical settings. But as therapy the way in which the bus stop functions tends to have a greater degree of permanence, or more enduring significance. [[User:Bus stop|Bus stop]] ([[User talk:Bus stop|talk]]) 13:35, 21 June 2011 (UTC)
+
+::: That's more or less what I was thinking. And while a bus stop being used in a film or as a prop would not be notable, it would also not receive news coverage. In the context of being used as a therapy for dementia, it HAS received media attention. The article's not so long that it's bloated. I do see where you're coming from with the indiscriminate information thing, and my mind is not made up one way or the other... I just didn't think it was good for it to be deleted without having this conversation. Even though we're talking about bus stops. [[Special:Contributions/121.45.194.165|121.45.194.165]] ([[User talk:121.45.194.165|talk]]) 14:42, 21 June 2011 (UTC)
+
+== What on earth is this jewish section? ==
+
+This is just bizarre. Not only can I not see why Jewish views on bus stops are included exclusively, but what I read didn't seem to tell me anything about bus stops in Jewish culture.
+
+I was just going to delete it.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/81.106.237.60|81.106.237.60]] ([[User talk:81.106.237.60|talk]]) 11:57, 30 April 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

@@ -1,0 +1,9 @@
+<article id="279035" title=Talk:Edmonson County, Kentucky>
+	<talkpage id="279035" title="Talk:Edmonson County, Kentucky">
+{{WikiProject United States|class=start|importance=mid|KY=yes|KY-importance=mid|U.S. counties=yes}}
+
+==Untitled==
+Wondering how to edit this U.S. County Entry?&lt;br/&gt;
+The [[Wikipedia:WikiProject U.S. counties|WikiProject U.S. Counties]] standards might help.
+	</talkpage>
+</article>

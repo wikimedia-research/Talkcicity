@@ -1,0 +1,762 @@
+<article id="444934" title=Talk:Koko (gorilla)>
+	<talkpage id="444934" title="Talk:Koko (gorilla)">
+{{Talk header}}
+{{WikiProjectBannerShell |1=
+{{WikiProject Primates|class=Start|importance=Mid}}
+{{WikiProject California|class=Start|importance=Mid}}
+{{WikiProject Zoo|class=Start}}
+}}
+{{BLP}}
+{{controversial}}
+
+==Unmentioned topics==
+No word on her care of cats? Her search for a suitable mate? or Koko in fiction? - [[User:Sparky|Sparky]] 23:11, 27 Jan 2004 (UTC)
+
+==NPOV issues==
+I'm wondering whether the characterization, &quot;''Some scientists... language. Many others... operant conditioning,''&quot; isn't subtly non-NPOV, suggesting that the (purported) minority position is wrong simply by virtue of its being in the minority. Does someone have hard data (or at least a reference) about the split in opinion on this matter? In the meantime, how about changing it to &quot;''Some scientists...''&quot; and &quot;''Other scientists...''&quot;? Also, it would be nicec to have a bit more information about '''why''' Patterson and others think Koko is actually using language. Not mention a link to an article or website that discusses the difficulties of verifying language use in non-humans. (I don't have the time at the moment or I would look for these myself.) - [[User:Dcljr|dcljr]] 23:56, 10 Aug 2004 (UTC)
+
+I've made the change I was discussing above. I also was uncomfortable with the use of ''claimed'' in the sentence:
+:''Patterson eventually claimed that Koko had a vocabulary of over 1000 signs.''
+which I changed to:
+:''Patterson eventually assessed Koko's vocabulary at over 1000 signs.''
+I think the word ''claim'' carries unnecessary negative connotations. - [[User:Dcljr|dcljr]] 08:48, 30 Aug 2004 (UTC)
+
+***similarly the word &quot;allegedly&quot; in the first para seems to undermine the ability of the great ape and rather belittle.I recommend changing that word in the light of the fact that koko can communicate.
+
+== Mammalian Communication ==
+
+I still find it odd the intensity with which communication between humans and other mammals is labelled 'anthropomorphic'.  I remember people saying that a dog coming up to its master and licking its face and wagging its tail when that master comes home is not a sign of happiness.  While certainly, the sensory equipment is different - ie a dog has better sense of smell and better hearing and appears to have better pattern-recognition with respect to that hearing (can tell who it is walking towards the house) - most mammal brains have similar wiring.  This is more especially true in an ape that has so much similarity to humans in a morphological sense.  Is there really some 'mystical' realm of 'mind' that distinguishes the way we communicate and the way an 'animal' communicates?  My opinion is that some, in the name of scientific correctness, bend over backwards so much as to be sliced by Occam's Razor. &lt;grin&gt;
+[[User:Elegy|Greg]] 18:58, 18 June 2006 (UTC)
+
+In several &quot;conversations&quot; with Koko, language primatologist Francine Neago noted he signed so fast she couldn't read it, and after asking him to slow down, he'd respond by saying &quot;Oh, I forgot, you're just a stupid human, you're not a smart Gorilla like me.&quot; Neago said he'd make &quot;jokes&quot; like that all the time, then he'd start signing so slow a baby could read it, as if mocking her. I noted this in the article, but was taken to task by [http://en.wikipedia.org/wiki/User:Ward3001| Ward3001] for &quot;vandalizing&quot; the article. Hopefully it can be mentioned here? [http://www.travelhead.com/trip/journal/SEASIA/born/| Source]
+
+''Of course, I looked up Wikipedia &quot;vandalism&quot; and found I hadn't violated anything by including the above quote. From the vandalism page: &quot;Any good-faith effort to improve the encyclopedia, even if misguided or ill-considered, is not vandalism. Even harmful edits that are not explicitly made in bad faith are not considered vandalism''&quot; [[Special:Contributions/76.17.147.234|76.17.147.234]] ([[User talk:76.17.147.234|talk]]) 01:35, 5 December 2007 (UTC)
+
+:The source you cite is a personal blog, a completely unacceptable source by [[WP:V|Wikipedia's standards]] that made extremely exaggerated and misleading statements (I know Francine Neago and know about the interactions with Koko). The amount of &quot;good faith&quot; in such an outrageous edit is very questionable. To the extent that your edits were naive I apologize, but I must say that either the edit was entirely in bad faith, or you are about the most naive Wikipedia editor I have encountered if you believe that Koko was capable of signing &quot;I forgot, you're just a stupid human, you're not a smart Gorilla like me&quot;. Even your statement above makes no mention that the source is completely non-credible. You present the information as if it came personally from Francine Neago. So you be the judge: your edit was in bad faith, or please accept my apology as well as the fact that you are incredibly naive? [[User:Ward3001|Ward3001]] ([[User talk:Ward3001|talk]]) 02:36, 5 December 2007 (UTC)
+
+:: While I agree with Ward on Koko's abilities and disagree with Greg on the way that Occam's Razor obviously cuts in this case, I don't agree that this is  http://www.travelhead.com/trip/journal/SEASIA/born/ &quot;a completely unacceptable source&quot;.  It does not prove that Neago actually said it, of course, but there is something that I think it would be valuable for, and I wonder if you would agree.  We could use it as a starting point for research by showing it to Neago and simply ask her if it is true that she has told this story, and what actually happened when she met Koko (she did meet her, right?) - on the record, and get to the bottom of it.  Anyone interested? [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 16:45, 29 June 2008 (UTC)
+
+== Pets ==
+The following sentence, since edited out of Koko (gorilla), served as a point of departure for a valuable discussion on the concept of &quot;pets&quot;.  Please feel free to develop this discussion or move it to a more appropriate location.  
+
+&quot;Koko is also the only known non-human animal known to keep a pet of a different species; she has cared for several cats over the years.&quot;
+
+*Not unique: [[Kamuniak]], [[Owen and Mzee]]. However, I see the text is already changed. [[User:Mlewan|Mlewan]] 17:43, 19 September 2006 (UTC)
+
+*I wouldn't be so sure about this. I know of a family with both dogs and cats, in which one of the dogs is specially attracted to one cat and 'protects' that cat from the other animals. It could be argued that the dog considers this cat as its pet (or the other way around? maybe the dog is protecting its 'owner'?). I can't think of other examples right now, but there probably are various.
+:In my view, this does not rise to the level of &quot;petism&quot; (neologism, claim first coining [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 03:32, 5 July 2008 (UTC)) The dog did not perform the necessary functions to take care of a cat. A gorilla could do basic things like open containers, fill food &amp; water bowls, etc.
+
+*In this book, the word &quot;pet&quot; was used to describle the relationship between Chantek the orangutan and squirrel:   Miles, HLW.  1990.  &quot;The Cognitive Foundations for Reference in a Signing Orangutan&quot;  In: Taylor Parker, S, Gibson, KR.  “Language” and intelligence in monkeys and apes: Comparative developmental perspectives.  Cambridge: Cambridge University Press.  p. 511-539.
+
+*Isn't the word &quot;pet&quot; used only in describing an animal kept and cared for by a human? Parental feelings from one species for another, while uncommon, have been exhibited many times. You should probably just indicate that Koko's manner of care for her cats is easily likened to a human's care for a pet.
+:I don't see why humans would need to be a part of the definition.  Why couldn't the same thing exist on other planets somewhere?
+
+Koko isn't even the first gorilla to keep a cat.  See the wiki article on [[Toto (gorilla)]].  [[User:Bookandcoffee|Bookandcoffee]] 21:02, 7 January 2006 (UTC)
+
+*Here I start a definition and invite your edits:
+
+&quot;A need for a lexeme for the concept best conveyed by the English word &quot;pet&quot; arises with the need to distinguish between pets and other domesticated animals, who are normally expected to earn their keep with work or food.&quot; 
+
+&quot;I cut more of the text on '''Toto''' (well, all of it really). Instead I left a reference to [[Toto (gorilla)]], and created the page with a cut and paste from this diff [http://en.wikipedia.org/w/index.php?title=Koko_%28gorilla%29&amp;diff=33349636&amp;oldid=32323026].--&quot;
+
+:edited extensively by [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 03:32, 5 July 2008 (UTC)
+
+&quot;pets of a different species&quot; is redundant in this context, I shortened it to just &quot;pets.&quot;   [[User:VegetativePup|VegetativePup]] ([[User talk:VegetativePup|talk]]) 07:41, 8 November 2009 (UTC)
+
+I also have trouble with this section.  Will you look at it with me, please?
+
+“Although not unique, Koko is one of the few non-humans known to keep pets.”
+
+What does the word “keep” mean here?  Can anyone verbalize what “keep pets” means generally, and compare that to what Koko’s does?
+
+“She has cared for several cats over the years…”
+
+When I say to you that Joe Shmo “cares for a cat“, does it not mean that he feeds them, changes their litter box, and, what else?  Takes them to the vet?  Obviously, Koko does not do these things, does she?  So doesn’t this section need editing?
+
+“… and Koko's relationship with All Ball was featured in the 1987 book Koko's Kitten (Scholastic Press, ISBN 0-590-44425-5), which was written by Patterson.”
+
+This part seems ok to me.
+
+“Other gorillas known to have cared for pets include Toto.”
+
+This seems a little orphaned, doesn’t it to you, stuck off to the end like that?  Couldn’t we work it into the text better?
+
+What would you say to this way of writing the section:
+
+Start out by saying “Koko’s relationship with a cat, All Ball, was featured in the 1987 book Koko’s Kitten, blah blah….by Patterson.”  Then, someone who has the book should write a good summary; this might exist already in the article [[All Ball]], which no one seems to disagree should be merged with this article.  
+
+We also should put in a summary about how this relationship first became famous, which as I recall was due to a cover story in National Geographic magazine.  Someone might still have a copy and could summarize it.  Actually, we should start out the section with the NatGeo article, and then Patterson’s book.  (Is this kind of in-line citation the standard way to cite the book, by the way?  It seems a bit more intrusive to have the ISBN here than in a simple footnote.  
+
+Thoughts?  [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 19:55, 8 November 2009 (UTC)
+
+== Michael ==
+Is there a page or section about the late gorilla friend of Koko, Michael the artist, in this article?
+
+== Unbalanced ==
+The interventions of the above Dcljr had made this article exceptionally unbalanced.  I have inserted a paragraph regarding the problems a vast majority of scientist have with the degree of &quot;interpretations&quot; by the trainers - so as to better reflect that Koko's ability to &quot;speak&quot; is highly controversial. As an edit by another reader, this is wrong. True, koko sometimes makes nonsensical phrases. But she also asked Mr. Rogers about his cufflink: &quot;what that flower?&quot; when she went on his show. She talks about places she doesn't see. She expresses emotions. She remembers things from far in the past and talks about them. To say she cannot truly speak would be ridiculous. 
+
+===Commentary removed from article===
+
+A major concern amongst scientists who have studied Koko's alleged ability to express coherent thoughts through the use of signs, is that interpretation of the gorilla's conversation, if such it be, is left to her trainer, Dr. Francine &quot;Penny&quot; Patterson, who generally sees any improbable concatenation of signs as deeply meaningful. During the 1998 on-line chat you saw bits of in Harper's (the whole thing is at www.koko.org/world/talk_aol.html), for example, Koko, without being prompted or questioned, made the sign for nipple, which Francine Patterson, her trainer, interpreted as a rhyme for &quot;people.&quot; (Patterson further claimed that this was a reference to the chat session's audience.) Even if you buy the idea that gorillas, who cannot speak, grasp the concept of rhyme, this sounds like wishful thinking. Similar examples abound: &quot;lips&quot; is supposedly Koko's word for woman, &quot;foot&quot; her word for man. Koko made a lot of signs, and sometimes expressed desires or other thoughts, but nothing in the transcript suggests a sustained conversation, even of the simple sort you might have with a toddler. (Cecil Adams 2003)  [[User:80.213.143.228|80.213.143.228]] 15:39, 13 August 2005 (UTC)
+
+====Article thus remains hugely unbalanced====
+
+I certainly believe the article should reflect that Koko's alleged ability to &quot;speak&quot; is highly controversial (,if not obviously false [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 16:19, 29 June 2008 (UTC)).  At this point it certainly doesn't and as such represents only wishful thinking on the part of some of the contributors.
+
+: Agreed! Well said.  (I added the noun appositive earlier in your paragraph for clarity.)  I especially like your noun &quot;trainer&quot;, which aptly describes what Penny actually is to Koko, and suggest using it in the article, instead of the terms Patterson herself uses.
+: Isn't this a fascinating case of empororsnewclothesism? Those who we count on to separate fact from illusion seem to turn away in embarassment, not wanting to get involved.  Who, besides ignorable people like you and me, has stand up point this out?  How much money that should rightly have been donated to The Gorrilla Fund or another such orgainization has instead been sent to The Gorilla Foundation?  This, I think, is the biggest tragedy of the whole charade.  
+: I hope that you will agree that this article is much improved in this way since you wrote this in 2005.  [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 16:19, 29 June 2008 (UTC)
+
+=== Attempt at bridging the gap ===
+
+I have taken a large piece of the above commentary, edited it and added it to the language section of the article, doing my best to make it factual and NPOV. In the process I also did some mild refactoring. My goal is to remove the need for a disputed-factual-accuracy tag. Comments/edits welcome. -- [[User:Martinp|Martinp]] 04:10, 10 March 2006 (UTC)
+
+=== Still Unbalanced 10+ Years Later ===
+
+So this discussion is from 2005, although it also has a note from 2006. At the time that I am writing this, it is August of 2015, and there's no mention of the question of her communication abilities. There is a single sentence containing criticism that the foundation does very little publishing in scientific journals, but I don't see any mention of this issue. I am not confident enough in my writing abilities to create such a section myself, but this certainly seems like an important point to make. Without pointing out this issue, the article ends up unbalanced. Is there newer evidence that strongly disputes this criticism? [[User:Trainguyrom|Trainguyrom]] ([[User talk:Trainguyrom|talk]]) 06:23, 29 August 2015 (UTC)
+
+== Sexual Harasment ==
+
+I looked up this episode, and the history of Koko on her
+webpage and she never did this. Knowng how Jesse is she
+might of huged him and he flenched to make it look like she
+grabbed his nipples. They just edited it to make it look like that.
+
+''Did you actually view the episode? Koko succeeds in grabbing his nipple a few moments after they meet, and Jesse James has to fend off her arm several more times when she tries to reach down his shirt again. Next time you want to make an assertion about something like this, search out the original source before doing so. Google won't find you everything. And so what if she grabbed someone's nipple? Why is everyone so uncomfortable with the idea that she could do this? Dogs sniff people's crotches, and a pet rabbit once tried to have sex with my foot. Animals, regardless of how accustomed they are to humans, will still do things that makes sense to them, not necessarily what we want them to do. Koko has a mind of her own, and if she wants to grab someone's nipple, as a gorilla she's entitled to try. She won't always play by our rules, and if her handlers have not taught (or have been unable to teach) her what's appropriate, then they should simply warn her visitors that this is something she might do and instruct them how to gently reject her probing fingers.''
+
+:I'm not fully convinced that this part is notable, but happy to keep it in if others continue to feel it is. However, if yes, someone should check/update the status on the lawsuits. There is one sentence that claims some are still outstanding as of December 2005, another that all claims have been dropped. [[User:Martinp|Martinp]] 04:13, 10 March 2006 (UTC)
+
+::Actually, one lawsuit still remains unsettled.  There were two lawsuits, one filed by Keller and Alperin, and one filed by someone whose name has not been reported.  Keller and Alperin's lawsuit was settled on Dec 1, 2005, while the second remains pending, as far as I know.  I will remove the sentence about all lawsuits being dropped, and I will keep the koko.org link.  I think we should keep this section; other than being amusing (albeit in a prurient way), it illustrates the vast difference in communication that remains between humans and apes, even if the ape has been taught some rudimentary sign language.  Cheers, [[User:Skinwalker|Skinwalker]] 20:52, 12 March 2006 (UTC)
+
+:Please don't blank this section for being &quot;unfounded material, likely the product of a very bad practical joke&quot; without reading the articles it cites and explaining exactly what about it is unfounded or a joke. This is sufficiently notable that I remembered the incident, looked up this article, noticed that someone had blanked the section for a stupid reason and reinstated it. It's not made up. [[Special:Contributions/18.189.110.147|18.189.110.147]] ([[User talk:18.189.110.147|talk]]) 03:14, 11 May 2012 (UTC)
+
+== biased and unobjective ==
+
+there are many intelligent debates about the plausability of great ape languages... it's not enough to say &quot;it's obviously true!&quot; read a few articles from encyclopedia britanica or here about [[washoe]] or other &quot;talking apes&quot; and you'll see what i mean... it's not that i don't think they could be talking but it's also possible that what they are doing is a pidgin or just a result of conditioning. you can't say it's obvious if you don't even give sources for your own information.
+
+:Hopefully my recent edit of the page addresses the concerns of this unsigned comment. [[User:Martinp|Martinp]] 04:13, 10 March 2006 (UTC)
+
+::Looks good, feel free to remove the NPOV notice :) - [[User:FrancisTyers|FrancisTyers]] 11:34, 10 March 2006 (UTC)
+
+I don't think this article is NPOV at all. The scientific community is largely against the idea that apes can 'speak' in any reasonable meaning of that term. A baby will cry to let others know it is hungry, but that doesn't mean it's 'telling' people that it is: it's an instinctive or learned response. You can train a dog to bark for food; it's the same thing with these apes, except they make random signs. I have a quote here from Steven Pinker's ''The Language Instinct'' from the only deaf (ie. native sign-language speaker) on the research team (this relates to a chimpanzee supposedly taught to speak):
+
+Every time the chimp made a sign, we were supposed to write it down in the log...They were always complaining because my log didn't show enough signs. All the hearing people turned in logs with long lists of signs. They always saw more signs than I did... I watched really carefully. The chimp's hands were moving constantly. Maybe I missed somthing, but I don't think so. I just wasn't seeing any signs. The hearing people were logging every movement the chimp made as a sign. Every time the chimp put his finger in his mouth, they'd say 'Oh, he's making the sign for ''drink'',' and they'd give him some milk...When the chimp scratched itself, they'd record it as the sign for ''scratch''... When [the chimps] want something, they reach. Sometimes [the trainers would] say, 'Oh, amazing, look at that, it's exactly the ASL sign for ''give''!' It wasn't.
+
+I think this perspective needs to be better reflected. I would like to put the NPOV tag back up. [[User:Makerowner|Makerowner]] 18:42, 17 December 2006 (UTC)
+
+:With all due respect, I'm not sure those comments pertain to Koko.  It would be interesting if the same person observed Koko. 
+:I agree that a dissenting opinion should be included, however.  From what I have read, most critics point out that Penny tends to publish in the popular press rather than scientific publications. Anybody have citations? [[User:Wrp103|wrp103 (Bill Pringle)]] 03:47, 18 December 2006 (UTC)
+
+:It's true that my quote doesn't pertain directly to Koko, but I think it show that communication by non-humans is much less accepted than the article makes it seem. The objections to this idea and the alleged problems with the methodology of the studies run on this subject are barely mentioned. [[User:Makerowner|Makerowner]] 04:03, 22 December 2006 (UTC)
+
+== Multiple articles on this topic ==
+
+This article is one of at least 16 articles on Wikipedia primarily about the fascinating but controversial subject of [[Great ape language]]. These articles have been created independently and contain much interesting but uncoordinated information, varying levels of NPOV, and differences in categorization, stubbing, and references. Those of us working on them should explore better coordinating our efforts so as to share the best we have created and avoid unnecessary duplication. I have somewhat arbitrarily put the list of 16 articles on [[Talk:Great ape language]] and would encourage us to informally coordinate efforts there. [[User:Martinp|Martinp]] 17:58, 15 March 2006 (UTC)
+
+
+== &quot;Darling of the Media?&quot; ==
+
+Yeah, ''that'' totally doesn't sound POV... And I like how someone went thru the chat log and found the most bizarre thing that they could, as if that disproved the whole thing. I'm personally not sure as to if I belive that Koko's communicating, but the current article doesn't look very NPOV... [[User:24.8.183.231|24.8.183.231]]
+
+:Actually that was me, most of the &quot;log&quot; was undecypherable, but I picked one that made me smile in the hope that it would make other Wikipedians and visitors smile too :) - [[User talk:FrancisTyers|FrancisTyers]] 10:28, 26 May 2006 (UTC)
+
+==Contradiction?==
+I don't see one in the section tagged as such - if nobody can point it out to me soon, I'll remove the tag.  [[User:Jwy|John (Jwy)]] 14:08, 16 July 2006 (UTC)
+:There was some confusion about whether any of the lawsuits regarding sexual harassment were still open/unresolved. I didn't personally follow the discussion since I consider the whole topic non-notable compared to Koko's use of language and the controversy surrounding it, but if you wish you can check the history of the page and of talk for this. Basically, at one point that section said both &quot;all lawsuits have been resolved&quot; and &quot;one is outstanding&quot;. May be fixed now. [[User:Martinp|Martinp]] 16:49, 17 July 2006 (UTC)
+
+:::I agree that the tag can be removed.  It is probably left over from the law suit confusion. [[User:Wrp103|wrp103 (Bill Pringle)]] 17:03, 17 July 2006 (UTC)
+::::Removed. [[User:Martinp|Martinp]] 03:18, 19 July 2006 (UTC)
+
+
+==Confusing sentence==
+
+&quot;Gorillas and bonobos (a species of chimpanzee) are relatively adept with certain forms of communication, whereas common chimpanzees and orangutans tend toward mastery of manual skills, including brachiation.&quot; - Two problems here: (1) This opposes '''certain forms of communication''' (without specifying what they are) to '''mastery of manual skills'''. Can we clarify ''which'' forms of communication we're talking about? (2) This seems to say that brachiation is a communication-related activity or vice-versa. Can we clarify this? -- [[User:201.50.123.251|201.50.123.251]] 11:50, 23 August 2006 (UTC)
+
+::I have deleted the &quot;including brachiation&quot; from this sentence because brachiation is a specific type of movement and is neither related to communication nor &quot;manual skills&quot;.--[[User:Ns1180|Ns1180]] ([[User talk:Ns1180|talk]]) 00:56, 3 November 2008 (UTC)
+
+== Hanabi-ko or Hanabi-kko ==
+
+Unless the official books or website didn’t mention the precise origins of “Hababi-ko,” I think the following would be useful. It’s true that “fireworks child” (as described in the official website) is a direct translation of “Hanabi-ko” or “Hanabi-kko,” but “Hanabi-ko” and “Hanabi-kko” have a very different nuance in Japanese. 花火子 ”Hanabi-ko” would be interpreted as a female named after fireworks. This is because ko is a common suffix of a female name and is not used for males (except in the ancient times). 花火っ子 “Hanabi-kko” would be interpreted as a person who have a great liking for fireworks. This is because (k)ko is a suffix that refers to a person (female or male, child or adult) being in a certain situation.[[User:130.54.114.6|130.54.114.6]] 03:19, 13 September 2006 (UTC)
+
+== IQ? ==
+
+The [http://news.bbc.co.uk/1/hi/world/americas/3548246.stm BBC article] puts her IQ at 75-95 (which seems a bit high). Is this confirmed elsewhere?—[[user:Wasabe3543|Wasabe3543]] 03:10, 1 October 2006 (UTC)
+
+: I'm afraid it is confirmed, or at least mentioned, elsewhere, but I'm still pretty sure it is wrong. [http://www.koko.org/world/ Koko's world] and [http://lists.ibiblio.org/pipermail/monkeywire/2002-March/000172.html allegedly LA Times?] for example. In this kind of cases, I think it is important to have ''reliable'' sources, which say what kind of text was applied, and what it measured. If a test actually took place, I very much doubt spelling was measured, for example.
+
+==National Geographic==
+There was an article about Koko called &quot;Conversions with a Gorilla&quot; in the October 1978 issue of National Geograpic.
+
+References: October 1978 issue of National Geograpic. &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:71.146.162.76|71.146.162.76]] ([[User talk:71.146.162.76|talk]] • [[Special:Contributions/71.146.162.76|contribs]]) 18:04, 9 April 2007&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt;
+
+== a very interesting article==
+But too short. Can someone extend this topic. Does anyone know about Koko's views on [[Declaration on Great Apes]]? [[User:144.173.6.75|144.173.6.75]] 09:38, 11 May 2007 (UTC)
+
+:Having come off several afternoon's search for a coherent thought from Koko, my guess is that, approached for comment on this matter, Koko might say something along the lines of &quot;this nipple this this eat good frown give-me give-me hurry&quot;.  That is, if she were at her most lucid. Take a look at the links we have been collecting, and help collect and sort them for the benefit of this article Talk:Koko (gorilla)/Sources here: http://en.wikipedia.org/wiki/Talk:Koko_%28gorilla%29/Sources.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]] • [[Special:Contributions/Chrisrus|contribs]]) 02:58, 2 July 2008 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== cultural reference ==
+
+Isn't there a reference to this in the movie &quot;Madagascar&quot;? [[User:Classicalkid87|Classicalkid87]] 16:08, 4 July 2007 (UTC)
+
+== Don't take it from me; research it yourself! ==
+
+Francine “Penny” Patterson is either a fraud or delusional or a wierd conbination of the two. Don’t take my word for it. Just read the transcript of the chat session in which Penny “translated” between Koko and a bunch of very confused AOLers. It’s obvious what’s going on. This woman is reading into gestures Koko keeps making to provoke Penny into giving her a treat!  Native users of American Sign Language who see a &quot;conversation&quot; between Koko and Penny know that this is what is going on.
+
+Penny is not a scientist, if you understand &quot;scientist&quot; to mean a person who allows his or her data to be checked by peers. She controls all the research and finances at her foundation with a man named Dr. Ron Cohen, who used to be a scientist in a completely different field, but, since he first trained a camera on Koko and Penny, has come to make a living controlling the film which should be, but is not, shared with as raw data with the scientific community. According to their Gorilla Foundation web site, Dr. Cohen is &quot;an authority figure for the gorillas whose presence is an integral part of their daily routine&quot;, a worryingly odd choice of words which begs explanation more than it clarifies.
+  
+Penny appears in public, mostly without Koko, to raise money to move her, her gorillas, and The Gorilla Foundation to 70 acres in Maui. Tourists and their dollars are to be encouraged there, but I doubt she'll allow the kind of access that would make it a real scientifically valuable institution.  The purpose, it is clear, is more that Koko have a baby.
+   
+What seems to be driving Penny crazy is her need to believe she is not delusional or running a scam. It’s possible Penny really thinks Koko is having a conversation with her, as many, including National Geographic Magazine, have been fooled into thinking. But some part of Penny must have some doubt, because otherwise, why does she hide from her peers? I think some part of her must know and is constantly looking over her shoulder, wondering who will clue in and tell on her. If I'm right, this explains the wild control-freak behavior she's been accused of in court, most of which is garden-variety psycho boss stuff which is not as dramatic as the weird nipple thing. 
+   
+About Koko's nipple fetish, it's obvious Penny either can't or won't stop Koko from grabbing people's nipples, because Penny apparently is not a good enough animal trainer to teach Koko not to do that and instead indulges her like some sad pet owner who doesn't command enough authority toget it across to her dog that humping legs is just not acceptable behavior and will not be tolerated. Animals can't be controlled by delusional, indulgent people who treat them like roommates, pals, or babies. (Watch and learn from the great Cesar Milan of The Dog Whisperer show on the National Geographic Channel!) In the case of a dangerous wild animal who is allowed contact with people, it could be a recipe for disaster. This, in turn, might explain why she hasn't allowed Koko to do any more P.R. Work.  So much for Koko being a spokesman for her species!  
+  
+Francine &quot;Penny&quot; Patterson's scientific malpractice, mistreatment of employees, incompetence as an animal keeper, and spooky detachment from reality should be exposed for the world to see and learn a lesson from.  The Gorilla Foundation should be taken from her and given to responsible parties who can rationally debate and decide what is best for Koko and Ndume.
+[[User:Chrisrus|Chrisrus]] 02:17, 18 August 2007 (UTC)
+
+Wow, this is an insane rant.  How can the author possibly be considered to have an NPOV?  This person seems to have a huge influence on this article, editing anything he/she doesn't like and using their apparent copious free time to dominate the page.  Despite their apparent self righteousness, this person is no better than the people who believe that Koko can speak without requiring any evidence.  Extremists and those with agendas on either side of a point do not a good article make.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/76.103.53.164|76.103.53.164]] ([[User talk:76.103.53.164|talk]]) 14:01, 5 August 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:Well, this is the talk page, not the article, so you can do POV things here like call my up-front presentation of my POV &quot;insane&quot; here.  &quot;This person&quot; (it wierds me that you call me that, how about &quot;he&quot; or my name, or speak to me directly?) have tried to influence the article, but I think you flatter me unduely if you think I'm responsible for everything less than accepting of the popular belief about Koko in the article.  But I don't think you can attribute the skeptism in the article wholy to me as I am hardly the first, last, or only one who feels this way, and much of it is in the sources and placed there by others, not me.  Look at the skeptical sources, and read the comments of others on this talk page.  It's ok if you don't like my POV, and I don't really care if you insult me, I can take it.  But it's simply not true to equate me with someone who just believes what most people do about Koko, because I have spent lots of time looking at and collecting lots of the evidence.  It's also not true that I wrote most or even much of the article, or that what the article is now reflects what I would have it be.  If you want to see what I would have the article be, look at the Improving the Organization of This Article section below, specifically where I wrote an outline of what I would have the article look like.  You can see there that if the article were the way I envision it, it wouldn't be POV, as you can see, not even the POV of popular belief on the subject.  
+
+:So yes, my &quot;rant&quot; above is POV, but I think that if you'd seen the evidence, it would be your POV also.  As you are superior to me in not being such a loser or nerd to spend that much time doing that, I guess you must not know as much about this as I do.  I understand that many people see my rant and find it bizzare because they come to this with the popular belief POV, so I'm not surprised by your comments.  But, as I say, don't take it from me, research it yourself with a critical eye.  But, as I say, you're apparently too busy with having a real life and not a loser nerd like me to actually do that, so you won't go research it yourself and see how Occham's razor slices in this case, so you're POV will remain less informed than, and in opposition to, mine.  [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 15:13, 5 August 2009 (UTC)
+
+:See, I think part of the problem is your assumption that anyone who is in opposition to you is automatically less informed than you.  I mean, it's your call if you want to rule over the article to get out your personal agenda (or not) but maybe it's worth asking yourself if on this particular subject you're really as objective as an encyclopedia editor needs to be.  As a republican I could get super mad about Barack Obama or something and try to force the page to show lots of controversies, especially if I have lots of time to immediately jump onto and respond to anything I disagree with that pops up, but I recognize that would not be helpful to anyone.  Encyclopedias aren't about personal missions or agendas such as these.  You're obviously a very angry and defensive person, and I'm not interested in working as some kind of online counselor to help you get past that.  I'm just saying maybe it's worth having some self-reflection over so that this article can have some balance rather than attacking someone you consider &quot;sad&quot;, &quot;delusional&quot;, etc. under the guise of editing an encyclopedia.  Really, all I'm saying is what I said before; it's not helpful to anyone to have extremists on any side of an argument dominating an article on wikipedia.  On your talk page you seem to describe yourself as someone with intellectual curiosity, but your actions sound more like the kind of person who fed hemlock to Plato for committing heresy.  Wouldn't it be more rewarding to have a debate on the merits, rather than the kind of personal attack rants you submitted above?  Doesn't the fact that you feel so personally upset by this preclude you from having any kind of rational role to play in editing the article?  Think about it, it's your legacy and body of work that this is a part of, not mine.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/159.153.4.51|159.153.4.51]] ([[User talk:159.153.4.51|talk]]) 15:33, 5 August 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:: Look, please just go research it yourself and you’ll see what I’m saying.  Just look at the AOL chat stuff below, or somewhere else it is on the net where you find it without my edits and comments, maybe better.  Go look at the AOL chat, or the videos on TGF website, whatever you want to Google up.  What explanation can you think of for her impossible statements about what Koko means by her movements?  Does it make sense to you?  I can’t help it: when I see that, the only explanation I can give think I can think of is that she’s either delusional or running a scam, or some combination of the two.   At this point, I think you’re right, however, a scam would be too much of a conspiracy.  She has to really believe it herself or she couldn’t pull it off.  At this point, it looks to me that the whole thing is a sad delusion, like the old lady with the bread in the park who thinks the squirrels love her.  I’d love to discuss it with you, but please, first, go see for yourself.  The whole purpose of my “rant” was to get people to do that: actually look at the direct evidence with a skeptical eye, and then compare it to common wisdom majority point of view, and, yes, also to my take, and let them judge for themselves.  If they do that, I’m confident that they’ll see the facts my way.  It doesn’t take as much time as you seem to think it does.  If you are not interested enough to do that, then how can you be so sure I’m so wrong about her?  And if I’m right, what significance does that have on how the article should be written?  You’ll see, it leaves us in a quandary a bit as to how to approach the article, doesn’t it?  It’s all very interesting and brings many interesting issues to the fore.
+
+:: Second, you have WAY overstated my influence on the article.  I “rule” it, “dominate“ it?  How so?  I don’t think the authors of the article would agree about their contributions.  Again, compare it to the way I’d like it to be, in my outline far below.  I think it’d be a fine article that way, don’t you?  Not like my “rant” at all, the chips will fall where they may.  
+
+:: Unless….hey, are you confusing the article with the talk page?  I do say the most on this talk page, so maybe that’s what you mean about me “dominating”.  
+
+:: Third, why are you even talking about me personally, anyway?  Talk about Koko and Patterson and The Gorilla Foundation and what evidence there is and what it means.    Say why you think I’m wrong about what.  If you want to talk about me, there might be a place for that.  
+
+:: Fourth, if your point is that the “rant” should be removed, or at least toned down and made more encyclopedic, say so.  It may sound heretical to you, and you may want it censored.  I am willing to hear your case, I was just, again, trying to spur interest and investigation and people thinking for themselves, but I just shouldn‘t say mean things about nice people even if they are true and the person’s delusions are kinda dangerous, if that turns out to be your point after you check it out.  But if that’s your point, don’t compare me to Socrates’ accusers.  I’m not the one all upset about someone speaking the truth as he sees it and wanting to shut him up.  [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 02:36, 6 August 2009 (UTC)
+
+:::From what I've seen, I have to agree with [[User:Chrisrus|Chrisrus]] here.  Koko's handler definitely exhibits all of the signs of someone trying to manipulate the facts.  The mainstream media probably feigns ignorance to it because it makes for a much better story if Koko really is capable of all the things her handlers claim.  I actually looked up information on this subject a few hours ago because I was eager to read a 'feel good' story.  It didn't take long to see that the actual story was in the way Koko's handlers were declaring facts from wholly speculative interpretations.  In many cases, the claims are simply absurd.
+
+:::What's most alarming is Francine Patterson's vested interest in all these things being true.  I would ''like'' to believe they were true, but it doesn't affect me one way or the other, but 'Penny' stands to lose everything if the information proves false.  Because she uses the 'truth' of the claims as a mealticket, any 'facts' disseminated by her cannot be considered reliable. I haven't checked the citations on this article, but anything sourced to Penny's research or sites should qualify as [[Wikipedia:SELFPUB#Self-published_and_questionable_sources_as_sources_on_themselves|self-published or original research]]. -[[User:K10wnsta|K10wnsta]] ([[User talk:K10wnsta|talk]]) 20:18, 5 September 2009 (UTC)
+
+I recommended checking out this lecture by Dr. Robert Sapolsky at Stanford University, he discusses the Koko &amp; Penny near the end: &lt;ref&gt;&lt;/ref&gt;http://www.youtube.com/watch?v=SIOQgY1tqrU&lt;ref&gt;&lt;/ref&gt;  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/66.224.30.234|66.224.30.234]] ([[User talk:66.224.30.234|talk]]) 18:27, 17 July 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:Thank you.
+:He starts to talk about Koko at @1:28 in. [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 19:34, 17 July 2013 (UTC)
+
+Wait...it's mentioned elsewhere here Koko's trainer keeps treats in her pocket...breast pocket, I take it? And she takes them from the pocket herself, or sees the trainer take candy from that area? Perhaps Koko is simply trying to get something to eat and her &quot;nipple fetish&quot; is innocent and nonsexual. She may simply be conditioned to think everyone has a pocket full of food for her.  [[User:The Iconoclast|The_Iconoclast]] ([[User talk:The Iconoclast|talk]]) 07:42, 20 December 2013 (UTC)
+
+==&quot;Lips Fake, Candy Give Me&quot;: Koko &quot;Speaks&quot; on AOL==
+
+You ask me for references to back up my claims.  I think the AOL chat should be enough for anyone, and easily googled by anyone.  It's the closest thing anyone can google of koko using language.  It makes no sense that there would be no proof that she can use langauge anywhere.  My reference is the fact that there is no evidence.  It makes no sence that there would be nothing anywhere on the net by now.  Think about it.  Again, don't take it from me, look for yourself.  How'm I supposed to reference the fact that there is no reference, other than this?
+
+So you deleted my additions.  Well, fine, Here is some of the transcript, I guess you couldn't be bothered, so even though it's long here it is, or at least in part.  To read it without my comments and edits, google it yourself.
+
+*PENNY: We're going to be on the phone with a lot of people who are going to ask us questions... 
+*KOKO: Nipple. (Koko sometimes uses 'nipple' as a 'sounds like' for 'people.')
+*PENNY: ...about you and about me. . . Lots of people. 
+*KOKO: That red pink. (Indicating Penny's shirt.) 
+*PENNY: That red pink. Yes, right! 
+*KOKO: Hurry good. 
+*PENNY: This is red—this is pink, exactly. 
+*KOKO: Pink. (Koko reaches for Penny's pocket which contains treats.) 
+
+Koko has gotton treat for gesturing.  Is there some reasonable doubt?  Study it carefully.  Who is typing for Koko?
+
+*PENNY: OK. That's the kind of things they are going to ask. 
+*KOKO: Good. 
+*PENNY: Questions about colors or how you're feeling. OK? 
+*KOKO: That red. (Indicating her own hair.) 
+*PENNY: Honey, this is black. 
+*KOKO: XXX XXX. (XXX looks like 'sun'.) 
+*Koko is trying to sign 'black.' Penny touch prompts 'black'. 
+
+Koko's typist sees something that looks like the sign for &quot;sun&quot;, but is somehow aware that what she's trying to say is &quot;Black&quot;?  How does they typist know this?  Because that's what penny &quot;touch prompts&quot;?  See what I mean?  
+
+*KOKO: Black. There hurry. (Indicating Penny's pocket.) 
+*K has one ape doll kiss the other. 
+*KOKO: Kisses.* 
+*KOKO: Lips lipstick. 
+*PENNY: Yes, 'lips lipstick,' right. 
+*KOKO: Lips fake candy give-me. (Then Koko reaches for Penny's pocket.) 
+*PENNY: Wait . . . a minute. 
+*KOKO: Good. 
+*KOKO: Bad hear (left hand on lt. ear) hear.(left hand on rt. ear) Hurry. (Koko reaches for Penny's hand.) 
+
+Ok, what's your impression as to what is going on here?  Sound like the animal wants a treat and is trying different things to get Penny to give her one?  Can you spell &quot;Okkham's Razor?&quot; (sic, it is spelled &quot;Occam&quot;)
+
+*AOL: Is Koko aware that she's chatting with thousands of people now? 
+*PENNY: I just explained it to her so she has some idea. 
+
+What do you think makes Penny think that is so?  Have you seen any evidence for it?  Where is that when Penny speaks for Koko, she's being accurate?  H
+
+*KOKO: Hear. (Koko reaches for Penny's treat pocket.) 
+*PENNY: You want to hear? . . . OK. Koko is ready. 
+*AOL: Welcome, Dr. Patterson and Koko, we're so happy you're here! 
+*PENNY: They said 'Welcome.' . . . That was me actually. I'm translating for her. . . . I gave Koko an explanation of what we're doing and she said 'Good hear.' 
+
+What would Penny have to do to prove her claims?  Hire a native user of ASL to check the film of her, to varify her claims?  Would that be a good way to test her claims?  Has anyone tried?  What happened?  Stephen Pinker quoted one such person, that's a reference for this article.  What else would constitute a good peer review of her claims?  What happened when they asked for the raw film? Copyrighted property of who?  You'll learn if you go Google around.  Property of The Gorrilla Foundation, not for prying eyes.  
+
+*Koko pulls Penny close and kisses her cheek. 
+*KOKO: Pink this. (Grasping Penny's shirt sleeve.) 
+*PENNY: She's just signed 'pink' and she's looking . . . 
+*KOKO: Pink this pink. (Indicating Penny's shirt sleeve.) 
+*PENNY: . . . at my shirt. We have had earlier discussions about color today. 
+*Koko pulls Penny's phone hand closer. 
+*PENNY: OK. She wants to listen. Do you have a question? 
+*KOKO: Listen. 
+*PENNY: She said 'listen.'. . .
+*AOL: MInyKitty asks Koko are you going to have a baby in the future? 
+*PENNY: OK, is that for Koko? Koko are you going to have a baby in the future? 
+*KOKO: Koko-love eat ... sip. 
+*AOL: Me too! 
+*PENNY: What about a baby? You going to have baby? She's just thinking...her hands are together... 
+*KOKO: Unattention. 
+*PENNY: Oh poor sweetheart. She said 'unattention.' She covered her face with her hands..which means it's not happening, basically, or it hasn't happened yet. . . I don't see it. 
+
+Ok, we can accept Penny's explanation.  By covering her face, Koko has &quot;spoken&quot; this: &quot;I don't see it.&quot;  Or we might think there might have been some other reason that Koko covered her face.  Do YOU think that Penny is justified in &quot;translating&quot; this the way she did?  DON'T take it from me, make your own judgement.  Koko covered her face, and Penny explains what Koko is saying in more detail below.
+
+*AOL: That's sad! 
+*PENNY: It is responding to the question. In other words, she hasn't had one yet, and she doesn't see a future here. The way the situation is actually with Koko &amp; Ndume, she has 2 males to 1 female which is the reverse of what she needs. I think that is why she said that, because in our current situation, it isn't possible for her to have a baby. She needs several females and one male to have a family. 
+
+Credit to Penny for saying &quot;I think that...&quot;  Do YOU think Penny was justified in interpreting it that way?  Is this science?  You think there is enough evidence yet that Penny conflates wildly from Koko's movements that &quot;Oh, Koko means this, &quot;Koko means that&quot;.  
+
+*AOL: Do you see that situation changing when you get the Gorilla preserve on Maui? 
+*PENNY: Yes, we do. 
+*KOKO: Listen. 
+*PENNY: Koko just signed 'listen' and she wants to hear the phone so I'm going to hold it to her for a second. Did you hear them? (to Koko.) 
+*KOKO: Huff.* 
+*PENNY: She just made a vocalization. Did you hear that? That was her talking on the phone. 
+*AOL: Hi Koko! I can hear her! She breathed at me! This is so cool! 
+*PENNY: I'm working to create a family here in Woodside which would mean that we would need to add an additional female at a minimum. So I've been working with the zoo community to do that. And in Hawaii, we'll have much more space which means we will be in a much better situation to welcome additional gorillas to our family and then she's almost assured to have a family of her own. 
+*KOKO: Purr.* 
+*AOL: So she really is looking forward to this! 
+*PENNY: That's a happy sound when I said 'a family of her own'...Yes, she seems to be responding to my English. 
+
+In YOUR opinion, does Koko seem to be responding to Penny's English?  What does Penny seem to be doing?
+
+*AOL: SBM87: ask What are the names of your kittens? (and dogs?) 
+*KOKO: Candy give-me. 
+*PENNY: OK. 
+*Penny gives treat. 
+*KOKO: See give-me. (Indicating the phone?) 
+*PENNY: What's the name of your kitty ? Kitty's name and dog's name? 
+*K picks up the foot of the large stuffed gorilla doll she is sitting on. 
+*KOKO: Foot... (Many times, first on the doll's foot then on her own foot.)... Foot. (Twice on the doll's foot.) 
+*PENNY: 'Foot' isn't the name of your kitty. 
+*KOKO: Hear lip. 
+
+Is this the ASL sign for &quot;foot&quot; or just touching a foot?  Touching her lips is &quot;translated&quot; as &quot;lips&quot;, so it's a reasonable question, no?  Just asking, but wouldn't you like to see the film?  Try to find it, or any raw data released by her to the scientific communty without her &quot;interpretation&quot;.  She writes these papers and they say &quot;Koko made this or that ASL gesture today&quot;, but who saw it does she accompany the papers with any film so these things can be independantly verified?  Go ahead, try.  Then you write your article containing truth and facts about what this animal can and cannot do.  I will say something out loud now.  Koko the gorilla does not use sign language.  If she did, there would be some proof, and there isn't any.  Just more of this, &quot;Oh, Koko means this, Koko means that....&quot;  Watch:
+
+*PENNY: She wants to hear the lady on the phone. Maybe you can ask her that question. 
+Penny puts the phone to K's ear. 
+*AOL: Koko, what's the name of your cat? 
+*KOKO: Huff* no. (Headshake.) 
+*PENNY: She just gave some vocalizations there... you probably heard soft huffing. 
+*AOL: I heard that soft puffing. 
+*PENNY: Now shaking her head 'no'. Are you not going to answer that question? 
+*K pulls PP's head close &amp; kisses her cheek. 
+*AOL: Question: Do you like to chat with other people? 
+*PENNY: Koko, do you like to talk to people? 
+*KOKO: Fine nipple. 
+*PENNY: Yes, that was her answer. 'Nipple' rhymes with 'people,' OK? She doesn't sign people per se, so she may be trying to do a 'sounds like...' but she indicated it was 'fine.' 
+
+Think for yourself.  Does that make sense?  
+
+*K climbs up on lg. box &amp; PP asks her to turn around. 
+*KOKO: Give-me. (For more treats.) 
+*AOL: BSikor439 wants to know, Koko, Which of your paintings do you like most? Is she still painting? 
+*PENNY: Uh-huh. OK. Gosh, you know, she hasn't seen her paintings for awhile. She is (still painting.) 
+*K starts getting down from box and it comes away from the sink. 
+*AOL: Tell us what she's doing right now! 
+*PENNY: She's re-arranging the furniture in her room, basically. Let me move some of these boxes back. There's a lot of stuff here. Let me ask her if she LIKES to paint...one second..She's taking a toilet break. 
+*AOL: Dr. Patterson, why is this such an important project? 
+*PENNY: We're learning so many things on a number of levels, many of which I did not predict. What's that? [jingling sound] What's she got? Wait a second. 
+*AOL: You've devoted your whole life to it! What are we learning? 
+*PENNY: I had started to simply see if another species could communicate with us in our own language, that being sign language. And we have found that, yes, that is so and that she is actually very creative with that language (K returns.) and that we share not only the ability to form words and thoughts but also to talk about abstract things like feelings, the past and future... 
+*AOL: I can see that! 
+
+Can you &quot;see that&quot;?
+
+*PENNY: ...so those were sort of surprises, that she would be so creative. And that she would be essentially adding to the process. What I've discovered in the meantime is that she has already got the system, it's not that I gave her a system to communicate. Gorillas already communicate with a rich vocabulary of gestures. (K looks at a birthday card.) What I've done is simply share the vocabulary with her. So those things were all unexpected. We have a window into the mind of another species, which is, I think, one of the values in (that) this species is really part of our family as humans.They are our closest living relatives. So we stand to learn a huge amount about ourselves - our ancestry. How we might have evolved into the species we are today. That's just part of it. I could go on. We are learning a lot about gorillas themselves in terms of things as diverse as reproductive physiology... 
+*KOKO: This. (Indicating a picture in a magazine she is looking through.)
+
+Well, Penny does seem to think her work is very important.  But what does koko do?  Points to a picture.  Well, extends her finger at it for some reason.  Did Koko use the ASL sign for &quot;this&quot; by pointing to a picture?  Did Koko sign the word &quot;this&quot;? 
+
+*PENNY:... to their ability to direct their own lives, in a sense, with a language tell us what they would like and how they would like to see things happen in the future; react to things in the environment and these are things that are quite unexpected sometimes. 
+*KOKO: This. (Indicating another picture in the magazine.) 
+*PENNY: Things that are not even meant for Koko's ears, she will respond to things at rather a sophisticated level. We have documented her comprehension of English and this is not just at the level of tone (of voice), but this is at the level of the tiny pieces that the language is made of. . .she actually discriminates phonemes. And that kind of thing had never been know before. The fact that they can create representational art is yet another aspect that I certainly didn't expect but that has implications for anthropology in terms of how far back the roots go for this kind of representational behavior. 
+
+Oh, this is another good one you could try for yourself.  Google yourself up a painting by Koko and see how undisputably &quot;representational&quot; it is, IN YOUR OPINION.
+
+*KOKO: Lip apply-lip lipstick. (Looking at the picture of a woman model in the magazine.) This. (On the page) 
+Koko turns the pages then puts magazine down then grooms the fingers of the large stuffed gorilla doll. 
+AOL: I've heard people say she's not really communicating -- I think she's smarter than we are-- after all, how many of us can speak Gorilla! 
+*PENNY: Exactly! She has learned our language but we haven't learned hers. So that does say a lot about the relative capacities of our species to communicate with another one. 
+K takes Penny's hand and Penny sits down close to Koko. 
+*KOKO: Purr.* 
+*AOL: What new is there to learn after 26 years? 
+*PENNY: Every day brings new surprises in terms of learning about gorillas in order to save them, but also in terms of learning about ourselves and mainly that consists of (learning about) new ground about how similar we are. Every little nuance that she comes up with often surprise me, and I don't know why I'm surprised, but I am still surprised when she shows a new level of sophistication. . . She's back. 
+*AOL: A basic earthy question for Koko from Earth2Kim: Koko, what is your favorite food, fruit, or vegetable? 
+*PENNY: OK, hey. We got a question for you, honey. Whats your favorite food? The one you like eat the very best. What's your favorite food? The one you like best.. Ok...she's thinking... 
+*AOL: People have a lot of stereotypes! 
+*KOKO: Sip. 
+*PENNY: She likes drinks. What your favorite drink? Do you have a favorite drink? 
+*KOKO: Drink apple. 
+*AOL: SickboyRE asks: Koko, have you taught other gorillas sign language, on your own? 
+*PENNY: That's a good question. Have you taught other gorillas to sign? 
+*KOKO: Myself lip. 
+*PENNY: She taught herself. That's really true, too. That's very good and I think what part of that answer might be, is that she's taught us. In other words, 'myself lip' was her answer and 'lip' is her word for woman. So 'herself' has taught 'lips', perhaps. So there are a couple of interpretations there.
+ 
+So, assuming your are a reasonable intelligent person, do YOU think Penny is justified in interperating koko's hand movements as evidence that she understood the question and responded like that?
+
+*AOL: She's really creative! 
+*PENNY: Uh-huh, and I think she's acknowledging that in that answer. 
+*AOL: She makes up some of her own terms, like 'lips' for woman. 
+*PENNY: Oh yes, and 'foot' for male. 
+
+Don't you wonder, how exactly does Penny ''know'' that Koko means &quot;male&quot; when she formed the ASL symbol for &quot;foot&quot;, (assuming Koko did)?  Well, we can't know cuz we can't see Koko, but even given the benefit of a doubt, what do you think?  Koko makes a gesture.  Was she trying to say the word &quot;foot&quot;?  What would it take for you to know?
+
+*AOL: Another question from the audience: Does Koko like birds? I have the bird t-shirt she painted -- I'm wearing it now! 
+*PENNY: Koko sweetheart, do you like birds? Do you like birds?.. She's very thoughtful today, she walked away, she's looking out the window... 
+*AOL: She's looking at the birds! 
+*PENNY: You know actually there are a number of blue jays that have been frequenting her play yard because they are nesting nearby and she looking out into the play yard. She's going to look at them, right. 
+*AOL: Are there any birds out there now? 
+*PENNY: She's looking out the window and one just flew by. She [expresses herself] with actions and this is very characteristic of young children. Actually, the newer ways of studying very young children is to look at very subtle behaviors. She's looking out the window... 
+*KOKO: Lips. 
+*PENNY:... and signing 'lips', which is her word for 'woman'. I can't see what she's seeing completely. I'm at an angle with the window and can't leave where I am. 
+
+Before Penny said &quot;nipple&quot; is her word for &quot;woman&quot;.  Now &quot;lips&quot; is her word for &quot;woman&quot;.  Ok, Koko has two words for &quot;woman&quot;.  But how in in the world could could Penny know that Koko means &quot;woman&quot;?   
+
+*AOL: This is a very abstract one for her: Are you content with your life? That was from Jedi114. I'm very curious to see what she might say to that! We know she might not be able to answer everything, but we're going for it anyway! 
+(Koko comes back) 
+*PENNY: OK. I can ask that in a different way. Can you come here sweetie and be patient? She's got her back to me. Koko, are you happy? 
+*KOKO: Fine. 
+
+Now that exchange DID seem like communication, didn't it?  Every now and then there might be a word or two in isolation that sound like linguistic interaction.  Like, once in a hundred, an exchage goes something like, &quot;Are you happy?&quot;  &quot;Fine&quot;.  But then two seconds later, it's &quot;Are you happy, Koko&quot;?  &quot;Foot&quot;.  
+
+*AOL: Here's one: Koko, where would you like to visit? 
+*PENNY: That's hard because Koko doesn't travel. 
+*AOL: We were wondering about that. 
+*PENNY: So, her concept of space is very limited compared to even a child, because we really stay here of necessity. So we could ask her if she would like to go to Hawaii. 
+*AOL: Would she like to go to Hawaii? 
+*PENNY: Would you like to go to Hawaii? 
+*KOKO: Look. 
+*PENNY: She says 'look.' 
+*AOL: Me too! 
+*PENNY: : Maybe she'd like to see it first. She actually has travelogs of Hawaii that she looks at on her video machine; travelogs, Hawaii videos. So she has seen it. 
+
+Ok, I suppose you could tell me that a reasonable person could read that and find Penny justified in her interpretation of Koko's meaning by signing &quot;look&quot;, assuming that is what Koko did?  
+
+*AOL: Does she watch TV? 
+*PENNY: Yes, public broadcasting only. Right, so she'd like to look at Hawaii. 
+*KOKO: Think XXX. (XXX - Koko's hand is partially out of frame - possibly 'lie-down.') 
+*PENNY: What do you think about Hawaii? We talk a lot about it. 
+*AOL: Storm 1004 asks: Dear Koko...I've watched you for years now...your gentle spirit is inspiration for many... I'd like to know what you'd like for your birthday. 
+*AOL: What a sweet question! 
+*PENNY: OK. Your birthday is coming up, Koko. What do you want for your birthday? What do you want? 
+*KOKO: Birthday... Food smokes. 
+*AOL: SMOKES? 
+*PENNY: Well, she sort of signed 'food' and 'smokes.' You have to understand...Smoke is also the sign for her kitten. Her kitty's name is Smoky. So that one could have a double meaning.. Yes, she (does) still have Smoky. She's looking out the window right now, so her back is to me. 
+
+Seen enough?  Google the rest yourself, if you're still not convinced.  It goes ''on and on'' like this.  To MY mind, I can't understand how any reasonable, objective person could read this and interpret it differently than I have, but maybe I'm wrong.  Respond, it's been a long time now, am I wrong?
+
+Don't take it from me!  Go see for yourself!  Google the rest of the transcript, look at it scientifically, what does it indicate to you?  Can you imagine any informed, reasonable person interpreting it in any other way than I have?  What everyone thinks about Koko is wrong.  Now, look at the article again.  What needs to be done?
+
+[[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 09:24, 19 May 2008 (UTC)
+&lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]] • [[Special:Contributions/Chrisrus|contribs]]) 08:40, 19 May 2008 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:I have to say the more I discover about Koko, the more sceptical I become. I was personally embarrassed some time ago when I cited her as an example of 'talking animals' in an online debate, only to have my opponent thoroughly (and deservedly, I fear) trash my argument by digging up the AOL webcast transcript. As evidence for animal communication skills that thing is an epic fail.
+
+:Two other points:
+:* I signed up at [http://www.koko.org/index.ph Koko's website] using, as I always do, a mailbox I created specifically for the purpose. Within weeks that mailbox began to receive avalanches of seriously low-grade spam from hardon-pills and online pharmacies, pump'n'dump and the like. I complained to the koko.org main address, but have received no reply. I'm confident that my contact list has not been compromised, and while this may mean only that someone at koko.org has a little sideline selling their maillist, it's not a very good sign.
+:* Other talking apes in what may be more professional surroundings, such as Washoe and Kanzi, have had their abilities analysed by linguists, and compared with that of human infants. One result I recall is that Mean Length of Utterance (MLU) of bonobos tends to stick at three-word sentences: 'green ball give' and so on - even though they will understand much longer sentences spoken ''to'' them. In their early stages of learning, bonobos will keep pace with and even outstrip their human counterparts for a while, but in time human children will start to synthesise sentences with larger and larger MLUs. I've yet to see any such data on Koko's signing. Any serious data at all, in fact.
+
+Apologies if the preceding comes across as chat, but this whole thing is very sticky. As long as there are two competing sides to this subject, NPOV may be impossible to decide. I certainly can't. Until there's some definitive data, caution and scepticism seem advisable. --[[User:Cdavis999|Cdavis999]] ([[User talk:Cdavis999|talk]]) 21:23, 18 February 2009 (UTC)
+
+:What would &quot;definitive data&quot; be?[[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 04:13, 27 June 2009 (UTC)
+
+==Another anecdote==
+
+&quot;Another Koko anecdote relates directly to Persson's research. One day
+when Koko had been, with some effort, lured inside from her yard for
+some purpose unremembered by me, Penny Patterson noted that a purple
+plastic toy that she had been playing with was missing. Penny searched
+the yard without finding the toy. It was important that she find it,
+since Michael was soon to enter the yard, and he had a habit of trying
+to eat plastic, which wasn't at all good for him. Penny thought of
+taking Koko back into the yard and asking her by sign language where
+the toy was. She decided against this tack because of the anticipated
+effort required to lure Koko back inside. Following a hunch, Penny
+drew a diagram of the yard and its furniture, showed it to Koko and
+asked her where the toy was. Koko promptly pointed to the image of a
+barrel in the drawing. The toy was found under the barrel. Needless to
+say, Penny was more than a little surprised. Nothing of this sort had
+been tried before by her.&quot; [[User:Fig wright|Fig]] ([[User talk:Fig wright|talk]]) 17:48, 1 March 2008 (UTC)
+
+== Reverting an unsourced claim removal ==
+
+[[User talk:76.90.232.34|An anon]] has removed a number of claims about Koko's use/nonuse of language, correctly pointing out that they have had fact tags for a long time without resolution. The rationale beyond the removal is a sound application of WP policies, but on due consideration I am reverting the removal and leaving the unsourced tags. The claims - that some have said Koko does use language and some claim she hasn't, and that she is claimed to understand a significant number of spoken English words - do need citing, but I think they are central enough to the primary context of the article that a potential reader is better served by leaving them it, and perhaps it will better provoke someone to source them. I would do it myself - and I believe the book by Patterson and Cohn will source two of them and any of the literature critically reviewing the ape ASL experiments the third - but finding the precise reference will need someone who has those sources at hand, which I don't. Again, the principle behind the removal by the anon was sound, but in my opinion the informativeness of the article, however imperfect it may be, as well as the future evolution of the article, is better served by leaving them in, tagged. While there is significant controversy whether Koko does use language, I believe there is no controversy that all of the claims mentioned have been made in notable sources and thus should be included. [[User:Martinp|Martinp]] ([[User talk:Martinp|talk]]) 01:11, 12 March 2008 (UTC)
+
+:Although I acknowledge your [[WP:AGF|good faith]] in restoring unsourced information, your rationale is terribly lacking. To place information in an article that is unsourced, with the reason for the absence of a source that you don't have access to the sources, flies in the face of [[WP:V]]. The information can always be added later by someone who does have access to the sources. Instead, you should move the unsourced information to the talk page. If a source is found, no problem. Otherwise, however, it can linger unsourced in the article for months or years (yes, I have seen such unsourced statements remain in articles for more than a year). But with your line of reasoning that &quot;someone can source it later&quot;, I could go on an edit spree and add everything that pops in my head to an article as long as I know I read it somewhere even though I can't get to the source. Sorry, that's not the way it's done on Wikipedia. I'll give this issue a couple of weeks, then I'll be moving the unsourced material to the talk page. --[[User:Ward3001|Ward3001]] ([[User talk:Ward3001|talk]]) 03:41, 12 March 2008 (UTC)
+
+::Good to have a discussion on this, Ward3001. And I hope someone (maybe even one of us) will be somewhere where we have access to sources as soon as possible. In the meanwhile, we're here to write an encyclopedia. If the fact whether someone had really made that claim was controversial, or the inclusion of the claims was advocating one point of view in an unbalanced way, or harming an individual, then we should be merciless in removing them while unsourced. In this case, however, the fact that some experts have claimed that Koko uses language and some have not, and the fact that the claim has been made that Koko understands a large number of spoken English words, is uncontroversial. The actual issue of whether Koko is using language is controversial, but not the fact the claim and counterclaim have been made. Whether one believes those claims have foundation or not, they have been made in a verifiable way. I hope very much that someone is able -- soon I hope -- to look up the references and source them. But while noone has done so yes, the presence of fact tags is more likely to provoke someone to do it than removing them. But it is a judgement call and there is a slippery slope argument issue there, so I would be comfortable, if no one is doing anything, to move to the talk page pending verification. Sorry I can't help more myself. [[User:Martinp|Martinp]] ([[User talk:Martinp|talk]]) 10:57, 12 March 2008 (UTC)
+
+:::Yes, we're here to write an encyclopedia, but that does not justify adding unsourced information to an article. No legitimate encyclopedia writes an article with the intention of adding the sources later. It just doesn't work that way. As for whether the information you added is balanced, that's a matter of opinion. It does present more than one point of view, but does it present it in a way that reflects the available facts? The answer to that question is unknown based on the article because none of the information is sourced. I don't think we are in complete disagreement on this matter, but I also don't think allowing unsourced material to remain in an article more than a few weeks is acceptable Wikipedia practice. --[[User:Ward3001|Ward3001]] ([[User talk:Ward3001|talk]]) 19:53, 12 March 2008 (UTC)
+
+::::I've added some sources. I will be the first to confess that I am no expert on this subject, having only read up on it today, so feel free to remove them if anyone thinks they are unreliable or irrelevant. [[user:Ascidian | &lt;font color=&quot;blue&quot; face=&quot;arial narrow&quot;&gt;ascidian&lt;/font&gt;]] |[[user talk:Ascidian | &lt;font color=&quot;green&quot; face=&quot;arial narrow&quot;&gt;talk-to-me&lt;/font&gt;]] 17:04, 13 March 2008 (UTC)
+
+== Move to Maui nearing attainment?==
+The Honolulu Advertiser in 2005 published this article about the Gorilla Foundation's move to Hawaii.  The article makes it look as though it may not take place. (http://the.honoluluadvertiser.com/article/2005/Mar/09/ln/ln06p.html)  
+The Maui Land and Pineapple Company wants to support species native to Hawaii and the Gorilla Foundation is still $3 million short of the $5 million they needed to raise for the move, so it looks as though Koko will probably live out her life in California. 2005 was more than a decade after the original plan was announced and this writing is three years later.  Either omit this here or discuss the failed plans under an article about Patterson or The Gorilla Foundation.[[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 09:22, 19 May 2008 (UTC)
+:I'm surprised you would cite an article from 2005.  I'm even more surprised you would interpret it to say something it doesn't.  Many articles have been published since then, all maintaining that the Maui Ape Preserve is a ''go''.  The ''Honolulu Advertiser'' article was superseded by [http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2000/09/05/MN23995.DTL this one] in the same year, and the most recent update can be found [http://www.mauinews.com/page/content.detail/id/34668.html here].  I've readded the information.  Two things you need to remember. One, these people are on Hawaiian time, which means, it gets done when it gets done, and two, they were running three million dollars short, so they are attempting to cut corners to get there. [[User:Viriditas|Viriditas]] ([[User talk:Viriditas|talk]]) 02:37, 27 May 2008 (UTC)
+::You are the one misinterpreting.  You claim that this article proves that the plans are &quot;nearing completion&quot;.  They may be nearing completion, but this article does not show that.  You say it supercedes the regrets and doubts of ML&amp;P about the project.  It does not.  Don't take it from me, read this article again for yourself.   http://www.mauinews.com/page/content.detail/id/34668.html.
+::Here's my interpretation.  Please, point out where I'm off-base. 
+::This is a column from a Maui newspaper which seems to try to investigate questions sent in by readers.  This reader wants to know what's taking so long with the gorilla preserve.  Before answering the question, the reporter reviews the facts.  Way back in 1996, a former ML&amp;P chairman basically gifted a 65 year lease to the G.F. for Penny to continue her work, to improve poor Koko's life, and to save the gorillas.  How it will help save the gorillas is not clearly stated, but it's sort of implied that they will establish a breeding troop there.  In 2000, preliminary work was done: permits, foundations, some back-hoeing for a pond.  
+::Since then?  The reader's question?  The reported called ML&amp;P.  They didn't comment.  I interpret that to mean that their statements back in 2005 stand.  They no longer want to do it.  They want to help native creatures instead, they've said on record, and don't want to retract or repeat those statements, I suppose because it's too late for them to change their minds, they'd signed it over to them for 65 years.  But the 2005 ML&amp;P earlier statements are not &quot;superceded&quot; by this article.  The 2005 statements stand.  ML&amp;P regrets the agreement and wants out.
+::The reporter called the G.F.  They got a spokesperson.  She talked alot about saving gorillas, but what does she say about the reader's question, what ever happened to that preserve that was started so long ago? Answer: They are about halfway through a re-design phase.  They have to finish just as much re-thinking and re-design as they had already done, and then it &quot;should&quot; take &quot;about&quot; a year to construct.  They are doing this not because they don't have the money, but because they want to make sure it'll be all modern and environmentally safe because TGF cares so much about the people of Maui and having a good relationship with ML&amp;P.
+::You want to tell me something that you feel I don't understand.  It's a pretty insulting thing to say about Hawaiian people, and hardly established as fact.  But there is something I say that you don't understand about this article.  The encoraging &quot;soon&quot; tone all comes from a paid G.F spokesperson.  What would you expect her to say if the real reason were &quot;We haven't come up with enough money&quot; or &quot;MP&amp;L is putting up resistance&quot;?  She's a paid spinmeister!
+::But read her words carefully.  The spokeswoman says the redesign process is about halfway finished.  When did it start?  If we know that, we can double that and find out when to count &quot;about a year&quot; from.  Based on what we know, the redesign process could have started anywhere from 2000 to the day before the conversation with the reporter, so we still have no idea when the estimated year of construction might begin. 
+::The fact is, NOTHING IN THIS ARTICLE shows the project is nearing completion.  It might be nearing completion, or already complete, but NOTHING IN THIS ARTICLE shows that.  An article can only &quot;supercede&quot; another if it contradicts it.[[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 02:05, 22 June 2008 (UTC)
+::You also offer this SF Chronicle article http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2000/09/05/MN23995.DTL as superceding the other 2005 article, proving that the project is nearing completion?  Read this again carefully.  Here's what I understand the article to be saying about the Maui &quot;preserve.&quot;  Why don't you show me where I misunderstand? 
+::This article, from 2005, states that they've &quot;recently broken ground&quot; in Maui.  But we know that the ground was broken 2000.  Depends on what &quot;recently&quot; means, I suppose.
+::This article says Koko will have to wait a some time yet before she can move.  &quot;Eventual&quot; is the word.  There is no &quot;soon&quot;.
+::The story is this: a woman named Mary Sanford was a chairman of ML&amp;P and loved Koko and the G.F. It was she who donated the 65-year lease to the GF.  She's still on the board, but she's not the chairperson anymore.
+::But it will be a while yet, she has some time.  The problem is money.  Penny needs two to three million more dollars.  
+::This article bolsters my point, not yours.  You should be more careful next time![[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 02:48, 22 June 2008 (UTC)
+:::Like I said above, you don't understand Hawaii politics.  We just finished a highway here that took somewhere on the order of six years to build.  In any other part of the world, it would have taken less than six months.  &quot;Soon&quot; can mean anywhere from one to 100 years.  Things get done here when they get done, but more often than not, they don't get done.  I read in one of the papers recently that development on the Big Island is behind needed infrastructure by ''twenty years''.  That is incomprehensible to most people in the United States, but it is a way of life here.  It gets done when it gets done.  Don't even get me started on the [[Kealia Pond National Wildlife Refuge|Kealia Coastal Boardwalk]], which after taking ''many'' years and an incredible amount of money, was promptly shutdown and torn apart for another round of construction because the original contractor used substandard materials.  This simple, 100 yard boardwalk was slated for development sometime around 2000, I believe.  Last time I checked the calendar, it was June 22, 2008, and it's still not done.  There's a reason one of the most popular bumper stickers in [[Hawaiian Pidgin]] is &quot;Try wait...&quot;  It's a way of life that makes mañana look like a [[New York minute]].  Patience is not a virtue in Hawaii, it's required by law. [[User:Viriditas|Viriditas]] ([[User talk:Viriditas|talk]]) 09:08, 22 June 2008 (UTC)
+::::Fine, I'll concede the point about Hawaiian people, a subject you seem to know about.  
+::::The question at hand, however, is not that but this:  
+::::*The introduction to this page says &quot;plans for a move to a sanctuary in Maui, Hawaii, are nearing attainment.&quot;   
+::::*My position is that this clause be removed or edited so that it will be true.  
+::::*I maintain that the evidence, both yours and mine, supports that position, and that you were wrong to undo my edit.
+::::*In your response today, from &quot;Like I said...&quot; to &quot;required by law&quot;, supports my position.  Today, you are simply giving an alternative reason, above and beyond reasons I have given, to doubt that Koko will be moving to Maui any time soon.
+::::Would you like to do the honors and edit the intro yourself?[[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 18:09, 22 June 2008 (UTC)
+:::::Improvement of content is always possible, so what I'll do is review the evidence again.  I recently did just that, and the statement in question is accurately reflected in both the website of the foundation and in recent news sources.  I'm not entirely sure what your problem with the material is, but we don't get to interpret the content above and beyond the sources.  The foundation says its happening and so does the most recent Maui News.  Like any undertaking of this magnitude, there are bound to be problems.  If you would like, I will contact the facility here on Maui and get more information for you.  I think you misunderstood what I wrote, as the &quot;required by law&quot; bit is meant to be humor.  I believe my position has been consistent on the subject, but I will revisit it for the third time.  The foundation has a phone number here, so if you like, I can give it to you and you can contact them as well. [[User:Viriditas|Viriditas]] ([[User talk:Viriditas|talk]]) 21:49, 22 June 2008 (UTC)
+:::::Ok, after giving this some thought, I think you have a valid point.  The material should simply state that the organization has been trying to raise funds for a move to Maui and leave it at that. I still haven't contacted the Maui office, but this seems like the best short-term solution until I do. [[User:Viriditas|Viriditas]] ([[User talk:Viriditas|talk]]) 11:00, 23 June 2008 (UTC)
+::::::I think that, under the circumstances, you should edit the clause in question and hastily written sections of your 22 June 2008 posting, above.  If you do these things, I would accept your deleting anything in this section of this talk page which was written by or addressed to you, including this post here today.  Finally, I would like to clarify that I am completely open to the possibility that the plans actually are “nearing attainment.“  For all I know, they could have finished it this morning!  But we have no evidence of that, just evidence to the contrary.  [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 17:10, 23 June 2008 (UTC)
+::::::: I would be happy to edit the comment to reflect a compromise we've reached on this talk page.  Tell me, what do you think the material should say?  The article you cite has been superseded by at least two other more recent articles.  FYI...the material was added by [[User:Ombudsman]][http://en.wikipedia.org/w/index.php?title=Koko_%28gorilla%29&amp;diff=next&amp;oldid=14702571], so I'm going to invite this editor to the discussion. [[User:Viriditas|Viriditas]] ([[User talk:Viriditas|talk]]) 22:44, 23 June 2008 (UTC)
+:::::::: I'm frustrated that you are still saying that the article I cited has been superseded the two articles you cited.  Those two articles do not supersede it.  They contain no words to the effect of &quot;the plans are nearing completion&quot;.  Please either stop saying this or support it with some evidence.  Please show us all where they say anything that could be resonably so interpreted.  Did you not read my interpretation of those two articles in my June 28 post to this section of the talk page, just above?  Do you find anything &quot;misinterpeted&quot; there? 
+::::::::You ask what edit I would make to the clause in question.  The statement &quot;plans to move Koko to Maui exist&quot; would be factually correct, but would not clarify the serious possiblity that they will never happen for the reasons described in the article I cited, an article which has ''not'' been superceded by any article you have cited.  I worry that this would be either &quot;lying by omission&quot; or something quite like that, because it would still leave the false impression that those plans are likely to come to fruition.  &quot;Plans to move Koko to Maui now appear to be stalled&quot; or &quot;are in serious doubt&quot; or &quot;have been called into question&quot; or something like that would be acceptable to me.
+::::::::You offer to bring in another editor to mediate.  Please do.  I don't even mind if it is the person you mention, who does not seem to be the most disinterested judge - that doesn't matter.  The sources say exactly what they say, and so I expect that even this person will be able to see that and be forced to side with me. [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 02:42, 24 June 2008 (UTC)
+::::::::: You are saying the same thing over and over without moving forward.  I've invited the original editor who added the material in question to this discussion.  The fact is, the article you cited has been superseded by two newer articles;[http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2000/09/05/MN23995.DTL][http://www.mauinews.com/page/content.detail/id/34668.html] that's how news works.  The Sept. 5, 2005 ''San Francisco Chronicle'' article states, &quot;Depending on how fund raising progresses, the foundation hopes to complete the move in one or two years.&quot;  And, the Oct. 1, 2007  ''Maui News'' article says, &quot;When construction resumes, it should take no longer than a year to complete.&quot;  You are personalizing this dispute to the point where you are having trouble understanding what has been written.  The idea that there is a &quot;false impression that those plans are likely to come to fruition&quot; is something you invented.  Aside form the sensationalist headline of the old news report you cite, the article you refer to says that &quot;he lease is still good and she's hopeful a move can still be accomplished. Hundreds of thousands of dollars already have been spent on the site, she said, including construction of foundations and a water reservoir.&quot;  Try to deal with the facts, many of which can be found [http://www.koko.org/preserve/map_status.html here].  Is the plan nearing completion?  Maybe and maybe not.  I've invited the original author of the material here to discuss it.  In typical Hawaiian style, this move has been in the works since the early-1990s. [[User:Viriditas|Viriditas]] ([[User talk:Viriditas|talk]]) 03:04, 24 June 2008 (UTC)
+::::::::: If I am saying the same thing over and over, without moving forward, it's because you keep saying the same thing over and over and blocking progress.  You keep repeating over and over that these two articles support the &quot;nearing completion&quot; assertion, yet even the very evidence you cherry-pick does not do this. 
+:::::::::This :&quot;Depending .... years.&quot;; I'd already summerized it above.  Do you see what it means?  They say they don't know how long it will take to raise the money, and then they only have a vauge idea how long the construction might take whenever it eventually resumes.  Do you see?  The whole thing drips with &quot;eventually&quot;, not &quot;soon&quot;.   &quot;Depending...progresses&quot; means that it may not be ready soon;  &quot;The foundation hopes...&quot; doesn't mean it will.  
+:::::::::Why did you leave out the preceding sentence: &quot;However...out.&quot;?  Do you know what it means?  It means that Penny has plenty of time to figure out how she's going to transport the apes because they're not going to Maui anytime soon, because she first has to raise tons of money, which may take a long time, then and only then the contrstuction can begin.  It means construction is not ongoing.  Do you see?  Your article says the opposite of what you say it says; it's you who are misinterpreting, not me. 
+:::::::::You have also selected a quote from the Maui article &quot;When construction ... complete.&quot;  I'd quoted that line, above, also.  Do you see what I wrote above?  I said the article states that construction &quot;should&quot; take about a year starting from whenever they complete the second half of the re-design process, and this according to a GF PR rep.  That adds up to &quot;it may take quite a while yet&quot;, do you see?  I have not misinterpreted, you have. 
+:::::::::You said that I am &quot;personalizing this dispute to the point where you are having trouble understanding what has been written.&quot;  Odd, because that's the only explanation I can think of for your seeming refusal to understand the articles.
+:::::::::Did you notice that every detail from the the quote you've cherry-picked from the article which I cited (GF has the lease, Sanford's support, the foundations and a water reservoir), I've referred to them all above already.  Have you carefully read and understood the article, or have you misinterpreted it?   Please re-read my interpretation of it above, and compare it to the original.  I will withhold re-explaining it to you on the assumption that you were just too emotional when you read it and will be able to see that I have not misinterpreted the article.  It says what it obviously says.  [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 08:49, 24 June 2008 (UTC)
+'''Update''': Found this on the ''Maui Time'' website, dated Oct. 4, 2007:
+
+&lt;blockquote&gt;TUESDAY, Oct. 2 - Almost exactly four years to the day after we published our cover story &quot;Maui or Bust: Koko the &quot;˜talking' gorilla is coming to paradise&quot; (Oct. 9, 2003), a Gorilla Foundation spokesperson said in today's Maui News that the organization still has no idea when Koko will move to that new &quot;gorilla sanctuary&quot; supposedly being built near Kapalua Airport. Nor would officials from Maui Land &amp; Pineapple Co.—which donated the land for the sanctuary—even return the paper's calls for comment. But hey—that's just monkey business.[http://www.mauitime.com/Articles-i-2007-10-04-164413.112113-Coconut_Wireless.html]&lt;/blockquote&gt;
+
+Seems reasonable to remove the &quot;nearing attainment&quot; bit added by Ombudsman. [[User:Viriditas|Viriditas]] ([[User talk:Viriditas|talk]]) 03:08, 24 June 2008 (UTC)
+:I am very pleased with the your edit.  It expresses very nicely a known fact and does not give the impression that the plans are nearing completion.  As it ages, the likelihood will increase that a reader will wonder if Koko will ever move to Maui.  
+:I consider the matter closed.  I have just gone back to do some cleaning up.  You were right about the spaces and indenting - sorry I didn't know - and appreciate your good work on this section.  I now know what I have to do and will follow standard procedure in the future.  I have corrected the whitespaces and other mis-formatting, as well as any discussion of them, which would make no sense without the mis-formatting, and are irrelevant anyway. 
+:I also corrected typos and spelling, clarified some syntax, and made a few other changes that you might want to review.  I know there are still some edits to do and will try to fix them later.
+:Thanks again.  I apologize if I lost my temper. [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 18:57, 24 June 2008 (UTC)
+::No worries.  I hope you stick around and help improve this article.  Are you up for it?  [[User:Viriditas|Viriditas]] ([[User talk:Viriditas|talk]]) 23:18, 24 June 2008 (UTC)
+
+== Grammatical level? ==
+
+I can't seem to find any sources that talk about the level of koko's communication.  The AOL transcript didn't seem to have many examples of, say &quot;A is B&quot; type sentences, except where the subject is Koko.  Interestingly, when asked if she wants to have a baby, apparently she replied that she hasn't had one yet--I'm also curious if she can talk about the future or knows anything of tenses.  
+
+To be honest, I think without any kind of in-depth analysis of how Koko communicates, this isn't a very useful article.  [[User:Citizen Premier|Citizen Premier]] ([[User talk:Citizen Premier|talk]]) 10:39, 5 June 2008 (UTC)
+
+:To answer your questions: 
+:1. Koko doesn't use the future tense.  She doesn't use any tense.  She doesn't use grammar.   
+:2. When you said &quot;Interstingly....one yet&quot;, you are referring to what Penny said, not Koko.  Koko never said anything of the sort.  
+:3. When you said &quot;To be....article&quot;, yes, the article needs a lot of work (would you like to help?), but your criticism may be more more of Koko's grammar than of the article.  What should it say?  &quot;Koko does not use grammar&quot;?  
+:To site the above, go back and check out the AOL chat, or any link where Koko speaks for herself.  [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 05:16, 5 July 2008 (UTC)
+
+== Improving the Organization of this Article ==
+
+Yes, I would very much like to work together with you on this article. 
+
+How do you think we should start?  With an outline?  How’s this for a first draft:
+
+I. Introduction
+
+II. Biography
+:a. Birth and early days
+:b. Events leading to her life with Patterson.
+:c. Life with Patterson
+:d. Rise to Fame
+::1. Scientific Articles
+::2. News Articles
+::3. Public Appearances
+::4. Popular Culture References 
+:e. Plans for the future
+III. Importance
+:a. Linguistics Significance 
+::1. Patterson’s claims
+::2. Prominant counterclaims
+:b. Other Controvercies
+IV. FAQ's/Suggested links
+V. Notes
+
+[[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 19:33, 26 June 2008 (UTC)
+:That looks nice, although we would want to move some things around to conform with the MOS.  The introduction would be the lead section, d. 1-2 would be part of the references/bibliography, etc.  What are the best sources you have in mind for expanding this article? [[User:Viriditas|Viriditas]] ([[User talk:Viriditas|talk]]) 19:56, 26 June 2008 (UTC)
+:: I don't know what &quot;the MOS&quot; even is, so could you make the changes to the outline to bring it in line with it?  To start, I wasn't thinking of adding anything, just moving the stuff we already have around into a proper orgainization.  Much if not most of it seems accurate and well written; let's make the most of it.  Then we can worry about filling in the missing pieces.
+:: Looking it over, I think I should explain that, with letter D, I was thinking of something like &quot;Koko's fame began when Patterson published an article in so-and-so journal.  The general public was introduced to her in 19XX when an article was published in National Geographic Magazine.  (That's where I first heard of her, but maybe something came first).  Then, a documentary in French was produced...&quot; and so on. I guess I was thinking that way because I was looking at this article as a sub-heading of &quot;Famous Apes&quot;.  Koko is arguably the most famous ape ever.  So let's explain how that happened.
+:: Many good sources are already here, but there is bound to be much more.  I just found this on YouTube yesterday: http://www.researchchannel.org/prog/displayevent.aspx?rID=2371. [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 04:26, 27 June 2008 (UTC)
+:::MOS refers to [[WP:MOS]].  Go ahead and make the changes, and I'll follow your lead with MOS edits. [[User:Viriditas|Viriditas]] ([[User talk:Viriditas|talk]]) 06:43, 27 June 2008 (UTC)
+
+Intro: 
+Koko is the world's most famous ape.  Koko's fame came as a direct result Koko's participation in in the longest experiment into human-animal communication.
+
+Origin From San Fransisco to Woodside
+
+Koko was born to (mother, father? one of a troop of #?) in the San Fransisco Zoo (date, cite).  Koko her birth weight, facts, facts, cite.  Koko spent her first day (clinging to her mother and suckling?  or lying on the floor being neglected?) Second day, Koko...  Third day Koko, ....   etc.   On (day) zoo keeper (name) noticed that she was having symptoms X.  Koko was taken away from the zoo troop (details of troop?).  Koko was taken from her mother, family, troop by (name of zookeeper on the orders of (official) on advice from (SF zoo vet) on the grounds that (she was sick with somthingitus) and might infect the rest of the troop. On (day) the decision (details) was made by (name) to transfer Koko to the custody of Dr. Penny Patterson of Standford University to perform an experiment designed to (quote document).  She was put in a car by (who) and left San Fransico for the (minute) trip to Woodside?) (on s.o.'s lap? or in a box?)
+
+Woodside: 
+
+Koko was handed to Patterson who held her (how?) and brought her inside (describe place), where she began (describle daily routine.  hours spent in ways, foods she ate details as possible.  As she grew older, her (daily routine changed in these ways).  It is safe to say that, as a result of this situation, by all accounts and apperences, Koko and Patterson formed a mother - child bond.  Koko learned that Patterson wanted her to perform gestures, too.  Koko makes gestures details describe.  On (day), her world expanded when another building was added, allowed outside more or less, she was taken elsewhere, people and other animals came in and out of her life, a decision was made regarding her world, etc.
+
+Koko has left Woodside on blank number of occasions.  List and describe them.  Today Koko spends her time her routine today, hours spent how, which people and what hours. Any further developments  
+
+History of Koko's Fame:
+
+Koko was written about when she was in SFZ.  Patterson's first paper, claims.  Nat Geo Articles, TV shows, news articles, etc. about her, etc, in chronological order, with descriptions and details.
+
+[[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 20:12, 3 July 2008 (UTC)
+
+== Gathering Sources for this Article ==
+How do I make this thing (http://scholar.google.com/scholar?hl=en&amp;lr=&amp;safe=off&amp;q=%22Dr.+Francine+Patterson%22) work?  I'm trying to get a list of all scholorly articles ever printed by Dr. Francine &quot;Penny&quot; Patterson.[[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 20:50, 27 June 2008 (UTC)  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]] • [[Special:Contributions/Chrisrus|contribs]]) 19:45, 27 June 2008 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+:You use that search to find links that get at what you want; list the links here or on a user page. Check [[:Template:Cite journal]] when you want to add to an article. You can contact me on my talk page if you have further questions, though I probably won't respond immediately. Kudos on looking for quality sources. [[User:Marskell|Marskell]] ([[User talk:Marskell|talk]]) 19:55, 27 June 2008 (UTC)
+::I've added [[Talk:Koko (gorilla)/Sources]] to keep things organized. [[User:Viriditas|Viriditas]] ([[User talk:Viriditas|talk]]) 04:21, 28 June 2008 (UTC)
+
+What would we need to:
+#Prove the statement &quot;Koko is the world's most famous Gorilla&quot;
+#Provide answers the questions that a visitor to this article can reasonably be expected to be looking for.
+#Get facts and chronology straight about the events and conditions of Koko's life for the Biography.
+
+We should probably have the following, listed in chronological order.  There probably aren't very many of either of these first two.
+
+#All scholorly papers written about Koko.
+#All scholorly papers which which respond to #1.
+#Major magazine articles written about Koko, especially the two Nat. Geo. cover stories. (Has any other individual photographic subject been on the cover twice?)
+#Children's books written about Koko.
+#Adult books written about Koko.
+#Major Documentaries about Koko.
+#Public Appearances.
+#A list of Major news stories, and an example or two of each.
+#Any major newspaper articles about Koko.  I mean, if there were ever an extended piece in the NYT Science section or something.
+#Pages in major books where Patterson's claims about Koko's abilities are disputed.  I think we should quote the section of Stephen Pinker's book where he talks about her.
+# Pop culture references, especially &quot;Congo.&quot;
+
+What else? &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]] • [[Special:Contributions/Chrisrus|contribs]]) 20:50, 27 June 2008 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt;
+
+::Please help sort these over at [[Talk:Koko (gorilla)/Sources]]. [[User:Viriditas|Viriditas]] ([[User talk:Viriditas|talk]]) 12:49, 28 June 2008 (UTC)
+
+:::Some of the above smacks of original research.  Wikipedia articles do not need to &quot;prove&quot; things, they need to cite public sources.  A Wikipedia article is not the place to gather ALL scholarly articles about a topic. State the known facts, cite the public sources, don't add personal bias, and you'll have a good article.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/70.231.128.138|70.231.128.138]] ([[User talk:70.231.128.138|talk]]) 23:49, 10 September 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Needs Work ==
+
+This article focuses very heavily on theory and reads like a debate. It also has a very negative tone, as if the writer wants to make it very clear that Koko is a sham. I'm glad to see that Chrisrus is working on it. I would love to see an article that sidesteps most of the debate and instead focuses on concrete and verifiable facts, such as where the study has been conducted, how long it's been going on for, and a summary of the findings of the researchers. If doubts about the study are credible, that should get its own section, rather than following every finding with its corresponding criticism. It's way too disorganized and hard to read that way. – [[User:Novem_Linguae|&lt;i&gt;Novem Lingvae&lt;/i&gt;]] &lt;small&gt;([[User_talk:Novem_Linguae|talk]])&lt;/small&gt; 22:23, 2 February 2009 (UTC)
+
+After some pondering I decided to add a {{template|POV-section}} tag to the section that needs the most work. I believe that the &quot;Use of language&quot; section reads too much like a debate rather than a neutral, encyclopedic overview, making it very hard for the reader to garner useful information from it. I will try to address some of these issues myself if I can find the time, and would be quite willing to help anybody else interested in doing a re-write. Happy editing! – [[User:Novem_Linguae|&lt;i&gt;Novem Lingvae&lt;/i&gt;]] &lt;small&gt;([[User_talk:Novem_Linguae|talk]])&lt;/small&gt; 17:59, 12 February 2009 (UTC)
+
+-- agreed, Chrisrus' influence makes the article better but I think we should all accept that he has a very strong bias towards one interpretation of events.  Right now the article reads like the author secretly thinks they are running a program where making everything up in order to get funds so they can rape gorillas for fun.  I'm sure that reality is somewhere in between &quot;they are evil and making everything up&quot; and &quot;the gorilla can speak just like humans.&quot;  If someone neutral can come in and make sure Chrisrus' points are being included without turning the article into an indictment of Koko and her trainer that would be great.  I mean, we can all agree at least that Koko is a symbol of primate human communication and has been very influential in that regard, right?  Maybe we should start there and move all the debate of whether or not (or to what extent) she is speaking language into a controversy section so that the whole article doesn't have to read like an indictment of the entire program and everyone who was ever involved.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/159.153.4.51|159.153.4.51]] ([[User talk:159.153.4.51|talk]]) 18:38, 13 March 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== This paragraph??? ==
+
+What the f*ck is this paragraph trying to say?  What ever was trying to be construed in the last 4 or 5 sentences was completely lost in the verbiage.  Anyone's guess is as good as mine?
+
+&quot;On April 12, 1998, an event promoted as an on-line chat with Koko took place on AOL. The transcript of this event is available on many locations on the Internet, and contains at least one instance of Koko making a statement which may be construed as an example of Koko's use of language: &quot;Lips fake candy give me.&quot;, uttered while Koko was trying to get Patterson to give her a treat. It is possible that the ape actually meant to say &quot;Something is disagreeable about my oral area. Penny, give me a treat.&quot; Koko also substitutes the sign 'girl' with the sign 'lips' and the sign 'fake' to describe a lie or to express doubt about the truth of a statement. This could mean that Koko felt Penny was tricking her and wouldn't give her the treat. The last three words are particularly striking, as they would constitute the use of an imperative verb accompanied by both a direct and an indirect object. It should be noted, however, that Koko does try many other, seemingly random, words before and after this &quot;utterance,&quot; seemingly in order to achieve the same goal, that Koko does not clearly seem to understand any language being directed to her, and there is no video of Koko making the movements to form this sentence. In any case, &quot;candy give me&quot; may be the closest thing to direct widely available evidence that Koko does use grammar.&quot;
+
+
+
+This paragraph contradicts itself and really doesn't make sense.  It also doesn't have any sources.  I propose it's deleted from the article. [[User:Wikipediarules2221|Wikipediarul]][[WP:ESP|&lt;font color=&quot;green&quot;&gt;e&lt;/font&gt;]][[User:Wikipediarules2221|s]][[User talk:Wikipediarules2221|&lt;font color=&quot;orange&quot;&gt;2221&lt;/font&gt;]] 07:19, 5 October 2009 (UTC)
+
+:How's it now?  Better?  [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 15:41, 5 October 2009 (UTC)
+
+== Editing lead ==
+Friends, we've all had good intentions to do something more with this article but haven't gotten to it. I was showing it to a friend and due to the various controversies we found it leapt straight in to the debate as to is it language or isnt it without giving context. Notwithstanding good suggestions above how a major rewrite could be done, I've tried to edit the lead to give more context - in an NPOV way - so someone unfamiliar with Koko can gain basic knowledge in the 1st paragraph. [[User:Martinp|Martinp]] ([[User talk:Martinp|talk]]) 05:39, 26 January 2011 (UTC)
+
+== Dr. Hashalaba??? ==
+This article cites &quot;Dr. Hashalaba, of the Harvard Institute&quot; as if this is a person (or the institute) would actually be known by a reader.  In reality, this exact sentence appears frequently across the internet (either copy/pasted from Wikipedia to other articles, or vice versa), and in fact it is quite difficult to find any concrete information on anyone named Dr. Hashalaba!  Meanwhile, a search for &quot;Harvard Institute&quot; does not reveal anything meaningful: there are many organizations that use the phrase &quot;Harvard Institute.&quot;  Until someone can provide a link to a website detailing who Dr. Hashabala is, or what the supposed Harvard Institute is, I believe that this reference should be removed.  [[Special:Contributions/129.105.171.23|129.105.171.23]] ([[User talk:129.105.171.23|talk]]) 21:04, 22 April 2011 (UTC)
+
+I also removed the reference to this person and the institute, as neither appear in the cited link, nor do either appear anywhere else in the electronic universe. [[Special:Contributions/129.105.171.23|129.105.171.23]] ([[User talk:129.105.171.23|talk]]) 21:23, 22 April 2011 (UTC)
+
+:Thanks! [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 01:56, 23 April 2011 (UTC)
+
+== All Ball grief ==
+
+Does she still, to this day get sad thinking about All Ball, or has she pretty much forgotten about her? the article doesn't really go into detail, and the phrasing isn't exactly exact.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Bumblebritches57|Bumblebritches57]] ([[User talk:Bumblebritches57|talk]] • [[Special:Contributions/Bumblebritches57|contribs]]) 21:24, 21 September 2013 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+I'm actually curious why it is that nobody has linked the documentary that shows VIDEO of Koko expressing grief over All Ball's death. I mean, it's not like we don't have this huge depository of videos on the internet, branded with a name that everybody recognizes or anything....This is just a clip from it, but it clearly shows Koko signing and expressing her grief, as well as recordings of her weeping: http://www.youtube.com/watch?v=PZG0MgCSZ2g  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/68.118.215.28|68.118.215.28]] ([[User talk:68.118.215.28|talk]]) 19:01, 12 January 2014 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== celebrities who met KOKO ==
+
+[[User:Ram nareshji|Ram nareshji]] ([[User talk:Ram nareshji|talk]]) 06:30, 25 September 2014 (UTC) create separate section in this wikipedia article:celebrities who met KOKO,
+Robin Williams met koko (gorilla)
+link:http://blog.petflow.com/hollywood-actor-meets-koko-the-gorilla/
+video proof:http://www.youtube.com/watch?v=GorgFtCqPEs
+
+== Questionable References ==
+Two points;
+:1. I note that the sources for this claim in the article &quot;''Other researchers argue that she does not understand the meaning behind what she is doing and learns to complete the signs simply because the researchers reward her for doing so (indicating that her actions are the product of operant conditioning).''&quot;
+:Do not support it, the first talks about what Patterson herself has said about her research, and in fact directly contradicts the claim it's being used to support, with reference to a double blind test to counter that specific criticism. Which is not mentioned in this article for balance.
+:The second is from a book by [[Susan Blackmore]] who is not a researcher, but a freelance writer, on such subjects 'psychology and the paranormal'. And her [https://books.google.co.nz/books?id=YKtjZm4MhiwC&amp;pg=PA88&amp;lpg=PA88&amp;dq=%22among+the+many+animals+taught+this+way+have+been+a+chimpanzee+called+washoe%22&amp;source=bl&amp;ots=MOPaaBroLg&amp;sig=lQoxK-Ioq41riNl-eDMDfL1GCcY&amp;hl=en&amp;sa=X&amp;ei=r_vgVPb6HMHv8gWyioAQ&amp;ved=0CB4Q6AEwAA#v=onepage&amp;q=koko%20gorilla%20criticism&amp;f=falseher reference] contradicts itself, (broken link in the article, but just tracked down a working link) saying that claims Koko knew signs and could put them together in sequences three long 'gave way under criticism' (without references or citations to support that assertion), but then then concluding that the consensus is that chimpanzees and gorillas can learn signs and use short sequences of them appropriately.
+:Making a vague reference to 'other researchers' without defining that seems a bit like [[WP:WEASEL | weasel words]]. 
+:2. And regarding this part, :&quot;''Criticism from some parts of the scientific community centers on the fact that while publications often appear in the popular press about Koko, scientific publications are fewer in number.''&quot; I am concerned that the cites to support this assertion about alleged criticism are both from Patterson herself and also extremely dated, being from 1978 and 1981 respectively. [[User:Number36|Number36]] ([[User talk:Number36|talk]]) 21:53, 9 February 2015 (UTC)
+
+== To avoid an edit war. ==
+
+Can someone link to a single credible source (a source other than Patterson herself) that confirms that she taught this gorilla sign language? My original edit has been reverted and re-added by several different people in just a short period of time. Why should Patterson's claims just be accepted as fact with no corroborating evidence? [[User:Kdb1965|Kdb1965]] ([[User talk:Kdb1965|talk]]) 06:07, 15 February 2015 (UTC)
+:Such references already exist in the article, as does discussion of criticism. Introducing the word 'supposedly' in the lede, as per the edit summary would be unencyclopedic and POV in tone, the article can deal with criticism and does. It's indisputable that Koko was taught, in the sense of being instructed, the only disagreement centres around the degree to which it was successful. Also your edit was not re-added by several people, only one editor re-introduced it, two separate editors have removed it. There's no hint of an edit war nor need to raise the possibility of one.[[User:Number36|Number36]] ([[User talk:Number36|talk]]) 20:43, 15 February 2015 (UTC)
+::I don't think &quot;was taught&quot; are the words we want.  If you write &quot;John was taught to play the Tuba&quot;, it is not really all that clear that he may not have learned what he was taught.  [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 06:54, 16 February 2015 (UTC)
+:::I disagree, if John is getting lessons in playing the Tuba he is being taught whether or not he turns out to be any good at it. Just as you wouldn't say a teacher retroactively isn't a 'teacher' if it turns out their students don't retain their lessons (which would be bad news for a lot of algebra teachers). And no one, even the critics, claim that Koko has not been taught anything at all in any case in either sense. It's indisputable that she knows how to form signs for instance.[[User:Number36|Number36]] ([[User talk:Number36|talk]]) 22:08, 16 February 2015 (UTC)
+::::Please see my recent edits to the lead to attempt to address these concerns.__[[User:DrChrissy|DrChrissy]] ([[User talk:DrChrissy|talk]]) 22:21, 16 February 2015 (UTC)
+:::::I still have to disagree I'm afraid, and it was not discussed here. 'It is claimed by her trainer' still introduces unnecessary bias into the article and inaccurate implications -it is not merely 'claimed' nor is Patterson the only source of this. It's the place of the article to explore the subject and different opinions further. 'Taught' is perfectly correct, neutral, and appropriate for the previously stated reasons. What should be addressed is, as per the above section, that the alleged criticism in the article has questionable cites, weasel words, and is not referenced properly (references not supporting the claims they're attached to), nor with reliable/credible sources.[[User:Number36|Number36]] ([[User talk:Number36|talk]]) 22:29, 16 February 2015 (UTC)
+::::::::How about (if we must avoid the word 'taught'), something as neutral as possible, along the lines of &quot;''Hanabiko &quot;Koko&quot; (born July 4, 1971) is a female western lowland gorilla, the subject of a study on language ability in primates which has been conducted since 1972 by researcher Dr. Francine Patterson, involving the teaching of sign language.''&quot; [[User:Number36|Number36]] ([[User talk:Number36|talk]]) 23:10, 16 February 2015 (UTC)
+:::::::::If I say that I taught my dog to speak (or roll over, or whatever), and you asked me to show you, I'd sound pretty stupid if I said, &quot;well, he never learned to speak, I just taught him to&quot;.  Without clarification, &quot;teaching&quot; implies learning the thing that is taught.  Otherwise you only ''tried'' to teach.  Saying you taught someone who didn't learn is like saying you killed someone who didn't die.  — [[User:Kwamikagami|kwami]] ([[User talk:Kwamikagami|talk]]) 00:15, 17 February 2015 (UTC)
+::::::::::::I am not sure. As a person who has taught many people things that they never managed to learn perhaps it is less weird to me. Also Koko did learn to reproduce many signs, even to combine them in novel ways, the question is whether she learned sign language to a degree that it would be considered &quot;having learned ASL&quot; or rather as having learned &quot;signs from ASL&quot;.[[User talk:Maunus|User:Maunus ·ʍaunus·snunɐw·]] 00:24, 17 February 2015 (UTC)
+::::::::::::I disagree with Kwami, for the reasons I've already outlined. Would you say you aren't teaching your dog to sit, until you have been successful in teaching it to sit? -What would you say you're doing then while engaged in teaching it to do so. But it's moot, since we've moved past the apparently contentious word with my last proposal above.[[User:Number36|Number36]] ([[User talk:Number36|talk]]) 00:41, 17 February 2015 (UTC)
+Scientific sources disputing Patterson's claims aren't hard to find - see for example [http://www.sciencedirect.com/science/article/pii/0093934X79900476] [[User:AndyTheGrump|AndyTheGrump]] ([[User talk:AndyTheGrump|talk]]) 22:33, 16 February 2015 (UTC)
+:Well, 1. That source is not referenced in the article, so it's moot to the specific problems identified above 2. It'd be difficult to cite appropriately or with specificity from only the abstract. 3. It's extremely dated, being from 36 years ago. Koko was only 8 in 1979, and more has been published since then.[[User:Number36|Number36]] ([[User talk:Number36|talk]]) 22:54, 16 February 2015 (UTC)
+
+*I think linguists and primatologists are pretty unanimous in considering Koko's signs to be operant conditioning and not true learning.[[User talk:Maunus|User:Maunus ·ʍaunus·snunɐw·]] 23:05, 16 February 2015 (UTC)
+::Shall we just cite you thinking that in the article then? He said in entirely good humour which should not be taken the wrong way :^) -I'm not interested in taking a side or pushing a POV, I have no horse in this race, -the point is to have the article correctly referenced and unbiased. The distinction of contrasting 'operant conditioning' with 'true learning' poses a question itself -[[operant conditioning]] is a method of learning.[[User:Number36|Number36]] ([[User talk:Number36|talk]]) 23:19, 16 February 2015 (UTC)
+::: I have to agree.  Pavlovian conditioning and Operant conditioning are both learning.  I have no idea what is the diffference between &quot;true learning&quot; and &quot;learning&quot;__[[User:DrChrissy|DrChrissy]] ([[User talk:DrChrissy|talk]]) 23:41, 16 February 2015 (UTC)
+:::::I should have been more specific, conditioning is of course learning, but using signs learned through conditioning is not language - language learning requires a different kind of learning.[[User talk:Maunus|User:Maunus ·ʍaunus·snunɐw·]] 00:06, 17 February 2015 (UTC)
+:::::With chimps, it's evidently fairly clear that, when they want something, they use the various signs they've learned, essentially randomly, until they get the result they want.  The obvious conclusion is that they attach no meaning to the individual signs.  — [[User:Kwamikagami|kwami]] ([[User talk:Kwamikagami|talk]]) 00:21, 17 February 2015 (UTC)
+::::::Discussion of the subject, and what the opinion/understanding/interpretation of editors here is of various aspects of it, is neither here nor there, -what matters are reliable sources that discuss the subject and make such distinctions in the context of this subject.[[User:Number36|Number36]] ([[User talk:Number36|talk]]) 00:41, 17 February 2015 (UTC) 
+
+Maunus is right.  Contrary to what most people think, expert consensus is that she doesn't use [[language]] and Patterson is an embarassment.  Here, watch this: https://www.youtube.com/watch?v=SIOQgY1tqrU.  The part specifically about Koko starts at about 1:28:00, but for background you might want to start about 2/3 of the way in.  [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 00:27, 17 February 2015 (UTC)
+:Looking at your other comments on the page, and use of language like 'Patterson is an embarassment', it seems like you are motivated by a particular POV, running the risk of confirmation bias. Again, correct reliable references are what matter to the article.[[User:Number36|Number36]] ([[User talk:Number36|talk]]) 00:41, 17 February 2015 (UTC)
+::I object to the accusations of bias.  Nothing on this talk page shows any bias on my part whatsoever towards anything but the truth.  Readers of this article should be written in as much the same way as that lecture segment I referred to earlier: https://www.youtube.com/watch?v=SIOQgY1tqrU.?t=1h28m0s as appropriate for an encyclopedia; i.e.: the reader should come away understanding that what most people believe about Koko and language is just not true: Koko does not use language.  [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 03:11, 17 February 2015 (UTC) 
+
+*Michael W. Eysenck, 2000,  Psychology: A Student's Handbook Taylor &amp; Francis, p. 247 &quot;On the negative side, Koko showed little evidence of having mastered syntax or the grammatically correct ordering of words. In addition, most of her communications were rather brief and were certainly shorter than is the case even with young children. Thus Koko only exhibited some of the features of language.&quot; Incidentally, syntax is considered by many linguists to be exactly what defines the difference between language and non-linguistic communication, and hence the reason many linguists consider her communication to be an example of non-linguistic use of signs.[[User talk:Maunus|User:Maunus ·ʍaunus·snunɐw·]] 01:04, 17 February 2015 (UTC)
+::Again, this 1. isn't a source in the article, so moot to the specific concerns about the references in the above section. and 2. You've clearly cherry picked that when looking at the text that precedes it (which even includes that word 'taught'!), in the short section on Patterson in the book; [https://books.google.co.nz/books?id=iECjpLvkK6QC&amp;pg=PA247&amp;lpg=PA247&amp;dq=%22patterson%22#v=onepage&amp;q=%22patterson%22&amp;f=false link]. This isn't a discussion for the talk page, we should not be interested in trying to convince anyone of a particular view in regards to the subject here, but to report what reliable sources say, and reference them appropriately and correctly in the article.[[User:Number36|Number36]] ([[User talk:Number36|talk]]) 01:19, 17 February 2015 (UTC)
+:::Whether the source is used is utterly irrelevant. And no I have not cherry picked it, and I have no problem with using the word &quot;taught&quot; as long as it is also made entirely clear that she did not infact learn ASL but only a number of ASL signs which she used without syntax or grammar. Your attempts at trying to tell others what to discuss and how are getting a little annoying by now.[[User talk:Maunus|User:Maunus ·ʍaunus·snunɐw·]] 01:24, 17 February 2015 (UTC)
+::::&quot;Whether the source is used is utterly irrelevant.&quot; -That's the thing though, -it's the ''only'' thing that's relevant. That's the whole point of the talk page; the article itself. That's not me, it's the guideline [[WP:TALK]] &quot;''The purpose of a Wikipedia talk page (accessible via the talk or discussion tab) is to provide space for editors to discuss changes to its associated article or project page. Article talk pages should not be used by editors as platforms for their personal views on a subject.''&quot;. I apologise if my comments seem annoying to you, but this is an important point, especially in regards to the concerns about the specific references in the above section.[[User:Number36|Number36]] ([[User talk:Number36|talk]]) 01:36, 17 February 2015 (UTC)
+::I see you've included them now Maunus, -good edits. (also the aside about 'taught' being included was not intended as a dig at you, I was just noting it in reference to the previous discussion about it).[[User:Number36|Number36]] ([[User talk:Number36|talk]]) 01:49, 17 February 2015 (UTC)
+:::On one of those points though, -it's surely an unusual, or at least specialised, use of the word 'language' that would say a baby saying 'mama', 'milk', or 'up', isn't speaking using language simply because there's no syntax involved, wouldn't that even apply to someone expressing something with a single word? Offering someone a chip by simply saying 'chip?', for instance.[[User:Number36|Number36]] ([[User talk:Number36|talk]]) 02:09, 17 February 2015 (UTC)
+:::::::I dont think its that unusual. If that baby grows to 10 and still only uses 1000 words and does not form sentences then noone would claim that they speak English or that they have acquired functional language. Nor would anyone consider that you speak Italian merely by memorizing a dictionary of the language. The fact that ordinary language sometimes doesnt distinguish between vocabulary and language is not really an argument here.[[User talk:Maunus|User:Maunus ·ʍaunus·snunɐw·]] 03:48, 17 February 2015 (UTC)
+::::::::&quot;''then noone would claim that they speak English or that they have acquired functional language.''&quot; If they were English words why wouldn't you say English was the language they speak? (To the degree to which they can do so that is). And while you're of course right that it'd have to be qualified as being of a very basic level, it surely couldn't be said they don't have any language ability ''at all'' in that hypothetical situation. How would the distinction between someone who knows words and uses them appropriately, and someone who has no language ability whatsoever be made, from an academic point of view. I mean what are they using if not language?[[User:Number36|Number36]] ([[User talk:Number36|talk]]) 04:17, 17 February 2015 (UTC) 
+:::::::::::They are using words. Words that come from English (or ASL), but language is more than a collection of words - specifically it is a set of rules for how to connect words into meaningful sentences (at least from one theoretical perspective which has for awhile been dominant in linguistics). [[User talk:Maunus|User:Maunus ·ʍaunus·snunɐw·]] 04:26, 17 February 2015 (UTC)
+::::::::::::&quot;They are using words. Words that come from English&quot; -So English words; words in the English language. How is 'using a word' distinct from 'saying a word' as in speaking. Aren't they then using that language to communicate? If someone says 'chip?' to offer you a chip, did they use language or not? It's an English word, so they're using English, which is a language. Of course language is more than that, but it's still part of language. In the same way that maths is more than adding, but you're still doing maths if you can add but don't know multiplication, division, fractions, etc. I hope this isn't coming across as argumentative, I'm just trying to clarify this point, which I think is relevant for the article.[[User:Number36|Number36]] ([[User talk:Number36|talk]]) 06:13, 17 February 2015 (UTC)
+::::::::::::::I actually answered that in the previous statement. Using words is using a part of language, but it is not using language just like a collection of bricks is not a house. Using an English word correctly is not the same as knowing English. Using 1000 ASL signs is not the same as knowing ASL. Your math analogy is incorrect because addition is a process, not an item. The correct analogy would be that knowing the numbers 7, 9, 36, 98 and 2205, is not the same as knowing how to count. It is quite simple really, but it requires that you are willing to understand that language in fact is something other than what you apparently believe it is, namely it is a system of processes and mutual relations between lexical items, not the mere collection of words. That being said it is of course the case that the question of whether Koko uses language or not depends on how we define language. But the definition under which Koko can be said to use language (i.e. knowing a collection of words), just happens not to be accepted as a valid definition by any specialists in language.[[User talk:Maunus|User:Maunus ·ʍaunus·snunɐw·]] 06:24, 17 February 2015 (UTC)
+:::::::::::::::&quot;''Using words is using a part of language, but it is not using language''&quot; 
+:::::::::::::::-How can you use part of something without being said to be using it? 
+:::::::::::::::&quot;''Your math analogy is incorrect because addition is a process, not an item. The correct analogy would be that knowing the numbers 7, 9, 36, 98 and 2205, is not the same as knowing how to count.''&quot;
+:::::::::::::::-Okay, I see your point. I'd say the analogy would be closer to if someone could recognise amounts, like 1, 2, and 3. And use those numbers correctly, but not count higher than small numbers. They'd still be counting, which is a part of maths, even though maths is of course much more than that. 
+:::::::::::::::&quot;''It is quite simple really, but it requires that you are willing to understand that language in fact is something other than what you apparently believe it is, namely it is a system of processes and mutual relations between lexical items, not the mere collection of words.''&quot;
+:::::::::::::::-I know language is more than just a collection of words, I haven't disagreed with that (I even said 'Of course language is more than that' in the last comment), but words are still part of language (a pretty significant part at that really). So if you're using words, then it follows that you're using language. That part of language at least. So it can't be correct to call it 'non-linguistic communication'. You're not using the parts of language that involve syntax or grammar. -Which your edit to the article correctly points out/clarifies I might add.[[User:Number36|Number36]] ([[User talk:Number36|talk]]) 06:44, 17 February 2015 (UTC)
+::::::::::::::::::You are simply repeating yourself at this point. True linguistic communication is defined by having syntax, recursivity, displacement, productivity, and words (form/meaning pairings). It is not language unless it has all of those things. The argument that words are part of language ergo using words means using language is a logical fallacy, a non sequitur of the type [[affirming the consequent]], which I am not going to spend more time pointing out to you.[[User talk:Maunus|User:Maunus ·ʍaunus·snunɐw·]] 07:58, 17 February 2015 (UTC)
+:::::::::::::::::::I'm sorry but no, you're incorrect, it is not affirming the consequent at all. Words are part of language; therefore using words is using language follows perfectly logically. It isn't making a claim that you are using any more than that part of language. You've failed to address the points raised, and also making a number of assertions with citing any sources. Claiming that words are both a part of language and non-linguistic is contradictory, and frankly nonsensical.[[User:Number36|Number36]] ([[User talk:Number36|talk]]) 08:25, 17 February 2015 (UTC)
+
+::::Your personal opinion on what constitutes 'language' is neither here nor there - the fact is that there are multiple credible academic sources which reject Patterson's claims to have taught Koko the use of language, as the term is generally understood within academia. And since Patterson has made these claims within academia, that is the standard she must be judged by. Accordingly, this article must make it entirely clear that her claims are disputed, and cannot uncritically repeat anecdotal (and off-topic) tales about Koko's supposed signing about the loss of the pet kitten and the rest. [[User:AndyTheGrump|AndyTheGrump]] ([[User talk:AndyTheGrump|talk]]) 02:29, 17 February 2015 (UTC)
+:::::&quot;''Your personal opinion on''&quot; 
+:::::-I see what you're attempting there, but I wasn't forwarding a personal opinion. So nope, doesn't really work. 
+:::::&quot;''the fact is that there are multiple credible academic sources which reject Patterson's claims to have taught Koko the use of language, as the term is generally understood within academia.''&quot; 
+:::::-great! Please present these as references for inclusion in the article. Perhaps with an explanation that this is a specialized use of the word in the context of their academic field, and defining precisely what is meant by it in context, would be appropriate. Properly referenced of course (&amp; without [[WP:Synth]]). I think the comment about syntax and grammar just introduced is sufficient on that point though, being more defined.
+:::::&quot;''Accordingly, this article must make it entirely clear that her claims are disputed,''&quot; 
+:::::-It does as far as I can tell. Maunuses last edits helped. Addressing the problems with the references in the above section still needs to be done though. One thing though, I think it'd be helpful to be specific about what the claim is that's being disputed, and perhaps to cite her making the claim in question.
+:::::&quot;''and cannot uncritically repeat anecdotal (and off-topic) tales about Koko's supposed pet kitten and the rest.''&quot; 
+:::::I can't see what that has to do with anything anyone's said.[[User:Number36|Number36]] ([[User talk:Number36|talk]]) 02:57, 17 February 2015 (UTC)
+
+== Image of All Ball ==
+
+I've written to The Gorilla Foundation requesting an image. Hopefully one will be donated. [[User:Anna Frodesiak|Anna Frodesiak]] ([[User talk:Anna Frodesiak|talk]]) 03:48, 23 July 2015 (UTC)
+:I just realized that we don't even have an image of Koko. I'll ask for one of those too. [[User:Anna Frodesiak|Anna Frodesiak]] ([[User talk:Anna Frodesiak|talk]]) 09:28, 8 August 2015 (UTC)
+	</talkpage>
+</article>

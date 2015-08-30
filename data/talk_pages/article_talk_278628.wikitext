@@ -1,0 +1,10 @@
+<article id="278628" title=Talk:Jasper County, Illinois>
+	<talkpage id="278628" title="Talk:Jasper County, Illinois">
+{{WikiProject Illinois|class=Start|importance=High}}
+{{WikiProject United States|class=Start|importance=low|U.S. counties=yes}}
+
+==Untitled==
+Wondering how to edit this U.S. County Entry?&lt;br/&gt;
+The [[Wikipedia:WikiProject U.S. counties|WikiProject U.S. Counties]] standards might help.
+	</talkpage>
+</article>

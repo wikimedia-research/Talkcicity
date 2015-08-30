@@ -1,0 +1,107 @@
+<article id="309129" title=Talk:Guitar pick>
+	<talkpage id="309129" title="Talk:Guitar pick">
+==Plectrum==
+Why not just have the redirection to [[plectrum]]? That article makes clear that 'pick' is a synonym. I don't see the value in having two seperate articles - the information will either diverge (causing confusion) or require extra work to keep in sync. I'd suggest closing this page and keeping 'Plectrum' up to date. [[User:Basswulf|Basswulf]] 09:08, 1 Sep 2003 (UTC)
+
+:I came to this page to voice the sentiment that this is a redundant sub but quickly found that my complaint was redundant. I propose to junk the link and enhance the plectrum link. There's some (semi)interesting discussion about the historical use of actual tortoise shell formerly used for guitar picks and some uver stuf of interest. - Sccook [signed by [[User:Hyacinth|Hyacinth]]]
+
+==Improvement==
+Hopefully I've started to improve this a bit. I have changed the general [[plectrum]] page to link here using the ''Main article: [[Guitar Pick]]'' style. There's still a lot that can go in here - pictures of more types of pick, some notes on how they are held and used. History would be great, but I don't know anything about that. There are also some electronic toys that are used too (I can't remember what they're called now). --[[User:KayEss|KayEss]] 09:27, 28 Nov 2004 (UTC)
+
+==Neutrality==
+It doesn't seem to exist here. &lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[Special:Contributions/203.97.123.87|203.97.123.87]] ([[User talk:203.97.123.87|talk]]) 06:02, 27 December 2006 (UTC).&lt;/small&gt;&lt;!-- HagermanBot Auto-Unsigned --&gt;
+
+
+&quot;tossing out hundreds of customized picks over the course of a single concert is the stuff of legend.&quot; Yeah, what? Grammar check please? I think I'll go ahead and admit to getting rid of that.
+
+==Plectrum and rules==
+I'm also confused about why this page is not just a section in [[plectrum]]. I also feel that rules are not really rules if there are so many variations due to personal preferences. [[User:Ophir|Ophir]] 19:34, 1 January 2006 (UTC)&lt;!-- HagermanBot Auto-Unsigned --&gt; 
+
+What rules? [[User:Hyacinth|Hyacinth]] 09:41, 17 February 2006 (UTC)
+
+== POV Much? ==
+
+&lt;blockquote&gt;
+The economy picking technique sounds as though it would require more conscious thought to execute it but many guitarists learn it intuitively and find it an effort to use alternate picking.
+&lt;/blockquote&gt;
+Hardly neutral. I've never played a guitar, and I think economy picking sounds simpler. This and the next sentence are both rather weaselly, in fact. What should we do with them?
+
+--[[User:Superiority|Awesome]] 09:51, 27 January 2007 (UTC)
+
+I am a guitar player and I find this section to be a rather neutral statement of what tends to be perhaps a matter of differing opinions of guitarists of differing genres. I use economy picking, it seems to me to be the most logical, but those who favor strict alternate picking swear it is the only way to go. An encyclopedic article should point out both sides of this issue without taking sides, and hence will tend to sound somewhat weaselly.[[User:Wschart|Wschart]] 18:13, 12 March 2007 (UTC)
+
+
+== A bit messy... ==
+
+There is some good information here, but it is a bit convoluted in POV chatter and poor article structure.  Also, I have not viewed the &quot;plectrum&quot; article, specifically, but the electric guitar is such a pivotal instrument in the pop culture of the last 70 years that an article entitled &quot;Picks&quot; (as they are affectionately referred in the electric guitar world) seems justified.  All POV aside, if the article is solid and informative--and neutral--I think it should have a home here.[[User:75.112.134.2|75.112.134.2]] 10:33, 26 July 2007 (UTC)
+
+==Bass Guitar Picks==
+
+There are those who use pick to play the bass guitar too. Why does this article make no reference to them? Are no companies targeting this niche market then? Or are bass players only able to use heavy normal picks? At least one mention would be nice. [[User:Retrorocker|Retrorocker]] 23:13, 25 August 2007 (UTC) pop
+
+==Materials==
+
+I've seen several picks claiming to be made out of bone (eg, Buffalo), is this significant enough to be mentioned? [[Special:Contributions/88.108.21.143|88.108.21.143]] ([[User talk:88.108.21.143|talk]]) 12:51, 12 April 2008 (UTC)
+
+== Thickness picture ==
+
+Sorry, but this picture is extremely unnecessary. Why include it? To show how exactly manufacturers produce picks with a certain thickness? The photographer doesn't even measure at the thickest point. Delete it? Iago4096 11:48, 18 June 2008 (UTC)
+
+Waited a week, noone objected. Taking the picture out now. Iago4096 07:30, 25 June 2008 (UTC)  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Iago4096|Iago4096]] ([[User talk:Iago4096|talk]] • [[Special:Contributions/Iago4096|contribs]]) &lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:Sorry, I've overlooked this sentence. I've been on the vacation lately and just returned to Wikipedia. Well, on the subject, I disagree with deletion of picture. I really want to show that 2mm pick is exactly 2mm thick and I show the right way to measure it: it's not about measuring the thickest part of the pick (it will include an outstanding logo shouldn't be counted in, as these letters are not solid enough to contribute to pick structural strength), it's not about measuring only the thickness of edge (where it would be less than 2mm, because thick picks are sharpened at edges). Also, this picture illustrates what precision is used by pick manufacturers to measure their products: it's about +-0.05mm.
+:In fact, for example, I'm still curious about the same issue on string gauge. Currently, I have no idea how to measure strings to get whatever numbers manufacturers use, when things come to wound strings. Roundwound strings give more than written on them, flatwound give less. I think that a picture with measurement of guitar string would be helpful too, but, alas, I don't know how to do it :( --[[User:GreyCat|GreyCat]] ([[User talk:GreyCat|talk]]) 15:37, 29 June 2008 (UTC)
+
+::Well, no. Do not agree. This picture is unnecessary. Obviously a 2mm pick is two millimeters thick. We do not need pictures that show how an M6 screw is exactly 6 mm thick or that a two-by-four piece of timber is exactly 2&quot;x4&quot;. Those things are obvious.
+:::No, it's not. I've already mentioned a case when I'd appreciate someone to tell me how to measure properly. Besides, there's only 2 images in this article, and this picture is one of them. First one shows assorted picks, front view. Second one shows that side view: picks are not thin and can have some thickness and even rounded profile. I think that it's a good overall view for someone who doesn't know about a subject first-handed (and especially, if someone can't understand English and only looks at the pictures). We aim to be encyclopedic afterall, no? --[[User:GreyCat|GreyCat]] ([[User talk:GreyCat|talk]]) 14:07, 6 July 2008 (UTC)
+::Also, your picture is not as exact as you say it is. If you look exactly [http://www.aslanidis.de/lager/pick.jpg] you will see that not only the raised logo is outside the calipers' tongues, but also a fair portion of the pick's body itself, and even if this only appears to be like this, for example due to the perspective, then the picture is even less good to demonstrate a pick's thickness.
+::Iago4096 11:08, 6 July 2008 (UTC)
+:::You seem to be right here. May be I have to redo it with better perspective, to be pixel-accurate. --[[User:GreyCat|GreyCat]] ([[User talk:GreyCat|talk]]) 14:07, 6 July 2008 (UTC)
+
+I have no idea how the image might have changed in the last few years, but today (April 7 2014), I can't see any justification for the presence of the image given how difficult it also is to see the thing without clicking upon it and seeing it at its original (?) size.....and for the clarity of the salient parts (i.e. the pick and the measurement itself).   We should be in no doubt about what the picture is, and how to interpret how its supposed to relate to the text of the article.
+
+:The graduations for measurement are almost invisible.
+:The pick isn't easily identified as such.
+:and the caliper is measuring a part of the pick that lies between the thinnest and thickest areas of it.
+
+:In its present form, it's too vague and I and a couple of my friends (all of whom are guitarists) were baffled about what the photograph was until we saw it at the original size, and then we said that we didn't need a picture to tell us how thin it is, because a mention of the thickness is enough.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/2602:304:AE27:C5B9:99B9:9EB5:665D:546B|2602:304:AE27:C5B9:99B9:9EB5:665D:546B]] ([[User talk:2602:304:AE27:C5B9:99B9:9EB5:665D:546B|talk]]) 11:19, 7 March 2014 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Metal plectrum and pickups ==
+
+Couldn't a metal pick or even a metal ring worn on the picking hand create interference with pickups on an electric guitar?
+[[User:Menz3|Menz3]] ([[User talk:Menz3|talk]]) 20:12, 4 December 2008 (UTC)
+
+== Purpose ==
+
+There's a lot of info on what it's made of and its dimensions but nothing on why you would use it. Obviously it's for picking strings on the guitar but why would I do that if I can just use my fingers?  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/76.94.237.169|76.94.237.169]] ([[User talk:76.94.237.169|talk]]) 06:30, 28 September 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Plaigiarized from or by Amazon description ==
+
+http://www.amazon.com/Planet-Waves-Assorted-Celluloid-Guitar/dp/B001PGXHXA/ref=sr_1_1?ie=UTF8&amp;qid=1299660240&amp;sr=8-1
+
+Under Why a Medium Guitar Pick?  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/76.240.69.140|76.240.69.140]] ([[User talk:76.240.69.140|talk]]) 08:47, 9 March 2011 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Laughably wrong takes on pick thickness ==
+
+Thin picks produce a &quot;heavier&quot; sound? Thick picks are brighter? Sorry, complete bunk. Original research that is wrong.
+
+Thin picks produce a chimey, bright sound. A thin pick does not deflect the string much, so it is not able to stimulate the fundamental note as well as a thick pick. A thin pick has very fast release. This fast release stimulates the harmonics. 
+
+Thicker picks stimulate the fundamental note more. The harmonic content depends on the shape and texture of the pick. Smooth, round thick picks produce a dark tone, because the string glides off the pick, rather than snapping off. However, sharp edges or matted texture add considerable brightness. The shape, machining and material has a huge impact on tone. Therefore, it is impossible to generalize about the tone of thick picks. Wipe out the bullshit and start again. [[Special:Contributions/24.85.143.66|24.85.143.66]] ([[User talk:24.85.143.66|talk]]) 03:26, 1 May 2011 (UTC)
+
+== Advertising language ==
+
+This bit, under 'Innovations', reads like an advertisement: &quot;Long overdue in the guitar pick industry Pick Punch LLC introduced in 2005 an easy method of making guitar picks from all kinds of materials including credit cards, ID cards, gift cards, and plastic lids called the Pick Punch. Patent 6930231&quot; 
+
+This should be cut down and rewritten as part of the less specific list format the rest of the section follows (the bit about D'Andrea picks is also somewhat guilty of this). If someone with more familiarity with these companies wants to rewrite this fine, if not I'll do some research on them and do it myself.[[User:Dysfunction|Dysfunction]] ([[User talk:Dysfunction|talk]]) 02:38, 8 August 2011 (UTC)
+
+== Articles on &quot;Bolo pick&quot; and &quot;pick holder&quot; ==
+
+There are no articles for the new Bolo pick holder nor even a general &quot;pick holder&quot;.  (Is there an article where these might be mentioned or would they require totally new articles?)  Just a heads up for anyone who might want to start these because I hate the hanging obligation that it'll all be on me :-) [[User:Squish7|Squish7]] ([[User talk:Squish7|talk]]) 20:44, 25 January 2013 (UTC)
+
+== links... ==
+
+At the end of [[Guitar pick#Materials#Metal]] there were two links: http://puasdeplata.com/    http://www.silverpicks.com/
+I was going to turn them into references but I didn't know if they were or if they were just advertising. I'm kind of pressed for time right now so I can't check. &lt;span style=&quot;font-family: sylfaen&quot;&gt;[[User:Eman235|&lt;span style=&quot;color:green&quot;&gt;E'''man'''&lt;/span&gt;&lt;span style=&quot;color:#6643d1&quot;&gt;2'''35'''&lt;/span&gt;]]/[[User talk:Eman235|&lt;span style=&quot;color:brown&quot;&gt;''talk''&lt;/span&gt;]]&lt;/span&gt; 04:13, 19 May 2014 (UTC)
+	</talkpage>
+</article>

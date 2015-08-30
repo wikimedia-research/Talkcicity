@@ -1,0 +1,94 @@
+<article id="367723" title=Talk:Organization development>
+	<talkpage id="367723" title="Talk:Organization development">
+{{WikiProjectBannerShell|1=
+{{WikiProject Sociology|class=Start|importance=Mid}}
+{{WikiProject Business|class=start|importance=Mid}}
+{{WikiProject Organizations}}
+}}
+
+==flaw in the beginning of the text==
+Flaw in the beginning of the text
+&quot;Organization development (OD) is a planned, organization-wide effort to increase an organization's effectiveness and viability.&quot; only to be followed a few sentences later by: 
+&quot;The term &quot;Organization Development&quot; is often used interchangeably with Organizational effectiveness&quot;. 
+I removed the sentence. While &quot;development&quot; is an effort and not a property, &quot;effectiveness&quot; is a property - therefore they cannot be used &quot;interchangeably&quot;. I am not an expert in the field, so if I missed a point please reverse my post.   &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Postdeborinite|Postdeborinite]] ([[User talk:Postdeborinite|talk]] • [[Special:Contributions/Postdeborinite|contribs]]) 08:07, 12 November 2010 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+==Untitled==
+This article is extremely incomplete and idiosyncratic. Anyone reading it in search of substantive knowledge about OD will be either misinformed (if they are naive or uninformed on arrival) or will simply disregard it (if they already have some understanding of the topic.) It requires much attention, and if time permits, I (a recognized expert) will return and work on it.
+
+----
+
+incomplete?  absolutely.  i was hoping others would come along and help fix it.
+
+idiosyncratic?  thank you![[User:Thseamon]]
+
+---
+
+Please take a look at the [[organizational studies]] topic - it would be good to merge the two, or at least reference them, in some way. --[[User:Goodoldpolonius|Goodoldpolonius]] 03:47, 21 Oct 2004 (UTC)
+
+
+Hello Goodoldpolonius, It took me a while (years!), but I finally added OD to the Org Studies page See Also list.[[User:Thseamon]]
+
+----
+
+Marked for cleanup.  Needs major work...  The field is called Organization Development.  Let's get it right.  
+[[User:Perspective|Perspective]] 18:49, 18 Jun 2005 (UTC)
+----
+
+I agree with you, Perspective.  Change the title to Organization Development.
+[[User:Thseamon]]
+
+:Done. (OK, so it took a while). -[[User:Willmcw|Willmcw]] 05:57, 16 October 2005 (UTC)
+
+==Important figures==
+I deleted [[Kaushik Kumar]] and [[Olusegun Samuel]] from the list, because I couldn't find a trace of them with Google. If anyone has specific information about them and their importance to the field, please let us know. -[[User:Willmcw|Willmcw]] 05:57, 16 October 2005 (UTC)
+
+I've further trimmed the list.  Some appear in Google, some with an OD background, but so do thousands of others.  We need some quality control.  Perhaps having a valid wikipedia entry about the individuals work is a starting point.  [[User:Spamburger|Spamburger]] 10:31, 17 May 2006 (UTC)
+
+== cleanup ==
+
+Once again marked for cleanup.  The article is little more than a series of lists.  It needs content, expansion and explanation.  --[[User:Buridan|Buridan]] 21:35, 8 April 2006 (UTC)
+
+----
+
+There are a number of problems with this wiki, but two that are niggling at me. First, the title needs to be changed to Organizational Development from Organization Development. Second, who in heaven's name is &quot;somil aseeja&quot; under Objective of OD? I cannot find a credible online reference to this person and this entry uses poor punctuation and grammar, as well as nonexistant citations. I get the impression that someone was attempting to self-promote.
+
+[[User:Brucesinclair|Brucesinclair]] ([[User talk:Brucesinclair|talk]]) 19:47, 4 September 2013 (UTC)
+
+----
+Actually the founders of the field specifically named it ORGANIZATION development, NOT &quot;organizational development&quot;. The analogy was with &quot;Human development&quot;. I don't have my books with me to give you a published reference. Here's one take on the difference between the two terms.. https://www.youtube.com/watch?v=pZ3Py72xLtg and another one: http://managementhelp.org/organizationdevelopment/od-defined.htm#anchor74706 [[Special:Contributions/67.240.57.29|67.240.57.29]] ([[User talk:67.240.57.29|talk]])  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt; — Preceding [[Wikipedia:Signatures|undated]] comment added 00:43, 25 January 2015 (UTC)&lt;/span&gt;&lt;!--Template:Undated--&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Organization = Group ==
+
+I think that the definition of organization as &quot;two or more people working together toward one or more shared goals&quot; is misleading. This, to me sounds like the definition of group.  See wikipedia article on [[Group_%28sociology%29]]. 
+
+If the same definition of group is used for organization, we would be equating a company such as IBM with a group of 3 software engineers working together.  It will also mean that what we know about how a group develops is all we need to know about how a company, an organized religion, or a sports organization develops.  Anybody has a better definition? I recall Robert Bales, a famous researcher of small groups, writing somewhere that the difference between small groups and large groups is that in a small group people are able to remember pretty much everything that was said by everybody in a group interaction.  Btw, I am working on a page on [[group development]] if others are interested.
+[[User:Jsarmi|Jsarmi]] 19:28, 19 October 2007 (UTC)
+
+== Change is not (necessarily) related to &quot;problems&quot; ==
+
+The article suggests, change is only required when an organization is &quot;ill&quot;
+
+''There is a direct analogy here to the practice of psychotherapy: The client or [http://en.wikipedia.org/w/wiki/Patient patient] must actively seek help in finding a solution to his problems.''
+
+This, of course, is not true. Many reasons for change exist and having problems may be one of them. A &quot;healthy&quot; organization will still need to change to match the requirements from the changing environment it is operating in, including social, competitive and renewal aspects.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/83.85.117.14|83.85.117.14]] ([[User talk:83.85.117.14|talk]]) 08:03, 30 May 2011 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== I don't think OD is really very new ==
+
+I have a reference to an earlier edition of [http://books.google.co.nz/books/about/Organization_Development_and_Transformat.html?id=LmHuAAAAMAAJ&amp;redir_esc=y Organization Development and Transformation: Managing Effective Change]that dates back to 1983, and they talk about 'traditional OD techniques'.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/60.234.197.105|60.234.197.105]] ([[User talk:60.234.197.105|talk]]) 04:08, 19 December 2011 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+And it's now deleted. [[User:Pakaerf|Pakaerf]] ([[User talk:Pakaerf|talk]]) 02:03, 12 January 2012 (UTC)
+
+
+Hello Wikipedian! I am looking to make small edit to this article by adding:
+
+Self-managing work groups allows the members of a work team to manage, control, and monitor all facets of their work, from recruiting, hiring, and new employees to deciding when to take rest breaks. An early analysis of the first-self-managing work groups yielded the following behavioral characteristics (Hackman, 1986):
+*Employees assume personal responsibility and accountability for outcomes of their work.
+*Employees monitor their own performance and seek feedback on how well they are accomplishing their goals.
+*Employees manage their performance and take corrective action when necessary to improve their and the performance of other group members.
+*Employees seek guidance, assistance, and resources from the organization when they do not have what they need to do the job.
+*Employees help members of their work group and employees in other groups to improve job performance and raise productivity for the organization as a whole.
+2.^ Schultz, Diane P. Schultz, Sydney Ellen (2006) Psychology and work today: and introduction to industrial and organizational psychology (9th ed.) Upper Saddle River, NY: Prentice Hall p262. ISBN 0-13-193212-8. Angela Sandy (talk) 05:06, 10 May 2013 (UTC)
+
+I would like to add this to Improved Organization Performance  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Angela Sandy|Angela Sandy]] ([[User talk:Angela Sandy|talk]] • [[Special:Contributions/Angela Sandy|contribs]]) 16:12, 10 May 2013 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

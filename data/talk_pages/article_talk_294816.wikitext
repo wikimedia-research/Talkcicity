@@ -1,0 +1,963 @@
+<article id="294816" title=Talk:Lactose intolerance>
+	<talkpage id="28518139" title="Talk:Lactose intolerance/Archive 1">
+{{talkarchivenav}}
+
+==Can Any Senior Editors Review this Ridiculous Paper ==
+Ridiculous Result of '95% of Chinese People have Lactose Intolerance'!!. Totally nonsense at all!!!  I have never heard of seen such a big lie and iresponsible manner before.   &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/218.186.8.243|218.186.8.243]] ([[User talk:218.186.8.243|talk]]) 17:48, 18 December 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+
+==I can't find the link where are the stadistics of that map from could you send the link? ==
+
+http://en.wikipedia.org/wiki/Lactose_intolerance#Lactose_intolerance_by_group  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Wikievil666|Wikievil666]] ([[User talk:Wikievil666|talk]] • [[Special:Contributions/Wikievil666|contribs]]) 18:25, 10 October 2009 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+I would also like to see the sources used for the map. It's surprising to see countries like Argentina and Uruguay (whose population is almost entirely composed of european immigrants) having the very same values of the surrounding countries.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/141.76.177.72|141.76.177.72]] ([[User talk:141.76.177.72|talk]]) 12:56, 15 December 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+==Extremely Silly Question ==
+In the part that shows &quot;    * 1.1 Lactose intolerance by group&quot; - North American Jews stick out (as do the British) for their relatively highly Lactose intolerance.  Do environmental factors (like stress, past life circumstances, etc...) play a part in lactose intolerance (the answer is obviously yes, but I'm trying to gauge an idea of how much a part is played).  For example, do Indians in India have a lower or higher lactose intolerance than South Asians in America or the UK (don't be surprise with any counter-intuititive observations here - lactose exposure might have some effect on gene expression).  
+
+
+== Negative health issues associated with lactose intolerance==
+Are there other health problems that may be caused by lactose intolerance, or that are associated with it?  Can some of these problems be due to associated genetic causes?  
+
+== Heat Treatment of Milk == 
+This is probably mentioned on the site, though I'm not sure about it.  When I try to have 'raw' milk, it causes problems for me.  However, heating the milk makes it digestible.  Does heat destroy lactose?
+
+Well, no because studies have shown that it does not in many ways. Heating the milk will actually '''increase''' the levels of lactose in the dairy products.
+
+IANAD, raw milk may contain bacteria which, unless killed by heating, may upset your stomach.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/77.122.219.237|77.122.219.237]] ([[User talk:77.122.219.237|talk]]) 18:52, 9 August 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Lactose intolerance in cats? ==
+
+Would one of the side effects of milk for cats be bloating? Seems ever since she decided she really had to have milk, she has had bloating
+
+Bloating would not be visible to the eye, unless the cat was furless and real skinny. However cats will whine when they experience discomfort.
+
+It should be noted that if a mammal is taken off milk (voluntarily weaned), the lactase producing cells in the small intestine may stop secreting lactase and therefore &quot;become&quot; lactose intolerant. This is common among stray cats. With pet cats, people often will feed cats milk on an occasional basis, this keeps the cats producing lactase. However, stray cats have usually been properly weaned and if given milk can suffer collics. This is already discussed in Wikipedia [[cat]] page.
+
+This lactose intolerance brought on by voluntary weaning also occurs in humans.
+
+== Majority of humans? ==
+
+Is there a citation for the &quot;majority of humans&quot; claim?  A lot of humans seem not to be: most western Europeans and north Americans are not lactose intolerant, Mongolians regularly drink fermented horse milk, and so on. --[[User:Delirium|Delirium]] 08:25, Apr 29, 2004 (UTC)
+
+:I'm not making a claim about the majority of humans, but it's worth noting that ''fermented'' milk products have already been partly digested by bacteria. How this affects the lactose content probably varies by type of bacteria, but (for instance) [[lactobacillus]] used in [[yogurt]] production converts lactose to lactic acid. --[[User:Fubar Obfusco|FOo]] 00:43, 18 May 2004 (UTC)
+
+there is a recent citation for the &quot;majority of humans&quot;, the abstract of which I provide here:
+ [[User:Dbach|Dbach]] 15:25, 19 Nov 2004 (UTC)
+''Annu Rev Genet. 2003;37:197-219
+
+''Genetics of lactase persistence and lactose intolerance.
+''Swallow DM.
+
+''Galton Laboratory, Department of Biology, University College London, Wolfson House, 4 Stephenson Way, London NW1 2HE, England. dswallow@hgmp.mrc.ac.uk
+
+''The enzyme lactase that is located in the villus enterocytes of the small intestine is responsible for digestion of lactose in milk. Lactase activity is high and vital during infancy, but in most mammals, '''including most humans''', lactase activity declines after the weaning phase. In other healthy humans, lactase activity persists at a high level throughout adult life, enabling them to digest lactose as adults. This dominantly inherited genetic trait is known as lactase persistence. The distribution of these different lactase phenotypes in human populations is highly variable and is controlled by a polymorphic element cis-acting to the lactase gene. A putative causal nucleotide change has been identified and occurs on the background of a very extended haplotype that is frequent in Northern Europeans, where lactase persistence is frequent. This single nucleotide polymorphism is located 14 kb upstream from the start of transcription of lactase in an intron of the adjacent gene MCM6. This change does not, however, explain all the variation in lactase expression.''
+
+I've also added a couple of cites to the article.  It's true that most northern Europeans, and thus most Americans, who are largely descended from northern Europeans, have adult lactose tolerance.  This is due to a mutation in northern Europe that seems to have happened after domestication of cattle, and use of dairy in the diet in that area around 7000 years ago.  However, Europeans are a minority of the world population; east Asians and central Africans, for example, are largely lactose intolerant in adulthood, and are more numerous in the world population.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Warren Dew|Warren Dew]] ([[User talk:Warren Dew|talk]] • [[Special:Contributions/Warren Dew|contribs]]) 17:10, 18 July 2008 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Links ==
+
+didn't find this very helpful, would rather see a more scientific link.
+
+
+''External link'': http://gerd.msn.com/article.aspx?aid=49
+
+:Well then find a better one. This has some solid information and is better than no external references.  Any external reference that is independent and verifies the material in a wikipedia article is good. I'm putting it back in until there are other &quot;more scientific&quot; references that verify the same facts that this article does. Once better, more complete references are there, this one is not needed. But for example, the article supports the potentially contentious (and non intuitive to caucasians) fact questioned above that the majority of humans are lactose intolerant to some degree. - [[User:Taxman|Taxman]] 21:36, Oct 5, 2004 (UTC)
+
+
+I agree - only concerning the support of the &quot;majority&quot;-claim I fear that nowadays lots of internet resources rely on wikipedia. That's why I never trust Internet information on scientific subjects. I'd rather search PubMed (and will do so) [[User:Dbach|Dbach]] 19:14, 6 Oct 2004 (UTC)
+
+I have found a better citation and replace it. [[User:Dbach|Dbach]] 15:26, 19 Nov 2004 (UTC)
+
+== Human vs. other mammalian lactose ==
+If a human is lactose intolerant, are they intolerant to all milk, regardless of whether it came from a human or other mammal? Do humans became lactase non-persistent after weaning from human milk, or does this only apply to other mammalian milk? Most of the (scientific) literature I pull up only talks about general dairy, not human dairy. --[[User:Westendgirl|Westendgirl]] 19:36, 7 Feb 2005 (UTC)
+
+:They are intolerant to the lactose in the dairy products (or anywhere lactose occurs), and so yes, they are intolerant of human and non-human milk alike (or if you sweeten your beer/cider with lactose, which apparently yeast won't use, then they can't drink this either). AFAIK, your lactose tolerance status does not change if you change your consumption of lactose: regardless of whether you're tolerant and never used/discontinue or if you're intolerant and continue/start (excepting for the weaning period as a child, which happens regardless of whether you continue drinking milk or not).
+
+Many doctors I have discussed lactose intolerance with have said the opposite. There are occasional cases of humans who become lactose intolerant following weaning, such as following a vegan diet or non dairy vegetarian diet.  Lactose intolerance due to weaning is also common among stray cats. You will find that most pet cats who are fed milk throughout their lives are fine versus many stray cats are lactose intolerant and will experience discomfort if given milk. Of course there may be a combination of factors at work here but it nonetheless exists--[[User:Tallard|Tallard]] 18:12, 20 May 2007 (UTC)
+
+:Lactose, y'see, is just another sugar, like glucose or fructose, and not some special product that makes something dairy. [[User:Kesuari|Felix the Cassowary]] 08:36, 19 Feb 2005 (UTC)
+
+==Urination &amp; lactase persistence==
+
+Before I change it, does anyone know what's up with the last paragraph: &quot;uncomfortable phases of life... (like urination).&quot; and &quot;the minority Western European group should be labeled as suffering from lactase persistence.&quot;  This all seems a little silly.  Anyone care to defend it?  [[User:Chihowa|chihowa]] 14:33, 17 Nov 2004 (UTC)
+
+: As an Old European, I do not mind deleting a little political correctness in exchange for clarification ... :) [[User:Dbach|Dbach]] 15:21, 19 Nov 2004 (UTC)
+
+: I was wondering about the urination bit, too.  It seems like an interesting point, but the urination example is just confusing.  Is there a better one?  I have no problem with &quot;lactase persistence&quot;, but I'm pretty sure no one &quot;suffers from&quot; it. [[User:Quincy|Quincy]] 21:16, 28 Nov 2004 (UTC)
+
+:: Lactase production by the body requires a small amount of resources, so in the absence of dairy in the diet, one could argue that people &quot;suffer&quot; from lactase persistence if they are in an area of the world with limited nutrition and no dairy.  In affluent countries it's not a problem, but neither is Lactose intolerance as long as one avoids dairy.[[User:Warren Dew|Warren Dew]] ([[User talk:Warren Dew|talk]]) 19:23, 18 July 2008 (UTC)
+
+== Mutation on chromosome 2 ==
+I've been researching this subject for a while (not scientifically, just because I'm curious) and I've found no mention of lactose intolerance being caused by a ''mutation'' on chromosome 2. What I've read is that there is a change in the translation of the lactase gene after the weaning period in most of the Earth's people. Here's one link: [http://www.emedicine.com/PED/topic1270.htm
+]
+--[[User:Bobsky|Bobsky]] 19:51, 6 Mar 2005 (UTC)
+
+:Look here [http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=223100 OMIM]. It's fairly scientific, beware. [[User:Jfdwolff|JFW]]&amp;nbsp;|&amp;nbsp;[[User_talk:Jfdwolff|&lt;small&gt;T@lk&lt;/small&gt;]] 02:30, 11 Mar 2005 (UTC)
+
+== What is a &quot;western eurasian&quot;? ==
+
+This article refers to &quot;western eurasians&quot; but does not link to any of the articles on [[Eurasian]]s.  Which kind is being referred to?  Does &quot;western eurasian&quot; include northern americans?  If it clearly relates to an existing article we should create a link so there is no confusion. - [[User:Texture|&lt;font color=red&gt;T&amp;#949;x&lt;/font&gt;]][[User Talk:Texture|&lt;font color=blue&gt;&amp;#964;&lt;/font&gt;]][[User:Texture|&lt;font color=red&gt;ur&amp;#949;&lt;/font&gt;&lt;!-- TANSTAAFL --&gt;]] 23:09, 12 Jun 2005 (UTC)
+
+
+&quot;Western Eurasian&quot; clearly refers to the people of Western Eurasia (to avoide having to list a half a dozen regions) and people descendant from that origin. It is after all first and foremost a geographical term. A link to the article on [[Eurasia]] would be more appropiate, but not really necessary.
+
+==&amp;nbsp;==
+
+I'm &quot;Black&quot;  and I can drink fresh milk.  But I also have pale skin and red hair, so whatever.
+
+== Is any of this actually true? ==
+
+Here I am in Japan and people are drinking milk and eating cheese like crazy. If they're lactose intolerant they don't show any symptoms. Come to think of it, doesn't the word &quot;intolerant&quot; imply something stronger than &quot;unable to digest&quot;? After all, I'm unable to digest grass, but I don't go around calling myself &quot;grass intolerant&quot;.
+
+The first time I heard this &quot;only white folk can digest milk&quot; idea, it was on a vegan propaganda site. I considered it highly suspect at the time. This article provides more credible scientific-sounding information, but given the lack of solid sources, isn't it possible Wikipedia is being duped by anti-dairy propaganda?
+
+--[[User:221.249.13.34|221.249.13.34]] 06:37, 15 July 2005 (UTC)
+:Well read the studies given and do some research for us. One thing I know for sure is that people can be somewhat lactose intolerant and just not know that is what it is. Since dairy products are so ubiquitous, people just chalk the symptoms up to being normal or whatever. Also each persons lactase production varies so what they are safe eating sometimes doesn't work others. There are actually some studies that were conducted that found lactose intolerance isn't as prevalent as people think. I think the study gave people 50g of lactose and many people who thought they were lactose intolerant didn't have symptoms. It didnt seem like the study was well controlled, but probably some more research is needed for this article. - [[User:Taxman|Taxman]] &lt;sup&gt;&lt;small&gt;[[User talk:Taxman|Talk]]&lt;/sup&gt;&lt;/small&gt; 12:49, July 15, 2005 (UTC)
+
+:I think we're being put on a bit by this anonymous user, or else he's seeing a few things in Japan that he thinks contradict the article (but they don't) and then his predispositions lead him to claim eyewitness status to things he didn't really see. A likely scenario: ''Over the days following his reading of this article he repeatedly sees Japanese folks eating cheese and he registers this as in contradiction to the article. But if he'd read the article a little closer he would have been aware that most cheeses, although classified in general usage as &quot;dairy products&quot;, do not produce the symptoms of lactose intolerance because fermentation, aging and other processes typically used in cheesemaking greatly reduce or eliminate lactose. Now that he has witnessed what he believes to be a strict falsification of this article he feels free to pile on the &quot;counter evidence&quot;&amp;mdash; perhaps he sees a Japanese person or two drinking a white liquid and tells himself &quot;Hah! Japanese all over the place chugging large quantities of milk!&quot;. But in reality these folks were drinking soy milk (it's quite popular in Japan) and still nothing in the article is actually contradicted.''... Japanese government health agencies and Japanese doctors are fully aware of the problems that Western-style dairy consumption pose for their people, and it is true many Japanese and other non-Western-Eurasians simply assume they can eat or drink anything advertised on American TV and in American magazines. References to government and food-industry efforts to educate the Japanese man/woman-in-the-street on this are easy to find on the Web. What we have here is yet another example of something I run across all the time&amp;mdash; a certain subset of well-meaning Americans and Europeans are hypersensitive to any evidence that real, systemic biological differences do in fact exist between world populations (or, if you prefer, between &quot;races&quot;), and they will wriggle every which way to deny such evidence because it tends to undercut ideals regarding the &quot;oneness of humanity&quot; they have cherished for decades. Of course, these objectively real but rather minor biological differences cannot be construed by any honest thinker to point to anything resembling an overall superiority of any major group over any other, but folks like our anon user worry about it all the same and try to undermine the reporting of these differences. Folks, it won't work and you might as well resolve to celebrate human diversity as it really exists on the ground, as distinct from how it exists in your self-censored imaginations. [[User:JDG|JDG]] 10:26, 14 August 2005 (UTC)
+:: JDG, systemic biological differences even exist within people of races (even when not including the issue of gender)! I think you’re over analyzing his claim, what is happening here is he is taking eyewitness account to be more relevant then scientific studies. I can through eyewitness account purport that the earth is flat! It is though eye witness accounts that we likely get most of the world miss-information, you have to use the scientific method before even coming close to believing something is fact: you have to test, theorize and verify repeatedly (usually through more then one party). Of course most people don’t have the time for that so they assume and use the most basic observation as proof: he sees some Japanese people drinking milk and thus assumes lactose intolerance is false, without either doing a statistical study, measuring lactase levels in the people (they could have just be part of  a minority of lactose tolerant Japanese), or measuring the lactose levels in the food they were eating and drink (as mention soymilk and most cheeses are not a danger). --[[User:BerserkerBen|BerserkerBen]] 22:04, 5 November 2005 (UTC)     
+:As a very lactose intolerant Japanese, I often feel like most sources on the web are being duped by dairy propaganda. &quot;You can drink a few cups of milk every day and not feel bodily discomfort even if you're lactose intolerant!&quot; - yeah, right. —[[User:67.167.83.192|67.167.83.192]] 00:02, 4 September 2005 (UTC)
+:Unfortunately, I don't rememeber the source anymore, and I don't know how credible it was in the first place, but I did google around a bit on this topic some time ago, and I read that the Japanese school system encourages the drinking of milk from a young age onwards, which would supposedly artificially stimulate the continued production of lactase. --[[User:Dolda2000|Dolda2000]] 16:33, 3 March 2006 (UTC)
+::I'm ethnically Chinese and my subjective view is that lactose intolerance is not as serious as people claim.  Most Chinese don't seem to have much problem with eating things made with milk like bread (those baked in HK have milk added), cakes, pastries like egg tarts or ice-cream.  They don't even have much problem with condensed or evaporated milk.  But when you start drinking fresh milk troubles start for many people, and I myself have this tendency as well.  Even this varies with the situation - I have seen that if you force yourself to drink milk everyday, eventually it seems the symptoms subside. --[[User:JNZ|JNZ]] 12:07, 30 May 2006 (UTC)
+::A notice from the Japanese ministry of education used to prescribe, in the standard set of foods to be provided in school lunches, that 200 ml of milk should be given daily to elementary school children.  That prescription has been removed in the most recent revision of the notice, but it still says that drinking of milk should be promoted in schools (in Japanese: [http://www.mext.go.jp/b_menu/houdou/15/05/03053003.htm]).  I can say from personal experience that milk really was provided in school lunches at least in the 1980s, and though it was not popular among some, most of the children did drink it.  Most of us Japanese are supposed to be lactose intolerant, but the main article says that even such individuals can drink some amount of milk without severe symptoms, so there is no immediate contradiction.  Re: JDG's comment, soy milk is popular in Japan, but not so much as cow milk, at least not yet (best statistics I can find say 200 kiloliters of soy-related beverages including soy milk, and 4000 kiloliters of milk for drinking, were consumed in 2004).  Dairy propaganda and anti-dairy propaganda, both seem to be very prevalent on the web... [[User:210.248.188.53|210.248.188.53]] 21:54, 17 June 2006 (UTC)
+:::Makes sense-- if people that 
+hadn't evolved the genetic basis of lactose tolerance were completely unable to benefit from milk, it's hard to see how selection on those genes could have begun.[[User:68.35.68.100|68.35.68.100]] 14:23, 13 December 2006 (UTC)
+
+I was surprised to see the claim in this article that 98% of South-East Asians are lactose-intolerant. Everyone in my Vietnamese family drinks cow's milk regularly, and I definitely saw dairy products for sale when I visited Vietnam myself. I'd like to see where this data is coming from. I'm wondering if this is the med school equivalent of an urban myth. [[User:Scientivore|Scientivore]] ([[User talk:Scientivore|talk]]) 18:37, 13 June 2008 (UTC)
+
+ Around 95% of Chinese and SE Asians are lactose intolerant?! Odd, very odd. Does that apply to Powdered milk (fresh milk being rare and expensive)?
+
+::I'd be interested if anyone familiar with industrial food processing could add information regarding the lactose content of powdered milk (and by extension, products made with powdered milk). As others have noted, dairy consumption in China has increased considerably over the last several years, particularly as ice cream and flavored milks. I myself am lactose-intolerant, but suffered no ill effects when consuming flavored milk in China. Given that the vast majority of dairy products in China are derived from powdered milk, I wonder if something about the dehydration process reduces or removes lactose, especially as lactose is water-soluble. [[User:Rpine75|Rpine75]] ([[User talk:Rpine75|talk]]) 15:42, 21 June 2008 (UTC)
+
+Somewhat intolerant sounds like an oxymoron. We need a new term to replace 'lactose intolerant' as most people tolerate it well enough. I have lived in China for six years and have asked many Chinese about this. None of them know anyone who is lactose intolerant. I see Chinese drinking cow's milk daily. Scientists get their statistics from breath or blood measurements, not from talking to people. [[User:Wikievil666|Wikievil666]] ([[User talk:Wikievil666|talk]]) 18:35, 10 October 2009 (UTC)
+
+== Phenotype properties? ==
+I'm wondering if &quot;lactase persistency&quot; can be categorized either as a dominant or recessive trait? E.g. what phenotype will an offspring, parented by a lactose intolerant and lactase persistent person, be?  
+-anonymous 04:03, 5 August, 2005 (UTC)
+: The trait is not controlled by a single set of genes, and it would be diffucult to say what the results would be. --[[User:BerserkerBen|BerserkerBen]] 21:44, 5 November 2005 (UTC)
+
+==Etiology==
+This section is misnamed? [[Etiology]] means is the study of causation of a problem, as such one should discuss genetic mutations in populations, and effect of (usually) temporary lactose intolerance after a bout of gastroenteritis (especially in children and after [[giardiasis]] infections). The current section is more about the consequences of being lactase deficient, ie why this causes the symptoms that it does.  A better title for current section might be 'Symptomatology' or 'Pathophysiology of symptoms'. [[User:Davidruben|David Ruben]]&lt;sup&gt;[[User talk:Davidruben|talk]]&lt;/sup&gt; 19:11, 24 August 2005 (UTC)
+
+== Data table sample size ==
+
+Just how relevant are the statistics in the data table if the sample sizes of some groups are in the 20s?  I understand it probably reflects the population very roughly, but if anyone can find a similar study with larger sample sizes I think that would make a stronger point.
+:: Not very, to have 95% assurance that you are within +/-4% of the true value you need to survey 1000 people! A survey of 20 people is not a statistically significant survey for a population of millions and billions. --[[User:BerserkerBen|BerserkerBen]] 21:41, 5 November 2005 (UTC)
+
+== Lactose intolerance in Finland ==
+
+Its seems to me that there is unfaith in the &quot;condition&quot; of lactose intolerance.
+
+As for a fact it does exist. 1 out of 6 finnish simply get bloating, stomach ache and diarrhea for digesting milk products. As milk still strongly exists in our traditional diet, the scientists have developed a range of milk products, where the lactose has chemically been removed and are widely available at the stores. No need to remember to take additives before the meal or look for other ways of getting calcium to our diets.
+As this is patented invention, I recommend people in need for these to contact VALIO ltd. on importing these to you.
+
+:At the moment your addition looks like an advertisement. It should be supported with reliable data/sources or it does not qualify for inclusion in Wikipedia. [[User:Jfdwolff|JFW]]&amp;nbsp;|&amp;nbsp;[[User_talk:Jfdwolff|&lt;small&gt;T@lk&lt;/small&gt;]] 23:46, 12 November 2005 (UTC)
+
+== HYLA &amp; 2001? ==
+
+There's a section in the text that reads &quot;In 2001, a Finnish research group developed &quot;HYLA&quot; products, which are milk products low in lactose, ranging from ..&quot; I was born in Finland in 1982, and I don't remember a time without HYLA products, but then again those were (and are) [[UHT]] stuff, not made with the cromatography method, I think .. but in any case: in it's current form the section gives the false impression that HYLA is a marking mainly associated with something developed in 2001 (I think Valio released &quot;Evolus&quot; products in 2001?) ..
+
+== Dairy 'allergy' ==
+The article implies the existence of a 'dairy allergy'. Does anyone have any information on the prevalence of this? If it exists as stated in the article, affecting people who ingest both milk and hard cheese, then what I (and my doctor) have been calling lactose intolerance is actually a dairy allergy (as I react on both). --[[User:Kickstart70|Kickstart70]] 21:21, 10 March 2006 (UTC)
+:A Dairy [[allergy]] is a immunological reaction to dairy products, it will have both different symptoms (usually rash, hives, diarrhea, cough, and/or runny nose) and different medical tests that can distinguish it from lactose intolerance. It may be that the hard cheese that you have eaten still contains levels of lactose that you are intolerant to, ask your doctor to conduct a “skin prick” test in which a small amount of dairy [[antigen]]s is poked into a spot on your skin, if you have a allergy to dairy products you will get a rash at that spot, if not then your reaction to dairy products is more likely due to intolerance. It may be possible that you may have both a dairy allergy and lactose intolerance, this would mean positive results for both a prick test and a medical lactose intolerance test. A dairy allergy though is a much more serious problem then lactose intolerance, as accidental ingestion of dairy products could cause life-threatening [[anaphylactic shock]]. --[[User:BerserkerBen|BerserkerBen]] 00:04, 11 March 2006 (UTC)
+::In plain English, dairy allergy means that your body's immune system is actively attacking lactose as if it were a foreign invader like a virus or bacterium.  Lactose intolerance is simply the inherited inability to produce enough lactase to properly break down lactose into galactose and glucose.  Then the undigested lactose goes to feed the E.coli in your intestines instead.  --[[User:Coolcaesar|Coolcaesar]] 20:45, 11 March 2006 (UTC)
+:::Dairy allergies are generally not reactions to the sugar, but rather to the proteins.  The two conditions are really completely unrelated, except for the symptoms being brought on by consumption of dairy.  This distinction is important when considering dairy alternatives, as a lactose intolerant person can consume certain things (most soy cheeses, for example) that someone with an allergy cannot, as cheese substitutes often use milk proteins to make them melt better. --[[User:Icarus3|Icarus]] 01:12, 18 March 2006 (UTC)
+::::A followup on this, hopefully helpful to someone: I, after 13 years of no dairy at all, tried extra aged (4 year) white cheddar, lactose-free swiss cheese, and goat feta. No symptoms at all! Thanks for the help here, the pizza was wonderful. --&lt;span style=&quot;background: #CCEECC;&quot;&gt;[[User:Kickstart70|Kickstart70]]&lt;/span&gt;&amp;middot;&lt;span style=&quot;background: #CCCCEE;&quot;&gt;[[User talk:Kickstart70|Talk]]&lt;/span&gt; 16:49, 2 April 2006 (UTC)
+----------------------------------------------------------------------------------------------
+
+to User Kickstart70 and others this information on dairy allergies should be included in the article  titled  &quot;Milk Allergy&quot;.  Some reference between these pages should be made so that the distinction between Lactose Intolerance and Milk Allergy would be clear.
+alexselkirk1704  16Jun06
+
+----------------------------------------------------------------------------------------------
+== African Fulani people  ==
+
+I added the statements about the Fulani people in the History of Genetic Prevalence. They were once a nomadic dairy consuming people and I thought it would enrich the article by adding a small blurb about them.
+
+[[User:Leward03|Leward03]] 18:22, 14 May 2006 (UTC)
+
+== India ==
+
+Are there any studies on lactose intolerance in India, and (now this would be where it might get fascinating) on regional and social distribution?
+Given that the Aryans introduced the cow to India, and only used it for dairy rather than meat-production purposes (and raised not eating cow meat to a religion - and a caste mark) their descendants would probably have very high rates of tolerance, while the descendants of the earlier inhabitants probably would not.
+Lewis
+
+:I found a few references for Indian lactose intolerance, both segregated by age and location.--[[User:Filll|Filll]] 22:32, 14 December 2006 (UTC)
+
+I agree that India needs to be added to the article. People in India (Hindus at least; I don't know about the Muslim population) drink milk and eat milk products as a staple part of their diet and an important source of protein.  This should be noted in the History of Genetic Prevalence section.  I am making a brief addition to the sentence &quot;Whatever the precise origin in time and place, most modern Northern Europeans and people of European ancestry show the effects of this mutation (that is, they are able to safely consume milk products all their lives)...&quot;, but the article would also benefit from a paragraph about India.  That is, did the mutation travel from Europe to India, or vice versa, or is it perhaps an independent mutation? Many Indian languages are related to European languages -- that is, the Indo-European language family includes most European languages and about half of all Indian languages.  The mutation for lactase persistence may have travelled along with the ancestral languages, whichever way the migration went (probably from India to Europe). [[User:VictoriaWordNerd|VictoriaWordNerd]] ([[User talk:VictoriaWordNerd|talk]]) 00:35, 16 August 2009 (UTC)
+ 
+Actually I think the migration(s) went both ways, both east and west, the posited ancient Indo-European homeland is thought to have existed somewhere in what is now southern Russia.  There is of course still considerable debate on the issue, what is certain is that European and Indian populations share a common heritage, but neither was derived from the other.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/99.190.90.241|99.190.90.241]] ([[User talk:99.190.90.241|talk]]) 00:45, 14 July 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== A glass of milk per day? ==
+
+I just want to add my personal thoughts on this article's statement that &quot;Lactose-intolerant adults can drink about 250 ml (8 oz) of milk per day without severe symptoms (McGee 2004) (Swagerty et al. 2002).&quot;  I am a lactose-intolerant adult, and if I tried to drink even ''one'' glass of milk, I would pay for it.  And believe me, I love the taste of dairy products.  If I could &quot;cheat&quot; with impunity I would be eating ice cream and pizza on a regular basis.  Perhaps I have a more severe form of lactose intolerance than the average afflicted adult, but I think that most people who can consume dairy products in moderation don't self-identify as lactose intolerant.
+
+[[User:70.181.11.107|70.181.11.107]] 02:13, 27 August 2006 (UTC)
+
+:Well, it's an average, not a firm rule. And are you sure you don't have a milk allergy? &amp;mdash;[[User:Bunchofgrapes|Bunchofgrapes]]  ([[User talk:Bunchofgrapes|talk]]) 02:18, 27 August 2006 (UTC)
+
+::I find this seemingly inaccurate as well.  I am lactose intolerant, and if I drink half a cup of milk, I get severe abdominable pains and bloating, followed up by a nice case of diarrhea.  That statement is entirely too misleading, even if it is an &quot;average.&quot; -- [[User:Punchinelli|Punchinelli]] 16:55, 31 October 2006 (UTC)
+
+:::So find a good source. Wikipedia is about sourced information, not personal anecdotes. &amp;mdash;[[User:Bunchofgrapes|Bunchofgrapes]]  ([[User talk:Bunchofgrapes|talk]]) 17:54, 31 October 2006 (UTC)
+::::Just because something is sourced, doesn't mean it belongs on Wikipedia.  If Wikipedia misleads the readers, it isn't fulfilling its purpose.  This statement about drinking milk without severe symptoms is misleading, despite the sourced reference.  It makes the statement very concretely, TOO concretely.  Perhaps change the sentence around to something alone the lines of, &quot;Some sources say adults can drink about 250 ml of milk per day without severe symptoms.  The degree of lactose intolerance varies per adult; some cannot ingest any milk at all, else severe symptoms will occur.&quot;  Check out this link: http://digestive.niddk.nih.gov/ddiseases/pubs/lactoseintolerance/
+
+::::&quot;Most older children and adults do not have to avoid lactose completely, but people differ in the amounts and types of foods they can handle. For example, one person may have symptoms after drinking a small glass of milk, while another can drink one glass but not two. Others may be able to manage ice cream and aged cheeses, such as cheddar and Swiss, but not other dairy products. People can also tolerate more lactose by having smaller amounts of it at one time. The level of dietary control needed with lactose intolerance depends on how much lactose a person’s body can handle.&quot;
+
+::::This is a much less concrete statement.  The statement &quot;Lactose-intolerant adults can drink about 250 ml (8 oz) of milk per day without severe symptoms&quot; is misleading, despite the source.  Please give feedback on whether or not this should be altered.  Thanks! -- [[User:Punchinelli|Punchinelli]] 13:54, 1 November 2006 (UTC)
+
+:::::I don't think it is misleading if it is based on an average statistic (is it?), if so it could be improved by saying “the average Lactose-intolerant adults…”. I don't have a problem with the quotes above being used to model a rephrase, just a long as the quotes are not copied verbatim off another page.&quot;--[[User:BerserkerBen|BerserkerBen]] 18:28, 1 November 2006 (UTC)
+::::::I'd agree to that.  At least put in &quot;the average&quot; or &quot;most&quot; or &quot;some&quot; before the sentence starts.  Whoever wants to change it, run with it.  Else I will later today. -- [[User:Punchinelli|Punchinelli]] 18:37, 1 November 2006 (UTC)
+::::::I just checked the Swagerty sourcing, and it says, &quot;The degree of lactose malabsorption varies greatly among patients with lactose intolerance, but most of them can ingest up to 12 oz of milk daily without symptoms. &quot;  I'm therefore changing the sentence in the first paragraph of this article to say &quot;Most.&quot; -- [[User:Punchinelli|Punchinelli]] 20:47, 1 November 2006 (UTC)
+::::::Perfect. &amp;mdash;[[User:Bunchofgrapes|Bunchofgrapes]]  ([[User talk:Bunchofgrapes|talk]]) 21:11, 1 November 2006 (UTC)
+
+If you look at the sources, what they really indicate is that a single adult lifetime dose of 200 ml of milk won't cause major symptoms in most lactase impersistent adults.  Well, duh!  If you're lactose intolerant and never drink milk, there's a good chance all the intestinal bacteria which digest lactose will die off and not be present.  Then if you drink one glass of milk, the lactose has a good chance of passing entirely through the digestive system without incident.  I know from personal experience, though, that if a lactose intolerant adult tries this on a regular basis, the lactose digesting bacteria will soon be back and you'll be back to having symptoms from as little as a tablespoon of milk.  Unfortunately, the dairy industry has a lot more money to fund studies than we do.[[User:Warren Dew|Warren Dew]] ([[User talk:Warren Dew|talk]]) 19:53, 18 July 2008 (UTC)
+
+== inconsistency with regards to sub-saharan africa ==
+
+We say:
+:''most modern East Asians, sub-Saharan Africans and native peoples of the Americas and Pacific Islands do not [show the effects of the lactase-persistance mutation]''
+But the map we display right below, whose data is attributed to a 1972 Scientific American article, shows that it's only the southern third or so of Africa (the southern half of sub-saharan Africa) where &quot;most&quot; people are lactose-intolerant, while the middle third (the northern half of sub-saharan Africa, e.g. Nigeria, Ghana, Cameroon) seems to have populations who are mostly lactose-tolerant.  We also say that some scientists think there was an independent more recent mutation in East Africa.  Are there additional (maybe more recent) sources with better data we can cite to clear this up? --[[User:Delirium|Delirium]] 06:20, 23 September 2006 (UTC)
+::I put a link in to a University of Alabama Professor's lecture slides with a similar map. I also included a lot more data from other sources.--[[User:Filll|Filll]] 22:34, 14 December 2006 (UTC)
+
+== LATEST AAP REPORT ON LACTOSE INTOLERANCE ==
+Thank you Thirdy
+Jim James
+Beijing
+
+I wish to inform everybody that the American Academy of Pediatrics have just published its latest clinical report &quot;Lactose Intolerance in Infants, Children, and Adolescents&quot; in the September 2006 issue of its peer-reviewed and scientific journal, Pediatrics.
+
+You may read thru the full text of the report at http://pediatrics.aappublications.org/cgi/content/full/118/3/1279 or download the free PDF document version.
+
+I hope all of you can find some level of satisfaction.  Please read the article carefully.  THIRDY
+
+== The Map ==
+
+I would remove this map, because it's ridiculously uninformative. Of all continents, only in Africa there is more than three countries not classified as &quot;no data&quot;, and the footer says: &quot;African countries are only a rough guess&quot;. So, there are only '''six countries''' in the whole world, for which the map has any sense! --[[User:Grzes|Grzes]] 14:00, 24 October 2006 (UTC)
+
+:Yeah, it could do with more data! For example, I'd be very interested to see data on India, Pakistan, Israel, may be some Roma communities too. [[User:Futurix|Futurix]] 12:33, 20 November 2006 (UTC)
+::It is just a start. I put a link to another map in the outside links and I put a lot more data that can be plotted on our map.--[[User:Filll|Filll]] 22:35, 14 December 2006 (UTC)
+:::I updated the map, still is filling in countries based on vague information, caption probably should say &quot;most countries are a rough guess&quot;, but I think it is better.  [[User:Kmusser|Kmusser]] 02:14, 25 January 2007 (UTC)
+
+::::I completely agree with this opinion and would even say that in some cases this map is highly misleading. Just seeing the percentages shown for Argentina, Chile and Uruguay (all countries with a great majority of European descent) their high levels of lactose intolerance are in complete disagreement with the text. &lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[Special:Contributions/193.145.230.2|193.145.230.2]] ([[User talk:193.145.230.2|talk]]) 12:29, 22 February 2007 (UTC).&lt;/small&gt;&lt;!-- HagermanBot Auto-Unsigned --&gt;
+The map is a work in progress, and as we collect more data, it can become more accurate. If you dislike the paucity of data in our map, I would humbly suggest  that you help us find more well-sourced data! There is a lot on the internet, and I have tracked down about 2/3 of the current data listed in our table. I am sure I have not exhausted what exists on this topic, however, and a lot more could be done. I just temporarily ran out of energy for this enterprise. Another difficult arises when there are different populations in an area with widely different rates of lactose intolerance. For example, many indigenous populations have very different rates of lactose intolerance than immigrants, especially from Europe. So the Ainu and the Japanese exhibit different rates of lactose intolerance. Native Americans and European Americans have different rates of lactose intolerance, and so on. Perhaps we can consider a different type of display, such as two maps; one for indigenous populations and one for immigrant populations. I am not sure. Suggestions are welcome.--[[User:Filll|Filll]] 19:09, 22 February 2007 (UTC)
+
+This map seems to me especially problematic for Africa.  According to the article lactose tolerance developed independently in Europe and East Africa and yet all three East African countries (Kenya, Tanzania, and Uganda) are shaded in the &quot;91%-100% intolerant&quot; colour.  Also, a slew of countries in West and Central Africa are apparently mostly lactose tolerant despite the article stating that Sub-Saharan Africans are generally lactose intolerant.  The only   reasoning I could find in the article for this was that these countries all seem to be in the geographical distribution of the Fulani people, who, according to the article, are mostly lactose tolerant.  But the Fulani are an ethnic minority in these countries, so their rate of lactose tolerance would not be indicative of the rate of lactose tolerance in the general population.  One other issue is that in South Africa nearly 20% of the population has at least some European ancestry (whites and coloureds), the majority of which is northern European.  And lactose tolerance being a &quot;dominant&quot; gene wouldn't that indicate that a person with full or partial northern European ancestry would most likely be lactose tolerant?  This would put the figures of lactose intolerance lower than &quot;91%-100%&quot;. In general I feel like if most of the African countries are just &quot;rough guesses&quot; than the information shouldn't really be there. [[User:Madritor|Madritor]] ([[User talk:Madritor|talk]]) 23:56, 21 March 2009 (UTC)
+
+== Lactase-enzyme medication ==
+
+[[Lactose intolerance#Lactase-enzyme_medication]] does not cite anything. All I can find when googling for lactase medication are fishy supplement vendors. Pubmed has (PMID 12712706 &amp; PMID 11906576) very little about the subject. Can someone find double-blind trials, stuff like that?
+
+--[[User:Stereo|Stereo]] 03:13, 7 November 2006 (UTC)
+
+:Since there are no references, I removed the section. -- [[User:Stereo|Stereo]] 04:21, 12 November 2006 (UTC)
+
+:: PMID 11906576 had a placebo arm in the study.
+:: There is also &quot;Physicochemical characteristics of commercial lactases relevant to their application in the alleviation of lactose intolerance&quot; PMID 16943638 ''&quot;suggesting that consumption of several capsules, as opposed to the usually recommended one or two, would be required&quot;'' as the enzyme is rapidly broken down by stomach pH and that this ''&quot;may in part explain the variability and often disappointing results previously reported for lactase-based clinical trials and will provide comparative baseline data against which candidate second-generation lactases may be assessed.&quot;''.
+:: Also see &quot;Management and treatment of lactose malabsorption&quot; PMID 16482616 which looks at approaches other than dairy exclusion. Use of lactase drops to pre-hydrolyse milk seems effective, but ''&quot;Solid lactase preparations, in capsules and tablets, are commercially available alternatives for enzyme-replacement therapy. Several studies have investigated and confirmed their efficacy [25-26]. However, comparative studies have shown that these preparations are more expensive and significantly less effective than prehydrolyzed milk probably due to the enzyme gastric inactivation [11, 17]. Their use can be suggested for solid dairy products&quot;''
+:: I think this is enough information to add the subject back in. That said no study looks at &quot;convenience&quot;, so as a Lactose intollerant person, whilst yes dairy avoiding or pre-hydrolysing milk works best, out in a restaurant with that lovely creamy sauce over a meal, the only option is to take the tablets at that time (even if the evidence shows that these are less effective - but then I only do this occasionally) [[User:Davidruben|David Ruben]] &lt;sup&gt; [[User talk:Davidruben|Talk]] &lt;/sup&gt; 01:01, 15 November 2006 (UTC)
+
+:::Thanks! I agree that the article now has enough references to put the part back. Perhaps it could be made clearer that lactase pills are no silver bullet. -- [[User:Stereo|Stereo]] &lt;sup&gt; ([[User talk:Stereo|talk]]) &lt;/sup&gt; 05:24, 16 November 2006 (UTC)
+
+:: As a lactose-intolerant person myself, I've found using lactaid tablets has totally changed things for me. I didn't know I was intolerant for the first 10 or so years suffering from it. But now that I do, taking 1 tablet with any dairy product I've never once had a problem, going on 4-5 years now. I find it weird that more isn't discussed about this in the main page. It's so convenient and successful. I use avoidance for milk (lactose-free milk) but tablets for ice cream and whatever else. For me at least, totally effective. [[User:Jonathan Roy|Jonathan Roy]] 20:58, 15 December 2006 (UTC)
+
+== Map needed ==
+
+We need an updated version of our map, now that we have more data. One of the references also shows a map to compare with, from the lecture of a Professor at University of Alabama. --[[User:Filll|Filll]] 02:39, 15 December 2006 (UTC)
+
+==More references==
+SHIBUYA, S., F. YAMASHITA, T. FUNATSU, Fr AL.
+Lactose intolerance in Japanese children. Advan.
+Med. (Japan.) 72: 323, 1970.
+
+
+
+*[http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=3857498]
+The relative frequency of acquired primary hypolactasia has been determined in adult Maoris, Samoans and Europeans by measuring an alteration in breath hydrogen concentration two hours after a 50 g oral lactose load. By this indirect measurement hypolactasia was present in 64% of Maoris, 54% of Samoans and 9% of Europeans. The differences between Maoris and Europeans (p less than 0.001) and between Samoans and Europeans (p less than 0.001) were significant.
+
+
+*[http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1247927]
+Lactose malabsorption was studied by a breath hydrogen technique in 139 Samoan and 68 white schoolchildren. The Samoans were studied in four locations, two in Western Samoa and two in New Zealand, and the white children in both the Cook Islands and New Zealand. The prevalence of malabsorption varied with location: for Samoans it ranged from 41% to 60% in Western Samoa and 0% to 35% in New Zealand; white children had rates of 27% in the Cook Islands and 5% in New Zealand. Environmental factors rather than genetic factors are likely to play the main part in initiating if not perpetuating lactose malabsorption. In both races lactose malabsorption had no effect on the acceptance of, consumption of, and number of gastrointestinal symptoms caused by milk and milk biscuits. Children who had symptoms after consuming a particular dairy product were more likely to say they disliked it than those who reported no symptoms.
+*[http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=475426]
+The breath hydrogen test (BHT) was adapted for use in young infants and children. The diagnostic criterion of sugar malabsorption in the BHT was determined by oral administration of 0.5 g/kg of unabsorbable sugar (lactulose) to 21 healthy infants and children. A maximum increase in breath hydrogen less than 0.05 ml/min per m2 was observed in all subjects. A good correlation between results by the BHT and by the ordinary lactose tolerance test was obtained after oral administration of 2 g/kg lactose to 21 healthy infants and children, 2 congenital lactase-deficient infants, and 7 adults. Using this test, 80 healthy Japanese infants and children (aged between one month and 15 years) and 18 adults were examined for lactose malabsorption after a dose of 1 g/kg lactose. All infants and children under 2-years old absorbed lactose completely. The incidence of lactose malabsorption was 30% in 3-year, 36% in 4-year, 58% in 5-year, and 86% in 6-year-old children, 85% in schoolchildren, and 89% in adults. Thus the incidence of lactase deficiency gradually increases with age from 3 years, and about 90% of all normal Japanese adults are lactase-deficient.
+
+
+
+
+
+*[http://www.mgwater.com/gacontro.shtml]
+1. Alzante, H. Gonzalez, H. and Guzman, J. “Lactose intolerance in South American Indians.” Am. J. Clin. Nutr. 22: 122, (1969). 
+
+2. Amiot, D., Hioco, D. and Durlach, J. “Frequence du deficit magnesique chez le sujet et dans diverses osteopathies.” J. Med. Besancon 5:371-378, (1969). 
+
+3. Aurbach, GD., Marx, S.J. and Spiegel, AM. ”Parathyroid Hormone, Calcitonin, and Calciferols.” In textbook of Endocrinology, Williams, RH. (Ed), Saunders Co., 922-1032, (1981). 
+
+4. Aviolo, LV. “Postmenopausal osteoporosis: prevention versus cure.” Fed. Proc. 40: 2418, (1981). 
+
+5. Briscoe, A.M. and Ragen, C. “Relation of magnesium on calcium metabolism in man.” Am. J. Clin. Nutr. 19: 296-306, (1966). 
+
+6. Bryan, W.T.K. and Bryan, M.P. ”Cytotoxic Reactions in the Diagnosis of Food Allergy.” Otol. N. Am. 4: 523-533, (1971). 
+
+7. Bygrave, F.L. “Cellular Calcium and Magnesium Metabolism.” In An Introduction to Bio-inorganic Chemistry. Williams, D. R. (Ed) Thomas, 171-184, (1976). 
+
+8. Cook. G.C. and Kajubi, SK. “Tribal incidence of lactase deficiency in Uganda.” Lancet l: 725, (1966). 
+
+9. Davidson, S., Passmore. R., Brock, J.F. and Truswell, AS. “Human Nutrition and Dietetics.” Churchill Livingstone, 166-175, (1979). 
+
+10. Davidson, S., Passmore, R., Brock, J.F. and Truswell, A.S. “Human Nutrition and Dietetics.” Churchill Livingstone, 90-106. (1979). 
+
+11. Draper, H.H. and Scythes, C.A. ”Calcium, phosphorous, and osteoporosis.” Fe. Proc. 40: 2434, (1984). 
+
+12. DuRuisseau, J.P. and Marineau, J.M. “Osteoporose medication calcique et magnesienne,” See Int’l Sympos on Magnesium, 223-226, (1971/1973). 
+
+13. Gilat, T., et. al. “Lactase deficiency in Jewish communities in Israel.” Am J. Digest. Dis. 16:203, (1971). 
+
+14. Gilat. T., et. al “Lactose intolerance in an Arab population.” Am. J. Digest. Dis. 16:203, (1977) 
+
+15. Gudmand-hoyer, and F., Jarnum, S. “Lactose malabsorption in Greenland Eskimos.” Acta Med. Scand. 186:235, (1969). 
+
+16. Holick, M.F. and Clark, MB. “The photobiogenesis and metabolism of Vitamin D.” Fed. Proc. 37: 2567-2574, (1978). 
+
+17. Huang, S.S. and Bayless, T.M. “Milk and lactose intolerance in healthy orientals.” Science 160: 83, (1968). 
+
+18. Johnson, J.D., et. al. “Lactose malabsorption among the Pima Indians of Arizona.” Gastroenterology 73: 985, (1977). 
+
+19. Kretchmer, N., et.al. “Intestinal absorption of lactose in Nigerian ethnic groups.” Lancet 2: 392, (l971). 
+
+20. Larkins, R.G., McAuley, S.J., Colston, K.W., Evans, I.M.A., Galante, L.S. and Macintyre, I. “Regulation of Vitamin D. Metabolism without Parathyroid Hormone.” Lancet: 289-291, (1973). 
+
+21. Linkswiler, H.M., Zemel, M.B., Hegsted, M., and Schuette, S. “Protein-induced hypercalciuria.” Fed. Proc. 40:2429, (1981). 
+
+22. MacIntyre, I. “Vitamin D and the integration of Calcium Regulating Hormones.” In First European Symposium on hormones and Cell Regulation. Dumont, J. and Nunez. J. (Ed) North Holland, 195-208, (1977). 
+
+23. Nasrallah, SM. “Lactose intolerance in the Lebanese population and in ‘Mediterranean lymphoma’.” Am. J. Clin. Nutr. 32:1994-1996, (1979). 
+
+24. Newcomer, AD., et. al. “Family studies of lactose deficiency in the American Indian.” Gastroenterology 73; 1299, (1977). 
+
+25. Parlier. R., Hioco, D. and LeBlanc, R. “Les troubles du metacolisme magnesien. Symptomes et traitment des carences et des plethores magnesiennes.” Rev. Franc. Endocr. Clin. 4: 335-339, (1963). 
+
+26. Rude, R.K., Bethune, J.E. and Singer, F.R. “Renal tubular maximum for magnesium in normal, hyperparathyroid and hypoparathyroid man.” J. Clin. Endocrinol. Metab. 51: 1425-1431, (1980). 
+
+27. Schrier, R.W. and Leaf, A. “Effect of Hormones on Water, Sodium, Chloride, and Potassium Metabolism.” In Textbook of Endocrinology, Williams RH. (Ed) Saunders Co., 1032- 
+
+28. Seelig, MS. “Magnesium Deficiency in the Pathogenesis of Disease.” Plenum Medical Book Company, 3 17-321, (1980). 
+
+29. Seeman, E. and Riggs, B.L. “Dietary prevention of bone loss in the elderly.” Geriatrics 36:71-79, (1981). 
+
+30. Senewiratne, B., et. al. “Intestinal lactase deficiency in Ceylon (Sri Lanka).” Gastroenterology 72:1257, (1977). 
+
+31. Shibuya, S. et. al. “Lactose intolerance in Japanese children.” Advan. Med (Japan). 72:323, (1970). 
+--[[User:Filll|Filll]] 02:45, 15 December 2006 (UTC)
+
+== lactose-free US availability/soy alternatives ==
+
+I'm a bit puzzled by:
+
+&lt;blockquote&gt;&quot;In America over recent years (1990–2000) there has been a notable increase of available lactose-reduced and lactose-free dairy products; examples being cottage cheese, American cheese and ice cream.&quot;&lt;/blockquote&gt;
+
+I just haven't found this to be true.  I'll agree that there has been a notable increase of lactose-free dairy products.  I can get lactose-free milk and at this time of year eggnog everywhere, and I'm not limited in choice either.  I can get fatfree, 1%, 2&amp; or regular milk, and there are multiple companies.  I also know that there is lactose free cheese and ice-cream carried at some specialty places though soy is much more common.  There are a few products which utilize lactose free products--there is a frozen mac and cheese which is lactose free.  But I've never seen lactose free cottage cheese, or anything else really.  And the only thing that I can get with ease is milk and eggnog.  Cheese and ice cream are harder to find.
+
+I can get almost everything soy--soy ice cream, sour cream, cream cheese, milk, eggnog, yoghurts and cheeses of every variety, everything.  And while having a soy alternative for every product in existence is nice, it's not the same as having lactose free milk products.  I'm really confused by this article saying that there has been a resurgence starting 16, or well now 17 years ago, that includes products I simply can't find 17 years later  '''[[User:TStein|TStein]] 10:39, 1 January 2007 (UTC)'''
+
+== Lactose intolerance among Masai ==
+
+I remember reading about how the Masai, even though they exhibit certain features of lactose intolerance by western tests, still can consume milk without ill effects. So there is some confusion about what lactose intolerance really means and what the tests are measuring. There is some other processes involved here. Anyone know anything about this?--[[User:Filll|Filll]] 23:42, 6 January 2007 (UTC)
+
+== Allele frequency N/A?? ==
+I do not understand why most of the table listing frequency of lactose intolerance in the column &quot;Allele frequency&quot; says &quot;N/A&quot;? Since the gene is recessive the allele frequency should be equal to the square root of the frequency of the population that is lactose intolerant. &lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[Special:Contributions/140.180.136.145|140.180.136.145]] ([[User talk:140.180.136.145|talk]]) 15:43, 19 February 2007 (UTC).&lt;/small&gt;&lt;!-- HagermanBot Auto-Unsigned --&gt;
+
+== ACCLIMATING THE BODY TO DAIRY PRODUCTS ==
+
+THANKS FOR THE LACTOSE CURE. I ALWAYS GO TO WIKIPEDIA FOR CURE CUZ ER1 IN THE WORLD DONT KNOW. I HAD HICCUPS BEFORE N WIKIPEDIA CURED ME SO KEEP UP THE GOOD WORK. ALSO I GOT LACTOSE INTOLERANT CUZ I WAS DRINKING MILK ERDAY THEN STOPPED FOR A MONTH N SOMIN FUCKED UP &lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[Special:Contributions/68.195.132.253|68.195.132.253]] ([[User talk:68.195.132.253|talk]]) 04:54, 23 February 2007 (UTC).&lt;/small&gt;&lt;!-- HagermanBot Auto-Unsigned --&gt;
+
+== South America in the map ==
+
+Although one source says that up to 75% of South Americans are intolerant, this shouldn't be taken as uniform for every South American country. I don't think that Bolivia, for example, with 75% of native population has the same percentage of Argentina, which is 97% white according to the CIA World Factbook. If the figure is taken as unique for all South America, then the national borders should be deleted from the map. Also, Tierra del Fuego is part of South America.--[[User:Cloviz|cloviz]] 14:23, 23 February 2007 (UTC)
+:Of course. So go find us more data and sources.--[[User:Filll|Filll]] 15:01, 23 February 2007 (UTC)
+::Wrong information cannot always be replaced; sometimes it has to be deleted. It is much better to say nothing rather than wrong information; don't you think? I just know the map is wrong because it suggests that the percentages are uniform through South America. If you have data of a heterogeneous region as a whole, it's obvious that the map should display the region as one thing; not as if the data were correct for each country alone. And I don’t know how to edit one of these maps. By the way, nowhere it says that a person must have sources to raise a comment here.--[[User:Cloviz|cloviz]] 01:11, 24 February 2007 (UTC)
+Of course you are free to write it here. But this all takes work. And if you volunteer to do the work, then it would be appreciated.--[[User:Filll|Filll]] 01:31, 24 February 2007 (UTC)
+:I tried to find data on the prevalence of lactose intolerance by country, in order to make the map more accurate; but I didn't find any, and now I think that the map should be removed. The data on the article is obviously too scarce and irregular to make a map. Some of the information is about countries, some about regions, and some about ethnic groups; thus, the map is incapable of providing a reliable means of comparison, which is its purpose. It also seems to imply that lactose intolerance has something to do with political division: why does the Democratic Republic of the Congo have a prevalence of 11-20%, while their (also mainly Bantu) neighbors have 81-90%? What's that mysterious line that abruptly divides France in 11-20% and 61-70%? How comes there is such a sharp, marked difference in the middle of France, while all South America (a very heterogeneous region) has uniform percentages? I don’t want to offend the person that made the map; it’s a very good attempt. I just think it’s not precise enough to be shown in an encyclopedia yet...--[[User:Cloviz|cloviz]] 01:45, 4 March 2007 (UTC)
+
+== Lactose maldigestion ==
+
+A book I was reading for a nutrition course mentions &quot;Lactose maldigestion&quot; but I do not see it here.
+&lt;br /&gt;
+Gordon and Smith (2006) state the following about primary and secondary lactose maldigestion:&lt;br /&gt;
+&quot;Primary lactose maldigestion
+occurs when production of the enzyme
+lactase declines for no apparent reason.
+Secondary lactose maldigestion occurs when
+a specific cause, such as long-standing
+diarrhea, results in a decline in lactase
+production. When significant symptoms
+develop after lactose intake, it is then called
+lactose intolerance&quot; (p. 138).&lt;br /&gt;
+
+Wardlaw, Gordon M., &amp; Smith, Anne M. (2006). Contemporary Nutrition : Issues and Insights (6th ed.). New York: McGraw-Hill.
+ISBN 0–07–250185–5&lt;br /&gt;
+[[User:Tortellini|Hi, I&amp;#39;m new at this, I&amp;#39;m sorry. Have a nice day :) Tortellini]] 05:12, 16 March 2007 (UTC)
+
+== Intolerance varies ==
+It seems that we know that most humans have some level of lactose intolerance.  And we know that among those humans, the level of lactose tolerance varies.  ***  It may be useful to give a definition of a threshold level, to separate out tolerance from intolerance, at least for medical purposes, if doctors have set one.  And it might even be of a little use to give an idea of how much lactose an &quot;average&quot; intolerant person can tolerate.  But the main thrust should be to give a clear concept of the great range of tolerance among the intolerant. -[[User:69.87.204.193|69.87.204.193]] 21:04, 19 March 2007 (UTC)
+
+== Food helps digest Milk? ==
+It seems like I can take milk with oatmeal in the morning with no problems.  But milk or ice cream in the evening lead to &quot;intestinal distress&quot;.  Maybe just because the milk with the oatmeal is a small amount.  But maybe milk with food is less of a problem than milk alone? -[[User:69.87.204.193|69.87.204.193]] 21:04, 19 March 2007 (UTC)
+
+== Request for Comment: Platform for original research? ==
+:''Note: this dispute has been concluded with the removal of the offending text (see below). &lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:Sagie|Sagie]] ([[User talk:Sagie|talk]] • [[Special:Contributions/Sagie|contribs]]) 16:18, 13 May 2007 (UTC).&lt;/small&gt;&lt;!-- HagermanBot Auto-Unsigned --&gt;
+
+This is a dispute about whether this article (and possibly other articles) are may be used as a platform for original research for the sake of being &quot;helpful to people needing to reduce their symptoms&quot;, as put by the contributor of the sections containing the original research. 18:40, 22 April 2007 (UTC)
+; Text under dispute
+The user [[User:Tallard|Tallard]] has contributed two paragraphs to the article, whose current content is as follows:
+:Because lactose is a common commercial food additive (it is used for texture, flavor and its adhesive qualities), it is important for lactose intolerant people to be especially careful in avoiding products that whilst not apparently dairy (or are dairy but normally contain low amounts of lactose) nonetheless contain lactose. Such products include commercial [[sausage]]s (notably frankfurters), medications which may contain lactose as a filler, most meal replacement powders and protein bars, cottage cheese, many &quot;granola&quot; style cereals, pancakes, crepes, custards, 90% of margarines (added for texture), 70% of flavored potato/corn chips (added as an adhesive for the spices), most frozen meals, &quot;double wrapped&quot; sliced bread, some dried fruit, even yogurts containing [[carageenan]] or [[gelatin]], at the other end, full fat yogurts are nearly lactose free.
+:It is of great use to understand that because lactose is a water soluble molecule, milk based dairy products have more lactose than cream based dairy products: full ice creams, real camembert, real brie, full fat sour cream, full fat yogurts, butter, etc contain little to no lactose.  Conversely &quot;low fat&quot; and &quot;diet&quot; dairy products are rife with lactose, especially products like &quot;I can't believe it's not butter&quot;, which is mostly buttermilk, is very high in lactose! The upside of it is that the partially tolerant amongst us can still eat the most interesting dairy foods, i.e. butter and whipped cream, as long as it's not the diet version! The word &quot;skim milk&quot; on any ingredient list should be avoided at all costs. Since lactose is a sugar, you can get an indication of the lactose content of any dairy product by checking the nutritional analysis.  For many butters and cheeses, the sugar content is zero or less than 0.1%, showing that they must either be free of lactose or contain only a negligible amount.
+
+; Statements by editors previously involved in dispute
+* Please see correspondence in [[User_talk:Sagie#Lactose Intolerance]] and [[User_talk:Tallard#Your_contribution_to_.5B.5BLactose_intolerance.5D.5D]].
+
+; Comments
+* The argument of user [[User:Sagie|Sagie]] is that these paragraphs is in clear defiance of Wikipedia's policies plainly presented in [[WP:V|Verifiability]] and [[Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_publisher_of_original_thought]].
+:The contributing user [[User:Tallard|Tallard]] has contributed original research (verified as original research by himself/herself, see [[User_talk:Sagie#Lactose Intolerance|here]]) and claims that his contribution need not comply to the aformentioned policies due to:
+::# lack of research in this topic (as claimed by the user).
+::# the fact that his contribution's &quot;only purpose is to be helpful to people needing to reduce their symptoms&quot;
+:As it stands the section has a huge problem with [[Wikipedia:Medical disclaimer]] in that it's trying to help people diagnose a medical condition.  Nuts to the OR or SYNTH or whatever problems, the editor is exposing himself and Wikipedia to serious legal liability - it needs to be fixed.  Badly.  [[User:WilyD|WilyD]] 19:27, 22 April 2007 (UTC)
+
+*I agree that the content should only be included if it is verifiable and backed up with sources. If it is as it stands above then it is unverifiable and leaning on [[WP:OR|original research]]. Wikipedia is not an advisor for people with medical conditions, nor is it a publisher of original thought due to the lack of external published research on a subject.-[[User:Localzuk|Localzuk]]&lt;sup&gt;[[User talk:Localzuk|(talk)]]&lt;/sup&gt; 18:55, 22 April 2007 (UTC)
+
+*As others have said, this definitely needs to be backed up by reliable sources and rewritten in an encyclopedic tone.  I'd be inclined to leave much of this out, due to the legal/moral/etc hazards of providing original-research medical advice, until it's appropriately changed and sourced, except for the important point that lactose is used as an ingredient in things which aren't dairy products per se.  This should be a simple thing to find appropriate sources for (if nothing else, product labels provide a [[WP:NOR|primary source]]), and is a fairly vital point to have in an article about lactose intolerance, as it doesn't tend to occur to people that they may be ingesting lactose in, for example, their allergy medicine. [[User:Pinball22|Pinball22]] 20:57, 26 April 2007 (UTC)
+
+*[[WP:NOT#IINFO|Official policy]] also says &quot;Wikipedia articles should not include instructions or advice (legal, medical, or otherwise)&quot;&amp;nbsp;—&amp;nbsp;[[User:Demong|Demong]] &lt;sup&gt;[[User_talk:Demong|talk]]&lt;/sup&gt; 20:37, 27 April 2007 (UTC)
+::Right... if it wasn't clear, I was agreeing with the fact that the section as it stands is in violation of that -- the one thing I think is worth keeping I want to see in the form of a fact, something like &quot;non-dairy foods and medicines often contain lactose as an ingredient&quot;. [[User:Pinball22|Pinball22]] 21:04, 27 April 2007 (UTC)
+
+:::Erm, yeah, sorry... I was just pointing to the piece of policy that unambiguously opposes content that is &quot;helpful to people needing to reduce their symptoms&quot; (that is, the advice would be unencyclopedic/inappropriate even if it wasn't OR).  And it wasn't meant as a direct reply to your comment (I agree completely that relevant, useful, cited facts should be included).  Mind if I reformat a bit?&amp;nbsp;—&amp;nbsp;[[User:Demong|Demong]] &lt;sup&gt;[[User_talk:Demong|talk]]&lt;/sup&gt; 21:42, 27 April 2007 (UTC)
+::::Sure, reformat away. :) [[User:Pinball22|Pinball22]] 21:47, 27 April 2007 (UTC)
+:::::This passage as it currently stands is still not very good. Its source is still not cited--and frankly, I think the unprofessional tone and questionable content of the original contribution is enough not to give the remaining information any benefit of doubt. Even the remaining material, in fact, belies its irrelevance to the topic at hand with its talk of milk allergies. As the responsible portions of this article make clear, lactose intolerance is akin to the discomfort from foods like [[beano|beans]]; most patients can consume a serving of milk per day with other foods, and ''none'' have to go about exercising the kind of caution appropriate to food allergies or celiac disease--worrying about &quot;negligible dairy residues&quot; remaining on processing equipment after cleaning, and so forth.
+:::::Even if this weren't the case, in fact, the passage is nakedly nonsensical. One portion is centered entirely around slamming &quot;diet&quot; foods for being &quot;rife&quot; with lactose; basing itself apparently on the obvious truth that a low-fat version of a food will be slightly higher in lactose than its full-fat counterpart, it bizarrely extends this into a cross-category comparison that assures readers that e.g. &quot;full-fat ice cream&quot; and whipped cream, completely unprocessed foods that are made from skim milk with a little added butterfat and sugar, contain &quot;little or no lactose,&quot; whereas margarine is &quot;very high in lactose,&quot; hard cheeses are to be avoided if they're low-fat, and merely seeking skim milk on the ingredient list is enough to &quot;avoid it at all costs!&quot;
+:::::In the absense of any objection, I plan to delete everything in that section from the last citation (5) on. As I've said, the whole contribution is so pervasively corrupt that no portion deserves the benefit of the doubt without citation. &lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[Special:Contributions/209.59.32.198|209.59.32.198]] ([[User talk:209.59.32.198|talk]]) 20:45, 6 May 2007 (UTC).&lt;/small&gt;&lt;!-- HagermanBot Auto-Unsigned --&gt;
+* I can't see any justification for relaxing the standards of verifiability in this article, no matter how passionate any of the editors may be. Wikipedia policies, standards, and guidelines should be followed in this article as much as any other. [[User:SheffieldSteel|SheffieldSteel]] 21:53, 9 May 2007 (UTC)
+
+; Removal of offending material
+* As there appears to be a concensus in this subject (excluding the contributor of the offending material), I have accodingly removed the offending text. --[[User:Sagie|Sagie]] 16:11, 13 May 2007 (UTC)
+
+== Digestive Advantage for Lactose Intolerance ==
+
+I became lactose intolerant almost a year ago. I started taking these once-daily pills that have been working great ever since. It's call [http://ganedenbiotech.com/prod_adult_li.html Digestive Advantage for Lactose Intolerance]. Shouldn't this be mentioned in the article? Are there any similar products? [[User:Feedmecereal|Danny]] 18:52, 22 April 2007 (UTC)
+:It should only be mentioned in a netural fashion such as 'There are several products available which aim to reduce the symptoms of lactose intolerance' with a couple of references to said products. Don't mention them by name as that is not really the purpose of Wikipedia.-[[User:Localzuk|Localzuk]]&lt;sup&gt;[[User talk:Localzuk|(talk)]]&lt;/sup&gt; 18:57, 22 April 2007 (UTC)
+the drugs used to avoid the symptoms of lactose intolerance contain an enzyme that digests the lactose for the patient (lactose intolerant patients are missing this enzyme (lactase))
+
+== Recent edits ==
+
+I apologize for mucking up the edit history with repeated edits; I'm quite new at this. Nearly all the edits were corrections of a word or two from what I'd added previously; the more substantial portions are pretty much cleanups and additions of uncontroversial information. I hope anyone trying to follow them won't be too angry that I haven't made it as easy as I should. &lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[Special:Contributions/205.212.74.209|205.212.74.209]] ([[User talk:205.212.74.209|talk]]) 07:46, 15 May 2007 (UTC).&lt;/small&gt;&lt;!-- HagermanBot Auto-Unsigned --&gt;
+
+== lactose intolerance in Eatern Slavs  ==
+
+Frequency of lactose intolerance in Eastern Slavs is evaluated as 40-50% (but not 15%) according to measuring the blood glucose level after lactose ingestion and according to DNA analysis of population samples of Russians, Ukrainians, and Belorussians. 
+Frequency of lactose intolerance in indigenous peoples of Sibera is more than 90%.
+Valenkevich and his colleagues ([9] in table 'Lactose intolerance by group') used some unusual criteria of lactose intolerance diagnosis resulting in understated of intolerance and two or three fold lower frequency of intolerance.
+
+See  Borinskaya et al., Molecular diagnosis and frequencies of primary hypolactasia in populations of RUSSIA and neighboring countries]// Mol Biol (Mosk). 2006 Nov-Dec;40(6):1031-6 (in Russian).
+http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&amp;cmd=Retrieve&amp;dopt=AbstractPlus&amp;list_uids=17209431&amp;query_hl=8&amp;itool=pubmed_docsum
+
+The journal Molecular Biology is available online by http://springeronline.com/journal/11008
+ISSN (online): 1608-3245
+ 
+
+See also   Kozlov A., Lisitsyn D. History of dairy cattle-breeding and distribution of LAC*R and LAC*P alleles among European populations // In: C.Renfrew &amp; K.Boyle (Eds). Archaeogenetics: DNA and the population prehistory of Europe. — Cambridge:  McDonald Institute for archaeological Research,  2000, 309-313.
+
+[[User:213.141.131.93|213.141.131.93]] 08:37, 16 May 2007 (UTC)
+
+== USA-centric view of world ==
+
+&quot;Other dairy products, except butter and milk-protein supplements, are similarly rich in calcium and potassium; none, however, are normally fortified with vitamins A or D. Dairy substitutes, such as soy or rice, are not naturally rich in calcium, potassium, or vitamins A or D (and, like all nonanimal products, contain no vitamin B12). Prominent brands of these products, however, are often voluntarily fortified with many of these nutrients (this is typically advertised prominently on the packaging, since it is not required by law).....&quot;
+
+Someone seems to have forgotten that America is not the only country in the world. The details above would vary from country to country. I believe Wikipedia is being written for an international audience, not just a USA one.--&lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:{{{1}}}|{{{1}}}]] ([[User talk:{{{1}}}|talk]] • [[Special:Contributions/{{{1}}}|contribs]]) &lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt;
+
+:Look Wikipedia is replete with this kind of error and worse. And you know how to fix it? It is to get a user name and to edit the article accordingly.--[[User:Filll|Filll]] 14:57, 1 June 2007 (UTC)
+
+== Genetic disposition? ==
+
+The reference #2 (soynutrition.com link) does not support the preceding wikipedia statements about recessive genes.  In fact, the article states nothing about genetics.  Can anyone back up that information? [[User:Jwigton|Jwigton]] 04:50, 12 August 2007 (UTC)
+
+== Lactose levels in foods ==
+
+I think this list could do with being a little more extensive, such as the one found here: http://www.healthsystem.virginia.edu/internet/digestive-health/nutrition/lactosecontent.pdf
+Perhaps not all of them (does anybody really need to know the lactose content of 1/2 a cup of orange sherbert?).
+Also, perhaps it would be a good idea to do a little maths and use the same weight of each foodstuff for comparison (say per 100g).
+Anyway, I'm much too tired to do anything about it right now, but I'll check back in a few days. [[User:Lewyblue|Lewyblue]] 03:16, 8 October 2007 (UTC)
+
+:I think the opposite, lactose levels in any given general product vary according to brands, processing method and national health standards, and is therefore mostly unreliable. There are hundreds of brands of yogurt in the world and they all have VERY different levels of lactose in them.--[[User:Tallard|Tallard]] 02:01, 14 October 2007 (UTC)
+
+== Informal assessment ==
+Rcej, I am not arguing that Wikipedia should not give lay medical advice. Which is why I rewrote the paragraph to take any medical presumption out of it. Now it's strictly a food tolerance paragraph. But the fact is most doctors do not bother performing the above cited diagnostic tests on regular patients, they just say live with it or take supplements, because lactose intolerance is not considered a medical disease. So as long as this paragraph remains in the food realm there is not reproachable. Furthermore, this section used to be 4 paragraphs long. I perceive your Wikipedia philosophy may slant a little toward deletionist, but in this case I believe going from 4 paragraphs to 2 lines is perfectly suitable  for the article--[[User:Tallard|Tallard]] 01:12, 24 October 2007 (UTC)
+:Tallard, with sincere and mutual respect, I realize we're disagreeing on semantic article content... to a point. But looking at this article from the viewpoint of it being in an encyclopedia, this section reads acutely out of place. That's why I'm deleting it; to improve, not merely delete. But, if I may say, your defense of the section leans slightly subjective.  [[User:Rcej|Rcej]] 02:20, 24 October 2007 (UTC)
+
+::The fact is the three above mentioned diagnostic tools are '''not''' used on common patients, what '''is''' common is a simple informal assessment. So your insistence on deleting this approach demonstrates POV on your part, because you're stating only '''partial''' information, whereas showing the '''entire''' picture would be the «objective treatment» or NPOV--[[User:Tallard|Tallard]] 23:38, 24 October 2007 (UTC)
+
+:::Why haven't you pointed to a valid, professional opinion on '''your''' assertion that the ''informal assessment'' is common? Your insistence on keeping an advisory section that seemingly cannot be easily verified demonstrates POV as well. We can't all know that the '''entire''' picture includes &quot;drink this, and if you don't puke...&quot;. See what I mean? As is, that section is either too silly or possibly irresponsible to be included in an encyclopedia. Point us to something... then put it back. [[User:Rcej|Rcej]] 01:33, 25 October 2007 (UTC)
+
+== 'Curing' lactose intolerance ==
+This is, of course, anecdotal...I have apparently been cured of lactose intolerance though not in a great way. Last year I underwent a partial thyroidectomy (to remove a lump that suddenly appeared). During the course of healing I developed a severe [[Methicillin-resistant Staphylococcus aureus|MRSA]] infection which required strong antibiotics to treat. Those antibiotics killed a large amount of my normal intestinal bacteria and allowed [[c. difficile]] to proliferate, which was preventing me from properly digesting food. After a round of strong antibiotics to treat that, I have slowly worked my way up to apparently digesting dairy products which would previously cause me considerable discomfort without issue. Today I had pizza for lunch and lasagna for dinner (yeah, unhealthy, but it proves my point).
+
+Of course this is not a routine I would suggest to anyone. I only bring this up to see if anyone knows of similar events or studies of events that have caused a similar result in other people. If so, those studies (full cited) could perhaps be used here. --&lt;span style=&quot;background: #CCEECC;&quot;&gt;[[User:Kickstart70|Kickstart70]]&lt;/span&gt;-&lt;span style=&quot;background: #CCCCEE;&quot;&gt;[[User talk:Kickstart70|T]]&lt;/span&gt;-&lt;span style=&quot;background: #EECCEE;&quot;&gt;[[Special:Contributions/Kickstart70|C]]&lt;/span&gt; 02:58, 3 November 2007 (UTC)
+
+:Just to be clear on your wording, you were NOT CURED of lactose intolerance, you are still not producing lactase. The only difference is your bacterial profile is different. Also, you are NOT digesting the lactose, as you have no lactase, you are simply not experiencing the symptoms of lactase defficiency. Unless of course you were not lactose intolerant to begin with but only thought you were due to your chronic digestive problems...--[[User:Tallard|Tallard]] 06:32, 3 November 2007 (UTC)
+
+::Please don't edit my words to fit your viewpoint. And please provide medical details with citations on the difference between 'curing' and 'not experiencing any symptoms' in regard to lactose intolerance, if you are going to be so outraged by the concept. I was not claiming to have a 'cure', I was only relating my (anecdotal and clearly stated as such) case as an avenue for finding studies that may help in improving the article. Further, [[WP:CIVIL]]. --&lt;span style=&quot;background: #CCEECC;&quot;&gt;[[User:Kickstart70|Kickstart70]]&lt;/span&gt;-&lt;span style=&quot;background: #CCCCEE;&quot;&gt;[[User talk:Kickstart70|T]]&lt;/span&gt;-&lt;span style=&quot;background: #EECCEE;&quot;&gt;[[Special:Contributions/Kickstart70|C]]&lt;/span&gt; 23:03, 3 November 2007 (UTC)
+:::You are '''not''' cured, just because your body is cheating the symtoms!!! Symptoms of any situation are variable, using the word cure is to lie to readers, and lead readers down false roads. Along the same lines, when you have a cold, you can ''cheat the symptoms'' but but you wouldn't go around saying your cold was cured now would you? You therefore would do a service to the wiki community by correcting your own words.--[[User:Tallard|Tallard]] 19:24, 4 November 2007 (UTC)
+::::Discussion != article. I brought this up on the discussion page, NOT in the article. Further, lactose intolerance is not caused by a virus, so your analogy is intrinsically flawed. You haven't answered my question, and continue to act as if I've done something wrong. As well, you started out by editing my words on a discussion page, which is heavily frowned upon, and haven't acknowledged that rude behaviour. Why you assume anyone, including me, should pay any attention to your viewpoint at this stage is beyond me. --&lt;span style=&quot;background: #CCEECC;&quot;&gt;[[User:Kickstart70|Kickstart70]]&lt;/span&gt;-&lt;span style=&quot;background: #CCCCEE;&quot;&gt;[[User talk:Kickstart70|T]]&lt;/span&gt;-&lt;span style=&quot;background: #EECCEE;&quot;&gt;[[Special:Contributions/Kickstart70|C]]&lt;/span&gt; 20:21, 4 November 2007 (UTC)
+:::::Striking out is a very useful feature when words are incorrect. Your words were not removed, that would have been rude.--[[User:Tallard|Tallard]] 05:43, 5 November 2007 (UTC)
+::::::[http://en.wikipedia.org/wiki/Wikipedia:Talk_page_guidelines#Others.27_comments Making it absolutely clear for you] --&lt;span style=&quot;background: #CCEECC;&quot;&gt;[[User:Kickstart70|Kickstart70]]&lt;/span&gt;-&lt;span style=&quot;background: #CCCCEE;&quot;&gt;[[User talk:Kickstart70|T]]&lt;/span&gt;-&lt;span style=&quot;background: #EECCEE;&quot;&gt;[[Special:Contributions/Kickstart70|C]]&lt;/span&gt; 06:00, 5 November 2007 (UTC)
+:::::::You obviously missed this nice line in your own referenced page: ''Deleting material not relevant to improving the article (per the above subsection #How to use article talk pages)''. So in fact I should have deleted your entire post, but no, I'm a nice person, and I chose to compromise and only scratch 2 words, to alleviate your frustration. There is no &quot;curing&quot; of lactose intolerance, all references are clear on that, so your anecdote does not belong on this talk page, as per Wikipedia guidelines.--[[User:Tallard|Tallard]] 09:32, 5 November 2007 (UTC)
+:I do not know how this could be clearer for you: &quot;''Do not strikeout the comments of other editors without their permission.''&quot;. In any case, if you really think my comment shouldn't have been here, then complain to an admin who can really do something about it. As it is, you are violating the discussion guidelines and [[WP:CIVIL]] and are now just being a jerk for the sake of being a jerk. --&lt;span style=&quot;background: #CCEECC;&quot;&gt;[[User:Kickstart70|Kickstart70]]&lt;/span&gt;-&lt;span style=&quot;background: #CCCCEE;&quot;&gt;[[User talk:Kickstart70|T]]&lt;/span&gt;-&lt;span style=&quot;background: #EECCEE;&quot;&gt;[[Special:Contributions/Kickstart70|C]]&lt;/span&gt; 13:32, 5 November 2007 (UTC)
+::I repeat, I was clement to you...
+::''Some examples of appropriately editing others' comments''
+::''Deleting material not relevant to improving the article (per the above subsection #How to use article talk pages)'' and may I please request that you not call people names, I have been civil to you all along.--[[User:Tallard|Tallard]] 17:50, 5 November 2007 (UTC)
+::Another explanation exists here.  What is the person was NOT and is NOT lactose intolerant, BUT did previously have a intestional micorflora that destroyed the lactase before it could digest the lactose intake.  The person would appear to be lacking adequate lactase.  When the antibiotics were used, the microflora that was breaking down the lactase could have been eliminated, leaving the lactase available to do it's job, thus appearing to be a CURE. [[cemigh 11:30  19 Aug 2010]]  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/192.172.8.2|192.172.8.2]] ([[User talk:192.172.8.2|talk]]) 15:24, 19 August 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Smaller font size for reference list ==
+
+
+:I removed it because it's '''monster square''' writing, like for old people with reading difficulty. There is absolutely no need in ANY article to change the standard font size of the reference section. It's the same on all articles. '''Monster''' print as you've changed it to is not appropriate.--[[User:Tallard|Tallard]] 03:28, 5 November 2007 (UTC)
+
+
+:those 2 references are '''not''' listed anywhere in the article, they are therefore NOT references. I placed them in source, as a temporary measure, if anyone cares to correctly relate them to an item in the article. But in fact, I now realise I should have simply deleted them.--[[User:Tallard|Tallard]] 05:46, 5 November 2007 (UTC)
+
+== Primary Lactose Intolerance ==
+
+
+Tallard, in the article, the syntax &quot;..where mother's milk is the only commonly available source of milk..&quot; is just a poorly written, horridly silly way to try to explain the direct meaning. There is no dairy consumption '''after''' weaning, because in many of those Asian and African cultures... there is no dairy industry, nor commercial dairy consumption occuring period. The exclusive availabilty of mother's milk is '''not''' the issue; but, the fact that beyond infancy, there will be no dairy consumption '''is''' the issue. And also, these are '''not''' the reasons children become weaned... weaning always occurs, regardless of culture. I know you did not mean it to read that way, but often, things need to be written in reasonable, even obvious terms.-- [[User:Rcej|Rcej]] 01:57, 11 November 2007 (UTC)
+
+
+== &quot;Normal&quot; ==
+
+I just read the article for the first time and really appreciated it, especially since I had no clue how lactase &quot;non-persistence&quot; worked before now. I am a bit baffled by the 2nd sentence, though: &quot;from a world view, lactose intolerance can be regarded as 'normal' for humans whereas lactose tolerance may be considered a form of neoteny.&quot; Is it an encyclopedia's job to say what's normal and what's abnormal? And are only people over 4 years old humans? Or are children under 4 years old also humans? Just seems a bit off. [[User:TrickyApron|TrickyApron]] ([[User talk:TrickyApron|talk]]) 08:48, 30 November 2007 (UTC)
+
+:For the above reasons I removed most of the 2nd sentence. Anyone have a better way to word it? --[[User:TrickyApron|TrickyApron]] ([[User talk:TrickyApron|talk]]) 23:37, 30 January 2008 (UTC)
+
+==Lead section==
+The lead section needs work per [[WP:LEAD]].  In general, it should be a summary of the article.  As is, it doesn't summarize the article well, while introducing a great deal of material about the three major types of lactose intolerance that is not expanded upon in the rest of the article as one would expect.  I think the discussion on the three types should be moved to within the article proper, near the beginning of course, and the lead section then expanded and modified to be more of a summary. --[[User:Ronz|Ronz]] ([[User talk:Ronz|talk]]) 03:49, 6 December 2007 (UTC)
+
+:I rewrote the first two sentences and removed the rest of the material Ronz mentioned. I've included it below for reference; I couldn't find any natural place to insert it that wouldn't require expansion and/or rewriting. --[[User:TrickyApron|TrickyApron]] ([[User talk:TrickyApron|talk]]) 23:37, 30 January 2008 (UTC)
+
+There are three major types of lactose intolerance&lt;ref name=&quot;Melvin&quot;&gt; [http://aappolicy.aappublications.org/cgi/content/full/pediatrics;118/3/1279|Melvin B. Heyman. ''Lactose Intolerance in Infants, Children, and Adolescents''. PEDIATRICS Vol. 118 No. 3 September 2006, pp. 1279-1286 (doi:10.1542/peds.2006-1721)]&lt;/ref&gt;:
+#'''Primary lactose intolerance'''. Environmentally induced when weaning a child in non dairy consuming societies&lt;ref name=variant/&gt;.  This includes many Asian and African cultures, where industrialized and commercial dairy is uncommon.
+#'''Secondary lactose intolerance'''. Environmentally induced, resulting from certain [[gastrointestinal diseases]], including exposure to [[intestinal parasites]] such as [[giardia]]&lt;ref&gt; [http://www.tulane.edu/~wiser/protozoology/notes/intes.html  &quot;Intestinal Protozoa&quot; Mark Wiser 2000] &lt;/ref&gt;&lt;ref&gt;[http://www.emedicine.com/emerg/topic215.htm &quot;Giardiasis&quot; Andre Pennardt February 22, 2006] &lt;/ref&gt;. In such cases the production of lactase may be permanently disrupted.[http://www.aafp.org/afp/20020501/1845.html] +  (Wiser 2000, Pennardt 2006).  A very common cause of '''temporary''' lactose intolerance is [[gastroenteritis]], particularly when the gastroenteritis is caused by [[rotavirus]].
+#'''Congenital lactase deficiency'''. A genetic disorder which prevents enzymatic production of lactase. Present at birth, and diagnosed in early infancy. --[[User:TrickyApron|TrickyApron]] ([[User talk:TrickyApron|talk]]) 23:35, 30 January 2008 (UTC)
+
+: As per [[WP:MEDMOS]], section should be at top under heading of &quot;Classification&quot; and I've so inserted it there. Needed at that place rather than later as next sections discuss population incidences which is reflection on variously rates of primary lactose intollerance, whereas the secondary is specific to individuals being infected by specific infections. [[User:Davidruben|David Ruben]] &lt;sup&gt; [[User talk:Davidruben|Talk]] &lt;/sup&gt; 01:22, 31 January 2008 (UTC)
+
+::Ah, thanks. --[[User:TrickyApron|TrickyApron]] ([[User talk:TrickyApron|talk]]) 07:16, 1 February 2008 (UTC)
+
+What happened to this material? It seems necessary and it seems to be well-cited. In the current article &quot;Secondary lactose intolerance&quot; is introduced towards the end of the article with no explanation. --[[User:Kvng|Kvng]] ([[User talk:Kvng|talk]]) 16:17, 1 May 2010 (UTC)
+
+==Consistency and a Question==
+According to section 6.2 of this article, entitled Lactose Supplementation, &quot;Lactase enzymes similar to the those produced in the small intestines of humans are produced industrially by fungi of the genus aspergillus. The enzyme, β-galactosidase, is available in tablet form in a variety of doses, in many countries without a prescription. It functions well only in high-acid environments, such as that found in the human gut due to the addition of gastric juices from the stomach.&quot;
+
+But accoriding to a different article called &quot;Beta-galactosidase&quot; (I'd add the link, but I don't know how), &quot;Lactase is often confused as an alternate name for β-galactosidase, but it is actually simply a sub-class of β-galactosidase.&quot; So isn't this article just saying that the enzyme Lactase is available in pill form? And if that's the case, how does the enzyme, which has an optimum Ph level of 6.5, survive the low 1-2 Ph of stomach acid without being denatured? I actually came to this article looking for the answer to that question: How do chewable Lactase tablets make it to the intestines without being denatured? But even if no one has the answer to that specific question, this section is still somewhat unclear.[[Special:Contributions/80.84.191.33|80.84.191.33]] ([[User talk:80.84.191.33|talk]]) 21:32, 7 March 2008 (UTC)
+
+== All a lie? ==
+
+This page is complete bull. Eastern europeans drink milk like it's water and eat cheese with every meal. So do mongolians. Mongolian herders practically survive on mare's milk for several months out of the year.  How can they be 50% intolerant? Same with sicilians that are supposed to be intollerant but all the sicillians I've met drink milk. Here's a newsflash: if you drink milk in Sicily you won't feel well because it's very hot and humid there. That not only causes extra bacteria in the milk but also discomfort because of the fat content. I know because I've don eit. Can anyone explain?  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/86.121.68.72|86.121.68.72]] ([[User talk:86.121.68.72|talk]]) 06:23, 19 June 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Discrepancy? ==
+
+In the lead section it is said that &quot;[i]t is estimated that 20% of adult humans are lactose intolerant&quot;. However, in the Diagnosis section it reads &quot;[s]ince lactose intolerance is the normal state for most adults on a worldwide scale [...]&quot;. So, what percentage of adults humans are lactose intolerant? If only 20 percent, it is not &quot;the normal state for most adults&quot;. --[[User:Victor Chmara|Victor Chmara]] ([[User talk:Victor Chmara|talk]]) 12:22, 15 July 2008 (UTC)
+: And the table says that 93 percent of Chinese people are lactose interolant (which I find no reason to doubt). That alone is of course more than 18%. And then there are the Bantu, African Americans, South Americans, Indians (50% intolerant) etc. It doesn't add up. [[Special:Contributions/83.248.222.0|83.248.222.0]] ([[User talk:83.248.222.0|talk]]) 22:27, 16 July 2008 (UTC)
+: It's an edit by [[User:71.188.20.201]], I don't know if it's vandalism but the user [[Wikipedia:Be_bold|was quite bold]] and just changed the numbers from 70 % to 20 % [http://en.wikipedia.org/w/index.php?title=Lactose_intolerance&amp;diff=225295957&amp;oldid=225065507 here]. --[[User:Saccharomyces|Saccharomyces]] ([[User talk:Saccharomyces|talk]]) 20:19, 17 July 2008 (UTC)
+:I've changed it and provided a more recent reference.  The 1971 reference for the 20% figure probably just assumed that the worldwide statistics were the same as for the U.S.  Fortunately more recent studies are better at recognizing that the U.S. is not always typical of the world.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Warren Dew|Warren Dew]] ([[User talk:Warren Dew|talk]] • [[Special:Contributions/Warren Dew|contribs]]) 20:03, 18 July 2008 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Very old reference and data from it removed ==
+
+The section on lactose intolerance in India, north vs south, references
+a very old study. The basic premise of that study has been disproved
+by genetic surveys of the last decade - the Indian ethnicity is
+now considered autochthonous. See the references in the section
+&quot;Racial groups of India&quot;.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/71.146.148.237|71.146.148.237]] ([[User talk:71.146.148.237|talk]]) 19:27, 14 August 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== What are the symptoms? ==
+
+I believe the article needs to have a dedicated 'Symptoms' section.
+The symptoms are mentioned briefly in the 'Diagnosis' section but that was very hard to find when I wanted to know quickly for reference.
+I'm not sure how to make this new section as I am quite new to editing, perhaps someone could help? [[User:Spastic on elastic|Spastic on elastic]] ([[User talk:Spastic on elastic|talk]]) 08:53, 22 November 2008 (UTC)
+
+== Duration of effectiveness for Lactase supplements ==
+
+I've recently started taking Lactase supplements to deal with intolerance and it has been quite effective for me.  I'd be interested in seeing info on how long the enzyme typically remains in your system and how long it would continue to be effective.  For example, if I take a pill with some milk and decide to have another dairy product an hour later, will that dosage likely still be effective?  2 hours later?  4 hours?   
+[[Special:Contributions/65.92.111.88|65.92.111.88]] ([[User talk:65.92.111.88|talk]]) 23:20, 6 December 2008 (UTC)
+
+:(not giving direct advice, but for general issues and how these not addressed in article) Like all comercially available food supplements, such data is sadly lacking to consumers (and prossibly manufacturers too). See Ref 59, PMID 16943638, to O'Connell currently mentioned in the article. Following on from the PubMed's related links see abstracts of PMID 2499174. A review article with mention of liquid &amp; solid forms of exogenous lactase is:
+:{{cite journal |author=Montalto M, Curigliano V, Santoro L, ''et al'' |title=Management and treatment of lactose malabsorption |journal=World J. Gastroenterol. |volume=12 |issue=2 |pages=187–91 |year=2006 |month=January |pmid=16482616 |doi= |url=http://www.wjgnet.com/1007-9327/12/187.asp}}
+:But seems hard compariative data lacking, that they have any effect seems limit of studies, i.e. products are given with consumption of lactose in order to show maximum benefit. It is a little like braking distances for cars: the stated values will show best senario with new brake-pade, dry road and fresh set of tires - but we wont find any data for half-worn pads with tyre-tread just within normal, on a lightly drizzling day... we just need be sensible and keep a greater distance to car in front and be extra vigalent not to exceed speed limits. So back to your observation re effectiveness times not being stated, it would depend upon how much lactose in the &quot;some milk&quot; (is this quarter cup or pint-and-a-half that will challange any additional lactase to fully cope with) and again how much dairy an hour later. There just wont be any study or look-up table to help answer this and it comes down to just needing to be cautious and learn by experience. Unfortunately such real-world practicalities wont appear in any study or newspaper article and so probably can't be added to the article for lack of [[WP:MEDRS]], else that wikipedia is [[WP:NOTHOWTO]].  [[User:Davidruben|David Ruben]] &lt;sup&gt; [[User talk:Davidruben|Talk]] &lt;/sup&gt; 12:55, 7 December 2008 (UTC)
+
+hi was up  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/208.97.35.73|208.97.35.73]] ([[User talk:208.97.35.73|talk]]) 19:12, 24 January 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== The use of &quot;other mammals&quot; should include non-[[Bovidae]] ==
+
+In the [[Lactose intoleranc#Dairy products|Dairy products]] section of the article, it mentions the percentage of lactose in Human milk as being the highest. Immediately afterwards, it mentions [[cow]] milk (family [[Bovidae]]) as being 4.7%, and mentions that milk from &quot;other [[mammals]]&quot; is similar - listing 4 other [[Bovidae]] types of animals. Considering that Bovidae accounts for only 140 species of the 5400 species of mammals (about 2.6%), and all of them are closely related, I think these examples don't necessarily mean much. [[User:Od Mishehu|עוד&amp;nbsp;מישהו]] [[User talk:Od Mishehu|Od&amp;nbsp;Mishehu]] 12:07, 1 February 2009 (UTC)
+
+==Raw milk info spamming==
+I'm trying to centralize the discussion for now at [[Talk:Raw_milk#Moved_to_talk_for_discussion]] --[[User:Ronz|Ronz]] ([[User talk:Ronz|talk]]) 03:05, 19 May 2009 (UTC)
+
+==Central Asia==
+I've seen another map where Central-Asian countries had much less lactose intollerance. Even less then south-European countries. Could this be true, since the [[Turkic peoples]] were nomads not so long ago and many still are? And there is also the possibility that they mixed with [[Tocharians]] and other northern-Europeans from Central-Asia (Chinese sources identify these people as red-haired and blue eyed). Intollerance in Turkey was low in this map too. &lt;ref&gt;[http://www.dsm.com/le/en_US/maxilact/html/lactose_intolerance.htm] DSM&lt;/ref&gt; [[User:NeoRetro|NeoRetro]] ([[User talk:NeoRetro|talk]]) 08:55, 11 August 2009 (UTC)
+&lt;references/&gt;
+
+== Revise needed ==
+
+Someone needs to go around a revise some of the things written. There are info on here citing paper from 1970's and these are the ones that's causing some problem like &quot;chinese have near 100% lactose intolerance&quot;. Medical papers that are older than 30 years are usual not of strong relevence unless it has been proven over and over to be true.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/142.58.9.148|142.58.9.148]] ([[User talk:142.58.9.148|talk]]) 01:06, 9 March 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Lack of proper sourcing ==
+I have read papers that say the Spanish are 60% lactose INtolerant, not 85% lactose tolerant as claimed here. What is the source of this claim of 85% lactose tolerance in Spain? The link here seems here to go to a blog which in turn gives no source. [[User:Jenston|Jenston]] ([[User talk:Jenston|talk]]) 14:50, 19 April 2010 (UTC)
+	</talkpage>
+	<talkpage id="294816" title="Talk:Lactose intolerance">
+{{Talk header|search=y}}
+{{WikiProject Food and drink|class=start|importance=high}}
+{{Reliable sources for medical articles}}
+{{Find sources notice}}
+{{User:MiszaBot/config
+| algo                = old(90d)
+| archive             = Lactose intolerance/Archive %(counter)d
+| counter             = 1
+| maxarchivesize      = 70K
+| archiveheader       = {{talk archive navigation}}
+| minthreadstoarchive = 1
+| minthreadsleft      = 4
+}}
+{{WPMED |class=B |importance=High}}
+
+== This Article Creates A Distorted View Of Lactose Intolerance -- What is the Truth? ==
+
+I have noticed an abundance of statistics on the interenet related to lactose intolerance.
+
+These statistics seem to fly in the face of experience.
+
+1. How do you come up with 70-75% of the world population (4.5 billion people) being Lactose intolerant?
+i believe this to be a relatively accurate estimate if you factor in the amount of people that will suffer some form of lactose intolerance with age, people tend to gain some malabsorption problem with age and a key one is lactose intolerance via a lactose persistance.
+2. How accurate is this estimate?  I have seen very little hard evidence except in major countries regarding Lactose Intolerance.  This assumption seems to exclude Japanese from lactose tolerance, but Japanese stats show hugely increased milk consumption as do Australian dairy stats for exports to Japan.  How is it the Japanese can NOW digest dairy products contrary to received scientific wisdom?
+
+3. Indians are known to be lactose tolerant and we know of the sacred cows of India.  Pakistan and Bangladesh are also of the same background.  This is a huge part of the world population.  Add North America and Europe.  Add about half of South America.
+
+4. China is now encouraging the consumption of milk and dairy products.  So far, I have not heard of an epidemic of dead Chinese due to Lactose Intolerance.
+
+5. Define Lactose Intolerance.  The word intolerance is absolute.  The implication is lactose intolerant people cannot eat and cannot digest dairy products.  Obviously there are varying degrees of digestibility.
+
+6. What are the true facts behind the statistics.  What size are the samples?  Where are the samples from?   I have read at wrongdiagnosis.com that the stats on Lactose Intolerance are suspect and depend upon extrapolations of data from a very few western countries.
+
+7. Many cultures which herded cattles and goats are able to digest lactose--this includes African and Mongolian herding cultures.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/142.106.169.166|142.106.169.166]] ([[User talk:142.106.169.166|talk]]) 19:00, 2 July 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+Re. Units... there is a comment that cheese might contain 10% of the lactose of milk. This is meaningless... is this per unit volume, per unit of dried milk solids, or something else? Meaningfull data would be helpful.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/24.150.112.2|24.150.112.2]] ([[User talk:24.150.112.2|talk]]) 22:57, 15 July 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:ok, not only those statistics are unreliable, but the map doesn't match those statistics. And another example of wront stat: for human group &quot;Basques&quot;, only 85 individuals examined and the result is 0.3 %. That's mathematically impossible because 1 person out of 85 would make a minimum of 1.2 %. So it's either 30 % of intolerance or the number of individuals is greater, like 285. [[User:Cœur|Coeur]] ([[User talk:Cœur|talk]]) 11:40, 30 November 2010 (UTC)
+
+
+What is the source of the estimate that 75% of adults worldwide show &quot;some decrease in lactase activity&quot; during adulthood?  I would suggest that even if this statement is factually correct  - which I doubt, by the way - that is not the same as saying that lactose intolerance is the norm. Some decrease in lactose activity is not the same as being intolerant.
+
+I am concerned that there are claims that certain cheeses have very low lactose tolerances, and the reference is the website &quot;ilovecheese.com&quot; - a lobbying group whose primary goal is to increase the demand for cheese.  If there were links to research, that would be one thing, but the claims on the site are not backed up by research.  This is Citation [31] in this section: [[Lactose_intolerance#Dairy_products]] [[Special:Contributions/54.240.196.186|54.240.196.186]] ([[User talk:54.240.196.186|talk]]) 18:29, 8 November 2012 (UTC)
+
+== Proposed split ==
+
+I've been trying to get to grips with this article in my head for a couple of hours now. I'm confused by it. Judging by the talk page, so are a lot of people. They come to the article looking for information on a medical condition, and they're confused by all the talk of percentages and what's &quot;normal&quot;; or they come here looking for information on an evolutionary trait, and they find only jumbled lists of statistics using inconsistent terminology. I think the core problem is that this article conflates several concepts: lactose intolerance, lactose malabsorption, lactase deficiency and lactase persistence. Not without reason of course; they're all facets of the same phenomena. But because those facets fall into different areas of academic study there are wide discrepancies in approach and terminology, discrepancies which this article makes a bit of a mess of dealing with. My proposal is that this article will only see significant improvement if it is able to commit to one approach, one set of terminology, and therefore it must be split into two:
+* '''Lactose intolerance''', the medical condition - with a brief summary of the prevalence of lactose intolerance around the world, but mainly focusing on the biological action, diagnosis, nutrition and treatment.
+* A new article, '''lactase persistence''', dealing with the ability to digest milk in adulthood as an evolutionary novelty in some human populations. So to start with it would consist of the current second and fourth sections (there's a lot more I'd like to add to this though).
+I think the result would be two much cleaner, much more coherent, and much more understandable articles. —''[[User:Joey Roe|&lt;span style=&quot;font-family:serif;color:#006699;&quot;&gt;Joseph Roe&lt;/span&gt;]]''&lt;sup&gt;&lt;small&gt;[[User talk:Joey Roe|&lt;font color=&quot;#999&quot;&gt;Tk&lt;/font&gt;]]&lt;font color=&quot;#999&quot;&gt;•&lt;/font&gt;[[Special:Contributions/Joey Roe|&lt;font color=&quot;#999&quot;&gt;Cb&lt;/font&gt;]]&lt;/small&gt;&lt;/sup&gt;, 19:49, 26 August 2010 (UTC)
+* A good article about the problem of terminology: http://www.food-intolerance-network.com/index.php?option=com_content&amp;view=article&amp;id=33&amp;Itemid=45 maybe it helps! [[User:NmiPortal|NmiPortal]] ([[User talk:NmiPortal|talk]]) 10:06, 18 January 2011 (UTC)
+
+Lactose intolerance is not a disease or a malfunction, so it does not deserve to be called a 'medical condition'. No more than menopause is a 'medical condition'. Some women are menopaused very early, others very late, but menopause is natural. Creating some sort of separate article calling this a medical condition is unscientific and un-encyclopedic.--[[User:Tallard|Tallard]] ([[User talk:Tallard|talk]]) 16:23, 25 March 2011 (UTC)
+
+:Unscientific? Perhaps. But not unencyclopedic. We have to report the consensus amongst reliable sources, and it's [http://www.google.co.uk/search?q=lactose+intolerance quite clear] that the medical community--and basically everyone who isn't specifically interested in LP as an evolved trait--considers lactose intolerance as a medical condition. —[[User:Joey Roe|&lt;span style=&quot;font-family:serif;color:#006699;&quot;&gt;Joseph Roe&lt;/span&gt;]]&lt;sup&gt;&lt;small&gt;[[User talk:Joey Roe|&lt;font color=&quot;#999&quot;&gt;Tk&lt;/font&gt;]]&lt;font color=&quot;#999&quot;&gt;•&lt;/font&gt;[[Special:Contributions/Joey Roe|&lt;font color=&quot;#999&quot;&gt;Cb&lt;/font&gt;]]&lt;/small&gt;&lt;/sup&gt;, 17:38, 25 March 2011 (UTC)
+::Those numbers still represent the minority POV of humans who have lactase persistence. It fails at NPOV.--[[User:Tallard|Tallard]] ([[User talk:Tallard|talk]]) 21:24, 25 March 2011 (UTC)
+:::If we were to consult, oh, Sleisenger &amp; Fordtran's Gastrointestinal and Liver Disease, Chapter 101 or The National Digestive Diseases Information Clearinghouse, June 2009 publication 09-2751, they are medical publications talking about the medical condition Lactose Intolerance.  The Mayo Clinic lists it as a medical condition. National Institutes of Health as well.  I'd say that since it is verifiable through reliable sources, that Tallard is not showing any sources for an opinion.  Your personal opinion about it doesn't make for encyclopedic information. --[[User:Catonsunday|Catonsunday]] ([[User talk:Catonsunday|talk]]) 03:02, 29 June 2011 (UTC)
+{{outdent|3}}It is true that a large body of our knowledge on the phenomenon of lactose intolerance is courtesy of medical research. Indeed awareness of the phenomenon, or condition (in the broad sense - as in 'life is a condition') likely arose from medical inquiries into why some people could tolerate milk and some reacted badly (we now know that lactase persistence is a minority condition and lactose intolerance a majority one - but this is retrospecive knowledge). A great deal of our knowledge of human biology arose as a derivative of medical inquiry, and so has been subsumed into the dominant medical paradigm of the time, including attempts to answer questions like &quot;how can we treat this condition?&quot; in the narrow, medical sense. Research funding is another factor: research is not cheap. The researcher may be interested in broader questions than the funder, who or which has to get a return for expenditure. We now know of course that lactose intolerance and lactase persistence are two sides of the same coin, and that the broadest relevant paradigms pertain to evolutionary biology and overlapping areas such as anthropology (both of which in turn have overlapping subsets in medicine). But this awareness is after-the-fact of a body of knowledge built up under the medical paradigm. It's not really an issue: an astute researcher will always encounter relevant information in all sorts of areas under all sorts of paradigms, some of which are sound and some outdated or even ludicrous. The trick, as a tutor once pointed out, is how to think about the information when we find it. [[User:Wotnow|Wotnow]] ([[User talk:Wotnow|talk]]) 20:55, 1 September 2011 (UTC)
+
+== Wow==
+Now, I'm not a stupid person, and I only come to Wikipedia to learn things, however, this article is horrific. I have one main concern. The rehabilitation section says something about &quot;Secondary Lactose intolerance&quot;. I have no idea what this is, however, the primary and secondary sections don't even explain the difference between this. It ends up being extremely vague, and confusing as to why either sections exist, because they certainly don't seem to add much, or explain much, this page isn't a statistical report on lactose intolerance, simply put, put statistics with other statistics, and information with other information, and merge the two as rarely as possible, now I have to Google search to find if I might be able to rehabilitate myself :(. Sad face. Anyways, this page is shocking, people have edited and added information without maintaining a structure. For the benefit of everyone who might actually *need* good information (Students, people trying to self diagnose, or learn more about this), please address these issues. &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:124.171.235.7|124.171.235.7]] ([[User talk:124.171.235.7|talk]] • [[Special:Contributions/124.171.235.7|contribs]]) &lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt;
+:this confusion was due to previous vandalism which had erased an entire section explaining this classification. It is fixed now.--[[User:Tallard|Tallard]] ([[User talk:Tallard|talk]]) 16:16, 25 March 2011 (UTC)
+
+:It seems that the Nutrition section could be cleaned up and get some verifiable sources.  Also, there are two paragraphs in the Classification section that seem like they don't belong, or need better explanation.  They don't discuss actual classification in the second, and seems misplaced.  Will look to see if there is a better place for the information. [[User:Catonsunday|Catonsunday]] ([[User talk:Catonsunday|talk]]) 03:58, 29 June 2011 (UTC)
+
+:: Those two extra “Classification” paragraphs would have been moved there by me in my recent {{diff|Lactose intolerance|prev|435419506|oldid 435419506}} edit. They were previously under a section called “Lactase biology” which I renamed to “Lactase persistence” because the rest of it was about how lactase may or may not stop being produced as you get older. Perhaps those two paragraphs are more related to the “Mechanism” paragraph? [[User:Vadmium|Vadmium]] ([[User talk:Vadmium|talk]]) 02:26, 30 June 2011 (UTC).
+
+:::Do you think that a &quot;Misdiagnosis&quot; section under diagnosis would be appropriate?  It seems that it would pertain to cases that could be misdiagnosed or misunderstood, and would fit in well in that section.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Catonsunday|Catonsunday]] ([[User talk:Catonsunday|talk]] • [[Special:Contributions/Catonsunday|contribs]]) 19:58, 1 July 2011 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:: I think the final paragraph would go well under a “Misdiagnosis” section. I’m not sure that coeliac disease paragraph is about a misdiagnosis though; maybe it is actually related to the “secondary lactose intolerance” classification? [[User:Vadmium|Vadmium]] ([[User talk:Vadmium|talk]]) 13:00, 5 July 2011 (UTC).
+
+::I wish there would be clarification about when the intolerance develops.  How long after birth is the person tolerant of lactose?  How long does the tolerance last, for different groups of people?
+Thanks.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/99.9.112.31|99.9.112.31]] ([[User talk:99.9.112.31|talk]]) 00:33, 11 September 2011 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Proposed split sounds great. ==
+
+I like the proposal a lot.  
+
+@WOW:
+Primary and Secondary are most likely referring to [[Comorbidity]] of lactose intolerance in a patient.  Primary would be a something like an enzyme deficiency, whereas secondary would be a side effect from another disease.  The disease that pops up commonly in my searches as temporarily causing lactose intolerance is Celiac disease. Also, gastroenteritis (stomach flu) and food poisoning commonly causes secondary lactose intolerance. 
+
+[http://www.celiac.com/articles/31/1/How-is-lactose-intolerance-related-to-celiac-disease/Page1.html A page discussing Celiac disease and lactose intolerance]
+
+I edited a number questionable statements in the foods content which had spurious references.  I'm sure there's more work to be done, though.
+[[User:Dwlocks|Dwlocks]] ([[User talk:Dwlocks|talk]]) 06:49, 7 September 2010 (UTC)
+
+:Splitting these topics would be a very bad idea, there is nothing separate about them. Lactase persistence is but a recent (in evolutionary context) condition derived from favourable genetic mutations. --[[User:Tallard|Tallard]] ([[User talk:Tallard|talk]]) 16:19, 25 March 2011 (UTC)
+::I don't think that just because [http://www.ncbi.nlm.nih.gov/pubmed/12915462 Lactase persistence] is &quot;recent&quot; doesn't mean it isn't worth giving it's own page.  Lactase deficiency should be separated from a lactase persistence/non-persistence[http://hmg.oxfordjournals.org/content/4/4/657.short Lactase persistence/non-persistence] page would be a wise move, especially from a research standpoint.  --[[User:Catonsunday|Catonsunday]] ([[User talk:Catonsunday|talk]]) 03:18, 29 June 2011 (UTC)
+
+== Correction in Lactose intolerance frequency map. ==
+
+The lactose intolerance frequency for some of the countries is marked incorrectly on the map. The table depicts the data which does not go with the markings in the map.
+e.g. India is shown as 60 - 80 % intolerant as per the map, while the chart shows that that only 20 % of the population is lactose intolerant: on the other hand Italy, which is at an average (northern southern as well as sicily) 80 - 90 % intolerant is 40 - 60. I am sure if it is looked into properly, a lot more anomalies can be found. Request you to please correct it.
+
+:I would like to point out that almost the entire population in Argentina and Uruguay are of exclusively European ancestry, mainly Spaniards, Italians, and Germans. In the light of this, the map shown in the article is obviously wrong to anyone who has been there or knows something about the demographics of South America. If there is no data available for those countries, they should be grayed out since they are demographically very different from they neighbors. If not that, then at least the lines delimiting the individual countries should be removed from the map, to transmit the idea that it is referring to the native population that once lived in the region.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/77.179.215.113|77.179.215.113]] ([[User talk:77.179.215.113|talk]]) 09:51, 22 November 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+::&lt;blockquote&gt;I would like to point out that almost the entire population in Argentina and Uruguay are of exclusively European ancestry&lt;/blockquote&gt;Damn lie. Argentina is about [http://dienekes.blogspot.com/2012/04/admixture-in-different-regions-of.html 20-30%] Native, and [http://dienekes.blogspot.com.br/2009/12/new-comprehensive-study-on-continental.html most of its maternal lineages are Native]. The same is probably true of Uruguay.[[Special:Contributions/177.207.125.121|177.207.125.121]] ([[User talk:177.207.125.121|talk]]) 14:43, 5 January 2014 (UTC)
+:The map is not based on the same data as the table (see [http://commons.wikimedia.org/wiki/File_talk:Laktoseintoleranz-1.svg]). There very well could be errors, and even if not the lack of detailed sources for the statistics is problematic. But it seems to be the best freely-available map of LI available. Unfortunately preparing an alternative map is not as simple as looking up a figure for a country and colouring it in appropriately; there's lots of conflicting data that can't be really be put together. Some studies look at the modern population (useful from a medical POV) while others will only look at the indigenous people of a given area (useful from an evolutionary POV). Older studies may have methodological problems, particularly with regard to sampling, since before the 1970s the significant variation in LI between ethnicities was not widely known. Some populations have detailed stratified statistics available (e.g. the US), others only have broad regional surveys. In much of Africa, the Near East, and East Asia, doing things on a national basis would obscure considerable variation among ethnicities within a single country. Additionally, there's a range of ways you can define lactose intolerance, and although choosing one or the other could change the final figure by tens of percent, studies rarely say outright which one they are using. In other words, putting together a map that displays all the information in a way that is both accurate and ''consistent'' is a not a simple task. —[[User:Joey Roe|&lt;span style=&quot;font-family:serif;color:#006699;&quot;&gt;Joseph Roe&lt;/span&gt;]]&lt;sup&gt;&lt;small&gt;[[User talk:Joey Roe|&lt;font color=&quot;#999&quot;&gt;Tk&lt;/font&gt;]]&lt;font color=&quot;#999&quot;&gt;•&lt;/font&gt;[[Special:Contributions/Joey Roe|&lt;font color=&quot;#999&quot;&gt;Cb&lt;/font&gt;]]&lt;/small&gt;&lt;/sup&gt;, 14:38, 29 November 2010 (UTC)
+
+:80-90% in italy? I'm confused, cause i'm italian and i'm the only lactose intolerant of my family (not only of my household, my entire family, grandparents, uncles, cousins)usually for breakfast italians drink cappuccino (coffe and milk), and eat fresh dairy products (mozzarella, burrata, stracchino etc.)
+:lactose intolerance is common,
+:but i do not think that affects the majority of italians. Rambaldo--[[User:Rambaldo|Rambaldo]] ([[User talk:Rambaldo|talk]]) 02:21, 29 January 2011 (UTC)
+
+::Well, as a general point, anecdotal evidence is no substitute for good statistics. It could be that you live in, or your family originally come from, an area of Italy that has a lower frequency of lactose intolerance than the national average (e.g. the north, uplands). Also, since lactose intolerance is primarily genetic, it's not surprising that the majority of the members of a family would have the same phenotype (non-lactose intolerance in this case). The typical Italian breakfast doesn't say much either: there's not enough milk in coffee to trigger symptoms in most lactose intolerant people, and cheese actually contains a very small amount of lactose because the lactose is turned into lactic acid in the fermentation process.
+::80–90% would be high. But if you look closely at the map south and central Italy is shaded in the 40–60% range while north Italy is only 20–40%. The table says 19% for central Italians, 41% for central Italians and 52% for northern Italians. Other studies cited in the article say 51% for northern Italians and anywhere from 4% to 72% of Sicilians. As you can see, there's a ''lot'' of variation within countries and that means the average may seem quite far off for a lot of people who are looking at a particular area. —[[User:Joey Roe|&lt;span style=&quot;font-family:serif;color:#006699;&quot;&gt;Joseph Roe&lt;/span&gt;]]&lt;sup&gt;&lt;small&gt;[[User talk:Joey Roe|&lt;font color=&quot;#999&quot;&gt;Tk&lt;/font&gt;]]&lt;font color=&quot;#999&quot;&gt;•&lt;/font&gt;[[Special:Contributions/Joey Roe|&lt;font color=&quot;#999&quot;&gt;Cb&lt;/font&gt;]]&lt;/small&gt;&lt;/sup&gt;, 09:09, 29 January 2011 (UTC)
+
+:I have removed the map as I could not find (of all the sources) any that made sense. It seems rather random to me. It is better to have no map at all, than a randomly generated one. Furthermore, it made no sense that nations were split on the map along random lines. No data on most of South America, lot of europe and India that is consistent with the map. Basically, the map seems to be coded correctly only in half the world. This can hardly be called &quot;best available&quot; - it is outright misinformative and does not reflect the wikipedia standards. Please do not insert it without proper discussion and sources. [[User:Kniwor|Kniwor]] ([[User talk:Kniwor|talk]]) 06:10, 3 April 2012 (UTC)
+
+::Agreed. Someone added it back in, so I removed it again. The map is apparently from a [http://www.zeit.de/online/2007/09/laktose-milchzucker-gewoehnung/komplettansicht June 2007 article] in Die Zeit, but as far as I can tell, the article just uses it as an infographic and doesn't give any details of where the numbers come from (I don't know German, but used Google translate on it). The credit line on the map is &quot;ZEIT-Grafik/Quelle: Verein für Lactoseintoleranz&quot; (Association for lactose intolerance). The VLI has a [http://www.vli-ev.de/li1.htm map on their site], but I don't see any source for their numbers. So as far as I can tell, that map has no verifiable sources, and should just be deleted. [[Special:Contributions/2602:304:B1B8:F420:49E4:4679:C77C:1E6|2602:304:B1B8:F420:49E4:4679:C77C:1E6]] ([[User talk:2602:304:B1B8:F420:49E4:4679:C77C:1E6|talk]]) 21:58, 22 June 2012 (UTC)
+
+== Merger proposal of redundant content fork ==
+
+I propose that '[[Lactase persistence vs. lactose intolerance and deficiencies]]' be merged into '[[lactose intolerance]]', as the former article (an [[WP:orphan|orphan]] article created 15 December 2010) appears to be a [[WP:Content forking#redundant content forks|redundant content fork]] covering exactly the same topic as the latter article. [[User:Qwfp|Qwfp]] ([[User talk:Qwfp|talk]]) 21:11, 17 February 2011 (UTC)
+
+'''Delete''' newer redundant article--[[User:Tallard|Tallard]] ([[User talk:Tallard|talk]]) 14:42, 25 March 2011 (UTC)
+
+'''Redirect''' Lactose intolerance to Lactase tolerance. To treat lactose intolerance as a disease makes no more sense than saying black people are a disease! Lactase persistence is the scientific oddity and the article should reflect that.--[[User:Tallard|Tallard]] ([[User talk:Tallard|talk]]) 15:18, 25 March 2011 (UTC)
+
+'''redirect''' Came here from NPP, seems a very clear case. [[User:HominidMachinae|HominidMachinae]] ([[User talk:HominidMachinae|talk]]) 07:32, 11 May 2011 (UTC)
+
+The only problem with the merger I see is that the medical community is pushing to change the condition from &quot;lactose intolerant&quot; to &quot;lactose non-persistence&quot;. Maybe change the title of the original &quot;Lactose Intolerant&quot; page to &quot;Lactose Non-Persistence&quot; to keep up with the medical terminology and then combine the pages?  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Stephen Glansberg|Stephen Glansberg]] ([[User talk:Stephen Glansberg|talk]] • [[Special:Contributions/Stephen Glansberg|contribs]]) 02:38, 1 June 2011 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+Lactose intolerance, or lactace deficiency should be separated from the [http://hmg.oxfordjournals.org/content/4/4/657.short lactase persistence/non-persistence] information.  The '[[Lactase persistence vs. lactose intolerance and deficiencies]]' would be better off as lactase persistence/non-persistence in it's own page.  It would make sense for the two to link to each other, but to make it clear, they would be better off in separate pages.  I do believe the original vs. page is not needed. [[User:Catonsunday|Catonsunday]] ([[User talk:Catonsunday|talk]]) 03:39, 29 June 2011 (UTC)
+
+'''Merge &amp; delete''' There's no reason for the existence of this article. [[User:Imagine Reason|Imagine Reason]] ([[User talk:Imagine Reason|talk]]) 10:42, 22 July 2011 (UTC)
+
+===Merge and fork===
+We can add to the above [[Developmental regulation of lactase expression in mammals]], which is good and well referenced but not really different in scope from this article. But between these two and the &quot;Lactase persistence&quot; section of this article I think there's easily enough material to fork off a separate lactase persistence article as I suggested above. '''[[User:Joey Roe|joe&amp;bull;roe]]'''&lt;sup&gt;'''[[User talk:Joey Roe|t]]'''•'''[[Special:Contributions/Joey Roe|c]]'''&lt;/sup&gt; 09:26, 1 September 2011 (UTC)
+:Greetings. What prompted me to add that article link to the 'See also' section was the map. On reading Arjamaa &amp; Vuorisalo's 2010 article [http://www.csub.edu/~kgobalet/files/Bio470/Arjamaa&amp;Vuorisalo%202010%20Gulture-Genes.pdf &quot;Gene-Culture Coevolution and Human Diet&quot;], I noted that their lactose intolerance global distribution map was adapted from Wikimedia Commons. This intrigued me, and a brief search for such a map in Wikipedia/media brought me to the above article. I had noted the absence of such a map in this lactose intolerance article, which I thought was remiss: a global distribution graphic is indispensible for concept/information transmission to a broad audience. A bit more reading of this talkpage and I see there was indeed a distribution map up until [http://en.wikipedia.org/w/index.php?title=Lactose_intolerance&amp;direction=prev&amp;oldid=434284069 8 June 2011], after which it was deleted by a relatively new editor on [http://en.wikipedia.org/w/index.php?title=Lactose_intolerance&amp;direction=next&amp;oldid=433143188 14 June 2011] on the basis of being inaccurate and misleading.
+
+:I note your own comments on the difficulty of devising a reliable map, given the methodological variations and limitations underpinning available data, and of course you make some good points, all of which I recognised from the time when I delved into epidemiological issues. The prevailing map for some time was that produced by Kretchmer in 1972, which I encountered in the early 90's and which continues to be cited. A workable solution regarding the map may well arise from answering the question: &quot;in terms of available distribution data, what has remained stable, what has changed, and what is changing?&quot; I must note (for some editors) that I am talking of available data, NOT phenomena for which we have yet to capture data. The latter is the arena of of primary researchers, the former that of encyclopedias such as this, and on which we need therefore concentrate our efforts.
+
+:Answering this may lead to say, three or four maps. The first could represent the distribution graphic which is relatively unchanged over recent decades. The next could represent data that has changed - or alternatively the first map could incorporate this. A second/third map could represent data that is subject to change as information comes in. Or since such information doesn't come in that fast, could be a more detailed 'blow-up' map showing variation within relevant geographic areas. Lastly, and only if practical, a map containing the overall graphics could be devised. Resolution in such a map would likely be relatively poor, but would provide instant conceptual information, which could be pursued in a more detailed map. 
+
+:Of course as you say, map creation is no simple task, let alone creation of a map to portray data that on closer inspection gets quite messy. Still, just a thought. Of course for any distribution map to be created, data needs first to be tabulated, so tables per this article are also indispensible. But a good graphic, derived from such tabulated data, is almost unbeatable for maximal conceptual transmission in the shortest time. A more simple solution than the time-consuming and possibly redundant exercise I've suggested above, is to create a 'map revision' date, whereby an existing map is revised to portray most recently available data. Here one might have two maps: an 'in-use' map, and an 'under-revision' map. The maps are then interchanged at the prescribed interval. The maps would need to be notated so readers are clear. The 'in-use' map would need to clearly state that it will prevail until the next revision at date X, at which time the 'under-revision' map will be swapped. This should allay concerns of any readers/editors who spot inaccuracies or outdated data. They could be invited to provide the information they are aware of to the 'under-revision' map project. Anyone who has worked in organisations which have to continually revise policies and procedures while still functioning day-to-day will recognise this heuristic immediately. Anyway, just food for thought. By the way, a further brief search gave me the map in [http://dmd.aspetjournals.org/content/29/4/513.full#xref-ref-20-1 this 2001 article] [[User:Wotnow|Wotnow]] ([[User talk:Wotnow|talk]]) 22:37, 1 September 2011 (UTC)
+
+== Southern South America ==
+
+In southern Brazil, Argentina, Chile and Uruguai, the huge majority of the people (70-90%) have european origin (Portuguese, Spanish, Italia, German, Polish, etc.). These peoples arrived there mostly between 100-200 years ago, so they should be reasonably tolerant to lactose. How can the map show the people in this region as 80-100% lactose intolerant? Poor research IMHO. The map even show that area of south america as more lactose intolerant than northern south america, where european descendants are not as common.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/122.110.88.42|122.110.88.42]] 
+([[User talk:122.110.88.42|talk]]) 09:23, 7 May 2011 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:It's probably based on indigenous populations. And no, the map is not perfect—nor is the table—but before you rush to call it &quot;bad research&quot; please read what I wrote [[#Correction in Lactose intolerance frequency map.|above]] about the difficulty of getting compatible worldwide data. It's certainly impossible to capture both the modern frequency of lactose intolerance and the (evolutionarily relevant) precolonial situation on one map. But if you disagree, by all means [[WP:SOFIXIT|fix it]]. &amp;nbsp;&amp;nbsp;'''[[User:Joey Roe|&lt;span style=&quot;color:#e90;&quot;&gt;jroe&lt;/span&gt;]]'''&lt;small&gt;&amp;nbsp;&lt;sup&gt;[[User talk:Joey Roe|tk]]&lt;/sup&gt;&lt;sub&gt;[[Special:Contributions/Joey Roe|cb]]&lt;/sub&gt;&lt;/small&gt;&amp;nbsp; 10:24, 7 May 2011 (UTC)
+::This map has numerous problems:
+::# Map doesn't cite data source
+::# 80-100% lactose intolerance in the Chile/Argentina is wrong for the current population. If it's the indigenous population, then the US and Australia are inconsistent in showing the low LI in the current population.
+::# Intra-country variation in Brazil, Bolivia, France, Italy, Spain and Russia. I strongly doubt there is any published data showing a difference in LI between Northern/Southern Brazil or Bolivia. Spain's difference maybe could be explained by the Basque, but the map color doesn't match the figures in the table for the Basque and non-Basque Spainards. Southern France is not colored appropriately based on the table. The map incorrectly (per the table) shows Southern Italians as more lactose intolerant than Northern Italians. Russia has a substantial number of non-Slavic people in the far East, but it's still 95%+ Slavic to a point much further east than the line on the map.
+::# East African herders with low LI don't show up on the map
+::# I have a hard time believing that Canada has higher LI than the US. While Canada has slightly more Asians and Native Americans, overall the US has far more people not of Northern European ancestry. Canada probably should be the same color as the rest of Northern Europe.
+::The map is quite misleading in a number of areas. The problem is in the Cono Sur is only the most obvious. I'm going to remove the map from the article.[[User:Plantdrew|Plantdrew]] ([[User talk:Plantdrew|talk]]) 19:17, 14 June 2011 (UTC)
+
+==Make it clear==
+Lactose intolerance here refer to lactase non-persistence, its completely different from the lactose intolerance in newborns and the lactose intolerance cause by bacteria infection, or even the milk allergic.  
+[[User:Isuzu1001|Isuzu1001]] ([[User talk:Isuzu1001|talk]]) 23:47, 19 June 2011 (UTC)
+
+==What are the symptoms?==
+{{see|/Archive 1#What are the symptoms?}}
+
+I also had trouble finding a mention of symptoms; at first glance it seems like there are no obvious symptoms apart from not getting as much nutrients. But looking closer it seems it is covered in the oddly-named “Overview” section (which the previous reader didn’t even pick up on). Surely ''overview'' is part of what the [[WP:lead section]] is meant to be. I think I’ll quickly merge the two. [[User:Vadmium|Vadmium]] ([[User talk:Vadmium|talk]]) 02:00, 21 June 2011 (UTC).
+
+== Nomenclature ==
+
+Does the [by whom?] tag really need to be there after the words &quot;A counterargument to this is..&quot;?  It's a counterargument whether there's anybody out there making it or not.  You don't need citations for points of practical reason.
+
+[[Special:Contributions/60.242.254.47|60.242.254.47]] ([[User talk:60.242.254.47|talk]]) 10:47, 29 August 2011 (UTC) Tom
+:But if it's not a counterargument being made in [[WP:RS|reliable sources]], it [[WP:NOR|shouldn't be in Wikipedia]]. '''[[User:Joey Roe|joe&amp;bull;roe]]'''&lt;sup&gt;'''[[User talk:Joey Roe|t]]'''&amp;bull;'''[[Special:Contributions/Joey Roe|c]]'''&lt;/sup&gt; 11:19, 29 August 2011 (UTC)
+
+== Oi! Who deleted &quot;my&quot; stuff?! ==
+
+I spent several hours this morning researching and as a consequence edited the symptoms section. I didn't delete anything but added and clarified.  I left the structure and the access to more technical information through the references.  This afternoon, I returned to find the references and work deleted.  It has been replaced with a lengthy &quot;quasi-diagnostic/phramaceutical&quot; piece that has already been tagged for lack of references.  
+
+To whoever made the changes:  MedLine carries indemnity insurance I don't know if wiki does.  In addition Medline carries a disclaimer for their insurance.  Wiki doesn't.  In my opinion it would have been a simple courtesy to have explained here the reasons for your edit. 
+[[User:LookingGlass|LookingGlass]] ([[User talk:LookingGlass|talk]]) 20:53, 29 November 2011 (UTC)
+
+:I suppose you're talking to me? I edited your contributions to be a bit more concise, removed one of the references because it mostly duplicated the information in the other one which was much more [[WP:RS|reliable]], and moved some things to more appropriate sections. Nothing was deleted or &quot;replaced&quot; and mine is currently the top edit so nobody could possibly have added any tags to it since.
+:I take it you're not aware of the [[HELP:PH|edit history]] attached to each page. It shows every contribution, exactly what it changed, who did it, and the reasons they provided in their edit summary. Generally it isn't considered necessary to further discuss changes on the talk page unless they're particularly controversial or otherwise require discussion (which I don't think mine were).
+:As for insurance, to be honest I'm not sure what you're talking about. Wikipedia is an encyclopaedia, we don't give medical advice, and I'm sure that's written somewhere in the legalese down at the bottom of the page. But I don't see why that is relevant here. '''[[User:Joey Roe|joe&amp;bull;roe]]'''&lt;sup&gt;'''[[User talk:Joey Roe|t]]'''&amp;bull;'''[[Special:Contributions/Joey Roe|c]]'''&lt;/sup&gt; 21:56, 29 November 2011 (UTC)
+::Thanks for replying.  Yes it looks as if it was you, however I apologize as my post scrambled two observations.   Comparing your edit and mine, I can see only that you:  delineated the difference between (milk)allergy and lactase deficiency (actually less of a deficiency and more a normal condition); replaced the list of symptoms with an edited text version; and made minor changes, which in my opinion muddied it.  I've copied the symptom list so no problem, though why you believe a list is less clear than a sentence I don't understand.  No matter, it's a subjective thing, as is eliminating any more than a link that relates to another, even if related in this instance, issue: immune system and lactase level.
+::As for the disclaimer my comment should not have been included as it took issue with something general.  I think it's one of those things you see or don't.  The disclaimer is the nub of it.  Disclaimers feature prominently on medical literature, and other professional documents, and information is worded a certain way to avoid liability and damages. I guess wiki has followed/led the move away from this standard of care as it was called, in favour of an &quot;anything goes as long as there's a legal disclaimer somewhere&quot; approach.  Times have moved on but a legal obligation could be created simply by informal opinion or advice on which someone then relied.  No contract is required.  Authorative advice can be given passively.  It's not necessary (or wasn't under UK law) to be engaged but merely to occupy a position of authority.  Perhaps wiki et all are deemed not to hold that position.  [[User:LookingGlass|LookingGlass]] ([[User talk:LookingGlass|talk]]) 16:05, 2 December 2011 (UTC)
+
+== Nutritional implications ==
+
+This section has some serious issues. Overall, it looks like written by some advocator of milk consumption who wants to persuade you that lactose intolerance is actually no problem at all, and that by not consuming milk you undergo the risk of several nutritional deficiencies. Some statements are simply absurd; one part basically says that &quot;milk is fortified in some countries, therefore in these countries, if you do not consume milk, you have to find other sources, otherwise you will be deficient&quot;. If, say, in my country milk were fortified with vitamin C and I stopped consuming milk, would that mean I would develop a vitamin C deficiency? That's simply nonsense, unless there's a verifiable source saying that milk is the only main source of the mentioned nutrients in these countries.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/90.176.211.48|90.176.211.48]] ([[User talk:90.176.211.48|talk]]) 12:35, 13 December 2011 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:Feel free to [[WP:SOFIXIT|do something about it]]. '''[[User:Joey Roe|joe&amp;bull;roe]]'''&lt;sup&gt;'''[[User talk:Joey Roe|t]]'''&amp;bull;'''[[Special:Contributions/Joey Roe|c]]'''&lt;/sup&gt; 13:35, 13 December 2011 (UTC)
+::I don't know any better solution than to actually delete the first paragraph, because it simply doesn't seem to be true. However, there still might be some sources proving that it is at least partly true. What is the standard policy in such a situation? [[Special:Contributions/90.176.211.48|90.176.211.48]] ([[User talk:90.176.211.48|talk]]) 11:18, 14 December 2011 (UTC)
+:::Yeah looking at it again you're probably right. I've gone ahead and removed it per [[WP:UNSOURCED]]. '''[[User:Joey Roe|joe&amp;bull;roe]]'''&lt;sup&gt;'''[[User talk:Joey Roe|t]]'''&amp;bull;'''[[Special:Contributions/Joey Roe|c]]'''&lt;/sup&gt; 12:15, 14 December 2011 (UTC)
+==Fork doesnt make sense==
+The fork is not serving the article. As stated it is two sides of one coin. So The map of lactose intolerance is also the map for lactose persistence. Do you not think the map should be in this article? Considering most people are lactose intolerant? Obviously I came a little late (before the split). But these articles probably should have been split more carefully. &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User: Halaqah | Halaqah ]] ([[User talk: Halaqah |talk]] • [[Special:Contributions/ Halaqah |contribs]])  02:42, 23 December 2011 (UTC) &lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt;
+:I agree, a map would be useful in both articles. Although as you can see above the one that we had before (which I think the one at [[Lactase persistence]] is a straight copy of) was not very good and a lot of people pointed that out. I don't see how that invalidates the general rationale behind splitting the article into two though. '''[[User:Joey Roe|joe&amp;bull;roe]]'''&lt;sup&gt;'''[[User talk:Joey Roe|t]]'''&amp;bull;'''[[Special:Contributions/Joey Roe|c]]'''&lt;/sup&gt; 10:19, 23 December 2011 (UTC)
+:::I would correct myself and agree it doesn't violate the rational,(I didnt mean to imply that to that degree. but we do need a map. And I prefer any map rather than none. I also think there is merit in the break down by ethnicity. Thats what drew me to this page to find out the relation between cultures with milk history and their lactose persistence. --[[User:Halaqah|Halqh حَلَقَة הלכהሐላቃህ]] ([[User talk:Halaqah|talk]]) 13:11, 23 December 2011 (UTC)
+
+
+
+== Map doesn't make sense ==
+
+The map on the article is entirely unscientific. Among other things, why are continents arbitrarily divided at points that do not have any significant correlation to demographics. For example, what does the lines dividing South America or Spain in half even mean? The data itself is also very dubious. The populations of Argentina and Uruguay for instance are around 90% of European origin. It would make a lot more sense for their lactose intolerance to be lower than that of, say, Haiti or Guatemala. Someone above suggests that it might represent native populations. In that case, why are the US, Australia, New Zealand, etc. represented by their current populations? --[[Special:Contributions/132.183.15.120|132.183.15.120]] ([[User talk:132.183.15.120|talk]]) 18:43, 5 January 2012 (UTC)
+
+:You're not the first person to criticise it, and I agree it's far from perfect... but it is ''broadly'' correct, which is better than nothing. Basically I think (&quot;think&quot; because one of the problems is that there are no citations) the data is very coarse – it looks like there's just two points for South America (north and south), for example, and yes it seem likely that they've mixed studies representative of current demographics and ones restricting themselves to pre-Colombian indigenous populations. It would be great to have a better map (or even better two: one for this article with an up-to-date picture and one for [[Lactase persistence]] with a reconstructed pre-Columbian one), but see my comments [[#Correction in Lactose intolerance frequency map.|above]] on why that's far easier said than done. I'm pretty sure the map at Lactase persistence that you also remarked on is a straight copy of the one in this article, by the way. '''[[User:Joey Roe|joe&amp;bull;roe]]'''&lt;sup&gt;'''[[User talk:Joey Roe|t]]'''&amp;bull;'''[[Special:Contributions/Joey Roe|c]]'''&lt;/sup&gt; 19:23, 5 January 2012 (UTC)
+
+::There's a better map, was deleted after I added it. But it makes more sense and is made by us (Austrian society for Public Health). Would be a good map for that! Here's the link:
+http://commons.wikimedia.org/wiki/File:Worldwide_prevalence_of_lactose_intolerance_in_recent_populations.jpg
+[[User:NmiPortal|NmiPortal]] ([[User talk:NmiPortal|talk]]) 14:00, 25 June 2013 (UTC)
+
+== Reference [3] seems inadequate ==
+
+In the introduction the article states some frequencies with which different tribes become lactose intolerant and provides reference [3] as supporting evidence. When I looked up that publication it does not seem to mention any of the statistics given here. It talks about the correlation between lactose intolerance and a certain type of mutation in the LCT gene.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/128.223.56.170|128.223.56.170]] ([[User talk:128.223.56.170|talk]]) 23:16, 6 January 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:From the second paragraph in the introduction section of the [http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0100-879X2007001100004&amp;lng=en&amp;nrm=iso&amp;tlng=en source in question]:
+::The condition affects more than 75% of the population worldwide, with regional frequencies ranging from nearly 5% in northern Europe to more than 90% in some Asian and African countries.
+:Which (almost word for word) backs up what we're using it as a reference for in the lead. '''[[User:Joey Roe|joe&amp;bull;roe]]'''&lt;sup&gt;'''[[User talk:Joey Roe|t]]'''&amp;bull;'''[[Special:Contributions/Joey Roe|c]]'''&lt;/sup&gt; 07:58, 7 January 2012 (UTC)
+
+
+==Symptoms section==
+I think I might b lactose intolerant. Anyway. Is this section therefore saying a person without this issue (if it is an issue) can drink 2L of milk and nothing would happen? Like if they drank water? So therefore it is a sliding scale of symptoms. cuz I drink milk all the time, but up until the 4th glass, I thought it was normal for that to happen. --[[User:Halaqah|Halqh حَلَقَة הלכהሐላቃህ]] ([[User talk:Halaqah|talk]]) 11:18, 7 January 2012 (UTC)
+
+On a net search, I can't find a reference or evidence for a link of lactose intolerance to acid reflux. Shouldn't there be a reference on the symptoms list?
+[[User:JohnOFL|JohnOFL]] ([[User talk:JohnOFL|talk]]) 02:59, 18 February 2012 (UTC)
+
+==Question of Degree==
+Lactose intolerance is also a continuum not an either/or issue like this article makes people think. This article is a little misleading. It can be a question of degree for many people.
+
+Some people can have a small amount of milk products (such as a few drops in a cup of coffee) and not be too affected to be uncomfortable - while a larger amount may cause serious bowel problems.
+
+Also cream has less lactose than milk so they are not necessarily the same in all lactose intolerant people. Cheese is also different. 
+
+So it is not so simple to explain to people who are not lactose intolerant. 
+
+I know because I am somewhat lactose intolerant myself.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/187.171.192.148|187.171.192.148]] ([[User talk:187.171.192.148|talk]]) 03:29, 29 February 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:Where specifically in the article do you think this isn't made clear? '''[[User:Joey Roe|joe&amp;bull;roe]]'''&lt;sup&gt;'''[[User talk:Joey Roe|t]]'''&amp;bull;'''[[Special:Contributions/Joey Roe|c]]'''&lt;/sup&gt; 07:07, 29 February 2012 (UTC)
+
+== Mammilian Lactase persistence ==
+
+The statement &quot;Among mammals, lactase persistence is unique to humans –&quot; at [[Lactose intolerance#Lactase persistence|Lactase persistence]] needs strong support.  [[Southern United States |Southern US]] farm families for generations had domesticated cats which were strongly attracted to dairy milk and routinely drank milk daily.  I have never seen a cat get sick from drinking milk; perhaps they do - again it needs support since it runs counter to the experience of many rural people.&lt;br&gt;
+[[User:SBaker43|SBaker43]] ([[User talk:SBaker43|talk]]) 01:16, 18 April 2012 (UTC)
+
+:I think this fact is well enough supported; it's stated in a number of the references, including the one actually cited in the section you're referring to ([http://www.annualreviews.org/doi/abs/10.1146/annurev.genet.37.110801.143820]).
+:As it happens, milk isn't good for cats or any other adult animal. It shouldn't be too hard to dig up your own sources for that. I suppose that's something that could fall under the scope of this article, actually. '''[[User:Joey Roe|joe&amp;bull;roe]]'''&lt;sup&gt;'''[[User talk:Joey Roe|t]]'''&amp;bull;'''[[Special:Contributions/Joey Roe|c]]'''&lt;/sup&gt; 17:45, 8 May 2012 (UTC)
+
+::References or not, &quot;human lactase persistence&quot; is actually quite rare among ethnic groups.  But the dairy industry would much rather you believed this myth.
+
+::It's true that there are many pictures and stories involving cats liking a bowl of dairy stuff.  What is actually OK for most of them is '''cream''' — thick cream that is mostly butterfat containing relatively little lactose.[[User:Daqu|Daqu]] ([[User talk:Daqu|talk]]) 22:58, 9 May 2015 (UTC)
+
+==Norm==
+I think the article needs to make it clear that &quot;lactase intolerance&quot; is not really a &quot;deficiency&quot; but the norm among the peoples of the world. IN evolutionary terms Lactose intolerance is the ancestral terms and lactase persistence is the mutation that became prevalent as an adaptation in cultures that have a long history of dairy consumption. The point is that it is misleading to suggest that lactose intolerance is a medical problem or condition when in fact it is the ancestral condition which is still present in the majority of the worlds population.[[User:Maunus|·ʍaunus]]·[[User talk:Maunus|snunɐw·]] 15:47, 8 May 2012 (UTC)
+
+:As usual it's semantics. Absence of lactase is indeed the norm for adults and the ancestral condition for all mammals (I hope that's clear enough in the article – it's mentioned in the lead, again in the &quot;Terminology&quot; section and the section and article on [[lactase persistence]] goes into more detail on the evolutionary history) but nevertheless if you try to drink a glass of milk you'll find it a deficiency.
+:At the end of the day though it is thought of (and formally classified, and diagnosed, and treated...) as a medical problem in Western countries where milk-drinking is the norm and there's a plethora of reliable sources that take that position. We can't ignore those any more than we can ignore the global anthropological/evolutionary perspective. There are also variants of lactose intolerance that affect infants (i.e. acquired lactase deficiency and congenital lactase deficiency) which most definitely are medical problems, sometimes life-threatening ones, wherever you are in the world. '''[[User:Joey Roe|joe&amp;bull;roe]]'''&lt;sup&gt;'''[[User talk:Joey Roe|t]]'''&amp;bull;'''[[Special:Contributions/Joey Roe|c]]'''&lt;/sup&gt; 17:56, 8 May 2012 (UTC)
+::I think there is good reason to distinguish more clearly between acquired and congential lactase deficiency that I agree are medical problems and the normal kind. This could be spelled out more explicitly in the lead I think. There is also literature in Darwinian medicine that criticize the medicalization of lactase inpersistence and the normalization of lactose tolerance (which for example has lead to nonsensical events such as the Chinese government trying to increase milk consumption in its highly lactose intolerant population using a copy of the &quot;Got Milk&quot; campaign).[[User:Maunus|·ʍaunus]]·[[User talk:Maunus|snunɐw·]] 18:01, 8 May 2012 (UTC)
+:::It would be great to incorporate that literature into the article. Do you have any links? '''[[User:Joey Roe|joe&amp;bull;roe]]'''&lt;sup&gt;'''[[User talk:Joey Roe|t]]'''&amp;bull;'''[[Special:Contributions/Joey Roe|c]]'''&lt;/sup&gt; 18:07, 8 May 2012 (UTC)
+::::I'll look it up. I am thinking specifically of Wenda Trevathan's &quot;Ancient bodies modern lives&quot; which I have at home. I'll look at how to include it if you sdon't beat me to it.[[User:Maunus|·ʍaunus]]·[[User talk:Maunus|snunɐw·]] 18:09, 8 May 2012 (UTC)
+*Here's an article we could use: &quot;''Cow's milk is accorded a high cultural value in the contemporary United States. Its white color, association with the maternal and the pastoral, and repeated mention in the Bible add positive symbolic weight to this major national agricultural commodity. Thus, it comes as no surprise that influential policy-making institutions in the United States recommend milk consumption for all U.S. groups. This is despite variation in adult populations' abilities to digest milk, which has been documented by biological anthropologists. This article assesses various U.S. “stories” about milk consumption and its relationship to biological variation against the biological anthropological explanation of variation in lactase activity/lactose tolerance. Many of these serve as normalizing discourses that ultimately pathologize biological difference and may undermine the dietary traditions of some ethnic groups. In particular, the close relationship between government and the dairy industry leads to policies that fail to seriously consider variation in digestive physiology among the diverse U.S. populations''.&quot;(WILEY, A. S. (2004), “Drink Milk for Fitness”: The Cultural Politics of Human Biological Variation and Milk Consumption in the United States. American Anthropologist, 106: 506–517. doi: 10.1525/aa.2004.106.3.506)[[User:Maunus|·ʍaunus]]·[[User talk:Maunus|snunɐw·]] 15:54, 9 May 2012 (UTC)
+*Another one by the same author that also argues about China and India: Andrea S. Wiley. 2011. Milk for “Growth”: Global and Local Meanings of Milk Consumption in China, India, and the United States. Food and Foodways. Vol. 19, Iss. 1-2, 2011[[User:Maunus|·ʍaunus]]·[[User talk:Maunus|snunɐw·]] 15:59, 9 May 2012 (UTC)
+*This one is particularly critical: Wiley, Andrea S. (2007) Transforming milk in a global economy. American Anthropologist 109(4):666-677. &quot;Large-scale milk production and consumption historically have been localized to Europe and countries with large Europeanderived populations. However, global patterns have now shifted, with dramatic increases in milk consumption in Asian countries and flat or declining consumption in European and European-derived countries. Efforts to market it around the world emphasize milk’s positive effects on child growth, and, by extension, the individual and national benefits that derive from that growth. At the same time, milk has newly emerged in milk promotions in the United States as food that facilitates weight loss. Milk has been able to achieve a global presence and continuing relevance in populations in which its consumption has been declining by continually transforming and repositioning itself as a “special” food with properties able to alleviate the health concerns seen as most salient at the time. &quot;[[User:Maunus|·ʍaunus]]·[[User talk:Maunus|snunɐw·]] 16:07, 9 May 2012 (UTC)
+
+:::::I completely disagree that milk-drinking among adults is the norm in the U.S. Rather, the extremely influential dairy industry in the U.S. has for a very long time manipulated the federal government to list dairy as a &quot;major food group&quot; even though it is not at all that for most adults.  Because the U.S. has had a lot of people of Northern European extraction, this myth has been allowed to stand. 
+
+:::::One person above wrote: &quot;If you try to drink a glass of milk you'll find it a deficiency.&quot;  '''That is udder nonsense''' (pun intended) '''!''' That is exactly as logical as saying that if you walk across the street without looking both ways you will find that your body's lack of armor plating is a deficiency.  It is not just &quot;semantics&quot; at all, unless you actually look up the word &quot;semantics&quot; and find that its definition is the meanings of words. Yes! Meanings of words are important!  They can express both truths and untruths.~
+
+:::::Before noticing this section I began a new one with the same point. But this cannot be said enough.  And it looks to me as if the dairy industry has its own agents trying to manipulate this article.[[User:Daqu|Daqu]] ([[User talk:Daqu|talk]]) 23:14, 9 May 2015 (UTC)
+
+== Citation needed for an image? ==
+
+I'm agnostic on whether we should include [[:File:Laktoseintoleranz-1.svg]] in this article or not (it's already been added and removed a dozen times). It's not a good map, but it's also the best we have, and an illustration of this type is very helpful.
+
+However, I don't think a citation needed tag is appropriate. The image is attributed, albeit not very precisely, on both its Wikipedia and Commons description pages to the German newspaper ''Die Zeit''. Whether the newspaper cites the source of the data or not I don't know, but that's beside the point; as far as we're concerned the map comes from a reliable source so we can use it. As far as I know it's never been common practice to attribute or source images inline when they're included in an article, so I've removed the tag. '''[[User:Joey Roe|joe&amp;bull;roe]]'''&lt;sup&gt;'''[[User talk:Joey Roe|t]]'''&amp;bull;'''[[Special:Contributions/Joey Roe|c]]'''&lt;/sup&gt; 08:11, 21 June 2012 (UTC)
+
+
+== diagram lactase persistence ==
+The diagram I added was deleted with text &quot;nonsensical diagram&quot;. Well, it's not nonsensical, it's a very well researched diagram. I will not add it again, because I don't wanna get banned for &quot;spamming&quot;, but I would like the community to decide, if the diagram should be used again. And if anyone really thinks it's nonsensical, ad least I'd like to hear why (after 2 years of collecting scientific data in various publications) you think so. 
+File: http://commons.wikimedia.org/wiki/File:Worldwide_prevalence_of_lactose_intolerance_in_recent_populations.jpg
+[[User:NmiPortal|NmiPortal]] ([[User talk:NmiPortal|talk]]) 11:44, 23 April 2013 (UTC)
+:We should have an image, if possible. This one seems similar to that in the previous section, and rather different to the one in ''Nature'' [http://www.nature.com/news/archaeology-the-milk-revolution-1.13471 here]. [[User:Johnbod|Johnbod]] ([[User talk:Johnbod|talk]]) 12:29, 6 January 2014 (UTC)
+
+== Unclear sentence ==
+
+Picky, but
+
+&quot;After the curdling process, lactose is found in the water-based portion (along with whey and casein), but not in the fat-based portion.&quot;  Of??????
+
+[[Special:Contributions/74.190.202.119|74.190.202.119]] ([[User talk:74.190.202.119|talk]]) 22:06, 8 January 2014 (UTC)Ruthe[[Special:Contributions/74.190.202.119|74.190.202.119]] ([[User talk:74.190.202.119|talk]]) 22:06, 8 January 2014 (UTC)
+
+== &quot;quarters&quot;? - or &quot;quadruples&quot;? ==
+
+This line in the lede took me aback:
+:''it prevents babies from drinking human milk, which nearly quarters its risk of Sudden Infant Death Syndrome.
+Surely it's &quot;quadruples&quot; that's meant?[[User:Skookum1|Skookum1]] ([[User talk:Skookum1|talk]]) 02:13, 3 April 2014 (UTC)
+
+== What causes the symptoms? ==
+
+The article gives two causes for the symptoms of lactose intolerance.
+
+1. “...symptoms are caused by insufficient levels of lactase in the lining of the duodenum.” 
+
+2. “ Bacteria in the colon can metabolise lactose, and the resulting fermentation produces copious amounts of gas (a mixture of hydrogen, carbon dioxide, and methane) that causes the various abdominal symptoms.”
+
+Which one of these is correct?
+
+Also, under the heading Symptoms the article states &quot;These appear one-half to two hours after consumption”. So this implies that lactose can reach the colon and begin fermenting enough to produce recognisable symptoms in as little as 30 minutes! Is this possible?
+A test for lactose intolerance is given: the Hydrogen breath test. In this test hydrogen can be detected on the breath 2.5 hours after the ingestion of lactose. Following 2 above, how does the lactose get to the colon and then the hydrogen to the breath in 2.5 hours?
+ 
+I cannot claim any expertise in this subject, but the article appears contradictory. Perhaps the hydrogen gas is produced in the duodenum? It would certainly fit better with the time scales given for the appearance of symptoms and for the testing methods used.
+[[User:Winstanr|Winstanr]] ([[User talk:Winstanr|talk]]) 11:43, 14 October 2014 (UTC)
+
+== suggestion for clarification ==
+
+I did not have time to read this entire &quot;Talk:&quot; page, so feel free to enlighten me, &quot;if applicable&quot;. 
+
+To me, the sentence &lt;blockquote&gt;'''Congenital lactase deficiency''' prevents babies from drinking even [[human milk]].&lt;/blockquote&gt;seems ambiguous.  I read it as referring to '''&quot;some&quot;''' babies, or with the implied adverbial phrase '''&quot;in some cases&quot;''' missing but &quot;understood&quot;. 
+
+Technically, however, that sentence '''''could''''' be interpreted as implying that all [or, almost all] [human] babies, are prevented (by '''congenital lactase deficiency''') from drinking even [[human milk]].  IMHO, if that is not the intent, then the wording should be changed. 
+
+IMHO, either the word '''&quot;some&quot;''' (&quot;some&quot; babies), or else the adverbial phrase '''&quot;in some cases&quot;''' should be [[explicitly]] stated in that sentence.  For example, &lt;blockquote&gt;In some cases, '''congenital lactase deficiency''' prevents babies from drinking even [[human milk]].&lt;/blockquote&gt;OR &lt;blockquote&gt;In some cases, babies have '''congenital lactase deficiency''' which prevents them from drinking even [[human milk]].&lt;/blockquote&gt;
+
+Ordinarily, I would have just been so [[Wikipedia:Be bold|bold]] as to go ahead and make that change, but the (huge!) portion of this &quot;Talk:&quot; page that I did read (but it's a small '''percentage''' of the ''whole'' &quot;Talk:&quot; page!), has caused me to think that I might be making a mistake, if I did not seek [[Wikipedia:Consensus|consensus]] first. 
+
+Any advice?  or other comments? Thanks!... --[[User:Mike Schwartz|Mike Schwartz]] ([[User talk:Mike Schwartz|talk]]) 22:50, 14 January 2015 (UTC)
+
+:Actually, the &quot;[[Lactose_intolerance#Terminology|Terminology]]&quot; section of the article, '''''already''''' contains (as its 3rd bullet point), this: 
+::* Congenital lactase deficiency  is a very rare, [[autosomal recessive]] genetic disorder that prevents lactase expression from birth.&lt;sup&gt;[footnote, &quot;Heyman 2006&quot;]&lt;/sup&gt; It is particularly common in [[Finland]].&lt;sup&gt;[footnote, &quot;Behrendt 2009&quot;]&lt;/sup&gt; People with congenital lactase deficiency cannot digest lactose from birth, so cannot digest breast milk.
+
+:...so, *** maybe *** the revised sentence, should be something more like &lt;blockquote&gt;In some (rare) cases, babies have '''congenital lactase deficiency,''' which prevents them from drinking even [[human milk]].&lt;/blockquote&gt;
+
+:(right?) --[[User:Mike Schwartz|Mike Schwartz]] ([[User talk:Mike Schwartz|talk]]) 23:27, 14 January 2015 (UTC)
+
+== Spelling differences ==
+
+Just a trivial thing, but does anyone else think there should be a uniformity for the spelling of words within the article? Spelling &quot;yogurt/yoghurt&quot; both ways is cool and all, and ''technically'' correct, but I'm of the opinion that things like this distract from the article itself, and that's ''not'' cool. Thoughts anybody? [[User:RazingRazor|RazingRazor]] ([[User talk:RazingRazor|talk]]) 10:38, 19 April 2015 (UTC)
+
+:Agreed.  And since &quot;yoghurt&quot; is a much more interesting spelling, why not let's use that one?[[User:Daqu|Daqu]] ([[User talk:Daqu|talk]]) 22:53, 9 May 2015 (UTC)
+
+== Big problem with article ==
+
+A big problem with this article is that it treats lactose intolerance as a disease or disorder — '''exactly''' what the dairy industry would like you to think.
+
+It is '''not''' a disease. Quite the contrary, almost all ethic groups other than Northern Europeans lose much of their ability to digest milk by the time they are 5 to 8 years old.
+
+I do not dispute that some diseases may be associated with lactose intolerance.  And I do not dispute that lactose intolerance may be inconvenient and undesirable for people who have come to enjoy dairy products.
+
+Referring to &quot;lactase deficiency&quot; — rather than to the normal process of lessened lactase production as a child grows older — is one way that this article keeps up the misleading appearance that lactose intolerance is a disorder.
+
+This article needs to be rewritten '''in a big way''' so as to dispel the misimpression it gives that lactose intolerance is a disorder.
+
+From a section above:  &quot;Lactose intolerance] is thought of ... as a medical problem in Western countries where milk-drinking is the norm and there's a plethora of reliable sources that take that position. We can't ignore those any more than we can ignore the global anthropological/evolutionary perspective.&quot;
+
+More '''udder nonsense!'''  Just because many people including supposed authorities on marriage statistics have written that the chance of a woman's ever marrying if she is still single by age 40 is the same as her chance of being killed by a terrorist. 
+There is no basis for this claim.  And just as it should be treated as the myth that it is,  the very same thing applies the the often-repeated lie that lactose intolerance is a disorder.  (For many decades and perhaps longer, a common medical myth believed even by many physicians was that if one burned one's fingers, a good remedy was to smear butter on the burn.  It turns out there is no truth to this.  So, in cases where the medical community has failed to grasp some truth, there is no reason in the world that the same myth should be believed '''or disseminated''' by anyone else.
+
+We have a huge responsibility when writing for Wikipedia to adhere to what is actually true and not perpetuate falsehoods.  At one point I noticed a falsehood was being perpetuated on Wikipedia and wondered why.  The references that were used for this claim in this article, as well as hundreds more websites that repeated the myth . . . all traced back to that Wikipedia article in the first place.  We live in a big echo chamber.  There are many special interests who are constantly trying to hijack the vehicle of Wikipedia to promote &quot;their own version of the truth&quot;, or more accurately their own lies. We must try our best to avoid letting them do this.[[User:Daqu|Daqu]] ([[User talk:Daqu|talk]]) 23:52, 9 May 2015 (UTC)
+:: Agree completely. This article has some european systematic bias. It's not lactose intolerance which is strange, it's lactase persistence! Anyway, some rewording should be done. [[Special:Contributions/50.187.216.93|50.187.216.93]] ([[User talk:50.187.216.93|talk]]) 23:33, 4 August 2015 (UTC)
+
+== Adults or all people? ==
+
+The lead says &quot;inability of adults to digest lactose&quot;, but it also covers congenital LI. This is rather odd. I'm glad we have [[lactase persistence]], but I think it's possible that this article should be replaced with &quot;Congenital lactose intolerance&quot; and &quot;secondary lactose intolerance&quot;, and instead of primary lactose intolerance, &quot;lactase persistence&quot;, cause that seems to be the most proper term. [[Special:Contributions/50.187.216.93|50.187.216.93]] ([[User talk:50.187.216.93|talk]]) 23:49, 4 August 2015 (UTC)
+	</talkpage>
+</article>

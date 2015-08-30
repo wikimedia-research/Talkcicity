@@ -1,0 +1,59 @@
+<article id="340928" title=Talk:The Four Spiritual Laws>
+	<talkpage id="340928" title="Talk:The Four Spiritual Laws">
+{{ChristianityWikiProject|class=start|importance=low}}
+
+I reverted to an earlier version to restore neutrality to the article. The poorly written comments supposedly representing reformed theology were not balanced; they would be better served on the entry for reformed theology to distinguish that theological belief system from others. To be offered here, we would have to include commentary from every spiritual persuasion that agrees or disagrees with evangelical Christianity. I think Wikipedia readers are smart enough to know that there are other theological persuasions and can learn about those easily enough. --[[User:Sixtrojans|Sixtrojans]] 20:21, 1 April 2006 (UTC)
+
+I change Christians to people not trying to  make it pov, but the purpose of the tract is get people to understand they need Christ. So if you are trying to relay the 4 laws  ''correctly'' it would people not Christians, once &quot;people&quot; see their need for Jesus than they would be come Christians ( I hope this makes sense)[[User:Smith03|Smith03]] 02:09, 15 Oct 2003 (UTC)
+
+: You make a good point. I wonder though if it wouldn't be best to quote the tract verbatim, assuming there's no copyright issue. I doubt Bill Bright would mind! This article should document the original tract and perhaps say more about how it's been used, etc. Perhaps there are other angles to cover as well? [[User:Wesley|Wesley]] 17:14, 5 Dec 2003 (UTC)
+
+::According to [http://www.greatcom.org/laws/]: &quot;The Four Spiritual Laws was written by Dr. Bill Bright © 1965,1995 Campus Crusade for Christ. '''All Rights Reserved'''  Internet version, including graphics, copyright © 1995 by Campus Crusade for Christ International. '''All Rights Reserved'''.&quot;  [[User:A-giau|A-giau]] 20:34, 2 April 2006 (UTC)
+
+I am not a Christian, but am interested in this work as an (ideally) objective outsider. So I find this statement odd: &quot;Use of the tract is widespread and continues today in various forms and multiple languages by Evangelical Christians in their efforts to explain their faith to non-Evangelical Christians.&quot;
+
+Certainly the pamphlet is used to explain one's faith not just to non-Evangelical Christians, but to non-Christians as well, right? Does anyone else find this wording a bit biased? Furthermore, it does not seem to be based on the source referenced (where &quot;millions of men and women&quot; would seem to be the target audience).  --[[User:Arabicas.Filerons|Arabicas.Filerons]] ([[User talk:Arabicas.Filerons|talk]]) 18:53, 1 July 2013 (UTC)
+
+==Bible Verses in the Four Spiritual Laws==
+Text says:
+:The four spiritual laws are:
+::1. God loves you and offers a wonderful plan for your life. (John 3:16, John 10:10)
+The bible says nothing of that kind at the cited places. Am I missing something important ... or is something missing in the article? The three other &quot;laws&quot; also seem to have very vague and weak connection to those &quot;laws&quot; of Bill Bright, so some kind of interpretation would be appropriate in the article. &lt;span style=&quot;background-color: #FFFF80; color: #800000&quot;&gt;''[[User:Rursus|Rursus]]''&lt;/span&gt; 20:09, 15 March 2007 (UTC)
+:The site [http://campuscrusade.com/four_laws_online.htm ''The Four Spiritual Laws'' at Campus Crusade] also don't tell us the connection betw stmt 1. and (John 3:16, John 10:10). Interpretation from Bible to Bright-laws needed. &lt;span style=&quot;background-color: #FFFF80; color: #800000&quot;&gt;''[[User:Rursus|Rursus]]''&lt;/span&gt; 20:12, 15 March 2007 (UTC)
+::While I have serious issues with this tract, it is reasonable to draw the conclusion that &quot;God loves you&quot; from John 3.16 (&quot;For God so loved the world...&quot;), and only certain types of Calvinist exegesis would deny this. John 10.10 says &quot;I came that they may have life and have it abundantly.&quot; While this is not identical to the statement &quot;God has a wonderful plan for your life&quot;, it is saying ''something'' of that kind. But a critique would be good here, within the limits suggested below by [[User:Sixtrojans|Sixtrojans]]: I do wonder what Bill Bright would make of the story of Lazarus and the rich man in Luke 16. Lazarus lived and died in wretched poverty&amp;mdash;hard to see this as &quot;God's wonderful plan&quot;. [[User:Copey 2|Copey 2]] ([[User talk:Copey 2|talk]]) 12:10, 21 June 2008 (UTC)
+
+The Bible references in the Wikipedia article correspond to the Bible verses contained in the Four Spiritual Laws booklet that you can find online. Remember, this is an article about a specific subject matter (in this case Bill Bright's Four Spiritual Laws). Wikipedia isn't the place for a theological debate on Bright's understanding of the Bible. You can report on different opinions about Bright's theology if you reference credible and verifiable sources. --[[User:Sixtrojans|Sixtrojans]] 20:34, 15 March 2007 (UTC)
+
+== What a mess! Full of original and/or unsourced material. No attempt at NPOV. ==
+
+The article appears to contain large amounts of original research. 
+
+Many statements are unsourced, including dubious claims such as that Campus Crusade is the world's largest Christian ministry. (Does the author, for example, believe it to outnumber the Roman Catholic Church, which has 1.2 billion adherents? Or does the author mean tacitly to deny the Christianity of the Roman church, a clear violation of NPOV.)
+
+Even for sourced statements, the only cited sources are from the website of the publishers of the tract, which can hardly be considered objective or even reliable without further substantiation or contributory to NPOV.
+
+The bulk of the article appears to be an extended presentation -- in unattributed quotations, and paraphase -- of the contents of the tract, which may or may not exceed the boundaries of fair use of copyright material. Such original material as appears here seems to designed to proselytize the reader rather than to explain the contents of the work to the reader from an NPOV.
+
+This article needs to be completely re-written from reliable secondary sources, if in fact the noteworthiness of the subject can be established from such sources (I do not claim either that it can or that it cannot). Otherwise, it should be a candidate for deletion.
+
+[[Special:Contributions/72.76.9.153|72.76.9.153]] ([[User talk:72.76.9.153|talk]]) 05:16, 9 October 2013 (UTC)
+
+: I don't believe you did a merge. This is more of a deletion, so I'm undoing it, and will work on neutrality. Merging this into Bill Bright's article? The current information about this is on Campus [[Cru (Christian organization)| Crusade for Christ]] site.[http://www.crustore.org/fourlawseng.htm] I don't see why you think that the Evangelical circles are so small that this information is not notable. Who are you? [[User:Alrich44|Alrich44]] ([[User talk:Alrich44|talk]]) 16:53, 5 October 2014 (UTC)
+
+You're talking to an IP who posted a message a year ago. But he's mostly right. This article needs reliable sources [[WP:RS]] to establish notability. It should probably be merged into another article. AND it needs to be written in a NPOV [[WP:NPOV]] manner. --[[User:Harizotoh9|Harizotoh9]] ([[User talk:Harizotoh9|talk]]) 04:54, 6 October 2014 (UTC)
+
+&lt;blockquote&gt;The current information about this is on Campus Crusade for Christ site.[2] &lt;/blockquote&gt;
+
+Which is not a reliable third party source. We need sources other than the organization itself. --[[User:Harizotoh9|Harizotoh9]] ([[User talk:Harizotoh9|talk]]) 05:42, 6 October 2014 (UTC)
+
+:Hi [[User:Harizotoh9|Harizotoh9]], I know it's an IP used by a person, and I did note the date. Thanks for obvious. I would agree that a move to Cru would make sense. [[User:Alrich44|Alrich44]] ([[User talk:Alrich44|talk]]) 13:08, 7 October 2014 (UTC)
+
+::Done. I moved this article to Cru and copied it to Bill Bright's article [[User:Alrich44|Alrich44]] ([[User talk:Alrich44|talk]]) 13:50, 7 October 2014 (UTC)
+
+== Notability and format: ==
+
+The article currently has zero actual citations. I can't find any real notability for this evangelistic tract. I can find some references in books, but they are very closely tied to [[Campus Crusade for Christ]]. So it would make more sense to merge it there or elsewhere.
+
+Also the article is written about in a very unecyclopedic manner. No reliable sources. Simply summarizes the tract. --[[User:Harizotoh9|Harizotoh9]] ([[User talk:Harizotoh9|talk]]) 01:41, 6 October 2014 (UTC)
+	</talkpage>
+</article>
