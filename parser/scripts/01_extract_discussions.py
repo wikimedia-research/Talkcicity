@@ -205,14 +205,23 @@ def wiki_discussion_scraper(article_title):
 
     return xml
 
+# Identify the namespace to prepend to the page title.
+def namespace_select(namespace):
+  if namespace == "1":
+    return "Talk"
+  elif namespace == "3":
+    return "User talk:"
+  elif namespace == "4":
+    return "Wikipedia:"
+  raise KeyError("Namespace not supported");
 
 def load_id_list_from_file(file_name):
-
+    
     csvP = re.compile(r'(.?\d+)\s(.*)\n')
-
+    
     d = {}
     f = codecs.open(file_name, 'r', 'utf-8')
-
+    
     j = 0
     for line in f:
         if line[0] != '#':
