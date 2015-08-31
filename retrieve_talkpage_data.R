@@ -31,8 +31,7 @@ main <- function(){
                                               AND page_title IN (", noticeboards, ")"), "enwiki")
   
   results <- as.data.frame(rbind(data, noticeboard_data))
-  write.table(results[,c("page_id", "page_title")], file = "./data/parser_input.tsv", row.names = FALSE, quote = FALSE, sep = "\t")
-  write.table(results, file = "./data/retrieved_pages.tsv", row.names = FALSE, quote = FALSE, sep = "\t")
+  write.table(results, file = "./data/parser_input.tsv", row.names = FALSE, col.names = FALSE, quote = FALSE, sep = "\t")
   
   system("python ./parser/scripts/01_extract_discussions.py -l ./data/parser_input.tsv")
 }

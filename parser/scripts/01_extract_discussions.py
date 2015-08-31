@@ -6,6 +6,7 @@ import codecs
 import time
 import random
 import argparse
+import codecs
 from xml.sax.saxutils import unescape
 
 parser = argparse.ArgumentParser(description='Extract talk pages associated to one or more Wikipedia articles through the API')
@@ -207,62 +208,44 @@ def wiki_discussion_scraper(article_title):
 
 # Identify the namespace to prepend to the page title.
 def namespace_select(namespace):
-  if namespace == "1":
-    return "Talk"
-  elif namespace == "3":
-    return "User talk:"
-  elif namespace == "4":
-    return "Wikipedia:"
-  raise KeyError("Namespace not supported");
+    # if desired this could be pulled out somehow for an API check of what namespaces it actually has but that's gravy
+    namespace_titles = {1: u"Talk:", 3: u"User talk:", 4: u"Wikipedia:", 5: u"Wikipedia talk:"}
+    return namespace_titles[namespace];
 
 def load_id_list_from_file(file_name):
-    
-    csvP = re.compile(r'(.?\d+)\s(.*)\n')
-    
-    d = {}
-    f = codecs.open(file_name, 'r', 'utf-8')
-    
-    j = 0
-    for line in f:
-        if line[0] != '#':
-            csvM = csvP.match(line)
-            if csvM:
-                d[int(csvM.group(1))] = csvM.group(2)
-                j += 1
-            else:
-                print 'problem matching line ' + line
-    f.close()
-    print '%d lines read from file %s' % (j, file_name)
-    return d
-
+  article_identifiers = []  # should be a list of tuples with (title, namespace number)
+  with codecs.open(file_name, 'r', 'utf-8') as f:
+      for line in f:
+          info_list = line.strip().split('\t')  # strip newline, split on tab
+          article_identifiers.append((info_list[0].strip(), info_list[1].strip(), info_list[2].strip()))
+  return article_identifiers;
 
 if __name__ == '__main__':
-    titles = load_id_list_from_file(args.article_list)
-    print titles
-    for id in sorted(titles):
-        if verbose or debug: print u'\nProcessing article: ' + unicode(id) + u' ' + titles[id]
-        if write_log:
-            try:
-                log.write(u'\n\n' + unicode(id) + u' ' + titles[id] )
-            except:
-                log.write(u'\n\n' + unicode(id) + u' Exception writing article title')
-        t = string.replace(titles[id],u' ', u'_')
-
-        xml = wiki_discussion_scraper(u"Talk:" + titles[id] ) #titles[id])
-        print(u'Talk:' + titles[id])
-        if xml == '':
-            not_found.append(titles[id])
-            if debug: print u'   Talk page not found: ' + u"Talk:" + titles[id]
-            if write_log:
-                try:
-                    log.write(u'\n   Talk page not found: ' + u"Talk:" + titles[id] )
-                except:
-                    log.write(u'\n   Talk page not found: ' + unicode(id) + u' Exception writing article title')
-        else:
-            f_out = codecs.open(args.output_folder + 'article_talk_' + str(id) + '.wikitext', 'w', 'utf-8')
-            f_out.write(xml)
-            f_out.close()
-        log.flush()
+    entries = load_id_list_from_file(args.article_list)
+    for entry in entries:
+      if verbose or debug: print u'\nProcessing article: ' + unicode(entry[1]) + u' ' + entry[2]
+      if write_log:
+          try:
+              log.write(u'\n\n' + unicode(entry[1]) + u' ' + unicode(entry[2]) )
+          except:
+              log.write(u'\n\n' + unicode(entry[1]) + u' Exception writing article title')
+      t = string.replace(entry[2],u' ', u'_')
+      full_title = namespace_select(entry[0]) + entry[2]
+      xml = wiki_discussion_scraper(full_title)
+      print(full_title)
+      if xml == '':
+          not_found.append(entry[2])
+          if debug: print u'   Talk page not found: ' + full_title
+          if write_log:
+              try:
+                  log.write(u'\n   Talk page not found: ' + full_title)
+              except:
+                  log.write(u'\n   Talk page not found: ' + entry[1] + u' Exception writing article title')
+      else:
+          f_out = codecs.open(args.output_folder + 'article_talk_' + str(entry[1]) + '.wikitext', 'w', 'utf-8')
+          f_out.write(xml)
+          f_out.close()
+      log.flush()
 
     print '\nEnd. Not found: %d articles:' % len(not_found)
     for t in not_found: print u'  ' + t
