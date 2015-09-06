@@ -220,32 +220,36 @@ def load_id_list_from_file(file_name):
           article_identifiers.append((info_list[0].strip(), info_list[1].strip(), info_list[2].strip()))
   return article_identifiers;
 
-if __name__ == '__main__':
+def main():
     entries = load_id_list_from_file(args.article_list)
     for entry in entries:
-      if verbose or debug: print u'\nProcessing article: ' + unicode(entry[1]) + u' ' + entry[2]
-      if write_log:
-          try:
-              log.write(u'\n\n' + unicode(entry[1]) + u' ' + unicode(entry[2]) )
-          except:
-              log.write(u'\n\n' + unicode(entry[1]) + u' Exception writing article title')
-      t = string.replace(entry[2],u' ', u'_')
-      full_title = namespace_select(entry[0]) + entry[2]
-      xml = wiki_discussion_scraper(full_title)
-      print(full_title)
-      if xml == '':
-          not_found.append(entry[2])
-          if debug: print u'   Talk page not found: ' + full_title
-          if write_log:
-              try:
-                  log.write(u'\n   Talk page not found: ' + full_title)
-              except:
-                  log.write(u'\n   Talk page not found: ' + entry[1] + u' Exception writing article title')
-      else:
-          f_out = codecs.open(args.output_folder + 'article_talk_' + str(entry[1]) + '.wikitext', 'w', 'utf-8')
-          f_out.write(xml)
-          f_out.close()
-      log.flush()
+        if verbose or debug:
+            print(u'\nProcessing article: {0} {1}'.format(entry[1], entry[2]))
+        if write_log:
+            try:
+                log.write(u'\n\n {0} {1}'.format(entry[1], entry[2]))
+            except:
+                log.write(u'\n\n {} Exception writing article title'.format(entry[1]))
+    t = string.replace(entry[2],u' ', u'_')
+    full_title = namespace_select(int(entry[0])) + entry[2]
+    xml = wiki_discussion_scraper(full_title)
+    print(full_title)
+    if xml == '':
+        not_found.append(entry[2])
+        if debug: print u'   Talk page not found: ' + full_title
+        if write_log:
+            try:
+                log.write(u'\n   Talk page not found: ' + full_title)
+            except:
+                log.write(u'\n   Talk page not found: ' + entry[1] + u' Exception writing article title')
+    else:
+        f_out = codecs.open(args.output_folder + 'article_talk_' + str(entry[1]) + '.wikitext', 'w', 'utf-8')
+        f_out.write(xml)
+        f_out.close()
+    log.flush()
 
     print '\nEnd. Not found: %d articles:' % len(not_found)
     for t in not_found: print u'  ' + t
+
+if __name__ == '__main__':
+    main()
