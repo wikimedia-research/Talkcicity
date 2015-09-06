@@ -31,10 +31,12 @@ archive_MiszaBot_template_re = re.compile(r'\{\{User:MiszaBot/config.*?counter\s
 archive_box_template_re = re.compile(r'\{\{archive.*?\|.*?(\[\[/.*?)\}\}', re.DOTALL) #for xml
 link_re = re.compile(r'\[\[([^|]*?)(?:\|.*?)*?\]\]')
 
-# These two should be parsed with an xml parser, not with these regexes.
+# TODO: These two should be parsed with an xml parser, not with these regexes.
 xml_metadata_re = re.compile(u'<page .* pageid="(.+?)" ns="1" title="(.+?)">', re.DOTALL)
 xml_text_re = re.compile('<rev .*? xml:space="preserve">(.*)</rev>', re.DOTALL)
 
+# TODO: Redirects can be handled with the API rather than manually parsing and
+#       sending another request
 redirectP = re.compile(r'#REDIRECT \[\[(.*)\]\]')
 
 sleep_time = 0
@@ -55,12 +57,10 @@ not_found = []
 
 
 def get_wikitext_xml(page_title):
-#    page_title = page_title.replace(" ", "_")
-
     if sleep_time > 0:
         time.sleep(sleep_time + sleep_time * (random.random()))
 
-    if debug_more: print u'opening query xml: ' + query_xml % page_title
+    if debug_more: print(u'opening query xml: ' + query_xml % page_title)
 
     try:
         opener = urllib2.build_opener()
@@ -84,10 +84,10 @@ def get_wikitext_xml(page_title):
     # TODO: Use an xml parser here, not regex.
     found = re.search(xml_metadata_re, page)
     if found:
-        id = found.group(1)
+        our_id = found.group(1)
         title = unescape(found.group(2), {"&apos;": "'", "&quot;": '"', "&amp;": "&", "&#039;": "'"})
 
-        if debug_more: print id + u' -> ' + title
+        if debug_more: print our_id + u' -> ' + title
 
         # TODO: Use an xml parser here, not regex.
         found = re.search(xml_text_re, page)
@@ -104,8 +104,8 @@ def get_wikitext_xml(page_title):
                 return  0, redirected_title, text
 
             else:
-                if debug_more: print u'returning %s, %s, %s' % (str(id), title, text[0:20] + ' ...')
-                return id, title, text
+                if debug_more: print u'returning %s, %s, %s' % (str(our_id), title, text[0:20] + ' ...')
+                return our_id, title, text
 
     if debug_more: print 'returning -1'
     return -1, u'', u''
@@ -114,24 +114,24 @@ def get_wikitext_xml(page_title):
 def wiki_discussion_scraper(article_title):
 
     if debug_more: print u'wiki_discussion_scraper: calling get_wikitext_xml(%s)' % article_title
-    id, title, wiki_text = get_wikitext_xml(article_title)
+    our_id, title, wiki_text = get_wikitext_xml(article_title)
 
-    #function 'get_wikitext_xml' returns id=0 in case of redirect
-    while id == 0:
+    #function 'get_wikitext_xml' returns our_id=0 in case of redirect
+    while our_id == 0:
         if debug: print u'    Following redirect: ' + article_title + u' -> ' + title
         if write_log: log.write(u'\n    Following redirect: ' + article_title + u' -> ' + title)
         temp_title = title
-        id, title, wiki_text = get_wikitext_xml(temp_title)
-        if id == 0 and title == temp_title:
+        our_id, title, wiki_text = get_wikitext_xml(temp_title)
+        if our_id == 0 and title == temp_title:
             print u'something wrong with redirects: ' + title
             break
 
-    if id <= 0:
+    if our_id <= 0:
         return u''
 
-    xml = u'<article id="%s" title=%s>\n' % (id, title)
+    xml = u'<article id="%s" title=%s>\n' % (our_id, title)
 
-    last_xml = xml_template % (id, title, wiki_text)
+    last_xml = xml_template % (our_id, title, wiki_text)
 
     # only the current (not archived) talk page
     counter = 0
@@ -166,8 +166,8 @@ def wiki_discussion_scraper(article_title):
     i = 1
     while i > last_i:
         last_i = i
-        id, title, wiki_text = get_wikitext_xml(archive_pattern + str(i))
-        if id > 0:
+        our_id, title, wiki_text = get_wikitext_xml(archive_pattern + str(i))
+        if our_id > 0:
             if archive_pattern + unicode(i) not in archive_pages and archive_pattern.replace('_', ' ') + unicode(i) not in archive_pages:
                 archive_pages.append(archive_pattern + str(i))
             else:
@@ -186,9 +186,9 @@ def wiki_discussion_scraper(article_title):
     processed_archives = []
     for a in archive_pages:
         if a not in processed_archives and string.replace(a, '_', ' ') not in processed_archives:
-            id, title, wiki_text = get_wikitext_xml(a)
-            if id > 0:
-                xml += xml_template % (id, title, wiki_text)
+            our_id, title, wiki_text = get_wikitext_xml(a)
+            if our_id > 0:
+                xml += xml_template % (our_id, title, wiki_text)
                 n_archives_written += 1
             else:
                 if debug: print u'     Could not access archive %s' % a
@@ -222,21 +222,22 @@ def load_id_list_from_file(file_name):
 def main():
     entries = load_id_list_from_file(args.article_list)
     for entry in entries:
+        namespace, article_id, article_title = entry
         if verbose or debug:
-            print(u'\nProcessing article: {0} {1}'.format(entry[1], entry[2]))
+            print(u'\nProcessing article: {0} {1}'.format(article_id, article_title))
         if write_log:
             try:
-                log.write(u'\n\n {0} {1}'.format(entry[1], entry[2]))
+                log.write(u'\n\n {0} {1}'.format(article_id, article_title))
             except:
-                log.write(u'\n\n {} Exception writing article title'.format(entry[1]))
+                log.write(u'\n\n {} Exception writing article title'.format(article_id))
 
-        t = string.replace(entry[2], u' ', u'_')
-        full_title = u'{0}:{1}'.format(namespace_select(int(entry[0])),  entry[2])
+        t = string.replace(article_title, u' ', u'_')
+        full_title = u'{0}:{1}'.format(namespace_select(int(namespace)), article_title)
         xml = wiki_discussion_scraper(full_title)
         print(full_title)
 
         if xml == '':
-            not_found.append(entry[2])
+            not_found.append(article_title)
 
             if debug:
                 print(u'   Talk page not found: {}'.format(full_title))
@@ -245,9 +246,9 @@ def main():
                 try:
                     log.write(u'\n   Talk page not found: ' + full_title)
                 except:
-                    log.write(u'\n   Talk page not found: ' + entry[1] + u' Exception writing article title')
+                    log.write(u'\n   Talk page not found for article_id: . Exception writing article title'.format(article_id))
         else:
-            with codecs.open(args.output_folder + 'article_talk_' + str(entry[1]) + '.wikitext', 'w', 'utf-8') as f_out:
+            with codecs.open(args.output_folder + 'article_talk_' + str(article_id) + '.wikitext', 'w', 'utf-8') as f_out:
                 f_out.write(xml)
 
         log.flush()
