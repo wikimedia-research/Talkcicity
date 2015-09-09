@@ -32,7 +32,7 @@ archive_box_template_re = re.compile(r'\{\{archive.*?\|.*?(\[\[/.*?)\}\}', re.DO
 link_re = re.compile(r'\[\[([^|]*?)(?:\|.*?)*?\]\]')
 
 # TODO: These two should be parsed with an xml parser, not with these regexes.
-xml_metadata_re = re.compile(u'<page .* pageid="(.+?)" ns="1" title="(.+?)">', re.DOTALL)
+xml_metadata_re = re.compile(u'<page .* pageid="(.+?)" ns="\d" title="(.+?)">', re.DOTALL)
 xml_text_re = re.compile('<rev .*? xml:space="preserve">(.*)</rev>', re.DOTALL)
 
 # TODO: Redirects can be handled with the API rather than manually parsing and
