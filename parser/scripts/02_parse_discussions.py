@@ -5,17 +5,21 @@ from datetime import date
 import re
 import os
 import codecs
+import sys
 
 # network library
 import networkx as nx
 
 # import classes
-import sys
+# FIXME modifying path is pretty hacky
 sys.path.append('types/')
+sys.path.append('parser/scripts/types/')
 import Node
 
 # import utilities
+# FIXME modifying path is pretty hacky
 sys.path.append('utilities/')
+sys.path.append('parser/scripts/utilities/')
 import conv
 
 # patterns
@@ -23,6 +27,7 @@ import patterns
 
 # parse options and arguments. Note that options -p and -d should be considered as mutually exclusive
 from optparse import OptionParser
+# FIXME outdated
 usage = "usage: %python 02-wikitext2trees.py -p pagelist -d directory\n"
 
 # execution parameters:
@@ -80,7 +85,7 @@ optparser.add_option("-n", "--name", dest="name", default="",
 
 prefix = opts.name
 if prefix != "": prefix += '_'
-outFolder = "../discussions/" + prefix
+outFolder = "./discussions/" + prefix
 logFolder = './logs/' + prefix
 
 #inventing the ids of users...
