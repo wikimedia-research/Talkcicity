@@ -1,4 +1,4 @@
-
+import ast
 import urllib2
 import json
 import string
@@ -18,23 +18,23 @@ parser.add_argument('-o', action="store", dest="output_folder", default="./data/
                     help="""
                     Output folder for storing the talk pages (one file per article)
                     """)
-parser.add_argument('-verbose', action = "store", dest = "verbose", default = True,
+parser.add_argument('-verbose', action = "store", dest = "verbose", default = "True",
                     help="""
                     Whether to be verbose and descriptive when surfacing the script's progress.
                     """)
-parser.add_argument('-debug', action = "store", dest = "debug", default = True,
+parser.add_argument('-debug', action = "store", dest = "debug", default = "True",
                     help="""
                     Whether to run in debug mode. True by default.
                     """)
-parser.add_argument('-debug_more', action = "store", dest = "debug_more", default = True,
+parser.add_argument('-debug_more', action = "store", dest = "debug_more", default = "True",
                     help="""
                     Whether to run in a particularly strict debug mode. True by default.
                     """)
-parser.add_argument('-log', action = "store", dest = "log", default = True,
+parser.add_argument('-log', action = "store", dest = "log", default = "True",
                     help="""
                     Whether to log runs. True by default.
                     """)
-parser.add_argument('-error_log', action = "store", dest = "error_log", default = True,
+parser.add_argument('-error_log', action = "store", dest = "error_log", default = "True",
                     help="""
                     Whether to log errors. True by default.
                     """)
@@ -60,11 +60,11 @@ redirectP = re.compile(r'#REDIRECT \[\[(.*)\]\]')
 
 sleep_time = 0
 
-verbose = args.verbose
-debug = args.debug
-debug_more = args.debug_more
-write_log = args.log
-write_error_log = args.error_log
+verbose = ast.literal_eval(args.verbose)
+debug = ast.literal_eval(args.debug)
+debug_more = ast.literal_eval(args.debug_more)
+write_log = ast.literal_eval(args.log)
+write_error_log = ast.literal_eval(args.error_log)
 
 if write_log:
     log = codecs.open(log_folder + 'wikitalk_scraper.log', 'w', 'utf-8')
@@ -251,7 +251,7 @@ def main():
         t = string.replace(article_title, u' ', u'_')
         full_title = u'{0}:{1}'.format(namespace_select(int(namespace)), article_title)
         xml = wiki_discussion_scraper(full_title)
-        print(full_title)
+        if debug or verbose: print(full_title)
         
         if xml == '':
             not_found.append(article_title)
