@@ -18,7 +18,26 @@ parser.add_argument('-o', action="store", dest="output_folder", default="./data/
                     help="""
                     Output folder for storing the talk pages (one file per article)
                     """)
-
+parser.add_argument('-verbose', action = "store", dest = "verbose", default = True,
+                    help="""
+                    Whether to be verbose and descriptive when surfacing the script's progress.
+                    """)
+parser.add_argument('-debug', action = "store", dest = "debug", default = True,
+                    help="""
+                    Whether to run in debug mode. True by default.
+                    """)
+parser.add_argument('-debug_more', action = "store", dest = "debug_more", default = True,
+                    help="""
+                    Whether to run in a particularly strict debug mode. True by default.
+                    """)
+parser.add_argument('-log', action = "store", dest = "log", default = True,
+                    help="""
+                    Whether to log runs. True by default.
+                    """)
+parser.add_argument('-error_log', action = "store", dest = "error_log", default = True,
+                    help="""
+                    Whether to log errors. True by default.
+                    """)
 args = parser.parse_args()
 
 log_folder = './logs/'
@@ -41,12 +60,11 @@ redirectP = re.compile(r'#REDIRECT \[\[(.*)\]\]')
 
 sleep_time = 0
 
-verbose = True
-debug = True
-debug_more = True
-
-write_log = True
-write_error_log = True
+verbose = args.verbose
+debug = args.debug
+debug_more = args.debug_more
+write_log = args.log
+write_error_log = args.error_log
 
 if write_log:
     log = codecs.open(log_folder + 'wikitalk_scraper.log', 'w', 'utf-8')
