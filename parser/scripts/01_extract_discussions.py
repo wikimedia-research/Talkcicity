@@ -163,7 +163,7 @@ def wiki_discussion_scraper(article_title):
             archive_pages.append(title + a)
     
     # TODO: Check this for Unicode pages
-    archive_links_re = re.compile(r'\[\[(' + title + '/[^|^#]*?)(?:\|.*?)?\]\]')
+    archive_links_re = re.compile(r'\[\[(' + re.escape(title) + '/[^|^#]*?)(?:\|.*?)?\]\]')
     found = re.findall(archive_links_re, wiki_text)
     if found:
         if debug: print '\tarchive links found: ' + str(found)
