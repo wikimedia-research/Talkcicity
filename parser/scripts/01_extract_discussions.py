@@ -251,7 +251,7 @@ def main():
             with codecs.open(args.output_folder + 'article_talk_' + str(article_id) + '.wikitext', 'w', 'utf-8') as f_out:
                 f_out.write(xml)
 
-        log.flush()
+        if write_log: log.flush()
 
     print('\nEnd. Not found: {} articles:'.format(len(not_found)))
     for t in not_found: print u'  ' + t
