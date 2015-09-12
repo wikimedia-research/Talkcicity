@@ -1,4 +1,4 @@
-
+import ast
 import urllib2
 import json
 import string
@@ -18,7 +18,26 @@ parser.add_argument('-o', action="store", dest="output_folder", default="./data/
                     help="""
                     Output folder for storing the talk pages (one file per article)
                     """)
-
+parser.add_argument('-verbose', action = "store", dest = "verbose", default = "True",
+                    help="""
+                    Whether to be verbose and descriptive when surfacing the script's progress.
+                    """)
+parser.add_argument('-debug', action = "store", dest = "debug", default = "True",
+                    help="""
+                    Whether to run in debug mode. True by default.
+                    """)
+parser.add_argument('-debug_more', action = "store", dest = "debug_more", default = "True",
+                    help="""
+                    Whether to run in a particularly strict debug mode. True by default.
+                    """)
+parser.add_argument('-log', action = "store", dest = "log", default = "True",
+                    help="""
+                    Whether to log runs. True by default.
+                    """)
+parser.add_argument('-error_log', action = "store", dest = "error_log", default = "True",
+                    help="""
+                    Whether to log errors. True by default.
+                    """)
 args = parser.parse_args()
 
 log_folder = './logs/'
@@ -41,12 +60,11 @@ redirectP = re.compile(r'#REDIRECT \[\[(.*)\]\]')
 
 sleep_time = 0
 
-verbose = True
-debug = True
-debug_more = True
-
-write_log = True
-write_error_log = True
+verbose = ast.literal_eval(args.verbose)
+debug = ast.literal_eval(args.debug)
+debug_more = ast.literal_eval(args.debug_more)
+write_log = ast.literal_eval(args.log)
+write_error_log = ast.literal_eval(args.error_log)
 
 if write_log:
     log = codecs.open(log_folder + 'wikitalk_scraper.log', 'w', 'utf-8')
@@ -55,13 +73,12 @@ if write_error_log:
 
 not_found = []
 
-
 def get_wikitext_xml(page_title):
     if sleep_time > 0:
         time.sleep(sleep_time + sleep_time * (random.random()))
-
+    
     if debug_more: print(u'opening query xml: ' + query_xml % page_title)
-
+    
     try:
         opener = urllib2.build_opener()
         infile = opener.open(query_xml % urllib2.quote(page_title.encode('utf-8')))
@@ -80,42 +97,42 @@ def get_wikitext_xml(page_title):
                 pass
             error_log.flush()
         return -1, u'', u''
-
+    
     # TODO: Use an xml parser here, not regex.
     found = re.search(xml_metadata_re, page)
     if found:
         our_id = found.group(1)
         title = unescape(found.group(2), {"&apos;": "'", "&quot;": '"', "&amp;": "&", "&#039;": "'"})
-
+        
         if debug_more: print our_id + u' -> ' + title
-
+        
         # TODO: Use an xml parser here, not regex.
         found = re.search(xml_text_re, page)
         if found:
             text = found.group(1)
-
+            
             if debug_more: print u'found text: ' + text[0:30] + u' ...'
-
+            
             redirect_match = redirectP.match(text)
             if redirect_match:
                 redirected_title = unescape(redirect_match.group(1), {"&apos;": "'", "&quot;": '"', "&amp;": "&", "&#039;": "'"})
                 if debug: print u'  Found redirect: ' + text
                 if write_log: log.write(u'\n  Found redirect: ' + text)
                 return  0, redirected_title, text
-
+            
             else:
                 if debug_more: print u'returning %s, %s, %s' % (str(our_id), title, text[0:20] + ' ...')
                 return our_id, title, text
-
+    
     if debug_more: print 'returning -1'
     return -1, u'', u''
 
 
 def wiki_discussion_scraper(article_title):
-
+    
     if debug_more: print u'wiki_discussion_scraper: calling get_wikitext_xml(%s)' % article_title
     our_id, title, wiki_text = get_wikitext_xml(article_title)
-
+    
     #function 'get_wikitext_xml' returns our_id=0 in case of redirect
     while our_id == 0:
         if debug: print u'    Following redirect: ' + article_title + u' -> ' + title
@@ -125,18 +142,18 @@ def wiki_discussion_scraper(article_title):
         if our_id == 0 and title == temp_title:
             print u'something wrong with redirects: ' + title
             break
-
+    
     if our_id <= 0:
         return u''
-
+    
     xml = u'<article id="%s" title=%s>\n' % (our_id, title)
-
+    
     last_xml = xml_template % (our_id, title, wiki_text)
-
+    
     # only the current (not archived) talk page
     counter = 0
     archive_pages = []
-
+    
     found = re.search(archive_box_template_re, wiki_text)
     if found:
         archives_box = re.findall(link_re, found.group(1))
@@ -144,7 +161,7 @@ def wiki_discussion_scraper(article_title):
         if write_log: log.write(u'\n\tarchive box found: ' + unicode(archives_box))
         for a in archives_box:
             archive_pages.append(title + a)
-
+    
     # TODO: Check this for Unicode pages
     archive_links_re = re.compile(r'\[\[(' + title + '/[^|^#]*?)(?:\|.*?)?\]\]')
     found = re.findall(archive_links_re, wiki_text)
@@ -152,7 +169,7 @@ def wiki_discussion_scraper(article_title):
         if debug: print '\tarchive links found: ' + str(found)
         if write_log: log.write('\n\tarchive links found: ' + str(found) )
         archive_pages += found
-
+    
     found = re.search(archive_MiszaBot_template_re, wiki_text)
     if found:
         counter, archive = found.group(1), found.group(2)
@@ -160,7 +177,7 @@ def wiki_discussion_scraper(article_title):
             archive_pages.append(archive.replace("%(counter)d", str(i)))
         if debug: print u'\tMisznaBot archives found: ' + unicode(counter) + u' -> ' + archive #str(archive_pages)
         if write_log: log.write(u'\n\tMisznaBot archives found: ' + unicode(counter) + u' -> ' + archive) #str(archive_pages)
-
+    
     archive_pattern = u'%s/Archive_' % title
     last_i = 0
     i = 1
@@ -173,15 +190,15 @@ def wiki_discussion_scraper(article_title):
             else:
                 if debug_more: print u'\tSkipped repeated archive page: ' + archive_pattern + unicode(i)
                 if write_log: log.write(u'\n\tSkipped repeated archive page: ' + archive_pattern + unicode(i) )
-
+            
             i += 1
-
+    
     if i > 1:
         if debug: print u'\tLooking for "Archive_<n>" pattern, found ' + unicode(i-1) + u' archives, until: ' + archive_pattern + unicode(i-1)
         if write_log: log.write(u'\n\tLooking for "Archive_<n>" pattern, found ' + unicode(i-1) + u' archives, until: ' + archive_pattern + unicode(i-1) )
     else:
         if write_log: log.write('\n\t\tNot found: ' + archive_pattern + str(i) )
-
+    
     n_archives_written = 0
     processed_archives = []
     for a in archive_pages:
@@ -198,11 +215,11 @@ def wiki_discussion_scraper(article_title):
                     error_log.flush()
         processed_archives.append(a)
         processed_archives.append(string.replace(a, '_', ' '))
-
+    
     if verbose or debug: print u"   %s: written current talk page and %d archive pages" %(article_title, n_archives_written)
     xml +=  last_xml
     xml += u"</article>"
-
+    
     return xml
 
 # Identify the namespace to prepend to the page title.
@@ -230,18 +247,18 @@ def main():
                 log.write(u'\n\n {0} {1}'.format(article_id, article_title))
             except:
                 log.write(u'\n\n {} Exception writing article title'.format(article_id))
-
+        
         t = string.replace(article_title, u' ', u'_')
         full_title = u'{0}:{1}'.format(namespace_select(int(namespace)), article_title)
         xml = wiki_discussion_scraper(full_title)
-        print(full_title)
-
+        if debug or verbose: print(full_title)
+        
         if xml == '':
             not_found.append(article_title)
-
+            
             if debug:
                 print(u'   Talk page not found: {}'.format(full_title))
-
+            
             if write_log:
                 try:
                     log.write(u'\n   Talk page not found: ' + full_title)
@@ -250,9 +267,9 @@ def main():
         else:
             with codecs.open(args.output_folder + 'article_talk_' + str(article_id) + '.wikitext', 'w', 'utf-8') as f_out:
                 f_out.write(xml)
-
-        log.flush()
-
+        
+        if write_log: log.flush()
+    
     print('\nEnd. Not found: {} articles:'.format(len(not_found)))
     for t in not_found: print u'  ' + t
 
