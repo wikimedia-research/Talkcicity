@@ -1,5 +1,0 @@
-<article id="292454" title=Talk:Spanish football>
-	<talkpage id="292454" title="Talk:Spanish football">
-Should [[Spanish football]] be made a redirect for [[Spanish football league teams]]?  Much of the information given in the former seems to properly belong in sub-pages of the latter, although I'm not enthusiatic about wading into all that.  [[User:Wfeidt|Bill]] 15:04, 7 Aug 2003 (UTC)
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="15387956" title=Talk:Explorer (disambiguation)>
-	<talkpage id="15387956" title="Talk:Explorer (disambiguation)">
-{{DisambigProject}}
-	</talkpage>
-</article>

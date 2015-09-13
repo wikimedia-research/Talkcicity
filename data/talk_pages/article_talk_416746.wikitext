@@ -1,5 +1,0 @@
-<article id="10298865" title=Talk:Elde>
-	<talkpage id="10298865" title="Talk:Elde">
-{{WikiProject Germany|class=stub|importance= }}
-	</talkpage>
-</article>

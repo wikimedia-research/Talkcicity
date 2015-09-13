@@ -1,7 +1,0 @@
-<article id="44997" title=Talk:Planned language>
-	<talkpage id="44997" title="Talk:Planned language">
-{{wp-redirect}}
-==The text in this talk page==
-The text in this talk page was [http://en.wikipedia.org/w/index.php?title=Talk:Constructed_language&amp;diff=7817346&amp;oldid=7612630 moved] to [[constructed language]]. '''[[User:Graham87|Graham]]'''&lt;font color=&quot;green&quot;&gt;[[User talk:Graham87|87]]&lt;/font&gt; 12:25, 21 November 2008 (UTC)
-	</talkpage>
-</article>

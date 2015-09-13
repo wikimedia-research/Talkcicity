@@ -33,5 +33,5 @@ main <- function(){
   results <- as.data.frame(rbind(data, noticeboard_data))
   write.table(results, file = "./data/parser_input.tsv", row.names = FALSE, col.names = FALSE, quote = FALSE, sep = "\t")
   
-  system("python ./parser/scripts/01_extract_discussions.py -l ./data/parser_input.tsv")
+  system("python ./parser/scripts/01_extract_discussions.py -l ./data/parser_input.tsv -verbose False -debug False -debug_more False")
 }
