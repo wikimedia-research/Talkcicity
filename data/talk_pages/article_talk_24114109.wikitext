@@ -1,0 +1,18 @@
+<article id="24114109" title=Talk:Jacqueline Kolosov>
+	<talkpage id="24114109" title="Talk:Jacqueline Kolosov">
+{{WikiProjectBannerShell| blp=yes
+|1=
+{{WikiProject Biography|living=yes
+|class=Stub
+|a&amp;e-priority=low
+|a&amp;e-work-group=yes
+|listas=Kolosov, Jacqueline
+|needs-infobox=yes
+|needs-photo=
+}}
+{{WikiProject Chicago|class=stub|importance=low }}
+{{WikiProject Poetry| importance=low| class=stub}}
+{{WikiProject Women writers|class=stub|importance=|auto=inherit}}
+}}{{reqphoto|writers}}
+	</talkpage>
+</article>

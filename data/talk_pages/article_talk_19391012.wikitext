@@ -1,0 +1,7 @@
+<article id="19391012" title=User talk:206.78.130.224>
+	<talkpage id="19391012" title="User talk:206.78.130.224">
+
+== September 2008 ==
+{{{icon|[[Image:Information.svg|25px]] }}} Your recent edit to [[:Attila the Hun]] ([http://en.wikipedia.org/w/index.php?title=Attila_the_Hun&amp;curid=841&amp;diff=239651017&amp;oldid=239650983 diff]) was reverted by an '''automated bot'''. The edit was identified as adding [[WP:VAND|vandalism]], or [[WP:SPAM|link spam]] to the page or having an inappropriate [[WP:ES|edit summary]]. If you want to experiment, please use the preview button while editing or consider using the [[Wikipedia:Sandbox|sandbox]]. If you made an edit that removed a large amount of content, try doing smaller edits instead. Thanks! (Report bot mistakes [[User:VoABot_II/Mistakes|here]])&lt;!-- Template:uw-vandalism1 --&gt; // [[User:VoABot II|VoABot II]] ([[User talk:VoABot II|talk]]) 20:58, 19 September 2008 (UTC)
+	</talkpage>
+</article>

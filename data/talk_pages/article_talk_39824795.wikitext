@@ -1,0 +1,5 @@
+<article id="39824795" title=Talk:Lummer–Gehrcke interferometer>
+	<talkpage id="39824795" title="Talk:Lummer–Gehrcke interferometer">
+{{Physics|class=stub|importance=low}}
+	</talkpage>
+</article>

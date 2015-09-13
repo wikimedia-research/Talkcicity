@@ -1,0 +1,9 @@
+<article id="37010753" title=Talk:Pa-ye Takht>
+	<talkpage id="37010753" title="Talk:Pa-ye Takht">
+{{WikiProjectBannerShell|1=
+{{WikiProject Geography|class=dab}}
+{{WikiProject Iran|class=dab}}
+{{WikiProject Disambiguation}}
+}}
+	</talkpage>
+</article>

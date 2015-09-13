@@ -1,0 +1,11 @@
+<article id="17314282" title=Talk:Firmin António>
+	<talkpage id="17314282" title="Talk:Firmin António">
+{{WPBiography
+|living=yes
+|class=Stub
+|auto=yes
+|listas=Antonio, Firmin
+}}
+{{WPBrazil|class=Stub|importance=low|needs-infobox=yes|needs-photo=yes|auto=yes}}
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="29221998" title=Talk:Kevin Negandhi>
+	<talkpage id="29221998" title="Talk:Kevin Negandhi">
+{{WikiProject Biography|living=yes|class=|listas=Negandhi, Kevin}}
+{{WikiProject Journalism}}
+	</talkpage>
+</article>

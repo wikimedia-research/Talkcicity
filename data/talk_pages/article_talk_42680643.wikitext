@@ -1,0 +1,5 @@
+<article id="42680643" title=Talk:Alexander Voevodin>
+	<talkpage id="42680643" title="Talk:Alexander Voevodin">
+{{WikiProject Biography|living=yes|class=Start|listas=Voevodin, Alexander}}
+	</talkpage>
+</article>

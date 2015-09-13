@@ -1,0 +1,5 @@
+<article id="16967583" title=User talk:24.224.205.53>
+	<talkpage id="16967583" title="User talk:24.224.205.53">
+[[Image:Nuvola apps important.svg|25px]] Please stop. If you continue to blank out or delete portions of page content, templates or other materials from Wikipedia{{#if:Lincoln Alexander|, as you did to [[:Lincoln Alexander]]}}, you will be [[Wikipedia:Blocking policy|blocked]] from editing. {{#if:|{{{2}}}|}}&lt;!-- Template:uw-delete3 --&gt; [[User:Dl2000|Dl2000]] ([[User talk:Dl2000|talk]]) 21:53, 16 April 2008 (UTC)
+	</talkpage>
+</article>

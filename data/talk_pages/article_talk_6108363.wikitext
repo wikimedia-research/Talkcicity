@@ -1,0 +1,24 @@
+<article id="6108363" title=Talk:Peter Tunks>
+	<talkpage id="6108363" title="Talk:Peter Tunks">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=yes
+|class=Stub
+|sports-priority=low
+|sports-work-group=yes
+|listas=Tunks, Peter
+}}
+{{WikiProject Rugby league|state-of-origin=yes|state-of-origin-importance=low|state-of-origin-team=nsw
+|class=stub
+|importance=low
+|player=former
+|coach=
+|club=
+|needs-infobox=yes
+|peer-review=
+|old-peer-review=
+}}
+{{WikiProject Australia|importance=low|class=stub|nrl=yes}}
+| blp=yes
+}}
+	</talkpage>
+</article>

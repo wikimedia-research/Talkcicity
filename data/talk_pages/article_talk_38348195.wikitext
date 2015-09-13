@@ -1,0 +1,12 @@
+<article id="38348195" title=User talk:70.193.65.0>
+	<talkpage id="38348195" title="User talk:70.193.65.0">
+
+
+== January 2013 ==
+[[Image:Information.svg|left|25px|alt=|link=]] Hello, and welcome to Wikipedia. This is a message letting you know that one of your recent edits has been undone by an automated computer program called [[User:ClueBot NG|ClueBot NG]].
+{{clear}}
+* ClueBot NG makes very few [[User:ClueBot NG#Information About False Positives|mistakes]], but it does happen. If you believe the change you made was constructive, please [[User:ClueBot NG#Information About False Positives|read about it]], [{{User:ClueBot NG/Warnings/FPReport|1469462}} report it here], remove this message from your talk page, and then make the edit again.
+* For help, take a look at the [[Wikipedia:Introduction|introduction]].
+* The following is the log entry regarding this message: [[Rilakkuma]] was [http://en.wikipedia.org/w/index.php?title=Rilakkuma&amp;diff=535237986&amp;oldid=531459752 changed] by [[Special:Contributions/70.193.65.0|70.193.65.0]] [[User:70.193.65.0|(u)]] [[User talk:70.193.65.0|(t)]] ANN scored at 0.905232 on 2013-01-27T22:19:41+00:00 &lt;!-- MySQL ID: 1469462 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]) 22:19, 27 January 2013 (UTC)
+	</talkpage>
+</article>

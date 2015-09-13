@@ -1,0 +1,7 @@
+<article id="3879755" title=Talk:Settat>
+	<talkpage id="3879755" title="Talk:Settat">
+{{WikiProject Morocco|class=stub|importance=low}}
+{{Translated page|ar|سطات}}
+{{Translated page|fr|Settat}}
+	</talkpage>
+</article>

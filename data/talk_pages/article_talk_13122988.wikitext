@@ -1,0 +1,5 @@
+<article id="13122988" title=Talk:Busquístar>
+	<talkpage id="13122988" title="Talk:Busquístar">
+{{WikiProject Spain|class=Stub|importance=}}
+	</talkpage>
+</article>

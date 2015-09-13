@@ -1,0 +1,13 @@
+<article id="13384129" title=User talk:Drcumella>
+	<talkpage id="13384129" title="User talk:Drcumella">
+'''Welcome!'''
+
+Hello, {{BASEPAGENAME}}, and [[Wikipedia:Introduction|welcome]] to Wikipedia! Thank you for [[Special:Contributions/{{BASEPAGENAME}}|your contributions]]{{#if:|, especially what you did for [[{{{art}}}]]|}}. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Wikipedia:Article development|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign]] your messages on [[Wikipedia:talk page|discussion page]]s using four [[tilde]]s (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically insert your username and the date. If you need help, check out [[Wikipedia:Questions]], ask me on {{#if:|[[user talk:{{{1}}}|my talk page]]|my talk page}}, or ask your question on this page and then place &lt;code&gt;&lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt;&lt;/code&gt; before the question. Again, welcome! &lt;!-- Template:Welcome --&gt;
+	</talkpage>
+</article>

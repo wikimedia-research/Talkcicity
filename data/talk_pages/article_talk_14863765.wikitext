@@ -1,0 +1,10 @@
+<article id="14863765" title=Talk:Barry Andrews>
+	<talkpage id="14863765" title="Talk:Barry Andrews">
+{{WikiProject Biography
+|living=no
+|class=Dab
+|listas=Andrews, Barry
+}}
+{{WikiProject Disambiguation}}
+	</talkpage>
+</article>

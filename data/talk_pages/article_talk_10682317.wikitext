@@ -1,0 +1,15 @@
+<article id="10682317" title=Talk:John P. S. Gobin>
+	<talkpage id="10682317" title="Talk:John P. S. Gobin">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=no
+|class=start
+|politician-work-group=yes
+|military-work-group=yes
+|listas=Gobin, John Peter Shindel
+}}
+{{WikiProject Military history|class=start|Biography=yes|US=yes|ACW=yes|B1=|B2=|B3=|B4=|B5=}}
+{{WikiProject Pennsylvania|class=start|importance=low}}
+}}
+	</talkpage>
+</article>

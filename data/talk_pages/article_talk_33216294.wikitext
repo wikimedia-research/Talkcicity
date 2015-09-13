@@ -1,0 +1,64 @@
+<article id="33216294" title=User talk:Stanleya3>
+	<talkpage id="33216294" title="User talk:Stanleya3">
+{| cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; align=&quot;center&quot; style=&quot;width:100%; border:2px solid silver; background:#f0f0f0; text-align:center; font-family:Georgia, serif;&quot;
+|-
+|colspan=&quot;2&quot; align=&quot;center&quot; style=&quot;background:#F8EABA; border-bottom:1.5px dotted silver;&quot; |
+&lt;span style=&quot;font-size:180%; font-family:Tahoma, sans-serif;&quot;&gt;Welcome to Wikipedia! &lt;/span&gt;
+|-
+|align=&quot;center&quot; colspan=&quot;2&quot; style=&quot;font-family:Tahoma, sans-serif; padding:15px 2% 5px 2%;&quot; valign=&quot;middle&quot;|
+{{col-begin}}
+
+''Welcome!''&amp;nbsp;My name is [[User:The ed17|The ed17]], and I'm an [[Wikipedia:United States Education Program/Online Ambassadors|Online Ambassador]]. We are a group of experienced Wikipedians who offer assistance, support, and mentorship for newcomers. You don't need to read anything; you can just jump right in and try to improve Wikipedia. If you need help, you can [http://webchat.freenode.net/?channels=wikipedia-en-classroom talk with us right now], or you can leave me a message on my [[User talk:The ed17|user talk page]]. Have fun! ~~
+{{col-end}}
+&lt;/div&gt;
+|-
+&lt;!-- ROW 1 --&gt;
+&lt;!-- LEFT COLUMN --&gt;
+| align=&quot;center&quot; style=&quot;width:50%; padding:15px 2% 5px 2%;&quot; valign=&quot;top&quot;|
+&lt;span style=&quot;font-size: 140%;&quot;&gt;[[WP:Cheatsheet|Editing cheatsheet]] [[File:Document-open Gion.svg|25px]]&lt;/span&gt;&lt;br /&gt;
+Forgot how that code worked?
+&lt;!-- RIGHT COLUMN --&gt;
+| align=&quot;center&quot; style=&quot;width:50%; padding:15px 2% 5px 2%;&quot; valign=&quot;top&quot; |
+&lt;span style=&quot;font-size: 140%;&quot;&gt;[[WP:Simplified ruleset|Summary of policies and guidelines]] [[File:Nuvola apps kdict.svg|25px]]&lt;/span&gt;&lt;br /&gt;
+A quick reference for Wikipedia's &quot;rules&quot;
+|-
+&lt;!-- ROW 2 --&gt;
+&lt;!-- LEFT COLUMN --&gt;
+| align=&quot;center&quot; style=&quot;width:50%; padding:5px 2%;&quot; valign=&quot;top&quot;|
+&lt;span style=&quot;font-size: 140%;&quot;&gt;[[Wikipedia:United States Education Program/Courses|Find the page for your course]] [[File:Crystal Clear app kghostview.png|25px]]&lt;/span&gt;&lt;br /&gt;
+Forgot the link to your course's page?
+&lt;!-- RIGHT COLUMN --&gt;
+| align=&quot;center&quot; colspan=&quot;1&quot; style=&quot;padding:5px 2%;&quot; valign=&quot;top&quot;|
+&lt;span style=&quot;font-size: 140%;&quot;&gt;[[Wikipedia:Starting an article|Starting an article]] [[Image:Isimple system icons app edit.png|25px]] &lt;/span&gt;&lt;br /&gt;
+Guide to starting your first article
+|-
+&lt;!-- BOTTOM ROW --&gt;
+|-
+| align=&quot;center&quot; colspan=&quot;2&quot; style=&quot;padding:10px 2% 3px 2%;&quot;|
+|-
+| class=&quot;plainlinks&quot; align=&quot;center&quot; colspan=&quot;2&quot; style=&quot;border-top:1px solid #cedff2; padding:0px 2% 3px 2%;&quot; |
+'''''Chat with us:''' [http://webchat.freenode.net/?channels=wikipedia-en-classroom Ask a question on the classroom IRC channel] or on the [http://webchat.freenode.net/?channels=wikipedia-en-help regular help chat]'' [[File:Internet-group-chat.svg|25px]]. Just enter your Wikipedia user name, fill in the words you see in the image, and click connect.&lt;br&gt;
+|}
+* Air Conditioning Contractors of America
+* American Gas Association
+* Atomic Industrial Form
+* Center for Law and Social Policy
+* United States Brewers Association
+* Wolf Preservation Foundation
+[[User:Stanleya3|Stanleya3]] ([[User talk:Stanleya3#top|talk]]) 12:15, 26 September 2011 (UTC)
+
+==Talkback==
+{{talkback|The ed17|ts=15:08, 26 September 2011 (UTC)}}
+[[User:The ed17|Ed]]&amp;nbsp;&lt;sup&gt;[[User talk:The ed17|[talk]]] [[WP:OMT|[majestic titan]]]&lt;/sup&gt; 15:08, 26 September 2011 (UTC)
+: Thanks! [[User:Bythefire|Bythefire]] ([[User talk:Bythefire|talk]]) 15:45, 26 September 2011 (UTC)
+:I left a &quot;welcome&quot; above that has a few helpful links. :-) [[User:The ed17|Ed]]&amp;nbsp;&lt;sup&gt;[[User talk:The ed17|[talk]]] [[WP:OMT|[majestic titan]]]&lt;/sup&gt; 06:09, 27 September 2011 (UTC)
+
+== Just checking in ==
+[[File:Wikipedia-Ambassador-Program-Logo.png|75px|left]] Hi! My name is Cindy and I am working with [[User:The_ed17|Ed]] this semester to support the Political Participation course, taught by Professor Tess Marchant-Shapiro. I can be reached either through my [[User talk:Cindamuse|talk page]], [[Special:EmailUser/Cindamuse|email]], or on IRC at #wikipedia-en-classroom. Please feel free to contact either myself or Ed any time you have a question. We are both here to help and look forward to working with you! Best regards,  &lt;font color=&quot;navy&quot; face=&quot;Tahoma&quot;&gt;[[User:Cindamuse|Cind.]]&lt;/font&gt;&lt;font color=&quot;purple&quot; face=&quot;Tahoma&quot;&gt;[[User talk:Cindamuse#top|amuse]] (Cindy)&lt;/font&gt; 08:01, 7 October 2011 (UTC)
+
+==Outline==
+Armand,
+
+At this point you should be using your sandbox to start outlining the changes you plan on making to your article.[[User:Marchantshapiro|Marchantshapiro]] ([[User talk:Marchantshapiro|talk]]) 14:03, 11 October 2011 (UTC)
+	</talkpage>
+</article>

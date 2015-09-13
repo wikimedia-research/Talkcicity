@@ -1,0 +1,102 @@
+<article id="23122254" title=User talk:NachshonR>
+	<talkpage id="23122254" title="User talk:NachshonR">
+
+
+== Welcome ==
+{{#if:|== {{{heading}}} ==|}}
+&lt;!-- This comes from the template {{subst:W-screen}} --&gt;
+&lt;div style=&quot;align: center; padding: 1em; {{#ifeq:{{{clear}}}|true||border: solid 2px darkblue; background-color: darkblue; -moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px;}}&quot;&gt;
+&lt;center&gt;&lt;font size=&quot;+1&quot; {{#ifeq:{{{clear}}}|true||color=&quot;white&quot;}}&gt;Hello {{BASEPAGENAME}}, and &lt;font color=&quot;orange&quot;&gt;[[Wikipedia:Welcoming committee/Welcome to Wikipedia|Welcome to Wikipedia!]]&lt;/font&gt;&lt;/font&gt;[[File:Bouncywikilogo.gif|50px]]&lt;/div&gt; 
+&lt;div style=&quot;align: left; padding: 1em; {{#ifeq:{{{clear}}}|true||border: solid 2px darkblue; background-color: white; -moz-border-radius-bottomleft: 25px; -moz-border-radius-bottomright: 25px;}}&quot;&gt;
+'''''[[Wikipedia:Welcoming committee/Welcome to Wikipedia|Welcome to Wikipedia!]]''''' I hope you enjoy the encyclopedia and want to [[Wikipedia:Wikipedians|stay]]. As a first step, you may wish to read the [[Wikipedia:Introduction|Introduction]].
+
+If you have any questions, feel free to ask me at my talk page — I'm happy to help. Or, you can ask your question at the [[Wikipedia:New contributors' help page|New contributors' help page]].
+
+-------  
+Here are some more resources to help you as you explore and contribute to [[Wikipedia|the world's largest encyclopedia...]]
+
+&lt;big&gt; '''Finding your way around:''' &lt;/big&gt;
+{{col-begin}}
+{{col-2}}
+* '''[[Wikipedia:Contents|Table of Contents]]'''
+{{col-2}}
+* '''[[Wikipedia:Department directory|Department directory]]'''
+{{col-end}}
+
+&lt;big&gt; '''Need help?''' &lt;/big&gt;
+{{col-begin}}
+{{col-2}}
+* '''[[Wikipedia:Questions|Questions]]''' — a guide on where to ask questions.
+* '''[[Wikipedia:Cheatsheet|Cheatsheet]]''' — quick reference on Wikipedia's mark-up codes.
+* '''[[Wikipedia:Five pillars|Wikipedia's 5 pillars]]''' — an overview of Wikipedia's foundations
+{{col-2}}
+* '''[[Wikipedia:Simplified Ruleset|The Simplified Ruleset]]''' — a summary of Wikipedia's most important rules.
+*'''[[Help:Wikipedia: The Missing Manual|Guide to Wikipedia]]''' — A thorough step-by-step guide to Wikipedia.
+{{col-end}}
+
+&lt;big&gt; '''How you can help:''' &lt;/big&gt;
+{{col-begin}}
+{{col-2}}
+* '''[[Wikipedia:Contributing to Wikipedia|Contributing to Wikipedia]]''' — a guide on how you can help.
+{{col-2}}
+* '''[[Wikipedia:Community Portal|Community Portal]]''' — Wikipedia's hub of activity.
+{{col-end}}
+
+&lt;big&gt; '''Additional tips...''' &lt;/big&gt; 
+{{col-begin}}
+{{col-2}}
+* Please sign your messages on talk pages with four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;). This will automatically insert your &quot;signature&quot; (your username and a date stamp). The [[Image:Signature_icon.png]] button, on the tool bar above Wikipedia's text editing window, also does this. 
+{{col-2}}
+* If you would like to play around with your new Wiki skills the '''''[[Wikipedia:Sandbox|Sandbox]]''''' is for you. 
+{{col-end}}
+
+''{{BASEPAGENAME}}, '''good luck, and have fun.''''' {{#if:|{{{sig}}}|--[[User:Roleplayer|'''&lt;span style=&quot;font-family:Verdana;color:#006400&quot;&gt;role&lt;/span&gt;''']][[User talk:Roleplayer|'''''&lt;sup&gt;&lt;em style=&quot;font-family:Verdana;color:#9ACD32&quot;&gt;player&lt;/em&gt;&lt;/sup&gt;''''']] 18:27, 6 June 2009 (UTC)}}&lt;/div&gt;
+
+== ALMS ==
+
+Do not continue to attempt to promote your company by re-adding it to various Wikipedia articles.  Your only contributions to Wikipedia thus far have been to write [[Green Earth Technologies]] and to edit other articles to link back to your article.  Yes, G-Oil is an ALMS sponsor, but no, being &quot;green&quot; and being automotive does not merit it's own section on the American Le Mans Series article.  Patron, which is actually part of the series title (''American Le Mans Series presented by Patron'') does merit mention.
+
+Unless you plan to include ALMS sponsorships or partnerships with Yokohama, Falken, Porsche, Chevrolet, AutoWeek, the North American International Auto Show, BMW, or Michelin, I suggest not adding your section to G-Oil again. [[User:The359|&lt;font color=&quot;#004400&quot;&gt;The&lt;sup&gt;3&lt;/sup&gt;5&lt;sub&gt;9&lt;/sub&gt;&lt;/font&gt;]] ([[User talk:The359|&lt;font color=&quot;#004400&quot;&gt;&lt;b&gt;Talk&lt;/b&gt;&lt;/font&gt;]]) 03:41, 24 March 2010 (UTC)
+-----------------------------------
+First off, I've made plenty of other contributions on Wikipedia, though perhaps I was not signed in for them.  Second, Green Earth Technologies is NOT my company and it is a presumptious and slanderous assumption on your part to assert so.  Third, I placed it under the Green Challenge section, hence part of my explanation on the talk page that G-Oil is a green product, very much in line with ALMS' own characterisation as a green series -- a point you have not addressed, at all.
+
+This is supposed to be a FREE encyclopedia yet you, The359, are acting with total disregard for that.  It's true: I am not a wealth of information about many different subjects, so my contributions have been limited.  That should not preclude me from adding content that I do know, which others may or may not know, regardless of how many articles it relates to.  You yourself, in your first explanation, mentioned it was merely &quot;a bit spammy,&quot; which is not a strong statement against my edit.  It seems that your motive to continue to undo my edit comes more from your desire to see your edit &quot;win&quot;.  That also explains why you added content about Patron, which you chose to add only after taking down my edit for the third time.  Actions such as yours are what make Wikipedia not free for all, but only for those like yourself whom are part of the clique of editors who push around others less experienced than yourself.
+06:21, 24 March 2010 (UTC)~NachshonR
+:G-Oil is not connected to the Green Challenge.  Placing it under the Green Challenge has little merit.  Hell, the Green Challenge is sponsored by ''Michelin'', not by G-Oil.  The fact that they are both eco-friendly does not mean they belong together.  They're not even used by many of the cars which are in the Green Challenge (VP Fuel provides all the fuel, and the teams can use whichever motor oil they want.  Corvette certainly uses Mobil 1, Peugeot uses Total, Audi uses Shell).  The shared &quot;green&quot; of the ALMS and G-Oil is a marketing ploy, not something that belongs in an encyclopedia article.
+
+:Wikipedia is an encyclopedia ''with guidelines''.  I am removing what is clearly marketing spam which does not belong in an encyclopedic article, by a user who clearly does not understand said guidelines.  Just because you know something does not mean it should be added in this fashion, or even at all.  Yes, I addressed it as a bit spammy because although there clearly was a connection between G-Oil and the ALMS, it's inclusion in the article, as you wrote it, served no purpose but to be spam.
+
+:Any desire to win is made up in your own mind, and I certainly would not have addressed something as spammy, or given several repeated reasons why it did not belong, if I simply wanted my edit to &quot;win&quot;.  I added content about Patron because ''it is relevant to the article'', specifically the series history, as I did when I added the same information to the [[2010 American Le Mans Series season]] when the sponsorship deal was announced, and because it is a clear example of what sort of sponsorship is relevant to a Wikipedia article, and how it should be handled.
+
+:If you feel pushed around, it is likely down to the fact that ''you decided to continue to do edits your way even when told by said more experienced user that you were handling things incorrectly.''  It might just be a sign. [[User:The359|&lt;font color=&quot;#004400&quot;&gt;The&lt;sup&gt;3&lt;/sup&gt;5&lt;sub&gt;9&lt;/sub&gt;&lt;/font&gt;]] ([[User talk:The359|&lt;font color=&quot;#004400&quot;&gt;&lt;b&gt;Talk&lt;/b&gt;&lt;/font&gt;]]) 07:03, 24 March 2010 (UTC)
+
+The lady doth protest too much, me thinks.
+10:54, 24 March 2010 (UTC)~NachshonR
+
+== April 2010 ==
+[[Image:Information.svg|25px|]] Welcome to Wikipedia. Everyone is welcome to contribute constructively to the encyclopedia. However, please do not add promotional material to articles or other Wikipedia pages, as you did to [[:Motor oil]]. [[Wikipedia:What Wikipedia is not#Wikipedia is not a soapbox|Advertising]] and using Wikipedia as a &quot;[[soapbox]]&quot; is against Wikipedia policy and not permitted. Take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about Wikipedia. Thank you.[[Category:User talk pages with Uw-advert1 notices|{{PAGENAME}}]]&lt;!-- Template:Uw-advert1 --&gt; [[User:CardinalDan|CardinalDan]] ([[User talk:CardinalDan|talk]]) 03:02, 15 April 2010 (UTC)
+
+
+I don't follow your note: I contributed information about a new kind of motor oil.  I was not trying to stand on a soapbox or promote, etc.  What else is done to wiki entries when a new subcategory is added to a category of thing? 04:07, 15 April 2010 (UTC)~nachshonr
+
+==[[Wikipedia:Criteria for speedy deletion|Speedy deletion]] nomination of [[:Green Earth Technologies]]==
+[[Image:Ambox warning pn.svg|48px|left|alt=|link=]]
+{{Quote box|quote=&lt;p&gt;If this is the first article that you have created, you may want to read [[WP:Your first article|the guide to writing your first article]].&lt;/p&gt;&lt;p&gt;You may want to consider using the [[Wikipedia:Article wizard|Article Wizard]] to help you create articles.&lt;/p&gt;|width=20%|align=right}}
+A tag has been placed on [[:Green Earth Technologies]], requesting that it be speedily deleted from Wikipedia. This has been done under [[WP:CSD#G11|section G11 of the criteria for speedy deletion]], because the page seems to be unambiguous advertising which only promotes a company, product, group, service or person and would need to be fundamentally rewritten in order to become an encyclopedia article. Please read [[Wikipedia:Spam|the guidelines on spam]] and [[Wikipedia:FAQ/Business]] for more information. 
+
+If you think that this notice was placed here in error, you may contest the deletion by adding {{tlc|hang on}} to '''the top of [[:Green Earth Technologies|the page that has been nominated for deletion]]''' (just below the existing speedy deletion, or &quot;db&quot;, tag; if no such tag exists, then the page is no longer a speedy delete candidate and adding a hang-on tag is unnecessary), coupled with adding a note on '''[[Talk:Green Earth Technologies|the talk page]]''' explaining your position, but be aware that once tagged for ''speedy'' deletion, if the page meets the criterion, it may be deleted without delay. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the page that would render it more in conformance with Wikipedia's policies and guidelines. If the page is deleted, you can contact [[:Category:Wikipedia administrators who will provide copies of deleted articles|one of these administrators]] to request that the administrator [[Wikipedia:Userfication#Userfication_of_deleted_content|userfy]] the page or email a copy to you. &lt;!-- Template:Db-spam-notice --&gt; &lt;!-- Template:Db-csd-notice-custom --&gt; [[User:The Interior|&lt;font color=&quot;brown&quot;&gt;The&lt;/font&gt;&lt;font color=&quot;green&quot;&gt; Interior&lt;/font&gt;]] [[User Talk:The Interior|(Talk)]] 03:37, 10 March 2011 (UTC)
+==License tagging for File:Jock itch.jpg==
+Thanks for uploading [[:File:Jock itch.jpg]].  You don't seem to have indicated the license status of the image.  Wikipedia uses a set of [[Wikipedia:Image copyright tags|image copyright tags]] to indicate this information. 
+
+To add a tag to the image, select the appropriate tag from [[Wikipedia:Image copyright tags/All|this list]], click on [[:File:Jock itch.jpg|this link]], then click &quot;Edit this page&quot; and add the tag to the image's description.  If there doesn't seem to be a suitable tag, the image is probably not appropriate for use on Wikipedia. For help in choosing the correct tag, or for any other questions, leave a message on [[Wikipedia:Media copyright questions]].  Thank you for your cooperation.&lt;!-- User:OrphanBot/untagged-new --&gt; --[[User:ImageTaggingBot|ImageTaggingBot]] ([[User talk:ImageTaggingBot|talk]]) 00:05, 22 March 2015 (UTC)
+
+
+== [[:File:Jock itch.jpg]] missing description details ==
+
+&lt;div style=&quot;padding:5px; background-color:#E1F1DE;&quot;&gt;'''Dear uploader:''' The media file you uploaded as:
+*[[:File:Jock itch.jpg]]
+is missing a description and/or other details on its image description page. If possible, please add this information. This will help other editors make better use of the image, and it will be more informative to readers.
+
+If you have any questions, please see [[Help:Image page#Description of the image|Help:Image page]]. Thank you. [[User:Sfan00 IMG|Sfan00 IMG]] ([[User talk:Sfan00 IMG|talk]]) 20:04, 9 April 2015 (UTC) &lt;/div&gt;&lt;!-- Template:Add-desc-l --&gt;
+	</talkpage>
+</article>

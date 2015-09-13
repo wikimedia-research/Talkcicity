@@ -1,0 +1,17 @@
+<article id="17955521" title=User talk:M!ll$R-MyErs>
+	<talkpage id="17955521" title="User talk:M!ll$R-MyErs">
+== June 2008 ==
+Hello, and [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome to Wikipedia]]!
+
+I hope not to seem unfriendly or make you feel unwelcome, but I noticed your username, and I am concerned that it might not meet Wikipedia's [[Wikipedia:Username policy|username policy]]{{#if:|&amp;#32;for the following reason: {{{1}}}}}. After you look over that policy, could we discuss that concern here?
+
+I'd appreciate learning your own views, for instance your reasons for wanting this particular name, and what alternative username you might accept that avoids raising this concern.
+
+You have several options freely available to you:
+* If you can relieve my concern through discussing it here, I can stop worrying about it.
+* If the two of us can't agree here, we can ask for help through Wikipedia's [[Wikipedia:Resolving disputes|dispute resolution process]], such as [[Wikipedia:Requests for comment/User names|requesting comments]] from other Wikipedians.  [[Wikipedia:Administrators|Wikipedia administrators]] usually abide by agreements reached through this process.
+* You can keep your contributions history under a new username. Visit [[Wikipedia:Changing username]] and follow the guidelines there.
+
+{{#if:|{{{2}}}|Thank you.}}  &lt;!-- Template:uw-username --&gt; [[User:Dave1185|Dave1185]] ([[User talk:Dave1185|talk]]) 16:34, 15 June 2008 (UTC)
+	</talkpage>
+</article>

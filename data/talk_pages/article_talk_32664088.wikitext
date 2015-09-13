@@ -1,0 +1,7 @@
+<article id="32664088" title=User talk:67.197.155.124>
+	<talkpage id="32664088" title="User talk:67.197.155.124">
+== August 2011 ==
+[[File:Information.svg|25px|alt=|link=]] Welcome and thank you for experimenting with Wikipedia. Your test on the page [[:Hyper-Calvinism]] worked, and it has been [[Help:Reverting|reverted]] or removed. If you would like to experiment further, please use the '''[[Wikipedia:Sandbox|sandbox]]''' instead. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|this encyclopedia]]. Thank you.&lt;!-- Template:uw-test1 --&gt; [[User:StAnselm|&lt;b&gt;St&lt;/b&gt;]][[Special:Contributions/StAnselm|Anselm]] ([[User talk:StAnselm|talk]]) 01:56, 7 August 2011 (UTC)
+:''If this is a [[closed proxy|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:SharedIPAdvice --&gt;
+	</talkpage>
+</article>

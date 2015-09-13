@@ -1,0 +1,5 @@
+<article id="38248005" title=User talk:Pauwob>
+	<talkpage id="38248005" title="User talk:Pauwob">
+[[Image:Information.svg|25px|alt=|link=]] Hello, I'm [[User:Materialscientist|Materialscientist]]. I noticed that you made an edit to a biography of a living person, but that you didn’t support your changes with a [[Wikipedia:Citing sources|citation to a reliable source]]. Wikipedia has a strict policy concerning [[Wikipedia:Biographies of living persons|how we write about living people]], so please help us keep such articles accurate. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Materialscientist|my talk page]]. Thank you. &lt;!-- Template:uw-biog1 --&gt; [[User:Materialscientist|Materialscientist]] ([[User talk:Materialscientist|talk]]) 21:48, 16 January 2013 (UTC)
+	</talkpage>
+</article>

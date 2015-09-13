@@ -1,0 +1,5 @@
+<article id="16677081" title=Talk:1941 Cleveland Indians season>
+	<talkpage id="16677081" title="Talk:1941 Cleveland Indians season">
+{{WikiProject Baseball|class=Stub|importance=Mid}}
+	</talkpage>
+</article>

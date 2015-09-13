@@ -1,0 +1,6 @@
+<article id="19230071" title=User talk:61.217.224.44>
+	<talkpage id="19230071" title="User talk:61.217.224.44">
+== September 2008 ==
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Thank you for [[Help:Reverting|reverting]] your recent experiment{{#if:Industrial Revolution|&amp;#32;with the page [[:Industrial Revolution]]}}. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to our encyclopedia. In the future, please do not experiment on article pages; instead, use the [[Wikipedia:Sandbox|sandbox]]. Thank you. &lt;!-- Template:Uw-selfrevert--&gt; -- [[User:Alexf|Alexf]]&lt;sup&gt;[[User talk:Alexf|42]]&lt;/sup&gt; 13:11, 8 September 2008 (UTC)
+	</talkpage>
+</article>

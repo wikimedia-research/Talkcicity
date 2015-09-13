@@ -1,0 +1,6 @@
+<article id="37153056" title=User talk:1.38.24.151>
+	<talkpage id="37153056" title="User talk:1.38.24.151">
+==September 2012==
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:78.26|78.26]]. I noticed that you recently made an edit to [[:Constitution of India]] that seemed to be a test. Your test worked! If you want more practice editing, the [[Wikipedia:Sandbox|sandbox]] is the best place to do so. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:78.26|my talk page]]. Thank you. &lt;!-- Template:uw-test1 --&gt; [[User:78.26|&lt;span style=&quot;border:1px solid black;color:red; padding:1px;background:1h5h1h&quot;&gt;&lt;font color=&quot;008B8B&quot;&gt;&lt;b&gt;78.26&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;]] ([[User talk:78.26|talk]]) 14:44, 28 September 2012 (UTC)
+	</talkpage>
+</article>

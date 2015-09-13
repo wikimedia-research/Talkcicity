@@ -1,0 +1,7 @@
+<article id="38345621" title=User talk:78.149.249.123>
+	<talkpage id="38345621" title="User talk:78.149.249.123">
+== January 2013 ==
+[[Image:Stop hand nuvola.svg|30px|alt=|link=]] This is your '''last warning'''. The next time you [[Wikipedia:Vandalism|vandalize]] Wikipedia, as you did at [[:Duel Short Film]], you may be '''[[Wikipedia:Blocking policy|blocked from editing]] without further notice'''. &lt;!-- Template:uw-vandalism4 --&gt;&lt;!-- Template:uw-cluebotwarning4 --&gt; [[User:Werieth|Werieth]] ([[User talk:Werieth|talk]]) 16:23, 27 January 2013 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

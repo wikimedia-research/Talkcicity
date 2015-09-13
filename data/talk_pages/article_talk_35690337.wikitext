@@ -1,0 +1,5 @@
+<article id="35690337" title=Talk:Saengerfest Park>
+	<talkpage id="35690337" title="Talk:Saengerfest Park">
+{{WikiProject United States|class=Stub|importance=Low|TX=yes|TX-importance=Low}}
+	</talkpage>
+</article>

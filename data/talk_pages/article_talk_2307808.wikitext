@@ -1,0 +1,97 @@
+<article id="2307808" title=Talk:Perceptual control theory>
+	<talkpage id="2307808" title="Talk:Perceptual control theory">
+{{WikiProjectBannerShell|1=
+{{WikiProject Psychology|class=C|importance=Low}}
+{{Sys rating|class=C|importance=high|field=control theory}}
+}}
+__FORCETOC__
+== Suggestions for improvement ==
+
+&lt;del&gt;The Cleanup tag gives as reason &quot;The article is difficult to understand&quot;. It would help if the person who applied the tag could identify specific sections that are written in an unclear way. &lt;ins&gt;Bear in mind that many articles about fields of science are hard for newcomers. Of course good science writing for the lay public aims to overcome this, but the reader is expected and required to do some work. Readers who are expert in some fields may not realize the extent to which they are newcomers to this.&lt;/ins&gt;&lt;/del&gt;
+
+There could be a section on each area of application. These may become substantial enough to merit being split off into a separate article, as with MOL. For example, there should be a section on PCT and sociology, which should be put in relationship with [[Control_theory_(sociology)]], and then the disconnected subsection of references to PCT and sociology could be properly handled. 
+
+The article [[Control theory (sociology)]] has some things that seem a bit garbled to me, quite apart from not mentioning PCT. For example, the paragraph that begins &quot;Control Theory, as developed by Walter Reckless in 1973, states that behavior is caused not by outside stimuli, but by what a person wants most at any given time&quot; concludes with the frankly incoherent sentence &quot;So, basically, if you have strong social bonds to positive influences, deviant behavior is less likely than someone who has no family or friends.&quot; Look at the talk page at [[Talk:Control theory (sociology)]] to see how a series of three editors started to deal with this a couple of years ago—the last of them deleted a plug for 'choice theory' in October 2009, and they agreed that this Walter Reckless's ideas amount to a Hobbsean &quot;human nature is inherently depraved&quot; approach to criminology which is unrelated to negative feedback control theory. 
+
+More needs to be said about the distinction from engineering control theory&lt;ins&gt; in the section that has been added for that&lt;/ins&gt;. A number of articles are related but assert some of the familiar misconceptions about negative feedback control, e.g. lag time. These include [[Control theory]], [[Feedback controller]], and [[Feedback]]. [[User:Bn|Bn]] ([[User talk:Bn|talk]]) 01:36, 9 January 2011 (UTC)
+&lt;del&gt;The introduction mentions this distinction, and nothing should be in the introduction unless it is taken up in the main body of the article.&lt;/del&gt; [[User:Bn|Bn]] ([[User talk:Bn|talk]]) 17:34, 9 September 2012 (UTC)
+[[User:Bn|Bn]] ([[User talk:Bn|talk]]) 04:29, 22 September 2012 (UTC)&lt;/br&gt;
+[[User:Bn|Bn]] ([[User talk:Bn|talk]]) 02:01, 1 October 2012 (UTC)
+
+&lt;del&gt;== Removing cleanup tag ==
+On 4 February 2006, A cleanup tag was inserted (sans required parameters) by Scm83x. &lt;/br&gt;
+Smackbot added a date in June 2008.  &lt;/br&gt;
+On 20 May 2012, IP 68.55.112.31 added the reason &quot;The article is difficult to understand.&quot; Because the syntax was not correct it did not display. On the same date, the same IP added and then reverted a further reason &quot;Also, the article lacks sufficient information for the reader to evaluate the level of scientific support for the theory.&quot; The edit note says:
+&lt;blockquote&gt;
+(Propose content for the mandatory &quot;reason&quot; parameter to the &quot;cleanup&quot; tag. Please feel free to change the &quot;reason&quot;.)&lt;/br&gt;
+&lt;/blockquote&gt;
+Recently, I fixed the syntax so we can see the reason displayed.&lt;/br&gt;
+Today, I put a note on the talk page for Scm83x stating intention to remove the tag. (The talk page for the IP says it's a work computer that is blocked for editing until April 17, 2012.)&lt;/br&gt;
+The page has been greatly improved. If there is no objection, I will remove the cleanup tag next week.&lt;/br&gt;
+[[User:Bn|Bn]] ([[User talk:Bn|talk]]) 05:49, 26 September 2012 (UTC)&lt;/del&gt;&lt;/br&gt;
+[Done.]
+[[User:Bn|Bn]] ([[User talk:Bn|talk]]) 02:07, 1 October 2012 (UTC)
+
+== State-of-the-art ==
+This text need objectivity and context.
+# A comparison with other state-of-the-art models on perception
+# If this is a &quot;model&quot; as stated in the introduction, make it specific. What are the model's constituents? What are the model parameters? What is it a model of? Which different variants of the model exist? How can the validity of the model be tested?
+# Use existing terminology, there has been written a lot about sensorimotor prediction to mention one example. This shows also that you know the alternatives (and why they are not good enough)
+
+To the author: Do not see this too much as a criticism. Other cognitive models seems to have the same lack of rigour, as there are a.) global workspace theory (Baars), b.) society of mind (Minsky). See for examples of a little bit more specific models c.) copycat (Hofstadter), and d.) [[Hierarchical_Temporal_Memory|HTM]]. Also compare with models on the [[Cognitive_architecture|cognitive architectures]] wiki page. I would recommend to make use of well established notions such as Bayesian networks, Shannon information, entropy, sensorimotor mutual information, free-energy (Friston), empowerment (Klyubin), information-to-go (Polani), etc.  [[User:Saviourmachine|Andy]] ([[User talk:Saviourmachine|talk]]) 20:00, 23 April 2012 (UTC)
+
+This article has still not improved. The 'mathematical' section is not worthy of its name. Moreover, it is well known that minimizing error leads to a system that does not exhibit exploration, but only exploitation. Moreover, it eludes me why in this case the reference signal &quot;r&quot; coming from &quot;another part in the organism&quot; is so different from an external signal. If so, it needs to be specified how this signal is generated. For now it really comes across as a crackpot article, worthy only of deletion. [[User:Saviourmachine|Anne van Rossum]] ([[User talk:Saviourmachine|talk]]) 18:11, 23 December 2013 (UTC)
+
+:Good catch re the vague language about the source of the reference signal. However, you should try to get at least a little exposure to the relevant literature before shouting &quot;crackpot&quot;. [[User:Bn|Bn]] ([[User talk:Bn|talk]]) 23:08, 28 July 2014 (UTC)
+
+== Conflict of Interest ==
+
+[[User:Gary Cziko|Gary Cziko]] has personally published papers about PCT, and created much of the content on this page, and edited this page to include links to his papers, to boot.  He also created the [[Method of Levels]] page.  While the lack of NPOV is obvious, this COI might not have been.  I don't know a lot about Wikipedia policy, but I'm going to make a good faith assumption that [[User:Gary Cziko|Gary Cziko]] was just trying to share his knowledge, despite it reading like an advertisement.  I will post on his talk page that he really shouldn't be doing this.  After a few minutes of reading the COI page, I figure this is the best unofficial course of action on my part.  Hopefully a real Wikipedian can include any formalities, like the COI template thingy, if warranted. [[Special:Contributions/76.115.3.200|76.115.3.200]] ([[User talk:76.115.3.200|talk]]) 09:27, 19 August 2009 (UTC)
+
+This entire article looks like an advertisement. I just don't have the guts to delete half of it. Some of it obviously has to be removed while other parts have to rephrased. [[User:Yelin|Yelin]] ([[User talk:Yelin|talk]]) 04:55, 17 November 2009 (UTC)
+
+:I have rewritten the preamble, and included references to the reports of NATO groups of which I have been a member, as well as to a Special Issue on Perceptual Control Theory of the International Journal of Human-Computer Studies of which I was the Editor. Since I did not include evaluative comments on these, I'm not sure whether my mention of them constitutes conflict of interest, so I declare it here. [[User:Mmt|Mmt]] ([[User talk:Mmt|talk]])  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|undated]] comment added 04:35, 15 May 2010 (UTC).&lt;/span&gt;&lt;!--Template:Undated--&gt; &lt;!--Autosigned by SineBot--&gt;
+
+::I would have added the references to Cziko's MIT Press books if he hadn't. They are valid, reliable sources. No [[WP:COI|conflict of interest]]. That was the original complaint. Nor do I see any conflict in the other references. Nor is there an issue of [[WP:NOTE|notability]], there are many mainstream references and publications, so it is notable enough for its own article. Mention of PCT within an article about, say, the [[Operant_conditioning_chamber|Skinner box]] would require reliable sources that recognized the relevance of the one to the other, but notability is not an issue for that sort of cross-inclusion even if this standalone article were challenged on notability grounds (which it is not). 
+
+::Unsigned IP comments tend to have reduced credibility. Please sign your comments. [[User:Bn|Bn]] ([[User talk:Bn|talk]]) 16:54, 1 October 2010 (UTC)
+
+== Psychotherapy and MOL ==
+
+Should the information now under &quot;Psychotherapy&quot; be put instead in the separate Wikipedia article on the [[Method of Levels]] (with a link from here to there)? --Gary
+
+
+I don't think so. PCT Psychotherapy is a more general concept than the Method of Levels. It is possible that a person in therapy will change in more ways than resolving conflicts. For example, a person may learn to perceive differently, want differently, feel differently, and act differently. Changes can take place anywhere in the control loop. --David
+
+This article look like a commercial. Major editing required.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/83.130.10.63|83.130.10.63]] ([[User talk:83.130.10.63|talk]]) 00:24, 25 March 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+Article is a complete joke. Reads like a horribly written and inaccurate 6th grade textbook. Either needs to be completely edited or deleted. The theory was developed by William T. Powers, &quot;a maverick scientist.&quot; AKA hack. He has no institutional affiliation which should be a big red light considering he seems to be the only person backing this theory.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/137.165.249.79|137.165.249.79]] ([[User talk:137.165.249.79|talk]]) 05:31, 14 January 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+Actually you are deeply mistaken in this evaluation.  Several cyberneticists, behavioral scientists, and theoretical biologists have arrived at similar conclusions albeit stated in different terms -- Ernest Von Glasersfeld, Ludwig Von Bertlanffy, Norbert Weiner, W Ross Ashby, Humberto Maturana, Fransisco Varela, Heinz Von Foerster, Gregory Bateson all of whom were associated with respected institutions and who have written numerous publications in the behavioral and biological among other sciences in numerous scientific journals, not mentioning that they held respectable positions in respectable institutions.  A lot of this work has thoroughly been picked up on in sociology, anthropology, and cognitive science, for example in the works of Tim Ingold, Niklas Luhmann, Andy Clarke, Soren Brier, Evan Thompson, among others.  It appears as if PCT is an independent formulation of many of the similar ideas of these other researchers, however not likely since they all reference cybernetic notions in some form or another in all of their works.  And if you look at the literature Powers actually wrote, you will see him mention some of these names as he compares and contrasts his notions with theirs.  His works were also read and appreciated and favorably reviewed by other behavioral scientists, of course not most because he was deeply challenging the behaviorist orthodoxy.  It just seems that cybernetics outside of the engineering domain of automatic control systems theory has been ignored by most of mainstream academia in the united states as historically cybernetics was abandoned for more &quot;concrete&quot; research in artificial intelligence and computing.  Detailed social histories have been written about this state of affairs by sociologists, which I could find if you are interested in seeing that these ideas are not just the result of a lone &quot;hack&quot; working in isolation.  [[User:DivisionByZer0|DivisionByZer0]] ([[User talk:DivisionByZer0|talk]]) 09:05, 14 March 2009 (UTC)
+
+:DivisionByZer0, this is cognitive psychology, not sociology.  Your extreme name dropping isn't the slightest bit convincing.  Saying all sorts of bodies of work have related &quot;formulations&quot; of &quot;similar ideas&quot; isn't real evidence.  If you have real evidence that modern psychologists are using Powers' theories--or some salient derivation thereof--in cognitive science, then show that evidence. (Ironically, I actually have some evidence, although weak.)
+
+:As for the content of the article itself, while Powers and various theoretical descendants may come off as hackish, I recall seeing Powers cited by [[Michael_Tomasello]] in a 2005 paper [[http://journals.cambridge.org/action/displayAbstract?fromPage=online&amp;aid=346981]].  I'm not saying this mention legitimizes any of the specific content on this page, but simply that PCT being covered well on Wikipedia, with NPOV, without all this COI, would be generally useful. [[Special:Contributions/76.115.3.200|76.115.3.200]] ([[User talk:76.115.3.200|talk]]) 09:27, 19 August 2009 (UTC)
+
+::Begging to differ, this is presented as a science of the behavior of living things, and in point of fact there is a solid literature on PCT and sociology, e.g. Mc Phail, Clark, ''The Myth of the Madding Crowd'', New York, Aldine de Gruyter, 1991. Cognitive psychology holds that stimuli, mediated by 'cognitive maps', cause behavior—a very different beast. [[User:Bn|Bn]] ([[User talk:Bn|talk]]) 19:02, 19 December 2010 (UTC)
+
+== Non-mathematical? ==
+
+The opening statement of the article states that PCT is non-mathematical. That's at best misleading, but more likely it's just wrong. While you can understand much of the theory without working through the math, it does have a mathematical basis in control theory (see the appendix in Powers' 1973 book) and the computer simulations are built on that math.
+[[User:Bbenzon|Bill Benzon]] ([[User talk:Bbenzon|talk]]) 18:01, 24 May 2012 (UTC)&lt;/br&gt;
+This has been fixed by reverting an edit of the intro and by adding a mathematical section. [[User:Bn|Bn]] ([[User talk:Bn|talk]]) 02:08, 1 October 2012 (UTC)
+
+== Maurice Merleau-Ponty ==
+
+An unsigned IP made this the opening sentence of the History section:
+&lt;blockquote&gt;
+[[Maurice Merleau-Ponty]], influenced by the work of [[Gestalt psychologists]], laid the foundations for PCT in his 1942 ''The Structure of Behavior'',&lt;nowiki&gt;&lt;ref&gt;&lt;/nowiki&gt;The Structure of Behavior, A.L. Fisher (trans.), Boston: Beacon Press, 1963.&lt;nowiki&gt;&lt;/ref&gt;&lt;/nowiki&gt; although he remains mostly unacknowledged''. 
+&lt;/blockquote&gt;
+This would require citations showing two things:
+#That Merleau-Ponty understood negative feedback control as the explanatory principle for behavior.
+#That his work in fact influenced the development of PCT.
+
+Seeing no evidence for these prerequisites either in the WP article on him or in the literature of PCT, I have removed this passage. If such citations can be provided, we should find an appropriate place to mention him.
+&lt;BR&gt;[[User:Bn|Bn]] ([[User talk:Bn|talk]]) 01:09, 28 October 2013 (UTC)
+	</talkpage>
+</article>

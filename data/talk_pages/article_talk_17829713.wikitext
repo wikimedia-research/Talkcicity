@@ -1,0 +1,13 @@
+<article id="17829713" title=Talk:Aralar Range>
+	<talkpage id="17829713" title="Talk:Aralar Range">
+{{WikiProjectBannerShell|1=
+{{WikiProject Spain}}
+{{WikiProject Mountains|class=Start|importance=Low}}
+{{WikiProject Geography|class=C|importance=low}}
+}}
+
+
+After discussion with [https://en.wikipedia.org/wiki/User:Iñaki_LL] I have merged [[Aralar Natural Park]] into Aralar Range. Aralar NAtural Park can now be deleated.
+Myrtle[[User:Myrtlegroggins|Myrtlegroggins]] ([[User talk:Myrtlegroggins|talk]]) 22:08, 16 November 2013 (UTC)
+	</talkpage>
+</article>

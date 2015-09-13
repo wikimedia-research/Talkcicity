@@ -1,0 +1,13 @@
+<article id="2303297" title=Talk:William Warburton>
+	<talkpage id="2303297" title="Talk:William Warburton">
+{{WikiProject Shakespeare|class=Start|importance=Low}}
+{{WPBiography|living=no|class=start|listas=Warburton, William}}
+
+==Untitled==
+The article on [[Cardenio]] contains this line:
+&quot;they may well have passed to William Warburton, who had worked with Theobald, and if 
+they did, they probably perished at the hands of his infamous cook.&quot;
+I was unable to find a reference in Warburton's article, though. If this cook is that infamous, perhaps someone could write a line or two?
+--[[User:Kerowyn|Kerowyn]] 04:12, 25 July 2005 (UTC) [--[[User:4.164.204.124|4.164.204.124]] 04:11, 25 July 2005 (UTC)]
+	</talkpage>
+</article>

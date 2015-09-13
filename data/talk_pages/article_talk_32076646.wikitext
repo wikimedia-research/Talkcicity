@@ -1,0 +1,5 @@
+<article id="32076646" title=Talk:U.S. presidential election, 2008, in Delaware>
+	<talkpage id="32076646" title="Talk:U.S. presidential election, 2008, in Delaware">
+{{WikiProject United States|class=Redirect|importance=NA|USGov=yes|USGov-importance=NA}}
+	</talkpage>
+</article>

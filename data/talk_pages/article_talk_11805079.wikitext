@@ -1,0 +1,5 @@
+<article id="11805079" title=Talk:Gorlice County>
+	<talkpage id="11805079" title="Talk:Gorlice County">
+{{WikiProject Poland|class=Stub|importance=}}
+	</talkpage>
+</article>

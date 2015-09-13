@@ -1,0 +1,9 @@
+<article id="32504378" title=Talk:Australians in Lebanon>
+	<talkpage id="32504378" title="Talk:Australians in Lebanon">
+{{WikiProjectBannerShell|1=
+{{WikiProject Australia |class=stub}}
+{{WikiProject Lebanon |class=stub |importance=Low}}
+{{WikiProject Ethnic groups |class=stub}}
+}}
+	</talkpage>
+</article>

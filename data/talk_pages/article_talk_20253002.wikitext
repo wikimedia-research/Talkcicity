@@ -1,0 +1,5 @@
+<article id="20253002" title=Talk:Bishop of Argyll and the Isles>
+	<talkpage id="20253002" title="Talk:Bishop of Argyll and the Isles">
+{{DisambigProject}}
+	</talkpage>
+</article>

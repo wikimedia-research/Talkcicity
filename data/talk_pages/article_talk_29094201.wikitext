@@ -1,0 +1,5 @@
+<article id="29094201" title=Talk:3Way International Logistics>
+	<talkpage id="29094201" title="Talk:3Way International Logistics">
+{{WikiProject Canada|class=stub |importance=low }}
+	</talkpage>
+</article>

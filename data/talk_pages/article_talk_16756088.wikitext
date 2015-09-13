@@ -1,0 +1,16 @@
+<article id="16756088" title=Talk:Humphrey's Restaurant & Tavern>
+	<talkpage id="16756088" title="Talk:Humphrey's Restaurant & Tavern">
+{{WikiProjectBannerShell|1=
+{{WikiProject Food and drink|class=Stub|importance=Low|Foodservice=yes}}
+{{WikiProject Missouri|class=Stub|importance=Low}}
+{{WikiProject St. Louis|class=Stub|importance=Low|wg=Food}}
+}}
+{{Image requested|in=St. Louis, Missouri}}
+
+==[[WP:FOOD]] Tagging==
+This article talk page was automatically added with {{tl|WikiProject Food and drink}} banner as it falls under [[:Category:Restaurants]] or one of its subcategories. If you find this addition an error, Kindly undo the changes and update the inappropriate categories if needed. You can find the related request for tagging [[User:TinucherianBot/Autotagg/WPFOOD#Request_4|here]]  -- [[User:TinucherianBot|TinucherianBot]] ([[User talk:TinucherianBot|talk]]) 09:52, 2 July 2008 (UTC)
+
+==[[WP:NOTE]] Removal==
+I deleted the [[WP:NOTE|notability]] tag on this article on the grounds that this establishment is basis for a main-stream movie with prominent American actors such as [[Liv Tyler]], [[Matt Dillon]], [[John Goodman]], and [[Reba McEntire]]. Additionally, it is well-known in the [[St. Louis, Missouri|St. Louis]] community as a reputable bar. [[User:Benjamin Dominic|Benjamin Dominic]] ([[User talk:Benjamin Dominic|talk]]) 07:38, 21 January 2009 (UTC)
+	</talkpage>
+</article>

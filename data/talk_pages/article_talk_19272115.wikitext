@@ -1,0 +1,5 @@
+<article id="19272115" title=Talk:Siepietnica>
+	<talkpage id="19272115" title="Talk:Siepietnica">
+{{WikiProject Poland|class=stub|importance=low}}
+	</talkpage>
+</article>

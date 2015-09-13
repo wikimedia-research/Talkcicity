@@ -1,0 +1,5 @@
+<article id="43940862" title=Talk:Sanctuary Forest>
+	<talkpage id="43940862" title="Talk:Sanctuary Forest">
+{{WikiProject California|class=|importance=}}
+	</talkpage>
+</article>

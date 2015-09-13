@@ -1,0 +1,5 @@
+<article id="44166814" title=Talk:Aldo Monti>
+	<talkpage id="44166814" title="Talk:Aldo Monti">
+{{WikiProject Biography|living=yes|class=Stub}}
+	</talkpage>
+</article>

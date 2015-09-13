@@ -1,0 +1,12 @@
+<article id="38416358" title=User talk:74.179.56.243>
+	<talkpage id="38416358" title="User talk:74.179.56.243">
+
+
+== February 2013 ==
+[[Image:Information.svg|left|25px|alt=|link=]] Hello, and welcome to Wikipedia. This is a message letting you know that one of your recent edits has been undone by an automated computer program called [[User:ClueBot NG|ClueBot NG]].
+{{clear}}
+* ClueBot NG makes very few [[User:ClueBot NG#Information About False Positives|mistakes]], but it does happen. If you believe the change you made was constructive, please [[User:ClueBot NG#Information About False Positives|read about it]], [{{User:ClueBot NG/Warnings/FPReport|1484513}} report it here], remove this message from your talk page, and then make the edit again.
+* For help, take a look at the [[Wikipedia:Introduction|introduction]].
+* The following is the log entry regarding this message: [[Jamia Mosque (Kenya)]] was [http://en.wikipedia.org/w/index.php?title=Jamia+Mosque+%28Kenya%29&amp;diff=536476885&amp;oldid=536476332 changed] by [[Special:Contributions/74.179.56.243|74.179.56.243]] [[User:74.179.56.243|(u)]] [[User talk:74.179.56.243|(t)]] ANN scored at 0.965421 on 2013-02-04T07:12:27+00:00 &lt;!-- MySQL ID: 1484513 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]) 07:12, 4 February 2013 (UTC)
+	</talkpage>
+</article>

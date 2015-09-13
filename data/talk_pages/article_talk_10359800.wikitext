@@ -1,0 +1,5 @@
+<article id="10359800" title=Talk:Degree sum formula>
+	<talkpage id="10359800" title="Talk:Degree sum formula">
+#redirect [[Talk:Degree (graph theory)]]
+	</talkpage>
+</article>

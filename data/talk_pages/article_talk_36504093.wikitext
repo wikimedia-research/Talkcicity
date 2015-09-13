@@ -1,0 +1,5 @@
+<article id="36504093" title=Talk:Şanlıkışla, Şereflikoçhisar>
+	<talkpage id="36504093" title="Talk:Şanlıkışla, Şereflikoçhisar">
+{{WikiProject Turkey |class=stub |importance=}}
+	</talkpage>
+</article>

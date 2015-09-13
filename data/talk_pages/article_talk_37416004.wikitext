@@ -1,0 +1,8 @@
+<article id="37416004" title=User talk:24.26.132.131>
+	<talkpage id="37416004" title="User talk:24.26.132.131">
+
+== October 2012 ==
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:Theopolisme|Theopolisme]]. I wanted to let you know that I undid one or more of [[Special:Contributions/24.26.132.131|your recent contributions]]&amp;nbsp;to [[:Aggression]] because it didn't appear constructive. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Theopolisme|my talk page]]. &lt;!-- Template:uw-vandalism1 --&gt;&lt;!-- Template:uw-cluebotwarning1 --&gt;   '''&lt;font color=#232323&gt;[[User:Theopolisme|Theo]]&lt;/font&gt;&lt;font color=#4F4F4F&gt;[[User_Talk:Theopolisme|polisme]]&lt;/font&gt;''' 00:50, 23 October 2012 (UTC)
+:''If this is a [[open proxy|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

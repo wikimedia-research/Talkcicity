@@ -1,0 +1,15 @@
+<article id="19330699" title=User talk:150.210.176.122>
+	<talkpage id="19330699" title="User talk:150.210.176.122">
+
+
+== September 2008 ==
+
+===Your edits to [[July 12]]===
+Dear [[User:150.210.176.122|150.210.176.122]], &lt;br/&gt;[[Image:Information.svg|25px]]
+Some of your [{{fullurl:July 12|diff=238607559&amp;oldid=238415807}} edits] on the page 
+[[July 12]] have been undone by PseudoBot, a robot built to keep the date pages tidy. The problems are:
+: No Wikipedia page has been linked to.
+If a Wikipedia page for the person already exists, add a link to it (by putting it in doubled square brackets &lt;nowiki&gt;[[Like this]]&lt;/nowiki&gt;) and try again. If it doesn't yet exist, read [[WP:BIO|this page]] carefully before creating it. In particular, you [[WP:COI|shouldn't create a page about yourself]] or anyone you know personally.
+If this bot has got it wrong (as can unfortunately happen), please accept its author's apologies, and (if you would like) leave a message on [[User talk:Pseudomonas|this talk page]] with the details, so it can be improved. Please see [[User:Pseudomonas/Guidelines on adding births and deaths|this page]] for help. &lt;!-- Template:Uw-PseudoBot1 --&gt; [[User:PseudoBot|PseudoBot]] ([[User talk:PseudoBot|talk]]) 16:14, 15 September 2008 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,15 @@
+<article id="23668559" title=User talk:122.108.143.97>
+	<talkpage id="23668559" title="User talk:122.108.143.97">
+
+
+== July 2009 ==
+
+===Your edits to [[December 21]]===
+Dear [[User:122.108.143.97|122.108.143.97]], &lt;br/&gt;[[Image:Information.svg|25px]]
+Some of your [{{fullurl:December 21|diff=303023657&amp;oldid=302482990}} edits] on the page 
+[[December 21]] have been undone by PseudoBot, a robot built to keep the date pages tidy. The problems are:
+: The page you linked to is a [[WP:D|Disambiguation page]].
+Please choose the individual that you mean from that page, and link to ''their'' Wikipedia page.
+If this bot has got it wrong (as can unfortunately happen), please accept its author's apologies, and (if you would like) leave a message on [[User talk:Pseudomonas|this talk page]] with the details, so it can be improved. Please see [[User:Pseudomonas/Guidelines on adding births and deaths|this page]] for help. &lt;!-- Template:Uw-PseudoBot1 --&gt; [[User:PseudoBot|PseudoBot]] ([[User talk:PseudoBot|talk]]) 22:21, 19 July 2009 (UTC)
+	</talkpage>
+</article>

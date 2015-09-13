@@ -1,0 +1,39 @@
+<article id="5760191" title=Talk:Joe Sebok>
+	<talkpage id="5760191" title="Talk:Joe Sebok">
+{{WikiProject Biography
+|living=yes
+|class=start
+|listas=Sebok, Joe
+}}
+{{WikiProject Gambling|class=start
+&lt;!-- B-Class checklist --&gt;
+&lt;!-- 1. It is suitably referenced, and all major points have appropriate inline citations. --&gt;|b1=
+&lt;!-- 2. It reasonably covers the topic, and does not contain obvious omissions or inaccuracies. --&gt;|b2=
+&lt;!-- 3. It has a defined structure, including a lead section and one or more sections of content. --&gt;|b3=
+&lt;!-- 4. It is free from major grammatical errors. --&gt;|b4=
+&lt;!-- 5. It contains appropriate supporting materials, such as an infobox, images, or diagrams. --&gt;|b5=
+&lt;!-- 6. The article presents its content in an appropriately accessible way. --&gt;|b6=
+|importance=low
+|poker=yes
+|poker-importance=low
+|needs-picture=yes
+|listas=Sebok, Joe}}
+
+== Sebok/Smith bet ==
+
+Question about the bet between Sebok and [[Gavin Smith]] for the 2006 WSOP - did the H.O.R.S.E. event count for the bet?  I thought it only counted hold'em events, since that's all Sebok plays. [[User:Bigdottawa|Bigdottawa]] 05:25, 15 August 2006 (UTC)
+: I'm fairly sure it was across all events. Haven't seen anything to say otherwise. [[User:Essexmutant|Essexmutant]] 07:46, 15 August 2006 (UTC)
+:: Thought I had seen it on Sebok's site, here it is...
+
+&quot; All '''hold'em events''' from event #2 through event #37 at the WSOP '06 will be used in the final tally. The ESPN World Series Player of the Year points will be the scoring system employed.&quot; [[User:Bigdottawa|Bigdottawa]] 15:22, 15 August 2006 (UTC)
+:The $50,000 H.O.R.S.E. event isn't hold'em, so it didn't count toward the bet. I have this on direct authority from Gavin and Joe, but they also discussed it on WSOP episodes of &quot;The Circuit.&quot;  [[User:BJ Nemeth|BJ Nemeth]] 03:41, 23 October 2006 (UTC)
+
+== UB Criticism ==
+
+'''Sebok has been criticized by poker community including WSOP Limit Holdem Bracelet winner Todd Witteless who was in 60 minutes to talk about Ultimate Bet controversy for representing Ultimate Bet after cheating scandal.'''
+
+The above text is repeatedly being added by an IP address. I personally disagree with it due to there being no citation (More than one being needed to say that the &quot;poker community&quot; has criticised him) and that it's more of an issue that needs to be read about in the article for [[Ultimate Bet]] itself. I'm wondering if people are actually wanting the statement in the article...? [[User:JaeDyWolf|JaeDyWolf ~ Baka-San]] ([[User talk:JaeDyWolf|talk]]) 17:32, 3 March 2011 (UTC)
+
+:The fact one person criticizes someone else is not encyclopedic, or even interesting, and absurd statements like &quot;criticized by poker community&quot; (did everybody have a meeting somewhere?) are worse than weasel words. [[User:2005|2005]] ([[User talk:2005|talk]]) 01:35, 4 March 2011 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,9 @@
+<article id="16123597" title=User talk:71.255.104.138>
+	<talkpage id="16123597" title="User talk:71.255.104.138">
+
+
+== March 2008 ==
+[[Image:Stop hand nuvola.svg|30px]] This is the '''only warning''' you will receive for your disruptive edits. &lt;br&gt; If you add [[Wikipedia:Libel|defamatory]] content once again{{#if:Stephen King|, as you did to [[:Stephen King]]}}, you '''will''' be [[Wikipedia:Blocking policy|blocked]] from editing Wikipedia. {{#if:|{{{2}}}|}}&lt;!-- Template:uw-defamatory4im --&gt; [[User:Toddst1|Toddst1]] ([[User talk:Toddst1|talk]]) 02:05, 6 March 2008 (UTC)
+:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
+	</talkpage>
+</article>

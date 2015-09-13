@@ -1,0 +1,5 @@
+<article id="17463292" title=Talk:Red Russia>
+	<talkpage id="17463292" title="Talk:Red Russia">
+{{DisambigProject}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="16709586" title=Talk:Korostyshiv>
+	<talkpage id="16709586" title="Talk:Korostyshiv">
+{{WikiProject Ukraine|class=Stub|importance=}}
+	</talkpage>
+</article>

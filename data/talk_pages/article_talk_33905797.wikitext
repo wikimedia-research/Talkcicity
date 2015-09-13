@@ -1,0 +1,23 @@
+<article id="33905797" title=Talk:Article 14 of the Constitution of Singapore>
+	<talkpage id="33905797" title="Talk:Article 14 of the Constitution of Singapore">
+{{ArticleHistory
+|action1=GAN
+|action1date=17:34, 24 January 2012
+|action1link=Talk:Article 14 of the Constitution of Singapore/GA1
+|action1result=listed
+|action1oldid=472965428
+|dykdate=12 December 2011
+|dykentry=... that the [[right to free speech|rights to freedom of speech]], [[freedom of assembly|assembly]] and [[freedom of association|association]] are only guaranteed by '''[[Article 14 of the Constitution of Singapore|Article 14]]''' of the [[Constitution of Singapore|Singapore Constitution]] to [[Singaporean nationality law|Singapore citizens]]?
+|currentstatus=GA
+|topic=law
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Freedom of speech|class=GA|importance=Mid}}
+{{WikiProject Singapore|class=GA|importance=High}}
+{{WikiProject Law|class=GA|importance=Mid}}
+{{WikiProject Human rights|class=GA|importance=Mid}}
+}}
+{{Educational assignment|month=3|year=2011|link=Wikipedia:School and university projects#School of Law, Singapore Management University: Constitutional and Administrative Law Wikipedia Project (ongoing; started January 2010)}}
+{{Talk:Article 14 of the Constitution of Singapore/GA1}}
+	</talkpage>
+</article>

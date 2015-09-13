@@ -1,0 +1,15 @@
+<article id="45265753" title=User talk:182.69.137.86>
+	<talkpage id="45265753" title="User talk:182.69.137.86">
+
+
+== January 2015 ==
+[[File:Information.svg|left|25px|alt=|link=]] Hello, and welcome to Wikipedia. This is a message letting you know that one or more of your recent edits to [[:RCI (company)]] has been undone by an automated computer program called [[User:ClueBot NG|ClueBot NG]].
+{{clear}}
+* ClueBot NG makes very few [[User:ClueBot NG#Information About False Positives|mistakes]], but it does happen. If you believe the change you made was constructive, please [[User:ClueBot NG#Information About False Positives|read about it]], [{{User:ClueBot NG/Warnings/FPReport|2108731}} report it here], remove this message from your talk page, and then make the edit again.
+* For help, take a look at the [[Wikipedia:Introduction|introduction]].
+* The following is the log entry regarding this message: [[RCI (company)]] was [http://en.wikipedia.org/w/index.php?title=RCI+%28company%29&amp;diff=644979991&amp;oldid=632368020 changed] by [[Special:Contributions/182.69.137.86|182.69.137.86]] [[User:182.69.137.86|(u)]] [[User talk:182.69.137.86|(t)]] ANN scored at 0.938054 on 2015-01-31T13:04:44+00:00 &lt;!-- MySQL ID: 2108731 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]) 13:04, 31 January 2015 (UTC)
+
+[[File:Information orange.svg|25px|alt=Information icon]] Please do not add or change content, as you did to [[:RCI (company)]], without citing a [[Wikipedia:Identifying reliable sources|reliable source]]. Please review the guidelines at [[Wikipedia:Citing sources]] and take this opportunity to add references to the article. Thank you.&lt;!-- Template:uw-unsourced2 --&gt; --I am [[User:K6ka|'''&lt;span style=&quot;color:#0040FF&quot;&gt;k6ka&lt;/span&gt;''']] [[User talk:K6ka|&lt;span style=&quot;color:#0080FF&quot;&gt;&lt;sup&gt;Talk to me!&lt;/sup&gt;&lt;/span&gt;]] [[Special:Contributions/K6ka|&lt;span style=&quot;color:#0B4C5F&quot;&gt;&lt;sub&gt;See what I have done&lt;/sub&gt;&lt;/span&gt;]] 13:42, 31 January 2015 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

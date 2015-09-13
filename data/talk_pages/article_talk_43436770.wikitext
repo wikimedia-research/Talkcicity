@@ -1,0 +1,6 @@
+<article id="43436770" title=Talk:Erra Bus>
+	<talkpage id="43436770" title="Talk:Erra Bus">
+{{WikiProject Film|Indian=yes|needs-image=yes|class=Start}}
+{{WikiProject India|class=start|importance=low|cinema=yes|cinema-importance=low|assess-date=December 2014}}
+	</talkpage>
+</article>

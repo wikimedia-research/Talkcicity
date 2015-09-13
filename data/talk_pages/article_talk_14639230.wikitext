@@ -1,0 +1,12 @@
+<article id="15305603" title=Talk:South Ridge (Dubai)>
+	<talkpage id="15305603" title="Talk:South Ridge (Dubai)">
+{{WikiProjectBannerShell|1=
+{{WikiProject United Arab Emirates|class=Stub|importance=Low|Dubai=yes|Dubai-importance=Low}}
+{{WikiProject Architecture|class=Stub |importance=Low}}
+{{WikiProject Skyscrapers|class=Stub |importance=Low}}
+}}
+
+==Merge results==
+It is important to note that six pages, [[South Ridge 1]], [[South Ridge 2]], [[South Ridge 3]], [[South Ridge 4]], [[South Ridge 5]] and [[South Ridge 6]] have been merged into this article as as result of discussion at [[Wikipedia talk:WikiProject Dubai#Dubai skyscrapers: merger proposals]]. The associated talk pages were redirected to this talk page, as there was no content aside from project banners. [[User:Leitmanp|Leitmanp]] ([[User talk:Leitmanp|talk]] | [[Special:Contributions/Leitmanp|contributions]]) 23:46, 26 January 2008 (UTC)
+	</talkpage>
+</article>

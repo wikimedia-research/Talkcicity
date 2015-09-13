@@ -1,0 +1,9 @@
+<article id="38275557" title=Talk:Vivi Fernandez>
+	<talkpage id="38275557" title="Talk:Vivi Fernandez">
+{{WikiProjectBannerShell|blp=yes|1=
+{{WikiProject Biography|living=yes|class=Start|listas=Fernandez, Vivi|filmbio-work-group=yes|filmbio-priority=Low}}
+{{WikiProject Brazil|class=Start|importance=Low}}
+{{WikiProject Pornography|class=Start|importance=Low}}
+}}
+	</talkpage>
+</article>

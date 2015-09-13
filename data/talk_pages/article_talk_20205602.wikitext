@@ -1,0 +1,12 @@
+<article id="20205602" title=User talk:71.118.62.185>
+	<talkpage id="20205602" title="User talk:71.118.62.185">
+
+
+== November 2008 ==
+[[Image:Information.svg|25px]]  Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits{{#if:Toronto Blue Jays|, such as the one you made to [[:Toronto Blue Jays]],}} did not appear to be constructive and has been removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism1 --&gt; [[User:Figureskatingfan|Figureskatingfan]] ([[User talk:Figureskatingfan|talk]]) 06:24, 14 November 2008 (UTC)
+:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
+
+[[Image:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia{{#if:Paper Planes (song)|, as you did to [[:Paper Planes (song)]]}}. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism2 --&gt; [[User:DiverseMentality|&lt;font color=&quot;D24A4A&quot;&gt;'''Diverse'''&lt;/font&gt;]][[User talk:DiverseMentality|&lt;font color=&quot;9F1616&quot;&gt;'''Mentality'''&lt;/font&gt;]] 06:26, 14 November 2008 (UTC)
+:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
+	</talkpage>
+</article>

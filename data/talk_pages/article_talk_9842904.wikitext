@@ -1,0 +1,16 @@
+<article id="9842904" title=Talk:Ertuğrul Ergezen>
+	<talkpage id="9842904" title="Talk:Ertuğrul Ergezen">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|auto=yes
+|sports-work-group=yes
+|listas=Ergezen, Ertugrul
+}}
+{{WikiProject Olympics|class=Stub|importance=|auto=yes}}
+{{WikiProject Boxing|class=Stub|importance=|auto=yes}}
+| blp=yes
+}}
+	</talkpage>
+</article>

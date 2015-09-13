@@ -1,0 +1,8 @@
+<article id="33141714" title=Talk:List of centuries scored on Test cricket debut>
+	<talkpage id="33141714" title="Talk:List of centuries scored on Test cricket debut">
+
+{{featured list candidates|List of centuries scored on Test cricket debut/archive1}}
+
+{{WikiProject Cricket|class=List|importance=low}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="18976436" title=Talk:IBM TXSeries>
+	<talkpage id="18976436" title="Talk:IBM TXSeries">
+{{WikiProject Computing|class=|importance=|software=yes|software-importance=}}
+	</talkpage>
+</article>

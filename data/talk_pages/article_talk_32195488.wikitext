@@ -1,0 +1,11 @@
+<article id="32195488" title=Talk:I Hope Like Heck>
+	<talkpage id="32195488" title="Talk:I Hope Like Heck">
+{{WikiProjectBannerShell|1=
+{{WikiProject Books|class=start|importance=low}}
+{{WikiProject Alaska|class=start|importance=low}}
+{{WikiProject Poetry|class=start|importance=low}}
+}}
+
+{{dyktalk|29 June|2011|{{*mp}}... that the 50 poems in '''''[[I Hope Like Heck]]''''' were created from excerpts of emails written by [[Sarah Palin]] during her time as [[Governor of Alaska]]?}}
+	</talkpage>
+</article>

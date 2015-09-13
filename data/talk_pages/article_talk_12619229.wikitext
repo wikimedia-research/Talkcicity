@@ -1,0 +1,5 @@
+<article id="12619229" title=Talk:Nimbochromis linni>
+	<talkpage id="12619229" title="Talk:Nimbochromis linni">
+{{Fishproject|class=Stub|needs-photo=yes}}
+	</talkpage>
+</article>

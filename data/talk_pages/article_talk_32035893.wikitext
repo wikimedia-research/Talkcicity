@@ -1,0 +1,10 @@
+<article id="17755738" title=Talk:38th Street and Washington Street (GateWay Community College) (Metro Light Rail station)>
+	<talkpage id="17755738" title="Talk:38th Street and Washington Street (GateWay Community College) (Metro Light Rail station)">
+{{WikiProject United States|class=Stub|importance=Low|AZ=Yes|AZ-importance=Low}}
+{{TrainsWikiProject|class=stub|importance=low|stations=yes|subway=yes}}
+
+== Incorrect station name. ==
+
+The correct name for this station is 38th Street/Washington.  &quot;Gateway College&quot; is not used any official publications or informal convention. --[[User:Recnet|Recnet]] ([[User talk:Recnet|talk]]) 04:29, 28 June 2010 (UTC)
+	</talkpage>
+</article>

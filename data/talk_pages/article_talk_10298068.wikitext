@@ -1,0 +1,5 @@
+<article id="10298068" title=Talk:Röhrnbach>
+	<talkpage id="10298068" title="Talk:Röhrnbach">
+{{WikiProject Germany|class=stub|importance= }}
+	</talkpage>
+</article>

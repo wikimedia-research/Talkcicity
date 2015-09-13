@@ -1,0 +1,5 @@
+<article id="41897886" title=Talk:Pedalium murex>
+	<talkpage id="41897886" title="Talk:Pedalium murex">
+{{WikiProject Plants|class=Redirect}}
+	</talkpage>
+</article>

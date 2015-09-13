@@ -1,0 +1,7 @@
+<article id="6726951" title=Talk:Thomas Hart Benton Home and Studio State Historic Site>
+	<talkpage id="6726951" title="Talk:Thomas Hart Benton Home and Studio State Historic Site">
+{{Talkheader}}
+{{WikiProject Missouri |class=stub |importance=}}
+{{WikiProject Historic Sites|class=stub|importance=mid}}
+	</talkpage>
+</article>

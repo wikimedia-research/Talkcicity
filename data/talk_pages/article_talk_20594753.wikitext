@@ -1,0 +1,5 @@
+<article id="20594753" title=Talk:I lexi>
+	<talkpage id="20594753" title="Talk:I lexi">
+{{WikiProject Magazines|class=Stub|importance=|auto=yes}}
+	</talkpage>
+</article>

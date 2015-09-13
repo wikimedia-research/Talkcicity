@@ -1,0 +1,6 @@
+<article id="7785498" title=Talk:Warren, New South Wales>
+	<talkpage id="7785498" title="Talk:Warren, New South Wales">
+{{WikiProject Australia|NSW=yes|place=yes|class=Stub|importance=Low|NSW-importance=Low}}
+{{Image requested|in=New South Wales}}
+	</talkpage>
+</article>

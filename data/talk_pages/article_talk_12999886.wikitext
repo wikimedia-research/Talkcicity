@@ -1,0 +1,13 @@
+<article id="12999886" title=Talk:Greg Oliphant>
+	<talkpage id="12999886" title="Talk:Greg Oliphant">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=yes
+|class=Stub
+|sports-work-group=yes 
+|listas=Oliphant, Greg }}
+{{WikiProject Rugby league|class=stub |importance=low |state-of-origin-importance=low |state-of-origin=yes |state-of-origin-team=qld}}
+{{WikiProject Australia|class=Stub |importance=Low |nrl=yes }}
+| blp=yes
+}}
+	</talkpage>
+</article>

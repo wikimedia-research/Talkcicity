@@ -1,0 +1,5 @@
+<article id="9662740" title=Talk:Cipérez>
+	<talkpage id="9662740" title="Talk:Cipérez">
+{{WikiProject Spain|class=Stub|importance=}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="27869651" title=Talk:(7084) 1991 BR>
+	<talkpage id="27869651" title="Talk:(7084) 1991 BR">
+{{WPAstronomy|class=stub|importance=low|object=yes}}
+	</talkpage>
+</article>

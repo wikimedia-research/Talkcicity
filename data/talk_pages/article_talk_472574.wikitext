@@ -1,0 +1,114 @@
+<article id="472574" title=Talk:Copyright law of Australia>
+	<talkpage id="472574" title="Talk:Copyright law of Australia">
+{{WP Australia|class=B|importance=mid|law=yes}}
+
+==Misc==
+This needs to be updated to reflect the recently-enacted Copyright Amendment Act 2006, which dealt specifically with advancements in technology, and legalising things like time-shifting (eg videotaping) in the home and format-shifting (eg putting CDs on iPods) in the home for personal use. It also deals with things like Fair Dealing, which is not, unfortunately, the same as Fair Use. Laws pertaining to the Free Trade Agreement have been enacted, others like the section on Technological Protection Measures and criminal provisions and enforcement measures are still under review [http://www.copyright.org.au/news/newsbytopic/changesnews/u27261]. I added some links pertaining the the Act under References, but haven't done any updates to the article. [[User:Msandersen|Msandersen]] 12:25, 7 January 2007 (UTC)
+*I've done a few updates: changed the 'Fair Dealing' part to include a series of comments on exceptions, including the new ones.  Also added a section '2006 changes] which provides a summary of the best known (new exceptions, criminal stuff, anti-circumvention laws).  [[User:Kim Weatherall|Kim Weatherall]] 06:47, 24 March 2007 (UTC)  
+
+Someone who knows what they're doing (not me) needs to update this article with how the free trade agreement changes Australian copyright legislation (eg is the change retroactive?)
+*query: should there be a separate section on this (maybe above the &quot;2006 Changes&quot; section?  [[User:Kim Weatherall|Kim Weatherall]] 06:47, 24 March 2007 (UTC)
+
+The timeline is already large enough for its own article, even without the missing cases. Also missing: lack of doctrine of first sale, Australian meaning of public domain, the influence of overseas cases on the courts, mention of location of origin/author/copy/use, assignment of ownership, ...
+:[[User:Zigger|zig]] 23:00, 16 Feb 2004 (UTC)
+yes, that is absolutely true, and I've moved some instances from possible illegal to legal, based on an information sheet I read on the australian copyright council web page. unfortunately there doesn't seem to be a source on the government webpage, and I'm not sure if we can source the information page which the Australian Copyright Council charge for...
+*better source is government information sheets. [[User:Kim Weatherall|Kim Weatherall]] 06:47, 24 March 2007 (UTC)
+----
+
+Added disputed tag.  The Australia-US free trade agreement that came into effect on [[1 January]] [[2005]] included copyright provisions that substantially outdated this page.  [[User talk:Hesperian|Hesperian]] 05:01, 25 Feb 2005 (UTC)
+
+: &lt;http://onlinebooks.library.upenn.edu/okbooks.html&gt; and various private communications via the Gutenberg lists say that it's not retroactive; Australian law is effectively authors living in 1955 or later. Note Gutenberg-Australia has not taken down a bunch of books they would have to. --[[User:Prosfilaes|Prosfilaes]] 15:25, 6 May 2005 (UTC)
+
+:: Absolutely right.  Nonetheless the free trade agreement has rendered the article incorrect.  For example, the text
+:::''Australia uses a &quot;plus 50&quot; rule for determining when a work will enter the public domain''
+::is no longer correct.  It is important that potential readers of the article are made aware that the article is not correct, hence the disputed tag. [[User talk:Hesperian|Hesperian]] 11:53, 7 May 2005 (UTC)
+
+From what I have been told, recording television programs is NOT legal in Australia, for any purpose, despite the availability of devices used to record from the television, which are often sold by companies that own movie studios.
+: That is too strong a statement.  There is certainly no exception to copyright law that makes it legal to copy copyrighted television programs.  However there is an exception that provides that you do not violate the ''broadcaster's'' copyright (i.e. in their broadcast signal) by taping for home use.  The problem is, there are usually other copyrights involved: the movie itself, the soundtrack, the script on which it is based.  Therefore it is generally not legal to tape for home use.  If a TV station was to broadcast a movie in which all elements were in the public domain, then it would be legal to tape it for home use.  It would still not be legal to tape it for other purposes, because of the copyright on the broadcast signal.  IANAL.  [[User talk:Hesperian|Hesperian]] 00:02, 9 May 2005 (UTC)
+
+----
+
+I'm a volunteer for both PG, PGDP and PG of Australia, and have talked with Col Choat about the FTA in some detail. The FTA is not '''retroactive''' so we can get that out of the way. From what I can ascertain (I'm no lawyer either) there are basically two rules now:
+:: Rule 1: Any work that was published in the lifetime of the author who died in 1954 or earlier, is out of copyright.
+:: Rule 2: Any work that was published in the lifetime of the author who died after 1954, will be out of copyright seventy (70) years after the author's death.
+
+Here's the holy grail though:
+
+::5.2   Term of Copyright Protection (Article 17.4.4)
+
+::Australia has agreed that it will extend its term of copyright protection.   In summary, the term of copyright protection for works (e.g. books, artwork and sheet music), films and sound recordings (phonograms) will need to be extended by an extra 20 years: so that the term of protection for works will move from the life of the author + 50 years, to life +70.   The term of protection for sound recordings and films will need to be extended from the current 50 years, to 70 years after publication.
+
+::The effect of the application of Article 18 of the Berne Convention, referenced in Article 17.4.5, is that there is no obligation on Australia to enact retrospective protection of copyright material that has already fallen into the public domain. 
+
+Taken from the FTA itself, which is viewable in [http://www.dfat.gov.au/trade/negotiations/us.html dry form] or as a plain english [http://www.dfat.gov.au/trade/negotiations/us_fta/guide/ guide]. That actual text above is from [http://www.dfat.gov.au/trade/negotiations/us_fta/guide/17.html chapter 17] of the guide.
+
+I haven't updated the article itself here yet because I want to get opinions first. --[[User:Rolanddeschain|Chris Gray]]
+
+----
+
+Removed disputed tag, as the FTA is now represented in the article. --[[User:Rolanddeschain|Chris Gray]]
+
+* I added the disputed tag, and I agree with its removal.  [[User talk:Hesperian|Hesperian]] 11:48, 20 Jun 2005 (UTC)
+
+== Wikipedia PD images ==
+
+I've created this PD image template {{tl|PD-Australia}} which is hopefully self-explanatory.  If anyone here can review it that'd be appreciated. -- [[User:Ianbrown|Ian]] ≡ [[User_talk:Ianbrown|talk]] 02:18, 29 August 2005 (UTC)
+
+* The difficulty is that for web pages the applicable copyright law is that of the country from which the pages are served.  i.e. Wikipedia is under US copyright law.  Images in the public domain in Australia may not be in the public domain in the US (although in practice they almost always are). [[User talk:Hesperian|Hesperian]] 02:21, 29 August 2005 (UTC)
+
+
+== [[WP:AWNB]] discussion about Public Domain images from NLA ==
+
+Just noting that there is a long discussion which involves Australian copyright law to do with photographs here: [[Template talk:PD-Australia]] and also at [[Wikipedia:Australian Wikipedians' notice board]] ---- [[User:Astrokey44|Astrokey44]] 10:14, 1 November 2005 (UTC)
+
+== Proposed changes - legalisation of TV recording and CD ripping ==
+
+I noticed this article and thought it might be relevant to this page.
+Don't know when or if it will become legislation, but here it is:
+http://entertainment.news.com.au/story/0,10221,17673408-10431,00.html
+
+== Phrasing ==
+
+The article currently says:
+:''An interesting consequence of this for the Internet is that a work may be public domain in the US but not in Australia, or vice versa.''
+First, I think this is POV&amp;mdash;who says it was interesting? :-) Seriously though, phrasing such as &quot;it's noteworthy that&quot; or &quot;interestingly, blahblah&quot; show something of the writer's point of view, but don't add anything to the article. Furthermore, why &quot;for the Internet&quot;? This is nothing specific to the Internet, it is ''always'' the case. There is no global &quot;public domain&quot; as copyright expiry always differs between countries. Please see [[WP:PD]] for more information. [[User:Lupo|Lupo]] 15:43, 1 February 2006 (UTC)
+
+== Photographs ==
+
+The article currently says:
+:''Photographs, sound recordings, films, and anonymous/pseudonymous works are copyright for seventy (70) years from their first publication.''
+At least for photographs, this is wrong. Until [[May 1]], [[1969]] the copyright term on published photographs was &quot;50 years since creation&quot;; it was then changed to &quot;50 years since publication&quot;. The 2005 [[AUSFTA]] amendments changed this to &quot;70 years p.m.a&quot;. Published photographs created before [[January 1]], [[1955]] are thus in the public domain in Australia, for all others, the 70y p.m.a. applies. Unpublished photographs are under perpetual copyright, and anonymous or psudonymous photographs have a term of 70 years of first publication. [[User:Lupo|Lupo]] 15:49, 1 February 2006 (UTC)
+
+== Sculptures, public art and buildings ==
+
+Taking photographs of all these things is explicitly OK. I'm just mentioning this here because many other countries don't seem to have this and I don't want to see unnecessary &quot;derivative work paranoia&quot;.
+
+[http://www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/ Copyright Act 1968]
+&quot;Division 7--Acts not constituting infringements of copyright in artistic works&quot;
+* [http://www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s65.html SECT 65: Sculptures and certain other works in public places]: &quot;The copyright in a work to which this section applies that is situated, otherwise than temporarily, in a public place, or in premises open to the public, is not infringed by the making of a painting, drawing, engraving or photograph of the work[...].&quot;
+* [http://www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s66.html SECT 66: Buildings and models of buildings]: &quot;The copyright in a building or a model of a building is not infringed by the making of a painting, drawing, engraving or photograph of the building or model[...].&quot;
+
+--[[User:pfctdayelise|pfctdayelise]] &lt;small&gt;([[commons:User:Pfctdayelise/Translations|translate?]])&lt;/small&gt; 10:57, 13 July 2006 (UTC)
+
+== Scanned images of photographs which are in the public domain ==
+
+In Australia, is it legal to claim copyright on a scanned image of a photo which is in the public domain?
+
+[[User:GarrieIrons|Ga]][[User_talk:GarrieIrons|rr]][[Special:Contributions/GarrieIrons|ie]] 04:35, 24 July 2007 (UTC)
+
+== Civil v. Criminal Infringement ==
+
+Is there a discussion anywhere of what sort of infringing activities are torts and what sort are crimes?  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/202.20.20.129|202.20.20.129]] ([[User talk:202.20.20.129|talk]]) 02:36, 4 February 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+==Move discussion in progress==
+There is a move discussion in progress on [[Talk:United States copyright law#Requested move |Talk:United States copyright law]] which affects this page. Please participate on that page and not in this talk page section. Thank you. &lt;!-- Talk:United States copyright law crosspost --&gt; —[[User:RM bot|RM bot]] 12:45, 16 June 2011 (UTC)
+
+== PD in the US? ==
+
+Certainly a photo created in Australia before 1955 in PD in Australia. But is it PD in the US? We're trying to iron that out at [[Wikipedia:Media_copyright_questions#Is_File:BASantamaria.jpg_PD.3F]] and would appreciate any expertise.... &amp;ndash; [[User:Quadell|Quadell]] &lt;sup&gt;([[User_talk:Quadell|talk]])&lt;/sup&gt; 17:56, 28 July 2011 (UTC)
+
+== Automatic resale rights ==
+
+In the moral rights section it is noted that there is no automatic resale right - is this information now out of date? http://arts.gov.au/visual-arts/resale-royalty-scheme  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/203.0.159.21|203.0.159.21]] ([[User talk:203.0.159.21|talk]]) 01:12, 8 April 2014 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

@@ -1,0 +1,11 @@
+<article id="25215465" title=Talk:Nahuel Roselli>
+	<talkpage id="25215465" title="Talk:Nahuel Roselli">
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|auto=yes
+|listas=Roselli, Nahuel
+}}
+{{Football|class=stub|importance=low|Argentina=yes}}
+	</talkpage>
+</article>

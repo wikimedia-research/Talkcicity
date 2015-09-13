@@ -1,0 +1,27 @@
+<article id="39234794" title=User talk:2.28.165.190>
+	<talkpage id="39234794" title="User talk:2.28.165.190">
+
+== Welcome! ==
+{| align=&quot;center&quot; class=&quot;notice noprint&quot; style=&quot;background: lightyellow; border: 1px solid #aaa; padding: 0.5em; margin: 0.5em auto;&quot;
+|-
+| valign=&quot;top&quot; style=&quot;padding: 0.1em&quot; |
+| style=&quot;padding: 0.1em&quot; | 
+
+Hello, and '''''[[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia!'''''
+
+Someone using this [[IP address]], {{BASEPAGENAME}}, has made unhelpful edits&amp;nbsp;to the page [[:National Library of Wales]], which have been [[Help:Reverting|reverted]].  If you did this, in the future please try to contribute in a more constructive manner.  If you'd like to experiment with the wiki's syntax, please do so in the [[Wikipedia:Sandbox|&quot;sandbox&quot;]] rather than in articles. If you did not do this, you may wish to consider &lt;span class=&quot;plainlinks&quot;&gt;[{{fullurl:Special:Userlogin|type=signup&amp;returnto=Main_Page}} getting a username]&lt;/span&gt; to avoid confusion with other editors.
+
+You don't have to [[Special:Userlogin|log in]] to read or edit articles on Wikipedia, but creating an account is quick, free, requires no personal information, and has many [[Wikipedia:Why create an account?|benefits]].  Without a username, your [[IP address]] is used to identify you.
+
+Some good links for newcomers are:
+*[[Help:Contents|Help contents]] – the main help page.
+*[[Wikipedia:Quick guide|Quick guide]] – a &quot;cheatsheet&quot; listing the main editing commands.
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:Tutorial|Tutorial]]
+
+Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four (~&amp;#126;~~); this will automatically produce your name and timestamp. If you need help, check out [[Wikipedia:Questions]], ask me on [[User talk:Bjenks{{!}}my talk page]], or place &lt;code&gt;{&amp;#123;helpme}}&lt;/code&gt; on your talk page and someone will show up shortly to answer your questions.
+
+Again, welcome! &lt;!-- Template:Welcome-anon-vandal --&gt; [[User:Bjenks|Bjenks]] ([[User talk:Bjenks|talk]]) 17:13, 27 April 2013 (UTC)
+|}
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="15931596" title=Talk:1909 Cincinnati Reds season>
+	<talkpage id="15931596" title="Talk:1909 Cincinnati Reds season">
+{{WikiProject United States|class=Stub|importance=Low|OH=Yes|OH-importance=Low|Cincinnati=Yes|Cincinnati-importance=Low}}
+{{WikiProject Baseball|class=Start|importance=Mid|reds=yes|reds-importance=high}}
+	</talkpage>
+</article>

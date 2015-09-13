@@ -1,0 +1,5 @@
+<article id="36505049" title=Talk:Dorumlar, Serik>
+	<talkpage id="36505049" title="Talk:Dorumlar, Serik">
+{{WikiProject Turkey |class=stub |importance=}}
+	</talkpage>
+</article>

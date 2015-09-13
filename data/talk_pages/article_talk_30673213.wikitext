@@ -1,0 +1,10 @@
+<article id="30673213" title=Talk:Theobald Gorges>
+	<talkpage id="30673213" title="Talk:Theobald Gorges">
+{{WikiProject Biography
+|living=no
+|class=Stub
+|listas=Gorges, Theobald
+|politician-work-group=yes
+}}
+	</talkpage>
+</article>

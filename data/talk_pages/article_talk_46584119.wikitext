@@ -1,0 +1,36 @@
+<article id="46584119" title=User talk:SamanthaBlueButterfly>
+	<talkpage id="46584119" title="User talk:SamanthaBlueButterfly">
+== Welcome! ==
+Hello, SamanthaBlueButterfly, and '''[[Project:Introduction|welcome to Wikipedia]]'''!&amp;#32;Thank you for [[Special:Contributions/SamanthaBlueButterfly|your contributions]].
+
+I noticed that one of the first articles you edited was [[:Demongelic]], which appears to be dealing with a topic with which you may have a [[Wikipedia:Best practices for editors with close associations|conflict of interest]]. In other words, you may find it difficult to write about that topic in a [[Wikipedia:Tutorial/Keep in mind#Neutral point of view|neutral]] and objective way, because you are, work for, or represent, the subject of that article.&amp;#32;Your recent contributions may have already been undone for this very reason.
+
+To reduce the chances of your contributions being undone, you might like to draft your revised article before submission, and then ask me or another editor to proofread it. See [[Help:Userspace draft|our help page on userspace drafts]] for more details. If the page you created has already been deleted from Wikipedia, but you want to save the content from it to use for that draft, don't hesitate to ask [[:Category:Wikipedia administrators willing to provide copies of deleted articles|anyone from this list]] and they will [[Wikipedia:Userfication|copy it to your user page]].
+
+One rule we do have in connection with conflicts of interest is that accounts used by more than one person will unfortunately [[Wikipedia:Username policy#Sharing accounts|be blocked from editing]]. Wikipedia generally does not allow editors to have [[Wikipedia:Username policy#Promotional names|usernames which imply that the account belongs to a company or corporation]]. If you have a username like this, you should [[Wikipedia:Changing username|request a change of username]] or create a new account. (A name that identifies the user as an individual within a given organization may be OK.)
+
+Here are some pages that you might find helpful:
+* [[Wikipedia:Plain and simple conflict of interest guide|The plain and simple conflict of interest guide]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Wikipedia:Contributing to Wikipedia|Contributing to Wikipedia]]
+* [[Wikipedia:Tutorial|Tutorial]]
+* [[Help:Editing|How to edit a page]] and [[Wikipedia:Article development|How to develop articles]]
+* [[Wikipedia:Your first article|How to create your first article]] (using the [[Wikipedia:Article wizard|Article Wizard]] if you wish)
+* [[Wikipedia:Simplified Manual of Style|Simplified Manual of Style]]
+
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign]] your messages on [[Help:Using talk pages|talk page]]s using four [[tilde]]s (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically insert your username and the date.  If you need help, check out [[Wikipedia:Questions]], ask me on [[User talk:C.Fred|my talk page]], or ask your question on this page and then place '''{{Tlc|Help me}}''' before the question. Again, welcome! &lt;!-- Template:Welcome-COI --&gt; —'''[[User:C.Fred|C.Fred]]''' ([[User_talk:C.Fred|talk]]) 23:35, 1 May 2015 (UTC)
+
+== SamanthaBlueButterfly, you are invited to the Teahouse! ==
+
+
+{| style=&quot;margin: 2em 4em;&quot;
+|- valign=&quot;top&quot;
+| [[File:WP teahouse logo 2.png|alt=Teahouse logo|link=w:en:WP:Teahouse|File:WP teahouse logo 2.png by User:Heatherawalls, licensed under CC BY-SA 3.0]]
+| &lt;div style=&quot;background-color:#f4f3f0; color: #393D38; padding: 1em;border-radius:10px; font-size: 1.1em;&quot;&gt;
+Hi '''SamanthaBlueButterfly'''! Thanks for contributing to Wikipedia. Be our guest at [[WP:Teahouse|the Teahouse]]! The Teahouse is a friendly space where new editors can ask questions about contributing to Wikipedia and get help from peers and experienced editors. I hope to see you there! {{noping|ChamithN}} ([[w:en:WP:Teahouse/Hosts|I'm a Teahouse host]])
+&lt;div class=&quot;submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only&quot; role=&quot;button&quot; aria-disabled=&quot;false&quot;&gt;&lt;span class=&quot;ui-button-text&quot;&gt;[[WP:Teahouse|Visit the Teahouse]]&lt;/span&gt;&lt;/div&gt;&lt;small&gt;&lt;span style=&quot;text-align:right;&quot;&gt;This message was delivered automatically by your robot friend, [[User:HostBot|HostBot]] ([[User talk:HostBot|talk]]) 17:31, 2 May 2015 (UTC)&lt;/small&gt;&lt;/span&gt;
+&lt;/div&gt; 
+|}
+[[Category:Wikipedians who have received a Teahouse invitation]]&lt;!-- Template:Teahouse_HostBot_Invitation --&gt;
+	</talkpage>
+</article>

@@ -1,0 +1,16 @@
+<article id="7162085" title=Talk:Tom Marshall (politician)>
+	<talkpage id="7162085" title="Talk:Tom Marshall (politician)">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=Start
+|auto=yes
+|politician-work-group=yes
+|listas=Marshall, Tom
+}}
+{{WikiProject Canada|ppap=yes|nl=yes|class=start|importance=mid}}
+{{WikiProject Conservatism|class=start|importance=low}}
+| blp=yes
+}}
+	</talkpage>
+</article>

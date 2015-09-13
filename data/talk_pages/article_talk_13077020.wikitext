@@ -1,0 +1,22 @@
+<article id="13077020" title=User talk:Ramacan1>
+	<talkpage id="13077020" title="User talk:Ramacan1">
+'''Welcome!'''
+
+Hello, {{BASEPAGENAME}}, and [[Wikipedia:Introduction|welcome]] to Wikipedia! Thank you for [[Special:Contributions/{{BASEPAGENAME}}|your contributions]]{{#if:{{{art|}}}|, especially what you did for [[{{{art}}}]]|}}. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Help:Contents|Help pages]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:Article development|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you need help, check out [[Wikipedia:Questions]], ask me on {{#if:Le Grand Roi des Citrouilles|[[user talk:Le Grand Roi des Citrouilles|my talk page]]|my talk page}}, or ask your question and then place &lt;code&gt;&lt;nowiki&gt;{{&lt;/nowiki&gt;[[:Category:Wikipedians looking for help|helpme]]&lt;nowiki&gt;}}&lt;/nowiki&gt;&lt;/code&gt; before the question on your talk page. Again, welcome!&amp;nbsp;&lt;!-- Template:Welcome --&gt; --&lt;font face=&quot;Times New Roman&quot;&gt;[[User:Le Grand Roi des Citrouilles|&lt;span style=&quot;color:#009&quot;&gt;Le Grand Roi des Citrouilles&lt;/span&gt;]]&lt;/font&gt;&lt;sup&gt;''[[User talk:Le Grand Roi des Citrouilles|Tally-ho!]]''&lt;/sup&gt; 14:22, 3 September 2007 (UTC)
+
+== September 2007 ==
+{{{icon|[[Image:Information.svg|25px]] }}}Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits, such as the one you made to [[:Lauren Green]], did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed.  Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; [[User:After Midnight|After Midnight]] &lt;sup&gt;&lt;small&gt;[[User talk:After Midnight|0001]]&lt;/small&gt;&lt;/sup&gt; 00:33, 12 September 2007 (UTC)
+
+== June 2009 ==
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits{{#if:Jagjit Singh Chauhan|, such as the one you made to [[:Jagjit Singh Chauhan]],}} did not appear to be constructive and has been reverted. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; [[User:Dougweller|Dougweller]] ([[User talk:Dougweller|talk]]) 12:21, 26 June 2009 (UTC)
+
+[[Image:Stop hand nuvola.svg|30px|]] This is the '''last warning''' you will receive for your disruptive edits. &lt;br&gt; The next time you violate Wikipedia's [[Wikipedia:Biographies of living persons|biographies of living persons]] policy by inserting [[Wikipedia:Verifiability|unsourced]] or [[Wikipedia:RS#Biographies_of_living_persons|poorly sourced]] [[Wikipedia:Libel|defamatory]] or otherwise controversial content into an article or any other Wikipedia page{{#if:Gurmit Singh Aulakh|, as you did to [[:Gurmit Singh Aulakh]]}}, you '''will''' be blocked from editing Wikipedia. {{#if:|{{{2}}}|}}&lt;!-- Template:uw-biog4 --&gt; ''I am very tempted to block you for this edit, which could even be seen as a death threat. Instead, I'm asking for an explanation not just for the clear vandalism but for your entering a death date for this living person (September this year).'' [[User:Dougweller|Dougweller]] ([[User talk:Dougweller|talk]]) 12:23, 26 June 2009 (UTC)
+	</talkpage>
+</article>

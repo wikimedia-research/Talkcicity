@@ -1,0 +1,5 @@
+<article id="19444277" title=Talk:Gmina Gielniów>
+	<talkpage id="19444277" title="Talk:Gmina Gielniów">
+{{WikiProject Poland|class=stub|importance=low}}
+	</talkpage>
+</article>

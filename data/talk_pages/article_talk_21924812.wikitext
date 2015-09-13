@@ -1,0 +1,9 @@
+<article id="21924812" title=Talk:Paul Chantler>
+	<talkpage id="21924812" title="Talk:Paul Chantler">
+{{WPBiography
+|living=yes
+|class=Start
+|listas=Chantler, Paul
+}}
+	</talkpage>
+</article>

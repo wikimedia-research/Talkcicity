@@ -1,0 +1,11 @@
+<article id="19876174" title=User talk:209.217.203.149>
+	<talkpage id="19876174" title="User talk:209.217.203.149">
+
+
+
+==Welcome!==
+
+{{#switch:{{BASEPAGENAME}} |-=Hello,|#default=Hello {{BASEPAGENAME}},}} welcome to Wikipedia! Thank you for your contributions. I hope you like the place and decide to stay. Our [[Wikipedia:Introduction|intro page]] contains a lot of helpful material for new users - please check it out! If you need help, visit [[Wikipedia:Questions]]{{#switch:Skomorokh |=|(undefined)=|#default=, ask me on [[User talk:Skomorokh|my talk page]],}} or place '''&lt;code&gt;&lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt;&lt;/code&gt;''' on this page and someone will show up shortly to answer your questions. 
+&lt;font color=&quot;404040&quot;&gt;[[User talk:Skomorokh|&lt;font face=&quot;Garamond&quot; color=&quot;black&quot;&gt;the skomorokh&lt;/font&gt;]]&lt;/font&gt; 17:32, 21 October 2008 (UTC)
+	</talkpage>
+</article>

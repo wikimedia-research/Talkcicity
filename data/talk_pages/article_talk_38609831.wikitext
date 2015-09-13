@@ -1,0 +1,5 @@
+<article id="38609831" title=Talk:Dipterocarpus macrocarpus>
+	<talkpage id="38609831" title="Talk:Dipterocarpus macrocarpus">
+{{WP Plants|class=stub|importance=low}}
+	</talkpage>
+</article>

@@ -1,0 +1,11 @@
+<article id="32377409" title=Talk:Manton, North Lincolnshire>
+	<talkpage id="32377409" title="Talk:Manton, North Lincolnshire">
+{{Talk header}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Cities|class=start|importance=low}}
+{{WikiProject UK geography|class=start|importance=low}}
+{{WikiProject England|class=start|importance=low}}
+{{WikiProject Lincolnshire|class=start|importance=mid}} &lt;!-- Project Criteria: somewhere were several people live must be more important than a single person --&gt;
+}}
+	</talkpage>
+</article>

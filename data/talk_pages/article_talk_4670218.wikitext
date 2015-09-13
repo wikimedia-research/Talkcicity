@@ -1,0 +1,9 @@
+<article id="4670218" title=User talk:59.4.48.73>
+	<talkpage id="4670218" title="User talk:59.4.48.73">
+{| style=&quot;background-color:#F9F9F9; border:1px solid #A00; padding:5px;&quot;
+| [[Image:Crystal_128_error.png|50px]]
+| This [[IP address]] has been blocked because it is believed to be an [[open proxy|open]] [[proxy server|proxy]] or [[zombie computer]]. To prevent abuse, editing from these proxies is currently [[Wikipedia:No open proxies|prohibited]]. For more information about open proxies and what you can do, please see the [[WP:OW/t|WikiProject on open proxies]].
+|}
+{{{category|[[Category:Open proxies blocked on Wikipedia|{{PAGENAME}}]]}}} &amp;mdash; [[user:catapult]] 21:54, 14 April 2006 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="24938238" title=Talk:List of members of the Parliament of Norway, 2009–13>
+	<talkpage id="24938238" title="Talk:List of members of the Parliament of Norway, 2009–13">
+{{WikiProject Norway|class=List}}
+	</talkpage>
+</article>

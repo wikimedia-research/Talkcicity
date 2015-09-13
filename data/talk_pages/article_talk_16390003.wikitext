@@ -1,0 +1,27 @@
+<article id="16390003" title=Talk:Overdiagnosis>
+	<talkpage id="16390003" title="Talk:Overdiagnosis">
+{{WPMED|class=B|importance=high}}
+
+==False positive==
+The article now says hurrrr:
+:A false positive test result refers to a test that suggests the presence of disease, but is ultimately proved to be in error. Patients with false positive test results are told they don't have disease and are not treated
+
+Sentence 2 describes a negative test result, not a false positive;  I am not sure how best to fix this, as the whole section is unclear durrr. --[[User:Una Smith|Una Smith]] ([[User talk:Una Smith|talk]]) 04:05, 22 March 2008 (UTC)
+
+:Now the section describes a false negative, which is irrelevant to this article.  I suggest find a reliable source that addresses this topic, and work from that.  --[[User:Una Smith|Una Smith]] ([[User talk:Una Smith|talk]]) 15:23, 25 March 2008 (UTC)
+
+==Overdiagnosis vs early diagnosis==
+The article tends to conflate overdiagnosis with early diagnosis;  it might help to make a clear statement comparing and contrasting them. --[[User:Una Smith|Una Smith]] ([[User talk:Una Smith|talk]]) 04:10, 22 March 2008 (UTC)
+Agreed.  The first sentences flatly stating that overdiagnosis is an accurate diagnosis that won't kill you is false.  Shouldn't it include erroneous and over-used diagnoses, as well? HomeBuilding  [[Special:Contributions/207.178.98.26|207.178.98.26]] ([[User talk:207.178.98.26|talk]]) 18:36, 20 April 2008 (UTC)
+
+== Proposed Split ==
+
+I've noticed that the term overdiagnosis is used in two different meanings, both of which are now discussed in this article.  Most of the article covers overdiagnosis in terms of screening for disease, but the &quot;Overdiagnosis in Psycho/Social Spheres&quot; covers a different meaning of overdiagnosis.  I believe both terms are commonly used in medical research in their respective fields (a google search seems to turn up a lot of results for both meanings).
+
+In terms of [[screening (medicine)|screening]] (particularly cancer screening), overdiagnosis refers to the diagnosis of disease that is actually present but which would not cause symptoms during the person's lifetime.  Overdiagnosis in this sense means that the diagnosis was actually correct (e.g. the person really did have cancer), but that the person who had the disease would have died of some other cause before the disease caused any noticeable effects.  This is mainly relavent because it convolutes statistics from screening studies to determine if a screening test is beneficial, and not because the person shouldn't have been diagnosed based on the medical evidence.  An example of this kind of overdiagnosis is a person who has prostate cancer and is diagnosed based on a screen, where without treatment the cancer would have started showing symptoms in 4 years and killed the person in 8 years, but where the person died of an unrelated heart attack 3 years after the diagnosis.
+
+In other contexts, particularly mental health and behavior, overdiagnosis is used to refer to diagnosis that are used too frequently.  In this context, a person who is overdiagnosed has &quot;symptoms&quot; that cause someone (the person, a parent, a teacher, etc.) to seek a diagnosis, but the person should not have gotten a medical diagnosis based on the medical evidence, or should have gotten a different medical diagnosis.  The main issue with overdiagnosis in this sense is that people are being given an incorrect diagnosis when they actually don't have a medical condition or have a different medical condition.  An example of overdiagnosis in this sense is a child who acts up in class and is diagnosed with [[ADHD]] and receives medication, but where the behavior is actually within the normal range of behavior for a child in that age group and the child didn't really need medication.
+
+Because I think these meanings are totally different, I think this article should be split into two articles, one with a title like [[Overdiagnosis (screening)]] and another with a title like [[Overdiagnosis (overuse)]] (perhaps someone else can come up with something better than that).  If the article is split, I think the second topic would need expanding, as most of this article is about the first topic. [[User:Calathan|Calathan]] ([[User talk:Calathan|talk]]) 20:22, 17 March 2009 (UTC)
+	</talkpage>
+</article>

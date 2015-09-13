@@ -1,0 +1,10 @@
+<article id="16839865" title=User talk:124.191.50.154>
+	<talkpage id="16839865" title="User talk:124.191.50.154">
+== April 2008 ==
+
+[[Image:Information.png|25px|left]] Hi, the &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Phosphorus?diff=204402609 recent edit]&lt;/span&gt; you made to [[:Phosphorus]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thanks. &lt;!-- Template:uw-huggle1 --&gt; [[User:Loren.wilton|Loren.wilton]] ([[User talk:Loren.wilton|talk]]) 07:20, 9 April 2008 (UTC)
+
+
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits{{#if:Phosphorus|, such as the one you made to [[:Phosphorus]],}} did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed.  Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing to this encyclopedia. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism1 --&gt;.[[User:Pyrotec|Pyrotec]] ([[User talk:Pyrotec|talk]]) 07:53, 9 April 2008 (UTC)
+	</talkpage>
+</article>

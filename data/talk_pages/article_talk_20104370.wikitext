@@ -1,0 +1,5 @@
+<article id="20104370" title=Talk:Holendry Dobrowskie>
+	<talkpage id="20104370" title="Talk:Holendry Dobrowskie">
+{{WikiProject Poland|class=stub|importance=}}
+	</talkpage>
+</article>

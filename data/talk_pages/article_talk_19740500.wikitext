@@ -1,0 +1,6 @@
+<article id="19740500" title=Talk:Gostomia, West Pomeranian Voivodeship>
+	<talkpage id="19740500" title="Talk:Gostomia, West Pomeranian Voivodeship">
+{{WPCities|class=stub|importance=low}}
+{{WikiProject Poland|class=stub|importance=low}}
+	</talkpage>
+</article>

@@ -1,0 +1,23 @@
+<article id="7057227" title=Talk:Benizelos Roufos>
+	<talkpage id="7057227" title="Talk:Benizelos Roufos">
+{{WikiProject Biography
+|living=no
+|class=stub
+|politician-work-group=yes
+|listas=Rouphos, Benizelos
+}}
+{{WikiProject Greece|class=stub
+|importance= 
+&lt;!-- B-Class parameters --&gt;
+|B-Class-1=
+|B-Class-2=
+|B-Class-3=
+|B-Class-4=
+|B-Class-5=
+&lt;!-- Task force parameters --&gt;
+|politics-task-force=yes
+&lt;!-- Other parameters --&gt;
+|needs-infobox=yes
+}}
+	</talkpage>
+</article>

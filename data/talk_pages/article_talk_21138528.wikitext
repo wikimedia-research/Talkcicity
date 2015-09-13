@@ -1,0 +1,5 @@
+<article id="21138528" title=User talk:99.162.207.250>
+	<talkpage id="21138528" title="User talk:99.162.207.250">
+[[Image:Information.svg|25px]] Welcome to Wikipedia. It might not have been your intention, but your recent edit removed content from {{#if:|[[:{{{1}}}]]|Wikipedia}}. When removing text, please specify a reason in the [[Help:Edit summary|edit summary]] and discuss edits that are likely to be controversial on the article's [[Wikipedia:Talk page|talk page]]. If this was a mistake, don't worry; the text has been restored, as you can see from the {{#if:|&lt;span class=&quot;plainlinks&quot;&gt;[{{fullurl:{{{1}}}|action=history}} page history]&lt;/span&gt;|[[Help:Page history|page history]]}}. Take a look at the [[Wikipedia:Welcome|welcome page]] to learn more about contributing to this encyclopedia, and if you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]].  {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-delete1 --&gt; &lt;b&gt;[[User:Ohnoitsjamie|OhNo&lt;font color=&quot;#D47C14&quot;&gt;itsJamie&lt;/font&gt;]] [[User talk:Ohnoitsjamie|&lt;sup&gt;Talk&lt;/sup&gt;]]&lt;/b&gt; 22:38, 17 January 2009 (UTC)
+	</talkpage>
+</article>

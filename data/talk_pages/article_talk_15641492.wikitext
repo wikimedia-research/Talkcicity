@@ -1,0 +1,16 @@
+<article id="15641492" title=User talk:Lilnatvsavg>
+	<talkpage id="15641492" title="User talk:Lilnatvsavg">
+'''Welcome!'''
+
+Hello, {{BASEPAGENAME}}, and [[Wikipedia:Introduction|welcome]] to Wikipedia! Thank you for [[Special:Contributions/{{BASEPAGENAME}}|your contributions]]{{#if:|, especially what you did for [[{{{art}}}]]|}}. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Wikipedia:Article development|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign]] your messages on [[Wikipedia:talk page|discussion page]]s using four [[tilde]]s (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically insert your username and the date. If you need help, check out [[Wikipedia:Questions]], ask me on {{#if:Le Grand Roi des Citrouilles|[[user talk:Le Grand Roi des Citrouilles|my talk page]]|my talk page}}, or ask your question and then place &lt;code&gt;&lt;nowiki&gt;{{&lt;/nowiki&gt;[[:Category:Wikipedians looking for help|helpme]]&lt;nowiki&gt;}}&lt;/nowiki&gt;&lt;/code&gt; before the question on your talk page. Again, welcome! &lt;!-- Template:Welcome --&gt; --&lt;font face=&quot;Times New Roman&quot;&gt;[[User:Le Grand Roi des Citrouilles|&lt;span style=&quot;color:#009&quot;&gt;Le Grand Roi des Citrouilles&lt;/span&gt;]]&lt;/font&gt;&lt;sup&gt;''[[User talk:Le Grand Roi des Citrouilles|Tally-ho!]]''&lt;/sup&gt; 17:36, 7 February 2008 (UTC)
+
+==[[Phasmophobia]]==
+Shouldn't that be at [http://en.wiktionary.org/wiki/Main_Page Wiktionary?] Wikipedia is not a dictionary [[WP:DICDEF]]. &lt;font color=&quot;green&quot; face=&quot;Vladimir Script&quot;&gt;[[User:Sting au|&lt;b&gt;Sting au&lt;/b&gt;]]&lt;/font&gt; ''&lt;small&gt;[[User_talk:Sting au|&lt;span style=&quot;color:gold; &quot;&gt;Buzz Me...&lt;/span&gt;]]&lt;/small&gt;'' 04:17, 25 February 2008 (UTC)
+	</talkpage>
+</article>

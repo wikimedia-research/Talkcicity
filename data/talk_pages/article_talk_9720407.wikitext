@@ -1,0 +1,5 @@
+<article id="9720407" title=Talk:Bentheim-Tecklenburg>
+	<talkpage id="9720407" title="Talk:Bentheim-Tecklenburg">
+{{WikiProject Germany|class=stub|importance= }}
+	</talkpage>
+</article>

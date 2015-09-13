@@ -1,0 +1,5 @@
+<article id="30947741" title=Talk:Ippari>
+	<talkpage id="30947741" title="Talk:Ippari">
+Hi, the geocoordinates must be wrong, as it is pointing in the middle of the mediterenean sea.
+	</talkpage>
+</article>

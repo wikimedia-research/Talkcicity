@@ -1,0 +1,37 @@
+<article id="4489553" title=Talk:JD Edwards>
+	<talkpage id="4489553" title="Talk:JD Edwards">
+{{WikiProject Computing|class=start|importance=|software=yes|software-importance=}}
+
+==Advertising==
+Wikipedia is not the place for advertising third-party vendors.
+: No, but it is a place to learn about software packages that you might use and their source.
+:: Wikipedia has stated guidlines related to this: [[WP:ELNO]] [[User:Prhartcom|prhartcom]] ([[User talk:Prhartcom|talk]]) 17:46, 16 April 2010 (UTC)
+
+==Article name==
+The name of the article should be JD Edwards rather than J.D. Edwards.  I'll move soon if no-one objects --[[User:Slf67|Steve]] 23:20, 16 October 2006 (UTC)
+: I agree that the article should be moved - it's &quot;JD Edwards&quot; in Oracle's documentation.  I'll change the article if someone else will move. [[User:GoingBatty|GoingBatty]] ([[User talk:GoingBatty|talk]]) 19:35, 6 May 2010 (UTC)
+:: Agreed. I cannot move the page myself as a redirect page with the same name exists, blocking the move. I have submitted that page for speedy deletion. When that is done, we will need to correct the name of the sofware within this article and all other linking articles (i.e. CNC).  We will also need to ensure redirect pages are corrected (to avoid double redirect). [[User:Prhartcom|prhartcom]] ([[User talk:Prhartcom|talk]]) 20:14, 6 May 2010 (UTC)
+:::This is now done. Only three and a half years after the first request! [[User:Prhartcom|prhartcom]] ([[User talk:Prhartcom|talk]]) 06:13, 7 May 2010 (UTC)
+::::Thanks for moving the article.  But why did you change the lead from &quot;JD Edwards World Solution Company&quot; back to &quot;J.D. Edwards World Solution Company&quot; ? [[User:GoingBatty|GoingBatty]] ([[User talk:GoingBatty|talk]]) 12:05, 7 May 2010 (UTC)
+:::::I also have corrected articles that linked to J.D. Edwards so they now link to JD Edwards, including other redirect pages, working from the What links here page. The first few words of the article are the full name of the company spelled out in its entirety. Thanks for taking the step to get this done. [[User:Prhartcom|prhartcom]] ([[User talk:Prhartcom|talk]]) 14:22, 7 May 2010 (UTC)
+
+== Web-based client, continued product evolution, and EnterpriseOne ==
+
+This section is made a little bit confusing by the insertion of the section &quot;JD Edwards company is sold&quot;.  This is because it is in the same font as &quot;Web-based...&quot; and so the reader would expect to find EnterpriseOne in &quot;Web-based...&quot; but it's under &quot;JD Edwards company is sold&quot;.
+
+I think a simple solution to this might be to remove the whole &quot;JD Edwards company is sold&quot; section.  The sentence is not accurate anyway because Dutkowsky was made president in January 2002 and changes in ownership did not begin within a year.
+
+[[Special:Contributions/74.105.52.232|74.105.52.232]] ([[User talk:74.105.52.232|talk]]) 01:48, 16 August 2010 (UTC)
+
+:Hello 74.105.52.232, welcome to Wikipedia, and thanks for your suggestion. You're right, it is a bit confusing at that point in the article. We need people like to you help make this a better article. Of course we're not going to remove the entire &quot;JD Edwards company is sold&quot; section as a solution, however.  What you're right about is the secion &quot;Web-based client, continued product evolution, and EnterpriseOne&quot; doesn't come right out and say the name &quot;EnterpriseOne&quot; as it should, and there are probably other issues.  Would you like to acquire a username and reply with your thoughts? [[User:Prhartcom|&lt;span style=&quot;font-family:Verdana; color:blue;&quot;&gt;—Prhartcom&lt;/span&gt;]] [[User talk:Prhartcom|&lt;span style=&quot;color:black;&quot;&gt;(talk)&lt;/span&gt;]] 16:57, 16 August 2010 (UTC)
+
+::While we're waiting for a suggestion from the original poster, my suggestion is to move the &quot;JD Edwards company is sold&quot; section above the &quot;Web-based client, continued product evolution, and EnterpriseOne&quot; section, and merge the info from &quot;Continued development of the JD Edwards ERP products&quot; into the &quot;Web-based client&quot; section. [[User:GoingBatty|GoingBatty]] ([[User talk:GoingBatty|talk]]) 01:31, 17 August 2010 (UTC)
+
+:::Thanks for catching that vandalism, GoingBatty (we've seen this same thing before).
+:::Your idea for the text move sounds good until you realize the readability is better now, i.e. the last sentence of &quot;2004 buyout of PeopleSoft by Oracle&quot; reads well coming before the first sentence in &quot;Continued development&quot;, so we shouldn't upset things like that.  What we need is to do is strive to tell the story in sequential order as the events happened, yet still have separate sections telling about the company purchase from sections telling about the three JD Edwards products mentioned in the lead.  There should be a major section for each of those three products. We should probably split the &quot;Web-based client&quot; section right at the 2001 events and before the 2005 events.  I think you probably see what I mean. Try taking out all the section names, edit the text, then put old and possibly new section names into the edited text in appropriate places.  I'm busy at work at the moment but if you have more time than I do please feel free to tackle this problem and present it here in the discussion. [[User:Prhartcom|&lt;span style=&quot;font-family:Verdana; color:blue;&quot;&gt;—Prhartcom&lt;/span&gt;]] [[User talk:Prhartcom|&lt;span style=&quot;color:black;&quot;&gt;(talk)&lt;/span&gt;]] 20:21, 17 August 2010 (UTC)
+
+== Removed cleanup tag ==
+
+I completed a cleanup edit of the entire article, now that it has been greatly improved by recent contributions of diligent editors. My edits were mostly reordered, restructured, or corrected text, very little new text has been added. After having been in the article for several years, I removed the cleanup tag.  Well deserved! [[User:Prhartcom|&lt;span style=&quot;color:blue;&quot;&gt;—Prhartcom&lt;/span&gt;]] [[User talk:Prhartcom|&lt;span style=&quot;color:black;&quot;&gt;(talk)&lt;/span&gt;]] 12:02, 15 September 2011 (UTC)
+	</talkpage>
+</article>

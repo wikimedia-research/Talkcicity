@@ -1,0 +1,9 @@
+<article id="28840150" title=Talk:The Stranger Next Door>
+	<talkpage id="28840150" title="Talk:The Stranger Next Door">
+{{NovelsWikiProject
+|class=stub
+|importance= low
+|needs-infobox=
+}}
+	</talkpage>
+</article>

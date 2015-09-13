@@ -1,0 +1,5 @@
+<article id="45085986" title=Talk:Virginia Court of Chancery>
+	<talkpage id="45085986" title="Talk:Virginia Court of Chancery">
+{{WikiProject Virginia|class=start|importance=mid}}
+	</talkpage>
+</article>

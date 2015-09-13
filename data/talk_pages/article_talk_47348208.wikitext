@@ -1,0 +1,5 @@
+<article id="47348208" title=Talk:Eupogonius hagmanni>
+	<talkpage id="47348208" title="Talk:Eupogonius hagmanni">
+{{WikiProject Beetles|class=Stub|importance=Low}}
+	</talkpage>
+</article>

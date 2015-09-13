@@ -1,0 +1,27 @@
+<article id="2640282" title=Talk:List of municipalities and communities in Greece (1997–2010)>
+	<talkpage id="2640282" title="Talk:List of municipalities and communities in Greece (1997–2010)">
+{{WikiProject Greece|class=List|importance=NA}}
+
+==Untitled==
+I simply copied these footnotes from [[List of cities in Greece]]. They were added by a user who hasn't surfaced since February '04. Can someone explain me the difference between the agglomeration and the metropolitan area of Athens and Thessaloniki? [[User:Markussep|Markussep]] 12:06, 8 September 2005 (UTC)
+
+¹ a [[suburb]] of [[Athens]] in Athens’ [[agglomeration]]/[[conurbation]]&lt;br&gt;
+² a [[suburb]] of [[Athens]] in Athens’ [[metropolitan area]]&lt;br&gt;
+³ a [[suburb]] of [[Thessaloniki]] in Thessaloniki’s  [[agglomeration]]/[[conurbation]]&lt;br&gt;
+&lt;sup&gt;4&lt;/sup&gt; a [[suburb]] of  [[Thessaloniki]] in Thessaloniki’s  [[metropolitan area]]&lt;br&gt;
+&lt;sup&gt;5&lt;/sup&gt; a [[suburb]] of [[Kalamata]] in Kalamata's [[metropolitan area]]&lt;br&gt;
+&lt;sup&gt;6&lt;/sup&gt; a [[municipality]] that belongs to [[Piraeus]] [[prefecture]]
+
+I'm back! So I hope you will revert to my notes 1-4 and 6, they are important (5 is minor). The difference is explained in the articles:
+
+A metropolitan area is a large population center consisting of a large city and its adjacent zone of influence, or of several neighboring cities or towns and adjoining areas, with one or more large cities serving as its hub or hubs.
+
+A metropolitan area usually combines an agglomeration (the contiguous built-up area) with peripheral zones not themselves necessarily urban in character, but closely bound to the centre by employment or commerce; these zones are also sometimes known as a commuter belt, and may extend well beyond the urban periphery depending on the definition used. It is mainly the area that is not part of the city but is connected to the city. For example, Warren, Michigan would be added to Detroit, Michigan's metro area. While it isn't the same city, it is connected.
+
+The core cities in a polycentric metropolitan area need not be physically connected by continuous built-up development, distinguishing the concept from conurbation, which requires urban contiguity. In a metropolitan area, it is sufficient that central cities together constitute a large population nucleus with which other constituent parts have a high degree of integration.
+
+The term 'agglomeration' is distinct from a 'Conurbation', which is a more specific term for urban clusters where the built-up zones of influence of distinct cities or towns are connected by continuous built-up development. Each city or town in a conurbation may nevertheless continue to act as an independent focus for a substantial part of the area.
+
+A metropolitan area is an extended agglomeration or conurbation that also includes peripheral areas not themselves necessarily urban in character but closely bound to the urban area by employment or commerce. [[User:Sofos|Sofos]] 12 September 2006
+	</talkpage>
+</article>

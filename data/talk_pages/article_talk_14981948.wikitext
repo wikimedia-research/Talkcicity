@@ -1,0 +1,17 @@
+<article id="14981948" title=Talk:Philip L. Carret>
+	<talkpage id="14981948" title="Talk:Philip L. Carret">
+{{WPBiography
+|living=no
+|class=stub
+|listas=Carret, Philip L.
+}}
+
+==Needs complete rewrite==
+
+1) First sentence in present tense as if subject is still alive. Mentions &quot;70 years ago&quot; when it is actually by now 80 years ago.
+
+2) Overall tone is eulogistic, with strong praise but little detail or substance. Need more neutral, objective, encyclopedic point of view.
+
+3) Final sentence is advertising copy for Pioneer Investments, does not belong in this biography.
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="38541093" title=Talk:Omoglymmius strabus>
+	<talkpage id="38541093" title="Talk:Omoglymmius strabus">
+{{WikiProject Beetles|class=Stub|importance=Low|needs-photo=yes}}
+	</talkpage>
+</article>

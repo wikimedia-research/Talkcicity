@@ -1,0 +1,15 @@
+<article id="21001380" title=User talk:172.129.93.73>
+	<talkpage id="21001380" title="User talk:172.129.93.73">
+
+
+== January 2009 ==
+[[Image:Information.svg|25px]] Constructive contributions are appreciated and strongly encouraged, but your recent edit to the [[Wikipedia:User page|userpage]] of another user may be considered [[Wikipedia:Vandalism|vandalism]]. {{#if:User:THEN WHO WAS PHONE?|Specifically, your edit to [[:User:THEN WHO WAS PHONE?]] may be offensive or unwelcome.}} In general it is considered polite to avoid substantially editing others' userpages without their permission. Instead, please bring the matter to their talk page and let them edit their user page themselves if they agree on a need to do so. Please refer to [[Wikipedia:User page]] for more information on User page etiquette. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-upv --&gt; [[User:CardinalDan|CardinalDan]] ([[User talk:CardinalDan|talk]]) 06:35, 8 January 2009 (UTC)
+:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
+
+[[Image:Stop hand nuvola.svg|25px]] '''This is your last warning'''. You will be blocked from editing the next time you vandalize a page, as you did with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/User%3aTHEN_WHO_WAS_PHONE%3f?diff=262700674 this edit]&lt;/span&gt; to [[:User:THEN WHO WAS PHONE?]]. &lt;!-- Template:uw-huggle4 --&gt; '''[[User:Sceptre|Sceptre]]''' &lt;sup&gt;([[User talk:Sceptre|talk]])&lt;/sup&gt; 06:36, 8 January 2009 (UTC)
+
+== blocked ==
+
+&lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;[[Image:Octagon-warning.svg|left|30px]]'''You have been {{#if:||temporarily}} [[Wikipedia:Blocking policy|blocked]] from editing Wikipedia {{#if:|for a period of }} as a result of your {{#if:|disruptive edits to [[:{{{2}}}]]|disruptive edits}}.''' You are free to make constructive edits after the block has expired, but please note that [[Wikipedia:Vandalism template link|vandalism]] (including page blanking or addition of [[Wikipedia:Patent nonsense|random text]]), [[Wikipedia:Spam|spam]], deliberate misinformation, privacy violations, [[Wikipedia:No personal attacks|personal attacks]]; and repeated, blatant violations of our policies concerning [[Wikipedia:Neutral point of view|neutral point of view]] and [[Wikipedia:Biographies of living persons|biographies of living persons]] will not be tolerated.&lt;!-- Template:Test5 --&gt; [[User:Academic Challenger|Academic Challenger]] ([[User talk:Academic Challenger|talk]]) 06:38, 8 January 2009 (UTC)
+	</talkpage>
+</article>

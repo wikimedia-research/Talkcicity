@@ -1,0 +1,35 @@
+<article id="1162509" title=Talk:Mahātmā>
+	<talkpage id="1162509" title="Talk:Mahātmā">
+{{WP India
+|class=start
+|importance=Low
+}}
+{{WPReligion|class=start |importance= |small= }}
+Mahatmas and Mahandas are the same name for Gandhis first name. Juicyboy 325. 11/12/04
+
+&quot;Great White Brotherhood&quot; was not a term used by Blavatsky. I have removed that reference.
+-Brucey
+
+This is incorrect.  Gandhi's first name is 'Mohandas' (Mohan-das) which has no etymological relation to the world 'Mahatma'. --[[User:Bigbenboa|Bigbenboa]] 22:24, 29 May 2007 (UTC)
+
+== Split? ==
+
+Should this page be separated into articles on the Hindu and Theosophist versions of Mahatma?  It seems to me that they're completely different concepts. [[User:Rojomoke|Rojomoke]] 13:45, 17 August 2006 (UTC)
+
+I think this is correct.  The Theosophical material seems to me mainly relevant to Theosophy; it doesn't belong on a general article on the idea of mahatma.  I'm flagging this for a POV-check; it's special pleading for a particular minor position. [[User:Randwolf|Randwolf]] 18:15, 27 April 2007 (UTC)
+
+The Theosophical definition can be seen as an appropriation of the Hindu definition.  It could be split into two articles or as suggested below, split within this article.  Either way, the two definitions are significant enough to be mentioned. --[[User:Bigbenboa|Bigbenboa]] 22:24, 29 May 2007 (UTC)
+
+== Neutrality ==
+
+Mahatma is a Sanskrit word that means, more-or-less, &quot;saint&quot;.  As such, the current text of the article gives [[Wikipedia:Neutral_point_of_view#Undue weight|undue weight]] to the term as used by the [[Theosophical Society]], is almost a completely different use of the term; many, many more people use the common Indian sense--see for instance the articles on [[Mahatma_Gandhi]], [[Adi Shankara]], and [[Prahlad Keshav Atre]].  It is as if the article on [[saints]] had extensive coverage of the saints significant to a tiny group of Indian christians, and almost nothing on the Roman Catholic saints.  My preference in this would be to start an article [[Mahatma (Theosophical Society)]] and reference it in the main article.  Are there other opinions? [[User:Randwolf|Randwolf]] 07:36, 29 April 2007 (UTC)
+
+:I would suggest a separate section ''within'' this article to clarify the distinctions between the two concepts. [[User:Aburesz|Aburesz]] 16:21, 21 May 2007 (UTC)
+
+:Probably a separate article isn't necessary, but there is certainly a need for more clarification.
+
+On the &quot;letters&quot;: the text states that these alleged letters existed as if they are physical entities. Is this correct? Can we have a reference for it? The text makes it sound like Blavatsky was passing physical letters on to other people. Correct, if so, what is the ref?
+
+[[User:Sardaka|Sardaka]] ([[User talk:Sardaka|talk]]) 08:26, 19 March 2008 (UTC)
+	</talkpage>
+</article>

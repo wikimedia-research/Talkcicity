@@ -1,0 +1,12 @@
+<article id="11781598" title=Talk:Tobias and the Angel (opera)>
+	<talkpage id="11781598" title="Talk:Tobias and the Angel (opera)">
+
+{{WikiProject Opera|class=start}}
+
+
+== Copyright problem removed ==
+
+Prior content in this article duplicated one or more previously published sources. The material was copied from: http://www.cockaigne.org.uk/Productions/tobias_project.html. Copied or closely paraphrased material has been rewritten or removed and must not be restored, ''unless'' it is duly released under a compatible license. (For more information, please see [[Wikipedia:COPYRIGHT#Using_copyrighted_work_from_others|&quot;using copyrighted works from others&quot;]] if you are not the copyright holder of this material, or [[Wikipedia:Donating copyrighted materials|&quot;donating copyrighted materials&quot;]] if you are.) For [[Wikipedia:Copyrights|legal reasons]], we cannot accept [[Wikipedia:Copyrights|copyrighted]] text or images borrowed from other web sites or published material; such additions will be deleted. Contributors may use copyrighted publications as a source of ''information'', but not as a source of ''sentences'' or ''phrases''. Accordingly, the material ''may'' be rewritten, but only if it does not infringe on the copyright of the original ''or'' [[Wikipedia:Plagiarism|plagiarize]] from that source. Please see our [[Wikipedia:NFC#Text|guideline on non-free text]] for how to properly implement limited quotations of copyrighted text. Wikipedia takes copyright violations very seriously, and persistent violators '''will''' be [[Wikipedia:Blocking policy|blocked]] from editing. While we appreciate contributions, we must require all contributors to understand and comply with these policies. Thank you. &lt;!-- Template:Cclean --&gt; [[User:Voceditenore|Voceditenore]] ([[User talk:Voceditenore|talk]]) 07:29, 11 September 2012 (UTC)
+:Note than even if permission were received to use the text, it would require ''heavy'' editing to achieve a concise, [[WP:NPOV|neutral]], and encyclopedic style. [[User:Voceditenore|Voceditenore]] ([[User talk:Voceditenore|talk]]) 08:53, 11 September 2012 (UTC)
+	</talkpage>
+</article>

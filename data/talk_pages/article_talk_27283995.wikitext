@@ -1,0 +1,11 @@
+<article id="27283995" title=Talk:Nicolai Michoutouchkine>
+	<talkpage id="27283995" title="Talk:Nicolai Michoutouchkine">
+{{WikiProject Biography
+|living=no
+|class=
+|listas=Michoutouchkine, Nicolai
+}}
+== Infobox ==
+This article needs a infobox, but whats the template for underlining the problem? (&lt;nowiki&gt;{{infobox}}&lt;/nowiki&gt; or something?) Thanks in advance for the reply! [[User:Silraks|{{font|text=silrak|color=#FF5800|css=font-weight:bold;}}{{font|text=s|color=#778BA5|css=font-weight:bold;}}]] {{small|([[User talk:silraks|{{font|text=T|color=#FF5800|css=font-weight:bold;}}{{font|text=al|color=#FF5800|css=font-weight:}}{{font|text=k|color=#778BA5|css=font-weight:}}]])}} 22:07, 18 August 2015 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,7 @@
+<article id="32182138" title=Talk:Blacks Fork, Utah>
+	<talkpage id="32182138" title="Talk:Blacks Fork, Utah">
+{{WikiProject United States|class=Stub|importance=Low|UT=yes|UT-importance=Low}}
+{{WikiProject Ghost towns|class=Stub|importance=Low}}
+{{Image requested|in=Summit County, Utah}}
+	</talkpage>
+</article>

@@ -1,0 +1,86 @@
+<article id="4368095" title=User talk:AntonAntropov>
+	<talkpage id="4368095" title="User talk:AntonAntropov">
+== Welcome! ==
+
+&lt;div style=&quot;align: center; padding: 1em; border: solid 2px yellow; background-color: darkblue;&quot;&gt;
+&lt;center &gt;&lt;font size=&quot;+1&quot; color=&quot;yellow&quot;&gt;'''Hello, {{PAGENAME}}, &lt;font color=&quot;lightblue&quot;&gt;[[Wikipedia:Welcome, newcomers|Welcome]]&lt;/font&gt; to Wikipedia!&lt;/font &gt;&lt;/center &gt;&lt;/div &gt;
+&lt;div style=&quot;align: center; padding: 1em; border: solid 2px black; background-color: white;&quot;&gt;		 
+&lt;center &gt;'''I hope you like working here and want to [[Wikipedia:wikipedians|continue]]. If you need help on how to name new articles, look at the [[Wikipedia:Guide to layout|Guide to Layout]], and for help on formatting the pages visit the [[Wikipedia:Manual of Style|Manual of Style]]. If you need general help, look at [[Wikipedia:Help|Help]] and [[Wikipedia:FAQ|the FAQ]], and if you can't find your answer there, check the [[Wikipedia:Village pump|Village Pump]] (for Wikipedia related questions) or the [[Wikipedia:Reference desk|Reference Desk]] (for general questions).  There's still more help at the [[Wikipedia:Tutorial|Tutorial]] and the [[Wikipedia:Policy Library|Policy Library]].  Also, don't forget to visit the [[Wikipedia:Community Portal|Community Portal]] &amp;mdash; and if you have any more questions after that, feel free to post them on [[User talk:Mel Etitis/New users|my New-Users' Talk Page]].'''&lt;/center&gt;
+----
+&lt;center&gt;&lt;big&gt;'''Additional tips:'''&lt;/big&gt;&lt;/center&gt;
+:Here are some extra tips to help you get around Wikipedia:
+:*If you want to play around with your new Wiki skills, try the [[Wikipedia:Sandbox|Sandbox]].
+:*Click on the Edit button on a page, and look at how other editors did what they did.
+:*You can sign your name using three tildes, like this: &amp;#126;&amp;#126;&amp;#126;. If you use four, you can add a datestamp too.  Always sign comments on Talk pages, never sign Articles.
+:*You might want to add yourself to the [[Wikipedia:New user log|New User Log]]
+:*If your first language isn't English, try [[Wikipedia:Contributing to articles outside your native language]]
+:*Full details on Wikipedia style can be found in the [[Wikipedia:Manual of Style|Manual of Style]].
+
+&lt;center&gt;There's also a regular [[Wikipedia:Bootcamp|group introduction to Wikipedia for new users]] on IRC.&lt;/center&gt;
+----
+&lt;center &gt;&lt;font size=&quot;+1&quot;&gt;'''Happy editing!'''&lt;/font &gt;&lt;/center &gt;
+&lt;/div &gt; --[[User:Mel Etitis|Mel Etitis]]  ([[User talk:Mel Etitis|&lt;font color=&quot;green&quot;&gt;Μελ Ετητης&lt;/font&gt;]]) 12:08, 22 February 2006 (UTC)
+
+==[[Qplaze]]==
+The article makes value judgements about its subject; the relevant policy can be found at [[Wikipedia:Neutral point of view]].  The material can be fairly easily rectified; if I don't get time to do it soon, someone will. --[[User:Mel Etitis|Mel Etitis]]  ([[User talk:Mel Etitis|&lt;font color=&quot;green&quot;&gt;Μελ Ετητης&lt;/font&gt;]]) 12:08, 22 February 2006 (UTC)
+
+*The source has now been found; we can't accept copy-righted material, I'm afraid, and simply rewriting the article isn't enough, as the copyrighted stuff is still in the History.  If you want to create a neutral, non-copyvio version, could you do that at the temporary page, linked to from the copyvio template? --[[User:Mel Etitis|Mel Etitis]]  ([[User talk:Mel Etitis|&lt;font color=&quot;green&quot;&gt;Μελ Ετητης&lt;/font&gt;]]) 09:43, 24 February 2006 (UTC)
+
+==Image Tagging [[:Image:AgeofHeroes-art5.gif]]==
+
+{| align=&quot;CENTER&quot;  style=&quot;background-color:#FFFFFF; border:8px solid #FF0000;  padding:5px;&quot;
+|-
+|[[Image:Nuvola apps important.svg|30px|Warning sign]]
+| &lt;center&gt;&lt;big&gt;This media may be '''deleted'''.&lt;/big&gt;
+&lt;/center&gt;
+|}
+
+Thanks for uploading '''[[:Image:AgeofHeroes-art5.gif]]'''. I notice the 'image' page currently doesn't specify who created the content, so the [[copyright]] status is unclear. If you have not created this media yourself then you need to argue that we have the right to use the media on Wikipedia (see copyright tagging below). If you have not created the media yourself then you should also specify where you found it, i.e., in most cases link to the website where you got it, and the terms of use for content from that page.
+
+If the media also doesn't have a copyright tag then you must also add one. If you created/took the picture, audio, or video then you can use {{tl|GFDL-self}} to release it under the [[GFDL]]. If you believe the media qualifies as fair use, please read [[Wikipedia:Fair use|fair use]], and then use a tag such as {{tlp|Non-free fair use in|article name}} or one of the other tags listed at [[Wikipedia:Image copyright tags#Fair_use]].  See [[Wikipedia:Image copyright tags]] for the full list of copyright tags that you can use.
+
+If you have uploaded other media, please check that you have specified their source and copyright tagged them, too. You can find a list of 'image' pages you have edited by clicking on the &quot;[[Special:Contributions/{{PAGENAME}}|my contributions]]&quot; link (it is located at the very top of any Wikipedia page when you are logged in), and then selecting &quot;Image&quot; from the dropdown box. Note that any unsourced and untagged images will be deleted one week after they have been uploaded, as described on [[wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. Thank you. [[User:Sherool|Sherool]] &lt;span style=&quot;font-size:75%&quot;&gt;[[User talk:Sherool|(talk)]]&lt;/span&gt; 16:59, 12 March 2006 (UTC)
+==Image Tagging for [[:Image:AgeofHeroes-art1.jpg]]==
+Thanks for uploading '''[[:Image:AgeofHeroes-art1.jpg]]'''. The image has been identified as not specifying the source and creator of the image, which is required by Wikipedia's policy on images.  If you don't indicate the source and creator of the image on the image's description page, it may be deleted some time in the next seven days.  If you have uploaded other images, please verify that you have provided source information for them as well.
+
+For more information on using images, see the following pages:
+*[[Wikipedia:Image use policy]]
+*[[Wikipedia:Image copyright tags]]
+
+This is an automated notice by [[User:OrphanBot|OrphanBot]].  For assistance on the image use policy, see [[User talk:Carnildo/images]]. 14:24, 13 March 2006 (UTC)
+==Image copyright problem with Image:AgeofHeroes-art2.gif==
+Thanks for uploading [[:Image:AgeofHeroes-art2.gif]]. The image has been identified as not specifying the copyright status of the image, which is required by Wikipedia's policy on images.  If you don't indicate the copyright status of the image on the image's description page, using an appropriate [[WP:ICT|copyright tag]], it may be deleted some time in the next seven days.  If you have uploaded other images, please verify that you have provided copyright information for them as well.
+
+For more information on using images, see the following pages:
+*[[Wikipedia:Image use policy]]
+*[[Wikipedia:Image copyright tags]]
+
+This is an automated notice by [[User:OrphanBot|OrphanBot]].  For assistance on the image use policy, see [[User talk:Carnildo/images]]. 14:36, 15 March 2006 (UTC)
+==Image Tagging for [[:Image:AgeofHeroes-art3.gif]]==
+Thanks for uploading '''[[:Image:AgeofHeroes-art3.gif]]'''. The image has been identified as not specifying the source and creator of the image, which is required by Wikipedia's policy on images.  If you don't indicate the source and creator of the image on the image's description page, it may be deleted some time in the next seven days.  If you have uploaded other images, please verify that you have provided source information for them as well.
+
+For more information on using images, see the following pages:
+*[[Wikipedia:Image use policy]]
+*[[Wikipedia:Image copyright tags]]
+
+This is an automated notice by [[User:OrphanBot|OrphanBot]].  For assistance on the image use policy, see [[User talk:Carnildo/images]]. 01:29, 17 March 2006 (UTC)
+==Image Tagging for [[:Image:AgeofHeroes-art4.gif]]==
+Thanks for uploading '''[[:Image:AgeofHeroes-art4.gif]]'''. The image has been identified as not specifying the source and creator of the image, which is required by Wikipedia's policy on images.  If you don't indicate the source and creator of the image on the image's description page, it may be deleted some time in the next seven days.  If you have uploaded other images, please verify that you have provided source information for them as well.
+
+For more information on using images, see the following pages:
+*[[Wikipedia:Image use policy]]
+*[[Wikipedia:Image copyright tags]]
+
+This is an automated notice by [[User:OrphanBot|OrphanBot]].  For assistance on the image use policy, see [[User talk:Carnildo/images]]. 11:50, 18 March 2006 (UTC)
+
+==Non-free use disputed for Image:Qplaze-logo.gif==
+
+{| align=&quot;center&quot; style=&quot;background-color: white; border:8px solid red; padding:5px; text-align: center; font-size: larger;&quot;
+|[[Image:Nuvola apps important.svg|30px|Warning sign]]
+|This file may be '''deleted'''.
+|}
+Thanks for uploading '''[[:Image:Qplaze-logo.gif]]'''. However, there is a concern that the rationale you have provided for using this image under &quot;fair use&quot; may be invalid. Please read carefully the instructions at [[Wikipedia:Non-free content]] and then go to [[:Image:Qplaze-logo.gif|the image description page]] and clarify why you think the image qualifies. Using one of the templates at [[Wikipedia:Fair use rationale guideline]] is an easy way to insure that your image is in compliance with Wikipedia policy, but remember that you must complete the template. Do not simply insert a blank template on an image page.
+
+If it is determined that the image does not qualify under fair use, it will be deleted within a couple of days according to our [[WP:CSD#Images/media|Criteria for speedy deletion]]. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|Media copyright questions page]]. Thank you.&lt;!-- Template:No fair --&gt;[[User:BetacommandBot|BetacommandBot]] 03:48, 6 June 2007 (UTC)
+	</talkpage>
+</article>

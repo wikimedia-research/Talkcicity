@@ -1,0 +1,14 @@
+<article id="21219993" title=Talk:Lois Wickstrom>
+	<talkpage id="21219993" title="Talk:Lois Wickstrom">
+{{WPBiography
+|living=yes
+|class=Stub
+|listas=Wickstrom, Lois
+}}
+{{WikiProject Children's literature|class=Stub|importance=Low}}
+
+==Untitled==
+Lois Wickstorm is a award winning author.  she has been linked from http://en.wikipedia.org/wiki/Jean_Lorrah
+Why have a broken page with nothing on it?  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Dreamerxt|Dreamerxt]] ([[User talk:Dreamerxt|talk]] • [[Special:Contributions/Dreamerxt|contribs]]) 08:19, 23 January 2009 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

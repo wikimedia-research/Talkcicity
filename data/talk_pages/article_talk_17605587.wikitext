@@ -1,0 +1,13 @@
+<article id="17605587" title=Talk:Silasindurighopa>
+	<talkpage id="17605587" title="Talk:Silasindurighopa">
+{{WP India
+|class=Stub
+|importance=low
+|auto=yes
+|geography=yes
+|geography-importance=low
+|assam=yes
+|assam-importance=low
+}}
+	</talkpage>
+</article>

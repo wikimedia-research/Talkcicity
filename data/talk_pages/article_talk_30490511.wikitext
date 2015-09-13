@@ -1,0 +1,5 @@
+<article id="30490511" title=Talk:Salem Tigers football>
+	<talkpage id="30490511" title="Talk:Salem Tigers football">
+{{WikiProject College football|class=Redirect}}
+	</talkpage>
+</article>

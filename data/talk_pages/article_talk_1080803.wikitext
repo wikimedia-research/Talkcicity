@@ -1,0 +1,18 @@
+<article id="1080803" title=User talk:Donutz>
+	<talkpage id="1080803" title="User talk:Donutz">
+Hello, &quot;Donutz&quot; and welcome to [[Wikipedia]]. A few tips for you:
+
+*Peruse [[Wikipedia:Welcome, newcomers]] and associated pages, such as
+**[[Wikipedia:How to edit a page]]
+**[[Wikipedia:How to write a great article]]
+**[[Wikipedia:Naming conventions]]
+**[[Wikipedia:Manual of Style]]
+*You can experiment in the [[Wikipedia:Sandbox]].
+*Sign talk page entries with &lt;nowiki&gt;~~~~&lt;/nowiki&gt;, which is automatically converted to a name and date.
+*If you have any questions, see [[Wikipedia:Help]], or you can a question at the [[Wikipedia:Help desk]].
+* I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]].
+ -- [[User:Infrogmation|Infrogmation]] 21:46, 18 Oct 2004 (UTC)
+
+I just blocked the guy who has been vandalizing your user page for 3 days. [[User:Thue|Thue]] | [[User talk:Thue|talk]] 13:34, 22 Jun 2005 (UTC)
+	</talkpage>
+</article>

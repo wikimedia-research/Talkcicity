@@ -1,0 +1,9 @@
+<article id="13726229" title=User talk:81.79.234.43>
+	<talkpage id="13726229" title="User talk:81.79.234.43">
+__TOC__
+
+==October 2007==
+{{{icon|[[Image:Information.svg|25px]] }}}Please refrain from making unconstructive edits to Wikipedia{{{{{subst|}}}#if:The Hurricanes|, as you did to [[:The Hurricanes]]}}. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism2 --&gt; [[User:GlassCobra|Glass]]'''[[User talk:GlassCobra|Cobra]]''' &lt;small&gt;([[Wikipedia:Editor review/GlassCobra|Review]])&lt;/small&gt; 18:07, 14 October 2007 (UTC)
+:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
+	</talkpage>
+</article>

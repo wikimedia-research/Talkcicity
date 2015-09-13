@@ -1,0 +1,5 @@
+<article id="31587189" title=Talk:2012 World Men's Curling Championship>
+	<talkpage id="31587189" title="Talk:2012 World Men's Curling Championship">
+{{WikiProject Curling|class=start|importance=high}}
+	</talkpage>
+</article>

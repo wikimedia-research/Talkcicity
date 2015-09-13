@@ -1,0 +1,6 @@
+<article id="37596653" title=Talk:Colebrook Manor>
+	<talkpage id="37596653" title="Talk:Colebrook Manor">
+{{WikiProject National Register of Historic Places|class=stub|importance=low}}
+{{WikiProject Pennsylvania|class=Stub|importance=Low}}
+	</talkpage>
+</article>

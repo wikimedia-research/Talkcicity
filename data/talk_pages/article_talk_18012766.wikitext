@@ -1,0 +1,6 @@
+<article id="18012766" title=User talk:Memphis Reigne>
+	<talkpage id="18012766" title="User talk:Memphis Reigne">
+== June 2008 ==
+[[Image:Information.svg|25px]] Please refrain from introducing inappropriate pages{{#if:|, such as [[:{{{1}}}]],}} to Wikipedia. Doing so is not in accordance with our [[Wikipedia:List of policies|policies]]. For more information about creating articles, you may want to read [[Wikipedia:Your first article|Your first article]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-create2 --&gt; [[User:KnightLago|KnightLago]] ([[User talk:KnightLago|talk]]) 23:41, 18 June 2008 (UTC)
+	</talkpage>
+</article>

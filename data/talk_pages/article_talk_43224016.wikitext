@@ -1,0 +1,6 @@
+<article id="43224016" title=Talk:Sri Lanka at the 2014 Commonwealth Games>
+	<talkpage id="43224016" title="Talk:Sri Lanka at the 2014 Commonwealth Games">
+{{WikiProject Multi-sport events|class=start|importance=low}}
+{{WikiProject Sri Lanka|class=start|importance=low}}
+	</talkpage>
+</article>

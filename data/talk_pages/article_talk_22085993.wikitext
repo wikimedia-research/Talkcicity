@@ -1,0 +1,8 @@
+<article id="22085993" title=User talk:Paul J. Fujii>
+	<talkpage id="22085993" title="User talk:Paul J. Fujii">
+
+
+== March 2009 ==
+[[Image:Nuvola_apps_important.svg|25px]]  Hello, and [[Wikipedia:Introduction|welcome]] to Wikipedia! While we appreciate that you enjoy using Wikipedia, please note that Wikipedia is an [[encyclopedia]] and '''not''' a [[Wikipedia:What Wikipedia is not#SOCIALNET|social network]]. Wikipedia is not a place to socialize or do things that are not directly related to improving the encyclopedia{{#if:|, as you did at [[:{{{1}}}]]}}. Off-topic material may be deleted '''at any time'''. This message is not meant to discourage you from editing Wikipedia but rather to remind you that the ultimate goal of this website is to build an encyclopedia. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-socialnetwork --&gt; ''Please also take a look at [[WP:UP#NOT]].'' '''[[User:Kraftlos|&lt;span style='font-family:&quot;Tempus Sans ITC&quot;; color:#5342F'&gt;Kraftlos&lt;/span&gt;]]''' ''([[User talk:Kraftlos|Talk]] | [[Special:Contributions/Kraftlos|Contrib]])'' 07:10, 22 March 2009 (UTC)
+	</talkpage>
+</article>

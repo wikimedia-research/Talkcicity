@@ -1,0 +1,30 @@
+<article id="5623330" title=User talk:Mekkar>
+	<talkpage id="5623330" title="User talk:Mekkar">
+== Pierre Lacroix ==
+
+Legends of Hockey is wrong - the two Pierres Lacroix have different birthdates and birthplaces. [[User:BoojiBoy|BoojiBoy]] 12:58, 19 June 2006 (UTC)
+
+== Welcome! ==
+
+Hi there ''{{PAGENAME}}'' and welcome to Wikipedia! When you get a chance, drop us a note at [[Wikipedia:New user log]] to introduce yourself.
+
+You can sign your name on talk pages by using &lt;nowiki&gt;&quot; ~~~ &quot; for your username and &quot; ~~~~ &quot; for your username and a timestamp.&lt;/nowiki&gt;
+
+*[[Wikipedia:Welcome, newcomers|Welcome]] is a good place to start.
+*[[Wikipedia:Tutorial]] runs through all the basics.
+*[[Wikipedia:How does one edit a page]] gives editing help.
+*[[Wikipedia:Manual of Style]] gives formatting info.
+*[[Wikipedia:Policies and guidelines]] tell about the principles we operate on. It's important, but don't try to read it all now.
+*[[Wikipedia:Help]] covers a broad range of useful topics.
+*[[Wikipedia:Help desk]] is a place to ask questions.
+*[[Wikipedia:Show preview]] explains how to double-check your edits before saving.
+
+You should also feel free to drop me a question on my [[User Talk:Booksworm|talk page]]. I'll answer if I'm here.
+
+If you need help, put &lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt; on this page. A helper shall come along. If possible, please put what your problem on Wikipedia is.
+
+Happy Editing and Have Fun!
+
+[[user:Booksworm|Book]]&lt;font color=&quot;green&quot;&gt;[[Booksworm/Esperanza|s]]&lt;/font&gt;[[user:Booksworm|worm]] 13:30, 19 June 2006 (UTC)
+	</talkpage>
+</article>

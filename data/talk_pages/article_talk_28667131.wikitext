@@ -1,0 +1,10 @@
+<article id="28667131" title=Talk:Lepidophthalmus turneranus>
+	<talkpage id="28667131" title="Talk:Lepidophthalmus turneranus">
+{{WikiProject Arthropods|class=C|importance=low}}
+{{dyktalk|11 September|2010|entry=... that [[Cameroon]] is named after the [[crustacean]] '''''[[Lepidophthalmus turneranus]]''''' which Portuguese settlers observed swarming in the [[Wouri River]] in the 15th century?}}
+
+== Cameroon ==
+
+The German Wikipedia (article &quot;Kamerun&quot;) tells the story a bit different: First the river got its name from the Portuguese, then closeby hills (or mountains?) got the name from the river, then the German colonial authorities named a city after the river (today: Douala), and then the country got its name. Please check what is correct. [[Special:Contributions/192.38.121.229|192.38.121.229]] ([[User talk:192.38.121.229|talk]]) 17:35, 19 October 2014 (UTC)
+	</talkpage>
+</article>

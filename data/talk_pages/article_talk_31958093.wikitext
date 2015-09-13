@@ -1,0 +1,11 @@
+<article id="31958093" title=User talk:99.238.186.137>
+	<talkpage id="31958093" title="User talk:99.238.186.137">
+== June 2011 ==
+[[Image:Information.svg|25px|alt=|link=]] In a recent edit&amp;nbsp;to the page [[:Reliability of Wikipedia]], you changed one or more words from one international variety of English to another. Because Wikipedia has readers from all over the world, our policy is to [[Wikipedia:Manual of Style#National varieties of English|respect national varieties of English]] in Wikipedia articles.
+
+For a subject exclusively related to the United Kingdom (for example, a famous British person), use British English. For something related to the United States in the same way, use American English. For something related to another English-speaking country, such as Canada, Australia, or New Zealand, use the variety of English used there. For an international topic, use the form of English that the ''original'' author used.
+
+In view of that, please don't change articles from one version of English to another, even if you don't normally use the version in which the article is written. Respect other people's versions of English. They, in turn, should respect yours. Other general guidelines on how Wikipedia articles are written can be found in the [[Wikipedia:Manual of Style|Manual of Style]]. If you have any questions about this, you can ask me on my talk page or visit the [[Wikipedia:Help desk|help desk]]. Thank you. &lt;!-- Template:uw-lang --&gt; [[User:Df747jet|Df747jet]] ([[User talk:Df747jet|talk]]) 06:02, 2 June 2011 (UTC)
+:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
+	</talkpage>
+</article>

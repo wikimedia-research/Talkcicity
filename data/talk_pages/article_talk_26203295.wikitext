@@ -1,0 +1,5 @@
+<article id="26203295" title=Talk:Shotguns>
+	<talkpage id="26203295" title="Talk:Shotguns">
+{{WPGUNS|class=redirect}}
+	</talkpage>
+</article>

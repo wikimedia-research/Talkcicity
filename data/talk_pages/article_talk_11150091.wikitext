@@ -1,0 +1,6 @@
+<article id="11150091" title=User talk:76.25.33.37>
+	<talkpage id="11150091" title="User talk:76.25.33.37">
+== Your edit to [[Costa Rica]] == 
+*Please stop. If you continue to [[Wikipedia:Vandalism|vandalize]] pages, {{#if:{{{1|}}}|as you did {{#if:{{{diff|}}}|with [{{{diff}}} this edit]}} to [[:{{{1}}}]],|{{#if:{{{diff|}}}as you did with [{{{diff}}} this edit],}}}} you will be [[Wikipedia:Blocking policy|blocked]] from editing Wikipedia. &lt;!-- Template:Test3 (Third level warning) --&gt; &amp;mdash;'''[[User:MichaelLinnear| &lt;font face=&quot;Centaur Festive MT Italic&quot;&gt; &lt;font color=&quot;black&quot;&gt;Michael&lt;/font&gt;&lt;font color=&quot;red&quot;&gt;Linnear&lt;/font&gt;&lt;/font&gt;]]''' 05:10, 10 May 2007 (UTC)
+	</talkpage>
+</article>

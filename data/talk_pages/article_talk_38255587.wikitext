@@ -1,0 +1,6 @@
+<article id="38255587" title=Talk:Mont.>
+	<talkpage id="38255587" title="Talk:Mont.">
+{{Old AfD multi| date = 9 January 2013 (UTC) | result = '''no consensus''' | page = Mont. }}
+{{WikiProject Disambiguation}}
+	</talkpage>
+</article>

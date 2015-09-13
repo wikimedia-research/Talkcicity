@@ -1,0 +1,17 @@
+<article id="41593730" title=User talk:Spiritualbrunch>
+	<talkpage id="41593730" title="User talk:Spiritualbrunch">
+
+== Your submission at [[Wikipedia:Articles for creation|Articles for creation]]: [[Wikipedia talk:Articles for creation/Ed Weeks|Ed Weeks]] (January 9) ==
+&lt;div style=&quot;border:solid 1px #9accf6;background:#f1f9ff;padding:1em;padding-top:0.5em;padding-bottom:0.5em;width:20em;color:black;margin-bottom: 1.5em;margin-left: 1.5em;width: 90%;&quot;&gt; [[File:AFC-Logo_Decline.svg|50px|left]]Thank you for your recent submission to [[WP:AFC|Articles for Creation]]. Your article submission has been reviewed.  Unfortunately, it has not been accepted at this time. Please view your submission to see the comments left by the reviewer. You are welcome to edit the submission to address the issues raised, and resubmit if you feel they have been resolved.&lt;br&gt;&lt;br&gt;
+&lt;div class=&quot;plainlinks&quot;&gt;
+* If you would like to continue working on the submission, you can find it at {{#ifeq:Wikipedia talk:Articles for creation/Ed Weeks|¬|[[{{#ifeq:¬|¬|Wikipedia:Articles for creation/|{{#ifeq:{{{2}}}|||{{{2}}}/}}}}]]|[[Wikipedia talk:Articles for creation/Ed Weeks]]}}.
+* To edit the submission, click on the &quot;Edit&quot; tab at the top of the window.
+* If you need any assistance, you can ask for help at the [{{fullurl:Wikipedia:WikiProject_Articles_for_creation/Help_desk|action=edit&amp;section=new}} '''Articles for creation help desk'''], or on the &lt;span class=&quot;noprint plainlinks&quot;&gt;[{{fullurl:User_talk:Rankersbo|action=edit&amp;section=new reviewer's talk page]}}&lt;/span&gt;. Please remember to link to the submission!
+*You can also get [http://webchat.freenode.net/?channels=#wikipedia-en-help real-time chat help from experienced editors].
+:Thank you for your contributions to Wikipedia! [[User:Rankersbo|Rankersbo]] ([[User talk:Rankersbo|talk]]) 13:28, 9 January 2014 (UTC)&lt;/div&gt;&lt;!--Template:Afc decline--&gt;&lt;/div&gt;
+
+
+{{Wikipedia:Teahouse/Invitation | sign =  | message= I noticed your article was declined at Articles for Creation, and that can be disappointing. If you are wondering or curious about why your article submission was declined please post a question at the '''[[Wikipedia:WikiProject Articles for creation/Help desk|Articles for creation help desk]]'''. If you have any other questions about your editing experience, we'd love to help you at the '''[[Wikipedia:Teahouse|Teahouse]]''', a friendly space on Wikipedia where experienced editors lend a hand to help new editors like yourself! See you there! }}
+{{#ifeq:{{NAMESPACE}}|{{ns:3}}|[[Category:Wikipedians who have received a Teahouse invitation through AfC]]}}&lt;!-- Template:Teahouse_AfC_invitaiton --&gt;
+	</talkpage>
+</article>

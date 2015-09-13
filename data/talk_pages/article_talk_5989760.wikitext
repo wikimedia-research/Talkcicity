@@ -1,0 +1,14 @@
+<article id="5989760" title=Talk:Brazilian football match-fixing scandal>
+	<talkpage id="5989760" title="Talk:Brazilian football match-fixing scandal">
+{{WikiProject Brazil |sports=yes |class=stub |importance=low}}
+{{WikiProject Football |Brazil=yes |class=stub |importance=low}}
+
+
+==Why were no teams punished?==
+Seems strange. --[[User:Awiseman|Awiseman]] 18:46, 16 July 2006 (UTC)
+:It is not strange. The clubs did not participated of the match-fixing. Only the referees mentioned in the article and some betting websites did. [[User:Carioca|Carioca]] 18:56, 16 July 2006 (UTC)
+::It says they were paid by investors, I assumed they were investors of the clubs involved? If not, that should be clarified. --[[User:Awiseman|Awiseman]] 18:57, 16 July 2006 (UTC)
+:::No, they were not club investors. I clarified this in the article. [[User:Carioca|Carioca]] 19:36, 16 July 2006 (UTC)
+::::Thanks, but what did they invest in? The betting websites? What was in it for them?--[[User:Awiseman|Awiseman]] 01:59, 17 July 2006 (UTC)
+	</talkpage>
+</article>

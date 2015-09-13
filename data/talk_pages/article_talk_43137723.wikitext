@@ -1,0 +1,5 @@
+<article id="43137723" title=Talk:Haenkea zischkai>
+	<talkpage id="43137723" title="Talk:Haenkea zischkai">
+{{WikiProject Insects|class=stub|importance=low}}
+	</talkpage>
+</article>

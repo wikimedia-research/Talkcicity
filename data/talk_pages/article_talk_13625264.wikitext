@@ -1,0 +1,15 @@
+<article id="13625264" title=Talk:Bill White (comics)>
+	<talkpage id="13625264" title="Talk:Bill White (comics)">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=no
+|class=Stub
+|a&amp;e-work-group=yes
+|a&amp;e-priority=low
+|listas=White, Bill
+}}
+{{WikiProject Animation|class=Stub|importance=low|people=yes}}
+{{WikiProject Comics|Creators-work-group=yes|class=stub|importance=low|image=yes|US=yes}}
+}}
+	</talkpage>
+</article>

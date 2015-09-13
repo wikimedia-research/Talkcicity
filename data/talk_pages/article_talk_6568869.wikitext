@@ -1,0 +1,5 @@
+<article id="6568869" title=Talk:Butler, Kentucky>
+	<talkpage id="6568869" title="Talk:Butler, Kentucky">
+{{WikiProject United States|class=start|importance=low|KY=yes|KY-importance=low}}
+	</talkpage>
+</article>

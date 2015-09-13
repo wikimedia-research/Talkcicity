@@ -1,0 +1,20 @@
+<article id="24265386" title=Talk:Radovan Božin>
+	<talkpage id="24265386" title="Talk:Radovan Božin">
+{{WikiProjectBannerShell|1=
+{{WikiProject Water sports|class=Stub
+}}
+{{WikiProject Kayaking|class=Stub|importance=Mid
+|auto=yes
+}}
+{{WikiProject Biography|living=yes
+|class=Stub
+|auto=yes
+|listas=Bozin, Radovan
+|sports-work-group=yes
+|sports-priority=
+}}
+{{WikiProject Olympics|class=Stub|importance=|auto=yes}}
+| blp=yes
+}}
+	</talkpage>
+</article>

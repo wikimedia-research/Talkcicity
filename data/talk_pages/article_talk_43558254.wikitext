@@ -1,0 +1,10 @@
+<article id="43558254" title=Talk:List of state leaders in 1670>
+	<talkpage id="43558254" title="Talk:List of state leaders in 1670">
+{{WikiProjectBannerShell|1=
+{{WikiProject Leaders by year}}
+{{WikiProject Politics|class=list|importance=low}}
+{{WikiProject Lists|class=list|importance=low}}
+{{WikiProject Years|class=list|importance=low}}
+}}
+	</talkpage>
+</article>

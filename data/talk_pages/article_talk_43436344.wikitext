@@ -1,0 +1,7 @@
+<article id="43436344" title=User talk:74.192.47.131>
+	<talkpage id="43436344" title="User talk:74.192.47.131">
+== July 2014 ==
+[[Image:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Frosty|Frosty]]. I noticed that you recently removed some content from [[:Ricky Williams]]&amp;nbsp;without explaining why. In the future, it would be helpful to others if you described your changes to Wikipedia with an accurate [[Help:Edit summary|edit summary]]. If this was a mistake, don't worry; I restored the removed content. If you would like to experiment, please use the [[WP:Sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Frosty|my talk page]]. Thanks!&lt;!-- Template:uw-delete1 --&gt; [[Special:Contributions/Frosty|~]][[User:Frosty|&lt;span style=&quot;color:#0099FF;&quot; title=&quot;Me&quot;&gt;'''Frosty'''&lt;/span&gt;]] &lt;small&gt;&lt;small&gt;([[User talk:Frosty|&lt;span style=&quot;color:red;&quot; title=&quot;This is a talkpage I think&quot;&gt;Talk page&lt;/span&gt;]])&lt;/small&gt;&lt;/small&gt; 23:03, 30 July 2014 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

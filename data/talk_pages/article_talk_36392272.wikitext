@@ -1,0 +1,38 @@
+<article id="4678099" title=Talk:Lek mating>
+	<talkpage id="4678099" title="Talk:Lek mating">
+{{WikiProject Birds|importance=Mid|class=Start|needs-photo=yes}}
+
+==Comment==
+Needs explanation of Lekking in humans. &lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:71.213.92.196|71.213.92.196]] ([[User talk:71.213.92.196|talk]] • [[Special:Contributions/71.213.92.196|contribs]]) {{{2|}}}.&lt;/small&gt;&lt;!-- [Template:Unsigned] --&gt;
+
+:Havn't heard of any notable sociological theory comparing human mating to 'lekking'... [Desmond Morse] is a zoologist who compares human mating to various other animals, not sure how helpful that would be. &lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:70.29.1.188|70.29.1.188]] ([[User talk:70.29.1.188|talk]] • [[Special:Contributions/70.29.1.188|contribs]]) {{{2|}}}.&lt;/small&gt;&lt;!-- [Template:Unsigned] --&gt;
+
+::I'll attach one per request. --[[User:Sadi Carnot|Sadi Carnot]] 08:10, 2 February 2007 (UTC)
+
+==Image needed==
+This page needs a good bird lekking image, showing density distributions decreasing radially outward.  Anyone seen one some where.  If so show me and I'll make an image. Thanks: --[[User:Sadi Carnot|Sadi Carnot]] 17:27, 1 February 2007 (UTC)
+
+:I couldn't wait, so I made one based on data from about 5-8 sources. --[[User:Sadi Carnot|Sadi Carnot]] 06:11, 2 February 2007 (UTC)
+
+== Vandalism concerning female lekking and creation of terms ==
+
+I consulted this page in connection with other matters and stayed to do some minor editing. Then I noticed the claim that &quot;A lek when females come together to compete for males is called a mung (as in the yellow spotted millipede)&quot;. Revision as of 2008-07-25T21:27:22  by 86.26.101.142
+
+This was news to me, but so are most other biological facts, so I simply tried to find a citation for that term (going on for six years after the vandalism, but better late than never). The only citation I could find (apart from many copies by now, mainly in rubberstamp sites that retail Wikipedia material) was in a book from 2010 with the following address: &lt;ref name=&quot;MatthewsMatthews2010&quot;&gt;{{cite book|author1=Robert W. Matthews|author2=Janice R. Matthews|title=Insect Behavior|url=http://books.google.com/books?id=HVz2Wztita8C&amp;pg=PA364|accessdate=12 April 2013|year=2010|publisher=Springer|isbn=978-90-481-2389-6|pages=364–}}&lt;/ref&gt;
+
+It seems to be a popular book and for all I know might have many merits, but it also seems to have lifted that material straight from the Wikipedia article (without attribution of course). It mentions the claim as an item of trivia. 
+
+I then became suspicious of the claim concerning the yellow spotted millipede; I certainly have encountered large aggregations of millipedes mating, but I cannot remember having seen anything that seriously resembled female lekking. So I initiated some searches. I would be grateful to hear some serious and reliably cited material on the subject, but so far none of my own searches have yielded anything material. The female lekking behaviour of the yellow spotted millipede is occasionally mentioned in passing, but without citation or discussion, let alone first-hand description.
+
+Now, our position in Wikipedia involves many disturbing responsibilities. There is hardly a statement in Wikipedia that one cannot find mindlessly retailed in articles and sites that appear in search engine retrievals. It is accordingly very important to be alert for vandalism in our articles. Vandalism is harmful in multiple ways; it harms the image of Wikipedia, wastes time that could be better spent on more constructive activities, reduces the confidence with which one may consult reference material, and disseminates actual misinformation, most usually among technically innocent readers, but also among professionals who do not have the time to check on every detail. The silly little fart who perpetrated this particular nonsense betraying his own creation by using an abusive term that raised suspicions, and an implausible biological subject that did nothing to allay them. Note however that by now that particular rumour has gone public and I am uncertain what if anything to do about it; is anyone in a position to propose its elimination from that book, which someone else might cite in innocence?
+
+I would be grateful if anyone with material information on the mating habits of the yellow spotted millipede could inform us here or at that article. Unless someone has better ideas, I am inclined to add a note to the yellow spotted millipede article denying its lekking behaviour, but I think I shall delay that pending any alternative suggestions. 
+
+I also would be grateful for material examples, properly supported, preferably including citations, of female lekking in any species whatsoever. The concept is important, but to include it in the article we need sound information and sound verification. 
+[[User:JonRichfield|JonRichfield]] ([[User talk:JonRichfield|talk]]) 09:02, 12 April 2013 (UTC)
+: Dear [[User:JonRichfield|JonRichfield]]: Thank you for noticing the retailing of Wikipedia article's information. Also, thank you for fighting vandalism. Sorry I cannot help with the book. [[User:Geraldshields11|Geraldshields11]] ([[User talk:Geraldshields11|talk]]) 22:33, 19 November 2013 (UTC)
+::I have used a very powerful university search engine (Web of Science) to search for papers related to &quot;mung&quot;, &quot;millipede&quot;, &quot;lek&quot;, yellow spotted millipede&quot; or &quot;Harpaphe haydeniana&quot;.  There were no papers using the word &quot;mung&quot; in relation to this behaviour or animals, and no papers on female lekking in millipedes. Hope this helps.__[[User:DrChrissy|DrChrissy]] ([[User talk:DrChrissy|talk]]) 18:37, 20 November 2013 (UTC)
+@DrChrissy and Geraldshields11. Much thanks to both. I am happy to note that there has been no repetition of the vandalism in this case. I just wonder how many undetected cases remain elsewhere.  ;-(  [[User:JonRichfield|JonRichfield]] ([[User talk:JonRichfield|talk]]) 19:11, 20 November 2013 (UTC)
+{{Reflist talk|close=1}}
+	</talkpage>
+</article>

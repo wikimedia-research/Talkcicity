@@ -1,0 +1,6 @@
+<article id="28581118" title=Talk:Bardhaman Dakshin (Vidhan Sabha constituency)>
+	<talkpage id="28581118" title="Talk:Bardhaman Dakshin (Vidhan Sabha constituency)">
+{{WikiProject Elections and Referendums}}
+{{WikiProject India|class=stub|importance=low|politics=yes|politics-importance=low|bengal=yes|bengal-importance=low}}
+	</talkpage>
+</article>

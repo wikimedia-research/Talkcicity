@@ -1,0 +1,10 @@
+<article id="47355638" title=Talk:Rav, Kutch>
+	<talkpage id="47355638" title="Talk:Rav, Kutch">
+{{WikiProject India|class=stub
+|importance=low
+|gujarat=yes
+|gujarat-importance=low
+|geography=yes
+|geography-importance=low}}
+	</talkpage>
+</article>

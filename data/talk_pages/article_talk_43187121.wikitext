@@ -1,0 +1,5 @@
+<article id="43187121" title=Talk:Glen Aubrey Formation>
+	<talkpage id="43187121" title="Talk:Glen Aubrey Formation">
+{{WikiProject Geology|class=stub|importance=low}}
+	</talkpage>
+</article>

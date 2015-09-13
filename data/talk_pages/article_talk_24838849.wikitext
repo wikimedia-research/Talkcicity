@@ -1,0 +1,8 @@
+<article id="24838849" title=User talk:K S Elliott>
+	<talkpage id="24838849" title="User talk:K S Elliott">
+== October 2009 ==
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to contribute constructively to the encyclopedia, adding content without [[Wikipedia:Citing sources|citing]] a [[Wikipedia:Reliable sources|reliable source]], as you did to [[:Edward Smith]], is not consistent with our policy of [[Wikipedia:Verifiability|verifiability]]. Take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia.  If you are familiar with [[Wikipedia:Citing sources]], please take this opportunity to add references to the article. Thank you.&lt;!-- Template:uw-unsourced1 --&gt; ''[[User:Onebravemonkey|&lt;span style=&quot;color:#006400&quot;&gt;one&lt;/span&gt;]][[Special:Contributions/Onebravemonkey|&lt;span style=&quot;color:#8B0000&quot;&gt;brave&lt;/span&gt;]][[User talk:Onebravemonkey|&lt;span style=&quot;color:#8B4513&quot;&gt;monkey&lt;/span&gt;]]'' 09:08, 26 October 2009 (UTC)
+
+{{talkback|onebravemonkey}}
+	</talkpage>
+</article>

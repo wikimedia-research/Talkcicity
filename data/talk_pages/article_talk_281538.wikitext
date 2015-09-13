@@ -1,0 +1,15 @@
+<article id="281538" title=Talk:Akiak, Alaska>
+	<talkpage id="281538" title="Talk:Akiak, Alaska">
+{{WikiProject Alaska|class=start|importance=low}}
+
+Wondering how to edit this U.S. City Entry?&lt;br&gt;
+The [[Wikipedia:WikiProject Cities|WikiProject U.S. Cities]] standards might help.
+
+==Status of Article==
+This article is a very rough draft, and was not proof-read to a great degree.  I am currently working on getting the information from the [http://www.commerce.state.ak.us/dca/commdb/CF_CIS.htm State of Alaska's] community information database copied over for each community, at which point I will come back through and start editing.  If this message is still here, that means I have yet to come back.  Of course, please feel free to clean this up, hopefully to conform with the [[Wikipedia:WikiProject Cities|WikiProject_Cities]] standards (or at least, as well as can be done for Alaska's unique villages and towns).  Thanks!!  &amp;mdash;'''[[{{ns:2}}:AKGhetto|akghetto]]'''&amp;nbsp;&lt;sup&gt;[[User_talk:AKGhetto|talk]]&lt;/sup&gt; 07:39, 9 December 2005 (UTC)
+
+
+==This article is just a ripoff of a goverment website==
+It even bloody links to it! http://www.commerce.state.ak.us/dca/commdb/CIS.cfm?Comm_Boro_Name=Akiak --[[Special:Contributions/81.153.57.98|81.153.57.98]] ([[User talk:81.153.57.98|talk]]) 22:00, 30 June 2010 (UTC)
+	</talkpage>
+</article>

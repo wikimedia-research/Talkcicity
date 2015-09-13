@@ -1,0 +1,29 @@
+<article id="14602653" title=User talk:FlashUK1983>
+	<talkpage id="14602653" title="User talk:FlashUK1983">
+'''Welcome!'''
+
+Hello, FlashUK1983, and [[Wikipedia:Introduction|welcome]] to Wikipedia! Thank you for [[Special:Contributions/FlashUK1983|your contributions]]. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:How to edit a page|How to edit a page]] and [[Wikipedia:Article development|How to develop articles]]
+*[[Wikipedia:Your first article|How to create your first article]] (using the [[Wikipedia:Article wizard|Article Wizard]] if you wish)
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign]] your messages on [[Help:Using talk pages|discussion page]]s using four [[tilde]]s (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically insert your username and the date. If you need help, check out [[Wikipedia:Questions]], ask me on my talk page, or ask your question on this page and then place &lt;code&gt;&lt;nowiki&gt;{{help me}}&lt;/nowiki&gt;&lt;/code&gt; before the question. Again, welcome! &lt;!-- Template:Welcome --&gt; [[User:Criteria for speedy deletion|Criteria for speedy deletion]] ([[User talk:Criteria for speedy deletion|talk]]) 12:55, 11 February 2011 (UTC) 
+==Ruuma==
+[[Image:Nuvola apps important yellow.svg|left|48px|]]
+A '''[[Template:prod|proposed deletion]]''' template has been added to the article [[Ruuma]], suggesting that it be deleted according to the [[Wikipedia:Proposed deletion|proposed deletion]] process. All contributions are appreciated, but this article may not satisfy Wikipedia's [[Wikipedia:Criteria for inclusion|criteria for inclusion]], and the deletion notice should explain why (see also &quot;[[Wikipedia:What Wikipedia is not|What Wikipedia is not]]&quot; and [[Wikipedia:Deletion policy|Wikipedia's deletion policy]]).  You may prevent the proposed deletion by removing the &lt;code&gt;&lt;nowiki&gt;{{dated prod}}&lt;/nowiki&gt;&lt;/code&gt; notice, but please explain why you disagree with the proposed deletion in your edit summary or on [[Talk:Ruuma|its talk page]]. Also, please consider improving the article to address the issues raised. Even though removing the deletion notice will prevent deletion through the [[WP:PROD|proposed deletion process]], the article may still be deleted if it matches any of the [[Wikipedia:Criteria for speedy deletion|speedy deletion criteria]] or it can be sent to [[Wikipedia:Articles for deletion|Articles for Deletion]], where it may be deleted if [[Wikipedia:Consensus|consensus]] to delete is reached. If you agree with the deletion of the article, and you are the only person who has made substantial edits to the page, please add {{tl|db-author}} to the top of [[Ruuma]]. &lt;!-- Template:PRODWarning --&gt; [[User:Marasmusine|Marasmusine]] ([[User talk:Marasmusine|talk]]) 17:36, 7 December 2007 (UTC)
+==AfD nomination of [[Lexx planets]]==
+[[Image:Nuvola apps important.svg|48px|left]]An article that you have been involved in editing, [[Lexx planets]], has been listed for [[Wikipedia:Deletion policy|deletion]].  If you are interested in the deletion discussion, please participate by adding your comments at [[Wikipedia:Articles for deletion/Lexx planets]].  Thank you.&lt;!-- Template:adw --&gt; [[User:BJBot|BJBot]] ([[User talk:BJBot|talk]]) 17:18, 30 December 2007 (UTC)
+
+==[[Wikipedia:Criteria for speedy deletion|Speedy deletion]] nomination of [[:SentUAMessage]]==
+[[Image:Ambox warning pn.svg|48px|left|alt=|link=]]
+
+A tag has been placed on [[:SentUAMessage]], requesting that it be speedily deleted from Wikipedia. This has been done for the following reason:
+
+&lt;center&gt;''no reason given''&lt;/center&gt;
+
+Under the [[WP:CSD#General_criteria|criteria for speedy deletion]], articles that do not meet basic Wikipedia criteria may be deleted at any time. 
+
+If you think that this notice was placed here in error, you may contest the deletion by adding {{tlc|hang on}} to '''the top of [[:SentUAMessage|the page that has been nominated for deletion]]''' (just below the existing speedy deletion, or &quot;db&quot;, tag; if no such tag exists, then the page is no longer a speedy delete candidate and adding a hang-on tag is unnecessary), coupled with adding a note on '''[[Talk:SentUAMessage|the talk page]]''' explaining your position, but be aware that once tagged for ''speedy'' deletion, if the page meets the criterion, it may be deleted without delay. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the page that would render it more in conformance with Wikipedia's policies and guidelines. If the page is deleted, you can contact [[:Category:Wikipedia administrators who will provide copies of deleted articles|one of these administrators]] to request that the administrator [[Wikipedia:Userfication#Userfication_of_deleted_content|userfy]] the page or email a copy to you. &lt;!-- Template:db-warn --&gt; [[User:Criteria for speedy deletion|Criteria for speedy deletion]] ([[User talk:Criteria for speedy deletion|talk]]) 12:55, 11 February 2011 (UTC)
+	</talkpage>
+</article>

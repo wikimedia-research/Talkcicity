@@ -1,0 +1,12 @@
+<article id="23582003" title=Talk:Cable (American band)>
+	<talkpage id="23582003" title="Talk:Cable (American band)">
+{{WPBiography
+|living=yes
+|class=Start
+|musician-work-group=yes
+|listas=Cable
+}}
+
+{{WikiProject Metal|class=start}}
+	</talkpage>
+</article>

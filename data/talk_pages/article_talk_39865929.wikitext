@@ -1,0 +1,5 @@
+<article id="39865929" title=Talk:Abbès>
+	<talkpage id="39865929" title="Talk:Abbès">
+{{WikiProject Anthroponymy|class=List|importance=NA}}
+	</talkpage>
+</article>

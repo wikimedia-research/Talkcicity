@@ -1,0 +1,23 @@
+<article id="23716923" title=User talk:Jvhemert>
+	<talkpage id="23716923" title="User talk:Jvhemert">
+'''Welcome!'''
+
+Hello, {{BASEPAGENAME}}, and [[Wikipedia:Introduction|welcome]] to Wikipedia! Thank you for [[Special:Contributions/{{BASEPAGENAME}}|your contributions]]{{#if:|, especially what you did for [[:{{{art}}}]]}}. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Wikipedia:Article development|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign]] your messages on [[Wikipedia:talk page|discussion page]]s using four [[tilde]]s (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically insert your username and the date. If you need help, check out [[Wikipedia:Questions]], ask me on {{#if:|[[user talk:{{{1}}}|my talk page]]|my talk page}}, or ask your question on this page and then place &lt;code&gt;&lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt;&lt;/code&gt; before the question. Again, welcome! &lt;!-- Template:Welcome --&gt; [[User:Jonathan Oldenbuck|Jonathan Oldenbuck]] ([[User talk:Jonathan Oldenbuck|talk]]) 14:48, 23 July 2009 (UTC)
+
+==Jano van Hemert==
+[[Image:Information.svg|25px]] If you have a close connection to some of the people, places or things you have written about {{#if:Jano van Hemert|in the article [[Jano van Hemert]]|on Wikipedia}}, you may have a [[Wikipedia:Conflict of interest|conflict of interest]].  In keeping with Wikipedia's [[Wikipedia:Neutral point of view|neutral point of view]] policy, edits where there is a conflict of interest, or where such a conflict might reasonably be inferred from the tone of the edit and the proximity of the editor to the subject, are strongly discouraged. If you have a conflict of interest, you should '''avoid''' or '''exercise great caution''' when:
+#'''editing''' or '''creating''' articles related to you, your organization, or its competitors, as well as projects and products they are involved with;
+#'''participating''' in [[Wikipedia:Deletion policy#Deletion_processes|deletion discussions]] about articles related to your organization or its competitors; and
+# '''linking''' to the Wikipedia article or website of your organization in other articles (see [[Wikipedia:Spam]]).
+
+Please familiarize yourself with relevant policies and guidelines, especially those pertaining to [[Wikipedia:Neutral point of view|neutral point of view]], [[Wikipedia:Verifiability|verifiability of information]], and [[Wikipedia:Autobiography|autobiographies]].
+
+For information on how to contribute to Wikipedia when you have conflict of interest, please see [[Wikipedia:FAQ/Organizations|our frequently asked questions for organizations]]. For more details about what, exactly, constitutes a conflict of interest, please see [[Wikipedia:Conflict of Interest|our conflict of interest guidelines]].  {{#if:|{{{2}}}|Thank you.}}[[Category:User talk pages with conflict of interest notices||{{PAGENAME}}]]&lt;!-- Template:uw-coi --&gt;  [[User:Jonathan Oldenbuck|Jonathan Oldenbuck]] ([[User talk:Jonathan Oldenbuck|talk]]) 14:48, 23 July 2009 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="8835996" title=Talk:Panola, Oklahoma>
+	<talkpage id="8835996" title="Talk:Panola, Oklahoma">
+{{WikiProject_Oklahoma|class=Stub|importance=Low}}
+	</talkpage>
+</article>

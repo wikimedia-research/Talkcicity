@@ -1,0 +1,15 @@
+<article id="18978365" title=Talk:Jean-Marc Nobilo>
+	<talkpage id="18978365" title="Talk:Jean-Marc Nobilo">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|sports-work-group=yes
+|listas=Nobilo, Jean-Marc
+}}
+{{WikiProject France}}
+{{WikiProject Football|class=Stub|importance=|France=yes}}
+| blp=yes
+}}
+	</talkpage>
+</article>

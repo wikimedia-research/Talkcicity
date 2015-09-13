@@ -1,0 +1,13 @@
+<article id="42552183" title=User talk:Roshanastrologer>
+	<talkpage id="42552183" title="User talk:Roshanastrologer">
+
+==[[Wikipedia:Criteria for speedy deletion|Speedy deletion]] nomination of [[:User:Roshanastrologer/sandbox]]==
+[[Image:Ambox warning pn.svg|48px|left|alt=|link=]]
+{{Quote box|quote=&lt;p&gt;If this is the first article that you have created, you may want to read [[WP:Your first article|the guide to writing your first article]].&lt;/p&gt;&lt;p&gt;You may want to consider using the [[Wikipedia:Article wizard|Article Wizard]] to help you create articles.&lt;/p&gt;|width=20%|align=right}}
+A tag has been placed on [[:User:Roshanastrologer/sandbox]], requesting that it be speedily deleted from Wikipedia. This has been done under [[WP:CSD#G11|section G11 of the criteria for speedy deletion]], because the page seems to be unambiguous advertising which only promotes a company, product, group, service or person and would need to be fundamentally rewritten in order to become encyclopedic. Please read [[Wikipedia:Spam|the guidelines on spam]] and [[Wikipedia:FAQ/Organizations]] for more information. 
+
+If you think this page should not be deleted for this reason, you may '''contest the nomination''' by [[:User:Roshanastrologer/sandbox|visiting the page]] and clicking the button labelled &quot;Click here to contest this speedy deletion&quot;. This will give you the opportunity to explain why you believe the page should not be deleted. However, be aware that once a page is tagged for speedy deletion, it may be removed without delay. Please do not remove the speedy deletion tag from the page yourself, but do not hesitate to add information in line with [[Wikipedia:List of policies|Wikipedia's policies and guidelines]]. If the page is deleted, and you wish to retrieve the deleted material for future reference or improvement, you can place a request [[WP:RFUD|here]]. &lt;!-- Template:Db-spam-notice --&gt; &lt;!-- Template:Db-csd-notice-custom --&gt; [[User:Excirial|&lt;font color=&quot;191970&quot;&gt;'''Excirial'''&lt;/font&gt;]]&lt;sup&gt; ([[User talk:Excirial|&lt;font color=&quot;FF8C00&quot;&gt;Contact me&lt;/font&gt;]],[[Special:Contributions/Excirial|&lt;font color=&quot;FF8C00&quot;&gt;Contribs&lt;/font&gt;]])&lt;/sup&gt; 06:31, 22 April 2014 (UTC)
+
+*I have deleted your user page for the same reason. Wikipedia is not for [[WP:SPAM|advertising]] or [[WP:SOAP|promotion]] of any kind. [[User:JohnCD|JohnCD]] ([[User talk:JohnCD|talk]]) 13:03, 22 April 2014 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,37 @@
+<article id="13433645" title=Talk:Baldwin's rules>
+	<talkpage id="13433645" title="Talk:Baldwin's rules">
+{{Chemistry|class=Start|importance=Mid}}
+
+
+&lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Walkerma|Walkerma]] ([[User talk:Walkerma|talk]] • [[Special:Contributions/Walkerma|contribs]]) 06:46, 13 January 2008 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+* exceptions to the rule: Cations often disobey Baldwin´s rule and reaction where a second-row atoms (eg. S) are included in the ring.
+
+* That 5-endo-trig is disfavoured is often a big surprise...!
+[[User:Christian75|ChristianB]] 17:42, 25 September 2007 (UTC)
+
+
+Why not expand the article with this information, interesting stuff! [[User:V8rik|V8rik]] 21:07, 25 September 2007 (UTC)
+
+
+----
+
+The &quot;✓&quot; characters in the Table are not showing well; use a more standard symbol? [[User:Pgpotvin|Pgpotvin]] ([[User talk:Pgpotvin|talk]]) 04:17, 26 January 2009 (UTC)
+* I have fixed the problem, in my browser tables look the way they should look [[User:V8rik|V8rik]] ([[User talk:V8rik|talk]]) 19:45, 20 May 2010 (UTC)
+
+I'm currently looking at the very first illustration on the article, especially the example showing the &quot;6-endo-tet&quot; ring closure. From Anslyn's and Dougherty's ''Modern Physical Organic Chemistry'', chapter 10, I would expect such a reaction is be a paradox. If a bond breaks from a tetragonal carbon, how can such bond remain inside the ring? I would call the reaction &quot;6-exo-tet&quot;.
+
+[[Special:Contributions/80.71.133.199|80.71.133.199]] ([[User talk:80.71.133.199|talk]]) 13:23, 25 June 2014 (UTC)Nicolaj Andersen
+
+:Yes, I agree. I think it's exo too. Chris  &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/137.222.42.105|137.222.42.105]] ([[User talk:137.222.42.105|talk]]) 12:10, 30 January 2015 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Correction suggestion ==
+
+The 6-endo-tet illustration has one curly arrow in the wrong place, it actually depicts 6-exo-tet now. A 6-endo-tet process would involve cleavage of other bond in the cyclopropane and formation of a 7-membered ring. [[Special:Contributions/79.100.250.119|79.100.250.119]] ([[User talk:79.100.250.119|talk]]) 22:06, 12 February 2015 (UTC)
+
+== Another Minor Correction suggestion ==
+
+The last diagram in the &quot;Applications&quot; section does arrow pushing from a completely irrelevant methalene carbon instead of starting both arrows at the lone pair of the BOC protected nitrogen group where the actual nucleophilic attack is occurring from. [[Special:Contributions/149.155.222.31|149.155.222.31]] ([[User talk:149.155.222.31|talk]]) 12:03, 30 April 2015 (UTC)
+:I just uploaded a replacement image. Does it look correct now? [[User:DMacks|DMacks]] ([[User talk:DMacks|talk]]) 15:52, 30 April 2015 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,12 @@
+<article id="47012710" title=Talk:QV68>
+	<talkpage id="47012710" title="Talk:QV68">
+{{WikiProjectBannerShell|1=
+{{WikiProject Architecture|class=stub|importance=low}}
+{{WikiProject Ancient Egypt|class=stub
+|importance=low
+|religion=yes
+|religion-importance=low}}
+{{WikiProject Death|class=stub|importance=low}}
+}}
+	</talkpage>
+</article>

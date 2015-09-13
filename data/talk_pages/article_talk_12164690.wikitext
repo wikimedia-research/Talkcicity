@@ -1,0 +1,64 @@
+<article id="12164690" title=User talk:Dandman22>
+	<talkpage id="12164690" title="User talk:Dandman22">
+{| width=&quot;100%&quot; style=&quot;background:transparent&quot;
+{| width=&quot;100%&quot; style=&quot;background-color:#F5FFFA&quot;
+|style=&quot;width: 50%; border:1px solid #084080; background-color:#F5FFFA; vertical-align:top&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;2&quot; style=&quot;vertical-align:top; background-color:#F5FFFA&quot;
+| &lt;div style=&quot;margin: 0; background-color:#CEF2E0; font-family: sans-serif; border:1px solid #084080; text-align:left; color:black; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;&lt;p&gt;Hello Dandman22, and '''''[[Wikipedia:Welcoming committee/Welcome to Wikipedia|Welcome to Wikipedia!]]'''''&lt;/p&gt;
+&lt;p&gt;Please remember to [[Wikipedia:Sign your posts on talk pages|sign your name on talk pages]] by clicking [[Image:Signature icon.png]] or using four tildes &lt;nowiki&gt;(~~~~)&lt;/nowiki&gt;; this will automatically produce your name and the date. Also, please do your best to always fill in the [[m:Help:Edit summary|edit summary field]]. Below are some useful links to facilitate your involvement.&lt;/p&gt;
+&lt;p&gt;Happy editing! [[User:VK35|&lt;span style=&quot;margin:0;text-align:left;color:#990066;font-size:80%;font-family:Tahoma;font-weight:bold;padding:0.2em 0.4em&quot;&gt;VK35&lt;/span&gt;]] 15:24, 9 July 2007 (UTC)&lt;/p&gt;
+|}
+{| width=&quot;100%&quot; style=&quot;background-color:#F5FFFA&quot;
+|style=&quot;width: 50%; border:0; background-color:#F5FFFA; vertical-align:top&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;2&quot; style=&quot;vertical-align:top; background-color:#F5FFFA;&quot;
+|-
+! &lt;div style=&quot;margin: 0; background-color:#E2F9ED; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:black; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Getting started&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Introduction|Introduction]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Wikipedia:How to edit a page|How to edit a page]]
+|-
+! &lt;div style=&quot;margin: 0; background:#E2F9ED; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:black; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Finding your way around&lt;/div&gt;
+|-
+| style=&quot;color:#000&quot;|
+* [[Wikipedia:Contents|Table of contents]]
+* [[Wikipedia:Department directory|Department directory]]
+|-
+! &lt;div style=&quot;margin: 0; background-color:#E2F9ED; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:black; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Editing articles&lt;/div&gt;
+|-
+| style=&quot;color:#000&quot;|
+* [[Wikipedia:Article development#How to develop an article|How to develop an article]]
+* [[Wikipedia:Manual of Style|Manual of Style]]
+|-
+|}
+|style=&quot;width: 50%; border:0; background-color:#F5FFFA; vertical-align:top&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;2&quot; style=&quot;vertical-align:top; background-color:#F5FFFA&quot;
+! &lt;div style=&quot;margin: 0; background-color:#E2F9ED; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:black; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Getting help&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Overview FAQ|Frequently asked questions]]
+* [[Wikipedia:Cheatsheet|Cheatsheet]]
+* [[Wikipedia:Questions|Where to ask a question]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:New contributors' help page|New contributors' help page]]
+|-
+! &lt;div style=&quot;margin: 0; background-color:#E2F9ED; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:black; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;How you can help&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Contributing to Wikipedia|Contributing to Wikipedia]]
+* [[Wikipedia:Community Portal|Community Portal]]
+* Follow [[Wikipedia:Etiquette|Wikipedia etiquette]]
+* Practice [[Wikipedia:Civility|civility]]
+|-
+|}
+|}
+|}
+|}[[User:VK35|&lt;span style=&quot;margin:0;text-align:left;color:#990066;font-size:80%;font-family:Tahoma;font-weight:bold;padding:0.2em 0.4em&quot;&gt;VK35&lt;/span&gt;]] 15:24, 9 July 2007 (UTC)
+----
+{{{icon|[[Image:Information.svg|25px]] }}}[[Wikipedia:Introduction|Welcome]] to Wikipedia. Please do not remove [[Wikipedia:Speedy deletions|speedy deletion]] tags from articles that you have created yourself{{#if:Gleann na Laoí|, as you did with [[:Gleann na Laoí]]}}. If you do not believe the article should be deleted, then please place  {{[[Template:hangon|hangon]]}} on the page (please do not remove any existing speedy deletion tag) and make your case on the article's {{#if:Gleann na Laoí|[[Talk:Gleann na Laoí|talk page]]|talk page}}. Administrators will look at your reasoning before deciding what to do with the article. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-speedy1 --&gt;--[[User:Kelapstick|Kelapstick]] 16:56, 9 July 2007 (UTC)
+
+== May 2008 ==
+[[Image:Information.svg|25px]] Please do not introduce incorrect information into articles{{#if:San Marino|, as you did to [[:San Marino]]}}.  Your edits appear to be [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]].  If you believe the information you added was correct, please [[Wikipedia:Citing sources|cite references or sources]] or discuss the changes on the article's [[Wikipedia:Talk page guidelines|talk page]] before making them again.  If you would like to experiment, use the [[Wikipedia:Sandbox|sandbox]]. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-error2 --&gt; [[User:Ninetyone|ninety]]:[[User talk:Ninetyone|one]] 12:29, 24 May 2008 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="33043654" title=Talk:Lawn bowling>
+	<talkpage id="33043654" title="Talk:Lawn bowling">
+{{WikiProject Sports|class=redirect}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="28739539" title=Talk:KOO-VEE (ice hockey)>
+	<talkpage id="28739539" title="Talk:KOO-VEE (ice hockey)">
+{{ice hockey|class=Stub}}
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="19143459" title=Talk:Van den Bergh (crater)>
+	<talkpage id="19143459" title="Talk:Van den Bergh (crater)">
+{{WikiProject Solar System|class=start|importance=low|Moon=yes|Moon-importance=low}}
+{{WikiProject Astronomy|class=start|importance=low}}
+	</talkpage>
+</article>

@@ -1,0 +1,68 @@
+<article id="2149392" title=Talk:Waterproofing>
+	<talkpage id="2149392" title="Talk:Waterproofing">
+{{WikiProject Technology|class=Start|importance=low}}
+
+== Advertising? ==
+I'm not an editor, but the section &quot; a new technology enabled the release of diverse water-resistant smartphones and tablets in 2013. [4] The method is based on a special nano-technology coded to be a thousand times thinner than a human hair, that prevents water damage in electronics. [5] &quot; and the footnote seem somewhat out of character for wikipedia. &quot;a special nano-technology coded...&quot; does not sound factual to me ('coded'?!), sounds like marketing-speak.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/2.120.166.168|2.120.166.168]] ([[User talk:2.120.166.168|talk]]) 21:33, 26 October 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+
+
+For a June 2005 deletion debate over this page see [[Wikipedia:Votes for deletion/Waterproofing]]
+----
+== Copyvio section removed ==
+
+The basement waterproofing section removed was found at http://www.regionalwaterproofing.com/content.php?page=basement_waterproofing_nc 
+[[User:ChemGardener|ChemGardener]] 23:31, 1 August 2007 (UTC)
+
+== Editing changes ==
+
+Explaining a number of changes, mostly minor.
+
+Generally, this article could use more information outside the situation in the current Western construction industry. The attempts to work in waterproofing boats, clothing and paper are well-intentioned, but somewhat confuse the text (as it stands) and need more in-depth treatment. Additional text should be added to explain the important situations when water-proofing or resistance does work one direction, but not the other (Gore Tex, etc.) A short section, at least, on waterproofing in history would also be useful (The dampness coming through stones of castle walls, the use of oils to seal clothing, etc.)
+
+::I like the historical context idea too. [[User:Risssa|Risssa]] ([[User talk:Risssa|talk]]) 01:55, 15 February 2014 (UTC)
+
+* Simplified opening paragraph, which previously was defining similar concepts, but in different and contradictory ways.  (&quot;unaffected by water&quot; vs. &quot;does not let water in&quot; vs. &quot;prevents water passage under pressure&quot;)  (&quot;wet&quot; vs. &quot;water&quot; vs. &quot;water vapor&quot;)
+
+::Doesn't &quot;ingress&quot; mean &quot;leaking&quot;?  I still had trouble reading that first paragraph. [[User:Risssa|Risssa]] ([[User talk:Risssa|talk]]) 01:55, 15 February 2014 (UTC)
+
+* Removes &quot;/&quot;s, which are both unclear and contrary to style. (&quot;milk/juice cartons&quot;)
+
+* Replaces a few unnecessarily explicit (but unsupported) statements, such as &quot;waterproofing is most commonly used&quot; and &quot;never be so perfectly placed&quot;.
+
+* Modifies a few statements implying that waterproofing only works one direction.
+
+[[User:Alpha Ralpha Boulevard|Alpha Ralpha Boulevard]] ([[User talk:Alpha Ralpha Boulevard|talk]]) 12:42, 27 April 2008 (UTC)
+
+== Waterproof ==
+
+We should move the page to 'Waterproof'. It just makes more sens. Why is it 'Waterproofing'?
+
+[[User:DineshAdv|DineshAdv]] ([[User talk:DineshAdv|talk]]) 21:37, 13 June 2008 (UTC)
+
+:I've no strong inclinations, but since I made a couple of small changes recently, am more likely to see this in a timely way, and so that there might be some kind of action on your comment...
+ 
+:Waterproofing is a process whereby something that is not water tight is altered so that it is. Waterproofing can be expensive, can be ineffective, usually breaks down over time. Significant cost and effort may be involved. On the other hand, some things are just inherently waterproof (impermeable, as in a rock stratum that produces a cave.) Some manmade things are waterproof -- even though that may be accidental or incidental. So there might be both a Wiki page &quot;Waterproof&quot; (an adjective) and &quot;Waterproofing&quot; (a verb). The &quot;Waterproof&quot; page a Wiki article a geologist or a chemist or an archeologist would like to write? That's all I can really think of.
+
+:[[User:Alpha Ralpha Boulevard|Alpha Ralpha Boulevard]] ([[User talk:Alpha Ralpha Boulevard|talk]]) 07:51, 2 July 2008 (UTC)
+
+
+:I agree with Alpha Ralpha - Waterproof is a quality, waterproofing is an action or process.
+
+:[[User:Vikesfan667|Vikesfan667]] ([[User talk:Vikesfan667|talk]]) 15:31, 8 August 2008 (UTC)
+
+== Not Waterproof ==
+
+The terminology is suspect.   water-proof is an absolute term that technically does not exist.  There are degrees of water resistance but nothing is absolutely waterproof. Perhaps we should change the title. [[User:Pkgx|Pkgx]] ([[User talk:Pkgx|talk]]) 15:59, 21 May 2010 (UTC)
+:The article (thought it needs references) explains this. &quot;Waterproof&quot; is a term that is used, even if it is not truly accurate. [[User:VQuakr|VQuakr]] ([[User talk:VQuakr|talk]]) 07:49, 21 September 2011 (UTC)
+
+==Koster Waterproofing Hyperlinks - Company Advertising==
+Someone hyperlinked a bunch of words to some company selling basement waterproofing products.  I believed this was inappropriate and removed them.  Was this incorrect?  I am under the impression that Wikipedia generally does not advertise or endorse companies on articles.  Some feedback on this would be appreciated.  --[[Special:Contributions/67.84.8.225|67.84.8.225]] ([[User talk:67.84.8.225|talk]]) 07:19, 21 September 2011 (UTC)
+:Correct, thanks for reverting! [[User:VQuakr|VQuakr]] ([[User talk:VQuakr|talk]]) 07:49, 21 September 2011 (UTC)
+
+== References ==
+
+Hello all,
+I just came across this article and I think both references on it are irrelevant. Not only are they in Portuguese, but they simply talk about a lost camera that crossed the Pacific and was found 6 years later. I believe the references should be more technical, about either how the technology works, or which types of products are waterproof nowadays. What do you think? Should I remove them? Cheers, [[User:Zalunardo8|Zalunardo8]] ([[User talk:Zalunardo8|talk]]) 13:23, 14 May 2013 (UTC)
+	</talkpage>
+</article>

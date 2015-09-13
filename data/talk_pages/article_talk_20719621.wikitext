@@ -1,0 +1,5 @@
+<article id="20719621" title=User talk:154.5.46.103>
+	<talkpage id="20719621" title="User talk:154.5.46.103">
+[[Image:Information.svg|25px]] Thank you for your contribution{{#if:Louis-Joseph Papineau|&amp;#32;to [[:Louis-Joseph Papineau]]}}, but we are trying to [[Wikipedia:Wikipedia is an encyclopedia|write an encyclopedia]] here, so please keep your edits [[Wikipedia:Verifiability|factual]] and [[Wikipedia:Neutral point of view|neutral]]. Our readers are looking for serious articles and will not find joke edits amusing. Remember, millions of people read Wikipedia, so we have to take what we do here seriously. If you'd like to experiment with editing, use the [[Wikipedia:Sandbox|sandbox]] to get started. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-joke2 --&gt; [[User:Dl2000|Dl2000]] ([[User talk:Dl2000|talk]]) 03:01, 16 December 2008 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,10 @@
+<article id="42111924" title=Talk:Omo Osaghae>
+	<talkpage id="42111924" title="Talk:Omo Osaghae">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=yes|class=start|sports-work-group=yes|sports-priority=low|listas=Osaghae, Omo}}
+{{WikiProject Athletics|class=start|importance=low}}
+{{WikiProject Running|class=start|importance=low}}
+| blp=yes
+}}
+	</talkpage>
+</article>

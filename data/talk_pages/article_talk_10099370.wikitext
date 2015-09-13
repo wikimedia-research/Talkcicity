@@ -1,0 +1,6 @@
+<article id="10099370" title=Talk:Pietro Andrea Mattioli>
+	<talkpage id="10099370" title="Talk:Pietro Andrea Mattioli">
+{{WikiProject Plants|class=stub|importance=low|botanist=yes}}
+{{WikiProject Biography|living=no|class=stub|s&amp;a-work-group=yes|listas=Mattioli}}
+	</talkpage>
+</article>

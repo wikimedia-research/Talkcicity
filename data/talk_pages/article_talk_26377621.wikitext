@@ -1,0 +1,550 @@
+<article id="26377621" title=User talk:Ruhrfisch/Archive 28>
+	<talkpage id="26377621" title="User talk:Ruhrfisch/Archive 28">
+{{administrator|4}}
+{{talkarchive}}{{noindex}}
+{{User:Ruhrfisch/archivebox}}
+{{Wikipedia:Peer review/PRbox}}
+
+'''Welcome''' to my talk page. Please leave me a message below and I will reply on your talk page. Although my email address is enabled, it is not an address I check often (so I may be slow in replying to email and prefer to have conversations here). Please also note that while I am glad to do a peer review on just about any article, I do not usually have the time to do copyedits (sorry). Thanks for stopping by and happy editing! [[User:Ruhrfisch|Ruhrfisch]]  '''[[User talk:Ruhrfisch|&lt;sub&gt;&lt;font color=&quot;green&quot;&gt;&amp;gt;&amp;lt;&amp;gt;&lt;/font&gt;&lt;/sub&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;sup&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;/sup&gt;]]''' 00:01, 1 March 2010 (UTC)
+
+==Award==
+{| style=&quot;border: 1px solid {{{border|gray}}}; background-color: {{{color|#fdffe7}}};&quot;
+|rowspan=&quot;2&quot; valign=&quot;top&quot; | [[File:Matissedance.jpg|200px]]
+|rowspan=&quot;2&quot; |
+|style=&quot;font-size: x-large; padding: 0; vertical-align: bottom; height: 1.1em;&quot; | '''The Barnstar of Invaluableness'''
+|-
+|style=&quot;vertical-align: top; border-top: 1px solid gray;&quot; | For the quality and sheer amount of work  you have given over the last years, and for being one of the most highly thought of and appreciated expendable cogs this project has yet to chew up and spit out, I award..... [[User:Ceoil|&lt;font color=&quot;green&quot;&gt;Ceoil&lt;/font&gt;]] &lt;sup&gt;[[User talk:Ceoil|&lt;font color=&quot;E45E05&quot;&gt;sláinte&lt;/font&gt;]]&lt;/sup&gt; 00:13, 1 March 2010 (UTC)
+|}
+
+==[[Tchaikovsky and the Belyayev circle]] promoted to FA==
+Just thought you'd like to know. I really appreciate everything you've done for this article. [[User:Jonyungk|Jonyungk]] ([[User talk:Jonyungk|talk]]) 02:21, 1 March 2010 (UTC)
+
+== Poll ==
+Many thanks. You were the first and only person to complete the course :) '''[[User:YellowMonkey|&lt;font color=&quot;GoldenRod&quot;&gt;YellowMonkey&lt;/font&gt;]]'''  (''[[User_talk:YellowMonkey#Photo_poll|&lt;font color=&quot;#FA8605&quot;&gt;vote in the Southern Stars and White Ferns supermodel photo poll]]''&lt;/font&gt;)  07:48, 1 March 2010 (UTC)
+
+==Cities==
+Do we now take the cities out of the PA state park geoboxes? If the vote's yes, I nominate myself to do it. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 03:37, 2 March 2010 (UTC)
+:Okay. Now I have a project to do that may inspire me to do more. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 20:46, 2 March 2010 (UTC)
+
+== Thank you! ==
+
+{| style=&quot;border:2px ; background-color: #4997D0;&quot;
+|rowspan=&quot;2&quot; valign=&quot;middle&quot; | [[File:Alpha Capricorni.jpg |100px]]
+|rowspan=&quot;2&quot; |
+|style=&quot;font-size: x-large; padding: 2; vertical-align: middle; height: 1.1em;&quot; | '''Thank You'''
+|-
+|style=&quot;vertical-align: middle; border-top: 1px solid gray;&quot; | For your excellent and wonderful contributions at [[Wikipedia:Featured Article Candidates]] during the month of February 2010, you're truly a star! [[User:Ealdgyth|Ealdgyth]] - [[User talk:Ealdgyth|Talk]] 15:52, 29 January 2010 (UTC)
+|}
+
+== Pennsylvania park map ==
+
+I have been aware of the Pennsylvania park map you made for a long time. What amazes me about it is that you can click on a dot on the map, and it leads straight to the respective park.
+
+I am trying to figure out how to design a similar template. I would like for there to be a template with lines each corresponding to a street in a city, that when clicked on, lead to the article on that street. Additionally, there could be other blocks leading to the articles on different landmarks.
+
+Any helpful hints on how to do this? [[User:Sebwite|Sebwite]] ([[User talk:Sebwite|talk]]) 21:51, 2 March 2010 (UTC)
+
+== Kinzua Bridge TFA ==
+
+Wow...That is unexpected. I wonder if a note should be sent to the DCNR, as it is their photo that's going to be on the main page; they might find it interesting. ​​​​​​&lt;span style=&quot;font-family:Garamond; font-size:11pt&quot;&gt;​​[[User:Niagara|&lt;font color=#5E2109&gt;''Niagara''&lt;/font&gt;]]&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;font-family:Garamond; font-size:8pt&quot;&gt;​​&lt;sup&gt;[[User talk:Niagara|&lt;font color=#090931&gt;Don't give up the ship&lt;/font&gt;]]&lt;/sup&gt;&lt;/span&gt; 18:02, 3 March 2010 (UTC)
+
+:Sure, I'm willing to try it. Popups are still useful when its comes checking a diff for vandalism by just hovering over the link. ​​​​​​&lt;span style=&quot;font-family:Garamond; font-size:11pt&quot;&gt;​​[[User:Niagara|&lt;font color=#5E2109&gt;''Niagara''&lt;/font&gt;]]&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;font-family:Garamond; font-size:8pt&quot;&gt;​​&lt;sup&gt;[[User talk:Niagara|&lt;font color=#090931&gt;Don't give up the ship&lt;/font&gt;]]&lt;/sup&gt;&lt;/span&gt; 04:07, 5 March 2010 (UTC)
+
+== Christ myth theory and PR ==
+A little while back you indicated that I might be able to submit the [[Christ myth theory]] article ahead of the normal 2 week wait period following a failed FAC.  Well, it's been a few days and we've made some minor changes.  If possible, I'd like to submit the article for peer review at this time.  What do ya' say? [[User:Eugeneacurry|Eugene]] ([[User talk:Eugeneacurry|talk]]) 19:59, 3 March 2010 (UTC)
+
+== [[Il ritorno d'Ulisse in patria]] ==
+When/if you can spare a little time, could you look at this at PR? It's had a good deal of valuable comment already from some excellent reviewers; however, I'd like a view from someone not primarily associated with  music articles. Any time in the next few days. [[User:Brianboulton|Brianboulton]] ([[User talk:Brianboulton|talk]]) 23:48, 3 March 2010 (UTC)
+
+== Just to note (and thanks again) ==
+
+Hi. Just to note that I have renominated [[The Avery  Coonley School]] as a [[WP:FAC | Featured  Article Candidate]] now.  Since you helped with the peer review, you may wish to comment on [[WP:FAC# | the FAC  review]] as well.
+
+Thanks  again for your help!
+
+--[[User:Nasty Housecat|Nasty Housecat]] ([[User talk:Nasty Housecat|talk]]) 21:43, 4 March 2010 (UTC)
+
+== PA Capitol photos ==
+
+Nice...I especially like the panormama of the three lunettes in a row. Did you go anywhere else in or around Harrisburg? It's kinda ironic that I'm going to be passing near there today, granted only the dome will be visible (but I will see [[PRR 4859|4859]] up close again). ​​​​​​&lt;span style=&quot;font-family:Garamond; font-size:11pt&quot;&gt;​​[[User:Niagara|&lt;font color=#5E2109&gt;''Niagara''&lt;/font&gt;]]&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;font-family:Garamond; font-size:8pt&quot;&gt;​​&lt;sup&gt;[[User talk:Niagara|&lt;font color=#090931&gt;Don't give up the ship&lt;/font&gt;]]&lt;/sup&gt;&lt;/span&gt; 14:19, 6 March 2010 (UTC)
+
+== Quehanna ==
+A general read of [[Quehanna Wild Area]]. It looks fine so far. I know that the last paragraph of the lead will be fixed. I am sure much of the history can be transferred to [[Moshannon State Forest]]. Would you like for me to give it a close read now or wait for PR? Whenever is fine with me. I am going to add the new bits to [[Shikellamy State Park]] today. I haven't done a google news research on the PA state parks in sometime. I guess I'll do that too. I caught the info from the Daily Item while I was getting caught up on the local high school wrestling news. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 22:29, 6 March 2010 (UTC)
+:I just read the blurb. It's quite funny, but beating wife selling is going to be a challenge. Good luck! [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 02:13, 10 March 2010 (UTC)
+::You have a good point there. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 03:13, 10 March 2010 (UTC)
+
+== Thanks for the peer review! ==
+
+I guess I forgot to watchlist the peer review page for [[Parks and Recreation (season 1)]] because I didn't see that you conducted a review until now! Thanks very much for doing that! — &lt;b&gt;[[User:Hunter Kahn|&lt;font color=&quot;#C0C0C0&quot;&gt;Hun&lt;/font&gt;]][[User talk:Hunter Kahn|&lt;font color=&quot;#C0C0C0&quot;&gt;ter&lt;/font&gt;]] [[Special:Contributions/Hunter_Kahn|&lt;font color=&quot;#595454&quot;&gt;Ka&lt;/font&gt;]][[User:Hunter Kahn/Autographs|&lt;font color=&quot;#595454&quot;&gt;hn&lt;/font&gt;]]&lt;/b&gt; 14:53, 7 March 2010 (UTC)
+
+==Thanks==
+I've been beavering away as usual on small streams and, for a change of  pace, not-so-famous 19th-century civic leaders in Portland. The latter made me realize I might have enough material to do Jerry Church, the Lock Haven founder, some day. [[User:Finetooth|Finetooth]] ([[User talk:Finetooth|talk]]) 19:09, 7 March 2010 (UTC)
+
+== Help with a school article ==
+
+Hello Ruhrfisch! I noticed that you have been involved in multiple school-related GAs and FAs. Would you be willing to take a look at [[Benet Academy]]? It has already passed GA, and I would like to eventually have it pass FAC. I have an open peer review [[Wikipedia:Peer review/Benet Academy/archive2|here]]. Thanks for your time! [[User:Benny the mascot|Benny the mascot]] ([[User talk:Benny the mascot|talk]]) 20:08, 7 March 2010 (UTC)
+:Thanks! [[User:Benny the mascot|Benny the mascot]] ([[User talk:Benny the mascot|talk]]) 12:22, 8 March 2010 (UTC)
+
+== Thank you... ==
+
+... for doing the review on [[Gene expression]]. I will do a review as well in the future when I see a topic that fits my area of knowledge.
+Thanks, --[[User:Firefly&amp;#39;s luciferase|Firefly&amp;#39;s luciferase]] ([[User talk:Firefly&amp;#39;s luciferase|talk]]) 04:26, 8 March 2010 (UTC)
+:I have just seen your review. Wow, thank you very much. This gives us a lot to do but also clear information what has to be done specifically. I will do a review later. The backlog list just got bookmarked. :-) Thanks again, --[[User:Firefly&amp;#39;s luciferase|Firefly&amp;#39;s luciferase]] ([[User talk:Firefly&amp;#39;s luciferase|talk]]) 04:14, 9 March 2010 (UTC)
+
+== April Fools ==
+See [http://en.wikipedia.org/wiki/Wikipedia_talk:Today%27s_featured_article/requests#April_Fools_blurb here.]  [[User:SandyGeorgia|Sandy&lt;font color=&quot;green&quot;&gt;Georgia&lt;/font&gt;]] ([[User talk:SandyGeorgia|Talk]]) 18:30, 8 March 2010 (UTC)
+
+== Request for FA ==
+
+Hi. I saw you were involved in helping bring an article up to standard for FA. I am wondering if you would be kind enough to skim through [[Hurva Synagogue]] to see if there's anything you think needs attention? Gratefully, [[User:Chesdovi|Chesdovi]] ([[User talk:Chesdovi|talk]]) 13:43, 9 March 2010 (UTC)
+
+== South Fork ==
+[[South Fork, Pennsylvania|South Fork]] has been vandalized a good bit lately. Could you semi-protect it? The vandals are unregistered users. Best of luck with Quehanna. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 23:28, 9 March 2010 (UTC)
+
+== Help requested ==
+
+Hi Ruhrfisch. I have been contacted by another editor who is willing to assist me at the Hurva article. I know [[User:Gilabrand]], unfortunaely blocked at present, to be very good at copyediting and would appreciate her help here. I am wondering whether it would be in order to unblock her in this instance so she can help promte Hurva Synagogue to FA, especially as I want to get this done asap (for March 15!). Regards, [[User:Chesdovi|Chesdovi]] ([[User talk:Chesdovi|talk]]) 23:46, 9 March 2010 (UTC)
+
+==Thanks for the support==
+Thanks (rather belatedly, I'm afraid) for the support for [[Nikolai Rimsky-Korsakov]] as TFA for March 18. I honestly never suspected it would gather [http://en.wikipedia.org/wiki/Wikipedia:Today%27s_featured_article/requests#March18 this degree of support]. Wow! [[User:Jonyungk|Jonyungk]] ([[User talk:Jonyungk|talk]]) 23:59, 9 March 2010 (UTC)
+
+== [[Arthur (Or the Decline and Fall of the British Empire)]] ==
+In response to some of the points you raised in the article's [[Wikipedia:Peer review/Arthur (Or the Decline and Fall of the British Empire)/archive2|peer review]], I've done my best to integrate the info on the TV play and album into one section - how do you think it has turned out? I'm interested in knowing your opinion. Would it be stupid of me to nominate it for FAC? Many thanks for your time (and the very thorough peer review!), - [[User:I.M.S.|I.M.S.]] ([[User talk:I.M.S.|talk]]) 01:20, 10 March 2010 (UTC)
+:I appreciate it! I don't want to waste your time, however - if you're too busy to read through it, don't bother. - [[User:I.M.S.|I.M.S.]] ([[User talk:I.M.S.|talk]]) 18:14, 10 March 2010 (UTC)
+
+==[[Il ritorno d'Ulisse in patria]]==
+I've sent the article to FAC after a pretty thorough PR. Thanks for your help and encouragement. [[User:Brianboulton|Brianboulton]] ([[User talk:Brianboulton|talk]]) 13:10, 10 March 2010 (UTC)
+
+== Help with problematic editor ==
+
+Thanks for the congrats :-)  Could you help me with a problematic editor?  You may have seen a comment thread on my talk, just above the DYK notification, by an editor who keeps removing information from [[FPT University]] for multiple problematic reasons.  Among these are &quot;I know it's false&quot;, claims that a reference should be removed because the link seems to have rotten, and apparent opposition to using a source because it's written in Vietnamese.  This user continues to say that a news source is unreliable, but s/he has never offered proof for its unreliability.  I just realised that I'm at 3RR, and it's not a case of blatant vandalism, so I can't do anything more.  [[User:Nyttend|Nyttend]] ([[User talk:Nyttend|talk]]) 19:04, 11 March 2010 (UTC)
+:Thanks; hopefully this will quiet the situation.  [[User:Nyttend|Nyttend]] ([[User talk:Nyttend|talk]]) 20:05, 11 March 2010 (UTC)
+
+
+
+{{Talkback|linhbach|section}}
+
+
+{{Talkback|linhbach|section}}
+
+== [[Talk:Joseph_Priestley_House#Strasburg.2C_Pennsylvania_House]] ==
+
+You might be interested in the above.  Also the [[National Register of Historic Places listings in Lancaster County, Pennsylvania]] is in a remarkable condition - all covered bridges and trains!  As always, [[User:Smallbones|Smallbones]] ([[User talk:Smallbones|talk]]) 21:29, 11 March 2010 (UTC)
+
+==[[[[Saganagan Orogeny]]==
+Would you look at this, which is listed for peer review? To me it looks like the merest sketch of an article, quite unready for review. I think the nominator probably needs some gentle guidance on how to build a Wikipedia article, and you are probably better at doing that than I am. Meanwhile, I have taken the article out of the backlog. [[User:Brianboulton|Brianboulton]] ([[User talk:Brianboulton|talk]]) 00:43, 13 March 2010 (UTC)
+
+== You're invited to Wikipedia Takes Philadelphia ==
+{{Wikipedia:WikiProject Philadelphia/Wikipedia Takes Philadelphia/invite}}&lt;small&gt;This has been an automated delivery by [[User:BrownBot|BrownBot]] ([[User talk:BrownBot|talk]]) 15:08, 13 March 2010 (UTC)&lt;/small&gt;
+{{clear}}
+
+== Thank you ==
+
+Thanks very much for your thorough review and copyediting of ''Arthur''—it has certainly improved the article greatly (I only hope it hasn't distracted you from real life). Although you already have a quite a few, I'd like to award you one of these:
+
+{| style=&quot;border: 1px solid gray; background-color: #fdffe7;&quot;
+|rowspan=&quot;2&quot; valign=&quot;middle&quot; | [[Image:Barnstar_of_Diligence.png|100px]]
+|rowspan=&quot;2&quot; |
+|style=&quot;font-size: x-large; padding: 0; vertical-align: middle; height: 1.1em;&quot; | '''The Barnstar of Diligence'''
+|-
+|style=&quot;vertical-align: middle; border-top: 1px solid gray;&quot; | ... For being one of the best editors working at [[WP:PR]], and showing yourself to be a considerate yet extremely efficient reviewer and copyeditor even when real life issues are knocking at the door. - [[User:I.M.S.|I.M.S.]] ([[User talk:I.M.S.|talk]]) 16:58, 13 March 2010 (UTC)
+|}
+
+Again, many thanks—I'll make sure to alert you when I take the article to FAC. - [[User:I.M.S.|I.M.S.]] ([[User talk:I.M.S.|talk]]) 16:58, 13 March 2010 (UTC)
+
+:Do you think I should proceed with FAC? - [[User:I.M.S.|I.M.S.]] ([[User talk:I.M.S.|talk]]) 19:04, 13 March 2010 (UTC)
+
+::Thanks for the advice; you can find the page at [[Wikipedia:Featured article candidates/Arthur (Or the Decline and Fall of the British Empire)/archive1]]. &lt;small&gt;(Sorry to bother you again!)&lt;/small&gt; - [[User:I.M.S.|I.M.S.]] ([[User talk:I.M.S.|talk]]) 02:10, 14 March 2010 (UTC)
+
+==It's official==
+[[Nikolai Rimsky-Korsakov]] will be the TFA for March 18, so time to get out the birthday cake and celebrate. Meanwhile. I'm planning to revamp the [[Mily Balakirev]] article and get it at least to GA status, if not better. Wish me luck! [[User:Jonyungk|Jonyungk]] ([[User talk:Jonyungk|talk]]) 00:09, 14 March 2010 (UTC)
+
+== Thanks ==
+
+Thanks for your help bringing [[The Avery Coonley School]] up to FA. Not sure I could have done it at all without your help. Thanks for your great comments, and for helping me start to get an idea of what it takes to be a really good editor. Very much obliged. --[[User:Nasty Housecat|Nasty Housecat]] ([[User talk:Nasty Housecat|talk]]) 17:13, 14 March 2010 (UTC)
+
+== Fair use query ==
+Would it be possible for you to briefly revisit the FAC page of [[Il ritorno d'Ulisse in patria]], where the fair use of [[:File:PhaecianStoneShip.jpg]] has been challenged? Perhaps leave a comment if possible. [[User:Brianboulton|Brianboulton]] ([[User talk:Brianboulton|talk]]) 18:19, 14 March 2010 (UTC)
+
+== Thank you ==
+
+Ruhrfisch, thank you for your comments and helpful hints on my Saganagan Orogeny article.
+
+My husband and I went to Fargo/Moorhead this weekend and while he was at his meetings I haunted two libraries. I didn't find much of anything on this topic (but did on some others I'm writing).
+
+I do have a reference for Vaalbara being the theorized first continent, I'll get that reference in the article.
+
+Again, thank you for your help. It confirms my strong suspicion that it isn't thorough enough.[[User:Bettymnz4|Bettymnz4]] ([[User talk:Bettymnz4|talk]]) 20:13, 14 March 2010 (UTC)
+
+== [[Iravan]] ==
+
+Hi. I am planning a FAC for this article about a regional Hindu village god shortly. As such, I request you to please give constructive criticism on article as you gave before my prev. FAC [[Vithoba]] ([[Talk:Vithoba/Archive_1#Ruhrfisch_comments]]). To point any issues (actually I request all issues you see) on article talk in consideration of FA criteria. For your reference, your comments on [[Wikipedia:Peer review/Iravan/archive1]]. I want comments especially in terms of jargon and language. Thanks a lot. --[[User:Redtigerxyz|&lt;font color = &quot;red&quot; &gt;Redtigerxyz&lt;/font&gt;]] &lt;sup&gt; [[User talk:Redtigerxyz|Talk]] &lt;/sup&gt; 13:25, 15 March 2010 (UTC)
+:: Can you give me an appropriate date by which you start a review so I can plan other things. --[[User:Redtigerxyz|&lt;font color = &quot;red&quot; &gt;Redtigerxyz&lt;/font&gt;]] &lt;sup&gt; [[User talk:Redtigerxyz|Talk]] &lt;/sup&gt; 16:03, 15 March 2010 (UTC)
+::: Thatz fine. --[[User:Redtigerxyz|&lt;font color = &quot;red&quot; &gt;Redtigerxyz&lt;/font&gt;]] &lt;sup&gt; [[User talk:Redtigerxyz|Talk]] &lt;/sup&gt; 18:05, 15 March 2010 (UTC)
+:::: No problem. 24 hours, even longer, is worth a wait. --[[User:Redtigerxyz|&lt;font color = &quot;red&quot; &gt;Redtigerxyz&lt;/font&gt;]] &lt;sup&gt; [[User talk:Redtigerxyz|Talk]] &lt;/sup&gt; 05:48, 20 March 2010 (UTC)
+: Thanks for initiating the review. Love to hear more. Can specifically check ALT text too. or suggest someone who is a specialist in it. --[[User:Redtigerxyz|&lt;font color = &quot;red&quot; &gt;Redtigerxyz&lt;/font&gt;]] &lt;sup&gt; [[User talk:Redtigerxyz|Talk]] &lt;/sup&gt; 13:28, 22 March 2010 (UTC)
+:: Answered your comments. Waiting for more. --[[User:Redtigerxyz|&lt;font color = &quot;red&quot; &gt;Redtigerxyz&lt;/font&gt;]] &lt;sup&gt; [[User talk:Redtigerxyz|Talk]] &lt;/sup&gt; 05:09, 23 March 2010 (UTC)
+::: I have made a few changes in accordance to your comments and clarified on others. Please check. --[[User:Redtigerxyz|&lt;font color = &quot;red&quot; &gt;Redtigerxyz&lt;/font&gt;]] &lt;sup&gt; [[User talk:Redtigerxyz|Talk]] &lt;/sup&gt; 08:59, 27 March 2010 (UTC)
+
+== Quehanna tornado ==
+
+Unfortunately, a radar image probably won't be possible as the radar archives from the [[National Climatic Data Center|NCDC]] only go back to 1995. I did find a site that with photos and other information on the outbreak [http://www.erh.noaa.gov/cle/office/localinterest/1985Tornado/1985Tornado_film.html], but it doesn't seem to be relevant to Quehanna. A couple of thoughts after reading it: 
+* [[Albion, Pennsylvania]] was the site of the F4 tornado, not Albion, Ohio
+* What areas were the tornado watch and the tornado warning issued for?
+* You may want to put in what the approximate size of a tennis ball is, as it is not a standard unit of measure and probably not universally understood.
+* I'd mention why &quot;the inversion&quot; moving is significant.
+Hopefully Quehanna is chosen for the April 1st TFA, as I'm not finding the other potentials quite as humorous. ​​​​​​&lt;span style=&quot;font-family:Garamond; font-size:11pt&quot;&gt;​​[[User:Niagara|&lt;font color=#5E2109&gt;''Niagara''&lt;/font&gt;]]&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;font-family:Garamond; font-size:8pt&quot;&gt;​​&lt;sup&gt;[[User talk:Niagara|&lt;font color=#090931&gt;Don't give up the ship&lt;/font&gt;]]&lt;/sup&gt;&lt;/span&gt; 20:32, 15 March 2010 (UTC)
+
+:Your welcome, let me know if I should look at anything else. ​​​​​​&lt;span style=&quot;font-family:Garamond; font-size:11pt&quot;&gt;​​[[User:Niagara|&lt;font color=#5E2109&gt;''Niagara''&lt;/font&gt;]]&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;font-family:Garamond; font-size:8pt&quot;&gt;​​&lt;sup&gt;[[User talk:Niagara|&lt;font color=#090931&gt;Don't give up the ship&lt;/font&gt;]]&lt;/sup&gt;&lt;/span&gt; 02:19, 16 March 2010 (UTC)
+
+==[[Quehanna Wild Area]]==
+I've been following the TFAR talk page about this article. Let me know how I can help. [[User:Jonyungk|Jonyungk]] ([[User talk:Jonyungk|talk]]) 03:04, 16 March 2010 (UTC)
+: I've read through the article twice so far and will look at it again to see what you've done to the latter part. It's looking exceptionally clean; I'm finding nothing upon which to comment so far. Great work! Hope this makes it for April 1. [[User:Jonyungk|Jonyungk]] ([[User talk:Jonyungk|talk]]) 01:49, 18 March 2010 (UTC)
+:: After reading Brian and Geometry Guy's comments on the FAC page, I feel as though I owe you an apology. To me, the article read fine, but I'm not half as picky about issues as they are&amp;mdash;or perhaps as I should be. (Perhaps I should retitle this section &quot;Mea culpa&quot;. :) ) Yes, I know we work together and all have different talents, and thank goodness those guys are as talented as they are in this area. Still, I feel as though I let you down, though through no intended fault of my own. [[User:Jonyungk|Jonyungk]] ([[User talk:Jonyungk|talk]]) 02:55, 22 March 2010 (UTC)
+
+== Ulysses promoted! ==
+Just to let you know that [[Il ritorno d'Ulisse in patria]] was promoted over Stifle's oppose. I'd like to thank you for your support, particularly for your helpful comments about use of the non-free image and the soundfile. In my view both of these are important elements in the article, and it would have been a great pity to lose either. [[User:Brianboulton|Brianboulton]] ([[User talk:Brianboulton|talk]]) 19:04, 16 March 2010 (UTC)
+
+== [[Burger King]] ==
+
+Another editor has requested a review of this article, claiming there are multiple issues with the article. Could you please give it a once over and leave a list for me to work with? The reviewer is being... ''difficult'' IMHO. Thanks again for all of the help you have been providing.
+
+--&lt;span style=&quot;font-family:lucida sans, sans-serif;&quot;&gt;[[User:Jerem43|Jeremy]] &lt;small&gt;([[User talk:Jerem43|blah blah]] • [[Special:Contributions/Jerem43|I did it!]])&lt;/small&gt;&lt;/span&gt; 04:43, 18 March 2010 (UTC)
+
+== Image muddle ==
+No urgency, but can you help me resolve a small image problem? I uploaded [[:File:MahlerConcertProgramme1907.jpg]] a couple of weeks back. Then I noticed  that I had inadvertently scanned the message at the bottom, which shouldn't be part of the image. See file history: I cropped the message, but my attempts to upload the cropped version failed, so I reverted back to the original. Don't know what I did wrong - how can I get the image replaced with the cropped version? [[User:Brianboulton|Brianboulton]] ([[User talk:Brianboulton|talk]]) 00:14, 20 March 2010 (UTC)
+
+== section break in Quehanna ==
+
+It should have gone up a paragraph or so.  I put it where you had the original one, and the article needs one about there. Otherwise, it's so long, and easy to lose one's place.  [[User:Auntieruth55|Auntieruth55]] ([[User talk:Auntieruth55|talk]]) 14:45, 22 March 2010 (UTC)
+:it's looking good.  do you need help from me on anything? [[User:Auntieruth55|Auntieruth55]] ([[User talk:Auntieruth55|talk]]) 01:47, 23 March 2010 (UTC)
+::has this passed already?  Must be a record, only 5 days! [[User:Auntieruth55|Auntieruth55]] ([[User talk:Auntieruth55|talk]]) 23:59, 27 March 2010 (UTC)
+:::With an editor this talented, it is [http://en.wikipedia.org/w/index.php?title=Wikipedia_talk%3AToday's_featured_article%2Frequests&amp;action=historysubmit&amp;diff=348592760&amp;oldid=348592360 par for the course]. ''[[User talk:Geometry guy|Geometry guy]]'' 00:31, 28 March 2010 (UTC)
+
+==Urgent Peer Review request==
+Hi Ruhrfisch, could you please make a [[WP:PR|Peer Review]] for the article [[Dhaka Residential Model College]]? Since the article failed to be a [[WP:Good Article]], I have significantly contributed to the article with a view to making it a [[WP:GA|GA]]. Recently the article also received authentic copy-edit. Before nominating the article for GA, I would like to have a PR to see if the article still lacks to be a GA. Would you please consider my request? Please inform your opinion in my [[User talk:Tanweer Morshed|talk page]] as soon as possible. Thank you. -- [[User:Tanweer Morshed|&lt;span style=&quot;color:#3B5998&quot;&gt;'''Tanweer'''&lt;/span&gt;]] ([[User talk:Tanweer Morshed|&lt;span style=&quot;color:#58bee0&quot;&gt;'''talk]]'''&lt;/span&gt;) 13:01, 23 March 2010 (UTC)
+
+* OK, I will be really indebted if you help. But will you be able to do the PR within this month? -- [[User:Tanweer Morshed|&lt;span style=&quot;color:#3B5998&quot;&gt;'''Tanweer'''&lt;/span&gt;]] ([[User talk:Tanweer Morshed|&lt;span style=&quot;color:#58bee0&quot;&gt;'''talk]]'''&lt;/span&gt;) 14:34, 23 March 2010 (UTC)
+
+*Oh, Thanks a lot. Looking forward for that. -- [[User:Tanweer Morshed|&lt;span style=&quot;color:#3B5998&quot;&gt;'''Tanweer'''&lt;/span&gt;]] ([[User talk:Tanweer Morshed|&lt;span style=&quot;color:#58bee0&quot;&gt;'''talk]]'''&lt;/span&gt;) 17:42, 23 March 2010 (UTC)
+
+== Talkback ==
+
+{{talkback|Auntieruth55|ts=00:47, 24 March 2010 (UTC)}}
+[[User:Auntieruth55|Auntieruth55]] ([[User talk:Auntieruth55|talk]]) 00:47, 24 March 2010 (UTC)
+
+== Map help ==
+
+A few days ago, I nominated [[Mummy Cave]] (written by Acroterion and me) for GA; the reviewer seems to think the article suitable overall, and most of the objections are simple wording issues that have been or soon will be corrected.  For some reason, the reviewer is objecting to the sourcing for the basic locator map, [[:File:USA Wyoming location map.svg]].  Have you ever encountered objections to the sourcing for locator maps in the past?  To me, they seem to be basic enough and dependent enough on things such as USGS topo maps that they don't need to attribte a specific source.  I'd appreciate your advice as to how to explain the usage of this map.  [[User:Nyttend|Nyttend]] ([[User talk:Nyttend|talk]]) 15:16, 24 March 2010 (UTC)
+:Thanks for the comments; there's no way to choose between the maps, but (due to a confusing and inaccurate reason for the change in the first place, which was done without discussion) I've reverted to the previous map, which is better because it includes a map of the USA with Wyoming highlighted.  Our reviewer seems to think that this page should be held to a higher standard than the multiple FAs that have dotmaps of this sort, but because I reverted the map, s/he passed it.  [[User:Nyttend|Nyttend]] ([[User talk:Nyttend|talk]]) 22:25, 25 March 2010 (UTC)
+::Thanks very much!  I had a hard enough time with this GA review that I couldn't imagine trying to go through the FA review.  Consequently, I'm more impressed by people like you with several FAs :-)  [[User:Nyttend|Nyttend]] ([[User talk:Nyttend|talk]]) 04:09, 26 March 2010 (UTC)
+
+==[[Parks and Recreation (season 1)]]==
+Hey it's Hunter Kahn, I did the [[Parks and Recreation (season 1)]] page that you peer reviewed for me. The article is up for its [[Wikipedia:Featured article candidates/Parks and Recreation (season 1)/archive2|second featured article nomination]]. As far as I could tell, prose issues were the only thing that held up the first FA nom, and now thanks to your peer review, I think they are addressed. However, the new FAC has received very little comments, and I'm worried that it might not pass simply for inactivity. Would you mind perhaps taking a look at it? Much appreciated! — &lt;b&gt;[[User:Hunter Kahn|&lt;font color=&quot;#C0C0C0&quot;&gt;Hun&lt;/font&gt;]][[User talk:Hunter Kahn|&lt;font color=&quot;#C0C0C0&quot;&gt;ter&lt;/font&gt;]] [[Special:Contributions/Hunter_Kahn|&lt;font color=&quot;#595454&quot;&gt;Ka&lt;/font&gt;]][[User:Hunter Kahn/Autographs|&lt;font color=&quot;#595454&quot;&gt;hn&lt;/font&gt;]]&lt;/b&gt; 19:33, 25 March 2010 (UTC)
+
+== When a Peer Review is finished question ==
+
+Hello, I'm trying to get into peer reviewing but I need to know the procedure for when a peer review is completed.  How long should it remain at WP:PR?  Should I add it to the article's talk page right after I finish the review or wait for response?  Some insight in wrapping up PR's would be appreciated.  [[User:H1nkles|H1nkles]] &lt;sub&gt;[[User:H1nkles/citius altius fortius|&lt;span style=&quot;color:#030&quot;&gt;citius altius fortius&lt;/span&gt;]]&lt;/sub&gt; 16:59, 26 March 2010 (UTC)
+:Thank you for your insight, that's helpful.  [[User:H1nkles|H1nkles]] &lt;sub&gt;[[User:H1nkles/citius altius fortius|&lt;span style=&quot;color:#030&quot;&gt;citius altius fortius&lt;/span&gt;]]&lt;/sub&gt; 15:46, 27 March 2010 (UTC)
+::OK I didn't know if I had to finish the review prior to removing it from the backlog, good to know that I can remove it after I've done a large part of the review.  Thanks. [[User:H1nkles|H1nkles]] &lt;sub&gt;[[User:H1nkles/citius altius fortius|&lt;span style=&quot;color:#030&quot;&gt;citius altius fortius&lt;/span&gt;]]&lt;/sub&gt; 03:50, 30 March 2010 (UTC)
+
+== Quehanna ==
+Thanks for the thanks and congrats. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 01:09, 28 March 2010 (UTC)
+
+==Congratulations==
+Very happy to hear about the star for [[Quehanna Wild Area]]. You may need a week in the Bahamas after this one, but don't take your laptop. [[User:Finetooth|Finetooth]] ([[User talk:Finetooth|talk]]) 01:16, 28 March 2010 (UTC)
+
+==Battle of Dürenstein==
+{{u|Jappalang}} is upset about the[[Battle of Dürenstein]] at FA, and thinks it needs a copy edit.  I'll ask JN to do it, but I wondered if you could take a look.  I'm not sure what the issues are.  [[User:Auntieruth55|Auntieruth55]] ([[User talk:Auntieruth55|talk]]) 02:17, 29 March 2010 (UTC)
+
+== Film at PR headed for FAC ==
+Hi, Ruhrfisch ... is there any change Fisch and Co could look at [[Wikipedia:Peer review/The Revolution Will Not Be Televised (film)/archive1]]?  Best, [[User:SandyGeorgia|Sandy&lt;font color=&quot;green&quot;&gt;Georgia&lt;/font&gt;]] ([[User talk:SandyGeorgia|Talk]]) 11:45, 29 March 2010 (UTC)
+
+Thanks a bunch for the comments at the above; they've been very useful. I must admit a certain lack of regard for [[wp:lead]]'s requirement that all direct quotations be cited; it's more nuanced than that (no significant difference between &quot;Reviewers cited the 'riveting narrative{{'&quot;}} and &quot;Reviewers cited the engrossing story&quot;) but I shoved them in anyway. :-) Thanks again for your help,&amp;nbsp;[[User:Steve|&lt;span style=&quot;font-variant: small-caps;&quot;&gt;'''Steve'''&lt;/span&gt;]]&amp;nbsp;&lt;sup&gt;[[User talk:Steve|T]]&amp;nbsp;•&amp;nbsp;[[Special:Contributions/Steve|C]]&lt;/sup&gt; 23:08, 30 March 2010 (UTC)
+
+==Thanks to peer reviewers==
+I've posted a brief thank you note on the PR talkpage to acknowledge the help over the last few days, much of it from new reviewers, that prevented the backlog from spiralling out of control, as I thought it might. By contrast, the 4 days up to 30 March have brought very few new articles to PR, so the backlog just might disappear altogether. [[User:Brianboulton|Brianboulton]] ([[User talk:Brianboulton|talk]]) 23:46, 30 March 2010 (UTC)
+
+==Ganoga Lake and Ricketts Glen==
+I saw that you put it up for PR. I am working on starting the 2010 season article for Penn State football. I might try for a DYK if I get the time to work on it and get it ready. Feels nice to be creating something again. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 21:24, 31 March 2010 (UTC)
+:If you can't find your info on the bridge we can work on another park if you want. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 00:15, 1 April 2010 (UTC)
+::Hyner View or Ricketts Glen. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 01:31, 1 April 2010 (UTC)
+:::I pick Ricketts. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 02:19, 1 April 2010 (UTC)
+::::I should be able to work on Ricketts tonight at work. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 12:54, 1 April 2010 (UTC)
+I am going to start on the Important Birds of the park this afternoon. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 20:57, 1 April 2010 (UTC)
+:Do you think we should do the expansion in the main article space or in user space? I am going to start the expansion in user space for now and will wait to hear from you before moving anything to the main article. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 22:13, 1 April 2010 (UTC)
+::Might was well try for a DYK. I will create the user space now and let you know. The map looks pretty good. I haven't taken a really close look, but will sonn. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 22:56, 1 April 2010 (UTC)
+:::The expansion page is at [[User:Dincher/Bruce]], in honor of the colonel and his, to me, funny middle name. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 23:04, 1 April 2010 (UTC)
+::::I like the map so far. Are you thinking of making it another clickable map with links to the falls and lakes or their articles? That would be pretty spiffy, but I don't know if it's needed or something you want to tackle. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 23:08, 1 April 2010 (UTC)
+Well Quehanna is another featured article, so you've got that going for you. I think your DYK hook is a good one. There is lots of good detail about more than just the birds in the IBA pdf. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 01:17, 2 April 2010 (UTC)
+:The plans sound like a plan, man. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 03:24, 2 April 2010 (UTC)
+Congrats on your latest GA! [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 13:59, 2 April 2010 (UTC)
+:I like the pic. We need to search for some more/better pictures of birds in the park. The eagle picture is just too far away. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 13:57, 3 April 2010 (UTC)
+I am pretty much finished with the important birds of RGSP and will now use the other information from the pdf for the ecology and other sections of the article. While comparing this IBA info with the info on the IBA at Black Mo, I can across one of your pics that caught my eye [[:File:Black Moshannon SP Pump House 2.jpg]] is very nice and I think could be a QI on the commons side. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 14:20, 3 April 2010 (UTC)
+
+Not only had I seen the Black Mo en espanol, I edited it even. But I completely forgot about doing either. It looks pretty good. Seems to be a straight translation of our work. Do you know what the walls of that pavilion are made of? Looks pretty different. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 15:58, 3 April 2010 (UTC)
+:The cropped photo is superior to the original. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 16:07, 3 April 2010 (UTC)
+
+I am trying to link the wiktionary definition of ''overbrowsing'' to the article. I know how to link wikipedia to commons, so surely there must be a way to link the dictionary to wikipedia. Do yo know how? I don't want it to be an external link. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 14:55, 5 April 2010 (UTC)
+:Thanks for the lesson! [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 15:36, 5 April 2010 (UTC)
+
+I've been hunting for information on the Central Pennsylvania Lumber Company and have found some good stuff, but not many specifics about the land at RGSP. I will continue to look, but was wondering if you had a resource on the logging that occurred in and around the park, specifics I mean. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 22:45, 8 April 2010 (UTC)
+
+Congrats on Ganoga Lake making FA. Very well done! [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 23:00, 11 April 2010 (UTC)
+:I enjoyed the vacation and I must admit that I didn't think about RGSP at all over the weekend. The mansion article looks pretty good. I am assuming that you've already nominated it for DYK. Correct? [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 23:33, 11 April 2010 (UTC)
+::Well I am sure it will make it when you do nominate it. The bit about getting frustrated with sleeping on a floor of a hotel might make a good hook. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 23:47, 11 April 2010 (UTC)
+
+Sorry to hear that the image didn't pass. I really like it. I am pretty much done with Bruce for the night. I added a few bits and pieces nothing major. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 23:50, 15 April 2010 (UTC)
+
+The cabin at Black Mo is nice too, go for it. Have you seen the the discussion going on at [[Snyder County, Pennsylvania]]? I think I am being pretty reasonable and the discussion is going well so far. The plans for Bruce sound pretty good. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 00:22, 16 April 2010 (UTC)
+:Yes, I'd like you to make a pano of Fenway and New Bedford which is also on my flickr. Thanks, for offering. I agree, the cyber school article should be started. I will bring this up with the user. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 00:29, 16 April 2010 (UTC)
+
+==Peer reviewing==
+I will have to excuse myself from reviewing for the next few days, as I have to concentrate on getting [[Gustav Mahler]] into order, before it too is ready for review. I will continue to manage the backlog, and I'll continue to deal with a couple of current reviews that I'm involved in, but I won't pick up any new ones until about the middle of nect week. I hope this is not too inconvenient, but PR is quite quiet at the moment, so maybe I won't be much missed. [[User:Brianboulton|Brianboulton]] ([[User talk:Brianboulton|talk]]) 17:03, 1 April 2010 (UTC)
+
+== thank you gift! ==
+
+{| class=&quot;toccolours&quot; align=&quot;center&quot; style=&quot;clear: both;
+|align=&quot;center&quot; |[[File:Apple I Computer.jpg|160px]] 
+|To show appreciation of your Peer Review which helped get [[List of Smithsonian museums]] to [[WP:FA|featured article]] status, I award you this [[Apple I]] i stole from the Smithsonian to better facilitate future Peer Reviews!--[[User:Found5dollar|Found5dollar]] ([[User talk:Found5dollar|talk]]) 14:14, 2 April 2010 (UTC)
+|}
+
+
+==Pea_galaxy==
+
+As you were very helpful when this article was in its formation, could you please consider removing the
+'multiple issues' tag that remains on this page. I cannot do anything more to the article: it has had many,
+many hours spent on it and deserves a 'thumb's-up' I think. All the pictures now have all the relevant
+copyrights in place, the facts are from citable sources and the tone is as straightforward as I can make it.
+[[Pea_galaxy]].
+regards, [[User:Richard Nowell|Richard Nowell]] ([[User talk:Richard Nowell|talk]]) 16:25, 2 April 2010 (UTC)
+
+==Pea_galaxy==
+
+Thanks! Waiting for the second Peas paper as we write! [[User:Richard Nowell|Richard Nowell]] ([[User talk:Richard Nowell|talk]]) 09:27, 3 April 2010 (UTC)
+
+== Pritzker Pavilion TFA ==
+
+Alert.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|T]]/[[Special:Contributions/TonyTheTiger|C]]/[[User:TonyTheTiger/Antonio Vernon|BIO]]/[[WP:CHICAGO]]/[[WP:FOUR]]) &lt;/small&gt; 01:06, 3 April 2010 (UTC)
+
+Main page again, congratulations. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 13:35, 3 April 2010 (UTC)
+
+== Image assistance requested ==
+
+Hi there, hope you are well. Its been a while since I last called on you, but I was wondering if you could assist me with a map once again. I'm working on an article on a campaign in 1794 in the [[Sunda Strait]] and I need a map adapting to suit the article and I was wondering if you could help. The map I need is [[:File:Yojakarta.JPG]], and I would need the white boundary lines and the green patch filling in the same colour as the surrounding land, all of the the names removed and &quot;Lampung&quot; replaced with &quot;Sumatra&quot; and &quot;Jabar&quot; replaced with &quot;Java&quot;. I would then use the red dots to pinpoint the locations of actions on the map myself. - Is this feasible and are you happy to do it? If so it would be much appreciated, but if not the please don't worry about it. As always, if you need reviews or other assistance I would be more than happy to oblige. Regards--[[User:Jackyd101|Jackyd101]] ([[User talk:Jackyd101|talk]]) 00:17, 4 April 2010 (UTC)
+::Thanks, that is great news! I'll sort out the dots myself as they might take some adjustment based on various sources. I'd be happy to look over the article, and will get on it as soon as possible. Many, many thanks.--[[User:Jackyd101|Jackyd101]] ([[User talk:Jackyd101|talk]]) 00:37, 4 April 2010 (UTC)
+:::The map is perfect, and extremely quick! Many thanks. I have reviewed the article you suggested, but I had little to add - it was FA standard already and I said so in my review. If you have other articles up for review (particularly GA), then pass them my way and I'll look at those too. Regards.--[[User:Jackyd101|Jackyd101]] ([[User talk:Jackyd101|talk]]) 01:13, 4 April 2010 (UTC)
+
+== Review ==
+
+Hi Ruhrfisch. I remember your excellent reviews at PR, and I was wondering if you would be interested in looking over [[Cerro Azul (Chile volcano)]]? It needs some fresh eyes, and seeing as you are an excellent writer, I'm sure you could give some beneficial suggestions for the prose. '''[[User:Ceranthor|&lt;font color=&quot;#2F4F4F&quot; face=&quot;Optima&quot;&gt;ceran&lt;/font&gt;]]'''[[User_talk:Ceranthor|&lt;font color=&quot;#2F4F4F&quot; face=&quot;Optima&quot;&gt;''thor''&lt;/font&gt;]] 02:50, 4 April 2010 (UTC)
+:Thank you so much for all your help with polishing the article. I'll remember that I owe you a review: a heads up though, mine won't be even close in quality to yours. ;) Thanks again, '''[[User:Ceranthor|&lt;font color=&quot;#2F4F4F&quot; face=&quot;Optima&quot;&gt;ceran&lt;/font&gt;]]'''[[User_talk:Ceranthor|&lt;font color=&quot;#2F4F4F&quot; face=&quot;Optima&quot;&gt;''thor''&lt;/font&gt;]] 23:21, 8 April 2010 (UTC)
+
+==[[Ambrosden]]==
+Hi. I currently have this article awaiting GA, but I have a lot of fleshing out work to do! I was wondering if you could create me a montage using these in this alignment. Cheers. Its just the single image is rather bland by itself... Rather less brash than Vegas eh? Hey I saw that the ice rink in Millenium Park passed FA, I had intended on working on that! At this rate the featured topic looks sustainable. [[User:Dr. Blofeld| &lt;span style=&quot;border:1px solid blue;padding:1px;&quot;&gt; &lt;font style=&quot;color:#fef;background:black;&quot;&gt;'''''Dr. Blofeld'''''&lt;/font&gt;]]&lt;/span&gt;     &lt;sup&gt;[[User talk:Dr. Blofeld| &lt;font size=&quot;-4&quot;&gt;&lt;font color=&quot;Black&quot;&gt;White cat&lt;/font&gt;&lt;/font color&gt; ]]&lt;/sup&gt; 16:10, 5 April 2010 (UTC)
+
+Awesome. That looks great, thanks for that![[User:Dr. Blofeld| &lt;span style=&quot;border:1px solid blue;padding:1px;&quot;&gt; &lt;font style=&quot;color:#fef;background:black;&quot;&gt;'''''Dr. Blofeld'''''&lt;/font&gt;]]&lt;/span&gt;     &lt;sup&gt;[[User talk:Dr. Blofeld| &lt;font size=&quot;-4&quot;&gt;&lt;font color=&quot;Black&quot;&gt;White cat&lt;/font&gt;&lt;/font color&gt; ]]&lt;/sup&gt; 17:24, 5 April 2010 (UTC)
+
+== Mentor? ==
+
+Hi,
+
+As an accomplished writer I was wondering if you might be interested in taking a few minutes to offer some mentoring advice.
+
+I recently tried for the first time to get an article through FA and failed. It's been through two peer reviews (and has passed GA). The FA review asked for some specific changes but mostly just said the whole article was poorly written without more detailed feedback. I'm pretty much stuck now, either for a lack of understanding of the FA criteria or for a fundamental lack of writing ability. :-(
+
+The article is [[Free State of Galveston]]. At this point I either need somebody to take over the copyediting (since I don't know what more to do with it) or else get some hand-holding from a mentor who can show me the error of my ways.
+
+Please don't feel obligated. Just wondering if you are interested ...
+
+--[[User:Mcorazao|Mcorazao]] ([[User talk:Mcorazao|talk]]) 22:01, 6 April 2010 (UTC)
+
+== FA nomination help ==
+
+Could you do what's necessary to make [[Wikipedia:Featured article candidates/Scooter (band)/archive1]] viewable to those who review FA nominations?  I found the nomination by accident, and obviously it won't get approved, but the nomination appears to be orphaned at the moment, and I can't figure out (1) whether the nomination should be on the &quot;archive1&quot; page or not, and (2) how to make this nomination visible.  While I don't know for certain that it's not visible, I expect that it would have been speedily closed a good while ago if it were visible to FA regulars.  [[User:Nyttend|Nyttend]] ([[User talk:Nyttend|talk]]) 13:33, 8 April 2010 (UTC)
+:Thanks for your help!  I doubt that I'll ever go for FA; the GA review process for [[Mummy Cave]] was difficult enough, and I'm sure that any FA review would be much harder.  [[User:Nyttend|Nyttend]] ([[User talk:Nyttend|talk]]) 14:06, 8 April 2010 (UTC)
+::Thanks for the offer, although I doubt that I'll ever take you up on it.  I'm not the type who's interested in researching the same topic for enough time to be able to write a comprehensive article.  While I wrote a lot and researched a lot in college, I generally worked with primary sources; consequently, I always find it amazing how many sources FA writers find for their topics.  At any rate, my interest is generally in topics obscure enough that there aren't tons of sources; I've almost never written an article longer or more comprehensive than [[St. John the Baptist Catholic Church (Maria Stein, Ohio)]], and I always do my best to gather all the sources I can find before I start writing.  [[User:Nyttend|Nyttend]] ([[User talk:Nyttend|talk]]) 01:25, 9 April 2010 (UTC)
+:::Again, thanks for the help; it's good to have encouragement based on the Bible :-)  Sorry for the delay in my reply; we've had a terminal cancer diagnosis in the extended family, so I've been a bit forgetful lately.  Nice work on the [[Clemuel Ricketts Mansion]].  [[User:Nyttend|Nyttend]] ([[User talk:Nyttend|talk]]) 02:56, 11 April 2010 (UTC)
+::::Thanks very much :-)  I was quite surprised to have the photo included, since I've nominated better pictures that didn't get onto the Main Page even though their articles did.  [[User:Nyttend|Nyttend]] ([[User talk:Nyttend|talk]]) 03:05, 12 April 2010 (UTC)
+
+==Thanks==
+Thank you very much for your thorough review of ''[[Code of Vengeance]]''. I've taken all of your input to heart and appreciate your interest, your comments, and your enthusiasm. - [[User:Dravecky|Dravecky]] ([[User talk:Dravecky|talk]]) 01:07, 9 April 2010 (UTC)
+
+== re OTRS help ==
+
+{{done}}. And thanks! ;) -- '''[[User:Cirt|Cirt]]''' ([[User talk:Cirt|talk]]) 02:38, 9 April 2010 (UTC)
+
+== Thanks ==
+
+Ruhrfisch,
+Sorry about my first posting experience. Will only post as 3rd party interest with conformation. Stick to educational facts. Thanks [[User:Allmightywest|Allmightywest]] ([[User talk:Allmightywest|talk]]) 15:45, 17 April 2010 (UTC)
+
+== Thanks ==
+
+As always, I appreciate your copy editing efforts. Make sure you hang these somewhere that the Chinchillas cant get at them. {{User Featured Article|Jay Pritzker Pavilion}}
+{{User Featured Article|McCormick Tribune Plaza &amp; Ice Rink}}--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|T]]/[[Special:Contributions/TonyTheTiger|C]]/[[User:TonyTheTiger/Antonio Vernon|BIO]]/[[WP:CHICAGO]]/[[WP:FOUR]]) &lt;/small&gt; 17:21, 9 April 2010 (UTC)
+
+
+== IUPAC ==
+
+Could you review the [[International Union of Pure and Applied Chemistry|IUPAC]] article for me?  Thanks.  [[User:Salamakajakawaka|Salamakajakawaka]] ([[User talk:Salamakajakawaka|talk]]) 21:34, 9 April 2010 (UTC)
+
+Thanks.  I'll be looking forward to seeing what you think needs improvement.  [[User:Salamakajakawaka|Salamakajakawaka]] ([[User talk:Salamakajakawaka|talk]]) 14:24, 13 April 2010 (UTC)
+
+::Thank you very much for the honest criticism.  I will definately expand the lead tonight.  I didn't know about the internal citations being before punctuation, but I will fix that too.  I will expand the references to fix some of the links and dates accessed.  I will put todays date on pages from there as long as they haven't changed.  I will change links so that there is only one example of each link in the article.  The books themselve I chose because of they are book series that are recent and have an important niche to people.  There are many books that get so specific that very few people will use them.  I would consider the books on the page to be notable.  I am not sure how to do the alt text.  Could you help me with that? [[User:Salamakajakawaka|Salamakajakawaka]] ([[User talk:Salamakajakawaka|talk]]) 23:32, 15 April 2010 (UTC)
+
+:::Thanks for keeping up on the conversation.  I in and out have time to work on the article at [[International Union of Pure and Applied Chemistry|IUPAC]], but I understand your worries about the books notability.  Many of them are later editions of other books, but they get renamed.  This would be why some of the older books seem as if they have been ignored.  
+
+These books are for the most part notable under: The book is the subject of instruction at multiple grade schools, high schools, universities or post-graduate programs in any particular country.  They are mostly graduate level books.  I will go a little more in depth on what they are used for as it will clear up the problem.  After my next batch of edits, I will ask you to look at it again and see if you still think the same way.  This will happen either tonight or within the next day or two.  Thanks again for all your help!  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Salamakajakawaka|Salamakajakawaka]] ([[User talk:Salamakajakawaka|talk]] • [[Special:Contributions/Salamakajakawaka|contribs]]) 21:27, 18 April 2010 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Big Thank You! ==
+
+Ruhrfisch, I just wanted to give a big THANK YOU to you for the peer review on the [[University of West Alabama]] page.  I am looking into it and will be working on that when I have some free time.  We really do appreciate you very much for doing that for us.  Take care, and thanks again!  [[User:UWAFanatic05|UWAFanatic05]] ([[User talk:UWAFanatic05|talk]]) 19:13, 10 April 2010 (UTC)
+
+==[[Mily Balakirev]]==
+I've been working on this article off-and-on for some time. It feels like there is considerably more work to be done, but that may be simply my take on it. Could you look it over and give me a second opinion on what else needs to be done? I don't think it's ready for PR and I don't want to divert Brian from the Mahler article at this stage. Thanks! [[User:Jonyungk|Jonyungk]] ([[User talk:Jonyungk|talk]]) 19:17, 10 April 2010 (UTC)
+
+== Re: McOndo  ==
+
+I was just wondering how you upload photos -I have one on my desktop that I wish to use for the McOndo article. Any advice would be greatly appreciated. Thank-you!
+[[User:Robertsk88|Robertsk88]] ([[User talk:Robertsk88|talk]]) 07:02, 11 April 2010 (UTC)
+
+==Congrats==
+Congratulations on the FA for [[Ganoga Lake]]. I completely missed it somehow. You are fast as well as really good! [[User:Finetooth|Finetooth]] ([[User talk:Finetooth|talk]]) 04:48, 12 April 2010 (UTC)
+
+:Mmm, cheese.  Thank you for all your help, Ruhrfisch, and it seems like a congrats is in order to you, as well.  Yay! :) &lt;span style=&quot;font-family:verdana&quot;&gt;[[User:Yllosubmarine|María]] &lt;/span&gt;&lt;small&gt;([[User talk:Yllosubmarine|&lt;span style=&quot;color:green&quot;&gt;habla&lt;/span&gt;]] con[[Special:Contributions/Yllosubmarine|&lt;span style=&quot;color:green&quot;&gt;migo&lt;/span&gt;]])&lt;/small&gt; 12:32, 14 April 2010 (UTC)
+
+== Peter Green on John Mayall's Bluesbreakers ==
+
+Hey, please take a look on [[Wikimedia Commons]], there's a photo of [[Peter Green (musician)|Peter Green]]- which asks for verification that it's a free image. It was originally posted only to [[Wikipedia]] by an editor who it appears has a talk page of nothing BUT copyright-removed image notices. A BOT transferred it to Commons. There are two yellow tags asking to have the image checked, (and it still has not been checked) ''and'', it appears the SOURCE is Wikipedia and not some outer source. It's also on [[John Mayall's Bluesbreakers]] article, and many other articles on other language Wikipedias but I think everyone is too trusting on this. Would you take a look?  Thanks. --[[User:Leahtwosaints|Leahtwosaints]] ([[User talk:Leahtwosaints|talk]]) 02:07, 13 April 2010 (UTC)
+
+==[[Gustav Mahler]]==
+Could I ask for your help on a couple of points?
+*Translation from German: I am pretty sure that ''Das klagende Lied'' translates as &quot;Song of Lament&quot;, but am less sure about &quot;Lieder und Gesänge&quot; which I have as &quot;Songs and airs&quot;. Is this accurate?
+*On a general point, in the article I have given English equivalents to the German names of Mahler's works, but have generally left other composers' works untranslated. There are many works mentioned, and to translate them all would in my view seriously disrupt the prose flow. Does this seem reasonable? None of the people who have looked at the article at peer review or on the talkpage have mentioned this point; maybe they haven't noticed. 
+
+If you could look at these when you can find time I'd be most grateful. [[User:Brianboulton|Brianboulton]] ([[User talk:Brianboulton|talk]]) 21:35, 14 April 2010 (UTC)
+
+== Too bad.. ==
+
+I'm sorry I was right about the Peter Green photo.. it's being used on a BUNCH of other language [[Wikipedia]]s. There aren't any others in [[Wikimedia Commons]], but I've already found some more in [[Flickr]] that I'll ask for. When I saw the person who posted that photo to Flickr, I knew for a fact it was a 95% chance it wasn't a good move, as &quot;Oddsock&quot;'s whole photostream (to my knowledge) is a collection of stuff he likes. It's good he puts the authors' names on the photos (sometimes, at least), but really, he shouldn't license them under an attribution [[Creative Commons]] license there on Flickr --[[User:Leahtwosaints|Leahtwosaints]] ([[User talk:Leahtwosaints|talk]]) 09:13, 15 April 2010 (UTC)
+
+: WELL! What do you think should be done about that black and white photo of [[Peter Green (musician)|Peter Green]] that is being used both on this and several other language [[Wikipedia]]s? Can you speak to the Admins?  I ''did'' find a '''good photo''' of him, that I just placed in the infobox on Green's article, uploaded to Commons for us all to use. --[[User:Leahtwosaints|Leahtwosaints]] ([[User talk:Leahtwosaints|talk]]) 04:28, 18 April 2010 (UTC)
+
+==DYK for Clemuel Ricketts Mansion==
+
+{| class=&quot;messagebox standard-talk&quot;
+|-
+|[[Image:Updated DYK query.svg|15px|Updated DYK query]]
+|On [[Wikipedia:Recent_additions#April 19 2010|April 19, 2010]], '''[[:Template:Did you know|Did you know?]]''' was updated with a fact from the article '''''[[Clemuel Ricketts Mansion]]''''', which you created or substantially expanded. You are welcome to check how many hits the article got while on the front page &lt;small&gt;([[User:Rjanag/Pageview stats|here's how]], [http://stats.grok.se/en/201004/Clemuel_Ricketts_Mansion quick check] )&lt;/small&gt; and add it to [[WP:DYKSTATS|DYKSTATS]] if it got over 5,000. If you know of another interesting fact from a recently created article, then please suggest it on the [[:Template talk:Did you know|Did you know? talk page]].
+|}  Thanks [[User:Victuallers|Victuallers]] ([[User talk:Victuallers|talk]]) 00:02, 19 April 2010 (UTC)
+:Very, very good. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 00:17, 19 April 2010 (UTC)
+::Looks better than when I looked at it some days ago and enjoyed it.  I'm just back last night from a trip to Beaver County and points south; do you need any pictures from that area?  I should have asked before I left, I know (sorry), but if you have any specific requests, I can look through the photos I got.  Perhaps you'll remember that I asked you for help with finding pictures for the Raccoon Creek RDA ([[Raccoon Creek State Park]]) but with little results; I drove down there and now have slightly better pictures than [[:File:Raccoon Creek CCC cabin.jpg|this one]].  [[User:Nyttend|Nyttend]] ([[User talk:Nyttend|talk]]) 21:12, 20 April 2010 (UTC)
+
+== [[May 2009 Southern Midwest derecho]] peer review ==
+
+Thanks for the feedback!  There was a lot of content I will be looking over when I have the time since you had a lot of helpful suggestions.  Just a couple of quick notes:  I had a lot of trouble managing to reconcile this article with the layout from the severe weather wikiproject; usually an article has sections at the end for each of the tornadoes, but since this was a wind storm with a continuous damage path, I had a little more trouble figuring out how to format that.  I certainly like the idea of just a larger effects section, (I sort of had a dur moment when I saw that) but I'm thinking of just completely reorganizing the last few sections of the article.  So when I have some time, I'll be sure to work on the article and help out with a peer review myself.
+
+Thanks again!&lt;br&gt;&lt;/br&gt;
+&lt;b&gt;[[User:Southern Illinois SKYWARN|&lt;font color=&quot;black&quot;&gt;Southern Illinois&lt;/font&gt;&lt;font color=&quot;pink&quot;&gt;SKYWARN&lt;/font&gt;]]&lt;sup&gt;[[User talk:Southern Illinois SKYWARN|Got something to say?]]&lt;/sup&gt;&lt;/b&gt; 00:52, 21 April 2010 (UTC)
+
+==Flickr pics==
+I did see the new Nicholas T pics. They are mostly of places that already have pics. I haven't uploaded them, but see no reason not too. There's quite a few pics of Shawnee from the same user. I may or may not get around to uploading them and the other NickT pics. You can if you want. We have a new computer and I am enjoying getting to know it tonight. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 01:26, 21 April 2010 (UTC)
+:I'll give the mansion a PR tonight. Did you upload any of the discussed flickr pics? I am still adjusting to this new computer. It's a laptop and I am not a fan of the keyboard, yet. Will be at &quot;work&quot; in about an hour. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 19:47, 22 April 2010 (UTC)
+I like the length of the article and think it's fine for FA. Sometimes I think we get too lenghty with our histories for our subjects. I've been thinking this since the [[Black Moshannon State Park]] article FA process. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 22:59, 22 April 2010 (UTC)
+:Fish paste! to the gate. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 23:30, 22 April 2010 (UTC)
+I don't really know much about the Ricketts in question. I will read up on him tomorrow and let you know. --[[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 02:24, 24 April 2010 (UTC)
+:It doesn't seem like anymore details regarding RBR II are needed. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 15:59, 24 April 2010 (UTC)
+::[[User:Amd194|My brother]] knows a bit about architecture. You could ask him. He's not on here very often. If you don't here from him I could alert him via email or facebook. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 02:06, 26 April 2010 (UTC)
+
+==[[Gustav Mahler]]==
+Per your request, this is to let you know that I have now nominated Mahler for FAC. The peer review was thorough, and I can't for myself see what else needs to be done. However, others may feel differently... [[User:Brianboulton|Brianboulton]] ([[User talk:Brianboulton|talk]]) 16:05, 21 April 2010 (UTC)
+
+== [[Jordan River (Utah)]] Review ==
+
+Thank you for doing the peer review for the Jordan River.
+  
+I had been using a couple of different FA rivers as templates, but the Johnson Creek article you showed me is much more applicable to the Jordan River... It really helped out alot.
+
+I think I've hit most of your suggestions.  I would really appreciate it if you go over it again to see what I've missed or didn't do correctly.  I haven't touched the Ecology section as that needs a rewrite, so just ignore it.  I haven't sat down and done any proofreading.... I usually do that a few days after I write so it's a little more fresh.  So ignore any spelling, punctuation and grammar mistakes.  I think after this exercise, I don't want to see, hear or have anyone mention the Jordan River.
+
+btw.... those are very cute chinchillas you have in your photo.  Are they yours?  I miss my chinchilla Inky... seeing her eat raisins is still priceless. [[User:Bgwhite|Bgwhite]] ([[User talk:Bgwhite|talk]]) 01:36, 22 April 2010 (UTC)
+
+:Thank you for taking a look at the article again.  No problem on if it takes you awhile... it seems you review atleast 1/2 the articles around here. [[User:Bgwhite|Bgwhite]] ([[User talk:Bgwhite|talk]]) 04:44, 22 April 2010 (UTC)
+
+==Peer review backlog==
+The backlog is growing, and with Finetooth taking a well-deserved and overdue break from reviewing, it's likely to get longer. I propose to post the following banner on every new PR nomination:-
+&lt;blockquote&gt;'''Peer review is backlogged at the moment''', which could mean delays of up to two weeks before articles can be reviewed. '''You can help''', by choosing one of the articles in the backlog, and reviewing it. Please consider doing this.&lt;/blockquote&gt;
+
+Please amend/expand this wording as you see fit. Do we have any guidance page. e.g. &quot;How to do a peer review&quot; to which we can refer, which might give some confidence to new reviewers? 
+
+I will try to up my PR contribution to one review a day, but I am also trying to help at FAC, where Ealdgyth's departure has created a dearth of source reviews. And I'm trying to steer Mahler through the process Ah, well-a-day.... [[User:Brianboulton|Brianboulton]] ([[User talk:Brianboulton|talk]]) 10:41, 22 April 2010 (UTC)
+
+== Edit warring begin at [[Jerkcity]] ==
+
+Don't know if you might want to get involved in this as an admin, but there's a situation developing over at [[Jerkcity]] where a person keeps adding &quot;Also, cocks&quot; to the lead sentence. There is a reference, but it's bogus in that it does nothing other than establish that the comic strip has used the term. The edit summaries and the talk page  tell a lot of the tale. Not too surprisingly, today a new editor showed up adding back the phrase as their first and only edit. The comic does actively lampoon Wikipedia, so they may have come in from that angle.
+
+Adding the sentence fragment &quot;Also, cocks&quot; to a lead is borderline vandalism, but just enough on the &quot;maybe not&quot; line that it's become (my first) edit war where I can't blanket revert it as pure vandalism. I'm at 3RR myself on the issue. If you could provide additional input on where to go with this, I'd appreciate it. The whole thing is incredibly silly, but there is an important behavioral issue about creating and supporting useful and properly written content that comes with it. Thanks for any help. -- [[User:Michael Devore|Michael Devore]] ([[User talk:Michael Devore|talk]]) 03:11, 23 April 2010 (UTC)
+
+:Thanks, been so busy last day I haven't had time to look the article over again, but I'll make a probably futile effort sometime this weekend to talk editing sense to the other editor(s). I believe the comic strip has lampooned at least one Wikipedia editor by user name who has displeased the comic's author over changes to its article here, so editing involvement and cleanup may be negatively influenced in general. Me, I don't much care, but I am too busy to handle much foolishness right now. -- [[User:Michael Devore|Michael Devore]] ([[User talk:Michael Devore|talk]]) 19:26, 24 April 2010 (UTC)
+
+:Certainly you have done a better job on Talk than I was doing with them (or him). Perhaps they will engage in a more productive discussion of their work with you and thereby gain a better understanding of what needs to be done with the article content, so editing resources can be redirected to more critical articles. We can hope, anyway. -- [[User:Michael Devore|Michael Devore]] ([[User talk:Michael Devore|talk]]) 06:03, 26 April 2010 (UTC)
+
+== Peer review of [[Distributed element filter]] ==
+
+Thank you for your very useful review of this article.  The comments on providing context are particularly helpful to me - it is very easy to fail to see this kind of problem when one has familiarity with the subject.  By the way, not identifying the equipment in the lede picture was quite deliberate.  The filters have very general applications and I was trying to avoid associating them with something specific, but I can now see that this was a mistake as readers will want to know.
+
+Could you help me out by specifically identifying the [[WP:CITE]] violations?  I do place citations after punctuation except where a reference is required to a specific phrase mid-sentence.  Also, please give me a link to the dab finder, I have forgotten where that tool is.  One more thing, can you identify where you are seeing sandwiched text?  The only place I see it in my browser is at figure 4, but it is not badly so, at full screen the column of text is still quite wide and in a small window the text unsandwiches itself.  The alternative is to place all the images on the same side, but they would then push down into another section which is a little ugly.
+
+Once again thanks, I will be working to incorporate all of those suggestions before nominating for FAC. [[User:Spinningspark|&lt;font style=&quot;background:#FFF090;color:#00C000&quot;&gt;'''Sp&lt;font style=&quot;background:#FFF0A0;color:#80C000&quot;&gt;in&lt;font style=&quot;color:#C08000&quot;&gt;ni&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#C00000&quot;&gt;ng&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#2820F0&quot;&gt;Spark'''&lt;/font&gt;]] 00:41, 24 April 2010 (UTC)
+
+:Is the lede any better now? [[User:Spinningspark|&lt;font style=&quot;background:#FFF090;color:#00C000&quot;&gt;'''Sp&lt;font style=&quot;background:#FFF0A0;color:#80C000&quot;&gt;in&lt;font style=&quot;color:#C08000&quot;&gt;ni&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#C00000&quot;&gt;ng&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#2820F0&quot;&gt;Spark'''&lt;/font&gt;]] 14:17, 25 April 2010 (UTC)
+
+::I have now worked on the history section as suggested.  Could you take one more look?  Would you agree it is now ready to go to FAC? [[User:Spinningspark|&lt;font style=&quot;background:#FFF090;color:#00C000&quot;&gt;'''Sp&lt;font style=&quot;background:#FFF0A0;color:#80C000&quot;&gt;in&lt;font style=&quot;color:#C08000&quot;&gt;ni&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#C00000&quot;&gt;ng&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#2820F0&quot;&gt;Spark'''&lt;/font&gt;]] 00:59, 1 May 2010 (UTC)
+
+== Larry's Creek... ==
+
+Hi, I came across [[:en:Larrys Creek]] mostly because I just moved [[:Commons:Category:Larrys Creek|the commonscat Larrys Creek]] to [[:Commons:Category:Larry's Creek|Larry's Creek]]. The reason for the move being logic (it looks like a possessive &amp; thus need an apostophe) and [[:File:Larry's Creek Sign.JPG|this image]] of a sign which has an apostrophe. Now, I could be wrong and as I'm certainly no expert on this river I thought I'd ask you. Will I change it back to the way it was, or is it in fact correct that it should have an apostrophe? Thanks in advance, [[User:Deadstar|Deadstar]] ([[User talk:Deadstar|talk]]) 15:15, 26 April 2010 (UTC)
+:Thanks - thought as much when I saw the article on en: wiki. Thank goodness this stuff can easily be sorted with a bot :) Kind regards, [[User:Deadstar|Deadstar]] ([[User talk:Deadstar|talk]]) 19:30, 26 April 2010 (UTC)
+
+== Benet Academy FAC ==
+
+Hi Ruhrfisch. I just wanted to let you know that [[Benet Academy]], which you have peer reviewed in the past, is at [[Wikipedia:Featured article candidates/Benet Academy/archive1|FAC]]. Feel free to comment if you want. [[User:Benny the mascot|Benny the mascot]] ([[User talk:Benny the mascot|talk]]) 02:39, 27 April 2010 (UTC)
+
+== Like the Chinchilla's ==
+
+Great feedback on [[Sentence spacing]]! I'll get after it. Particularly like the idea about the image in the lede. Best, [[User:Airborne84|Airborne84]] ([[User talk:Airborne84|talk]]) 03:56, 27 April 2010 (UTC)
+
+== Wikipedia:Peer review/Harris Theater (Chicago, Illinois)/archive1 ==
+
+I have attempted to respond to your concerns at [[Wikipedia:Peer review/Harris Theater (Chicago, Illinois)/archive1]] and await your feedback.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|T]]/[[Special:Contributions/TonyTheTiger|C]]/[[User:TonyTheTiger/Antonio Vernon|BIO]]/[[WP:CHICAGO]]/[[WP:FOUR]]) &lt;/small&gt; 04:33, 27 April 2010 (UTC)
+:Thanks for your reveiw. Yes a copyedit would be appreciated.  We are under the clock to get FA promotions.  After you do so or when this PR expires, I will nominate this at [[WP:FAC]].--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|T]]/[[Special:Contributions/TonyTheTiger|C]]/[[User:TonyTheTiger/Antonio Vernon|BIO]]/[[WP:CHICAGO]]/[[WP:FOUR]]) &lt;/small&gt; 15:55, 27 April 2010 (UTC)
+
+== Thanks Very Much ==
+
+
+... for reviewing the Combined Small Cell Lung Carcinoma article on my request. I will fix the stuff you pointed out at my earliest opportunity (prob next few days). Let me know if I can return the favor.
+
+Best regards:
+Cliff L. Knickerbocker, MS ([[User talk:Uploadvirus|talk]]) 12:18, 27 April 2010 (UTC)
+
+== Free State of Galveston ==
+
+FYI: I renom'ed Free State for FA. I pestered a few different folks to give it a once over but to no avail (everyone's busy I suppose).
+
+Anyway, we'll see what happens.
+
+Thanks again for all of the effort.
+
+--[[User:Mcorazao|Mcorazao]] ([[User talk:Mcorazao|talk]]) 15:56, 27 April 2010 (UTC)
+
+== Your [[WP:GA|GA]] nomination of [[Clemuel Ricketts Mansion]]==
+
+The article [[Clemuel Ricketts Mansion]] you nominated as a [[Wikipedia:Good article nominations|good article]] has been placed on hold [[Image:Symbol wait.svg|20px]]. The article is close to meeting the [[WP:GA?|good article criteria]], but there are some minor changes or clarifications needed to be addressed. If these are fixed within seven days, the article will pass, otherwise it will fail. See [[Talk:Clemuel Ricketts Mansion]] for things which need to be addressed. &amp;ndash;&amp;ndash; [[User:Jezhotwells|Jezhotwells]] ([[User talk:Jezhotwells|talk]]) 03:57, 29 April 2010 (UTC)
+:Congratulations on your latest GA!--[[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 10:53, 29 April 2010 (UTC)
+The Bruce plans sound good. Have fun on the &quot;tewer&quot;. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 00:38, 30 April 2010 (UTC)
+==Your recent Peer Review of Protein Allergy==
+
+Hello Ruhrfisch.  I'm just leaving you a quick note about your recent review of [[Protein allergy]].  It was a really great review, and all of the suggestions were excellent, thank you!  I've asked for an additional peer review not because there was anything lacking with your review, but because I'm feeling like another editor's input is needed (I also did a peer review a while ago at the original editor's request).  There's been a fairly strong push to get this article to GA status, which I don't quite think it's ready for, and I'm hoping another peer review will offer some unbiased opinions of the article's status (cause I'm seriously starting to get a complex about being the &quot;it's not ready yet!&quot; squad!). Again, thank you so much for your review, you seem like a really great editor for helping clear the PR backlog!  If you ever need a PR or a GA eval, don't hesitate to throw something on my talk page!  [[User:Jhfortier|Jhfortier]] ([[User talk:Jhfortier|talk]]) 05:03, 30 April 2010 (UTC)
+	</talkpage>
+</article>

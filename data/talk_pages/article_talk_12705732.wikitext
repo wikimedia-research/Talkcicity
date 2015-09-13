@@ -1,0 +1,5 @@
+<article id="12705732" title=Talk:Kenilworth, Washington, D.C.>
+	<talkpage id="12705732" title="Talk:Kenilworth, Washington, D.C.">
+{{WikiProject United States|class=Stub|importance=Low|DC=Yes|DC-importance=Low}}
+	</talkpage>
+</article>

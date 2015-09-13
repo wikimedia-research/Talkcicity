@@ -1,0 +1,13 @@
+<article id="17708112" title=User talk:Tezz30>
+	<talkpage id="17708112" title="User talk:Tezz30">
+
+== May 2008 ==
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to contribute constructively to the encyclopedia, one or more of the external links you added {{#if:Thames Valley University|to the page [[:Thames Valley University]]}} do not comply with our [[Wikipedia:External links|guidelines for external links]] and have been removed. [[Wikipedia:What_Wikipedia_is_not#LINK|Wikipedia is not a collection of links]]; nor should it be used for [[Wikipedia:Spam|advertising]] or promotion. Since Wikipedia uses [[nofollow]] tags, external links do not alter search engine rankings. If you feel the link should be added to the article, please discuss it on the {{#if:Thames Valley University|[[talk:Thames Valley University|article's talk page]]|article's talk page}} before reinserting it. Please take a look at the [[Wikipedia:Welcome|welcome page]] to learn more about contributing to this encyclopedia. {{#if:&amp;nbsp;|&amp;nbsp;|Thank you.}}&lt;!-- Template:uw-spam1 --&gt;
+
+Your edit [http://en.wikipedia.org/w/index.php?title=Thames_Valley_University&amp;diff=216268140&amp;oldid=214810227 here] was reverted by an automated bot that attempts to remove [[WP:NOT#REPOSITORY|unwanted links]] and [[WP:SPAM|spam]] from Wikipedia. If you were trying to insert a good link, please accept my creator's apologies, but note that the [[Wikipedia:External links|external link]] you added or changed is on my list of links to remove and probably shouldn't be included in Wikipedia.
+
+The external links I reverted were matching the following [[regex|regex rule(s)]]: rule: '\bfacebook\.com' (link(s): http://www.facebook.com/group.php?gid=13488716986) .
+
+Please read Wikipedia's [[WP:EL|external links guideline]] for more information, and consult my [[User:XLinkBot/Reversion reasons|list of frequently-reverted sites]]. For more information about me, see [[User:XLinkBot/FAQ|my FAQ page]]. Thanks! &lt;!-- Template:uw-spam1 --&gt;[[User:XLinkBot|XLinkBot]] ([[User talk:XLinkBot|talk]]) 21:57, 31 May 2008 (UTC)
+	</talkpage>
+</article>

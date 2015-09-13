@@ -1,0 +1,35 @@
+<article id="39564015" title=User talk:Nvrk>
+	<talkpage id="39564015" title="User talk:Nvrk">
+==Welcome!==
+
+==[[Wikipedia:Criteria for speedy deletion|Speedy deletion]] nomination of [[:El mercado de los angeles]]==
+[[file:ambox warning pn.svg|left|48px|alt=|link=]]&lt;!-- use [[file:ambox warning yellow.svg|left|48px|alt=|link=]] for YELLOW flag --&gt;
+{{Quote box
+ | quote  = You may also wish to consider using a Wizard to help you create articles. See the [[Wikipedia:Article wizard2.0|Article Wizard]].'''''
+ | source = Thank you.
+ | width  = 20%
+ | align  = right
+}}
+A tag has been placed on '''[[:El mercado de los angeles]]''', requesting that it be speedily deleted from Wikipedia. This has been done under the [[WP:CSD#G11|criteria for speedy deletion]], because the page seems to be unambiguous advertising that only promotes a company, product, group, service or person and would need to be fundamentally rewritten in order to become an acceptable page. Please read [[WP:GCSD|the general criteria for speedy deletion]], particularly item G11, as well as [[WP:SPAM|the guidelines on spam]]. 
+
+If you can indicate why the subject of this page is not blatant advertising, [[File:Speedy delete contest button.svg|link={{fullurl:{{TALKPAGENAME:El mercado de los angeles}}|action=edit&amp;section=new&amp;preload=Template:Hangon_preload&amp;preloadtitle=This+{{pagetype|subjectspace=yes}}+should+not+be+speedy+deleted+because...+}}]]. Clicking that button will take you to the talk page where you will find a pre-formatted place for you to explain why you believe the page should not be deleted. You can also visit '''[[{{TALKPAGENAME:El mercado de los angeles}}|the page's talk page directly]]''' to give your reasons, but be aware that once tagged for ''speedy'' deletion, if the page meets the criterion, it may be deleted without delay. You are welcome to edit the page to fix this problem, but please do not remove the speedy deletion tag yourself. As well as removing promotional phrasing, it helps to add factual encyclopaedic information to the page, and add [[Help:Introduction to referencing/1|citations]] from independent [[Wikipedia:Reliable sources|reliable sources]] to ensure that the page will be [[Wikipedia:Verifiability|verifiable]]. Feel free to leave a note on my talk page if you have any questions about this.[[Category:User talk pages with Spam-warn notices||{{PAGENAME}}]]&lt;!-- Template:Spam-warn --&gt; [[User:Citrusbowler|Citrusbowler]] ([[User talk:Citrusbowler|talk]]) 00:53, 4 June 2013 (UTC)
+== Your submission at [[Wikipedia:Articles for creation|Articles for creation]] ==
+&lt;div style=&quot;border:solid 1px #9accf6;background:#f1f9ff;padding:1em;padding-top:0.5em;padding-bottom:0.5em;width:20em;color:black;margin-bottom: 1.5em;margin-left: 1.5em;width: 90%;&quot;&gt; [[File:AFC-Logo_Decline.svg|50px|left]]Thank you for your recent submission to [[WP:AFC|Articles for Creation]]. Your article submission has been reviewed.  Unfortunately, it has not been accepted at this time. Please view your submission to see the comments left by the reviewer. You are welcome to edit the submission to address the issues raised, and resubmit if you feel they have been resolved.&lt;br&gt;&lt;br&gt;
+&lt;div class=&quot;plainlinks&quot;&gt;
+* If you would like to continue working on the submission, you can find it at [[Wikipedia&amp;#32;talk:Articles for creation/El&amp;#32;Mercado de Los Angeles]].
+* To edit the submission, click on the &quot;Edit&quot; tab at the top of the window.
+* If you need any assistance, you can ask for help at the [{{fullurl:Wikipedia:WikiProject_Articles_for_creation/Help_desk|action=edit&amp;section=new}} '''Articles for creation help desk'''], or on the &lt;span class=&quot;noprint plainlinks&quot;&gt;[{{fullurl:User_talk:FoCuSandLeArN|action=edit&amp;section=new reviewer's talk page]}}&lt;/span&gt;. Please remember to link to the submission!
+*You can also get [http://webchat.freenode.net/?channels=#wikipedia-en-help live chat help from experienced editors].
+:Thank you for your contributions to Wikipedia! [[User:FoCuSandLeArN|FoCuSandLeArN]] ([[User talk:FoCuSandLeArN|talk]]) 17:29, 10 June 2013 (UTC)&lt;/div&gt;&lt;!--Template:Afc decline--&gt;&lt;/div&gt;
+==[[Wikipedia talk:Articles for creation/El Mercado de Los Angeles]] concern==
+Hi there, I'm [[User:HasteurBot|HasteurBot]]. I just wanted to let you know that [[Wikipedia talk:Articles for creation/El Mercado de Los Angeles]], a page you created, has not been edited in 6 months.  The Articles for Creation space is not an indefinite storage location for content that is not appropriate for articlespace.
+
+If your submission is not edited soon, it could be nominated for deletion.  If you would like to attempt to save it, you will need to improve it.
+
+You may request [[WP:USERFY|Userfication]] of the content if it meets requirements.
+
+If the deletion has already occured, instructions on how you may be able to retrieve it are available at [[WP:REFUND/G13]].
+
+Thank you for your attention. [[User:HasteurBot|HasteurBot]] ([[User talk:HasteurBot|talk]]) 02:07, 7 January 2014 (UTC)
+	</talkpage>
+</article>

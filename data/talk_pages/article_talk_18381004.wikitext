@@ -1,0 +1,7 @@
+<article id="18381004" title=User talk:68.159.89.133>
+	<talkpage id="18381004" title="User talk:68.159.89.133">
+== July 2008 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Stacy's_Mom?diff=224785381 recent edit]&lt;/span&gt; you made to [[:Stacy's Mom]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thanks. &lt;!-- Template:uw-huggle1 --&gt; &lt;font face=&quot;comic sans ms&quot; color=&quot;#454545&quot;&gt;[[User:James086|James086]]&lt;/font&gt;&lt;sup&gt;[[User talk:James086|&lt;font color=&quot;#006400&quot;&gt;Talk&lt;/font&gt;]] &amp;#124; [[Special:Emailuser/James086|&lt;font color=&quot;#700000&quot;&gt;Email&lt;/font&gt;]]&lt;/sup&gt; 12:08, 10 July 2008 (UTC)
+	</talkpage>
+</article>

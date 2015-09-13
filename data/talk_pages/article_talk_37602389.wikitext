@@ -1,0 +1,10 @@
+<article id="37602389" title=Talk:1977 FESPIC Games>
+	<talkpage id="37602389" title="Talk:1977 FESPIC Games">
+{{WikiProjectBannerShell|1=
+{{WikiProject Disability |class=List|importance=low}}
+{{WikiProject Asia |class=List|importance=low}}
+{{WikiProject Multisport event |class=List|importance=low}}
+{{WikiProject Australia |class=List|importance=low}}
+}}
+	</talkpage>
+</article>

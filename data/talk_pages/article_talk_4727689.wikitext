@@ -1,0 +1,16 @@
+<article id="4727689" title=User talk:Kailove xxx>
+	<talkpage id="4727689" title="User talk:Kailove xxx">
+Hello and '''[[Wikipedia:Welcome, newcomers|welcome]]''' to [[Wikipedia]]!
+
+Here are some tips to help you get started:
+* If you haven't already, please add your name to the [[Wikipedia:New user log|new user log]] to let others know a little about yourself.
+* Read the [[Wikipedia:Tutorial|Tutorial]], and feel free to experiment in the [[Wikipedia:Sandbox|Sandbox]].
+* Eventually, you might want to read the [[Wikipedia:Manual of Style|Manual of Style]] and [[Wikipedia:Policies and guidelines|Policies and Guidelines]].
+* If you need [[Wikipedia:Help|help]], post a question at the [[Wikipedia:Help desk|Help Desk]] or ask me on [[User talk:Sgrayban|my talk page]].
+* To sign your name on a talk page, please finish your comments with &lt;nowiki&gt;~~&lt;/nowiki&gt;&lt;nowiki&gt;~~&lt;/nowiki&gt; (four tildes). The wiki will insert a link to your userpage and the timestamp.
+* Not every subject needs its own page. Sometimes it is wiser to deal with certain subjects together on one page. See [[Wikipedia:Merge]] and [[Wikipedia:Redirect]] for some background. You may want to review [[Wikipedia:Avoiding common mistakes|Avoiding common mistakes]] to get started quickly.
+* Explore, [[Wikipedia:Be bold in updating pages|be bold in editing pages]], and, most importantly, have fun!
+
+Enjoy!  If you need any help, please don't hesitate to contact me at [[User talk:Sgrayban]].  :-)   &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; -  [[User:Sgrayban|Scott Grayban]] 02:32, 13 April 2006 (UTC)
+	</talkpage>
+</article>

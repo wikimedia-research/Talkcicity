@@ -1,0 +1,11 @@
+<article id="32903291" title=Talk:Yoshida Castle>
+	<talkpage id="32903291" title="Talk:Yoshida Castle">
+{{WPMILHIST
+|class= start|B1=n|B2=n|B3=y|B4=y|B5=y
+|Medieval=yes
+|Fortifications=yes
+|Japanese=yes
+}}
+{{WikiProject Japan|class = start|importance=mid|milhist=y}}
+	</talkpage>
+</article>

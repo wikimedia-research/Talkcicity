@@ -1,0 +1,10 @@
+<article id="24411800" title=Talk:Ingram baronets>
+	<talkpage id="24411800" title="Talk:Ingram baronets">
+{{WikiProject Biography
+|living=no
+|class=Stub
+|peerage-work-group=yes
+|listas=Ingram Baronets
+}}
+	</talkpage>
+</article>

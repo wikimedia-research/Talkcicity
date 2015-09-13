@@ -1,0 +1,5 @@
+<article id="46809412" title=Talk:To Whom It May Concern (Ne-Yo song)>
+	<talkpage id="46809412" title="Talk:To Whom It May Concern (Ne-Yo song)">
+{{WPSongs|class=redirect}}
+	</talkpage>
+</article>

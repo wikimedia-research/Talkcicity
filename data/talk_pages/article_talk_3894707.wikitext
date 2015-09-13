@@ -1,0 +1,70 @@
+<article id="3894707" title=Talk:Quincy (Bleach)>
+	<talkpage id="3894707" title="Talk:Quincy (Bleach)">
+{{talkarchive|List of Bleach characters}}
+
+==Translation==
+I've seen fansubs and scanlations that translate Quincy as both Destroyer and Exorcist.  Exorcist would certainly go along with the crosses, etc.  I'm not sure how to include this though, as I can't really verify it since I don't know Japanese.  Any thoughts? --[[User:Anaraug|Anaraug]] 11:51, 30 January 2006 (UTC)
+
+:It's possible that would be the meaning behind the kanji, but I'm fairly certain its pronunciation is in fact the English word Quincy (derived from Latin &quot;quintus&quot;, meaning five), much like how Arrancars' zanpakuto have kanji, but are pronounced with Spanish names.  The &quot;quintus&quot; might be associated with the rare five-pointed symbol we occasionally see... maybe not, though. --[[User:AngelusInsomnus|AngelusInsomnus]] 15:23, 1 February 2006 (UTC)
+
+::Ah, that makes sense.  I think that that symbol is what the article was referring to as a &quot;pentacle&quot;, which it appears similar to.  (I've only read the manga recently, I'm not sure about inclusion in the anime.)  I'm under the assumption that the Quincy are somehow derived from religious figures in some way, but that's just a guess, I hope more Quincy material comes up in the rest of the series. --[[User:Anaraug|Anaraug]] 16:04, 2 February 2006 (UTC)
+
+:Litterally, the three kanji used for &quot;kuinshi&quot; mean &quot;destroy/ruin&quot;, &quot;instead/rather&quot;, and &quot;teacher/master&quot;.  Or rather, the first two kanji together mean &quot;destruction&quot; and the third indicates a person doing it, albiet an apparently respected or revered person.  However, when I searched the dictionary for the first two kanji, the reading given with the definition was &quot;mekkyaku&quot;. In fact 'ku' is not even listed in the list of readings for the first kanji, nor was 'in' a reading given for the second, so I think it safe to say that &quot;kuinshi&quot; ''is'' supposed to be the English word, and the kanji associated with it are just defining what the word/name's supposed to mean for Japanese readers, which is something I've seen done many times before in manga.  --[[User:ACDragonMaster|ACDragonMaster]] 09:36, 8 March 2006 (UTC)
+
+::Although I didn't think so earlier, I now believe that ''kuinshi'' was indeed supposed to be an English word. You can tell by the katakana used for the furigana in the manga (hiragana is used in Japanese words). Don't think we need to change anything to reflect this though. -- &lt;font face=&quot;wingdings&quot;&gt;Y&lt;/font&gt; [[User:Ynhockey|Ynhockey]] || [[User talk:Ynhockey|Talk]] &lt;font face=&quot;wingdings&quot;&gt;Y&lt;/font&gt; 17:52, 8 March 2006 (UTC)
+
+I was looking at the word &quot;haizen&quot; and was trying to figure out an actual word that would go with it.  Perhaps the German infinitive &quot;heizen,&quot; meaning &quot;to fuel&quot; or &quot;to (re)heat&quot; would better suit with what the technique involves (source http://dict.leo.org/ende?lp=ende&amp;p=tLMk.&amp;search=heizen).  It also could be the German infinitive &quot;heißen,&quot; which means &quot;to lift&quot; or &quot;to be called&quot; (source http://dict.leo.org/ende?lp=ende&amp;p=tLMk.&amp;search=heissen).  I'm not sure yet about the corresponding incantation.  &quot;renze forumeru zento i guraaru&quot; could be &quot;lanze former zehnte gral,&quot; translating to &quot;lance shaper tithe grail&quot;.  There is a possibility that the incantation and the spell name could be in some language other than German. --[[User:fkeidjn|fkeidjn]] 06:42, 13 January 2007 (UTC)
+
+==Weapons==
+i think  The Knuckle &amp; The Arrow should be added, i am not sure on weither this is the correct name, it is the 'spirit form' of the five pointed Qunicy cross. much like the normal Quincy bows and the normal Quincy cross, i just re-read the chapter in which it is introduced: acording to the Ju-Ni scans the name is Ginrei Kojaku: Silver Hill, Arched Peacock [[User:Shinigami Josh|Shinigami Josh]] 05:14, 1 October 2006 (UTC)
+:Isn't The Knuckle &amp; The Arrow a name of a manga chapter? In any case, ''Ginrei Kojaku'' can mean a number of things, depending on how you want to translate it. I prefer Silver Peak Peakock Bow. -- [[User:Ynhockey|Ynhockey]] &lt;sup&gt;([[User talk:Ynhockey|Talk]])&lt;/sup&gt; 08:03, 1 October 2006 (UTC)
+::Yes, it is a chapter title, chapter 243 to be specific.  And presumably a reference to Sado and Ishida's respective techniques.
+::As for the name of Ishida's bow, however, the first two kanji together mean a snow-capped mountain, and the second two are &quot;arc&quot; or &quot;bow&quot; and &quot;sparrow&quot;, but aren't a regular word together.  So the name of the bow probably translates to something along the lines of &quot;bow sparrow of the snow-capped mountain&quot;. --[[User:ACDragonMaster|ACDragonMaster]] 03:03, 11 October 2006 (UTC)
+
+==Power restoration==
+Do we actually know that the scar produced when restoring a Quincy's power will always be pentacle shaped? It seems likely that the shape reflects the Quincy Cross of the one performing the power restoration. [[User:71.203.209.0|71.203.209.0]] 05:19, 8 April 2007 (UTC)
+
+== Quincy Cross ==
+
+''Mekkyaku jūji'' (滅却十字,) is probably the native Japanese pronunciation. In Episode 111, however, Uryū is clearly heard saying &quot;''kuinshi kurosu''.&quot; This makes sense because 滅却師 is pronounced ''kuinshī'' instead of ''mekkyakushi''.
+
+Unless the Japanese Chapter 186 had mekkyaku jūji as the hiragana for 滅却十字, I believe it should be ''kuinshi kurosu''. &lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:Erik-the-red|Erik-the-red]] ([[User talk:Erik-the-red|talk]] • [[Special:Contributions/Erik-the-red|contribs]]) 01:37, 11 May 2007 (UTC).&lt;/small&gt;&lt;!-- HagermanBot Auto-Unsigned --&gt;
+
+:You're most likely right. I can't make the first part out clearly, but ch.186 pg.8 has the katakana &quot;___ kurosu&quot;. --[[User:Pentasyllabic|Pentasyllabic]] 01:50, 11 May 2007 (UTC)
+
+== The pentacle explosion ==
+
+The latest chapter where ishida crates a pentacle  with the seele schneider 's  and creates a massive explosion what is this classified as? I saw this as a gintō technique but it does not use silver tubes.[[User:Evxyza92|Evxyza92]] 19:50, 19 May 2007 (UTC)
+
+:He uses a ''gintō'' to trigger the explosion. '''[[User:Sephiroth BCR|Sephiroth BCR]]''' &lt;sup&gt;'''([[User talk:Sephiroth BCR|Converse]])'''&lt;/sup&gt; 19:51, 19 May 2007 (UTC)
+
+So what is the name of the technique os that volconuro  sorry i cant remember the name?[[User:68.167.65.240|68.167.65.240]] 21:54, 19 May 2007 (UTC)
+
+:I don't believe the name was stated. Perhaps in the next chapter. --[[User:tjstrf|tjstrf]] &lt;small&gt;[[User talk:tjstrf|talk]]&lt;/small&gt; 22:02, 19 May 2007 (UTC)
+
+Where the heck does it say he used 5 Seele Schneiders? Is that even confirmed? [[User:Dannydog3067|Dannydog3067]] 21:13, 30 May 2007 (UTC)
+:Are you reading the braille edition? --[[User:tjstrf|tjstrf]] &lt;small&gt;[[User talk:tjstrf|talk]]&lt;/small&gt; 21:15, 30 May 2007 (UTC)
+
+== Translation #2 - gintou techniques ==
+
+I think the article should mention that these techniques have German names and their activating commands are actually in German - chapter 276 even provides a handy illustration with German text when Ishida explains the technique he used. In the manga the actual, German pronunciation is written as furigana next to the text (similarly how &quot;Quincy&quot; is always written with kanji and the actual pronunciation is supplied by furigana), and in the anime Uryuu actually says the German words when he activates the various techniques. His German pronunciation is bad, but nevertheless he's quite obviously not talking in Japanese.
+
+I corrected the two technique names that were obviously wrong: Haizen -&gt; Heizen (&quot;ei&quot; is pronounced as &quot;ai&quot;, the word means &quot;to heat&quot;) and Gritz -&gt; Glitz, means &quot;glitter.&quot; As for the other two, I've no idea what &quot;vorukooru&quot; is supposed to be, and I'm not quite sure about Sprenger either. The katakana suggest an &quot;er&quot; ending but &quot;Sprenger&quot; seems to mean &quot;watering can&quot; in German, and I doubt that was what Kubo was going for. :D I suspect it's actually a corruption of either &quot;Sprengel&quot; which means &quot;to sprinkle&quot; (I think) or &quot;sprengen&quot; which means &quot;to blast&quot; (which would actually make sense). Anyway, the katakana is &quot;shupurengaa&quot; not &quot;Supurengeru&quot; as the current article claims, so I corrected that.
+
+As for the commands, I don't have the Japanese manga with me so I can't look them up, but IIRC the command for Heizen was &quot;Ich schenke Zeichen,&quot; &quot;I give a sign.&quot; Naturally, Kubo's German is less than stellar, and mine is not very good either, so I don't trust myself with trying to decipher the other commands. But I suggest that someone whose German is better than mine take a look at them. (By the way, there seems to be no relation between the Japanese and German names and commands. Go figure.) - [[User:Mufurc|Mufurc]] 09:17, 7 June 2007 (UTC)
+
+:To whoever cancelled my edits - may I ask for a reason? Even if it's just &quot;we won't change the names because this is how fandom knows them&quot; (which I don't agree with). And in any case, at least the katakana reading given for Sprenger should be corrected. My German may not be very good, but I do know Japanese quite well. Check chapter 276, page 4. if you don't believe me: it says &quot;シュプレンガー&quot; not &quot;スプレンゲル&quot; as the current article claims. - [[User:Mufurc|Mufurc]] 11:56, 7 June 2007 (UTC)
+
+You know, &quot;Sprenger&quot; can mean &quot;explodes&quot; in Norwegian..
+
+==Excorcists?==
+The Quincies don't purify souls or bodies they just destroy or diable them. Quincy means &quot;destroyer&quot; for crying outloud and they don't submit to any supernatural authority, so I think the term &quot;exorcist&quot; should be removed from the page as they are more like &quot;exterminators&quot;. So I will remove the offending mention [[User:Bushido Brown|Bushido Brown]] 18:05, 9 October 2007 (UTC)
+
+
+{{talkarchive|List of Bleach characters}}
+
+{{tlx|editprotected}}
+Please change {{tl|r from merge}} to the more specific {{tl|CharR to list entry|Bleach}}
+:{{done}} Cheers, [[User:PeterSymonds|PeterSymonds]] [[User talk:PeterSymonds|&lt;small&gt;(talk)&lt;/small&gt;]] 20:39, 2 July 2008 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,9 @@
+<article id="43630620" title=Talk:Marcel Kalla>
+	<talkpage id="43630620" title="Talk:Marcel Kalla">
+{{WikiProject Biography
+|living=yes
+|listas=Kalla, Marcel
+|class=Stub
+}}
+	</talkpage>
+</article>

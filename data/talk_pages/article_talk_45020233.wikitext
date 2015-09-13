@@ -1,0 +1,16 @@
+<article id="45020233" title=User talk:Edailly>
+	<talkpage id="45020233" title="User talk:Edailly">
+== Welcome! ==
+Hello, Edailly, and welcome to Wikipedia. We appreciate encyclopedic contributions, but some of your [[Special:Contributions/Edailly|recent contributions]], such as your edit to the page [[:Swelter (film)]], have removed content without [[help:edit summary|an explanation]].  If you'd like to experiment with the wiki's syntax, please do so in the [[wp:sand|sandbox]] rather than in articles.
+
+If you still have questions, there is a [[Wikipedia:New contributors' help page|new contributors' help page]], or you can write '''&lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt;''' below this message along with a question and someone will be along to answer it shortly.  You may also find the following pages useful for a general introduction to Wikipedia:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:Contributing to Wikipedia|Contributing to Wikipedia]]
+*[[Help:Editing|How to edit a page]] and [[Wikipedia:Article development|how to develop articles]]
+*[[Help:Contents|Help pages]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:Article wizard|Article wizard]] for creating new articles
+*[[Wikipedia:Simplified Manual of Style|Simplified Manual of Style]]
+I hope you enjoy editing Wikipedia!  Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. Feel free to write a note on the bottom of [[User talk:NinjaRobotPirate{{!}}my talk page]] if you want to get in touch with me. Again, welcome! &lt;!--Template:Welcome-delete--&gt; [[User:NinjaRobotPirate|NinjaRobotPirate]] ([[User talk:NinjaRobotPirate|talk]]) 02:30, 12 January 2015 (UTC)
+	</talkpage>
+</article>

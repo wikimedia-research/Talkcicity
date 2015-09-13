@@ -1,0 +1,11 @@
+<article id="3968736" title=User talk:Danjp123>
+	<talkpage id="3968736" title="User talk:Danjp123">
+==Image copyright problem with Image:183.jpg==
+ 
+Thanks for uploading [[:Image:183.jpg]]. However, the image may soon be deleted unless we can determine the copyright holder and copyright status. The [[Wikimedia Foundation]] is very careful about the images included in [[Wikipedia]] because of [[copyright law]] (see Wikipedia's [[Wikipedia:Copyright|Copyright policy]]).
+
+The copyright holder is usually the creator, the creator's employer, or the last person who was transferred ownership rights. Copyright information on images is signified using copyright templates. The three basic license types on Wikipedia are [[open content]], [[public domain]], and [[fair use]]. Find the appropriate template in [[Wikipedia:Image copyright tags]] and place it on the image page like this: &lt;code&gt;&lt;nowiki&gt;{{TemplateName}}&lt;/nowiki&gt;&lt;/code&gt;.
+
+Please signify the copyright information on any other images you have uploaded or will upload. Remember that images without this important information can be deleted by an administrator. If you have any questions, feel free to contact me. Thank you.[[Image:Weather rain.png]]'''[[User:SoothingR|&lt;span style=&quot;color:#AAAAAA;&quot;&gt;Soothing&lt;/span&gt;]][[User talk:SoothingR|&lt;span style=&quot;color:#9AB9EB;&quot;&gt;''R''&lt;/span&gt;]]''' 16:46, 5 February 2006 (UTC)
+	</talkpage>
+</article>

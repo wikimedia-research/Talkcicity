@@ -1,0 +1,42 @@
+<article id="32033165" title=User talk:Barrywhughes>
+	<talkpage id="32033165" title="User talk:Barrywhughes">
+
+
+'''Welcome!'''
+
+Hello, Barrywhughes, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for [[Special:Contributions/Barrywhughes|your contributions]]. I hope you like the place and decide to stay. Unfortunately, one or more of the pages you created, such as [[SuperMassiveBlackHole magazine]], may not conform to some of Wikipedia's [[Wikipedia:List of policies|guidelines]], and may soon be deleted. 
+
+There's a page about creating articles you may want to read called '''[[Wikipedia:Your first article|Your first article]]'''. If you are stuck, and looking for help, please come to the '''[[Wikipedia:New contributors' help page|New contributors' help page]]''', where experienced Wikipedians can answer any queries you have! Or, you can just type '''{{t|helpme}}''' on this page, and someone will show up shortly to answer your questions. Here are a few other good links for newcomers:
+* [[Wikipedia:Starting an article|Starting an article]]
+* [[Wikipedia:Your first article|Your first article]]
+* [[Wikipedia:Biographies of living persons|Biographies of living persons]]
+* [[Wikipedia:How to write a great article|How to write a great article]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Tutorial|Tutorial]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you have any questions, check out [[Wikipedia:Questions]] or ask me on my talk page. &lt;!-- Template:First article --&gt; Again, welcome!&amp;nbsp;[[User:MikeWazowski|MikeWazowski]] ([[User talk:MikeWazowski|talk]]) 19:33, 9 June 2011 (UTC)
+
+==[[Wikipedia:Criteria for speedy deletion|Speedy deletion]] nomination of [[:SuperMassiveBlackHole magazine]]==
+[[Image:Ambox warning pn.svg|48px|left|alt=|link=]]
+{{Quote box|quote=&lt;p&gt;If this is the first article that you have created, you may want to read [[WP:Your first article|the guide to writing your first article]].&lt;/p&gt;&lt;p&gt;You may want to consider using the [[Wikipedia:Article wizard|Article Wizard]] to help you create articles.&lt;/p&gt;|width=20%|align=right}}
+A tag has been placed on [[:SuperMassiveBlackHole magazine]], requesting that it be speedily deleted from Wikipedia. This has been done under [[WP:CSD#G11|section G11 of the criteria for speedy deletion]], because the page seems to be unambiguous advertising which only promotes a company, product, group, service or person and would need to be fundamentally rewritten in order to become an encyclopedia article. Please read [[Wikipedia:Spam|the guidelines on spam]] and [[Wikipedia:FAQ/Business]] for more information. 
+
+If you think that this notice was placed here in error, contest the deletion by clicking on the button labelled &quot;Click here to contest this speedy deletion,&quot; which appears inside of the speedy deletion (&lt;code&gt;&lt;nowiki&gt;{{db-...}}&lt;/nowiki&gt;&lt;/code&gt;) tag (if no such tag exists, the page is no longer a speedy delete candidate). Doing so will take you to the talk page where you will find a pre-formatted place for you to explain why you believe the page should not be deleted. You can also visit the '''[[Talk:SuperMassiveBlackHole magazine|the page's talk page directly]]''' to give your reasons, but be aware that once tagged for ''speedy'' deletion, if the page meets the criterion, it may be deleted without delay. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the page that would render it more in conformance with Wikipedia's policies and guidelines. If the page is deleted, you can contact [[:Category:Wikipedia administrators who will provide copies of deleted articles|one of these administrators]] to request that the administrator [[Wikipedia:Userfication#Userfication_of_deleted_content|userfy]] the page or email a copy to you. &lt;!-- Template:Db-spam-notice --&gt; &lt;!-- Template:Db-csd-notice-custom --&gt; [[User:MikeWazowski|MikeWazowski]] ([[User talk:MikeWazowski|talk]]) 19:33, 9 June 2011 (UTC)
+
+==[[Wikipedia:Criteria for speedy deletion|Speedy deletion]] nomination of [[:SuperMassiveBlackHole magazine]]==
+[[Image:Ambox warning pn.svg|48px|left|alt=|link=]]
+
+A tag has been placed on [[:SuperMassiveBlackHole magazine]], requesting that it be speedily deleted from Wikipedia for multiple reasons. '''Please see the page to see the reasons'''. If the page has since been deleted, you can ask me the reasons by leaving a message on [[User talk:Island Monkey|my user talk page]]. 
+
+If you think that this notice was placed here in error, contest the deletion by clicking on the button labelled &quot;Click here to contest this speedy deletion,&quot; which appears inside of the speedy deletion (&lt;code&gt;&lt;nowiki&gt;{{db-...}}&lt;/nowiki&gt;&lt;/code&gt;) tag (if no such tag exists, the page is no longer a speedy delete candidate). Doing so will take you to the talk page where you will find a pre-formatted place for you to explain why you believe the page should not be deleted. You can also visit the '''[[Talk:SuperMassiveBlackHole magazine|the page's talk page directly]]''' to give your reasons, but be aware that once tagged for ''speedy'' deletion, if the page meets the criterion, it may be deleted without delay. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the page that would render it more in conformance with Wikipedia's policies and guidelines. If the page is deleted, you can contact [[:Category:Wikipedia administrators who will provide copies of deleted articles|one of these administrators]] to request that the administrator [[Wikipedia:Userfication#Userfication_of_deleted_content|userfy]] the page or email a copy to you.  [[User:Island Monkey|Island Monkey]] &lt;sup&gt;[[User talk:Island Monkey|talk the talk]]&lt;/sup&gt; 19:39, 9 June 2011 (UTC)
+
+==[[SuperMassiveBlackHole magazine]] deleted==
+Hello, and [[Wikipedia:Introduction|welcome]] to Wikipedia. We appreciate your {{#if::SuperMassiveBlackHole magazine|contributions to the [[::SuperMassiveBlackHole magazine]] article|contributions}}, but for legal reasons, we cannot accept [[Wikipedia:Copyrights|copyrighted]] text or images borrowed from other web sites or printed material, and as a consequence, your addition will most likely be deleted.
+
+You may use external websites as a source of ''information'', but not as a source of ''sentences''. This part is crucial: ''say it in your own words''.
+
+If the external website belongs to you, and you want to allow Wikipedia to use the text — which means allowing other people to modify it — then you must include ''on the external site'' the statement &quot;I, (name), am the author of this article, (article name), and I release its content under the terms of the [http://www.gnu.org/copyleft/fdl.html GNU Free Documentation License], Version 1.2 and later, and under the terms of [http://creativecommons.org/about/licenses/ the Creative Commons Attribute Share-Alike].&quot; 
+
+You might want to look at [[Wikipedia:Policies and guidelines|Wikipedia's policies and guidelines]] for more details, or ask a question at the &quot;[[WP:HD|Help Desk]]&quot;. You can also leave a message on my talk page. &lt;!-- Template:Nothanks --&gt;20:03, 9 June 2011 (UTC)[[User:Dlohcierekim| &lt;font color=&quot;#00ff00&quot;&gt; Dloh&lt;/font&gt;]][[User_talk:Dlohcierekim|&lt;font color=&quot;#bb00bb&quot;&gt;cierekim''' &lt;/font&gt;]] 20:03, 9 June 2011 (UTC)
+	</talkpage>
+</article>

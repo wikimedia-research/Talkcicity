@@ -1,0 +1,5 @@
+<article id="45022131" title=Talk:Pseudocoptops seychellarum>
+	<talkpage id="45022131" title="Talk:Pseudocoptops seychellarum">
+{{WikiProject Insects|class=stub|importance=low}}
+	</talkpage>
+</article>

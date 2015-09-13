@@ -1,0 +1,5 @@
+<article id="32300499" title=Talk:E Is For Extinction>
+	<talkpage id="32300499" title="Talk:E Is For Extinction">
+{{WikiProject Comics |class=redirect}}
+	</talkpage>
+</article>

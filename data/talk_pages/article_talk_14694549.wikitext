@@ -1,0 +1,36 @@
+<article id="14694549" title=Talk:Cotswold Gliding Club>
+	<talkpage id="14694549" title="Talk:Cotswold Gliding Club">
+{{WPAVIATION
+|class=B
+&lt;!-- B-Class checklist --&gt;
+&lt;!-- 1. It is suitably referenced, and all 
+major points are appropriately cited. --&gt;
+|B-Class-1=yes
+&lt;!-- 2. It reasonably covers the topic, and 
+does not contain major omissions or inaccuracies. --&gt;
+|B-Class-2=yes
+&lt;!-- 3. It has a defined structure, including 
+a lead section and one or more sections of content. --&gt;
+|B-Class-3=yes
+&lt;!-- 4. It is free from major grammatical errors. --&gt;
+|B-Class-4=yes
+&lt;!-- 5. It contains appropriate supporting materials, 
+such as an infobox, images, or diagrams. --&gt;
+|B-Class-5=yes
+|Gliding-project=yes}}
+
+== Editing this page ==
+
+Please correct any errors or omissions you spot on this page.  Club members are obviously in the best position to do this; but comments &amp; corrections are welcome from any user.
+
+If you're unfamiliar with editing, just leave a note here or drop me a line on my Talk page. --[[User:Ndsg|NigelG (or Ndsg)]] | [[User talk:Ndsg|Talk]] 11:39, 28 December 2007 (UTC)
+
+== 1980 auction ==
+
+Thanks are due to George Timbrell for bringing to our attention—&amp; physically locating—the S&amp;G article by David Roberts. --[[User:Ndsg|NigelG (or Ndsg)]] | [[User talk:Ndsg|Talk]] 21:20, 20 January 2008 (UTC)
+
+== Blokarting  links ==
+
+I've reduced the external Blokarting links to one: Blokarters UK.  Three links seemed too much for what is, after all, a gliding club! --[[User:Ndsg|NigelG (or Ndsg)]] | [[User talk:Ndsg|Talk]] 18:22, 21 May 2008 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,10 @@
+<article id="14140299" title=Talk:Northallerton (UK Parliament constituency)>
+	<talkpage id="14140299" title="Talk:Northallerton (UK Parliament constituency)">
+{{WikiProjectBannerShell|1=
+{{WikiProject Politics of the United Kingdom|class=Start|auto=inherit|importance=low}}
+{{WikiProject UK Parliament constituencies}}
+{{WikiProject Yorkshire|class=Start|importance=Low}}
+{{WikiProject Elections and Referendums}}
+}}
+	</talkpage>
+</article>

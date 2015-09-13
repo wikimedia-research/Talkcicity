@@ -1,0 +1,11 @@
+<article id="20298129" title=User talk:88.107.24.202>
+	<talkpage id="20298129" title="User talk:88.107.24.202">
+
+
+== November 2008 ==
+[[Image:Information.svg|25px]]  Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits{{#if:Smart material|, such as the one you made to [[:Smart material]],}} did not appear to be constructive and has been removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism1 --&gt; - [[User talk:Eldereft|Eldereft]] &lt;small&gt;([[Special:Contributions/Eldereft|cont.]])&lt;/small&gt; 20:40, 19 November 2008 (UTC)
+:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
+
+[[Image:Information.png|25px]] The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Smart+material?diff=252852547 recent edit]&lt;/span&gt; you made to [[:Smart material]] constitutes [[Wikipedia:Vandalism|vandalism]], and has been reverted. Please do not continue to vandalize pages; use the [[Wikipedia:Sandbox|sandbox]] for testing. Thank you. &lt;!-- Template:uw-huggle2 --&gt; [[User:Irunongames|Irunongames]] ([[User talk:Irunongames|talk]]) 21:06, 19 November 2008 (UTC)
+	</talkpage>
+</article>

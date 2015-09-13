@@ -1,0 +1,10 @@
+<article id="42575408" title=Talk:Shamkir Chess>
+	<talkpage id="42575408" title="Talk:Shamkir Chess">
+{{WikiProject Chess|class=start|importance=Low}}
+{{WikiProject Azerbaijan|class=Start|importance=Mid|games=yes}}
+
+How can article tell it is usually played in April since it has only been held once?  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/188.238.115.177|188.238.115.177]] ([[User talk:188.238.115.177|talk]]) 07:37, 29 April 2014 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:Yeah, this seems like nonsense.  The article also claim that it's been held every year since 2014, which may be tecnically true, but is pretty poor wording given that it IS 2014.  Perhaps the organisers plan to hold it every year (in which case, the article should say that), but I'm struggling to find a source that makes that claim. [[Special:Contributions/193.9.13.138|193.9.13.138]] ([[User talk:193.9.13.138|talk]]) 16:18, 29 April 2014 (UTC)
+I've done some work to this article. Hope that's helped. Jkmaskell 16:20, 20 July 2014
+	</talkpage>
+</article>

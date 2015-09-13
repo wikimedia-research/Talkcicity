@@ -1,0 +1,5 @@
+<article id="17845789" title=Talk:Kőszegdoroszló>
+	<talkpage id="17845789" title="Talk:Kőszegdoroszló">
+{{WikiProject Hungary|class=stub|importance=low}}
+	</talkpage>
+</article>

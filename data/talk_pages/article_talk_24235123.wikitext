@@ -1,0 +1,342 @@
+<article id="19748599" title=Talk:List of Northeastern University alumni>
+	<talkpage id="19748599" title="Talk:List of Northeastern University alumni">
+{{Talk header}}
+{{WikiProject Lists|class=List|importance=Low|listas=Northeastern University alumni}}
+
+==Pointless==
+This is pointless. &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:76.19.82.104|76.19.82.104]] ([[User talk:76.19.82.104|talk]] • [[Special:Contributions/76.19.82.104|contribs]]) &lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt;
+
+I second that; this list needs pruning! [[User:Punkmorten|Punkmorten]] ([[User talk:Punkmorten|talk]]) 21:17, 26 February 2009 (UTC)
+
+==Under Construction==
+
+Hello, this is [[User:Nezzadar|Nezzadar]]. Right now, I am working on cleaning up this list, and have made some progress. When I am done, there will be no need for this page and I will ask for it to be deleted. 
+
+===The Plan===
+
+1. Seperate &quot;Faculty&quot; section off, create a new page for faculty, transpose the names, create a link to the new page from this page and the Northeastrn Univesity page.
+:::'''Done''' ''See [[Notable Northeastern University Faculty]]''
+2. Massive clean up of the new Faculty page.
+:::'''Done'''
+3. Massive clean up of the alumni list, which is all that remains on the page &quot;List of Northeastern University People&quot;
+:::'''Good Enough for Now'''
+4. Create a new page for alumni, transpose the names, create a link to the new page from this page and the Northeasten University page.
+:::'''Done''' ''I'm glad that I remembered the [[WP:MOVE]] function. Makes it easy.''
+5. Remove all links to this page, sub in a link to the appropriate new page, then delete old page.
+:::'''Done''' ''List of Northeastern University people is pending deletion.''
+
+===Helping===
+
+I do not own this page, however I would greatly appreciate it if you would notify me of any major changes you make, you can do it here if you want. This is mainly so I can keep track of what has been and what needs to be done. I generally won't touch your changes, but if I do, it will be to create a visual consistency (capitalize the first letter after the dash, etc)
+
+I believe in good faith editing, and do not fact check the names. So far I have checked a few people to get information for their summeries, and have found my faith not misplaced. Please do not add in phony names. 
+
+===Thank You===
+
+[[User:Nezzadar|Nezzadar]] ([[User talk:Nezzadar|talk]]) 04:08, 5 September 2009 (UTC)
+
+----
+
+''Please do not edit the above section, confine comments to the section below. Thank you. [[User:Nezzadar|Nezzadar]] ([[User talk:Nezzadar|talk]])''
+
+== Talk Section ==
+*Redirects are left intentionally behind after a move and in this case here not subject to speedy deletion per CSd R3. In general we also do not use 'notable' in the titles, because it is understood that only notable people are listed. So this list has too many redlinks and is now named differently than others in [[:Category:Lists of people by university in the United States]].--[[User:Tikiwont|Tikiwont]] ([[User talk:Tikiwont|talk]]) 23:37, 5 September 2009 (UTC)
+: So I've moved it to [[List of Northeastern University alumni]] to comply with our general naming convention with no caps for alumni.--[[User:Tikiwont|Tikiwont]] ([[User talk:Tikiwont|talk]]) 06:11, 6 September 2009 (UTC)
+
+== Redlinks ==
+
+A list article like this should only have people who have articles of their own per [[WP:REDDEAL]] (last bullet in the section). All of the redlinks should be deleted; I'll do it in a few days unless someone has a reason I shouldn't. --[[User:JaGa|&lt;b&gt;&lt;font color=&quot;#990000&quot;&gt;Ja&lt;/font&gt;&lt;font color=&quot;#000099&quot;&gt;Ga&lt;/font&gt;&lt;/b&gt;]][[User_talk:JaGa|&lt;font color=&quot;#000000&quot; size=&quot;-1&quot;&gt;&lt;sup&gt;talk&lt;/sup&gt;&lt;/font&gt;]] 04:02, 23 January 2011 (UTC)
+
+== Redlinked articles ==
+
+===Business===
+* [[Leslie Abi-Karam]] – EVP, [[Pitney Bowes]]&lt;ref&gt;http://people.forbes.com/profile/leslie-r-abi-karam/64015&lt;/ref&gt;
+* [[Bob Abramms]] – founder, [[ODT, Inc.]] &lt;ref&gt;http://www.odt.org/abobbib.htm&lt;/ref&gt;
+* [[Robert Ailinger]] – co-founder, COO, [[Spirus Medical]] &lt;ref&gt;http://www.spirusmed.com/management.html&lt;/ref&gt;
+* [[Richard M. Altieri]] – CFO, [[Salient Surgical Technologies Inc.]] &lt;ref&gt;http://www.tissuelink.com/about-us/leadership.aspx&lt;/ref&gt;
+* [[William Archey]] – President and CEO, [[AeA]] &lt;ref&gt;http://www.aeanet.org/AboutAeA/aa_bio_billarchey.asp&lt;/ref&gt;
+* [[Dave Arthur]] – CEO, [[SouthWest NanoTechnologies, Inc.]] &lt;ref&gt;http://www.swnano.com/about/management.php&lt;/ref&gt;
+* [[Janet Barbookles]] – Vice President and General Counsel, [[Nova Ventures Group]] &lt;ref&gt;http://www.novavg.com/about.html&lt;/ref&gt;
+* [[Paul H. Barry]] – SVP, [[Duke Energy]] &lt;ref&gt;http://www.duke-energy.com/about-us/leaders/paul-barry.asp&lt;/ref&gt;
+* [[George Behrakis]] – founder, [[Dooner Laboratories]] and [[Muro Pharmaceuticals]] &lt;ref&gt;http://investing.businessweek.com/businessweek/research/stocks/private/person.asp?personId=2403113&lt;/ref&gt;
+* [[Bob Bennett (businessman)|Bob Bennett]] – President, [[Sage Payment Solutions]] &lt;ref&gt;&lt;http://www.sagespecialized.com/Company/Management/bennett.asp&gt;&lt;/ref&gt;
+* [[Dennis G. Berger]] – SVP, [[CDW]] &lt;ref&gt;http://newsroom.cdw.com/executives/#Berger&lt;/ref&gt;
+* [[Ken Bero]] – President and CEO, [[Datawatch Corp.]] &lt;ref&gt;http://people.forbes.com/profile/kenneth-p-bero/25311&lt;/ref&gt;
+* [[James Bertelli]] – co-founder, [[Mercury Computer Systems]] &lt;ref&gt;http://investing.businessweek.com/research/stocks/people/person.asp?personId=376923&amp;symbol=MRCY.O&lt;/ref&gt;
+* [[Vincent H. Biessy]] – Purchasing, Product &amp; Distribution Manager, [[Atol les Opticiens]]
+* [[Ross Blair]] – President and CEO, [[Experion Systems]] &lt;ref&gt;http://www.experionsystems.com/company.html&lt;/ref&gt;
+* [[Roger Blethen]] – CEO, [[LTX Corporation]] &lt;ref&gt;http://people.forbes.com/profile/roger-w-blethen/50203&lt;/ref&gt;
+* [[Paul Bogonis]] – CFO, [[Top Layer Networks]] &lt;ref&gt;http://www.toplayer.com/content/company/management_team.jsp&lt;/ref&gt;
+* [[William J. Bolt]] – SVP, [[AbioMed]] &lt;ref&gt;http://people.forbes.com/profile/william-j-bolt/547&lt;/ref&gt;
+* [[R. Todd Bombard]] – VP, [[Hy9]] &lt;ref&gt;http://hy9.com/team.html&lt;/ref&gt;
+* [[Alec Burger]] – VP, [[GE| GE Commercial Finance]] &lt;ref&gt;http://usa.gerealestate.com/cms/servlet/cmsview/GERealEstateUSA/prod/en/shared/info/exec_bios/corp_staff/burger_alec.html&lt;/ref&gt;
+* [[William J. Cadogan]] – CEO, [[ADC Telecommunications, Inc]]
+* [[John Cahaly]] – CEO, [[EzeCastle]]
+* [[Edward Campbell (businessman)|Edward Campbell]] – EVP, [[BBN Technologies]]
+* [[Robert W. Campbell]] – SVP, [[Vedior]]
+* [[Kevin Carlson]] – CIO, [[AMSplus]]
+* [[JP Carney]]- co-founder and COO [[Revolabs]] 
+* [[Daniel J. Casaletto]] – VP, [[Intel]]
+* [[Anna M. Chagnon]] – President and CEO, [[Bitstream, Inc.]]
+* [[Glenn Champagne]] – VP, [[InBoxer]]
+* [[Jeffrey Churchill]] – VP, [[Cambridge Trust Company]]
+* [[Peter Chynoweth]] – VP, [[CMA]]
+* [[Robert Cirrone]] – CFO, [[Courion Corporation]]
+* [[Cheryl Clarkson]] – President and CEO, [[Skinhealth, Inc.]]
+* [[Carl Cote]] – VP, [[Equipnet]]
+* [[Christine M. Cournoyer]] – EVP and COO, [[Picis]]
+* [[Eileen M. Creeden]] – VP, [[Verizon]]
+* [[Marc Cremer]] – VP, [[Tatara Systems]]
+* [[Aidan Cullen]] – CFO, [[Sylantro Systems Corporation]]
+* [[John Cullinane]] – founder, [[Cullinet Software, Inc.]]
+* [[Mr. Kenneth Dandurand]] – co-Founder and president, [[MedNovations, Inc.]]
+* [[Robert Davis (businessman)|Robert Davis]] – founder, former CEO, [[Lycos]]
+* [[Kevin DeNuccio]] – former SVP, [[Cisco Systems]]; president and CEO, [[Redback Networks]]
+* [[Robert DiCenso]] – former SVP, [[Gillette]]
+* [[Arthur J. DiScipio]] – SVP, [[Anacomp]]
+* [[Jerry Donegan]] – VP, [[Zildjian]]
+* [[Gary C. Dunton]] – CEO, [[MBIA, Inc.]]
+* [[Ashoke Dutt]] – former EVP, [[Discover Financial Services]]
+* [[Matt Eastwood]] – VP, [[IDC]]
+* [[William M. Ellis]] – President, [[Textron]] 
+* [[Edmond English]] – President and CEO, [[TJX]] Companies
+* [[Bruce Ericson]] – ViP, [[RTI]]
+* [[Marsha Fanucci]]- SVP and CFO, [[Millennium]]
+* [[Richard Feldt]] – President and CEO, [[Evergreen Solar]]
+* [[Kenneth A. Fine]] – President and co-Founder, [[Proven Process Medical Devices]]
+* [[Joseph P. Fleming]] –  Chairman, [[Specialty Pharma, Inc.]]
+* [[Christopher Ford]] – co-Founder, [[American Renal]]
+* [[Monte E. Ford]] – SVP and CIO, [[American Airlines]]
+* [[Gary M. Frazier]] – Former SVP  [[Oxford Health Plans]] 
+* [[Jim Furneaux]] – Chairman, [[Intersense]]
+* [[Joel Gagne]] -Owner, [[Avakian Consulting]]
+* [[Ed Galante]] – SVP [[Exxon Corporation]]
+* [[John Gannon (businessman)|John Gannon]] – former CFO, [[Firefly Network Inc.]]
+* [[Robert Garnick]] – SVP, [[Genentech]]
+* [[Peter A. Gay]] – VP, [[Raytheon]]
+* [[Francis A. Gicca]] – former President, [[GTE Government Systems Corporation]]
+* [[Scott Goldthwaite]] – co-Founder, [[DigitalGrit]]
+* [[Joseph Golemme]] – CFO, [[Janus]]
+* [[Gene Guselli]] – co-founder, President, and CEO, [[Infomedics]]
+* [[Laura Hackel]] – VP, [[Novell]]
+* [[John N. Hatsopoulos]] – CEO, [[American DG Energy]]
+* [[Gerard M. Hayden, Jr.]] – CFO, [[MedAvant Healthcare Solutions]] 
+* [[Kaynam Hedayat]] – VP, and CTO, [[Brix Networks]]
+* [[Charles Hoff (business)|Charles Hoff]] – SVP, [[Bausch &amp; Lomb]]
+* [[Ian M. Holland]],  – VP, [[Kronos Incorporated|Kronos]]
+* [[David L. House]] – President, [[Nortel]]
+* [[Dallas E. Hughes]] – founder and SVP, [[Cetek Corporation]]
+* [[Steve Huntley]] – VP, [[Tyco Health Care]]
+* [[Cristine Hurley]]- CFO, [[Los Angeles Dodgers]]
+* [[Carl R. Hurtig]] – founder and former CEO, [[Damon Corporation]]
+* [[Andrew Jamison]]- CEO, [[Scalable Display Technologies]]
+* [[Mike Jannini]] – EVP, and General Manager, [[Marriott International, Inc.]]
+* [[Thomas Karrat]]- EVP, [[Mimeo]]
+* [[Dennis D. Keefe]] – CEO [[Cambridge Health Alliance]]
+* [[Harry P. Keegan III]], – President and CEO, [[Braintree Laboratories]]
+* [[Sonia Khademi]] – co-founder, former president and CEO, [[Cablesoft]]
+* [[Kirk Paul Kirkman]] – VP, [[ZixCorp]]
+* [[Roy Kok]]- VP, [[Kepware]]
+* [[George Kostas]] –  founder, [[Tesco]]( Techno-Economic Services, Inc.)
+* [[Jean Kovacs]] – President and CEO, [[Comergent]]
+* [[Kristine Langdon]] – President, [[Thermo Vision]]
+* [[Daniel Lee (businessman)|Daniel Lee]] – VP, [[Hitachi, Ltd.|Hitachi]]
+* [[Bob Lentz]]- CEO, [[PermissionTV]]
+* [[Irving M. Levine]] – founder, [[Multiquip, Inc.]]
+* [[Mark Little (businessman)|Mark Little]] – SVP, [[General Electric]]
+* [[Dean Maglaris]]- former GVP, [[Pfizer]]
+* [[Michael J. Magliochetti]] – President and CEO, [[Claros Diagnostics]]
+* [[Corinne Maioli]] – founder, [[HealthBridge]]
+* [[Susan Major]] – co-founder and Managing Partner, [[DavenportMajor]]
+* [[Phil Makris]] – CFO, [[LessonLab]]
+* [[Donald Massa]] – founder and CEO, [[Massa Products Corporation]]
+* [[Marc Mastrangelo]] – VP, [[Tel-Instrument Electronics Corp.]]
+* [[Ron Matros]] – President and CEO, [[Metacarta]]
+* [[George Matthews (businessman)|George Matthews]] – co-founder, [[USFL]] and former owner, [[Portland Breakers|Boston Breakers]]
+* [[Bruce Mavec]] – President, [[Royal American Group]]
+* [[Michael J. Mazzariello]] – VP, [[MidAtlantic Bank]]
+* [[Russ McCann]] – co-founder [[Ares Software Corporation]]; co-founder, President, and CEO, [[Actio]]
+* [[Jean McCluskey]] – VP, [[Parsons Brinckerhoff]]
+* [[Joseph T. McConnell]] – CFO, [[wb mason|W.B. Mason Co.]]
+* [[Chris McIntire]] – President and COO, [[Nova Analytics]]
+* [[Peter C. McKay]] – President and CEO, [[Watchfire]], an [[IBM]] company
+* [[John J McLaughlin]] – President and CEO [[DAP Products Inc]]  
+* [[Mark McWilliams]] – CEO, [[Mediapacs]]
+* [[Vic Melfa]]- co-founder and former CEO, [[Vitronix]]; founder and CEO, [[The Training Associates]]
+* [[Georges Melhem]] – founder, President and CEO, [[Pyxsys]]
+* [[John R. Messier]] – former President, [[GTE Corporation]]
+* [[Tom Millea]] – VP, [[Klocwork]]
+* [[Roy Miller (businessman)|Roy Miller]]- President, [[Erad]]
+* [[Thomas Mitchell (businessman)|Thomas Mitchell]] – co-founder and CFO, [[ABS Associates Inc.]]
+* [[Peter J. Moran]] – Co-Founder, [[ThinkBusiness magazine]]
+* [[Wayne Morrison]] – VP, [[Amphenol TCS]]
+* [[John Mortenson]] – EVP and COO, [[Medrium]]
+* [[Thomas W. Muldoon]] – former VP, [[Verizon Communications, Inc.]]
+* [[Deborah Mulryan]] – SVP, [[Cantata Technology]]
+* [[Henry Nassella]] – former CEO, [[Star Markets]]
+* [[Paul E. Noble, Jr.]] – former EVP, [[EMC]]
+* [[Dave Noderer]] – founder, President and CEO, [[Computer Ways Inc.]]
+* [[Kevin O'Brien (businessman)|Kevin O'Brien]] – CFO, [[Ahura Scientific]]
+* [[Erez Ofer]] – former EVP, [[EMC Corporation]]
+* [[Stephen Olive]] – VP, [[Raytheon]]
+* [[Edward Olkkola]] – SVP,  [[Belo Corp.]]
+* [[Thomas E. Oram]] – CFO, [[LogistiCare, Inc.]]
+* [[Stuart M. Osattin]] – CFO and VP, [[Teradyne, Inc.]]
+* [[Martin Pejko]] – VP, [[Guardium]]
+* [[Leonard C. Perham]] – CEO, [[Integrated Device Technology, Inc.]]
+* [[Valerie Perlowitz]] – President and CEO, [[Reliable Integration Services]]
+* [[Dennis J. Picard]] — former chairman and CEO, [[Raytheon]]
+* [[Robert Picciano]] – VP, [[IBM]]
+* [[R. Robert Popeo]] – Chairman, [[Mintz, Levin, Cohn, Ferris, Glovsky &amp; Popeo]]
+* [[Salil Pradhan]] – CTO, [[Hewlett-Packard]]
+* [[Bill Price (businessman)|Bill Price]] – CFO, [[Zoominfo]]
+* [[D. Blake Prichard]] – VP, [[Unisys]]
+* [[Paul Primavera]] – SVP, [[Lockton]]
+* [[Gordon G. Pugh]] – COO, [[Alkermes]]
+* [[Mark J. Pykett]] – President and COO, [[Alseres Pharmaceuticals]]
+* [[Denis Ritchie]] – Chairman, [[Boston Instruments]] and CEO, [[MassMicroelectronics]]
+* [[William H. Ross]] – VP, [[Cygsoft]]
+* [[Nicholas J. Rossettos]] – CFO, [[Egenix]]
+* [[Gerald Rush]] – CFO, [[Metratech]]
+* [[Joseph Sansone]] – founder, Chairman and CEO, [[Pediatria HealthCare]]
+* [[Angelo Santamaria]] – VP, [[American Super Conductors]]
+* [[Nicholas Santillo]] – President and CEO, [[Fractl]]
+* [[Jerome Schaufeld]] – co-founder [[Phoenix Controls Corporation]]
+* [[James R. Scott]] – SVP, [[Acom]]
+* [[Tony Scotto]] – Vice President, [[170 Systems]]
+* [[Dennis R. Shaughnessy]] –  SVP and Corporate Counsel, [[Charles River Laboratories, Inc.]]
+* [[Mikhael N. Shammas]] – President, [[Boston 13s RLFC]]
+* [[Robert Shillman]] — founder and CEO, [[Cognex]]
+* [[Bret Siarkowski]] – founder and CTO, [[CaseNet]]
+* [[Shirley Singleton]] – co-founder, president and CEO, [[Edgewater Technology]]
+* [[Walt Skowronski]] – SVP, [[Boeing]]
+* [[Richard Small (businessperson)|Richard Small]] – CFO and VP, [[Neurotech]] 
+* [[Dan Smith (businessman)|Dan Smith]] – President and CFO, [[Virtusa]]
+* [[Stephen R. Stanvick]] – former VP, [[Raytheon]]
+* [[Michael Sullivan (businessman)|Michael Sullivan]] – CFO, [[Segue Software]]
+* [[Mike Sullivan (businessman)|Mike Sullivan]] – President and CFO, [[Ecora Software]]
+* [[Akihiko Suwa]]- President and CEO, [[NineSigma]]
+* [[Robert Swanson (Linear)|Robert Swanson]] — co-founder, chairman and CEO, [[Linear Technology]]
+* [[Homayoun Talieh]] – co-founder, [[SoloPower]]
+* [[Steven N. Tannenbaum]] – EVP and CFO, [[Collegium]]
+* [[Frank Tempesta]] – President, [[Textron]] 
+* [[Dave Therrien]] – founder and CTO, [[ExaGrid]]
+* [[Walter V. Trainor Jr.]] – former Vice-President, [[Raytheon Company]]
+* [[Andrew Try]], Co-founder, [[ComXO]]
+* [[Andre Turenne]] – SVP, [[Altierre Corp]]
+* [[Kostas Tzigizis]] – co-founder and VP, [[Green Beacon Solutions]]
+* [[Mark Vachon]] – CFO, [[GE]] Medical Systems
+* [[Chris Valas]] – VP,  [[Digital Harbor]]
+* [[Cheryl Vedoe]] – former VP, [[Apple Inc.]]
+* [[Agustin O. Vilches]] –  founder and President, [[Capital Home Infusion]]
+* [[Stephen T. Walker]] – founder and CEO, [[Trusted Information Systems]]
+* [[Eli Warsawski]] – founder, President and CEO, [[Volicon]]
+* [[Charles Weidhas]] – President and CEO, [[ICL Performance Products]]
+* [[Richard R. Yuse]] – VP, [[Raytheon Company]]
+* [[Irving Zaks]] – VP, [[Dynamics Research Corporation]]
+* [[Charles Zracket]] – former CEO, [[Mitre Corporation]]
+
+===Investment Banking, Venture Capital, and Consulting===
+* [[John Brennan (businessman)|John Brennan]] – Partner, [[Arthur D. Little]]
+* [[Alec Burger]] – Senior Vice President, North American Lending, [[GE]] Real Estate
+* [[Clark Chandler]] – Partner, [[Pricewaterhouse Coopers]]
+* [[Robert Clayson]] – Senior Vice President, [[Morgan Stanley]]
+* [[Timothy J. Connelly]] Partner, [[Brown Brothers Harriman]]
+* [[Audrey Daum]] – Vice President, [[Merrill Lynch]]
+* [[Robert J. DiBella]] – President &amp; CEO, [[First Financial Trust]]
+* [[Barry H. Evans]] – Senior Vice President &amp; Chief Operating Officer, [[John Hancock]] Mutual Funds
+* [[Neal Finnegan]] – Chairman, RBS [[Citizens Financial Group]], Massachusetts
+* [[John Gannon (businessman)|John Gannon]]- general partner, [[Polaris Ventures]]
+* [[Jeffrey H. Goldstein]]- Executive Vice President and Chief Operating Officer, [[Boston Capital]]
+* [[Reece Jenkins]] – Partner, [[Ernst &amp; Young]]
+* [[Edward C. Johnson IV]] – Board of Directors, [[Fidelity Investments]]
+* [[Charles B. Kaplan]] – President and Founder, [[Ingress Consulting Group]]
+* [[Robert I. Kauffman]] – President – Europe and Director, [[Fortress Investment Group]] 
+* [[Joseph R. Malarney]] – Senior Vice President/Investments, [[Salomon Smith Barney]]
+* [[Mary Ann Marino]] – Senior Vice President, [[State Street Bank]]
+* [[Cecilia J. O’Keefe]]- Vice President, [[Eaton Vance]]
+* [[Ike Papadopoulos]] – Vice President, Public Finance Investment Banking, [[Piper Jaffray]]
+* [[Frank Piantidosi]] -Chairman &amp; CEO, [[Deloitte]] Financial Advisory Services LLP 
+* [[John D. Rogers]]- Senior Vice President,  [[Brown Brothers Harriman]]
+* [[Stu Rosenthal]] – CFA, Vice President, [[Credit Suisse]]
+* [[Ronald L. Rossetti]] – President Riverside Capital Partners, Inc.
+* [[Bruce Sachs]] – Partner, [[Charles River Ventures]]
+* [[Stanley J. Sidel]]- President, Spectrum Financial Corporation
+* [[Dianne Skerry]]- Vice President, [[TD Banknorth]]
+* [[Peter Smail]] – President and CEO, [[Pyramis Global Advisors]], [[Fidelity Investments]]
+* [[Carl Stjernfeldt]] – Partner, [[Castile Ventures]]&lt;ref&gt;http://www.castileventures.com/team/carl_stjernfeldt.html&lt;/ref&gt;
+* [[Andrew Streisfeld]] – Chief Financial Officer, [[Medical Capital Group]]
+* [[Jonathan Topper]] – Vice President, [[Putnam Investments]]
+* [[Angelo Tortola]]- Vice President of Engineering &amp; Co-Founder, [[Venture Technologies]]
+* [[Jason Vaillancourt]] – Senior Vice President, [[Putnam Investments]]
+
+===Government and politics===
+* [[Mario Arvelo]] – Ambassador to the [[United Nations]] for the Dominican Republic &lt;ref&gt;http://www.neu.edu/alumni/success/arvelo.html&lt;/ref&gt;
+* [[Robin M. Avers]] – Former Special Agent in Charge, Boston [[Department of Homeland Security]], U.S. Immigration and Customs Enforcement
+* [[Gaylord E. Christle]] – former Deputy Director for Acquisition Management, Office of the Undersecretary of Defense (Acquisition, Technology and Logistics), [[United States Department of Defense|Department of Defense]] (DOD)
+* [[David Chu (politician)|David Chu]] – Hong Kong legislature member
+* [[Eileen M. Daily]] – Connecticut State Senator
+* [[Joel Gagne]] – Hull (MA) School Committee
+* [[Janet E. Garvey]] – U.S. Ambassador
+* [[David P. Magnani]] – Member of the [[Massachusetts State Senate]]
+* [[John McNulty, Jr.]] – Director, Office of Operational Systems, [[National Weather Service]], [[NOAA]]
+* [[Robert E. Palmer]] – Democratic Staff Director of the Science Committee and former Chief of Staff of the Committee on Science, Space, and Technology in the 103rd Congress (1993–1994)
+* [[Eric J. Petrone]] – Councilman, Englewood Cliffs, NJ [served 2008–present] 
+* [[Leslie V. Rowe]] – U.S. Ambassador
+* [[Joseph J. Seymour]] – Executive Director, [[Port Authority of New York &amp; New Jersey]]
+
+===Judiciary===
+*[[Roderick Ireland]] – Chief Justice, Massachusetts Supreme Judicial Court
+*[[Francis Quirico]] – Justice, Massachusetts Supreme Judicial Court
+
+===Science and technology===
+*[[Donald Cheney]] {{Fact|date = January 2011}} – pioneer in genetic transformation of seaweed
+*[[Alexander Gorlov]]{{Fact|date = January 2011}} – Clean energy technology inventor
+*[[Frankie James]]{{Fact|date = January 2011}} – Research Scientist, [[NASA]] [[Ames Research Center]]
+*[[Toby Shepherd]]{{Fact|date = January 2011}} – Astronaut, noted researcher of quantum mechanics
+
+===Medicine===
+*[[Marc R. Blackman]], M.D. – Chief of the Endocrine Section, NCCA, [[National Institutes of Health]]
+*[[Richard S. Blumberg]], M.D. – Professor of Medicine [[Harvard Medical School]], Chief of the Gastroenterology, [[Brigham &amp; Women's Hospital]]
+*[[Michael Cahalane]], M.D. – [[Harvard Medical School]], Professor of Surgery, [[Beth Israel Deaconess Medical Center]]
+*[[David Currier Cronin]], II, M.D. – Associate Professor, Director, Liver Transplantation, [[Yale School of Medicine]]
+*[[Homer Pien]] – Managing Director, Center for Biomarkers in Imaging, [[Massachusetts General Hospital]]
+
+===Journalism and communications===
+
+* [[Vin Alabiso]] – Vice President/Executive Director, [[Associated Press]]
+* [[Brett Alexander]] – Executive Producer, [[CBS News]] Productions
+* [[Martin Beiser]] – Managing Editor, [[GQ magazine]]
+* [[Scott Connolly]] – Vice President, [[The Providence Journal]]
+* [[Jon Fass]] – Sportscaster
+* [[David Guarino]] – Chief Political Reporter, [[Boston Herald]] 
+* Scott Heekin-Canedy – President and general manager [[New York Times]] (Northeastern University School of Law)
+* [[Walter E. Mattson]] — Former CEO of the [[New York Times]]
+* [[Colin Moriarty]], [[IGN]] Editor
+* [[Richard C. Ockerbloom]] — Former President of [[The Boston Globe]]
+* [[Rhondella Richardson]] – Reporter, Boston [[ABC News]] affiliate WCVB 12 
+* [[Mark Vachon]]- Former CFO, [[NBC]]
+
+===Arts and entertainment===
+* [[Kevin Antunes]] – Musical director for [[Justin Timberlake]] &lt;ref&gt;http://www.northeastern.edu/magazine/0405/antunes.html&lt;/ref&gt;
+* [[Sean McGarr]] – Owner, [[Webster Hall]] of NYC
+* [[Matthew DeCoste]] — Co-Anchor of &quot;Good Day Memphis&quot; from 2004–2006
+
+===Academia and Nonprofit===
+*[[Christopher Hopey]] – President, [[Merrimack College]]; former Dean of the College of Professional Studies, Northeastern University; former Dean of the [[UPenn]] Graduate School of Education
+*[[J. Keith Motley]] – Chancellor, [[University of Massachusetts]] Boston
+*[[David S. Ferriero]] – Archivist of the United States
+*[[George J. Matthews]] – Chairman, The Gorbachev Foundation of North America
+*[[Gerard Hollister]] – Director of Finance and Administration, [[Henry P. Kendall Foundation]]
+*[[Stephen P. Hannabury]] – Executive Vice President and Treasurer, [[Olin College]]
+*[[Joanne Healy]] – SVP, [[Institute for Healthcare Improvement]]
+*[[John D. Sullivan, Ph.D.]] – Associate Professor, [[Boston University]]
+
+===Sports===
+* [[Bob Crowder]] – 1981–84 [[Boston Bruins]], 1984–85 [[Pittsburgh Penguins]], NHL
+* [[Steven D. Langton]] – U.S. Olympian 2010 (Bobsled)
+* [[Shane O'Mara]] — U.S. national [[rowing (sport)|rowing team]]
+
+When these redlinks get articles, they can be placed in this list per [[WP:REDDEAL]]. --[[User:JaGa|&lt;b&gt;&lt;font color=&quot;#990000&quot;&gt;Ja&lt;/font&gt;&lt;font color=&quot;#000099&quot;&gt;Ga&lt;/font&gt;&lt;/b&gt;]][[User_talk:JaGa|&lt;font color=&quot;#000000&quot; size=&quot;-1&quot;&gt;&lt;sup&gt;talk&lt;/sup&gt;&lt;/font&gt;]] 03:43, 27 January 2011 (UTC)
+	</talkpage>
+</article>

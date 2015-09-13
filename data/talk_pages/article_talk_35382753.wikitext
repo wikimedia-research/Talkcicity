@@ -1,0 +1,10 @@
+<article id="35382753" title=Talk:Rick Ray (basketball)>
+	<talkpage id="35382753" title="Talk:Rick Ray (basketball)">
+{{Talk header}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Articles for creation|class=stub|ts=20120408070132|reviewer=Aaron Booth}}
+{{WikiProject Basketball}}
+{{WikiProject United States|class=stub|importance=low|MS=yes|MS-importance=low}}
+}}
+	</talkpage>
+</article>

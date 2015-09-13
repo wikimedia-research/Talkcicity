@@ -1,0 +1,13 @@
+<article id="19806622" title=Talk:Vulimeswaram>
+	<talkpage id="19806622" title="Talk:Vulimeswaram">
+{{WP India
+|class=Stub
+|importance=low
+|auto=yes
+|geography=yes
+|geography-importance=low
+|andhra=yes
+|andhra-importance=low
+}}
+	</talkpage>
+</article>

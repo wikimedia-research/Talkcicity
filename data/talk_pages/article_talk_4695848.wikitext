@@ -1,0 +1,6 @@
+<article id="4695848" title=Talk:St. Thomas, Missouri>
+	<talkpage id="4695848" title="Talk:St. Thomas, Missouri">
+{{WikiProject Missouri|class=start |importance=Low}}
+{{Image requested|in=Missouri}}
+	</talkpage>
+</article>

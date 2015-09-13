@@ -1,0 +1,5 @@
+<article id="18839862" title=Talk:Șeica Mică>
+	<talkpage id="18839862" title="Talk:Șeica Mică">
+{{WikiProject Romania|class=Stub|importance=}}
+	</talkpage>
+</article>

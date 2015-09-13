@@ -1,0 +1,197 @@
+<article id="434237" title=Talk:Blake's 7>
+	<talkpage id="434237" title="Talk:Blake's 7">
+{{oldpeerreview|archive=1}}
+{{WikiProjectBannerShell|1=
+{{WikiProject BBC
+|class           = B
+|importance      = Mid
+}}
+{{WikiProject Television
+|class           = B
+|importance      = Mid
+}}
+{{WikiProject British TV shows}}
+{{WikiProject Science Fiction}}{{British English editnotice}}}}
+
+{{Archive box|box-width=150px
+|[[/Archive1|Archive 1]] &lt;!--[[/Archive2|Archive 2]] [[/Archive3|Archive 3]][[/Archive4|Archive 4]] [[/Archive5|Archive 5]]USE THESE AS THE URLS!--&gt;
+}}
+
+'''Big Finish'''
+Yes could someone include the new deal with Big Finish as I don't have time to do it now:
+http://www.blakes7.com/index.php/2011/07/blakes-7-audiobook-deal/  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:The Shadow Treasurer|The Shadow Treasurer]] ([[User talk:The Shadow Treasurer|talk]] • [[Special:Contributions/The Shadow Treasurer|contribs]]) 21:36, 22 July 2011 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+
+==Spoilers==
+
+I appreciate Wikipedia should not have a blanket no-spoiler policy. All the same, the amount of infromation revealed in the opening paragraph of the article does not add anything to it. The information isn't important, nor necessary, to understanding a basic description of this entry 
+
+For people familiar with the show, it is extreneous. However, given that Wikipedia is such a default resource nowadays, it is a page very likely to be checked by those unfamiliar with the show for a bit more detail. As it stands, I have to specifically warn new viewers not to check the Wiki because of the information given away at the very top of the page. 
+
+Details of cast changes and plot developments should be on the page, but not in the opening paragraph. This makes it a more universal resource - those just checking to, i.e., look up cast names, running times or qualify season lengths, should be able to without having their experience hampered.
+
+Support, please, for deleting &quot;Later, a supercomputer called Orac is procured. Gan is killed during the second series. After the second series, Blake and Jenna disappear and are replaced by new characters Dayna Mellanby and Del Tarrant. In the fourth series, Cally dies and is replaced by a new character, Soolin. Following the destruction of the Liberator, the computer Zen is replaced with Slave, a new computer character, part of the newly acquired ship &quot;Scorpio&quot;. &quot;
+
+Wikipedia spoiler policy is here: &quot;http://en.wikipedia.org/wiki/Wikipedia:SPOILER&quot;
+
+I quote: &quot;Wikipedia has previously included such warnings in some articles, but no longer does so, except for the content disclaimer and section headings (such as &quot;Plot&quot; or &quot;Ending&quot;) which imply the presence of spoilers.&quot; - but this information is not in a section one would reasonably choose to avoid if avoiding spoilers. 
+
+&quot;It is not acceptable to delete information from an article because you think it spoils the plot.&quot; - the information should be deleted from the lead section, but preserved in the rest of the article - where it is already (and should be) detailed.
+
+&quot;Such concerns must not interfere with neutral point of view, encyclopedic tone, completeness, or any other element of article quality&quot; - including that information there in particular doesn't add to any of these.
+
+[[User:Ninquelosse|Ninquelosse]] ([[User talk:Ninquelosse|talk]]) 12:38, 23 August 2011 (UTC)
+
+:I'm not in favour of deleting that text wholesale, but it could be replaced with something better. I suggest: &quot;At the end of the first series, a supercomputer called Orac is procured. The third series introduces new crew-members Dayna Mellanby and Del Tarrant, followed by Soolin in the fourth series. This last series also shows the characters gaining a new ship, ''Scorpio'', and its computer &quot;Slave&quot;.&quot; How about that? [[User:Stephenb|Stephenb]] [[User talk:Stephenb|(Talk)]] 13:55, 23 August 2011 (UTC)
+
+::&quot;The lead should be able to &lt;b&gt;stand alone as a concise overview of the article&lt;/b&gt;. It should define the topic, establish context, explain why the subject is interesting or notable, and summarize the most important points—including any prominent controversies.&quot; from [[WP:Leader]]. Stephen's text is fine, but removes the destruction of Liberator, deaths of Gan and Cally and the disappearances of Jenna and Blake. And &quot;It is not acceptable to delete information from an article because you think it spoils the plot.&quot; from [[WP:SPOILERS]]. Perhaps you could move some of this into 'Overview' - which needs expanding I think - and add more material to the leader to summarise the latter sections, like 'Critical reception' etc. [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 21:07, 23 August 2011 (UTC)
+
+:::I'd say thee was too much detail in the lede at the moment on the actual characters coming and going. (too &quot;in-universe&quot;?) Better perhaps to summarise that the composition of the 7 changed with the replacement of the characters. Worth including that this includes the replacement of the titular Blake (and the actors reason) and the iconic Liberator and the disruption of the Federation following Star One? [[User:GraemeLeggett|GraemeLeggett]] ([[User talk:GraemeLeggett|talk]]) 08:53, 24 August 2011 (UTC)
+
+::::Have edited along these lines - removing the contested information to the Overview, and bulking up the lead with more diverse information from the influences, production history and critical reception sections. [[Special:Contributions/159.92.234.160|159.92.234.160]] ([[User talk:159.92.234.160|talk]]) 12:41, 20 September 2011 (UTC)
+
+==Series Episode Decription==
+
+Hi. Could someone please list in 0rder the name of each episode and the episode/Series number as opposwd to just giving a summary pf the plot?  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/118.209.117.223|118.209.117.223]] ([[User talk:118.209.117.223|talk]]) 19:12, 2 January 2011 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:See [[List of Blake's 7 episodes]] which lists them in order.  There's no articles for individual episodes so you'll just have to make do with the summaries there.  Or try some B7 fans sites [[User:Stephenb|Stephenb]] [[User talk:Stephenb|(Talk)]] 19:16, 3 January 2011 (UTC)
+
+== Footnote 64 ==
+
+out of curiosity, how could the article footnoted (in footnote 64) have been retrieved on 12 April, when the article itself is dated 24 April? also, looking at the history, i see no edits made on 12 April. [[User:Whateley23|Whateley23]] ([[User talk:Whateley23|talk]]) 16:52, 15 July 2008 (UTC)
+
+== Season vs Series... ==
+
+Somebody recently altered 'Season' to 'Series' in this article. We've been here before, see the appropriate section of the archived page. To briefly explain, in the majority of B7 writing i've read, 'Series' refers to all 52 episodes, whilst 'Season' means a particular year's production of thirteen eps. Also, the History... article uses the 'Season /letter' convention, so IMO it should be consitent. So unless said editor would like to change &lt;b&gt;all&lt;/b&gt; such occurrences to 'Series', and with no wish to start an editing war, i'll change it back when i have time and patience. Comments? [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 07:33, 9 August 2008 (UTC)
+
+Series is more usual for UK-based programs isn't it? (Season being US).
+Having said that, I agree that there should be consistancy on the page so yes, I agree that the editor would have to change them all in that case. Although personally, US terminology in UK articles does annoy me, I think Season vs Series is not one for the editor to get worked up about ;-)  Just my two-peneth!  --[[User:Rcalvert|Rcalvert]] ([[User talk:Rcalvert|talk]]) 22:04, 9 August 2008 (UTC)
+::As the subject matter is of UK origin, UK terminology dominates. While it might be helpful to note the double meaning of series, we should use the British terminology, and perhaps create a no-wiki, so noobs can read it before editing in the American terms. Be thankful that new Yanks are catching on to the series. :) - [[User:Arcayne|&lt;span style=&quot;color:black&quot;&gt;'''Arcayne'''&lt;/span&gt;]] [[User talk:Arcayne|&lt;small&gt;&lt;span style=&quot;color:gray&quot;&gt;(&lt;sup&gt;'''cast a spell'''&lt;/sup&gt;)&lt;/span&gt;&lt;/small&gt;]] 03:53, 13 August 2008 (UTC)
+:::OK, i'll leave it alone, though 'History...' and possibly other articles may need changing for consistency. I doubt i'll bother, I *do* actually have a life, you know! :-) [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 03:44, 6 September 2008 (UTC)
+
+::::It may be a bit of a myth that's being taken as gospel that &quot;season&quot; is exclusively US usage and &quot;series&quot; UK usage. The main UK counter example is ''[[Doctor Who]]'' where &quot;season&quot; is almost the only word used in published writing for the individual year bits (at least in the classic series) and by all accounts both terms were used in internal documents from the outset. The strong overlaps between the two series, both in terms of production personnel and writers, is probably the reason it's used a lot for ''Blake's 7''. [[User:Timrollpickering|Timrollpickering]] ([[User talk:Timrollpickering|talk]]) 19:01, 19 September 2008 (UTC)
+
+::::: In B7 fandom, 'season(s)' seems to be in common usage. Both the Attwood and Nazzaro/Wells books refer to 'season(s)' (Attwood uses A/B/C/D/ whilst Nazarro/Wells uses 1/2/3/4). The DVD box sets use 'series'. In those days, BBC would commonly (and still do IIRC) announce a 'new series of...' whatever programme. So there are precedents for both terms in the B7 context. I'm in favour of using 'Season(s)' but i'm happy to leave it alone atm... [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 01:46, 21 September 2008 (UTC)
+
+== Disputed neutrality ==
+
+Where is the disputed neutrality talk?  If the critical reception section isn't neutral, it should be changed or removed.  Why is there no record of the dispute?  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/70.103.221.189|70.103.221.189]] ([[User talk:70.103.221.189|talk]]) 21:03, 12 August 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:Can you explain in more detail what you mean about the &quot;disputed neutrality talk&quot;? Are there bad reviews of Blake's 7? I mean, I am sure there are, but are you suggesting that they were removed? - [[User:Arcayne|&lt;span style=&quot;color:black&quot;&gt;'''Arcayne'''&lt;/span&gt;]] [[User talk:Arcayne|&lt;small&gt;&lt;span style=&quot;color:gray&quot;&gt;(&lt;sup&gt;'''cast a spell'''&lt;/sup&gt;)&lt;/span&gt;&lt;/small&gt;]] 03:50, 13 August 2008 (UTC)
+
+I'm not the one disputing the neutrality.  Look at the page.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Sterlingjones|Sterlingjones]] ([[User talk:Sterlingjones|talk]] • [[Special:Contributions/Sterlingjones|contribs]]) 15:58, 13 August 2008 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+I've added a negative review and have removed the tag. [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 04:32, 1 September 2008 (UTC)
+
+Maybe it's the old apostrophe issue, too? The negative review added was a good selection, Baffle gab.--[[User:Sturmde|Sturmde]] ([[User talk:Sturmde|talk]]) 15:24, 19 March 2009 (UTC)
+
+== Series / season 3 - Children of Auron ==
+
+It is stated &quot;Servalan's attempt to create clones of herself is thwarted and the clone embryos are destroyed. Servalan, suffering from &quot;psychic miscarriage&quot;, swaps her trademark white clothes for the black of mourning.[30]&quot;. If you watch the episode, she is wearing black right at the start of the episode so how can she swap her white clothes for the back of mourning ''before her clone embryos are even impregnated'' ?[[User:AlexandrDmitri|AlexandrDmitri]] ([[User talk:AlexandrDmitri|talk]]) 19:29, 28 March 2009 (UTC)
+
+: Servie's psychic, didn't you know? :-) Seriously, this page is here to discuss the article, not the programme, so please stay largely on-topic when posting here, thanks. [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 00:31, 29 March 2009 (UTC)
+
+==British Broadcasting Corporation==
+Please could the 'BBC' not be reverted to The British Broadcasting Corporation. The organisation is known as the BBC, indeed consider its own Wikipedia page: 1) is titled 'BBC, and 2) the introduction states ''The British Broadcasting Corporation, almost always referred to by its abbreviation &quot;the BBC&quot;''. There is no rationale for using otherwise, and 'BBC' is also consistent with the Wikipedia guidance page [http://en.wikipedia.org/wiki/Wikipedia:COMMONNAMES] which notes 'Convention: Title an article using the most common English language name of a person or thing that is the subject of the article,'  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/119.224.43.24|119.224.43.24]] ([[User talk:119.224.43.24|talk]]) 09:45, 20 May 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:This is the rationale for using otherwise - the [[Wikipedia:Manual of Style#Acronyms and abbreviations|Manual of Style]] sayeth: 
+
+&quot;Write out both the full version and the abbreviation at first occurrence. When introducing a new name in an article, it is good practice to use the full name on its first occurrence, followed by the abbreviated form in parentheses. For example, The New Democratic Party (NDP) won the 1990 Ontario election with a significant majority (first mention of New Democratic Party in the article), and The NDP quickly became unpopular with the voters (subsequent mention).&quot; [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 21:34, 20 May 2009 (UTC)
+
+:[[Special:Contributions/119.224.43.24|119.224.43.24]], I have since left a more in-depth comment on your talk page relating to this issue. [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 07:28, 29 August 2009 (UTC)
+::I'd like to point out that on just about every other page that is about a BBC show (that I've looked at), the abbreviation is not expanded in this way. [[User:Luminifer|Luminifer]] ([[User talk:Luminifer|talk]]) 14:09, 29 August 2009 (UTC)
+::The BBC is also not alone in being treated this way: [[Lost (TV series)]], [[The Norm Show]], [[The Critic]]... While there is reason to believe we should go and change all of these, there is also reason to believe that maybe we should re-evaluate the interpretation of the stated policy, given the natural trend of editors, or that we should rethink the policy itself. [[User:Luminifer|Luminifer]] ([[User talk:Luminifer|talk]]) 14:20, 29 August 2009 (UTC)
+
+:::I understand your point, but I can't see how having a full, three-word title next to an abbreviation in parenthesis '''once''' in an article causes a single, anonymous editor (119.224.43.24) a problem. Perhaps if the article discussed [[Deoxyribonucleic acid|DNA]] or [[ethylenediaminetetraacetic acid|EDTA]], I'd be more understanding with his or her point. I was simply following Wikipedia's stated policy. I dunno, maybe i'm just old-fashioned. [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 06:48, 1 September 2009 (UTC)
+::::I agree entirely. It does not hurt to follow what is often standard practice with acronyms, however well-known they might be perceived to be, to spell it out in full with the abbreviation in parenthesis the first time, and thereafter refer to the abbreviated version. It's not like we are writing a headline for a newspaper where space is short; we are writing an online encyclopedia whose aim is to be accurate, precise and inform. Even the [[BBC]] article starts off with ''The British Broadcasting Corporation, usually referred to by its abbreviation &quot;the BBC&quot;''. [[User:AlexandrDmitri|-- Александр Дмитрий (Alexandr Dmitri)]] ([[User talk:AlexandrDmitri|talk]]) 12:59, 1 September 2009 (UTC)
+
+:I've changed it back to the original text, thanks for all comments. [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 20:04, 28 September 2009 (UTC) '''Edit:''' I've been tracking this IP's activity; his/her edits almost always concern the names of countries and nationalities. It's probably flagging the use of 'British' twice in the opening sentence, but at that editor doesn't seem interested in this discussion, I'll see if I can find a workaround. [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 20:08, 22 October 2009 (UTC)
+
+?????? I am amazed. The organisation is known as the 'BBC' by itsef, Wikipedia, everyone in this country and across the world. No one calls it 'The British Broadcasting Corporation.' Using this long winded name would be cumbersome and simply confuse readers. An explantion of the origin of its name is of course needed in the 'BBC' article but this article is about Blakes 7 not the BBC. Let's just leave it in a form that make sense rather than claming 'rules', which in any case are fluid and hence liable to change. Using 'The British Broadcasting Corporation' would be a victory for illogical petty pedantry rather than common sense, and would damage the clarity and accuracy of the article.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/86.27.163.77|86.27.163.77]] ([[User talk:86.27.163.77|talk]]) 01:27, 26 October 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:''Irritated response text removed by original author under [[WP:REDACT]]'' [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 08:40, 26 October 2009 (UTC)
+
+::Thank you for the courtesy of replying, although I would find it politer and more constructive if you did not express such an awful atttidue to others: there is no value in highlighting a typographical error ('claming') and writing such as &quot;I can't be arsed.&quot; Also, despite the attempts of people to discuss, and clearly explain, why BBC is valid &amp; preferable, you have resorted to a passive-aggressive threat of &quot;..do what you like .. it may have to change.&quot; And if you do not like the idea of &quot;anonymous I.P.'s&quot; commenting on discussion pages then it would be better if you lobbied for a change of the rule which permits this rather than making snide comments here. It is worth reminding yourself that no matter how passionate you are about the series this article does not belong to you.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/86.26.85.149|86.26.85.149]] ([[User talk:86.26.85.149|talk]]) 19:54, 26 October 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+::For the record the following is the original comment from Bafflegab1978 to which the above comment refers. For some reason he / her then subsequently changed it on more than one occasion: &quot;''Well I'm not sure I was &quot;...claming (sic) rules&quot;, merely following the guidelines by using the full name in the '''first instance''' - and hardly [[pedantry]]. Still, it doesn't matter much, and since it's such an issue with those who use anonymous I.P.'s, I'll leave it be. I'd like this article to be promoted to G.A. status one day - then it may '''have''' to change. But until then, do what you like because [[WP:DGAF|I can't be arsed.]]''&quot;
+
+:::Hi, thank you for replying. I've already made my comments about the issue in the thread above and I see no need to repeat them ad infinitum. We can continue this discussion on my [[User talk:Baffle_gab1978|talk page]] or you can report my conduct [[Wikipedia:Wikiquette alerts|at the noticeboard]]. Thanks. [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 00:30, 27 October 2009 (UTC)
+
+==Doctor Who Overlap==
+I think there is significant interest in the overlap of casting between this series and Doctor Who. It is a useful piece of information, with respect to BBC casting, and science fiction casting in particular. Who thinks that it should NOT be there, and who thinks that it SHOULD? Someone already reverted it once, so I will ask here. [[User:Luminifer|Luminifer]] ([[User talk:Luminifer|talk]]) 22:49, 4 August 2009 (UTC)
+
+:Hi, I think it's trivial info that should be available at the Wikipedia pages concerning the actors, rather than this article, which is about the television programme, not the actors who played the characters. If it isn't already there, you might add it to the actors' pages, as long as it's referenced, of course. Thanks. [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 07:10, 5 August 2009 (UTC)
+
+:If you can find evidence that there is &quot;significant interest&quot; in the overlap, that it is &quot;useful&quot; (in what way?) and some evidence that the casting between the two shows was deliberate for the list you intend to add, then I would have no objections.  But I doubt you can.  And let's face it, Doctor Who is such a long-running programme that actors in it are almost certainly going to crop up in any other TV series you can name, and not just other science fiction series.  Similarly, you could add lists of actors from Blake's 7 that also appeared in other TV shows, such as Emmerdale, for instance, but it would be equally pointless.  I'm with Baffle gab1978 - this information is really only relevant to the actors, not to the TV series itself. [[User:Stephenb|Stephenb]] [[User talk:Stephenb|(Talk)]] 08:58, 5 August 2009 (UTC)
+::What I had in mind would be similar to [[List of guest appearances in Doctor Who]]. It could be expanded beyond Doctor Who overlap, if that makes more sense. [[User:Luminifer|Luminifer]] ([[User talk:Luminifer|talk]]) 06:13, 15 August 2009 (UTC)
+:::I would also point out that if one wanted to get this information without such a list being available, one would have to look at every actor's page that's ever been on Blake's 7. [[User:Luminifer|Luminifer]] ([[User talk:Luminifer|talk]]) 21:25, 15 August 2009 (UTC)
+
+::::If you want to start a new referenced article, please feel free, but I think that list doesn't belong in this article. It could be linked via 'see also' or the template. It would probably be deleted as [[WP:Listcruft|listcruf]] if posted here. Sorry. [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 23:29, 15 August 2009 (UTC)
+
+One one occasion episodes of both series were being filmed in the same quarry - which was only discovered when the noise from one lot reached the other.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/94.195.193.37|94.195.193.37]] ([[User talk:94.195.193.37|talk]]) 12:20, 18 April 2011 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Series One-Four or A-D? ==
+
+I notice that whilst this page numbers the four series/seasons, [[List of Blake's 7 episodes]] lists them as A-through-D. This presumably takes its cue from Attwood's programme guide, but surely we should be consitent, one way or the other. [[User:Nick Cooper|Nick Cooper]] ([[User talk:Nick Cooper|talk]]) 14:29, 13 October 2009 (UTC)
+
+:Hi, yes they *should* be consistent; the [[History of Blake's 7]] article also uses letters to denote seasons, and uses 'seasons' whilst this article uses 'series' because someone changed it from 'seasons' and I couldn't be bothered to argue over it. I'd planned to standardise the articles but RL threw up some obstacles and I totally forgot. Feel free if you want to standardise them. You should also read [[Talk:Blake's 7/Archive1#Season_naming.2Fnumbering|this archived talk page]] for older posts on this issue.[[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 06:45, 14 October 2009 (UTC)
+
+== Apostrophe? ==
+
+''&quot;On the negative side, broadcaster and critic Clive James calls the series &quot;...classically awful British television SF ... no apostrophe in the title, no sense in the plot.&quot;''
+
+Was James wrong? If not, when did the apostrophe come in? --[[User:John|John]] ([[User talk:John|talk]]) 16:23, 18 February 2010 (UTC)
+
+The titles and the Radio Times listings never had an apostrophe. --[[Special:Contributions/91.111.57.167|91.111.57.167]] ([[User talk:91.111.57.167|talk]]) 20:38, 23 April 2011 (UTC)
+
+In which case surely the title of this page should be changed to &quot;Blakes 7&quot; or &quot;Blakes Seven&quot;?  [[User:IanB2|IanB2]] ([[User talk:IanB2|talk]]) 11:10, 18 August 2012 (UTC)
+:Not unless you can show in multiple reliable sources that the official title has no apostrophe. Everything I've seen shows that it has one. It's only the stylised logos that omit it. Cheers, [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 20:23, 18 August 2012 (UTC)
+::Good point, hunting around there is clearly a variety of usage.  The Clive James comment cited appears to be a cheap shot at the logo rather than the programme title, and in such circumstances isn't really a signigicant comment on the programme! [[User:IanB2|IanB2]] ([[User talk:IanB2|talk]]) 09:23, 19 August 2012 (UTC)
+:::How can the program's own title captions and its broadcaster's official listings magazine not count as &quot;multiple reliable sources&quot;. It could be arguable that its own title captions were only a &quot;stylised logo&quot;, but not the Radio Times listings. The name of the program always was &quot;Blakes 7&quot;, end of!--[[User:Feline1|feline1]] ([[User talk:Feline1|talk]]) 12:03, 19 August 2012 (UTC)
+::::Baffleg has a point - even the BBC used an apostrophe from time to time, so the position isn't conclusive.  Indeed I found this page here that not only has an apostrophe in the title but also a logo I haven't seen before, where the '7' is used as an apostrophe as in 'Blake7s': http://www.bbc.co.uk/programmes/b00sp6cg [[User:IanB2|IanB2]] ([[User talk:IanB2|talk]]) 16:40, 19 August 2012 (UTC)
+:::::That is *not* what Baffleg's point was (&quot;BBC used an apostrophe from time to time&quot;) - it is whether we have multiple contemporary references from the broadcaster as to what their own programme was called. Which we do. It was called &quot;Blakes 7&quot;. Some Radio 4 webpage from decades later is immaterial, as it was obviously just done by someone acting on their own initiative.--[[User:Feline1|feline1]] ([[User talk:Feline1|talk]]) 09:49, 20 August 2012 (UTC)
+{{outdent}}Hi Feline1. Even so, unless a consensus of editors decides otherwise, we go with what the majority of reliable sources call the programme, per [[WP:CRITERIA]]. If it's any comfort, ''[[Blakes 7]]'' redirects here. Cheers, [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 21:26, 20 August 2012 (UTC)
+:Radio Times isn't always right - they called &quot;Top Cat&quot; &quot;The Boss Cat&quot; and so on. [[User:DavidFarmbrough|DavidFarmbrough]] ([[User talk:DavidFarmbrough|talk]]) 05:07, 4 December 2012 (UTC)
+::The Routledge Companion to Science Fiction, for one, refers to it as &quot;Blakes 7&quot;, no apostrophe. Personally I'm inclined to think that the lack of apostrophe in the logo was just the logo designer deciding that the design looked better if he left out the correct punctuation. But I wonder what a comprehensive search of authoritative sources would show. [[Special:Contributions/108.7.232.142|108.7.232.142]] ([[User talk:108.7.232.142|talk]]) 15:01, 22 August 2013 (UTC)
+
+== Separate season lists for Blake's 7 ==
+
+Would anyone care (in the absence of a B7 Wikiproject) to comment [[Talk:History of Blake's 7#plitting this article off into separate seasons|here]] on splitting the current [[History of Blake's 7]] article into separate season lists as per other projects such as [[Lost (season 1)|Lost]] and [[Battlestar Galactica (season 1)|Battlestar Galactica]]. [[User:WikiuserNI|WikiuserNI]] ([[User talk:WikiuserNI|talk]]) 09:47, 11 November 2010 (UTC)
+==Peer review==
+{{Wikipedia:Peer review/Blake's 7/archive1}}
+
+== Jona's Comments ==
+
+If I may baffle gab, here are my concerns while reading this interesting article:
+;Infobox
+*Why does the run_time parameter reads &quot;c. 50 minutes per episode&quot;? [[Meerkat Manor]], a FA television show, does not represent this. Also its best to use {{tl|duration}} for this parameter.
+:: '''Not done''' - 'duration' is a parameter that relates to music infoboxes, television uses 'runtime'; 'c.' means 'circa' which is Latin for 'approximately'. [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 02:29, 30 January 2012 (UTC)
+
+;Lead
+*&quot;and was inspired by sources such as&quot; - what does &quot;sources&quot; mean in this sentence?
+::&quot;Sources&quot; in this context means sources of inspiration (film and other media) that were drawn upon by the creator and writers of the programme. '''Changed'' to &quot;fictional media texts&quot;. [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 02:29, 30 January 2012 (UTC)
+*Why is [[Roj Blake (Blake's 7)|Roj Blake]] wikilinked at its second occurrence?
+::'''Fixed''' [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 02:29, 30 January 2012 (UTC)
+*&quot;they commandeer an inferior spacecraft&quot; - is this a typo?
+::No it isn't a typo; to [[commandeer]] is to take something from somebody for a specific reason, usually applied to a legal authority (police, military etc). [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 02:29, 30 January 2012 (UTC)
+*&quot;In the final episode, Avon discovers Blake's location and suspecting Blake of betraying the group to the Federation, kills him.&quot; - is not in past-tense tone, the rest of lead is in past-tense except for this sentence.
+::We use the present tense to describe fictional events that occur within the narrative per [[WP:WAF]]. This also tells the reader whether fictional or real-world events are being described. [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 02:29, 30 January 2012 (UTC)
+*&quot;and its memorable final episode&quot; sounds like an [[WP:OPED]] to me
+::'''removed''' 'memorable' [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 02:29, 30 January 2012 (UTC)
+*&quot;but broadcasterClive James called it&quot; - needs space
+::'''Fixed''' - thanks :-) [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 02:29, 30 January 2012 (UTC)
+*&quot;Music and sound effects were released by the BBC, toys and models were produced and books, magazines and annuals were published.&quot; - this reads like a run-off, xx was released, xy were published, and ab were published. 
+:: '''Done''' - it now reads: &quot;Books, magazines and annuals were published, the BBC released music and sound effects from the series and several companies made ''Blake's 7'' toys and models.&quot; [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 03:39, 30 January 2012 (UTC)
+
+;References
+*FN#58 and FN#77 needs to be fixed
+*Use a consistent date format (compare FN#75 and #77)
+::Thank you for pointing those reference problems to me, I'll fix them as soon as I can. [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 02:29, 30 January 2012 (UTC)
+
+I hope this helps. Best, [[User:AJona1992|&lt;font color=&quot;red&quot;&gt;Jona&lt;/font&gt;]][[Special:Contributions/AJona1992|yo!]] [[User talk:AJona1992|&lt;font color=&quot;maroon&quot;&gt;&lt;sup&gt;Selena 4 ever&lt;/sup&gt;&lt;/font&gt;]] 20:13, 29 January 2012 (UTC)
+:Hi Ajona, thanks for commenting here, you've been very helpful. :-) This should be discussed at the peer review page; would you mind if I move these conversations into that page? It would help keep all the relevant comments together. Cheers, [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 02:29, 30 January 2012 (UTC)
+
+== Viewing Figures ==
+
+Where are they? [[User:DavidFarmbrough|DavidFarmbrough]] ([[User talk:DavidFarmbrough|talk]]) 05:08, 4 December 2012 (UTC)
+:Overview: &quot;Blake's 7 was watched by approximately 10 million people in the UK and was broadcast in 25 other countries.[7]&quot;. There's more on [[History of Blake's 7]] if you need them. Cheers, [[User:Baffle gab1978|Baffle gab1978]] ([[User talk:Baffle gab1978|talk]]) 19:30, 4 December 2012 (UTC)
+	</talkpage>
+</article>

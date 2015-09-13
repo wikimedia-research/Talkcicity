@@ -1,0 +1,15 @@
+<article id="35477835" title=Talk:Gohana Mudrika>
+	<talkpage id="35477835" title="Talk:Gohana Mudrika">
+{{WikiProject India
+|class=Stub
+|importance=low
+|cities=yes
+|cities-importance=low
+|geography=yes
+|geography-importance=low
+|haryana=yes
+|haryana-importance=mid
+}}
+{{WikiProject Journalism|class=Stub|importance=low}}
+	</talkpage>
+</article>

@@ -1,0 +1,8 @@
+<article id="28975028" title=User talk:76.90.111.177>
+	<talkpage id="28975028" title="User talk:76.90.111.177">
+
+== September 2010 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Metal?diff=387449291 recent edit]&lt;/span&gt; that you made to the page [[:Metal]] has been reverted, as it appears to be unconstructive. Please use the [[Wikipedia:Sandbox|sandbox]] for testing any edits; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]] for further information. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:Tide rolls|'''&lt;span style=&quot;color:White;background:darkRed&quot;&gt;Tide&lt;/span&gt;''']][[User talk:Tide rolls|'''&lt;span style=&quot;color:darkRed&quot;&gt;rolls'''&lt;/span&gt;]] 02:51, 28 September 2010 (UTC)
+	</talkpage>
+</article>

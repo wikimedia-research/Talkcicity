@@ -1,0 +1,13 @@
+<article id="7030993" title=Talk:Aleksandras Abišala>
+	<talkpage id="7030993" title="Talk:Aleksandras Abišala">
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|auto=yes
+|politician-work-group=yes
+|listas=Abisala, Aleksandras
+|politician-priority=
+}}
+{{WikiProject Lithuania | class=stub |importance=high |comments=[[User:Renata3|Renata]] ([[User talk:Renata3|talk]]) 14:35, 1 November 2009 (UTC)}}
+	</talkpage>
+</article>

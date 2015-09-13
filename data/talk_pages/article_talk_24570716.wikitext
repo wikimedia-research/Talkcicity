@@ -1,0 +1,5 @@
+<article id="24570716" title=Talk:East Danforth>
+	<talkpage id="24570716" title="Talk:East Danforth">
+{{WikiProject Canada |class=C |importance=low |community=yes |toronto=yes |toronto-importance=mid}}
+	</talkpage>
+</article>

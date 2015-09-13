@@ -1,0 +1,15 @@
+<article id="26784925" title=Talk:Anaheim Resort Transportation>
+	<talkpage id="26784925" title="Talk:Anaheim Resort Transportation">
+{{WikiProjectBannerShell|1=
+{{WikiProject Buses|class=stub|importance=Mid |Imageneeded=no}}
+{{WikiProject California|class=stub|importance=Mid |imageneeded=no |in=Orange County, California |imagedetails=A picture of an ART trolley}}
+{{WikiProject Transport|class=stub|importance=Mid }}
+}}
+{{connected contributor|User1=Cmontoyaart|U1-EH=yes}}
+
+==Anaheim Resort Transportation==
+I was just there, and all the ART buses say Anaheim Resort Transportation, not Anaheim Resort Transit. Was it renamed at some point or is this just a mistake? Even [http://www.rideart.org/ their website] says &quot;Anaheim Resort Transportation&quot;. The only thing I can't figure out is the art with the article, which clearly states &quot;Transit&quot;. Was it changed at some point? It is most definitely not Transit now. &amp;mdash; [[User:Frecklefoot|Fr&amp;epsilon;ckl&amp;epsilon;fσσt]] | [[User talk:Frecklefoot|Talk]] 02:13, 6 January 2013 (UTC)
+
+:I've updated the article; it appears that at some point the organisation changed its marketing name. I'm still not clear on the difference, if any, between the &quot;Anaheim Transportation Network&quot; and &quot;Anaheim Resort Transportation&quot;. --[[User:Torritorri|TorriTorri]](&lt;sup&gt;[[User talk:Torritorri|talk]]&lt;/sup&gt;/&lt;sub&gt;[[Special:Contributions/Torritorri|contribs]]&lt;/sub&gt;) 21:46, 22 July 2015 (UTC)
+	</talkpage>
+</article>

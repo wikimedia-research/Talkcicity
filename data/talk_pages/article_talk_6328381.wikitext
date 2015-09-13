@@ -1,0 +1,24 @@
+<article id="6328381" title=Talk:G and H-class destroyer>
+	<talkpage id="6328381" title="Talk:G and H-class destroyer">
+{{GA nominee|19:40, 5 September 2015 (UTC)|nominator=[[User:Sturmvogel 66|Sturmvogel 66]] ([[User talk:Sturmvogel 66|talk]])|page=1|subtopic=Warfare|status=|note=}}
+{{Talk header}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Military history
+|class= B
+ | B1 &lt;!-- Referencing and citations --&gt; = y 
+| B2 &lt;!-- Coverage and accuracy --&gt; = y 
+| B3 &lt;!-- Structure --&gt; = y 
+| B4 &lt;!-- Grammar and style --&gt; = y 
+| B5 &lt;!-- Supporting materials --&gt; = y 
+|British-task-force=yes
+|Canadian-task-force=yes
+|Maritime-task-force=yes
+|Polish-task-force=yes
+|WWII-task-force=yes
+}}
+{{WikiProject Canada|class=B|importance=low}}
+{{WikiProject Poland|class=C|importance=low}}
+{{WikiProject Ships|class=B|B1=yes|B2=yes|B3=yes|B4=yes|B5=yes}}
+}}
+	</talkpage>
+</article>

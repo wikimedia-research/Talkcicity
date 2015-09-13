@@ -1,0 +1,35 @@
+<article id="5177810" title=User talk:Mike ov ince>
+	<talkpage id="5177810" title="User talk:Mike ov ince">
+
+{| style=&quot;width:98%; height:260px&quot; border=&quot;3&quot; 
+|&lt;B&gt;&lt;FONT FACE=&quot;Neolith&quot; SIZE=&quot;5&quot; COLOR=&quot;red&quot;&gt;Welcome!&lt;/font&gt;&lt;/B&gt;
+
+
+Hello, {{PAGENAME}}, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for your contributions. I hope you like the place and decide to stay. If you are stuck, and looking for help, please come to the [[WP:BC|Wikipedia Boot Camp]], where experienced Wikipedians can answer any queries you have! Or, you can just type '''&lt;code&gt;{&amp;#123;helpme}}&lt;/code&gt;''' on your user talk page, and someone will show up shortly to answer your questions.
+
+Here are a few good links for newcomers:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:Wikipedia_in_eight_words|Wikipedia in eight words]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Help:Contents|Help pages]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:How to write a great article|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+*[http://en.wikipedia.org/wiki/User:Anonymous_anonymous/FAQ My FAQ Page]
+*[[Wikipedia:Sandbox|Sandbox (This page is for testing) ]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (~&amp;#126;~~); this will automatically produce your name and the date. If you need help, check out [[Wikipedia:Where to ask a question]], ask me or an experienced wikipedian like [[User:Commander Keane|Commander Keane]], [[User:Sango123|Sango123]] and [[User:JoanneB|JoanneB]] and leave your message on our talk page. Again, welcome!
+
+If you want to tell me something or if you just want to say hi, leave your message under the '''Talk Section''' of [http://en.wikipedia.org/wiki/User_talk:Anonymous_anonymous | '''My Talk Page''']
+
+Once you've become an experienced Wikipedian, please take your time to visit these pages:
+*[[Wikipedia:Esperanza|Esperanza]]
+*[[Wikipedia:Counter_Vandalism_Unit|Counter Vandalism Unit]]
+*[[WP:KC|Wikipedia Kindness Campaign]]
+*[[Wikipedia:Department of Fun|Department of Fun]]
+*[[Wikipedia:Community Justice|Community Justice]]
+
+&lt;font face=&quot;Croobie&quot; color=&quot;red&quot;&gt;[[User:Anonymous_anonymous|Anonymous]]&lt;/font&gt;&lt;font face=&quot;Croobie&quot; color=&quot;blue&quot;&gt;[[User talk:Anonymous_anonymous|_anonymous_]]&lt;/font&gt;&lt;font face=&quot;Croobie&quot; color=&quot;green&quot;&gt;[[User:Anonymous_anonymous/Esperanza|Have a Nice Day]]&lt;/font&gt;
+
+|}
+	</talkpage>
+</article>

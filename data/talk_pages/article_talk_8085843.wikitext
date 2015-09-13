@@ -1,0 +1,19 @@
+<article id="8085843" title=Talk:William FitzWilliam (Lord Deputy)>
+	<talkpage id="8085843" title="Talk:William FitzWilliam (Lord Deputy)">
+{{WikiProject Biography
+|living=no
+|class=start
+|politician-work-group=yes
+|listas=Fitzwilliam, William
+|politician-priority=Low
+}}
+{{WikiProject Ireland|class=Start|importance=Mid|listas=Fitzwilliam, William}}
+
+== POV ==
+This article is written from a purely English perspective, even though it describes someone whose career was largely in Ireland. The opening sentence, that he was &quot;an English statesman&quot; is highly partisan; &quot;statesman&quot; is not a term that would be applied by an Irish person to someone responsible for what the article later euphemistically labels as &quot;pursued aggressive policies&quot;. His massacre of the survivors of the Armada gives a hint of what those &quot;aggressive policies&quot; might have amounted to.
+
+The process of military colonisation which he oversaw should be described in less euphemistic terms. --[[User:BrownHairedGirl|&lt;span style=&quot;color:#996600&quot;&gt;Brown&lt;/span&gt;HairedGirl]] &lt;small&gt;[[User_talk:BrownHairedGirl|(talk)]] • ([[Special:Contributions/BrownHairedGirl|contribs]])&lt;/small&gt; 20:32, 9 April 2008 (UTC)
+
+:I have edited the lead and taken down the NPOV tag. [[User:Charles Matthews|Charles Matthews]] ([[User talk:Charles Matthews|talk]]) 09:35, 29 December 2009 (UTC)
+	</talkpage>
+</article>

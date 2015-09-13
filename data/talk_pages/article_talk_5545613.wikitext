@@ -1,0 +1,5 @@
+<article id="5545613" title=Talk:Amberstar>
+	<talkpage id="5545613" title="Talk:Amberstar">
+{{cvgproj|class=Stub|importance=Low}}
+	</talkpage>
+</article>

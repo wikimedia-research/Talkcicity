@@ -1,0 +1,7 @@
+<article id="15644823" title=User talk:87.114.68.223>
+	<talkpage id="15644823" title="User talk:87.114.68.223">
+== Warning regarding your edit to [[William Morris]] ==
+
+[[Image:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia{{#if:|, as you did to [[:{{{1}}}]]}}. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism2 --&gt;---&lt;font face=&quot;Celtic&quot;&gt;[[User:RepublicanJacobite|&lt;span style=&quot;color:#009900&quot;&gt;RepublicanJacobite&lt;/span&gt;]]&lt;sub&gt;''[[User talk:RepublicanJacobite|&lt;span style=&quot;color:#006600&quot;&gt;The'FortyFive'&lt;/span&gt;]]''&lt;/sub&gt;&lt;/font&gt; 21:32, 7 February 2008 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="22207942" title=Talk:Kore & Skalp>
+	<talkpage id="22207942" title="Talk:Kore & Skalp">
+{{WikiProject France|class=stub|importance= }}
+	</talkpage>
+</article>

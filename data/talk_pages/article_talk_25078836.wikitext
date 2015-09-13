@@ -1,0 +1,8 @@
+<article id="25078836" title=User talk:24.30.68.166>
+	<talkpage id="25078836" title="User talk:24.30.68.166">
+
+== November 2009 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Belize?diff=325810754 recent edit]&lt;/span&gt; that you made to the page [[:Belize]] has been reverted, as it appears to be unconstructive. Please use the [[Wikipedia:Sandbox|sandbox]] for testing any edits; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]] for further information. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:Javierito92|by----&gt;Javierito92]]   '''([[User talk:Javierito92|Talk to me]])''' 15:54, 14 November 2009 (UTC)
+	</talkpage>
+</article>

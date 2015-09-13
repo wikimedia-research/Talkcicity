@@ -1,0 +1,11 @@
+<article id="8454996" title=User talk:Monkofevil>
+	<talkpage id="8454996" title="User talk:Monkofevil">
+Hello, and [[Wikipedia:Welcome, newcomers|welcome to Wikipedia]]. We appreciate your {{#if:Screwdriver|contributions to the [[:Screwdriver]] article|contributions}}, but for legal reasons, we cannot accept [[Wikipedia:Copyrights|copyrighted]] text or images borrowed from other web sites or printed material, and as a consequence, your addition will most likely be deleted.
+
+Feel free to re-submit a new version of the article. You may use external websites as a source of ''information'', but not as a source of ''sentences''. This part is crucial: ''say it in your own words''.
+
+If the external website belongs to you, and you want to allow Wikipedia to use the text — which means allowing other people to modify it — then you must include ''on the external site'' the statement &quot;I, (name), am the author of this article, (article name), and I release its content under the terms of the [http://www.gnu.org/copyleft/fdl.html GNU Free Documentation License], Version 1.2 and later.&quot; 
+
+You might want to look at [[Wikipedia:Policies and guidelines|Wikipedia's policies and guidelines]] for more details, or ask a question [[Wikipedia:Village pump (assistance)|here]]. You can also leave a message on my talk page.&lt;!-- Template:Nothanks --&gt; -[[User:SCEhardt|&lt;font color=&quot;blue&quot;&gt;SCEhard&lt;/font&gt;]][[User talk:SCEhardt|&lt;font color=&quot;#3D9140&quot;&gt;&lt;b&gt;T&lt;/b&gt;&lt;/font&gt;]] 18:41, 15 December 2006 (UTC)
+	</talkpage>
+</article>

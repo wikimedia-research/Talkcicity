@@ -1,0 +1,5 @@
+<article id="19001100" title=Talk:SUCI (disambiguation)>
+	<talkpage id="19001100" title="Talk:SUCI (disambiguation)">
+{{DisambigProject}}
+	</talkpage>
+</article>

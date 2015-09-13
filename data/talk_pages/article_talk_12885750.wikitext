@@ -1,0 +1,11 @@
+<article id="12885750" title=Talk:Pistol slide>
+	<talkpage id="12885750" title="Talk:Pistol slide">
+{{WPGUNS
+|class=stub}}
+
+==Slide or Slideback==
+I am not disputing that the slide may be called &quot;a slideback,&quot; but can anyone point to some good examples of this use? I can't recall running into it, and I've been browsing gun magazines at least once in a while for nearly 30 years now ... just browsing, mind you, but still. [[User:Timothylord|timbo]] ([[User talk:Timothylord|talk]]) 05:54, 1 February 2008 (UTC)
+
+:It appears the someone is again trying to call the slide a &quot;slideback&quot;. I've never heard/read this term either. I just did a google-search, and the only hits showed thing like &quot;hold the slide back&quot;. [[User:AliveFreeHappy|AliveFreeHappy]] ([[User talk:AliveFreeHappy|talk]]) 23:06, 6 May 2009 (UTC)
+	</talkpage>
+</article>

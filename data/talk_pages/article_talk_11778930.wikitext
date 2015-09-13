@@ -1,0 +1,26 @@
+<article id="11778930" title=Talk:Exogeny>
+	<talkpage id="11778930" title="Talk:Exogeny">
+{{WikiProject Economics|class=Start|importance=Low}}
+{{DisambigProject|class=|importance=}}
+{{oldafdfull|date= 2007-11-04 |result= '''Keep''' |page= Endogenous }}
+
+== Dictionary entry? ==
+
+Can anyboyd tell me why this is a encyclopedia page and not just a dictionary entry in the wikipedia? [[User:Pdbailey|Pdbailey]] 03:39, 15 June 2007 (UTC)
+
+Can anyone comment on what they think the best course of action is? This may help: [[WP:WINAD| WINAD]] [[User:Pdbailey|Pdbailey]] 21:14, 19 June 2007 (UTC)
+
+:The arguments for keeping this article in Wikipedia would be as in [[Wikipedia:Articles for deletion/Endogenous|WP:AfD/Endogenous]].  Essentially, if-and-when this article is properly fleshed-out, it will be more than a dictionary entry. —[[User:SlamDiego|SlamDiego]]&lt;sub&gt;&lt;font size=&quot;-2&quot;&gt;[[User_talk:SlamDiego|&amp;#8592;T]]&lt;/font&gt;&lt;/sub&gt; 16:19, 23 March 2009 (UTC)
+
+== Consistency ==
+
+Perhaps the form of this article should be reconciled with that of [[Endogeny]]. Or better yet, the pages should be merged into one article until the article is large enough to be split into two.[[Special:Contributions/134.10.125.163|134.10.125.163]] ([[User talk:134.10.125.163|talk]]) 04:02, 26 April 2009 (UTC)
+
+== Exogeneous variables in  economics ==
+&quot;In an economic model, an exogenous change is one that comes from outside the model and is unexplained by the model. For example, in the simple supply and demand model, a change in consumer tastes or preferences is unexplained by the model and also leads to endogenous changes in demand that lead to changes in the equilibrium price. Similarly, a change in the consumer's income is given outside the model. Put another way, an exogenous change involves an alteration of a variable that is autonomous, i.e., unaffected by the workings of the model.&quot;
+
+Do you mean that the model input is independent? [[User:El Pollo Diablo|El Pollo Diablo]] ([[User talk:El Pollo Diablo|Talk]]) 16:10, 9 November 2011 (UTC)
+
+:Hi El Pollo Diablo! Please be sure to be polite in your section headings. The article as written is consistent with the definitions I have head in economics circles. The model input is not independent of the outcome, otherwise it would have no correlation with the outcome and would not be useful in your model. It is simply determined outside the model. An example would be where a country's resources might be predictive of their GDP; countries with better resources have higher GDP's. This is in contrast to something like employment rates, which might be considered an endogeneous variable because there could be a positive feedback loop between employment rate and GDP (as you get more people employed, they have more money, so the economy grows bigger, but this in itself creates jobs, causing the employment rate to fall further still)
+	</talkpage>
+</article>

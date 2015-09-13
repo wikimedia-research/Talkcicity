@@ -1,0 +1,17 @@
+<article id="33384942" title=User talk:Reboot81>
+	<talkpage id="33384942" title="User talk:Reboot81">
+== A belated welcome! ==
+
+[[Image:Chocolate chip cookies.jpg|thumb|300px|Sorry for the belated welcome, but the cookies are still warm! [[File:Face-smile.svg|25px]]]]Here's wishing you a [[wikt:belated|belated]] [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome to Wikipedia]], Reboot81. I see that you've already been around a while and wanted to thank you for [[Special:Contributions/Reboot81|your contributions]]. Though you seem to have been successful in finding your way around, you may benefit from following some of the links below, which help editors get the most out of Wikipedia:
+* [[Wikipedia:Introduction|Introduction]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Wikipedia:How to edit a page|How to edit a page]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Article development|How to write a great article]]
+Also, when you post on [[Wikipedia:Talk page|talk pages]] you should [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); that should automatically produce your username and the date after your post.
+
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! If you have any questions, feel free to leave me a message on {{#if: |[[User talk:{{{1}}}|my talk page]]|my talk page}}, consult [[Wikipedia:Questions]], or place {{tl|helpme}} on your talk page and ask your question there.
+
+Again, welcome! {{#if:|&amp;#32;{{{3}}}|}} [[User:Dia^|Dia^]] ([[User talk:Dia^|talk]]) 08:29, 12 October 2011 (UTC) --[[User:Dia^|Dia^]] ([[User talk:Dia^|talk]]) 08:29, 12 October 2011 (UTC)
+	</talkpage>
+</article>

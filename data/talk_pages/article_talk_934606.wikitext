@@ -1,0 +1,49 @@
+<article id="934606" title=Talk:Lee Lawrie>
+	<talkpage id="934606" title="Talk:Lee Lawrie">
+{{WikiProject Biography
+|living=no
+|class=start
+|listas=Lawrie, Lee
+}}
+{{ArticleHistory|action1=FAC
+|action1result=not promoted
+|action1date=22:53, 27 Aug 2004
+|action1oldid=5489854
+|action1link=Wikipedia:Featured article candidates/Archived nominations/Index/August 2004#Lee Lawrie
+|currentstatus=FFAC}}
+{{press|author=Daniel H. Pink|date=March 2005|url=http://www.wired.com/wired/archive/13.03/wiki.html?pg=4|org=[[Wired (magazine)|Wired]]|title=The Book Stops Here }}
+
+==Commons?==
+
+The images in the [[Lee Lawrie#Pictures of the work of Lee Lawrie|Pictures of the work of Lee Lawrie]] section should probably be moved to [[Commons:Main Page|the Commons]], with the exception of [[:Image:LLStamp.jpg|the stamp]], since that image is under fair use (which isn't allowed at the Commons). Also, congrats to the writers of this article for getting it [http://www.wired.com/wired/archive/13.03/wiki.html?pg=4 mentioned in ''Wired Magazine'']! &amp;ndash;&amp;nbsp;[[User:Mxn|Minh Nguy&amp;#7877;n]] &lt;small class=&quot;plainlinks&quot;&gt;([[User talk:Mxn|talk]], [[Special:Contributions/Mxn|contribs]], [http://mxn.f2o.org/index.html blog])&lt;/small&gt; 02:41, 8 Mar 2005 (UTC)
+
+== I just cut this out ==
+
+and moved it here.
+
+''(Some sources credit Lawrie with the design of the [[Franklin Delano Roosevelt]] [[Dime (U.S. coin)|dime]] of 1946, but it is actually the work of [[Selma Burke]].)''
+
+I have never seen the FRD dime credited to Lawrie, but even if it were, the story is more complicated.  As I remember it, the FDR dime was designed by an engraver at the US Mint based on a design by Selma Burke - who probably should be in blue ink. So Burke did not actually design the coin either, her work was the inspiration for the profile portrait of FDR on the coin. [[User:Carptrash|Carptrash]] 01:20, 3 May 2006 (UTC)
+
+===More about the dime:===
+:[[John R. Sinnock]] is credited w/ the [[American dime|FDR dime]] design which he may very well have based (at least in part) on the [[Selma Burke]] bust of FDR. And yet, the [http://select.nytimes.com/gst/abstract.html?res=F00D1FFE3C541A7B93C7AB178AD85F478685F9&amp;scp=1&amp;sq=lee%20lawrie&amp;st=cse NYT obit for Lee Lawrie] says: &quot;''One of his most famous works is the bas-relief of President Franklin D. Roosevelt on the American dime.'' 
+
+: Here's [http://www.nasonline.org/site/PageServer?pagename=ABOUT_building_doors another source ] connecting Lawrie to the dime.
+
+:[http://www.us-coin-values-advisor.com/the-Roosevelt-Dime.html This source] says, about the dime design: ''&quot;[[John R. Sinnock|Sinnock]] conferred with Lee Lawrie, the sculptor member of the Commission, to again revise the model.&quot;'' 
+
+:And likewise finally, from [http://www.littletoncoin.com/webapp/wcs/stores/servlet/Display|10001|10001|-1|||CCEdReiter9.htm here] we get a more detailed account of Lawrie's involvement from [[Gilroy Roberts]]:''
+
+::''&quot;With the approval of the superintendent of the Mint, John Sinnock and I took the plaster model and rode down to Maryland to Lee Lawrie's studio. I was just an observer; John didn't drive, so I drove him down and then stayed around while he and Mr. Lawrie worked on the model. We stayed for two or three days, and during that time John and Lee Lawrie worked together revising the original model. Mr. Lawrie wanted to make it more peppy – more dramatic, maybe – and for some strange reason, John had trouble at first capturing that kind of spirit. Eventually, though, with Lee Lawrie's help, he succeeded in pepping it up – and the present dime, I think, is a very good representation. I'd say it's pretty close to the portrait he did for the medal, but without the coat and all that.&quot;''  -[[User:J. Van Meter|J. Van Meter]] ([[User talk:J. Van Meter|talk]])
+
+== someone posted  ==
+
+a picture of a work by [[Noguchi]], not Lawrie.  I removed it before signing on.  Sorry  But let's keep our standards up here, okay? [[User:Carptrash|Carptrash]] 00:27, 15 June 2006 (UTC)
+
+== I found this today ==
+
+http://www.abebooks.com/servlet/BookDetailsPL?bi=7463627316&amp;searchurl=bi%3D0%26bx%3Doff%26ds%3D30%26kn%3Dlee%2Blawrie%26recentlyadded%3Dall%26sortby%3D17%26sts%3Dt%26x%3D67%26y%3D3 &lt;br&gt;
+&lt;br&gt;
+Check out where the text is from. einar aka [[User:Carptrash|Carptrash]] ([[User talk:Carptrash|talk]]) 21:20, 5 June 2012 (UTC)
+	</talkpage>
+</article>

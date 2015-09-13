@@ -1,0 +1,13 @@
+<article id="16929250" title=User talk:Migsapig>
+	<talkpage id="16929250" title="User talk:Migsapig">
+== Regarding your edit to [[Talk:Main Page]] ==
+
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits{{#if:|, such as the one you made to [[:{{{1}}}]],}} did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed.  Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing to this encyclopedia. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism1 --&gt; -- [[User:Gogo Dodo|Gogo Dodo]] ([[User talk:Gogo Dodo|talk]]) 17:11, 14 April 2008 (UTC)
+
+== April 2008 ==
+
+[[Image:Information.png|25px|left]] The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Talk:Main_Page?diff=205588451 recent edit]&lt;/span&gt; you made to [[:Talk:Main Page]] constitutes [[Wikipedia:Vandalism|vandalism]], and has been reverted. Please do not continue to vandalize pages; use the [[Wikipedia:Sandbox|sandbox]] for testing. Thanks. &lt;!-- Template:uw-huggle2 --&gt; &lt;font color=&quot;#3300ff&quot;&gt;[[User:Thingg|Thingg]]&lt;/font&gt;&lt;sup&gt;&lt;font color=&quot;#33ff00&quot;&gt;[[User talk:Thingg|&amp;#8853;]]&lt;/font&gt;&lt;/sup&gt;&lt;sup&gt;&lt;font color=&quot;#ff0033&quot;&gt;[[Special:Contributions/Thingg|&amp;#8855;]]&lt;/font&gt;&lt;/sup&gt; 17:14, 14 April 2008 (UTC))
+
+[[Image:Stop hand nuvola.svg|30px]] This is the '''last warning''' you will receive for your disruptive edits. &lt;br/&gt; The next time you [[Wikipedia:Vandalism|vandalize]] Wikipedia{{#if:|, as you did {{#if:|with [{{{diff}}} this edit]}} to [[:{{{1}}}]]}}, you '''will''' be [[Wikipedia:Blocking policy|blocked]] from editing. {{#if:|{{{2}}}|}}&lt;!-- Template:uw-vandalism4 --&gt; -- [[User:Gogo Dodo|Gogo Dodo]] ([[User talk:Gogo Dodo|talk]]) 17:15, 14 April 2008 (UTC)
+	</talkpage>
+</article>

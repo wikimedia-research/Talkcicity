@@ -1,0 +1,6 @@
+<article id="17195542" title=Talk:Ferdows County>
+	<talkpage id="17195542" title="Talk:Ferdows County">
+{{Talk header}}
+{{WikiProject Iran|class=stub|importance=high}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="47140238" title=Talk:Surmo>
+	<talkpage id="47140238" title="Talk:Surmo">
+{{WikiProject Pakistan|class=stub|importance=low}}
+	</talkpage>
+</article>

@@ -1,0 +1,9 @@
+<article id="30647074" title=Talk:Župa, Trebinje>
+	<talkpage id="30647074" title="Talk:Župa, Trebinje">
+{{Talkheader}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Republika Srpska|class=Stub|importance=Low}}
+{{WikiProject Bosnia and Herzegovina|class=Stub|importance=Low}}
+}}
+	</talkpage>
+</article>

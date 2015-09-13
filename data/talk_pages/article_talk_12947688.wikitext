@@ -1,0 +1,7 @@
+<article id="12947688" title=User talk:84.192.112.242>
+	<talkpage id="12947688" title="User talk:84.192.112.242">
+
+==August 25, 2007==
+{{{icon|[[Image:Information.svg|25px]] }}}Please refrain from making unconstructive edits to Wikipedia{{{{{subst|}}}#if:Dawn|, as you did to [[:Dawn]]}}. Your edits appear to be [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism2 --&gt; [[User:Av99|Av99]] 20:33, 25 August 2007 (UTC)
+	</talkpage>
+</article>

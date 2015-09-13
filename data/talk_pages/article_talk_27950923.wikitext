@@ -1,0 +1,7 @@
+<article id="27950923" title=User talk:86.14.153.237>
+	<talkpage id="27950923" title="User talk:86.14.153.237">
+== July 2010 ==
+[[File:Information.svg|25px|alt=]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of [[Special:Contributions/86.14.153.237|your recent edits]], such as the one you made to [[:Chak Jhumra]], did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; [[User:Drmies|Drmies]] ([[User talk:Drmies|talk]]) 23:45, 5 July 2010 (UTC)
+:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
+	</talkpage>
+</article>

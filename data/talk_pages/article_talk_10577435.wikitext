@@ -1,0 +1,27 @@
+<article id="10577435" title=Talk:Raimond Gaita>
+	<talkpage id="10577435" title="Talk:Raimond Gaita">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|listas=Gaita, Raimond
+}}
+{{WikiProject Australia|class=Stub
+|importance=mid
+|attention=yes
+}}
+{{WikiProject Philosophy|class=stub|importance=low|philosopher=yes|ethics=yes|contemporary=yes}}
+| blp=yes
+}}
+
+
+
+== Ethnicity ==
+
+Is he Jewish?--[[Special:Contributions/78.180.37.52|78.180.37.52]] ([[User talk:78.180.37.52|talk]]) 20:31, 7 February 2008 (UTC)
+:I don't believe he is. However, his wife definitely is Jewish. [[User:Efrafra|Efrafra]] ([[User talk:Efrafra|talk]]) 07:18, 7 August 2008 (UTC)
+
+==Tidy up==
+I have reoganised, added wikilinks and reformatted to the best of my ability right now, but this article needs much more work, including citations (eg for his activist/advocacy work). [[User:Sterry2607|Sterry2607]] ([[User talk:Sterry2607|talk]]) 03:33, 1 February 2012 (UTC)
+	</talkpage>
+</article>

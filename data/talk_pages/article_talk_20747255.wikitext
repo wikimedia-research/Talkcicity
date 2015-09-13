@@ -1,0 +1,11 @@
+<article id="20747255" title=Talk:Russian Association of Proletarian Writers>
+	<talkpage id="20747255" title="Talk:Russian Association of Proletarian Writers">
+{{WikiProjectBannerShell|1=
+{{WikiProject History|class=stub|auto=yes
+|importance=}}
+{{WikiProject Soviet Union|class=Start|importance=Mid}}
+{{WikiProject Russia|class=Start|importance=Mid|hist=yes|lit=yes}}
+{{WikiProject Organizations}}
+}}
+	</talkpage>
+</article>

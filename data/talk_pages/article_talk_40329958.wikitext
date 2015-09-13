@@ -1,0 +1,5 @@
+<article id="40329958" title=Talk:1961–62 Udinese Calcio season>
+	<talkpage id="40329958" title="Talk:1961–62 Udinese Calcio season">
+{{Football|class=Stub|importance=Low|season=yes}}
+	</talkpage>
+</article>

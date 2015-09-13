@@ -1,0 +1,12 @@
+<article id="25917342" title=Talk:Bo Schack>
+	<talkpage id="25917342" title="Talk:Bo Schack">
+{{WikiProject Biography|living=yes|class=|listas=Schack, Bo}}
+With reference to the message on the page &quot;Bo Schack&quot; that there may be a possible copy right problem in the article please note that the reference and quote is from the United Nations public domain website linked to the public announcement by the UN Secretary General spokesperson in early January 2010.  The exact text of the statement has been used by several newspapers in a number of regions.  The same kind of quotation has also been used for the page on Kim Bolduc recently appointed as well in a similar post as Deputy Special Representative of the Secretary General.
+
+I am not sure who created the page in the first place but appreciates the initiative linked to the public profile of the responsibilities of my post as Deputy Special Representative of the UN Secretary General in the Central African Republic.
+Bo Schack
+[[User:Bo Schack|Bo Schack]] ([[User talk:Bo Schack|talk]]) 16:53, 23 January 2010 (UTC)
+
+:Hi. The United Nations' website is not public domain, I'm afraid; see its [http://www.un.org/en/aboutun/copyright/ copyright page] where it reserves the right to all material. It even specifies that news-related material can't be used without appropriate credit and the advisement of the UN, which is inconsistent with Wikipedia's [[WP:C|licensing]]. Previously published material cannot be imported unless it is [[Wikipedia:Public domain|public domain]] or licensed compatibly with [[WP:CC-BY-SA|CC-By-SA]] and [[WP:GFDL|GFDL]], neither of which permits requiring advising the copyright holder before reuse. The article is not a straightforward copyright violation, but does closely paraphrase the source. It needs to be rewritten if we are to retain it. --[[User:Moonriddengirl|Moonriddengirl]] &lt;sup&gt;[[User talk:Moonriddengirl|(talk)]]&lt;/sup&gt; 14:29, 30 January 2010 (UTC)
+	</talkpage>
+</article>

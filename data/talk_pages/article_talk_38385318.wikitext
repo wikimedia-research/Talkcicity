@@ -1,0 +1,5 @@
+<article id="34033353" title=Talk:Odisha football team>
+	<talkpage id="34033353" title="Talk:Odisha football team">
+{{WikiProject India|class=start|importance=low|orissa=yes|orissa-importance=low|assess-date=April 2012|image-needed=yes|needs-infobox=yes}}
+	</talkpage>
+</article>

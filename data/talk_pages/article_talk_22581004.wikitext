@@ -1,0 +1,15 @@
+<article id="22581004" title=Talk:Miloš Šćepanović>
+	<talkpage id="22581004" title="Talk:Miloš Šćepanović">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|sports-work-group=yes
+|listas=Scepanovic, Milos
+}}
+{{WikiProject Olympics|class=Stub|importance=|auto=yes}}
+{{WikiProject Swimming|class=Stub|water-polo=yes}}
+| blp=yes
+}}
+	</talkpage>
+</article>

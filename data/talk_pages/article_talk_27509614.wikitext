@@ -1,0 +1,8 @@
+<article id="27509614" title=Talk:Stock Exchange (song)>
+	<talkpage id="27509614" title="Talk:Stock Exchange (song)">
+{{WikiProjectBannerShell|1=
+{{Songs|class=start}}
+{{Electronic-music-project |class=start|importance=low}}
+}}
+	</talkpage>
+</article>

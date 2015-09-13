@@ -1,0 +1,23 @@
+<article id="2843735" title=Talk:Muraqaba>
+	<talkpage id="2843735" title="Talk:Muraqaba">
+{{talkheader}}
+{{Spirituality project|class=Start}}
+{{WikiProject Alternative medicine|class=Start}}
+
+== Rewrite ==
+Needs a total rewrite.
+
+Seriously, this looks like it was probably copied and pasted from an FAQ out of the website of some Muraqaba practitioner. Having sections telling people why they ought to engage in some mystic practice, stating as fact that &quot;Angles&quot; predate Adam, is about as non-encyclopedic as you can get. [[User:Teucer|teucer]] 03:19, 6 October 2005 (UTC)
+
+:Done . [[user:Farhansher|&lt;font color=&quot;blueviolet&quot;&gt;'''F.a.y.''']]&lt;sup&gt;[[user talk:Farhansher|&lt;font color=&quot;darkorange&quot;&gt;تبادله خيال  ]]&lt;/sup&gt;&lt;small&gt;&lt;sup&gt;[[Special:Contributions/Farhansher|&lt;font color=&quot;slategray&quot;&gt;   '''''/c''''']]&lt;/small&gt;&lt;/sup&gt; 21:02, 4 November 2005 (UTC)
+::Bravo on the rewrite.  In the future, its easier on admins if you rewrite the article on the /Temp subpage linked to in the copyright notice.  This makes it simpler for us to remove the copyright violation versions from the history (which I have just done).  --best, kevin  &lt;font color=&quot;#BBBBBB&quot;&gt;·&lt;/font&gt;&lt;font color=&quot;#666666&quot;&gt;·&lt;/font&gt;·&lt;small&gt;[[User:Kzollman|Kzollman]] | [[User Talk:Kzollman|Talk]]&lt;/small&gt;·&lt;font color=&quot;#666666&quot;&gt;·&lt;/font&gt;&lt;font color=&quot;#BBBBBB&quot;&gt;·&lt;/font&gt; 17:22, 5 November 2005 (UTC)
+::Thank you. This is much better. [[User:Teucer|teucer]] 07:05, 14 November 2005 (UTC)
+
+== View Question ==
+It needs to be stated that this is the view of only one particular sufi order. There are over 400 sufi orders, each with a different view on what muraqaba/meditation is. Is this the Nagbandi view?
+
+== External link high jacked ==
+
+The external link to Sufi meditation is being high jacked by sufihub the real link is for www.sufimeditationcenter.com  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/70.68.36.132|70.68.36.132]] ([[User talk:70.68.36.132|talk]]) 11:11, 2 February 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

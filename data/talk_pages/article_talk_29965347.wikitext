@@ -1,0 +1,7 @@
+<article id="29965347" title=Talk:Junsele IF>
+	<talkpage id="29965347" title="Talk:Junsele IF">
+{{WikiProject Sweden|class=start|importance=low}}
+{{WikiProject Football|class=start|importance=low|Sweden=yes}}
+{{reqphoto|of=Junsele IF home ground or team photo|in=Sweden}}
+	</talkpage>
+</article>

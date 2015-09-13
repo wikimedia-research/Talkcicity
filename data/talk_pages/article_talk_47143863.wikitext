@@ -1,0 +1,8 @@
+<article id="47143863" title=User talk:172.56.29.19>
+	<talkpage id="47143863" title="User talk:172.56.29.19">
+
+== July 2015 ==
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Flyer22|Flyer22]]. I wanted to let you know that I undid one or more of [[Special:Contributions/172.56.29.19|your recent contributions]]&amp;nbsp;to [[:Earth (American band)]] because it did not appear constructive. If you would like to experiment, please use the [[WP:sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Flyer22|my talk page]]. &lt;!-- Template:uw-vandalism1 --&gt;  [[User:Flyer22|Flyer22]] ([[User talk:Flyer22|talk]]) 12:10, 3 July 2015 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

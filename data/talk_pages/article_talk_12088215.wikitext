@@ -1,0 +1,10 @@
+<article id="12088215" title=Talk:Montana Mountain>
+	<talkpage id="12088215" title="Talk:Montana Mountain">
+{{WikiProjectBannerShell|1=
+{{WikiProject Volcanoes|class=Stub|importance=}}
+{{WikiProject Mountains|class=Stub|importance=Low}}
+{{WikiProject Canada|geography=yes|yt=yes|class=Stub|importance=Low}}
+{{WikiProject Geography|class=stub|importance=low}}
+}}
+	</talkpage>
+</article>

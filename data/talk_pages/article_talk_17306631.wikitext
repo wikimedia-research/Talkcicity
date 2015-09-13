@@ -1,0 +1,19 @@
+<article id="6574149" title=Talk:Ryan Jones>
+	<talkpage id="6574149" title="Talk:Ryan Jones">
+{{Image requested|rugby union people}}
+{{WikiProject Biography
+|living=yes
+|class=Start
+|auto=yes
+|listas=Jones, Ryan
+}}
+{{WikiProject Rugby union|class=start|importance=mid}}
+
+== WikiProject class rating==
+This article was automatically  assessed because at least one article was rated and this bot brought all the other ratings up to at least that level. [[User:BetacommandBot|BetacommandBot]] 04:07, 28 August 2007 (UTC)
+
+==Why?==
+Why has this been moved when there is only the one other article claiming the name?&lt;small&gt;&lt;span style=&quot;border:1px solid black;padding:1px;&quot;&gt;[[User:Londo06|&lt;font style=&quot;color:#fef;background:red;&quot;&gt;'''Londo'''&lt;/font&gt;]][[User talk:Londo06|&lt;font style=&quot;color:white;background:black;&quot;&gt;'''06'''&lt;/font&gt;]]&lt;/span&gt;&lt;/small&gt; 21:45, 27 April 2008 (UTC)
+:Welsh captain. Others would come out of this page.&lt;small&gt;&lt;span style=&quot;border:1px solid black;padding:1px;&quot;&gt;[[User:Londo06|&lt;font style=&quot;color:#fef;background:red;&quot;&gt;'''Londo'''&lt;/font&gt;]][[User talk:Londo06|&lt;font style=&quot;color:white;background:black;&quot;&gt;'''06'''&lt;/font&gt;]]&lt;/span&gt;&lt;/small&gt; 08:57, 30 April 2008 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,15 @@
+<article id="27427754" title=Talk:Takarajima (anime)>
+	<talkpage id="27427754" title="Talk:Takarajima (anime)">
+== Requested move ==
+&lt;div class=&quot;boilerplate&quot; style=&quot;background-color: #efe; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px dotted #aaa;&quot;&gt;&lt;!-- Template:RM top --&gt;
+:''The following discussion is an archived discussion of a [[WP:RM|requested move]]. &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made in a new section on the talk page. No further edits should be made to this section. ''
+
+The result of the move request was: '''page moved'''. [[User:A little insignificant|ALI]] &lt;sup&gt;[[User talk:A little insignificant|nom]] [[Special:Contributions/A_little_insignificant|nom]]&lt;/sup&gt; 13:44, 21 May 2010 (UTC)
+
+----
+
+
+[[:Tarakajima (TV series)]] → {{noredirect|1=Takarajima (TV series)}} — Made a typo while moving the page, and I'm getting an error when I attempt to move it to the correct page. [[User:A little insignificant|ALI]] &lt;sup&gt;[[User talk:A little insignificant|nom]] [[Special:Contributions/A_little_insignificant|nom]]&lt;/sup&gt; 13:34, 21 May 2010 (UTC)
+:''The above discussion is preserved as an archive of a [[WP:RM|requested move]].  &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made in a new section on this talk page. No further edits should be made to this section.&lt;/div&gt;&lt;!-- Template:RM bottom --&gt;
+	</talkpage>
+</article>

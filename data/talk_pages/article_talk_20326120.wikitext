@@ -1,0 +1,5 @@
+<article id="20326120" title=Talk:Golda>
+	<talkpage id="20326120" title="Talk:Golda">
+{{DisambigProject}}
+	</talkpage>
+</article>

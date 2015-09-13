@@ -1,0 +1,10 @@
+<article id="39690422" title=Talk:List of letters from Fyodor Dostoyevsky>
+	<talkpage id="39690422" title="Talk:List of letters from Fyodor Dostoyevsky">
+{{Talk header}}
+{{WikiProjectBannerShell|collapsed=no |1= 
+{{WikiProject Russia|class=list|importance=low|lit=yes|hist=yes|relig=yes}}
+{{WikiProject Literature|class=list|importance=low}}
+{{WikiProject Journalism|class=list|importance=low}}
+}}
+	</talkpage>
+</article>

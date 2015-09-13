@@ -1,0 +1,13 @@
+<article id="46414746" title=User talk:71.192.35.111>
+	<talkpage id="46414746" title="User talk:71.192.35.111">
+
+
+== April 2015 ==
+[[File:Information.svg|left|25px|alt=]] Hello, and welcome to Wikipedia. This is a message letting you know that one or more of your recent edits to [[:Merchant Marine Act of 1920]] has been undone by an automated computer program called [[User:ClueBot NG|ClueBot NG]].
+{{clear}}
+* ClueBot NG makes very few [[User:ClueBot NG#Information About False Positives|mistakes]], but it does happen. If you believe the change you made was constructive, please [[User:ClueBot NG#Information About False Positives|read about it]], [{{User:ClueBot NG/Warnings/FPReport|2195434}} report it here], remove this message from your talk page, and then make the edit again.
+* For help, take a look at the [[Wikipedia:Introduction|introduction]].
+* The following is the log entry regarding this message: [[Merchant Marine Act of 1920]] was [http://en.wikipedia.org/w/index.php?title=Merchant+Marine+Act+of+1920&amp;diff=656549582&amp;oldid=644709619 changed] by [[Special:Contributions/71.192.35.111|71.192.35.111]] [[User:71.192.35.111|(u)]] [[User talk:71.192.35.111|(t)]] ANN scored at 0.953944 on 2015-04-15T03:05:43+00:00 &lt;!-- MySQL ID: 2195434 --&gt;.
+Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]) 03:05, 15 April 2015 (UTC)
+	</talkpage>
+</article>

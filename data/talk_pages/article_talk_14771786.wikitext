@@ -1,0 +1,15 @@
+<article id="14771786" title=Talk:Menno Sluijter>
+	<talkpage id="14771786" title="Talk:Menno Sluijter">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=stub
+|listas=Sluijter, Menno
+|auto=yes
+}}
+{{WikiProject Netherlands|class=Stub}}
+{{WikiProject Medicine|class=Stub|importance=Low}}
+| blp=yes
+}}
+	</talkpage>
+</article>

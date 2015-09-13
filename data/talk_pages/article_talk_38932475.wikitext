@@ -1,0 +1,25 @@
+<article id="38932475" title=User talk:Hubble-bubble super 9000>
+	<talkpage id="38932475" title="User talk:Hubble-bubble super 9000">
+
+== Welcome! ==
+
+Hello, Hubble-bubble super 9000, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for [[Special:Contributions/Hubble-bubble super 9000|your contributions]]. I hope you like the place and decide to stay. Unfortunately, one or more of the pages you created, such as [[Beastbox (console)]], may not conform to some of Wikipedia's [[Wikipedia:List of policies|guidelines]], and may not be retained. 
+
+There's a page about creating articles you may want to read called '''[[Wikipedia:Your first article|Your first article]]'''. If you are stuck, and looking for help, please come to the '''[[Wikipedia:New contributors' help page|New contributors' help page]]''', where experienced Wikipedians can answer any queries you have! Or, you can just type '''{{t|helpme}}''' on this page, followed by your question, and someone will show up shortly to answer your questions. Here are a few other good links for newcomers:
+* [[Wikipedia:Starting an article|Starting an article]]
+* [[Wikipedia:Your first article|Your first article]]
+* [[Wikipedia:Biographies of living persons|Biographies of living persons]]
+* [[Wikipedia:How to write a great article|How to write a great article]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Tutorial|Tutorial]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you have any questions, check out [[Wikipedia:Questions]] or ask me on my talk page. &lt;!-- Template:First article --&gt; Again, welcome!&amp;nbsp;[[User:Grammarxxx|Grammarxxx]] &lt;sup&gt;([[User talk:Grammarxxx|What'd I do this time?]])&lt;/sup&gt; 04:31, 27 March 2013 (UTC)
+
+==[[Wikipedia:Criteria for speedy deletion|Speedy deletion]] nomination of [[:Beastbox (console)]]==
+[[Image:Ambox warning pn.svg|48px|left|alt=|link=]]
+{{Quote box|quote=&lt;p&gt;If this is the first article that you have created, you may want to read [[WP:Your first article|the guide to writing your first article]].&lt;/p&gt;&lt;p&gt;You may want to consider using the [[Wikipedia:Article wizard|Article Wizard]] to help you create articles.&lt;/p&gt;|width=20%|align=right}}
+A tag has been placed on [[:Beastbox (console)]], requesting that it be speedily deleted from Wikipedia. This has been done under [[WP:CSD#G11|section G11 of the criteria for speedy deletion]], because the page seems to be unambiguous advertising which only promotes a company, product, group, service or person and would need to be fundamentally rewritten in order to become encyclopedic. Please read [[Wikipedia:Spam|the guidelines on spam]] and [[Wikipedia:FAQ/Organizations]] for more information. 
+
+If you think this page should not be deleted for this reason, you may '''contest the nomination''' by [[:Beastbox (console)|visiting the page]] and clicking the button labelled &quot;Click here to contest this speedy deletion&quot;. This will give you the opportunity to explain why you believe the page should not be deleted. However, be aware that once a page is tagged for speedy deletion, it may be removed without delay. Please do not remove the speedy deletion tag from the page yourself, but do not hesitate to add information in line with [[Wikipedia:List of policies|Wikipedia's policies and guidelines]]. If the page is deleted, and you wish to retrieve the deleted material for future reference or improvement, you can place a request [[WP:RFUD|here]]. &lt;!-- Template:Db-spam-notice --&gt; &lt;!-- Template:Db-csd-notice-custom --&gt; [[User:Grammarxxx|Grammarxxx]] &lt;sup&gt;([[User talk:Grammarxxx|What'd I do this time?]])&lt;/sup&gt; 04:31, 27 March 2013 (UTC)
+	</talkpage>
+</article>

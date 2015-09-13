@@ -1,0 +1,12 @@
+<article id="18377351" title=Talk:Stanisław Kaczor-Batowski>
+	<talkpage id="18377351" title="Talk:Stanisław Kaczor-Batowski">
+{{WikiProject Biography
+|living=no
+|class=Stub
+|listas=Kaczor-Batowski, Stanislaw
+|auto=yes
+}}
+{{Image requested|people|people of Poland}}
+{{WikiProject Poland|class=Stub|importance=}}
+	</talkpage>
+</article>

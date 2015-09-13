@@ -1,0 +1,5 @@
+<article id="18873126" title=Talk:Czerwony Krzyż, Podlaskie Voivodeship>
+	<talkpage id="18873126" title="Talk:Czerwony Krzyż, Podlaskie Voivodeship">
+{{WikiProject Poland|class=stub|importance=low}}
+	</talkpage>
+</article>

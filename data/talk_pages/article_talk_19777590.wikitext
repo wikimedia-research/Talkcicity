@@ -1,0 +1,13 @@
+<article id="19777590" title=User talk:Ryanwalmer>
+	<talkpage id="19777590" title="User talk:Ryanwalmer">
+
+
+==Speedy deletion of [[:Jon Walmer]]==
+[[Image:Ambox warning_pn.svg|48px|left]] A tag has been placed on [[:Jon Walmer]] requesting that it be speedily deleted from Wikipedia. This has been done under [[WP:CSD#A7|section A7 of the criteria for speedy deletion]], because the article appears to be about a person or group of people, but it does not indicate how or why the subject is notable: that is, why an article about that subject should be included in an encyclopedia. Under the [[WP:CSD#Articles|criteria for speedy deletion]], articles that do not indicate the subject's importance or significance may be deleted at any time. Please [[Wikipedia:Notability|see the guidelines for what is generally accepted as notable]], as well as our subject-specific [[Wikipedia:Notability (people)|notability guideline for biographies]]. 
+
+If you think that this notice was placed here in error, you may contest the deletion by adding &lt;code&gt;{{tl|hangon}}&lt;/code&gt; to '''the top of [[:Jon Walmer|the page that has been nominated for deletion]]''' (just below the existing speedy deletion or &quot;db&quot; tag), coupled with adding a note on '''[[ Talk:Jon Walmer|the talk page]]''' explaining your position, but be aware that once tagged for ''speedy'' deletion, if the article meets the criterion it may be deleted without delay. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the article that would would render it more in conformance with Wikipedia's policies and guidelines. Lastly, please note that if the article does get deleted, you can contact [[:Category:Wikipedia administrators who will provide copies of deleted articles|one of these admins]] to request that a copy be emailed to you. &lt;!-- Template:Db-bio-notice --&gt; &lt;!-- Template:Db-csd-notice-custom --&gt; [[User:Omarcheeseboro|Omarcheeseboro]] ([[User talk:Omarcheeseboro|talk]]) 18:59, 14 October 2008 (UTC)
+
+== October 2008 ==
+[[Image:Information.svg|25px]] Please refrain from introducing inappropriate pages{{#if:Jon Walmer|, such as [[:Jon Walmer]],}} to Wikipedia. Doing so is not in accordance with our [[Wikipedia:List of policies|policies]]. For more information about creating articles, you may want to read [[Wikipedia:Your first article|Your first article]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-create2 --&gt; [[User:Omarcheeseboro|Omarcheeseboro]] ([[User talk:Omarcheeseboro|talk]]) 19:06, 14 October 2008 (UTC)
+	</talkpage>
+</article>

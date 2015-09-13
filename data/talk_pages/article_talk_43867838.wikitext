@@ -1,0 +1,9 @@
+<article id="43867838" title=Talk:Connie Martyn>
+	<talkpage id="43867838" title="Talk:Connie Martyn">
+{{WikiProject Biography
+|living=no
+|class=Stub
+|auto=yes
+}}
+	</talkpage>
+</article>

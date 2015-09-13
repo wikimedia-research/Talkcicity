@@ -1,0 +1,7 @@
+<article id="10857573" title=User talk:68.59.223.10>
+	<talkpage id="10857573" title="User talk:68.59.223.10">
+
+==Regarding edits made 23 April 2007 to [[:Image:Felicien Rops 69.jpg]]==
+{{{icon|[[Image:Information.svg|25px|left]] }}}Please do not add unhelpful and unconstructive content to Wikipedia{{{{{subst|}}}#if:{{{1|}}}|, as you did to [[:{{{1}}}]]}}. Your edits appear to be [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{{2|Thank you.}}}&lt;!-- Template:uw-vandalism2 --&gt; -- &lt;b&gt;[[User:LeCour|&lt;font color=&quot;#000099&quot;&gt;LeCour&lt;/font&gt;]]&lt;/b&gt;&lt;span style=&quot;font-size: 0.8em;&quot;&gt;&lt;sup&gt;[[User Talk:LeCour|T]]:[[Special:Contributions/Richard D. LeCour|C]]&lt;/sup&gt;&lt;/span&gt; 19:59, 23 April 2007 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="32019588" title=Talk:A Better Life>
+	<talkpage id="32019588" title="Talk:A Better Life">
+{{WikiProject Film|American-task-force=yes|class=Start|listas=Better Life, A}}
+	</talkpage>
+</article>

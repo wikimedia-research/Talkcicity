@@ -1,0 +1,7 @@
+<article id="41626797" title=User talk:Johnbo69>
+	<talkpage id="41626797" title="User talk:Johnbo69">
+== January 2014 ==
+
+[[Image:Information.svg|25px|alt=|link=]] Hello, I'm [[User:I dream of horses|I dream of horses]]. I noticed that you recently removed some content from [[:Zorpia]],&amp;nbsp;with &lt;span class=&quot;plainlinks&quot;&gt;[https://en.wikipedia.org/w/index.php?title=Zorpia&amp;diff=590471322 this edit]&lt;span&gt;, without explaining why. In the future, it would be helpful to others if you described your changes to Wikipedia with an [[Wikipedia:Edit summary|edit summary]]. If this was a mistake, don't worry, the removed content has been restored. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:I dream of horses|my talk page]]. Thanks. &lt;!-- Template:Huggle/warn-delete-1 --&gt;&lt;!-- Template:uw-delete1 --&gt;[[User:I dream of horses|I dream of horses]] &lt;span style=&quot;border:1px solid #ffa500;background:#ffce7b;&quot;&gt;&lt;small&gt;If you reply here, please leave me a {{[[Template:Talkback|Talkback]]}} message on [[User talk:I dream of horses|my talk page]].&lt;/small&gt;&lt;/span&gt; @  06:39, 13 January 2014 (UTC)
+	</talkpage>
+</article>

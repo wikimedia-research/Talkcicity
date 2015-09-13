@@ -1,0 +1,5 @@
+<article id="37702838" title=Talk:The One-Man Band>
+	<talkpage id="37702838" title="Talk:The One-Man Band">
+{{WikiProject Film|class=stub|French-task-force=yes|Silent=yes}}
+	</talkpage>
+</article>

@@ -1,0 +1,8 @@
+<article id="14601257" title=User talk:72.21.112.156>
+	<talkpage id="14601257" title="User talk:72.21.112.156">
+
+
+== December 2007 ==
+{{{icon|[[Image:Information.svg|left|25px]] }}}Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits, such as the one you made to [[:Dragon Ball Z Hit Song Collection 16: WE GOTTA POWER]], did not appear to be constructive and has been '''automatically [[Help:Reverting|reverted]]''' by [[User:ClueBot|ClueBot]].  Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. {{User:ClueBot/Tracker}} '''If you believe there has been a mistake and would like to report a false positive, please [[User:ClueBot/FalsePositives|report it here]] and then remove this warning from your talk page.'''  If your edit was not vandalism, please feel free to make your edit again after reporting it. The following is the log entry regarding this warning: [[Dragon Ball Z Hit Song Collection 16: WE GOTTA POWER]] was [http://en.wikipedia.org/w/index.php?title=Dragon+Ball+Z+Hit+Song+Collection+16%3A+WE+GOTTA+POWER&amp;diff=176376809&amp;oldid=167792918 changed] by [[User:72.21.112.156|72.21.112.156]] [[Special:Contributions/72.21.112.156|(c)]] [[User talk:72.21.112.156|(t)]] making a minor change with obscenities on 2007-12-07T15:28:17+00:00 &lt;!-- MySQL ID: 108089 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot|ClueBot]] ([[User talk:ClueBot|talk]]) 15:28, 7 December 2007 (UTC)
+	</talkpage>
+</article>

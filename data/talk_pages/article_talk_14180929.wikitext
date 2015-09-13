@@ -1,0 +1,6 @@
+<article id="14180929" title=Talk:Huperzia phlegmaria>
+	<talkpage id="14180929" title="Talk:Huperzia phlegmaria">
+{{WikiProject New Zealand|class=C|importance=Low}}
+{{WikiProject Plants|class=C|importance=Low}}
+	</talkpage>
+</article>

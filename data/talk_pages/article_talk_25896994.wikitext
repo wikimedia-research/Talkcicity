@@ -1,0 +1,8 @@
+<article id="25896994" title=User talk:99.58.237.139>
+	<talkpage id="25896994" title="User talk:99.58.237.139">
+
+
+== January 2010 ==
+[[Image:Information.svg|25px]] Welcome to Wikipedia. It might not have been your intention, but your recent edit removed content from [[:Crazy Horse]]. When removing text, please specify a reason in the [[Help:Edit summary|edit summary]] and discuss edits that are likely to be controversial on the article's [[Wikipedia:Talk page|talk page]]. If this was a mistake, don't worry; the text has been restored, as you can see from the &lt;span class=&quot;plainlinks&quot;&gt;[{{fullurl:Crazy Horse|action=history}} page history]&lt;/span&gt;. Take a look at the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing to this encyclopedia, and if you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]].  Thank you.&lt;!-- Template:uw-delete1 --&gt; '''&lt;font face=&quot;Segoe Print&quot;&gt;[[User:Bsadowski1|&lt;font color=#03B&gt;B&lt;font color=#03A&gt;s&lt;font color=#049&gt;a&lt;font color=#058&gt;d&lt;font color=#068&gt;o&lt;font color=#077&gt;w&lt;font color=#086&gt;s&lt;font color=#095&gt;k&lt;font color=#0A4&gt;i&lt;font color=#0B3&gt;1]]&lt;/span&gt;''' 22:41, 21 January 2010 (UTC)
+	</talkpage>
+</article>

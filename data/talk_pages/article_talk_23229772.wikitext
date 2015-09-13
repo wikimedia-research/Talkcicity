@@ -1,0 +1,12 @@
+<article id="23229772" title=User talk:121.219.21.111>
+	<talkpage id="23229772" title="User talk:121.219.21.111">
+
+== June 2009 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Lee's_Famous_Recipe_Chicken?diff=296562941 recent edit]&lt;/span&gt; you made to the page [[:Lee's Famous Recipe Chicken]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; &lt;span style='background:#fff; border:1px solid; font-size:10px; padding:0px 5px;'&gt;[[User:RazorICE|&lt;font color=&quot;#0000aa&quot;&gt;Razor&lt;/font&gt;]][[User talk:RazorICE|&lt;font color='#aa0000'&gt;ICE&lt;/font&gt;]]&lt;/span&gt; 15:57, 15 June 2009 (UTC)
+
+[[Image:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia, as you did with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Harland_Sanders?diff=296563408 this edit]&lt;/span&gt; to the page [[:Harland Sanders]]. Such edits constitute [[Wikipedia:Vandalism|vandalism]] and are [[Help:Reverting|reverted]]. Please do not continue to make unconstructive edits to pages; use the [[Wikipedia:Sandbox|sandbox]] for testing. Thank you. &lt;!-- Template:uw-huggle2 --&gt; &lt;span style='background:#fff; border:1px solid; font-size:10px; padding:0px 5px;'&gt;[[User:RazorICE|&lt;font color=&quot;#0000aa&quot;&gt;Razor&lt;/font&gt;]][[User talk:RazorICE|&lt;font color='#aa0000'&gt;ICE&lt;/font&gt;]]&lt;/span&gt; 16:00, 15 June 2009 (UTC)
+
+[[Image:Nuvola apps important.svg|25px]] Please do not vandalize pages, as you did with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Yum!_Brands?diff=296561999 this edit]&lt;/span&gt; to [[:Yum! Brands]]. If you continue to do so, you will be blocked from editing. &lt;!-- Template:uw-huggle3 --&gt; [[User:Alansohn|Alansohn]] ([[User talk:Alansohn|talk]]) 16:01, 15 June 2009 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,74 @@
+<article id="16437264" title=User talk:WorldInCrysis>
+	<talkpage id="16437264" title="User talk:WorldInCrysis">
+==Hi WorldInCrysis!==
+The game, Crysis, ended so abruptly. Will there be other games or just one? Any help will be appreciated! Thanks! -Gary 
+
+== Answer from WorldInCrysis ==
+
+Yes, there will be other games. Crysis is the first game in a trilogy.
+
+== Welcome! ==
+
+&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;div style=&quot;align: center; width: 75%; padding: 1em; border: solid 2px black; background-color: None;&quot;&gt;
+'''&lt;font color=&quot;black&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;'''Welcome!'''&lt;/div&gt;
+Hello, {{BASEPAGENAME}}, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for your contributions, they are appreciated. I hope you like it here, and decide to stay. Here a few pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Help:Contents|Help pages]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:Article development|How to write a great article]]
+*[[Wikipedia:Verifiability|Verifiability]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+*[[Wikipedia:Neutral Point of View|Neutral Point of View]]
+*[[Wikipedia:Civility|Civility]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you need help, check out [[Wikipedia:Questions]], ask at the [[Wikipedia:Help Desk|help desk]], leave me a message on [[User talk:AndonicO|my talk page]], or place &lt;code&gt;&lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt;&lt;/code&gt; on your talk page and someone will show up to answer your questions. Again, welcome!&amp;nbsp; · [[User:AndonicO|&lt;font face=&quot;Times New Roman&quot; color=&quot;Black&quot;&gt;'''A'''''ndonic'''''O'''&lt;/font&gt;]] &lt;sup&gt;[[User talk:AO|&lt;font face=&quot;Times New Roman&quot; color=&quot;Navy&quot;&gt;'''''Hail!'''''&lt;/font&gt;]]&lt;/sup&gt; 
+&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+Long live Crysis! :P · [[User:AndonicO|&lt;font face=&quot;Times New Roman&quot; color=&quot;Black&quot;&gt;'''A'''''ndonic'''''O'''&lt;/font&gt;]] &lt;sup&gt;[[User talk:AO|&lt;font face=&quot;Times New Roman&quot; color=&quot;Navy&quot;&gt;'''''Hail!'''''&lt;/font&gt;]]&lt;/sup&gt; 21:21, 20 March 2008 (UTC)
+
+== Thanks Andonico. ==
+
+Thanks for helping out! --[[User:WorldInCrysis|'''&lt;sup&gt;Engineering&lt;/sup&gt;'''WorldInCrysis '''&lt;sup&gt;Innovation&lt;/sup&gt;''']] ([[User talk:WorldInCrysis#top|talk]]) 23:08, 20 March 2008 (UTC)
+:You're welcome. :) By the way, regarding your edit to the Crysis article, inserting this text:
+:&quot;''Crysis uses CryTek's new gaming engine, the [[CryEngine2]]. With Windows' DirectX 10, the shaders and rendering of the game changes. The ground is more three-dimensional, the water's physics are more realistic, and the characteristics of the characters' face are a lot more believable. Even with low graphics specs, the game itself still look amazing. Without DirectX 10, the DirectX 9 version of the game won't make a difference.''&quot;
+:It's a bit biased in favor of the view that &quot;Crysis looks real&quot;, which is 100% completely true now, but that may change in, for example, Crysis 2 (or CryENGINE3?). The first three sentences are okay (though they should probably go in the section called &quot;Game engine&quot;, under &quot;Development&quot;), but the second two should be [[WP:V|cited]] and stated more [[WP:NPOV|neutrally]]. If you need clearer instructions, I'll be happy to help more tomorrow. Welcome again! · [[User:AndonicO|&lt;font face=&quot;Times New Roman&quot; color=&quot;Black&quot;&gt;'''A'''''ndonic'''''O'''&lt;/font&gt;]] &lt;sup&gt;[[User talk:AO|&lt;font face=&quot;Times New Roman&quot; color=&quot;Navy&quot;&gt;'''''Hail!'''''&lt;/font&gt;]]&lt;/sup&gt; 02:55, 21 March 2008 (UTC)
+
+== New article made by me! ==
+
+That's right! WorldInCrysis has just made an article about [[Nitro R/C|nitro R/C!]] Check it out! --[[User:WorldInCrysis|WorldInCrysis]] ([[User talk:WorldInCrysis#top|talk]]) 00:44, 21 March 2008 (UTC)
+
+== FAQ ==
+
+These frequently asked question have been made for your convenience by me. 
+
+Q. How can I contact you?
+
+'''A.''' You can reach me by either posting or commenting me on the discussion page of my profile. I'll answer your questions whenever I have the chance to log on.
+
+Q. How did you create that [[logo]] of yourself on that fortune cookie?
+
+'''A.''' I took a picture of a fortune cookie I had in my computer and then I'd just used image editing software like [[ACDSee]] or [[Microsoft Paint]] and type in whatever you wish. It's as easy as that!
+
+Q. At what times would you say you're available?
+
+'''A.''' I'm always [[log|logged]] on, but I do '''frequently''' go and come back on sometimes.
+
+Q. I keep searching where I can find those little '''userboxes'''. Can you tell me anything specific on where you found them?
+
+'''A.''' Sure, just go this link: http://en.wikipedia.org/wiki/Wikipedia:Userboxes#Using_the_Userboxtop_template
+
+Q. How long have you been here in Wikipedia?
+
+'''A.''' I've created my account about three or so weeks ago.
+
+Q. Have you been contributing then?
+
+'''A.''' No, I was on MySpace... [[LOL|XD]]
+
+==Back==
+
+I have been offline for a really long time, but I have some free time now. I'll be contributing from now on. Hopefully, I'll be able to go online from this point on. -WorldInCrysis; 12/01/08 12:02:44 AM Central Time
+	</talkpage>
+</article>

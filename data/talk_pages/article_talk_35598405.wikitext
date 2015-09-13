@@ -1,0 +1,10 @@
+<article id="35598405" title=Talk:Zoran Ratković>
+	<talkpage id="35598405" title="Talk:Zoran Ratković">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=yes|class=stub|listas=Ratkovic, Zoran|sports-work-group=yes|sports-priority=low}}
+{{WikiProject Football|class=stub}}
+{{WikiProject Croatia|class=stub|importance=low}}
+| blp=yes
+}}
+	</talkpage>
+</article>

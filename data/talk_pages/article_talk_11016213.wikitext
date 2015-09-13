@@ -1,0 +1,6 @@
+<article id="11016213" title=User talk:Bennet34>
+	<talkpage id="11016213" title="User talk:Bennet34">
+==Regarding edits made during [[May 2]] [[2007]]==
+Please do not add nonsense to Wikipedia{{#if:{{{1|}}}|, as you did {{#if:{{{diff|}}}|with [{{{diff}}} this edit]}} to the [[:{{{1}}}]] page|{{#if:{{{diff|}}}|, as you did with [{{{diff}}} this edit]}}}}. It is considered [[Wikipedia:Vandalism|vandalism]]. If you would like to experiment, use the [[Wikipedia:Sandbox|sandbox]]. Thank you. &lt;!-- Template:Test2 (second level warning) --&gt; &amp;ndash; &lt;span style=&quot;font-family: Garamond&quot;&gt;[[User:Luna Santin|&lt;font color=&quot;#1E90FF&quot;&gt;'''Luna Santin'''&lt;/font&gt;]] ([[User talk:Luna Santin|talk]])&lt;/span&gt; 07:08, 2 May 2007 (UTC)
+	</talkpage>
+</article>

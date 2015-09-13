@@ -1,0 +1,9 @@
+<article id="24510988" title=Talk:Farmers Branch (DART station)>
+	<talkpage id="24510988" title="Talk:Farmers Branch (DART station)">
+{{WikiProjectBannerShell|1=
+{{WikiProject Trains|class=stub|importance=low|stations=yes|unref=yes}}
+{{WikiProject Dallas-Fort Worth|class=Stub|importance=Mid|subproject=Transportation}}
+{{WikiProject United States|class=Stub|importance=Low|TX=yes|TX-importance=Low}}
+}}
+	</talkpage>
+</article>

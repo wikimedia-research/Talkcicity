@@ -1,0 +1,14 @@
+<article id="6826917" title=Talk:John Vause>
+	<talkpage id="6826917" title="Talk:John Vause">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=stub
+|listas=Vause, John
+}}
+{{WikiProject Australia|class=Stub|importance=}}
+{{WikiProject Journalism|class=Stub|importance=}}
+| blp=yes
+}}
+	</talkpage>
+</article>

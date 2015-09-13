@@ -1,0 +1,6 @@
+<article id="551171" title=Talk:Earth, Wind & Fire (album)>
+	<talkpage id="551171" title="Talk:Earth, Wind & Fire (album)">
+{{WikiProject R&amp;B and Soul Music|class=Start|auto=Inherit|importance=}}
+{{Album|class=start}}
+	</talkpage>
+</article>

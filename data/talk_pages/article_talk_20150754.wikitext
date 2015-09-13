@@ -1,0 +1,188 @@
+<article id="20150754" title=User talk:Koeplinger>
+	<talkpage id="6018758" title="User talk:Koeplinger/Archive 1 - 2008-11-10">
+'''Welcome!'''
+
+Hello, {{BASEPAGENAME}}, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for your contributions. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Help:Contents|Help pages]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:Article development|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (~&amp;#126;~~); this will automatically produce your name and the date. If you need help, check out [[Wikipedia:Questions]], ask me on my talk page, or place &lt;code&gt;{&amp;#123;helpme}}&lt;/code&gt; on your talk page and someone will show up shortly to answer your questions. Again, welcome!&amp;nbsp; [[User:Oleg Alexandrov|Oleg Alexandrov]] ([[User talk:Oleg Alexandrov|talk]]) 20:58, 18 July 2006 (UTC)
+
+I replied on my talk page about categories of [[hypernumber]]s. [[User:Oleg Alexandrov|Oleg Alexandrov]] ([[User talk:Oleg Alexandrov|talk]]) 20:58, 18 July 2006 (UTC)
+
+== Category:Numbers ==
+
+Hi. I undid some of the categorization you did in this category. For example, [[real number]] is already in [[:Category:Real numbers]], which is a subcategory of [[:Category:Numbers]], as such there is no need for [[real number]] to also be in [[:Category:Numbers]]. Articles in a subcategory should not (most of the time) also be in the parent category, there is a rule about that somewhere. You can reply here if you have comments. Cheers, [[User:Oleg Alexandrov|Oleg Alexandrov]] ([[User talk:Oleg Alexandrov|talk]]) 15:18, 20 July 2006 (UTC)
+
+: Ok. That's fine, since we currently have the infobox / template about &quot;Number systems in mathematics&quot; ( [[Template:Numbers]] ), which directly links to certain pages. I still think that this infobox / template is in need of revision and have put a question out on [[Category_talk:Numbers]]. Let's see what feedback may come. Thanks, Jens [[User:Koeplinger|Koeplinger]] 15:28, 20 July 2006 (UTC)
+:: I think that discussion may be better off at [[Template talk:Numbers]] as we are discussing the numbers template. 
+
+:: By the way, the consensus now is that [[template:numbers]] is too big to be posted on all numbers articles, like [[real number]], etc. People think it belongs only at [[Number]]. Cheers, [[User:Oleg Alexandrov|Oleg Alexandrov]] ([[User talk:Oleg Alexandrov|talk]]) 16:42, 20 July 2006 (UTC)
+
+::: Yes, good idea; I'll post some updates in the discussion pages of template:Numbers and category:Numbers. I'm still getting familiar with numbers, and I was misled by the amount of information and the template in the category:Numbers and believed that this was a place where some details are being described. I have just now seen the '''article''' [[Number]] for the first time. Thanks for leading me to the right places. I'm fully fine with getting away with the template, and embed it in [[Number]] only. In the brief description of the category:Number we can then simply tell to look at the article for a detailed info on all those references. Thanks, Jens [[User:Koeplinger|Koeplinger]] 17:06, 20 July 2006 (UTC)
+
+==Hypernumber==
+
+One suggestion. I wonder if you think it is a good idea to create redirects from [[Conic sedenion]] (also [[Conic sedenions]]) to [[hypernumber]], as conic sedenions are explained at [[hypernumber]]. (And same for the other types of numbers described at [[hypernumber]].) If you think it should be done, one can visit [[Wikipedia:Redirects]] to learn about creating redirects. [[User:Oleg Alexandrov|Oleg Alexandrov]] ([[User talk:Oleg Alexandrov|talk]]) 16:48, 20 July 2006 (UTC)
+
+: Done, great idea. I'll do so for [[conic octonion]] and [[conic octonions]], too, so I don't always have to write &quot;... from the [[hypernumbers]] program...&quot;. Thanks again, Jens [[User:Koeplinger|Koeplinger]] 17:15, 20 July 2006 (UTC)
+
+== Bold ==
+
+Hello and thanks for the edits over at [[Clifford algebra]].  The article clearly needs some refinement in order to better situate its more recent additions.  (Also, good show on removing the &quot;''Warning:''&quot; message.  That really bothered me too!)  I have just a minor suggestion, though.  Before you continue your crusade of unbolding everything in sight, look at the style guidelines here: [[Wikipedia:Technical terms and definitions]].  To summarize, technical terms ''should be'' bold the first time they appear in a scientific (or mathematical) article.  (I know, it seems to conflict with the usual style guidelines.)  I personally don't feel very strongly about the issue in general.  There are some cases where it is definitely helpful when a definition stands out in bold, but too much bold always seems to detract from the readability of an article.  Still, I suspect some other editors may begin to take an interest if you do this elsewhere.  So please be aware.   Thanks again,  [[User:Silly rabbit|Silly rabbit]] 20:45, 29 April 2007 (UTC)
+
+:Thanks for pointing this out, and thanks for the reference - I may have gotten carried away ... Possibly it was the large amount of bold terms that triggered my editing, since a bare mention of a term doesn't really warrant making it bold :) - I re-checked the page, it it looks as if all ''important'' terms that were previously bold are now hotlinked, underwriting their importance, so the article should to the least be a bit better. But it's merely a start, in the quest of making [[Clifford algebra]] more accessible to a wider public there's long ways to go ... Thanks again! Jens [[User:Koeplinger|Koeplinger]] 01:18, 30 April 2007 (UTC)
+
+
+______________________________________
+
+::Jens, I disagree as these are allowable &quot;quotes&quot; for discussing the issue of the Theoretical Justification of the claims made by Bearden, which effect the basis of your claims that he is presenting &quot;pseudo-science&quot;, which you are clearly on an openly stated crusade against&lt;ref&gt;http://en.wikipedia.org/wiki/User:Koeplinger&lt;/ref&gt;. I don't believe you have the ability to prove or state these opinions at this juncture, since you are not even a PhD yourself and have not take the pains to prove him wrong through any scientific process or even review. 
+
+::Since you have an openly stated agenda, I am here to make sure you stick to a NPOV. At this point, I EQUALLY suspect the integrity of the arguments made by Bearden and his detractors like your good self and Prebys. I am not impressed by the way Bearden went about his PhD, not the way you are going about suppressing the discussion about the integrity of his science. You curiously have no qualms about discussing the integrity of his character, however. REG FLAGS are flying all over my screen here. I suspect you are not being neutral or fair on this page.
+
+::This is my frank and honest humble opinion. So far as the accepted consensus information contained on this subject in Wikipedia (specifically in relation to 2nd law of thermodynamics) suggests that you may again be in error (reference your talk page on theories you initially suspected psuedo-science by [[Charles Musè]] an admitted friend of aliens) of your unprovable contention that these people are pseudo-scientists. Clearly your initial judgments have a proven (self-admitted) tendency towards error. So why should I be moved by them, and why should you post them?
+
+::Why you, a person who claims no interest whatsoever in Bearden's work, would take all this time and effort to discredit and suppress an open debate on his biography is spurious in the very least. Truly no offense is intended here. But neither am I obliged to turn a blind eye to what I am seeing, or mute my observations. I feel obliged to do so for the sake of maintaining the NPOV of this encyclopedia. I feel your time would be better spent proving your claims and personal judgments against Bearden BEFORE posting them here (in the Wiki and/or talk page for Bearden). 
+
+::Now, if you want to remove the quotes of Bearden that serve the discussion on the matter of your claim of his propagation of psuedo-science, then remove all the references to his propagating psuedo-science. Otherwise defend your claims by defeating his claims point-for-point. I am all for discrediting psuedo-science. I am not at all defending or attacking Bearden. Prove he is a pseudo-scientist and I will personally begin his biography with those very words.
+
+::Neither am I inordinately impressed by any degree, but by well meaning and reasonable statements (which I stick to without the need to make blatant self-serving references to my advanced degrees; which is why you will never see me do so...let my statements swim or sink on their own merit). 
+
+::It is funny that you make the statement that &quot;Wiki is not a discussion board&quot; on a page titled &quot;Discussion&quot; (which exists on every Wiki page, as we all know). You are trying to stifle a legitimate discussion on relevant topics concerning the validity of a living person's biography, which is a very sensitive matter. I believe Bearden (and even you) deserve more consideration than that. I would do the same for you if you hypothetically came under fire as a RWA [[right wind authoritarian]] scientist with an atheistic elitist agenda (not that you are). I wouldn't let someone flagrantly discredit and bury you and the potential value of your work,which may hold great value to the world. So don't mistake me as your enemy or the enemy of Wiki and science. I am just really neutral and have a great aversion for BS and high handedness.
+
+::How is moving a discussion on Bearden's degree from an irrelevant section on theoretical justification to the relevant section titled &quot;Degree Mill&quot; considered &quot;disruptive&quot;? Am I just supposed to swallow that one? Well, I disagree with you. I did not change the sequence of comments made in that discussion, I just put them in their proper place like any good editor would do. And where do I discuss my original research? 
+
+::You say &quot;Wiki is a reference to notable material&quot;, and what is more notable in the discussion of your claims of &quot;pseudo-science&quot; against a scientist other than his scientific claims (the material i posted that you say &quot;needs to be quickly removed&quot;)? I feel you are disturbing the discussion on the debate of Bearden's credibility as a scientist and I request you to immediate cease and desist from making such obstructive demands that will not be heeded.
+
+::Finally, I suggest that you need to chill out (and I will follow my own advice by not trying to suppress your contributions or make baseless claims against you either). Fair?  --[[User:Theoversightcommittee|Theoversightcommittee]] ([[User talk:Theoversightcommittee#top|talk]]) 15:13, 25 April 2008 (UTC)
+
+:::I only respond to this: &quot;''Why you, a person who claims no interest whatsoever in Bearden's work, would take all this time and effort ...''&quot; - Mr Bearden claims that millions of people are dieing, and researchers are putting themselves at risk of murder, because Mr Bearden does not have $11 mio in funding. That is alarming to me, and is my motivation for my purely editorial interest in the Wikipedia article on Mr Bearden. [[User:Koeplinger|Koeplinger]] ([[User talk:Koeplinger#top|talk]]) 19:40, 25 April 2008 (UTC)
+
+==Exceptionally complicated hoopla about everything?==
+
+Hello Koeplinger, could you help with the arbitration of recent edits to [[An Exceptionally Simple Theory of Everything]], perhaps by issuing a [[WP:RFC]] or arranging some sort of mediation? [[User:Scientryst|Scientryst]] ([[User talk:Scientryst|talk]]) 18:34, 6 August 2008 (UTC)
+:I'm sorry this got out of hand ... is it not possible to take a deep breath, step back from the article for a short while, possibly even let something &quot;bad&quot; stand there for a day or two? Maybe someone else will be encouraged to edit; I'm sure there are many people following the debate. There's a good chance that a bit of time may help everyone here. Someone else may want to take ownership of one or the other passage, and try to make it better. --- But I'll check a bit more closely on the weekend. Good luck! Thanks, Jens [[User:Koeplinger|Koeplinger]] ([[User talk:Koeplinger#top|talk]]) 21:33, 6 August 2008 (UTC)
+::OK. I inserted a RfC, and will take your advice. [[User:Scientryst|Scientryst]] ([[User talk:Scientryst|talk]]) 23:46, 6 August 2008 (UTC)
+	</talkpage>
+	<talkpage id="23194235" title="User talk:Koeplinger/Archive 1 - 2009-04-30">
+== Thanks for all you do! ==
+
+I have a lot to learn from you.
+
+Calm down and have a beer, good advice.
+
+The edit war that once raged at '''classical hamiltonian quaternions''' seems to be at an end.  That one guy, that I probably was not as welcoming as I could have been, I admit really got on my nerves.  I am really not used to flame wars were not even insults are allowed, and I suppose I somewhat broke the rules of civil discussion, but it really seemed to me that he was being just a little bit unreasonable.  
+
+One thing that helped is when I read the rules on how to deal with vandals, and trolls, is don't feed them.  That worked pretty well, while he was demanding that I provide documentation for my unsupported statement that a positive number minus another positive number is equal to a negative number, I thought, why not just ignore this guy and fix all the broken links.  Seems like he just wants attention.
+
+A lot of the stuff that he deleted was stuff that I had placed in section 6 of the article already, which I thought was good but probably belonged some place else, that I thought was analysis, and he thought was OR.
+
+If you have scrolled down to the bottom of the article at some point it gets to the subject that interests you, the Octonians.  How to order that material is still an area of difficulty.  Article 214 of elements was something that really interests me.  Hamilton basically demonstrates that if there is a 1 and i,j,k then there has to be at least one more imaginary. In Elements he calls it h, and says that it is the imaginary scalar, that acts like a scalar when multiplied.  In other words h is both commutative and associative.
+
+Now here is something you will find interesting, in proof sheet after proof sheet, he says over and over again that in this article we are talking about h that is associative and commutative, and it was clear to me, that there were going to be articles were he explored the other possibility.
+
+A section on Hamilton's writings on octonians, may be short, but still important.  It was pretty stressful seeing a lot of my effort go down the drain, but I learned a lot from that process and neither of my articles got deleted, and a lot of pretty good stuff is left in the article on quaternions, but the history article, I don't know, I don't think I will really work all that much on that article, because history is so subjective, that you can't really say what is true and what isn't, and past that there are so many things that happened in the past that even if something is true then they can always say that it is not relevant.  But the way we have things now, I think it is pretty good sketch of at least what goes in a particular article and what goes out.
+
+So thanks again for voting not to delete the article.
+
+:Ah, you're just too kind. Thanks a lot for your nice words! And: Thanks for your patience and dilligence in going through all the Hamilton material!! That's not an easy task to do, I know that; it just needs to get done ''once'', right. And you're the key actor here. That's pretty impressive, if you think about it. Nothing in the debate on the [[Classical Hamiltonian quaternions]] page was really about the content, it was really all about the way it's presented. I'm getting interested in having a closer look at the article later this summer, and I'll be sure to check the edits you've put in before the recent changes. Thanks, Jens [[User:Koeplinger|Koeplinger]] ([[User talk:Koeplinger#top|talk]]) 02:03, 16 March 2009 (UTC)
+
+::The more I think about it the more I think you are right, about just presenting what Hamilton said.  Hardy is a really great secondary source.  Remember Hamilton died before he ever finished elements. One of the things he said he was going to do, but never got around to was write a really easy, basic introductory book on quaternions.  What Hardy claims he is going is writing the basic book that Hamilton would have written had he lived longer.  So Hardy always agrees with Hamilton, but simplifies.  He might over to simple for a man of your intellect after a while, but reading his presentation of high school geometry problems solved in quaternion notation will save you a lot of time.  Once you get to Hamilton you will have a really big head start.
+
+Tait wrote 8 books on quaternions, he is a really great writer, and one of these days there needs to be a page devoted exclusively to his extensions of Hamilton's work.  But Tait is also completely faithful to Hamilton.  Every time I have looked at one of his books, if he does something like call a versor a unit quaterion, he will always first mention that called it a versor.  
+
+Tait is another really great secondary source on Hamilton, and good with advanced stuff.
+
+But hey gotta get to my thermodynamics class.
+
+==Wiki admin(s) in overdrive?==
+{{unblock reviewed|1=At least one of the many internet-facing IP addresses of the many internal proxy servers operated by AT&amp;T has been blocked globally here in Wikipedia: 170.35.208.23 . The admin who issued the block, [[User:Herbythyme]], chose not to accept e-mails, so I could not contact him. I suggest that you are only allowed to issue a block if you allow a means of contact you. I've switched to another proxy now, so I'm at least able to edit my own talk page (and leave this note). The template now reads as if I would be blocked from editing. I do not understand why I would be blocked from editing. Bureaucracy, and people &quot;in power&quot; shooting from the hip concern me, and that would be a certain way to drive me out of here.|decline=I checked and this IP appears on several anonymous proxy sites. It might be a dynamic range, but for now I don't feel comfortable removing the block. Sorry for the inconvenience, rest assured that you are not specifically targeted by that block. -- [[User:Lucasbfr|&lt;span style=&quot;color:#002BB8;&quot;&gt;lucasbfr&lt;/span&gt;]] &lt;sup&gt;[[User talk:Lucasbfr|&lt;span style=&quot;color:#66BB00;&quot;&gt;talk&lt;/span&gt;]]&lt;/sup&gt; 13:41, 16 March 2009 (UTC)}}
+
+Er ... ok ... maybe I put a request in with the [http://controlrooms.christiedigital.com/Installations/Telecommunications/control_room_installations_ATT.htm GNOC], to have traffic from the legacy-Cingular proxy leave the intranet at a different IP? Seeing that the internet-facing IP is legacy-BellSouth, I might also have to put a word in with the IT NOC, since it'll be [[Network address translation|natted]] internally at least once before going outbound ... I think something's crossed-over here. Surely, at 300,000 employees you're guaranteed to have a troll here and there, with a smaller (but sizable) portion going through named proxy that's currently blocked. Blocking the IP seems reasonable; I don't see the point, however, in blocking registered users from using anonymizing proxies. Jens [[User:Koeplinger|Koeplinger]] ([[User talk:Koeplinger#top|talk]]) 01:35, 17 March 2009 (UTC)
+:Update: They've changed the routing, traffic now leaves at a different IP. Funny. [[User:Koeplinger|Koeplinger]] ([[User talk:Koeplinger#top|talk]]) 22:57, 26 March 2009 (UTC)
+
+===Administrators gone wild===
+
+The more I think about it, the more I appreciate your wisdom in suggesting that [[the vector of a quaterion]] be moved into [[classical hamiltonian quaternions]].  Apparently an administrative decision has now been made, that just about anybody who cites Hamilton, and links to page scans has the same '''aim''' as the venerable original and long ago blocked creator of those articles.  Your clear thinking is responsible for that content not now being deleted.
+
+[[user:robotics lab]] [[user:quaternionist]] and [[user:homebum]] have now been blocked.  They made a valiant effort, but now they are gone.  Some of us will miss them.  Hopefully you can do some work this summer.
+
+We live in a world I suppose were it is smarter for quaternionists to just not log in.
+[[User:quaternionist|nutfarm]]([[User talk:quaternionist|talk]])  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/165.196.194.199|165.196.194.199]] ([[User talk:165.196.194.199|talk]]) 03:22, 17 April 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:All these users trace to one person (you?). This is distracting and time consuming, and it is impossible to track the large content moves from the past weeks. The right thing to do would have been to chill and wait, give it some time; which didn't happen. Even after the first sockpuppet blocks, where it should have been definitely clear that this kind of multiple-user account creation is unwanted here (which I very much support). This all is quite different from the episode above, about blocking registered, long-term users in Wikipedia from making edits because they're an employee of a large corporation where someone else did something somewhere that's flagged as an action through an &quot;anonymous proxy&quot;. [[User:Koeplinger|Koeplinger]] ([[User talk:Koeplinger#top|talk]]) 12:53, 17 April 2009 (UTC)
+
+== Thanks for the good advice. ==
+
+
+Hey thanks for all the great advice and support.
+
+Hope you get around to reading Hamilton's books one of these days!
+
+You are a pretty smart guy already, but once you have studied Hamilton everybody will think you are a even smarter guy than they think you are now.
+
+There was once a user who typed from this ip address, who is now blocked, but now looks like at least the ip address itself is not blocked.  Right now none of the people who live at this house really feels like doing any editing in article space, hopefully typing in user talk space will not generate to much attention?
+
+So thanks again for all that you do, and I we here at the ip address of he who's name may not be spoken will be looking forward to your future edits.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/76.191.171.210|76.191.171.210]] ([[User talk:76.191.171.210|talk]]) 18:17, 23 March 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:I tried. Right when it began, I wanted to step in and alert you against using more than one account. But, as it so happens, some admin(s) blocked AT&amp;T employees from editing Wikipedia while at work, and I couldn't. I tried to have the block removed, but it was rejected. In bureaucratic closure, you have now been blocked indefinitely from editing Wikipedia. Bureaucrazy (misspelled as intended) is the downfall of Wikipedia. Thanks, Jens [[User:Koeplinger|Koeplinger]] ([[User talk:Koeplinger#top|talk]]) 13:49, 24 March 2009 (UTC)
+== Thanks! ==
+[http://en.wikipedia.org/w/index.php?title=Wikipedia:Articles_for_deletion/Tensor_of_a_quaternion&amp;diff=next&amp;oldid=279852104 This] made me chuckle. &lt;span style=&quot;border-left: 1px solid #cc3300; padding: 3px&quot;&gt;[[User:Pablomismo| pablo]]&lt;/span&gt;&lt;sub&gt;&lt;span style=&quot;background: #ffffcc; color: #cc3300;&quot;&gt;[[User_talk:Pablomismo|hablo]].&lt;/span&gt;&lt;/sub&gt; 20:33, 26 March 2009 (UTC)
+
+== Sage advice, about chilling that is. ==
+
+
+But no, an IP trace would have revealed that those edits were coming from multiple IP addresses, and that each user account consistently logged in at the same locations.
+
+Homebum, was using the same IP address as the venerable founder of this article.
+
+What the heck, a guy starting a user account on April fools day, was never really intending to fool anybody.  It said right on his user page, that the ignore all rules applied to his editing.
+
+Sorry for any confusion this might have caused, but it was some what of an emergency, as a lot of really hard work was about to go down the drain.
+
+The other users were blocked for appearing to have the same '''aim''' as hobojaks.  Of particular interest is [[user:quaternionist]].  All his or her edits were from public libraries.  He or she never participated in a discussion, and all contributions were direct quotes from Hamilton or citations of formulas copied directly out of elements.  So now this means anybody who does that, can be accused of Having the same aim as hobojaks.
+
+To add to the confusion [[user:bitter grapes of wrath]] has been blocked for requesting to be unblocked, with out ever having typed in article space at all.
+
+But it looks like the period of frantic editing is over.  Still a lot more work to do, but you have always given good advice.  
+
+It seems to me like it would be better if people started thinking about what an edit was, in order to decide if it was a good or a bad edit, and not base things on who made the edit.  So thanks again for all your help.
+
+You realize that they are going to propose deleting this article again and again every six months right?  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/130.86.14.40|130.86.14.40]] ([[User talk:130.86.14.40|talk]]) 00:59, 18 April 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:Many things may happen. Until then: Make edits, not [[Wikipedia:Drama|Wikidrama]]. Thanks, Jens [[User:Koeplinger|Koeplinger]] ([[User talk:Koeplinger#top|talk]]) 01:07, 20 April 2009 (UTC) PS: One account per [[Natural person|natural person]].
+	</talkpage>
+	<talkpage id="44418581" title="User talk:Koeplinger/Archive 3 - 2014-11">
+== How is your summer going? ==
+
+Its me your somewhat banished friend with an interest in quaternions.  I have been spending the day reading Jasper Jolly's book, Manual of Quaternions from 1905, and started wondering how you were doing.  The funny thing that I noticed is that after I resolved to not edit the article on Classical Hamiltonian Quaternions any more, it suddenly stopped being edited at all.
+
+The first 30 pages of Jolly's book are really easy, but he really changes up on the definitions that Hamilton offered us on the subject of quarternions.  Particularly missed is the approach of taking a quaternion as being the quotient of two vectors, but since Jolly has proposed to write a short book, he claims there is a need for his simplified definitions.
+
+The first pages seem easy, but there is an interesting treatment of dynamics in his book, that I have yet to manage to fathom.  This seems to me unfortunate since I am supposed to be a mechanical engineer.
+
+But well hope all is well with you, and wanted to offer some encouragement if you were thinking about doing some more work on quaternions! [[user:hobojaks]] &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/76.191.171.210|76.191.171.210]] ([[User talk:76.191.171.210|talk]]) 21:37, 29 May 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:Hi there, thanks for checking. The summer is going great, lots of work to do. Just sent a [http://www.jenskoeplinger.com/P/Paper-Koepl-2009-1-JGLTA.pdf paper] for review, that looks at octooctonions (octonions with octonion coefficients) for potential use in physics. Then I'm finalizing another paper with a friend, on some &quot;doubly nilpotent&quot; space (whatever that may mean; hopefully we've made a solid case for the system). Finally, the coolest conference on the planet is coming up, with some of the best mathematicians and physicists that usually [http://math.du.edu/milehigh don't associate]. There, I'm happy and glad for the opportunity to give a brief talk on what must almost certainly be the hottest topic these days in physics: Nonassociative quantum theory! ... At least, that's what the two of us and then maybe a few others think ... maybe ... :) ... Well - gotta make your case first, do a few years of homework, and then advertise for interest, right? -- In other words: I'm reeeeally busy. But it's nothing a few lazy weekends at the pool can't fix in July. Cheers, Jens [[User:Koeplinger|Koeplinger]] ([[User talk:Koeplinger#top|talk]]) 00:21, 30 May 2009 (UTC)
+::It's July now, and I surely am enjoying the pool and a few vacation days - but I must confess that I'm bailing out of doing involved updates in Wikipedia any time soon (including [[Classical Hamiltonian quaternions]]). Sorry. I know I'm breaking a promise. Thanks, Jens [[User:Koeplinger|Koeplinger]] ([[User talk:Koeplinger#top|talk]]) 13:06, 20 July 2009 (UTC)
+
+==Musean hypernumber==
+
+Could you please explain to me what the 10th level of Musean hypernumbers is all about? Thanks. [[User:Protactinium-231|Protactinium-231]] ([[User talk:Protactinium-231|talk]]) 14:11, 31 October 2009 (UTC)
+:Sorry, I can't. I can make some sense out of &quot;levels&quot; 1 through 6 (though I wouldn't put them into an ascending order of sorts), but beyond that I don't understand it ... The references are pointing to key papers. Thanks, Jens [[User:Koeplinger|Koeplinger]] ([[User talk:Koeplinger#top|talk]]) 21:13, 1 November 2009 (UTC)
+::It seems that the house-of-horus website has content about levels 1 through 9. However, it's not reliable as a source. &lt;sup&gt;[[User:Protactinium-231/Guestbook|231]]&lt;/sup&gt;&lt;sub&gt;[[Special:Contributions/Protactinium-231|91]]&lt;/sub&gt;[[User:Protactinium-231|Pa]] (''[[User talk:Protactinium-231|chat me!]]'') 13:36, 6 November 2009 (UTC)
+
+== Notification of automated file description generation ==
+Your upload of [[:File:ConicSedenionsMultTable.png]] or contribution to its description is noted, and thanks (even if belatedly) for your contribution. In order to help make better use of the media, an attempt has been made by an automated process to identify and add certain information to the media's description page.
+
+This notification is placed on your talk page because a bot has identified you either as the uploader of the file, or as a contributor to its metadata.  It would be appreciated if you could carefully review the information the bot added. To opt out of these notifications, please follow the instructions [[User:Theo's Little Bot/opt-out|here]]. Thanks!&lt;!--Template:Un-botfill--&gt; ''Message delivered by [[User:Theo's Little Bot|Theo's Little Bot]] ([[User:Theo's Little Bot/opt-out|opt-out]])''  15:04, 24 May 2014 (UTC)
+	</talkpage>
+	<talkpage id="20150754" title="User talk:Koeplinger">
+[[User talk:Koeplinger/Archive 1 - 2008-11-10|Archive 1 - all through 2008-11-10]]
+
+[[User talk:Koeplinger/Archive 1 - 2009-04-30|Archive 2 - through 2009-04-30]]
+
+[[User talk:Koeplinger/Archive 3 - 2014-11|Archive 3 - through 2014-11]]
+	</talkpage>
+</article>

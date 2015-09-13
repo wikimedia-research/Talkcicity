@@ -1,0 +1,5 @@
+<article id="14877729" title=Talk:GWG>
+	<talkpage id="14877729" title="Talk:GWG">
+{{disambigProject}}
+	</talkpage>
+</article>

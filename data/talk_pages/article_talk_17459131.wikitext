@@ -1,0 +1,7 @@
+<article id="17459131" title=User talk:168.212.122.155>
+	<talkpage id="17459131" title="User talk:168.212.122.155">
+== May 2008 ==
+
+[[Image:Information.png|25px|left]] Hi, the &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Talk:Rome?diff=212870310 recent edit]&lt;/span&gt; you made to [[:Talk:Rome]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thanks. &lt;!-- Template:uw-huggle1 --&gt; —[[user:aitias|αἰτίας]] ''•''[[User talk:Aitias|''discussion'']]''•'' 17:19, 16 May 2008 (UTC)
+	</talkpage>
+</article>

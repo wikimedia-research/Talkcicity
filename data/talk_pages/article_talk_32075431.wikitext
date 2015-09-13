@@ -1,0 +1,5 @@
+<article id="32075431" title=Talk:U.S. House of Representatives Committee on Rules>
+	<talkpage id="32075431" title="Talk:U.S. House of Representatives Committee on Rules">
+{{WikiProject United States|class=Redirect|importance=NA|USGov=yes|USGov-importance=NA}}
+	</talkpage>
+</article>

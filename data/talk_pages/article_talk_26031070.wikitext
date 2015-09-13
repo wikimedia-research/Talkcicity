@@ -1,0 +1,6 @@
+<article id="26031070" title=Talk:KHB49>
+	<talkpage id="26031070" title="Talk:KHB49">
+{{RadioStationsProject|class=Start|importance=Low}}
+{{WikiProject California|class=stub|importance=low|sfba=yes|sfba-importance=low}}
+	</talkpage>
+</article>

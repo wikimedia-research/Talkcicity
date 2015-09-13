@@ -1,0 +1,27 @@
+<article id="47336320" title=Talk:Pedagogical agent/GA1>
+	<talkpage id="47336320" title="Talk:Pedagogical agent/GA1">
+==GA Review==
+{{Good article tools}}
+&lt;noinclude&gt;{{al|{{#titleparts:Pedagogical agent/GA1|-1}}|noname=yes}}&lt;br/&gt;&lt;/noinclude&gt;&lt;includeonly&gt;:''This review is [[WP:transclusion|transcluded]] from [[Talk:Pedagogical agent/GA1]]. The edit link for this section can be used to add comments to the review.''&lt;/includeonly&gt;
+
+'''Reviewer:''' [[User:Jaguar|Jaguar]]&amp;nbsp;([[User talk:Jaguar|talk]] '''·''' [[Special:Contributions/Jaguar|contribs]]) 16:44, 25 July 2015 (UTC)
+
+&lt;!-- Please add all review comments below this comment, and do not alter what is above. So that the review can be kept within a single section, please do not use level 2 headers (==...==) below to break up the review. Use level 3 (===...===), level 4 and so on.--&gt;
+
+I'll complete this within a day &lt;span style='font:bold small-caps 0.94em &quot;Nimbus Mono L&quot;;color:#000000'&gt;[[User:Jaguar|&lt;font color=&quot;black&quot;&gt;'''JAG'''&lt;/font&gt;]][[User talk:Jaguar|&lt;font color=&quot;black&quot;&gt;'''UAR'''&lt;/font&gt;]]&lt;/span&gt;&amp;nbsp; 16:44, 25 July 2015 (UTC)
+
+I'm so sorry to do this, but I have no choice but to '''quickfail''' this article (also the first time out of my 290 reviews I've done so). Per [[WP:QUICKFAIL]], this is currently a long way off from meeting the GA criteria. I'll list most of the concerns below:
+
+*Per [[WP:LEADCITE]], citations are discouraged in the lead unless it's citing controversial information. In this case, it doesn't appear so
+*The lead needs to be expanded and split into at least two paragraphs in order to [[WP:LEAD|summarise]]
+*&quot;Mabanza and de Wet&quot; - who is de Wet?
+*&quot; “A tutor agent plays the role of a teacher, while a co-learner agent plays the role of a learning companion&quot;&quot; - where did this quote come from?
+*Headers should not be linked, per [[WP:MOS]]
+*The example section shouldn't be in this article, it contains barely any prose and a large image. I'm afraid it's not encyclopaedic 
+*The External Articles and Websites section is messed up. Also, it should be renamed &quot;External links&quot;
+
+It does appear well researched, but glaring MOS issues prevent this from meeting the GA criteria. Please feel free to renominate once everything is addressed, I'll be more than happy to take another look. Regards {{icon|DA}} &lt;span style='font:bold small-caps 0.94em &quot;Nimbus Mono L&quot;;color:#000000'&gt;[[User:Jaguar|&lt;font color=&quot;black&quot;&gt;'''JAG'''&lt;/font&gt;]][[User talk:Jaguar|&lt;font color=&quot;black&quot;&gt;'''UAR'''&lt;/font&gt;]]&lt;/span&gt;&amp;nbsp; 17:14, 26 July 2015 (UTC)
+
+Thank you for the feedback. It's very informative and greatly appreciated. We will be looking to apply the edits you suggested and to strengthen the article. [[User:PWNT892|PWNT892]] ([[User talk:PWNT892|talk]]) 02:28, 29 July 2015 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,40 @@
+<article id="42053556" title=User talk:122.160.172.8>
+	<talkpage id="42053556" title="User talk:122.160.172.8">
+
+== Your submission at [[Wikipedia:Articles for creation|Articles for creation]]: [[Wikipedia talk:Articles for creation/Steampunk Fashion|Steampunk Fashion]] (February 26) ==
+&lt;div style=&quot;border: solid 1px #FCC; background-color: #F8EEBC; padding: 0.5em 1em; color: #000; margin: 1.5em; width: 90%;&quot;&gt; [[File:AFC-Logo_Decline.svg|50px|left]]Your recent article submission to [[WP:AFC|Articles for Creation]] has been reviewed!  Unfortunately, it has not been accepted at this time.&lt;br /&gt;Please read the comments left by the reviewer on your submission.  You are encouraged to edit the submission to address the issues raised and resubmit when they have been &lt;u&gt;resolved&lt;/u&gt;.&lt;br/&gt;
+&lt;div class=&quot;plainlinks&quot;&gt;
+* If you would like to continue working on the submission, you can find it at {{#ifeq:Wikipedia talk:Articles for creation/Steampunk Fashion|¬|[[{{#ifeq:¬|¬|Wikipedia:Articles for creation/|{{#ifeq:{{{2}}}|||{{{2}}}/}}}}]]|[[Wikipedia talk:Articles for creation/Steampunk Fashion]]}}.
+* To edit the submission, click on the &quot;Edit&quot; tab at the top of the window.
+* If you need any assistance, you can ask for help at the [{{fullurl:Wikipedia:WikiProject_Articles_for_creation/Help_desk|action=edit&amp;section=new}} '''Articles for creation help desk'''], or on the &lt;span class=&quot;noprint plainlinks&quot;&gt;[{{fullurl:User_talk:Josve05a|action=edit&amp;section=new reviewer's talk page]}}&lt;/span&gt;.
+&lt;div style=&quot;float: right; display: block; text-align: center; border: 1px solid #000; margin: 3px -10px; padding: 3px 8px; background-color: #DCFFDC;&quot;&gt;'''&lt;big&gt;Thank you for your&lt;br /&gt;contributions to Wikipedia!&lt;/big&gt;'''&lt;/div&gt;
+:* '''Please remember to [[Help:Wikilink|link]] to the submission!'''
+* You can also get [http://webchat.freenode.net/?channels=#wikipedia-en-help real-time chat help from experienced editors].
+&lt;span style=&quot;background: turquoise; font-family: 'Segoe Script'&quot;&gt;([[User talk:Josve05a|'''t''']])&amp;nbsp;[[User:Josve05a|&lt;span style=&quot;color:white;&quot;&gt;'''Josve05a'''&lt;/span&gt;]]&amp;nbsp;([[Special:Contributions/Josve05a|'''c''']])&lt;/span&gt; 12:15, 26 February 2014 (UTC)&lt;/div&gt;&lt;!--Template:Afc decline--&gt;&lt;/div&gt;
+
+
+{{Wikipedia:Teahouse/Invitation | sign =  | message= I noticed your article was declined at Articles for Creation, and that can be disappointing. If you are wondering or curious about why your article submission was declined please post a question at the '''[[Wikipedia:WikiProject Articles for creation/Help desk|Articles for creation help desk]]'''. If you have any other questions about your editing experience, we'd love to help you at the '''[[Wikipedia:Teahouse|Teahouse]]''', a friendly space on Wikipedia where experienced editors lend a hand to help new editors like yourself! See you there! }}
+{{#ifeq:{{NAMESPACE}}|{{ns:3}}|[[Category:Wikipedians who have received a Teahouse invitation through AfC]]}}&lt;!-- Template:Teahouse_AfC_invitaiton --&gt;
+
+==Your draft article, [[Wikipedia talk:Articles for creation/Steampunk Fashion]]==
+[[File:Information icon4.svg|48px|left|alt=|link=]]
+
+Hello 122.160.172.8. It has been over six months since you last edited your [[WP:AFC]] draft article submission, entitled &quot;[[Wikipedia talk:Articles for creation/Steampunk Fashion|Steampunk Fashion]]&quot;. 
+
+The page will shortly be deleted. If you plan on editing the page to address the issues raised when it was declined and resubmit it, simply {{edit|Wikipedia talk:Articles for creation/Steampunk Fashion|edit the submission}} and remove the {{tlc|db-afc}} or {{tlc|db-g13}} code. Please note that Articles for Creation is not for indefinite hosting of material deemed unsuitable for the encyclopedia [[WP:mainspace|mainspace]].
+
+If your submission has already been deleted by the time you get there, and you want to retrieve it, copy this code: &lt;code&gt;&lt;nowiki&gt;{{subst:Refund/G13|&lt;/nowiki&gt;Wikipedia talk:Articles for creation/Steampunk Fashion&lt;nowiki&gt;}}&lt;/nowiki&gt;&lt;/code&gt;, paste it in the edit box at &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/w/index.php?title=Wikipedia:Requests_for_undeletion&amp;action=edit&amp;section=new this link]&lt;/span&gt;, click &quot;Save page&quot;, and an administrator will in most cases undelete the submission.
+
+Thanks for your submission to Wikipedia, and happy editing. &lt;!-- Template:Db-afc-notice --&gt;  [[User:Rankersbo|Rankersbo]] ([[User talk:Rankersbo|talk]]) 12:10, 29 August 2014 (UTC)
+
+== August 2015 ==
+
+[[Image:Information.svg|25px|alt=|link=]] Hello, I'm [[User:DVdm|DVdm]]. I noticed that you made a change to an article, [[:Birthstone]], but you didn't provide a source. I’ve removed it for now, but if you’d like to [[Wikipedia:Citing sources|include a citation]] to a reliable source and re-add it, please do so! If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:DVdm|my talk page]]. Thanks. &lt;!-- Template:Huggle/warn-unsor-1 --&gt;&lt;!-- Template:uw-unsourced1 --&gt; [[User:DVdm|DVdm]] ([[User talk:DVdm|talk]]) 10:08, 28 August 2015 (UTC)
+
+[[File:Information orange.svg|25px|alt=|link=]] Please do not add or significantly change content without citing [[Wikipedia:Verifiability|verifiable]] and [[Wikipedia:Verifiability|''reliable'' sources]]{{#if:Charm bracelet|, as you did with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Charm_bracelet?diff=678269947 this edit]&lt;/span&gt; to [[:Charm bracelet]]}}. Before making any potentially controversial [[Wikipedia:Editing policy|edits]], it is recommended that you discuss them first on the article's talk page. Please review the guidelines at [[Wikipedia:Citing sources]] and take this opportunity to add references to the article.&lt;!-- Template:Huggle/warn-unsor-2 --&gt;&lt;!-- Template:uw-unsourced2 --&gt; [[User:DVdm|DVdm]] ([[User talk:DVdm|talk]]) 10:23, 28 August 2015 (UTC)
+
+:'''Note''' - blogs do not qualify as reliable sources. - [[User:DVdm|DVdm]] ([[User talk:DVdm|talk]]) 10:24, 28 August 2015 (UTC)
+
+[[Image:Ambox warning pn.svg|25px|alt=|link=]] Please do not add [[Wikipedia:Citing sources|unsourced]] or [[Wikipedia:No original research|original content]]{{#if:Charm bracelet|, as you did with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Charm_bracelet?diff=678270460 this edit]&lt;/span&gt; to [[:Charm bracelet]]}}. Doing so violates Wikipedia's [[Wikipedia:Verifiability|verifiability policy]]. If you continue to do so, you will be [[Wikipedia:Blocking policy|blocked]] from editing Wikipedia.&lt;!-- Template:Huggle/warn-unsor-3 --&gt;&lt;!-- Template:uw-unsourced3 --&gt; [[User:DVdm|DVdm]] ([[User talk:DVdm|talk]]) 10:27, 28 August 2015 (UTC)
+	</talkpage>
+</article>

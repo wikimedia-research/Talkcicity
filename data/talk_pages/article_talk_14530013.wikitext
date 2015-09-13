@@ -1,0 +1,32 @@
+<article id="14530013" title=Talk:Non-classical analysis>
+	<talkpage id="14530013" title="Talk:Non-classical analysis">
+== General ==
+I suggest that the items on this page be accompanied by the names of the
+principal authors of the disciplines in question.
+[[User:Paul Taylor|Paul Taylor]] 21:52, 2 December 2007 (UTC)
+
+== Abstract Stone Duality ==
+This item was added by [[User:Abt_12]], but I don't know who s/he is.
+I need to correct it because it contains some errors, in particular
+that locally compact spaces form a topos. 
+
+ASD is original research of mine, and it therefore is not appropriate
+to create a Wikipedia page for it at this stage, so I have changed the
+link to an external one to my web page.  I have changed the text about
+it here in the minimal way to correct it but retain the sense of the
+original.
+
+It would be nice to be able to link to Wikipedia articles for locales
+or for locally compact spaces, but none of these is anywhere near being
+appropriate.  The treatment of general topology, order theory and many
+other mathematical topics in Wikipedia is heavily biassed towards the
+classical (non-constructive) point of view.
+[[User:Paul Taylor|Paul Taylor]] 21:52, 2 December 2007 (UTC)
+
+== OR? ==
+
+Do we have any sources for all these items being grouped under such a heading?  [[User:Tkuvho|Tkuvho]] ([[User talk:Tkuvho|talk]]) 10:01, 11 November 2011 (UTC)
+
+: I don't think we do actually, the distinction here clearly isn't in the non-classical logic sense, given the topics.  And while there are many books on &quot;Classical Analysis&quot; it is not clear to me we should group these topics together because they are are not in these texts. [[User:Thenub314|Thenub314]] ([[User talk:Thenub314|talk]]) 03:05, 13 November 2011 (UTC)
+	</talkpage>
+</article>

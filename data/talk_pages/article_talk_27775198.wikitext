@@ -1,0 +1,5 @@
+<article id="27775198" title=Talk:20th Century Masters: The Millennium Collection (Unwritten Law album)>
+	<talkpage id="27775198" title="Talk:20th Century Masters: The Millennium Collection (Unwritten Law album)">
+{{album|class=redirect}}
+	</talkpage>
+</article>

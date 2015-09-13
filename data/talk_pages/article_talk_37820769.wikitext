@@ -1,0 +1,5 @@
+<article id="37820769" title=Talk:Youde>
+	<talkpage id="37820769" title="Talk:Youde">
+{{WikiProject Cheshire|class=stub|importance=low}}
+	</talkpage>
+</article>

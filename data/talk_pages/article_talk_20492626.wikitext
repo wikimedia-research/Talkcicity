@@ -1,0 +1,5 @@
+<article id="20492626" title=Talk:Vpl>
+	<talkpage id="20492626" title="Talk:Vpl">
+{{DisambigProject}}
+	</talkpage>
+</article>

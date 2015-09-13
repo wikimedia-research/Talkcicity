@@ -1,0 +1,7 @@
+<article id="38501864" title=Talk:Joe Kruger>
+	<talkpage id="38501864" title="Talk:Joe Kruger">
+{{talkheader}}
+{{WikiProject Articles for creation|class=start|ts=20130213013044|reviewer=FoCuSandLeArN}}
+{{WikiProject Biography |class=Start |living=yes |sports-work-group=y |sports-priority=}}
+	</talkpage>
+</article>

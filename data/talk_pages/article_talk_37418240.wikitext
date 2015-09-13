@@ -1,0 +1,16 @@
+<article id="37418240" title=User talk:Nguyentranvu>
+	<talkpage id="37418240" title="User talk:Nguyentranvu">
+Ê, vấn đề số 1 làm xong rồi nha {{done}} [[User:lmquoc]]
+
+== Bài viết về ISN ==
+
+Vậy cuối cùng cái tham số k trong cái hàm P(k) là gì ? Quoc M.LE
+
+Tham số k là số liên kết, nghĩa là số người mà an editor communicate. Cụ thể là một user viết trên user talk page của một user khác như thế này thì được coi là một liên kết. [[User:Nguyentranvu|Nguyentranvu]] ([[User talk:Nguyentranvu#top|talk]])
+
+== Social Psy ==
+
+
+http://en.wikipedia.org/wiki/Social_psychology&lt;references /&gt; Hey, take a look on this article about Social Psy Quoc M.LE
+	</talkpage>
+</article>

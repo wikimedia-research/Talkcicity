@@ -1,0 +1,6 @@
+<article id="36105386" title=Talk:Karl Friedrich of Jülich-Cleves-Berg>
+	<talkpage id="36105386" title="Talk:Karl Friedrich of Jülich-Cleves-Berg">
+{{Translated|de|Karl Friedrich von Jülich-Kleve-Berg}}
+{{WPBiography|living=no|class=start|listas=Karl Friedrich of Jülich-Cleves-Berg|peerage-work-group=yes}}
+	</talkpage>
+</article>

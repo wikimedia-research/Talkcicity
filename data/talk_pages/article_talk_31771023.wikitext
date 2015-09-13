@@ -1,0 +1,6 @@
+<article id="31771023" title=Talk:Figure skating at the 2012 Winter Youth Olympics – Qualification>
+	<talkpage id="31771023" title="Talk:Figure skating at the 2012 Winter Youth Olympics – Qualification">
+{{Old AfD multi | date = 9 May 2015 | result = '''redirect to [[Figure skating at the 2012 Winter Youth Olympics]]''' | page = Figure skating at the 2012 Winter Youth Olympics – Qualification}}
+{{WikiProject Figure Skating}}
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="31536180" title=Talk:Khalid Butt (cricketer born 1975)>
+	<talkpage id="31536180" title="Talk:Khalid Butt (cricketer born 1975)">
+{{WikiProject Biography|living=yes|class=stub|listas=Butt, Khalid|sports-work-group=yes|sports-priority=low}}
+{{WikiProject Cricket|class=stub|importance=low}}
+	</talkpage>
+</article>

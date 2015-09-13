@@ -1,0 +1,65 @@
+<article id="33560889" title=Talk:Birth control movement in the United States/GA1>
+	<talkpage id="33560889" title="Talk:Birth control movement in the United States/GA1">
+==GA Review==
+{{Good article tools}}
+&lt;noinclude&gt;{{al|{{#titleparts:Birth control movement in the United States/GA1|-1}}|noname=yes}}&lt;br/&gt;&lt;/noinclude&gt;&lt;includeonly&gt;:''This review is [[WP:transclusion|transcluded]] from [[Talk:Birth control movement in the United States/GA1]]. The edit link for this section can be used to add comments to the review.''&lt;/includeonly&gt;
+
+'''Reviewer:''' [[User:Piotrus|Piotrus]]&amp;nbsp;([[User talk:Piotrus|talk]] '''·''' [[Special:Contributions/Piotrus|contribs]]) 19:46, 28 October 2011 (UTC)
+'''[[Wikipedia:Good article nominations|GA]] review – see [[WP:WIAGA]] for criteria'''
+
+#Is it '''reasonably well written'''?
+#:A. Prose quality: {{GAList/check|n}} 
+#:: Seems mostly fine to this ESL, but I think that there is a rule about not beginning paragraphs with &quot;But&quot;?
+::::{{done}} Re-worded to remove initial &quot;But ..&quot;. --[[User:Noleander|Noleander]] ([[User talk:Noleander|talk]]) 22:40, 28 October 2011 (UTC)
+#:B. [[Wikipedia:Manual of Style|MoS]] compliance for [[WP:LEAD|lead]], [[WP:LAYOUT|layout]], [[WP:WTW|words to watch]], [[WP:WAF|fiction]], and [[Wikipedia:Manual of Style (embedded lists)|lists]]: {{GAList/check|n}}
+#:: Notes and references need to be split. The article does not adhere to [[WP:RED]]; there are notable topics like [[The Woman Rebel]], [[Birth Control Review]], [[birth control clinic]], [[obscenity laws]], [[William J. Robinson]], [[Van Kleeck Allison]], [[Massachusetts Birth Control League]], [[Frederick Blossom]], [[Kitty Marion]], [[Voluntary Parenthood League]], [[Clinical Research Bureau]], [[James H. Hubert]], [[Birth Control Federation of America]], [[Holland-Rantos]], [[Birth Control Clinical Research Bureau]], [[Birth Control Council of America]], [[anti-contraception laws]] and possibly others I missed which should be linked, but aren't (see for example [[Karl Marx]] article for a GA with a red link, and it is fine for an article to have multiple ones, too). I am seeing the need for more ilinks, some of them blue (for example [[obscenity]] is linked on its third, not first mention, [[family planning]], [[upper class]], [[middle class]], [[working-class]] (note dash inconsistency), [[silent movie]], [[radio industry]], [[free speech]], [[race]], [[women's rights]], [[euthanasia]], [[racism]], [[African-American]], [[medical school]], [[curriculum]], [[vending machine]], [[radical feminism]], [[pollution]], [[food shortages]], [[quality of life]], [[human rights]], [[Food and Drug Administration]], [[boycott]], names of countries and cities, are not linked, [[Margaret Sanger]] is linked in lead but not on her mention in the main body, same for [[Mary Dennett]] and even the term [[birth control]]...). &quot;See also: Margaret Sanger&quot; in the &quot;The first birth control clinic&quot; section is not needed. [[American Birth Control League]] should be linked in body, not only as at the main see also, same for [[Planned Parenthood Federation of America]]. Lastly, this is not a MOS or GA requirement, but I'd highly recommend that direct links to Google Book pages are added. Such links greatly improve verifiability. See for example how the links are used in my student's article on [[family honor]] or [[grounds for divorce]] (in those, the reader can click on the footnote, and then on the link that will take them directly to the page in question).
+::::{{done}} - Red links.
+::::{{done}} - New blue links.  (still working on &quot;first&quot; blue links issues).  --[[User:Noleander|Noleander]] ([[User talk:Noleander|talk]]) 23:28, 28 October 2011 (UTC)
+::::{{done}} - Did ABCL link in addition to &quot;main&quot; link.  Still working on &quot;lead &amp; first&quot;.  --[[User:Noleander|Noleander]] ([[User talk:Noleander|talk]]) 15:46, 29 October 2011 (UTC)
+::::{{done}} - Repeated links twice: in lead, and again in 1st occurrence after lead. --[[User:Noleander|Noleander]] ([[User talk:Noleander|talk]]) 16:03, 29 October 2011 (UTC)
+::::::QUESTION:  Regarding cities/states:  my reading of [[WP:OVERLINK]] is that cities should not generally be linked, correct? --[[User:Noleander|Noleander]] ([[User talk:Noleander|talk]]) 16:03, 29 October 2011 (UTC)
+#Is it '''factually accurate''' and '''[[Wikipedia:Verifiability|verifiable]]'''?
+#:A. [[Wikipedia:LAYOUT#Standard_appendices_and_footers|References to sources]]: {{GAList/check|n}} 
+#:: This is an occasional problem, but there are sentences missing references. Second paragraph in the first section is missing three references. The para that follows is missing one (on its first sentence, making it the end-of-a-para-only reference). One red flag is lack of reference for the second to last sentence of the article, claiming that the movement achieved its goals. I hope it will be easy to fix, to ensure that the referencing is comprehensive.
+::::{{done}} In all cases, the correct cite was in the adjacent sentence. --[[User:Noleander|Noleander]] ([[User talk:Noleander|talk]]) 22:31, 28 October 2011 (UTC)
+#:B. Citation of reliable sources where necessary: {{GAList/check|y}} 
+#:: I'll let it pass, although I'd expect to see some academic journals, not books. This is however just my academic bias, and the article can fulfill GA criteria without academic journal citations.
+#:C. [[Wikipedia:No original research|No original research]]: {{GAList/check|n}}
+#:: I have a problem with the &quot;Works by birth control advocates&quot; section. It is unreferenced, it is in a bullet list format, and I have nothing but AGF to go on with regards to assuming it is comprehensive. If this section is to be retained, it should be a referenced section in prose format (&quot;According to Smith 1999, the major works by birth control advocates include...)&quot;.
+::::{{done}} Good catch.  I removed the section because there is no source that delineates that particular set of works. --[[User:Noleander|Noleander]] ([[User talk:Noleander|talk]]) 22:15, 28 October 2011 (UTC)
+#Is it '''broad in its coverage'''?
+#:A. Major aspects: {{GAList/check|y}} 
+#:: Broad. But what was the name of Sagner's first clinic? I'd also like to see some brief mention on who are/were the key scholars researching this movement, but it is probably a minor issue.
+::::::{{done}} - Name of first clinic given. --[[User:Noleander|Noleander]] ([[User talk:Noleander|talk]]) 16:03, 29 October 2011 (UTC)
+::::Many of the scholars (there are not a lot) are identified in the two web sites mentioned in the External Links section.  But I could try to gather their names and present them in the article somewhere, if you think that is wise. --[[User:Noleander|Noleander]] ([[User talk:Noleander|talk]]) 23:30, 28 October 2011 (UTC) 
+:::::If you think this can be done with reliable sources, it would be great. I'd think of it a little bit like a [[literature review]] in academia (major works/scholars writing on that issue are...). --&lt;sub style=&quot;border:1px solid #228B22;padding:1px;&quot;&gt;[[User:Piotrus|Piotr Konieczny aka Prokonsul Piotrus]]&amp;#124;[[User talk:Piotrus|&lt;font style=&quot;color:#7CFC00;background:#006400;&quot;&gt; talk to me&lt;/font&gt;]]&lt;/sub&gt; 03:01, 29 October 2011 (UTC)
+::::::I tried to get a list of scholars together, but it would be pure OR ... I cannot find a source that says &quot;here are the key scholars working on this area&quot;.  The best I could do is collate my own list, which doesn't seem right. --[[User:Noleander|Noleander]] ([[User talk:Noleander|talk]]) 16:03, 29 October 2011 (UTC)
+#:B. Focused: {{GAList/check|y}}
+#:: Focused.
+#Is it '''[[WP:NPOV|neutral]]'''?
+#:Fair representation without bias: {{GAList/check|y}}
+#:: Neutral.
+#Is it '''stable'''?
+#: No [[Wikipedia:Edit warring|edit wars]], etc: {{GAList/check|y}}
+#:: Stable.
+#Does it '''contain [[Wikipedia:Images|images]]''' to illustrate the topic?
+#:A. Images are copyright tagged, and non-free images have [[Wikipedia:Image_description_page#Use_rationale|fair use rationales]]: {{GAList/check|n}} 
+#:: [[:File:Anthony Comstock.jpg]] is missing a source. [[:File:The Woman Rebel, March 1914, Vol 1, No. 1.gif]] is missing a source and categories (on Commons). [[:File:Birth Control Review 1919.jpg]] is missing an author, and should be moved to Commons. [[:File:Plaquettes de pilule.jpg]] is missing an English description (on Commons).
+::::{{done}}  Thank for finding those issues.  I removed the two images that dont have sources: I did not upload them, so I cannot attest to the source.  I move that other image to Commons.  For the final image, I added an English description. --[[User:Noleander|Noleander]] ([[User talk:Noleander|talk]]) 23:17, 28 October 2011 (UTC)
+#:B. Images are provided where possible and appropriate, with [[WP:CAP|suitable captions]]: {{GAList/check|y}}
+#:: Looks good.
+#'''Other''': please clarify &quot;American institutions opposed contraception&quot; (what institutions)?.
+::::That phrase is summarizing the prior 3 sentences, so the &quot;American institutions&quot; is referring to &quot;the government and ... the medical community&quot; mentioned earlier in the paragraph.  I think it is an elegant recapitulation of the prior sentences, but if you want it re-worded, I'll be happy to try to find  a better wording. --[[User:Noleander|Noleander]] ([[User talk:Noleander|talk]]) 23:20, 28 October 2011 (UTC)
+:::::An adjective would help, institutions is too broad. Governmental? Professional? Maybe a combination of two adjectives? --&lt;sub style=&quot;border:1px solid #228B22;padding:1px;&quot;&gt;[[User:Piotrus|Piotr Konieczny aka Prokonsul Piotrus]]&amp;#124;[[User talk:Piotrus|&lt;font style=&quot;color:#7CFC00;background:#006400;&quot;&gt; talk to me&lt;/font&gt;]]&lt;/sub&gt; 03:01, 29 October 2011 (UTC)
+::::::{{done}} Added clarifying words to define &quot;institutions&quot;. --[[User:Noleander|Noleander]] ([[User talk:Noleander|talk]]) 16:04, 29 October 2011 (UTC)
+#'''Overall''': Close, but some issues need fixed. Done with the preeliminary review as of now, waiting for a response from the author(s). --&lt;sub style=&quot;border:1px solid #228B22;padding:1px;&quot;&gt;[[User:Piotrus|Piotr Konieczny aka Prokonsul Piotrus]]&amp;#124;[[User talk:Piotrus|&lt;font style=&quot;color:#7CFC00;background:#006400;&quot;&gt; talk to me&lt;/font&gt;]]&lt;/sub&gt; 22:05, 28 October 2011 (UTC)
+#:Pass or Fail: {{GAList/check|pass}}
+#:: 
+&lt;!-- Please add all review comments below this comment, and do not alter what is above. To keep the review within a single section, please do not use level 2 headers (==...==) below to break up the review. Use level 3 (===...===), level 4 and so on.--&gt;
+
+===Discussion===
+I ''think'' all the tasks are done.  The only remaining one I'm aware of is adding links for cities &amp; states, but [[WP:OVERLINK]] says &quot;Avoid linking the names of major geographic features and locations, languages, religions, and common professions&quot;, so I was following that.  But I can add links for the cities if you think it is a good thing to do. --[[User:Noleander|Noleander]] ([[User talk:Noleander|talk]]) 16:07, 29 October 2011 (UTC)
+:Hmmm, let's stick with overlink then, I wasn't aware of that that point. For the scholars, you may want to summarize the reasons why we discussed such a section and decided against it on talk; it could be useful for some future expansion. For the two removed images, perhaps you could try contacting their uploaders, and briefly looking for a source yourself? If we could restore them, the article would surely benefit. --&lt;sub style=&quot;border:1px solid #228B22;padding:1px;&quot;&gt;[[User:Piotrus|Piotr Konieczny aka Prokonsul Piotrus]]&amp;#124;[[User talk:Piotrus|&lt;font style=&quot;color:#7CFC00;background:#006400;&quot;&gt; talk to me&lt;/font&gt;]]&lt;/sub&gt; 16:27, 29 October 2011 (UTC)
+::Yes, I'll follow up on the images next week, it is on my list of things to do. --[[User:Noleander|Noleander]] ([[User talk:Noleander|talk]]) 16:44, 29 October 2011 (UTC)
+	</talkpage>
+</article>

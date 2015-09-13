@@ -1,0 +1,5 @@
+<article id="24707060" title=Talk:Craig's Wife (film)>
+	<talkpage id="24707060" title="Talk:Craig's Wife (film)">
+{{Film|class=stub|needs-image=yes|American-task-force=yes}}
+	</talkpage>
+</article>

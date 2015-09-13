@@ -1,0 +1,12 @@
+<article id="6430585" title=Talk:Hilario Zapata>
+	<talkpage id="6430585" title="Talk:Hilario Zapata">
+{{WikiProjectBannerShell|blp=yes|1=
+{{WikiProject Biography|living=yes|class=Start|listas=Zapata, Hilario|auto=yes}}
+{{WikiProject Central America|class=start|importance=low}}
+{{WikiProject Boxing|class=Start|auto=inherit|importance=}}
+}}
+
+== WikiProject class rating==
+This article was automatically  assessed because at least one article was rated and this bot brought all the other ratings up to at least that level. [[User:BetacommandBot|BetacommandBot]] 16:44, 27 August 2007 (UTC)
+	</talkpage>
+</article>

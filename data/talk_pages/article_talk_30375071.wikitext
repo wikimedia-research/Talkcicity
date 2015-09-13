@@ -1,0 +1,14 @@
+<article id="6042204" title=Talk:Arthur Cumming (figure skater)>
+	<talkpage id="6042204" title="Talk:Arthur Cumming (figure skater)">
+{{WikiProjectBannerShell|1=
+{{WikiProject Olympics|class=Stub|importance=}}
+{{WikiProject Biography
+|living=no
+|class=Stub
+|sports-work-group=yes
+|listas=Cumming, Arthur
+}}
+{{WikiProject Figure Skating}}
+}}
+	</talkpage>
+</article>

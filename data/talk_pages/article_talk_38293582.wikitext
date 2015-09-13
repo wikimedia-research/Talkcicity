@@ -1,0 +1,10 @@
+<article id="38293582" title=User talk:24.5.45.21>
+	<talkpage id="38293582" title="User talk:24.5.45.21">
+
+== January 2013 ==
+
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:Widr|Widr]]. I wanted to let you know that I undid one of [[Special:Contributions/24.5.45.21|your recent contributions]],&amp;nbsp;such as the one you made to [[:Evidence (short story)]], because it didn’t appear constructive to me. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Widr|my talk page]]. Thanks, &lt;!-- Template:Huggle/warn-1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt;[[User:Widr|Widr]] ([[User talk:Widr|talk]]) 23:00, 21 January 2013 (UTC)
+
+&lt;div style=clear: both&gt;&lt;/div&gt;[[File:Information.svg|25px|alt=|link=]] Please refrain from making unconstructive edits to Wikipedia, as you did at [[:Evidence (short story)]] with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Evidence_(short_story)?diff=534236821 this edit]&lt;/span&gt;. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]] or removed. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Thank you. &lt;!-- Template:Huggle/warn-2 --&gt;&lt;!-- Template:uw-vandalism2 --&gt;[[User:Lugia2453|Lugia2453]] ([[User talk:Lugia2453|talk]]) 23:01, 21 January 2013 (UTC)
+	</talkpage>
+</article>

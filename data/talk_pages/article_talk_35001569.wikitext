@@ -1,0 +1,6 @@
+<article id="35001569" title=Talk:Michelangelo (song)>
+	<talkpage id="35001569" title="Talk:Michelangelo (song)">
+{{WikiProject Songs|class=Stub}}
+{{WikiProject Sweden|class=Stub|importance=low}}
+	</talkpage>
+</article>

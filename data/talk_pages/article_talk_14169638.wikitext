@@ -1,0 +1,6 @@
+<article id="14169638" title=Talk:Lake Helen (Wyoming)>
+	<talkpage id="14169638" title="Talk:Lake Helen (Wyoming)">
+{{WikiProject United States|class=stub|importance=low|WY=Yes|WY-importance=}}
+{{Lake project|class=stub|importance=}}
+	</talkpage>
+</article>

@@ -1,0 +1,17 @@
+<article id="26081225" title=Talk:Jonathon Wright>
+	<talkpage id="26081225" title="Talk:Jonathon Wright">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=yes
+|class=stub
+|sports-priority=low
+|sports-work-group=yes
+|listas=Wright, Jonathon
+}}
+{{WikiProject Rugby league|class=stub|importance=low}}
+{{WikiProject Australia|class=Stub
+|importance=Low
+|sports=yes}}
+| blp=yes
+}}
+	</talkpage>
+</article>

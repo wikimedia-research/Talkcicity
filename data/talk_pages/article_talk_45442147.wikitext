@@ -1,0 +1,8 @@
+<article id="45442147" title=User talk:24.164.140.177>
+	<talkpage id="45442147" title="User talk:24.164.140.177">
+
+== February 2015 ==
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Iwilsonp|Iwilsonp]]. I wanted to let you know that I undid one or more of [[Special:Contributions/24.164.140.177|your recent contributions]]&amp;nbsp;to [[:Authentic Brands Group]] because it did not appear constructive. If you would like to experiment, please use the [[WP:sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Iwilsonp|my talk page]]. &lt;!-- Template:uw-vandalism1 --&gt;  [[User:Iwilsonp|Iwilsonp]] ([[User talk:Iwilsonp|talk]]) 01:36, 19 February 2015 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

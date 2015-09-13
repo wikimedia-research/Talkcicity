@@ -1,0 +1,38 @@
+<article id="13721563" title=Talk:Carotid artery stenosis>
+	<talkpage id="13721563" title="Talk:Carotid artery stenosis">
+{{Reliable sources for medical articles}}
+{{WikiProject Medicine |class=C |importance=Mid |neurology=yes |neurology-imp=Low |cardiology=yes |cardiology-imp=mid}}
+
+== Ambiguous percentage problem? ==
+
+I think there's an ambiguous (or possibly outright incorrect) statement about the efficacy of a surgery. Misinterpreting the statement could have serious consequences for someone making a decision, so this is important.
+
+The main article says:
+carotid endarterectomy by selected surgeons reduces the 5-year absolute incidence of all strokes or perioperative death by approximately 5%.
+
+The way I read that sentence, it sounded like this:
+If the incidence of stroke/death in the next 5 years is x, then the surgery reduces x by 5% ''of x'' (i.e. .05 * x), resulting in the new incidence .95 * x. 
+
+To give a concrete example, if the incidence were 20%, then (under this interpretation) the surgery reduces that incidence to 19%.
+
+I'm guessing this is not what the writer intended to convey. I think the writer intends to convey that x is reduced to (x - 5%). (Concrete example: 20% is reduced to 15%.)
+
+I can imagine that anyone who is already familiar with the subject would tend to automatically put the correct interpretation on the statement, even if it's not what the statement actually says. So please, experts, scrutinize that sentence carefully.
+
+I'm not in medicine and don't know the data, so maybe my original reading of the statement was actually correct. However, if you agree that there's a problem with the language, and you know enough about the data to be sure, please rewrite that part of the article to correct or disambiguate it.
+
+[[User:MarkAb|MarkAb]] ([[User talk:MarkAb|talk]]) 19:37, 23 December 2009 (UTC)
+
+== Stent versus endarterectomy ==
+
+http://content.nejm.org/cgi/content/short/358/15/1572 data are pretty good for stenting in high-risk patients. [[User:Jfdwolff|JFW]]&amp;nbsp;|&amp;nbsp;[[User_talk:Jfdwolff|&lt;small&gt;T@lk&lt;/small&gt;]] 10:10, 11 April 2008 (UTC)
+
+== Screening ==
+
+USPSTF recommends against. [[doi:10.7326/M14-1333]] [[User:Jfdwolff|JFW]]&amp;nbsp;&amp;#124;&amp;nbsp;[[User_talk:Jfdwolff|&lt;small&gt;T@lk&lt;/small&gt;]] 19:36, 3 September 2014 (UTC)
+
+== Stenting vs surgery ==
+
+[[Carotid artery stenting]] versus [[carotid endarterectomy]] for the treatment of carotid artery stenosis is a controversial topic and is the subject of a &quot;turf war&quot; between several medical specialties. The section should reflect broad consensus, not the results of a single trial (such as the CREST trial). &lt;span style=&quot;background-color:grey;color:navy;&quot;&gt;[[user:Bakerstmd|BakerStMD]]&lt;/span&gt; 15:23, 20 April 2015 (UTC)
+	</talkpage>
+</article>

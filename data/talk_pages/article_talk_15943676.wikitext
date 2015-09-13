@@ -1,0 +1,13 @@
+<article id="9759534" title=Talk:Kurt Schneider (aviator)>
+	<talkpage id="9759534" title="Talk:Kurt Schneider (aviator)">
+{{American-English}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Aviation|class=Stub|Biography=yes|auto=yes}}
+{{WikiProject Biography|living=no|class=Stub|military-work-group=yes|military-priority=low|listas=Schneider, Kurt}}
+{{WikiProject Military history|class=Stub|German-task-force=yes|WWI-task-force=yes|Aviation-task-force=yes|Biography=yes|German=yes}}
+{{WikiProject Germany|class=stub|importance= }}
+}}
+== WikiProject class rating==
+This article was automatically assessed because at least one WikiProject had rated the article as stub, and the rating on other projects was brought up to Stub class. [[User:BetacommandBot|BetacommandBot]] 04:07, 9 November 2007 (UTC)
+	</talkpage>
+</article>

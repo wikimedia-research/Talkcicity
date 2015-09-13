@@ -1,0 +1,8 @@
+<article id="980414" title=Talk:Hydrogen peroxide therapy>
+	<talkpage id="980414" title="Talk:Hydrogen peroxide therapy">
+{{oldrfd|result='''refine target'''|action=deletion |date=22 June 2014|page=2014_June_22#Hydrogen Peroxide therapy}}
+
+==Deletion discussion==
+''This article was on [[Wikipedia:Votes for deletion|votes for deletion]], the decision was to keep it as redirect to [[Hydrogen peroxide]]. See the [[Wikipedia:Votes for deletion/Hydrogen peroxide therapy|archived discussion]] for further details.''
+	</talkpage>
+</article>

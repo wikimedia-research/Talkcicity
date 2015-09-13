@@ -1,0 +1,36 @@
+<article id="42172746" title=User talk:Su thiri wai>
+	<talkpage id="42172746" title="User talk:Su thiri wai">
+
+== March 2014 ==
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Materialscientist|Materialscientist]]. I wanted to let you know that I undid one or more of [[Special:Contributions/Su thiri wai|your recent contributions]]&amp;nbsp;to [[:Tongue]] because it did not appear constructive. If you would like to experiment, please use the [[WP:sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Materialscientist|my talk page]]. &lt;!-- Template:uw-vandalism1 --&gt;  [[User:Materialscientist|Materialscientist]] ([[User talk:Materialscientist|talk]]) 11:57, 11 March 2014 (UTC)
+
+[[Image:Information orange.svg|left|25px|alt=|link=]] Please refrain from making unconstructive edits to Wikipedia, as you did at [[:Tongue]]. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been '''automatically''' [[Help:Reverting|reverted]].
+* If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Note that human editors do monitor recent changes to Wikipedia articles, and [[WP:ADMINS|administrators]] have the ability to [[WP:BLOCK|block]] users from editing if they repeatedly engage in [[WP:vandalism|vandalism]].
+* ClueBot NG makes very few [[User:ClueBot NG#Information About False Positives|mistakes]], but it does happen. If you believe the change you made should not have been considered as unconstructive, please [[User:ClueBot NG#Information About False Positives|read about it]], [{{User:ClueBot NG/Warnings/FPReport|1739107}} report it here], remove this warning from your talk page, and then make the edit again.
+*'''If you need help''', please see our '''[[Help:Contents|help pages]]''', and if you can't find what you are looking for there, please feel free to place &quot;&lt;code&gt;{{tl|helpme}}&lt;/code&gt;&quot; on [[Special:MyTalk|your talk page]] and someone will drop by to help.
+* The following is the log entry regarding this warning: [[Tongue]] was [http://en.wikipedia.org/w/index.php?title=Tongue&amp;diff=599121918&amp;oldid=599121395 changed] by [[Special:Contributions/Su thiri wai|Su thiri wai]] [[User:Su thiri wai|(u)]] [[User talk:Su thiri wai|(t)]] ANN scored at 0.898886 on 2014-03-11T12:03:23+00:00 &lt;!-- MySQL ID: 1739107 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning2 --&gt;&lt;!-- Template:uw-vandalism2 --&gt; [[User:ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]) 12:03, 11 March 2014 (UTC)
+
+== Su thiri wai, you are invited on a Wikipedia Adventure! ==
+
+&lt;div style=&quot;background-color: #040023; border-radius:10px; color: #E9E9F0; font-family: 'futura', arial, sans serif; padding: 2em 1em 1em 1em&quot;&gt;
+&lt;div style=&quot;margin-left: 9em&quot;&gt;
+&lt;div style=&quot;float:left&quot;&gt;
+&lt;span style=&quot;font-size: 1.5em; color: #FFAE00; padding: 0 .1em 0 0; text-shadow: #3FB6FF 0 0 20px&quot;&gt;The&lt;/span&gt;&lt;/div&gt;
+&lt;div style=&quot;float:left; margin-top: -.45em&quot;&gt;
+[[File:Wikipedia-logo-white.svg|130px|link=WP:TWA]]&lt;/div&gt;
+&lt;div style=&quot;float:left&quot;&gt;
+&lt;span style=&quot;font-size: 1.5em; color: #FFAE00; padding: 0 0 2em .25em; text-shadow: #3FB6FF 0 0 20px&quot;&gt;Adventure&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+{{clear}}
+
+{| style=&quot;margin: 1em; font-family: helvetica, arial, sans serif;&quot;
+|- valign=&quot;top&quot;
+| [[File:TWA guide.svg|100px|alt=The Wikipedia Adventure guide|link=w:en:Wikipedia:The Wikipedia Adventure]]
+| &lt;div style=&quot;background-color:#ffffff; color: #393D38; padding: 1em;border-radius:10px; font-size: 1.1em;&quot;&gt;
+Hi '''Su thiri wai'''!! You're invited to play ''The Wikipedia Adventure'', an interactive game to become a great contributor to Wikipedia. It's a fun interstellar journey--learn how to edit Wikipedia in about an hour. We hope to see you there!
+&lt;div class=&quot;submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only&quot; role=&quot;button&quot; aria-disabled=&quot;false&quot;&gt;&lt;span class=&quot;ui-button-text&quot;&gt;[[Wikipedia:The Wikipedia Adventure/Portal|Play The Wikipedia Adventure]]&lt;/span&gt;&lt;/div&gt;&lt;small&gt;&lt;span style=&quot;text-align:right;&quot;&gt;&lt;br /&gt;&lt;small&gt;This message was delivered automatically by your robot friend, [[User:HostBot|HostBot]] ([[User talk:HostBot|talk]]) 01:31, 12 March 2014 (UTC)&lt;/small&gt;&lt;/small&gt;&lt;/span&gt;
+&lt;/div&gt; 
+|}
+&lt;/div&gt;
+	</talkpage>
+</article>

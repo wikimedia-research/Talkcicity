@@ -1,0 +1,8 @@
+<article id="39116926" title=Talk:Amr Kashmiri>
+	<talkpage id="39116926" title="Talk:Amr Kashmiri">
+{{WikiProject Biography|living=yes|class=stub|auto=yes|listas=Kashmiri, Amr}}
+{{old AfD multi
+ |date1 = July 23 2011 |result1 = '''delete''' |page1 = Amr Kashmiri
+}}
+	</talkpage>
+</article>

@@ -1,0 +1,26 @@
+<article id="20377295" title=Talk:Massimo D'Alelio>
+	<talkpage id="20377295" title="Talk:Massimo D'Alelio">
+{{WikiProject Biography|living=no|class=Stub|auto=yes|listas=Dalelio, Massimo}}
+{{WikiProject Contract bridge|class=stub|importance=low}}
+
+== European Championships ==
+
+Intermittent service at the WBF/EBL website is now available and confirms the six 1st/2nd-place finishes for D'Alelio in European Championships that I listed here yesterday (all as a member of the Italy open team, same as his entire World record).
+
+My yesterday source is mistaken in its meagre prose so I have deleted it from External links.
+* [https://web.archive.org/web/20050113195021/http://www.bridgeguys.com/BP/Bios/dAlelioMassimo.html] D'Alelio at BridgeGuys archived 2005-01-13
+That source does correctly identify the Italy team players in six Euro championships (firstinitial and surname, where EBL provides most of the firstnames). We should hope to learn the partnerships, in particular whether D'Alelio and [[Camillo Pabis Ticci]] played together in the 1962 and 1963 Euro tournaments. --as we should the 1963 BB and 1964 Olympiad tournaments.
+
+--[[User:P64|P64]] ([[User talk:P64|talk]]) 22:49, 13 February 2015 (UTC)
+
+== World Grand Master #10 ==
+
+D'Alelio is now World Grand Master #10 semi-officially by placing points (PP) that do not decay over time.
+* [http://www.wbfmasterpoints.com/AllTimerankingOpen.asp WBF AllTime Open Ranking] at WBFMP (page 2)
+
+The World Bridge Federation was established in 1958 and it is the Bermuda Bowl tournament sponsoring org from 1963 or so. The historical award of WBF Masterpoints for Bermuda Bowl achievements evidently (and for European Championships plausibly) begins 1959. In particular, WBF gives no award to D'Alelio for the 1957/58 BB (or 1955/56/57/58 EC).
+* [http://www.wbfmasterpoints.com/playerdetail.asp?Code=20127 Player History: D' Alelio] at WBFMP
+--[[User:P64|P64]] ([[User talk:P64|talk]]) 23:05, 13 February 2015 (UTC)
+: Re the ongoing historical award of WBF Masterpoints, I hope to learn more before I add coverage of Grand Master rankings to articles on old-time players. For now I refer here from other talk pages, eg [[Talk:Camillo Pabis Ticci]] #24. --[[User:P64|P64]] ([[User talk:P64|talk]]) 23:27, 13 February 2015 (UTC)
+	</talkpage>
+</article>

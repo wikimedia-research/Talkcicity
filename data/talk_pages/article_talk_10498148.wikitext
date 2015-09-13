@@ -1,0 +1,23 @@
+<article id="10498148" title=Talk:Elizabeth of Austria (1526–1545)>
+	<talkpage id="10498148" title="Talk:Elizabeth of Austria (1526–1545)">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=no
+|class=Start
+|royalty-work-group=yes
+|listas=Elisabeth Of Austria
+}}
+{{WikiProject Lithuania|class=start|importance=low}}
+{{WikiProject Women's History|class=start|importance=low}}
+}}
+
+==Rewrite==
+
+I rewrote much of the article this afternoon but it may still need tweaking.[[User:Risssa|Risssa]] ([[User talk:Risssa|talk]]) 02:45, 1 July 2012 (UTC)
+
+==Parmesan cheese==
+
+&quot;Her quarrel with Queen Bona Sforza over the Parmesan cheese is commonly known in Poland.&quot;
+
+But not elsewhere -- could someone please elaborate?[[User:Risssa|Risssa]] ([[User talk:Risssa|talk]]) 02:45, 1 July 2012 (UTC)
+	</talkpage>
+</article>

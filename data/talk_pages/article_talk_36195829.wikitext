@@ -1,0 +1,5 @@
+<article id="36195829" title=Talk:Janine Moon>
+	<talkpage id="36195829" title="Talk:Janine Moon">
+{{WikiProject EastEnders|class=redirect|listas=Butcher, Janine}}
+	</talkpage>
+</article>

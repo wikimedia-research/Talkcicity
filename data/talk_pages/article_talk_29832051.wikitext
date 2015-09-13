@@ -1,0 +1,22 @@
+<article id="29832051" title=User talk:Oilpulling.in>
+	<talkpage id="29832051" title="User talk:Oilpulling.in">
+&lt;div class=&quot;user-block&quot;&gt;[[Image:Stop_x_nuvola.svg|left|35px|alt=|link=]]&lt;span style=&quot;font-size: 105%;&quot;&gt;Your account has been '''blocked indefinitely''' from editing Wikipedia because it appears to be mainly intended or used for publicity and/or promotional purposes. Please read the following carefully.&lt;/span&gt;&lt;/br&gt;
+
+&lt;p&gt;'''Why can't I edit Wikipedia?'''&lt;/br&gt;
+&lt;p&gt;[[Special:MyContributions|Your account's edits]] and/or username indicate that it is being used on behalf of a company, group, celebrity or other well-known individual, or organization for purposes of promotion and/or publicity. The edits may have violated one or more of our rules on spamming, which include: [[WP:LINKSPAM|adding inappropriate external links]], [[WP:SPAM|posting advertisements]], and [[WP:PROMOTION|using Wikipedia for promotion]]. Wikipedia has many articles on companies, groups, and organizations, but it is considered inappropriate for such groups to use Wikipedia to write about themselves. ''In addition'', usernames like yours are disallowed under our [[WP:ORGNAME|username policy]].
+
+;Am I allowed to make these edits if I change my username?
+Probably not.  See [[WP:FAQ/Organization]] for a helpful list of frequently asked questions by people in your position. Also, review the [[WP:COI|conflict of interest guidance]] to see the kinds of limitations you would have to obey if you did want to continue editing about your company, group, or organization. If this does not fit in with your goals, then you will not be allowed to edit again. Consider using [[WP:OUT|one of the many websites]] that allow this instead.
+
+;What can I do now?
+You are still welcome to write about something other than your company or organization. If you ''do'' intend to make useful contributions on some other topic, you must convince a [[WP:ADMIN|Wikipedia administrator]] that you mean it. To that end, please do the following:
+
+*Add the text &lt;!-- Copy the text as it appears on your page, not as it appears in this edit area. Do not include the &quot;tlx&quot; argument. --&gt;{{tlx|unblock-spamun|Your proposed new username|Your reason here}} on [[Special:MyTalk|your user talk page]].
+*Replace the text &quot;Your proposed new username&quot; with a new username you are willing to use. See [[Special:Listusers]] to search for available usernames. Your new username will need to meet our [[WP:U|username policy]].
+*Replace the text &quot;Your reason here&quot; with your reason to be unblocked. In this reason, you must:
+:*Convince us that you understand the reason for your block and that you will not repeat the edits for which you were blocked.
+:*Describe in general terms the contributions that you intend to make if you are unblocked.
+
+If you believe this block was made in error, please see how to [[WP:AAB|appeal a block]]. &lt;/div&gt;[[Category:Wikipedians who are indefinitely blocked for promotional user names|{{PAGENAME}}]]{{z17}}&lt;!-- Template:Uw-spamublock --&gt; [[User:Daniel Case|Daniel Case]] ([[User talk:Daniel Case|talk]]) 12:56, 1 December 2010 (UTC)
+	</talkpage>
+</article>

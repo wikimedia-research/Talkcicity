@@ -1,0 +1,6 @@
+<article id="18297309" title=Talk:Baho>
+	<talkpage id="18297309" title="Talk:Baho">
+{{WikiProject Catalan-speaker}}
+{{WikiProject France|class=Stub|importance=Low|commune=yes}}
+	</talkpage>
+</article>

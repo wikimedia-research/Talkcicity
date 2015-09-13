@@ -1,0 +1,6 @@
+<article id="32572344" title=Talk:1986–87 Nationalliga A season>
+	<talkpage id="32572344" title="Talk:1986–87 Nationalliga A season">
+{{WikiProject Ice Hockey|class=stub|euro=yes}}
+{{WikiProject Switzerland|class=Stub|importance=Low}}
+	</talkpage>
+</article>

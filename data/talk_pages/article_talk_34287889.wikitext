@@ -1,0 +1,47 @@
+<article id="34287889" title=Talk:M class cruiser/GA1>
+	<talkpage id="34287889" title="Talk:M class cruiser/GA1">
+==GA Review==
+{{Good article tools}}
+&lt;noinclude&gt;{{al|{{#titleparts:M class cruiser/GA1|-1}}|noname=yes}}&lt;br/&gt;&lt;/noinclude&gt;&lt;includeonly&gt;:''This review is [[WP:transclusion|transcluded]] from [[Talk:M class cruiser/GA1]]. The edit link for this section can be used to add comments to the review.''&lt;/includeonly&gt;
+
+'''Reviewer:''' [[User:Czarkoff|Czarkoff]]&amp;nbsp;([[User talk:Czarkoff|talk]] '''·''' [[Special:Contributions/Czarkoff|contribs]]) 14:25, 5 January 2012 (UTC)
+&lt;!-- Please add all review comments below this comment, and do not alter what is above. To keep the review within a single section, please do not use level 2 headers (==...==) below to break up the review. Use level 3 (===...===), level 4 and so on.--&gt;
+
+=== Status ===
+''This section is supposed to be edited '''only''' by reviewer(s).''
+:'''[[Wikipedia:Good article nominations|GA]] review''' (see [[Wikipedia:Good article criteria|here]] for what the criteria are, and [[WP:GACN|here]] for what they are not)
+
+#It is '''reasonably well written'''.
+#:a ''(prose)'': {{GAList/check|y}} b ''([[Wikipedia:Manual of Style|MoS]] for [[WP:LEAD|lead]], [[WP:LAYOUT|layout]], [[WP:WTW|word choice]], [[WP:WAF|fiction]], and [[Wikipedia:Embedded list|lists]])'': {{GAList/check|y}}
+#:: 
+#It is '''factually accurate''' and '''[[Wikipedia:Verifiability|verifiable]]'''.
+#:a ''(references)'': {{GAList/check|y}} b ''(citations to [[WP:RS|reliable sources]])'': {{GAList/check|y}} c ''([[Wikipedia:No original research|OR]])'': {{GAList/check|y}}
+#:: 
+#It is '''broad in its coverage'''.
+#:a ''(major aspects)'': {{GAList/check|y}} b ''(focused)'': {{GAList/check|y}}
+#:: 
+#It follows the '''[[WP:NPOV|neutral point of view]] policy'''.
+#:''Fair representation without bias'': {{GAList/check|y}}
+#:: 
+#It is '''stable'''.
+#:''No edit wars, etc.'': {{GAList/check|y}}
+#:: 
+#It is illustrated by '''[[Wikipedia:Images|images]]''', where possible and appropriate.
+#:a ''(images are tagged and non-free images have [[Wikipedia:Image_description_page#Use_rationale|fair use rationales]])'': {{GAList/check|y}} b ''(appropriate use with [[WP:CAP|suitable captions]])'': {{GAList/check|y}}
+#:: 
+#'''Overall''': 
+#:''Pass/Fail'': {{GAList/check|y}}
+#:: &lt;!-- Template:GAList --&gt;
+
+=== Discussion ===
+Regarding the failing points:
+#'''2(a)''': The article is almost entirely based on one source (12/18 references). Though I notice that most of the paragraphs have two citation, I would like to receive a comment on why the &quot;{{cite book|last=Gröner|first=Erich|title=German Warships: 1815–1945|year=1990|location=Annapolis|publisher=Naval Institute Press|isbn=0-87021-790-9}}&quot; book received that much weight.
+#:Groner's book is based entirely on official German Navy records, what survived the war, at least. For ships like this class that were never completed, it's usually the case that a variety of referencing is impossible. See for instance [[Sovetsky Soyuz class battleship]], a Featured Article on a Soviet battleship design that relies heavily on one source. FWIW, the entry in Conway's is more limited than what Groner has, though where the two overlap there are no disagreements. [[User:Parsecboy|Parsecboy]] ([[User talk:Parsecboy|talk]]) 14:56, 5 January 2012 (UTC)
+#'''2(a)''': I would recommend to move the two references to ''Navweaps.com'' to the ''References'' section and provide the footnotes the same way as it is done with books.
+#:Web sources aren't typically placed in the References section - see again the Sovetsky Soyuz article for an example.
+#::OK, may be you could reduce the number columns? In a current form the web references are unnecessarily torn, IMHO. &amp;mdash; [[User:Czarkoff|Dmitrij D. Czarkoff]] ([[User talk:Czarkoff|talk]]) 15:11, 5 January 2012 (UTC)
+#:::Done. [[User:Parsecboy|Parsecboy]] ([[User talk:Parsecboy|talk]]) 15:53, 5 January 2012 (UTC)
+#'''6(a)''', '''6(b)''': is it possible to provide at least some images? Though it isn't obligatory, it would be of a benefit for the article. [[User:Czarkoff|Dmitrij D. Czarkoff]] ([[User talk:Czarkoff|talk]]) 14:25, 5 January 2012 (UTC)
+#:It would be nice, but there's nothing I've been able to track down. There's probably a design blueprint somewhere in the Bundesarchiv, but I can't exactly go get it :) [[User:Parsecboy|Parsecboy]] ([[User talk:Parsecboy|talk]]) 14:56, 5 January 2012 (UTC)
+	</talkpage>
+</article>

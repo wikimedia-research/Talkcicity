@@ -1,0 +1,9 @@
+<article id="23013499" title=Talk:Michael T. Ringwood>
+	<talkpage id="23013499" title="Talk:Michael T. Ringwood">
+{{Talk header}}
+{{WikiProjectBannerShell|living=yes|1=
+ {{WikiProject Biography|living=yes|class=stub|listas=Ringwood, Michael T.}}
+ {{WikiProject Latter Day Saint movement|class=stub|importance=low|needs-PD-photo=yes}}
+}}
+	</talkpage>
+</article>

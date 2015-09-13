@@ -1,0 +1,27 @@
+<article id="3593581" title=Talk:Arktika-class icebreaker>
+	<talkpage id="3593581" title="Talk:Arktika-class icebreaker">
+{{WikiProjectBannerShell|1=
+{{WikiProject Maritime Trades|class=Start|importance=Mid|B1=no|B2=no|B3=no|B4=yes|B5=yes}}
+{{WikiProject Ships|class=Start|B1=no|B2=no|B3=no|B4=yes|B5=yes}}
+{{WikiProject Arctic|class=Start|importance=high}}
+{{WikiProject Soviet Union|class=Start|importance=high}}
+{{WikiProject Russia|class=Start|importance=high|tech=yes|physgeo=yes|hist=yes|sci=yes}}
+}}
+
+== uglitude ==
+Someone feel free to clean up the ugly tables.  -- [[User:Brianhe|Brianhe]] 05:54, 2 January 2006 (UTC)
+
+== not exactly merging ==
+Right now there is not really any info here that shouldn't just go into the main [[nuclear powered icebreakers]] article. I'll make sure all info here is reflected there in case folks want to do a merge later. Rather than merge, though, I think ideally this article should be expanded to include more info than the main nuke icebreaker article should have. -- [[User:Akb4|Akb4]] 09:07, 25 September 2006 (UTC)
+
+== Copyediting needed ==
+As of now, the article seems to be mostly about the first ''Arktika''-class icebreaker, ''Arktika'', instead of the whole series of nuclear-powered icebreakers. Some copyediting is needed. [[User:Tupsumato|Tupsumato]] ([[User talk:Tupsumato|talk]]) 13:26, 21 April 2013 (UTC)
+
+*Yeah, currently the organisation of these articles is not great. There seems to be more information specifically about the ship ''Arktika'' here than there is in the ship's own article. [[Special:Contributions/86.160.215.239|86.160.215.239]] ([[User talk:86.160.215.239|talk]]) 00:34, 21 August 2013 (UTC)
+
+:::I tried to make a start on cleaning this up, but in some places I don't know which information is supposed to apply to all ships in the class, and which just to ''Arktika''. [[Special:Contributions/86.148.152.60|86.148.152.60]] ([[User talk:86.148.152.60|talk]]) 19:27, 28 August 2013 (UTC)
+
+
+Hi all who are concerned with the Arktika article, I am the author and researcher of all the information included within the History, Construction, OK900A Reactors, Propulsion, Prolonged Service Life, and Decommissioning sections. Apologies for not using my login and other credentials, but I have lost and forgotten them over the years. I can verify and show my research for these articles and have a degree in Marine Engineering and Technology from the California Maritime Academy, where I studied and wrote this article. To clear up the confusion, what I researched and wrote concerns only the ship Arktika and not the class--every ship after the Arktika had a larger reactor and other historic characteristics that set each one apart. Sorry again for the confusion and lack of proper Wikipedia mannerisms as it has been some time since I worked on this project. [[Special:Contributions/76.171.91.0|76.171.91.0]] ([[User talk:76.171.91.0|talk]]) 19:36, 11 June 2015 (UTC)
+	</talkpage>
+</article>

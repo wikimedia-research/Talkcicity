@@ -1,0 +1,16 @@
+<article id="4654467" title=User talk:Phvakil>
+	<talkpage id="4654467" title="User talk:Phvakil">
+Hello &lt;font color=&quot;#4aa21b&quot;&gt;'''{{PAGENAME}}'''&lt;/font&gt;, and [[Wikipedia:Welcome, newcomers|welcome]] to [[Wikipedia]]! The first thing you should know is that we encourage you to   '''[[WP:Be bold|be bold]]'''.  Feel free to edit and improve articles, by clicking any 'edit' link. 
+
+If you'd like to test what Wikipedia can do, check out the [[Wikipedia:Sandbox| sandbox]] - just type and save the page and your text will appear. That's the beauty of a Wiki.
+
+For more information check out our [[Wikipedia:Tutorial|tutorial]] - it's designed with newcomers in mind, as is the [[Help:Contents| help]] section. If you'd like to get involved with current projects, have a look at the [[Wikipedia:Community_Portal| Community Portal]]. There are always tasks for users to do, ranging from [[Wikipedia:How_to_copy-edit|copyediting]] to expanding [[Wikipedia:Stub| stubs]].
+
+I hope you'll enjoy your time here, but be warned, it can become addictive! Feel free to [[User_talk:James.kendall| message me]], I'm more than happy to help. As an added tip, sign any message you post so users know that you've said it. To do so is delightfully simple, just use the wikicode &lt;font color=&quot;red&quot;&gt;'''&amp;#x7e;&amp;#x7e;&amp;#x7e;&amp;#x7e;'''&lt;/font&gt;.
+
+Once again, welcome! 
+&lt;p&gt;
+&lt;div style=&quot;border:1px solid #FF6600; padding:.5em; padding-top:.5em; color: #000; background-color:#FFCC55;&quot;&gt;
+&lt;center&gt;&lt;i&gt;'''[http://en.wikipedia.org/w/index.php?title=User_talk:James.kendall&amp;action=edit&amp;section=new Click here to respond to this message!]'''&lt;/i&gt;&lt;/center&gt;&lt;/div&gt; &lt;i&gt;&lt;font color=&quot;green&quot;&gt;[[User:James.kendall| James]]&lt;/font&gt; &lt;font color=&quot;purple&quot;&gt;[[User:James.kendall| Kendall]]&lt;/font&gt;&lt;/i&gt; [[User_talk:James.kendall| [talk]]] 23:23, 6 April 2006 (UTC)
+	</talkpage>
+</article>

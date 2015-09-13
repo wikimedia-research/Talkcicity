@@ -1,0 +1,15 @@
+<article id="9842568" title=Talk:Erik Regtop>
+	<talkpage id="9842568" title="Talk:Erik Regtop">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=stub
+|sports-work-group=yes
+|listas=Regtop, Erik
+}}
+{{WikiProject Football|class=stub|importance=|Netherlands=yes|England=yes|France=yes}}
+{{WikiProject Netherlands|class=stub}}
+| blp=yes
+}}
+	</talkpage>
+</article>

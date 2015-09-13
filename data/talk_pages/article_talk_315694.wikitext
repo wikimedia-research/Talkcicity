@@ -1,0 +1,39 @@
+<article id="315694" title=Talk:Convulsive therapy>
+	<talkpage id="315694" title="Talk:Convulsive therapy">
+{{HistSci|importance=Mid|class=Start}}
+
+== External link not working ==
+External Link moved here as not currently working.
+
+*[http://www.epub.org.br/cm/n04/historia/shock_i.htm The History of Shock Therapy in Psychiatry] (This page is not opening)
+:I have reintroduced the reference to the article's new site. Also, I removed the notice about merging with [[electroconvulsive therapy]], because this one is a more general treatment of all kinds of shock therapy. Furthermore, due to its lenght and completeness, it is no longer a stub. --[[User:Rsabbatini|R.Sabbatini]] 12:08, 19 November 2005 (UTC)
+
+== title change for article ==
+Really what this article should be titled is conlusive therapy.--[[User:Scuro|scuro]] 18:25, 6 May 2007 (UTC)
+:Your and NMG20's comments make sense to me.  All therapies listed on this page cause convulsions, and all don't use electric shocks.  I'll start working on this page. [[User:Chupper|Chupper]] 23:11, 19 August 2007 (UTC)
+
+== References supporting this definition of shock therapy needed ==
+
+This article claims that shock therapy is a treatment designed to induce a state of [[shock (medicine)|medical shock]] - I can't speak for all the treatments here, but this is certainly untrue where [[electroconvulsive therapy]] is concerned, where the therapeutic mechanism is believed to be the induction of a therapeutic clonic seizure. Effectively, this means that this &quot;shock therapy&quot; works by [[electric shock]], as one would intuitively think.
+
+Put simply, there is no way a seizure could cause medical shock, which is a state of acute tissue [[hypoxia]], as in [[anaphylactic shock]] or [[hypovolaemic shock]]; even in the massively prolonged, uncontrolled seizures of [[status epilepticus]], the mechanism of damage is build-up of [[neurotransmitter]], not hypoxia. The brain's ability to autoregulate [[cerebral perfusion pressure]] is maintained except in severe haemodynamic compromise, and passing a current through the brain doesn't do anything to a patient's haemodynamic status.
+
+Similarly, the descriptions in this article of &quot;malarial fever therapy&quot; don't deal with medical shock, &quot;insulin shock therapy&quot; specifies [[hypoglycaemia]] as its therapeutic mechanism, &quot;metrazol shock therapy&quot; and &quot;pharmacological shock therapy&quot; specify seizures. None of these have anything to do with shock in the medical sense of the word.
+
+I'm therefore going to make clear that the mechanisms of these treatments are not fully understood, but have nothing to do with medical shock, and have requested citations where I think they're needed. [[User:Nmg20|Nmg20]] 00:13, 30 June 2007 (UTC)
+
+There are still a large number of unreferenced claims in this article, and the requests were added (by me) at the end of June, about three months ago. May I suggest that if these claims can't be verified, there isn't much of the article left...? [[User:Nmg20|Nmg20]] 12:28, 21 September 2007 (UTC)
+
+:I second that motion. --[[User:Scuro|scuro]] 15:51, 21 September 2007 (UTC)
+
+I've sent messages to all posters on this page (correction: there were too many editors of the article proper to message them all!) inviting them to reference-find. If nothing happens by October, I'll propose the article for deletion. [[User:Nmg20|Nmg20]] 17:14, 25 September 2007 (UTC)
+
+:You have the patience of Job.--[[User:Scuro|scuro]] 20:37, 25 September 2007 (UTC)
+
+No responses to any of the messages I sent, no citations after a five-month time lag - so I've proposed it for deletion per (all of) the above. [[User:Nmg20|Nmg20]] 01:32, 12 November 2007 (UTC)
+
+Ok - the proposed deletion tag has just been removed for what I feel are pretty spurious reasons given the article history and its total unverifiability per the above. I'm therefore adding an afd tag to it so it can get discussed per [[Wikipedia:Articles for deletion]]. [[User:Nmg20|Nmg20]] ([[User talk:Nmg20|talk]]) 12:04, 17 November 2007 (UTC)
+
+NB: per the afd guidelines, I notified everyone with four or more edits of the article via talk. This was [[User:Rsabbatini]], [[User:59.167.220.188]], [[User:Chupper]], [[User:DavidCooke]], and [[User:Kwertii]]; several of these I had already messaged to ask if they knew of sources for the article. I will also notify major contributors here on the talk page. [[User:Nmg20|Nmg20]] ([[User talk:Nmg20|talk]]) 12:24, 17 November 2007 (UTC)
+	</talkpage>
+</article>

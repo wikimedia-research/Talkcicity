@@ -1,0 +1,5 @@
+<article id="39933327" title=Talk:Mark E. Casse>
+	<talkpage id="39933327" title="Talk:Mark E. Casse">
+{{WikiProject Biography |living=yes |class=Stub |listas=Casse, Mark E.}}
+	</talkpage>
+</article>

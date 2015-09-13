@@ -1,0 +1,35 @@
+<article id="11292918" title=Talk:In Your Pocket City Guides>
+	<talkpage id="11292918" title="Talk:In Your Pocket City Guides">
+{{TourismProject|class=start|importance=mid}}
+
+==Fair use rationale for Image:Vilnius In Your Pocket.PNG==
+[[Image:Nuvola apps important.svg|70px|left]]
+'''[[:Image:Vilnius In Your Pocket.PNG]]''' is being used on this article. I notice the image page specifies that the image is being used under [[Wikipedia:Fair use|fair use]] but there is no [[Wikipedia:Fair use rationale guideline|explanation or rationale]] as to why its use in '''this''' Wikipedia article constitutes fair use. In addition to the [[Wikipedia:Image copyright tags/Fair use|boilerplate fair use template]], you must also write out on the image description page a specific explanation or rationale for why using this image in each article is consistent with [[WP:FU|fair use]].
+
+Please go to [[:Image:Vilnius In Your Pocket.PNG|the image description page]] and edit it to include a [[Wikipedia:Fair use rationale guideline |fair use rationale]]. Using one of the templates at [[Wikipedia:Fair use rationale guideline]] is an easy way to insure that your image is in compliance with Wikipedia policy, but remember that you must complete the template. Do not simply insert a blank template on an image page.
+
+If there is  other fair use media, consider checking that you have specified the fair use rationale on the other images used on this page.  Note that any fair use images lacking such an explanation can be deleted one week after being tagged, as described on [[Wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|Media copyright questions page]]. Thank you.&lt;!-- Template:Missing rationale2 --&gt;
+
+[[User:BetacommandBot|BetacommandBot]] ([[User talk:BetacommandBot|talk]]) 02:36, 12 February 2008 (UTC)
+
+==Fair use rationale for Image:Hamburg In Your Pocket.PNG==
+[[Image:Nuvola apps important.svg|70px|left]]
+'''[[:Image:Hamburg In Your Pocket.PNG]]''' is being used on this article. I notice the image page specifies that the image is being used under [[Wikipedia:Fair use|fair use]] but there is no [[Wikipedia:Fair use rationale guideline|explanation or rationale]] as to why its use in '''this''' Wikipedia article constitutes fair use. In addition to the [[Wikipedia:Image copyright tags/Fair use|boilerplate fair use template]], you must also write out on the image description page a specific explanation or rationale for why using this image in each article is consistent with [[WP:FU|fair use]].
+
+Please go to [[:Image:Hamburg In Your Pocket.PNG|the image description page]] and edit it to include a [[Wikipedia:Fair use rationale guideline |fair use rationale]]. Using one of the templates at [[Wikipedia:Fair use rationale guideline]] is an easy way to ensure that your image is in compliance with Wikipedia policy, but remember that you must complete the template. Do not simply insert a blank template on an image page.
+
+If there is  other fair use media, consider checking that you have specified the fair use rationale on the other images used on this page.  Note that any fair use images lacking such an explanation can be deleted one week after being tagged, as described on [[Wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|Media copyright questions page]]. Thank you.&lt;!-- Template:Missing rationale2 --&gt;
+
+[[User:BetacommandBot|BetacommandBot]] ([[User talk:BetacommandBot|talk]]) 22:28, 13 February 2008 (UTC)
+
+
+== sounds like an advertisement ==
+
+The article sounds like an ad for the guides, written by the publishers themselves.
+[[Special:Contributions/87.79.35.60|87.79.35.60]] ([[User talk:87.79.35.60|talk]]) 09:19, 7 April 2009 (UTC)
+
+== English ==
+
+Do they only publish in English? --[[User:Error|Error]] ([[User talk:Error|talk]]) 18:24, 11 July 2015 (UTC)
+	</talkpage>
+</article>

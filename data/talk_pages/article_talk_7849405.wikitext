@@ -1,0 +1,5 @@
+<article id="7849405" title=User talk:Pinstripeman>
+	<talkpage id="7849405" title="User talk:Pinstripeman">
+Thank you for experimenting with Wikipedia{{{{{subst|}}}#if:Dan Funk|&amp;#32;by creating the page [[:Dan Funk]]}}. Your test worked, and the page that you created has been or soon will be deleted. Please use [[Wikipedia:Sandbox|the sandbox]] for any other tests you want to do. Take a look at the [[Wikipedia:Welcome, newcomers|welcome page]] if you would like to learn more about contributing to our encyclopedia.&lt;!-- Template:Test1article (first level warning) --&gt;  [[User:NawlinWiki|NawlinWiki]] 04:03, 9 November 2006 (UTC)
+	</talkpage>
+</article>

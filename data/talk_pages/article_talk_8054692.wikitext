@@ -1,0 +1,5 @@
+<article id="8054692" title=Talk:Ahli Fiqir>
+	<talkpage id="8054692" title="Talk:Ahli Fiqir">
+{{SG|importance=Low|class=Stub}}
+	</talkpage>
+</article>

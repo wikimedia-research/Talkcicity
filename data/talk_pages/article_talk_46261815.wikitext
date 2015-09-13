@@ -1,0 +1,6 @@
+<article id="46261815" title=Talk:Anna Kilponen>
+	<talkpage id="46261815" title="Talk:Anna Kilponen">
+{{WikiProject Biography|living=yes|class=Stub|needs-infobox=|a&amp;e-work-group=|politician-work-group=|military-work-group=|sports-work-group=|s&amp;a-work-group=|musician-work-group=|peerage-work-group=|filmbio-work-group=|listas=|needs-photo=}}
+{{WP Hockey}}
+	</talkpage>
+</article>

@@ -1,0 +1,16 @@
+<article id="6487819" title=Talk:Mejdi Traoui>
+	<talkpage id="6487819" title="Talk:Mejdi Traoui">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|sports-work-group=yes
+|listas=Traoui, Medji
+|auto=yes
+}}
+{{WikiProject Football|class=Stub|importance=mid}}
+{{WikiProject Olympics|class=Stub|importance=|auto=yes}}
+| blp=yes
+}}
+	</talkpage>
+</article>

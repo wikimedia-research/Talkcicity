@@ -1,0 +1,6 @@
+<article id="11082187" title=Talk:Sagami-Kaneko Station>
+	<talkpage id="11082187" title="Talk:Sagami-Kaneko Station">
+{{TrainsWikiProject|class=start|importance=low|Japan=yes|stations=yes}}
+{{Wikiproject Japan |class=start |importance=low|trains=yes}}
+	</talkpage>
+</article>

@@ -1,0 +1,16 @@
+<article id="26946366" title=User talk:Dlorange>
+	<talkpage id="26946366" title="User talk:Dlorange">
+'''Welcome!'''
+
+Hello, Dlorange, and [[Wikipedia:Introduction|welcome]] to Wikipedia! Thank you for [[Special:Contributions/Dlorange|your contributions]]. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:How to edit a page|How to edit a page]] and [[Wikipedia:Article development|How to develop articles]]
+*[[Wikipedia:Your first article|How to create your first article]] (using the [[Wikipedia:Article wizard|Article Wizard]] if you wish)
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign]] your messages on [[Wikipedia:talk page|discussion page]]s using four [[tilde]]s (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically insert your username and the date. If you need help, check out [[Wikipedia:Questions]], ask me on my talk page, or ask your question on this page and then place &lt;code&gt;&lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt;&lt;/code&gt; before the question. Again, welcome! &lt;!-- Template:Welcome --&gt; --[[User:Alan Au|Alan Au]] ([[User talk:Alan Au|talk]]) 23:17, 13 April 2010 (UTC)
+
+==[[David M. Lorange]]==
+Thanks for adding the article about [[David M. Lorange]].  Please be aware that Wikipedia recommends caution when creating/editing autobiographical articles.  (See [[WP:AUTO]] for details.)  Still, I think it would great if you were able to additional factual details (like years of service, etc).  Thanks!  --[[User:Alan Au|Alan Au]] ([[User talk:Alan Au|talk]]) 23:17, 13 April 2010 (UTC)
+	</talkpage>
+</article>

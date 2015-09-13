@@ -1,0 +1,8 @@
+<article id="29254665" title=User talk:67.163.12.170>
+	<talkpage id="29254665" title="User talk:67.163.12.170">
+
+== October 2010 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Diamond_color?diff=391551808 recent edit]&lt;/span&gt; that you made to the page [[:Diamond color]] has been reverted, as it appears to be unconstructive. Please use the [[Wikipedia:Sandbox|sandbox]] for testing any edits; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]] for further information. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:Slon02|Slon02]] ([[User talk:Slon02|talk]]) 00:45, 19 October 2010 (UTC)
+	</talkpage>
+</article>

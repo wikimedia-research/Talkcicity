@@ -1,0 +1,6 @@
+<article id="29743245" title=Talk:Rare Range>
+	<talkpage id="29743245" title="Talk:Rare Range">
+{{WikiProject Antarctica|class=Stub|importance=Low}}
+{{WikiProject Mountains|class=Stub|importance=Low}}
+	</talkpage>
+</article>

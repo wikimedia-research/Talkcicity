@@ -1,0 +1,5 @@
+<article id="18817896" title=Talk:Anika>
+	<talkpage id="18817896" title="Talk:Anika">
+{{WikiProject Anthroponymy|class=List|importance=NA}}
+	</talkpage>
+</article>

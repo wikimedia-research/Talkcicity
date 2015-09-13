@@ -1,0 +1,8 @@
+<article id="20657197" title=Talk:Lo Ho Gayi Pooja Iss Ghar Ki>
+	<talkpage id="20657197" title="Talk:Lo Ho Gayi Pooja Iss Ghar Ki">
+{{WikiProject Banners|
+{{WikiProject Television}}
+{{WP India|class=stub|importance=low|television=yes|television-importance=low|assess-date=March 2012}}
+}}
+	</talkpage>
+</article>

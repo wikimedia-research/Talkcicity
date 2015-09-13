@@ -1,0 +1,5 @@
+<article id="7651626" title=Talk:Fusion rules>
+	<talkpage id="7651626" title="Talk:Fusion rules">
+{{physics|class=Stub|importance=low}}
+	</talkpage>
+</article>

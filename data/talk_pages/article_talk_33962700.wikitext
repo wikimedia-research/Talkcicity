@@ -1,0 +1,6 @@
+<article id="33592203" title=Talk:Laufenburg Ost station>
+	<talkpage id="33592203" title="Talk:Laufenburg Ost station">
+{{TrainsWikiProject|class=Stub|importance=Low|DE=yes|DE-importance=Low|stations=yes}}
+{{WikiProject Germany|class=Stub|importance=Low}}
+	</talkpage>
+</article>

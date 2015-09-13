@@ -1,0 +1,12 @@
+<article id="25696073" title=User talk:65.64.37.74>
+	<talkpage id="25696073" title="User talk:65.64.37.74">
+== [[Wikipedia:Articles for deletion|AfD]] nomination of [[Majin]] ==
+[[File:Ambox warning pn.svg|left|48px|]]An editor has nominated one or more articles which you have created or worked on, for [[Wikipedia:Deletion process|deletion]]. The nominated article is [[Majin]]. We appreciate your contributions, but the nominator doesn't believe that the article satisfies Wikipedia's criteria for inclusion and has explained why in his/her nomination (see also [[Wikipedia:Notability]] and &quot;[[WP:NOT|What Wikipedia is not]]&quot;).
+
+Your opinions on whether the article meets inclusion criteria and what should be done with the article are welcome; please participate in the discussion(s) by adding your comments to [[Wikipedia:Articles for deletion/Majin]]. Please be sure to [[WP:SIG|sign your comments]] with four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;).
+
+You may also edit the article during the discussion to improve it but should not remove the [[WP:AfD|articles for deletion]] template from the top of the article; such removal will not end the deletion debate.
+
+'''Please note:''' This is an automatic notification by a [[WP:BOT|bot]]. I have nothing to do with this article or the deletion nomination, and can't do anything about it. --[[User:Erwin85Bot|Erwin85Bot]] ([[User talk:Erwin85Bot|talk]]) 01:06, 6 January 2010 (UTC)
+	</talkpage>
+</article>

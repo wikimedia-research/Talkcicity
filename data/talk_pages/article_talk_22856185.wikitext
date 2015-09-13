@@ -1,0 +1,6 @@
+<article id="15195317" title=Talk:Cycling at the 1904 Summer Olympics – 2 miles>
+	<talkpage id="15195317" title="Talk:Cycling at the 1904 Summer Olympics – 2 miles">
+{{WikiProject Olympics|importance=low|class=stub}}
+{{WikiProject Cycling|class=stub}}
+	</talkpage>
+</article>

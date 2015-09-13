@@ -1,0 +1,5 @@
+<article id="36780629" title=Talk:Arkansas Secretary of State>
+	<talkpage id="36780629" title="Talk:Arkansas Secretary of State">
+{{WikiProject United States|class=Redirect|importance=NA|AR=Yes|AR-importance=NA}}
+	</talkpage>
+</article>

@@ -1,0 +1,16 @@
+<article id="6648972" title=Talk:Link Belt (SEPTA station)>
+	<talkpage id="6648972" title="Talk:Link Belt (SEPTA station)">
+{{WikiProjectBannerShell|1=
+{{WikiProject Pennsylvania|class=Stub|importance=low}}
+{{WikiProject Trains|class=stub|stations=yes|unref=yes|importance=low}}
+{{WikiProject Philadelphia|class=Stub|importance=low}}
+}}
+
+== Duplicate article alert ==
+
+Just found another duplicate article ([[Link Belt, Pennsylvania]]). Write to me if you know whether or not they should be merged. ----[[User:DanTD|DanTD]] ([[User talk:DanTD|talk]]) 18:58, 4 August 2008 (UTC)
+
+==Link Belt?==
+Is Link Belt still a stop on this line, or is it obsolete?--[[User:Dthomsen8|DThomsen8]] ([[User talk:Dthomsen8|talk]]) 18:24, 24 September 2009 (UTC)
+	</talkpage>
+</article>

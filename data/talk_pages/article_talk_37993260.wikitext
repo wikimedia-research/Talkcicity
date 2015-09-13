@@ -1,0 +1,10 @@
+<article id="37993260" title=Talk:Judith Trachtenberg (film)>
+	<talkpage id="37993260" title="Talk:Judith Trachtenberg (film)">
+{{WikiProject Film
+    |German-task-force=yes
+    |needs-image=yes
+    
+    |class=Stub
+   |Silent=yes}}
+	</talkpage>
+</article>

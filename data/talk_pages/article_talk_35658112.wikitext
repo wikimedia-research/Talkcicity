@@ -1,0 +1,9 @@
+<article id="35658112" title=Talk:Pakistani cricket team in Sri Lanka in 2012>
+	<talkpage id="35658112" title="Talk:Pakistani cricket team in Sri Lanka in 2012">
+{{WikiProjectBannerShell|1=
+{{WikiProject Cricket|class=stub|importance=low}}
+{{WikiProject Pakistan|class=list|importance=mid}}
+{{WikiProject Sri Lanka|class=start|importance=Low}}
+}}
+	</talkpage>
+</article>

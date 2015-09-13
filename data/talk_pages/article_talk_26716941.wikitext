@@ -1,0 +1,5 @@
+<article id="26716941" title=Talk:East Kemptville, Nova Scotia>
+	<talkpage id="26716941" title="Talk:East Kemptville, Nova Scotia">
+{{WikiProject Canada|ns=yes|community=yes|class=Stub|importance=low}}
+	</talkpage>
+</article>

@@ -1,0 +1,7 @@
+<article id="42111496" title=User talk:85.225.196.68>
+	<talkpage id="42111496" title="User talk:85.225.196.68">
+== March 2014 ==
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:BethNaught|BethNaught]]. Wikipedia is written by people who have a wide diversity of opinions, but we try hard to make sure articles have a [[Wikipedia:Neutral point of view|neutral point of view]]. Your recent edit to [[:Timbuktu (musician)]] seemed less than neutral to me, so I removed it for now. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:BethNaught|my talk page]]. Thank you. &lt;!-- Template:uw-npov1 --&gt; [[User:BethNaught|BethNaught]] ([[User talk:BethNaught|talk]]) 18:59, 4 March 2014 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

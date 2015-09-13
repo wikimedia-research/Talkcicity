@@ -1,0 +1,20 @@
+<article id="11819063" title=User talk:Zeebeejee>
+	<talkpage id="11819063" title="User talk:Zeebeejee">
+==Image tagging for Image:SpencerSavage.gif==
+Thanks for uploading '''[[:Image:SpencerSavage.gif]]'''. The image has been identified as not specifying the source and creator of the image, which is required by Wikipedia's policy on images. If you don't indicate the source and creator of the image on the image's description page, it may be deleted some time in the next seven days. If you have uploaded other images, please verify that you have provided source information for them as well.
+
+For more information on using images, see the following pages:
+* [[Wikipedia:Image use policy]]
+* [[Wikipedia:Image copyright tags]]
+
+This is an automated notice by [[User:OrphanBot|OrphanBot]]. For assistance on the image use policy, see [[Wikipedia:Media copyright questions]]. 17:08, 17 June 2007 (UTC)
+
+==Unspecified source for [[:Image:Savageman.GIF]]==
+
+Thanks for uploading '''[[:Image:Savageman.GIF]]'''. I noticed that the file's description page currently doesn't specify who created the content, so the [[copyright]] status is unclear. If you did not create this file yourself, then you will need to specify the owner of the copyright. If you obtained it from a website, then a link to the website from which it was taken, together with a restatement of that website's terms of use of its content, is usually sufficient information. However, if the copyright holder is different from the website's publisher, then their copyright should also be acknowledged.
+
+As well as adding the source, please add a proper copyright licensing tag if the file doesn't have one already. If you created/took the picture, audio, or video then the {{Tl|GFDL-self}} tag can be used to release it under the [[GFDL]]. If you believe the media meets the criteria at [[Wikipedia:Fair use]], use a tag such as {{tlp|non-free fair use in|article name}} or one of the other tags listed at [[Wikipedia:Image copyright tags#Fair use]]. See [[Wikipedia:Image copyright tags]] for the full list of copyright tags that you can use.
+
+If you have uploaded other files, consider checking that you have specified their source and tagged them, too. You can find a list of files you have uploaded by following [{{fullurl:Special:Log|type=upload&amp;user=Zeebeejee}} this link]. '''Unsourced and untagged images may be deleted one week after they have been tagged''', as described on [[wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. If the image is copyrighted under a [[Wikipedia:Image copyright tags/Fair use|non-free license]] (per [[Wikipedia:Fair use]]) then '''the image will be deleted [[WP:CSD#I7|48 hours]] after 15:01, 18 June 2007 (UTC)'''. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|Media copyright questions page]]. Thank you.&lt;!-- Template:Image source --&gt; [[User:Sherool|Sherool]] &lt;span style=&quot;font-size:75%&quot;&gt;[[User talk:Sherool|(talk)]]&lt;/span&gt; 15:01, 18 June 2007 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,25 @@
+<article id="11720479" title=Talk:Angelo Coia>
+	<talkpage id="11720479" title="Talk:Angelo Coia">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=no
+|class=Stub
+|sports-work-group=yes
+|sports-priority=
+|listas=Coia, Angelo
+}}
+{{WikiProject College football|class=Stub|importance=low}}
+{{WikiProject National Football League|class=Stub|importance=}}
+{{WikiProject Chicago|importance=low|class=Stub}}
+{{WikiProject Illinois|class=stub |importance=Low}}
+{{WikiProject Philadelphia|class=Stub|importance=low}}
+{{WikiProject Pennsylvania|class=Stub|importance=low}}
+{{WikiProject United States|class=Stub|importance=low|DC=yes|DC-importance=low}}
+}}
+
+==WikiProject class rating==
+This article was automatically assessed because at least one WikiProject had rated the article as stub, and the rating on other projects was brought up to Stub class. [[User:BetacommandBot|BetacommandBot]] 15:04, 9 November 2007 (UTC)
+==WikiProject class rating==
+This article was automatically assessed because at least one WikiProject had rated the article as stub, and the rating on other projects was brought up to Stub class. [[User:BetacommandBot|BetacommandBot]] ([[User talk:BetacommandBot|talk]]) 18:01, 5 January 2008 (UTC)
+	</talkpage>
+</article>

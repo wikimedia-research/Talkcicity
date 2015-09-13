@@ -1,0 +1,9 @@
+<article id="1974335" title=Talk:Bittell Reservoirs>
+	<talkpage id="1974335" title="Talk:Bittell Reservoirs">
+{{WikiProjectBannerShell|1=
+{{WikiProject UK Waterways|class=start|importance=Low}}
+{{WikiProject Lakes|class=start}}
+{{WikiProject Worcestershire|class=Start|importance=Low}}
+}}
+	</talkpage>
+</article>

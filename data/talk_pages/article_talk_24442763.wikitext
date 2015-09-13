@@ -1,0 +1,8 @@
+<article id="24442763" title=User talk:67.171.46.22>
+	<talkpage id="24442763" title="User talk:67.171.46.22">
+
+== September 2009 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/San_Dimas%2c_California?diff=315663829 recent edit]&lt;/span&gt; you made to the page [[:San Dimas, California]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:B.s.n.R.N.|&lt;font color=&quot;black&quot;&gt;&amp;spades;&lt;/font&gt; &lt;span style=&quot;color:black&quot;&gt;'''''B.s.n.'''''&lt;/span&gt;]] [[User talk:B.s.n.R.N.|&lt;font color=&quot;red&quot;&gt;&amp;hearts;&lt;/font&gt;&lt;span style=&quot;color:Red&quot;&gt;'''''R.N.'''''&lt;/span&gt;]][[Special:Contributions/B.s.n.R.N.|contribs]] 06:55, 23 September 2009 (UTC)
+	</talkpage>
+</article>

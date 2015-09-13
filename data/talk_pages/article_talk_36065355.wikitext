@@ -1,0 +1,5 @@
+<article id="36065355" title=Talk:Mordellistena erythroderes>
+	<talkpage id="36065355" title="Talk:Mordellistena erythroderes">
+{{WikiProject Insects|class=Stub|importance=Low|needs-photo=yes}}
+	</talkpage>
+</article>

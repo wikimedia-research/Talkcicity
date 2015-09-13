@@ -1,0 +1,10 @@
+<article id="38638646" title=Talk:Kaash Main Teri Beti Na Hoti>
+	<talkpage id="38638646" title="Talk:Kaash Main Teri Beti Na Hoti">
+{{WPBS|
+{{WikiProject Pakistan|importance=low|class=stub}}
+{{WikiProject India|importance=low|class=stub|television=yes|television-importance=low|assess-date=November 2014}}
+{{WikiProject Soap Operas |class=stub |small= |auto= }}
+{{WikiProject Television|importance=low|class=stub}}
+}}
+	</talkpage>
+</article>

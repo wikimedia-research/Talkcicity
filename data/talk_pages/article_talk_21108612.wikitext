@@ -1,0 +1,11 @@
+<article id="21108612" title=User talk:Wikiscriber1>
+	<talkpage id="21108612" title="User talk:Wikiscriber1">
+
+== October 2008 ==
+[[Image:Information.svg|25px]] Please do not remove information from articles{{#if:Dennis Levine|, as you did to [[:Dennis Levine]]}}. Wikipedia is [[WP:NOT#Wikipedia is not censored|not censored]], and content is not removed even if some believe it to be contentious. Please discuss this issue on the article's talk page to reach [[Wikipedia:Consensus|consensus]] rather than continuing to remove the disputed material. You also have the option to [[Wikipedia:Options to not see an image|configure]] Wikipedia to hide the images that you may find offensive. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-notcensored2 --&gt; [[User:Blueboy96|Blueboy]][[User talk:Blueboy96|96]] 13:11, 22 October 2008 (UTC)
+
+[[Image:Nuvola apps important.svg|25px]] Please stop. Wikipedia is [[WP:NOT#Wikipedia is not censored|not censored]]. Any further changes which have the effect of censoring an article{{#if:|, such as you did to [[:{{{1}}}]],}} will be regarded as [[WP:VANDAL|vandalism]]. If you continue in this manner, you '''will''' be [[Wikipedia:Blocking policy|blocked]] from editing Wikipedia.  {{#if:|{{{2}}}|}}&lt;!-- Template:uw-notcensored3 --&gt; [[User:Blueboy96|Blueboy]][[User talk:Blueboy96|96]] 12:36, 23 October 2008 (UTC)
+
+&lt;div class=&quot;user-block&quot;&gt; [[Image:Stop x nuvola.svg|40px|left]] You have been '''blocked indefinitely''' from editing in accordance with [[Wikipedia:Blocking policy|Wikipedia's blocking policy]] for {{#if:censoring articles and sockpuppetry|'''censoring articles and sockpuppetry'''|repeated [[Wikipedia:Vandalism|abuse of editing privileges]]}}.  If you believe this block is unjustified you may [[Wikipedia:Appealing a block|contest this block]] by adding the text &lt;!-- Copy the text as it appears on your page, not as it appears in this edit area. Do not include the &quot;nowiki&quot; tags. --&gt;&lt;nowiki&gt;{{&lt;/nowiki&gt;unblock|''your reason here''&lt;nowiki&gt;}}&lt;/nowiki&gt;&lt;!-- Do not include the &quot;nowiki&quot; tags. --&gt; below. {{#if:true|[[User:Blueboy96|Blueboy]][[User talk:Blueboy96|96]] 21:37, 28 October 2008 (UTC)|}}&lt;/div&gt;&lt;!-- Template:uw-block3 --&gt;
+	</talkpage>
+</article>

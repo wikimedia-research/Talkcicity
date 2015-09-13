@@ -1,0 +1,16 @@
+<article id="39602462" title=Talk:Samuel Rodriguez>
+	<talkpage id="39602462" title="Talk:Samuel Rodriguez">
+{{WikiProject Biography
+|living=yes
+|listas=Rodriguez, Samuel
+}}
+
+== CNN, Foxnews, WSJ references? ==
+
+Multiple biography of Samuel Rodtiguez report him as &quot;leader of Hispanic Evangelical movement&quot;, referencing CNN and Fox News. There are other similar description from WSJ and other media. However, I am unable to find them online. If these references are verifiable, it should be added into his Wiki page. [[User:Ian198|Ian198]] ([[User talk:Ian198|talk]]) 16:57, 24 April 2014 (UTC)
+
+== Puerto Rican immigrant parents? ==
+
+It seems strange to refer to immigrants from Puerto Rico, since Puerto Rico is part of the US, Puerto Ricans are legally US citizens, and US residents can move freely back and forth to and from Puerto Rico and the rest of the US.  Shouldn't it just say Puerto Rican parents, or am I misunderstanding what it's trying to say? [[User:Dansan99|Dansan99]] ([[User talk:Dansan99|talk]]) 20:28, 1 September 2014 (UTC)
+	</talkpage>
+</article>

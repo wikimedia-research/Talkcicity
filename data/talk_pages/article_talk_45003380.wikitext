@@ -1,0 +1,5 @@
+<article id="45003380" title=Talk:National Bank of Delaware>
+	<talkpage id="45003380" title="Talk:National Bank of Delaware">
+{{WikiProject United States|DE=yes|}}
+	</talkpage>
+</article>

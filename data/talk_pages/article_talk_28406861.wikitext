@@ -1,0 +1,6 @@
+<article id="28406861" title=Talk:Daeseongsan (South Gyeongsang)>
+	<talkpage id="28406861" title="Talk:Daeseongsan (South Gyeongsang)">
+{{WikiProject Korea|skgeo=yes|class=Stub|importance=low}}
+{{WikiProject Mountains|class=Stub|importance=Low}}
+	</talkpage>
+</article>

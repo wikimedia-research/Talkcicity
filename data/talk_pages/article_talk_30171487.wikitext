@@ -1,0 +1,6 @@
+<article id="30171487" title=Talk:Harry Fechner>
+	<talkpage id="30171487" title="Talk:Harry Fechner">
+{{WikiProject Biography|living=yes|class=stub|auto=yes|listas=Fechner, Harry}}
+{{WikiProject Football|class=stub|importance=low|Germany=yes}}
+	</talkpage>
+</article>

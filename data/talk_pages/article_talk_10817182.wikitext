@@ -1,0 +1,16 @@
+<article id="10817182" title=User talk:82.44.255.117>
+	<talkpage id="10817182" title="User talk:82.44.255.117">
+==Welcome!==
+
+{{#switch:{{{2|{{BASEPAGENAME}}}}} |-=Hello,|#default=Hello {{{2|{{BASEPAGENAME}}}}},}} welcome to Wikipedia! Thank you for your contributions. I hope you like the place and decide to stay. Our [[Wikipedia:Introduction|intro page]] contains a lot of helpful material for new users - please check it out! If you need help, visit [[Wikipedia:Questions]]{{#switch:{{{1|(undefined)}}} |=|(undefined)=|#default=, ask me on [[User talk:{{{1}}}|my talk page]],}} or place '''&lt;code&gt;&lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt;&lt;/code&gt;''' on this page and someone will show up shortly to answer your questions.
+==A note about the importance of summaries==
+
+&lt;p&gt;When [[Wikipedia:How to edit a page|editing an article on Wikipedia]] there is a small field labeled &quot;[[Help:Edit summary|Edit summary]]&quot; under the main edit-box. It looks like this:&lt;/p&gt; [[Image:Edit_Summary-2.png|Edit summary text box]]&lt;!--
+
+--&gt;&lt;p&gt;The text written here will appear on the [[Special:Recentchanges|Recent changes]] page, in the [[Help:Page history|page revision history]], on the [[m:Help:Diff|diff page]], and in the [[meta:Help:Watching pages|watchlists]] of users who are watching that article. See [[m:Help:Edit summary]] for full information on this feature.&lt;/p&gt;&lt;!--
+
+--&gt;
+
+Filling in the edit summary field greatly helps your fellow contributors in understanding what you changed, so please always fill in the edit summary field, especially for big edits or when you are making subtle but important changes, like changing dates or numbers. Thank you. &lt;!-- Template:Summary --&gt;  [[User:Murgh|&lt;font size=&quot;-1&quot;&gt;M&lt;/font&gt;&lt;font size=&quot;-3&quot; &gt;URGH&lt;/font&gt;]] [[User talk:Murgh|&lt;font size=&quot;-5&quot;&gt;&lt;sup&gt;disc.&lt;/sup&gt;&lt;/font&gt;]] 18:46, 21 April 2007 (UTC)
+	</talkpage>
+</article>

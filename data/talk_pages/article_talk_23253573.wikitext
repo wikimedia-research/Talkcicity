@@ -1,0 +1,5 @@
+<article id="23253573" title=Talk:Germany national rugby league team>
+	<talkpage id="23253573" title="Talk:Germany national rugby league team">
+{{WikiProject Rugby league|class=start|importance=high}}
+	</talkpage>
+</article>

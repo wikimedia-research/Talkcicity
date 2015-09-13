@@ -1,0 +1,14 @@
+<article id="21515658" title=User talk:72.230.142.32>
+	<talkpage id="21515658" title="User talk:72.230.142.32">
+==Please stop vandalizing the article [[Eastridge High School]], as you have been doing on 12 February 2009.==
+
+== March 2009 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. One or more of the [[Wikipedia:External links|external links]] you added in &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Eastridge_High_School?diff=276644327 this edit]&lt;/span&gt; to the page [[:Eastridge High School]] do not comply with our [[Wikipedia:External links|guidelines for external links]] and have been removed. Wikipedia is [[Wikipedia:What Wikipedia is not#LINK|not a collection of links]]; nor should it be used for [[Wikipedia:Spam|advertising or promotion]]. You may wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-hugglespam1 --&gt; [[User:Lucas20|Lucas20]] ([[User talk:Lucas20|talk]]) 00:59, 12 March 2009 (UTC)
+
+[[Image:Information.png|25px]] Please refrain from making unconstructive edits to Wikipedia, as you did with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Eastridge_High_School?diff=276645542 this edit]&lt;/span&gt; to the page [[:Eastridge High School]]. Such edits constitute [[Wikipedia:Vandalism|vandalism]] and are [[Help:Reverting|reverted]]. Please do not continue to make unconstructive edits to pages; use the [[Wikipedia:Sandbox|sandbox]] for testing. Thank you. &lt;!-- Template:uw-huggle2 --&gt; [[User:Lucas20|Lucas20]] ([[User talk:Lucas20|talk]]) 01:05, 12 March 2009 (UTC)
+
+[[Image:Information.svg|25px]]  Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits{{#if:Eastridge High School|, such as the one you made to [[:Eastridge High School]],}} did not appear to be constructive and has been reverted. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism1 --&gt; '''[[User:Kraftlos|&lt;span style='font-family:&quot;Tempus Sans ITC&quot;; color:#5342F'&gt;Kraftlos&lt;/span&gt;]]''' ''([[User talk:Kraftlos|Talk]] | [[Special:Contributions/Kraftlos|Contrib]])'' 22:26, 24 March 2009 (UTC)
+:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
+	</talkpage>
+</article>

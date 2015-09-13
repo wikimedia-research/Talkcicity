@@ -1,0 +1,5 @@
+<article id="24149455" title=Talk:Aegleoides>
+	<talkpage id="24149455" title="Talk:Aegleoides">
+{{WikiProject Lepidoptera|class=stub|importance=low}}
+	</talkpage>
+</article>

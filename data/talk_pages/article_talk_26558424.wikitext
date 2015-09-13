@@ -1,0 +1,13 @@
+<article id="26558424" title=User talk:74.213.236.5>
+	<talkpage id="26558424" title="User talk:74.213.236.5">
+
+
+== March 2010 ==
+[[Image:Information.svg|left|25px]] Welcome to Wikipedia. Everyone is welcome to make constructive contributions to Wikipedia, but at least one of your recent edits, such as the one you made to [[:Jason Todd Ipson]], did not appear to be constructive and has been '''automatically [[Help:Reverting|reverted]]''' by [[User:ClueBot|ClueBot]]. 
+* Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. Note that human editors do monitor recent changes to Wikipedia articles, and [[WP:ADMINS|administrators]] have the ability to [[WP:BLOCK|block]] users from editing if they repeatedly engage in [[WP:vandalism|vandalism]].
+* Cluebot produces very few [[false positives]], but it does happen. If you believe the change you made should not have been detected as unconstructive, please [[User:ClueBot/FalsePositives|report it here]], remove this warning from your talk page, and then make the edit again. 
+* The following is the log entry regarding this warning: [[Jason Todd Ipson]] was [http://en.wikipedia.org/w/index.php?title=Jason+Todd+Ipson&amp;diff=349923992&amp;oldid=348434961 changed] by [[Special:Contributions/74.213.236.5|74.213.236.5]] [[User:74.213.236.5|(u)]] [[User talk:74.213.236.5|(t)]] blanking the page on 2010-03-15T01:58:29+00:00 &lt;!-- MySQL ID: 563890 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot|ClueBot]] ([[User talk:ClueBot|talk]]) 01:58, 15 March 2010 (UTC)
+
+[[Image:Information.png|25px]] The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Jason_Todd_Ipson?diff=349924016 recent edit]&lt;/span&gt; you made to [[:Jason Todd Ipson]] constitutes [[Wikipedia:Vandalism|vandalism]], and has been reverted. Please do not continue to remove content from articles without explanation. Thank you. &lt;!-- Template:uw-huggledelete2 --&gt; –[[User:davewho2|davewho2]] ([[User talk:davewho2|talk]]) 01:58, 15 March 2010 (UTC)
+	</talkpage>
+</article>

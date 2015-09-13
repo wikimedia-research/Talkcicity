@@ -1,0 +1,5 @@
+<article id="18416395" title=Talk:Cross, Lewis>
+	<talkpage id="18416395" title="Talk:Cross, Lewis">
+{{WPSI|class=stub|importance=low}}
+	</talkpage>
+</article>

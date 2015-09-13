@@ -1,0 +1,6 @@
+<article id="40033270" title=Talk:Warren Noble>
+	<talkpage id="40033270" title="Talk:Warren Noble">
+{{DisambigProject}}
+{{WikiProject Anthroponymy|class=disambig}}
+	</talkpage>
+</article>

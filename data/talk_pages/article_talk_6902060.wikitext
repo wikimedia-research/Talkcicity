@@ -1,0 +1,53 @@
+<article id="6902060" title=User talk:Minion o' Bill>
+	<talkpage id="6902060" title="User talk:Minion o' Bill">
+Nice of you to selectivly quote the wikipedia style quide. 
+
+==See also==
+
+Put here, in a bulleted list, other articles in the Wikipedia that are related to this one. A less common practice is to name this section &quot;Related topics&quot;. '''Mostly, topics related to an article should be included within the text of the article as free links.''' The &quot;See also&quot; section provides an additional list of internal links as a navigational aid, '''and it should ideally not repeat links already present in the article.''' 
+
+p.s. I apologize for not using this page but the user page earlier. That was not correct. [[User:HAl|hAl]] 18:41, 8 September 2006 (UTC)
+
+
+These topics are some that belong in the '''See Also''' because they are not covered in the body of the article, yet nonetheless embody key concepts.  Removing them is seen as an attempt at undermining NPOV.
+
+* [[Open standard]] - freely available for implementation w/o cost or other restrictions
+* [[Open format]] - a subset of Open Standard, specific to storage of data
+* [[Vendor lock-in]] - dependence on a single vendor through products, services, formats or protcols: avoidance of lock-in is one of the main reasons OpenDocument has come to exist
+*[[OpenFormula]] - specification for exchanging formulas in spreadsheets
+
+HAl, re-read the page you are quoting.  The relevant quote is the one you pick, &quot;''it should ideally not repeat links already present in the article''.&quot;  Note the use of the word '''''should'''' and '''ideally'''.  Then look them up in the dictionary.  I recommend the OED.  The article sometimes links to the topics you keep removing, sometime not, but never does it cover them even cursorially.  Unless the reader sits down and methodically goes through each link in the article, those relevant topics will be missed.  Take ''Vendor lock-in'': After all, reaction to vendor lock-in is one of the main reasons all those vendors and institutions got together to create OpenDocument in the first place.
+
+: funny enough you should know that this was not the case at all. The ODF format is was created originally by the a technical committe in OASIS that still had OpenOffice in it's name (not really weird MS wanted nothing to do with it). Later on they removed the Open Office from the name of the technical committee and to show that the document was also ment for other products. The vendor lock-in issues were always around but only got stronger much later mainly when the EU started to look at MS Office after the issues surrounding windows. Then ODF was pushed forward as the alternative for that especially by companies like IBM and Su8n who were advising the EU on the cases against MS. That is also when the Technical committee changed it's name and the project was rushed out to come up with an ISO standard quickly. Else they would have probably been finishing the standard about now.
+:the fact that you think the internal wiki links are underrated in the story is probably cause earlier writers of the article did not consider them so important as you do. If you want to put more focus on them then change the article and don't put them in the also section. I consider my changes as well within the recommended guide for changing an article. I cleaned up the articles for both OOXML en OpenDocument from a lot of uncited and/or POV info and cleaned up old and duplicate references. I will therefore object to adding more clutter in the article as you are doing and will keep removing it.[[User:HAl|hAl]] 10:53, 11 September 2006 (UTC)
+
+:: stop wasting everyone's time with that.  The stated opinion of OpenDocument somehow being rushed does not jib with the facts.  That's been slapped down several times before by others.  Don't bring it up anymore.   Yes, one of the old StarOffice/OpenOffice XML file formats was used as the initial foundation of OpenDocument.  However, that doesn't change the fact that the primary motive for developing a universal file format for office suites remains '''interoperability'''.  [[interoperability]] is by very nature the opposite of vendor lock-in.  [[User:Minion o' Bill|Minion o&amp;#39; Bill]] 14:32, 11 September 2006 (UTC)
+
+== TEI ==
+
+What is the relation between TEI and OpenDocument ????
+I do not see any intention anywhere amongst Opendocument to use TEI formats.  
+You might want to add Ascii, unicode, PDF, RTF, and all kind of other formats used in document to the &quot;see also&quot; list ? I'll leave it in for now but it does seem to fit in with you cluttering articles with less relevant stuff.[[User:HAl|hAl]] 11:07, 11 September 2006 (UTC)
+
+
+: In a continuum of electronic publishing OpenDocument fits betweek DocBook and TEI.  [[User:Minion o' Bill|Minion o&amp;#39; Bill]] 14:20, 11 September 2006 (UTC)
+
+== VistA ==
+
+I've answered you on my talk page. Also, because you havn't got a welcome yet:
+
+
+'''Welcome!'''
+
+Hello, {{BASEPAGENAME}}, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for your contributions. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Help:Contents|Help pages]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:Article development|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you need help, check out [[Wikipedia:Questions]], ask me on my talk page, or place &lt;code&gt;&lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt;&lt;/code&gt; on your talk page and someone will show up shortly to answer your questions. Again, welcome!&amp;nbsp;
+
+[[User:Michaelas10|Michaelas10]] 14:13, 12 September 2006 (UTC)
+	</talkpage>
+</article>

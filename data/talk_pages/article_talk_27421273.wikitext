@@ -1,0 +1,6 @@
+<article id="27421273" title=User talk:2.97.36.46>
+	<talkpage id="27421273" title="User talk:2.97.36.46">
+
+{{{icon|[[Image:Information.svg|25px]] }}}Please refrain from making unconstructive edits to Wikipedia, as [http://en.wikipedia.org/w/index.php?title=Battle_of_Alcatraz&amp;diff=prev&amp;oldid=363024335 you did] to [[:Battle of Alcatraz|&quot;The Prisoner&quot;]]. Your edits constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]].  [[User:Trekphiler|&lt;font color=&quot;#1034A6&quot;&gt;&lt;small&gt;TREKphiler&lt;/small&gt;&lt;/font&gt;]] [[User talk:Trekphiler|&lt;font color=&quot;#1034A6&quot;&gt;&lt;sup&gt;&lt;small&gt;any time you're ready, Uhura&lt;/small&gt; &lt;/sup&gt;]]&lt;/font&gt; 20:35, 20 May 2010 (UTC)
+	</talkpage>
+</article>

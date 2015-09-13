@@ -1,0 +1,37 @@
+<article id="46265500" title=Talk:West Hendford Cricket Ground, Yeovil/GA1>
+	<talkpage id="46265500" title="Talk:West Hendford Cricket Ground, Yeovil/GA1">
+==GA Review==
+{{Good article tools}}
+&lt;noinclude&gt;{{al|{{#titleparts:West Hendford Cricket Ground, Yeovil/GA1|-1}}|noname=yes}}&lt;br/&gt;&lt;/noinclude&gt;&lt;includeonly&gt;:''This review is [[WP:transclusion|transcluded]] from [[Talk:West Hendford Cricket Ground, Yeovil/GA1]]. The edit link for this section can be used to add comments to the review.''&lt;/includeonly&gt;
+
+'''Reviewer:''' [[User:Relentlessly|Relentlessly]]&amp;nbsp;([[User talk:Relentlessly|talk]] '''·''' [[Special:Contributions/Relentlessly|contribs]]) 07:11, 30 March 2015 (UTC)
+
+&lt;!-- Please add all review comments below this comment, and do not alter what is above. So that the review can be kept within a single section, please do not use level 2 headers (==...==) below to break up the review. Use level 3 (===...===), level 4 and so on.--&gt;
+
+:'''[[Wikipedia:Good article nominations|GA]] review''' (see [[Wikipedia:Good article criteria|here]] for what the criteria are, and [[WP:GACN|here]] for what they are not)
+&lt;hr width=50%/&gt;This is nearly there, but there are a few things to clear up.
+#It is '''reasonably well written'''.
+#:a ''(prose, no copyvios, spelling and grammar)'': {{GAList/check|?}} b ''([[Wikipedia:Manual of Style|MoS]] for [[WP:LEAD|lead]], [[WP:LAYOUT|layout]], [[WP:WTW|word choice]], [[WP:WAF|fiction]], and [[Wikipedia:Embedded list|lists]])'': {{GAList/check|y}}
+#:: A few bits of prose read oddly, mainly in the first paragraph of &quot;History&quot;.&lt;br/&gt;&quot;Yeovil and County Cricket Club were formed&quot; – here I believe you need the singular, as you're referring to a single entity, not a collection of individuals. The same later in the same sentence.&lt;br/&gt;&quot;the club was reformed with the lesser remit&quot; – you mean &quot;re-formed&quot;, I think&lt;br/&gt;You use &quot;the club&quot; several times starting after &quot;The club played at West Hendford&quot; but you are referring to two different clubs. This is quite confusing.&lt;br/&gt;Pet peeve: &quot;from 17–19 August&quot; really ought to be &quot;from 17 to 19 August&quot;.&lt;br/&gt;Final paragraph of &quot;History&quot;: &quot;The final first-class match was played on the ground&quot; should be &quot;The final first-class match on the ground was played&quot;.
+#It is '''factually accurate''' and '''[[Wikipedia:Verifiability|verifiable]]'''.
+#:a ''([[WP:FNNR|reference section]])'': {{GAList/check|?}} b ''(citations to [[WP:RS|reliable sources]])'': {{GAList/check|y}} c ''([[Wikipedia:No original research|OR]])'': {{GAList/check|y}}
+#:: Reference 26 is broken
+#It is '''broad in its coverage'''.
+#:a ''([[WP:Out of scope|major aspects]])'': {{GAList/check|y}} b ''([[WP:LENGTH|focused]])'': {{GAList/check|y}}
+#:: 
+#It follows the '''[[WP:NPOV|neutral point of view]] policy'''.
+#:''Fair representation without bias'': {{GAList/check|y}}
+#:: 
+#It is '''stable'''.
+#:''No edit wars, etc.'': {{GAList/check|y}}
+#:: 
+#It is illustrated by '''[[Wikipedia:Images|images]]''' and other media, where possible and appropriate.
+#:a ''(images are tagged and non-free content have [[WP:FUR|fair use rationales]])'': {{GAList/check|y}} b ''([[WP:IMAGE RELEVANCE|appropriate use]] with [[WP:CAP|suitable captions]])'': {{GAList/check|y}}
+#:: You're understandably a little uncertain about the non-free use rationale, but I think it's valid.
+#'''Overall''': 
+#:''Pass/Fail'': {{GAList/check|y}}
+#:: &lt;s&gt;On hold for '''7 days''' to address the above issues. [[User:Relentlessly|Relentlessly]] ([[User talk:Relentlessly|talk]]) 07:11, 30 March 2015 (UTC)&lt;/s&gt;&lt;!-- Template:GAList --&gt;
+#:::Thanks for the review {{u|Relentlessly}}. I've had a run through the article, and I think your comments have all been addressed. [[User:Harrias|&lt;b style=&quot;color:#00cc33&quot;&gt;Harrias&lt;/b&gt;]] &lt;sup&gt;[[User_talk:Harrias|&lt;span style=&quot;color:#009900&quot;&gt;talk&lt;/span&gt;]]&lt;/sup&gt; 11:20, 30 March 2015 (UTC)
+#::::Modifications look good. '''Pass'''. [[User:Relentlessly|Relentlessly]] ([[User talk:Relentlessly|talk]]) 13:16, 30 March 2015 (UTC)
+	</talkpage>
+</article>

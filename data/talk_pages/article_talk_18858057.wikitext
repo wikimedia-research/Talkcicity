@@ -1,0 +1,5 @@
+<article id="18858057" title=Talk:Jabłonka-Świerczewo>
+	<talkpage id="18858057" title="Talk:Jabłonka-Świerczewo">
+{{WikiProject Poland|class=stub|importance=low}}
+	</talkpage>
+</article>

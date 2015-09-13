@@ -1,0 +1,6 @@
+<article id="9826614" title=Talk:N-211 road (Spain)>
+	<talkpage id="9826614" title="Talk:N-211 road (Spain)">
+{{HighwayProject|europe=yes|class=Stub}}
+{{WikiProject Spain}}
+	</talkpage>
+</article>

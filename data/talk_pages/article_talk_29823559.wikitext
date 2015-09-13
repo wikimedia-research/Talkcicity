@@ -1,0 +1,18 @@
+<article id="29823559" title=User talk:86.156.195.204>
+	<talkpage id="29823559" title="User talk:86.156.195.204">
+
+
+== November 2010 ==
+[[Image:Information.svg|left|25px|alt=|link=]] Welcome to Wikipedia. Everyone is welcome to make constructive contributions to Wikipedia, but at least one of your recent edits, such as the one you made to [[:Korn]], did not appear to be constructive and has been '''automatically [[Help:Reverting|reverted]]''' (undone) by [[User:ClueBot NG|ClueBot NG]]. 
+* Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. Note that human editors do monitor recent changes to Wikipedia articles, and [[WP:ADMINS|administrators]] have the ability to [[WP:BLOCK|block]] users from editing if they repeatedly engage in [[WP:vandalism|vandalism]].
+* ClueBot NG produces very few [[User:ClueBot NG#Information About False Positives|false positives]], but it does happen. If you believe the change you made should not have been detected as unconstructive, please [[User:ClueBot NG#Information About False Positives|read about it]], [[User:ClueBot NG/B|report it here]], remove this warning from your talk page, and then make the edit again. 
+* The following is the log entry regarding this warning: [[Korn]] was [http://en.wikipedia.org/w/index.php?title=Korn&amp;diff=399789136&amp;oldid=399761986 changed] by [[Special:Contributions/86.156.195.204|86.156.195.204]] [[User:86.156.195.204|(u)]] [[User talk:86.156.195.204|(t)]] ANN scored at 0.872031 on 2010-11-30T20:37:23+00:00 &lt;!-- MySQL ID: 78697 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]) 20:37, 30 November 2010 (UTC)
+
+[[Image:Information.png|25px|alt=|link=]] The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Korn?diff=399789937 recent edit]&lt;/span&gt; you made to [[:Korn]] constitutes [[Wikipedia:Vandalism|vandalism]], and has been reverted. Please do not continue to vandalize pages; use the [[Wikipedia:Sandbox|sandbox]] for testing. Thank you. &lt;!-- Template:uw-huggle2 --&gt; [[User:Pol430|Pol430]] ([[User talk:Pol430|talk]]) 20:42, 30 November 2010 (UTC)
+
+[[Image:Nuvola apps important.svg|25px|alt=|link=]] Please do not vandalize pages, as you did with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Korn?diff=399790327 this edit]&lt;/span&gt; to [[:Korn]]. If you continue to do so, you will be blocked from editing. &lt;!-- Template:uw-huggle3 --&gt; [[User:Pol430|Pol430]] ([[User talk:Pol430|talk]]) 20:44, 30 November 2010 (UTC)
+
+== December 2010 ==
+[[Image:Stop hand nuvola.svg|30px|alt=|link=]] This is your '''last warning'''; the next time you [[Wikipedia:Vandalism|vandalize]] Wikipedia, as you did at [[:Korn]], you may be '''[[Wikipedia:Blocking policy|blocked]] from editing without further notice'''. The reverted edit can be found &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/w/index.php?diff=399980866 here]&lt;/span&gt;. Thank you.&lt;!-- Template:uw-vandalism4 --&gt;&lt;!-- igloo:vandalism4 --&gt; —[[User:Half price|&lt;font color=&quot;goldenrod&quot;&gt;'''Half'''&lt;/font&gt;]] [[User talk:Half price|&lt;font color=&quot;saddlebrown&quot;&gt;'''Price'''&lt;/font&gt;]] 20:02, 1 December 2010 (UTC)
+	</talkpage>
+</article>

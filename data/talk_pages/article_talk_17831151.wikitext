@@ -1,0 +1,5 @@
+<article id="17831151" title=Talk:Nemti>
+	<talkpage id="17831151" title="Talk:Nemti">
+{{WikiProject Hungary|class=stub|importance=low}}
+	</talkpage>
+</article>

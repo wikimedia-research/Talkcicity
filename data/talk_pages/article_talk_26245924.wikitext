@@ -1,0 +1,11 @@
+<article id="26245924" title=Talk:Mattt Konture>
+	<talkpage id="26245924" title="Talk:Mattt Konture">
+{{WikiProject Biography
+|living=yes
+|class=Start
+|a&amp;e-work-group=yes
+|listas=Konture, Mattt
+}}
+{{Comicsproj|class=start|importance=low|image=yes}}
+	</talkpage>
+</article>

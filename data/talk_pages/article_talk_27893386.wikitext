@@ -1,0 +1,6 @@
+<article id="27893386" title=Talk:Hai Phong Medical University>
+	<talkpage id="27893386" title="Talk:Hai Phong Medical University">
+{{WikiProject Vietnam|class=|importance=}}
+{{WikiProject Universities|class=Stub}}
+	</talkpage>
+</article>

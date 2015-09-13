@@ -1,0 +1,9 @@
+<article id="36485465" title=Talk:Shareh>
+	<talkpage id="36485465" title="Talk:Shareh">
+{{WikiProjectBannerShell|1=
+{{WikiProject Geography|class=dab}}
+{{WikiProject Iran|class=dab}}
+{{WikiProject Disambiguation}}
+}}
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="34943696" title=User talk:Fray love>
+	<talkpage id="34943696" title="User talk:Fray love">
+== March 2012 ==
+[[Image:Information.svg|25px|alt=|link=]] Welcome to Wikipedia. A page you recently created may not conform to some of Wikipedia's [[Wikipedia:List of policies|guidelines]] for new pages, so it will be [[Wikipedia:Deletion policy|removed]] shortly (if it hasn't been already). Please use the [[Wikipedia:Sandbox|sandbox]] for any tests, and consider using the [[Wikipedia:Article wizard|Article Wizard]]. For more information about creating articles, you may want to read [[Wikipedia:Your first article|Your first article]]. You may also want to read our [[Wikipedia:Introduction|introduction page]] to learn more about contributing. Thank you.{{Z43}}&lt;!-- Template:uw-create1 --&gt; &lt;font face=&quot;Comic sans MS&quot;&gt;[[User:Paul Erik|Paul Erik]]&lt;/font&gt; &lt;small&gt;&lt;sup&gt;&lt;font color=&quot;Blue&quot;&gt;[[User_talk:Paul Erik|(talk)]]&lt;/font&gt;&lt;font color=&quot;Green&quot;&gt;[[Special:Contributions/Paul Erik|(contribs)]]&lt;/font&gt;&lt;/sup&gt;&lt;/small&gt; 08:55, 2 March 2012 (UTC)
+	</talkpage>
+</article>

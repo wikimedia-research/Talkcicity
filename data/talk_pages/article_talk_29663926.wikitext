@@ -1,0 +1,16 @@
+<article id="29663926" title=User talk:Nikeboy23>
+	<talkpage id="29663926" title="User talk:Nikeboy23">
+
+== Welcome ==
+'''Welcome!'''
+
+Hello, Nikeboy23, and [[Wikipedia:Introduction|welcome]] to Wikipedia! Thank you for [[Special:Contributions/Nikeboy23|your contributions]], especially what you did for [[:Littlerock High School]]. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:How to edit a page|How to edit a page]] and [[Wikipedia:Article development|How to develop articles]]
+*[[Wikipedia:Your first article|How to create your first article]] (using the [[Wikipedia:Article wizard|Article Wizard]] if you wish)
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign]] your messages on [[Help:Using talk pages|discussion page]]s using four [[tilde]]s (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically insert your username and the date. If you need help, check out [[Wikipedia:Questions]], ask me on [[user talk:Gosox5555|my talk page]], or ask your question on this page and then place &lt;code&gt;&lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt;&lt;/code&gt; before the question. Again, welcome! &lt;!-- Template:Welcome --&gt; 
+&lt;sup&gt;~&lt;/sup&gt;[[User:Gosox5555|&lt;font color=&quot;#0A00C4&quot;&gt;Gosox&lt;/font&gt;]]&lt;sup&gt;([[User_talk:Gosox5555|&lt;font color=&quot;red&quot;&gt;55&lt;/font&gt;]])&lt;/sup&gt;&lt;sub&gt;([[Special:Contributions/Gosox5555|&lt;font color=&quot;gray&quot;&gt;55&lt;/font&gt;]])&lt;/sub&gt; 20:12, 19 November 2010 (UTC)
+	</talkpage>
+</article>

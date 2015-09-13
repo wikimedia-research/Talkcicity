@@ -1,0 +1,7 @@
+<article id="44148055" title=User talk:Kingdozza22>
+	<talkpage id="44148055" title="User talk:Kingdozza22">
+== October 2014 ==
+
+[[Image:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Lightsout|Lightsout]]. I noticed that you made a change to an article, [[:Dean Ray]], but you didn't provide a [[Wikipedia:Identifying reliable sources|reliable source]]. It's been removed and archived in the page history for now, but if you'd like to [[Wikipedia:Citing sources|include a citation]] and re-add it, please do so! If you need guidance on referencing, please see the [[Help:Referencing for beginners|referencing for beginners]] tutorial, or if you think I made a mistake, you can leave me a message on [[User_talk:Lightsout|my talk page]]. Thank you. &lt;!-- Template:uw-unsourced1 --&gt; —[[User:Lightsout|Lightsout]] ([[User talk:Lightsout|talk]]) 21:08, 18 October 2014 (UTC)
+	</talkpage>
+</article>

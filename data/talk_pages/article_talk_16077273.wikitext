@@ -1,0 +1,8 @@
+<article id="16077273" title=User talk:86.133.158.235>
+	<talkpage id="16077273" title="User talk:86.133.158.235">
+
+== March 2008 ==
+
+[[Image:Information.png|25px|left]] Hi, the &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Desmond_Tutu?diff=195647488 recent edit]&lt;/span&gt; you made to [[:Desmond Tutu]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thanks. &lt;!-- Template:uw-huggle1 --&gt; —[[User:DerHexer|DerHexer]]&amp;nbsp;&lt;small&gt;[[User talk:DerHexer|(Talk)]]&lt;/small&gt; 21:41, 3 March 2008 (UTC)
+	</talkpage>
+</article>

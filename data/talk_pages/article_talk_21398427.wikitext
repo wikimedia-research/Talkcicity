@@ -1,0 +1,5 @@
+<article id="21398427" title=Talk:Eurus Wind Farm>
+	<talkpage id="21398427" title="Talk:Eurus Wind Farm">
+{{WikiProject Energy|class=start|importance=low}}
+	</talkpage>
+</article>

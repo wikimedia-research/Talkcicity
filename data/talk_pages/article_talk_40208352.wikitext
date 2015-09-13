@@ -1,0 +1,5 @@
+<article id="40208352" title=Talk:Taimuraz Karatsev>
+	<talkpage id="40208352" title="Talk:Taimuraz Karatsev">
+{{WikiProject Biography|living=yes|class=stub|auto=yes}}
+	</talkpage>
+</article>

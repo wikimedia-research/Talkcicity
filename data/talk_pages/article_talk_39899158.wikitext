@@ -1,0 +1,5 @@
+<article id="39899158" title=Talk:Răutu>
+	<talkpage id="39899158" title="Talk:Răutu">
+{{WikiProject Anthroponymy|class=redirect}}
+	</talkpage>
+</article>

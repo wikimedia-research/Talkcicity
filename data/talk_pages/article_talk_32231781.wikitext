@@ -1,0 +1,12 @@
+<article id="32231781" title=User talk:24.142.8.43>
+	<talkpage id="32231781" title="User talk:24.142.8.43">
+
+== June 2011 ==
+
+[[Image:Information.png|25px|alt=|link=]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of [[Special:Contributions/24.142.8.43|your recent edits]], such as &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Health_Canada?diff=436532016 the edit]&lt;/span&gt; you made to [[:Health Canada]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt;&lt;!-- Template:uw-cluebotwarning1 --&gt; [[User:W4chris|W4chris]] ([[User talk:W4chris|talk]]) 17:27, 27 June 2011 (UTC)
+
+[[Image:Information.png|25px|alt=|link=]] The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Health_Canada?diff=436537692 recent edit]&lt;/span&gt; you made to [[:Health Canada]] constitutes [[Wikipedia:Vandalism|vandalism]], and has been reverted. Please do not continue to vandalize pages; use the [[Wikipedia:Sandbox|sandbox]] for testing. Thank you. &lt;!-- Template:uw-huggle2 --&gt; [[User:Bentogoa|Bentogoa]] ([[User talk:Bentogoa|talk]]) 18:02, 27 June 2011 (UTC)
+
+[[Image:Nuvola apps important.svg|left|25px|alt=|link=]] Please stop your disruptive editing. If you continue to [[Wikipedia:Vandalism|vandalize]] Wikipedia, as you did at [[:Health Canada]], you will be [[Wikipedia:Blocking policy|blocked from editing]].&lt;br&gt;Your edits have been '''automatically''' marked as [[Wikipedia:Vandalism|vandalism]] and have been '''automatically''' [[Help:Reverting|reverted]]. The following is the log entry regarding this vandalism: [[Health Canada]] was [http://en.wikipedia.org/w/index.php?title=Health+Canada&amp;diff=436538155&amp;oldid=436537748 changed] by [[Special:Contributions/24.142.8.43|24.142.8.43]] [[User:24.142.8.43|(u)]] [[User talk:24.142.8.43|(t)]] ANN scored at 0.965347 on 2011-06-27T18:04:47+00:00 &lt;!-- MySQL ID: 483743 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning3 --&gt;&lt;!-- Template:uw-vandalism3 --&gt; [[User:ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]) 18:04, 27 June 2011 (UTC)
+	</talkpage>
+</article>

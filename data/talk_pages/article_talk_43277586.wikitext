@@ -1,0 +1,12 @@
+<article id="43277586" title=User talk:108.64.37.54>
+	<talkpage id="43277586" title="User talk:108.64.37.54">
+
+== July 2014 ==
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Akifumii|Akifumii]]. I wanted to let you know that I undid one or more of [[Special:Contributions/108.64.37.54|your recent contributions]]&amp;nbsp;to [[:Boston Celtics]] because it did not appear constructive. If you would like to experiment, please use the [[WP:sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Akifumii|my talk page]]. &lt;!-- Template:uw-vandalism1 --&gt;  [[User:Akifumii|&lt;span style=&quot;color:#CC0000&quot;&gt;'''A'''&lt;/span&gt;]][[User_talk:Akifumii|&lt;sup&gt;&lt;span style=&quot;color:#736F6E&quot;&gt;''2''&lt;/span&gt;&lt;/sup&gt;]]  20:12, 11 July 2014 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+
+== December 2014 ==
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Bagumba|Bagumba]]. I noticed that you made an edit concerning content related to a living (or recently deceased) person{{spaces|1}}on [[:Darren Collison]], but you didn’t support your changes with a [[WP:IC|citation to a reliable source]], so I removed it. Wikipedia has a strict policy concerning [[Wikipedia:Biographies of living persons|how we write about living people]], so please help us keep such articles accurate. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Bagumba|my talk page]]. Thank you. &lt;!-- Template:uw-biog1 --&gt; —[[User:Bagumba|Bagumba]] ([[User talk:Bagumba|talk]]) 02:40, 22 December 2014 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

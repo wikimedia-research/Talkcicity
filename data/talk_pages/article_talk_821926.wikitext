@@ -1,0 +1,436 @@
+<article id="821926" title=Talk:Kingdom of Judah>
+	<talkpage id="6687635" title="Talk:Kingdom of Judah/archive1">
+{{talkarchive}}
+
+==2004 talk==
+Just to let everyone know - I know the list of Kings is not completely tabulated yet - I thought I would wait to see how the dispute over the [[Kingdom of Israel]] list panned out before I continued with it.
+
+--[[User:JohnArmagh|JohnArmagh]] 10:02, 14 Jul 2004 (UTC)
+
+I would find it very helpful is someone could go through this and identify which prophet each king was a contemporary of and wether or not the bible portrays the king as good or bad.
+
+141 BCE–63 BCE: The Hasmonean State in &quot;Palestine&quot; established by the Maccabees
+
+The area was not known as Palestine at this time.
+The area only became known as Palestine after the Roman destruction which was well after the Maccabee revolt.
+
+:I do not believe this is the case.  Our own article [[Palestine (region)]] says: ''The term &quot;Syria Palaestina&quot; is first recorded by the 5th century B.C. Greek historian Herodotus, who wrote of the &quot;district of Syria called Palaistinêi&quot;, and later Ptolemy and Pliny (who alludes to a region of Syria that was &quot;formerly called Palaestina&quot;), to refer to the eastern coast of the Mediterranean; it is generally accepted that the region they referred to extended further inland than the domain of the Philistines.''  At any rate, if we do not use Palestine, I am uncertain what the proper term would be.  Judæa seems clearly inappropriate to refer to the whole region, since the Hasmonaean state consisted of not only Judæa, but also Samaria, Galilee, Idumæa, and so forth.  Palestine seems like the best general term to mean &quot;the southern part of the Levant&quot; once we get past the period when we can use &quot;Canaan.&quot; [[User:John Kenney|john]] [[User_talk:John Kenney|k]] 02:21, 27 July 2005 (UTC)
+
+== Synchronisms with other kingdoms? ==
+
+Is it possible to make a better chronology by looking for synchronisms with other kingdoms?  For example, Kings dates the raid of Shoshenq I (&quot;Shishak&quot;) to the reign of Rehoboam, and Shoshenq died in 924 BC.  Yet we still have a kinglist that dates Rehoboam's first year to 922 BC.  Why?
+
+== BCE/CE again ==
+
+Until 20:47, 29 September 2005 this article used both styles. [[User:Humus sapiens]] made it consistent to use BCE/CE [http://en.wikipedia.org/w/index.php?title=Kingdom_of_Judah&amp;diff=24447441&amp;oldid=24365212]. [[User:Jguk]] then changed date styles (in the now consistent article) [http://en.wikipedia.org/w/index.php?title=Kingdom_of_Judah&amp;diff=next&amp;oldid=24447441], followed by various other reverts. As a compromise I suggest undoing [[User:Jguk]]'s other date style change to this article [http://en.wikipedia.org/w/index.php?title=Kingdom_of_Judah&amp;diff=11796470&amp;oldid=11055013], and going back to the inconsistent state. Anyone (other than [[User:Jguk]]) object? [[User:Sortan|Sortan]] 15:56, 1 October 2005 (UTC)
+
+I think the best way to deal with the issue is just too let sleeping dogs lie and leave it as it was. So no, I don't object. [[User:John Kenney|john]] [[User_talk:John Kenney|k]] 17:11, 1 October 2005 (UTC)
+
+:Sortan's main contributions to Wikipedia appear to be aggressively edit-warring to add BCE notation to a small number of articles. I'd be grateful if someone else would look at his contributions and remind him that WP is an encyclopaedia, not somewhere to make what are effectively trolling edits, [[User:Jguk|jguk]] 17:28, 1 October 2005 (UTC)
+
+::Jguk's main contribution to Wikipedia seem to be aggressively edit-warring to change BCE/CE to BC/AD, changing American English to British English, and various other style disputes. I'd be grateful if someone would look at his contributions over the past year and remind him of what constitutes consensus, and that WP is not his personal fiefdom. [[User:Sortan|Sortan]] 20:13, 1 October 2005 (UTC)
+
+::: Please, let's not get into ad hom attacks. The articles [[Kingdom of Judah]] &amp; [[Kingdom of Israel]] are integral parts of Jewish history, and this is a good enough reason to use denominationally neutral and encyclopedic BCE/CE instead of chauvinist ''Before Christ/Anno Domini'' notation. Besides, I don't see why the changes clandestinely made by some anon crusader [http://en.wikipedia.org/w/index.php?title=Kingdom_of_Israel&amp;diff=18621718&amp;oldid=18540788] should stick. I promise not to change notation in [[Jesus]] and [[Paul of Tarsus]] but having a neutral option, what is the reason to use potentially offensive notation here? [[User:Humus sapiens|&lt;nowiki&gt;&lt;/nowiki&gt;]]&amp;larr;[[User:Humus sapiens|Humus sapiens]][[User talk:Humus_sapiens|&amp;larr;ну?]] 02:32, 2 October 2005 (UTC)
+::::There has never been any consensus on wikipedia that &quot;BC/AD&quot; is &quot;chauvinist&quot;.  As I've noted previously, BCE/CE is not any more &quot;denominationally neutral&quot; than BC/AD - it is just a euphemism and represents the same Christ-centric calendar.  Furthermore, the basic fact is, that while BC/AD might have a literally religious meaning, in practice, it is an example of something analogous to [[ceremonial deism]] - it is acceptable because, through repeated usage, the theoretical religious meaning is essentially gone.  [[User:John Kenney|john]] [[User_talk:John Kenney|k]] 04:28, 2 October 2005 (UTC)
+::::It may be added that if you are going to play the &quot;Jewish subjects shouldn't use Christian dates&quot; card, the history of the divided kingdoms is also a subject of some interest to Christian history, and that the vast majority of those who have read about this period of history in the Books of Kings, and who have studied its archaeological basis, have been Christians.  I don't think this is particularly relevant in either instance, but it seems to me that in issues like that it is essentially a deadlock. [[User:John Kenney|john]] [[User_talk:John Kenney|k]] 04:31, 2 October 2005 (UTC)
+
+::::: First, let's not mix up calendar systems and notations. If someone advocated using exclusively Jewish calendar in article [[Jesus]], some complaints would be understandable. The issue here is, BC/AD stomps religious feelings of a minority in an article describing their history, while the BCE/CE notation is denominationally neutral and is increasingly commonly acceptable [http://www.religioustolerance.org/ce.htm]. The BCE/CE notation is already being used in many articles; since WP does not have a standard notation, if &amp; when we get to voting for it, I am sure we will have our chance to express our POV. As for Christians reading about Jewish history, that would be exactly the place to promote religious tolerance, don't you think? [[User:Humus sapiens|&lt;nowiki&gt;&lt;/nowiki&gt;]]&amp;larr;[[User:Humus sapiens|Humus sapiens]][[User talk:Humus_sapiens|&amp;larr;ну?]] 05:54, 2 October 2005 (UTC)
+:::::: Per the MoS [http://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style_%28dates_and_numbers%29#Eras] either notation is fine:  &quot;Both the BCE/CE era names and the BC/AD era names are acceptable, but be consistent within an article.&quot; I'd like to politely suggest that you all have valuable contributions to make to Wikipedia, and prolonging this dispute is not one of them. [[User:Keithlard|Keithlard]] 07:35, 2 October 2005 (UTC)
+:::::I most certainly wasn't suggesting anything about the Jewish calendar.  BC/AD and BCE/CE are the same calendar, and that calendar is a calendar based on a date derived for the birth of Jesus.  As to whether BC/AD is somehow &quot;stomping on the religious feelings of a minority&quot; (which seems completely absurd to me as an agnostic Jew), or that using it has anything to do with religious tolerance, I'm just going to point again towards the idea of [[ceremonial deism]] - that is, all religious meaning of BC/AD has crept out due to common usage.  Personally, I find the idea of BCE/CE to be much more obnoxious than BC/AD.  BC/AD acknowledges that what we are discussing is a calendar based on a date derived for the birth of Jesus.  BCE/CE uses that same date, but pretends it's the beginning of something called the &quot;common era&quot; - as though some date derived for the birth of Jesus is an ecumenical date.  At least BC/AD doesn't pretend to be ecumenical. [[User:John Kenney|john]] [[User_talk:John Kenney|k]] 16:56, 2 October 2005 (UTC)
+
+Let's examine humus sapiens strawman argument. BC/AD notation quite simply does not carry with it any religious connotations anymore. Whether they ever did, I do not know, but let's not go down all that [[false etymology]] route. Nowadays it is just a way of denoting dates, nothing more. It is also the only notation generally understood by the general public worldwide - and since we should aim to make the article accessible to as many people as possible, that is the form we should use - simple as that. 
+
+The religious tolerance argument humus sapiens makes is also a strawman argument. As noted above, their is no longer any religious meaning in BC/AD notation (note that where relevant the Church expands AD to Anno Domini or In the Year of Our Lord, it does not rely on the abbreviations to denote this). In a secular society such as the one I live in, history has given us many terms, dresses, customs, foods, etc. from many different religions. I can't think of anything less tolerant than to pick any one out against a particular religion and seek to eliminate it.
+
+On articles solely about Jewish history (and I agree with John Kenney here that this article is not solely about Jewish history), it may be useful to some readers to give dates in the Jewish calendar. In which case - let's give the dates in the Jewish calendar, but in brackets after we have given dates in the Gregorian/Julian calendar (as appropriate).
+
+Finally, we have already voted on it - it was a very divisive vote (and my assessment is that there is little desire to repeat the exercise). The proposal to move to BCE/CE notation wikipedia-wide failed to even garner a majority, let alone the 80%+ consensus that would be needed to change policy. We are left with saying that as this page has predominantly used BC notation, that is where it should remain, with the opposite conclusion being reached on some other articles. Not ideal, but the only real compromise that at present has any chance of working, [[User:Jguk|jguk]] 07:37, 2 October 2005 (UTC)
+
+::Jguk - deriving BC/AD from &quot;Before Christ&quot; and &quot;''Anno Domini''&quot; is not a false etymology.  It is a correct etymology.  It is just an irrelevant one.  The question is &quot;do most people when they use BC/AD intend to imply that Jesus is the Christ and the Lord?&quot;  The answer is &quot;obviously not&quot; - people use BC/AD because that is the most common way to mark that we are using the calendar based on Dionysius Exiguus's miscalculation of the birth of Jesus.  But it doesn't actually imply anything about Jesus - it is basically irrelevant what the calendar's origins are. Finding &quot;BC&quot; offensive is particularly silly, because plenty of non-Christians refer to &quot;Jesus Christ&quot; without thinking about the fact that &quot;Christ&quot; means messiah - it takes two levels of etymology to get us back to BC being potentially offensive. [[User:John Kenney|john]] [[User_talk:John Kenney|k]] 17:06, 2 October 2005 (UTC)
+
+:Jguk, this isn't about whether to move to BCE notation Wikipedia-wide, but in articles where BC/AD is inappropriate, and it seems to me that this is clearly one of them. BCE is widely used by academics, and I'm surprised for that reason to see John objecting to it. I also want to point out [http://www.guardian.co.uk/conservation/story/0,13369,1566899,00.html this ''Guardian'' article] to you, as you've often argued that BCE is an American or Jewish thing, but this is a Roman Catholic writer, former nun, and theologian writing in a British newspaper. [[User:SlimVirgin|SlimVirgin]] &lt;sup&gt;&lt;font color=&quot;Purple&quot;&gt;[[User_talk:SlimVirgin|(talk)]]&lt;/font&gt;&lt;/sup&gt; 08:28, 2 October 2005 (UTC)
+::Given that this change has been made and reverted several times in the last 24 hours, can I suggest that simply reverting it again is not going to help (even if you justify it on talk). This is a pretty [[WP:LAME|lame]] edit war. Constantly changing date formats is not improving the factual content of the article, and in the absence of anyone willing to say that they are actually offended by either format, I would just leave this one to blow itself out. If it continues it may be a case for requesting protection and putting this to a talk page vote for this specific page. [[User:Keithlard|Keithlard]] 09:05, 2 October 2005 (UTC)
+
+::Slim, we cannot decide what is appropriate without considering who we are writing for. It is what is best for our audience (ie what they are most likely to prefer) which is the important thing - and it's here that the argument that some academics use BCE becomes irrelevant: we are not writing for academics, we are writing for the worldwide general public, and I strongly believe that WP should make itself as accessible as possible to this audience.
+
+::This is a very small subset of that. But let's examine the situation. We have one notation that is understood by the worldwide general public, one that has a much smaller range. We have one notation that even on google searches, which in this subject area can be expected to be biased towards American and academic usage, show a 9:1 preference for BC notation. We also have countervailing arguments as to whether offence can be caused by the choice of usage - with outside evidence pointing to many more people taking offence at changing BC notation to BCE notation than in the other direction.
+
+::This is why I conclude that, in this instance, given this audience, we should use BC notation. And whilst it is a shame that WP policy does not require that BC notation is used throughout (very much to its detriment) at least here, where there has been a long history of this article using BC notation it does demand its retention.
+
+::No doubt there are other changes to this article which would also improve its accessibility, and I'll have a look to see what I can do there too, [[User:Jguk|jguk]] 09:45, 2 October 2005 (UTC)
+
+:::Jguk, you've elsewhere argued against the first-editor argument, so how this article began is irrelevant, and there is no policy stating it should be either BC or BCE. I agree with your accessibility argument, but that's why I provided the ''Guardian'' article. This wasn't written for academics, or Americans, or Jews, or by an academic, American or Jew. If the ''Guardian'' house style is BCE, doesn't that indicate that they regard it as equally accessible? [[User:SlimVirgin|SlimVirgin]] &lt;sup&gt;&lt;font color=&quot;Purple&quot;&gt;[[User_talk:SlimVirgin|(talk)]]&lt;/font&gt;&lt;/sup&gt; 09:53, 2 October 2005 (UTC)
+
+:I do think that the first-editor argument is silly - but that's what the current WP approach is and is what we're stuck with.
+
+::Where does it say that this is what the current WP approach is. The last time I edited the MoS, it said to go with the first editor if and only if there was nothing about the article that suggested one style over another. But the contents of this article clearly do suggest that BC would be inappropriate. [[User:SlimVirgin|SlimVirgin]] &lt;sup&gt;&lt;font color=&quot;Purple&quot;&gt;[[User_talk:SlimVirgin|(talk)]]&lt;/font&gt;&lt;/sup&gt; 10:08, 2 October 2005 (UTC)
+
+I would like it to change so that it requires BC/AD notation as that will make our articles as accessible to as many people as possible. (There's also a lot of other work that needs to be done to make our articles more accessible, but this would be a small start.) However, in the current prevailing climate I can't see such a proposal succeeding.
+
+:The Guardian house style is to use BC/AD notation as their style manual suggests. However, it is clear that in its comments section where academics or what have you write a column, the Guardian tends not to change their text. I imagine that article you cited would not have been read by the vast majority of the Guardian's readers, [[User:Jguk|jguk]] 10:03, 2 October 2005 (UTC)
+
+::Why would you say that the vast majority of Guardian readers wouldn't read Karen Armstrong? She's very popular. [[User:SlimVirgin|SlimVirgin]] &lt;sup&gt;&lt;font color=&quot;Purple&quot;&gt;[[User_talk:SlimVirgin|(talk)]]&lt;/font&gt;&lt;/sup&gt; 10:08, 2 October 2005 (UTC)
+
+:::I said they wouldn't read that article. I'm sure no article in the comment section is read by the majority of the Guardian's readers, [[User:Jguk|jguk]] 10:26, 2 October 2005 (UTC)
+
+:: Let's keep track: first, you tried personal attack against [[User:Sortan]]. Then, attempted to accuse me in using strawman argument. Now you are saying that academic community doesn't matter (for a serious encyclopeda!). So far I haven't seen any good reason to use the Christian-centric notation in Jewish history related articles and consider this insistence an instance of religious intolerance. Please elaborate who and why is offended by using BCE/CE here. [[User:Humus sapiens|&lt;nowiki&gt;&lt;/nowiki&gt;]]&amp;larr;[[User:Humus sapiens|Humus sapiens]][[User talk:Humus_sapiens|&amp;larr;ну?]] 10:05, 2 October 2005 (UTC)
+
+Have you seen [http://en.wikipedia.org/wiki/Special:Contributions/Sortan Sortan's user contributions] (including his constant personal attacks on me in his edit summaries)? Also bear in mind that you can't immediately see that he has been wikistalking me from this, but that's what he has been doing. That explains why I do not think Sortan's continued presence on WP is worth keeping.
+
+You are mistaken in saying that BC/AD notation is Christian-centric. It is used by all people of all creeds, and by atheists too! Any religious meaning in the notation has long since disappeared. Have a look at the article on [[false etymology]] and you'll see what I mean. It's no more Christian-centric than Wednesday being Norse-religion-centric or June being Roman-religion-centric.
+
+The offence is caused by three things. First, the singling out of something because its etymology is related to Christianity. Why do that? What is especially repugnant about Christianity that something, even obliquely, related to it should be eliminated? Second is a related point: in a secular society, which most of the English-speaking world is, we see symbols, signs, words, terminology, etc. of a plethora of religions. We should accept them all. In my city I walk past churches, mosques and synagogues, I see people in Jewish hasidic, Islamic, African dress. I hear many accents and see people of many cultures. The surest way to cause unrest is to suggest that we should restrict this in any way.
+
+Third reason is that there is no reason to change away from something that everyone already understands. It's the same argument as you'll see against other arguments for &quot;political correctness&quot;. I'm sure I needn't elaborate on the extensive and widespread offence political correctness has caused.
+
+A good example of where offence has been caused is in New South Wales, where changing one instance of BC to BCE in one exam paper caused questions to be asked in both chambers of parliament and forced an apology from the Education Minister, [[User:Jguk|jguk]] 10:24, 2 October 2005 (UTC)
+
+::If you were correct about BC/AD notation not being Christian-centric, the denominationally-neutral alternative would not gain popularity and we would not have this talk. 
+:::This most certainly does not follow. [[User:John Kenney|john]] [[User_talk:John Kenney|k]] 01:55, 3 October 2005 (UTC)
+:::: Care to elaborate? [[User:Humus sapiens|&lt;nowiki&gt;&lt;/nowiki&gt;]]&amp;larr;[[User:Humus sapiens|Humus sapiens]][[User talk:Humus_sapiens|&amp;larr;ну?]] 09:21, 3 October 2005 (UTC)
+
+::Not only you try to use offensive notation and insist that it is not offensive somehow. In addition you attempt to present it as a lesson of tolerance! 
+::''&quot;What is especially repugnant about Christianity that something, even obliquely, related to it should be eliminated?&quot;'' - this is a classic strawman arg. Who says it &quot;should be eliminated&quot;? Take a look at the title of this article. I do not advocate changing random unrelated articles. Stop waging silly holy wars in articles directly related to Jewish history. This is a sensitive matter and I challenge you to demonstrate sensitivity and tolerance. [[User:Humus sapiens|&lt;nowiki&gt;&lt;/nowiki&gt;]]&amp;larr;[[User:Humus sapiens|Humus sapiens]][[User talk:Humus_sapiens|&amp;larr;ну?]] 23:28, 2 October 2005 (UTC)
+
+=== Stalking ===
+:Jguk followed up on my contribution here by following me to [[Wikipedia:Verifiability]], a page he has never edited before, and making several changes, including changing spokespersons to spokesmen, a word he insists is still also used for women. This is really unpleasant behavior, Jguk, and hardly endears anyone to your cause. [[User:SlimVirgin|SlimVirgin]] &lt;sup&gt;&lt;font color=&quot;Purple&quot;&gt;[[User_talk:SlimVirgin|(talk)]]&lt;/font&gt;&lt;/sup&gt; 12:29, 2 October 2005 (UTC)
+
+::I made a number of edits to that page, which I came to as I saw it had a long discussion ongoing on it. There was an instance of &quot;spokesman&quot; clearly referring to a woman closely followed by the word &quot;spokespersons&quot;, it made sense to bring them into line. I made a number of other more significant positive changes to that page - all of which are surely better to discuss on that talk page rather than this. Or are you trying to campaign against me more generally? Presumably you were unconcerned for some time that a female spokesman was referred to as a spokesman, but somehow you are concerned when I make things consistent, [[User:Jguk|jguk]] 12:33, 2 October 2005 (UTC)
+
+
+:::LOL!! Don't be ridiculous. Why would I want to campaign against you? [[User:SlimVirgin|SlimVirgin]] &lt;sup&gt;&lt;font color=&quot;Purple&quot;&gt;[[User_talk:SlimVirgin|(talk)]]&lt;/font&gt;&lt;/sup&gt; 12:35, 2 October 2005 (UTC)
+
+== BCE/BC - reminder of sitewide compromise==
+
+First, BC is not Christian-centric (as explained on other pages ad infinitum), and is perfectly neutral in sense - no-one thinks it means anything other than a device to show dates. And besides, this argument has been discussed in great detail elsewhere on Wikipedia. The only form of consensus that has been able to retain the peace is to not change articles from BCE to BC or vice versa. No participant in the great Wikipedia BC v BCE debate is entirely happy with that compromise, I am sure - but it is all we've got to keep the peace. That means all sides respect it (both those that, for whatever reason, prefer BCE and those who, for whatever reason, prefer BC). In the case of this article the &quot;no change&quot; compromise means that it should stay using &quot;BC&quot;. Please respect this in the interests of wikipeace, if nothing else, [[User:Jguk|jguk]] 06:56, 4 October 2005 (UTC)
+
+: See above. Go wage your holy wars elsewhere, and don't barge in into Jewish history. So much for tolerance. [[User:Humus sapiens|&lt;nowiki&gt;&lt;/nowiki&gt;]]&amp;larr;[[User:Humus sapiens|Humus sapiens]][[User talk:Humus_sapiens|&amp;larr;ну?]] 07:01, 4 October 2005 (UTC)
+
+I have never argued that this has anything to do with religion - if anything, I've argued that it has nothing to do with religion. I am offended by your accusations. All I'm asking now is that you tolerate that others have different views, that we have had a large sitewide discussion that ended inconclusive, and that the only compromise for relative peace on the issue that we have is the &quot;no change&quot; approach that I outline above, [[User:Jguk|jguk]] 07:06, 4 October 2005 (UTC)
+
+: Everyone is entitled to their POV. You may deny that BC/AD is Christian-centric, but obviously some see it so. There is no reason for that notation here, since we have denominationally-neutral and commonly accepted alternative and your insistence on stomping religious feelings of a minority in an article directly related to their history is doubly offensive. Your &quot;compromise&quot; is a deception. I am not advocating wholesale changes in random articles: Jewish history is a special case. Again, I challenge you to demonstrate tolerance and sensitivity. If you are unable to respect the subject, go away. [[User:Humus sapiens|&lt;nowiki&gt;&lt;/nowiki&gt;]]&amp;larr;[[User:Humus sapiens|Humus sapiens]][[User talk:Humus_sapiens|&amp;larr;ну?]] 10:21, 4 October 2005 (UTC)
+
+BCE is not a commonly accepted alternative - certainly not in many places of the world. It is merely political correctness gone wrong. I'll overlook the point that the subject of the Kingdom of Judah is as relevant to Christianity and Islam as it is to Judaism (as it happened before the Abrahamic religions split), but I do take very strong objections to the suggestion that there is something special about Jewish history - and to the suggestion that Jewish history should just be for Jews. It shouldn't be. 
+
+Tolerance involves understanding, and that means having articles that are accessible to everyone. Articles written in language that only Jewish scholars will understand are all very well and good in Jewish academic journals - but on Wikipedia we have a worldwide audience of all denominations and of none. We should write in a way that every can understand. Whether this promotes tolerance or not, I don't know, but at least it would allow someone not well versed in Judaism and without assumed knowledge that isn't widely known outside Jewish circles, to understand the subject. A decision to segregate Judaism and have WP articles on Judaism to be written with a solely Jewish audience in mind is, regardless of the motives of those writing in that way, only going to promote differences and segregation.
+
+Of course, this is the problem with political correctness all round - it leaves us having very divisive arguments over language that only end up alienating and causing rancour, whilst the real underlying necesssity (whether it is encouraging understanding or doing something like making sure there is real equality of opportunity amongst all sectors of society) fall by the wayside. There's no coincidence in the nation that has tried to embrace political correctness more than any other remaining the most religiously and racially divided in the developed world.
+
+So we should write to promote understanding of the subject at hand. That means adopting the language and style of our audience, which should be everyone. And this goes way, way beyond whether we add a letter E - it goes at the heart of making sure a layman can get as much out of wikipedia as possible. Have a look at some of our science articles, which are equally poor at explaining things to a layman.
+
+Anyway, back to the BCE/BC subject, we have had the debates and the votes and they left us with the &quot;no change&quot; compromise. Incidentally, there was a proposal to separate out articles relating to certain religions, including Judaism, and having a separate rule for those articles - but that proposal was also defeated easily. Even though you disagree with this compromise, I ask you to accept it and abide by it - and bear in mind that it does cut both ways, [[User:Jguk|jguk]] 11:58, 4 October 2005 (UTC)
+
+: First, I am glad you don't bring up that &quot;BC/AD is not Christian-centric&quot; absurdity anymore. Second, take your POV gripes with PC someplace else. The &quot;Jewish history should just be for Jews&quot; is another strawman not worthy of a response. &quot;Tolerance involves understanding&quot; - exactly, that is what I am asking for. Check by yourself: most if not all articles on Jewish history and some other topics (BTW, open to all) use BCE/CE notation and there is a very good reason for this: Christian-centric notation is inappropriate and offensive here. So stop your intimidation and move on. [[User:Humus sapiens|&lt;nowiki&gt;&lt;/nowiki&gt;]]&amp;larr;[[User:Humus sapiens|Humus sapiens]][[User talk:Humus_sapiens|&amp;larr;ну?]] 17:46, 4 October 2005 (UTC)
+
+::We can go on disagreeing for ages. However, WP policy does not permit changing date styles once they are established in an article. We both need to accept that. This article was established using BC notation, and that is where it should stay. I think all articles should use BC notation as that is the only notation understood by the general public worldwide - and this should be the decider. That's not an outrageous opinion. You have differing views. We need to accept that we will never agree on this - but we also need to abide by WP policies, even where we disagree with them. You will not see me go changing other articles related to Judaism that adopt a different date style, even though I strongly believe that is a change that should be made to help make them accessible to a wider audience. I ask you similarly not to go round changing date styles in articles where you disagree with the date style. I'll leave the page as is for a few days, and if neither you nor anyone else has changed it back by the weekend, I'll revert it back myself. I really do want to stop the revert wars - but I also really do completely disagree with you, and think that both of us should accept the sitewide compromise currently in place, not just me, [[User:Jguk|jguk]] 19:20, 4 October 2005 (UTC)
+
+:::Jguk, I echo what Humus has asked: please take this somewhere else. There is no policy that does not permit changing date styles once they're established. Please point me to this policy. Furthermore, you yourself have ''strongly'' argued (for weeks on end) against the first-contributor and first-major-contributor rule when it came to British versus American English, so you can't just do a complete ''volte face'' now when it suits you. Finally, it's just plain wrong to say that BCE represents a &quot;language that only Jewish scholars will understand.&quot; I gave you a link to a recent ''Guardian'' article written by a Roman Catholic journalist that used BCE. It's used in ''many'' Western countries as an alternative to BC by Jewish and Christian writers, and by others who are neither. You just ignored my point and answered that it wasn't the Guardian's house style (which I  haven't checked yet), but you didn't address the essence of my point which was that this was a British, Roman Catholic writer, which puts paid to your claim that the notation can barely be understood outside North America, Jewish communities, or academia (and even if that were true, that's still a very large constituency). [[User:SlimVirgin|SlimVirgin]] &lt;sup&gt;&lt;font color=&quot;Purple&quot;&gt;[[User_talk:SlimVirgin|(talk)]]&lt;/font&gt;&lt;/sup&gt; 19:41, 4 October 2005 (UTC)
+
+::::On the contrary, there were proposals both to allow the &quot;no change&quot; approach to be discussed on an article by article basis, and for a different rule to apply to articles related to religion, neither of which passed. I also note that this article is emphatically not specific to the Jewish religion, as it deals with a period before the split of the three great Abrahamic religions, it is a history equally pertinent to Christians and Muslims. I never used anything other than BC and AD in my school, and there were plenty of Jews and Muslims there - and I never heard any protest, however mild, about that. This whole PC thing has gotten out of hand - especially as WP has never and will never be PC (after all, that would be contrary to the non-negotiable WP:NPOV policy. Can we please put a stop to this nonsense and abide by agreed WP policy? [[User:Jguk|jguk]] 19:55, 4 October 2005 (UTC)
+
+:::::Could you point to the policy, please? You keep referring to it, but don't actually cite it. I agree with you about a lot of PC language, but BCE isn't seen that way anymore, and what was done in your school in your day isn't necessarily what's done elsewhere. [[User:SlimVirgin|SlimVirgin]] &lt;sup&gt;&lt;font color=&quot;Purple&quot;&gt;[[User_talk:SlimVirgin|(talk)]]&lt;/font&gt;&lt;/sup&gt; 20:07, 4 October 2005 (UTC)
+
+:I'll dig out the relevant discussions sometime (tonight's not a good night for me). And certainly where I am BCE is seen as politically correct nonsense by many (most, by a long way, just don't use it), and has caused offence in many places worldwide. In NSW using it once gave rise to angry questions in both chambers of parliament. Of course, not what was done in my school is not what is done everywhere, but it is what is common for most people's schooling. Remember most people will not ever have seen the term in school, [[User:Jguk|jguk]] 20:19, 4 October 2005 (UTC)
+
+::You can't say that what was done in your school is what's common for most people's schooling, or that most people will not have seen the term in school. I used it in school and university, and use it professionally, as does everyone I've worked or studied with, British, American, Jewish, Christian, and none of the above. The point for Wikipedia is not to extrapolate from our own experiences outwards, but to follow policy, which hopefully ends up being a mixture of everyone's experiences, so I hope you'll find me the policy &amp;mdash; not just a discussion, but an actual policy &amp;mdash; and if there isn't one (and so far as I know, there isn't), I hope you'll stop going around changing the edits that the current editors of various pages want to make. [[User:SlimVirgin|SlimVirgin]] &lt;sup&gt;&lt;font color=&quot;Purple&quot;&gt;[[User_talk:SlimVirgin|(talk)]]&lt;/font&gt;&lt;/sup&gt; 20:36, 4 October 2005 (UTC)
+
+Slim - given that both forms are acceptable, and that there are people who get offended at changes from one to another, how can any kind of peace on wikipedia be maintained unless we agree to let sleeping dogs lie and leave articles as they are?  Although Jguk has not been innocent of picking fights on this subject before, in this case it was Humus sapiens, not Jguk, who picked a fight.  Furthermore, Humus's changes were not in the context of a major revision of the article, but rather just a change of date format, with the inflammatory summary &quot;Back to neutral BCE/CE notation, see Talk:Kingdom_of_Judah#BCE.2FCE_again.&quot;  Basically, the only justification of Humus's edit is the notion that BC/AD is POV, which is a position not supported by wikipedia policy.  I don't see why Jguk should get chided when it is HS who broke the truce. The basic fact is that nobody should be editing articles solely in order to change date formats.  [[User:John Kenney|john]] [[User_talk:John Kenney|k]] 21:57, 4 October 2005 (UTC)
+
+: Practically all articles on Jewish history and religion use BCE/CE notation. No complaints so far. 
+: According to what WP policy you insist on using Christian-centric notation - that some consider inappropriate and offensive - in articles directly related to Jewish history when we have denominationally-neutral and commonly accepted alternative? IMHO, it is against [[Wikipedia:Civility]]. 
+: When an anon surreptitiously changed [http://en.wikipedia.org/w/index.php?title=Kingdom_of_Israel&amp;diff=18621718&amp;oldid=18540788] BCE/CE to BC/AD, none of you raised voice. 
+: Finally, who exactly gets offended by BCE/CE notation? [[User:Humus sapiens|&lt;nowiki&gt;&lt;/nowiki&gt;]]&amp;larr;[[User:Humus sapiens|Humus sapiens]][[User talk:Humus_sapiens|&amp;larr;ну?]] 22:28, 4 October 2005 (UTC)
+
+:John, the arbcom ruled that &quot;Jguk has repeatedly reverted giving as the reason his assertion that common era notation is an inferior notation which is not understandable or difficult for Wikipedia readers, an assertion not supported by the Wikipedia Manual of Style.&quot; They also ruled that &quot;When either of two styles are acceptable it is inappropriate for a Wikipedia editor to change from one style to another '''unless there is some substantial reason for the change'''. For example, with respect to English spelling as opposed to American spelling it would be acceptable to change from American spelling to English spelling if the article concerned an English subject.&quot; My argument is that there's a substantial reason for change in this article, and I believe Humus argues the same, so the current editors on the page are allowed to decide which format to use, without reference to the first-contributor rule. No one's saying Jguk can't join in that discussion and argue his point, but he has to stop going around systematically undoing other people's choices with reference to policy that doesn't exist, and by claiming that, just because BCE was never used in his school, hardly anyone in the world understands it. [[User:SlimVirgin|SlimVirgin]] &lt;sup&gt;&lt;font color=&quot;Purple&quot;&gt;[[User_talk:SlimVirgin|(talk)]]&lt;/font&gt;&lt;/sup&gt; 22:37, 4 October 2005 (UTC)
+
+::Hmm...has it ever been stated explicitly that a supposedly &quot;Jewish&quot; topic (and, again, I don't see how material from the Old Testament can be considered Jewish and not Christian - it is clearly both) is sufficient grounds to violate the truce?  I am highly dubious about that.  And the idea that it is offensive is ridiculous.  What is offensive is that Humus Sapiens is wasting everybody's time with an absurd crusade against the normal way people in the west date things.  Basically, nobody should be arguing about this.  It is a waste of everyone's time.  Humus started it, therefore Humus is the one who should lose the dispute. [[User:John Kenney|john]] [[User_talk:John Kenney|k]] 01:19, 5 October 2005 (UTC)
+
+:::That's not much of an argument: Humus was the first to change this article, therefore he should &quot;lose.&quot; Take a look at [[User:MPerel/Jguk's era-related edits]]. They show that Jguk made 1,039 edits reverting BCE between Oct 2004 and June 2005. See [[User:MPerel/Jguk's era-related edits and talk comments]] for his talk page comments too. It has reached the level of an obsession with him and it shouldn't be defended, because it's been highly disruptive. The arbcom said dates could be changed where there is a substantial reason, which means they accept that there is such a thing. What, if not that an article is about Jewish history, would count as a substantial reason, in your view? [[User:SlimVirgin|SlimVirgin]] &lt;sup&gt;&lt;font color=&quot;Purple&quot;&gt;[[User_talk:SlimVirgin|(talk)]]&lt;/font&gt;&lt;/sup&gt; 01:37, 5 October 2005 (UTC)
+
+:I'm sorry John, but this is simply not true. Take a look at Humus's edit [http://en.wikipedia.org/w/index.php?title=Kingdom_of_Judah&amp;diff=24447441&amp;oldid=24365212], where he does plenty of minor copyediting, as well as making dates consistent. While, technically, making dates consistent would violate the truce, his edit was a good faith contribution. Now look at Jguk's edit here: [http://en.wikipedia.org/w/index.php?title=Kingdom_of_Judah&amp;diff=next&amp;oldid=24447441], in which he not only reverts Humus's edit, but then '''deliberately and provocatively changes all BCEs to BCs and all CEs to ADs'''. The edit summary of &quot;rv change which was contrary to WP policy (as discussed ad infinitum), also this is the only standard generally understood worldwide&quot; is deceptive and misleading, but if you look at this [http://en.wikipedia.org/w/index.php?title=Kingdom_of_Judah&amp;diff=24459564&amp;oldid=24365212 diff], you can see the actual changes he made. Furthermore, when I tried to compromise by trying to revert to the previous inconsistent version, he again reverted [http://en.wikipedia.org/w/index.php?title=Kingdom_of_Judah&amp;diff=next&amp;oldid=24485058 here], when he believed you would be an ally in his revert war. Now that the majority doesn't favor his version, he is strangely insisting on the inconsistent version he rejected before. I am quite astonished at how you can claim that Jguk is innocent in all this, and blame Humus. Please do take a look at the diffs I've linked and let me know if I've misjudged or just plain missed something. [[User:Sortan|Sortan]] 23:33, 4 October 2005 (UTC)
+
+::I don't think Jguk is innocent, just that Humus started it, and is thus ''more'' responsible for the mess than Jguk.  Jguk obviously has an issue with dating.  And, yes, it was misleading to call it a revert when he also changed text from the old version.  But, again, it was Humus who brought us all to this incredibly stupid argument, and the only argument he has is that BC/AD is somehow offensive, an interpretation which has been repeatedly rejected when proposed as official policy. [[User:John Kenney|john]] [[User_talk:John Kenney|k]] 01:19, 5 October 2005 (UTC)
+:::John, that it is offensive has never been proposed. What was proposed was an official policy to use BCE over BC (either always or in some circumstances, I forget which), and that wasn't accepted, though it got a lot of support. But that doesn't mean that the opposite was accepted either: that it couldn't be used. The current position &amp;mdash; the truce, as you call it &amp;mdash; is that where there is reason to use one over the other, it's up to the editors on the page to decide. Where there is no reason whatsoever, the first-contributor or first-major contributor rule applies. There is reason in this case (you may not agree with the reason, but it indisputably exists), and as I see it, it is therefore Jguk who is breaching the truce, and not only on this page. [[User:SlimVirgin|SlimVirgin]] &lt;sup&gt;&lt;font color=&quot;Purple&quot;&gt;[[User_talk:SlimVirgin|(talk)]]&lt;/font&gt;&lt;/sup&gt; 01:37, 5 October 2005 (UTC)
+
+John, do you really want to look like a white person who denies that the N-word is offensive to a black person? Well, now you do. I have 4 questions for you: 
+# You may think that BC/AD is not Christian-centric, but are you able to acknowledge that that not everyone thinks so? [http://www.religioustolerance.org/ce.htm] [[User:Humus sapiens|&lt;nowiki&gt;&lt;/nowiki&gt;]]&amp;larr;[[User:Humus sapiens|Humus sapiens]][[User talk:Humus_sapiens|&amp;larr;ну?]] 03:03, 5 October 2005 (UTC)
+# I can explain the reason behind creating BCE/CE notation. Can you? [[User:Humus sapiens|&lt;nowiki&gt;&lt;/nowiki&gt;]]&amp;larr;[[User:Humus sapiens|Humus sapiens]][[User talk:Humus_sapiens|&amp;larr;ну?]] 03:03, 5 October 2005 (UTC)
+# Who gets offended by BCE/CE notation in articles deeply related to the Jewish history &amp; religion? Practically all them happily use it. [[User:Humus sapiens|&lt;nowiki&gt;&lt;/nowiki&gt;]]&amp;larr;[[User:Humus sapiens|Humus sapiens]][[User talk:Humus_sapiens|&amp;larr;ну?]] 03:03, 5 October 2005 (UTC)
+# Having a viable alternative, why do you insist on potentially stomping someone's religious feelings? Let's not invoke the temporary &quot;truce&quot; (not an official policy) here: as SV noted, it says '''unless there is some substantial reason for the change'''. Thank you. [[User:Humus sapiens|&lt;nowiki&gt;&lt;/nowiki&gt;]]&amp;larr;[[User:Humus sapiens|Humus sapiens]][[User talk:Humus_sapiens|&amp;larr;ну?]] 03:16, 5 October 2005 (UTC)
+
+:Please remember that there remains only one date notation understood by the worldwide English-speaking general public. Also recognise that by saying something happened in 100 BC, the writer is only conveying information about the date. And then recognise that many people worldwide have also taken offence at changing BC notation to BCE and that religious leaders generally say that they are not offended by BC notation (including those who themselves choose not to use it). Then recognise that WP has already discussed this whole affair at length earlier this year, and that that discussion was very divisive - and that it tailed away with a de facto &quot;no change&quot; compromise, which has in the main been successful in avoiding raking up that bitterness yet again. Remember too, that I do not like the compromise either, but I accept it. I ask you to do the same, [[User:Jguk|jguk]] 19:24, 5 October 2005 (UTC)
+
+::Jguk, what would constitute for you a &quot;substantial reason for the change,&quot; that is, in what circumstances would you regard changing from BC to BCE justified? [[User:SlimVirgin|SlimVirgin]] &lt;sup&gt;&lt;font color=&quot;Purple&quot;&gt;[[User_talk:SlimVirgin|(talk)]]&lt;/font&gt;&lt;/sup&gt; 19:32, 5 October 2005 (UTC)
+
+I'm not quite sure what you mean - whether it is what I personally think would be justification, or what justification I think there is under the current WP approach. The answer to the first one would be if global usage were to change so that usage of BC were to be restricted to a small minority (say under 20%-30%, which incidentally is still much, much more than the global usage of BCE at present). The answer to the second is to revert a change in an article that previously was stable and consistent in using BCE notation so that it used BC notation. Kind regards, [[User:Jguk|jguk]] 19:50, 5 October 2005 (UTC)
+
+:Sorry, I didn't make my question clear enough. The arbcom ruled that BC shouldn't be changed to BCE and vice versa &quot;unless there is some substantial reason for the change.&quot; That is, they ruled that the first-contributor or first-major-contributor rule does not apply where &quot;there is some substantial reason for the change.&quot; So my question to you is: what kind of circumstance do you see as counting as a &quot;substantial reason for the change&quot;? [[User:SlimVirgin|SlimVirgin]] &lt;sup&gt;&lt;font color=&quot;Purple&quot;&gt;[[User_talk:SlimVirgin|(talk)]]&lt;/font&gt;&lt;/sup&gt; 20:00, 5 October 2005 (UTC)
+
+As previously discussed, I have adjusted the article back to how it was before Humus sapiens's amendment of the date style, [[User:Jguk|jguk]] 07:18, 9 October 2005 (UTC)
+
+:Sigh. Another blatent lie. [[User:Sortan|Sortan]] 17:17, 9 October 2005 (UTC)
+
+I briefly chatted to Mark Pellegrini (Raul) on IRC yesterday and he confirmed what I very much thought the situation was, that the ArbCom ruling of &quot;no change&quot; is meant very much to be that, &quot;no change&quot;. I'll give a little time to the weekend in case anyone wants to doublecheck that with him, and then, if it hasn't been done by someone else in the meantime, revert the recent attempts to change the style to BCE. In the meantime, I continue to urge all editors to accept the &quot;no change&quot; approach, [[User:Jguk|jguk]] 21:45, 12 October 2005 (UTC)
+
+:Jguk, please read what the arbcom wrote: &quot;When either of two styles are acceptable it is inappropriate for a Wikipedia editor to change from one style to another unless there is some substantial reason for the change. For example, with respect to English spelling as opposed to American spelling it would be acceptable to change from American spelling to English spelling if the article concerned an English subject. Revert warring over optional styles is unacceptable; if the article is colour rather than color, it would be wrong to switch simply to change styles as both are acceptable.&quot;
+
+:They're clearly comparing the situation with BCE/BC to the one with British and American English. The rule is don't change it unless there is something about the article that suggests BE would be more appropriate. They say that switching styles for no reason is wrong, and editing warring over that should not take place. But where there is a substantial reason, they may be changed. [[User:SlimVirgin|SlimVirgin]] &lt;sup&gt;&lt;font color=&quot;Purple&quot;&gt;[[User_talk:SlimVirgin|(talk)]]&lt;/font&gt;&lt;/sup&gt; 22:17, 12 October 2005 (UTC)
+
+::And as I recall you know that's what it means, because I seem to remember you writing to the mailing list complaining about it, saying it would allow people to switch styles as with BE and AE, effectively making that policy. I'll check the archives when I have time to make sure my memory of this is right. [[User:SlimVirgin|SlimVirgin]] &lt;sup&gt;&lt;font color=&quot;Purple&quot;&gt;[[User_talk:SlimVirgin|(talk)]]&lt;/font&gt;&lt;/sup&gt; 22:20, 12 October 2005 (UTC)
+
+Mark did make the analogy to British and American English debates before going on to say that in this case, the ruling really did mean &quot;no changes&quot;. We should &quot;go with whoever got their first&quot;. I'm sure he'd be happy to confirm the same to you if you asked him, [[User:Jguk|jguk]] 22:33, 12 October 2005 (UTC)
+
+:I'm not doubting what you're saying, but the closest thing we have to policy is the arbcom's written decision, and that clearly compares the BCE/BC situation to the AE/BE one. [[User:SlimVirgin|SlimVirgin]] &lt;sup&gt;&lt;font color=&quot;Purple&quot;&gt;[[User_talk:SlimVirgin|(talk)]]&lt;/font&gt;&lt;/sup&gt; 22:36, 12 October 2005 (UTC)
+
+::It does - but it's the &quot;no change&quot; (&quot;who gets there first&quot;) aspect that it's comparing it to (though as in the BE/AE discussions, it's not meant to mean if the first contributor used one style 3 years ago which was changed the next day and has stayed stable since then, that someone should go changing it!). Incidentally, I asked Mark as he was the first arbitrator I saw on IRC, and was following your suggestion of checking with ArbCom what they meant, whilst being careful as I know they particularly disliked the case and really do not want to go back to it again (which Mark also made clear was true). A quiet word seemed best. As I say above, I myself will wait till the weekend before editing the article again so that anyone who wishes to verify this with Mark (or indeed another of the Arbs who voted in that case) can do so - I hope this clarification will help bring certainty going forward, [[User:Jguk|jguk]] 22:49, 12 October 2005 (UTC)
+
+::: Per [[Wikipedia:Manual of Style (dates and numbers)#Eras]] &quot;Both the BCE/CE era names and the BC/AD era names are acceptable, but '''be consistent within an article'''.&quot; The ''no change'' proposal would violate MoS. I am still wondering, if both styles are acceptable, why insist on the one that some consider inappropriate here? [[User:Humus sapiens|&lt;nowiki&gt;&lt;/nowiki&gt;]]&amp;larr;[[User:Humus sapiens|Humus sapiens]][[User talk:Humus_sapiens|&amp;larr;ну?]] 22:51, 12 October 2005 (UTC)
+
+I belive everyone should understnad the history at  Kingdom of Judah, and [[Kingdom of Israel]]. The   original authors used BC which was then changed by Humus sapiens, [http://en.wikipedia.org/w/index.php?title=Kingdom_of_Judah&amp;diff=24447441&amp;oldid=24365212], http://en.wikipedia.org/w/index.php?title=Kingdom_of_Israel&amp;diff=24446629&amp;oldid=24365324]. Now Jguk and several others including myself disagree with him and the others on his side of the debate. The basic arugment by that side goes as follows
+1. BC is Christian Centric
+2. Jewish history can be used as a special case to avoid POV.
+3. Articles about Jewish history therfore should use BCE to consistant. 
+My andothers refutation goes as follows
+1.BC is not Christian centric, it is the most common used system in the world, and very few realize the Christian basis behind them.
+2. The site recognizes both as equally NPOV. 
+3. Judaism is not a special case, look at the [[History of India]] for example. Also other kingdoms during the time period use BC. [[Assyria]] for example. 
+4. The originals started with BC and therfore by wikipedia policy that should remain. 
+5. Kingdom of Judah, and Israel is not specifically Jewish history. It is part of Jewish history but it is also part of Middle East History and World History and is not any more Jewish than India's kingdom were Hindu. 
+I'm sorry if I missed arguments on both sides. I've read through it all at one point or another and this is all of them I've seen.(The last few I recently added today at the other article and therfore haven't been responded to but I am going ahead and including them.) I hope new arguments will be used instead of reinterating the old ones so this discussion can move forward. [[User:Falphin|Falphin]]
+
+:Even though &quot;very few realize the Christian basis&quot; (Falphin's words) and there is a neutral and commonly accepted alternative, some are still willing to stomp on others' concerns. That's lovely. If &quot;it would be acceptable to change from American spelling to English spelling if the article concerned an English subject&quot; and some editors indeed claim that this constitutes &quot;a substantial reason&quot; ''for them'' (not for some Assyrians or Indians or whoever else), then what is the reason not to accomodate an alternative style? [[User:Humus sapiens|&lt;nowiki&gt;&lt;/nowiki&gt;]]&amp;larr;[[User:Humus sapiens|Humus sapiens]][[User talk:Humus_sapiens|&amp;larr;ну?]] 02:49, 13 October 2005 (UTC)
+
+:Though I am pleased that my edits are no longer reverted, I want to weigh in on this question too:
+:I must agree with Jguk and Falphin.
+:1) The original version of this article had AD/BC.
+:2) AD is no more POV than CE is. (CE is neither neutral nor commonly accepted.)
+:3) If you claim this article to be different as a &quot;Jewish article&quot;, Anno Mundi notation would be more appropriate.
+:[[User:Str1977|Str1977]] 19:09, 13 October 2005 (UTC)
+
+:[[User:Humus sapiens|Humus sapiens]], I don't see your point.  I'm not trying to stop on your concerns but explain that this was already resolved in a past discussion. Many memembers of the community agreed that BC is just as neutral as BCE. I'm also not getting your point of the English style-to American on English articles because neither BC or BCE are used Jewish. They are both Western, American and infact if my understanding is correct Christians came up with both systems. My point with the Assyrians and Indians is that it is recognized as neutral in similar case articles to use BC and AD.  [[User:Falphin|Falphin]] 00:05, 14 October 2005 (UTC)
+
+Incidentally, the ArbCom has already heard these arguments, and the result was a wash - no-one won, no-one lost, there was no ruling either for or against anyone. It did, however, confirm that WP policy is &quot;no changes&quot; and made that clear to all participants in that dispute (and implicitly to all other WPians). Some, in this instance, argued that the ArbCom decision was not clear, but the position was clarified by myself in a brief chat with one of the Arbitrators who decided that case, and I have left those who may still be unsure a brief period to double-check with an Arbitrator who heard the case if they wanted. In line with the discussions above, I have therefore restored the original date style in line with WP policy. Please do not change it, [[User:Jguk|jguk]] 06:53, 16 October 2005 (UTC)
+	</talkpage>
+	<talkpage id="821926" title="Talk:Kingdom of Judah">
+{{WikiProjectBannerShell|1=
+{{WikiProject Judaism|class=Start|importance=Mid}}
+{{WikiProject Jewish history|class=Start|importance=High}}
+{{WP Israel|class=start|importance=high}}
+{{WikiProject Palestine|class=C|importance=mid}}
+{{WPMILHIST
+|class=Start
+ &lt;!-- 1. It is suitably referenced, and all major points have appropriate inline citations. --&gt;
+|B-Class-1= no
+&lt;!-- 2. It reasonably covers the topic, and does not contain major omissions or inaccuracies. --&gt;
+|B-Class-2= yes
+&lt;!-- 3. It has a defined structure, including a lead section and one or more sections of content. --&gt;
+|B-Class-3= yes
+&lt;!-- 4. It is free from major grammatical errors. --&gt;
+|B-Class-4= yes
+&lt;!-- 5. It contains appropriate supporting materials, such as an infobox, images, or diagrams. --&gt;
+|B-Class-5= yes
+|importance=Low
+|attention=yes
+|collaboration-candidate=
+|past-collaboration=
+|peer-review= 
+|old-peer-review=
+|Ancient-Near-East-task-force=yes
+}}
+{{WikiProject Former countries|class=Start|priority=Mid}}
+
+}}
+*[[Talk:Kingdom of Judah/archive1]] (2004-mid 2005, contains BC/BCE edit conflict)
+
+==From the end of the Kingdom ...==
+
+I have done some edits in this section.
+
+Since 63 Judea was under Roman supremacy, but at first it was not province but under the Hasmonean high-priest and his chief-minister Antipater, father to Herod. 
+
+I also have problems with the following_
+
+:[[37 BC]]&amp;ndash;[[100|AD 100]]: The [[Herodian Kingdom]] of [[Judaea]], an autonomous realm within the Roman Empire. The last Herodian King, Agrippa II (c. 48 - 100), sided with the Romans in the first [[Jewish Revolt]] of 66 - 73, which saw the Temple destroyed in [[70|AD 70]].
+
+Herod's kingdom existed until his death in 4 BC. After that it was split between his sons and reunited only between 41 and 44 under Agrippa I.
+
+From 6 to 41 and from 44 to 66 Judea (in the narrower sense) was under direct Roman rule under a procurator subject to the Roman legate in Syria.
+
+Sometime between 66 and 70 Judea was elevated to the status of province under a legate. This province was renamed Palestine after 135. 
+
+How should this be worded?
+
+I also removed the phrase &quot;ultimately giving its name to modernity as Western Society&quot; from the Roman Empire section, since it seemed to me both off-topic and quite strange.
+
+Finally, I also rectified the Ptolemaian-Seleucid period and elaborated on the Crusades period.
+
+[[User:Str1977|Str1977]] 11:14, 10 October 2005 (UTC)
+
+
+Feeding in on that issue is another question: What territory does this article actually cover? Is it only Judea or is it &quot;Palestine&quot; in toto? Please answer someone.
+
+PS. And please take care not to revert substantial edits while fighting out fruitless edit wars. [[User:Str1977|Str1977]] 21:57, 10 October 2005 (UTC)
+
+:I think the answer to how to deal with the early Roman period is contained in the answer as to what territory the article covers.  I would basically suggest that this should cover the approximate territory of the Kingdom of Judah - i.e., the later Judaea - and not nearby territories like Idumaea, Samaria, Galilee, Iturea, Batanea, and so forth.  Why should an article called &quot;Kingdom of Judah&quot; cover Palestine ''in toto''? [[User:John Kenney|john]] [[User_talk:John Kenney|k]] 15:30, 18 October 2005 (UTC)
+
+==Judah and Israel==
+
+I had a look into the Kingdom of Israel article which starts with King Saul. Shouldn't the Kingdom of Judah article accordingly start with David? After all: when Saul died, the Judeans made David their king, while another part of the Israelites made Ishbaal king. Only after the latter's death did David unite the two kingdoms in his hand, a union that broke again after king Solomon's death. In modern language this could be described as a personal union of two kingdoms. Anyway, I don't think that starting the Kingdom of Judah with Rehoboam is accurate nor is it correct that Rehoboam ever was king of Israel. Thoughts?
+[[User:Str1977|Str1977]] 23:26, 17 October 2005 (UTC)
+
+*No. Israel had two dynasties. Saul was the first.  Saul was considered king. Why is Rehoboam never thought to be king? Sorry, I'm confused. [[User:Falphin|Falphin]] 02:51, 10 November 2005 (UTC)
+*Oh, I see what you're saying. I believe the arguement goes that the Kingdom of Israel is the sucessor state to the first Kingdom of Israel. [[User:Falphin|Falphin]] 02:52, 10 November 2005 (UTC)
+
+Let me explain:
+*First, there was the kingdom of Israel (meaning the twelve tribes) under King Saul.
+*Even during his reign, David was secretly annointed, but we can pass over this here.
+*When Saul died, the Kingdom of Israel remained, but in a shattered state. Many parts were occupied by the Philistines. Next to the Jordan, followers of Saul made his son Ishbaal king of Israel - claiming the twelve tribes but ruling only some in fact.
+*At the same time, the tribe of Juda made David their king. IMHO, this is the beginning of the kingdom of Juda.
+*Ishbaal of Israel was killed and his followers submitted to David, who also defeated the Philistines, uniting the whole country under one ruler. But, to anachronistically use modern political terms, this was a &quot;personal union&quot; of the two kingdoms of Israel and Juda.
+*This union prevailed under David and his son Solomon, though it was almost split by the revolt of Sheba (2 Sam 20).
+*After Solomon's death, his son Rehoboam became King of Judah by heritage (2 Kings 11,43) and met with the Israelites at Shechem to be installed as King of Israel (2 Kings 12). But this harsh behaviour caused the Israelites to withdraw and elect their own king.
+
+So we have two kingdoms - Israel starting with Saul, Judah with David - united for some time under David and Solomon, but parting ways after Solomon's death. [[User:Str1977|Str1977]] 09:24, 10 November 2005 (UTC)
+
+
+- I think that it was all one country with one ruler (with some minor revolts that didn't last long) untill after solomons death.
+
+* I don't understand why these Articles do not point out that it was not the people that elected a King over Israel, but according to the Scriptures Almighty God had a Prophet appoint the King over Israel dividing Israel and Judah, because of Salomon's transgression against Almighty God. The Scriptures even rebuke them that tr1ed to stop Ten Tribes from being given unto Ephraim saying that this also ids of God.
+Josepr R Loegering 18:48, 1 August 2013 (UTC)  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:JosephLoegering|JosephLoegering]] ([[User talk:JosephLoegering|talk]] • [[Special:Contributions/JosephLoegering|contribs]]) &lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Image ==
+
+The image seems to be squishing the chart.  I tried to move it around without success; if anyone knows how to move it to accomodate the chart better...--[[User:Rob117|Rob117]] 05:52, 25 November 2005 (UTC)
+
+: Thanks for the feedback. I moved it a couple of paragraphs higher. Please see if this works. &amp;larr;[[User:Humus sapiens|Humus sapiens]][[User talk:Humus sapiens|&amp;larr;ну?]] 06:03, 25 November 2005 (UTC)
+
+==Table==
+
+Can someone in the know fix the lines of the table that are different? I tried to but I have no clue how to do it. [[User:Str1977|Str1977]] 15:02, 18 December 2005 (UTC)
+
+== Map may need fixing ==
+
+The current map, labeled as c.830 BC, seems to be somewhat inaccurate for that period- by 830 BC, Israel's transjordanian territories had been given over to Hazael of Damascus, and Israel was limited to cisjordan.  The Assyrian Empire proper did not yet border Damascus, although they did besiege Damascus, unsuccessfully, in 838; Assyria's expansion into the Levant was gradual, with waxing and waning, and was done mostly through vassal treaties- direct annezation did not become the rule until the time of [[Tiglath-pileser III]].  By 830, after the Assyrian threat had passed, Damascus under Hazael dominated the entire Levant.  Assyrian reach did not come this far south again until the reign of [[Adad-nirari III]], who captured Damascus in 796 (imposing tribute, but not annexing it).  If the intention is to show Israel a map of Israel under the Omrides, which the map's territory seems to match, it should be labeled as c.850 BC and Edom should be annexed to Judah.--[[User:Rob117|Rob117]] 19:12, 10 August 2006 (UTC)
+
+==Bible as source?==
+&quot;According to the Hebrew Bible...&quot;  
+Clearly the Bible is full of myths and propaganda and in itself not a valid source for historical accuracy. Perhaps there should be a separate paragraph for what the Bible says about Judah, similar to how other topics have a paragraph about references in popular culture.--[[User:Tchoutoye|Tchoutoye]] 12:00, 25 September 2006 (UTC)
+
+:In the first place, while most historians recognize that the Deuteronomic History (i.e., the Book of Kings) is full of myths and propaganda, they also have generally felt that it also contains reliable historical information, and many have been fairly confident that they can decipher which parts are reliable history, and which parts are later myth.  Furthermore, many of the prophetic books are actually considered to be at least partially written during the life of the Kingdom of Judah.  If you think that the presence of myths and propaganda in a source makes it &quot;not a valid source&quot; for historical inquiry, then we would have to exclude just about the entirety of ancient historical writing, and conclude that we know nothing about ancient or medieval history at all.  But, of course, you don't actually think that, you just dislike the Bible.  The Bible is basically our only major source on the Kingdom of Judah, and most historians have been interested in figuring out what in it can be trusted, and what cannot.  Your suggestion is ridiculous, in that I can't imagine what the &quot;Main&quot; part of the article would consist of if you took out material derived from the Bible. [[User:John Kenney|john k]] 12:18, 25 September 2006 (UTC)
+
+::This artical doesn't meet the Wikipedia standards for neutrality, verifiability and it does not quote accepted sources.  I've added the appropriate tags.  Hopefully someone can rewrite the whole artical and present the material in a more appropriate manner. [[User:76.176.114.213|76.176.114.213]] 00:41, 16 February 2007 (UTC)
+
+:::I think there should be separated articles on the history of Judah (and Israel) as described in the Bible, and the history as &quot;described&quot; by archeological evidences. For the latter everyone just read '''The Bible unearthed''' by ''I. Finkelstein &amp; N.A. Silberman''. They are - as far as it makes sense - critical towards the history written in the Bible, based on evidences partially discovered by themselves (and to answer John K: yes, there are many clear evidences, that show, that the Bible is not always a valid source for history! It gives a very useful background for archeological research though), but again they point out cleary - and so do I - that the Bible isn't a history book at all!! It is an excellent work of literature (formally), and for two major religions The Source (spiritually) containing some historical information as well. We just have to know what to use it for (and how)!
+
+all you who say the tanakh is not a  credible source  :
+you're whole claim is childish , the jewish tanakh books are the only books from the ancient times which represent a nation which says the complete truth about even the most key people in its history , most respected and most loved people in their history, the tanakh is not &quot;covering up&quot; for no one , and to be honest , its the only ancient source who does so 
+it seems none of you would ever claim such things on The  assyrian and egyptian sources which are full of mistakes , blunt lies and glorification of their kings (which usually dont deserve it)
+
+&quot;For the latter everyone just read The Bible unearthed by I. Finkelstein etc &quot; 
+
+oh , you mean the same i.finkelstien  who decleared that the V||| layer in meggido is from the middle of the 14 century bc (against evidence proving its cannot be erlier then the end of the 14 century bc according to archeaological work using Mycenaean ceramic found in the layer, And a carbon 14 test)  just so it would correspond  to the historic knowlege reflected through the amarna letters. that finkelstein ? he's a joke , and that book is not founded, and is already contradicted by hundred of articles and books which proved how baseless are the claims of that pathetic book.
+ 
+oh and btw - judah in the first temple period was usually much bigger then that map shows(try including edom which was most of the time a a subjact of judah)
+message by 
+hebraic &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Hebraic|Hebraic]] ([[User talk:Hebraic|talk]] • [[Special:Contributions/Hebraic|contribs]]) 20:41, 29 March 2008 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+Hebraic, your argument shows extreme bias. In order to meet Wikipedia's quality standards, religious documents cannot be used as primary sources. Textual criticism and archaeology have established a conflicting picture of of historic Israel and Judah than what is offered in the bible, and have salient reasons to back that picture up. This material should be presented. I will flag the article until the issue is resolved. Let us please rework the article to meet Wikipedia's guidelines. 
+[[User:entropyandvodka|entropyandvodka]] ([[User talk:entropyandvodka|talk]]  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt; — Preceding [[Wikipedia:Signatures|undated]] comment added 04:44, 20 April 2015 (UTC)&lt;/span&gt;&lt;!--Template:Undated--&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== &quot;God's Worshipper's Kingdom&quot; ==
+
+The kingdom is named after the tribe Judah, which does not mean 'God's Worshipper', but is a name. The name originally meant 'Thank God'. I dont understand the translation.
+
+:No it means Thank Yahweh.  &quot;Thank God&quot; would be Eldah! [[User:203.59.11.115|203.59.11.115]] 14:12, 14 March 2007 (UTC)
+
+== Timeline ==
+
+If the Bible is the main source of information, the article needs more explanation of where the dates are derived from. I assume it is something more intelligent than the argument which leads some Christians to believe that the Earth and Universe are 6000 years old, but what is it in each case? &lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[Special:Contributions/80.7.20.133|80.7.20.133]] ([[User talk:80.7.20.133|talk]]) 01:43, 7 January 2007 (UTC).&lt;/small&gt;&lt;!-- HagermanBot Auto-Unsigned --&gt;
+
+:First off, Biblical dates after the founding of the Israelite monarchy (ca. 1000 B.C.) are far more definite and least partially historically founded than Biblical dating references to periods before the founding of the Israelite monarchy.  The Biblical information about the sequence and lengths of individual reigns is certainly used (since information on these matters is simply not available anywhere else), but great efforts are also made to synchronize with external chronologies wherever possible.  Three different scholarly schemes are tabulated right in the table on the article page. [[User:AnonMoos|AnonMoos]] 08:37, 13 February 2007 (UTC)
+
+::There is no independent non-Biblical confirmation of any Biblical date before the reign of Ahab.  So say that dates after the founding of the monarchy before that date is factually incorrect.  [[User:203.59.11.115|203.59.11.115]] 14:14, 14 March 2007 (UTC)
+==Incorrect Scriptural Citation==
+
+The main article references Joshua 18 which far predates post-Solomonic Israel.  The first citation for Jerusalem being the capital of Southern Kingdom is most likely in 1 Kings 12 instead.  Additionally, 2 Samuel 5:6-9 describes David conquering Jerusalem and making it his capital (Hebron served as his capital during the years he reigned over Judah alone).
+
+Joshua 18:28 (NIV) reads &quot;Zelah, Haeleph, the Jebusite city (that is, Jerusalem), Gibeah and Kiriath—fourteen towns and their villages.  This was the inheritance of Benjamin for its clans.&quot;  While this obviously mentions Jerusalem, it does not lay it out as the capital of the Kingdom of Judah.   
+
+The division of the Unified Kingdom occurs in 1 Kings 12, with Rehoboam driving off the Northern Kingdom (Israel) with his harsh demands.
+
+[[User:Zamoose|Zamoose]] 12:06, 20 March 2007 (UTC)
+
+It's all a bunch of BS anyways Zamoose, so why be bothered about minutea?
+[[User:The Fifth Column|The Fifth Column]] ([[User talk:The Fifth Column|talk]]) 08:42, 13 September 2010 (UTC)
+
+== New lead ==
+
+I've revised the lead quite radically (&quot;edit boldly&quot;). There were two problems with the existing lead: First, it was far too long - a lead has to be a brief guide to the subject, and the old one was far from brief; second, it was not really no more than a summary of the bible, which is not a reliable historical source. I recognise that the new lead has no citations - this is a fault, and perhaps I should supply some. [[User:PiCo|PiCo]] ([[User talk:PiCo|talk]]) 02:24, 28 January 2011 (UTC)
+
+:Besides that. The introduction, as it currently stands, places more focus on the subsequent fate of the area rather than the Kingdom itself. Two centuries of archaelogical research and theories on this minor state are not even mentioned. [[User:Dimadick|Dimadick]] ([[User talk:Dimadick|talk]]) 22:47, 28 January 2011 (UTC)
+
+::You're right. I've cut it back and it now deals with the birth and death of Judah as known from archaeology. It does need to be expanded, because more than this is known. [[User:PiCo|PiCo]] ([[User talk:PiCo|talk]]) 00:29, 29 January 2011 (UTC)
+
+== Serious lack of photos and illustrations in the article ==
+
+please do something about it, thanks.
+
+
+== This article is outdated ==
+
+A serious deficiency in this entry: The author assumes that the Kingdom of Judah existed no earlier than the 9th century BCE, and the first Judean king he finds in external sources is Hezekiah. This claim is 16 years out of date.
+The Tel Dan Inscription, written by an Aramean king, Hazael II, mentions Ahaziah, King of Judah and contemporary of Jehoram, King of Israel, both of whom Hazael claims to have defeated and killed in battle - an event that occurred in the mid-9th century BCE. Moreover, he entitles Ahaziah as king of &quot;the House of David&quot;, his term for the Kingdom of Judah. This is a typical usage of that period - naming the kingdom for the founder of the ruling dynasty. Similarly, Amos calls Aram Damascus &quot;the House of Hazael&quot;, and Assyriaqn inscriptions of the period entitle Israel &quot;bit Humri&quot; - &quot;the House of Omri&quot;. What this meaqns is that the ruling dynasty of Judah was founded by King David, and that this occurred at some time before King Ahaziah. Thus, there is no reason why we should not accept the list of Judean kings presented in Kings as historical, and date the founding of the dynasty back to the 10th century BCE (the regnal years of David and Solomon appear to be typological (40 years apiece), which is why I refrain from writing &quot;early 10th century&quot;). Why should anyone invent these kings? To fill in the gap between David and Ahaziah? Unacceptable. The most one can say is that not all words and deeds attributed to them by the Deuteronimistic redactor of Kings are historical.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Yonsaf|Yonsaf]] ([[User talk:Yonsaf|talk]] • [[Special:Contributions/Yonsaf|contribs]]) 08:25, 9 October 2011 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+:We need a reliable source to make the sort of changes you suggest. --[[User:Steven J. Anderson|Steven J. Anderson]] ([[User talk:Steven J. Anderson|talk]]) 08:46, 9 October 2011 (UTC)
+
+::Note, however, that the current sources are dated 2007 and 2011 (the last one by the media, and not as important). So it would be nearly impossible to present something discovered 16 years ago that would somehow contradict these reports. An editor would have to somehow demonstrate that these (newer) supposed experts had &quot;overlooked&quot; these &quot;Ahaziah&quot; discoveries made years before. There appears to be a gap here between an initial report made 16 years ago and subsequent analysis by other experts which may have placed the older findings into eclipse. It would be nice to demonstrate otherwise. I hope you are successful. [[User:Student7|Student7]] ([[User talk:Student7|talk]]) 17:15, 13 October 2011 (UTC)
+
+==Archeology==
+It is possible that we will need a &quot;minimalist&quot; vs &quot;maximalist&quot; article or statement in '''every''' article on pre-Alexandrian Israel/Judah/Jerusalem. Inserting it in one article alone seems insufficient, IMO. [[User:Student7|Student7]] ([[User talk:Student7|talk]]) 01:42, 17 October 2011 (UTC)
+
+== MAP ==
+
+Here is a nice map for you guys if you find a place for it.
+
+[[File:1759 map Holy Land and 12 Tribes.jpg|thumb|250px|''The Holy Land, or Palestine, showing not only the Ancient Kingdoms of Judah and Israel in which the 12 Tribes have been distinguished, but also their placement in different periods as indicated in the Holy Scriptures.'' Tobias Conrad [[Lotter]], [[Geographer]]. [[Augsburg]], [[Germany]], 1759'']]
+
+[[User:Gsonnenf|Gsonnenf]] ([[User talk:Gsonnenf|talk]]) 11:05, 8 March 2012 (UTC)
+
+:I find it hard to read. Too fussy and too colored. Even when magnified, but thanks for looking.
+:Also, have we ever found archeological evidence of the &quot;ten northern tribes.&quot; [[User:Student7|Student7]] ([[User talk:Student7|talk]]) 13:30, 12 March 2012 (UTC)
+
+== The Thirteen Tribes of Israel ==
+
+In the order of birth the twelve sons of Jacob are Reuben, Simeon, Levi, Judah, Dan, Naphtali, Gad, Asher, Issachar, Zebulun, Joseph and Benjamin, and they become the ancestors of thirteen tribes, because Joseph has two sons, Mannasseh and Ephraim which become two tribes, leaving one Tribe upon the shepherd stone not numbered among the twelve tribes.
+
+Genesis Chapter 35 Verses 22 to 26 Genesis Chapter 48 Verses 5 Genesis Chapter 49 Verse 24
+
+During the days of Moses and shortly thereafter, the tribe of Levi stood upon the shepherd stone, not being numbered among the twelve numbered Tribes, and Levi was given no inheritance in the Promised Land, so that all Levi dwelt among the twelve numbered Tribes, as the only Priesthood in Israel, until the days of Samuel of the Tribe of Ephraim, which was given to Ephraim  because the sons of Joseph obtained the birthright.
+
+Number Chapter 1 1 Chronicles Chapter 5 Verses 1-2
+
+The Levitical High Priest Eli, had sinned against Yahweh, and Samuel was raised up as a new High Priest placing the Tribe of Ephraim not numbered among the twelve Tribes, as a new Priesthood upon the shepherd stone unto this day, even though the Levitical Priesthood continues.
+
+1 Samuel Chapters 1 to 3
+
+Saul of the Tribe of Benjamin was anointed as King of Israel, but he sinned against Yahweh, and David of the Tribe of Judah was anointed as King in his place. 
+
+1 Samuel Chapter 9 1 Samuel Chapter 16
+
+David’s son Solomon forsook Yahweh because of the influence of evil women, and even failed to mention the name Yahweh in his writings of Ecclesiastics and the Song of Solomon, (the only two scrolls of the twenty four scrolls of the Tanakh besides Ester, that do not contain the name Yahweh,) so in Solomon’s son’s days, the Kingdom was divided. 
+
+1 Kings Chapter 11 verse 4
+
+The Tribe of Benjamin was given to the house of David and the Tribe of Judah as the southern Kingdom, the Kingdom of Judah made of just two Tribes, and ten Tribes including Levi were given unto the Tribe of Ephraim as the northern Kingdom Israel, leaving Ephraim not numbered among the twelve Tribes.  [[User:JosephLoegering|JosephLoegering]] ([[User talk:JosephLoegering|talk]]) 18:44, 10 March 2012 (UTC)
+
+:Also, in both the map above and this contribution, 12-13 tribes are discussed. Yet the article is about the Kingdom of Judah, the 2-3 southern tribes. How would any of this be used to improve '''this''' article? [[User:Student7|Student7]] ([[User talk:Student7|talk]]) 13:34, 12 March 2012 (UTC)
+
+== Reorganization of Headings? ==
+
+I noticed that most of the article is under the heading &quot;Biblical Narrative.&quot;  However, the &quot;Clash of Empires&quot; and &quot;Destruction and dispersion&quot; subheadings appear to be more based on archaeology and research than on the biblical narrative.  For example:
+
+:Necho then joined forces with the Assyrian Ashur-uballit II and together they crossed the Euphrates and lay siege to Harran. The combined forces failed to capture the city, and Necho retreated back to northern Syria. The event also marked the disintegration of the Assyrian Empire.
+
+Although no citation is given, this assertion appears to be based on extra-biblical authority. So I'm wondering if these sections really belong under the &quot;Biblical Narrative&quot; umbrella, or if perhaps they can be combined with the &quot;Archaeological Record&quot; section for a complete discussion of scientific/historical inquiry into the actual history of the Kingdom of Judah.--[[User:BenEsq|BenEsq]] ([[User talk:BenEsq|talk]]) 04:33, 16 January 2014 (UTC)
+:Hi, I agree that material that isn't sourced from biblical texts belongs outside the biblical-narrative section. However, IMO to move them there we'll need the extra-biblical sources. --[[User:Dailycare|Dailycare]] ([[User talk:Dailycare|talk]]) 20:06, 16 January 2014 (UTC)
+	</talkpage>
+</article>

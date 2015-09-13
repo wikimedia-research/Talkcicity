@@ -1,0 +1,9 @@
+<article id="12962702" title=Talk:The Unearthly>
+	<talkpage id="12962702" title="Talk:The Unearthly">
+{{WikiProjectBannerShell|1=
+{{WikiProject Television|episode-coverage=Yes|class=start|importance=low|listas=Unearthly, The}}
+{{WikiProject Horror|class=start|importance=low}}
+{{WikiProject Film|American-task-force=yes|class=start}}
+}}
+	</talkpage>
+</article>

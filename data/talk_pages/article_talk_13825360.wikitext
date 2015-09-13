@@ -1,0 +1,8 @@
+<article id="13825360" title=User talk:Aybaybaybay>
+	<talkpage id="13825360" title="User talk:Aybaybaybay">
+
+
+== October 2007 ==
+{{{icon|[[Image:Information.svg|25px]] }}}Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits{{{{{subst|}}}#if:Towson High School|, such as the one you made to [[:Towson High School]],}} did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed.  Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism1 --&gt; [[User:Mysdaao|Mysdaao]] &lt;sup&gt;[[User talk:Mysdaao|talk]]&lt;/sup&gt; 17:31, 20 October 2007 (UTC)
+	</talkpage>
+</article>

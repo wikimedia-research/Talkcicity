@@ -1,0 +1,10 @@
+<article id="15239069" title=Talk:Andrzej Dziubek>
+	<talkpage id="15239069" title="Talk:Andrzej Dziubek">
+{{WikiProject Biography
+|living=yes
+|class=stub
+|listas=Dziubek
+}}
+{{WikiProject Poland|class=stub|importance=low}}
+	</talkpage>
+</article>

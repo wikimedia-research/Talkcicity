@@ -1,0 +1,5 @@
+<article id="7874228" title=User talk:69.244.217.102>
+	<talkpage id="7874228" title="User talk:69.244.217.102">
+[[Image:Stop hand.svg|left|30px]] Welcome to Wikipedia. We invite everyone to contribute constructively to our encyclopedia. Take a look at the [[Wikipedia:Introduction|welcome page]] if you would like to learn more about contributing. However, unconstructive edits{{#if:Sony Computer Entertainment|, such as those you made to [[:Sony Computer Entertainment]],}} are considered [[Wikipedia:Vandalism|vandalism]]. If you continue in this manner you may be '''[[Wikipedia:blocking policy|blocked]] from editing without further warning'''. Please stop, and consider improving rather than damaging the work of others. Thank you. &lt;!-- Template:Blatantvandal (serious warning) --&gt;  [[User:R'n'B|Russ]] [[User talk:R'n'B|(talk)]] 18:23, 10 November 2006 (UTC)
+	</talkpage>
+</article>

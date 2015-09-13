@@ -1,0 +1,5 @@
+<article id="46224923" title=Talk:Tourian>
+	<talkpage id="46224923" title="Talk:Tourian">
+{{WikiProject Anthroponymy|class=List|importance=}}
+	</talkpage>
+</article>

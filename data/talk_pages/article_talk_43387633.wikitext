@@ -1,0 +1,5 @@
+<article id="43387633" title=Talk:Honeymoon (1928 film)>
+	<talkpage id="43387633" title="Talk:Honeymoon (1928 film)">
+{{WikiProject Film|American=yes|needs-image=yes|class=Stub|Silent=yes}}
+	</talkpage>
+</article>

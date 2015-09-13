@@ -1,0 +1,7 @@
+<article id="6673991" title=Talk:List of Billboard 200 number-one albums of 1996>
+	<talkpage id="6673991" title="Talk:List of Billboard 200 number-one albums of 1996">
+{{talkheader}}
+{{WPCharts|class=list|importance=}}
+{{album|class=list}}
+	</talkpage>
+</article>

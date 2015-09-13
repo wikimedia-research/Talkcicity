@@ -1,0 +1,32 @@
+<article id="5147916" title=Talk:Grid cell>
+	<talkpage id="5147916" title="Talk:Grid cell">
+{{WikiProject Physiology|class=|importance=mid|field=cell}}
+{{WikiProject Neuroscience|importance=mid|class=Start}}
+
+==Untitled==
+There really should be some caption on the figures.
+
+:Taken care of. [[User:Digfarenough|Digfarenough]] 23:32, 11 July 2006 (UTC)
+
+=Description of grid cells=
+This one line is taken almost verbatim from Hafting et. al. 2005
+&quot;a grid cell has multiple firing fields, with regular spacing, which tesselate the environment in a hexagonal pattern.&quot;
+whoever wrote that, is having as hard a time as I am understanding it. Once I figure out what that means, I'll update it, however, if someone already understands it, please remove the jargon which I encounter entirely too much as a research student. [[User:Paskari|Paskari]] 17:56, 10 October 2007 (UTC)
+
+:It probably was taken verbatim: It was Torkel Hafting who started the article and wrote that line. I don't know which jargon you encounter too much as a research student. I'll do a little cleaning up of wording... [[User:Digfarenough|dig&lt;i&gt;far&lt;/i&gt;enough]] ([[User talk:Digfarenough|talk]]) 21:40, 12 October 2007 (UTC)
+
+== conflict of interest declaration ==
+
+I added a reference to the Giocomo et al. (2007) paper in a small, new section. I was an author on that paper, so I wanted to make clear that I added it. I believe I described the results neutrally and I think the results are important for the content of this article, as they provided the first hint of an underlying mechanism to the grid cell spatial firing properties.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Digfarenough|Digfarenough]] ([[User talk:Digfarenough|talk]] • [[Special:Contributions/Digfarenough|contribs]]) 22:05, 12 October 2007 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+:(Oops, yeah: that was me) [[User:Digfarenough|dig&lt;i&gt;far&lt;/i&gt;enough]] ([[User talk:Digfarenough|talk]]) 17:19, 13 October 2007 (UTC)
+
+: Does anyone know why this section was removed from the article on 4 June 2009? [[User:Digfarenough|dig&lt;i&gt;far&lt;/i&gt;enough]] ([[User talk:Digfarenough|talk]]) 20:02, 23 December 2009 (UTC)
+
+== models ==
+
+Someone ought to write much more about models of grid cells. At present it sounds as if Burak and Fiete 2009 is the only current model, which is far from the truth 
+(see for instance O'Keefe and Burgess 2005, McNaughton et al 2006, Fuhs and Touretzky 2006, Blair et al 2007, Burgess et al 2007, Guanella et al 2007, Hasselmo et al, 2007, Gaussier et al 2007, Kropff and Treves 2008, Blair et al 2008, Burgess 2008, Hasselmo 2008). Indeed, at the moment it seems that only continuous attractor models are cited, completely omitting oscillatory interference models (e.g. Burgess, Barry, and O'Keefe 2007, which is a good starting reference, though much more has been done with that mechanism). Also the phrase &quot;In most models, such as those of...&quot; is curious: are there path integration models that don't require those three features? Seems to me that those are all necessary for performing path integration. [[User:Digfarenough|dig&lt;i&gt;far&lt;/i&gt;enough]] ([[User talk:Digfarenough|talk]]) 20:18, 23 December 2009 (UTC)
+:The &quot;in most models&quot; was because there are about a hundred models by now, and I didn't dare to make a universal generalization.  I agree that an account of oscillatory interference models is needed -- I didn't add it because I have a personal aversion to models of that type and would find it hard to write neutrally (also I don't know the details very well), but they do seem to be the most popular models across the community. [[User:Looie496|Looie496]] ([[User talk:Looie496|talk]]) 21:35, 23 December 2009 (UTC)
+::I share your aversion, even though I'm one of the people doing a lot of work on those models! Ill try to write up a short description of the models at some point, though secretly I hope someone does the work for me, which is why I listed all those papers. [[User:Digfarenough|dig&lt;i&gt;far&lt;/i&gt;enough]] ([[User talk:Digfarenough|talk]]) 22:03, 23 December 2009 (UTC)
+	</talkpage>
+</article>

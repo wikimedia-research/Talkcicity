@@ -1,0 +1,36 @@
+<article id="32304556" title=User talk:Nathankresshubby>
+	<talkpage id="32304556" title="User talk:Nathankresshubby">
+
+
+'''Welcome!'''
+
+Hello, Nathankresshubby, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia!  I hope you like the place and decide to stay. Unfortunately, one or more of the pages you created, such as [[Northwood High]], may not conform to some of Wikipedia's [[Wikipedia:List of policies|guidelines]], and may soon be deleted. 
+
+There's a page about creating articles you may want to read called '''[[Wikipedia:Your first article|Your first article]]'''. If you are stuck, and looking for help, please come to the '''[[Wikipedia:New contributors' help page|New contributors' help page]]''', where experienced Wikipedians can answer any queries you have! Or, you can just type '''{{t|helpme}}''' on this page, and someone will show up shortly to answer your questions. Here are a few other good links for newcomers:
+* [[Wikipedia:Starting an article|Starting an article]]
+* [[Wikipedia:Your first article|Your first article]]
+* [[Wikipedia:Biographies of living persons|Biographies of living persons]]
+* [[Wikipedia:How to write a great article|How to write a great article]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Tutorial|Tutorial]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you have any questions, check out [[Wikipedia:Questions]] or ask me on my talk page. &lt;!-- Template:First article --&gt; Again, welcome!&amp;nbsp;[[User:Gurt Posh|Gurt Posh]] ([[User talk:Gurt Posh|talk]]) 14:19, 4 July 2011 (UTC)
+
+==[[Wikipedia:Criteria for speedy deletion|Speedy deletion]] nomination of [[:Northwood High]]==
+[[Image:Ambox warning pn.svg|48px|left|alt=|link=]]
+
+Please refrain from introducing inappropriate pages, such as [[:Northwood High]], to Wikipedia. Doing so is not in accordance with our [[Wikipedia:List of policies|policies]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. 
+
+If you think that this notice was placed here in error, contest the deletion by clicking on the button labelled &quot;Click here to contest this speedy deletion,&quot; which appears inside of the speedy deletion (&lt;code&gt;&lt;nowiki&gt;{{db-...}}&lt;/nowiki&gt;&lt;/code&gt;) tag (if no such tag exists, the page is no longer a speedy delete candidate). Doing so will take you to the talk page where you will find a pre-formatted place for you to explain why you believe the page should not be deleted. You can also visit the '''[[Talk:Northwood High|the page's talk page directly]]''' to give your reasons, but be aware that once tagged for ''speedy'' deletion, if the page meets the criterion, it may be deleted without delay. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the page that would render it more in conformance with Wikipedia's policies and guidelines.  &lt;!-- Template:Db-vandalism-notice --&gt;&lt;!-- Template:Db-csd-notice-custom --&gt; [[User:Gurt Posh|Gurt Posh]] ([[User talk:Gurt Posh|talk]]) 14:19, 4 July 2011 (UTC)
+
+== July 2011 ==
+
+[[Image:Information.svg|25px|alt=|link=]] Your recent edit to the page [[:List of Disney Channel series]] appears to have added incorrect information and has been [[Help:Reverting|reverted]] or removed. All information in this encyclopedia must be [[Wikipedia:Verifiability|verifiable]] in a [[Wikipedia:Identifying reliable sources|reliable]], published source. If you believe the information that you added was correct, please [[Wikipedia:Citing sources|cite the references or sources]] or before making the changes, discuss them on the article's [[Wikipedia:Talk page guidelines|talk page]]. Please use the [[Wikipedia:Sandbox|sandbox]] for any tests that you wish to make. Do take a look at the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] if you would like to learn more about contributing to our encyclopedia. Thank you.&lt;!-- Template:uw-error1 --&gt; --[[Special:Contributions/88.109.60.234|88.109.60.234]] ([[User talk:88.109.60.234|talk]]) 14:02, 11 July 2011 (UTC)
+
+[[File:Nuvola apps important.svg|25px|alt=|link=]] Please stop your [[Wikipedia:Disruptive editing|disruptive editing]]. If you continue to introduce inappropriate pages to Wikipedia, you may be [[Wikipedia:Blocking policy|blocked from editing]]. If you need guidance on how to create appropriate pages, try using the [[Wikipedia:Article wizard2.0|Article Wizard]].{{Z45}}&lt;!-- Template:uw-create3 --&gt; [[User:Gurt Posh|Gurt Posh]] ([[User talk:Gurt Posh|talk]]) 14:11, 11 July 2011 (UTC)
+
+[[Image:Stop hand nuvola.svg|30px|alt=|link=]] This is your '''last warning'''; the next time you remove a [[Wikipedia:Speedy deletions|speedy deletion]] notice from a page you have created yourself, as you did at [[:That's So Amber]], you may be '''[[Wikipedia:Blocking policy|blocked]] from editing without further notice'''. &lt;!-- Template:uw-speedy4 --&gt; [[User:Gurt Posh|Gurt Posh]] ([[User talk:Gurt Posh|talk]]) 14:19, 11 July 2011 (UTC)
+
+&lt;div class=&quot;user-block&quot; style=&quot;min-height: 40px&quot;&gt; [[Image:Stop x nuvola.svg|40px|left|alt=|link=]] You have been '''[[Wikipedia:Blocking policy|blocked]]''' '''indefinitely''' from editing for creating hoax articles.   If you would like to be unblocked, you may [[Wikipedia:Appealing a block|appeal this block]] by adding the text &lt;!-- Copy the text as it appears on your page, not as it appears in this edit area. Do not include the &quot;tlx&quot; argument. --&gt;{{tlx|unblock|2=reason=''Your reason here &amp;#126;&amp;#126;&amp;#126;&amp;#126;''}}, but you should read the [[Wikipedia:Guide to appealing blocks|guide to appealing blocks]] first. '''[[user:ErrantX|Errant]]''' &lt;sup&gt;([[User_talk:ErrantX|chat!]])&lt;/sup&gt; 14:27, 11 July 2011 (UTC)&lt;/div&gt;&lt;!-- Template:uw-blockindef --&gt;
+	</talkpage>
+</article>

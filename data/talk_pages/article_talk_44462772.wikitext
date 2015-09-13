@@ -1,0 +1,5 @@
+<article id="44462772" title=Talk:Leshtarka>
+	<talkpage id="44462772" title="Talk:Leshtarka">
+{{WikiProject Bulgaria|importance=low|class=stub}}
+	</talkpage>
+</article>

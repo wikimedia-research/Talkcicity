@@ -1,0 +1,5 @@
+<article id="29116050" title=Talk:List of 2005 This American Life episodes>
+	<talkpage id="29116050" title="Talk:List of 2005 This American Life episodes">
+{{WikiProject Radio|class=list|importance=mid}}
+	</talkpage>
+</article>

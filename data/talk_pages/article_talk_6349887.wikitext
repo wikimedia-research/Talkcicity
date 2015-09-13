@@ -1,0 +1,9 @@
+<article id="6349887" title=Talk:Carl Anthony Payne II>
+	<talkpage id="6349887" title="Talk:Carl Anthony Payne II">
+{{WikiProject Biography
+|living=yes
+|class=start
+|listas=Payne, Carl
+}}
+	</talkpage>
+</article>

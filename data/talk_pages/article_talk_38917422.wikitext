@@ -1,0 +1,11 @@
+<article id="38917422" title=Talk:Virginia Richmond Reynolds>
+	<talkpage id="38917422" title="Talk:Virginia Richmond Reynolds">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=no |class=Start |listas=Reynolds, Virginia Richmond |a&amp;e-work-group=yes}}
+{{WikiProject Visual arts|class=Start}}
+{{WikiProject Women's History|class=start |importance=mid}}
+{{WikiProject Women artists |class=Start}}
+{{WikiProject Chicago}}
+}}
+	</talkpage>
+</article>

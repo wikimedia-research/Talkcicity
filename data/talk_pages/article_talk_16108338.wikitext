@@ -1,0 +1,5 @@
+<article id="16108338" title=Talk:Landigou>
+	<talkpage id="16108338" title="Talk:Landigou">
+{{WikiProject France|class=Stub|importance=Low|commune=yes}}
+	</talkpage>
+</article>

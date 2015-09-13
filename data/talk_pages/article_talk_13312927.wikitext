@@ -1,0 +1,6 @@
+<article id="13312927" title=User talk:88.106.89.107>
+	<talkpage id="13312927" title="User talk:88.106.89.107">
+==September 2007==
+{{{icon|[[Image:Information.svg|25px]] }}}Please refrain from making unconstructive edits to Wikipedia{{{{{subst|}}}#if:Heat conduction|, as you did to [[:Heat conduction]]}}. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism2 --&gt; [[User:Face-2-face|Face-2-face]] 19:51, 17 September 2007 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="37387930" title=Talk:Kim Meen-whee>
+	<talkpage id="37387930" title="Talk:Kim Meen-whee">
+{{WikiProject Biography|living=yes|class=stub|sports-work-group=yes|sports-priority=low|listas=Kim, Meen-whee}}
+{{WikiProject Golf|class=stub|importance=low}}
+	</talkpage>
+</article>

@@ -1,0 +1,22 @@
+<article id="13795564" title=User talk:24.91.147.112>
+	<talkpage id="13795564" title="User talk:24.91.147.112">
+== [[Alligator]] ==
+
+You removed a fair amount of content from [[Alligator]], so I reverted your changes.  If you have good reasons to remove content, please say so in the edit summary or put a note on the talk page of the article and a &quot;see talk page&quot; note in the edit summary.  You're more than welcome to contribute to this encyclopedia; see below for the standard greeting.
+
+'''Welcome'''
+
+Hello, and [[Wikipedia:Introduction|welcome]] to Wikipedia! Thank you for [[Special:Contributions/{{BASEPAGENAME}}|your contributions]]{{#if:{{{art|}}}|, especially what you did for [[{{{art}}}]]|}}. I hope you like the place and decide to stay. Here are a few good links for newcomers:
+
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Wikipedia:How to edit a page|How to edit a page]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Tutorial|Tutorial]]
+* [[Wikipedia:How to write a great article|How to write a great article]]
+* [[Wikipedia:Manual of Style|Manual of Style]]
+
+You are welcome to continue editing articles without [[Special:Userlogin|logging in]], but you may wish to '''&lt;span class=&quot;plainlinks&quot;&gt;[{{fullurl:Special:Userlogin|type=signup}} create an account]&lt;/span&gt;'''. Doing so is free, requires no personal information, and provides several [[Wikipedia:Why create an account?|benefits]]. For one thing, if you edit without a username, your IP address is used to identify you instead.
+
+In any case, I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign your comments]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your IP address (or username if you're logged in) and the date. If you need help, check out [[Wikipedia:Questions]], ask me on {{#if:{{{1|}}}|[[user talk:{{{1}}}|my talk page]]|my talk page}}, or ask your question and then place &lt;code&gt;&lt;nowiki&gt;{{&lt;/nowiki&gt;[[:Category:Wikipedians looking for help|helpme]]&lt;nowiki&gt;}}&lt;/nowiki&gt;&lt;/code&gt; before the question on your talk page. Again, welcome! &lt;!-- Template:welcome-anon --&gt;      [[User:Enuja|Enuja]]  [[User talk:Enuja|(talk)]] 20:57, 18 October 2007 (UTC)
+	</talkpage>
+</article>

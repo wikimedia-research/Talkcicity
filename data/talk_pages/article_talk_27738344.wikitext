@@ -1,0 +1,6 @@
+<article id="27738344" title=Talk:Zwercheck>
+	<talkpage id="27738344" title="Talk:Zwercheck">
+{{WikiProject Mountains|class=Stub|importance=Low}}
+{{WikiProject Germany|class=stub|importance=low}}
+	</talkpage>
+</article>

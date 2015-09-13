@@ -1,0 +1,6 @@
+<article id="10237657" title=Talk:Preobrazhenskoye, Kamchatka Oblast>
+	<talkpage id="10237657" title="Talk:Preobrazhenskoye, Kamchatka Oblast">
+{{WPSU|class=Stub|importance=Low}}
+{{WikiProject Russia|class=Stub|importance=Mid|hist=yes|humgeo=yes}}
+	</talkpage>
+</article>

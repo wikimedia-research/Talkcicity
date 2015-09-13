@@ -1,0 +1,25 @@
+<article id="26953209" title=Talk:Sunrise Party>
+	<talkpage id="26953209" title="Talk:Sunrise Party">
+{{Skip to talk}}
+{{WikiProject Conservatism|class=|importance=}}
+{{WPJ|class=start|importance=low|politics=y}}
+__TOC__
+
+==Article name change+==
+It '''appears''' that the party called Sunrise Party of Japan has been replaced by the party called Sunrise Party; that the SPJ will disappear and SP proceed. That's how this article had been rewritten in the intro when I came to it today and, while not spelled out in any source I've seen, it fits with what I've seen about the launch of SP. (The names in Japanese are not as similar to each other as they are in English; see article.) 
+
+There's a smaller question of whether &quot;Sunrise Party&quot; will win out over &quot;The Sunrise Party&quot;   as the best way to present the party's new name in English. It's used with the capitalized article (&quot;The&quot;) in ''The Japan Times'' (which likes its own articled name) but was not so presented in this article intro. (The SPJ also didn't have the article.) I've gone with SP for the time being.
+
+If I'm correct in my first paragraph, then the name of this article should be changed (the article should be &quot;moved&quot;, is the Wiki term). For the time, this is just a subject to be discussed here, if there are any other opinions on it. 
+
+I convinced myself [[Sunrise Party]] was the likely new page/article name so I've gone ahead and created that page as a [[Help:Redirect|Redirect]] page which will for the time direct searches for Sunrise Party to this Sunrise Party of Japan page. If consensus is the new party should have the article in its title (or one just thinks its an important variant name), the redirect page I've created can remain and [[The Sunrise Party]] page can be created with the SP and the SPJ pages directing to it. If we proceed with the move (a Wiki admin may have to do it) the contents of this SPJ page will be moved to the SP (or TSP) page and the redirect template will move here, to direct traffic there.
+
+Clear? Hope so. I'll move forward on this if there's no comment in a few days; or anyone else can.
+
++ I put a bit of party platform in party co-leader Ishihara's [[Shintaro Ishihara#The Sunrise Party|Political views article section]]. I decided not to duplicate it over here. More platform, and more on coalition-building, would be good in this article here. Cheers. [[User:Swliv|Swliv]] ([[User talk:Swliv|talk]]) 17:27, 14 November 2012 (UTC)
+
+:Yes, it seems that the article should be re-titled. If the party had a long history it might be worth keeping it as two articles, but given the short history and degree of continuity just renaming the article and including the history seems fine. As for the form the new name will take, according to [http://www.yomiuri.co.jp/dy/national/T121114004875.htm| an article in today's Daily Yomiuri] the name is &quot;The Sunrise Party&quot;. 
+:--[[User:Josephus37|Josephus37]] ([[User talk:Josephus37|talk]]) 02:51, 15 November 2012 (UTC)
+::Done as I suggested above [http://en.wikipedia.org/w/index.php?title=Sunrise_Party&amp;diff=523485618&amp;oldid=523359216 by another ed. on 17 Nov.]. For completeness I created the &quot;The ...&quot; redirect page just now. Good. Thanks. [[User:Swliv|Swliv]] ([[User talk:Swliv|talk]]) 17:39, 21 November 2012 (UTC)
+	</talkpage>
+</article>

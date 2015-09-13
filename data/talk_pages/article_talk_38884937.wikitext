@@ -1,0 +1,894 @@
+<article id="38884937" title=Talk:Voyager 1/Archive 1>
+	<talkpage id="38884937" title="Talk:Voyager 1/Archive 1">
+{{aan}}
+
+== Jupiter and Saturn ==
+
+I looked for sources on the minimum distance to Jupiter because of the change 350,000 -&gt; 349,000 and [http://nssdc.gsfc.nasa.gov/nmc/tmp/1977-084A-traj.html found] the number of 4.89 Jovian radii (71398 km) which would make a distance of 349,000 km as now in the article (349,136.22 km but with only 3 digits on the first number the missing 136.22 km become pointless (try with 4.885 to 4.894 RJ))--[[User:Deelkar|Deelkar ]] [[User_talk:Deelkar|(talk)]] 04:41, 14 Dec 2004 (UTC)
+
+== How far out is Voyager? ==
+
+The article says Voyager 1 was 100 AU's from the sun on November 5, 2003. But then it says it was 93.2 AU's from the sun in September 2004. I assume it didn't backtrack. Which figure is correct? [[User:MK2|MK2]] 05:51, 5 Jan 2005 (UTC)
+
+:I think that 100 AU is supposed to be 90. [http://voyager.jpl.nasa.gov/]--[[User:Deglr6328|Deglr6328]] 05:54, 5 Jan 2005 (UTC)
+
+:Can it still communicate with earth that far out?
+::Of course[[Special:Contributions/74.249.82.221|74.249.82.221]] ([[User talk:74.249.82.221|talk]]) 21:02, 23 September 2008 (UTC)
+
+===Response (How far out is Voyager)===
+
+If you look here, [http://voyager.jpl.nasa.gov/mission/weekly-reports/index.htm], you can see that as of November 25, 2005, Voyager 1 was at a distance of 9,059,000,000 miles from the Sun. Since an AU is approximately 93,000,000 miles, this gives a figure of about 97 AU.
+
+And yes, you can clearly see from the page that communication with Earth is still possible via the Deep Space Network.
+
+Voyager 2 was about 78 AU from Sol on the same date.
+
+== Mariner 11? ==
+
+I seem to recall seeing somewhere that ''Voyager 1'' was initially designated Mariner 12 and Voyager 2 was Mariner 11.  It may have been from an article in &quot;Science&quot; around the time of the launches (1977).--[[User:Clemmentine|Clemmentine]] 01:23, 13 Jan 2005 (UTC)
+:That is old information of historical interest only. The program was also called the &quot;Mariner Jupiter-Saturn&quot; program at one time.[[Special:Contributions/74.249.82.221|74.249.82.221]] ([[User talk:74.249.82.221|talk]]) 21:04, 23 September 2008 (UTC)
+
+== I don't like this page ==
+
+It is poorly written, as if everyone understands astronomical language. The links are shite, the order of facts is as if written by a lunatic (excuse the pun) and the link to the [[heliosheath]] which I found on the main page is a load of nonsense. Please, burn this page, I hate it. In fact I have had enough of Wikipedia, it has become a load of shit peddled by people who feel enlightened, a bit like advertising consultants. I was really optimistic at one point, as if the ''Foundation'' had come true, but with every passing day Wikipedia makes itself clearer - it is a good few gigabytes of utter rubbish.
+
+See talk in [[Talk:Voyager program]].
+
+:Perhaps instead of whining like a total ass-hat you could click the little button at the top of the article's page that says &quot;EDIT&quot; and do something about what you see as a bad article. --[[User:Deglr6328|Deglr6328]] 03:44, 26 May 2005 (UTC)
+
+:I find the Wikipedia more useful (and of course, more current), than most other encyclopedias I used to depend on; don't despair, some articles are more mature than others.   [[User:Ebeisher|Ebeisher]] 16:31, 26 May 2005 (UTC)
+
+:I'm sorry to hear that you don't find Wikipedia helpful.  Deglr does raise a complelling point, however - every passing day, the Wikipedia gets better!  [[User:Oracleoftruth|Oracleoftruth]] 06:28, May 28, 2005 (UTC)
+
+:This is one of the problems with the Wikipedia - the desire to dumb down every piece of human knowledge to third-grade level. I was delighted to find this level of contribution in Wikipedia--[[Special:Contributions/81.154.52.107|81.154.52.107]] ([[User talk:81.154.52.107|talk]]) 17:24, 6 July 2008 (UTC)
+
+::This is another example of the very common aspect of younger people of advertising their ignorance and stupidity, rather than rolling up their sleeves and doing something about it. Those crybabies! When I was in high school, college, and graduate school, I at least had enough sense to keep my mouth shut, rather than advertising my ignorance loudly. In most cases, learning anything that is worth anything takes time and effort.[[Special:Contributions/74.249.82.221|74.249.82.221]] ([[User talk:74.249.82.221|talk]]) 21:09, 23 September 2008 (UTC)
+
+:::[http://simple.wikipedia.org/wiki/Voyager_1 Ahem...] [[Special:Contributions/76.79.237.162|76.79.237.162]] ([[User talk:76.79.237.162|talk]]) 09:05, 5 September 2009 (UTC)
+
+I am a general, non-specialist reader and I like this page! I find it clear and interesting - which may very well indicate the extent of my ignorance. I do have one quibble that applies to much of Wikipedia, and that is the use the present tense and of words like &quot;currently&quot; without any indication of the date of writing. Surely it would be simple enough to add something like &quot;as of 16 September 2010&quot;, wouldn't it? [[User:Dawright12|Dawright12]] ([[User talk:Dawright12|talk]]) 10:15, 16 September 2010 (UTC)
+
+Regarding tense, the article also uses quite a bit of past tense verbiage (&quot;The spacecraft also included 11 scientific instruments&quot;).  As the spacecraft is still in operation, shouldn't we use present tense?  Doesn't the information still apply?  It makes it sound like Voyager is a thing of the past.
+[[Special:Contributions/66.245.101.52|66.245.101.52]] ([[User talk:66.245.101.52|talk]]) 02:01, 26 August 2011 (UTC)WanJae
+
+== Structural layout ==
+
+Some questions hopefully someone can answer (and add :-):
+* How does the satellite work?
+* How does it communicate to Earth
+* When will we lose track of it?
+(above is not signed nor dated)
+
+: See also [[Voyager program]]. ([[User:SEWilco|SEWilco]] 05:04, 27 May 2005 (UTC))
+
+Some answers hopefully someone can question (and add :-):
+* It floats with anti-gravity forces driving it away from Earth.
+* The satelite moves further and move further out in space meanwhile sending a signal back to the space-station at NASA.
+* IF we will lose track of it, we don't know when, but I presume in a few years, at worst.
+(above is not dated or signed)
+
+...kidding!--[[User:OleMaster|OleMurder]] 09:52, 27 May 2005 (UTC)
+
+:I doubt that we know exactly where the spacecraft is, rather that we know where it should be (it's only significantly affected by the sun and it's own thrusters), and that along this specific line we point the [http://voyager.jpl.nasa.gov/news/profiles_dsn.html DSN] antennas (Deep-Space Network), we get signal.  &quot;Losing track&quot; of it is a really grey area, We could probably plot where it will be in a few million years, courtsey of Sir Issac Newton, and not be off by much.  The craft communicates with it's high-gain antenna via DSN at a rate of 16b/s up, 160b/s down [http://voyager.jpl.nasa.gov/spacecraft/index.html] (and a 26 hour ping :P).  &quot;How does it work&quot; is a bit vague, it's powered by the radioisotope generators as mentioned in the article, but how the Low-Energy Charged Particle detector works is, IMHO, overkill. [[User:Prometheus235|Prometheus235]] 01:12, 29 May 2005 (UTC)
+
+--------------------------
+
+:Well, presumably we have a pretty good idea where it is, simply by measuring the time taken for its signal to reach earth ! Also we know the direction where the signal is coming from - anonymous
+
+::Also, by measuring the Doppler effects on the radio link between the Voyagers and the Earth, the velocities and accelerations of the Voyagers can be measured. Also, there is a far better way of measuring the distance to the Voyagers than simply measuring the time delay. Then, all of this information goes into a very complicated guidance and navigation system with big computers in the DSN. All of this is probably way beyond your intelligence level anyway, so never mind![[Special:Contributions/74.249.82.221|74.249.82.221]] ([[User talk:74.249.82.221|talk]]) 21:15, 23 September 2008 (UTC)
+
+== Digital camera on board ==
+
+Voyager took pictures of Jupiter, with a considerable good resolution. I would like to know how these pictures were made, as Digital Photography in a resolution like the Voyager camera hit commercial markets as late as 1999 - did the Voyager have a digital camera installed? thanks, [[user:Abdull|Abdull]]
+
+:For a description of the detector technology, you might want to look at [[Charge-coupled device|CCD]].  It doesn't have a history section, but they were developed quite a while before becoming reasonable in digital cameras, because of price, and I think also because it was difficult to make them work well at room temperature.  Digital cameras also require electronics which became small and cheap enough only recently.  I'm not absolutely positive CCDs were developed before the Voyagers, but if not, they probably had something like a CCD but simpler. 03:13, 27 May 2005 (UTC)
+
+: The article '''[[Voyager program]]''' describes the instruments.  It mentions it was a slowscan [[vidicon]] camera.  If memory serves me correctly, that is a vacuum-tube TV camera.  The plate upon which the image was focused built up a charge which was detected by a scanning electron beam.  For this application, the tube would be designed to hold an image for a while so long-exposure images could be formed.  Aha, I found a diagram; I'll update [[vidicon]].  The image was slowly scanned and recorded on tape in digital form, for later retransmission to Earth.  ([[User:SEWilco|SEWilco]] 04:01, 27 May 2005 (UTC))
+
+::Hi SEWilco, great information you dug up! So, to correct common misbelief, it'll be good to mention it was NOT a CCD, but a [[vidicon]] that recorded the Voyager images. Do you have a link to the information source about the whole &quot;image acquiring and sending to earth&quot; process? I'd like to update the Voyager 1 section with this info. --[[User:Abdull|Abdull]] 5 July 2005 21:09 (UTC)
+
+::: No, I don't have a source for the image handling.  My memory is that the digital tape recorder captured images along with other data, but I am not aware of a source which specifically states so.  ([[User:SEWilco|SEWilco]] 5 July 2005 22:10 (UTC))
+
+::::The first space probe with a CCD (electronic digital) picture camera was the ''[[Galileo (spacecraft)]]'' probe, originally-planned for launching in 1982, but actually launched - after a long series of delays - in 1989. As you can see, ''Galileo'' was well-after the two Voyagers.[[Special:Contributions/74.249.82.221|74.249.82.221]] ([[User talk:74.249.82.221|talk]]) 21:20, 23 September 2008 (UTC)
+
+== Does the camera still work ==
+
+If we mention the 1990 &quot;family portrait&quot; and the end-of-life times of specific instruments, we should also say whether the camera(s) (or other specific instruments) still work(s). So, does it? Would it be possible to take another &quot;family portrait&quot; or other photo and send it to earth? Is this not done to save energy? [[User:Multi io|Multi io]] ([[User talk:Multi io|talk]]) 00:29, 23 April 2009 (UTC)
+
+:I believe that given the current distance out, and the resolution of a digital camera built a third of a century ago, another 'family portrait' would show nothing.  Except the sun itself, as a small bright spot.  Not much reason to take a picture when nothing would be visible.  Better to keep the instruments focused on possible new things to be learned. [[User:T-bonham|T-bonham]] ([[User talk:T-bonham|talk]]) 05:27, 18 June 2012 (UTC)
+
+== We rule! ==
+
+Aah; isnt human kind great? We actually managed to send out a probe all the way to the other side of the solar system! How cool - and that baby can keep on moving for 15 more years! Cor blimey, hats off to the human race. --[[User:Thewayforward|Thewayforward]]
+
+:It'll work for 15 more years or so, but keep moving for a very long time. [[User:Prometheus235|Prometheus235]] 01:17, 29 May 2005 (UTC)
+
+
+Don't feel so special, humans are guilty of thinking they are greater then they really are.
+
+
+If we kill each other, isn't it a scary thought that this is all that we have, our legacy, our gift to the races across the galaxy, maybe when any of our probes enter a new solar system, one of the probes lands on planet, and the natives end up revering the golden disk as a religious item, the holy grail of their planet? I guess we won't be forgotten in vain. -- [[User:Psyfyman81]]  &lt;small&gt;—Preceding [[Wikipedia:Signatures|comment]] was added at 05:33, 6 February 2008 (UTC)&lt;/small&gt;&lt;!--Template:Undated--&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== What about the ocean? ==
+
+I think that this is a great accomplishment. I have great faith in the success of this project and the space program in general. But we know more about space than we do the ocean, on our own planet. We know little of giant squids, sea plants, and other things that we should probably research before it is too late. Maybe NASA or the Russian Space Association or someone could make a division that studies the ocean. Some of the same technology can be used underwater, I'm sure. I know I sound like some freakazoid wildlife advocate or something, but I think that we should concentrate on our own planet first. 
+Bobbo King[[User:Bobbo king|bobbo king]] 21:50, May 27, 2005 (UTC)
+
+:Let's do both! [[NOAA]]. [[User:Kmccoy|kmccoy]] [[User_talk:Kmccoy|(talk)]] 05:35, 28 May 2005 (UTC)
+
+
+
+I think that is a great idea, why should we invest so much with outerspace when we have such a wonderfully diverse and unexplored planet right in front of our eyes?
+
+If you look at sites such as TED, you will see that some farsighted (!) people are doing just that with exciting results. [[User:Dawright12|Dawright12]] ([[User talk:Dawright12|talk]]) 10:43, 16 September 2010 (UTC)
+
+== Numbers in the article ==
+
+I hope the people messing with the numbers in the article know what they're doing. Personally I don't think we need numbers accurate to 3 digits updated monthly... [[User:Haukurth|Haukurth]] 00:35, 30 May 2005 (UTC)
+
+:Agreed. I am also getting the impression that converted numbers may have been used to update the non-converted, original numbers. Conversions are fine, but make sure the other editors know what the original numbers were. [[User:Rl|Rl]] 06:36, 30 May 2005 (UTC)
+
+::[http://voyager.jpl.nasa.gov/mission/weekly-reports/ Original numbers.]  What units should be used for distances and speed throughout the article?  NASA's page uses km; mi for distance, and km/s; mph for speed, and I figure something a little easier to grasp like [[AU]] is also nice.  Along with wherever units are cited, maybe include a disclaimer, e.g. &quot;as of May 2005&quot;?  [[User:Prometheus235|Prometheus235]] 15:18, 30 May 2005 (UTC)
+
+:::I suggest adding &lt;nowiki&gt;&lt;!--inline comments--&gt;&lt;/nowiki&gt; to avoid confusion in the future. It won't clutter the article but warn editors about to embark on number conversion quests. [[User:Rl|Rl]] 15:50, 30 May 2005 (UTC)
+
+:As of now, the masses of the probe (815 kg in the article vs. 715 kg in the side-box) are rather discrepant.  I don't know what the real data is (and don't have the time now...)  Could somebody clean this up? [[User:Topquark170GeV|Topquark170GeV]] 16:25, 10 November 2006 (UTC)
+
+== Billions ==
+
+Here's my ''ceterum censeo'': I am not happy with the use of billions. The [[Wikipedia:Manual of Style (dates and numbers)|Manual of Style]] suggests to avoid the use of that word. It is very misleading to pretty much everyone who learned English as a second language (because for them, it means 10&lt;sup&gt;12&lt;/sup&gt;). I agree with the manual which suggests either scientific notation or explaining the word the first time it's used. [[User:Rl|Rl]] 22:09, 31 May 2005 (UTC)
+
+
+== What scientific discoveries did Voyager 1 make? ==
+
+I would like to know more about what scientific discoveries were made by this space craft as well as what scientfic instruments were used.
+
+:I can't help you with that, theres way to many discoveries the Voyager 1 made and is still making, and please sign your signature (presuming you have one). Thank you -- [[User:Legolost|Legolost]] &lt;small&gt;[[User Talk:Legolost|EVIL, EVIL! ]] &lt;/small&gt; 04:26, 4 September 2006 (UTC)
+
+::Read the article on the [[Voyager program]] and surf the Internet for other articles. There is no reason to ask huge open-ended questions - when you have the huge [[Internet]] to help educate you. Or are you just too lazy to do so? When I was young and alive in the 1970s and 1980s, I would have given my right arm to have had the Internet available to me.[[Special:Contributions/74.249.82.221|74.249.82.221]] ([[User talk:74.249.82.221|talk]]) 21:27, 23 September 2008 (UTC)
+
+== whats keeping up the Voyagers ==
+
+There is some verry intresting news about Voyager, namely it's slowing down.&lt;br&gt;
+Check on the [[Internet]] - There are various sources who confirm this including NASA.&lt;br&gt;
+Checkout with Google, what still bafles scientist is why this happens.&lt;br&gt;
+Because of this a lot of scientist doupt that we have a good model of the behavior of gravity&lt;br&gt;&lt;br&gt;
+It wouldn't harm the article if it got a little updated with such info.&lt;br&gt;
+As for the moment the voyagers also function as our first gravity effect probes. And so still performs a scientiffic intresting purpose. &lt;br&gt;see http://www.space.com/scienceastronomy/mystery_monday_041018.html
+:You're confusing the Voyagers with the Pioneers (see [[Pioneer anomaly]]). Unfortunately, the Voyagers are not suitable for the study of the anomaly. Because both Pioneer 10 and 11 are dead, there are currently no probes studying the Pioneer anomaly. But that doesn't make Voyagers scientifically unimportant, since they still make very important studies about the outer regions of Sun's magnetosphere.--[[User:Jyril|Jyril]] 19:38, 21 February 2006 (UTC)
+
+== Voyager 1 is now 100 AU from the sun! ==
+
+Voyager 1 is now 100 AU from the sun!  I edited the main article to reflect this important milestone. [[User:J P|J P]] 18:54, 12 August 2006 (UTC)J P
+
+== Passing Voyager 1 ==
+
+This page had said that Voyager 1 was going to be the farthest object until 2070. The mention in the preceeding sentence implied that it would be New Horizons that would pass it then. But the New Horizons team has said that that craft will never pass Voyager 1.[http://pluto.jhuapl.edu/news_center/news/081706.html] Is there any craft that will pass Voyager 1? [[User:Rmhermen|Rmhermen]] 17:57, 27 August 2006 (UTC)
+:I don't care if the article keeps the phrase &quot;a faster probe launched in the interim overtaking it&quot;, but you seem to be ruling out the science fiction possibilities as impossible. For instance, imagine a nuclear powered stellar probe launching in the mid-2100's. [[User:Art LaPella|Art LaPella]] 02:16, 28 August 2006 (UTC)
+::While some craft may someday pass it, I can't find any that will by the mentioned 2070 and hence there is no &quot;interim&quot;  defined to speak of. That sentence was added August 7, 2006 by [[User:Leon7]]. [[User:Rmhermen|Rmhermen]] 13:14, 28 August 2006 (UTC)
+:::On the question of, how long will Voyager 1 remain as the farthest human-made object?:  Right now, New Horizons is still traveling considerably faster than Voyager 1.  With or without gravity assist, the question remains, how much will it's velocity change and when?  The date 2070 was derived from New Horizons's and Voyager 1's current speeds, assuming no change in velocities until then. Anyone know? [[User:Leon7|Leon7]] 08:48, 31 August 2006 (UTC)
+::::New Horizons's velocity is changing right now so is Voyager 1's.  Both New Horizons and Voyager 1 are being decelerated by the sun.  New Horizons, being much close to the sun, is decelerating much faster (about 800 times at the moment).  In any case [http://pluto.jhuapl.edu/news_center/news/081706.html] shows that @100 AU New Horizons will only have a speed of 13 kps, vs. Voyager 1 17 kps @ 100 Astronomical Units.
+
+== Voyager's Cargo ==
+
+{{resolved}}
+I believe it is this spacecraft that is carrying pictures and recordings of humans?Can anyone confirm this.It would be a good addition to the article.--[[User:Ashmole|Ashmole]] 02:26, 4 September 2006 (UTC)
+
+: There's already an article on that, linked to at the bottom. [[Voyager Golden Record]].--[[User:Planetary|Planetary]] 03:32, 5 September 2006 (UTC)
+
+::I think that there should be a mention of the Golden record in the article. It's probably the one thing that people think about when they think about the Voyager1 probe. In fact I think the two articles should be merged.[[User:Stib|stib]] ([[User talk:Stib|talk]]) 23:04, 27 February 2008 (UTC)
+
+:::There is now a short section in the article that links to the golden record article. ([[User:Sdsds|sdsds]] - ''[[User talk:Sdsds|talk]]'') 03:39, 28 February 2008 (UTC)
+
+== Voyager's computer ==
+
+I am looking for information on Voyager's computer: processor, memory, etc. I am also interested in information about the software, I know that memory used to be a big problem and special software tricks had to be used. I tried looking at the official website, but all information there was astronomical. --[[User:DelftUser|DelftUser]] 15:06, 11 September 2006 (UTC)
+
+:It appears that the Voyagers used an [[RCA 1802]] processor. --[[User:Joseppc|Joseppc]] 22:04, 8 October 2006 (UTC)
+
+::My astronomy teacher mentioned that my TI/83 graphing calculator had more capibility than than Voyager's memory.
+
+:::You haven't been looking hard enough for the information. I suggest going to a good library in your area. Even at small libraries in places like [[Steamboat Springs, Colorado]] have librarians who can help you find information. Don't just sit on your hands and cry when you can't find the information at first.[[Special:Contributions/74.249.82.221|74.249.82.221]] ([[User talk:74.249.82.221|talk]]) 21:38, 23 September 2008 (UTC)
+
+::::Information is here http://voyager.jpl.nasa.gov/faq.html - scroll down to 'What kind of computers are used on the Voyager spacecraft?'
+
+== Longest Mission? ==
+
+&lt;blockquote&gt;
+The Voyager 1 spacecraft is an 815-kilogram unmanned probe of the outer solar system and beyond, launched '''September 5, 1977''', and is currently operational, '''making it NASA's longest-lasting mission'''.
+&lt;/blockquote&gt;
+
+[[Voyager 2]] was launched on August 20, 1977 and according to the [http://voyager.jpl.nasa.gov JPL Voyager home page] was still operational as of November 2, 2006. --[[User:Lenard Lindstrom|Lenard Lindstrom]] 00:16, 8 November 2006 (UTC)
+:I took out the reference to Voyager 1 as the longest mission. Voyager 2 was launched first, is also still operational, and therefore, it is the longest-lasting mission in NASA history. [[User:Jsc1973|Jsc1973]] 12:31, 25 March 2007 (UTC)
+::[[Pioneer 6]] was launched before either of the Voyagers, is still operational and is occasionally tracked in solar orbit. [[User:66.28.178.67|66.28.178.67]] 18:21, 5 September 2007 (UTC)
+
+:::Yes, don't forget about Pioneer 6. Also, it gets its electricity [[electric]]al power from the sun via solar cells, and so there are no worries about radioactive (RTG) power running out.[[Special:Contributions/74.249.82.221|74.249.82.221]] ([[User talk:74.249.82.221|talk]]) 21:42, 23 September 2008 (UTC)
+
+== Distance to the stars ==
+
+&quot;It is not heading towards any particular star, but in 40,000 years it will to within 1.7 light years of the star AC+793888 in the Camelopardis constellation.&quot;
+At its current speed, Voyager 1 takes about 17400 years to travel one light year. How is the quoted statement possible?
+
+:I don’ know, but the statement comes from the fine folks [http://voyager.jpl.nasa.gov/mission/interstellar.html at NASA]. — [[User:Knowledge Seeker|Knowledge Seeker]] [[User talk:Knowledge Seeker|দ]] 10:29, 14 November 2006 (UTC)
+
+OK. I looked it up. The figures are right. It seems AC+79 3888 is moving relative to us. In 40,000 years the relevant distances will be approximately AC-Earth 2.9 ly, AC-Voyager 1.64 ly, Earth-Voyager 2.3 ly.
+It's an odd statement though. Scale it down by making each light year a thousand miles, then say &quot;Over the course of the next 40,000 years Voyager One will, at a foot a day, bisect the US from west to east, going from San Francisco to Washington DC and pass within 1,600 miles of Nicaragua&quot;.
+
+== Discrepancy in expected vs actual position. ==
+
+I hear that there is an ongoing debate on the reason why there is a discrepancy in Voyagers expected (calculated) position and its actual position. Anyone care to comment? [[User:209.191.144.12|209.191.144.12]] 21:22, 11 January 2007 (UTC)Pepp.
+:See [[Pioneer anomaly]]. [[User:Jonathunder|Jonathunder]] 21:42, 11 January 2007 (UTC)
+
+== Gigameters? Terameters? ==
+
+text has:
+&lt;blockquote&gt;
+As of [[August 12]], [[2006]], ''Voyager 1'' is over 14.96 [[gigameter]]s (14.96{{e|9}} km, 100 [[astronomical unit|AU]] or 9.3 [[1000000000 (number)|billion]] miles) from the Sun.
+&lt;/blockquote&gt;
+a gigameter is 1{{e|9}} ''meters''.  1{{e|9}} km is 1{{e|12}} meters, or terameters.  I've made that minimal change in the text, but I have another issue.  This is the first time I've ever used &quot;terameter&quot; in a sentence.  I think it's the first time I've ever ''seen'' &quot;terameter&quot; in a sentence.  I agree it's a perfectly acceptable SI prefixed unit, but I'm still a little startled when I see it.  I suppose I don't mind using it, but is there a reason I've never seen it in English text before?  Is it stylistically (as opposed to technically) correct? [[User:Co149|Co149]] 07:40, 21 January 2007 (UTC)
+
+I suppose the primary subdivision, the 'meter', becomes a little insignificant once you get into distances that large. Either way I don't really think that style should come into it, where SI units and naming conventions are concerned. :) [[User:L3p3r|L3p3r]] 10:20, 21 January 2007 (UTC)
+
+
+===Terameter Error?===
+I am uncertain if this observation is correct BUT : 
+
+1) The speed of light (as per google) is : 299 792 458 m/s
+
+2) Distance Given / Speed of Light = (15.80{{e|12}} m) / (299 792 458 m/s) = 52703.12704 (to 5 d.p)
+This is the number of &quot;light seconds&quot; covered by Voyager 1, which is 14.6'''4''' light hours (where I take an hour to be 3600 seconds).  I am sure that the wiki calculation in the introduction is probably correct due to some potential oversight I have made - but would anyone care to comment on how the 14.62 light-hours results was obtained?
+
+Would it also be prudent (from a purely academic point of view) to consider Voyager's average velocity as a percentage of the speed of light?  Since there are about 365*24=8760 hours in a year, then voyager has travelled about 14.62/8760=0.1671% of a LY =0.001671 LY over a (say) 31 year time period (going from 05/09/1977 to 07/03/2008 is about 11141 days).  So that's 0.1671%/31=0.005391%=0.00005391 the speed of light (ie: VERY slow).  At that speed, ignoring relativistic effects, Voyager would take 4.22/0.00005391 = 78278 years to reach Proxima Centauri (ie: 78.3 thousand years) IF it were going in that direction.
+
+Would such calculations (at least ones relating Voyager's speed relative to the speed of light) be worth placing on the article?
+[[User:ConcernedScientist|ConcernedScientist]] ([[User talk:ConcernedScientist|talk]]) 01:34, 9 May 2008 (UTC)
+
+:Offhand, I'd say no. It's not traveling at a substantial enough fraction of c. Ditto &quot;light-hours&quot;. (And I've never ''heard'' the word &quot;terameter&quot; before. ;])  [[User:Trekphiler|Trekphiler]] ([[User talk:Trekphiler|talk]]) 21:52, 26 June 2008 (UTC)
+
+::It is reasonable to calculate and show the Voyagers' average speeds as a fraction of the speed of light just to show how slowly they go - on an astronomical scale. &lt;br&gt;
+Also, the S.I. (the metric system) has a pre-defined set of prefixes (multipliers) for the units that are meaningful whether that &quot;unit' has ever been seen in print or not. Let me name some of them. As an electrical engineer, I use all of them, and more people ought to learn them, too:&lt;br&gt;
+On the large end, kilo: 10^3, mega: 10^6, giga: 10^9, tera: 10^12, 
+where 10^3 = 1000, 10^6 = 1,000,000, 10^9 = 1,000,000,000, and so forth.&lt;br&gt; 
+On the small end, milli: 10^-3, micro: 10^-6, nano: 10^-9, pico: 10^-12,
+where 10^-3 = 1/1000, 10^-6 = 1/1,000,000, and so forth.&lt;br&gt;
+So, one ought to undrstand the application of these whether you have seen them or not. Consider terabyte, terameter, and terahertz.&lt;br&gt;
+Also, picogram, picometer, and picofarad.&lt;br&gt; 
+Also, occasionally seen are deci = 1/10, centi = 1/100, deka = 10, hecto = 100, and rarely myria = 10,000.[[Special:Contributions/74.249.82.221|74.249.82.221]] ([[User talk:74.249.82.221|talk]]) 22:15, 23 September 2008 (UTC)
+
+== Image Caption Incorrect ==
+
+The image is incorrectly identified as an &quot;artist's rendering&quot;. It is not. It is a photograph of the ground test model. The original can be seen in the Von Karman auditorium at JPL.  -- Terry Hancock
+: Label made more ambiguous.  Haven't found auditorium image which perfectly matches this image (but this image was under special lighting and Von Karman unit has aged).  ([[User:SEWilco|SEWilco]] 06:36, 6 February 2007 (UTC))
+
+== More distant than every natural solar system object known? ==
+
+The article says: &quot;At this distance, it is more distant from the Sun than any known natural solar-system object, including 90377 Sedna. Though Sedna has an orbit that takes it 975 AU away from the Sun at aphelion, as of 2006 it is less than 90 AU away from the Sun and approaching its perihelion at 76 AU.&quot;
+
+Does this take into account known long-period comets?  --[[User:Cyclopia|Cyclopia]] 13:17, 4 May 2007 (UTC)
+
+The 1680 comet is currently just over 250AU from the sun.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/65.94.7.6|65.94.7.6]] ([[User talk:65.94.7.6|talk]]) 04:11, 5 May 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:Agree, comet [[C/1680 V1]] is about 252 A.U. away from the Sun now, so I have inserted a &quot;not including long-period comets&quot; clause! -[[User:84user|84user]] ([[User talk:84user|talk]]) 19:17, 17 June 2008 (UTC)
+
+== Current Spaceflight Tag? ==
+
+Does this page not need a current spaceflight tag? Technically, it is current, n'est-ce pas?--[[User:Snideology|Snideology]] 05:14, 5 September 2007 (UTC)
+
+:Excellent question! After some discussion, I recently added to the Usage section of the {{tl|current spaceflight}} template the phrase, &quot;this template is intended for use on the pages of articles describing those spaceflights that are expected to be generating news.&quot; That is, as a descendant of {{tl|current}}, it is for a spaceflight that is considered a &quot;current event&quot;. ''Voyager 1'', although still flying in space, is unlikely to generate much fast-breaking news coverage! I wonder if the template should be renamed, {{tl|current spaceflight event}} or some such? ([[User:Sdsds|sdsds]] - ''[[User talk:Sdsds|talk]]'') 05:47, 5 September 2007 (UTC)
+
+::Probably not. Had I known better, I would have looked up the tag. However, one learns Wikipedia bits at a time (or, at least I seem to), and I wasn't aware that such tags have policies. In hindsight, it should have been obvious. Ahhhh, hindsight - my old nemesis. I shall try to figure out how to find tag policy tonight. Thanks!--[[User:Snideology|Snideology]] 01:46, 7 September 2007 (UTC)
+
+== Where is it headed? ==
+
+Article should state where it's headed.  It used to (see &quot;Distance to the stars&quot; above, in this talk page) but the information seems to be missing now.  [[User:Tempshill|Tempshill]] 04:59, 6 September 2007 (UTC)
+
+:It is not missing. From the article: &quot;It is not heading towards any particular star, but in 40,000 years it will be within 1.7 light years of the star AC+793888 in the Camelopardis constellation.&quot; --[[User:Cyclopia|Cyclopia]] 15:43, 6 September 2007 (UTC)
+
+::Thank you!  It escaped my notice.  I moved this line to a separate paragraph, as I think it's something people will be interested in.  [[User:Tempshill|Tempshill]] 20:19, 6 September 2007 (UTC)
+
+:Hog Farm Bus destination marquee: 'Further' [[User:LorenzoB|LorenzoB]] 07:39, 29 October 2007 (UTC)
+
+== Actual Mass? ==
+
+The summary says 722kg, but the first sentence says 733! Does anyone know the correct mass!? --[[User:L3p3r|L3p3r]] 13:20, 18 September 2007 (UTC)
+
+:&quot;On-orbit Dry Mass: 721.9 kg.&quot; [http://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=1977-084A NSSDC Master Catalog] Please update the article text. ([[User:Sdsds|sdsds]] - ''[[User talk:Sdsds|talk]]'') 13:53, 18 September 2007 (UTC)
+
+== RTG ==
+
+A friend at NASA that navigates these craft told me that the Voyager 1 RTG electronics have deteriorated to the point that one is nearly useless, one is fair, and one is still at full power. Does anyone have a verifiable reference on this? [[User:LorenzoB|LorenzoB]] 07:36, 29 October 2007 (UTC)
+Correction: friend at JPL [[User:LorenzoB|LorenzoB]] 07:42, 29 October 2007 (UTC)
+
+:It is questionable that RTGs have any &quot;electronics&quot; at all, considering that a thermocouple is not an [[electronics|electronic]] device at all, but rather an [[electrical]] one. Be careful about the difference between &quot;electrical&quot; and &quot;electronic&quot; - there is one - and also remember that &quot;electric&quot; and &quot;electrical&quot; mean the same thing. Also, it is possible that there are also electronics &quot;associated with&quot; the RTGs but not in them. However, other sources on the subject mention that the Voyagers' thermocouples have been deteriorating as their decades of operation mount up. A friend with a Bachelor of Electrical Engineering degree, and also a Master of Science in Electrical Engineering degree - a Rambling Wreck from Georgia Tech.[[Special:Contributions/74.249.82.221|74.249.82.221]] ([[User talk:74.249.82.221|talk]]) 22:27, 23 September 2008 (UTC)
+
+== '''farthest ''known''''' human-made object or just '''farthest''' ? ==
+
+I removed the ''&quot;known&quot;'' qualifyer once again. Maybe other editors can give their opinion so we can come to a definitive version.
+
+Personally I don't think it makes any sense. A hypothetical meteorite impact, blowing some human artefact into space and further than the current position of Voyager, would have to be so energetic that it couldn't possibly have been missed. We don't have any knowledge of any candidate event. And even IF such an outrageously unlikely event has taken place somewhere in the distant past, I still wouldn't think it justified the change.
+
+Adding the ''&quot;known&quot;'' qualifyer gives an unwarranted impression of uncertainty. An artificial sense of mystery which we don't need. For all practical purposes, we can definitely say that the Voyager 1 is the most distant human made object [[User:JH-man|JH-man]] ([[User talk:JH-man|talk]]) 23:59, 5 January 2008 (UTC)
+:An encyclopedia should represent the certainty of a stated fact.  Wikipedia uses this kind of language all the time, such as here:
+::''Modern geologists consider the [[age of the Earth]] to be around 4.54 billion years (4.54{{e|9}} years).'' - This is extremely non-committal, and states the actual fact, that this is widely held as true by modern geologists.
+: - [[User:Onmyounomichi|Onmyounomichi]] ([[User talk:Onmyounomichi|talk]]) 07:30, 6 January 2008 (UTC)
+
+::I certainly agree that no (scientific) knowledge can be absolute. But let me quote Stephen J Gould here:
+
+:: ''In science, &quot;fact&quot; can only mean &quot;confirmed to such a degree that it would be perverse to withhold provisional assent.&quot; I suppose that apples might start to rise tomorrow, but the possibility does not merit equal time in physics classrooms.''
+
+::Or in other words: at some point the &quot;certainty&quot; of a claim crosses a line, a line beyond which statements of doubt no longer fairly present the status of that claim. I think this is clearly the case here, and ''adding'' the qualifier &quot;known&quot; does more harm to the truth than ''leaving it out''. 
+
+::There are two possibilities that would make the claim wrong:
+::1)another spaceprobe has been launched by homo sapiens somewhere in the past and happens to be more distant at this time. This would either have to be a &quot;secret&quot; probe launched fairly recently, or one launched by an unknown ancient culture. The former is practically impossible because it would be almost impossible to hide, and because it would make no sense to hide it since prestige would be the biggest non-scientific incentive to launch the mission. The latter can only be true if we consider to completely rewrite the history of homo sapiens. Historical revisionism of some magnitude which would require immense amounts of evidence which are clearly lacking at this point.
+::2)The possibility, as you stated, that something like an asteroid or comet impact blew human artefacts into space, and actually with enough energy to put them beyond Voyager 1's current position. First of all this is an extremely unlikely case. In written history absolutely no event of the required magnitude has happened. Secondly, I think the statement &quot;farthest human made object&quot; contains an implicit assumption that we're specifically talking about a device that was sent out there ''on purpose'', intentionally. A human achievement instead of some chance event.
+
+::I'd like to hear some other opinions on this so we can settle it...
+::[[User:JH-man|JH-man]] ([[User talk:JH-man|talk]]) 15:38, 6 January 2008 (UTC)
+
+:::It should be '''farthest''', not ''farthest known'', I've seen these sort of thing on WP before. It's like changing &quot;The first person to fly was XYZ&quot; to the &quot;The first known ...&quot; because tornadoes can suck people into the air and we don't know if this happened to some people or not before the invention of the aeroplane. Changing it to farthest known is some sort of fallacy, but I don't know which one. --[[User:JamesHoadley|JamesHoadley]] ([[User talk:JamesHoadley|talk]]) 16:09, 6 January 2008 (UTC)
+
+::::I'm fairly confident this language was inserted by an editor with a youthful world-view. The qualifier would have meant something like, &quot;To our knowledge, no spacefaring alien has used its technology to take a human-made artifact back to its home-world,&quot; or some such. In fact science tells us very little about the probability of an event like that having occurred. Speculation about such things was all the rage toward the end of the last millenium! In other articles, the &quot;best&quot; approach has been to find a citable source which states what &quot;experts&quot; on the subject believe to be true. ([[User:Sdsds|sdsds]] - ''[[User talk:Sdsds|talk]]'') 19:10, 6 January 2008 (UTC)
+
+:::::Then again, we haven't [http://memory-alpha.org/en/wiki/The_37%27s_%28episode%29 found Amelia Earhart], yet.  [[User:Trekphiler|Trekphiler]] ([[User talk:Trekphiler|talk]]) 21:56, 26 June 2008 (UTC)
+
+:::::I'm pretty sure that when you read anything in wikipedia it is assumed that it is all that is &quot;known&quot; by humanity, of course there are always unknown possibilities, wikipedia, and any encyclopedia is meant to reflect the known certain facts about the universe, therefore the &quot;known&quot; part is really there, its just implied. (on a side note I have to say this is quite the conversation, some people have amazing imaginations)
+
+
+You cannot prove or find any source saying that there is no doubt Voyager 1 is the definite farthest object in the universe. Have any of you been anywhere else in the universe besides Earth to prove this? This is a classic example of human hubris. I changed it back to farthest &quot;known&quot; object. Since there was no reference cited to prove this anyway, it should be left that way until you or someone else can provide one saying that we are the only humans in the entire universe. Also, please don't say I have an amazing imagination or that I'm a conspiracy theory nut. That is very condescending and insulting. Chuck 21:43, 17 June 2012 (UTC)
+:Any unknown human colonists out there (presumably launched there by a secret ''Reichsflugscheiben'' conspir... errr ... project, i. e., Nazi flying discs) are herewith kindly asked to excuse our hybris to ignore them and even wantonly dismiss their possible existence. Apart from those rather unlikely scenarios, we can be quite confident that we are, indeed, the only ''humans'' in the universe and therefore the only population of sapient beings in the universe to possess ''human'' hybris. --[[User:Florian Blaschke|Florian Blaschke]] ([[User talk:Florian Blaschke|talk]]) 20:26, 19 June 2012 (UTC)
+
+== Importance evaluation ==
+
+I rated this article &quot;spaceflight-importance=Top&quot; because, &quot;Voyager 1 is the farthest human-made object from Earth.&quot; ([[User:Sdsds|sdsds]] - ''[[User talk:Sdsds|talk]]'') 21:40, 4 February 2008 (UTC)
+
+== Popular Culture ==
+
+Star Trek movie, V'ger, oh the shame, I can type no more.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/213.202.167.116|213.202.167.116]] ([[User talk:213.202.167.116|talk]]) 05:07, 19 March 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== How can Voyager 1 communicate with Earth? ==
+
+I find it very doubtful that Voyager 1 sends feedback to Earth at that distance. Also if it is really able to send feedback at such distance, that means it can send the same signal forward or even more at a cross direction, so assuming it is/was on our galaxy edge the signal was transmitted in 3 more galaxies. How can anyone believe NASA statement then that in 4 galaxies the only living technological-advanced forms are humans when :
+a) we have no idea how Voyager communicates the data back to us
+b) we have no idea if the signal has been intercepted and transmitted back in an altered form
+
+Marios Pisis  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/213.7.124.14|213.7.124.14]] ([[User talk:213.7.124.14|talk]]) 17:45, 18 May 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:Sorry to see your comment went unanswered for so long, I assume because the answer is obvious: Voyager 1 is at the edge of our ''solar system'', not the edge of our ''galaxy''. 14 light hours are quite some distance, but not outside radio reach.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:DevSolar|DevSolar]] ([[User talk:DevSolar|talk]] • [[Special:Contributions/DevSolar|contribs]]) 14:51, 31 July 2008 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+::I find it to be pathetic when people can't tell/understand the difference between a) the Solar System, b) our Galaxy, and c) the Universe. The learning of any kind of science is just so poor, in general. I even saw the same thing in an episode of the TV series &quot;Space: 1999&quot; where Commander Koenig was supposedly showing four pictures to an alien race, and identifying them as &quot;this is our solar system&quot;, etc. But the way he did it, he implied that &quot;our universe&quot; was smaller than &quot;our galaxy&quot;, and there were other problems, too. I am still one who believes that there is just one unique Universe, and so, &quot;our Universe&quot; is really silly, because it includes everything, and it is &quot;everybody's Universe&quot;, and besides that, it is impossible to get outside the Universe to make a picture of it. And nobody can imagine what it might look like. In fact, it doesn't have an outside.&lt;br&gt;
+::In fact, &quot;we have no idea how Voyager communicates the data back to us&quot; is completely specious and false. Where did anyone ever get such a notion? (I am tempted to say, &quot;Pulled out of their ass.&quot; We electical engineers and physicists know EXACTLY how the Voyagers communicate back to us. I feel insulted that anyone would even question this.[[Special:Contributions/74.249.82.221|74.249.82.221]] ([[User talk:74.249.82.221|talk]]) 07:34, 24 September 2008 (UTC)
+
+== Dubious years added to Interstellar mission ==
+
+In the &quot;End of specific capabilities as a result of the available electrical power limitations&quot; table, row for year 2025 has been changed and four new rows have been added. They seem dubious to me. They are so dubious infact that I have moved them here pending reliable sources. The NASA source does not mention them at all. I highly doubt that Voyager had &quot;Television RADAR&quot;, or RADAR of any kind.
+
+{| class=&quot;wikitable&quot;
+! Year || End of specific capabilities as a result of the available electrical power limitations
+|-
+| ...
+|-
+| 2025 || Terminate all Plasma Wave Subsystem and radio transmitter
+|-
+| 2028 || Starting to shut down Communication Antenna, terminate Powered Television [[Radar]] and terminate Single Wave Radar
+|-
+| 2029 || Shut down all power and wave
+|-
+| 2035 || Only can received communication with 1,1 Power Data.
+|-
+| 2039 || End of the Voyager exploration
+|}
+-[[User:84user|84user]] ([[User talk:84user|talk]]) 19:04, 30 May 2008 (UTC)&lt;br&gt;
+:Dubious? That is a sure-as-Hell understatement. They are all bull-crap. People also obviously do not understand that spacecraft antennas are NOT &quot;shut down&quot;. NEVER. Antennas continue to exist as long as the spacecraft exist, which in this case will be for billions of years.&lt;br&gt; on the other hand, radio transmitters can be &quot;shut down&quot;, but in a case like this, that means the complete and total end of communications from the Voyager spacecraft.&lt;br&gt;[[Special:Contributions/74.249.82.221|74.249.82.221]] ([[User talk:74.249.82.221|talk]]) 07:45, 24 September 2008 (UTC)
+What we really had here was a deliberate spammer, and arrant bullshitter, and someone who was '''committing vandalism''' on this article.&lt;br&gt; Could we please arrange to give him a spanking?[[Special:Contributions/74.249.82.221|74.249.82.221]] ([[User talk:74.249.82.221|talk]]) 07:43, 24 September 2008 (UTC)
+
+== &quot;Terameter&quot; ==
+
+I removed the notion of &quot;terameter&quot; from the introduction and only left the km-value, since I've never heard of a terameter before (neither have others, see above) - I think AU's (and kilometers/miles, if you like) are much more understandable for the general public, and km also is an SI unit. I suggest to make this change everywhere in the article.
+--[[User:Roentgenium111|Roentgenium111]] ([[User talk:Roentgenium111|talk]]) 16:33, 17 July 2008 (UTC)
+:The terameter is a perfectly-reasonable unit of measurement, just like the terabyte is. All of these make good sense, because their prefixes are pre-defined in the S.I. set of units:&lt;br&gt;
+kilometer, megameter, gigameter, and terameter&lt;br&gt;
+The prefixs have a given definition, and they can be used with any given unit. Let me give you some more examples: kilogram, megawatt, gigabyte, and teraherz. Also, it is easy to say that tera = 1,000,000,000,000 = 10^12. Of course, megameter also makes sense, because that is one million meters. We have a well-defined system, and people ought to be encouraged to learn how to use it, and to master it.[[Special:Contributions/74.249.82.221|74.249.82.221]] ([[User talk:74.249.82.221|talk]]) 07:54, 24 September 2008 (UTC)
+
+:: Wikipedia is not for teaching people SI units. As a math student, of course I can &quot;master&quot; prefixes, but still it is much more intuitive to use well-known units like km, AU or light-years. The combination &quot;terameter&quot; is a wikipedia invention (try a google search), unlike the four examples you gave. Just my two centi-dollars. ;-)--[[User:Roentgenium111|Roentgenium111]] ([[User talk:Roentgenium111|talk]]) 23:04, 29 November 2008 (UTC)
+
+Surely the higher prefixes do gradually become familiar as the need for them becomes apparent. Who, in the early days of Sinclair computers, would have suspected that a gigabyte would become as familiar as miles and inches then were?  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Dawright12|Dawright12]] ([[User talk:Dawright12|talk]] • [[Special:Contributions/Dawright12|contribs]]) 10:38, 16 September 2010 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Change farthest manmade object to farthest functioning probe ==
+
+The article says 
+:Voyager 1 is the farthest manmade object from Earth, traveling away from both the Earth and the Sun at a relatively faster speed than any other probe.
+I want to say that Voyager 1 has sent us signals at a greater distance than any other probe. Meaning the important part is Voyager 1 is sending signals not just that it is man-made object. If it were to stop sending us signals today it would become worthless dead probe. This could make a difference when Voyager 1 stops transmitting and if the New Horizons probe (even) sends a signal at a distance further away. Then New Horizons probe would get the record for farthest functioning probe. The same thing with the speed, Voyager 1 is a functioning probe with the greatest speed leaving the Solar System. [[User:Mschribr|Mschribr]] ([[User talk:Mschribr|talk]]) 21:51, 15 August 2008 (UTC)
+
+:As long as it is farthest, it continues to be farthest. When it stops functioning then maybe someone will record what that distance was, but even if it is not functioning it may still be the farthest object.  The article already says it is still working.  -- [[User:SEWilco|SEWilco]] ([[User talk:SEWilco|talk]]) 06:48, 16 August 2008 (UTC)
+::If Voyager 2 lasted nine more years than Voyager 1, then Voyager 2 would send a signal from a distance greater than Voyager 1. Voyager 2 would be farthest probe to send a signal to Earth. [[User:Mschribr|Mschribr]] ([[User talk:Mschribr|talk]]) 21:17, 19 August 2008 (UTC)
+:::True, but Highly unlikely to happen.[[Special:Contributions/74.249.82.221|74.249.82.221]] ([[User talk:74.249.82.221|talk]]) 08:04, 24 September 2008 (UTC)
+:::: Maybe not unlikely because that is what happened to Pioneer 10 and 11. Pioneer 10 lasted 9 years longer than Pioneer 11. [[User:Mschribr|Mschribr]] ([[User talk:Mschribr|talk]]) 19:54, 24 September 2008 (UTC)
+:::No. (See second paragraph of article.) [[User:DevSolar|DevSolar]] ([[User talk:DevSolar|talk]]) 04:38, 20 August 2008 (UTC)
+::::Maybe some numbers would help explain. If Voyager 1 runs out of power in 2020 and ceases to transmit at a distance of 150 AU. Then if Voyager 2 continues to transmit till 2029 then Voyager 2 will be transmitting at a distance of 151 AU. Voyager 2 will be the farthest probe to transmit a signal to the Earth. [[User:Mschribr|Mschribr]] ([[User talk:Mschribr|talk]]) 09:03, 20 August 2008 (UTC)
+:::::Lots of ifs. What if Voyager 2 ceases to transmit first? I'd say we bother with such details once they come up... if Wikipedia still exists by then. ;-) -- [[User:DevSolar|DevSolar]] ([[User talk:DevSolar|talk]]) 13:39, 20 August 2008 (UTC)
+:::::: My point is the article should say Voyager 1 is transmitting signals to the Earth farther than any other spacecraft has. It's not important that it's the farthest manmade object. How useful is a dead spacecraft? [[User:Mschribr|Mschribr]] ([[User talk:Mschribr|talk]]) 14:56, 20 August 2008 (UTC)
+::::::: I don't think the fact is uninteresting, even if not &quot;useful&quot; in a technical sense. And while Voyager 1 might cease transmitting tomorrow, it ''will'' remain the farthest manmade object for the forseeable future... -- [[User:DevSolar|DevSolar]] ([[User talk:DevSolar|talk]]) 11:58, 21 August 2008 (UTC)
+::::::After Voyager 1 stops transmitting we will not be certain where it is or where it is going because we could not detect Voyager 1. An object 1,000 times larger would also be undetected. If this larger object were near Voyager 1 it would change Voyager 1's course by hitting or pulling Voyager 1 and we would not know it. Therefore we could not be certain Voyager 1 is still the farthest manmade object. The only thing we know is where Voyager 1 stopped transmitting. We should not say Voyager 1 is farthest manmade object because after it stops transmitting its location can't be verified.
+::::That's a highly, highly-unlikely event, and our forward projections (based on calculations) of Voyager's position are still very valid.[[Special:Contributions/74.249.82.221|74.249.82.221]] ([[User talk:74.249.82.221|talk]]) 08:04, 24 September 2008 (UTC)
+
+::::: We don’t know if this is likely or unlikely because the Voyager 1 is in unexplored region of space. Maybe there is a band of bodies circling the sun like the asteroid belt at a distance of 150 AU. At that distance the bodies would be undetectable. They would change the course of Voyager 1 and we would never know it. [[User:Mschribr|Mschribr]] ([[User talk:Mschribr|talk]]) 19:54, 24 September 2008 (UTC)
+:::::: The farthest manmade object maybe interesting but the farthest transmitting spacecraft is more interesting. [[User:Mschribr|Mschribr]] ([[User talk:Mschribr|talk]]) 07:29, 24 August 2008 (UTC)
+
+:::::::I agree that there is something '''very special''' about the farthest-away transmitting space probe, and especially if it is sending back even a very minor amount of useful data.[[Special:Contributions/74.249.82.221|74.249.82.221]] ([[User talk:74.249.82.221|talk]]) 08:04, 24 September 2008 (UTC)
+
+== AC+79 3888? ==
+
+On this page it is claimed that AC+79 3888 is in the Ophiuchus constellation.  On the [[AC+79 3888]] page it is claimed that the star is in the Camelopardalis constellation.  The latter makes sense if only because the declination of the star (+79) indicates that it could hardly be in the Ophiuchus constellation (declination 0).  The mistake seems to stem from the fact that Voyager is indeed currently in the Ophiuchus constellation, but will eventually rendezvous with AC+79 3888. In other words, Voayger's declination will change over the course of the next ~40,000 years.  Regardless, AC+79 3888 is misplaced on this page.  Unless there's a good reason for this (I am not an astronomer, but this seems fairly logical), I will change this information in a few days (unless someone else does it first).
+
+[[Special:Contributions/98.212.121.186|98.212.121.186]] ([[User talk:98.212.121.186|talk]]) 23:22, 1 September 2008 (UTC)
+Yossarian
+
+== Intro ==
+
+&quot;currently pursuing its current mission&quot;  Who wrote this?  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/86.68.248.76|86.68.248.76]] ([[User talk:86.68.248.76|talk]]) 20:21, 9 October 2008 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:Thanks for making us notice. Next time, you can [[WP:BOLD|be bold]] and edit it yourself. --[[User:Cyclopia|Cyclopia]] ([[User talk:Cyclopia|talk]]) 20:25, 9 October 2008 (UTC)
+
+== &quot;as of July 2009&quot;... we're only February! ==
+
+See section headline. Shouldn't we refer to a recent date instead of a future date when talking about the distance from the earth?  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/83.101.44.217|83.101.44.217]] ([[User talk:83.101.44.217|talk]]) 16:35, 8 February 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== My vandalism ==
+
+''As of February 1, 2009, ''Voyager 1'' is about 108.60 [[astronomical unit|AU]] (16.247 [[1000000000 (number)|billion]] km, or 10.095 [[1000000000 (number)|billion]] miles) from the Sun, and has entered the [[heliosheath]], the [[termination shock]] region between the solar system and [[Interstellar medium|interstellar space]], a vast area where the Sun's influence gives way to the other bodies in the galaxy, with the current goal of reaching and studying the [[heliopause]], which is the known boundary of our stellar system.''
+&lt;br&gt;
+I changed this one to
+&lt;br&gt;
+''As of February 1, 2009, ''Voyager 1'' is about 108.60 [[astronomical unit|AU]] (16.247 [[1000000000 (number)|billion]] km, or 10.095 [[1000000000 (number)|billion]] miles) from the Sun, and has passed the [[termination shock]], entering the [[heliosheath]], with the current goal of reaching and studying the [[heliopause]], which is the known boundary of our stellar system''
+&lt;br&gt;
+Can somebody explain it to me why this is regarded as major vandalism?
+Thx --[[Special:Contributions/143.167.235.164|143.167.235.164]] ([[User talk:143.167.235.164|talk]]) 23:44, 24 February 2009 (UTC)
+:I am very sorry. I must have accidentally reverted you while doing some antivandalism patrol, for which I sincerely do apologize for. I have undone my revision back to your version, and I hope you accept my apology. &lt;font color=&quot;navy&quot;&gt;[[User:NuclearWarfare|NuclearWarfare]]&lt;/font&gt;''''' &lt;sub&gt;(&lt;font color=&quot;green&quot;&gt;[[User talk:NuclearWarfare|Talk]]&lt;/font&gt;)&lt;/sub&gt;''''' 23:49, 24 February 2009 (UTC)
+
+== Projection ==
+
+I know Wikipedia isn't the place for speculation, but would it be possible to include a list of dates (estimate of the year or decade) of when Voyager 1 is expected to reach something? Like the Oort Cloud, for instance. This would certainly make this more interesting (it's interesting now, just saying). [[Special:Contributions/4.225.111.92|4.225.111.92]] ([[User talk:4.225.111.92|talk]]) 02:40, 25 June 2009 (UTC)
+:If the Oort Cloud is 2000 au away. Then voyager will reach the Oort Cloud in about the year 2600.
+:The article and NASA say 
+::“Voyager 1 is not heading towards any particular star, but in about 40,000 years it will be within 1.6 light years of the star AC+79 3888 in the Camelopardalis constellation.”
+:Then Voyager 1 is traveling 3.6 au per year. In 40,000 years it will be 144,000 au away. 1 au is 93,000,000 miles. So voyager 1 will be 13 trillion miles in 40,000 years. 13 trillion miles is 2.2 light years away. But AC+79 3888 is 17 light years away, not 2.2 light year away. Is somebody making a mistake? [[User:Mschribr|Mschribr]] ([[User talk:Mschribr|talk]]) 19:36, 14 July 2009 (UTC)
+
+As I mentioned in an earlier post: (1) The star AC+79 3888 is moving relative to us. (2) Voyager is not heading towards this star. Imagine moving at about a metre (3.3 feet) a year. After 40,000 years you notice a mountain peak on the horizon to your left... [[Special:Contributions/92.23.132.241|92.23.132.241]] ([[User talk:92.23.132.241|talk]]) 10:51, 15 July 2009 (UTC)
+::Now I see. Voyager 1 is moving at 17 km/second. AC+79 3888 is moving at 119 km/second. AC+79 3888 is moving 7 times faster than Voyager 1. So voyager 1 is standing still compared to AC+79 3888. Voyager 1 is not moving to AC+79 3888. But AC+79 3888 is moving to Voyager 1. That should be made clearer in the article about Voyager 1. [[User:Mschribr|Mschribr]] ([[User talk:Mschribr|talk]]) 14:14, 15 July 2009 (UTC)
+Hi, I was 4.225.111.92|4.225.111.92. Wow, I had no idea the Oort cloud was so far away! Thanks, though. [[User:Masternachos|Masternachos]] ([[User talk:Masternachos|talk]]) 05:54, 5 December 2009 (UTC)
+
+== Launch date	September 5, 1977 (11644 days ago)????????? ==
+
+Um.......is it really smart to count how many days its been since Voyager was launched? Someone is going to have to constantly update it. I mean, if someone doesn't mind that then fine, but I think its be much easier and simplier to say:
+
+Launch date	September 5, 1977 ( __ Years, __ Months, and __ days ago)
+
+Yeah someone would still have to constantly update it....but still.  [[Special:Contributions/75.72.205.243|75.72.205.243]] ([[User talk:75.72.205.243|talk]]) 03:10, 24 July 2009 (UTC)
+
+:No one needs to update it because the template {{tl|age in days|1977|09|05}} does it automatically. We could change the template to {{tl|Age in years and days}} which would appear as &quot;{{Age in years and days|1977|09|05}} ago&quot;. There is also {{tl|For year month day}} which would appear as &quot;{{For year month day|year=1977|month=9|day=05}} ago.&quot; What do readers prefer? I have only a minor preference for {{tl|Age in years and days}} because it's shorter. [[User:84user|84user]] ([[User talk:84user|talk]]) 08:12, 24 July 2009 (UTC)
+
+I had no idea that there was an automatic updating feature. If it is used consistently, that negates my comments elsewhere complaining about the undated use of the present tense and of words like &quot;now&quot; and &quot;currently&quot;. Is there some way in which the reader can whether this auto-update feature is operating? [[User:Dawright12|Dawright12]] ([[User talk:Dawright12|talk]]) 10:25, 16 September 2010 (UTC)
+
+:This function does not seem to be being used in the &quot;mission duration&quot; information in the sidebar. See my comment below. [[User:Billjefferys|Bill Jefferys]] ([[User talk:Billjefferys|talk]]) 02:23, 16 December 2010 (UTC)
+
+== Voyager 1 Location and Trajectories Map ==
+
+The article has a map showing the location and trajectory of Voyager 1. The map includes Pluto’s and Neptune’s orbits. Pluto’s and Neptune’s orbits are too far from Voyager 1 to give a good scale map. A Voyager 1 trajectory map should include objects with orbits that pass the location of Voyager 1. Such as detached objects Sedna, 2004 VN 112 and 2000 CR 105. A Voyager trajectory map would fit nicely inside the orbits of these detached objects. Is there a map showing Voyager 1’s trajectory and the orbits of detached objects Sedna, 2004 VN 112 and 2000 CR 105? [[User:Mschribr|Mschribr]] ([[User talk:Mschribr|talk]]) 20:12, 4 August 2009 (UTC)
+
+== Current Article Structure ==
+
+From the perspective of a relative outsider, the beginning of this article is sort of a mess.  New Horizons is introduced as if it's a known quantity, without any description within the article to help guide a new reader.  One could reasonably assume that a person reading an encyclopedia article about Voyager I would have no idea what New Horizons is.  Please make an effort to at least summarize the nature of any new concepts discussed in an article, especially in the introductory sections. [[User:KuriosD|KuriosD]] ([[User talk:KuriosD|talk]]) 09:58, 21 January 2010 (UTC)
+
+== Needs review ==
+
+I saw the tag that [[User:Gamersedge|Gamersedge]] is recording this article, so decided to check the diagram of positions in [[Voyager 1#Current status]]. Its lines are over-long. Also the light time figures for both Pluto and Voyager were wrong and out of date respectively. I fixed the text figures but not the diagram. I suggest the rest of the article needs to be carefully reviewed. -[[User:84user|84user]] ([[User talk:84user|talk]]) 06:25, 12 April 2010 (UTC)
+
+== Within a human lifespan? ==
+
+The section on &quot;Current Activities&quot; says: &quot;Provided Voyager 1 doesn't collide with any stellar objects, the New Horizons space probe will never pass it within a human lifespan....&quot;
+
+What does this mean? Within 80 years or so? Within a human lifespan starting from when? This sentence is totally ambiguous. [[User:Chezz444|Chezz444]] ([[User talk:Chezz444|talk]]) 12:50, 6 June 2010 (UTC)
+
+:It means 2200s. [[User:Sagittarian Milky Way|Sagittarian Milky Way]] ([[User talk:Sagittarian Milky Way|talk]]) 21:10, 6 June 2010 (UTC)
+
+:And whoever wrote that forgot that escaping the Sun slows it down and it's already 5% slower than Voyager 1, much closer, about the same directness, and incapable of getting sufficient future gravitational boosts. It will never happen. (Unless.. there is an unknown planet thousands of years in the future muahahahahah!) [[User:Sagittarian Milky Way|Sagittarian Milky Way]] ([[User talk:Sagittarian Milky Way|talk]]) 21:32, 6 June 2010 (UTC)
+
+== The &quot;time elapsed&quot; is wrong. ==
+
+The &quot;Mission duration&quot; in the sidebar claims a very precise (to the day) and wrong elapsed time since launch. Apparently this is hard-wired in. 
+
+Cannot we use the Wiki tool that counts elapsed time (as for example when people's ages are automatically updated depending on when the page is accessed) to fix this problem? Wiki should not be giving an elapsed time for the mission that is over a year in error. [[User:Billjefferys|Bill Jefferys]] ([[User talk:Billjefferys|talk]]) 02:20, 16 December 2010 (UTC)
+
+:If I am understanding correctly, you are confused about the difference between launch date and mission duration?  The difference the times is due to the fact that the primary mission only began as the spacecraft passed Jupiter.  The launch date tells how long ago the craft was launched, the mission duration tells how long science has been collected consistently which has been occurring for 31 years, 11 months, and 12 days as of this post.--[[User:Xession|Xession]] ([[User talk:Xession|talk]]) 05:53, 16 December 2010 (UTC)
+
+== http://voyager.jpl.nasa.gov/ ==
+
+;Wann genau Jahr Monat Tag Stunde Minute Sekunde am 05.September 1977 wurde Voyager 1 ins Universum von der Erde geschossen (ins Sonnensystem)?
+; Die Entfernung von der Sonne wird mit 17,294,716,149 KM angegeben;
+;Die genaue Entfernung berechnet sich aber aus Kilometer pro Sekunde. Das bedeutet man muss von der Sekunde Null bis zur Sekunde 31.12.2010  366 Tage (wird hier eigentlich mit 365 Tage, mit 366 Tage, mit 25 Jahren und 8 Jahre (366) gerechnet -Die Erde dreht sich um die Sonne-) 24 Stunden 60 Minuten 60 Sekunden rechnen, weil die Geschwindigkeit der Voyager 1 mit 17 Kilometer pro Sekunde mathetisch berechnet angegeben wird.
+;Nun eine ganz schwierige Frage, im Artikel steht, dass diese Sonde durch die Planeten des Sonnensystems auf die Geschwindigkeit von 17 Km/s beschleunigt wurde. Das ist eine Theorie der NASA, gibt es Beweisfotos der Weltraumteleskope (Erdboden Hubble) die diese Geschwindigkeit beweisen (internationale Quellen)? 
+;Eine weitere Schwierige Frage ist, wo von  der Erde aus gesehen ist diese Voyager 1 genau? Nordhalbkugel Suedhalbkugel Nordpol Suedpol Nullmeridian (London) Datumsgrenze (180 Grad) Aequator. Theoretisch muss von einem Punkt auf der Erde ein 90 Grad Lot genau die Linie zwischen dem Punkt der Voyager am 31.12.2010 und einem unbekannten Ort auf der Erde ergeben. 
+:[[Special:Contributions/62.200.52.25|62.200.52.25]] ([[User talk:62.200.52.25|talk]]) 16:14, 17 December 2010 (UTC)
+
+Hello IP, this is the English Wikipedia, so posting questions in German is not the smart thing to do, as it forces me to answer you twice - once in German and once in English.
+1) You asked when exactly (to the second) Voyager 1 was launched. I cannot answer that. 
+2) You write something about how the distance Voyager 1 - Earth should be calculated by speed * flight time. This is in error; the speed of an object in space is never constant, as the gravitation of other objects (planets, the sun), particle density, solar wind etc. are influencing it. Distance can be measured rather precisely by the time a radio signal takes from earth to Voyager 1 and back. 
+3) You ask whether there is any proof for the speed of Voyager 1, citing &quot;proof pictures by telescopes&quot;. Even if telescopes were able to make out something as small as Voyager 1 at its current distance (which they are not), they could not prove ''speed'' with a ''picture''. Again, the radio signal of Voyager 1 can be used to calculate speed relative to earth ([[Doppler effect]]).
+4) You ask where exactly, relative to Earth, Voyager 1 is located. The article states that, as of 2008, &quot;Voyager 1 is in the constellation Ophiuchus as observed from the Earth&quot;. Any astronomical software (e.g. Stellarium) should be able to give more up-to-date info.
+I hope this helps. If you have further questions, please contact a forum in a language you speak. -- [[User:DevSolar|DevSolar]] ([[User talk:DevSolar|talk]]) 12:41, 20 December 2010 (UTC)
+
+:Hallo IP, das hier ist die englische Wikipedia. Hier Fragen in Deutsch zu stellen ist nicht klug, weil es mich zwingt, zweimal zu antworten - einmal in Deutsch und einmal in Englisch.
+:1) Du fragst wann genau (auf die Sekunde) Voyager 1 gestartet wurde. Das kann ich nicht beantworten.
+:2) Du schreibst das die Entfernung Voyager 1 - Erde aus Geschwindigkeit * Flugzeit berechnet werden müßte. Das ist ein Fehler; die Geschwindigkeit eines Objekts im All ist niemals konstant, da die Gravitation andere Objekte (Planeten, der Sonne), Teilchendichte, Sonnenwind etc. alle ihren Einfluß haben. Die Entfernung kann recht genau daraus errechnet werden, wie lange ein Radiosignal von der Erde zu Voyager 1 und zurück braucht.
+:3) Du fragst ob es einen Beweis für die Geschwindigkeit von Voyager 1 gibt, und nennst &quot;Beweisfotos von Teleskopen&quot;. Selbst wenn Teleskope etwas so kleines wie Voyager 1 auf diese Entfernung sehen könnten (können sie nicht), könnten sie ''Geschwindigkeit'' nicht durch ein ''Foto'' beweisen. Wieder kann das Radiosignal von Voyager 1 benutzt werden, um die Geschwindigkeit relativ zur Erde zu messen ([http://de.wikipedia.org/wiki/Dopplereffekt Dopplereffekt]).
+:4) Du fragst wo genau, relativ zur Erde, sich Voyager 1 befindet. Der Artikel sagt das, Stand 2008, &quot;Voyager 1 ist von der Erde aus gesehen im Sternbild [http://de.wikipedia.org/wiki/Schlangentr%C3%A4ger Schlangenträger]&quot;. Jede astronomische Software (z.B. Stellarium) sollte Dir aktuellere Positionsdaten liefern können.
+:Ich hoffe, das hilft Dir. Wenn Du weitere Fragen hast, wende Dich bitte an ein Forum in Deiner Sprache. -- [[User:DevSolar|DevSolar]] ([[User talk:DevSolar|talk]]) 12:41, 20 December 2010 (UTC)
+
+== Solar-wind detector question ==
+
+I am wondering. In the Heliopause section it is stated that
+&quot;Voyager 1's solar-wind detector ceased functioning in 1990.&quot;
+
+Yet further down the article it is stated &quot;Since June 2010, detection of solar wind has been consistently at zero, providing conclusive evidence of the event. (heliopause)&quot;
+
+If the solar-wind detector is not working, how is it being measured reliably at zero?
+
+--[[Special:Contributions/173.175.24.27|173.175.24.27]] ([[User talk:173.175.24.27|talk]]) 03:34, 30 January 2011 (UTC)
+
+:I can't speak with certainty on this because I've yet to tracked down the papers discussing the disabling of Voyager instruments, however, I believe that statement in the Heliopause section is likely false.  There isn't really a single instrument intended or able to detect only solar wind on Voyager 1. --[[User:Xession|Xession]] ([[User talk:Xession|talk]]) 07:19, 30 January 2011 (UTC)
+
+== Current location ==
+
+Should we expect to update the current location of Voyager 1 regularly? It seems to be excessive to make small adjustments in the current distance every few days. Anyone who is truly interested in an up-to-the-moment distance can easily go to the link provided. I don't see the point of updating it manually every few days, for the figure will be always somewhat outdated. Should we come to an agreement on how often to update it, or just rely on some interested editors to keep a watch on this? I can't think of any automated way of doing this. [[User:TomS TDotO|TomS TDotO]] ([[User talk:TomS TDotO|talk]]) 13:19, 7 February 2011 (UTC)
+
+:I actually keep a very close watch on the page. So far, it has been the same IP user upating it every weekend for the past few weeks. I don't really see the harm in it however.  If it is an ongoing mission the page is subject to change occaisionally, and currently being the furthest human made object is a big enough deal to keep that at least somewhat current.  However, anymore than a weekly update is probably unnecessary. --[[User:Xession|Xession]] ([[User talk:Xession|talk]]) 14:33, 7 February 2011 (UTC)
+
+I am the user who updates the current location. I check with the Heavens Above website everyday or so, and try to keep up as best as i can. I hope i have done well for all your space pioneers out there. Cheers!- Voyager1Interstellar  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Voyager1Interstellar|Voyager1Interstellar]] ([[User talk:Voyager1Interstellar|talk]] • [[Special:Contributions/Voyager1Interstellar|contribs]]) 00:05, 4 March 2011 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== voyager 1 Needs help updating ==
+
+I am as of March 3rd 2011 helping to update the Voyager 1 current status. if you can go on the heavens-above website and update the info like the AU number and current speed, it would be a big help, when i first saw the article it wasnt updated since december 2010, please be help everyone by updating if you see something out of line or wack or crazy stuff. We must ensure that our fellow humans can see whats goin on with the first ambasador to the stars! thanks a bunch for your help  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Voyager1Interstellar|Voyager1Interstellar]] ([[User talk:Voyager1Interstellar|talk]] • [[Special:Contributions/Voyager1Interstellar|contribs]]) 00:02, 4 March 2011 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+: We don't need month-by-month updates, and we don't need to spam heavens-above.com.  Milestones (i.e., passing by a particular object or region) are fine. &lt;b&gt;[[User:Ohnoitsjamie|OhNo&lt;font color=&quot;#D47C14&quot;&gt;itsJamie&lt;/font&gt;]] [[User talk:Ohnoitsjamie|&lt;sup&gt;Talk&lt;/sup&gt;]]&lt;/b&gt; 00:04, 4 March 2011 (UTC)
+::A single check every day is not spamming; if this user wants to invest his or her time in updating this information daily, I don't see any reason why we should object to that.  It's unncessary, sure, but not undesirable. [[User:Variable|siafu]] ([[User talk:Variable|talk]]) 00:09, 4 March 2011 (UTC)
+:::Seconded. There isn't anything inherently wrong with updating that information daily, so long as it is consistently displayed in a historical context.  It most certainly is also not spam; it is clearly relevant information provided by a source of accuracy.  If some other source provided the information, it could be interchangably used.  Nothing regarding the Heaven's Above website, beyond the standard citation of information is included in the article and the information is therefore nothing even remotely related to spam. Such a claim could be made against every single citation in every single article if policy was to follow your perspective on the matter. Also, you being an admin Ohnoitsjamie, shouldn't you being a little more careful of suggesting such claims as per [[WP:BITE]]? --[[User:Xession|Xession]] ([[User talk:Xession|talk]]) 00:18, 4 March 2011 (UTC)
+::::&quot;''Nothing regarding the Heaven's Above website, beyond the standard citation of information is included in the article and the information is therefore nothing even remotely related to spam.''&quot; - Not in this article Xession but in another, [http://en.wikipedia.org/w/index.php?title=New_Horizons&amp;diff=prev&amp;oldid=416843166].  I've been watching the edits and I agree that [[User:Voyager1Interstellar|Voyager1Interstellar]] ([[User talk:Voyager1Interstellar|talk]] • [[Special:Contributions/Voyager1Interstellar|contribs]]) should be careful not to appear to be spamming references to the site in question.  As for the updates, yes it is perfectly fine to keep the article up to date but, given that the changes are minor, doing this too frequently is somewhat disruptive.  I agree that it should be kept weekly at least. [[User:ChiZeroOne|ChiZeroOne]] ([[User talk:ChiZeroOne|talk]]) 00:32, 4 March 2011 (UTC)
+:::::I was already well aware of that edit.  That does not indicate that the editor was spamming, but rather did not know how to properly provide a citation in an article.  Labeling edits as spam is only slightly above that of labeling something vandalism, both of which are rather serious claims in my opinion, and should only be used to label the most certain of situations. It would be better to instead send a comment to an editors talk page regarding the inclusion of suspected spam, which did not occur unfortunately, by anyone. Such cases reflect just as much on our own habits as it does on the editor in question. --[[User:Xession|Xession]] ([[User talk:Xession|talk]]) 00:41, 4 March 2011 (UTC)
+::::::Nonsense, there is already a cite to Heavens Above there!  Anyway, there is a vast difference between labelling something as Spam and labelling it as Vandalism.  Spam does not imply the actions are in bad faith, merely misguided.  Another place to raise concerns over spam is an article talk page...like this one. [[User:ChiZeroOne|ChiZeroOne]] ([[User talk:ChiZeroOne|talk]]) 01:04, 4 March 2011 (UTC)
+:::::::According to WP:SPAM, that is the definition as far as the MoS is concerned. However, this neglects the fact that the contributing party is still new to Wikipedia and likely has not reviewed the guidelines, nor has anyone suggested to do so on the editor's talk page regarding that contribution.  My argument is not that the contribution was outside the confines to consider it spam as per WP:SPAM (because it clearly could be considered spam), but rather to avoid possibly discouraging commentary as per [[WP:BITE]]. Sometimes taking the time to explain the situation to the contributor is best, rather than immediately giving an edit a potentially ambiguous label. --[[User:Xession|Xession]] ([[User talk:Xession|talk]]) 01:31, 4 March 2011 (UTC)
+
+the only reason i say we should update more is so that people can get more correct information, you usually cant update every hour, you usually gotta wait between 16 to 32 hours for signals to travel between the 2  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Voyager1Interstellar|Voyager1Interstellar]] ([[User talk:Voyager1Interstellar|talk]] • [[Special:Contributions/Voyager1Interstellar|contribs]]) 00:27, 4 March 2011 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:People can get more correct information straight from the Heavens Above website, of course.  Also, strictly speaking, positions are not based solely on signals but primarily on predictive POD analysis; the signals mostly just confirm the predictions and reaffirm that Voyager is not dead. [[User:Variable|siafu]] ([[User talk:Variable|talk]]) 00:32, 4 March 2011 (UTC)
+:Why must the article be updated so often?  This is not Heavens Above, it is an encyclopaedia.  As long as the information is correct for the given time/date it is not important if the last update was a week ago. [[User:ChiZeroOne|ChiZeroOne]] ([[User talk:ChiZeroOne|talk]]) 00:36, 4 March 2011 (UTC)
+::Honestly, I think daily may be too often, but considering that Voyager 1 is the farthest man-made object from Earth, every day is a historic mark in history.  Should every day be included? Possibly not, but I don't see how it would be disruptive in any particular way beyond those of us using WikiBiff. --[[User:Xession|Xession]] ([[User talk:Xession|talk]]) 00:41, 4 March 2011 (UTC)
+
+== Speeds ==
+
+(1) Article says &quot;Voyager 1's current relative velocity is 17.062  km/s ...&quot; This should be speed, not velocity.  More interestingly, it should say what this speed is relative to.  My choice would be the International Celestial Reference Frame (ICRF).&lt;ref&gt;http://rorf.usno.navy.mil/ICRF/&lt;/ref&gt;
+
+(2) In any case, I think the value is wrong.  Using JPL Horizons &lt;ref&gt;http://ssd.jpl.nasa.gov/?horizons&lt;/ref&gt;, I get the speed on March 9th (00:00 UTC) to be 15.346 km/s relative to the sun, -12.092 km/s relative to the Earth, and 14.681 km/s relative to the ICRF.  Yes, we are actually getting closer to Voyager 1.
+
+[[User:ExtonGuy|ExtonGuy]] ([[User talk:ExtonGuy|talk]]) 20:28, 10 March 2011 (UTC)
+
+:For point 1, I might agree, however, relative velocity inherently gives a direction ''away'' from an object which is the only difference between velocity and speed. For point 2, the [http://voyager.jpl.nasa.gov/mission/interstellar.html Voyager webpage] cites 3.6AU/year which translates to [http://www.wolframalpha.com/input/?i=538%2C552%2C334.4876+km%2Fyear+to+km%2Fs 17.07738249897 km/s].  Not at all sure how you received your values. --[[User:Xession|Xession]] ([[User talk:Xession|talk]]) 21:48, 10 March 2011 (UTC)
+
+== &quot;Current Status&quot; inconsistencies ==
+
+# The current section says &quot;As of April 21, 2011, Voyager 1 was about 116.825 AU, or about 10,843,294,886 miles or about 0.00183 of a light-year from the Sun.&quot; However, Google calculator says that 116.825 AU = 10,859,571,600 miles, which differs from the given figure starting in the 4th decimal place. Differences should be limited to later positions since 116.825 AU has 6 significant figures. Google calculator also gives 116.825 AU as 0.00184733723 light-years, differing again from this figure. Google calculator's AU&lt;-&gt;miles conversion disagrees with the value listed at [[Astronomical Unit]] only in the 7th digit, so that can't explain the differences. The light-year conversion is especially off.
+# The miles figure has 11 digits of precision, which is *incredibly* precise, yet the light-year figure only has 3. I'm deeply suspicious that we would have been able to calculate the distance--I suppose to the center of the earth?--to the nearest mile.
+# I won't check the other pure conversions, but they may contain similar discrepancies.
+# The section says &quot;This calculates as 3.599 AU per year, about 10% faster than Voyager 2. At this velocity, 73,600 years would pass before reaching the nearest star, Proxima Centauri, were the spacecraft traveling in the direction of that star.&quot; The [[Proxima centauri]] article lists it at a distance of 4.2 light-years, as does this article. At 3.599 AU per year, Google calculator figures the time frame as ~73,800 years, not 73,600. In a brief search I found disagreement in the distance--4.2, 4.22, or 4.3. The latter two make the discrepancy significantly larger.
+# The section says &quot;Voyager 1 will need about 7800 years at its current velocity to travel one light year, therefore 40,000 years will pass before coming anywhere near other stars or planets.&quot; The 7800 figure makes absolutely no sense with the previous figures. 3.599 AU per year * 7800 years converts to about 0.44 light-years, when it should be precisely 1 light-year. The actual number should be about 17600. Perhaps a 1 got missed and other discrepancies conspired.
+# Also, the &quot;therefore&quot; clause in the previous quote does not actually follow from the preceding clause. Later in the section it's explained that &quot;Voyager 1 is not heading towards any particular star, but in about 40,000 years it will pass within 1.6 light years of the star AC+79 3888 in the constellation Camelopardalis. That star is generally moving towards our Solar System at about 119 kilometers per second.&quot; That star's movement towards the spacecraft is utterly essential in arriving at the preceding conclusion. At first I thought it was just another discrepancy.
+[[Special:Contributions/24.220.188.43|24.220.188.43]] ([[User talk:24.220.188.43|talk]]) 02:12, 29 April 2011 (UTC)
+
+== Time Elapsed Inconsistent ==
+
+# The Mission duration listed in the first sentence of the article and the one mentioned in the info box on the right hand side do not match. I don't know which is right, or I'd change it. [[User:Steevven1|Steevven1]] &lt;sup&gt;([[User talk:Steevven1|Talk]]) ([[Special:Contributions/Steevven1|Contribs]]) ([[User:Steevven1/Gallery|Gallery]])&lt;/sup&gt; 07:18, 2 December 2011 (UTC)
+:::Does one say 32 years and the other say 34 years? 34 years is launch from earth and 32 years is interstellar mission from Saturn encounter. --[[User:Mschribr|Mschribr]] ([[User talk:Mschribr|talk]]) 16:01, 2 December 2011 (UTC)
+
+== Project Cost ==
+
+Anyone know how much this cost, even in 1970's terms? [[User:Jtodsen|Jtodsen]] ([[User talk:Jtodsen|talk]]) 14:18, 7 December 2011 (UTC)
+
+== Fastest...speed of any man-made satellite? ==
+
+I thought a satellite orbited something. In this quote &quot;At 17.26 km/s (10.72 mi/s)[15] it has the fastest heliocentric recession speed of any man-made satellite&quot;, &quot;satellite&quot; should be changed to &quot;object&quot;.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/174.19.0.171|174.19.0.171]] ([[User talk:174.19.0.171|talk]]) 15:44, 16 June 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Original research danger ==
+
+The intro says &quot;Operating for 34 years, 9 months and 13 days as of today &quot;
+
+This is original research and very dangerous for Wikipedia.  WP assumes that Voyager is operating but has no citation to prove it.  Someday, Voyager will stop working but WP will continue to count the days.  This will be false information.
+
+Therefore, I propose that the reader do the math and not have WP do OR (original research).
+
+Since WP says to be bold, I will change the intro but will not insist. [[User:Auchansa|Auchansa]] ([[User talk:Auchansa|talk]]) 03:52, 18 June 2012 (UTC)
+
+== &quot;Billion&quot; term ambiguity ==
+
+Hi, the sentence &quot;This is considered to be the edge of the solar system, at 11.1 billion miles from Earth&quot; is ambigue. &quot;Billion&quot; may be 10^9 or 10^12, depending on the country. It should be replaced by an unambigue number.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/87.2.198.118|87.2.198.118]] ([[User talk:87.2.198.118|talk]]) 11:37, 14 July 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Please edit timeline: Voyager reached edge of heliosphere ==
+
+In 2012, for the instruments on voyager have show that it has reached the boundary between the heliosphere and the interstellar gas which is unaffected by the sun, it's presently in the boundary between the two. it makes sense to add this to the timeline, even though this passage takes 1-2 years, it is now within the out doldrums of the heliosphere.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/92.144.7.148|92.144.7.148]] ([[User talk:92.144.7.148|talk]]) 20:07, 18 July 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Voyager 1 Is Not At the Edge of the Solar System ==
+
+The article says Voyager 1 is at the edge of the solar system, at 11.1 billion miles from the Sun. The solar system includes Sedna whose orbit extends to 892 AU. The solar system includes the Oort cloud, which is a sphere that extends to 50,000 AU. Voyager 1 is far from the edge of the solar system. Why does the article say Voyager 1 is at the edge of the solar system?  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Mschribr|Mschribr]] ([[User talk:Mschribr|talk]] • [[Special:Contributions/Mschribr|contribs]]) 16:52, 21 August 2012 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+:Thanks.  There are lots of news articles that say it is near the &quot;edge of the solar system&quot; and even a few pages by NASA, but NASA talks more about the &quot;frontier&quot;, and I've added some clarification on that point, and several cites.  [[User:Nealmcb|★NealMcB★]] ([[User talk:Nealmcb|talk]]) 01:08, 6 September 2012 (UTC)
+
+== Table of instruments with activity status - which craft ? ==
+
+There are two such tables in the &quot;Voyager program&quot; and &quot;Voyager 1&quot; articles. The two lists appear to be slightly different. In the &quot;Voyager 2&quot; article, however, there is no such list. Could the 2 lists be checked against recent data and moved to the appropriate articles? At the moment, it is hard to tell which one is for V1 and which is for V2. In particular, the table in the &quot;Voyager program&quot; does not indicated to which craft it pertains. Thanks. [[User:Fi11222|Fi11222]] ([[User talk:Fi11222|talk]]) 09:32, 22 August 2012 (UTC)
+== Instruments ==
+
+This article should at least give a list of the instruments that were put on Voyager 1 &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:74.249.82.221|74.249.82.221]] ([[User talk:74.249.82.221|talk]] • [[Special:Contributions/74.249.82.221|contribs]]) 20:57, 23 September 2008 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt;
+
+== Why does the article give a future date? ==
+
+The article says, &quot;Operating for 35 years, 5 months and 6 days as of 25 February 2013&quot;, and yet, in  Cape Canaveral, it isn't even February 25th yet.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Dustin V. S.|Dustin V. S.]] ([[User talk:Dustin V. S.|talk]] • [[Special:Contributions/Dustin V. S.|contribs]]) 03:58, 25 February 2013 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+== Left solar system? ==
+
+Nasa seems to disagree: http://www.jpl.nasa.gov/news/news.php?release=2013-107 [[Special:Contributions/82.139.86.180|82.139.86.180]] ([[User talk:82.139.86.180|talk]]) 18:53, 20 March 2013 (UTC)
+:Yep, sorry. I saw the other (incorrect) press release and updated the site before NASA disputed it, or at least before I noticed their response. Thanks to those of you who fixed it. -[[User:Themightyquill|TheMightyQuill]] ([[User talk:Themightyquill|talk]]) 08:44, 21 March 2013 (UTC)
+:The article spends a lot of time discussing whether V1 has left the solar system or not. Is this really necessary? Whether it has left the solar system really depends on your definition of what is inside and outside the solar system is, does it? Either way, I think we need to consolidate the bits and pieces that talk about leaving the solar system into one section. [[User:Ashmoo|Ashmoo]] ([[User talk:Ashmoo|talk]]) 16:22, 1 July 2013 (UTC)
+
+== Current status section ==
+
+The Current Status section seems like a bit of a mess. Here's my problems with it: 1. It refers to events up to 15 years ago, hardly current. 2. A lot of it seems it is written by editors who have popped it to add the latest bit from a NASA press release without reading the rest of the article, as such the tenses are all wrong, lots of stuff is repeated (leaving the solar system, furthest from Earth, relation to V2, etc). 3. Shouldn't the whole section be merged into the Interstellar space, or a &quot;post-mission&quot; section. 4. It suffers from WP:RECENTISM. The V1 mission is 35+ years old but the last 2 years take up a huge chunk of the article. I'm going to start editing. Please leave a message if you think this is misguided. [[User:Ashmoo|Ashmoo]] ([[User talk:Ashmoo|talk]]) 16:26, 1 July 2013 (UTC)
+== Current Speed ==
+
+&quot;3.595 AU per year&quot;, &quot;3.592 AU per year&quot;  --[[Special:Contributions/193.254.155.48|193.254.155.48]] ([[User talk:193.254.155.48|talk]]) 14:33, 12 November 2012 (UTC)
+
+:In addition of updating the current velocity, it would be very useful to include the fact that the probe is slowing down and that there are no scientific theories to account for this unexpected change of velocity (+ references). Cheers, [[User:BatteryIncluded|BatteryIncluded]] ([[User talk:BatteryIncluded|talk]]) 16:38, 12 November 2012 (UTC)
+:: There are lots of theories about the slowing down and the (most likely) correct solution has already been found: http://en.wikipedia.org/wiki/Pioneer_anomaly [[User:Nabrufa|Nabrufa]] ([[User talk:Nabrufa|talk]]) 13:32, 21 March 2013 (UTC)
+
+I tried to edit the current speed from 19.03 to the correct 17.03, but somebody un-did my change.  The 19.03 number for km/sec doesn't match the number for mph, nor does it match the previously reported speeds at the given reference site.  It's an obvious typo.  You can let this page be wrong until the source is corrected if you want, but I'm just trying to help here. Perhaps you could reference the previous official report, which has the correct number.  [[Special:Contributions/192.234.122.28|192.234.122.28]] ([[User talk:192.234.122.28|talk]]) 17:29, 17 July 2013 (UTC)
+
+== Man-made, human-made and manufactured ==
+
+I realize that this is apt to generate an edit war, so rather than making the change to the article, I'm going to open the discussion here. First of all, I refer to [[Wikipedia:Manual_of_Style#Gender-neutral_language]], which says, in part, &quot;Use [[gender-neutral language]] where this can be done with clarity and precision.&quot; My belief is that &quot;man-made&quot;, while it can be interpreted, and indeed is obviously intended, as &quot;made by man, the animal&quot;, rather than &quot;made by male humans&quot;, is still generally recognized as '''not''' gender-neutral language, and that it can be replaced with &quot;manufactured&quot; with clarity and precision. (And, I believe, &quot;human-made&quot; is a clumsy neologism.) I will leave my comments at that, and seek the consensus of wikipedians. [[User:TomS TDotO|TomS TDotO]] ([[User talk:TomS TDotO|talk]]) 12:02, 25 March 2013 (UTC)
+:When I changed the original 'man-made' into 'human-', I was taking the lead of articles such as [[Moon Landing]] and specifically [[Timeline of Solar System exploration]], rather than anything else. I was fixing the broken context &quot;unknown region&quot; was in, it caught my eye, I remembered what appeared to be the convention, so I changed it.
+:Now, I agree that 'human-made' ''sounds'' a bit dodgy, and while I agree that 'man, the animal' makes sense, it still has the potential to come off... Not as intended. Then again, it is a common expression and thus, conducive to understanding, which is the aim of any article. I have no attachment to either term; but I will disagree with 'manufactured,' on the grounds that it simply comes off as vague. [[Special:Contributions/82.166.114.239|82.166.114.239]] ([[User talk:82.166.114.239|talk]]) 20:17, 25 March 2013 (UTC)
+::I did see &quot;human-made&quot; in those articles. Also one use of the expression &quot;made on earth&quot;. Also, a wikisearch for &quot;human-made&quot; led me to a disambiguation page for &quot;man made&quot;, which in turn led to many different expressions, among them &quot;artificial&quot; (which I think is a possibility) and &quot;anthropogenic&quot; (which I don't like). I would also mention &quot;nonnatural&quot; (or some variation on that) as a possibility. But so far, it seems there are only three people who care enough to say anything. [[User:TomS TDotO|TomS TDotO]] ([[User talk:TomS TDotO|talk]]) 16:49, 26 March 2013 (UTC)
+
+:::The introduction describes the spacecraft as a &quot;space probe&quot;.  That is bigotry, sexism, racism and a violation to automaton-rights. Does anybody else care?  [[User:BatteryIncluded|BatteryIncluded]] ([[User talk:BatteryIncluded|talk]]) 01:34, 27 March 2013 (UTC)
+::::I'm not sure if you're being funny or snide. Regardless; no, I don't really care. While I was fixing something else, I saw something I thought was wrong and I changed it. A fellow user reverted, and now we're discussing it. All and all, A wonderful example of [[WP:BRD|the process]].
+::::[[WP:AGF|Assume good faith]], live long and prosper. [[Special:Contributions/85.250.66.94|85.250.66.94]] ([[User talk:85.250.66.94|talk]]) 07:16, 31 March 2013 (UTC)
+
+:::::And, I agree with you, at least to the extent that I will not press the point any more. [[User:TomS TDotO|TomS TDotO]] ([[User talk:TomS TDotO|talk]]) 13:38, 31 March 2013 (UTC)
+
+::::::Yes, I was trying to be funny. I should start using the &quot;smiley&quot; thingie. Cheers, [[User:BatteryIncluded|BatteryIncluded]] ([[User talk:BatteryIncluded|talk]]) 03:17, 7 July 2013 (UTC)
+
+::::I favor “human-made”; it is gender-neutral, and more concise than “(human-)manufactured”; also, “manufactured” suggests mass production, when in this case only two probes were made.--[[User:Solomonfromfinland|Solomonfromfinland]] ([[User talk:Solomonfromfinland|talk]]) 05:58, 19 July 2013 (UTC)
+
+== Speed ==
+
+IT says Voyager 1's speed is 19.03 km/s. Article [[New Horizons]] gives Voyager 1's speed as a more plausible 17.145 km/s. Which is correct? Also, the spacecraft speeds need to be dated, as in “As of [date], Voyager 1's speed was....”--[[User:Solomonfromfinland|Solomonfromfinland]] ([[User talk:Solomonfromfinland|talk]]) 05:54, 19 July 2013 (UTC)
+:{{done}} Yes, you are right, the latest NASA page appears to have the wrong speed. It's clearly wrong, probably a copy paste error. I've changed it to the more correct figure from 24 May  2013 [http://voyager.jpl.nasa.gov/mission/weekly-reports/2013-05-24.html here]. Sometimes NASA and JPL get things wrong. -[[User:84user|84user]] ([[User talk:84user|talk]]) 16:48, 19 July 2013 (UTC)
+
+{{Talk:Voyager 1/GA1}}
+
+== Date on which it left the Solar System ==
+
+While it was reported on September 12, 2013, it appears the actual date the probe left the Solar System was August 25, 2012: [http://www.nytimes.com/2013/09/13/science/in-a-breathtaking-first-nasa-craft-exits-the-solar-system.html?pagewanted=all].  [[User:Bms4880|Bms4880]] ([[User talk:Bms4880|talk]]) 19:04, 12 September 2013 (UTC)
+
+Indeed, though we should be careful with the phrase &quot;left the Solar System&quot; and other such variations.  While the media has jumped on that phrasing, Voyager 1 has simply entered interstellar space -- it has left the heliosphere.  It remains in the Solar System. [http://www.nbcnews.com/science/where-does-solar-system-end-voyager-isnt-officially-there-yet-8C11142403] [[Special:Contributions/128.158.1.164|128.158.1.164]] ([[User talk:128.158.1.164|talk]]) 19:29, 13 September 2013 (UTC)
+
+
+== Removed Reference to Star Trek V from IN POPULAR CULTURE ==
+
+While a Voyager probe did appear in Star Trek The Motion Picture (1979), in Star Trek V (1989) it was a ''Pioneer'' series craft that was destroyed. The Pioneer plaque is clearly visible in the shot. Further there was no source or citation attributed to the entry.
+
+Pioneer Plaque:
+https://en.wikipedia.org/wiki/Pioneer_plaque
+
+Clip from STV:
+http://www.youtube.com/watch?v=LOqoljJ0ees
+
+Entry in Memory Alpha:
+http://en.memory-alpha.org/wiki/Pioneer_10
+
+
+[[User:Codymr|Codymr]] ([[User talk:Codymr|talk]]) 02:55, 14 September 2013 (UTC)
+
+== Discrepancy in future milestones ==
+
+In the 'Heliopause' section of ''Exit from the heliosphere'' it is stated that at current speed it would take the craft 73,775 years to reach [[Proxima Centauri]] were it traveling in that direction, a distance of 4.2 light-years. Later, in the final section ''Future of the probe'' it is stated that at current speed the craft will pass within 1.6 light-years of [[Gliese 445]], a star lying 17.6 light-years from the Sun, in about 40,000 years. Both of these predictions cannot be true. [[User:PJtP|PJtP]] ([[User talk:PJtP|talk]]) 16:24, 16 September 2013 (UTC)
+:That is because Gliese 445 is traveling in the general direction towards Voyager 1 at faster speed than Voyager 1 119 Kilometers per second. This question was answered before. --[[User:Mschribr|Mschribr]] ([[User talk:Mschribr|talk]]) 18:16, 16 September 2013 (UTC)
+
+{{Talk:Voyager 1/GA2}}
+
+== DTS? ==
+
+Is there both a DTR and a DTS, or is there a typo? [[User:Jim.henderson|Jim.henderson]] ([[User talk:Jim.henderson|talk]]) 01:13, 22 September 2013 (UTC)
+:It was a typo..Thanks for the alert...&lt;font style=&quot;white-space:nowrap;text-shadow:#F8F8FF 0em 0em 0.8em,#FF4500 -0.8em -0.8em 0.9em,#90EE90 0.7em 0.7em 0.8em;color:#696969&quot;&gt;&lt;b&gt;[[User:Benison P Baby|Benison]]&lt;/b&gt;[[User talk:Benison P Baby|&lt;font style=&quot;color:Green&quot;&gt; talk with me&lt;/font&gt;]]&lt;/font&gt;
+
+== Dispute the factorial statement in Sentence 2 of Paragraph 2. ==
+
+ The cited sentence:
+
+It was the first probe to provide detailed images of the two planets and their moons. 
+
+Pioneer 11 was the first probe to provide detailed images of the two planets and their moons.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Cb161|Cb161]] ([[User talk:Cb161|talk]] • [[Special:Contributions/Cb161|contribs]]) 14:01, 12 January 2014 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Current Position ==
+
+The default text in the top section appears to have a fixed number for distance from the sun, but it automatically displays the current date as the day it was last updated (regardless of when it was actually updated). Am I incorrect to assume that the distance isn't updated? If this is an issue, the easy fix would just be to hard code the date it was last changed rather than have it automatically display the current date. I'm didn't check elsewhere in the article, but it may be a recurring thing anywhere it talks about data that can change often.[[User:BeaumontTaz|BeaumontTaz]] ([[User talk:BeaumontTaz|talk]]) 23:04, 25 March 2014 (UTC)
+:Yeh, your are right. I have done so. Well then, I may change it to the access date. But if possible, I 'll try to update the distance daily. &lt;font style=&quot;white-space:nowrap;text-shadow:#F8F8FF 0em 0em 0.8em,#FF4500 -0.8em -0.8em 0.9em,#90EE90 0.7em 0.7em 0.8em;color:#696969&quot;&gt;&lt;b&gt;[[User:The Herald|Herald]]&lt;/b&gt;&lt;/font&gt; 13:57, 27 March 2014 (UTC)
+
+== Major cleanup--achieved stub status. ==
+
+I've done a major cleanup. Gone is the Voyager Golder Record (linked from [[Voyager program]]), and Jupiter and Saturn are now separate, although lack specific scientific results. Probably should be Science section in [[Voyager program]]. &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:JamesHoadley|JamesHoadley]] ([[User talk:JamesHoadley|talk]] • [[Special:Contributions/JamesHoadley|contribs]]) 16:14, 7 February 2005‎ 11:15 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt;
+
+== Manmade vs. Humanmade ==
+
+{{archivetop}}
+Hi- i appreciate that my edit was seen to be in 'good faith', and i am not certain this is the right place to leave this comment (i've edited quite few Wiki pages, but have never i believe had a change 'reverted' before) -- i wonder why it is not 'necessary' to change 'manmade' to 'humanmade', when it is clear we are moving to a gender-neutral language, and this immediately sticks out like a sore thumb to someone reading the piece.  I just showed this edit to a female astronomer colleague and she was kind of amazed that anyone would take issue with this.
+I hope this issue can be resolved amicably.
+Thx-
+-MSSG  [[User:Mssgill|Mssgill]] ([[User talk:Mssgill|talk]]) 19:28, 3 December 2013 (UTC)
+
+:Hello. You may be right, [[WP:Gender-neutral language]] states in the introduction:
+:&quot;Examples of non-neutral language that can often be easily avoided are: [...] ''man'' to stand for both genders in general, either as a separate item (''man's greatest discoveries''), a prefix (''mankind, manmade''), or a suffix (''businessman, fireman'').&quot;  Cheers, [[User:BatteryIncluded|BatteryIncluded]] ([[User talk:BatteryIncluded|talk]]) 20:20, 3 December 2013 (UTC)
+::Okay, so I see this issue has already been raised. This article has for long enough used the pefectly acceptable 'man-made' description. [[User:BatteryIncluded]] has invented a new word 'humanmade' and insists on using it here, on the strength of a Wikipedia essay on so-called gender-neutral language. We are not obliged to use such language here, especially when it sounds ridiculous, as 'humanmade' clearly does. What's it supposed to tell us, that the thing was made by humans rather than monkeys? In any case huMAN is as gender specific as chairMAN or any other such word. I've reverted to the long-standing version pending other input. [[User:Shadwell Munch|Shadwell Munch]] ([[User talk:Shadwell Munch|talk]]) 15:53, 2 April 2014 (UTC)
+
+:::Non-gender bias is not POV. The fact that mysgony is perfect for you does not mean it is for Wikipedia. Or you can go FYS. Cheeers, [[User:BatteryIncluded|BatteryIncluded]] ([[User talk:BatteryIncluded|talk]]) &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt; — Preceding [[Wikipedia:Signatures|undated]] comment added 18:04, 2 April 2014 (UTC)&lt;/span&gt;&lt;!--Template:Undated--&gt;
+::::Well I would have listened to any sensible, rational argument you cared to put forward, but since all you can do is come up with insults I'll revert your change again, pending a consensus view to change. [[User:Shadwell Munch|Shadwell Munch]] ([[User talk:Shadwell Munch|talk]]) 18:43, 2 April 2014 (UTC)
+
+Sorry, but men created the probe, and only PC Nazis care about language being &quot;gender neutral&quot;.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/138.133.233.124|138.133.233.124]] ([[User talk:138.133.233.124|talk]]) 19:33, 24 January 2014 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+*This needs to be kept civil. Continued usage of demeaning statements and attacks will result in administrator involvement that may lead to banning of offending users. Wikipedia is supposed to be a friendly place. Keep it that way.
+::As far as this discussion goes, I lodge that mankind and human mean relatively the same thing, albeit one is more termed for sex of the race rather than race as a whole. When you say man-made, it means man made it. It taken politically, it means the male sex of humanity made the object. Human, however is inclusive of women. My thought is it should be human-made to avoid any conflicts. note: political correctness should not be used as the sole factor to determine which term to use. [[User:Kevintampa5|Kevintampa5]] ([[User talk:Kevintampa5|talk]]) 22:47, 28 May 2014 (UTC)
+::: What an individual person thinks regarding Human-made or man-made is irrelevant here. The statement should match that of the supporting cited source, or find another source to match the statement. Altering the wording used in cited sources is equivalent to altering what a person has said. Next thing you know people will be altering historical documents to be 'Politically Correct' and that is not allowed. Accordingly I have reverted the article wording to match the cited source. [[User:Richard Harvey|Richard Harvey]] ([[User talk:Richard Harvey|talk]]) 09:03, 29 May 2014 (UTC)
+
+::::It is unfuckingbelievable your idea that no woman could have helped develop Viking and that saying otherwise is historically incorrect and not allowed in Wikipedia. Is it really necessary to cite a source to debunk your assertion that women are incapable of having taken part in it? I did, but only to prove that '''Richard Harvey is a misogynistic asshole.''' Cheers, [[User:BatteryIncluded|BatteryIncluded]] ([[User talk:BatteryIncluded|talk]]) 13:51, 29 May 2014 (UTC)
+:::::Actually I never made a claim that 'no woman could have helped develop Viking', or said 'saying otherwise is historically incorrect'. That is just something that you have assumed by your personal inability to read what was actually written. I am fully aware that some of the best engineers, designers and technicians are female. I personally know and socialise with some highly competent female PhD's, whom I greatly admire and respect. What I did say is that it is wrong to change the wording of a cited source used as a reference to support a written statement, as that is nothing more than wrongly quoting what a person has said or written. Fortunately your comments about me are also incorrect. What that comment does prove however is that you are [[WP:INCIVILITY|uncivil]] and prone to making false accusations about people you do not personally know and making  [[Wikipedia:No personal attacks|personal attacks]] and violating [[Wikipedia:Wikiquette|Wikiquette]] is not acceptable from any editor. Then again perhaps you enjoy attempting to bait people by being rude, possibly to make yourself seem important, if so then you may find that at some point in the future your editing access gets rescinded. [[User:Richard Harvey|Richard Harvey]] ([[User talk:Richard Harvey|talk]]) 15:13, 29 May 2014 (UTC)
+::::::Dandy! He uses Wiki-rules to implement misogyny and then again for the flack he generates. [[User:BatteryIncluded|BatteryIncluded]] ([[User talk:BatteryIncluded|talk]]) 15:30, 29 May 2014 (UTC)
+:::::::I have reverted all your changes. You are not a fit and proper person to be editing Wikipedia and I expect you'll soon be blocked. [[Special:Contributions/141.6.11.18|141.6.11.18]] ([[User talk:141.6.11.18|talk]]) 15:59, 29 May 2014 (UTC)
+: While I generally agree with gender-neutral usage, that fact remains that [http://www.merriam-webster.com/dictionary/man-made man-made] is a word and [http://www.merriam-webster.com/dictionary/human-made human-made] is not. &lt;b&gt;[[User:Ohnoitsjamie|OhNo&lt;font color=&quot;#D47C14&quot;&gt;itsJamie&lt;/font&gt;]] [[User talk:Ohnoitsjamie|&lt;sup&gt;Talk&lt;/sup&gt;]]&lt;/b&gt; 17:37, 29 May 2014 (UTC)
+::Artificial is an acceptable alternative to man-made. Of course, one might argue that man-made means made by humans (or just human men if you prefer), while artificial means made by ''any'' sentient lifeform. Human-made, while grammatical, is a neologism at best; [[WP:WTW#Neologisms and new compounds]] discourages use of such neologisms. —/[[User:Mendaliv|'''M'''&lt;small&gt;endaliv&lt;/small&gt;]]/&lt;sup&gt;&lt;small&gt;[[User talk:Mendaliv|2¢]]&lt;/small&gt;&lt;/sup&gt;/&lt;sub&gt;&lt;small&gt;[[Special:Contributions/Mendaliv|Δ's]]&lt;/small&gt;&lt;/sub&gt;/ 17:44, 29 May 2014 (UTC)
+:::Months ago I laughed and joked at the suggestions that women were not involved in the program, but it became evident that the issue of manmade vs. human-made is not grammatical, but sexist. I would not have given it a second thought, but the strong opposition to exclude women engineers is ridiculous. Anyway, the popular press relied on [http://www.nasa.gov/mission_pages/voyager/voyager20130912.html NASA's press release]: ''&quot;PASADENA, Calif. -- NASA's Voyager 1 spacecraft officially is the first human-made object to venture into interstellar space.&quot;''   
+:::User Richard Harvey is very concerned of the historic accuracy so he demands a quote stating &quot;human-made&quot;, so there it is, by NASA; as well as a NASA FACTS page stating there were women engineers working at NASA in the 70s. Now that the cat is out of the bag, I suggest you use common sense if you change the text only to please the &quot;respectable&quot; WP misogynistic editors. Cheers, [[User:BatteryIncluded|BatteryIncluded]] ([[User talk:BatteryIncluded|talk]]) 18:40, 29 May 2014 (UTC)
+::::I don't agree that human-made should be used: it's a needless neologism. If &quot;man-made&quot; is objectionable, use artificial. As an aside, you need to stop casting aspersions. You're not only not helping, you're harming your own credibility. —/[[User:Mendaliv|'''M'''&lt;small&gt;endaliv&lt;/small&gt;]]/&lt;sup&gt;&lt;small&gt;[[User talk:Mendaliv|2¢]]&lt;/small&gt;&lt;/sup&gt;/&lt;sub&gt;&lt;small&gt;[[Special:Contributions/Mendaliv|Δ's]]&lt;/small&gt;&lt;/sub&gt;/ 19:09, 29 May 2014 (UTC)
+FWIW - updated text from &quot;human-made&quot; to &quot;made by humans&quot; instead - maybe better - perhaps consistent w/ talk afaik atm (&quot;human-made&quot; seems supported by [[WP:RS]] but not defined in dictionaries?) - *entirely* ok with me to rv/mv/ce of course - in any case - Enjoy! :) [[User:Drbogdan|Drbogdan]] ([[User talk:Drbogdan|talk]]) 19:43, 29 May 2014 (UTC)
+:My take is that even if the term is used in some reliable source, it doesn't change much. Just because a source uses a neologism to describe something doesn't mean we then start using the neologism to the abandonment of more common terms. We aren't shackled to the exact language that sources use, and in fact may be required to use different wording at times (often due to copyright or NPOV concerns). All that said, I'm okay with &quot;made by humans&quot; as a second choice... but I prefer artificial, despite the concern I cite above. —/[[User:Mendaliv|'''M'''&lt;small&gt;endaliv&lt;/small&gt;]]/&lt;sup&gt;&lt;small&gt;[[User talk:Mendaliv|2¢]]&lt;/small&gt;&lt;/sup&gt;/&lt;sub&gt;&lt;small&gt;[[Special:Contributions/Mendaliv|Δ's]]&lt;/small&gt;&lt;/sub&gt;/ 19:56, 29 May 2014 (UTC)
+&quot;Made by humans&quot;. Is that so we know it's not &quot;made by donkeys&quot;? What if it was made by robots? Some things are these days. &quot;Made by humans&quot; just sounds awful. Why must we deviate from the accepted &quot;man-made&quot;? The words don't mean &quot;made by men&quot;, the gender, they mean &quot;made by man&quot;, the species. Everyone knows that and it's common usage. And the vast majority of women are quite happy with it anyway - in my experience. The only ones that aren't are the hardcore feminists - men and women. &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:82.26.211.204 |82.26.211.204 ]] ([[User talk:82.26.211.204 |talk]] • [[Special:Contributions/82.26.211.204 |contribs]]) &lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt;
+::How about &quot;made by humankind&quot;?   &quot;Artificial,&quot; while technically accurate, doesn't appropriately convey why that milestone is so important.  Made by humans sounds slightly silly.  Space exploration is one of the crowning achievements of humankind, not of individual humans, and not for artificial constructs.  [[User:Sailsbystars|Sailsbystars]] ([[User talk:Sailsbystars|talk]]) 21:12, 29 May 2014 (UTC)
+By &quot;Humankind&quot; do you mean &quot;Mankind&quot;? &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:82.26.211.204|82.26.211.204]] ([[User talk:82.26.211.204|talk]] • [[Special:Contributions/82.26.211.204|contribs]]) &lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt;
+:::[http://www.merriam-webster.com/dictionary/humankind No, I do not.] [[User:Sailsbystars|Sailsbystars]] ([[User talk:Sailsbystars|talk]]) 22:00, 29 May 2014 (UTC)
+{{done}} - updated text wording =&gt; from &quot;made by humans&quot; to &quot;made by humankind&quot; instead - per talk and [https://www.google.com/webhp?sourceid=chrome-instant&amp;ion=1&amp;espv=2&amp;ie=UTF-8#q=define%3A%20humankind ''&quot;humankind&quot; -&gt; human beings considered collectively (used as a neutral alternative to “mankind”)''] - ok w/ me to rv/mv/ce of course - in any case - Enjoy! :) [[User:Drbogdan|Drbogdan]] ([[User talk:Drbogdan|talk]]) 22:07, 29 May 2014 (UTC)
+:I'd much rather see &quot;made by humanity&quot; than &quot;made by humankind&quot;. I know the latter is acceptable, but it just ... the former just sounds better to me. I still prefer &quot;artificial&quot; but I understand the concern with it not conveying the importance of the mission. —/[[User:Mendaliv|'''M'''&lt;small&gt;endaliv&lt;/small&gt;]]/&lt;sup&gt;&lt;small&gt;[[User talk:Mendaliv|2¢]]&lt;/small&gt;&lt;/sup&gt;/&lt;sub&gt;&lt;small&gt;[[Special:Contributions/Mendaliv|Δ's]]&lt;/small&gt;&lt;/sub&gt;/ 23:33, 29 May 2014 (UTC)
+::{{done}} - Thank You for *all* the suggestions - adj wording - from &quot;made by humankind&quot; to &quot;made by humanity&quot; - hope this is *entirely* ok w/ all - Thanks again - and - Enjoy! :) [[User:Drbogdan|Drbogdan]] ([[User talk:Drbogdan|talk]]) 01:48, 30 May 2014 (UTC)
+:::'made by humanity' while not being as bad as 'made by humankind' is still an appalling use of the english language, and it adds nothing to this article. In fact, the way it's worded in the lead is quite jarring. Is there something particularly wrong with the widely accepted, and concise 'man-made'? [[User:SkyBlackStar|SkyBlackStar]] ([[User talk:SkyBlackStar|talk]]) 11:26, 30 May 2014 (UTC)
+:::Reference No. 40 uses 'man-made' in both its title and the text it contains. Accordingly I've modified the article text to align with the reference, meaning that 'man-made' is now used here. It is clearly bad policy to misuse, or misquote, a reference, as has been done here. [[User:SkyBlackStar|SkyBlackStar]] ([[User talk:SkyBlackStar|talk]]) 11:39, 30 May 2014 (UTC)
+::::Drbogdan, regarding your edit summary, I see no consensus here. You've assumed one following a limited debate - limited in time and participants. You might be happy for references to be misused in the way it is now being, following your revert of my edit, but I'm not, and I'm sure most editors wouldn't be. Please justify how you think it's acceptable for a reference to be adjusted to align with POV? [[User:SkyBlackStar|SkyBlackStar]] ([[User talk:SkyBlackStar|talk]]) 12:19, 30 May 2014 (UTC)
+::::Just ot clarify, the actual title of the reference is 'Voyager 1 now most distant man-made object in space'. In this article it's been bastardised to 'Voyager 1 now most distant human-made object in space' [http://www.webcitation.org/68pdJn9M5]. How bad is that? [[User:SkyBlackStar|SkyBlackStar]] ([[User talk:SkyBlackStar|talk]]) 12:27, 30 May 2014 (UTC)
+@[[User:SkyBlackStar|SkyBlackStar]] - Thank you for your comments - Yes, there may be [[WP:RS]] support for most wordings being considered - however, at the moment, &quot;made by humanity&quot; seems to be the &quot;least objectionable&quot; wording and/or consensus view; &quot;man-made&quot; seems to be a &quot;minority view&quot; (POV of one?) at this time - hope this helps in some way - in any regards - Thanks again - and - Enjoy! :) [[User:Drbogdan|Drbogdan]] ([[User talk:Drbogdan|talk]]) 12:55, 30 May 2014 (UTC)
+:Brief followup - seems that [https://en.wikipedia.org/w/index.php?title=Voyager_1&amp;diff=610781308&amp;oldid=610777324 part of my recent revert] may have ''unintentionally'' included the source title of a [[WP:RS]] - I agree - the source title should be as published - and not be modified - hope this clarifies my position on this - Enjoy! :) [[User:Drbogdan|Drbogdan]] ([[User talk:Drbogdan|talk]]) 16:54, 30 May 2014 (UTC)
+:::: [[WP:NOTCENSORED]] cites that Wikipedia may contain objectionable phrasing. Unless 'humanmade' is prominently used in reliable sources, I believe that we should follow the source and use 'man-made'. We should not engage in [[WP:NOR|original research.]] Whether you find it sexist or not is irrelevant, I propose that we defer to the sources. Unless there is some outstanding reason to change it, and per sources, then we can. As it sits, and during discussion, [[WP:BRD|BRD I think should be followed.]] [[User:Tutelary|Tutelary]] ([[User talk:Tutelary|talk]]) 13:21, 30 May 2014 (UTC)
+:::::There's absolutely no reason to follow the exact wording of sources when other words convey the exact same meaning.  I still prefer made by &quot;humanity&quot; or &quot;humankind.&quot;  [[User:Sailsbystars|Sailsbystars]] ([[User talk:Sailsbystars|talk]]) 15:37, 30 May 2014 (UTC)
+::::::: When there is a content dispute about the wording, we should stick to the sources, so as to not engage in [[WP:NOR|original research.]] As well, having read the above responses, the prominent argument seems 'It's sexist' which is not permitable per [[WP:CENSORSHIP]]. Emotional responses should not be prioritized over sources. [[User:Tutelary|Tutelary]] ([[User talk:Tutelary|talk]]) 15:47, 30 May 2014 (UTC)
+::::::'Humanity' as a word is okay, 'humankind' is abysmal. I think you're on a slippery slope if you start changing the words of sources, especially when reporting the title of the source (as has been done here). [[User:SkyBlackStar|SkyBlackStar]] ([[User talk:SkyBlackStar|talk]]) 15:44, 30 May 2014 (UTC)
+The mass media relied on [http://www.nasa.gov/mission_pages/voyager/voyager20130912.html NASA's press release]:  '''''&quot;PASADENA, Calif. -- NASA's Voyager 1 spacecraft officially is the first human-made object to venture into interstellar space.&quot;''''' 
+But the following IP reaction by one of the current participants highlights the spirit of this discussion:
+;&quot;Sorry, but men created the probe, and only PC Nazis care about language being &quot;gender neutral&quot;.&quot;
+So please keep in mind that the issue is not just grammar, and that &lt;span style=&quot;background-color:yellow;color:black;&quot;&gt;this kind of intervention makes it even more compelling to Wikipedia to not dismiss [[WP:Gender-neutral language]]&lt;/span&gt; which states in the introduction:
+:&quot;Examples of non-neutral language that can often be easily avoided are: [...] ''man'' to stand for both genders in general, either as a separate item (''man's greatest discoveries''), a prefix (''mankind, manmade''), or a suffix (''businessman, fireman'').&quot;    
+Fact: Women engineers worked on Voyager program, and all throughout NASA in the 70s. Given the current situation, I propose to use (in order of preference):
+*human made [http://www.macmillandictionary.com/us/dictionary/american/human-made] (drop the dash)
+*spacecraft
+*probe
+*artificial object
+*humankind
+Cheers, [[User:BatteryIncluded|BatteryIncluded]] ([[User talk:BatteryIncluded|talk]]) 14:51, 30 May 2014 (UTC)
+:I'm sure there were one or two women working on the program, but what's that got to do with anything? Women are included in words like 'mankind' and 'man', when the latter refers to the species - as it does here - and not to the gender of someone. [[User:SkyBlackStar|SkyBlackStar]] ([[User talk:SkyBlackStar|talk]]) 15:57, 30 May 2014 (UTC)
+:: First, I'd like to say, please do not [[WP:BITE|bite the newcomers]] by any means. That includes referring to their contributions as anything &quot;Nazi&quot; or implying any attacks to anyone, including implying the entire dissent (including me) is nazi. [[WP:NPA]] That's not the way to create consensus or a discussion on the content. This easily leads towards animosity between editors, when this is a content dispute, not a fight.
+:: Second, the press release given by NASA is just one source, and given the [[WP:DUE|due weight of the source]], it does merit a greater consideration than a blog. But we have to determine the relevance and due weight of all the sources. Having done a bit of research, [[http://www.theguardian.com/science/2013/sep/12/voyager-1-leaves-solar-system The Guardian]] [[http://www.telegraph.co.uk/science/space/10307179/Voyager-spacecraft-what-will-it-teach-the-universe-about-mankind.html Telegraph]], and other sources I can't exactly copy and paste well on my mobile mostly are indicative of the preferration of 'mankind'. 
+:: Additionally, mankind is explicitly mentioned by the NASA press release in itself, at the same rate of 'humanity' among other things. Given that the sources describe it mostly as 'mankind' or 'of man', we should use that phrasing. One last thing, that is an essay that you linked, and are not required to be followed, and should be used for maybe a POV-relevancy, meaning that &quot;this essay makes good argument of my POV&quot;, but it's not equivalent to policy.[[User:Tutelary|Tutelary]] ([[User talk:Tutelary|talk]]) 15:04, 30 May 2014 (UTC)
+:::Yes, the essay is just that - an essay, an opinion. It's not policy so far as I understand it, and it certainly falls behind WP:CENSOR. [[User:SkyBlackStar|SkyBlackStar]] ([[User talk:SkyBlackStar|talk]]) 16:03, 30 May 2014 (UTC)
+
+How the hell is using &quot;made by humanity&quot; original research? As argued above, we are not chained to a particular source's phrasing... and for reasons of copyright and NPOV often ''cannot'' chain ourselves to a particular phrasing. The fact is, this question of phrasing is entirely a matter of editorial discretion. Arguments towards [[WP:NOTCENSORED]] are red herrings: nobody's censoring anything here, just arguing that a different wording would be more descriptive. No matter how much either side argues that this is plainly covered by some preexisting consensus or policy, the fact is that it's ''entirely'' a matter of editorial discretion. Wikilawyering based on various essays is not helpful to anybody. —/[[User:Mendaliv|'''M'''&lt;small&gt;endaliv&lt;/small&gt;]]/&lt;sup&gt;&lt;small&gt;[[User talk:Mendaliv|2¢]]&lt;/small&gt;&lt;/sup&gt;/&lt;sub&gt;&lt;small&gt;[[Special:Contributions/Mendaliv|Δ's]]&lt;/small&gt;&lt;/sub&gt;/ 16:21, 30 May 2014 (UTC)
+: Unless it's been substantiated by reliable sources, and that 'humanity' is the more dominant and persistent in reliable sources, and using one word 'man' or 'mankind' is not copyrighted, we should follow that has had long standing consensus.  There is no restriction in that. The [[WP:NOTCENSORED]] argument that I am making is referring to the use of the words 'sexist' and 'objectionable' which I feel are encompassed by WP:NOTCENSORED, and having looked back at the history, the words' mysoginist' were used in the context to remove the words and replace it. Emotional responses to omit something objectionable is encompassed under WP:CENSORSHIP.  Now that we get into a discussion, I see those justifications dissappear. That's good. Editorial decisions are based on [[WP:CONSENSUS]], and I have seen an event split at this point, so that's why we are going to continue to argue this. [[User:Tutelary|Tutelary]] ([[User talk:Tutelary|talk]]) 18:17, 30 May 2014 (UTC)
+::That original research argument you're making is frankly ridiculous. As I've said before and will continue to say, we are not chained to a particular wording that a particular source uses. This is all the more real when we're talking about '''synonyms'''. What I see here is the ability to kill two birds with one stone. Someone finds &quot;manmade&quot; objectionable. I don't think that objection is completely out of left field, even though I personally consider &quot;man&quot; gender neutral when referring to the inhabitants of Earth; basically, it's something that we can reasonably say a number of people are likely to disagree with. If we use &quot;by humanity&quot; or similar, we not only express ''precisely the same idea'', but avoid complaints. Be reasonable. —/[[User:Mendaliv|'''M'''&lt;small&gt;endaliv&lt;/small&gt;]]/&lt;sup&gt;&lt;small&gt;[[User talk:Mendaliv|2¢]]&lt;/small&gt;&lt;/sup&gt;/&lt;sub&gt;&lt;small&gt;[[Special:Contributions/Mendaliv|Δ's]]&lt;/small&gt;&lt;/sub&gt;/ 18:59, 30 May 2014 (UTC)
+::: This is where we're going to have to disagree. If the sole reason of this discussion is based on the objection of one or more users on the bounds that it's objectionable, I will deny their arguments based on [[WP:CENSORSHIP]]. ''Wikipedia may contain content that some readers consider objectionable or offensive, even exceedingly so (see Wikipedia:Content disclaimer). Wikipedia cannot guarantee that articles or images will always be acceptable to all readers, or that they will adhere to general social or religious norms.'' as well as ''However, some articles may include images, text or links that are relevant to the topic but that some people find objectionable. Discussion of potentially objectionable content should not focus on its offensiveness but on whether it is an appropriate image, text or link. Beyond that, &quot;being objectionable&quot; is generally not sufficient grounds for removal (or inclusion) of content.'' Just because somebody disagrees on something, does not mean that they are elected or entitled to remove it. However, if there is a genuine encylopedic benefit, not based on objection or affinity, then I am open towards it. [[User:Tutelary|Tutelary]] ([[User talk:Tutelary|talk]]) 19:07, 30 May 2014 (UTC)
+
+:{{u|Mendaliv}}, I see you begin to lose patience too. And I have been enduring months of this attitude. Now, users {{u|Tutelary}} and SkyBlackStar (between others) are in absolute denial that [http://www.nasa.gov/mission_pages/voyager/voyager20130912.html NASA's press release] uses the gender neutral word '''''human-made''''' and refuse to acknowledge and implement any [[WP:Gender-neutral language]]. We can move forward if we focus on the object, not on the makers, and use instead:
+*spacecraft
+*probe
+*artificial object
+:Take your pick.  Cheers, [[User:BatteryIncluded|BatteryIncluded]] ([[User talk:BatteryIncluded|talk]]) 17:34, 30 May 2014 (UTC)
+:: You're using an essay as the basis for the word change, [[WP:Gender-neutral-language]] is an '''essay''' written by ''one or more Wikipedia contributors'' as the basis for this change? There is a content dispute because 'man' and 'mankind' are the more dominant in [[WP:RS|reliable sources.]] It is the more used phrasing. What do you think Armstrong meant when he said &quot;One step for man, one giant leap for mankind?&quot; He was referring to humanity. &quot;Man&quot; and&quot;Mankind&quot; are synonyms for the human race and in effect, are not gendered words. I am also not refusing or denying that NASA said 'human-made', but I am rejecting the notion that they did it prominently. They also did mention 'man' and 'makind' at an equal rate in that press release. [[User:Tutelary|Tutelary]] ([[User talk:Tutelary|talk]]) 18:17, 30 May 2014 (UTC)
+
+{{ok}} Updated text wording to &quot;spacecraft&quot; (from &quot;object 'made by humanity'&quot; and the like) - per editorial discretion - hopefully, this is *entirely* ok - Enjoy! :) [[User:Drbogdan|Drbogdan]] ([[User talk:Drbogdan|talk]]) 17:52, 30 May 2014 (UTC
+:Dennis, it would be better to wait for a consensus. You did revert my change, whcih I made in a similar manner. At the moment the text is changing by the hour. I think we should wait 'till we finally resolve this - if we ever do :) [[User:SkyBlackStar|SkyBlackStar]] ([[User talk:SkyBlackStar|talk]]) 19:54, 30 May 2014 (UTC)
+::Added a possible [https://en.wikipedia.org/w/index.php?title=Voyager_1&amp;diff=610837478&amp;oldid=610831912 compromise edit solution] - source title actually contains [http://edition.cnn.com/TECH/space/9802/17/nasa.distant.objects/ &quot;man-made object&quot; wording] - but - the related article text can be &quot;spacecraft&quot; afaik - hope this works for all - Enjoy! :) [[User:Drbogdan|Drbogdan]] ([[User talk:Drbogdan|talk]]) 20:22, 30 May 2014 (UTC)
+:::Well, obviously better not to wait for a consensus then. [[User:SkyBlackStar|SkyBlackStar]] ([[User talk:SkyBlackStar|talk]]) 21:03, 30 May 2014 (UTC)
+::::Perfectly happy with this. You're right that the source title uses &quot;man-made&quot;, and the ''citation'' needs to reflect that. What we have in the article, however, does not. —/[[User:Mendaliv|'''M'''&lt;small&gt;endaliv&lt;/small&gt;]]/&lt;sup&gt;&lt;small&gt;[[User talk:Mendaliv|2¢]]&lt;/small&gt;&lt;/sup&gt;/&lt;sub&gt;&lt;small&gt;[[Special:Contributions/Mendaliv|Δ's]]&lt;/small&gt;&lt;/sub&gt;/ 21:16, 30 May 2014 (UTC)
+:::::Yes, it does. It uses those precise words - 'man-made'. [[User:SkyBlackStar|SkyBlackStar]] ([[User talk:SkyBlackStar|talk]]) 21:35, 30 May 2014 (UTC)
+
+::::::NASA's press release states &quot;human-made&quot; your choices of the mass media translated it into &quot;manmade&quot;. I repeat, instead of focusing on the builders, focus on the spacecraft which is the subject of this article. [[User:BatteryIncluded|BatteryIncluded]] ([[User talk:BatteryIncluded|talk]]) 21:36, 30 May 2014 (UTC)
+:::::::The article does just that. The man-made angle does not focus on the builders at all, it differentiates it from a 'natural' object. Focussing on the builders would include details of the people who worked on the project. No such details are in the article. What, precisely, is the problem with 'man-made'? I just don't see it. [[User:SkyBlackStar|SkyBlackStar]] ([[User talk:SkyBlackStar|talk]]) 21:40, 30 May 2014 (UTC)
+:::::::: '''Vehement Oppose'''. See [[WP:STICKTOSOURCES]]. We stick to the sources. Specifically ''Take care not to go beyond what is expressed in the sources, or to use them in ways inconsistent with the intention of the source, such as using material out of context. In short, stick to the sources.'' The fact that we're even debating this is ridiculous, the vast majority of the sources use 'man' and 'mankind'.[[User:Tutelary|Tutelary]] ([[User talk:Tutelary|talk]]) 21:41, 30 May 2014 (UTC)
+::::::::: Yes, that's right. I just did a Google search (not scientific, I know), but the vast majority of hits, including many reputable sources, use &quot;man-made&quot;. I do accept that NASA use &quot;human made&quot; in their press release but, correct me if I'm wrong, shouldn't we be giving priority to third-party references (of which NASA is not one)? (might be wrong on this, but I thought I saw it somewhere). [[User:SkyBlackStar|SkyBlackStar]] ([[User talk:SkyBlackStar|talk]]) 21:49, 30 May 2014 (UTC)
+::::::::::So, now you want to use commonly used names. OK do you commonly call your car a &quot;manmade vehicle&quot;? Your iPhone a &quot;manmade wireless transceiver&quot;? An airplane a &quot;manmade flying machine&quot;? Why call this spacecraft &quot;manmade object&quot;? Call it what is and get on with it. [[User:BatteryIncluded|BatteryIncluded]] ([[User talk:BatteryIncluded|talk]]) 22:35, 30 May 2014 (UTC)
+:::::::::::Do I commonly call my car a man-made vehicle? No. But if it was on its way out of the solar system I might. [[User:SkyBlackStar|SkyBlackStar]] ([[User talk:SkyBlackStar|talk]]) 23:04, 30 May 2014 (UTC)
+
+Seems ''&quot;spacecraft&quot;'' and ''&quot;manmade object&quot;'' are used as [http://www.space.com/17688-voyager-1.html ''synonomous terms''] - as such - substituting the word ''&quot;spacecraft&quot;'' for ''&quot;manmade object&quot;'' is [[WP:STICKTOSOURCE]] - in any case - Enjoy! :) [[User:Drbogdan|Drbogdan]] ([[User talk:Drbogdan|talk]]) 22:16, 30 May 2014 (UTC)
+:I'm not sure they are necessarily equivalent.  I don't agree that these statements are equivalent: 
+:*&quot;This is the first spacecraft to leave the solar system.&quot;
+:*&quot;This is the first manmade object to leave the solar system.&quot;  
+:The first statement is more specific than the second statement.  The second statement makes it clear that this is the first object created by humans that has left the confines of the solar system.  The first statement only makes it clear that it is the first spacecraft to leave the solar system, but leaves open the question of whether any non-spacecraft objects have left the solar system before this spacecraft did.  Whether we use &quot;manmade&quot; or &quot;humanmade&quot; or some other equivalent adjective, I think it is important to be clear that this is the first object of any kind that has left the solar system, not just the first spacecraft.  [[User:Scottywong|&lt;span style=&quot;font:small-caps 1.2em Garamond,Times,serif;color:#224422;letter-spacing:0.2em;&quot;&gt;‑Scottywong&lt;/span&gt;]][[User talk:Scottywong|&lt;span style=&quot;font:0.75em Verdana,Geneva,sans-serif;color:#227722;&quot;&gt;|&amp;nbsp;chatter&amp;nbsp;_&lt;/span&gt;]] 22:51, 30 May 2014 (UTC)
+:: I 100% agree with you. It is not an equivalent sentence, and with all this political correct stuff, &lt;s&gt;trying not to have animosity for one specific person, and even citing misogyny in an edit summary,&lt;/s&gt; (per below) I think we've lost touch with what really matters. We should stick to the source, as the sentence how it was per [[WP:STATUSQUO]] (though I know is an essay, but brd is followed by a ton of editors, so relevant) should remain the same as it was before, as it indicates a unique meaning that can only be done with that specific phrase. [[User:Tutelary|Tutelary]] ([[User talk:Tutelary|talk]]) 22:57, 30 May 2014 (UTC)
+:::Tutelary, please assume good faith. Accusing other editors of having an agenda besides writing an encyclopedia is not only inappropriate, it's the precise kind of nonsense that will derail this discussion permanently. —/[[User:Mendaliv|'''M'''&lt;small&gt;endaliv&lt;/small&gt;]]/&lt;sup&gt;&lt;small&gt;[[User talk:Mendaliv|2¢]]&lt;/small&gt;&lt;/sup&gt;/&lt;sub&gt;&lt;small&gt;[[Special:Contributions/Mendaliv|Δ's]]&lt;/small&gt;&lt;/sub&gt;/ 23:37, 30 May 2014 (UTC)
+:::: I wasn't, rather I was trying to refer to the summaries that implied that the use of 'man' and 'mankind' were objectionable and needed to be replaced.  I did not accuse anyone of having an agenda, just that replacing something based on being objectionable is wrong. Nonetheless, I've struck out the comments that made such a distinction. Now, I again propose that we revert the sentences back to what they were, as that version was what the sources made a distinction of, and offered the unique encyclopedic benefit which cannot be attained with the new wording. [[User:Tutelary|Tutelary]] ([[User talk:Tutelary|talk]]) 23:40, 30 May 2014 (UTC)
+:::::Disagree. This is little more than using [[WP:BRD]] to edit war to enforce a preferred wording. This is the equivalent wording. There is zero difference. —/[[User:Mendaliv|'''M'''&lt;small&gt;endaliv&lt;/small&gt;]]/&lt;sup&gt;&lt;small&gt;[[User talk:Mendaliv|2¢]]&lt;/small&gt;&lt;/sup&gt;/&lt;sub&gt;&lt;small&gt;[[Special:Contributions/Mendaliv|Δ's]]&lt;/small&gt;&lt;/sub&gt;/ 23:47, 30 May 2014 (UTC)
+Seems the following sentences may all be suffiently equivalent to the source - and may be used one for the other as alternative wording I would think =&gt;
+* &quot;This is the first ''man made object'' to leave the solar system.&quot; [SOURCE]
+* &quot;This is the first ''human made object'' to leave the solar system.&quot;
+* &quot;This is the first ''object made by humans'' to leave the solar system.&quot;
+* &quot;This is the first ''object made by humanity'' to leave the solar system.&quot;
+* &quot;This is the first ''artificially made object'' to leave the solar system.&quot;
+* &quot;This is the first ''unnatural object'' to leave the solar system.&quot;
+There may be no need to use the exact source wording when there are other (perhaps more agreeable) options - Enjoy! :) [[User:Drbogdan|Drbogdan]] ([[User talk:Drbogdan|talk]]) 23:59, 30 May 2014 (UTC)
+
+:This whole issue is about being politically correct, nothing else. &quot;Mankind&quot; always was gender-neutral; still is. [[User:Evensteven|Evensteven]] ([[User talk:Evensteven|talk]]) 06:38, 31 May 2014 (UTC)
+::So what? There are a significant number of people who disagree with that position (though I am not one of them). A different wording would neither be objectively incorrect nor improperly censor something offensive. It just makes the encyclopedia more accessible. Insisting on using &quot;mankind&quot; simply out of resistance to political correctness is just as childish as those insisting on the change. The difference in this case, however, is that those who disagree with the political correctness point are not given a wording they would view as objectively incorrect had they come across the article without knowing the history of the dispute. Collaborative editing is just as much about making compromises over things [[WP:JDLI|you just don't like]] in order to make things stable. —/[[User:Mendaliv|'''M'''&lt;small&gt;endaliv&lt;/small&gt;]]/&lt;sup&gt;&lt;small&gt;[[User talk:Mendaliv|2¢]]&lt;/small&gt;&lt;/sup&gt;/&lt;sub&gt;&lt;small&gt;[[Special:Contributions/Mendaliv|Δ's]]&lt;/small&gt;&lt;/sub&gt;/ 07:00, 31 May 2014 (UTC)
+:::So I'm collaborating here. I'm not going to oppose an edit one way or another. It's not an issue anyone will &quot;win&quot; here. I recognize the alternate view. But I am also one (of not a few) who think political correctness is offensive, and I think that is a point that parties to this discussion should be reminded of. The misnomer of &quot;political correctness&quot; derives from the fact that it is not &quot;correct&quot;; that is, it is based on a faulty assumption. Its offensiveness lies in its aggressive insistence on pushing a political view. So be aware that whatever the outcome, there will be sufficient offensiveness remaining, and it will leap out at readers just as much as the reverse wording (whichever wording &quot;reverse&quot; applies to). [[User:Evensteven|Evensteven]] ([[User talk:Evensteven|talk]]) 17:50, 31 May 2014 (UTC)
+
+===Consensus?===
+&lt;blockquote class=&quot;toccolours&quot; style=&quot;float:none; padding: 10px 15px 10px 15px; display:table;&quot;&gt; 
+'''SUMMARY''': '''[[WP:CONSENSUS|&quot;CONSENSUS&quot; Discussion]]''' - '''[[Talk:Voyager 1#Consensus?|See Related Comments Below]]''' - '''9 Editors''' *'''FAVOR'''* and '''3''' *'''OPPOSE (possibly)'''* (and '''7''' *'''Not Known'''*) Use Of The '''&quot;SPACECRAFT&quot;''' Wording In The &quot;[[Voyager 1]]&quot; Article (a/o 10 June 2014, 20:40 UTC).&lt;br&gt;
+* '''FAVORED''': (N=9) =&gt; [[User:BatteryIncluded|BatteryIncluded]] + [[User:Drbogdan|Drbogdan]] + [[User:Dustin V. S.|Dustin V. S.]] + [[User:Evensteven|Evensteven]] + [[User:Mendaliv|Mendaliv]] + [[User:Mssgill|Mssgill]] + [[User:Ohnoitsjamie|Ohnoitsjamie]] + [[User:Sailsbystars|Sailsbystars]] + [[Special:Contributions/65.94.171.126|65.94.171.126]]&lt;br&gt;
+* '''OPPOSED''': (N=3) =&gt; [[User:Mschribr|Mschribr]] + [[User:SkyBlackStar|SkyBlackStar]] + [[User:Tutelary|Tutelary]]&lt;br&gt;
+* '''Not Known''': (N=7) =&gt; [[User:Kevintampa5|Kevintampa5]]  + [[User:Richard Harvey|Richard Harvey]] + [[User:Scottywong|Scottywong]] + [[User:Shadwell Munch|Shadwell Munch]] + [[Special:Contributions/82.26.211.204|82.26.211.204]] + [[Special:Contributions/138.133.233.124|138.133.233.124]] + [[Special:Contributions/141.6.11.18|141.6.11.18]]&lt;br&gt;
+'''NOTE''': Please Correct Summary As Needed Of Course - In Any Case - Enjoy! :) [[User:Drbogdan|Drbogdan]] ([[User talk:Drbogdan|talk]]) 20:32, 2 June 2014 (UTC)
+&lt;/blockquote&gt;
+*Do we censor Muhammed's article, because it may contain substance that Muslim's find unsuitable? Even overtly so? What if there are million of them who feel that the whole article should be deleted? Would we comply? No. The whole reason we are having this discussion is because one user, ignoring older consensus, changed the wording and reverted when anyone changed it back. I'm not going to edit war, which is why I am going to take a consensus vote, instead. [[WP:CONSENSUS]] is one of the strongest policies in which Wikipedia functions. If there is enough consensus, you can have people permanently banned, new rules enacted, certain features removed, even in Arbcom, Consensus that can get a well known administrator desysopped for misconduct. I firmly believe that it will be destined to keep here.
+:I firmly !vote that the wording should be changed back to ''man'' and ''man-made object'' and ''mankind'', as this was the stable version, and it offers the unique encyclopedic benefit of being the most prominent in [[WP:RS|reliable sources]], as well as being the most unique and informative phrase without being confusing. [[User:Tutelary|Tutelary]] ([[User talk:Tutelary|talk]]) 11:37, 31 May 2014 (UTC)
+*'''FLEXIBLE''' - my position at the moment is for ''CHOICE'' - and [[WP:EDITDISC|editorial discretion]] - and, in this instance, not one that is only restricted to the word &quot;man&quot; in one form or another - as posted earlier, there are many other wordings that are equivalent (ie, ''human'', ''human made object'', ''artificial object'', ''unnatural object'', ''made by humanity'', ''humankind'', ''spacecraft'', also others - including a relevant article =&gt; ''[[List of artificial objects escaping from the Solar System]]'') - agreeable wordings, if possible, seem better than otherwise I would think - I prefer the wording of the [https://en.wikipedia.org/w/index.php?title=Voyager_1&amp;oldid=610837478 (16:16, 30 May 2014) version] - and not the suggested reversions to an older version - in any case - Enjoy! :) [[User:Drbogdan|Drbogdan]] ([[User talk:Drbogdan|talk]]) 13:14, 31 May 2014 (UTC)
+*NASA's original press release uses neutral language (human-made) for a reason. Given the months-long edit war, '''SPACECRAFT''' should be used instead of the contested man/manmade/human.  It is the spacecraft's article, not a list of comets, asteroids and probes leaving/entering the Solar System, which would require of your aditional verbose qualifiers. [[User:BatteryIncluded|BatteryIncluded]] ([[User talk:BatteryIncluded|talk]]) 14:59, 3 June 2014 (UTC)
+*I believe that, as far as the contested terms are concerned, we should return to the situation prior to this revision [https://en.wikipedia.org/w/index.php?title=Voyager_1&amp;diff=584270280&amp;oldid=584129969]. A protracted edit war occurred as a result of this edit, which in any case had no consensus whatsoever. I don't suggest we slavishly stick to a certain word such as man-made, but I object to such words being removed from an article simply because some people object to them. We should avoid awkward phrasing designed to avoid terms some don't like, and I also think we should completely avoid ridiculous words such as &quot;humankind&quot;; the worst example of PC usage I can think of. [[User:SkyBlackStar|SkyBlackStar]] ([[User talk:SkyBlackStar|talk]]) 21:38, 31 May 2014 (UTC)
+*The only path I can suggest that (in my opinion) would be helpful, would be to reword wherever possible, as much as possible, in such a way as to avoid the issue. Use &quot;man&quot; or &quot;human&quot; or their derivatives to the minimum possible extent. I doubt that will produce perfect results, but there are no suitable words left. [[User:Evensteven|Evensteven]] ([[User talk:Evensteven|talk]]) 04:46, 1 June 2014 (UTC)
+*''NASA's Voyager 1 spacecraft officially is the first '''human-made object''' to venture into interstellar space'' -&gt; ''NASA's Voyager 1 spacecraft officially is the first '''human artifact''' to venture into interstellar space''
+:If the problem is &quot;man-made object&quot;, replace it with &quot;human artifact&quot; (use artifact instead of artefact since this should use US English, as it is a US space probe) &quot;human-made object&quot; is awkward. -- [[Special:Contributions/65.94.171.126|65.94.171.126]] ([[User talk:65.94.171.126|talk]]) 06:28, 1 June 2014 (UTC)
+::Or try &quot;artificial object&quot;, &quot;manufactured object&quot;, &quot;constructed artifact&quot;, &quot;artificial craft&quot;, or &quot;constructed vessel&quot;. [[User:Evensteven|Evensteven]] ([[User talk:Evensteven|talk]]) 06:42, 1 June 2014 (UTC)
+::: an &quot;artifact&quot; is an &quot;artificial object&quot; in that it was constructed/manufactured. So &quot;constructed artifact&quot; is synonymous with &quot;artifact&quot;. I only added &quot;human&quot; to specify what agency did the building to create a non-natural object. -- [[Special:Contributions/65.94.171.126|65.94.171.126]] ([[User talk:65.94.171.126|talk]]) 04:58, 2 June 2014 (UTC)
+::::I kinda like artifact... I feel like it conveys the significance of the event of Voyager 1's exiting the solar system a bit better than other terms. Still, given it conveys the impression that the object is ancient (and possibly that it was ''discovered'' rather than continuously part of an existing civilization's historical record), I think the best choice we're going to have here is spacecraft. Neither manmade object nor humanmade object are going to happen, and in my opinion rightly so—both terms would just be a rallying point for complaints. —/[[User:Mendaliv|'''M'''&lt;small&gt;endaliv&lt;/small&gt;]]/&lt;sup&gt;&lt;small&gt;[[User talk:Mendaliv|2¢]]&lt;/small&gt;&lt;/sup&gt;/&lt;sub&gt;&lt;small&gt;[[Special:Contributions/Mendaliv|Δ's]]&lt;/small&gt;&lt;/sub&gt;/ 05:34, 2 June 2014 (UTC)
+::::::I can certainly get behind &quot;spacecraft&quot;. Besides everything else, I just like the flavor of &quot;craft&quot;, &quot;crafting&quot;, even &quot;crafty&quot; (because it does take some of that to get these things to fly). It really conveys the idea that real people worked on it by hand; it wasn't just built by robots in a factory. [[User:Evensteven|Evensteven]] ([[User talk:Evensteven|talk]]) 07:12, 2 June 2014 (UTC)
+:::::::FWIW - Yes, I agree - '''&quot;Spacecraft&quot;''' is *entirely* ok with me also - and is consistent with my earlier ''posts'' on the subject above - as well as my related [https://en.wikipedia.org/w/index.php?title=Voyager_1&amp;oldid=610837478 article ''edits''] and the [https://en.wikipedia.org/w/index.php?title=Voyager_1&amp;oldid=610997418 ''current (19:25, 31 May 2014) version''] - Enjoy! :) [[User:Drbogdan|Drbogdan]] ([[User talk:Drbogdan|talk]]) 11:47, 2 June 2014 (UTC)
+*I'm fine with any of the options except man-made or mankind.  There's no policy-based reason to prefer those words ([[WP:NOTCENSORED]] REALLY doesn't apply here... again we're not changing the meaning) and a rational reason not too.  I prefer for humankind or humanity because space is awesome and Voyager 1 is inspiring, but those aren't policy-based reasons either :), although there's also nothing in policy against those options.  The artificial object, spacecraft, etc, are all acceptable, but not my preferred choice.  [[User:Sailsbystars|Sailsbystars]] ([[User talk:Sailsbystars|talk]]) 14:27, 1 June 2014 (UTC)
+::Although I don't wish to crowd this !vote, I urge you to see my reasonings above to change it back to the earlier version, instead. I gave reasons, which no one appeared to address [[User:Tutelary|Tutelary]] ([[User talk:Tutelary|talk]]) 15:12, 1 June 2014 (UTC)
+:::I too am frustrated in this respect. I asked what the problem is, or was, with the long-standing version which used man-made, but none of the objectors offered an answer. [[User:SkyBlackStar|SkyBlackStar]] ([[User talk:SkyBlackStar|talk]]) 18:31, 2 June 2014 (UTC)
+*Man-made includes woman. Human-made is awkward. Man-made is the best choice. --[[User:Mschribr|Mschribr]] ([[User talk:Mschribr|talk]]) 17:58, 1 June 2014 (UTC)
+*Reminder: this whole issue is about being politically correct, nothing else. &quot;Mankind&quot; always was gender-neutral; still is. But arguing back and forth in this way only makes all available options unusable. My firm opposition is against the arguing. My support goes to those who get a grip and behave like adults. [[User:Evensteven|Evensteven]] ([[User talk:Evensteven|talk]]) 20:44, 1 June 2014 (UTC)
+* Oh boy.  I tend to be socially liberal, but I also have misgivings about knee-jerk bowing to political-correctness. &quot;Man made&quot; is a well-established term for objects that have been constructed by humans, humanity, mankind, etc.  That said, &quot;spacecraft&quot; implies &quot;created by humans&quot;, so I don't have any strong objections to that.  Then again, what if we catapulted a washing machine with sufficient velocity to leave the solar system? &lt;b&gt;[[User:Ohnoitsjamie|OhNo&lt;font color=&quot;#D47C14&quot;&gt;itsJamie&lt;/font&gt;]] [[User talk:Ohnoitsjamie|&lt;sup&gt;Talk&lt;/sup&gt;]]&lt;/b&gt; 21:33, 2 June 2014 (UTC)
+:: :) Actually, I tend to be socially liberal too, about quite a number of things, but selectively. In the case of the washing machine, it would qualify, on a technicality. But the catapult that could do the launch without destroying the washing machine would be the more significant achievement. And afterwards I doubt there would be the need for a decades-long project of piloting and data collection (run by, guess what - people!). That's also the nice thing about &quot;craft&quot;. They don't just go; they are guided, under human attention. It will be a day of sadness in 2025 when Voyager 1 turns into a simple artifact. Cheers. [[User:Evensteven|Evensteven]] ([[User talk:Evensteven|talk]]) 22:06, 2 June 2014 (UTC)
+::: Never fear, Voyager one will not be overtaken for at least another several decades, so we need not have this debate again for a long time.  :) Regarding word choice, mankind or man made aren't really offensive or anything like that... I just prefer to use non-gendered options if they're available and not awkward.  Speaking of awkward, I'm going to remove &quot;by men and women&quot; in the paragraph about constructed at JPL because that's hella awkward.  [[User:Sailsbystars|Sailsbystars]] ([[User talk:Sailsbystars|talk]]) 00:55, 3 June 2014 (UTC)
+::::Hey, there's only one &quot;first&quot;, and Voyager 1 has racked up more than the ordinary share. That's forever. :) As for your edit, agree. As for the argument, no one needed to have this one. Let's hope for better next time. [[User:Evensteven|Evensteven]] ([[User talk:Evensteven|talk]]) 05:40, 3 June 2014 (UTC)
+
+Oh my goodness -- i think this is the first time i happened to log into my Wiki acct in a while, noticed i had a notification, and then suddenly saw that i had started *quite* a thread it appears!  (this is the first time i've been involved in this kind of process). 
+
+Let me check what the page now says, and maybe try to figure this out.. [[User:Mssgill|Mssgill]] ([[User talk:Mssgill|talk]]) 07:14, 7 June 2014 (UTC)
+
+Ok -- looks like there is no &quot;manmade&quot; in the article anymore (except in one case where it's a quote of an original article that is referenced), so from the votes above i gather the &quot;human-made&quot; wording kind of won the day in the end.  Even though i didn't read everything in the discussion yet, i saw some strongly worded support for 'my' POV, which i appreciated, but i *do* want to argue for civility first and foremost in Wiki discussions, everywhere online (and IRL too).  I believe it matters, in public discourse, and is something that e.g. Pres. Obama has really had as a central them his whole career, and continues to reiterate.  
+I did change my 'vote' in the resolution at the bottom from &quot;no opinion state&quot; to &quot;support&quot; (for the change to gender-neutral wording).  Interesting process, indeed.  Though i don't edit a lot of Wiki articles to any degree, having been involved in a bit of this, i am even more glad i make my small regular yearly contribution to Wikipedia. :-)
+
+Peace-
+[[User:Mssgill|Mssgill]] ([[User talk:Mssgill|talk]]) 07:24, 7 June 2014 (UTC)
+
+*Okay, I am having a hard time telling whether this dispute has been resolved, so just in case, I shall give my view. Considering that ''human-made'' is a neologism, but clearly has the same meaning as made by humanity, I think that should be enough to clear up the issue. I would be in support of either made by humans or made by humankind/humanity, whichever is preferred by others more. If this discussion ''has'' been closed, then it would be best that it be marked as such - thanks. [[User:Dustin V. S.|&lt;font color=&quot;green&quot; face=&quot;Times New Roman&quot;&gt;''Dustin''&lt;/font&gt;]]&amp;nbsp;[[User talk:Dustin V. S.|(&lt;font color=&quot;green&quot; face=&quot;Times New Roman&quot;&gt;talk&lt;/font&gt;)]] 17:56, 10 June 2014 (UTC)
+::{{ping|Dustin V. S.}}, it appears fairly quiet now, but it was very active, and not that much time has passed to verify true silence. The article has been changed according to the best understanding developed here. I just think a couple of weeks will say definitively. My view of the outcome is that the community rejected the man vs. human argument because, being motivated by political correctness, it undermined any future stability for the wording. I believe it was felt that the dispute could then arise again anytime later. Instead, the decision seems to be to refer to Voyager 1 as a &quot;spacecraft&quot; instead of &quot;(hu)man-made object&quot; or the like, thus side-stepping the political correctness issue entirely, and providing the desired article stability. [[User:Evensteven|Evensteven]] ([[User talk:Evensteven|talk]]) 22:54, 10 June 2014 (UTC)
+:::Oh. Okay then. If the issue comes up again though, I'll be here. [[User:Dustin V. S.|&lt;font color=&quot;green&quot; face=&quot;Times New Roman&quot;&gt;''Dustin''&lt;/font&gt;]]&amp;nbsp;[[User talk:Dustin V. S.|(&lt;font color=&quot;green&quot; face=&quot;Times New Roman&quot;&gt;talk&lt;/font&gt;)]] 23:00, 10 June 2014 (UTC)
+::::Yeah, me too. Nobody wins these arguments; that's why everybody always comes back: looking for the chance that never comes. Political correctness is the pits. [[User:Evensteven|Evensteven]] ([[User talk:Evensteven|talk]]) 00:47, 11 June 2014 (UTC)
+:::::: I ceased arguing for my point because due to the !voting, I'm in the minority, and ultimately, [[WP:CONSENSUS|majority rules.]] Even if I'm completely right, that's how it goes. [[User:Tutelary|Tutelary]] ([[User talk:Tutelary|talk]]) 22:44, 13 June 2014 (UTC)
+::::::: This addendum makes it clear that you have not ceased arguing: one more parting shot. And it is the arguing itself that is wrong, since &quot;rightness&quot; is a POV no matter which side one takes. I couldn't care less that we have a differing view on &quot;man/human&quot;. I do care when such arguments set themselves to disrupt WP editing. And while we're at it, [[WP:NOTDEMOCRACY|Wikipedia is not a democracy]]. We may poll, but we do not vote. Majorities do not rule; only consensus does. And 50.1% does not constitute a consensus ever. And neither does 9 against 1 if there are reasoned discussions still going on. But discussion involves being open to reason, and not just to reason but to serious consideration of another's viewpoint and what it is based upon. Anyone who considers him/her self to be completely right about something, whatever it is, is not discussing, but arguing only. Arguing is disruptive, whereas discussion is the breath and life of WP decision-making. Even though my teeth are clenched right now, I am able to tell you quite civilly that your comment above is not constructive, and to ask you to cease and desist. There is nothing incivil in insisting upon the principles on which WP editing is based and that they be respected. Neither do I need to hide behind false rules of courtesy or political correctness or sweet demeanor or any other type of social coercion when they are threatened. I am attacking your argument, now with vigor, but I am not attacking you. Kindly look and see the difference, and then perhaps you will understand that it is not enough simply to obey rules. What is needed is to be constructive, whatever it takes. Pot shots are not constructive. We do not need more arguing about POV! [[User:Evensteven|Evensteven]] ([[User talk:Evensteven|talk]]) 05:36, 14 June 2014 (UTC)
+:::::::: I was referring to [[WP:IDHT]] that policy, which is what got me started arguing massively against now known consensus. Numerous other editors have contributed to this argument, and when I'm in a 1:3 ratio for losing, that can be attributed as consensus for that ratio. Note that I never considered myself completely right. I believe in this [[WP:TRUTH]] essay, that we go by the sources, which is what I've argued but I've never considered myself completely right. I was simply supposing that if I was, and consensus was nearly 18 editors against me, a policy against frivolous discussions may be invoked to simply stop the 'arguing' that you put it. That's what I'm seeing here that is close to. ''I am able to tell you quite civilly that your comment above is not constructive, and to ask you to cease and desist.'' is a personal attack, which I am going to refer to you [[WP:NPA]]. Anybody saying [b]any[/b] comment is nonconstructive is attacking that person, (unless blatant vandalism) and I am not going to stand for it. I'm sick of it, honestly. Now back to the main point, the discussion. As I can see that I'm not going to win on this, I'm going to cede my position. [[User:Tutelary|Tutelary]] ([[User talk:Tutelary|talk]]) 15:33, 14 June 2014 (UTC)
+:::::::::Unless the user's intentions were to attack you, then I do not consider that point valid (on the personal attack); perhaps Evensteven is wrong, it matters not here. This discussion should be closed off because it is going nowhere. So I would suggest that neither of you make any further comments. Thank you. [[User:Dustin V. S.|&lt;font color=&quot;green&quot; face=&quot;Times New Roman&quot;&gt;''Dustin''&lt;/font&gt;]]&amp;nbsp;[[User talk:Dustin V. S.|(&lt;font color=&quot;green&quot; face=&quot;Times New Roman&quot;&gt;talk&lt;/font&gt;)]] 16:18, 14 June 2014 (UTC)
+{{archive bottom}}
+
+== AU vs au vs ua ==
+
+Discussion moved to [[Talk:Astronomical_unit#AU_vs_au_vs_ua|Astronomical_unit]].  Please continue there.  [[User:Dondervogel 2|Dondervogel 2]] ([[User talk:Dondervogel 2|talk]]) 21:45, 31 December 2014 (UTC)
+	</talkpage>
+</article>

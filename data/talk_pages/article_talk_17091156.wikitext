@@ -1,0 +1,24 @@
+<article id="17091156" title=User talk:66.31.66.141>
+	<talkpage id="17091156" title="User talk:66.31.66.141">
+
+== April 2008 ==
+
+[[Image:Information.png|25px|left]] Hi, the &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Vasa_(ship)?diff=207772464 recent edit]&lt;/span&gt; you made to [[:Vasa (ship)]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thanks. &lt;!-- Template:uw-huggle1 --&gt; [[User:Hobartimus|Hobartimus]] ([[User talk:Hobartimus|talk]]) 03:38, 24 April 2008 (UTC)
+
+== June 2008 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Rock_Revolution?diff=222403141 recent edit]&lt;/span&gt; you made to [[:Rock Revolution]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thanks. &lt;!-- Template:uw-huggle1 --&gt; [[User:SJP|SJP]] ([[User talk:SJP|talk]]) 04:33, 29 June 2008 (UTC)
+
+&lt;br&gt;
+[[Image:Information.svg|left|25px]] Please refrain from making unconstructive edits to Wikipedia, as you did to [[:Hron]]. Your edits have been '''automatically''' marked as [[Wikipedia:Vandalism|unconstructive/possible vandalism]] and have been '''automatically''' [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]].  '''If you believe there has been a mistake and would like to report a false positive, please [[User:ClueBot/FalsePositives|report it here]] and then remove this warning from your talk page.'''  If your edit was not vandalism, please feel free to make your edit again after reporting it. The following is the log entry regarding this warning: [[Hron]] was [http://en.wikipedia.org/w/index.php?title=Hron&amp;diff=222403719&amp;oldid=220634707 changed] by [[Special:Contributions/66.31.66.141|66.31.66.141]] [[User:66.31.66.141|(u)]] [[User talk:66.31.66.141|(t)]] blanking the page on 2008-06-29T04:37:34+00:00 &lt;!-- MySQL ID: 427804 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning2 --&gt;&lt;!-- Template:uw-vandalism2 --&gt; [[User:ClueBot|ClueBot]] ([[User talk:ClueBot|talk]]) 04:37, 29 June 2008 (UTC)
+
+&lt;br/&gt;
+[[Image:Nuvola apps important.svg|left|25px]] Please stop. If you continue to [[Wikipedia:Vandalism|vandalize]] Wikipedia, as you did to [[:Västra skogen]], you ''will'' be [[Wikipedia:Blocking policy|blocked]] from editing. Your edits have been '''automatically''' marked as [[Wikipedia:Vandalism|vandalism]] and have been '''automatically''' [[Help:Reverting|reverted]].  '''If you believe there has been a mistake and would like to report a false positive, please [[User:ClueBot/FalsePositives|report it here]] and then remove this warning from your talk page.'''  If your edit was not vandalism, please feel free to make your edit again after reporting it. The following is the log entry regarding this vandalism: [[Västra skogen]] was [http://en.wikipedia.org/w/index.php?title=V%C3%A4stra+skogen&amp;diff=222403953&amp;oldid=214997363 changed] by [[Special:Contributions/66.31.66.141|66.31.66.141]] [[User:66.31.66.141|(u)]] [[User talk:66.31.66.141|(t)]] blanking the page on 2008-06-29T04:39:22+00:00 &lt;!-- MySQL ID: 427806 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning3 --&gt;&lt;!-- Template:uw-vandalism3 --&gt; [[User:ClueBot|ClueBot]] ([[User talk:ClueBot|talk]]) 04:39, 29 June 2008 (UTC)
+
+[[Image:Stop hand nuvola.svg|25px]] '''This is your last warning'''. You will be blocked from editing the next time you vandalize a page, as you did with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Nada_Es_Igual_(Chenoa_album)?diff=222403999 this edit]&lt;/span&gt; to [[:Nada Es Igual (Chenoa album)]]. &lt;!-- Template:uw-huggle4 --&gt; [[User:Work permit|Work permit]] ([[User talk:Work permit|talk]]) 04:40, 29 June 2008 (UTC)
+
+==September 2008==
+
+[[Image:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia{{#if:Homestead Strike|, as you did to [[:Homestead Strike]]}}. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism2 --&gt; [[User:North Shoreman|Tom (North Shoreman)]] ([[User talk:North Shoreman|talk]]) 21:27, 20 September 2008 (UTC)
+	</talkpage>
+</article>

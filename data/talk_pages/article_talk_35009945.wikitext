@@ -1,0 +1,6 @@
+<article id="35009945" title=Talk:Choi Myung-yong>
+	<talkpage id="35009945" title="Talk:Choi Myung-yong">
+{{WikiProject Biography|living=yes|class=stub|listas=Choi, Myung-Yong|sports-work-group=yes|sports-priority=low}}
+{{WikiProject Football|class=stub|importance=low}}
+	</talkpage>
+</article>

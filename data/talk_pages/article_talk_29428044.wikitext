@@ -1,0 +1,6 @@
+<article id="29428044" title=Talk:Browns Butte>
+	<talkpage id="29428044" title="Talk:Browns Butte">
+{{WikiProject New Zealand|class=|importance=}}
+{{WikiProject Antarctica}}
+	</talkpage>
+</article>

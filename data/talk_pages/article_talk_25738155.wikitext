@@ -1,0 +1,5 @@
+<article id="25738155" title=Talk:Paddy O'Halloran>
+	<talkpage id="25738155" title="Talk:Paddy O'Halloran">
+{{GaelicGamesProject}}
+	</talkpage>
+</article>

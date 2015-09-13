@@ -1,0 +1,5 @@
+<article id="44195345" title=Talk:Loxostege angustipennis>
+	<talkpage id="44195345" title="Talk:Loxostege angustipennis">
+{{LepidopteraTalk|class=stub|importance=low}}
+	</talkpage>
+</article>

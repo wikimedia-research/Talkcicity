@@ -1,0 +1,10 @@
+<article id="29264617" title=Talk:Aristotelis Kalentzis>
+	<talkpage id="29264617" title="Talk:Aristotelis Kalentzis">
+{{WikiProject Biography
+|living=yes
+|class=Start
+|listas=Kalentzis, Aristotelis
+}}
+{{WikiProject Greece|class=Start|importance=Low|topic=Bio}}
+	</talkpage>
+</article>

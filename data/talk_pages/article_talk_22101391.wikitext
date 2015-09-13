@@ -1,0 +1,5 @@
+<article id="22101391" title=Talk:Osman's Dream>
+	<talkpage id="22101391" title="Talk:Osman's Dream">
+{{WikiProject Turkey|class=stub|importance=low}}
+	</talkpage>
+</article>

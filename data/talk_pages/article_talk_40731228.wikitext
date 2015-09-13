@@ -1,0 +1,5 @@
+<article id="40731228" title=Talk:Back Roads (The First Edition album)>
+	<talkpage id="40731228" title="Talk:Back Roads (The First Edition album)">
+{{album|class=stub|importance=low}}
+	</talkpage>
+</article>

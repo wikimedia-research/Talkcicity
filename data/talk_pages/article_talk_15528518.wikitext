@@ -1,0 +1,11 @@
+<article id="15528518" title=Talk:Zu Dashou>
+	<talkpage id="15528518" title="Talk:Zu Dashou">
+{{WikiProject Biography
+|living=no
+|class=C
+|listas=Zu, Dashou
+}}
+{{WikiProject China|class=C|importance=Mid}}
+{{dyktalk|4 October|2014|entry= ... that the tomb of '''[[Zu Dashou]]''', a [[Ming dynasty]] Chinese general, is in [[Toronto]], Canada?}}
+	</talkpage>
+</article>

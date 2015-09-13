@@ -1,0 +1,12 @@
+<article id="26085394" title=User talk:99.237.64.20>
+	<talkpage id="26085394" title="User talk:99.237.64.20">
+
+
+== February 2010 ==
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of your recent edits, such as the one you made to [[:Drew Brees]], did not appear to be constructive and has been reverted. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; [[User:JForget|&lt;font color = &quot;orange&quot;&gt;'''JForget''' &lt;/font&gt;]] 00:21, 6 February 2010 (UTC)
+:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
+
+[[Image:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia, as you did to [[:Drew Brees]]. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Thank you.&lt;!-- Template:uw-vandalism2 --&gt; [[User:Goodvac|&lt;span style=&quot;text-shadow:green 0.3em 0.3em 0.3em;&quot;&gt;&lt;font face=&quot;Papyrus&quot; color=&quot;green&quot;&gt;&lt;i&gt;&lt;b&gt;Goodvac&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;]] ([[User talk:Goodvac|&lt;font color=&quot;Magenta&quot;&gt;talk&lt;/font&gt;]]) 00:21, 6 February 2010 (UTC)
+:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
+	</talkpage>
+</article>

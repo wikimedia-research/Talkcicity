@@ -1,0 +1,10 @@
+<article id="28693085" title=Talk:Layes Abdullayeva>
+	<talkpage id="28693085" title="Talk:Layes Abdullayeva">
+{{WikiProjectBannerShell|1=
+{{WikiProject Athletics}}
+{{WikiProject Biography|living=yes|class=stub|listas=Abdullayeva, Layes|sports-work-group=yes|sports-priority=low}}
+{{WikiProject Running|class=Stub|importance=}}
+| blp=yes
+}}
+	</talkpage>
+</article>

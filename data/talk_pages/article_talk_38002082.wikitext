@@ -1,0 +1,5 @@
+<article id="38002082" title=Talk:For America>
+	<talkpage id="38002082" title="Talk:For America">
+{{song|class=stub}}
+	</talkpage>
+</article>

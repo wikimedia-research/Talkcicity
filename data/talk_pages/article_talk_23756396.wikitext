@@ -1,0 +1,16 @@
+<article id="23756396" title=Talk:Chris Sørensen (footballer born 1989)>
+	<talkpage id="23756396" title="Talk:Chris Sørensen (footballer born 1989)">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|sports-work-group=yes
+|listas=Sorensen, Chris
+|auto=yes
+}}
+{{WikiProject Denmark|class=Stub|importance=}}
+{{WikiProject Football|class=Stub|importance=low}}
+| blp=yes
+}}
+	</talkpage>
+</article>

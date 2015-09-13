@@ -1,0 +1,35 @@
+<article id="24439732" title=User talk:Alexbanks22>
+	<talkpage id="24439732" title="User talk:Alexbanks22">
+
+
+'''Welcome!'''
+
+Hello, {{BASEPAGENAME}}, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! {{#if:yes||Thank you for [[Special:Contributions/{{PAGENAME}}|your contributions]].}} I hope you like the place and decide to stay. Unfortunately, one or more of the pages you created{{#if:Liam Rutherford| , like [[:Liam Rutherford]],}} may not conform to some of Wikipedia's [[Wikipedia:List of policies|guidelines]] for page creation, and may soon be deleted. 
+{{Quote box
+ | quote  = You may also wish to consider using a Wizard to help you create articles. See the [[Wikipedia:Article wizard2.0|Article Wizard]].'''''
+ | source = Thank you.
+ | width  = 20%
+ | align  = right
+}}
+There's a page about creating articles you may want to read called '''[[Wikipedia:Your first article|Your first article]]'''. If you are stuck, and looking for help, please come to the '''[[Wikipedia:New contributors' help page|New contributors' help page]]''', where experienced Wikipedians can answer any queries you have! Or, you can just type '''&lt;code&gt;{{tl|helpme}}&lt;/code&gt;''' on this page, and someone will show up shortly to answer your questions. Here are a few other good links for newcomers:
+* [[Wikipedia:Your first article|Your first article]]
+* [[Wikipedia:BLP|Biographies of living persons]]
+* [[Wikipedia:How to write a great article|How to write a great article]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Tutorial|Tutorial]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you have any questions, check out [[Wikipedia:Where to ask a question]] or ask me on {{#if:|[[User talk:{{{2}}}{{!}}my talk page]]|my talk page}}. &lt;!-- Template:Firstarticle --&gt; Again, welcome!&amp;nbsp;[[User:Multixfer|&amp;lt;&amp;gt;Multi-Xfer&amp;lt;&amp;gt;]] ([[User talk:Multixfer|talk]]) 23:49, 22 September 2009 (UTC)
+==[[Wikipedia:Criteria for speedy deletion|Speedy deletion]] nomination of [[:Liam Rutherford]]==
+[[Image:Ambox warning_pn.svg|48px|left]] Please do not make statements attacking people or groups of people.  Wikipedia has a strict policy against [[Wikipedia:No personal attacks|personal attacks]]. [[Wikipedia:Attack_page|Attack pages]] and images '''are not tolerated''' by Wikipedia and are [[Wikipedia:Criteria for speedy deletion|speedily deleted]]. Users who continue to create or repost such pages and images in violation of our [[Wikipedia:Biographies of living persons|biographies of living persons]] policy will be [[Wikipedia:Blocking policy|blocked]] from editing Wikipedia. Thank you. 
+
+If you think that this notice was placed here in error, you may contest the deletion by adding &lt;code&gt;{{tl|hangon}}&lt;/code&gt; to '''the top of [[:Liam Rutherford|the page that has been nominated for deletion]]''' (just below the existing speedy deletion or &quot;db&quot; tag), coupled with adding a note on '''[[Talk:Liam Rutherford|the talk page]]''' explaining your position, but be aware that once tagged for ''speedy'' deletion, if the page meets the criterion it may be deleted without delay. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the page that would render it more in conformance with Wikipedia's policies and guidelines. &lt;!-- Template:Db-attack-notice --&gt;&lt;!-- Template:Db-csd-notice-custom --&gt; [[User:Multixfer|&amp;lt;&amp;gt;Multi-Xfer&amp;lt;&amp;gt;]] ([[User talk:Multixfer|talk]]) 23:49, 22 September 2009 (UTC)
+
+==[[Wikipedia:Criteria for speedy deletion|Speedy deletion]] nomination of [[:Liam Rutherford]]==
+[[Image:Ambox warning_pn.svg|48px|left]] A tag has been placed on [[:Liam Rutherford]] requesting that it be speedily deleted from Wikipedia. This has been done under [[WP:CSD#A7|section A7 of the criteria for speedy deletion]], because the article appears to be about a person or group of people, but it does not indicate how or why the subject is important or significant: that is, why an article about that subject should be included in an encyclopedia. Under the [[WP:CSD#Articles|criteria for speedy deletion]], such articles may be deleted at any time. Please [[Wikipedia:Notability|see the guidelines for what is generally accepted as notable]], as well as our subject-specific [[Wikipedia:Notability (people)|notability guideline for biographies]]. You may also wish to consider using a Wizard to help you create articles - see the [[Wikipedia:Article wizard2.0|Article Wizard]]. 
+
+If you think that this notice was placed here in error, you may contest the deletion by adding &lt;code&gt;{{tl|hangon}}&lt;/code&gt; to '''the top of [[:Liam Rutherford|the page that has been nominated for deletion]]''' (just below the existing speedy deletion or &quot;db&quot; tag), coupled with adding a note on '''[[Talk:Liam Rutherford|the talk page]]''' explaining your position, but be aware that once tagged for ''speedy'' deletion, if the page meets the criterion it may be deleted without delay. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the page that would render it more in conformance with Wikipedia's policies and guidelines. Lastly, please note that if the page does get deleted, you can contact [[:Category:Wikipedia administrators who will provide copies of deleted articles|one of these admins]] to request that they  [[Wikipedia:Userfication#Userfication_of_deleted_content|userfy]] the page or have a copy emailed to you.&lt;!-- Template:Db-bio-notice --&gt;&lt;!-- Template:Db-csd-notice-custom --&gt; [[User:Shadowjams|Shadowjams]] ([[User talk:Shadowjams|talk]]) 09:58, 23 September 2009 (UTC)
+
+== September 2009 ==
+[[Image:Nuvola apps important.svg|25px]] Please stop. If you continue to introduce inappropriate pages to Wikipedia{{#if:| , such as [[:{{{1}}}]]}}, you will be [[Wikipedia:Blocking policy|blocked]] from editing. If you need guidance on how to create appropriate pages, try using the [[Wikipedia:Article wizard2.0|Article Wizard]].&lt;!-- Template:uw-create3 --&gt; &lt;span style=&quot;font-family: Segoe UI&quot;&gt;[[User:Willking1979|Willking1979]] [[User talk:Willking1979|(talk)]]&lt;/span&gt; 10:12, 23 September 2009 (UTC)
+	</talkpage>
+</article>

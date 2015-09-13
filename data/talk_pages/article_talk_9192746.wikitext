@@ -1,0 +1,6 @@
+<article id="9192746" title=Talk:Ed Siever>
+	<talkpage id="9192746" title="Talk:Ed Siever">
+{{WikiProject Biography|living=no|class=Stub|listas=Siever, Ed|sports-work-group=yes}}
+{{WikiProject Baseball|class=Stub|importance=mid}}
+	</talkpage>
+</article>

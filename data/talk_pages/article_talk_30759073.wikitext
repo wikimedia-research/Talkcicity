@@ -1,0 +1,7 @@
+<article id="30759073" title=Talk:Petteri Similä>
+	<talkpage id="30759073" title="Talk:Petteri Similä">
+{{Old AfD multi|page=Petteri Similä|date=11 April 2011|result='''keep'''}}
+{{WikiProject Biography|living=yes|class=stub|sports-work-group=yes|listas=Simila, Petteri}}
+{{ice hockey|class=stub|needs-photo=yes|bio=yes}}
+	</talkpage>
+</article>

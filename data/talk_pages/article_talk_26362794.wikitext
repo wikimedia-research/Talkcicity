@@ -1,0 +1,12 @@
+<article id="26362794" title=Talk:Roger Wickson (figure skater)>
+	<talkpage id="26362794" title="Talk:Roger Wickson (figure skater)">
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|auto=yes
+|sports-work-group=yes
+|listas=Wickson, Roger
+}}
+{{WikiProject Figure Skating}}
+	</talkpage>
+</article>

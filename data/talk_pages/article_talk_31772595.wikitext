@@ -1,0 +1,36 @@
+<article id="31772595" title=User talk:S0up4>
+	<talkpage id="31772595" title="User talk:S0up4">
+'''Welcome!'''
+
+Hello, S0up4, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for [[Special:Contributions/S0up4|your contributions]]. I hope you like the place and decide to stay. Unfortunately, one or more of the pages you created, such as [[Campbell Ten-Point Pitch]], may not conform to some of Wikipedia's [[Wikipedia:List of policies|guidelines]], and may soon be deleted. 
+
+There's a page about creating articles you may want to read called '''[[Wikipedia:Your first article|Your first article]]'''. If you are stuck, and looking for help, please come to the '''[[Wikipedia:New contributors' help page|New contributors' help page]]''', where experienced Wikipedians can answer any queries you have! Or, you can just type '''{{t|helpme}}''' on this page, and someone will show up shortly to answer your questions. Here are a few other good links for newcomers:
+* [[Wikipedia:Starting an article|Starting an article]]
+* [[Wikipedia:Your first article|Your first article]]
+* [[Wikipedia:Biographies of living persons|Biographies of living persons]]
+* [[Wikipedia:How to write a great article|How to write a great article]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Tutorial|Tutorial]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you have any questions, check out [[Wikipedia:Questions]] or ask me on my talk page. &lt;!-- Template:First article --&gt; Again, welcome!&amp;nbsp;&amp;mdash; [[::User:RHaworth|RHaworth]]&amp;nbsp;{{toolbar|separator=dot|[[::User talk:RHaworth|talk]] | [[::Special:Contributions/RHaworth|contribs]] }} 09:33, 14 May 2011 (UTC)
+== [[Wikipedia:Proposed deletion|Proposed deletion]] of [[Campbell Ten-Point Pitch]] ==
+[[Image:Ambox warning yellow.svg|left|link=|48px|]]
+
+The article [[Campbell Ten-Point Pitch]] has been [[Wikipedia:Proposed deletion|proposed for deletion]]&amp;#32; because of the following concern:
+:'''no evidence of notability possibly [[WP:NFT|made up]]'''
+
+While all contributions to Wikipedia are appreciated, content or articles may be [[WP:DEL#REASON|deleted for any of several reasons]].
+
+You may prevent the proposed deletion by removing the {{Tlc|proposed deletion/dated}} notice, but please explain why in your [[Help:edit summary|edit summary]] or on [[Talk:Campbell Ten-Point Pitch|the article's talk page]].
+
+Please consider improving the article to address the issues raised. Removing {{Tlc|proposed deletion/dated}} will stop the [[Wikipedia:Proposed deletion|proposed deletion process]], but other [[Wikipedia:deletion process|deletion process]]es exist. The [[Wikipedia:Criteria for speedy deletion|speedy deletion]] process can result in deletion without discussion, and [[Wikipedia:Articles for deletion|articles for deletion]] allows discussion to reach [[Wikipedia:Consensus|consensus]] for deletion.&lt;!-- Template:Proposed deletion notify --&gt; &amp;mdash; [[::User:RHaworth|RHaworth]]&amp;nbsp;{{toolbar|separator=dot|[[::User talk:RHaworth|talk]] | [[::Special:Contributions/RHaworth|contribs]] }} 09:33, 14 May 2011 (UTC)
+
+== Nomination of [[Campbell Ten-Point Pitch]] for deletion ==
+
+&lt;div class=&quot;floatleft&quot; style=&quot;margin-bottom:0&quot;&gt;[[File:Ambox warning orange.svg|42px|alt=|link=]]&lt;/div&gt;A discussion is taking place as to whether the article '''[[Campbell Ten-Point Pitch]]''' is suitable for inclusion in Wikipedia according to [[Wikipedia:List of policies and guidelines|Wikipedia's policies and guidelines]] or whether it should be [[Wikipedia:Deletion policy|deleted]].
+
+The article will be discussed at [[Wikipedia:Articles for deletion/Campbell Ten-Point Pitch]] until a consensus is reached, and anyone is welcome to contribute to the discussion. The nomination will explain the policies and guidelines which are of concern. The discussion focuses on good quality evidence, and our policies and guidelines.
+
+Users may edit the article during the discussion, including to improve the article to address concerns raised in the discussion.  However, do not remove the article-for-deletion template from the top of the article. &amp;mdash; [[::User:RHaworth|RHaworth]]&amp;nbsp;{{toolbar|separator=dot|[[::User talk:RHaworth|talk]] | [[::Special:Contributions/RHaworth|contribs]] }} 20:36, 23 May 2011 (UTC)
+	</talkpage>
+</article>

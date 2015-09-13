@@ -1,0 +1,5 @@
+<article id="35640628" title=Talk:Artists' Vocal Ensemble>
+	<talkpage id="35640628" title="Talk:Artists' Vocal Ensemble">
+{{WikiProject Biography|living=yes|class=stub|musician-work-group=yes|musician-priority=low|listas=Artists Vocal Ensemble}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="29779196" title=Talk:Blewett Pass>
+	<talkpage id="29779196" title="Talk:Blewett Pass">
+{{WikiProject United States|class=Stub|importance=Low|WA=Yes|WA-importance=Low}}
+	</talkpage>
+</article>

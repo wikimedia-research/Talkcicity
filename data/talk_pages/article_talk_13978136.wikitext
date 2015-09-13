@@ -1,0 +1,9 @@
+<article id="13978136" title=Talk:Esholt/Comments>
+	<talkpage id="13978136" title="Talk:Esholt/Comments">
+.
+#Requires addition of inline references using one of the {{tl|Cite}} templates
+#Requires lead expanding to summarise article
+#Requires copy-edit for [[WP:MOS]]
+[[User:Keith D|Keith D]] 23:03, 29 October 2007 (UTC)
+	</talkpage>
+</article>

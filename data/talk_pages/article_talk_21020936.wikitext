@@ -1,0 +1,62 @@
+<article id="21020936" title=Talk:List of rum producers>
+	<talkpage id="21020936" title="Talk:List of rum producers">
+{{WikiProjectBannerShell|1=
+{{WikiProject Spirits|class=List|importance=Mid}}
+{{WikiProject Brands|class=|importance=}}
+{{WikiProject Lists}}
+}}
+
+== Bombay Rum ==
+
+I have heard several people talk about Bombay Rum, apparently from India, but I cannot find it or even much reference to it on the web. Does it exist? Is it called something else?  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/74.224.178.159|74.224.178.159]] ([[User talk:74.224.178.159|talk]]) 19:57, 28 January 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Wikilinks ==
+
+Many of the wikilinks here link to the wrong place. Someone should go through and check all of them. [[User:Rees11|Rees11]] ([[User talk:Rees11|talk]]) 13:30, 7 November 2009 (UTC)
+
+== Ron Centenario ==
+User Ian.thomson deleted[http://en.wikipedia.org/w/index.php?title=List_of_rum_producers&amp;diff=511414577&amp;oldid=511414380] the addition of 'Ron Centenario' from Costa Rica with the only explanation &quot;non-notable&quot;. Yet, a quick search for 'Ron Centenario' on google gives over 7 million hits. Unless there is some particular reason this is considered non-notable I will add it again. [[Special:Contributions/85.230.137.182|85.230.137.182]] ([[User talk:85.230.137.182|talk]]) 17:04, 9 September 2012 (UTC)
+:Does it meet the [[WP:GNG|general notability guidelines]] of this site?  [[WP:EXIST|Just because something exists does not mean it belongs on this site]].  Are there [[WP:RS|reliable (as defined by this site)]] third-party publications (unaffiliated with Ron Centenario) that discuss Ron Centenario?  Simply having Google hits does not mean that someone or something is notable.  17:07, 9 September 2012 (UTC)
+::What would you consider a reliable source for rum notability that the other items on the list meet?[[Special:Contributions/85.230.137.182|85.230.137.182]] ([[User talk:85.230.137.182|talk]]) 17:22, 9 September 2012 (UTC)
+:::[[WP:RS|Here are the reliable sourcing guidelines]].  Publications unaffiliated with Ron Centenario that are not self-published (i.e. no blogs, no forum posts, no user-submitted reviews, and no wikis) discussing Ron Centenario for more than a fleeting mention would work.  It's not what I consider notable, it's the site's guidelines.  [[User:Ian.thomson|Ian.thomson]] ([[User talk:Ian.thomson|talk]]) 17:28, 9 September 2012 (UTC)
+::::Yes, but could you give some examples of some of the other rums on the list, say the 'St. Lucia Distillers' one for example? [[Special:Contributions/85.230.137.182|85.230.137.182]] ([[User talk:85.230.137.182|talk]]) 17:36, 9 September 2012 (UTC)
+:::::See [[WP:OTHERSTUFFEXISTS]].  I've removed that entry as well.  I'm not some sort of God-computer, I'm human and can only catch new entries at particular moments.  [[User:Ian.thomson|Ian.thomson]] ([[User talk:Ian.thomson|talk]]) 17:43, 9 September 2012 (UTC)
+
+== Seven Fathoms - Cayman Islands Rum ==
+
+Should Seven Fathoms not be added to the list? It's been around a few years now, and available not only in Cayman but in rum shops all over the Caribbean.
+
+http://www.sevenfathomsrum.com/
+
+It's bloody delicious as well.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/194.201.220.10|194.201.220.10]] ([[User talk:194.201.220.10|talk]]) 12:27, 19 December 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:Do you have a secondary source?  That is, a source unaffiliated with Seven Fathoms rum.  [[User:Ian.thomson|Ian.thomson]] ([[User talk:Ian.thomson|talk]]) 14:09, 19 December 2012 (UTC)
+
+== Chef Distilled LLC Key West FL ==
+
+www.legalrumkeywest.com  Chef Distilled is Key West first legal Distillery that produces Rum. It was licensed in November 2013 and produces 420 bottles a week as a small craft distillery where people can tour the site and learn about the history of rum and the old coca cola building it's housed in. Made of pure Florida sugar cane.
+Paul Menta owner Chef Distilled LLC  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/99.57.118.236|99.57.118.236]] ([[User talk:99.57.118.236|talk]]) 02:39, 9 February 2014 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+
+==Mauritius produces good agricole rums==
+Mauritius also produces a few good rums: Green Island &lt;www.greenislandmauritiusrum.com&gt; and Saint Aubin &lt;www.rhumsaintaubin.com&gt; [[User:Handre333|Handre333]] ([[User talk:Handre333|talk]]) 15:31, 10 April 2014 (UTC)handre333[[User:Handre333|Handre333]] ([[User talk:Handre333|talk]]) 15:31, 10 April 2014 (UTC)
+
+== New England Rums ==
+
+There is a huge selection of craft rums from New England, a region that's historically known for its rum production.  Is there any particular reason not to include these producers?  Is their production too small, or not specialized enough?  Some of them may be owned by larger companies, but I believe most of these aren't.
+
+To name a few:
+[http://berkshiremountaindistillers.com/home/ Ragged Mountain Rum]
+[http://www.turkeyshoredistilleries.com/our-rums Old Ipswitch]
+[http://ciscobrewers.com/distillery Hurricane Rum]
+[http://thomastewrums.com/ Thomas Tew Rum]
+[http://www.bullyboydistillers.com/bully-boy-boston-rum.html Bully Boy Boston Rum]
+[http://privateerrum.com/ Privateer Rum]
+[http://www.newenglanddistilling.com/spirits/rum/ Eight Bells Rum]
+[http://www.grandten.com/makes/medfordrum.php Medford Rum]
+[http://www.mainecraftdistilling.com/ Rums by Maine Craft Distilling]
+[http://www.ctvalleydistillery.com/products.html Smuggler's Rum]
+[http://www.duncsmill.com/our-rum/maple-rum/?age-verified=3fb749aa4d Dunc's Mill Maple Rum]
+[http://www.madriverdistillers.com/liquor_type/rum/ Mad River Distillers' Rums]
+[http://www.seahaggdistillery.com/products.html Sea Hagg Silver Rum]  &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/71.115.151.65|71.115.151.65]] ([[User talk:71.115.151.65|talk]]) 22:50, 4 April 2015 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

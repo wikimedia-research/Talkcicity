@@ -1,0 +1,47 @@
+<article id="4036845" title=User talk:John H, Morgan>
+	<talkpage id="4036845" title="User talk:John H, Morgan">
+'''Welcome!'''
+
+Hello, {{PAGENAME}}, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for your contributions. I hope you like the place and decide to stay. Here are a few good links for newcomers:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Help:Contents|Help pages]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:How to write a great article|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (~&amp;#126;~~); this will automatically produce your name and the date. If you need help, check out [[Wikipedia:Where to ask a question]], ask me on my talk page, or place &lt;code&gt;{&amp;#123;helpme}}&lt;/code&gt; on your talk page and someone will show up shortly to answer your questions. Again, welcome!&amp;nbsp;
+
+[[User:Arundhati bakshi|Arundhati bakshi]] 11:53, 11 February 2006 (UTC)
+
+== British ornithologists ==
+
+Hi. I notice that you have removed many articles from the category &quot;British ornithologists&quot;. So that other editors can evaluate your work on this, could you please leave a note on the category's talk page to explain your reasons, and say which criteria you have used to decide who to include &amp; exclude. Thanks [[User:SP-KP|SP-KP]] 11:55, 12 February 2006 (UTC)
+
+:Thanks for the explanation - your criteria seem sensible. To keep in line with them, you need to re-add [[D. Ian M. Wallace]], [[Richard Millington]], [[Steve Gantlett]] and [[Steve Madge]]. [[User:SP-KP|SP-KP]] 18:09, 12 February 2006 (UTC)
+
+I've fleshed out the [[Steve Gantlett]] article. Take a look and let me know if you think that's the level of detail we need to add, or if not, what else needs to go in (I'll move on to the other three when you are happy with the approach). Ideally this kind of article should list the papers in question, in m opinion; I should be able to dig out the references and add them, but for the moment I've left a &quot;citation needed&quot; note. [[User:SP-KP|SP-KP]] 18:49, 12 February 2006 (UTC)
+
+Hi again. Thanks for your reply. I'd like to discuss this further, as I'm still not sure I understand where you would draw the line in your definition of ornithologist. From the criteria you listed in your original reply, it seemed as though what you were trying to aim for was a list of people who have contributed to the expansion of ornithological knowledge. I'm not sure how much you know about the history of orange-billed tern identification, but SJMG is basically the person who has done the most to sort the mess out, both initially in the 1980s and more recently with work on Elegant Tern. If the article text is phrased in terms that you find unscientific, I could write something like &quot;The extent of inter- and intra-species morphological variation in orange-billed terns was not well known before about 1980; Gantlett's studies in the 1980s, published in the journal British Birds, established the species-specific characters, and as a result the extent of variation is now much better known. He has continued to work on this group recently, by attempting to highlight previously unappreciated variation in Elegant Terns through articles published in Birding World&quot;. I'm not sure what marks this work out as that of a non-ornithologist. Is it that you regard elucidation of morphology as sub-scientific, or is it a question of methods, or the question of where the results were published, or the background of the worker in question, or ... ? 
+
+I'm completely with you on the Bill Oddie - painter - illustrator question though btw! [[User:SP-KP|SP-KP]] 18:31, 13 February 2006 (UTC)
+
+== Gantlett &amp; Shirihai ==
+
+Thanks for the further comment on Gantlett - I believe I can deal with the issues you raise - I have the relevant issue of BB on my desk, and I will put together a summary of the paper's methods which I think should satisfy you. On another note, I noticed that you edited out the redlinks in the Hadoram Shirihai article. I thought a little education on redlinks would be useful - they are not regarded automatically as bad things here at Wikipedia. Basically, editors should use the linking syntax for any term which they believe is a legitimate encyclopaedic subject. So any article name, or any subject on which we could expect, one day, an article would exist, or any &quot;search term&quot; that might redirect to an article in which the subject is covered. I've reinstated all the redlinks which meet these &quot;usual&quot; criteria. Happy to discuss further though if you think there are any which really shoudln't be there. [[User:SP-KP|SP-KP]] 23:05, 14 February 2006 (UTC)
+
+Thanks for your latest note. 
+* I do understand your point, and I think we are in broad agreement, although clearly you have stronger feelings on the subject than I do. If you don't mind though, I'll not take you up on your suggestion of writing about ornithologists I don't know about - bear in mind that this is a category not a list so I would have to write an article (I have far too much to do already with just the articles on things I do know about...)  
+* A category for non-ornithologist but birdy people sounds like a good idea - what would you call it? 
+* I'm happy to add something on the Bill Oddie painter/illustator issue - let me know when I'm needed. 
+* On the subject of self-identification which you touched on, my understanding of Wikipedia policy on this is that we try to use self-identification terms for ''communities'' of people where there is a consensus (e.g. we say &quot;disabled&quot; rather than &quot;handicapped&quot;) but we don't/can't tend to try to accommodate the views of every individual. If Bill Oddie meets the criteria for inclusion in an ornithologist category we would include him even if he felt he didn't want to use that name.
+[[User:SP-KP|SP-KP]] 20:28, 15 February 2006 (UTC)
+
+Hi. As you say, there's a variety of different options. Not sure which one I like best - all have something going for them. I'd suggest that the best place to get views and establish a consensus for this (which is what you'll need if you want to implement it without it getting reverted by others...) is the talk page for the top-level Ornithologists category - but I'd say also it's a good idea to give people a heads-up by posting a message and link at the British Ornithologists, US Ornithologists etc category talk pages too. I'll join in the discussion there. Bill Oddie comment coming up. [[User:SP-KP|SP-KP]] 10:04, 16 February 2006 (UTC)
+
+== General Ornithology Discussion ==
+
+It's interesting how ornithology has really evolved as a field (no pun intended).  A lot of those old-timer academics you mentioned relied on bird ''collectors'', though folks like Audubon did their own collecting.  These days, so much ornithological study is based on behavior, not just field marks and physical variations -- we owe a lot of that to folks like Ludlow Griscom who realized the importance of knowing more than just what a bird looks like, and that tradition continues down to folks like David Allen Sibley and Kenn Kaufman.  It still is a bit of a quandary though: how do we reckon the taxonomy of modern-day ornithologists?  There's still quite a few whole are both field AND academic ornithologists. 
+
+Fascinating, in any case, and a refreshing change of pace from my ''other'' hobbies, to be sure! Joining the main discussion soonish (when the university gives me a respite). -- [[User:Miwasatoshi|Miwa]] 21:54, 2 March 2006 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,48 @@
+<article id="32447016" title=User talk:Juliaclaret>
+	<talkpage id="32447016" title="User talk:Juliaclaret">
+
+
+'''Welcome!'''
+
+Hello, Juliaclaret, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for [[Special:Contributions/Juliaclaret|your contributions]]. I hope you like the place and decide to stay. Unfortunately, one or more of the pages you created, such as [[Negropedia]], may not conform to some of Wikipedia's [[Wikipedia:List of policies|guidelines]], and may soon be deleted. 
+
+There's a page about creating articles you may want to read called '''[[Wikipedia:Your first article|Your first article]]'''. If you are stuck, and looking for help, please come to the '''[[Wikipedia:New contributors' help page|New contributors' help page]]''', where experienced Wikipedians can answer any queries you have! Or, you can just type '''{{t|helpme}}''' on this page, and someone will show up shortly to answer your questions. Here are a few other good links for newcomers:
+* [[Wikipedia:Starting an article|Starting an article]]
+* [[Wikipedia:Your first article|Your first article]]
+* [[Wikipedia:Biographies of living persons|Biographies of living persons]]
+* [[Wikipedia:How to write a great article|How to write a great article]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Tutorial|Tutorial]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you have any questions, check out [[Wikipedia:Questions]] or ask me on my talk page. &lt;!-- Template:First article --&gt; Again, welcome!&amp;nbsp;[[User:ConcernedVancouverite|ConcernedVancouverite]] ([[User talk:ConcernedVancouverite|talk]]) 21:40, 17 July 2011 (UTC)
+
+==[[Wikipedia:Criteria for speedy deletion|Speedy deletion]] nomination of [[:Negropedia]]==
+[[Image:Ambox warning pn.svg|48px|left|alt=|link=]]
+{{Quote box|quote=&lt;p&gt;If this is the first article that you have created, you may want to read [[WP:Your first article|the guide to writing your first article]].&lt;/p&gt;&lt;p&gt;You may want to consider using the [[Wikipedia:Article wizard|Article Wizard]] to help you create articles.&lt;/p&gt;|width=20%|align=right}}
+A tag has been placed on [[:Negropedia]], requesting that it be speedily deleted from Wikipedia. This has been done under [[WP:CSD#G11|section G11 of the criteria for speedy deletion]], because the page seems to be unambiguous advertising which only promotes a company, product, group, service or person and would need to be fundamentally rewritten in order to become an encyclopedia article. Please read [[Wikipedia:Spam|the guidelines on spam]] and [[Wikipedia:FAQ/Business]] for more information. 
+
+If you think that this notice was placed here in error, contest the deletion by clicking on the button labelled &quot;Click here to contest this speedy deletion,&quot; which appears inside of the speedy deletion (&lt;code&gt;&lt;nowiki&gt;{{db-...}}&lt;/nowiki&gt;&lt;/code&gt;) tag (if no such tag exists, the page is no longer a speedy delete candidate). Doing so will take you to the talk page where you will find a pre-formatted place for you to explain why you believe the page should not be deleted. You can also visit the '''[[Talk:Negropedia|the page's talk page directly]]''' to give your reasons, but be aware that once tagged for ''speedy'' deletion, if the page meets the criterion, it may be deleted without delay. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the page that would render it more in conformance with Wikipedia's policies and guidelines. If the page is deleted, you can contact [[:Category:Wikipedia administrators who will provide copies of deleted articles|one of these administrators]] to request that the administrator [[Wikipedia:Userfication#Userfication_of_deleted_content|userfy]] the page or email a copy to you. &lt;!-- Template:Db-spam-notice --&gt; &lt;!-- Template:Db-csd-notice-custom --&gt; [[User:ConcernedVancouverite|ConcernedVancouverite]] ([[User talk:ConcernedVancouverite|talk]]) 21:40, 17 July 2011 (UTC)
+
+== July 2011 ==
+[[File:Information.svg|25px|alt=|link=]] Hello Juliaclaret. If you are affiliated with some of the people, places or things [[Special:Contributions/Juliaclaret|you have written about]] in the article [[Patrice Evans]], you may have a [[Wikipedia:Conflict of interest|conflict of interest]], or close connection to the subject. 
+
+All editors are required to comply with Wikipedia's [[Wikipedia:Neutral point of view|neutral point of view]] content policy.  People who are very close to a subject often have a distorted view of it, which may cause them to inadvertently edit in ways that make the article either too flattering or too disparaging.  People with a close connection to a subject are not absolutely prohibited from editing about that subject, but they need to be especially careful about following the [[Wikipedia:Reliable sources|reliable sources]] and writing with as little bias as possible.  
+
+If you are very close to a subject, here are some ways you can reduce the risk of problems:
+
+#'''Avoid or exercise great caution when editing or creating''' articles related to you, your organization, or its competitors, as well as projects and products they are involved with.
+#'''Be cautious about deletion discussions'''.  Everyone is welcome to provide information about [[Wikipedia:Independent sources|independent sources]] in [[Wikipedia:Articles for deletion|deletion discussions]], but avoid advocating for deletion of articles about your competitors.
+#'''Avoid linking''' to the Wikipedia article or website of your organization in other articles (see [[Wikipedia:Spam]]).
+#'''Exercise great caution''' so that you do not accidentally breach Wikipedia's content policies. 
+
+Please familiarize yourself with relevant content policies and guidelines, especially those pertaining to [[Wikipedia:Neutral point of view|neutral point of view]], [[Wikipedia:Verifiability|verifiability of information]], and [[Wikipedia:Autobiography|autobiographies]].
+
+For information on how to contribute to Wikipedia when you have a conflict of interest, please see [[Wikipedia:FAQ/Organizations|our frequently asked questions for organizations]].  Thank you.[[Category:User talk pages with conflict of interest notices|{{PAGENAME}}]]&lt;!-- Template:uw-coi --&gt; [[User:ConcernedVancouverite|ConcernedVancouverite]] ([[User talk:ConcernedVancouverite|talk]]) 21:53, 17 July 2011 (UTC)
+==[[Wikipedia:Proposed deletion|Proposed deletion]] of [[Patrice Evans]]==
+[[Image:Ambox warning yellow.svg|left|link=|48px|]]
+
+The article [[Patrice Evans]] has been [[WP:BLPPROD|proposed for deletion]] because, under Wikipedia policy, all '''[[WP:BLP|biographies of living persons]]''' created after March 18, 2010, must have at least one [[WP:V#Sources|reliable source]] that directly supports material in the article. 
+
+If you created the article, please don't take offense. Instead, consider improving the article. For help on inserting references, see [[Wikipedia:Referencing for beginners|Referencing for beginners]], or ask at the [[Wikipedia:Help desk|help desk]]. Once you have provided at least one [[WP:V#Sources|reliable source]], you may remove the {{tl|prod blp}} tag. '''Please do not remove the tag unless the article is sourced.''' If you cannot provide such a source within ten days, the article may be deleted, but you can {{#ifexist:Patrice Evans|request that it be undeleted|[[Wikipedia:Requests for undeletion|request that it be undeleted]]}} when you are ready to add one.&lt;!-- Template:ProdwarningBLP --&gt; [[User:MikeWazowski|MikeWazowski]] ([[User talk:MikeWazowski|talk]]) 22:17, 17 July 2011 (UTC)
+	</talkpage>
+</article>

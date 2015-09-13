@@ -1,0 +1,13 @@
+<article id="4404450" title=Talk:Blind programming>
+	<talkpage id="4404450" title="Talk:Blind programming">
+==Merge [[Blind programming]] into [[Blind faith (computer science)]]?==
+
+''This discussion should really be over at [[Talk:Blind faith (computer science)#Merge_Blind_programming_into_Blind_faith_.28computer_science.29.3F|Talk:Blind faith (computer science)]]''
+
+Isn't this just an example of the [[Blind_faith_(computer_science)|Blind faith]] [[Anti-pattern]]? [[User:John Reed Riley|John Reed Riley]] 21:55, 15 March 2006 (UTC)
+
+I think Blind Faith and Blind Programming, while similar, do have very different origins and connotations. Blind Programming feels like a situation where a programmer is under constraint, for example in a competition or not having access to an environment in which to run effectively. Blind Faith feels like a derogatory term for a programmer who foolishly (and perhaps arrogantly) puts faith into his/her own code or bugfix with no good evidence or reason to do so. The term &quot;Blind Faith&quot; also suggests that the programmer ought to know better because most programmers, both theistsic and atheistic, look down upon blind faith in a religious context.  [[User:216.123.247.18|216.123.247.18]] 16:14, 26 April 2006
+
+: Perhaps the connotations differ, but the two practices are still essentially the same.  I don't really feel there's nearly enough difference between the two to warrant seperate articles.  Especially not two seperate stub articles.  [[User:John Reed Riley|John Reed Riley]] 03:10, 27 April 2006 (UTC)
+	</talkpage>
+</article>

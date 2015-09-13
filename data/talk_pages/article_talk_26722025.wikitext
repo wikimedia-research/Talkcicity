@@ -1,0 +1,6 @@
+<article id="26722025" title=Talk:Centre Calgary>
+	<talkpage id="26722025" title="Talk:Centre Calgary">
+{{WikiProject Elections and Referendums}}
+{{WikiProject Canada|ab=yes |riding=yes|class=start|importance=low}}
+	</talkpage>
+</article>

@@ -1,0 +1,14 @@
+<article id="6276978" title=Talk:Bang Bang (Iggy Pop song)>
+	<talkpage id="6276978" title="Talk:Bang Bang (Iggy Pop song)">
+{{Songs|class=Stub}}
+
+==Image copyright problem with Image:IggyPopParty.jpg==
+The image [[:Image:IggyPopParty.jpg]] is used in this article under a claim of [[WP:NFC|fair use]], but it does not have an adequate explanation for why it meets the [[WP:NFCC|requirements for such images]] when used here.  In particular, for each page the image is used on, it must have an [[Wikipedia:Non-free use rationale guideline|explanation]] linking to that page which explains why it needs to be used on that page.  Please check
+
+:* That there is a [[Wikipedia:Non-free use rationale guideline|non-free use rationale]] on the image's description page for the use in this article.
+:* That this article is linked to from the image description page.
+&lt;!-- Additional 10c list header goes here --&gt;
+
+This is an automated notice by [[User:FairuseBot|FairuseBot]]. For assistance on the image use policy, see [[Wikipedia:Media copyright questions]]. --23:35, 15 September 2008 (UTC)
+	</talkpage>
+</article>

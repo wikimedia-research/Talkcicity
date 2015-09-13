@@ -1,0 +1,23 @@
+<article id="21161005" title=User talk:Pflastertreter>
+	<talkpage id="21161005" title="User talk:Pflastertreter">
+== Welcome ==
+'''Welcome!'''
+
+Hello, {{BASEPAGENAME}}, and [[Wikipedia:Introduction|welcome]] to Wikipedia! Thank you for [[Special:Contributions/{{BASEPAGENAME}}|your contributions]]{{#if:Wolfgang Heinz|, especially what you did for [[:Wolfgang Heinz]]}}. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Wikipedia:Article development|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign]] your messages on [[Wikipedia:talk page|discussion page]]s using four [[tilde]]s (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically insert your username and the date. If you need help, check out [[Wikipedia:Questions]], ask me on {{#if:Dynaflow|[[user talk:Dynaflow|my talk page]]|my talk page}}, or ask your question on this page and then place &lt;code&gt;&lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt;&lt;/code&gt; before the question. Again, welcome! &lt;!-- Template:Welcome --&gt; 
+[[User:Dynaflow|&lt;font color=&quot;#285991&quot;&gt;--'''''Dynaflow'''''&lt;/font&gt;]] [[User_talk:Dynaflow|&lt;small&gt;&lt;font color=&quot;#285991&quot;&gt;babble&lt;/font&gt;&lt;/small&gt;]] 13:06, 19 January 2009 (UTC)
+
+:Thanks for welcome, Dynaflow, this Wolfgang Heinz article was in a to bad condition, that i could leave it unchanged. Found it on modifying it's german counterpart. So i'll do my very best on formatting, but others might have a quick check on my spelling and writing, because most of my contributions are on the german wp :-)), --[[User:Pflastertreter|Pflastertreter]] ([[User talk:Pflastertreter#top|talk]]) 20:55, 23 January 2009 (UTC)
+
+==Disambiguation link notification==
+
+Hi. When you recently edited [[John Milton Yinger]], you added a link pointing to the disambiguation page [[Oberlin]] ([[tools:~dispenser/cgi-bin/dablinks.py/John_Milton_Yinger|check to confirm]]&amp;nbsp;|&amp;nbsp;[[tools:~dispenser/cgi-bin/dab_solver.py/John_Milton_Yinger|fix with Dab solver]]). Such links are almost always unintended, since a disambiguation page is merely a list of &quot;Did you mean...&quot; article titles. &lt;small&gt;Read the [[User:DPL bot/Dablink notification FAQ|FAQ]]{{*}} Join us at the [[Wikipedia:Disambiguation pages with links|DPL WikiProject]].&lt;/small&gt;
+
+It's OK to remove this message. Also, to stop receiving these messages, follow these [[User:DPL bot|opt-out instructions]]. Thanks, [[User:DPL bot|DPL bot]] ([[User talk:DPL bot|talk]]) 11:11, 13 January 2012 (UTC)
+	</talkpage>
+</article>

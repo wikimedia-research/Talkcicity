@@ -1,0 +1,5 @@
+<article id="7444344" title=Talk:Haslev Municipality>
+	<talkpage id="7444344" title="Talk:Haslev Municipality">
+{{WikiProject Denmark|class=|importance=}}
+	</talkpage>
+</article>

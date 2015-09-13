@@ -1,0 +1,7 @@
+<article id="6878604" title=Talk:Le Grand, Iowa>
+	<talkpage id="6878604" title="Talk:Le Grand, Iowa">
+{{WPCities|class=Start|importance=low}}
+{{WikiProject Iowa|class=Start|importance=low|communities=yes}}
+{{reqphoto|in=Marshall County, Iowa}}
+	</talkpage>
+</article>

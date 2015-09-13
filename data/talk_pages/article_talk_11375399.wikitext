@@ -1,0 +1,5 @@
+<article id="11375399" title=Talk:North Arm, Queensland>
+	<talkpage id="11375399" title="Talk:North Arm, Queensland">
+{{WP Australia|class=Stub|QLD=yes|QLD-importance=low|importance=low|place=yes}}
+	</talkpage>
+</article>

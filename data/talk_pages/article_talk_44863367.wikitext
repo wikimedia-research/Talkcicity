@@ -1,0 +1,5 @@
+<article id="12548903" title=Talk:Chestnut ermine moth>
+	<talkpage id="12548903" title="Talk:Chestnut ermine moth">
+{{WikiProject Lepidoptera|class=stub|importance=low}}
+	</talkpage>
+</article>

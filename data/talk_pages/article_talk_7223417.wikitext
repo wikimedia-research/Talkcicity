@@ -1,0 +1,9 @@
+<article id="7223417" title=Talk:Public holidays in Bulgaria>
+	<talkpage id="7223417" title="Talk:Public holidays in Bulgaria">
+{{WikiProject Bulgaria|class=list|importance=low}}
+
+St. Stephen's Day is celebrated, but as church (eastern ortodox) holiday, on 27th december.
+
+It is indeed celebrated as a church holiday--[[Special:Contributions/85.130.15.33|85.130.15.33]] ([[User talk:85.130.15.33|talk]]) 16:13, 24 May 2012 (UTC)
+	</talkpage>
+</article>

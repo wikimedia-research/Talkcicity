@@ -1,0 +1,8 @@
+<article id="37817200" title=User talk:110.33.166.37>
+	<talkpage id="37817200" title="User talk:110.33.166.37">
+
+== December 2012 ==
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:Rocketrod1960|Rocketrod1960]]. I wanted to let you know that I undid one or more of [[Special:Contributions/110.33.166.37|your recent contributions]]&amp;nbsp;to [[:Iqbal Masih]] because it didn't appear constructive. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Rocketrod1960|my talk page]]. &lt;!-- Template:uw-vandalism1 --&gt;&lt;!-- Template:uw-cluebotwarning1 --&gt;   Rocketrod1960 07:53, 3 December 2012 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

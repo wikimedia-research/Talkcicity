@@ -1,0 +1,17 @@
+<article id="30075495" title=User talk:200.62.83.242>
+	<talkpage id="30075495" title="User talk:200.62.83.242">
+{{Shared IP|TELEMATIX/ ENITEL}}
+
+== December 2010 ==
+
+Sorry. [[User:Krashlandon|Krashlandon]] [[User_talk:Krashlandon|&lt;sup&gt;(talk)&lt;/sup&gt;]] 14:32, 16 December 2010 (UTC)
+
+== April 2011 ==
+
+&lt;div style=clear: both&gt;&lt;/div&gt;[[File:Information.svg|25px|alt=|link=]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of [[Special:Contributions/200.62.83.242|your recent edits]], such as the one you made to [[:University of Cyprus]] with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/University_of_Cyprus?diff=425453728 this edit]&lt;/span&gt;, did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you. [[User:Tide rolls|'''&lt;span style=&quot;color:White;background:darkRed&quot;&gt;Tide&lt;/span&gt;''']][[User talk:Tide rolls|'''&lt;span style=&quot;color:darkRed&quot;&gt;rolls'''&lt;/span&gt;]] 05:25, 23 April 2011 (UTC)&lt;!-- Template:Huggle/warn-1 --&gt;
+
+== September 2012 ==
+&lt;div class=&quot;user-block&quot; style=&quot;min-height: 40px&quot;&gt; [[Image:Stop x nuvola with clock.svg|40px|left|alt=|link=]] You have been '''[[Wikipedia:Blocking policy|blocked]]''' from editing for a period of '''3 months''' for adding [[Wikipedia:Spam|spam]] links. Persistent spammers will have their websites [[Wikipedia:Spam blacklist|blacklisted]] from Wikipedia and potentially&lt;span class=&quot;plainlinks&quot;&gt; [http://www.forbes.com/2007/10/18/wikipedia-pr-spencer-tech-internet-cx_ag_1018techwikipedia.html penalized]&lt;/span&gt; by search engines.  Once the block has expired, you are welcome to [[Wikipedia:Five pillars|make useful contributions]]. If you think there are good reasons why you should be unblocked, you may [[Wikipedia:Appealing a block|appeal this block]] by adding below this notice the text &lt;!-- Copy the text as it appears on your page, not as it appears in this edit area. Do not include the &quot;tlx|&quot; code. --&gt;{{tlx|unblock|2=reason=''Your reason here &amp;#126;&amp;#126;&amp;#126;&amp;#126;''}}, but you should read the [[Wikipedia:Guide to appealing blocks|guide to appealing blocks]] first. &lt;b&gt;[[User:Jauerback|Jauerback]]&lt;/b&gt;&lt;sup&gt;[[User talk:Jauerback|dude?]]&lt;/sup&gt;/&lt;sub&gt;[[Special:Contributions/Jauerback|dude.]]&lt;/sub&gt; 18:47, 14 September 2012 (UTC)&lt;/div&gt;[[Category:Wikipedians who have temporarily been blocked for advertising|{{PAGENAME}}]]&lt;!-- Template:uw-sblock --&gt;
+:''If this is a [[open proxy|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

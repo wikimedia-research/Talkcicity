@@ -1,0 +1,12 @@
+<article id="15673773" title=Talk:Knighton, Powys/Comments>
+	<talkpage id="15673773" title="Talk:Knighton, Powys/Comments">
+==Assessment review==
+Article seems to have good detail about many parts, and is generally well referenced. 
+
+* The population statistics section is confusing - please create a graph or something rather than using a row of ||||s
+* Transport, Education and Sports sections need to be expanded.
+* Many sections have too many subsections for the content, for instance the history and attractions sections.
+
+Generally good though, I was surprised by how much information is on this page. -''[[User:Mattbuck|mattbuck]]'' &lt;small&gt;([[User talk:Mattbuck|Talk]])&lt;/small&gt; 19:35, 9 February 2008 (UTC)
+	</talkpage>
+</article>

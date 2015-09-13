@@ -1,0 +1,6 @@
+<article id="21207150" title=Talk:Hoff, Cumbria>
+	<talkpage id="21207150" title="Talk:Hoff, Cumbria">
+{{WikiProject Lancashire and Cumbria|class=Stub|importance=mid}}
+{{WPUKgeo|class=Stub|importance=Low}}
+	</talkpage>
+</article>

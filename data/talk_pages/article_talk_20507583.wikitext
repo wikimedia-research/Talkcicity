@@ -1,0 +1,6 @@
+<article id="20507583" title=Talk:James Vance (footballer)>
+	<talkpage id="20507583" title="Talk:James Vance (footballer)">
+{{WikiProject Biography|class=C|listas=Vance, James|living=no|sports-work-group=yes}}
+{{WikiProject Football|class=C|importance=Low|England=yes|ManUtd=yes}}
+	</talkpage>
+</article>

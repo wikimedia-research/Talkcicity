@@ -1,0 +1,16 @@
+<article id="6310328" title=Talk:Anwar Khan (cricketer)>
+	<talkpage id="6310328" title="Talk:Anwar Khan (cricketer)">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|auto=yes
+|sports-work-group=yes
+|listas=Khan, Anwar
+}}
+{{WikiProject Cricket|class=stub|importance=mid}}
+{{WikiProject Pakistan|class=stub|importance=}}
+| blp=yes
+}}
+	</talkpage>
+</article>

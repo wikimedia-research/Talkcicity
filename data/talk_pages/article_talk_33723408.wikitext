@@ -1,0 +1,6 @@
+<article id="33723408" title=User talk:41.104.17.240>
+	<talkpage id="33723408" title="User talk:41.104.17.240">
+==Your recent edits==
+[[Image:Information.svg|25px|link=]] Hello. In case you didn't know, when you add content to [[Wikipedia:Talk page|talk pages]] and Wikipedia pages that have open discussion, you should [[Wikipedia:Signatures|sign your posts]] by typing four [[tilde]]s  ( &amp;#126;&amp;#126;&amp;#126;&amp;#126; ) at the end of your comment. You could also click on the signature button [[File:Insert-signature.png|link=Wikipedia:How to sign your posts]] or [[File:Signature icon.png|link=Wikipedia:How to sign your posts]] located above the edit window.  This will automatically insert a signature with your username or IP address and the time you posted the comment. This information is useful because other editors will be able to tell who said what, and when. Thank you. &lt;!-- Template:uw-tilde --&gt; --[[User:SineBot|SineBot]] ([[User talk:SineBot|talk]]) 13:05, 12 November 2011 (UTC)
+	</talkpage>
+</article>

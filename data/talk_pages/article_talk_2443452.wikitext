@@ -1,0 +1,6 @@
+<article id="2443452" title=User talk:Dubya2k4>
+	<talkpage id="2443452" title="User talk:Dubya2k4">
+Please stop adding nonsense to Wikipedia. It is considered [[Wikipedia:Vandalism|vandalism]]. If you would like to experiment, use the [[Wikipedia:Sandbox|sandbox]]. Thank you.&lt;!-- Test2 (second level warning) --&gt;- [[User:JCarriker|JCarriker]] 09:46, August 13, 2005 (UTC)
+*You have been temporarily [[Wikipedia:Blocking policy|blocked]] from editing for vandalism of Wikipedia. If you wish to make useful contributions, you may come back after the block expires.&lt;!-- Test5 (after-block warning) --&gt;- [[User:JCarriker|JCarriker]] 10:48, August 13, 2005 (UTC)
+	</talkpage>
+</article>

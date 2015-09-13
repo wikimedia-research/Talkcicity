@@ -1,0 +1,15 @@
+<article id="21879413" title=User talk:59.100.156.228>
+	<talkpage id="21879413" title="User talk:59.100.156.228">
+
+== March 2009 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. Although we invite everyone to contribute constructively here, we would like to remind you not to [[Wikipedia:No personal attacks|attack]] other editors, as you did with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Ashley_Massaro?diff=275911849 this edit]&lt;/span&gt; to [[:Ashley Massaro]]. You may wish to read the [[Wikipedia:Introduction|introduction to editing]] for more information about Wikipedia. Thank you. &lt;!-- Template:uw-huggleattack1 --&gt; ♪♫[[User:The New Mikemoral|The New Mikemoral]]&lt;sup&gt;[[User talk:The New Mikemoral|talk]]&lt;/sup&gt;&lt;sub&gt;[[Special:Contributions/The_New_Mikemoral|contribs]]&lt;/sub&gt; 23:09, 8 March 2009 (UTC)
+
+[[Image:Information.png|25px]] Please refrain from making unconstructive edits to Wikipedia, as you did with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Ashley_Massaro?diff=275912249 this edit]&lt;/span&gt; to the page [[:Ashley Massaro]]. Such edits constitute [[Wikipedia:Vandalism|vandalism]] and are [[Help:Reverting|reverted]]. Please do not continue to make unconstructive edits to pages; use the [[Wikipedia:Sandbox|sandbox]] for testing. Thank you. &lt;!-- Template:uw-huggle2 --&gt; ♪♫[[User:The New Mikemoral|The New Mikemoral]]&lt;sup&gt;[[User talk:The New Mikemoral|talk]]&lt;/sup&gt;&lt;sub&gt;[[Special:Contributions/The_New_Mikemoral|contribs]]&lt;/sub&gt; 23:09, 8 March 2009 (UTC)
+
+[[Image:Nuvola apps important.svg|25px]] Please do not vandalize pages, as you did with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Ashley_Massaro?diff=275912249 this edit]&lt;/span&gt; to [[:Ashley Massaro]]. If you continue to do so, you will be blocked from editing. &lt;!-- Template:uw-huggle3 --&gt; [[User:Cmichael|Cmichael]] ([[User talk:Cmichael|talk]]) 23:10, 8 March 2009 (UTC)
+
+[[Image:Stop hand nuvola.svg|30px]] This is the '''last warning''' you will receive for your disruptive edits. &lt;br&gt; The next time you delete or blank page content or templates from Wikipedia{{#if:Ashley Massaro|, as you did to [[:Ashley Massaro]]}}, you '''will''' be [[Wikipedia:Blocking policy|blocked]] from editing. {{#if:|{{{2}}}|}}&lt;!-- Template:uw-delete4 --&gt; [[User:JForget|&lt;font color = &quot;orange&quot;&gt;'''JForget''' &lt;/font&gt;]] 23:15, 8 March 2009 (UTC)
+:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
+	</talkpage>
+</article>

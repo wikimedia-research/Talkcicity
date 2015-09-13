@@ -1,0 +1,14 @@
+<article id="16228346" title=Talk:Max Meili>
+	<talkpage id="16228346" title="Talk:Max Meili">
+{{WikiProjectBannerShell|1=
+{{WikiProject Opera|class=Start|auto=yes}}
+{{WikiProject Biography
+|living=no
+|class=Stub
+|listas=Meili, Max
+|musician-work-group=yes
+}}
+{{WikiProject Switzerland|class=start|importance=low}}
+}}
+	</talkpage>
+</article>

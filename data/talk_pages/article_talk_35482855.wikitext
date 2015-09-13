@@ -1,0 +1,11 @@
+<article id="35482855" title=Talk:Multivariate cryptography>
+	<talkpage id="35482855" title="Talk:Multivariate cryptography">
+{{WikiProject Cryptography|class=Start|importance=High}}
+
+== Unclear ==
+
+&quot;Today multivariate quadratics could be used only to build signatures. All attempts to build a secure encryption scheme have so far failed.&quot;
+
+are the signatures safe? what extra requirement is entailed in a &quot;secure encryption scheme&quot;?  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/213.49.90.9|213.49.90.9]] ([[User talk:213.49.90.9|talk]]) 13:02, 1 May 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

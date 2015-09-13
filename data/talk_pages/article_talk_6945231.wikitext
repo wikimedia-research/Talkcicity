@@ -1,0 +1,36 @@
+<article id="6945231" title=User talk:Aishe>
+	<talkpage id="6945231" title="User talk:Aishe">
+==Image tagging for Image:B 0907015 haas.jpg==
+Thanks for uploading '''[[:Image:B 0907015 haas.jpg]]'''. The image has been identified as not specifying the source and creator of the image, which is required by Wikipedia's policy on images.  If you don't indicate the source and creator of the image on the image's description page, it may be deleted some time in the next seven days.  If you have uploaded other images, please verify that you have provided source information for them as well.
+
+For more information on using images, see the following pages:
+*[[Wikipedia:Image use policy]]
+*[[Wikipedia:Image copyright tags]]
+
+This is an automated notice by [[User:OrphanBot|OrphanBot]].  For assistance on the image use policy, see [[Wikipedia:Media copyright questions]]. 15:06, 11 September 2006 (UTC)
+
+==Your edit to [[:Ku Klux Klan]]==
+Your recent edit to [[:Ku Klux Klan]] ([http://en.wikipedia.org/w/index.php?title=Ku_Klux_Klan&amp;diff=79691548&amp;oldid=79685121 diff]) was reverted by an '''automated bot''' that attempts to recognize and repair [[Wikipedia:vandalism|vandalism]] to Wikipedia articles. If the bot reverted a legitimate edit, please accept my humble creator's apologies – if you bring it to the attention of the bot's owner, we may be able to improve its behavior. '''[[User:AntiVandalBot/FAQ|Click here]]''' for '''frequently asked questions''' about the bot and this warning. // [[User:AntiVandalBot|AntiVandalBot]] 18:24, 5 October 2006 (UTC)
+
+
+== Image:Normal pleasprem006.jpg ==
+Thanks for uploading '''[[:Image:Normal pleasprem006.jpg]]'''. I notice the 'image' page specifies that the image is being used under [[Wikipedia:Fair use|fair use]], but its use in Wikipedia articles fails our [[Wikipedia:Fair use criteria|first fair use criterion]] in that it illustrates a subject for which a freely licensed image could reasonably be found or created that provides substantially the same information. If you believe this image is not replaceable, please:
+
+# Go to [[:Image:Normal pleasprem006.jpg|the image description page]] and edit it to add &lt;code&gt;&lt;nowiki&gt;{{Replaceable fair use disputed}}&lt;/nowiki&gt;&lt;/code&gt;, '''without deleting the original Replaceable fair use template'''.
+# On [[Image talk:Normal pleasprem006.jpg|the image discussion page]], write the reason why this image is not replaceable at all.
+
+Alternatively, you can also choose to replace the fair use image by finding a freely licensed image of its subject, [[Wikipedia:Requesting copyright permission|requesting that the copyright holder release this (or a similar) image under a free license]], or by taking a picture of it yourself.
+
+If you have uploaded other fair use media, consider checking that you have specified how these images fully satisfy our fair use criteria. You can find a list of 'image' pages you have edited by clicking on &lt;span class=&quot;plainlinks&quot;&gt;[{{fullurl:Special:Contributions|target={{PAGENAMEE}}&amp;namespace=6}} this link]&lt;/span&gt;. Note that any fair use images which are replaceable by free-licensed alternatives will be deleted one week after they have been uploaded, as described on [[Wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]].  If you have any questions please ask them at the [[Wikipedia:Media copyright questions|Media copyright questions page]]. Thank you. [[User:Yamla|Yamla]] 17:49, 8 January 2007 (UTC)
+==Orphaned non-free media (Image:Sid-vicious.jpg)==
+[[Image:Nuvola apps important blue.svg|25px]] Thanks for uploading '''[[:Image:Sid-vicious.jpg]]'''. The media description page currently specifies that it is non-free and may only be used on Wikipedia under a [[WP:FU|claim of fair use]]. However, it is currently [[Wikipedia:Orphan|orphaned]], meaning that it is not used in any articles on Wikipedia. If the media was previously in an article, please go to the article and see why it was removed. [[WP:BOLD|You may add it back]] if you think that that will be useful. However, please note that media for which a replacement could be created are not acceptable for use on Wikipedia (see [[Wikipedia:Non-free content#Policy|our policy for non-free media]]).
+
+If you have uploaded other unlicensed media, please check whether they're used in any articles or not. You can find a list of 'image' pages you have edited by clicking on the &quot;[[Special:Contributions/{{PAGENAME}}|my contributions]]&quot; link (it is located at the very top of any Wikipedia page when you are logged in), and then selecting &quot;Image&quot; from the dropdown box. Note that all non-free media not used in any '''articles''' will be deleted after seven days, as described on [[wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. Thank you.&lt;!-- Template:Orphaned --&gt; [[User:BetacommandBot|BetacommandBot]] 06:19, 24 August 2007 (UTC)
+
+
+==Disputed fair use rationale for Image:Svarest.jpg==
+Thanks for uploading '''[[:Image:Svarest.jpg]]'''. However, there is a concern that the rationale you have provided for using this image under &quot;fair use&quot; may be invalid. Please read the instructions at [[Wikipedia:Non-free content]] carefully, then go to the image description page and clarify why you think the image qualifies for fair use. Using one of the templates at [[Wikipedia:Fair use rationale guideline]] is an easy way to ensure that your image is in compliance with Wikipedia policy, but remember that you must complete the template. Do not simply insert a blank template on an image page.
+
+If it is determined that the image does not qualify under fair use, it will be deleted within a couple of days according to our [[Wikipedia:Criteria for speedy deletion#Images/media|criteria for speedy deletion]]. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|media copyright questions page]]. Thank you.&lt;!-- Template:No fair --&gt;[[User:BetacommandBot|BetacommandBot]] ([[User talk:BetacommandBot|talk]]) 06:27, 24 January 2008 (UTC)
+	</talkpage>
+</article>

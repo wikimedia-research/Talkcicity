@@ -1,0 +1,6 @@
+<article id="28316041" title=Talk:The Lord Loves the One (That Loves the Lord)>
+	<talkpage id="28316041" title="Talk:The Lord Loves the One (That Loves the Lord)">
+{{GA|10:31, 14 November 2014 (UTC)|page=1|topic=Music|subtopic=Songs|oldid=634152111}}
+{{WPBeatles|class=GA|importance=Low|b1=yes|b2=yes|b3=yes|b4=yes|b5=yes|b6=yes|george=yes|song=yes}}
+	</talkpage>
+</article>

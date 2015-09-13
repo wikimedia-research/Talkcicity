@@ -1,0 +1,6 @@
+<article id="18485139" title=Talk:List of U.S. Routes in Pennsylvania>
+	<talkpage id="18485139" title="Talk:List of U.S. Routes in Pennsylvania">
+{{WikiProject Pennsylvania|class=List|auto=inherit|importance=mid}}
+{{U.S. Roads WikiProject|type=US|state=PA|class=List|importance=Mid|needs-map=NA}}
+	</talkpage>
+</article>

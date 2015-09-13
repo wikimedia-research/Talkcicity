@@ -1,0 +1,7 @@
+<article id="27627796" title=Talk:Peasiella conoidalis>
+	<talkpage id="27627796" title="Talk:Peasiella conoidalis">
+
+
+{{WikiProject Gastropods|class=Stub|importance=Low|needs-photo=yes}}
+	</talkpage>
+</article>

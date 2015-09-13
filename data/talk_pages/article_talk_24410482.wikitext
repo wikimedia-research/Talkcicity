@@ -1,0 +1,9 @@
+<article id="24410482" title=User talk:82.28.70.149>
+	<talkpage id="24410482" title="User talk:82.28.70.149">
+
+
+== September 2009 ==
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits{{#if:Western culture|, such as the one you made to [[:Western culture]],}} did not appear to be constructive and has been reverted. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; [[User:Saddhiyama|Saddhiyama]] ([[User talk:Saddhiyama|talk]]) 16:09, 20 September 2009 (UTC)
+:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
+	</talkpage>
+</article>

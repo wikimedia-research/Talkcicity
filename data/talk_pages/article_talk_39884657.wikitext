@@ -1,0 +1,5 @@
+<article id="39884657" title=Talk:Vitier>
+	<talkpage id="39884657" title="Talk:Vitier">
+{{WikiProject Anthroponymy|class=List}}
+	</talkpage>
+</article>

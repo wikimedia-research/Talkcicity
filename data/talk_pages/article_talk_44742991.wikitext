@@ -1,0 +1,5 @@
+<article id="36562771" title=Talk:Corporation (role playing game)>
+	<talkpage id="36562771" title="Talk:Corporation (role playing game)">
+{{RPGproject}}
+	</talkpage>
+</article>

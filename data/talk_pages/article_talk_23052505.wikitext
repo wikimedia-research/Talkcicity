@@ -1,0 +1,5 @@
+<article id="23052505" title=Talk:Ibragimov>
+	<talkpage id="23052505" title="Talk:Ibragimov">
+{{WikiProject Anthroponymy | class =  | importance =  }}
+	</talkpage>
+</article>

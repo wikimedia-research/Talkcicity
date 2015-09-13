@@ -1,0 +1,5 @@
+<article id="43488922" title=Talk:Contact relic>
+	<talkpage id="43488922" title="Talk:Contact relic">
+{{WikiProject Religion|class=Stub}}
+	</talkpage>
+</article>

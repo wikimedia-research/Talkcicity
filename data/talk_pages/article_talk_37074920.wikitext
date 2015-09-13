@@ -1,0 +1,12 @@
+<article id="37074920" title=Talk:Institute on the Environment>
+	<talkpage id="37074920" title="Talk:Institute on the Environment">
+{{talk header}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Law|class=start|importance=low}}
+{{WikiProject Energy|class=start|importance=low}}
+{{WikiProject United States|class=start|importance=low}}
+{{WikiProject Universities|class=start|importance=low}}
+{{WikiProject Minnesota|class=start|importance=mid|needs-infobox=no}}
+}}
+	</talkpage>
+</article>

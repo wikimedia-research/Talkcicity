@@ -1,0 +1,63 @@
+<article id="4205343" title=User talk:Ellis2ca>
+	<talkpage id="4205343" title="User talk:Ellis2ca">
+
+'''Welcome!'''
+
+Hello, {{PAGENAME}}, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for your contributions. I hope you like the place and decide to stay. Here are a few good links for newcomers:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Help:Contents|Help pages]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:How to write a great article|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (~&amp;#126;~~); this will automatically produce your name and the date. If you need help, check out [[Wikipedia:Where to ask a question]], ask me on my talk page, or place &lt;code&gt;{&amp;#123;helpme}}&lt;/code&gt; on your talk page and someone will show up shortly to answer your questions. Again, welcome!&amp;nbsp; &lt;font color=&quot;#4682B4&quot;&gt;[[User:Karmafist|Karm]]&lt;/font&gt;&lt;font color=&quot;#00FF00&quot;&gt;[[WP:ESP|a]]&lt;/font&gt;&lt;font color=&quot;#E32636&quot;&gt;[[User talk:Karmafist|fist]]&lt;/font&gt; 15:46, 26 February 2006 (UTC)
+
+== Mediation Case: Anti-Brahmanism ==
+
+: You have indicated that you are willing to accept an assignment as a mediator. I have assigned [[Wikipedia:Mediation_Cabal/Cases/2006-04-11_Anti-Brahmanism|this case]] to you. If you don't want to take the case on, just say so at the bottom of the request, delegate it to someone else and update the case list accordingly. Before you begin the mediation please read the [[Wikipedia:Mediation_Cabal/Suggestions_for_mediators|suggestions for mediators]]. You can also review earlier mediation cases to get an understanding for possible procedures.
+: --[[User:Fasten|Fasten]] 14:28, 13 April 2006 (UTC)
+:: I had to change your assignment because another mediator took the case I originally assigned to you. --[[User:Fasten|Fasten]] 14:15, 16 April 2006 (UTC)
+
+== August 2008 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Monica_Lewinsky?diff=233826258 recent edit]&lt;/span&gt; you made to [[:Monica Lewinsky]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; &lt;span style=&quot;background:#CC1010;color:#FFA0A0&quot;&gt;'''&amp;nbsp;Blanchardb'''&amp;nbsp;&lt;/span&gt;-&lt;small&gt;&lt;sup&gt;&lt;span style=&quot;color:#A62428&quot;&gt;[[User:Blanchardb|Me]]•[[User Talk:Blanchardb|MyEars]]•[[Special:Contributions/Blanchardb|MyMouth]]&lt;/span&gt;&lt;/sup&gt;&lt;/small&gt;- timed 23:42, 23 August 2008 (UTC)
+
+==Conflict of interest policy==
+[[Image:Information.svg|25px|alt=|link=]] Welcome to Wikipedia. If you are affiliated with some of the people, places or things [[Special:Contributions/Ellis2ca|you have written about]] on Wikipedia, you may have a [[Wikipedia:Conflict of interest|conflict of interest]].  In keeping with Wikipedia's [[Wikipedia:Neutral point of view|neutral point of view]] policy, edits where there is a conflict of interest, or where such a conflict might reasonably be inferred, are strongly discouraged. If you have a conflict of interest, you should '''avoid''' or '''exercise great caution''' when:
+#'''editing''' or '''creating''' articles related to you, your organization, or its competitors, as well as projects and products they are involved with;
+#'''participating''' in [[Wikipedia:Deletion policy#Deletion_processes|deletion discussions]] about articles related to your organization or its competitors; and
+# '''linking''' to the Wikipedia article or website of your organization in other articles (see [[Wikipedia:Spam]]).
+
+Please familiarize yourself with relevant policies and guidelines, especially those pertaining to [[Wikipedia:Neutral point of view|neutral point of view]], [[Wikipedia:Verifiability|verifiability of information]], and [[Wikipedia:Autobiography|autobiographies]].
+
+For information on how to contribute to Wikipedia when you have a conflict of interest, please see [[Wikipedia:FAQ/Organizations|our frequently asked questions for organizations]].  Thank you.[[Category:User talk pages with conflict of interest notices|{{PAGENAME}}]]&lt;!-- Template:uw-coi --&gt;
+*{{LinkSummaryLive|rajeun.net}}
+--[[User:Ronz|Ronz]] ([[User talk:Ronz|talk]]) 18:30, 21 November 2010 (UTC)
+
+==Lentil article==
+
+Hello there.  I saw your change on the Lentil article and it gave me an idea.  First of all, hopefully the values I entered with my edit match those contained within NDB # 16069!  The change you made did not actually make any changes to the article, but if you had used the note= parameter with the intent of annotating the source, e.g.:
+
+&lt;br&gt;&lt;b&gt;&lt;nowiki&gt;
+{{nutritionalvalue | name = Lentils, raw (dry weight)&lt;/nowiki&gt;&lt;br&gt;
+...&lt;br&gt;
+source_usda=1&lt;br&gt;
+note=NDB No. 16069}}&lt;br&gt;
+&lt;br&gt;&lt;/b&gt;
+
+then the box would have appeared like the following ( for this example, I took out the nutrient values and floated the box to the left):
+
+{{nutritionalvalue | name = Lentils, raw (dry weight)
+| water=10.4 g
+| opt1n = Skipped nutrients
+| opt1v = ...
+| float=left
+| source_usda=1 
+| note=NDB No. 16069}}
+
+I think it would be an excellent idea for the actual NDB number to be included.  Just a thought.  Anyway, the source_usda parameter in the template only accepts source_usda=yes or source_usda=1 as far as I know.  Unfortunately, the nutrient values have to be plugged in manually.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Chango369w|Chango369w]] ([[User talk:Chango369w|talk]] • [[Special:Contributions/Chango369w|contribs]]) 12:49, 27 March 2013 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+:Whoops! I forgot to sign the comment.  I'll try not to do that again!  [[User:Chango369w|Chango369w]] ([[User talk:Chango369w|talk]]) 13:37, 27 March 2013 (UTC)
+{{-}}
+:: Your change to the [[Lentil]] article eventually resulted in a link to the USDA Database Entry as a note.  I spoke with someone at the USDA that has working knowledge of their website.  Barring a real time client/server connection between Wikipedia and the USDA database, it would take a download of the Database onto a Wikipedia server along with the coding infrastructure to avoid all of the manual updating.  Fortunately they update only once a year, with updates occurring to unprocessed foods like fruits and vegetables occurring on an even more infrequent basis.  [[User:Chango369w|Chango369w]] ([[User talk:Chango369w|talk]]) 22:19, 29 March 2013 (UTC)
+	</talkpage>
+</article>

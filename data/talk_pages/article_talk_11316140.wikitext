@@ -1,0 +1,42 @@
+<article id="11316140" title=Talk:Lode>
+	<talkpage id="11316140" title="Talk:Lode">
+{{WikiProject Mining|class=Stub|importance=high}}
+{{WikiProject Geology
+|class=Stub 
+|importance= mid
+|attention= 
+|needs-infobox= 
+|peer-review= 
+|old-peer-review= 
+}}
+
+==Expand article==
+More material might be mined from the Thompson (1914) article cited in FN1. Also beginning mining textbooks should be consulted, such as 
+''A textbook on metal mining'' Scranton, Pa.: International Textbook Company, [c1899], or something more modern.  There might be something useful in Brown, John S. ''Ore genesis; a metallurgical interpretation, an alternative to the hydrothermal theory'' Hopewell, N. J., Hopewell Press [c1948] or Niggli, Paul, ''Ore deposits of magmatic origin; their genesis and natural classification'' New York, D. Van Nostrand Co., 1929. --[[User:Bejnar|Bejnar]] ([[User talk:Bejnar|talk]]) 20:32, 31 July 2012 (UTC)
+
+== Blacklisted Links Found on the Main Page ==
+
+Cyberbot II has detected that page contains external links that have either been globally or locally blacklisted.
+Links tend to be blacklisted because they have a history of being spammed, or are highly innappropriate for Wikipedia.
+This, however, doesn't necessaryily mean it's spam, or not a good link.
+If the link is a good link, you may wish to request whitelisting by going to the [[MediaWiki talk:Spam-whitelist|request page for whitelisting]].
+If you feel the link being caught by the blacklist is a false positive, or no longer needed on the blacklist, you may request the regex be removed or altered at the [[MediaWiki talk:Spam-blacklist|blacklist request page]].
+If the link is blacklisted globally and you feel the above applies you may request to whitelist it using the before mentioned request page, or request its removal, or alteration, at the [[meta:Talk:Spam Blacklist|request page on meta]].
+When requesting whitelisting, be sure to supply the link to be whitelisted and wrap the link in nowiki tags.
+The whitelisting process can take its time so once a request has been filled out, you may set the invisible parameter on the tag to true.
+Please be aware that the bot will replace removed tags, and will remove misplaced tags regularly.
+
+'''Below is a list of links that were found on the main page:'''
+
+*&lt;nowiki&gt;http://www.mining-technology.com/projects/cannington/&lt;/nowiki&gt;
+*:''Triggered by &lt;code&gt;\bmining-technology\.com\b&lt;/code&gt; on the local blacklist''
+*&lt;nowiki&gt;http://web.archive.org/web/20071231025955/http://www.mining-technology.com/projects/cannington/&lt;/nowiki&gt;
+*:''Triggered by &lt;code&gt;\bmining-technology\.com\b&lt;/code&gt; on the local blacklist''
+
+If you would like me to provide more information on the talk page, contact [[User:Cyberpower678]] and ask him to program me with more info.
+
+From your friendly hard working bot.—[[User:Cyberbot II|&lt;span style=&quot;color:green;font-family:Neuropol&quot;&gt;cyberbot II]] [[User talk:Cyberbot II|&lt;sup style=&quot;color:green;font-family:arnprior&quot;&gt;Notify]]&lt;sub style=&quot;margin-left:-6.1ex;color:green;font-family:arnprior&quot;&gt;Online&lt;/sub&gt; 12:17, 3 April 2014 (UTC)
+
+{{done|Resolved}} This issue has been resolved, and I have therefore removed the tag, if not already done.  No further action is necessary.—[[User:Cyberbot II|&lt;span style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II]] [[User talk:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Comic Sans MS&quot;&gt;Notify]]&lt;sub style=&quot;margin-left:-5.8ex;color:green;font-family:Comic Sans MS&quot;&gt;Online&lt;/sub&gt; 19:47, 9 April 2014 (UTC)
+	</talkpage>
+</article>

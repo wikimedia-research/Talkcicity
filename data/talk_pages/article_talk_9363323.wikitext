@@ -1,0 +1,5 @@
+<article id="9363323" title=Talk:Germ tube>
+	<talkpage id="9363323" title="Talk:Germ tube">
+{{WikiProject Fungi|class=stub|importance=mid}}
+	</talkpage>
+</article>

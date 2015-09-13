@@ -1,0 +1,11 @@
+<article id="10343300" title=Talk:Pepper MaShay>
+	<talkpage id="10343300" title="Talk:Pepper MaShay">
+{{WikiProject Biography|living=yes
+|class=Start
+|listas=Mashay, Pepper
+|musician-work-group=yes
+|needs-photo=yes
+}}
+{{WikiProject Pop music}}
+	</talkpage>
+</article>

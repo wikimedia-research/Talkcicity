@@ -1,0 +1,5 @@
+<article id="44129072" title=Talk:Gustavo Caballero Camargo>
+	<talkpage id="44129072" title="Talk:Gustavo Caballero Camargo">
+{{WikiProject Biography|living=yes|class=|listas=}}
+	</talkpage>
+</article>

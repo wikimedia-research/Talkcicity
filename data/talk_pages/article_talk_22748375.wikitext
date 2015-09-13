@@ -1,0 +1,14 @@
+<article id="22748375" title=Talk:Jim Semple>
+	<talkpage id="22748375" title="Talk:Jim Semple">
+{{Old AfD multi| date = 4 November 2009 (UTC) | result = '''keep''' | page = Jim Semple }}
+
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|sports-work-group=yes
+|listas=Semple, Jim
+|auto=yes
+}}
+{{WikiProject Football|class=Stub|importance=|auto=yes}}
+	</talkpage>
+</article>

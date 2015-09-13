@@ -1,0 +1,5 @@
+<article id="6287647" title=Talk:Massachusetts (Because of You Our Land is Free)>
+	<talkpage id="6287647" title="Talk:Massachusetts (Because of You Our Land is Free)">
+{{WikiProjectSongs|auto=yes|class=Stub}}
+	</talkpage>
+</article>

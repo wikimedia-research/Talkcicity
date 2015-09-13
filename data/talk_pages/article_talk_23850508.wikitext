@@ -1,0 +1,5 @@
+<article id="23850508" title=Talk:Trimen>
+	<talkpage id="23850508" title="Talk:Trimen">
+{{DisambigProject}}
+	</talkpage>
+</article>

@@ -1,0 +1,65 @@
+<article id="7806902" title=Talk:Superior (proposed U.S. state)>
+	<talkpage id="7806902" title="Talk:Superior (proposed U.S. state)">
+{{WikiProject Michigan|class=Start|importance=Mid}}
+{{WikiProject Wisconsin|class=Start|importance=Mid}}
+{| class=&quot;messagebox standard-talk&quot; style=&quot;text-align:center;&quot;
+| width=&quot;48px&quot; | [[File:Evolution-tasks2.png|35px|Articles for deletion]] || This article was nominated for [[Wikipedia:Deletion policy|deletion]] {{#if:6 Nov 2006|on 6 Nov 2006|recently}}. The result of [[Wikipedia:Articles for deletion/{{{page|Superior_%28proposed_state%29}}}|the discussion]] was {{{result|'''keep'''}}}.
+|}&lt;!-- From Template:Oldafdfull --&gt;
+
+==capitals==
+recognizing that this topic is in being AFD'd, I don't think it helps to have unsourced speculations on what the capital might be. I am pasting them here until there is a reputable source for the capitals
+
+&lt;&lt;quotation&gt;&gt;The following cities have been proposed as a capital for the proposed state:
+
+*[[Houghton, Michigan]]
+*[[Marquette, Michigan]]
+*[[Sault Ste Marie, Michigan]]
+*[[Traverse City, Michigan]]
+&lt;&lt;/quotation&gt;&gt;
+::Add one more: [[Bruce Crossing, Michigan|Bruce Crossing]].  '''Then Joe Zimmer erected a billboard proclaiming &quot;Governor's Mansion&quot; next to his mobile home on Highway 28 and proposing Bruce Crossing (population 551) in Ontonagon County as &quot;the capital of the 51st state.&quot;  '''[http://www.findarticles.com/p/articles/mi_qn4196/is_19950917/ai_n10207502]
+
+== [[area code 906]] ==
+
+unsourced statement about 906/616 area code split should be either sourced or removed.  [[User:Edward Vielmetti|Edward Vielmetti]] ([[User talk:Edward Vielmetti|talk]]) 01:04, 24 September 2008 (UTC)
+
+: indeed this split passes without comment at http://www.areacode-info.com/!history/1960s.htm which suggests that the 906 code was part of a gradual fine tuning of the whole [[North American Numbering Plan]]. [[User:Edward Vielmetti|Edward Vielmetti]] ([[User talk:Edward Vielmetti|talk]]) 01:10, 24 September 2008 (UTC)
+
+
+== Requested move ==
+&lt;div class=&quot;boilerplate&quot; style=&quot;background-color: #efe; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px dotted #aaa;&quot;&gt;&lt;!-- Template:RM top --&gt;
+:''The following discussion is an archived discussion of a [[WP:RM|requested move]]. &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made in a new section on the talk page. No further edits should be made to this section. ''
+
+The result of the move request was: '''Not done''' -[[User:Atmoz|Atmoz]] ([[User talk:Atmoz|talk]]) 14:04, 25 January 2011 (UTC)
+
+----
+
+
+[[Superior (proposed U.S. state)]] → [[Superior (state)]] — &lt;s&gt;[[WP:PRECISION]], like lately on [[Talk:Washington_(U.S._state)#Requested_move_-_Washington_(state)]].--[[User:TopoChecker|TopoChecker]] ([[User talk:TopoChecker|talk]]) 22:09, 19 January 2011 (UTC)&lt;/s&gt; '''&lt;small&gt;comment by banned editor&lt;/small&gt;'''
+:'''Oppose'''. The clause in question also says disambiguators should be precise enough; they should also be accurate. There has never been a state of Superior. [[User:Pmanderson|Septentrionalis]] &lt;small&gt;[[User talk:Pmanderson|PMAnderson]]&lt;/small&gt; 22:37, 19 January 2011 (UTC)
+::Good point. The main difference here is that Washington is an actual state at this time and not a name of a hypothetical state that may or may not exist in the future. Also the title may confuse cause confusion (especially for people who are not from the US) and imply that there is currently a state name Superior when there is in fact not one. This issue does not exist for Washington.--[[Special:Contributions/76.66.180.54|76.66.180.54]] ([[User talk:76.66.180.54|talk]]) 22:56, 19 January 2011 (UTC)
+*'''Oppose''' per Pmanderson but suggest a move to [[Superior (proposed state)]]. The U.S. is superfluous unless evidence is provided of the existence of a another '''proposed''' state to be called &quot;Superior&quot; -- [[User:Mattinbgn|Mattinbgn]] ([[User talk:Mattinbgn|talk]]) 23:34, 19 January 2011 (UTC)
+:*&lt;s&gt;Would support a move to drop U.S. [[User:TopoChecker|TopoChecker]] ([[User talk:TopoChecker|talk]]) 00:19, 20 January 2011 (UTC)&lt;/s&gt; '''&lt;small&gt;comment by banned editor&lt;/small&gt;'''
+*&lt;s&gt;'''Comment''' All the counties in [[:Category:Former counties of the United States]] - they are not ''actual counties existing at this time''. All these titles may cause the same confusion, as the &quot;(state)&quot; does. Now one may reply the term &quot;county&quot; is not included for disambiguation. Then look into [[:Category:States of the Holy Roman Empire]] - Bretzenheim (state) - not a state anymore. Why isn't it Bretzenheim (former state)? Because it doesn't matter for disambiguation. Something was / is / will be / may be a state. No distinction in title needed. [[User:TopoChecker|TopoChecker]] ([[User talk:TopoChecker|talk]]) 00:17, 20 January 2011 (UTC)&lt;/s&gt; '''&lt;small&gt;comment by banned editor&lt;/small&gt;'''
+* '''Oppose''', it is not and never was a state of any sort. [[User:Bkonrad|older]] ≠ [[User talk:Bkonrad|wiser]] 00:50, 20 January 2011 (UTC)
+:*&lt;s&gt;The dab does not say it '''is''' one. It does not say it '''was''' one. [[User:TopoChecker|TopoChecker]] ([[User talk:TopoChecker|talk]]) 16:22, 20 January 2011 (UTC)&lt;/s&gt; '''&lt;small&gt;comment by banned editor&lt;/small&gt;'''
+::* Using the title &quot;(state)&quot; implies otherwise. [[User:Bkonrad|older]] ≠ [[User talk:Bkonrad|wiser]] 17:06, 21 January 2011 (UTC)
+*'''Oppose''' The current title admirably explains the status (proposed) and location (US).  [[User:Plazak|Plazak]] ([[User talk:Plazak|talk]]) 02:45, 20 January 2011 (UTC)
+:*&lt;s&gt;The titles for [[Texas]], [[Minnesota]] etc, do not show the location, nor the status (current), - they do not even show it is a state. [[User:TopoChecker|TopoChecker]] ([[User talk:TopoChecker|talk]]) 16:22, 20 January 2011 (UTC)&lt;/s&gt; '''&lt;small&gt;comment by banned editor&lt;/small&gt;'''
+::*[[Texas]] and [[Minnesota]] are quite well known as US states, and require no further dab.  [[User:Plazak|Plazak]] ([[User talk:Plazak|talk]]) 18:40, 20 January 2011 (UTC)
+:::*&lt;s&gt;Dab exists to distinguish base terms. They are not there to tell details about the content. They can tell details, but WP:PRECISION asks for telling few. [[User:TopoChecker|TopoChecker]] ([[User talk:TopoChecker|talk]]) 16:54, 21 January 2011 (UTC)&lt;/s&gt; '''&lt;small&gt;comment by banned editor&lt;/small&gt;'''
+::::* The disambiguating phrase should also not be misleading. &quot;(state)&quot; is misleading in cases where no such state ever existed. [[User:Bkonrad|older]] ≠ [[User talk:Bkonrad|wiser]] 17:06, 21 January 2011 (UTC)
+:::::*&lt;s&gt;That also depends on the person that try to interpret the dab as there is/was a state. Would [[Superior (proposed)]] be misleading?. [[User:TopoChecker|TopoChecker]] ([[User talk:TopoChecker|talk]]) 17:16, 21 January 2011 (UTC)&lt;/s&gt; '''&lt;small&gt;comment by banned editor&lt;/small&gt;'''
+::::::* That would be unintelligible. Might as well use a completely arbitrary disambiguation term like [[Superior (x1m3z42)]]. [[User:Bkonrad|older]] ≠ [[User talk:Bkonrad|wiser]] 17:39, 21 January 2011 (UTC)
+:::::::*&lt;s&gt;For completely arbitrary I would invoke [[WP:PRECISION]]/ shortness and propose [[Superior (1)]]. But better not to choose something completely arbitrary, but something connected with the content of the page. E.g. [[Superior (proposed)]] or [[Superior (proposal)]]. Texas does not come with the term &quot;state&quot;, the information is it one is in the article. Same could be done for Superior. [[User:TopoChecker|TopoChecker]] ([[User talk:TopoChecker|talk]]) 22:47, 21 January 2011 (UTC)&lt;/s&gt; '''&lt;small&gt;comment by banned editor&lt;/small&gt;'''
+*'''oppose''' it's not a state. [[WP:PRECISION]] doesn't say that you're supposed to use the wrong disambiguator just for the sake of making something short. Why don't we just call it [[Superior (new)]] then? It's just as wrong. [[Special:Contributions/65.93.13.210|65.93.13.210]] ([[User talk:65.93.13.210|talk]]) 06:20, 20 January 2011 (UTC)
+:*&lt;s&gt;You claim it is wrong, but you bring no evidence. Leaving an adjective out, makes the noun wrong? There is no [[Washington (current U.S. state)]]. [[User:TopoChecker|TopoChecker]] ([[User talk:TopoChecker|talk]]) 16:22, 20 January 2011 (UTC)&lt;/s&gt;'''&lt;small&gt;comment by banned editor&lt;/small&gt;'''
+::*It does when the adjective negates the noun, as it does with &quot;fictional&quot; or &quot;proposed&quot; or &quot;suspected&quot;.  [[User:LtPowers|Powers]] &lt;sup&gt;&lt;small&gt;&lt;small&gt;[[User talk:LtPowers|T]]&lt;/small&gt;&lt;/small&gt;&lt;/sup&gt; 17:21, 20 January 2011 (UTC)
+:::*&lt;s&gt;I think it depends on how one interprets the dab term. If it is to distinguish one base term from another then Superior (state) does that well. A specific description whether that was a state in a novel or a state proposal would violate [[WP:PRECISION]]. It also does not matter whether this was proposed ''U.S.'' state or a proposed ''Mexican'' state. But if the dab term is meant to be read as &lt;base term&gt; is a/was a/is located in &lt;dab term&gt; then the proposal above would violate correctness. [[User:TopoChecker|TopoChecker]] ([[User talk:TopoChecker|talk]]) 16:50, 21 January 2011 (UTC)&lt;/s&gt; '''&lt;small&gt;comment by banned editor&lt;/small&gt;'''
+*'''Oppose'''; leaving out &quot;proposed&quot; is misleading and inaccurate.  [[User:LtPowers|Powers]] &lt;sup&gt;&lt;small&gt;&lt;small&gt;[[User talk:LtPowers|T]]&lt;/small&gt;&lt;/small&gt;&lt;/sup&gt; 17:21, 20 January 2011 (UTC)
+*'''Oppose''' removing &quot;proposed&quot;, which would make the title inaccurate, as LtPowers says above. I don't have much of a problem with removing &quot;U.S.&quot;, but I like how its inclusion clarifies that this is a proposed U.S. state (i.e., a subdivision of a country) and not a proposed sovereign country. [[User talk:Ucucha|Ucucha]] 03:25, 21 January 2011 (UTC)
+*'''Snowppose''' [[User:TopoChecker]] should reflect upon whether &quot; ...(state)&quot; is always the best disambiguator. &lt;sup&gt;&lt;small&gt;&lt;font color=&quot;green&quot;&gt;[[Special:Contributions/Victor_falk|''walk'']]&lt;/font&gt;&lt;/small&gt;&lt;/sup&gt; &lt;font color=&quot;green&quot;&gt;[[user:victor falk|''victor falk'']]&lt;/font&gt;&lt;sup&gt;&lt;small&gt; &lt;font color=&quot;green&quot;&gt;[[user_talk:victor falk|''talk'']]&lt;/font&gt;&lt;/small&gt;&lt;/sup&gt; 00:21, 22 January 2011 (UTC)
+*'''Oppose'''  [[Superior (proposed U.S. state)|Superior]] never has been, is not, and probably never will be a state.  Would support a move to [[Superior (proposed state)]].  [[User:Skinsmoke|Skinsmoke]] ([[User talk:Skinsmoke|talk]]) 13:09, 22 January 2011 (UTC)
+*'''Oppose''' - Suggested new name is inaccurate, current name is precise. [[User:Beyond My Ken|Beyond My Ken]] ([[User talk:Beyond My Ken|talk]]) 13:53, 25 January 2011 (UTC)
+:''The above discussion is preserved as an archive of a [[WP:RM|requested move]].  &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made in a new section on this talk page. No further edits should be made to this section.&lt;/div&gt;&lt;!-- Template:RM bottom --&gt;
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="5352080" title=Talk:Heart and Souls>
+	<talkpage id="5352080" title="Talk:Heart and Souls">
+{{Film|American-task-force=yes|class=Start}}
+	</talkpage>
+</article>

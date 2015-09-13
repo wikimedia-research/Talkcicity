@@ -1,0 +1,6 @@
+<article id="46253590" title=Talk:Xinnian Is Coming – Uproar of Chuxi>
+	<talkpage id="46253590" title="Talk:Xinnian Is Coming – Uproar of Chuxi">
+{{WikiProject Film|Chinese=yes|Animated=yes|Animated-importance=Low|class=Stub}}
+{{WikiProject China|class=stub|importance=low}}
+	</talkpage>
+</article>

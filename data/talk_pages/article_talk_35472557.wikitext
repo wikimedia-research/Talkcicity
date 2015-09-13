@@ -1,0 +1,6 @@
+<article id="35472557" title=Talk:Seppiko-Mineyama Prefectural Natural Park>
+	<talkpage id="35472557" title="Talk:Seppiko-Mineyama Prefectural Natural Park">
+{{WPJ|class=stub|importance=low|geography=y|pref=y}}
+{{WikiProject Protected areas|class=Stub|importance=Low}}
+	</talkpage>
+</article>

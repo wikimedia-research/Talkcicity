@@ -1,0 +1,9 @@
+<article id="25879841" title=User talk:71.137.158.120>
+	<talkpage id="25879841" title="User talk:71.137.158.120">
+
+
+== January 2010 ==
+[[File:Information.svg|25px]] Welcome and thank you for experimenting with Wikipedia. Your test on the page [[:Tiki Barber]] worked, and it has been [[Help:Reverting|reverted]] or removed. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|this encyclopedia]]. If you would like to experiment further, please use the [[Wikipedia:Sandbox|sandbox]] instead. Thank you.&lt;!-- Template:uw-test1 --&gt; [[User:Rrburke|--Rrburke]]&lt;sup&gt;&lt;small&gt;[[User talk:Rrburke|ekrubrR]]&lt;/small&gt;&lt;/sup&gt; 16:02, 20 January 2010 (UTC)
+:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
+	</talkpage>
+</article>

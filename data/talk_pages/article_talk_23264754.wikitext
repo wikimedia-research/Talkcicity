@@ -1,0 +1,16 @@
+<article id="23264754" title=Talk:Chilakapalem>
+	<talkpage id="23264754" title="Talk:Chilakapalem">
+{{talk header}}
+{{WP India
+|class=stub
+|importance=low
+|andhra=yes
+|andhra-importance=low
+|geography=yes
+|geography-importance=low
+|image-needed=yes
+|needs-infobox=yes
+|assess-date=May 2012
+}}
+	</talkpage>
+</article>

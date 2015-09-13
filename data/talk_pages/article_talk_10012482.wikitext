@@ -1,0 +1,10 @@
+<article id="10012482" title=Talk:Adam Oehlenschläger>
+	<talkpage id="10012482" title="Talk:Adam Oehlenschläger">
+{{WikiProject Biography
+|living=no
+|class=Start
+|listas=Oehlenschlager, Adam Gottlob
+}}
+{{WikiProject Denmark|class=start|importance=mid}}
+	</talkpage>
+</article>

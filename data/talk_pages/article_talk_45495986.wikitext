@@ -1,0 +1,5 @@
+<article id="45495986" title=Talk:1911 All-Western college football team>
+	<talkpage id="45495986" title="Talk:1911 All-Western college football team">
+{{WikiProject College football|class=List|importance=mid}}
+	</talkpage>
+</article>

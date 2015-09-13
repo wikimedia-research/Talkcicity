@@ -1,0 +1,5 @@
+<article id="20839969" title=Talk:Amerifax>
+	<talkpage id="20839969" title="Talk:Amerifax">
+{{WPFarm |class=stub |importance=low}}
+	</talkpage>
+</article>

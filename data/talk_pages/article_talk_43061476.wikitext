@@ -1,0 +1,8 @@
+<article id="43061476" title=Talk:Santa Maria in Monticelli, Rome>
+	<talkpage id="43061476" title="Talk:Santa Maria in Monticelli, Rome">
+{{WikiProject Catholicism|importance=low|class=stub}}
+{{WikiProject Architecture|importance=|class=stub}}
+{{WikiProject Historic sites|importance=|class=stub}}
+{{WikiProject Rome|importance=|class=stub}}
+	</talkpage>
+</article>

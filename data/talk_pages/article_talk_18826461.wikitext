@@ -1,0 +1,5 @@
+<article id="18826461" title=Talk:Houston Harte University Center>
+	<talkpage id="18826461" title="Talk:Houston Harte University Center">
+{{WikiProject United States|class=stub|importance=Low|TX=yes|TX-importance=Low}}
+	</talkpage>
+</article>

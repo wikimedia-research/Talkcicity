@@ -1,0 +1,8 @@
+<article id="31943360" title=User talk:207.237.25.225>
+	<talkpage id="31943360" title="User talk:207.237.25.225">
+
+== May 2011 ==
+
+&lt;div style=clear: both&gt;&lt;/div&gt;[[File:Information.svg|25px|alt=|link=]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of [[Special:Contributions/207.237.25.225|your recent edits]], such as the one you made to [[:Eddie House]] with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Eddie_House?diff=431849705 this edit]&lt;/span&gt;, did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you. &lt;!-- Template:Huggle/warn-1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt;&lt;small&gt;&lt;span style=&quot;border:1px solid;background:#00008B&quot;&gt;[[User:Chzz|'''&lt;span style=&quot;background:#00008B;color:white&quot;&gt;&amp;nbsp;Chzz&amp;nbsp;&lt;/span&gt;''']][[User talk:Chzz|&lt;span style=&quot;color:#00008B;background-color:yellow;&quot;&gt;&amp;nbsp;►&amp;nbsp;&lt;/span&gt;]]&lt;/span&gt;&lt;/small&gt; 16:31, 31 May 2011 (UTC)
+	</talkpage>
+</article>

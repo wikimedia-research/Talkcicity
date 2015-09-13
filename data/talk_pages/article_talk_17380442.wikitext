@@ -1,0 +1,56 @@
+<article id="17380442" title=Talk:National Technical Information Service>
+	<talkpage id="17380442" title="Talk:National Technical Information Service">
+{{WikiProject United States|class=start|importance=low|USGov=yes|USGov-importance=low}}
+==File:Fsrs logosm.jpg Nominated for speedy Deletion==
+&lt;!--TSTAMP:{{{4}}}--&gt;
+{|
+|-
+| [[File:Image-x-generic.svg|100px]] 
+| &lt;!--IMAGES--&gt;
+An image used in this article, [[:File:Fsrs logosm.jpg|File:Fsrs logosm.jpg]], has been nominated for speedy deletion for the following reason: ''All Wikipedia files with unknown copyright status'' 
+&lt;!--/IMAGES--&gt;
+;What should I do?
+''Don't panic''; you should have time to contest the deletion (although please review [[WP:CSD|deletion guidelines]] before doing so). The best way to contest this form of deletion is by posting on the image talk page.
+* If the image is [[WP:NFCC|non-free]] then you may need to provide a [[WP:FUR|fair use rationale]]
+* If the image isn't freely licensed and there is no fair use rationale, then it cannot be uploaded or used.
+* If the image has already been deleted you may want to try [[WP:DRV|Deletion Review]]
+To take part in any discussion, or to review a more detailed deletion rationale please visit the relevant [[:File:Fsrs logosm.jpg|image page (File:Fsrs logosm.jpg)]]
+
+''This is Bot placed notification, another user has nominated/tagged the image'' --[[User:CommonsNotificationBot|CommonsNotificationBot]] ([[User talk:CommonsNotificationBot|talk]]) 20:15, 1 March 2012 (UTC)
+|}
+==File:NTRL logo2.jpg Nominated for speedy Deletion==
+&lt;!--TSTAMP:{{{4}}}--&gt;
+{|
+|-
+| [[File:Image-x-generic.svg|100px]] 
+| &lt;!--IMAGES--&gt;
+An image used in this article, [[:File:NTRL logo2.jpg|File:NTRL logo2.jpg]], has been nominated for speedy deletion for the following reason: ''All Wikipedia files with unknown copyright status'' 
+&lt;!--/IMAGES--&gt;
+;What should I do?
+''Don't panic''; you should have time to contest the deletion (although please review [[WP:CSD|deletion guidelines]] before doing so). The best way to contest this form of deletion is by posting on the image talk page.
+* If the image is [[WP:NFCC|non-free]] then you may need to provide a [[WP:FUR|fair use rationale]]
+* If the image isn't freely licensed and there is no fair use rationale, then it cannot be uploaded or used.
+* If the image has already been deleted you may want to try [[WP:DRV|Deletion Review]]
+To take part in any discussion, or to review a more detailed deletion rationale please visit the relevant [[:File:NTRL logo2.jpg|image page (File:NTRL logo2.jpg)]]
+
+''This is Bot placed notification, another user has nominated/tagged the image'' --[[User:CommonsNotificationBot|CommonsNotificationBot]] ([[User talk:CommonsNotificationBot|talk]]) 20:15, 1 March 2012 (UTC)
+|}
+==File:NTISgov logo Dec2011.jpg Nominated for speedy Deletion==
+&lt;!--TSTAMP:{{{4}}}--&gt;
+{|
+|-
+| [[File:Image-x-generic.svg|100px]] 
+| &lt;!--IMAGES--&gt;
+An image used in this article, [[:File:NTISgov logo Dec2011.jpg|File:NTISgov logo Dec2011.jpg]], has been nominated for speedy deletion for the following reason: ''All Wikipedia files with unknown copyright status'' 
+&lt;!--/IMAGES--&gt;
+;What should I do?
+''Don't panic''; you should have time to contest the deletion (although please review [[WP:CSD|deletion guidelines]] before doing so). The best way to contest this form of deletion is by posting on the image talk page.
+* If the image is [[WP:NFCC|non-free]] then you may need to provide a [[WP:FUR|fair use rationale]]
+* If the image isn't freely licensed and there is no fair use rationale, then it cannot be uploaded or used.
+* If the image has already been deleted you may want to try [[WP:DRV|Deletion Review]]
+To take part in any discussion, or to review a more detailed deletion rationale please visit the relevant [[:File:NTISgov logo Dec2011.jpg|image page (File:NTISgov logo Dec2011.jpg)]]
+
+''This is Bot placed notification, another user has nominated/tagged the image'' --[[User:CommonsNotificationBot|CommonsNotificationBot]] ([[User talk:CommonsNotificationBot|talk]]) 20:16, 1 March 2012 (UTC)
+|}
+	</talkpage>
+</article>

@@ -1,0 +1,12 @@
+<article id="24747234" title=Talk:Avraham Zilberberg>
+	<talkpage id="24747234" title="Talk:Avraham Zilberberg">
+{{WikiProject Biography
+|living=no
+|class=Stub
+|listas=Zilberberg, Avraham
+|politician-work-group=yes
+|politician-priority=low
+}}
+{{WikiProject Israel|class=stub|importance=low}}
+	</talkpage>
+</article>

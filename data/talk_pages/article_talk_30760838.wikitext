@@ -1,0 +1,10 @@
+<article id="30760838" title=Talk:Elton Hotel>
+	<talkpage id="30760838" title="Talk:Elton Hotel">
+{{WikiProjectBannerShell|1=
+{{WikiProject Architecture|class=c}}
+{{WikiProject Connecticut|importance=Low|class=c}}
+{{WikiProject National Register of Historic Places|class=c|importance=low}}
+}}
+{{dyktalk|13 February|2011|entry=... that [[John F. Kennedy]]'s early-morning speech from the balcony of the '''[[Elton Hotel]]''' in [[Waterbury, Connecticut]], was credited with helping him win the state in [[United States presidential election, 1960|1960]]?}}
+	</talkpage>
+</article>

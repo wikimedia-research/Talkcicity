@@ -1,0 +1,6 @@
+<article id="27773098" title=Talk:1994 NECBL All-Star Game>
+	<talkpage id="27773098" title="Talk:1994 NECBL All-Star Game">
+{{talkheader}}
+{{WikiProject Baseball|college=yes|class=Start|importance=low}}
+	</talkpage>
+</article>

@@ -1,0 +1,10 @@
+<article id="20989396" title=Talk:List of number-one R&B/hip-hop songs of 2009 (U.S.)>
+	<talkpage id="20989396" title="Talk:List of number-one R&B/hip-hop songs of 2009 (U.S.)">
+{{talk header}}
+{{WikiProjectBannerShell|1=
+{{WikiProject R&amp;B and Soul Music|class=list|importance=low}}
+{{WikiProject Songs|class=list}}
+{{WikiProject Record Charts|class=list|importance=low}}
+}}
+	</talkpage>
+</article>

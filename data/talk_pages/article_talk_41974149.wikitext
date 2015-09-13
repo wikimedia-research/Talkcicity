@@ -1,0 +1,15 @@
+<article id="41974149" title=User talk:Fernando Saenz-Perez>
+	<talkpage id="41974149" title="User talk:Fernando Saenz-Perez">
+
+== Welcome! ==
+
+Hello, Fernando Saenz-Perez, and welcome to Wikipedia! Thank you for [[Special:Contributions/Fernando Saenz-Perez|your contributions]]. I hope you like the place and decide to stay. Here are a few links to pages you might find helpful:
+* [[Help:Getting started|Getting started]]
+* [[Wikipedia:Introduction|Introduction to Wikipedia]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Help:Editing|How to edit a page]] and [[Wikipedia:Article development|How to develop articles]]
+* [[Wikipedia:Your first article|How to create your first article]] 
+* [[Wikipedia:Simplified Manual of Style|Simplified Manual of Style]]
+Please remember to [[Wikipedia:Signatures|sign]] your messages on [[Help:Using talk pages|talk page]]s by typing four [[tilde]]s (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically insert your username and the date. If you need help, check out [[Wikipedia:Questions]], ask me on [[user talk:Ysangkok|my talk page]], or ask your question on this page and then place '''{{Tlc|Help me}}''' before the question. Again, welcome! &lt;!-- Template:Welcome --&gt; [[User:Ysangkok|Ysangkok]] ([[User talk:Ysangkok|talk]]) 02:09, 18 February 2014 (UTC)
+	</talkpage>
+</article>

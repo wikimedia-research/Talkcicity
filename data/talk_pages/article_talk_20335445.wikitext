@@ -1,0 +1,12 @@
+<article id="20335445" title=Talk:Guide (disambiguation)>
+	<talkpage id="20335445" title="Talk:Guide (disambiguation)">
+{{merged-from|The Guide (disambiguation)|December 19, 2011}}
+{{DisambigProject}}
+
+== Hitchhiker's Guide ==
+
+I deleted Hitchhiker's Guide, since I've never heard anyone call it just &quot;Guide&quot; or &quot;The Guide&quot;. If someone can document that it is, feel free to put it back.
+
+[[Special:Contributions/69.7.41.230|69.7.41.230]] ([[User talk:69.7.41.230|talk]]) 19:16, 23 June 2009 (UTC)
+	</talkpage>
+</article>

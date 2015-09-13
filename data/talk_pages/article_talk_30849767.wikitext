@@ -1,0 +1,5 @@
+<article id="30849767" title=Talk:Antragsdelikt>
+	<talkpage id="30849767" title="Talk:Antragsdelikt">
+{{WikiProject Law|class=C|importance=Low}}
+	</talkpage>
+</article>

@@ -1,0 +1,541 @@
+<article id="18253038" title=User talk:Wikipedian2>
+	<talkpage id="18253038" title="User talk:Wikipedian2">
+Thanks for looking at my talk page - feel free to comment and i'll reply on this page, I am so busy editing that I probably won't be able to reply immedietly!
+
+== Your RfA ==
+
+I saw it, and it's pretty unformatted. I hope you meant a second nomination for yourself, instead of [[User:Wikipedian2 2]].[[User:Jasper Deng|Jasper Deng]] [[User talk:Jasper Deng|(talk)]] 04:06, 3 April 2011 (UTC)
+:Reply on your own talk page please. I'm sorry, but I don't think you're ready yet, given your daily activity here. See [[WP:NOTNOW]].[[User:Jasper Deng|Jasper Deng]] [[User talk:Jasper Deng|(talk)]] 04:11, 3 April 2011 (UTC)
+:OK, thank-you for considering anyway. [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 04:12, 3 April 2011 (UTC)
+:::I did notice your Rfa as well and began some preliminary checks that will occur, and I respect your ambition, but honesty fell I should alert you to the [[WP:NOTNOW|policy regarding early attempts]] which are not quite ready to be compared to expected criteria. Again, I respect ambition, but an administrator is expected to be well in tune with policy and consensus. The simple act of moving forward without full preparation and credential, will be a negative consideration, and there is not enough motivation and ambition to overcome that fact. Please consider this and believe me I am trying to tell you a thing you can almost expect, if you do go forward. Even the malformed RfA, will be used to demonstrate that now is not the right time for you to attempt this thing. IMHO. [[User:My76Strat|My76Strat]] ([[User talk:My76Strat|talk]]) 04:23, 3 April 2011 (UTC)
+::::Thank-you for your criticism, which I will obviously fully take on board. The good news is I found what I was supposed to edit, and my RfA is no longer the mess it was in before. [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 04:37, 3 April 2011 (UTC)
+
+== Your recent RfA ==
+
+I am sorry, but I have closed [[Wikipedia:Requests for adminship/Wikipedian2 2|your Request for adminship]] prematurely. Simply put, you only have 441 edits on Wikipedia; while your edit count isn't the only determining factor, and numerous people have their own personal standards by which they judge RfA candidates, [[WP:NOTNOW|this particular RfA was all but assured of not passing]].
+
+I am sorry about this, and I hope you don't take it personally. If you continue to contribute to the project in a positive fashion, I am confident that you would be able to submit a successful RfA in the future. You may wish to consider applying for [[Wikipedia:Editor review|an evaluation by other Wikipedia editors]] for feedback on how to obtain the necessary experience. Once you are ready to request adminship again, there is a great [[Wikipedia:Admin coaching|admin coaching]] program available, as well as a [[Wikipedia:Guide to requests for adminship|guide to requests for adminship]].
+
+If you have any other questions about becoming an administrator, please don't hesitate to ask me. Good luck! '''[[User:Eagles247|&lt;font face=&quot;Verdana&quot; color=&quot;003B48&quot; size=&quot;2px&quot;&gt;Eagles&lt;/font&gt;]]''' '''[[User talk:Eagles247|&lt;font face=&quot;Verdana&quot; color=&quot;003B48&quot; size=&quot;2px&quot;&gt;24/7&lt;/font&gt;]]''' [[Special:Contributions/Eagles247|&lt;font color=&quot;003B48&quot; size=&quot;1px&quot;&gt;(C)&lt;/font&gt;]] 05:11, 3 April 2011 (UTC)
+:I just realised I hadn't replied to you yet! Thank-you for the advice, I appreciate your positive fashion to (what I now understand to be) such a doomed RfA. Have a good day. Regards, [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 16:36, 9 April 2011 (UTC)
+::It's good that you understand that! Maybe in six months or so.... [[User:Reaper Eternal|Reaper Eternal]] ([[User talk:Reaper Eternal|talk]]) 23:10, 9 April 2011 (UTC)
+
+== Çan Meslek Yüksekokulu ==
+
+Hello. I noticed that you tagged this for speedy deletion per db-notenglish. Please note that speedy deletion of non-English articles is only for such pages that have an equivalent on a foreign-language Wíkipedia, not for completely new entries. That is also why a speedy deletion request must have the corresponding interwiki article listed. If you find a page that's not been written in English and can't be sure that there's a similar article on another language Wikipedia, please tag it with &lt;nowiki&gt;{{Not English|&lt;language&gt;}}&lt;/nowiki&gt; and list it at [[WP:PNT]]. If the page then has still not been translated after two weeks it will be proposed for deletion anyway. Regards, [[User:De728631|De728631]] ([[User talk:De728631|talk]]) 15:26, 3 April 2011 (UTC)
+: Hello, thank-you for your advice on Çan Meslek Yüksekokulu - I will ensure that I apply this in future anti-vandalism activity. [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 15:34, 3 April 2011 (UTC)
+::Please note that not all articles that are contributed in a foreign language are vandalism.  You should almost always [[WP:AGF|assume good faith]] with those contributors, as they may not realize that Wikipedia is English-only and/or that there are other language Wikipedia projects. [[User:Logan|Logan]] &lt;sub&gt;[[User_talk:Logan|Talk]]&lt;/sub&gt; &lt;sup&gt;[[Special:Contributions/Logan|Contributions]]&lt;/sup&gt; 20:03, 3 April 2011 (UTC)
+
+:I will make sure to do this in the future. Thank-you for the advice. [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 09:44, 5 April 2011 (UTC)
+
+== Reviewer granted ==
+
+[[File:Wikipedia Reviewer.svg|right|130px]]
+Hello. Your account has been granted the &quot;&lt;tt&gt;reviewer&lt;tt&gt;&quot; userright, allowing you to [[WP:RVW|review other users' edits]] on certain flagged pages. [[WP:PC|Pending changes]], also known as flagged revisions, underwent a [[WP:PC|two-month trial]] which ended on 15 August 2010. Its continued use is still [[Wikipedia:Pending changes/Request for Comment February 2011|being discussed by the community]], you are free to participate in such discussions. Many articles still have pending changes protection applied, however, and the ability to review pending changes continues to be of use.
+
+Reviewers can review edits made by users who are not [[WP:autoconfirmed|autoconfirmed]] to articles placed under level 1 pending changes and edits made by non-reviewers to level 2 pending changes protected articles (usually high traffic articles). Pending changes was applied to only [[Special:StablePages|a small number of articles]], similarly to how semi-protection is applied but in a more controlled way for the trial. The list of articles with pending changes awaiting review is located at [[Special:OldReviewedPages]].
+
+For the guideline on reviewing, see [[Wikipedia:Reviewing]]. Being granted reviewer rights doesn't grant you status nor change how you can edit articles even with pending changes. The general help page on pending changes can be found [[Help:Pending changes|here]], and the general policy for the trial can be found [[Wikipedia:Pending changes|here]].
+
+If you do not want this user right, you may ask any administrator to remove it for you at any time.&lt;!-- Template:Reviewer granted --&gt; [[User:Dabomb87|Dabomb87]] ([[User talk:Dabomb87|talk]]) 21:43, 4 April 2011 (UTC)
+
+:Thank-you for the priviledge. [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 09:43, 5 April 2011 (UTC)
+
+::Do not keep reverting updates even before they've been finished.  It's impolite and bad form.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/86.166.65.102|86.166.65.102]] ([[User talk:86.166.65.102|talk]]) 21:01, 5 April 2011 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:I'm sorry if you believe this, but I am not the only one to be under the impression that you are harming Wikipedia, especially as [[User:Hamtechperson]] has given you a final warning for your edits on the same aritcle [http://en.wikipedia.org/wiki/Big_Brother_(UK)]. Also in future, can I please ask you to start a new section on my talk page. Thank-you. [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 21:08, 5 April 2011 (UTC)
+
+== Salut! ==
+
+ &lt;div style=&quot;border-style:solid; border-color:#000000; background-color:#aa9944; border-width:1px; text-align:left; padding:8px;&quot; class=&quot;plainlinks&quot;&gt;[[Image:Pint of Grolsch.jpg|60px|left]]
+
+&lt;font face=&quot;Times new Roman&quot;&gt;[[User:Some jerk on the Internet|&lt;font color=&quot;green&quot;&gt;--some jerk on the Internet&lt;/font&gt;]]  [[User talk:Some jerk on the Internet|&lt;font color=&quot;green&quot;&gt;(talk)&lt;/font&gt;]] &lt;/font&gt; has bought you a pint!  Sharing a pint is a great way to bond with other editors after a day of hard work.  Spread the [[Wikipedia:WikiLove|WikiLove]] by buying someone else a pint, whether it be someone with whom you have collaborated or had disagreements.  Cheers!
+
+
+ 
+Spread the good cheer and camaraderie by adding {{tls|WikiPint}} to their talk page with a friendly message. &lt;small&gt;Message received at 00:47, 6 April 2011 (UTC)&lt;/small&gt;&lt;/div&gt;&lt;!-- Template:WikiPint --&gt;
+Good work out there on the recent changes.  Keep it up! &lt;font face=&quot;Times new Roman&quot;&gt;[[User:Some jerk on the Internet|&lt;font color=&quot;green&quot;&gt;--some jerk on the Internet&lt;/font&gt;]]  [[User talk:Some jerk on the Internet|&lt;font color=&quot;green&quot;&gt;(talk)&lt;/font&gt;]] &lt;/font&gt; 00:47, 6 April 2011 (UTC)
+
+== Misuse of reviewing/warning ==
+
+Since you've failed to respond; nothing I've done justified this - [http://en.wikipedia.org/w/index.php?title=User_talk:213.246.114.81&amp;oldid=422662165] [[Special:Contributions/213.246.114.81|213.246.114.81]] ([[User talk:213.246.114.81|talk]]) 09:31, 6 April 2011 (UTC)
+: I have now responded on your talk page. [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 10:50, 6 April 2011 (UTC)
+
+== Vandalism warning ==
+
+I know its this gadget of yours which cries vandal every time somebody removed something from some article. Please be assured, that a Member of the July 20 plot is still a Member of the German Resistance. So there is no need for any warnings ... --[[User:Erich Mayer|Erich Mayer]] ([[User talk:Erich Mayer|talk]]) 17:16, 6 April 2011 (UTC)
+:I apologise if my reversion has been inaccurate. Please add sources to the content to prove your edits are accurate, and I will remove my warning. Thank-you, [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 17:23, 6 April 2011 (UTC)
+::As I said, its redundant to have anybody in the category for German Resistance who is already in the category for members of the July 20 plot. As the latter is sourced in the article there is no need to provide any further information for removing the former. Yours --17:26, 6 April 2011 (UTC)  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Erich Mayer|Erich Mayer]] ([[User talk:Erich Mayer|talk]] • [[Special:Contributions/Erich Mayer|contribs]]) &lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+:You removed a valid category from the page. Instead it would be possible to add another valid category underneath or above others. [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 17:30, 6 April 2011 (UTC)
+Sorry for recent change to walker motifs. I was trying to clarify something that seemed to me vague, but I recognize I probably got the author's intentions wrong.[[User:Slothropslothrop|slothropslothrop]] ([[User talk:Slothropslothrop|talk]]) 18:01, 13 April 2011 (UTC)
+
+Don't worry, everybody makes mistakes. Have a good day. [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 00:05, 14 April 2011 (UTC)
+
+== Account Creation Interface Request ==
+
+I have input a re-request to join the 'Account Creation Interface'. [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 22:59, 6 April 2011 (UTC)
+
+
+== Intergen Edit ==
+
+I did post an edit summary, please read it- let me know what I need to do if that does not work.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/216.16.131.50|216.16.131.50]] ([[User talk:216.16.131.50|talk]]) 16:13, 8 April 2011 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:Just because content is uncited does not give a user permission to remove it. The content was given the citation-needed template, and no more action was required due to the content not being vandalism. I will rollback your last edit to bring back the content. If you decide to undo my actions, I will be forced to continue with the warnings until you reach the point where I will be forced to report you for vandalism to administrators. If you disagree with me, then please feel free to take the routes outlined in [[Wikipedia:Dispute_resolution]], or please read [[Wikipedia_talk:Guide_to_administrator_intervention_against_vandalism]] if you believe my actions constitute vandalism. [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 17:23, 8 April 2011 (UTC)
+
+== [[John Gioia]] ==
+
+The notice said that I could remove it if I made the necessary changed and explained why in the edit summary, which I did.[[Special:Contributions/71.142.74.66|71.142.74.66]] ([[User talk:71.142.74.66|talk]]) 21:42, 8 April 2011 (UTC)
+:I see the revisions now, sorry about that.[[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 21:49, 8 April 2011 (UTC)
+
+==CSD tagging==
+Hi, Wikipedian2. Thanks for the patrolling possible vandal edits. I just wanted to remind you to check an article's history before tagging for speedy deletion. As in the case of [[Swagger]], the article was a vandalized disambiguation page -- so I reverted it. Also, even in its vandalized form, it wasn't gibberish and therefore didn't qualify for [[WP:G1]]. You may wish to review our [[WP:CD|speedy deletion criteria]] when tagging. Cheers. &lt;span style=&quot;font-family: tahoma;&quot;&gt; — [[User:CactusWriter|&lt;span style=&quot;color:#008000&quot;&gt;Cactus&lt;/span&gt;&lt;span style=&quot;color:#CC5500&quot;&gt;Writer &lt;/span&gt;]]&lt;sup&gt;[[User talk:CactusWriter|(talk)]]&lt;/sup&gt;&lt;/span&gt; 01:25, 9 April 2011 (UTC)
+:Thank-you for your advice. [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 15:04, 9 April 2011 (UTC)
+
+== Thanks ==
+
+...for removing vandalism from my talk. Cheers, &lt;small&gt;&lt;span style=&quot;border:1px solid;background:#00008B&quot;&gt;[[User:Chzz|'''&lt;span style=&quot;background:#00008B;color:white&quot;&gt;&amp;nbsp;Chzz&amp;nbsp;&lt;/span&gt;''']][[User talk:Chzz|&lt;span style=&quot;color:#00008B;background-color:yellow;&quot;&gt;&amp;nbsp;►&amp;nbsp;&lt;/span&gt;]]&lt;/span&gt;&lt;/small&gt; 20:40, 9 April 2011 (UTC)
+:My pleasure. Have a good day, [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 23:06, 9 April 2011 (UTC)
+
+==[[Vega space]]==
+Hi. I removed the speedy delete tag as there is a clear assertion of importance (working on ESA missions).  I have no opinion on the strength of the article. It can be taken to AfD if you feel notability is insufficient. Cheers. [[User:Taroaldo|Taroaldo]] ([[User talk:Taroaldo|talk]]) 22:53, 9 April 2011 (UTC)
+:I will assume you are correct, and learn from this mistake. Thank-you, [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 23:01, 9 April 2011 (UTC)
+
+== Altered speedy deletion rationale: [[:User:KAIndofsortof]] ==
+Hello Wikipedian2. I am just letting you know that I deleted [[:User:KAIndofsortof]], a page you tagged for speedy deletion, under a different criterion from the one you provided, which doesn't fit the page in question. Thank you.  &lt;span style=&quot;text-shadow:grey 0.118em 0.118em 0.118em; class=texhtml&quot;&gt;  '''[[User:Salvio giuliano|Salvio]]'''&lt;/span&gt; [[User talk:Salvio giuliano| &lt;sup&gt;Let's talk about it!&lt;/sup&gt;]] 22:56, 9 April 2011 (UTC)
+:This is just a procedural note, really, but criterion [[WP:CSD#A7|A7]] —— as all &quot;A&quot; criteria — only applies to article namespace, so it cannot be used to request the speedy deletion of a userpage or of a subpage; criterion [[WP:CSD#G11|G11]] —— as all &quot;G&quot; criteria — apply to all namespaces. &lt;span style=&quot;text-shadow:grey 0.118em 0.118em 0.118em; class=texhtml&quot;&gt;  '''[[User:Salvio giuliano|Salvio]]'''&lt;/span&gt; [[User talk:Salvio giuliano| &lt;sup&gt;Let's talk about it!&lt;/sup&gt;]] 23:00, 9 April 2011 (UTC)
+Thank-you for advising me further of the criterion on speedy deletion. I am still learning when it comes to new pages and all feedback is appreciated highly. Thank-you, [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 23:03, 9 April 2011 (UTC)
+==Talkback==
+{{talkback|WT:EF|ts=23:10, 9 April 2011 (UTC)}}
+I have no idea how this works, but the page on me is rife with errors and is clearly intended to destroy my reputation and everytime I change it it gets changed back. Please help me fix this!!! John Ziegler (talk host)  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/76.172.33.34|76.172.33.34]] ([[User talk:76.172.33.34|talk]]) 06:27, 18 April 2011 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== jOHN gIOIA ==
+
+Please don't delete this article on [[John Gioia]] please do a basic google search to see how notable he is. In any case no more prods, take it to AfD, a place I know it will survive but I don't want to have to be looking over my shoulder, make sense? LA Times, SF Chronicle, SJ Mercury. Contra Costa Times. Richmond Confidential. El Cerrito Patch. West County Times. KTVU News. Sites dedicated to opposing him. Sites that praise him. His political profile. Major, Regional, Local and many other sources are available. He is notable.[[Special:Contributions/71.142.74.66|71.142.74.66]] ([[User talk:71.142.74.66|talk]]) 06:31, 10 April 2011 (UTC)
+:As now you have added to the article, I no longer feel the need for it to be deleted. Regards, [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 16:33, 10 April 2011 (UTC) PS. Keep up the good work, its looking good!
+
+== speedy deletion of [[Wikipedia talk:Articles for creation/Bosco Lowe]] declined ==
+
+Poor writing and poor formatting do not make a page patent nonsense. In order to be deleted by this [[WP:CSD|criterion]] the text of the article must be completely incoherent to the point where it has no meaning whatsoever. [[User:Beeblebrox|Beeblebrox]] ([[User talk:Beeblebrox|talk]]) 22:22, 13 April 2011 (UTC)
+:OK, thank-you for informing me. I will take that on board. Regards, [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 22:23, 13 April 2011 (UTC)
+
+== [[Wikipedia:Good article reassessment/Glenn &amp; Viola Walters Cultural Arts Center/1]] ==
+
+I have nominated this article for re-assessment against the GA criteria as I feel that your review was superficial, lacked any useful detail on ways in which the article could be brought to meet the GA criteria, and was to put it mildly, unhelpful. You are invited to comment at the re-assessment page. I recommend that you read [[Wikipedia:Reviewing good articles]], especially the section '''Assessing the article and providing a review'''. [[User:Jezhotwells|Jezhotwells]] ([[User talk:Jezhotwells|talk]]) 22:35, 13 April 2011 (UTC)
+:Hello, I am new at GANs and appreciate your feedback as I'm still very much learning. Thank-you, [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 22:38, 13 April 2011 (UTC)
+
+== [[Red Hair]] ==
+
+Hi.  I'm puzzled by your revert [http://en.wikipedia.org/w/index.php?title=Red_hair&amp;diff=next&amp;oldid=423910385 here].  How is it vandalism?  Am I missing something?   Thanks. --&lt;font color=&quot;purple&quot;&gt;[[User:Escape_Orbit|Escape Orbit]]&lt;/font&gt; &lt;sup&gt;[[User_talk:Escape_Orbit|(Talk)]]&lt;/sup&gt; 00:17, 14 April 2011 (UTC)
+:Sorry, after re-reading the revision, I understand there was no vandalism present. Thank-you for highlighting the issue. [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 00:21, 14 April 2011 (UTC)
+
+== [[Mike Anderson]] ==
+
+Mike Anderson
+
+Please read through some of the revisions you've been making/undoing. I'm going to add more sources shortly, but you're undoing changes that corrected statistical errors, obvious vandalism, and unsourced attacks on the subject of the page.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Tag01|Tag01]] ([[User talk:Tag01|talk]] • [[Special:Contributions/Tag01|contribs]]) 16:14, 14 April 2011 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+:I'm not sure why I rolled-back your revisions, please accept my fullest apologies. I have now corrected my error. Regards, [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 16:24, 14 April 2011 (UTC)
+
+== Question ==
+
+May I ask where the author requested deltion on [[Shawnimals]]. &lt;font face=&quot;Comic Sans MS&quot;&gt;[[User:Baseball Watcher|&lt;span style=&quot;color:red;&quot;&gt;'''Baseball'''&lt;/span&gt;]][[User talk:Baseball Watcher|&lt;span style=&quot;color:blue;&quot;&gt;''' Watcher'''&lt;/span&gt;]]&lt;/font&gt; 21:49, 14 April 2011 (UTC)
+:The CSD tag reason was incorrect, Reaper Eternal has now added a better reason. Thanks for your time, [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 21:52, 14 April 2011 (UTC)
+::Well just make sure you get the tag right. Cheers &lt;font face=&quot;Comic Sans MS&quot;&gt;[[User:Baseball Watcher|&lt;span style=&quot;color:red;&quot;&gt;'''Baseball'''&lt;/span&gt;]][[User talk:Baseball Watcher|&lt;span style=&quot;color:blue;&quot;&gt;''' Watcher'''&lt;/span&gt;]]&lt;/font&gt; 21:54, 14 April 2011 (UTC)
+:Will do, everybody makes mistakes sometimes! Regards, [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 21:57, 14 April 2011 (UTC)
+
+== Manowar (Spellcaster) ==
+
+I'm not &quot;attacking&quot; anything or anyone, just tried to remove obvious fake article (For ex: It says in the article: &quot;Voimis on vocals&quot;. Voimis is an admin at ManowarFinland.com and has nothing to do with any vocals, for crying out loud!) 
+
+Sorry I don't speak engish very much and didn't read the rules, as I see you have your own system to delete pages. I won't touch the page anymore. But in my opinion the system isn't working very well if these kinds of 100% obvious nonsense articles stay many hours here, but the comments are removed instantly. Right?  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/91.153.113.163|91.153.113.163]] ([[User talk:91.153.113.163|talk]]) 23:36, 14 April 2011 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:Hello, thank-you for your concern. As you have highlighted - there are problems with the article in question. Due to this, it is being considered by a voting system at http://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Spellcaster_(Manowar_album) for deletion, where anybody who is registered can vote to reach a consensus as to whether an article should be deleted or not. If the community finds that the article is in violation of Wikipedia's policies, an Administrator will remove it. I hope this helps, [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 23:42, 14 April 2011 (UTC)
+::Wikipedian2, I'd like to thank you for reverting the edit to my talk page, but 91.153.113.163 is right in that your edit should not have been marked as reverting a personal attack. Also, [[WP:Voting is evil|voting is evil]], so [[WP:AfD]] is a discussion process aiming to reach [[WP:CON|consensus]]. Thanks, though, and good luck. &lt;span style=&quot;white-space:nowrap&quot;&gt;[[User:Guoguo12|&lt;font color=&quot;green&quot;&gt;Guoguo12&lt;/font&gt;]][[User talk:Guoguo12|&lt;font color=&quot;blue&quot; size=&quot;1&quot;&gt;'''''--Talk--'''''&lt;/font&gt;&amp;nbsp;]]&lt;/span&gt; 20:03, 15 April 2011 (UTC)
+:::Oh, also, if you do stumble upon an edit like the one you did, it would be best to simply advise the user to show some [[WP:CIVIL|civility]]. Wikipedian users do use some poor language choices when things [[User_talk:Pedro/Archive_40#Re:RfA|get heated up]], and, well, that's just how it is sometimes. &lt;span style=&quot;white-space:nowrap&quot;&gt;[[User:Guoguo12|&lt;font color=&quot;green&quot;&gt;Guoguo12&lt;/font&gt;]][[User talk:Guoguo12|&lt;font color=&quot;blue&quot; size=&quot;1&quot;&gt;'''''--Talk--'''''&lt;/font&gt;&amp;nbsp;]]&lt;/span&gt; 20:07, 15 April 2011 (UTC)
+
+== Thank you! ==
+
+For your kind comment on [[History of the horse in Britain]]'s GA review :o)  It's only my second-ever article - and I had a nearly-five-years WikiBreak between this and my first one, so I am absolutely delighted. [[User:ThatPeskyCommoner| &lt;span style=&quot;color:#003300; font-family: cursive;&quot;&gt;'''Pesky'''&lt;/span&gt;]] ([[User talk:ThatPeskyCommoner|&lt;span style=&quot;color:#336600;&quot;&gt;talk&lt;/span&gt;]]) 09:05, 15 April 2011 (UTC)
+:Well even at first glance it was obvious you had worked hard to meet the criterion. Carry on the good work.[[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 15:26, 15 April 2011 (UTC)
+::I thoroughly enjoyed doing that article; now I have to decide what my next one will be! [[User:ThatPeskyCommoner| &lt;span style=&quot;color:#003300; font-family: cursive;&quot;&gt;'''Pesky'''&lt;/span&gt;]] ([[User talk:ThatPeskyCommoner|&lt;span style=&quot;color:#336600;&quot;&gt;talk&lt;/span&gt;]]) 08:53, 17 April 2011 (UTC)
+
+== Timothy Everest/GA1 ==
+
+
+Thank you for taking the time to [[Talk:Timothy Everest/GA1|review]] [[Timothy Everest]] for [[WP:GA]]. I would like to discuss a couple of points arising from it. I appreciate it is highly unlikely that I will be able to persuade you of the article's [[WP:NPOV|neutrality]]. Nevertheless, I would point out that it is a fair reflection of the sources. I assure you that had I discovered any reliable sources stating anything negative about Everest, it would have been included (if notable). I refer you to [[WP:V]] “The threshold for inclusion in Wikipedia is verifiability, not truth: whether readers can check that material in Wikipedia has already been [[WP:SOURCES|published by a reliable source]], not whether editors think it is true.“&lt;br&gt;Re: Stability – you note: “The article has been recently recommended for deletion by an editor.” and you failed the article on this criteria. The “Stable” criterium is: “it does not change significantly from day to day because of an ongoing edit war or content dispute”. Two drive-by tags added by an IP do not constitute an edit war. Please re-assess this section.&lt;br&gt;Re: Overall Assessment – you note: “as it has been recently recommended for deletion under [[WP:PEACOCK]], I cannot say the article is very stable.” The 'editor' was an IP who did not recommended for deletion under WP:PEACOCK, but under [[WP:NOTABILITY]]. As was noted on the TalkPage, the “list of references and independent sources at the bottom of the article establishes the subject's notability beyond the shadow of a doubt.” Please amend your review to reflect this. Many thanks, [[User:Daicaregos|Daicaregos]] ([[User talk:Daicaregos|talk]]) 18:38, 15 April 2011 (UTC)
+
+== Your RfA ==
+
+Hi Wikipedian2. I have closed your RfA to prevent a pile-on. Running 12 days after a previous run is generally not a good idea. Please consider asking an experienced editor for advice before you try another run; they will be able to help figure out whether or not it's a good time for you to run. If you have any questions, please feel free to contact me on my talk page. Best, [[User:28bytes|28bytes]] ([[User talk:28bytes|talk]]) 19:56, 15 April 2011 (UTC)
+
+== A cupcake for you! ==
+
+
+{| cellspacing=&quot;8&quot; cellpadding=&quot;0&quot; style=&quot;border: 2px solid #f5b184; background-color: #fcf6e3;&quot;
+|style=&quot;padding: 0.5em; vertical-align: middle;&quot;|{{#if:Choco-Nut_Bake_with_Meringue_Top_cropped.jpg|[[File:Choco-Nut_Bake_with_Meringue_Top_cropped.jpg|120px]]}}
+|style=&quot;padding: 0.5em 0.5em 0.5em 0.1em; vertical-align: middle;&quot;|&lt;div style=&quot;font-size: 109%; margin-bottom: 1em;&quot;&gt;[[User:Armbrust|Armbrust]] has given you a cupcake! {{ucfirst:cupcakes}} promote [[Wikipedia:WikiLove|WikiLove]] and hopefully this one has made your day better.  Spread the WikiLove by giving someone else a cupcake, whether it be someone you have had disagreements with in the past or a good friend. &lt;span style=&quot;color:black&quot;&gt;&lt;sup&gt;[[User:Kaldari/wikilove|&amp;dagger;]]&lt;/sup&gt;&lt;/span&gt;&lt;/div&gt;
+|}
+
+== GAN reviews ==
+
+Hi, with regards to your reviews, I am pleased that you are using a template to help you with the reviews, but you do need to examine each point. 
+*[[Talk:History of the horse in Britain/GA1]] A one line review, eight minutes, that failed to address any of the [[WP:WIAGA|criteria]]
+*[[Talk:Timothy Everest/GA1]]. Nine minute review and instant failure. You used a template, but failed to check any but one criterion.  That one you got wrong.  The notability tag was placed by an IP and subsequent discussion on the talk page determined its removal. You could have put the article on hold to allow discussion with the nominator. I renominated this article with the original ttimestamp so that another reviewer can undertake a full review.
+*[[Talk:Legacy of Leonid Brezhnev/GA2]] You used the template and passed it in 18 minutes despite expressing concern about neutrality.
+I really don't think that you have grasped reviewing and am asking you to seek a mentor at [[Wikipedia:Good article nominations/Mentors]] before undertaking any more reviews. Please read and understand [[Wikipedia:Reviewing good articles]]. You also need to need to fully understand the policies and guidelines governing each criterion. We all make mistakes, but I am afraid that yours are far too frequent. Thank you. [[User:Jezhotwells|Jezhotwells]] ([[User talk:Jezhotwells|talk]]) 12:50, 17 April 2011 (UTC)
+:I'm sorry for these very serious mistakes, I will be keeping away from this area in future as its seen I'm not cut out for it. Thank-you for your time. [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 19:52, 19 April 2011 (UTC)
+
+== Systematic Removal of Links to One Site ==
+
+I found that you help answer user questions/concerns and was wondering if you could help.  I see that a Wikipedia user, has set out to sytematically remove Wikipedia's links to our site.  He/She has created a [http://en.wikipedia.org/wiki/User:The_Anome/wisegeek_links working list].
+
+We started our site in 2003.  Since then, an extremely diverse set of Wikipedia contributors (who are unaffiliated with our site) used our articles as a source for hundreds of Wikipedia articles.   We're huge fans of Wikipedia and we think it's an immensely valuable resource.  In fact, we were (and are) very happy to have been able to help (in our own very small way) to Wikipedia's continual rise.  As you can imagine, it is distressing to have the attributions removed.
+
+I know that most Wikipedians work for the greater good, but I question whether that's the driving force in this instance.  It seems suboptimal for one Wikipedian to systematically go through and undo the work of hundreds of Wikipedia editors.
+
+I would really appreciate some advice about how to proceed.  Thank you.
+
+[[User:Vrsti|Vrsti]] ([[User talk:Vrsti|talk]]) 20:47, 17 April 2011 (UTC)
+:&lt;small&gt;This user has a conflict of interest and should refrain from editing Wikipedia.&lt;/small&gt;[[User:Jasper Deng|Jasper Deng]] [[User talk:Jasper Deng|(talk)]] 04:57, 18 April 2011 (UTC)
+
+::Just to be clear, I haven't made any edits and I'm not proposing to do so.  I'm just wondering if this is sanctioned behavior -- isn't it concerning that someone's singling out a particular site and removing hundreds of naturally-given citations?  Wouldn't the community want to know about this?[[User:Vrsti|Vrsti]] ([[User talk:Vrsti|talk]]) 05:41, 18 April 2011 (UTC)
+:Hello Vrsti, I'm sorry to hear you are not happy with one of the editor's actions. The way you can take this forward is by reporting it to the Administrator's noticeboard for incidents. There - people will comment and may ask questions, after which a decision will be met on what to do next. People have already given you excellent advice on what to next on your talk page (http://en.wikipedia.org/wiki/User_talk:Vrsti), but feel free to ask any more questions. Thanks, Rob [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 20:34, 19 April 2011 (UTC)
+
+== Moving  Nathaniel Currie into the mainspace ==
+
+re creating Nathaniel_Currie_(Ontario_politician) for me.
+Thanks very much for move Wikipedian2. I was aware that I could simply create the article myself and I guess that would have been the best way to do it, if I'd known about the backlog at the time. That said, these were my thoughts when I did it that way:
+* I wanted some feedback on the (Ontario Politician) suffix for future disamb purposes. Does this conform to Wikipedia standards? If I create the article myself, is there a way to get comments on this?
+* I was hoping to find out how to get a review, without getting into peer review, which this article is not ready for. I'm still fairly new to the Wiki process and am more interested in a good article than anything else.
+Thanks again for the effort.
+[[User:CJ3370|CJ_WeißSchäfer ]] ([[User talk:CJ3370|talk]]) 12:26, 18 April 2011 (UTC)
+
+:Hi CJ3370, Thank-you for your time in creating a new article, this is appreciated. Due to the backlog (which you have already identified) - full feedback and review on [[WP:AFC]] was probably slightly optimistic. Though I am more than willing to answer your questions; the suffix appears to me to meet the purposes of disambiguation, and is actually encouraged in biographical articles where there may be people of a similar name. I personally would of excluded the &quot;Ontario&quot; part as it seemed unnecessary, but causes no harm. 
+I see no reason why you cannot ask for peer review, but if you are uncomfortable with your article being peer reviewed, you could look at who are the regular reviewers, and politely ask one of them on their talk-page. I would help you, but I don't feel qualified enough to give a detailed review. 
+Feel free to ask any other questions.
+Regards,
+Rob [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 20:28, 19 April 2011 (UTC)
+
+== That RfA reform thing ==
+
+Kudpung has asked me to 'nudge' some people .. as I'm an idle get, I'm just going through the entire Task Force list so my apologies if you didn't need a nudge!  You can slap me about over on [[WP:EfD]] if you like :o) 
+Straw polling various options: [[Wikipedia_talk:RfA_reform_2011#Straw_poll_.28straighforward_.21voting.2C_with_comments_in_the_discussion_section_below_it.29_on_presenting_reforms|over here]] - please add views, agree with views, all that usual stuff. [[User:ThatPeskyCommoner| &lt;span style=&quot;color:#003300; font-family: cursive;&quot;&gt;'''Pesky'''&lt;/span&gt;]] ([[User talk:ThatPeskyCommoner|&lt;span style=&quot;color:#336600;&quot;&gt;talk&lt;/span&gt;]]) 12:49, 18 April 2011 (UTC)
+
+==ANI mention==
+I have (briefly) mentioned you at [[WP:ANI]], please see [[WP:ANI#User:Jasper Deng and COI]]. '''[[User:Eagles247|&lt;font face=&quot;Verdana&quot; color=&quot;003B48&quot; size=&quot;2px&quot;&gt;Eagles&lt;/font&gt;]]''' '''[[User talk:Eagles247|&lt;font face=&quot;Verdana&quot; color=&quot;003B48&quot; size=&quot;2px&quot;&gt;24/7&lt;/font&gt;]]''' [[Special:Contributions/Eagles247|&lt;font color=&quot;003B48&quot; size=&quot;1px&quot;&gt;(C)&lt;/font&gt;]] 03:53, 19 April 2011 (UTC)
+:Cheers for the courtesy. [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 20:10, 19 April 2011 (UTC)
+
+== Hugh Culverhouse Review ==
+
+Thanks for taking the time to review my [[Hugh Culverhouse]] GAN. I see that you failed it for not including any images. The criteria says that it contains images, &quot;if possible&quot;. I did spend too many hours trying to track down a public-domain image, but it turns out that he was a rather private personality, and there are no photographs available apart from those that are the property of newspapers. A website gave me permission to use a photograph of him, but I was made to remove it, as there was no evidence that the website had permission to use it. You can suggest image sources, but trust me, I've tried them all. If that's the sticking point that keeps this from GA status, than this can never be a GA. I was under the impression that images were good to have but were not required. What's the definition of &quot;if possible&quot; in the critieria?
+
+Thanks again [[User:Dementia13|Dementia13]] ([[User talk:Dementia13|talk]]) 22:38, 20 April 2011 (UTC)
+:Agreed, this failure was incorrect. I shall re-list this with the original timestamp. [[User:Wikipedian2|Wikipedian2]], if you cannot correctly apply the [[WP:WIAGA|GA criteria]], please desist from reviewing. [[User:Jezhotwells|Jezhotwells]] ([[User talk:Jezhotwells|talk]]) 23:00, 21 April 2011 (UTC)
+
+::If you was given permission, then email the evidence to the email team. I'm guessing it was probably in the form of an email by the newspaper - so do it! Thanks for the feedback, but everybody makes mistakes, and I used the criteria. And it would seem it is possible, just the editor hasn't pushed to get the evidence of permission looked at. Regards. [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 23:09, 21 April 2011 (UTC)
+:::What bits of Criterion 6:
+:::*Illustrated, '''&lt;u&gt;if possible&lt;/u&gt;''', by images:
+::::(a) images are tagged with their copyright status, and valid fair use rationales are provided for non-free content; and
+::::(b) images are relevant to the topic, and have suitable captions.
+:::do you not understand? [[User:Jezhotwells|Jezhotwells]] ([[User talk:Jezhotwells|talk]]) 23:14, 21 April 2011 (UTC)
+
+No need for an aggressive approach. Thank-you. I have already explained my rationale, and accepted my mistake - no need for bullying. [[User:Wikipedian2|Wikipedian2]] ([[User talk:Wikipedian2#top|talk]]) 23:17, 21 April 2011 (UTC)
+::::I am sorry that you took offence, and I see that this review was posted before my earlier comment, so I apologise if my tone was perceived as aggressive. It was not meant as such. [[User:Jezhotwells|Jezhotwells]] ([[User talk:Jezhotwells|talk]]) 01:16, 22 April 2011 (UTC)
+
+== Jezhotwells' RfA ==
+
+I have removed the above-named RfA from WP:RfA as the candidate has declined the nomination.
+
+If you want to put forward someone for RfA, you need to discuss it with them. They need to both agree to the nomination ''and'' to have answered the 3 standard questions before the RfA is transcluded .
+
+Regard, -- '''''[[User:Phantomsteve.alt|&lt;font color=&quot;#307D7E&quot;&gt;Phantom&lt;/font&gt;&lt;font color=&quot;#55CAFA&quot;&gt;Steve&lt;/font&gt;.alt]]'''''/[[User talk:Phantomsteve|&lt;font color=&quot;#008000&quot;&gt;talk&lt;/font&gt;]]\&lt;sup&gt;[''[[Wikipedia:Sock puppetry#Legitimate uses|alternative account]] of [[User:Phantomsteve|Phantomsteve]]'']&lt;/sup&gt; 23:38, 21 April 2011 (UTC)
+
+::Jez is a highly experienced editor.I rather think that if he had wanted to be an admin, he would have been one for a long time already.  --[[User:Kudpung|Kudpung กุดผึ้ง]] ([[User talk:Kudpung|talk]]) 05:02, 23 April 2011 (UTC)
+:::Thanks for the nomination, but I don't feel the urge at present. --[[User:Jezhotwells|Jezhotwells]] ([[User talk:Jezhotwells|talk]]) 22:57, 23 April 2011 (UTC)
+
+== Task force [[WP:RFA2011]] update ==
+
+Hi. As of 20 June: More stats have been added on candidates and !voter participation. Details have been added about qualifications required on other Wikis for candidates and RfA !voters. Some items such as clerking, !voters, and candidates are nearing proposal stage. A quick page`link template has been added to each page of the project. Please visit those links to get up to speed with recent developments, and chime in with your comments. Thanks for your participation.
+
+&lt;small&gt;Delivered by [[User:MessageDeliveryBot|MessageDeliveryBot]] on behalf of [[Wikipedia:RfA reform 2011|RfA reform 2011]] at 08:29, 20 June 2011 (UTC).&lt;/small&gt;
+&lt;!-- Delivery requested by [[User:Kudpung]] and approved by [[User:EdoDodo]]. --&gt;
+
+== WP:RFA2011: RfA  on  other Wikipedias ==
+
+A detailed table and notes have now been [[WP:RFA2011/CANDIDATES#Comparison RfA other Wikipedias|created and posted]].  It  compares how RfA is carried out on   major Wikipedias (English, French, German, Italian, Spanish). If you  feel  that other important language  Wikipedias should be added, please let  us know. This may  however depend on  our/your language skills!
+
+&lt;small&gt;Delivered by [[User:MessageDeliveryBot|MessageDeliveryBot]] on behalf of [[Wikipedia:RfA reform 2011|RfA reform 2011]] at 22:49, 3 July 2011 (UTC).&lt;/small&gt;
+&lt;!-- Delivery requested by [[User:Kudpung]] and approved by [[User:Sumsum2010]]. --&gt;
+
+== RfA Reform update ==
+
+Hi. It's been a little while since the last message on RfA reform, and there's been a fair amount of slow but steady [[Wikipedia:RfA reform 2011/Progress|progress]]. However, there is currently a flurry of activity due to some conversations on [http://en.wikipedia.org/w/index.php?title=User_talk:Jimbo_Wales&amp;oldid=447112737 Jimbo's talk page]. 
+
+I think we're very close to putting an idea or two forward before the community and there are at least two newer ones in the pipeline. So if you have a moment: 
+*Have a look at [[Wikipedia:RfA reform 2011/Minimum requirement|the min requirement proposal]] and  familiarise yourself with the statistics, I'd appreciate comment on [[Wikipedia talk:RfA reform 2011/Minimum requirement#What should the bar be?|where we should put the bar]].
+*Any final comments would be appreciated on the [[Wikipedia:RfA reform 2011/Clerks|clerks]] proposal.
+*Feedback on the two newer proposals - [[Wikipedia:RfA reform 2011/Radical alternatives/Pre-RfA Proposal|Pre-RfA]]  &amp; [[Wikipedia:RfA reform 2011/Sysop on request]]. Both are more radical reforms of RfA and might run along side the current system. 
+
+Thanks for reading and for any comments that you've now made.
+
+&lt;small&gt;Delivered by [[User:MessageDeliveryBot|MessageDeliveryBot]] on behalf of [[Wikipedia:RfA reform 2011|RfA reform 2011]] at 21:44, 6 September 2011 (UTC).&lt;/small&gt;
+&lt;!-- Delivery requested by [[User:Worm That Turned]] and approved by [[User:Mono]]. --&gt;
+
+== News and progress from RfA reform 2011 ==
+
+{{collapsetop|bg=#33FFCC|RfA reform: ...and what you can do now.}}
+&lt;small&gt;(You are receiving this message because you are either a task force member, or you have contributed to recent discussions on any of [[Wikipedia:RfA reform 2011/Pages|'''these pages''']].)&lt;/small&gt;
+
+'''The number of nominations''' continues to nosedive seriously, according  to  [[User:WereSpielChequers/RFA by month|'''these monthly figures''']]. We know why this is, and  if the trend continues our reserve of active admins will soon be underwater. Wikipedia now needs suitable editors to come forward. This can only be achieved either through [[WP:RFA2011|changes]] to the current system, a [[WP:RFA/RADICAL|radical alternative]], or by [[Wikimedia Foundation|fiat from elsewhere]].
+
+'''A lot of work''' is constantly being done behind the scenes by the coordinators and task force members, such as monitoring  the talk pages, discussing new ideas, organising  the project  pages, researching  statistics and keeping  them  up  to  date. You'll also  see for example that  we have recently  made tables to  compare how other Wikipedias choose  their sysops, and some tools have been developed to more closely examine !voters' habits. 
+
+'''The purpose of [[WP:RFA2011]]''' is to  focus attention on  ''specific'' issues of our  admin  selection  process and to develop  RfC proposals for solutions to improve them.  For this, we have organised the project into [[Wikipedia:RfA reform 2011/Pages|''dedicated sections'']] each with their own discussion pages. It is important to  understand that  all Wikipedia policy changes take a long  time to implement whether or not the discussions appear to  be active - getting the proposals right ''before'' offering them for discussion by the broader community is crucial to the success of any RfC.  Consider keeping the pages and their talk pages on your [[WP:Watchlist|watchlist]]; ''do'' check out older threads before starting a new one on topics that have been discussed already, and if you start a new thread, ''please''  revisit it regularly to follow up on new comments.
+
+'''The object  of [[WP:RFA2011]]''' is ''not''  to make it  either  easier or harder to  become an admin -  those criteria are set by  those who  !vote at  each  RfA. By  providing  a unique venue for developing ideas for  change independent  of  the general discussion  at  [[WT:RFA]], the project has two  clearly  defined goals: 
+#Improving  the environment  that  surrounds RfA in  order to  encourage mature, experienced editors of the right  calibre to  come forward, pass the interview, and dedicate some of their  time to  admin  tasks.
+#Discouraging, in  the nicest  way  possible of course, those whose RfA will be obvious NOTNOW or SNOW, and to  guide them towards the advice pages.
+The fastest way is through improvement to the current system. Workspace is however also available within  the project  pages to  suggest  and discuss ideas that are [[Wikipedia:RfA reform 2011/Radical alternatives|not  strictly  within  the remit  of this project]]. Users are invited to  make use of these pages where they  will  offer maximum exposure to  the broader community, rather than individual  projects in  [[WP:user space|user space]].
+
+[[WT:RFA|'''We already know what's wrong with RfA''']] - let's not clutter the project with perennial chat. RFA2011 ''is now ready'' to propose some of the elements of reform, and all the task force needs to do now is to pre-draft those proposals in the project's workspace, agree on the wording, and then offer them for central discussion where the ''entire'' Wikipedia community will be more than welcome to  express their opinions in  order to  build consensus.
+
+'''New tool''' Check your RfA !voting history! Since the editors' RfA !vote counter at X!-Tools has been down for a long while, we now have a new [http://toolserver.org/~snottywong/rfastats.html RfA  Vote Counter] to replace it. A significant improvement on the former tool, it provides a  a complete breakdown of an editor's RfA votes, together with an analysis of the participant's voting pattern. 
+
+'''Are you ready to help?''' Although the main engine of RFA2011 is its task force, ''constructive'' comments from  any  editors are always welcome on  the project's various talk  pages. The main  reasons  why  [[WT:RfA]] was never successful in  getting  anything  done are that threads on different aspects of RfA are all mixed together, and are then archived where nobody  remembers them and where they  are hard to  find - the same is true of ad hoc threads on  [[User talk:Jimbo Wales|the founder's talk  page]]. 
+{{collapsebottom}}
+
+&lt;small&gt;Delivered by [[User:MessageDeliveryBot|MessageDeliveryBot]] on behalf of [[Wikipedia:RfA reform 2011|RfA reform 2011]] at 16:07, 25 September 2011 (UTC).&lt;/small&gt;
+&lt;!-- Delivery requested by [[User:Kudpung]] and approved by [[User:Nascar1996]]. --&gt;
+
+== Articles for Creation Appeal ==
+{| style=&quot;background-color: #dfeff3; border: 4px solid #bddff2; width: 100%;&quot; cellpadding=&quot;5&quot;
+
+|&lt;big&gt;'''[[Wikipedia:WikiProject Articles for creation|Articles for Creation urgently needs your help!]]'''&lt;/big&gt;
+[[File:AFC-Logo.png|150px|right]]
+----
+&lt;p&gt;Articles for Creation is '''desperately short of reviewers!''' We are looking for '''urgent help''', from '''experienced editors''', in reviewing submissions in the [[Wikipedia:WikiProject Articles for creation/Submissions|pending submissions queue]]. Currently there are '''{{PAGESINCATEGORY:Pending AfC submissions|R}}''' submissions waiting to be reviewed.&lt;/P&gt;
+:&lt;big&gt;'''Do you have what it takes?'''&lt;/big&gt;
+# Are you familiar with [[WP:PAG|Wikipedia's policies and guidelines]]?
+# Do you know what Wikipedia [[Wikipedia:About|is]] and [[Wikipedia:What Wikipedia is not|is not]]?
+# Do you have a working knowledge of the [[Wikipedia:Manual of Style|Manual of Style]], particularly [[Wikipedia:Article titles|article naming conventions]]?
+# Are you [[Wikipedia:autoconfirmed|autoconfirmed]]?
+# Can you review submissions based on their individual merits?&lt;/P&gt;
+If the answer to these questions is yes, then please read the [[Wikipedia:WikiProject Articles for creation/Reviewing instructions|reviewing instructions]] and donate a little of your time to helping tackle the backlog.
+|}
+&lt;small&gt;Sent on behalf of [[Wikipedia:WikiProject Articles for creation|WikiProject Articles for creation]] using [[Project:AWB|AWB]] on 20:26, 14 January 2012 (UTC)&lt;/small&gt;
+
+== Articles for Creation Appeal ==
+{| style=&quot;background-color: #f3eba3; border: 3px solid #cc3333; width: 100%;&quot; cellpadding=&quot;5&quot;
+
+|&lt;big&gt;&lt;big&gt;'''[[Wikipedia:WikiProject Articles for creation|Articles for Creation is backlogged and needs ''YOUR'' help!]]'''&lt;/big&gt;&lt;/big&gt;
+
+----
+&lt;p&gt;Articles for Creation is '''desperately in need of reviewers!''' We are looking for '''urgent help''', from '''experienced editors and administrators alike''', to help us clear a record backlog of [[Wikipedia:WikiProject Articles for creation/Submissions|pending submissions]]. There is currently a '''significant backlog of {{PAGESINCATEGORY:Pending AfC submissions|R}}''' submissions waiting to be reviewed.  These submissions are generally from new editors who have never edited Wikipedia before.  A prompt, constructive review of submissions could significantly editor retention.&lt;/P&gt;
+[[File:AFC-Logo.png|175px|right]]
+:&lt;big&gt;'''Do you have what it takes?'''&lt;/big&gt;
+# Are you familiar with [[WP:PAG|Wikipedia's policies and guidelines]]?
+# Do you know what Wikipedia [[Wikipedia:About|is]] and [[Wikipedia:What Wikipedia is not|is not]]?
+# Do you have a working knowledge of the [[Wikipedia:Manual of Style|Manual of Style]], particularly [[Wikipedia:Article titles|article naming conventions]]?
+# Are you (at least) [[Wikipedia:autoconfirmed|autoconfirmed]]?
+# Can you review submissions based on their individual merits?&lt;/P&gt;
+If the answer to these questions is yes, then please read the [[Wikipedia:WikiProject Articles for creation/Reviewing instructions|reviewing instructions]] and donate a little of your time to helping tackle the backlog.
+
+&lt;big&gt;&lt;big&gt;[http://tools.wikimedia.de/~erwin85/randomarticle.php?lang=en&amp;family=wikipedia&amp;categories=Pending_AfC_submissions&amp;namespaces=5&amp;subcats=1&amp;d=10 Click here to review to a random submission]&lt;/big&gt;&lt;/big&gt;&lt;sub&gt;&lt;small&gt;Article selected by erwin85's random article script on toolserver.&lt;/small&gt;&lt;/sub&gt;
+
+We would greatly appreciate your help.  Currently, only a small handful of users are reviewing articles.  Any help, even if it's just 1 or 2 reviews, would be extremely beneficial.
+
+On behalf of the [[Wikipedia:WikiProject Articles for creation|Articles for Creation project]],&lt;br&gt;
+&lt;font color=&quot;#990000&quot;&gt;&lt;strong&gt;&lt;em&gt;[[User:AndrewN|&lt;font color=&quot;#990000&quot;&gt;AndrewN&lt;/font&gt;]] &lt;sup&gt;[[User talk:AndrewN|&lt;font color=&quot;#990000&quot;&gt;talk&lt;/font&gt;]]&lt;/sup&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/font&gt; 23:58, 25 May 2012 (UTC)
+|}
+
+== AFC Backlog ==
+
+{| style=&quot;background-color: #dfeff1; border: 4px solid #bddff2; width: 100%;&quot; cellpadding=&quot;5&quot;
+
+|&lt;big&gt;'''[[Wikipedia:WikiProject Articles for creation|Articles for Creation urgently needs ''YOUR'' help!]]'''&lt;/big&gt;
+[[File:AFC-Logo.png|150px|right]]
+----
+&lt;p&gt;Articles for Creation is '''desperately short of reviewers!''' We are looking for '''urgent help''', from '''experienced editors''', in reviewing submissions in the pending submissions queue. Currently there are '''{{PAGESINCATEGORY:Pending AfC submissions|R}}''' '''[[:Category:Pending_AfC_submissions|submissions]]''' waiting to be reviewed and many help requests at [[WP:AFCHD|our Help Desk]].&lt;/P&gt;
+:&lt;big&gt;'''Do you have what it takes?'''&lt;/big&gt;
+# Are you familiar with [[WP:PAG|Wikipedia's policies and guidelines]]?
+# Do you know what Wikipedia [[Wikipedia:About|is]] and [[Wikipedia:What Wikipedia is not|is not]]?
+# Do you have a working knowledge of the [[Wikipedia:Manual of Style|Manual of Style]], particularly [[Wikipedia:Article titles|article naming conventions]]?
+# Are you [[Wikipedia:autoconfirmed|autoconfirmed]]?
+# Can you review submissions based on their individual merits?&lt;/P&gt;
+If the answer to these questions is yes, then please read the [[Wikipedia:WikiProject Articles for creation/Reviewing instructions|reviewing instructions]] and donate a little of your time to helping tackle the backlog. You might wish to add {{tl|AFC status}} or {{tl|AfC Defcon}} to your userpage, which will alert you to the number of open submissions.
+
+:''PS: we have a great AFC helper script at [[User:Timotheus Canens/afchelper4.js]] which helps in reviewing in just few edits easily!''
+
+We would greatly appreciate your help. Currently, only a small handful of users are reviewing articles. Any help, even if it's just 2 or 3 reviews, it would be extremely beneficial.&lt;br/&gt;
+On behalf of the [[Wikipedia:WikiProject Articles for creation|Articles for Creation project]],&lt;br/&gt; '''''[[User:TheSpecialUser|&lt;span style=&quot;font-family:Brush Script MT;color:black;background:white&quot;&gt;TheSpecialUser&lt;/span&gt;]]&amp;nbsp;&lt;sup&gt;[[User talk:TheSpecialUser|&lt;span style=&quot;font-family:Bradley Hand ITC;color:blue&quot;&gt;TSU&lt;/span&gt;]]&lt;/sup&gt;'''''
+|}
+&lt;!-- EdwardsBot 0325 --&gt;
+
+== [[Wikipedia:WikiProject Articles for creation|Articles for Creation urgently needs your help!]] ==
+
+{| style=&quot;background-color: #dfeff3; border: 4px solid #bddff2; width: 100%;&quot; cellpadding=&quot;5&quot;
+|[[File:AFC-Logo.png|150px|right]]
+&lt;p&gt;Articles for Creation is '''desperately short of reviewers!''' We are looking for '''urgent help''', from '''experienced editors''', in reviewing submissions in the [[Wikipedia:WikiProject Articles for creation/Submissions|pending submissions queue]]. Currently there are '''{{PAGESINCATEGORY:Pending AfC submissions|R}}''' submissions waiting to be reviewed and many help requests at [[WP:AFCHD|our Help Desk]].&lt;/P&gt;
+:&lt;big&gt;'''Do you have what it takes?'''&lt;/big&gt;
+# Are you familiar with [[WP:PAG|Wikipedia's policies and guidelines]]?
+# Do you know what Wikipedia [[Wikipedia:About|is]] and [[Wikipedia:What Wikipedia is not|is not]]?
+# Do you have a working knowledge of the [[Wikipedia:Manual of Style|Manual of Style]], particularly [[Wikipedia:Article titles|article naming conventions]]?
+# Can you review submissions based on their individual merits?&lt;/P&gt;
+If the answer to these questions is yes, then please read the [[Wikipedia:WikiProject Articles for creation/Reviewing instructions|reviewing instructions]] and donate a little of your time to helping tackle the backlog. You might wish to add {{tl|AFC status}} or {{tl|AfC Defcon}} to your userpage, which will alert you to the number of open submissions.
+:PS: we have a great AFC helper script at [[WP:AFCH]]!
+&lt;big&gt;'''News'''&lt;/big&gt;
+{| style=&quot;background-color: #dfeff3; border: 4px solid #bddff2; width: 100%;&quot; cellpadding=&quot;5&quot;
+| width=50% | [[WP:GAN|Good article nominee]]
+* 04 Aug 2012 &amp;ndash; [[Parental brain]] &lt;span class=plainlinks&gt;&lt;small&gt;([[Talk:Parental brain|talk]]&amp;nbsp;·&amp;nbsp;[//en.wikipedia.org/w/index.php?title=Parental_brain&amp;action=edit edit]&amp;nbsp;·&amp;nbsp;[//en.wikipedia.org/w/index.php?title=Parental_brain&amp;action=history hist])&lt;/small&gt;&lt;/span&gt; was GA nominated by [[User:Carina1205|Carina1205]] &lt;small&gt;([[User talk:Carina1205|t]]&amp;nbsp;·&amp;nbsp;[[Special:Contributions/Carina1205|c]])&lt;/small&gt;; {{#ifexist: Talk:Parental brain/GA1 | see [[Talk:Parental brain/GA1|discussion]] | start [//en.wikipedia.org/w/index.php?title=Talk:Parental_brain/GA1&amp;action=edit&amp;preload=Template:GAN/preload&amp;editintro=Template:GAN/editintro discussion] }}
+|[[WP:AFCH|AFCH script improvements]]
+*1.16 to 1.17
+**Batman still works!
+|}
+|}
+&lt;small&gt;Sent on behalf of [[Wikipedia:WikiProject Articles for creation|WikiProject Articles for creation]]. If you do not wish to receive anymore messages from this WikiProject, please remove your username from [[Wikipedia:WikiProject_Articles_for_creation/Participants/Message|this page]].&lt;/small&gt;&lt;br/&gt;Happy reviewing! '''''[[User:TheSpecialUser|&lt;span style=&quot;font-family:Brush Script MT;color:black;background:white&quot;&gt;TheSpecialUser&lt;/span&gt;]]&amp;nbsp;&lt;sup&gt;[[User talk:TheSpecialUser|&lt;span style=&quot;font-family:Bradley Hand ITC;color:blue&quot;&gt;TSU&lt;/span&gt;]]&lt;/sup&gt;'''''
+*Delivered by [[User:EdwardsBot|EdwardsBot]] ([[User talk:EdwardsBot|talk]]) 09:06, 23 September 2012 (UTC)
+&lt;!-- EdwardsBot 0363 --&gt;
+
+== [[Wikipedia:WikiProject Articles for creation|WikiProject:Articles for Creation]] October - November 2012 Backlog Elimination Drive ==
+
+&lt;div style=&quot;border: 2px solid #484898; background: #FFF; background-color:#98FB98; padding: 1ex 1ex 1ex 1.5ex; margin: 0px 0px 1em 1em; font-size: 90%&quot;&gt;
+&lt;div style=&quot;border-bottom: 2px dotted #484898&quot;&gt;'''WikiProject Articles for creation Backlog Elimination Drive'''&lt;/div&gt;
+[[Image:AFC-Logo.svg|75px|right]] 
+[[Wikipedia:WikiProject Articles for creation|WikiProject AFC]] is holding a '''one month long''' Backlog Elimination Drive!&lt;br&gt;
+The goal of this drive is to '''eliminate''' the backlog of unreviewed articles. The drive is running from October 22, 2012 – November 21, 2012.
+
+Awards will be given out for all reviewers participating in the drive in the form of barnstars at the end of the drive.&lt;br&gt;
+There is a backlog of over 1000 articles, so start reviewing articles! Visit the [[Wikipedia:WikiProject_Articles for creation/November 2012 Backlog Elimination Drive|drive's page]] and help out!
+&lt;/font&gt;
+&lt;/div&gt;
+[[User:EdwardsBot|EdwardsBot]] ([[User talk:EdwardsBot|talk]]) 00:16, 22 October 2012 (UTC)
+&lt;!-- EdwardsBot 0389 --&gt;
+
+== [[WP:AFC|Articles for creation needs YOUR help!]] ==
+
+{| style=&quot;background-color: #dfeff3; border: 4px solid #bddff2; width: 100%;&quot; cellpadding=&quot;5&quot;
+|[[File:AFC-Logo.png|150px|right]]
+&lt;p&gt;Articles for creation is '''desperately short of reviewers!''' We are looking for '''urgent help''', from '''experienced editors''', in reviewing submissions in the [[Wikipedia:WikiProject Articles for creation/Submissions|pending submissions queue]]. Currently there are '''{{PAGESINCATEGORY:Pending AfC submissions|R}}''' submissions waiting to be reviewed and many help requests at [[WP:AFCHD|our help desk]].&lt;/P&gt;
+:&lt;big&gt;'''Do you have what it takes?'''&lt;/big&gt;
+# Are you familiar with [[WP:PAG|Wikipedia's policies and guidelines]]?
+# Do you know what Wikipedia [[Wikipedia:About|is]] and [[Wikipedia:What Wikipedia is not|is not]]?
+# Do you have a working knowledge of the [[Wikipedia:Manual of Style|Manual of Style]], particularly [[Wikipedia:Article titles|article naming conventions]]?
+# Can you review submissions based on their individual merits?&lt;/P&gt;
+If the answer to these questions is yes, then please read the [[Wikipedia:WikiProject Articles for creation/Reviewing instructions|reviewing instructions]] and donate a little of your time to helping tackle the backlog. You might wish to add {{tl|AFC status}} or {{tl|AfC Defcon}} to your userpage, which will alert you to the number of open submissions.
+Plus, reviewing is easy when you use our new semi-automated [[WP:AFCH|reviewing script]]!
+&lt;br /&gt;
+Thanks in advance, [[User:Nathan2055|Nathan2055]]&lt;sup&gt;[[User talk:Nathan2055|talk]] - [[Special:Contributions/Nathan2055|contribs]]&lt;/sup&gt;
+|}
+&lt;center&gt;&lt;small&gt;Sent on behalf of [[Wikipedia:WikiProject Articles for creation|WikiProject Articles for creation]] at 22:20, 29 November 2012 (UTC). If you do not wish to receive anymore messages from this WikiProject, please remove your username from [[Wikipedia:WikiProject Articles for creation/Participants/Message|this page]].&lt;/small&gt;&lt;/center&gt;
+&lt;!-- EdwardsBot 0408 --&gt;
+
+== [[Wikipedia:WikiProject Articles for creation|WikiProject Articles for creation newsletter]] ==
+
+{| class=&quot;navbox collapsible collapsed&quot; style=&quot;text-align: left; border: 2px; margin-top: 0.2em;&quot;
+|-
+! style=&quot;background-color: #F0FFEA; border: 2px #30B060 solid; text-align: center;&quot; |'''The WikiProject Articles for creation newsletter'''
+|-
+| style=&quot;border: 2px #30B060 solid;&quot;|
+{| class=&quot;plainlinks&quot;
+| colspan=&quot;2&quot; valign=&quot;middle&quot; style=&quot;width: 60%; border: 2px #30B060 solid; background-color: #F0FFEA; padding: 1em;&quot; |
+{| style=&quot;width: 100%; border: 0px; background-color:#F0FFEA;&quot;
+| valign=&quot;middle&quot; style=&quot;width: 55%; border: 0px; background-color:#F0FFEA; padding: 1em&quot; |
+[[File:AFC-Logo.svg|75px|left]] &lt;big&gt;
+'''The WikiProject Articles for creation Newsletter'''&lt;/big&gt;&lt;br/&gt; Volume I, No. I &amp;ndash; December 2012 &lt;br /&gt;
+| valign=&quot;middle&quot; align=&quot;right&quot; style=&quot;width: 45%; border: 0px; background-color:#F0FFEA; padding: 1em;&quot; |
+[[WP:AFC|Visit the Articles for creation homepage]][[File:Fairytale right.png|link=WP:AFC|30px]]
+|}
+
+|-
+| valign=&quot;top&quot; style=&quot;border: 2px #30B060 solid; padding: 1em; width: 45%; background-color:#F0FFEA;&quot; |
+;Project news
+* Five changes have been proposed to the AfC policy. Join the discussion [[Wikipedia_talk:WikiProject_Articles_for_creation#Proposed_change_to_the_reviewer_process|here]].
+* Another change has been proposed to the courtesy blanking policy. It involves CSDing distributive submissions. Discuss it [[Wikipedia_talk:WikiProject_Articles_for_creation#CSD_policy_addition|here]].
+* The beta script still needs testing. Learn how you can help [[Wikipedia_talk:WikiProject_Articles_for_creation#v4.1.16b3_of_the_script_is_still_in_beta.2C_we_need_YOU|here]].
+* The backlog is at emergency status and another drive has been proposed [[Wikipedia_talk:WikiProject_Articles_for_creation#When.27s_the_next_drive.3F|here]] and suggestions on changes to the structure have been proposed [[Wikipedia_talk:WikiProject_Articles_for_creation#Concerns_about_prep_for_next_drive|here]].
+* Discussion on updating the backlog notification is underway [[Wikipedia_talk:WikiProject_Articles_for_creation#An_idea_to_update_a_message|here]].
+* A discussion on whether autoconfirmed users are allowed to skip the backlog is going on [[Wikipedia_talk:WikiProject_Articles_for_creation#Self-approval|here]].
+* Discussion on users not adding categories and not checking copyvios is going on [[Wikipedia_talk:WikiProject_Articles_for_creation#Not_much_improvement|here]].
+
+;Backlog news&lt;ref name=&quot;purge&quot;&gt;Information may not be current due to caching. {{purge|Click here to purge this page's server cache.}}&lt;/ref&gt;
+* There are {{#expr:{{PAGESINCATEGORY:Pending AfC submissions|R}}-2}} pending submissions in the backlog. [[CAT:PEND|You can help!]]
+
+;Article rankings&lt;ref name=&quot;purge&quot; /&gt;
+{{ArticlesByQuality|topic=AFC|project=Articles for creation}}
+
+| valign=&quot;http://en.wikipedia.org/w/index.php?title=User:Dom497/GA_Newsletter_Fall_2012&quot; style=&quot;border: 2px #30B060 solid; padding: 1em; width: 45%; background-color: #F0FFEA;&quot; |
+
+;From the Editors
+* This is the very first newsletter for WikiProject Articles for creation! If you find any errors or have suggestions on what to improve/include in future newsletters, please leave a message [[Wikipedia talk:WikiProject Articles for creation|here]].
+
+;Contributors to this Issue
+* {{user|Dom497}}
+* {{user|Nathan2055}}
+
+;Notes
+{{reflist}}
+
+|-
+| colspan=&quot;2&quot; valign=&quot;top&quot; style=&quot;border: 2px #30B060 solid; padding: 1em; width: 55%; background-color: #F0FFEA;&quot; |
+'''Script corner:''' Stable: v4.1.15 - Beta: v4.1.16b2
+* v4.1.16b2 is now available in the beta channel! Reviewers can use the beta version of the script by following the instructions [[Wikipedia:WikiProject_Articles_for_creation/Helper_script#Beta_version|here]] and should report bugs [[Wikipedia_talk:WikiProject_Articles_for_creation#v4.1.16b3_of_the_script_is_still_in_beta.2C_we_need_YOU|here]]! Release notes can be found [[Wikipedia_talk:WikiProject_Articles_for_creation#v4.1.16b3_of_the_script_is_still_in_beta.2C_we_need_YOU|here]] as well as [[User:Mabdul/afc beta.js|in the source code]].
+
+* If you are JavaScript savvy, please contact {{user|Nathan2055}} if you wish to help with development.
+|-
+| colspan=&quot;2&quot; valign=&quot;top&quot; style=&quot;border: 2px #30B060 solid; padding: 1em; width: 55%; background-color: #F0FFEA;&quot; |
+'''Reviewing articles and more since 2005!'''
+|-
+| valign=&quot;top&quot; colspan=&quot;2&quot; style=&quot;padding: 0.5em; text-align: right; font-size: 85%; &quot; |
+|}
+|}
+&lt;div class=&quot;center&quot;&gt;&lt;small&gt;Delivered 00:37, 18 December 2012 (UTC) by '''[[User:EdwardsBot|EdwardsBot]]'''. If you do not wish to receive this newsletter, please remove your name from [[Wikipedia:WikiProject Articles for creation/Participants/Message|the spamlist]].&lt;/small&gt;&lt;/div&gt;
+&lt;!-- EdwardsBot 0419 --&gt;
+
+== Wikiproject Articles for creation Needs You! ==
+
+&lt;div style=&quot;border: 2px solid #484898; background: #FFF; background-color:#98FB98; padding: 1ex 1ex 1ex 1.5ex; margin: 0px 0px 1em 1em; font-size: 90%&quot;&gt;
+&lt;div style=&quot;border-bottom: 2px dotted #484898&quot;&gt;'''WikiProject Articles for creation Backlog Elimination Drive'''&lt;/div&gt;
+[[Image:AFC-Logo.svg|75px|right]] 
+[[Wikipedia:WikiProject Articles for creation|WikiProject AFC]] is holding a '''one month long''' Backlog Elimination Drive!&lt;br&gt;
+The goal of this drive is to '''eliminate''' the backlog of unreviewed articles. The drive is running from March 1st, 2013 – March 31st, 2013.
+
+Awards will be given out for all reviewers participating in the drive in the form of barnstars at the end of the drive.&lt;br&gt;
+There is a backlog of over 2000 articles, so start reviewing articles! Visit the [[Wikipedia:WikiProject Articles for creation/March 2013 Backlog Elimination Drive|drive's page]] and help out!
+&lt;/font&gt;
+&lt;/div&gt;
+&lt;small&gt;Delivered by [[User:EdwardsBot]] on behalf of [[WP:WikiProject Articles for Creation|Wikiproject Articles for Creation]] at 13:37, 27 February 2013 (UTC)&lt;/small&gt;
+&lt;/div&gt;
+&lt;!-- EdwardsBot 0470 --&gt;
+
+== WikiProject AFC needs your help... again ==
+
+&lt;div style=&quot;border: 2px solid #484898; background: #FFF; background-color:#98FB98; padding: 1ex 1ex 1ex 1.5ex; margin: 0px 0px 1em 1em; font-size: 90%&quot;&gt;
+&lt;div style=&quot;border-bottom: 2px dotted #484898&quot;&gt;'''WikiProject Articles for creation Backlog Elimination Drive'''&lt;/div&gt;
+[[Image:AFC-Logo.svg|75px|right]]
+[[Wikipedia:WikiProject Articles for creation|WikiProject AFC]] is holding a '''one month long''' Backlog Elimination Drive!&lt;br&gt;
+The goal of this drive is to '''eliminate''' the backlog of unreviewed articles. The drive is running from July 1st, 2013 – July 31st, 2013.
+
+Awards will be given out for all reviewers participating in the drive in the form of barnstars at the end of the drive.&lt;br&gt;
+There is a backlog of over 1000 articles, so start reviewing articles! Visit the [[Wikipedia:WikiProject Articles for creation/July 2013 Backlog Elimination Drive|drive's page]] and help out!
+
+A new version of our [[WP:AFCH|AfC helper script]] is released! It includes many bug fixes, new improvements and features, code cleanup, and more page cleanups. If you want to see a full list of changes, go to [[Wikipedia:WikiProject Articles for creation/Helper script/Development page]]. Please report bugs and feature requests there, too! Thanks.
+&lt;/font&gt;&lt;/div&gt;
+&lt;small&gt;Delivered at 12:42, 19 June 2013 (UTC) by [[User:EdwardsBot|EdwardsBot]] ([[User talk:EdwardsBot|talk]]), on behalf of [[Wikipedia:WikiProject Articles for creation|WikiProject AFC]]
+&lt;/div&gt;
+&lt;!-- EdwardsBot 0551 --&gt;
+
+== October 2013 AFC Backlog elimination drive ==
+
+
+
+&lt;div style=&quot;border: 2px solid #484898; background: #FFF; background-color:#98FB98; padding: 1ex 1ex 1ex 1.5ex; margin: 0px 0px 1em 1em; font-size: 90%&quot;&gt;
+&lt;div style=&quot;border-bottom: 2px dotted #484898&quot;&gt;'''WikiProject Articles for creation Backlog Elimination Drive'''&lt;/div&gt;
+[[Image:AFC-Logo.svg|75px|right]]
+[[Wikipedia:WikiProject Articles for creation|WikiProject AFC]] is holding a '''one month long''' Backlog Elimination Drive!&lt;br /&gt;
+The goal of this drive is to '''eliminate''' the backlog of unreviewed articles. The drive is running from October 1st, 2013 – October 31st, 2013.
+
+Awards will be given out for all reviewers participating in the drive in the form of barnstars at the end of the drive.&lt;br /&gt;
+There is a backlog of over {{Rounddown|{{formatnum:{{PAGESINCATEGORY:Pending AfC submissions}}|R}}|-2}} articles, so start reviewing articles! Visit the [[Wikipedia:WikiProject Articles for creation/October 2013 Backlog Elimination Drive|drive's page]] and help out!
+
+A new version of our [[WP:AFCH|AfC helper script]] is released! It includes many bug fixes, new improvements and features, code enhancements, and more. If you want to see a full list of changes, visit the [[Wikipedia:WikiProject Articles for creation/Helper script/Changelog|changelog]]. Please report bugs and feature requests there, too! Thanks. --[[User:Mdann52|&lt;font color=&quot;Green&quot;&gt;'''Mdann'''&lt;/font&gt;]][[Special:Contributions/Mdann52|&lt;font color=&quot;Red&quot;&gt;'''52'''&lt;/font&gt;]]&lt;small&gt;[[User talk:Mdann52|&lt;font color=&quot;Maroon&quot;&gt;''talk to me!''&lt;/font&gt;]]&lt;/small&gt;&lt;/div&gt;
+&lt;small&gt;This newsletter was delivered on behalf of [[WP:WPAFC|WPAFC]] by [[User:EdwardsBot|EdwardsBot]] ([[User talk:EdwardsBot|talk]]) 15:02, 30 September 2013 (UTC)&lt;/small&gt;
+&lt;!-- EdwardsBot 0628 --&gt;
+	</talkpage>
+</article>

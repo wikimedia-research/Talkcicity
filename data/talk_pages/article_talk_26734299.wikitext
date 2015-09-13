@@ -1,0 +1,5 @@
+<article id="26734299" title=Talk:Pseudomelatoma>
+	<talkpage id="26734299" title="Talk:Pseudomelatoma">
+{{WikiProject Gastropods|class=stub|importance=mid|needs-photo=no}}
+	</talkpage>
+</article>

@@ -1,0 +1,10 @@
+<article id="36434581" title=Talk:William Overall Yager>
+	<talkpage id="36434581" title="Talk:William Overall Yager">
+{{WikiProject Biography
+|living=no
+|class=
+|listas=Yager, William Overall
+}}
+{{WPMILHIST|ACW=yes}}
+	</talkpage>
+</article>

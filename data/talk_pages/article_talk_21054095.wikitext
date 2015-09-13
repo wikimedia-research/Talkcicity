@@ -1,0 +1,9 @@
+<article id="21054095" title=User talk:70.68.135.130>
+	<talkpage id="21054095" title="User talk:70.68.135.130">
+
+
+== January 2009 ==
+[[Image:Information.svg|25px]]  Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits{{#if:Pumpkin|, such as the one you made to [[:Pumpkin]],}} did not appear to be constructive and has been reverted. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism1 --&gt; [[User:Unschool|&lt;font color=&quot;52A249&quot;&gt;'''Un'''&lt;/font&gt;]][[User talk:Unschool|&lt;font color=&quot;23CE40&quot;&gt;'''sch'''&lt;/font&gt;]][[Special:Contributions/Unschool|&lt;font color=&quot;7ED324&quot;&gt;'''ool'''&lt;/font&gt;]] 04:45, 12 January 2009 (UTC)
+:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
+	</talkpage>
+</article>

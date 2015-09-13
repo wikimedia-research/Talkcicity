@@ -1,0 +1,13 @@
+<article id="10129597" title=Talk:Temeni>
+	<talkpage id="10129597" title="Talk:Temeni">
+{{WikiProject Greece|class=stub
+|importance=low 
+|attention= 
+|B-Class-1=no
+|B-Class-2=yes
+|B-Class-3=no
+|B-Class-4=yes 
+|B-Class-5=yes
+}}
+	</talkpage>
+</article>

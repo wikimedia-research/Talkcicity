@@ -1,0 +1,7 @@
+<article id="12146897" title=Talk:Ulm–Augsburg railway>
+	<talkpage id="12146897" title="Talk:Ulm–Augsburg railway">
+{{TrainsWikiProject|class=start|importance=low|DE=yes|DE-importance=mid}}
+{{WikiProject Germany|class=start|importance=low}}
+{{translated page|de|Bahnstrecke Augsburg–Ulm}}
+	</talkpage>
+</article>

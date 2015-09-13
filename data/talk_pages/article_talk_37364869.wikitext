@@ -1,0 +1,34 @@
+<article id="18622971" title=Talk:Bank vole>
+	<talkpage id="18622971" title="Talk:Bank vole">
+{{Talk header}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Albania|class=start|importance=lowlow}}
+{{WikiProject Biota of Great Britain and Ireland|class=start|importance=low}}
+{{WikiProject Mammals|class=start|importance=low}}
+{{WikiProject Rodents|class=start|importance=low}}
+}}
+{{dyktalk|7 September|2013|entry= ... that the '''[[bank vole]]''' is alert to the alarm calls of [[Tit (bird)|tits]] warning of aerial [[Predation|predators]]?}}
+
+==Untitled==
+This page has numerous grammatical errors, notably in the second paragraph.  It would benefit from a re-write.
+
+The common vole is a completely different species (''[[Microtus arvalis]]''). Maybe some people call the bank vole this way but the difference is important especially when it comes to habitat. While bank voles live in woods, bushes etc. common voles keep to open space such as fields or meadows. Often bank voles and common voles live in the same area (if it's patchy enough) but almost never in the same place --[[Special:Contributions/212.87.16.31|212.87.16.31]] ([[User talk:212.87.16.31|talk]]) 16:46, 4 September 2008 (UTC)
+
+== Most numerous British mammal ==
+
+The article states that after the wood mouse, the bank vole is probably Britain's most abundant small rodent.  This statement is at best poorly expressed and immediately questions the validity of the article.
+
+The field vole (''Microtus agrestis'') is considered to be the most common mammal in Britain  &lt;ref&gt;http://www.arkive.org/field-vole/microtus-agrestis/info.html&lt;/ref&gt;, &lt;ref&gt;http://www.abdn.ac.uk/mammal/field_vole.shtml&lt;/ref&gt; with an estimated population of around 75 million &lt;ref&gt;Harris, S., Morris, P., Wray, S. and Yalden, D. (1995) A Status Review of British Mammals. JNCC, Peterborough.&lt;/ref&gt;
+
+Unfortunately, both the Arkive project and the Mammal Society simultaneously and erroneously state the wood mouse (''Apodemus sylvaticus'') to be the most common native rodent in Britain.  However, Harris et al (previously referenced) estimate the '''pre-breeding''' population of the wood mouse in Great Britain at 38 million, and the bank vole (''Myodes [Clethrionomys] glareolus'') at 23 million.  Possible confusion may have entered because Harris et al also provide an estimate of the wood mouse '''autummal population''' (ie post-breeding) to be about 114 million.  However, the annual post-breeding populations of both the field vole and the bank vole can be assumed to increase by similar prolific proportions.  Harris et al place reliability estimates of ±50% on their population estimates for the wood mouse and the bank vole, while for the field vole they believe that despite variable data its relative position is unlikely to change.
+
+In conclusion therefore, the bank vole is probably the third most common mammal in Great Britain.
+
+Happy to discuss this observation further.
+
+==Notes==
+&lt;references/&gt;
+
+[[User:Mammaliman|Mammaliman]] ([[User talk:Mammaliman|talk]]) 20:27, 29 November 2008 (UTC)
+	</talkpage>
+</article>

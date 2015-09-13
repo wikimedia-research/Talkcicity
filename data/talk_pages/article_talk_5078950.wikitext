@@ -1,0 +1,11 @@
+<article id="5078950" title=User talk:Don't piss off the Capn, bitch>
+	<talkpage id="5078950" title="User talk:Don't piss off the Capn, bitch">
+&lt;div style=&quot;border-style: solid; border-width: 1px; padding-left: 0px; padding-right: 0px; padding-top: 0px; padding-bottom: 0px&quot;&gt;
+{| border=&quot;0&quot; style=&quot;border-collapse: collapse&quot;
+| height=&quot;69&quot; width=&quot;40&quot; | &lt;font size=&quot;6&quot; color=&quot;#FF0000&quot;&gt;&amp;nbsp;X&lt;/font&gt;
+| height=&quot;69&quot; width=&quot;1000&quot; | Your username, '''Don't piss off the Capn, bitch''', has been &lt;font color=&quot;red&quot;&gt;blocked indefinitely&lt;/font&gt; because it is either inappropriate or too similar to an existing username (see our [[wikipedia:blocking policy|blocking policy]] for more information).
+You are encouraged to [[Wikipedia:Why create an account?|create a new account]] and contribute to Wikipedia under a more appropriate username, and in a [[Wikipedia:The perfect article|constructive]] manner. See [[Wikipedia:Username]] for guidance on selecting an appropriate username. You may also edit Wikipedia without creating an account. If you would like to discuss the block, you may edit your talk page or email the administrator who blocked you. — FireFox ([[User:FireFox|υ]]|[[User talk:FireFox|τ]]) 20:14, 09 May 2006
+| height=&quot;69&quot; width=&quot;40&quot; | &lt;font size=&quot;6&quot; color=&quot;#FF0000&quot;&gt;&amp;nbsp;X&amp;nbsp;&lt;/font&gt;
+|}&lt;/div&gt;
+	</talkpage>
+</article>

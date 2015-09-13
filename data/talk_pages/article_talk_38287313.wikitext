@@ -1,0 +1,16 @@
+<article id="38287313" title=User talk:Hejpådig bajs98>
+	<talkpage id="38287313" title="User talk:Hejpådig bajs98">
+
+
+== January 2013 ==
+[[Image:Information.svg|left|25px|alt=|link=]] Hello, and welcome to Wikipedia. This is a message letting you know that one of your recent edits has been undone by an automated computer program called [[User:ClueBot NG|ClueBot NG]].
+{{clear}}
+* ClueBot NG makes very few [[User:ClueBot NG#Information About False Positives|mistakes]], but it does happen. If you believe the change you made was constructive, please [[User:ClueBot NG#Information About False Positives|read about it]], [{{User:ClueBot NG/Warnings/FPReport|1456633}} report it here], remove this message from your talk page, and then make the edit again.
+* For help, take a look at the [[Wikipedia:Introduction|introduction]].
+* The following is the log entry regarding this message: [[Maná]] was [http://en.wikipedia.org/w/index.php?title=Man%C3%A1&amp;diff=534138720&amp;oldid=533812866 changed] by [[Special:Contributions/Hejpådig bajs98|Hejpådig bajs98]] [[User:Hejpådig bajs98|(u)]] [[User talk:Hejpådig bajs98|(t)]] ANN scored at 0.884877 on 2013-01-21T09:36:12+00:00 &lt;!-- MySQL ID: 1456633 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]) 09:36, 21 January 2013 (UTC)
+
+&lt;div style=clear: both&gt;&lt;/div&gt;[[Image:Information.svg|25px|alt=|link=]] Please do not introduce incorrect information into articles, as you did to [[:Maná]] with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Man%c3%a1?diff=534138835 this edit]&lt;/span&gt;.  Your edits appear to be [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]].  If you believe the information you added was correct, please [[Wikipedia:Citing sources|cite references or sources]] or discuss the changes on the article's [[Wikipedia:Talk page guidelines|talk page]] before making them again.  If you would like to experiment, use the [[Wikipedia:Sandbox|sandbox]]. Thank you. &lt;!-- Template:Huggle/warn-error-2 --&gt;&lt;!-- Template:uw-error2 --&gt;[[User:Jim1138|Jim1138]] ([[User talk:Jim1138|talk]]) 09:38, 21 January 2013 (UTC)
+
+&lt;div style=clear: both&gt;&lt;/div&gt;[[File:Ambox warning pn.svg|25px|alt=|link=]] Please stop your [[Wikipedia:Disruptive editing|disruptive editing]]. If you continue to [[Wikipedia:Vandalism|vandalize]] pages by deliberately introducing incorrect information, as you did to [[:Maná]] with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Man%c3%a1?diff=534138997 this edit]&lt;/span&gt;, you may be [[Wikipedia:Blocking policy|blocked from editing]].&lt;!-- Template:uw-vandalism3 --&gt; '''[[User:Callanecc|Callanecc]]''' ([[User talk:Callanecc|talk]] • [[Special:Contributions/Callanecc|contribs]] • [[Special:Log/Callanecc|logs]]) 09:40, 21 January 2013 (UTC)&lt;!-- Template:Huggle/warn-error-3 --&gt;
+	</talkpage>
+</article>

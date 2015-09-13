@@ -1,0 +1,7 @@
+<article id="39704034" title=Talk:Eric Rauchway>
+	<talkpage id="39704034" title="Talk:Eric Rauchway">
+{{talkheader}}
+{{WikiProject Biography|living=yes|class=stub|listas=Rauchway, Eric}}
+{{WikiProject Articles for creation|class=stub|ts=20130617211037|reviewer=DGG (NYPL)}}
+	</talkpage>
+</article>

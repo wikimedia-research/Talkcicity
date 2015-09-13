@@ -1,0 +1,5 @@
+<article id="40179940" title=Talk:Mecyclothorax sculptonotatus>
+	<talkpage id="40179940" title="Talk:Mecyclothorax sculptonotatus">
+{{WikiProject Beetles|class=Stub|importance=Low|needs-photo=yes}}
+	</talkpage>
+</article>

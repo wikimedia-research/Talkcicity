@@ -1,0 +1,10 @@
+<article id="9818044" title=Talk:Arthur Shapiro (ecologist)>
+	<talkpage id="9818044" title="Talk:Arthur Shapiro (ecologist)">
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|listas=Shapiro, Arthur
+}}
+{{WikiProject University of Pennsylvania|class= |importance= }}
+	</talkpage>
+</article>

@@ -1,0 +1,23 @@
+<article id="30708786" title=Talk:Galerius/to do>
+	<talkpage id="30708786" title="Talk:Galerius/to do">
+{{tasks
+|requests=
+|assess=
+|cleanup=
+|copyedit=
+|disambiguation=
+|expand=Expand on the [[Dacians|Dacian]] origin, per ancient sources
+|infobox=
+|maintain=
+|merge=
+|npov=
+|photo=
+|split=
+|stubs=
+|update=
+|verify=
+|wikify=
+|other=
+}}
+	</talkpage>
+</article>

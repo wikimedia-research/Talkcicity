@@ -1,0 +1,5 @@
+<article id="8410207" title=Talk:Nanawale Estates, Hawaii>
+	<talkpage id="8410207" title="Talk:Nanawale Estates, Hawaii">
+{{WPHawaii|class=Start|importance=Mid}}
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="27357201" title=Talk:Westland (New Zealand electorate)>
+	<talkpage id="27357201" title="Talk:Westland (New Zealand electorate)">
+{{WikiProject Elections and Referendums}}
+{{WikiProject New Zealand|class=Start |importance=low|politics=yes|politics-importance=low}}
+	</talkpage>
+</article>

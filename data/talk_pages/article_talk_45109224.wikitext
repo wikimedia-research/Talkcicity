@@ -1,0 +1,5 @@
+<article id="45109224" title=Talk:Kronsberg>
+	<talkpage id="45109224" title="Talk:Kronsberg">
+{{WikiProject Germany}}
+	</talkpage>
+</article>

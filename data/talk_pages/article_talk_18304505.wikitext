@@ -1,0 +1,23 @@
+<article id="18304505" title=Talk:HD 108874 b>
+	<talkpage id="18304505" title="Talk:HD 108874 b">
+{{WPAstronomy|object=yes|class=Stub|importance=low}}
+==Speculation is bad enough, but unreferenced speculation==
+&quot;Of all 303 planets found so far (June/08) it has the most Earth-like [[insolation]] with speculated [[black body temperature]] of 262 K.&quot; - if you had albedo and emissivity possibilities I could see this, but where are they, and why those specific figures, so that you can say specifically (272°K) one degree celsius. [[User:GabrielVelasquez|GabrielVelasquez]] ([[User talk:GabrielVelasquez|talk]]) 20:04, 5 July 2008 (UTC)
+: albedo and emissivity are unknown for an exoplanet. But, we can compare the colour temperature and  intensity of light at the planet's orbit to Earth's. If you look at the spectral class, (G5V, T= 5407 K as compared to G2V, T=5778 K for Sol), and luminosity of the star, L=1.14 L&lt;sub&gt;sol&lt;/sub&gt;, and the semi-major axis of the planet, a=1.051 ± 0.02 AU, these are all a remarkably close match to ours. It is very easy to find total [[irradiance]] as L/a² = 1.032 times what Earth gets in W/m². This yields an equilibrium temperature of just 2°C hotter, for comparable objects. (spinning spheres, albedo=0, emissivity=1) -- [[Special:Contributions/99.233.186.4|99.233.186.4]] ([[User talk:99.233.186.4|talk]]) 04:13, 14 January 2010 (UTC)
+==File:HD 108874 b.jpg Nominated for speedy Deletion==
+{|
+|-
+| [[File:Image-x-generic.svg|100px]] 
+| An image used in this article, [[commons:File:HD 108874 b.jpg|File:HD 108874 b.jpg]], has been nominated for speedy deletion at [[Wikimedia Commons]] for the following reason: ''Copyright violations'' 
+;What should I do?
+''Don't panic''; deletions can take a little longer at Commons than they do on Wikipedia. This gives you an opportunity to contest the deletion (although please review Commons guidelines before doing so). The best way to contest this form of deletion is by posting on the image talk page.
+* If the image is [[WP:NFCC|non-free]] then you may need to upload it to Wikipedia (Commons does not allow fair use)
+* If the image isn't freely licensed and there is no [[WP:FUR|fair use rationale]] then it cannot be uploaded or used.
+* If the image has already been deleted you may want to try [[commons:COM:UR|Commons Undeletion Request]]
+
+''This notification is provided by a Bot'' --[[User:CommonsNotificationBot|CommonsNotificationBot]] ([[User talk:CommonsNotificationBot|talk]]) 09:22, 5 January 2012 (UTC)
+|}
+==positioned at earthlike temperatures ==
+&quot;positioned at earthlike temperatures &quot;&lt;br/&gt;This reads like a really phoney expression.&lt;br/&gt;What is it really supposed to say?&lt;br/&gt;Maybe quoting the reference would make more sense? &lt;br/&gt;[[Special:Contributions/24.79.40.48|24.79.40.48]] ([[User talk:24.79.40.48|talk]]) 23:45, 7 June 2012 (UTC)
+	</talkpage>
+</article>

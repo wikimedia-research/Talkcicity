@@ -1,0 +1,6 @@
+<article id="43765134" title=Talk:Being Mrs Elliot>
+	<talkpage id="43765134" title="Talk:Being Mrs Elliot">
+{{WikiProject Film|class=Start}}
+{{WikiProject Nigeria|class=Start|importance=low}}
+	</talkpage>
+</article>

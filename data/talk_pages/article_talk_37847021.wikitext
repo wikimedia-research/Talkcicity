@@ -1,0 +1,10 @@
+<article id="37847021" title=Talk:Archer (company)>
+	<talkpage id="37847021" title="Talk:Archer (company)">
+{{Talk header}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Articles for creation|class=stub|ts=20121206043019|reviewer=Kraftlos}}
+{{WikiProject Companies|class=stub}}
+{{WikiProject Telecommunications|class=stub}}
+}}
+	</talkpage>
+</article>

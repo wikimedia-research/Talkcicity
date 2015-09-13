@@ -1,0 +1,31 @@
+<article id="37777276" title=Talk:Lawson (band)>
+	<talkpage id="37777276" title="Talk:Lawson (band)">
+{{WikiProject Biography |class=stub |living=yes |listas=Lawson |musician-work-group=yes |musician-priority=low}}
+{{WikiProject Pop music |class=stub |importance=low}}
+
+== Edit request on 29 March 2013 ==
+
+{{edit semi-protected|answered=yes}}
+&lt;!-- Begin request --&gt;
+Please change :
+Lawson are a British band. The band consists of Andy Brown (acoustic guitar and lead vocals), Ryan Fletcher (bass guitar and backing vocals), Joel Peat - bowl cut. (lead guitar and backing vocals) and Adam Pitts (drums), who are originally from Liverpool, Nottingham, Chesterfield and Brighton. 
+to:
+Lawson are a British band. The band consists of Andy Brown (acoustic guitar and lead vocals), Ryan Fletcher (bass guitar and backing vocals), Joel Peat (lead guitar and backing vocals) and Adam Pitts (drums), who are originally from Liverpool, Nottingham, Chesterfield and Brighton. 
+
+This section (Joel Peat - bowl cut. ) shouls just be (Joel Peat). It is taking the mick out of how he used to have his hair.
+
+Please change
+
+&lt;!-- End request --&gt;
+[[Special:Contributions/81.129.84.229|81.129.84.229]] ([[User talk:81.129.84.229|talk]]) 16:39, 29 March 2013 (UTC)
+:[[File:Yes check.svg|20px|link=|alt=]] '''Done'''&lt;!-- Template:ESp --&gt; Requested content is a [[WP:BLP|BLP]] violation. Thank you. &amp;mdash;&lt;span style=&quot;color:#808080&quot;&gt;[[User:Kuyabribri|'''KuyaBriBri''']]&lt;/span&gt;&lt;sup&gt;&lt;span style=&quot;color:#008080&quot;&gt;[[User_Talk:Kuyabribri|''Talk'']]&lt;/span&gt;&lt;/sup&gt; 14:47, 1 April 2013 (UTC)
+
+== Edit request 10 November 2013 ==
+
+In the section &quot;Members&quot; the band members' years of birth are not mentioned.
+
+e.g. &quot;Adam James Pitts born on 24 December in Brighton&quot; etc.
+
+Is there a reason for this?  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/2.98.194.214|2.98.194.214]] ([[User talk:2.98.194.214|talk]]) 01:19, 10 November 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

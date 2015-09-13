@@ -1,0 +1,12 @@
+<article id="10226755" title=Talk:Chris Wood (jazz musician)>
+	<talkpage id="10226755" title="Talk:Chris Wood (jazz musician)">
+{{WikiProject Biography
+|living=yes
+|class=Stub
+
+|musician-work-group=yes
+|listas=Wood, Chris
+}}
+{{WikiProject Jazz|class=Stub|importance=}}
+	</talkpage>
+</article>

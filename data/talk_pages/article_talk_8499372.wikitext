@@ -1,0 +1,6 @@
+<article id="8499372" title=Talk:Campos Rupestres montane savanna>
+	<talkpage id="8499372" title="Talk:Campos Rupestres montane savanna">
+{{WikiProject Brazil|class=start|importance=mid|geo=yes}}
+{{WikiProject ecoregions}}
+	</talkpage>
+</article>

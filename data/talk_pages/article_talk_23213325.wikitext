@@ -1,0 +1,11 @@
+<article id="23213325" title=Talk:Walter Hall (cricketer)>
+	<talkpage id="23213325" title="Talk:Walter Hall (cricketer)">
+{{WikiProject Biography
+|living=no
+|class=Stub
+|auto=inherit
+|listas=Hall, Walter
+}}
+{{WikiProject Cricket|class=stub|importance=low}}
+	</talkpage>
+</article>

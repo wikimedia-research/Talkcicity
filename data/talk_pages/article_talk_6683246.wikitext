@@ -1,0 +1,11 @@
+<article id="6683246" title=Talk:James Childress>
+	<talkpage id="6683246" title="Talk:James Childress">
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|s&amp;a-work-group=yes
+|listas=Childress, James
+}}
+{{WikiProject Philosophy|class=stub|importance=low|philosopher=yes}}
+	</talkpage>
+</article>

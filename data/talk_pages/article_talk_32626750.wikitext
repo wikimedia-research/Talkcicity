@@ -1,0 +1,17 @@
+<article id="32626750" title=User talk:200.113.55.122>
+	<talkpage id="32626750" title="User talk:200.113.55.122">
+
+
+== August 2011 ==
+[[Image:Information.svg|left|25px|alt=|link=]] Welcome to Wikipedia. Everyone is welcome to make constructive contributions to Wikipedia, but at least one of your recent edits, such as the one you made to [[:José Bosingwa]], did not appear to be constructive and has been '''automatically [[Help:Reverting|reverted]]''' (undone) by [[User:ClueBot NG|ClueBot NG]]. 
+* Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. Note that human editors do monitor recent changes to Wikipedia articles, and [[WP:ADMINS|administrators]] have the ability to [[WP:BLOCK|block]] users from editing if they repeatedly engage in [[WP:vandalism|vandalism]].
+* ClueBot NG produces very few [[User:ClueBot NG#Information About False Positives|false positives]], but it does happen. If you believe the change you made should not have been detected as unconstructive, please [[User:ClueBot NG#Information About False Positives|read about it]], [{{User:ClueBot NG/Warnings/FPReport|532454}} report it here], remove this warning from your talk page, and then make the edit again. 
+* The following is the log entry regarding this warning: [[José Bosingwa]] was [http://en.wikipedia.org/w/index.php?title=Jos%C3%A9+Bosingwa&amp;diff=442866912&amp;oldid=442234899 changed] by [[Special:Contributions/200.113.55.122|200.113.55.122]] [[User:200.113.55.122|(u)]] [[User talk:200.113.55.122|(t)]] ANN scored at 0.91047 on 2011-08-03T16:36:43+00:00 &lt;!-- MySQL ID: 532454 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]) 16:36, 3 August 2011 (UTC)
+
+[[File:Nuvola apps important.svg|25px|alt=|link=]] Please stop your [[Wikipedia:Disruptive editing|disruptive editing]]. If you continue to [[Wikipedia:Vandalism|vandalize]] Wikipedia, as you did at [[:José Bosingwa]], you may be [[Wikipedia:Blocking policy|blocked from editing]]. &lt;!-- Template:uw-vandalism3 --&gt;&lt;!-- Template:uw-cluebotwarning3 --&gt; [[User:Pdcook|&lt;strong&gt;P. D. Cook&lt;/strong&gt;]] &lt;sup&gt;[[User_talk:Pdcook|''Talk to me!'']]&lt;/sup&gt; 16:40, 3 August 2011 (UTC)
+:''If this is a [[closed proxy|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:SharedIPAdvice --&gt;
+
+[[Image:Stop hand nuvola.svg|30px|alt=|link=]] This is your '''last warning'''. The next time you [[Wikipedia:Vandalism|vandalize]] Wikipedia, as you did at [[:Jhonny Herrera]], you may be '''[[Wikipedia:Blocking policy|blocked]] from editing without further notice'''. &lt;!-- Template:uw-vandalism4 --&gt;&lt;!-- Template:uw-cluebotwarning4 --&gt; [[User:Pdcook|&lt;strong&gt;P. D. Cook&lt;/strong&gt;]] &lt;sup&gt;[[User_talk:Pdcook|''Talk to me!'']]&lt;/sup&gt; 16:44, 3 August 2011 (UTC)
+:''If this is a [[closed proxy|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:SharedIPAdvice --&gt;
+	</talkpage>
+</article>

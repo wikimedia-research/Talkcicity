@@ -1,0 +1,6 @@
+<article id="1436486" title=Talk:Getz Ice Shelf>
+	<talkpage id="1436486" title="Talk:Getz Ice Shelf">
+{{WikiProject Glaciers|class=stub}}
+{{WikiProject Antarctica|class=Stub}}{{GNIS_source}}
+	</talkpage>
+</article>

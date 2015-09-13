@@ -1,0 +1,8 @@
+<article id="6673136" title=Talk:Mousercise>
+	<talkpage id="6673136" title="Talk:Mousercise">
+{{WikiProjectBannerShell|1=
+{{WikiProject Disney|class=Stub|importance=low}}
+{{WikiProject Albums|class=stub|importance=low|attention=}}
+}}
+	</talkpage>
+</article>

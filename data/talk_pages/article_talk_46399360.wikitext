@@ -1,0 +1,26 @@
+<article id="46399360" title=User talk:Ejcrietv>
+	<talkpage id="46399360" title="User talk:Ejcrietv">
+
+
+== April 2015 ==
+[[File:Information.svg|left|25px|alt=]] Hello, and welcome to Wikipedia. This is a message letting you know that one or more of your recent edits to [[:Sextillion]] has been undone by an automated computer program called [[User:ClueBot NG|ClueBot NG]].
+{{clear}}
+* ClueBot NG makes very few [[User:ClueBot NG#Information About False Positives|mistakes]], but it does happen. If you believe the change you made was constructive, please [[User:ClueBot NG#Information About False Positives|read about it]], [{{User:ClueBot NG/Warnings/FPReport|2193176}} report it here], remove this message from your talk page, and then make the edit again.
+* For help, take a look at the [[Wikipedia:Introduction|introduction]].
+* The following is the log entry regarding this message: [[Sextillion]] was [http://en.wikipedia.org/w/index.php?title=Sextillion&amp;diff=656292019&amp;oldid=137581318 changed] by [[Special:Contributions/Ejcrietv|Ejcrietv]] [[User:Ejcrietv|(u)]] [[User talk:Ejcrietv|(t)]] ANN scored at 0.963589 on 2015-04-13T16:16:50+00:00 &lt;!-- MySQL ID: 2193176 --&gt;.
+Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]) 16:16, 13 April 2015 (UTC)
+
+== Ejcrietv, you are invited to the Teahouse! ==
+
+
+{| style=&quot;margin: 2em 4em;&quot;
+|- valign=&quot;top&quot;
+| [[File:WP teahouse logo 2.png|alt=Teahouse logo|link=w:en:WP:Teahouse|File:WP teahouse logo 2.png by User:Heatherawalls, licensed under CC BY-SA 3.0]]
+| &lt;div style=&quot;background-color:#f4f3f0; color: #393D38; padding: 1em;border-radius:10px; font-size: 1.1em;&quot;&gt;
+Hi '''Ejcrietv'''! Thanks for contributing to Wikipedia. Be our guest at [[WP:Teahouse|the Teahouse]]! The Teahouse is a friendly space where new editors can ask questions about contributing to Wikipedia and get help from peers and experienced editors. I hope to see you there! {{noping|Technical 13}} ([[w:en:WP:Teahouse/Hosts|I'm a Teahouse host]])
+&lt;div class=&quot;submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only&quot; role=&quot;button&quot; aria-disabled=&quot;false&quot;&gt;&lt;span class=&quot;ui-button-text&quot;&gt;[[WP:Teahouse|Visit the Teahouse]]&lt;/span&gt;&lt;/div&gt;&lt;small&gt;&lt;span style=&quot;text-align:right;&quot;&gt;This message was delivered automatically by your robot friend, [[User:HostBot|HostBot]] ([[User talk:HostBot|talk]]) 17:22, 13 April 2015 (UTC)&lt;/small&gt;&lt;/span&gt;
+&lt;/div&gt; 
+|}
+[[Category:Wikipedians who have received a Teahouse invitation]]&lt;!-- Template:Teahouse_HostBot_Invitation --&gt;
+	</talkpage>
+</article>

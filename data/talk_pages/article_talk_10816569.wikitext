@@ -1,0 +1,5 @@
+<article id="10816569" title=User talk:76.174.35.107>
+	<talkpage id="10816569" title="User talk:76.174.35.107">
+{{{icon|[[Image:Information.svg|25px|left]] }}}Please do not delete content from articles on Wikipedia{{{{{subst|}}}#if:RSS|, as you did to [[:RSS]]}}.  Your edits appear to be  [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]].  If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{{2|Thank you.}}}&lt;!-- Template:uw-delete2 --&gt; A link to the edit I have reverted can be found here: &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/w/index.php?title=RSS&amp;diff=next&amp;oldid=124370182 link]&lt;/span&gt;. If you believe this edit should not have been reverted, please contact me. &lt;!-- 300--&gt; [[User:Corpx|Corpx]] 18:12, 21 April 2007 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,15 @@
+<article id="20903368" title=Talk:2002 RCSL season>
+	<talkpage id="20903368" title="Talk:2002 RCSL season">
+{{WikiProject Canada |class =stub|importance =Low|sport=yes}}
+
+== Dead link ==
+
+During several automated bot runs the following external link was found to be unavailable. Please check if the link is in fact down and fix or remove it in that case!
+
+* http://www.rugbycanada.ca/news
+** In [[2002 RCSL season]] on 2011-05-25 07:23:52, 404 Not Found
+** In [[2002 RCSL season]] on 2011-06-11 04:48:04, 404 Not Found
+
+--[[User:JeffGBot|JeffGBot]] ([[User talk:JeffGBot|talk]]) 04:48, 11 June 2011 (UTC)
+	</talkpage>
+</article>

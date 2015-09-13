@@ -1,0 +1,24 @@
+<article id="31652591" title=User talk:Wing Dairu>
+	<talkpage id="31652591" title="User talk:Wing Dairu">
+'''Welcome!'''
+
+Hello, Wing Dairu, and [[Wikipedia:Introduction|welcome]] to Wikipedia! Thank you for [[Special:Contributions/Wing Dairu|your contributions]]. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:How to edit a page|How to edit a page]] and [[Wikipedia:Article development|How to develop articles]]
+*[[Wikipedia:Your first article|How to create your first article]] (using the [[Wikipedia:Article wizard|Article Wizard]] if you wish)
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign]] your messages on [[Help:Using talk pages|discussion page]]s using four [[tilde]]s (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically insert your username and the date. If you need help, check out [[Wikipedia:Questions]], ask me on my talk page, or ask your question on this page and then place &lt;code&gt;&lt;nowiki&gt;{{help me}}&lt;/nowiki&gt;&lt;/code&gt; before the question. Again, welcome! &lt;!-- Template:Welcome --&gt; [[User:TomStar81|TomStar81]] ([[User talk:TomStar81|Talk]]) 06:51, 2 May 2011 (UTC)
+
+== Source ==
+&quot;The Pakistani government was instrumental in the gathering of intelligence leading up to the raid, but were unaware that the raid itself was taking place until after it had been finished.&quot; What's your source for that? You seem well briefed and straight into battle on this important topic! [[User:Jamesinderbyshire|Jamesinderbyshire]] ([[User talk:Jamesinderbyshire|talk]]) 11:06, 2 May 2011 (UTC)
+
+== A kitten for you! ==
+
+[[File:Cucciolo gatto Bibo.jpg|left|150px]]
+Kittens!!
+
+&lt;span style=&quot;text-shadow:0 -1px #DDD,1px 0 #DDD,0 1px #DDD,-1px 0 #DDD;&quot;&gt;[[User:Moosehadley|''&lt;span style=&quot;color:#333333&quot;&gt;Moose&lt;/span&gt;'']][[User_talk:Moosehadley|''&lt;span style=&quot;color:#FF6600&quot;&gt;hadley&lt;/span&gt;'']]&lt;/span&gt; 04:12, 6 February 2013 (UTC)
+&lt;br style=&quot;clear: both;&quot;/&gt;
+	</talkpage>
+</article>

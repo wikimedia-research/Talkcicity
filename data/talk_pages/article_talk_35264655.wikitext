@@ -1,0 +1,21 @@
+<article id="35264655" title=User talk:Cuivenen>
+	<talkpage id="35264655" title="User talk:Cuivenen">
+
+==Welcome!==
+
+[[Image:Chocolate chip cookies.jpg|thumb|300px|Some cookies to welcome you! [[File:Face-smile.svg|25px]]]] [[Wikipedia:Welcoming committee/Welcome to Wikipedia|Welcome to Wikipedia]], Cuivenen! Thank you for [[Special:Contributions/Cuivenen|your contributions]]. I am [[User:Darkness Shines|Darkness Shines]] and I have been editing Wikipedia for some time, so if you have any questions feel free to leave me a message on [[User talk:Darkness Shines|my talk page]]. You can also check out [[Wikipedia:Questions]] or type {{tlx|helpme}} at the bottom of this page.  Here are some pages that you might find helpful:
+* [[Wikipedia:Introduction|Introduction]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Wikipedia:How to edit a page|How to edit a page]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Article development|How to write a great article]]
+Also, when you post on [[Wikipedia:Talk page|talk pages]] you should [[Wikipedia:Sign your posts on talk pages|sign your name]] using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); that will automatically produce your username and the date.  I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! 
+ 
+[[User:Darkness Shines|Darkness Shines]] ([[User talk:Darkness Shines|talk]]) 18:39, 29 March 2012 (UTC)
+
+== March 2012 ==
+[[Image:Information.svg|25px|alt=|link=]] Welcome to Wikipedia. Everyone is welcome to contribute to the encyclopedia, but when you add or change content, as you did to the article [[:Roast beef]], please cite a [[Wikipedia:Identifying reliable sources|reliable source]] for your addition. This helps maintain our policy of [[Wikipedia:Verifiability|verifiability]]. See [[Wikipedia:Citing sources]] for how to cite sources, and the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. Thank you.&lt;!-- Template:uw-unsourced1 --&gt; [[User:Darkness Shines|Darkness Shines]] ([[User talk:Darkness Shines|talk]]) 18:39, 29 March 2012 (UTC)
+
+[[Image:Stop hand nuvola.svg|30px|alt=|link=]] Do not use multiple [[IP address]]es to [[Wikipedia:Vandalism|vandalize]] Wikipedia, like you did at [[:Roast beef]]. Such attempts to avoid detection, or circumvent the [[WP:Blocking policy|blocking policy]] will not succeed. You are welcome to contribute constructively to Wikipedia but your recent edits have been [[WP:REVERT|reverted or removed]]. If you continue to vandalize Wikipedia '''you may be [[Wikipedia:Block|blocked]] from editing without further notice.'''&lt;!-- Template:Uw-multipleIPs --&gt; [[User:Darkness Shines|Darkness Shines]] ([[User talk:Darkness Shines|talk]]) 18:40, 29 March 2012 (UTC)
+	</talkpage>
+</article>

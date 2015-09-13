@@ -1,0 +1,12 @@
+<article id="23082338" title=Talk:Stephen Gough (footballer)>
+	<talkpage id="23082338" title="Talk:Stephen Gough (footballer)">
+{{WikiProject Biography
+|living=yes
+|class=stub
+|sports-priority=low
+|sports-work-group=yes
+|listas=Gough, Stephen
+}}
+{{WikiProject Football|class=Stub|importance=low|irish=yes}}
+	</talkpage>
+</article>

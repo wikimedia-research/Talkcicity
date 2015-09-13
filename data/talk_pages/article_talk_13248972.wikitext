@@ -1,0 +1,17 @@
+<article id="13248972" title=User talk:Kangeyan>
+	<talkpage id="13248972" title="User talk:Kangeyan">
+'''Welcome!'''
+
+Hello, {{BASEPAGENAME}}, and [[Wikipedia:Introduction|welcome]] to Wikipedia! Thank you for [[Special:Contributions/{{BASEPAGENAME}}|your contributions]]{{#if:{{{art|}}}|, especially what you did for [[{{{art}}}]]|}}. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Help:Contents|Help pages]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:Article development|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you need help, check out [[Wikipedia:Questions]], ask me on {{#if:{{{1|}}}|[[user talk:{{{1}}}|my talk page]]|my talk page}}, or ask your question and then place &lt;code&gt;&lt;nowiki&gt;{{&lt;/nowiki&gt;[[:Category:Wikipedians looking for help|helpme]]&lt;nowiki&gt;}}&lt;/nowiki&gt;&lt;/code&gt; before the question on your talk page. Again, welcome! &lt;!-- Template:Welcome --&gt; - [[User:KNM|KNM]] &lt;sup&gt; '''[[:User_talk:KNM|Talk]]'''&lt;/sup&gt; 16:42, 13 September 2007 (UTC)
+
+==[[Wikipedia_talk:WikiProject_Tamil_Nadu#WP:INDIA_Tagging_with_TinucherianBot|WP:INDIA Tagging with TinucherianBot for WikiProject Tamil Nadu]]==
+FYI- Your attention and help is requested .You are receiving this note as you are the member of the project -- [[User:Tinucherian|'''&lt;em style=&quot;font-family:Kristen ITC;color:#ff0000&quot;&gt; TinuCherian &lt;/em&gt;''']] &lt;sup&gt;  [[User talk:Tinucherian| (Wanna Talk?) ]] &lt;/sup&gt; - 09:37, 5 June 2008 (UTC)
+	</talkpage>
+</article>

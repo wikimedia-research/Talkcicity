@@ -1,0 +1,16 @@
+<article id="17564962" title=Talk:Joabe Batista Pereira>
+	<talkpage id="17564962" title="Talk:Joabe Batista Pereira">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|auto=yes
+|sports-work-group=yes
+|listas=Pereira, Joabe Batista
+}}
+{{WikiProject Brazil |sports=yes |importance=low |class=stub}}
+{{WikiProject Football |Brazil=yes |importance=low |class=stub}}
+| blp=yes
+}}
+	</talkpage>
+</article>

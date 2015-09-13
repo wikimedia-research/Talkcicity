@@ -1,0 +1,43 @@
+<article id="5054958" title=Talk:National Defense Reserve Fleet>
+	<talkpage id="5054958" title="Talk:National Defense Reserve Fleet">
+{{talk header}}
+{{WikiProjectBannerShell|1=
+{{WPUSA|USGOV=yes}}
+{{WikiProject Ships|class=C|B1=no|B2=no|B3=yes|B4=yes|B5=yes}}
+{{WPMILHIST|class=Start|B-Class-1=no|B-Class-2=yes|B-Class-3=yes|B-Class-4=yes|B-Class-5=yes|Maritime=yes|US=yes}}
+{{WikiProject Maritime Trades|class=C|B1=no|B2=no|B3=yes|B4=yes|B5=yes|importance=mid}}
+}}
+
+== Merger Discussion ==
+
+Need to merge/un-duplicate the following articles [[Inactive Ship Maintenance Facility]], [[National Defense Reserve Fleet]] and [[Ghost fleet]]. They have plenty of duplicate info. --[[User:MarsRover|MarsRover]] 02:03, 8 May 2006 (UTC)
+:My USD0.02:  It looks like Ghost fleet should be pared way down and link to the other two.  I don't think a simple redirect to NDRF will do, though, since it can refer to either. ISMF and NDRF are very distinct.  The ISMF is directly under the Navy.  NDRF is under MARAD, part of DOT.  It doesn't look like much duplication there, so trying to merge those two would not save much space.  They should cross reference each other though.--[[User:J Clear|J Clear]] 14:29, 11 June 2006 (UTC)
+:'''Keep ghost fleet''' as a separate article. The international controversies about shipbreaking and toxic waste are better kept in that single place. No problem with paring it down. --[[User:Mereda|Mereda]] 14:53, 20 June 2006 (UTC)
+
+::[[Inactive Ship Maintenance Facility]] seems to be different from the others. I wouldn't necessarily merge it. I'm thinking of changing the article name to [[Naval Inactive Ship Maintenance Facility]]. [[User:Lou Sander|Lou Sander]] 13:39, 24 August 2006 (UTC)
+
+:::I've been meaning to do better research on the formal names of things as there seems to be some overlap.  Like some of the James River ships might be ISMF and some might be NDRF (or possibly RRF), which complicates [[Ghost fleet]].  Some of the Navy's mothballed ships may be maintained by MARAD for the Navy, or get stricken and transfered to MARAD, which is entirely different from a &quot;status&quot; POV, but might mean they are rafted next to each other.  Someone with an eye for detail needs to harmonize all the articles.--[[User:J Clear|J Clear]] 00:15, 25 August 2006 (UTC)
+
+::::Our timing is good. I've also been researching the general subject of &quot;what happens to U.S.Navy ships when they're taken out of commission?&quot; Today I found an article on [[Naval Inactive Ship Maintenance Facility]], which covers some of it. But Googling doesn't reveal very much about the NISMF. Also the NIMSF article doesn't name sources and some of its info seems shaky. I have a feeling that its name is obsolete, and things may have been renamed or reorganized as &quot;NAVSEA Inactive Ships On-Site Maintenance Offices (INACTSHIPMAINTOs),&quot; which are mentioned on the [[Naval Vessel Register]] web site. Googling around that stuff uncovered a Rear Admiral Hamilton, who is in charge of something called the Inactive Ships Program Office, which seems to be the highest office that concerns itself with &quot;mothballed&quot; ships. As luck would have it, both he and I are graduates of the Duke University NROTC program, and we had similar first assignments. I wrote him a letter today (couldn't find an email address), asking if he could steer me to somebody with current and historical knowledge of the general subject of decommissioned ships. Sometimes these guys don't respond, but if HE does, I'm thinking we'll get to a source of authoritative information on the subject. [[User:Lou Sander|Lou Sander]] 01:01, 25 August 2006 (UTC)
+
+:::::Speaking of schools better known for basketball than engineering, the letter to RADM Hamilton is '''[http://www.ussrankin.org/HTMLobj-2663/082406_RADM_Hamilton.doc HERE]'''. [[User:Lou Sander|Lou Sander]] 01:25, 25 August 2006 (UTC)
+
+:::: Current clarification of NDRF and RRF http://www.marad.dot.gov/offices/ship/PRESS_NDRF_RRF_2qtr06.pdf.  Although it doesn't really clear up those vessels still on the NVR that MARAD is taking care of, sigh.  Actually if you dig into the [http://www.marad.dot.gov/offices/ship/Current_Inventory.pdf MARAD inventory], you get a better picture.--[[User:J Clear|J Clear]] 03:19, 25 August 2006 (UTC)
+
+:::::Comments: 
+:::::* There are three other articles to consider as well; when you go to shift text around and consolidate material into fewer articles, you may want to also look at the following:
+:::::** [[List of Military Sealift Command ships#Ready Reserve Force Ships]]
+:::::** [[United States Navy reserve fleets]]
+:::::** [[Reserve fleet]]
+:::::* These articles have a strong U.S. feel to them (and obviously, some are titled to be about U.S. ships only). Do other countries have mothball fleets? If so, consider a hierachy of articles such as general &quot;Reserve Fleet&quot; article with links to &quot;U.S. Reserve Fleet&quot;, &quot;Russian Reserve Fleet&quot;, etc.
+:::::* Finally, there's the global topic of mothballing and shipbreaking old ships, both merchant and naval. [[User:Mereda|Mereda]] noted this above. I note there's already an article that addresses this, [[Ship breaking]].
+:::::--[[User:A. B.|A. B.]] 22:17, 30 October 2006 (UTC)
+
+== Blue Norway ==
+
+The recently-linked-to Blue Norway web site seems pretty non-encyclopedic to me. Other opinions? [[User:Lou Sander|Lou Sander]] ([[User talk:Lou Sander|talk]]) 16:09, 4 August 2008 (UTC)
+
+==Looping &quot;see also&quot;==
+James River Reserve Fleet redirects to this page but is cited as a see also, What do? [[User:CombatWombat42|CombatWombat42]]  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|undated]] comment added 18:34, 12 March 2011 (UTC).&lt;/span&gt;&lt;!--Template:Undated--&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

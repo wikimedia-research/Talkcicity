@@ -1,0 +1,9 @@
+<article id="17459473" title=User talk:Sephiroth8930stm>
+	<talkpage id="17459473" title="User talk:Sephiroth8930stm">
+
+==Speedy deletion of [[:Colin dempsey]]==
+[[Image:Nuvola apps important.svg|48px|left]] Please refrain from introducing inappropriate pages such as [[:Colin dempsey]], to Wikipedia. Doing so is not in accordance with our [[Wikipedia:List of policies|policies]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. 
+
+If you think that this notice was placed here in error, you may contest the deletion by adding &lt;code&gt;{{tl|hangon}}&lt;/code&gt; to '''the top of [[:Colin dempsey|the page that has been nominated for deletion]]''' (just below the existing speedy deletion or &quot;db&quot; tag), coupled with adding a note on '''[[ Talk:Colin dempsey|the talk page]]''' explaining your position, but be aware that once tagged for ''speedy'' deletion, if the article meets the criterion it may be deleted without delay. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the article that would would render it more in conformance with Wikipedia's policies and guidelines. Lastly, please note that if the article does get deleted, you can contact [[:Category:Wikipedia administrators who will provide copies of deleted articles|one of these admins]] to request that a copy be emailed to you. &lt;!-- Template:Db-vandalism-notice --&gt; &lt;!-- Template:Db-csd-notice-custom --&gt; [[User:Rnb|Rnb]] ([[User talk:Rnb|talk]]) 17:48, 16 May 2008 (UTC)
+	</talkpage>
+</article>

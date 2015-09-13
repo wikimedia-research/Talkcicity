@@ -1,0 +1,10 @@
+<article id="10367983" title=Talk:Te Ahu Davis>
+	<talkpage id="10367983" title="Talk:Te Ahu Davis">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=yes |class=Stub |listas=Davis, Te Ahu |auto=yes |sports-work-group=yes}}
+{{WikiProject New Zealand|class=Stub|importance=low|auto=yes}}
+{{WikiProject Cricket|class=stub|importance=low}}
+| blp=yes
+}}
+	</talkpage>
+</article>

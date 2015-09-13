@@ -1,0 +1,8 @@
+<article id="31650110" title=User talk:99.254.241.181>
+	<talkpage id="31650110" title="User talk:99.254.241.181">
+
+== May 2011 ==
+
+&lt;div style=clear: both&gt;&lt;/div&gt;[[Image:Information.svg|25px|alt=|link=]] Your recent edit to the page [[:Jiffy (time)]] with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Jiffy_(time)?diff=426973050 this edit]&lt;/span&gt; appears to have added incorrect information and has been [[Help:Reverting|reverted]] or removed. All information in this encyclopedia must be [[Wikipedia:Verifiability|verifiable]] in a [[Wikipedia:Identifying reliable sources|reliable]], published source. If you believe the information that you added was correct, please [[Wikipedia:Citing sources|cite the references or sources]] or before making the changes, discuss them on the article's [[Wikipedia:Talk page guidelines|talk page]]. Please use the [[Wikipedia:Sandbox|sandbox]] for any tests that you wish to make. Do take a look at the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] if you would like to learn more about contributing to our encyclopedia. Thank you. [[User:Diannaa|&lt;span style=&quot;color:teal;&quot;&gt;Diannaa&lt;/span&gt;]] &lt;sup&gt;([[User talk:Diannaa|Talk]])&lt;/sup&gt; 23:38, 1 May 2011 (UTC)&lt;!-- Template:Huggle/warn-error-1 --&gt;
+	</talkpage>
+</article>

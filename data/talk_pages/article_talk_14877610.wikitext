@@ -1,0 +1,6 @@
+<article id="14877610" title=Talk:1994 Indianapolis Colts season>
+	<talkpage id="14877610" title="Talk:1994 Indianapolis Colts season">
+{{WikiProject National Football League|class=Stub}}
+{{WikiProject Indianapolis Colts|class=Stub|importance=High}}
+	</talkpage>
+</article>

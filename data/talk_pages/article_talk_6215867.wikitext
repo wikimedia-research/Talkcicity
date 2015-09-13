@@ -1,0 +1,8 @@
+<article id="6215867" title=User talk:69.152.230.7>
+	<talkpage id="6215867" title="User talk:69.152.230.7">
+==Your edit to [[Nintendo]]==
+Your recent edit to [[:Nintendo]] ([http://en.wikipedia.org/w/index.php?title=Nintendo&amp;diff=67078685&amp;oldid=67062734 diff]) was reverted by an '''automated bot''' that attempts to recognize and repair [[Wikipedia:vandalism|vandalism]] to Wikipedia articles. If the bot reverted a legitimate edit, please accept my humble creator's apologies – if you bring it to the attention of the bot's owner, we may be able to improve its behavior. '''[[User:AntiVandalBot/FAQ|Click here]]''' for '''frequently asked questions''' about the bot and this warning. // [[User:AntiVandalBot|AntiVandalBot]] 17:58, 1 August 2006 (UTC)
+
+[[Image:Stop_hand.png|left|30px]] This is your '''last warning'''.  The next time you vandalize a page, as you did to [[:Nintendo]], you ''will'' be blocked from editing Wikipedia. &lt;!-- Template:Test4-n (Fourth level warning) --&gt; A link to the edit I have reverted can be found here: [http://en.wikipedia.org/w/index.php?title=Nintendo&amp;diff=next&amp;oldid=67078692 link]. If you believe this edit should not have been reverted, please contact me. &lt;!-- 456--&gt; [[User:Bigtop|&lt;font color=&quot;blue&quot;&gt;Big&lt;/font&gt;]][[User talk:Bigtop|'''&lt;font color=&quot;gray&quot;&gt;top&lt;/font&gt;''']] 18:00, 1 August 2006 (UTC)
+	</talkpage>
+</article>

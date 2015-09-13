@@ -1,0 +1,9 @@
+<article id="2956269" title=Talk:Centavo>
+	<talkpage id="2956269" title="Talk:Centavo">
+{{DisambigProject}}
+{{Numismaticnotice|class=dab}}
+
+editors, attention. Please place this resource-http://en.wiktionary.org/wiki/centavo#Portuguese- under the heading &quot;resources.&quot; When you're done, just type &quot;resource placing done&quot; to let other editors  know you're done.
+thank you --polpoluu~ 19:16, 14 April 2012 (UTC)
+	</talkpage>
+</article>

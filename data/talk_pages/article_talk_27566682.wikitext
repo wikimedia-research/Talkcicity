@@ -1,0 +1,6 @@
+<article id="17245267" title=Talk:Hartland, Wisconsin (disambiguation)>
+	<talkpage id="17245267" title="Talk:Hartland, Wisconsin (disambiguation)">
+{{DisambigProject}}
+{{WikiProject Wisconsin|class=Dab|importance=NA}}
+	</talkpage>
+</article>

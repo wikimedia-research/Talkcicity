@@ -1,0 +1,9 @@
+<article id="17139502" title=Talk:Nate Abrams>
+	<talkpage id="17139502" title="Talk:Nate Abrams">
+{{WikiProjectBannerShell|1=
+ {{WikiProject Biography|living=no|class=stub|sports-priority=low|sports-work-group=yes|listas=Abrams, Nate}}
+ {{WikiProject National Football League|class=stub}}
+ {{WikiProject Green Bay Packers|class=stub|importance=low}}
+}}
+	</talkpage>
+</article>

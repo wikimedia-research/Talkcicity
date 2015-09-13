@@ -1,0 +1,12 @@
+<article id="22005450" title=User talk:86.54.187.202>
+	<talkpage id="22005450" title="User talk:86.54.187.202">
+==March 2009==
+[[Image:Information.svg|25px]] Please do not delete content or templates from pages on Wikipedia{{#if:|, as you did to [[:{{{1}}}]],}} without giving a valid reason for the removal in the [[Help:Edit summary|edit summary]]. Your content removal does not appear constructive, and has been [[Help:Reverting|reverted]]. Please make use of the [[Wikipedia:Sandbox|sandbox]] if you'd like to experiment with test edits. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-delete2 --&gt; [[User:GeneralAtrocity|GeneralAtrocity]] ([[User talk:GeneralAtrocity|talk]]) 17:20, 16 March 2009 (UTC)
+
+[[Image:Nuvola apps important.svg|25px]] Please do not vandalize pages, as you did with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Call_of_Duty%3a_Modern_Warfare_2?diff=277678814 this edit]&lt;/span&gt; to [[:Call of Duty: Modern Warfare 2]]. If you continue to do so, you will be blocked from editing. &lt;!-- Template:uw-huggle3 --&gt; [[User:Madhero88|Maen. K. A.]] ([[User talk:Madhero88|talk]]) 17:20, 16 March 2009 (UTC)
+
+== June 2009 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Calzone?diff=299318164 recent edit]&lt;/span&gt; you made to the page [[:Calzone]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:J.delanoy|&lt;font color=&quot;green&quot;&gt;J'''.'''delanoy&lt;/font&gt;]][[User Talk:J.delanoy|&lt;sup&gt;&lt;font color=&quot;red&quot;&gt;gabs&lt;/font&gt;&lt;/sup&gt;]][[Special:Contributions/J.delanoy|&lt;font color=&quot;blue&quot;&gt;&lt;sub&gt;adds&lt;/sub&gt;&lt;/font&gt;]] 14:45, 29 June 2009 (UTC)
+	</talkpage>
+</article>

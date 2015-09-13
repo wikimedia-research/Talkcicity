@@ -1,0 +1,8 @@
+<article id="44185849" title=User talk:99.8.90.154>
+	<talkpage id="44185849" title="User talk:99.8.90.154">
+== October 2014 ==
+
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:Seahorseruler|Seahorseruler]]. An edit you recently made to [[:Schenck v. United States]] seemed to be a test and has been removed. If you want more practice editing, the [[Wikipedia:Sandbox|sandbox]] is the best place to do so. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Seahorseruler|my talk page]]. Thanks. &lt;!-- Template:Huggle/warn-test-1 --&gt;&lt;!-- Template:uw-test1 --&gt;[[User:Seahorseruler|&lt;span style='color:#1A2BBB'&gt;'''Seahorseruler'''&lt;/span&gt;]] &lt;sup&gt;[[User talk:Seahorseruler|(Talk Page)]] [[Special:Contributions/Seahorseruler|(Contribs)]]&lt;/sup&gt; 22:25, 22 October 2014 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

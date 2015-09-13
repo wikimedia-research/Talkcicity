@@ -1,0 +1,7 @@
+<article id="27918568" title=Talk:Ryan Trudgian>
+	<talkpage id="27918568" title="Talk:Ryan Trudgian">
+{{reqphoto|association football people}}
+{{WikiProject Biography |living=yes|class=Start|sports-priority=Low|sports-work-group=yes|needs-photo=|listas=Trudgian, Ryan}} 
+{{WikiProject Football|class=Start|importance=Low|England=yes}}
+	</talkpage>
+</article>

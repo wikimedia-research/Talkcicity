@@ -1,0 +1,13 @@
+<article id="7053218" title=Talk:Alexander McDonell (politician)>
+	<talkpage id="7053218" title="Talk:Alexander McDonell (politician)">
+{{WikiProject Canada|class=Stub|importance=Low|ppap=yes}}
+{{WikiProject Biography
+|living=no
+|class=Stub
+|needs-infobox=yes
+|politician-work-group=yes
+|listas=McDonell, Alexander
+|needs-photo=yes
+}}
+	</talkpage>
+</article>

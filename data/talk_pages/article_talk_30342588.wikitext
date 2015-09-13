@@ -1,0 +1,8 @@
+<article id="30342588" title=Talk:Ákos Haller>
+	<talkpage id="30342588" title="Talk:Ákos Haller">
+{{WikiProject Hungary|class=
+|importance=
+}}
+{{WikiProject Biography|living=yes|class=stub|auto=yes|listas=Haller, Akos}}
+	</talkpage>
+</article>

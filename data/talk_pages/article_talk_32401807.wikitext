@@ -1,0 +1,5 @@
+<article id="32401807" title=Talk:Harmony (Anne Murray album)>
+	<talkpage id="32401807" title="Talk:Harmony (Anne Murray album)">
+{{album}}
+	</talkpage>
+</article>

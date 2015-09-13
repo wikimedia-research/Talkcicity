@@ -1,0 +1,13 @@
+<article id="18954468" title=User talk:92.235.201.173>
+	<talkpage id="18954468" title="User talk:92.235.201.173">
+== August 2008 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Bobby_Williamson?diff=233206843 recent edit]&lt;/span&gt; you made to [[:Bobby Williamson]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:J.delanoy|&lt;font color=&quot;green&quot;&gt;J'''.'''delanoy&lt;/font&gt;]][[User Talk:J.delanoy|&lt;sup&gt;&lt;font color=&quot;red&quot;&gt;gabs&lt;/font&gt;&lt;/sup&gt;]][[Special:Contributions/J.delanoy|&lt;font color=&quot;blue&quot;&gt;&lt;sub&gt;adds&lt;/sub&gt;&lt;/font&gt;]] 23:02, 20 August 2008 (UTC)
+
+== January 2009 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Ulrika_Jonsson?diff=261539343 recent edit]&lt;/span&gt; you made to [[:Ulrika Jonsson]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:Glane23|&lt;font face=&quot;Bauhaus 93&quot; color=&quot;blue&quot; size=&quot;4&quot;&gt;Geoff&lt;/font&gt;]] [[User talk:Glane23|&lt;sup&gt;&lt;font color=&quot;blue&quot;&gt;''T'' &lt;/font&gt;&lt;/sup&gt;]][[Special:Contributions/Glane23|&lt;sup&gt;&lt;font color=&quot;blue&quot;&gt;''C'' &lt;/font&gt;&lt;/sup&gt;]] 22:28, 2 January 2009 (UTC)
+
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits{{#if:Sebastian Boenisch|, such as the one you made to [[:Sebastian Boenisch]],}} did not appear to be constructive and has been reverted. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; [[User:Piano non troppo|Piano non troppo]] ([[User talk:Piano non troppo|talk]]) 20:00, 8 August 2009 (UTC)
+	</talkpage>
+</article>

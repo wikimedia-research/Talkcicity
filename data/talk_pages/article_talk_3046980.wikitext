@@ -1,0 +1,34 @@
+<article id="3046980" title=Talk:Minkowski inequality>
+	<talkpage id="3046980" title="Talk:Minkowski inequality">
+== proof is incomplete ==
+
+The proof is incomplete as one of the conditions to use Hoelder's inequality is in this case that &lt;math&gt;|f+g|^{p-1} \in L^q&lt;/math&gt; or equivalently that &lt;math&gt;|f+g| \in L^p&lt;/math&gt;. To avoid reasoning circularly this would have to be proved without using the Minkowski inequality. Anybody knows how to do this in a nice way? --[[User:MarSch|MarSch]] 13:58, 1 October 2007 (UTC)
+:This condition is not necessary for the use of Holder's inequality (it is only used if one wants to prove that both sides of Holder's inequality are finite). [[User:R.e.b.|R.e.b.]] 15:20, 1 October 2007 (UTC)
+::The current [[Hölder's_inequality#Proof|proof]] of [[Hölder's inequality]] uses this finiteness condition to justify, in effect, division (normalization). So if what you say is correct then the problem has merely shifted from here to there. --[[User:MarSch|MarSch]] 13:23, 2 October 2007 (UTC)
+:Holder's inequality holds trivially  if one of the functions has infinite norm. [[User:R.e.b.|R.e.b.]] 14:59, 2 October 2007 (UTC)
+You are correct of course. --[[User:MarSch|MarSch]] 16:58, 2 October 2007 (UTC)
+
+:The division by &lt;math&gt;(\|f + g\|_p)^{p-1}&lt;/math&gt; at the end of the proof also requires that finiteness of &lt;math&gt;\|f + g\|_p&lt;/math&gt; has been proven. --[[User:MarSch|MarSch]] 10:54, 3 October 2007 (UTC)
+Okay, I think we're all good now. Thanks [[User:R.e.b.|R.e.b.]]. --[[User:MarSch|MarSch]] 12:19, 4 October 2007 (UTC)
+
+== The proof is due to Hardy and Littlewood ==
+I believe so, but I don't have a source confirming it at hand. So, I'm putting this here instead of the article. -- [[User:TakuyaMurata|Taku]] ([[User talk:TakuyaMurata|talk]]) 00:12, 2 January 2009 (UTC)
+
+== Comments for Minkowski's integral inequality. ==
+
+Since the integral form is for some obscure reason often not covered in elementary textbooks, I find that the section concerning the integral form ought to be put in a completely precise form. In that regard, the conditions stated are insufficient. Both measures are usually assumed sigma-finite. The proof of the integral form is more or less the same as the non-integral version (with an extra limit argument to assure finiteness), but relies on the Fubini-Tonelli Theorem (at the point where sum and integration are interchanged), which is where the sigma-finite condition enters. Note that the standard counter example to the Fubini-Tonelli Theorem for non-sigma-finite measures is also a counter example for Minkowski's Integral Inequality for non-sigma-finite measures: Take &lt;math&gt;f:[0,1]\times[0,1]\rightarrow[0,1]&lt;/math&gt; with f(x,y)=1 if x=y and zero otherwise, and put Lebesgue meaure in one coordinate and counting measure in the other. The sigma-finite condition on both measure spaces is thus not superfluous.
+
+
+Also, I find the following form of Minkowski's Integral Inequality enlightening, as it shows in a pretty neat fashion the relation between the 'normal' Minkowski inequality and the integral version (generalising by considering integrals instead of sums):
+
+Note that the standard Minkowski Inequality can be put in the form
+
+&lt;math&gt;\|\!\sum_j \! f_j\|_p\leq\sum_j\!\|f_j\|_p&lt;/math&gt;.
+
+Now we see that the integral form can equivalently be cast in the form
+
+&lt;math&gt;\|\!\int \! F(x,\cdot)\, dx\|_p\leq\int\!\|F(x,\cdot)\|_p\,dx&lt;/math&gt;,
+
+where the dot means that the norm is calculated with respect to the dotted variable. [[User:Isdatmaths|Isdatmaths]] ([[User talk:Isdatmaths|talk]]) 09:21, 14 February 2013 (UTC)
+	</talkpage>
+</article>

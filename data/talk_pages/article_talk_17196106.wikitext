@@ -1,0 +1,7 @@
+<article id="17196106" title=User talk:83.109.63.66>
+	<talkpage id="17196106" title="User talk:83.109.63.66">
+
+== April 2008 ==
+{{{icon|[[Image:Information.svg|25px]] }}} Your recent edit to [[:Anderson Luís de Abreu Oliveira]] ([http://en.wikipedia.org/w/index.php?title=Anderson_Lu%C3%ADs_de_Abreu_Oliveira&amp;curid=4288926&amp;diff=209241922&amp;oldid=208514421 diff]) was reverted by an '''automated bot'''. The edit was identified as adding [[WP:VAND|vandalism]], or [[WP:SPAM|link spam]] to the page or having an inappropriate [[WP:ES|edit summary]]. If you want to experiment, please use the preview button while editing or consider using the [[Wikipedia:Sandbox|sandbox]]. If this revert was in error, please contact the bot operator. If you made an edit that removed a large amount of content, try doing smaller edits instead. Thanks!&lt;!-- Template:uw-vandalism1 --&gt; // [[User:VoABot II|VoABot II]] ([[User talk:VoABot II|talk]]) 15:18, 30 April 2008 (UTC)
+	</talkpage>
+</article>

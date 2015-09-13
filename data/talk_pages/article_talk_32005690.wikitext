@@ -1,0 +1,9 @@
+<article id="32005690" title=Talk:1993–94 Second League of FR Yugoslavia>
+	<talkpage id="32005690" title="Talk:1993–94 Second League of FR Yugoslavia">
+{{WikiProjectBannerShell|1=
+{{WikiProject Montenegro|class=Start|importance=Low}}
+{{WikiProject Serbia|class=Start|importance=Low}}
+{{WikiProject Football|class=start|importance=low|season=yes}}
+}}
+	</talkpage>
+</article>

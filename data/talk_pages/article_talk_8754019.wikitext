@@ -1,0 +1,18 @@
+<article id="8754019" title=User talk:Jacqueline ripstein>
+	<talkpage id="8754019" title="User talk:Jacqueline ripstein">
+{{#if:{{{header|}}}|=={{{header-text|Notability of [[:Jacqueline Ripstein'art, a legacy to humanity]]}}}==}}
+A tag has been placed on [[:Jacqueline Ripstein'art, a legacy to humanity]], requesting that it be speedily deleted from Wikipedia. This has been done under the [[WP:CSD#Articles|criteria for speedy deletion]], because the article seems to be blatant advertising which only promotes a company, product, group or service and which would need to be fundamentally rewritten in order to become an encyclopedia article. Please read [[Wikipedia:Criteria for speedy deletion#G11|the general criteria for speedy deletion]], particularly item 11, as well as [[WP:SPAM|the guidelines on spam]]. 
+
+If you can indicate why the subject of this article is not blatant advertising, you may contest the tagging. To do this, please add &lt;code&gt;{{tl|hangon}}&lt;/code&gt; on the top of the page and leave a note on [[Talk:Jacqueline Ripstein'art, a legacy to humanity|the article's talk page]] explaining your position. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the article that would help make it encyclopedic, as well as adding any [[Wikipedia:Citing sources|citations]] from [[Wikipedia:Reliable sources|reliable sources]] to ensure that the article will be [[Wikipedia:Verifiability|verifiable]]. Feel free to leave a note on my talk page if you have any questions about this. [[User:Fan-1967|Fan-1967]] 15:44, 4 January 2007 (UTC)
+
+== Jacqueline Ripstein's Art, a healing legacy to humanity ==
+
+{{#if:{{{header|}}}|=={{{header-text|Notability of [[:Jacqueline Ripstein's Art, a healing legacy to humanity]]}}}==}}
+A tag has been placed on [[:Jacqueline Ripstein's Art, a healing legacy to humanity]], requesting that it be speedily deleted from Wikipedia. This has been done under the [[WP:CSD#Articles|criteria for speedy deletion]], because the article seems to be blatant advertising which only promotes a company, product, group or service and which would need to be fundamentally rewritten in order to become an encyclopedia article. Please read [[Wikipedia:Criteria for speedy deletion#G11|the general criteria for speedy deletion]], particularly item 11, as well as [[WP:SPAM|the guidelines on spam]]. 
+
+If you can indicate why the subject of this article is not blatant advertising, you may contest the tagging. To do this, please add &lt;code&gt;{{tl|hangon}}&lt;/code&gt; on the top of the page and leave a note on [[Talk:Jacqueline Ripstein's Art, a healing legacy to humanity|the article's talk page]] explaining your position. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the article that would help make it encyclopedic, as well as adding any [[Wikipedia:Citing sources|citations]] from [[Wikipedia:Reliable sources|reliable sources]] to ensure that the article will be [[Wikipedia:Verifiability|verifiable]]. Feel free to leave a note on my talk page if you have any questions about this.
+
+
+Please do not create any more copies of this, under any title. [[User:Fan-1967|Fan-1967]] 15:49, 4 January 2007 (UTC)
+	</talkpage>
+</article>

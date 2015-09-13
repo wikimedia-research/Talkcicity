@@ -1,0 +1,5 @@
+<article id="24025163" title=Talk:Bulbophyllum pectinatum>
+	<talkpage id="24025163" title="Talk:Bulbophyllum pectinatum">
+{{WikiProject Plants|class=Stub|importance=}}
+	</talkpage>
+</article>

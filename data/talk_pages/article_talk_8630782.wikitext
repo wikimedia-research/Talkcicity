@@ -1,0 +1,37 @@
+<article id="8630782" title=User talk:Shindo747>
+	<talkpage id="8630782" title="User talk:Shindo747">
+==License tagging for Image:A2D.jpg==
+Thanks for uploading [[:Image:A2D.jpg]]. Wikipedia gets thousands of images uploaded every day, and in order to verify that the images can be legally used on Wikipedia, the source and copyright status must be indicated. Images need to have an [[Wikipedia:Image copyright tags|image tag]] applied to the [[Wikipedia:Image description page|image description page]] indicating the copyright status of the image. This uniform and easy-to-understand method of indicating the license status allows potential re-users of the images to know what they are allowed to do with the images.
+
+For more information on using images, see the following pages:
+* [[Wikipedia:Image use policy]]
+* [[Wikipedia:Image copyright tags]]
+
+This is an automated notice by [[User:OrphanBot|OrphanBot]]. If you need help on selecting a tag to use, or in adding the tag to the image description, feel free to post a message at [[Wikipedia:Media copyright questions]]. 18:04, 27 December 2006 (UTC)
+==License tagging for Image:Eyenine.gif==
+Thanks for uploading [[:Image:Eyenine.gif]]. Wikipedia gets thousands of images uploaded every day, and in order to verify that the images can be legally used on Wikipedia, the source and copyright status must be indicated. Images need to have an [[Wikipedia:Image copyright tags|image tag]] applied to the [[Wikipedia:Image description page|image description page]] indicating the copyright status of the image. This uniform and easy-to-understand method of indicating the license status allows potential re-users of the images to know what they are allowed to do with the images.
+
+For more information on using images, see the following pages:
+* [[Wikipedia:Image use policy]]
+* [[Wikipedia:Image copyright tags]]
+
+This is an automated notice by [[User:OrphanBot|OrphanBot]]. If you need help on selecting a tag to use, or in adding the tag to the image description, feel free to post a message at [[Wikipedia:Media copyright questions]]. 19:05, 27 December 2006 (UTC)
+==License tagging for Image:Eyeninegratitude.ogg==
+Thanks for uploading [[:Image:Eyeninegratitude.ogg]]. Wikipedia gets thousands of images uploaded every day, and in order to verify that the images can be legally used on Wikipedia, the source and copyright status must be indicated. Images need to have an [[Wikipedia:Image copyright tags|image tag]] applied to the [[Wikipedia:Image description page|image description page]] indicating the copyright status of the image. This uniform and easy-to-understand method of indicating the license status allows potential re-users of the images to know what they are allowed to do with the images.
+
+For more information on using images, see the following pages:
+* [[Wikipedia:Image use policy]]
+* [[Wikipedia:Image copyright tags]]
+
+This is an automated notice by [[User:OrphanBot|OrphanBot]]. If you need help on selecting a tag to use, or in adding the tag to the image description, feel free to post a message at [[Wikipedia:Media copyright questions]]. 20:08, 27 December 2006 (UTC)
+
+==AfD nomination of [[Eyenine]]==
+[[Image:Circle-style-warning.svg|left|48px|]]An article that you have been involved in editing, [[Eyenine]], has been listed for [[Wikipedia:Deletion policy|deletion]].  If you are interested in the deletion discussion, please participate by adding your comments at [[Wikipedia:Articles for deletion/{{{2|Eyenine}}}]].  Thank you.&lt;!-- Template:adw --&gt; '''sparkl&lt;sub&gt;[[User:Sparklism|!]]&lt;/sub&gt;sm''' &lt;sup&gt;&lt;small&gt;''[[User_talk:Sparklism| hey!]]''&lt;/small&gt;&lt;/sup&gt; 05:49, 21 December 2007 (UTC)
+
+==Proposed deletion of Afraid to Dream==
+[[Image:Ambox warning yellow.svg|left|48px|]]
+A [[Wikipedia:Proposed deletion|proposed deletion]] template has been added to the article [[Afraid to Dream]], suggesting that it be deleted according to the proposed deletion process. All contributions are appreciated, but this article may not satisfy Wikipedia's [[Wikipedia:Criteria for inclusion|criteria for inclusion]], and the deletion notice should explain why (see also &quot;[[Wikipedia:What Wikipedia is not|What Wikipedia is not]]&quot; and [[Wikipedia:Deletion policy|Wikipedia's deletion policy]]).  You may prevent the proposed deletion by removing the &lt;code&gt;{{tl|dated prod}}&lt;/code&gt; notice, but please explain why you disagree with the proposed deletion in your edit summary or on [[Talk:Afraid to Dream|its talk page]].
+
+Please consider improving the article to address the issues raised because even though removing the deletion notice will prevent deletion through the [[WP:PROD|proposed deletion process]], the article may still be deleted if it matches any of the [[Wikipedia:Criteria for speedy deletion|speedy deletion criteria]] or it can be sent to [[Wikipedia:Articles for deletion|Articles for Deletion]], where it may be deleted if [[Wikipedia:Consensus|consensus]] to delete is reached.&lt;!-- Template:PRODWarning --&gt; &lt;b&gt;[[User:Jauerback|Jauerback]]&lt;/b&gt;&lt;sup&gt;[[User talk:Jauerback|dude?]]&lt;/sup&gt;/&lt;sub&gt;[[Special:Contributions/Jauerback|dude.]]&lt;/sub&gt; 20:03, 14 October 2008 (UTC)
+	</talkpage>
+</article>

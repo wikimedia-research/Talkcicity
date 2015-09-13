@@ -1,0 +1,7 @@
+<article id="39428977" title=Talk:Ishita Vyas>
+	<talkpage id="39428977" title="Talk:Ishita Vyas">
+{{WikiProject Biography|class=start
+|living=yes|filmbio-work-group=yes|listas=Vyas, Ishita}}
+{{WikiProject India|class=start|importance=low|television=yes}}
+	</talkpage>
+</article>

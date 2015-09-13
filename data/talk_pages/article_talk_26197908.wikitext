@@ -1,0 +1,23 @@
+<article id="26197908" title=User talk:68.24.111.20>
+	<talkpage id="26197908" title="User talk:68.24.111.20">
+
+
+== Welcome ==
+'''Welcome'''
+
+Hello and welcome to Wikipedia.  We appreciate encyclopedic contributions, but some of your recent contributions{{#if:Consciousness|, such as your edit to the page [[:Consciousness]],}} seem to be advertising or for [[WP:PROMOTION|promotional purposes]].  Wikipedia does not allow advertising.  For more information on this, see:
+*[[Wikipedia:Neutral point of view|Policy on neutral point of view]]
+*[[Wikipedia:Spam|Guideline on spam]]
+*[[Wikipedia:External links|Guideline on external links]]
+*[[WP:COI|Guideline on conflict of interest]]
+If you still have questions, there is a [[Wikipedia:New contributors' help page|new contributor's help page]], or you can write '''&lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt;''' below this message along with a question and someone will be along to answer it shortly.  You may also find the following pages useful for a general introduction to Wikipedia:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:How to edit a page|How to edit a page]] and [[Wikipedia:Article development|how to develop articles]]
+*[[Help:Contents|Help pages]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:Article wizard 2.0|Article wizard]] for creating new articles
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing Wikipedia!  Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. Feel free to write a note on the bottom of {{#if:Verbal|[[User talk:Verbal{{!}}my talk page]]|my talk page}} if you want to get in touch with me. Again, welcome! &lt;!-- Template:Welcomespam --&gt; 
+&lt;span style=&quot;font-family:Papyrus&quot;&gt;[[User:Verbal|&lt;b style=&quot;color:#C72&quot;&gt;Verbal&lt;/b&gt;]] &lt;small&gt;[[User talk:Verbal#top|&lt;span style=&quot;color:Gray;&quot;&gt;chat&lt;/span&gt;]]&lt;/small&gt;&lt;/span&gt; 18:18, 14 February 2010 (UTC)
+	</talkpage>
+</article>

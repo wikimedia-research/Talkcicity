@@ -1,0 +1,5 @@
+<article id="18058458" title=Talk:1931–32 Football League>
+	<talkpage id="18058458" title="Talk:1931–32 Football League">
+{{Football|class=Stub|importance=Low|England=yes|season=yes}}
+	</talkpage>
+</article>

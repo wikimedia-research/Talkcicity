@@ -1,0 +1,6 @@
+<article id="20929644" title=Talk:Missouri Phoenix>
+	<talkpage id="20929644" title="Talk:Missouri Phoenix">
+{{WikiProject American football}}
+{{WikiProject Missouri |class=stub |importance=}}
+	</talkpage>
+</article>

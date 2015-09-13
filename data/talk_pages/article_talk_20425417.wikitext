@@ -1,0 +1,7 @@
+<article id="20425417" title=Talk:Organic anion transporter>
+	<talkpage id="20425417" title="Talk:Organic anion transporter">
+I think this needs a real article not just a disambiguation page. I am expecting information about active renal secretion via OAT (organic anion transporter(s)). Could someone create a stub to start with? I don't have the expertise. - Just &quot;OAT&quot; as search word directs me to Oat (the cereal) without any further options.
+'''''Frank''''' [[Special:Contributions/194.209.131.192|194.209.131.192]] ([[User talk:194.209.131.192|talk]]) 17:20, 7 July 2009 (UTC)
+:I redirected to an article already in existence that is basically a stub. [[User:Cmcnicoll|Cmcnicoll]] ([[User talk:Cmcnicoll|talk]]) 23:18, 27 February 2010 (UTC)
+	</talkpage>
+</article>

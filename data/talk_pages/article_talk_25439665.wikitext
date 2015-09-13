@@ -1,0 +1,10 @@
+<article id="25439030" title=Talk:Sainte-Jeanne-d'Arc, Paris>
+	<talkpage id="25439030" title="Talk:Sainte-Jeanne-d'Arc, Paris">
+{{WikiProject Catholicism|class=start|importance=low}}
+{{WikiProject Architecture|class=start|importance=}}
+{{WikiProject France|class=start|importance=low|tf=Paris}}
+
+== Basilica status ==
+While this church is consistently referred to as a basilica, I do not believe that it actually enjoys such a status. It appears that it was intended to be a basilica when proposed in 1914, but the years and the defeat in 1940 stopped the project and the enthusiasm for commemoration of the Battle of the Marne. Joan of Arc's putative divine intervention had waned in the light of succeeding events. I get the impression that it was completed in the 60s on a low budget just to deal with a white elephant. It seems to function as an annex to Saint-Denys parish church. '''&lt;font face=&quot;Arial&quot;&gt;[[User:Acroterion|&lt;font color=&quot;black&quot;&gt;Acroterion&lt;/font&gt;]] &lt;sub&gt;&lt;small&gt;[[User talk:Acroterion|&lt;font color=&quot;gray&quot;&gt;(talk)&lt;/font&gt;]]&lt;/small&gt;&lt;/sub&gt;&lt;/font&gt;''' 19:54, 15 December 2009 (UTC)
+	</talkpage>
+</article>

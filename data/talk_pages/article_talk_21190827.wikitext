@@ -1,0 +1,9 @@
+<article id="21190827" title=Talk:Changed tone>
+	<talkpage id="21190827" title="Talk:Changed tone">
+Poorly defined article. Some of this may be [[lexicalisation]], but much is [[tone sandhi]]. [[User:Kwamikagami|kwami]] ([[User talk:Kwamikagami|talk]]) 10:30, 21 January 2009 (UTC)
+
+:I will work on this. Changed tone refers almost exclusively to morphological and lexical tone changes, rather than tone sandhi—although tone sandhi also exists in Cantonese. The changed tone occurs as well in other Yue dialects, like [[Taishanese]], which lack tone sandhi. Bauer and Benedict spent quite a bit of time on this topic; their sub-chapter on changed tones is larger than some of their chapters. [[User:Aaronlee|Aaron Lee]] ([[User talk:Aaronlee|talk]]) 23:53, 5 September 2010 (UTC)
+
+:Okay, I clarified that the concepts are distinct. — [[User:Kwamikagami|kwami]] ([[User talk:Kwamikagami|talk]]) 00:34, 6 September 2010 (UTC)
+	</talkpage>
+</article>

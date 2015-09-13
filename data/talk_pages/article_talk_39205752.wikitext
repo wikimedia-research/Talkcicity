@@ -1,0 +1,5 @@
+<article id="39205752" title=Talk:Coronae Montes>
+	<talkpage id="39205752" title="Talk:Coronae Montes">
+{{WikiProject Solar System|Mars=yes|class=Stub|importance=Low}}
+	</talkpage>
+</article>

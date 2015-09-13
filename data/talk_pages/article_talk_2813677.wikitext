@@ -1,0 +1,144 @@
+<article id="2813677" title=User talk:QEDQED>
+	<talkpage id="2813677" title="User talk:QEDQED">
+'''Welcome!'''
+
+Hello, {{PAGENAME}}, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for your contributions. I hope you like the place and decide to stay. Here are a few good links for newcomers:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Help:Contents|Help pages]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:How to write a great article|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (~&amp;#126;~~); this will automatically produce your name and the date. If you need help, check out [[Wikipedia:Where to ask a question]], ask me on my talk page, or place &lt;code&gt;{&amp;#123;helpme}}&lt;/code&gt; on your talk page and someone will show up shortly to answer your questions. Again, welcome!&amp;nbsp;
+
+--[[User:Rschen7754|Rschen7754]] 05:29, 2 October 2005 (UTC)
+
+
+==Final state highway naming conventions debate==
+
+QEDQED, your participation is welcome in the [[Wikipedia:State route naming conventions poll]]. Please give your input as to the process by 23:59 UTC on August 8.
+
+Regards, '''[[User:Rschen7754|Rschen7754]] ([[User_talk:Rschen7754|talk]] - [[Special:Contributions/Rschen7754|contribs]]) ''' 22:24, 5 August 2006 (UTC)
+
+==California SR infobox discussion==
+
+QEDQED, you are invited to participate in the (definitely less structured than [[WP:SRNC]]) [[WT:CASH]] infobox discussion. Please feel free to share your thoughts and ideas. --'''[[User:Rschen7754|Rschen7754]] ([[User_talk:Rschen7754|talk]] - [[Special:Contributions/Rschen7754|contribs]]) ''' 01:22, 23 October 2006 (UTC)
+
+==U.S. Roads Newsletter Issue #1==
+{| width=&quot;90%&quot;
+|-
+| colspan=4 style=&quot;background-color: #008B00; color:cyan; border: 1px black solid; padding: 0.5em; text-align:center;&quot; | [[Image:I-blank.svg|70px|left]] [[Image:Circle sign blank.svg|70px|right]] [[Image:US blank.svg|70px|center]]
+&lt;big&gt;'''[[Wikipedia:WikiProject U.S. Roads|&lt;span style=&quot;color:white&quot;&gt;The U.S. Roads WikiProject&lt;/span&gt;]]  Newsletter'''&lt;/big&gt;
+|-
+| width=33% style=&quot;border: 1px gray solid; padding: 0.5em;  vertical-align: top;&quot; align=&quot;left&quot; | '''Volume 1, Issue 1''' || width=33% style=&quot;border: 1px gray solid; padding: 0.5em;  vertical-align: top;&quot; align =&quot;center&quot; | '''[[10 February]] [[2007]]''' || width=33% style=&quot;border: 1px gray solid; padding: 0.5em;  vertical-align: top;&quot; align=&quot;right&quot; | '''[[Wikipedia:WikiProject U.S. Roads/Newsletter|About the Newsletter]]'''
+|-
+| colspan=3 style=&quot;border: 1px gray solid; padding: 0.5em;  vertical-align: top;&quot; |
+{| align=&quot;center&quot; cellspacing=&quot;20&quot; width=100%
+| '''Departments:'''
+| '''Features:'''
+|-
+| width=50% | [[Wikipedia:WikiProject U.S. Roads/Newsletter/Issues/Issue1#Project News|Project News]]
+| width=50% | [[Wikipedia:WikiProject U.S. Roads/Newsletter/Issues/Issue1#Notability of state highways is challenged|Notability of state highways is challenged]]
+|-
+| width=50% | [[Wikipedia:WikiProject U.S. Roads/Newsletter/Issues/Issue1#Important deletion debates|Important deletion debates]]
+| width=50% | 
+|-
+| width=50% | [[Wikipedia:WikiProject U.S. Roads/Newsletter/Issues/Issue1#Featured subproject|Featured subproject]]
+| width=50% | 
+|-
+| width=50% | [[Wikipedia:WikiProject U.S. Roads/Newsletter/Issues/Issue1#Featured member|Featured member]]
+| width=50% | 
+|-
+| width=50% | [[Wikipedia:WikiProject U.S. Roads/Newsletter/Issues/Issue1#From the editor|From the editor]]
+| width=50% | 
+|}
+|-
+| colspan=3 style=&quot;border: 1px gray solid; padding: 0.5em;  vertical-align: top;&quot; |
+{| width=&quot;100%&quot; cellspacing=&quot;0&quot; align=&quot;center&quot;
+| align=&quot;left&quot; | [[Wikipedia:WikiProject U.S. Roads/Newsletter/Issues|Archives]] &amp;nbsp;|&amp;nbsp; [[Wikipedia:WikiProject U.S. Roads/Newsletter/Newsroom|Newsroom]] &amp;nbsp;
+| align = &quot;right&quot; | &lt;small&gt;[[Wikipedia:Shortcut|Shortcut]] : [[WP:USRD/N]]&lt;/small&gt;
+|}
+|}
+:&lt;small&gt;Want to help on next month's newsletter? Don't want to receive these in future? Don't want it subst'd next time? &amp;ndash; [[Wikipedia:WikiProject U.S. Roads/Newsletter|It's all here.]] '''[[User:Rschen7754|Rschen7754]]''' ([[User_talk:Rschen7754|talk]] - [[Special:Contributions/Rschen7754|contribs]]) 20:43, 10 February 2007 (UTC)&lt;/small&gt;
+
+==USRD Newsletter - Issue 2==
+{| width=&quot;90%&quot; align=&quot;center&quot;
+|-
+| colspan=4 style=&quot;background-color: #008B00; color:cyan; border: 1px black solid; padding: 0.5em; text-align:center;&quot; | [[Image:I-blank.svg|70px|left]] [[Image:New Jersey blank.svg|70px|right]] [[Image:US blank.svg|70px|center]]
+&lt;big&gt;'''[[Wikipedia:WikiProject U.S. Roads|&lt;span style=&quot;color:white&quot;&gt;The U.S. Roads WikiProject&lt;/span&gt;]]  Newsletter'''&lt;/big&gt;
+|-
+| width=33% style=&quot;border: 1px gray solid; padding: 0.5em;  vertical-align: top;&quot; align=&quot;left&quot; | '''Volume 1, Issue 2''' || width=33% style=&quot;border: 1px gray solid; padding: 0.5em;  vertical-align: top;&quot; align =&quot;center&quot; | '''[[24 February]] [[2007]]''' || width=33% style=&quot;border: 1px gray solid; padding: 0.5em;  vertical-align: top;&quot; align=&quot;right&quot; | '''[[Wikipedia:WikiProject U.S. Roads/Newsletter|About the Newsletter]]'''
+|-
+| colspan=3 style=&quot;border: 1px gray solid; padding: 0.5em;  vertical-align: top;&quot; |
+{| align=&quot;center&quot; cellspacing=&quot;20&quot; width=100%
+| '''Departments:'''
+| '''Features:'''
+|-
+| width=50% | [[Wikipedia:WikiProject U.S. Roads/Newsletter/Issues/Issue002#Project News|Project News]]
+| width=50% | [[Wikipedia:WikiProject U.S. Roads/Newsletter/Issues/Issue002#Notability of state highways is upheld|Notability of state highways is upheld]]
+|-
+| width=50% | [[Wikipedia:WikiProject U.S. Roads/Newsletter/Issues/Issue002#Deletion debates|Deletion debates]]
+| width=50% | [[Wikipedia:WikiProject U.S. Roads/Newsletter/Issues/Issue002#Kansas Turnpike is now a Good Article|Kansas Turnpike is now a Good Article]]
+|-
+| width=50% | [[Wikipedia:WikiProject U.S. Roads/Newsletter/Issues/Issue002#Featured subproject: New Jersey|Featured subproject]]
+| width=50% | [[Wikipedia:WikiProject U.S. Roads/Newsletter/Issues/Issue002#U.S. Roads IRC channel created|U.S. Roads IRC channel created]]
+|-
+| width=50% | [[Wikipedia:WikiProject U.S. Roads/Newsletter/Issues/Issue002#Featured member: Master son|Featured member]]
+| width=50% | [[Wikipedia:WikiProject U.S. Roads/Newsletter/Issues/Issue002#Infoboxes and Navigation subproject started|Infoboxes and Navigation subproject started]]
+|-
+| width=50% | [[Wikipedia:WikiProject U.S. Roads/Newsletter/Issues/Issue002#From the Editors|From the editors]]
+| width=50% | 
+|}
+|-
+| colspan=3 style=&quot;border: 1px gray solid; padding: 0.5em;  vertical-align: top;&quot; |
+{| width=&quot;100%&quot; cellspacing=&quot;0&quot; align=&quot;center&quot;
+| align=&quot;left&quot; | [[Wikipedia:WikiProject U.S. Roads/Newsletter/Issues|Archives]] &amp;nbsp;|&amp;nbsp; [[Wikipedia:WikiProject U.S. Roads/Newsletter/Newsroom|Newsroom]] &amp;nbsp;
+| align = &quot;right&quot; | &lt;small&gt;[[Wikipedia:Shortcut|Shortcut]] : [[WP:USRD/NEWS]]&lt;/small&gt;
+|}
+|}
+:&lt;small&gt;Want to help on next month's newsletter? Don't want to receive these in future? Don't want it subst'd next time? &amp;ndash; [[Wikipedia:WikiProject U.S. Roads/Newsletter|It's all here.]] [[User:TwinsMetsFan|'''&lt;font color=&quot;#CC0018&quot;&gt;T&lt;/font&gt;&lt;font color=&quot;#0000C0&quot;&gt;M&lt;/font&gt;F''']] &lt;sup&gt;[[User talk:TwinsMetsFan|Let's Go Mets]] - [[Special:Contributions/TwinsMetsFan|Stats]]&lt;/sup&gt; 20:02, 24 February 2007 (UTC)&lt;/small&gt;
+
+== [[WP:USRD|USRD]] Newsletter - Issue 3 ==
+{| width=&quot;90%&quot; align=&quot;center&quot;
+|-
+| colspan=4 style=&quot;background-color: #008B00; color:cyan; border: 1px black solid; padding: 0.5em; text-align:center;&quot; | [[Image:I-blank.svg|70px|left]] [[Image:NY-blank.svg|70px|right]] [[Image:US blank.svg|70px|center]]
+&lt;big&gt;'''[[Wikipedia:WikiProject U.S. Roads|&lt;span style=&quot;color:white&quot;&gt;The U.S. Roads WikiProject&lt;/span&gt;]]  Newsletter'''&lt;/big&gt;
+|-
+| width=33% style=&quot;border: 1px gray solid; padding: 0.5em;  vertical-align: top;&quot; align=&quot;left&quot; | '''Volume 1, Issue 3''' || width=33% style=&quot;border: 1px gray solid; padding: 0.5em;  vertical-align: top;&quot; align =&quot;center&quot; | '''[[10 March]] [[2007]]''' || width=33% style=&quot;border: 1px gray solid; padding: 0.5em;  vertical-align: top;&quot; align=&quot;right&quot; | '''[[Wikipedia:WikiProject U.S. Roads/Newsletter|About the Newsletter]]'''
+|-
+| colspan=3 style=&quot;border: 1px gray solid; padding: 0.5em;  vertical-align: top;&quot; |
+{| align=&quot;center&quot; cellspacing=&quot;20&quot; width=100%
+| '''Departments:'''
+| '''Features:'''
+|-
+| width=50% | [[Wikipedia:WikiProject U.S. Roads/Newsletter/Issues/Issue003#Project news|Project news]]
+| width=50% | [[Wikipedia:WikiProject U.S. Roads/Newsletter/Issues/Issue003#Inactivity?|Inactivity?]]
+|-
+| width=50% | [[Wikipedia:WikiProject U.S. Roads/Newsletter/Issues/Issue003#Deletion debates|Deletion debates]]
+| width=50% | [[Wikipedia:WikiProject U.S. Roads/Newsletter/Issues/Issue003#Article Improvement Drive 2|Article Improvement Drive]]
+|-
+| width=50% | [[Wikipedia:WikiProject U.S. Roads/Newsletter/Issues/Issue003#Featured subproject: New York|Featured subproject]]
+| width=50% | [[Wikipedia:WikiProject U.S. Roads/Newsletter/Issues/Issue003#Good and Featured Articles|Good and Featured Articles]]
+|-
+| width=50% | [[Wikipedia:WikiProject U.S. Roads/Newsletter/Issues/Issue003#Featured member: Scott5114|Featured member]]
+| width=50% | 
+|-
+| width=50% | [[Wikipedia:WikiProject U.S. Roads/Newsletter/Issues/Issue003#From the Editors|From the editors]]
+| width=50% | 
+|}
+|-
+| colspan=3 style=&quot;border: 1px gray solid; padding: 0.5em;  vertical-align: top;&quot; |
+{| width=&quot;100%&quot; cellspacing=&quot;0&quot; align=&quot;center&quot;
+| align=&quot;left&quot; | [[Wikipedia:WikiProject U.S. Roads/Newsletter/Issues|Archives]] &amp;nbsp;|&amp;nbsp; [[Wikipedia:WikiProject U.S. Roads/Newsletter/Newsroom|Newsroom]] &amp;nbsp;
+| align = &quot;right&quot; | &lt;small&gt;[[Wikipedia:Shortcut|Shortcut]] : [[WP:USRD/NEWS]]&lt;/small&gt;
+|}
+|}
+:&lt;small&gt;Want to help on next month's newsletter? Don't want to receive these in future? Don't want it subst'd next time? &amp;ndash; [[Wikipedia:WikiProject U.S. Roads/Newsletter|It's all here.]]
+
+=== Active user verification ===
+Hello, {{BASEPAGENAME}}. Due to the high number of inactive users at [[WP:USRD]], we are asking that you verify that you are still an active contributor of the project. To do so, please add an asterisk (*) after your name on [[Wikipedia:WikiProject U.S. Roads/Newsletter/List]]. Users without one by the next issue in 2 weeks will be removed off the list and off the respective road projects as well. If you have any questions, please contact me on my talk page. Thanks. [[User:TwinsMetsFan|'''&lt;font color=&quot;#CC0018&quot;&gt;T&lt;/font&gt;&lt;font color=&quot;#0000C0&quot;&gt;M&lt;/font&gt;F''']] &lt;sup&gt;[[User talk:TwinsMetsFan|Let's Go Mets]] - [[Special:Contributions/TwinsMetsFan|Stats]]&lt;/sup&gt; 20:16, 10 March 2007 (UTC)
+
+==U.S. Roads Inactivity notification==
+You have been declared an inactive user and your name will be removed from the newsletter distribution and the projects you were a member of. '''If this is in error, please contact me on my talk page. Do not restore your name to the list.''' Regards, '''[[User:Rschen7754|Rschen7754]]''' ([[User_talk:Rschen7754|talk]] - [[Special:Contributions/Rschen7754|contribs]]) 21:09, 24 March 2007 (UTC)
+	</talkpage>
+</article>

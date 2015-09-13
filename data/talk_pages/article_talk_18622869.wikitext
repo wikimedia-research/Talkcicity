@@ -1,0 +1,15 @@
+<article id="18622869" title=Talk:Häfeli DH-4>
+	<talkpage id="18622869" title="Talk:Häfeli DH-4">
+{{WikiProjectBannerShell|1=
+{{WikiProject Aviation|class=start
+| b1 &lt;!--Referencing &amp; citations--&gt; =n
+| b2 &lt;!--Coverage &amp; accuracy    --&gt; =n
+| b3 &lt;!--Structure              --&gt; =y
+| b4 &lt;!--Grammar &amp; style        --&gt; =n
+| b5 &lt;!--Supporting materials   --&gt; =n
+|imageneeded=y
+|Aircraft-project=yes}}
+{{WikiProject Switzerland|class=Start|importance=Low}}
+}}
+	</talkpage>
+</article>

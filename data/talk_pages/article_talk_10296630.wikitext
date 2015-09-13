@@ -1,0 +1,14 @@
+<article id="10296630" title=Talk:Vivian Van Damm>
+	<talkpage id="10296630" title="Talk:Vivian Van Damm">
+{{WikiProject Biography
+|living=no
+|class=stub
+
+|listas=Van Damm, Vivian
+}}
+==&quot;Myth&quot;/&quot;Legend&quot;==
+The way these two words are used in the article seems to imply that it's not true the Windmill &quot;never closed.&quot; However, the article on the Windmill says that '''with the exception of a 12-day period in which all theatres were &lt;u&gt;required&lt;/u&gt; to be closed''', this assertion is true. Is the suggestion that it's not true coming from that 12-day period, or what? This issue is unclear in the article. [[User:Lawikitejana|Lawikitejana]] 03:44, 27 March 2007 (UTC)
+
+::I have cleared this up, based on the article on the [[Windmill Theatre]].  I know Wikipedia isn't supposed to cite itself as a source, but neither this nor the other article cites any sources for that topic anyway, so I felt at liberty to use the latter, pending either a challenge or (hopefully) the addition of a reference.  I changed &quot;myth&quot; to &quot;reputation&quot;, and added language to show that the &quot;legend&quot; bore substantial truth&amp;mdash;''i.e.'', that except for the above-mentioned twelve-day mandatory closure, the Windmill really did stay open throughout the Blitz.  [[User:Jdcrutch|&lt;tt&gt;''J.&amp;nbsp;D.&amp;nbsp;Crutchfield''&lt;/tt&gt;]]&amp;nbsp;&amp;#124;&amp;nbsp;[[User_talk:Jdcrutch|Talk]] 21:34, 20 January 2015 (UTC)
+	</talkpage>
+</article>

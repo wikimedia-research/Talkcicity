@@ -1,0 +1,17 @@
+<article id="33002621" title=User talk:Tireeg>
+	<talkpage id="33002621" title="User talk:Tireeg">
+
+
+'''Welcome...'''
+
+&lt;p&gt;Hello, Tireeg, and [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome to Wikipedia!]] Thank you for [[Special:Contributions/Tireeg|your contributions]]. I hope you like this place and decide to stay.  Here are some  pages that you might find helpful:&lt;/p&gt;
+*[[Wikipedia:Introduction|Introduction]]
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Help:Contents|Help]]
+*[[Wikipedia:Article development|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+
+&lt;p&gt;Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your username and the date. If you need help, check out [[Wikipedia:Questions]], ask me on my talk page, or place &lt;code&gt;&lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt;&lt;/code&gt; on your talk page and ask your question there.  &amp;nbsp;Again, welcome! ~ [[User:Darranc|Ablaze]] &lt;span style=&quot;font-size: 10px;  color: #161;&quot;&gt;([[User_talk:Darranc|talk]])&lt;/span&gt; 20:19, 6 September 2011 (UTC)&lt;/p&gt;
+	</talkpage>
+</article>

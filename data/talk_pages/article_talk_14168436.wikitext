@@ -1,0 +1,14 @@
+<article id="14168436" title=Talk:Richard Longstreth>
+	<talkpage id="14168436" title="Talk:Richard Longstreth">
+{{WikiProjectBannerShell|1=
+{{WikiProject University of Pennsylvania|class= |importance= }}
+{{WikiProject Biography
+|living=yes
+|class=
+|listas=Longstreth, Richard
+}}
+{{WikiProject Architecture|importance=|class=}}
+| blp=yes
+}}
+	</talkpage>
+</article>

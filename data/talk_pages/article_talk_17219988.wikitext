@@ -1,0 +1,20 @@
+<article id="17219988" title=User talk:Chico (usurped)>
+	<talkpage id="17219988" title="User talk:Chico (usurped)">
+==Request for Usurpation==
+
+Hello, Chico. A request has been made at [[Wikipedia:Changing username/Usurpations]] to usurp, or &quot;take over&quot;, your username because you have not used it to edit, and another user would like to use it to edit. [[Wikipedia:Changing username/Usurpations]] says that any unused username may be usurped if the user is given seven days notice to object and does not do so. 
+
+If you have an email set in [[Special:Preferences|your preferences]], you should be getting an email from a [[Wikipedia:Bureaucrat|bureaucrat]] or changing username clerk explaining how to consent or object to this process. 
+
+&lt;span style=&quot;color: green;&quot;&gt;'''If you do not object to being renamed'''&lt;/span&gt; to a new username in order for another user to utilize the name you currently have, please log in and post a reply here saying so (you may also tell us what username you would like to be renamed to, or we will provide you with a generic one). 
+
+&lt;span style=&quot;color: orange;&quot;&gt;'''If you do nothing'''&lt;/span&gt;: the request will be filled after seven days, and your account will be moved to a generic username. You may request that it be moved to a new username of your choice at any time.
+
+&lt;span style=&quot;color: crimson;&quot;&gt;'''If you object to being renamed'''&lt;/span&gt;: please log in and make an edit. You may make an edit here saying &quot;No&quot;, you may make an edit to blank this page, or any other edit you like; making any edit at all prevents your username from being usurped, because users with edits cannot have their usernames usurped. 
+
+Please note that '''even if your current username is usurped, you can still edit and your data will not be lost'''; your preferences, watchlist, and other user settings will be transferred to a new username.
+
+Thank you for your time.&lt;!-- Template:Usurpation requested --&gt;
+:This request made on behalf of [[User:Chico-br|Chico-br]] &amp;mdash; '''[[User:Seresin|seresin]] ( [[User talk:Seresin|¡?]] )''' 23:18, 1 May 2008 (UTC)
+	</talkpage>
+</article>

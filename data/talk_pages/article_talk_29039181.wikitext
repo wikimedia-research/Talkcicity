@@ -1,0 +1,5 @@
+<article id="29039181" title=Talk:Norton, Texas>
+	<talkpage id="29039181" title="Talk:Norton, Texas">
+{{WikiProject United States|class=Stub|importance=Low|TX=yes|TX-importance=Low}}
+	</talkpage>
+</article>

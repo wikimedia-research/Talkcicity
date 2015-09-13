@@ -1,0 +1,8 @@
+<article id="39011758" title=User talk:88.98.46.100>
+	<talkpage id="39011758" title="User talk:88.98.46.100">
+
+== April 2013 ==
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:Fraggle81|Fraggle81]]. I wanted to let you know that I undid one or more of [[Special:Contributions/88.98.46.100|your recent contributions]]&amp;nbsp;to [[:Common Buzzard]] because it didn't appear constructive. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Fraggle81|my talk page]]. &lt;!-- Template:uw-vandalism1 --&gt;&lt;!-- Template:uw-cluebotwarning1 --&gt;   [[User:Fraggle81|Fraggle81]] ([[User talk:Fraggle81|talk]]) 15:21, 4 April 2013 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

@@ -1,0 +1,9 @@
+<article id="37414901" title=User talk:108.236.105.68>
+	<talkpage id="37414901" title="User talk:108.236.105.68">
+{{SharedIP|United States Tucker Texas AT&amp;T Internet Services}}
+
+== October 2012 ==
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:Shaun9876|Shaun9876]]. I wanted to let you know that I undid one or more of [[Special:Contributions/108.236.105.68|your recent contributions]]&amp;nbsp;to [[:Westmoreland County coal strike of 1910–1911]] because it didn't appear constructive. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Shaun9876|my talk page]]. Thanks!&lt;!-- Template:uw-vandalism1 --&gt;&lt;!-- Template:uw-cluebotwarning1 --&gt;  [[User:Shaun9876|&lt;span style=&quot;color:aqua&quot;&gt; ♠♥♣Shaun9876♠♥♣&lt;/span&gt;]] [[User talk:Shaun9876|&lt;sup&gt;&lt;span style=&quot;color:aquamarine&quot;&gt;&lt;small&gt;Talk&lt;/small&gt;&lt;/span&gt;&lt;/sup&gt;]]  22:39, 22 October 2012 (UTC)
+:''If this is a [[open proxy|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

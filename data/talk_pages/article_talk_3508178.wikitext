@@ -1,0 +1,10 @@
+<article id="3508178" title=Talk:Murray River National Park>
+	<talkpage id="3508178" title="Talk:Murray River National Park">
+{{WikiProjectBannerShell|1=
+{{WikiProject Protected areas|class=stub|importance=low}}
+{{WikiProject Australia|SA=yes|class=Stub}}
+{{WikiProject Birds|class=stub|importance=low}}
+}}
+{{photo requested|in=South Australia}}
+	</talkpage>
+</article>

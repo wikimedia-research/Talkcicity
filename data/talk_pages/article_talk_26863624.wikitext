@@ -1,0 +1,182 @@
+<article id="1941907" title=Talk:Itaipu Dam>
+	<talkpage id="1941907" title="Talk:Itaipu Dam">
+{{talk header}}
+{{Vital article|level=4|topic=Technology|class=C}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Energy|class=c|importance=high}}
+{{WikiProject Brazil|class=c|importance=high}}
+{{WikiProject Paraguay|class=c|importance=top}}
+{{WikiProject Dams|class=C|importance=top}}
+{{WikiProject Indigenous peoples of the Americas|class=C|auto=Inherit|importance=}}
+}}
+{{Energy portal fact}}
+
+== Difference between capacity ==
+Please explain the difference in
+ Installed capacity 	14,000 MW
+and
+installed generation capacity of the plant is 14 GW--[[User:Leonardo Da Vinci|Leonardo Da Vinci]] ([[User talk:Leonardo Da Vinci|talk]]) 14:12, 28 February 2011 (UTC)
+Stupid me! It is the same thing :D. Just converted to &quot;giga&quot; lol :D. Sorry I thought there is a difference with the world &quot;generation&quot; in the meaning.--[[User:Leonardo Da Vinci|Leonardo Da Vinci]] ([[User talk:Leonardo Da Vinci|talk]]) 14:14, 28 February 2011 (UTC)
+
+== Cleanup ==
+This article definitely needs cleanup. I do not know enough about wiki notation to do a good job of it however, nor do I know yet how to tag it for cleanup, so I hope someone notices this talk. --[[User:Knife Knut|Knife Knut]] 00:56, 26 May 2005 (UTC)
+
+== Longest operational hydroelectric power plant? ==
+I'm guessing there's something I'm missing because this hasn't been brought up yet but at the stated start date of 1984 it is definitely not the longest running hydroelectric power plant in the world. As just one example Ardnacrusha power station in Ireland (http://en.wikipedia.org/wiki/Ardnacrusha) has been running since 1929. [[Special:Contributions/89.101.96.204|89.101.96.204]] ([[User talk:89.101.96.204|talk]]) 20:07, 16 April 2009 (UTC) 
+
+== Annual Production of Energy table ==
+The &quot;Total&quot; at the bottom does not make logical sense because the two columns have not been summed in the same way. ManInStone, Sept 2007.
+
+== Military base ==
+I heard that the U.S. is going to establish a military base aproved by the government of Paraguay. Can anyone attest to that? Shouldn´t it be mentioned in the article somehow?
+:Yes, it's sadly truth. But the base is going to be loceted in the [[Chaco]]. I don't see the relation with Itaipú. --[[User:N0thingness|N0thingness]] 04:50, 4 October 2005 (UTC)
+::Sorry, it is -not- true.  Not only would the government of Paraguay not approve it, as per Nicanor Duarte Frutos's speech (reinforcing the rumors), the supposed airstrip was built by the Paraguayan government (not the US one) and is reportedly too small for US planes.  Also I was in Paraguay for most of last year and while there were constant wild rumors about the military base in the Chaco, or in Concepción, or ...or that US troops would be stationed in the Chaco, or in Paraguay, there was not a bit of truth to them.  The US has engaged in joint military exercises with the Paraguayan Army since 1943 (even well before Stroessner).  While US support for the Colorado Party regime is tragic, US interests in Paraguay are actually minimal compared with other countries in the region.  Had there been a base in the desert, there would have been MUCH more movement of food, water, and people (such as prostitutes, vendors, etc.) towards the Chaco or Concepcion (the jewel of the north) than there was or ever will be.  The journalistic reports widely reported in South America were patently false and utterly unverified.  If you want to know who the &quot;real&quot; power is in terms of international relations in PY, look no further than the East (i.e. Brazil).  The US &quot;suggests&quot;, Brazil demands.  And yes, there is NO relation with Itaipu.
+
+== Itaipú in [[Guaraní language|Guaraní]] ==
+In Guaraní &quot;Itaipu&quot; is written wothout tilde since the stress rule states that it goes always upon the last syllable if otherwise not indicated. In [[Spanish language|Spanish]] yes it does. --[[User:N0thingness|N0thingness]] 04:50, 4 October 2005 (UTC)
+:Actually, &quot;pu&quot; means &quot;sound&quot;, not &quot;sing&quot; in Guarani. &quot;Sing&quot; is &quot;purahei&quot;. [[User:Jasy jatere|Jasy jatere]] 21:37, 7 February 2006 (UTC)
+::Still, you see, I work here in Itaipu, I have even taken the plant tour, and all the time I hear people saying it means &quot;rock that sings&quot;. I believe singing stones fits it quite right. I wonder how it is rolling stones in guarani =] '''''Ita...?'''''.
+:::Apropos, in portuguese too, no accents in Itaipu &lt;font color=&quot;#207912&quot;&gt;[[User:VdSV9|&lt;b&gt;VdSV9&lt;/b&gt;]]&lt;/font&gt;•&lt;font size=&quot;4px&quot;&gt;[[User talk:VdSV9|♫]]&lt;/font&gt; 11:19, 28 March 2006 (UTC)
+
+== Translate from pt:wikipedia ==
+I would like to propose that this article be restarted from scratch as a translation from the [[pt:Itaipu|Portuguese Version]], which has received featured article status. I'll get started with it and as soon as I have enough done I'll post it. If someone doesn't like it just reverse the changes.
+:Well, there it is. Now if someone would take a look and fix things up a bit. I'm sure there's a lot of work to do on it.
+::And moving the images from the pt:wiki to the commons so we can put them in here too, that would be nice. &lt;font color=&quot;#207912&quot;&gt;[[User:VdSV9|&lt;b&gt;VdSV9&lt;/b&gt;]]&lt;/font&gt;•&lt;font size=&quot;4px&quot;&gt;[[User talk:VdSV9|♫]]&lt;/font&gt; 11:19, 23 March 2006 (UTC)
+
+== Royalties ==
+Recent changes are real... It's true, but I get these on the intranet. I'll try to find an internet source for you... &lt;font color=&quot;#207912&quot;&gt;[[User:VdSV9|&lt;b&gt;VdSV9&lt;/b&gt;]]&lt;/font&gt;•&lt;font size=&quot;4px&quot;&gt;[[User talk:VdSV9|♫]]&lt;/font&gt; 14:02, 11 April 2006 (UTC)
+:Ok, I can't find anything on the internet. It says here they paid yesterday. If someone wants to remove it until they update this info into their page or something I won't mind. &lt;font color=&quot;#207912&quot;&gt;[[User:VdSV9|&lt;b&gt;VdSV9&lt;/b&gt;]]&lt;/font&gt;•&lt;font size=&quot;4px&quot;&gt;[[User talk:VdSV9|♫]]&lt;/font&gt; 14:19, 11 April 2006 (UTC)
+
+== Prizes received for the Itaipu ==
+In its more than 30 years, Itaipu collects, beyond the publication in the list of the seven wonders of the modern world, made for the North American Association of Civil Engineers (Asce), in 1995, in the magazine &quot;Popular Mechanics&quot;, of the United States, many prizes and homages of recognition for its performance in areas as Social Communication, Environment, Human Resources, Social Responsibility and Technique.
+
+Between the prizes and homages received for Itaipu, they are:
+
+:: 2006 - Prize &quot;National Prominence in Environment, Sustainable Development and Social Responsibility&quot;, granted for the Ambient Institute Biosfera, in February of this year.
+:: 2005 - Prize &quot;Top of Mind&quot;, granted for the Revista Amanhã.
+Prize &quot;Zilda Arns of Social Responsibility - Social Top ADVB-PR&quot; (Association of the Controllers of Sales and Marketing of Brazil - Paraná Section), for the Program Cultivating Good Water, granted for the Institute ADVB of Social Responsibility (Ires).
+II Prize &quot;FAE/FIEP - Social Responsibility&quot;, granted for the College of Administration and Economy (FAE) in set with the Federacy of the Industries of the State of the Paraná (FIEP).
+Homage of the Agrinho Program - 10 years - ISO-9001/2000, received from the Institute of Technology of the Paraná (TECPAR).
+Honor to the merit in the 10 years of creation of the course of Civil Engineering, of the State University of the West of the Paraná (Unioeste). Special prize granted by the Initiative of the Letter of the Land for the Program Cultivating Good Water, as example of ambiently responsible public company and social.
+13º Prize &quot;Expression of Ecology - Ambient Education No-Formal in Microbasin of the Lajeado Xaxim and Sabiá River&quot;, granted for the Editora Expressão de Ecologia, for the program of Ambient Education for Sustainable of the Itaipu, one of the actions of the Program Cultivating Good Water.
+:: 2004 - Prizes &quot;Periodical of Electronic Itaipu - Better of the South and finalist Region among the three best ones of Brazil, in Internal the E-News category&quot;, granted for the Brazilian Association of Enterprise Communication (Aberje).
+Homage &quot;Fórum 2004: Itaipu Binacional - Its Contribution for the Development of Brazil &quot;, received from the Tuiuti University of the Paraná. I Prize &quot;FAE/FIEP/2004 - Social Responsibility&quot;, granted for the College of Administration and Economy (FAE) in set with the Federacy of the Industries of the State of the Paraná (FIEP).
+Homage &quot;Friend Company of the Agrinho&quot;, received from the Serviço Nacional de Aprendizagem Rural (SENAR) of the Paraná, in partnership with the Federacy of the Agriculture of the State of the Paraná (FAEP) and National Association of Pestecides (ANDEF).
+Honrorable mention received from the Committee of Entities in the Combat to the Hunger and for the Life (Coep-PR).
+Homage &quot;30 years of the Itaipu Binacional&quot;, in solemn session, the State Legislature of the Paraná.
+Homage of the House of Representatives with the exposition &quot;Itaipu 30 years - energy for all&quot;, in the Cultural Space Mário Covas, in Brasília. Prize &quot;Ecoturismo and Sustainable Development&quot;, for inserted ambient projects in the Program Cultivating Good Water, granted for the Revista Ecoturismo.
+Plates &quot;Friendship and Cooperation&quot; received, in Brasilia, from the Association of the Military Attached in Brazil.
+:: 2003 - Prize &quot;Great Leader - Company with bigger gross income of the Paraná&quot;, granted for the Revista Amanhã.
+Prize &quot;Great Leader - Company with bigger net profits of the Paraná&quot;, granted for the Revista Amanhã.
+XI Prize &quot;Expression of Ecology - Conservation of Natural Resources - Private Sector&quot;, for the project &quot;Studies of Eggs and Jack Rafter of Fish in the Reservoir of Itaipu&quot;, granted for the Editora Expressão.
+Homage received from the formalist of Technology in Electromechanical of the Federal Center of Technological Education of the Paraná (Cefet), of Medianeira city.
+X Prize &quot;Ambient Education - Trophy Solidary Dignity&quot; for the project &quot;Social Sustainable of the Region of Vila C (Solidary Energy)&quot;, granted for the Center Paranaense de Cidadania (Cepac).
+Plate &quot;Gratefulness&quot; received from the Superior School of War (ESG).
+Plate &quot;Recognition and Admiration&quot; received by &quot;Military Cooperacion in Paraguay - Agregadura de Defensa y del Ejercito del Brazil&quot;.
+Plate &quot;Friendship and Cooperation&quot; received from the Association of the Military Attaches in Brazil.
+Plate &quot;Souvenir of the Eceme&quot; received from the School of Command of General Staff of the Army (ECEME), in Rio de Janeiro.
+:: 2002 - Homage &quot;Model of Itaipu&quot; received from the Voith Siemens - Hydro Power Generation.
+Prize &quot;Better Publication of Enterprise Memory of the South Region&quot; for the &quot;Livro dos Causos&quot; (the book brings little histories published to the long of the years in the Periodical of Itaipu), granted for the Brazilian Association of Enterprise Communication (Aberje).
+Prizes &quot;Innovation of the South Region and Brazil Innovation&quot; for the Periodical of Itaipu Mural, granted for the Brazilian Association of Enterprise Communication (Aberje).
+Prize &quot;The Best of the South Region, in category InterNet&quot; for the Site of Itaipu, granted for the Brazilian Association of Enterprise Communication (Aberje).
+X Prize &quot;Expression of Ecology - Conservation of Natural Resources - Private Sector&quot;, for the project &quot;Studies of Migration of Fishes in the River Paraná&quot;, granted for the Editora Expressão.
+Honorable mention for its works in favor of the voluntary donation of blood, received from the Center of Hematology and Hemoterapy of the Paraná (Hemepar).
+Plate &quot;Gratefulness&quot; received from the Superior School of War (ESG).
+:: 2001 - Prize &quot;Company Note 100&quot;, granted for theEditora Empreendedor.
+Plate of homage &quot;Voluntary of Year 2001&quot;, in the category Companies, for the excellent services given in favor of its community through its social action. With the Reviver Program, Group of Affinity in Diabetic, participated as facilitator in the constitution of the Association of the Diabetic ones of Foz do Iguaçu (ADIFI).
+:: 2000 - Prize &quot;Better Internal Periodical of Brazil&quot; for the Periodical of Itaipu (printed matter, wich later was substituted by the electronic version), granted for the Brazilian Association of Enterprise Communication (Aberje).
+:: 1998 - Procel Prize 1998 - Honrable Mention for the recognition in action of Combat to the Wastefulness of Electric Energy in 1997, the category Companies of the Energy Sector, granted for the National Program of Conservation of Energy (Procel).
+:: 1997 - Prize &quot;The Best Internal Periodical of Brazil&quot; to the Periodical of Itaipu, granted for the Brazilian Association of Enterprise Communication (Aberje).
+Certifyded &quot;Company Friend of the Child&quot;, granted for the Abrinq Foundation by the Rights of the Child, for the development of the Project of Initiation and Incentive to the Work (PIIT).
+Prize &quot;Ambient Paraná&quot;, in the category Formal Ambient Education, for the project &quot;Formation of Multiplying Agents of Ambient Education in the Region of the Lake of Itaipu&quot;, granted for the Ambient Institute of the Paraná (IAP).
+:: 1996 - Prize &quot;The Best Internal Periodical of Brazil&quot; to the Periodical of Itaipu, granted for the Brazilian Association of Enterprise Communication (Aberje).
+Honrable mention for the work developed for Itaipu in the area of Environment, received from the Biosphere Foundation, in Belo Horizonte.
+:: 1995 - Publication in the list of the seven wonders of the modern world, made for the North American Association of Civil Engineers (Asce), in the magazine &quot;Popular Mechanics&quot;, of the United States.
+Publication in the Brazilian edition of the Guiness Book - the Book of the Records, for being the &quot;Bigger Hydroelectric Plant of the World&quot;, in operation.
+:: 1982 - Publication of news article of cover &quot;The largest hydroelectric station in the world&quot;, in the magazine Time, with plate of homage &quot;In appreciation of your courtesy on our visit, May, 21, 1982&quot;, granted for Ralph P. Davidson, Chairman of the Board, Time Inc. and Colleagues.
+
+:::::Text without format, not relevant and without sources, copied from article's page. [[User:Marianocecowski|Mariano]]&lt;small&gt;([[User talk:Marianocecowski|t]]/[[Special:Contributions/Marianocecowski|c]])&lt;/small&gt; 06:45, 21 June 2006 (UTC)
+
+
+== Removed text ==
+As a visitor, I noticed that there was a bad edit, the one at 18:25, 14 July 2006 200.241.189.130. It chopped out the section on 'Formation of the lake' and hacked portions of the section 'Agreement between Brazil, Paraguay and Argentina'.
+:You are right, I restored the text. Thanks for your help. [[User:Marianocecowski|Mariano]]&lt;small&gt;([[User talk:Marianocecowski|t]]/[[Special:Contributions/Marianocecowski|c]])&lt;/small&gt; 09:48, 2 August 2006 (UTC)
+
+== How wide/long? ==
+There is nothing in this article about how wide or long the dam is (or did I miss it?).  Does anyone have detailed dimentions than just the height?--[[User:Midnight Rider|Midnight Rider]] 03:56, 19 October 2006 (UTC)
+
+== Treaty with Argentina - Possibility of flooding Buenos Aires ==
+I restored the following paragraph to the article:
+&quot;By that time, as the three countries were ruled by military dictatorships, Argentina was concerned that, in the event of a conflict, Brazil could open the floodgates, causing the Plata River water level to rise and consequently flooding the capitol city of [[Buenos Aires]].&quot; The references for this paragraphs are:
+Gollerman, Andrey; Picutti, André Lima. &quot;A hidroelétrica de Itaipú e as variações no nivel do Rio da Prata&quot; ''in'' ''Revista de Engenharia da Universidade Federal de Santa Catarina'', Florianópolis, Março de 1986. 
+Stain, Friederich; Zanonni, Rafael Viera. &quot;Geopolítica do Cone Sul: As Relações Brasil-Uruguai-Paraguai-Argentina durante os anos de chumbo - 1968 à 1988&quot; ''in'' ''Anais do 4º Congresso Sul-americano de Relações Internacionais'',  Rio De Janeiro, 1992.
+--[[User:201.64.59.117|201.64.59.117]] 05:59, 6 November 2006 (UTC)
+
+:While no doubt enormous damage could be done to Argentina if the floodgates were opened, I cannot see that it would be possible to flood Buenos Aires as the Rio de la Plata is a very wide estuary. We are not talking of a city standing on the banks of a river. [[User:Booshank|Booshank]] 22:37, 6 July 2007 (UTC)
+
+== Peanuts? NPOV ==
+I added the NPOV tag for the &quot;Peanuts&quot; paragraph and the one that follows it. --[[User:Noahsalzman|Noah]] 21:07, 27 November 2006 (UTC)
+
+== Environmental Effects ==
+This article doesn't seem to contain any mention of the environmental effects of the dam.  Given the size of the reservoir, the environmental destruction must have been vast. &lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[Special:Contributions/212.23.126.20|212.23.126.20]] ([[User talk:212.23.126.20|talk]]) 20:03, 5 February 2007 (UTC).&lt;/small&gt;&lt;!-- HagermanBot Auto-Unsigned --&gt;
+
+== Dam size ==
+It appears that 'Le Grande' Complex in Quebec, Canada, may be the world's largest hydroelectric generating system. The eight generating stations of the complex have a total generating capacity of 16,021 MW. See en.wikipedia.org/wiki/Hydro-electric_dam &lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:Percy333333|Percy333333]] ([[User talk:Percy333333|talk]] • [[Special:Contributions/Percy333333|contribs]]) 13:46, 27 March 2007 (UTC).&lt;/small&gt;&lt;!-- HagermanBot Auto-Unsigned --&gt;
+:&quot;Le Grande&quot; is a Complex, a collection of generating stations. In a singular dam, Itaipu still is the biggest hydroelectric power station of the world. --[[User:201.73.169.229|201.73.169.229]] 03:28, 29 March 2007 (UTC)
+
+== Disambiguation ==
+Please add some kind of (disambiguation?) reference to article [[Itaipu (composition)]] and vice versa.[[User:217.159.182.4|217.159.182.4]] 08:14, 17 July 2007 (UTC)
+
+== Cost? ==
+So how much did this project cost, and how was it funded? [[User:Cfrjlr|Charles]] 04:36, 5 November 2007 (UTC)
+
+== Start Date?==
+This date must be incorrect... &quot;The last two of these started running in the year 2010.&quot; --[[User:Chris uvic|Chris uvic]] ([[User talk:Chris uvic|talk]]) 08:22, 7 December 2007 (UTC)
+
+== Wonder of the world ==
+It is said in the article that it is a wonder of the world. But I think it could be more mentioned, because its a very significant achievement. '''''[[User:K50 Dude|K50 Dude]] - - - ([[User talk:K50 Dude|talk]])'''''  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|undated]] comment was added at 00:42, 12 October 2008 (UTC).&lt;/span&gt;&lt;!--Template:Undated--&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Guaira Falls ==
+I'm surprised about the article not having a single reference about the disappearance of the massive [[Guaíra Falls]] as a consequence of the dam construction. [[User:Dariopy|dariopy]] ([[User talk:Dariopy|talk]]) 12:52, 6 February 2009 (UTC)
+
+== Rename...contradiction? ==
+Just a quick question. Is it a bad idea to rename this page to &quot;Itaipu Dam&quot;? If so, why? Regards. [[User:Rehman|Rehman]]&lt;sup&gt;([[User talk:Rehman|+]])&lt;/sup&gt; 02:30, 28 January 2010 (UTC)
+:I agree. I also don't understand how it is the largest hydroelectric power plant in the world...yet the dam is second to [[Three Gorges Dam]]. Makes no sense to me. I think it should be moved to &quot;Itaipu Dam&quot;, the sentence corrected and a pic of the dam put in the info box instead of the company logo. That is just from a first glance. Agree? --[[User:NortyNort|NortyNort]] ([[User talk:NortyNort|talk]]) 21:06, 3 March 2010 (UTC)
+::Sorry, i must have forgotten about this discussion. Yes, i agree. I have corrected the article with [http://en.wikipedia.org/w/index.php?title=Itaipu_Dam&amp;action=historysubmit&amp;diff=354531325&amp;oldid=354521614 this] edit on April 7th. Kind regards. [[User:Rehman|Rehman]]&lt;sup&gt;([[User talk:Rehman|+]])&lt;/sup&gt; 01:27, 1 May 2010 (UTC)
+
+== Requested move ==
+&lt;div class=&quot;boilerplate&quot; style=&quot;background-color: #efe; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px dotted #aaa;&quot;&gt;&lt;!-- Template:polltop --&gt;
+:''The following discussion is an archived discussion of the proposal. &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made in a new section on the talk page. No further edits should be made to this section. ''
+
+'''Page moved''' to [[:Itaipu dam]]. [[User:Vegaswikian|Vegaswikian]] ([[User talk:Vegaswikian|talk]]) 19:23, 30 March 2010 (UTC)
+
+[[:Itaipu]] → [[Itaipu Dam]] — Move to a more descriptive title, as per the suggestion of other editors. [[Itaipu Dam]][http://www.google.ca/search?hl=en&amp;tbo=p&amp;tbs=bks%3A1&amp;q=%22itaipu+dam%22&amp;meta=&amp;aq=f&amp;aqi=&amp;aql=&amp;oq=&amp;gs_rfai=] appears to the most commonname in English. [[Itaipu hydroelectric project]], [[Itaipu hydro station]] and [[Itaipu hydro complex]] also appear to be used but with less frequency and to lesser extent. [[User:Labattblueboy|Labattblueboy]] ([[User talk:Labattblueboy|talk]]) 15:20, 23 March 2010 (UTC)
+
+:'''Support''', but uncap dam. Similar consensus on whether or not to capitalize howitzer in [[M109 howitzer]], [[M108 howitzer]] etc. [[User:Marcus Aurelius Antoninus|Marcus Aurelius Antoninus]] ([[User talk:Marcus Aurelius Antoninus|talk]]) 20:31, 23 March 2010 (UTC)
+::It seems the overwhelming majority of dam articles capitalize dam. [[User:Marcus Aurelius Antoninus|Marcus Aurelius Antoninus]] ([[User talk:Marcus Aurelius Antoninus|talk]]) 20:37, 23 March 2010 (UTC)
+:::I'm easy either way. I personally preper the lowercase but as you mention overwhelming majority of dam articles capitalize 'dam'.--[[User:Labattblueboy|Labattblueboy]] ([[User talk:Labattblueboy|talk]]) 15:39, 24 March 2010 (UTC)
+: '''Support''' In regards to the capitalization, most have a capitalized &quot;Dam&quot;. While dam describes the structure associated with the name, it becomes its official name and is often capitalized. Sometimes lowercase is used. When using dam nicknames or in planning, when describes a dam site by its immediate locality, lower-case is often used. Also, sometimes press articles will use lower-case. I think upper-case is more common and consistent.--[[User:NortyNort|NortyNort]] ([[User talk:NortyNort|talk]]) 20:48, 23 March 2010 (UTC)
+:''The above discussion is preserved as an archive of the proposal.  &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made in a new section on this talk page. No further edits should be made to this section.&lt;/div&gt;&lt;!-- Template:pollbottom --&gt;
+
+== Dam parameters (notable question) ==
+What is the real height of this dam (from the floor bottom, not sea level) and what is the level of water below dam? E.g., it is written in german wiki that the height of the dam is 196 meters and water can reach 190 m. Otherwise, the rated head is 120 meters and it can drop down to 100 m. Consequently, it means that the level of reservoir can move up and down 90 meters. It can not be true figure, its variation must be in range of 30 meters (without any doubt). For instance, the volume 29 billion cubic meters may mean available volume of reservoir and this one corresponds to variations equal to 25-30 m. It seems to me that the height of the dam is 130-140 meters and lower level is nearly 60 [[Meters above sea level|masl]]. Any exact figures or corrections to this argumentation?--[[User:Beaber|Beaber]] ([[User talk:Beaber|talk]]) 05:24, 21 November 2010 (UTC)
+
+:According to its [http://www.itaipu.gov.br/en/energy/dam official website], it's 196m. [[User:Rehman|&lt;b&gt;&lt;span style=&quot;font-variant:small-caps&quot;&gt;Reh&lt;/span&gt;&lt;/b&gt;]][[User talk:Rehman|&lt;span style=&quot;color:green&quot;&gt;man&lt;/span&gt;]] 06:54, 21 November 2010 (UTC)
+::60 + 136 = 196? There is another option in fact: according [[Megastructures]] series of [[National Geographic]], it was found bad rocks below future dam and they had to remove these layers. It was filled by concrete after that. So perhaps it means, that real height above rock bottom is 196 m and the bottom is below lower stream as much as 60 m. Consequently, the height over tail water is 136 m, maximum head achievable - 130 m and more than the half of year it stays between 128-130 meters (≥750 MW, rated head 120 m - 715 MW).--[[User:Beaber|Beaber]] ([[User talk:Beaber|talk]]) 11:36, 22 November 2010 (UTC)
+:::Most often a dam height is based off of its foundation which can be well below the river bottom or sometimes the river's [[thalweg]]. In the Itaipu's case here, I would say it is based off of the foundation not sea level. Only reservoir levels described with sea level. I couldn't find a cross-section or more 'specific' specifications for the dam but I would think that the dam is about 50-60m below the water and the rest exposed.--[[User:NortyNort|NortyNort]]  &lt;small&gt;[[User talk:NortyNort|(Holla)]]&lt;/small&gt; 09:48, 2 January 2011 (UTC)
+::::Water levels are mentioned [http://www.itaipu.gov.br/en/energy/reservoir here]. '''1.''' Upstream: 220&lt;sub&gt;design&lt;/sub&gt; (223&lt;sub&gt;max&lt;/sub&gt;, 197&lt;sub&gt;min&lt;/sub&gt;). Downstream: 104&lt;sub&gt;design&lt;/sub&gt; (142&lt;sub&gt;max&lt;/sub&gt;, 92&lt;sub&gt;min&lt;/sub&gt;). These are water levels in &quot;m above sealevel&quot;. '''B.''' The ''vertical difference'' in levels is (as calculated from their difference): {{#expr:220-104}}&lt;sub&gt;design&lt;/sub&gt; ({{#expr:223-92}}&lt;sub&gt;max diff&lt;/sub&gt;, {{#expr:197-142}}&lt;sub&gt;min diff&lt;/sub&gt;). But the link states the operational extremes are 128&lt;sub&gt;max&lt;/sub&gt;, 84&lt;sub&gt;min&lt;/sub&gt; (probably the extremes I used in the calculation do not occur simultaneously). Note that ''this'' level difference is what you can generate energy from. '''C.''' Of course, these are water levels, not dam heights. All we know is that the downstream, visible part of the dam ''must'' be 128m at least, plus adding the dry top end and the below water end. '''D.''' Round up: The German wiki, mentioned above, probably refers to the level-difference-extremes between up- and downstream, not level diff in the basin over time. The physical dam height of course should at least be measured on the downstream side, because that is where the height really exists (even apart from its below downstream riverbed meters). Height above basin-bottom is quite irrelevant (which is also true for power capacity! The water &quot;exits&quot; (works) its power ''from the basin-top-level''. Basin-depth is only relevant for operations, like not entering sand). -[[User:DePiep|DePiep]] ([[User talk:DePiep|talk]]) 18:54, 2 January 2011 (UTC)
+:::::Very good link, these figures fits better previous data for difference between levels. One remark for the range of downstream levels - it is written there that it can be 142 &amp; 92 masl or allowed variations below dam is 50 meters. Is it possible? It looks very big, the upper figure must be the exceptional case of all flood gates opened (≈72,000 m&lt;sup&gt;3&lt;/sup&gt;/s).
+Suggested variant for conclusion: 1) According to original data the maximum upper level is 6 m below dam height; 2) According to new data, the maximum (flood) level of reservoir is 223.1 masl. It gives the height of the dam equal to 229.1 masl or 125.1 meters above downstream (&quot;223.1&lt;sub&gt;max&lt;/sub&gt; + 6 - 104&lt;sub&gt;design&lt;/sub&gt;&quot;).--[[User:Beaber|Beaber]] ([[User talk:Beaber|talk]]) 02:05, 3 January 2011 (UTC)
+::::::re:a) Yes, 142 masl downstream is very high. When it would be this high, you loose so much of the potential (height) for energy, and also the outflow gates of the turbines should be above that (permanently losing that height?!), ''or'' it is an extreme situation when downstream watertight gates are closed (dam out of operation) to save the machinery below that waterlevel. But I don't know any more about that situation. b) In the link is also mentioned the level-diff &quot;Rated drop 118.40 m&quot;, which should be some regular state of operation. c) Calculation sounds like a good approximation; of course mixing data sources may be tricky. Remaining unknown is the downstream below design level heigth (water depth and maybe below bottom). Did you ask the Germans? c) Agree changing the text into that. I'd prefer you mention the qualifications like &quot;design&quot; too. Maybe even the max/min figures (separate, not distrubinbg the calculation). -[[User:DePiep|DePiep]] ([[User talk:DePiep|talk]]) 09:49, 3 January 2011 (UTC)
+:::::::I'm not sure in my previous calculations, so i didn't write anything. And about permanent lose of potential energy: could they suppose at design stage, that will be another dam constructed downstream of the river? Its very interesting question indeed.--[[User:Beaber|Beaber]] ([[User talk:Beaber|talk]]) 04:57, 4 January 2012 (UTC)
+::::::::Projecting another dam downstream for the future, at design time (1975), would be very unlikely. First, a bit downstream is the inflow of [[Foz do Iguazu]] falls river, quite a nice Niagara for grown ups. That fall would then partly be flooded, and even then one probably would not like that. Second, another dam that would have Itaipu's flooded up to his knees would reduce the potential of Itaipu. Is not what you want to give away as a designer, ever, and that only for a possible future second dam. I've not been looking at this for a year exactly ;-), but first thing I'd suspect or check is the extreme, 142 masl below. -[[User:DePiep|DePiep]] ([[User talk:DePiep|talk]]) 10:10, 4 January 2012 (UTC)
+::::::::: Interesting picture - [http://www.panoramio.com/photo/7676422], it illustrates falling water coming out of turbines, as i understand (see also outtakes location at illustration of construction works [http://www.panoramio.com/photo/2538752]). It means, that they are above downstream level and this difference is pure loss of energy. There is a lot of similar photos too. In other words, the dam downstream wouldn't affect production of this station and would minimize level variations downstream of Itaipu. So, this is the sense of my question about possible original purpose of such design.--[[User:Beaber|Beaber]] ([[User talk:Beaber|talk]]) 16:18, 4 January 2012 (UTC)
+::::::::::You are right, every height between turbine outlet and water level is energy lost. Though on the picture I cannot see what level the turbine outlet is. My memory has it that there was little disturbance in the receiving water, i.e. little loss. And indeed the next dam could allow the water up to that outlet level (which is how high asl?). For production, all level changes below turbine outlet are irrelevant. It's just, I still don't get why the downstream levels would or could alter in a 50m range. Not even with/without the overflow slopes fully active. -[[User:DePiep|DePiep]] ([[User talk:DePiep|talk]]) 16:48, 4 January 2012 (UTC) Oh and the little water flow you do see in the picture is not a turbine outlet. More like kitchen wastewater from the office building. -[[User:DePiep|DePiep]] ([[User talk:DePiep|talk]]) 16:50, 4 January 2012 (UTC)
+{{od}}[http://www.itaipu.gov.br/en/energy/powerhouse This] is what we need. Outlets are under water. There is no loss in falling water, pure delta heigth is used. -[[User:DePiep|DePiep]] ([[User talk:DePiep|talk]]) 17:02, 4 January 2012 (UTC)
+:Very good link, thank you, it gives 40 masl for the base elevation and 225 masl for the upper rim, i.e. 185 meters for the total height. As allowed downstream level variation lies between 92 and 134 masl, it gives 42 meters. And this outlets location certainly gives better outcome at lower levels downstream. Therefore its some other falling water, not coming off generators (may be some cooling system, not important).--[[User:Beaber|Beaber]] ([[User talk:Beaber|talk]]) 08:35, 6 January 2012 (UTC)
+
+== Equivalent Fuel Oil Usage ==
+
+The calculation here is wrong. The energy value for burning diesel fuel (not taking into generation, simply in MJ) is not clear and probably based on full load of the plant. This fails to take into account [[capacity factor]] or the specific [[Energy conversion efficiency]] (which depends based on the plant, but some near 40%). For example, for the 2013 value, the plant produced an average of 11.3 GW. For a 37% efficient gas turbine plant fueled by fuel oil, 434,000 barrels per day would produce an average power of 8 GW. It is a very misleading statement and needs to be expanded to discuss long term trends in the plant's capacity factor and nail down an actual thermal power plant (Rankine process, Brayton process, diesels, etc.) to make the comparison.--[[User:Burzum|Burzum]] ([[User talk:Burzum|talk]]) 20:33, 22 March 2015 (UTC)
+	</talkpage>
+</article>

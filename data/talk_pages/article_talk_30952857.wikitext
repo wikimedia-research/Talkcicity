@@ -1,0 +1,6 @@
+<article id="30952857" title=Talk:Vladimir Gusev>
+	<talkpage id="30952857" title="Talk:Vladimir Gusev">
+{{WikiProject Biography|living=no|class=Dab|listas=Gusev, Vladimir}}
+{{WikiProject Disambiguation}}
+	</talkpage>
+</article>

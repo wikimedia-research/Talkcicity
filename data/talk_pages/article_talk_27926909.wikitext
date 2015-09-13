@@ -1,0 +1,5 @@
+<article id="27926909" title=Talk:Macrosiphum rosae>
+	<talkpage id="27926909" title="Talk:Macrosiphum rosae">
+{{WikiProject Insects|class=stub|importance=low}}
+	</talkpage>
+</article>

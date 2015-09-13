@@ -1,0 +1,7 @@
+<article id="17525922" title=Talk:Chuk (instrument)>
+	<talkpage id="17525922" title="Talk:Chuk (instrument)">
+{{WPKOREA|class=stub|importance=low|arts=yes}}
+{{WPMUSINST}}
+{{reqphoto|in=South Korea}}
+	</talkpage>
+</article>

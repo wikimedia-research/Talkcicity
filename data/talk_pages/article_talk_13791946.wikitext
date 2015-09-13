@@ -1,0 +1,6 @@
+<article id="13791946" title=Talk:Pleasant Run Township, Lawrence County, Indiana>
+	<talkpage id="13791946" title="Talk:Pleasant Run Township, Lawrence County, Indiana">
+{{WikiProject Cities|class=start|importance=low}}
+{{WikiProject United States|class=start|importance=low|IN=yes|IN-importance=low}}
+	</talkpage>
+</article>

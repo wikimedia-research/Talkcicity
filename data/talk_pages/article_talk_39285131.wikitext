@@ -1,0 +1,10 @@
+<article id="39285131" title=Talk:Sungan>
+	<talkpage id="39285131" title="Talk:Sungan">
+{{WikiProjectBannerShell|1=
+{{WikiProject Geography|class=stub|importance=low}}
+{{WikiProject Iran |importance=|class=stub}}
+{{WikiProject Cities|class=stub|importance=low}}
+{{Image requested|in=Iran}}
+}}
+	</talkpage>
+</article>

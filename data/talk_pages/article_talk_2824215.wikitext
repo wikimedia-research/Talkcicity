@@ -1,0 +1,20 @@
+<article id="2824215" title=User talk:Clustercomps>
+	<talkpage id="2824215" title="User talk:Clustercomps">
+'''Welcome!'''
+
+Hello, {{PAGENAME}}, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for your contributions. I hope you like the place and decide to stay. Here are a few good links for newcomers:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Help:Contents|Help pages]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:How to write a great article|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (~&amp;#126;~~); this will automatically produce your name and the date. If you need help, check out [[Wikipedia:Where to ask a question]], ask me on my talk page, or place &lt;code&gt;{&amp;#123;helpme}}&lt;/code&gt; on your talk page and someone will show up shortly to answer your questions. Again, welcome!&amp;nbsp;
+==User page==
+It is felt that the article you created at [[Sean Harris (MS&amp;E Scholar)]] is not suitable for a Wikipedia article, which must have a [[Wikipedia:Notability|notable]] subject and be [[Wikipedia:Verifiability|verifiable]]. I have moved it to [[User:{{PAGENAME}}]], which is where users are free to write about themselves. You are at liberty to move it back into the (Main) namespace but bear in mind that if you do so, it is likely to be nominated for deletion. 
+
+Note, however, that the purpose of a user page is to enable active editors of Wikipedia to introduce themselves to other editors. [[WP:NOT#Wikipedia_is_not_a_blog.2C_webspace_provider.2C_or_social_networking_site|Wikipedia is not a general hosting service]], so your user page is not a personal homepage. Content unrelated to Wikipedia or its editing is likely to be removed.
+
+Please see [[WP:User_page|the user page guidelines]], especially [[WP:User_page#What_can_I_not_have_on_my_user_page.3F|this section]] for more information.&lt;!-- Template:Userfied --&gt;  -- [[User:RHaworth|RHaworth]] 12:48, 3 October 2005 (UTC)
+	</talkpage>
+</article>

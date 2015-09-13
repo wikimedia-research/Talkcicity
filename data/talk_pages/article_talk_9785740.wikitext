@@ -1,0 +1,18 @@
+<article id="9785740" title=Talk:Miguel Illescas>
+	<talkpage id="9785740" title="Talk:Miguel Illescas">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=yes
+|class=Start
+|listas=Illescas, Miguel
+|sports-work-group=yes
+|sports-priority=low
+}}
+{{WikiProject Chess|class=Start|importance=Low}}
+{{WikiProject Spain|class=start}}
+| blp=yes
+}}
+
+== WikiProject class rating==
+This article was automatically assessed because at least one WikiProject had rated the article as start, and the rating on other projects was brought up to start class. [[User:BetacommandBot|BetacommandBot]] 05:34, 10 November 2007 (UTC)
+	</talkpage>
+</article>

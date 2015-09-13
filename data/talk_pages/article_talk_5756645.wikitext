@@ -1,0 +1,10 @@
+<article id="5756645" title=Talk:HNoMS Bergen (F301)>
+	<talkpage id="5756645" title="Talk:HNoMS Bergen (F301)">
+{{Talk header}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Ships|class=Stub|importance=Mid}}
+{{WPMILHIST|class=Stub|Maritime=yes|Nordic=yes}}
+{{WikiProject Norway|class=Stub}}
+}}
+	</talkpage>
+</article>

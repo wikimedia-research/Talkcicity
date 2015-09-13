@@ -1,0 +1,6 @@
+<article id="15772860" title=Talk:WSNW>
+	<talkpage id="15772860" title="Talk:WSNW">
+{{WikiProject United States|class=Start|importance=Low|SC=Yes|SC-importance=Low}}
+{{RadioStationsProject|class=Stub}}
+	</talkpage>
+</article>

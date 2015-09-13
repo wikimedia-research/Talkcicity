@@ -1,0 +1,6 @@
+<article id="25384734" title=User talk:Puremage1405>
+	<talkpage id="25384734" title="User talk:Puremage1405">
+== December 2009 ==
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of your recent edits{{#if:The Fame|, such as the one you made to [[:The Fame]],}} did not appear to be constructive and has been reverted. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; [[User:A8UDI|&lt;font color=&quot;darkblue&quot;&gt;'''A8'''&lt;/font&gt;]][[User talk:A8UDI|&lt;font color=&quot;black&quot;&gt;'''UDI'''&lt;/font&gt;]] 14:07, 10 December 2009 (UTC)
+	</talkpage>
+</article>

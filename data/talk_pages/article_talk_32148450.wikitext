@@ -1,0 +1,123 @@
+<article id="32148450" title=User talk:Qwer25>
+	<talkpage id="32148450" title="User talk:Qwer25">
+== Welcome! ==
+
+
+{| width=&quot;100%&quot; style=&quot;background:transparent&quot;
+{| width=&quot;100%&quot; style=&quot;background-color:&lt;!-- Bug --&gt;#F5FFFA&quot;
+|style=&quot;width: 50%; border:1px solid &lt;!-- Strange bug makes the number sign have to go in front of the parserfunction here--&gt;#084080; background-color:&lt;!-- Bug --&gt;#F5FFFA; vertical-align:top&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;2&quot; style=&quot;vertical-align:top; background-color:&lt;!-- Bug --&gt;#F5FFFA&quot;
+| &lt;div style=&quot;margin: 0; background-color:
+#CECEF2; font-family: sans-serif; border:1px solid 
+#084080; text-align:left; color:black; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;&lt;p&gt;Hello, {{BASEPAGENAME}}, and '''''[[Wikipedia:Welcoming committee/Welcome to Wikipedia|Welcome to Wikipedia!]]'''''&lt;/p&gt;
+&lt;p&gt;Please remember to [[Wikipedia:Sign your posts on talk pages|sign your name on talk pages]] by clicking [[Image:Signature icon.png|link=Wikipedia:How to sign your posts]] or [[File:Insert-signature.png|link=Wikipedia:How to sign your posts]] or by typing four tildes &lt;nowiki&gt;(~~~~)&lt;/nowiki&gt;; this will automatically produce your username and the date. Also, please do your best to always fill in the [[m:Help:Edit summary|edit summary field]]. Below are some useful links to facilitate your involvement.&lt;/p&gt;
+&lt;p&gt;Happy editing! [[User:GiantSnowman|Giant]][[User talk:GiantSnowman|Snowman]] 09:32, 20 June 2011 (UTC)&lt;/p&gt;
+|}
+{| width=&quot;100%&quot; style=&quot;background-color:&lt;!-- Bug --&gt;#F5FFFA&quot;
+|style=&quot;width: 50%; border:0; background-color:&lt;!-- Bug --&gt;#F5FFFA; vertical-align:top&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;2&quot; style=&quot;vertical-align:top; background-color:&lt;!-- Bug --&gt;#F5FFFA;&quot;
+|-
+! &lt;div style=&quot;margin: 0; background-color:
+#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid 
+#CEF2E0; text-align:left; color:
+#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Getting started&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Introduction|Introduction]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Wikipedia:How to edit a page|How to edit a page]]
+* [[Help:Wikipedia: The Missing Manual|Intuitive guide to Wikipedia]]
+|-
+! &lt;div style=&quot;margin: 0; background:
+#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid 
+#CEF2E0; text-align:left; color:
+#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Finding your way around&lt;/div&gt;
+|-
+| style=&quot;color:#000&quot;|
+* [[Wikipedia:Contents|Table of contents]]
+* [[Wikipedia:Department directory|Department directory]]
+|-
+! &lt;div style=&quot;margin: 0; background-color:
+#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid 
+#CEF2E0; text-align:left; color:
+#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Editing articles&lt;/div&gt;
+|-
+| style=&quot;color:#000&quot;|
+* [[Wikipedia:Article development#How to develop an article|How to develop an article]]
+* [[Wikipedia:Manual of Style|Manual of Style]]
+|-
+|}
+|style=&quot;width: 50%; border:0; background-color:&lt;!-- Bug --&gt;#F5FFFA; vertical-align:top&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;2&quot; style=&quot;vertical-align:top; background-color:&lt;!-- Bug --&gt;#F5FFFA&quot;
+! &lt;div style=&quot;margin: 0; background-color:
+#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid 
+#CEF2E0; text-align:left; color:
+#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Getting help&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Overview FAQ|Frequently asked questions]]
+* [[Wikipedia:Cheatsheet|Cheatsheet]]
+* [[Wikipedia:Questions|Where to ask a question]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:New contributors' help page|New contributors' help page]]
+* [[Wikipedia:Article wizard2.0|Article Wizard]] - a Wizard to help you create articles
+|-
+! &lt;div style=&quot;margin: 0; background-color:
+#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid 
+#CEF2E0; text-align:left; color:
+#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;How you can help&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Contributing to Wikipedia|Contributing to Wikipedia]]
+* [[Wikipedia:Community Portal|Community Portal]]
+* Follow [[Wikipedia:Etiquette|Wikipedia etiquette]]
+* Practice [[Wikipedia:Civility|civility]]
+|-
+|}
+|}
+|}
+|}
+
+== Your recent edits ==
+
+Hello. Just wondering what your source is on all these edits? Cheers. [[User:Anna Frodesiak|Anna Frodesiak]] ([[User talk:Anna Frodesiak|talk]]) 12:49, 20 June 2011 (UTC)
+
+from www.soccerassociation.com
+
+:Well, I don't have a subscription, so I can't fact check, but ok. Thanks friend. Happy editing. [[User:Anna Frodesiak|Anna Frodesiak]] ([[User talk:Anna Frodesiak|talk]]) 12:59, 20 June 2011 (UTC)
+
+I'm new to this. Is this ok? Have an interst in football stats and saw that i can update quite a few
+
+:Yes. Indeed. As long as the figures are correct, good job. Keep going. :) Anything you need, just ask. [[User:Anna Frodesiak|Anna Frodesiak]] ([[User talk:Anna Frodesiak|talk]]) 13:06, 20 June 2011 (UTC)
+
+I see that you have created lots of new articles, generally with only a single external link as a source.  Please ensure that you are aware of our [[WP:V|verifiability]] policy, especially in regards to [[WP:BLP|living people]] and try to always [[WP:CITE|cite]] at least one [[WP:RS|reliable]] reference inline, rather than just the external link.  Thanks.  [[User:The-Pope|The-Pope]] ([[User talk:The-Pope|talk]]) 01:02, 25 June 2011 (UTC)
+==[[Wikipedia:Proposed deletion|Proposed deletion]] of [[Katuku Tshimanga]]==
+[[Image:Ambox warning yellow.svg|left|link=|48px|]]
+
+The article [[Katuku Tshimanga]] has been [[WP:BLPPROD|proposed for deletion]] because under Wikipedia policy, all '''[[WP:BLP|biographies of living persons]]''' created after March 18, 2010, must have at least one [[WP:V#Sources|reliable source]] that directly supports material in the article. 
+
+If you created the article, please don't take offense. Instead, consider improving the article. For help on inserting references, see [[Wikipedia:Referencing for beginners]] or ask at [[Wikipedia:Help desk]]. Once you have provided at least one [[WP:V#Sources|reliable source]], you may remove the {{tl|prod blp}} tag. '''Please do not remove the tag unless the article is sourced.''' If you cannot provide such a source within ten days, the article may be deleted, but you can {{#ifexist:Katuku Tshimanga|request that it be undeleted|[[Wikipedia:Requests for undeletion|request that it be undeleted]]}} when you are ready to add one.&lt;!-- Template:ProdwarningBLP --&gt; [[User:Ariconte|Ariconte]] ([[User talk:Ariconte|talk]]) 05:24, 28 June 2011 (UTC)
+
+== Edit summary ==
+
+Hi there, many thanks for your recent edits to Belgian football stats, but please remember to try and include an edit summary in future. More information can be found at [[Help:Edit summary]]. Regards, [[User:GiantSnowman|Giant]][[User talk:GiantSnowman|Snowman]] 14:51, 29 July 2011 (UTC)
+
+== [[Wikipedia:Proposed deletion|Proposed deletion]] of [[Mijuško Bojović]] ==
+[[Image:Ambox warning yellow.svg|left|link=|48px|]]
+
+The article [[Mijuško Bojović]] has been [[Wikipedia:Proposed deletion|proposed for deletion]]&amp;#32; because of the following concern:
+:'''Article about a footballer who fails [[WP:GNG]] and who has not played in a fully pro league.'''
+
+While all contributions to Wikipedia are appreciated, content or articles may be [[WP:DEL#REASON|deleted for any of several reasons]].
+
+You may prevent the proposed deletion by removing the {{Tlc|proposed deletion/dated}} notice, but please explain why in your [[Help:edit summary|edit summary]] or on [[Talk:Mijuško Bojović|the article's talk page]].
+
+Please consider improving the article to address the issues raised. Removing {{Tlc|proposed deletion/dated}} will stop the [[Wikipedia:Proposed deletion|proposed deletion process]], but other [[Wikipedia:deletion process|deletion process]]es exist. In particular, the [[Wikipedia:Criteria for speedy deletion|speedy deletion]] process can result in deletion without discussion, and [[Wikipedia:Articles for deletion|articles for deletion]] allows discussion to reach [[Wikipedia:Consensus|consensus]] for deletion.&lt;!-- Template:Proposed deletion notify --&gt; [[User:Sir Sputnik|Sir Sputnik]] ([[User talk:Sir Sputnik|talk]]) 18:31, 17 September 2011 (UTC)
+==[[Wikipedia:Proposed deletion|Proposed deletion]] of [[Maxime Biset]]==
+[[File:Ambox warning yellow.svg|left|link=|48px|]]
+
+The article [[Maxime Biset]] has been [[WP:BLPPROD|proposed for deletion]] because it appears to have no references. Under [[Wikipedia:BLPPROD#Objecting|Wikipedia policy]], this newly created '''[[WP:BLP|biography of a living person]]''' will be deleted unless it has at least one reference to a [[WP:V#Sources|reliable source]] that directly supports material in the article. 
+
+If you created the article, please don't be offended. Instead, consider improving the article. For help on inserting references, see [[Wikipedia:Referencing for beginners|Referencing for beginners]], or ask at the [[Wikipedia:Help desk|help desk]]. Once you have provided at least one [[WP:V#Sources|reliable source]], you may remove the {{tl|prod blp}} tag. '''Please do not remove the tag unless the article is sourced.''' If you cannot provide such a source within seven days, the article may be deleted, but you can {{#ifexist:Maxime Biset|request that it be undeleted|[[Wikipedia:Requests for undeletion|request that it be undeleted]]}} when you are ready to add one.&lt;!-- Template:ProdwarningBLP --&gt; [[User:AlanS|AlanS]] ([[User talk:AlanS|talk]]) 11:58, 6 August 2014 (UTC)
+	</talkpage>
+</article>

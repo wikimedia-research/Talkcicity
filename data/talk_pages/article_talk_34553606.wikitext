@@ -1,0 +1,11 @@
+<article id="34553606" title=Talk:Leonard Mitchell (artist)>
+	<talkpage id="34553606" title="Talk:Leonard Mitchell (artist)">
+{{WikiProject New Zealand|class=|importance=}}
+{{WikiProject Biography
+|class=stub
+|living=no
+|listas=Mitchell, Victor Leonard William
+|a&amp;e-work-group=yes
+}}
+	</talkpage>
+</article>

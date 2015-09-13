@@ -1,0 +1,10 @@
+<article id="20479242" title=Talk:Time scale>
+	<talkpage id="20479242" title="Talk:Time scale">
+{{DisambigProject}}
+{{Physics|class=disambig}}
+
+I added a reference to 'epoch' in the definition. Time scales such as TAI, UTC, GMT, TCB, TDB, civil time, ephemeris time are times since an epoch.
+
+&gt;&gt;&gt; Dulciana &lt;&lt;&lt;
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="23857679" title=Talk:Infamous Angel>
+	<talkpage id="23857679" title="Talk:Infamous Angel">
+{{album|class=start|importance=|attention=|needs-infobox=|auto=yes}}
+	</talkpage>
+</article>

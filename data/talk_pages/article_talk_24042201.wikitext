@@ -1,0 +1,12 @@
+<article id="24042201" title=Talk:Shalom Cohen (politician)>
+	<talkpage id="24042201" title="Talk:Shalom Cohen (politician)">
+{{WPBiography
+|living=no
+|class=Start
+|auto=inherit
+|listas=Cohen, Shalom}}
+{{WikiProject Iraq|class=start|importance=low}}
+{{WikiProject Israel|class=start|importance=low}}
+{{reqphoto|people of Israel}}
+	</talkpage>
+</article>

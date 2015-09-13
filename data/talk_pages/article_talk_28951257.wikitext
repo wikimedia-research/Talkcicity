@@ -1,0 +1,7 @@
+<article id="28951257" title=User talk:124.171.212.107>
+	<talkpage id="28951257" title="User talk:124.171.212.107">
+[[File:Information.svg|25px|alt=]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of [[Special:Contributions/124.171.212.107|your recent edits]], such as the one you made to [[:Tom Veryzer]], did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt;
+
+[[File:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia, as you did at [[:Conservatism in the United States]]. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]] or removed. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Thank you.&lt;!-- Template:uw-vandalism2 --&gt;
+	</talkpage>
+</article>

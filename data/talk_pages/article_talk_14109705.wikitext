@@ -1,0 +1,16 @@
+<article id="14109705" title=Talk:Keerti Gaekwad Kelkar>
+	<talkpage id="14109705" title="Talk:Keerti Gaekwad Kelkar">
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|filmbio-work-group=yes
+|listas=Kelkar, Keerti Gaekwad
+}}
+{{WP India
+|class=Stub
+|importance=low
+|television=yes
+|television-importance=low
+}}
+	</talkpage>
+</article>

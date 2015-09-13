@@ -1,0 +1,7 @@
+<article id="41316166" title=Talk:Snyder Memorial Methodist Episcopal Church>
+	<talkpage id="41316166" title="Talk:Snyder Memorial Methodist Episcopal Church">
+{{talk header}}
+{{WikiProject Jacksonville|class=|importance=}}
+{{WikiProject National Register of Historic Places|class=stub|importance=low}}
+	</talkpage>
+</article>

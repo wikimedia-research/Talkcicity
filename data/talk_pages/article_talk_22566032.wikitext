@@ -1,0 +1,12 @@
+<article id="22566032" title=Talk:Chen Tianwen>
+	<talkpage id="22566032" title="Talk:Chen Tianwen">
+{{WikiProject Biography
+|living=yes
+|class=Stub
+
+|auto=yes
+|listas=Chen Tianwen
+}}
+{{WikiProject Singapore|class=Stub}}
+	</talkpage>
+</article>

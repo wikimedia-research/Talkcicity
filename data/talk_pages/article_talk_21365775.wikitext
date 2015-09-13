@@ -1,0 +1,8 @@
+<article id="21365775" title=User talk:98.213.60.87>
+	<talkpage id="21365775" title="User talk:98.213.60.87">
+
+
+== February 2009 ==
+[[Image:Information.svg|25px|]] Please do not add promotional material to Wikipedia{{#if:Uploading and downloading|, as you did to [[:Uploading and downloading]]}}. While [[Wikipedia:Neutral point of view|objective prose]] about products or services ''is'' acceptable, Wikipedia is not intended to be [[Wikipedia:What Wikipedia is not#Wikipedia is not a soapbox|a vehicle for advertising or promotion]]. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:Uw-advert2 --&gt; [[User:Waggers|waggers]] ([[User talk:Waggers|talk]]) 15:03, 2 February 2009 (UTC)
+	</talkpage>
+</article>

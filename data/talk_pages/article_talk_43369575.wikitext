@@ -1,0 +1,5 @@
+<article id="43369575" title=Talk:Trichonyssodrys cinctus>
+	<talkpage id="43369575" title="Talk:Trichonyssodrys cinctus">
+{{WikiProject Beetles|class=Stub|importance=Low|needs-photo=yes}}
+	</talkpage>
+</article>

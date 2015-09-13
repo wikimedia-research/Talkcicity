@@ -1,0 +1,9 @@
+<article id="6697505" title=Talk:Michigan Youth Arts Festival>
+	<talkpage id="6697505" title="Talk:Michigan Youth Arts Festival">
+{{WikiProject Michigan|class=stub|importance=low}}
+
+{| class=&quot;messagebox standard-talk&quot; style=&quot;text-align:center;&quot;
+| width=&quot;48px&quot; | [[File:Evolution-tasks2.png|50px|Articles for deletion]] || This article was nominated for [[Wikipedia:Deletion policy|deletion]] {{#if:21/8/2006|on 21/8/2006|recently}}. The result of [[Wikipedia:Articles for deletion/Michigan_Youth_Arts_Festival|the discussion]] was {{{result|'''keep'''}}}.
+|}&lt;!-- From Template:Oldafdfull --&gt;
+	</talkpage>
+</article>

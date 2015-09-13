@@ -1,0 +1,11 @@
+<article id="33886887" title=Talk:Charles Western, 1st Baron Western>
+	<talkpage id="33886887" title="Talk:Charles Western, 1st Baron Western">
+{{WikiProject Biography
+|living=no
+|class=Start
+|listas=Western, Charles, 1st Baron
+|politician-work-group=yes
+|peerage-work-group=yes
+}}
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="19170582" title=Talk:List of minor planets/36501–36600>
+	<talkpage id="19170582" title="Talk:List of minor planets/36501–36600">
+{{WikiProject Solar System|class=list|importance=low}}
+{{WikiProject Astronomy|class=list|importance=low}}
+	</talkpage>
+</article>

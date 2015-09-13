@@ -1,0 +1,13 @@
+<article id="9481064" title=User talk:Drgun101>
+	<talkpage id="9481064" title="User talk:Drgun101">
+[[Image:Information.svg|25px]] Please do not add [[Wikipedia:Libel|defamatory]] content to Wikipedia{{{{{subst|}}}#if:Tim Tran|, as you did to [[:Tim Tran]]}}. If you would like to experiment please use the [[WP:Sandbox|sandbox]]. {{{2|Thank you.}}}&lt;!-- {{uw-defamatory2}} --&gt; ~[[User:Matticus78|Matticus]]&amp;nbsp;&lt;sup&gt;[[User talk:Matticus78|T]]&lt;/sup&gt;&lt;sub&gt;[[Special:Contributions/Matticus78|C]]&lt;/sub&gt; 10:47, 13 February 2007 (UTC)
+
+==Tim Tran==
+
+I've deleted this page as it fails several important areas of Wikipedia policy and because the page could be interpreted as defamatory towards the subject. If you have any questions, just drop me a line. &lt;font face=&quot;Arial&quot;&gt;-- '''[[User:Heligoland|&lt;font color=&quot;blue&quot;&gt;Heligo&lt;/font&gt;]][[User_talk:Heligoland|&lt;font color=&quot;red&quot;&gt;land&lt;/font&gt;]]&lt;/font&gt;''' 11:32, 20 February 2007 (UTC)
+
+== John Howard ==
+
+Please do not add nonsense to Wikipedia{{#if:{{{1|}}}|, as you did {{#if:{{{diff|}}}|with [{{{diff}}} this edit]}} to the [[:{{{1}}}]] page|{{#if:{{{diff|}}}|, as you did with [{{{diff}}} this edit]}}}}. It is considered [[Wikipedia:Vandalism|vandalism]]. If you would like to experiment, use the [[Wikipedia:Sandbox|sandbox]]. Thank you. &lt;!-- Template:Test2 (second level warning) --&gt; '''[[User talk:Sarah|Sarah]]''' 12:52, 26 August 2007 (UTC)
+	</talkpage>
+</article>

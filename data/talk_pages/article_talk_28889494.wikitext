@@ -1,0 +1,6 @@
+<article id="28889494" title=Talk:Scatec Solar>
+	<talkpage id="28889494" title="Talk:Scatec Solar">
+{{WikiProject Companies|class=stub|auto=yes}}
+{{WikiProject Norway|class=Stub|auto=yes}}
+	</talkpage>
+</article>

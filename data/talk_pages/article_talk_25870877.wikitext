@@ -1,0 +1,10 @@
+<article id="25870877" title=Talk:Raman Skirmunt>
+	<talkpage id="25870877" title="Talk:Raman Skirmunt">
+{{WikiProject Biography
+|living=no
+|class=
+|listas=Skirmunt, Raman
+}}
+{{WikiProject Poland|class=start|importance=low}}
+	</talkpage>
+</article>

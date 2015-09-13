@@ -1,0 +1,6 @@
+<article id="7662454" title=Talk:Northern NSW Football>
+	<talkpage id="7662454" title="Talk:Northern NSW Football">
+{{WikiProject Football|class=Stub |importance=low |Australia=yes}}
+{{WP Australia |class=Stub |importance=}}
+	</talkpage>
+</article>

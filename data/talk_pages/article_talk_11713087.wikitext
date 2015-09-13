@@ -1,0 +1,7 @@
+<article id="11713087" title=User talk:87.16.131.25>
+	<talkpage id="11713087" title="User talk:87.16.131.25">
+
+
+Your recent edit to [[:Lil Jon]] ([http://en.wikipedia.org/w/index.php?title=Lil_Jon&amp;diff=137459515&amp;oldid=137456386 diff]) was reverted by an '''automated bot''' that attempts to recognize and repair [[Wikipedia:vandalism|vandalism]] to Wikipedia articles. If the bot reverted a legitimate edit, please accept my humble creator's apologies – if you bring it to the attention of the bot's owner, we may be able to improve its behavior. '''[[User:Tawkerbot2/FAQ|Click here]]''' for '''frequently asked questions''' about the bot and this warning. // [[User:MartinBot|MartinBot]] 14:39, 11 June 2007 (UTC)
+	</talkpage>
+</article>

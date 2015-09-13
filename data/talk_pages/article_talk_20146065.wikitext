@@ -1,0 +1,5 @@
+<article id="20146065" title=Talk:Księżowola>
+	<talkpage id="20146065" title="Talk:Księżowola">
+{{WikiProject Poland|class=stub|importance=}}
+	</talkpage>
+</article>

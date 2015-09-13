@@ -1,0 +1,13 @@
+<article id="28940011" title=User talk:86.147.38.167>
+	<talkpage id="28940011" title="User talk:86.147.38.167">
+
+
+==September 2010==
+[[Image:Information.png|25px]] Welcome to Wikipedia. While everyone is welcome to contribute to Wikipedia, at least one of your contributions, such as your [http://en.wikipedia.org/w/index.php?diff=386815487 recent edit] to [[:Vas deferens]], did not appear to be constructive and was '''automatically [http://en.wikipedia.org/w/index.php?diff=next&amp;oldid=386815487 reverted]''' by [[User:DASHBot|DASHBot]]. 
+* Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. Note that human editors do monitor recent changes to Wikipedia articles, and [[WP:ADMINS|administrators]] have the ability to [[WP:BLOCK|block]] users from editing if they repeatedly engage in [[WP:vandalism|vandalism]].
+* DASHBot produces few false positives, but they do happen. If you believe the bot has reverted your edit wrongly, it is helpful if you report the error so the bot does not make the same mistake again.  Please:
+::* [http://toolserver.org/~tim1357/cgi-bin/false_positive.py?diff=386815487 Click here] to  ''automatically'' generate a false positive report.
+::* [{{fullurl:{{FULLPAGENAME}}|action=edit}} Edit this page] and remove this message.
+Thanks, &lt;!-- Template:uw-vandalism1 --&gt; [[User:DASHBot/Anti-Vandalism|DASHBot Anti-Vandalism]] ([[User talk:DASHBot/Anti-Vandalism|talk]]) 20:52, 24 September 2010 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="37545582" title=Talk:Sulcospira testudinaria>
+	<talkpage id="37545582" title="Talk:Sulcospira testudinaria">
+{{WikiProject Gastropods|class=Stub|importance=Low|needs-photo=yes}}
+	</talkpage>
+</article>

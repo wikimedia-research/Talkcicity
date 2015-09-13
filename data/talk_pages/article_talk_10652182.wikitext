@@ -1,0 +1,6 @@
+<article id="10652182" title=Talk:Clarkesville, Georgia>
+	<talkpage id="10652182" title="Talk:Clarkesville, Georgia">
+{{WikiProject GeorgiaUS|class=Start|importance=Low}}
+{{WikiProject Cities|class=start|importance=low}}
+	</talkpage>
+</article>

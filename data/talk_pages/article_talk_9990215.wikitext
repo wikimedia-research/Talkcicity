@@ -1,0 +1,6 @@
+<article id="9990215" title=Talk:Gouania vitifolia>
+	<talkpage id="9990215" title="Talk:Gouania vitifolia">
+{{WikiProject Plants|class=Stub|importance=}}
+{{WPHawaii|class=Stub|importance=Mid}}
+	</talkpage>
+</article>

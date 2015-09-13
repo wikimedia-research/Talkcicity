@@ -1,0 +1,9 @@
+<article id="13607808" title=Talk:KPNO>
+	<talkpage id="13607808" title="Talk:KPNO">
+{{WikiProject United States|class=Stub|auto=Inherit|importance=|NE=Yes|NE-importance=}}
+{{RadioStationsProject|class=Stub}}
+
+==Rationale for deletion of disambiguation page==
+Per the [[WP:Disambig]] page, &quot;If only a primary topic and one other topic require disambiguation, then disambiguation links are sufficient, and a disambiguation page is unnecessary.&quot; Since the radio station call letters are the primary identification and the acronym for an astronomical observatory is a secondary identification, a hat note is sufficient and requires no more steps than would a disambiguation page for people seeking the observatory. - [[User:Dravecky|Dravecky]] ([[User talk:Dravecky|talk]]) 05:03, 9 September 2008 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,15 @@
+<article id="18084742" title=Talk:Paul Walker (footballer, born 1949)>
+	<talkpage id="18084742" title="Talk:Paul Walker (footballer, born 1949)">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|sports-work-group=yes
+|listas=Walker, Paul
+}}
+{{WikiProject Football|class=Stub|importance=low|england=yes|auto=yes}}
+{{WikiProject Hertfordshire|class=stub|importance=}}
+| blp=yes
+}}
+	</talkpage>
+</article>

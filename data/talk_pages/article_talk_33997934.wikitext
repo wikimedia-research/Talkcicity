@@ -1,0 +1,8 @@
+<article id="21446739" title=Talk:Saphan Khwai BTS Station>
+	<talkpage id="21446739" title="Talk:Saphan Khwai BTS Station">
+{{oldafdfull| date = 8 November 2013 (UTC) | result = '''keep''' | page = Saphan Khwai BTS Station }}
+
+{{WikiProject Thailand|class=stub|importance=low}}
+{{WikiProject Trains|class=stub|importance=low|stations=yes|subway=yes}}
+	</talkpage>
+</article>

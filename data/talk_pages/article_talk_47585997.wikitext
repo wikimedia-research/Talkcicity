@@ -1,0 +1,6 @@
+<article id="47585997" title=Talk:Jeremy Turner (composer)>
+	<talkpage id="47585997" title="Talk:Jeremy Turner (composer)">
+{{WikiProject Articles for creation|class=start|ts=20150821124656|reviewer=Flat Out|oldid=677148437}}
+{{WikiProject Biography|living=yes|class=start|listas=Turner, Jeremy}}
+	</talkpage>
+</article>

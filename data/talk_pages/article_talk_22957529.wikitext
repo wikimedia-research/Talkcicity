@@ -1,0 +1,6 @@
+<article id="22957529" title=Talk:Krzyżanowo, Greater Poland Voivodeship>
+	<talkpage id="22957529" title="Talk:Krzyżanowo, Greater Poland Voivodeship">
+{{WPCities|class=start|importance=low}}
+{{WikiProject Poland|class=start|importance=mid}}
+	</talkpage>
+</article>

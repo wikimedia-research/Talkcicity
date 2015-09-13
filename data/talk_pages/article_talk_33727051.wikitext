@@ -1,0 +1,17 @@
+<article id="33727051" title=Talk:P. K. Abdu Rabb>
+	<talkpage id="33727051" title="Talk:P. K. Abdu Rabb">
+{{WikiProject Biography
+|living=yes
+|class=stub
+|listas=Rabb, P. K. Abdu
+|politician-work-group=yes
+|politician-priority=low
+}}
+{{WP India
+|class=Stub
+|importance=low
+|politics=yes
+|politics-importance=low
+}}
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="30222749" title=Talk:East Germany women's national handball team>
+	<talkpage id="30222749" title="Talk:East Germany women's national handball team">
+{{WikiProject Germany|class=Stub|GDR=yes|GDRImp=|needs-infobox=yes}}
+{{WikiProject Women's sport|class=Stub|importance=}}
+	</talkpage>
+</article>

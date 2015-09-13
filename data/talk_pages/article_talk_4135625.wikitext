@@ -1,0 +1,18 @@
+<article id="4135625" title=Talk:Taji, Iraq>
+	<talkpage id="4135625" title="Talk:Taji, Iraq">
+{{WikiProject Iraq|class=|importance=}}
+{{WPMILHIST
+|class=start
+|B-Class-1=no
+|B-Class-2=no
+|B-Class-3=yes
+|B-Class-4=yes
+|B-Class-5=yes
+|Middle-Eastern-task-force=yes
+|US-task-force=yes
+}}
+
+==Opsec==
+If you are a soldier or Civilian currently in Camp Taji, Iraq, you are obligated to practice Operational Security.  Posting sensitive information about current units, missions, or operations is strictly forbidden and will be promptly deleted.
+	</talkpage>
+</article>

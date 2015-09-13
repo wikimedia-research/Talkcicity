@@ -1,0 +1,5 @@
+<article id="41152639" title=Talk:Lisa Cheng>
+	<talkpage id="41152639" title="Talk:Lisa Cheng">
+{{WikiProject Biography|living=yes|listas=Cheng, Lisa|class=Start}}
+	</talkpage>
+</article>

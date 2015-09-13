@@ -1,0 +1,14 @@
+<article id="31033721" title=User talk:Studytogether>
+	<talkpage id="31033721" title="User talk:Studytogether">
+==February 2011==
+'''Welcome!'''
+
+Hello, Studytogether, and [[Wikipedia:Introduction|welcome]] to Wikipedia! Thank you for [[Special:Contributions/Studytogether|your contributions]]. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:How to edit a page|How to edit a page]] and [[Wikipedia:Article development|How to develop articles]]
+*[[Wikipedia:Your first article|How to create your first article]] (using the [[Wikipedia:Article wizard|Article Wizard]] if you wish)
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign]] your messages on [[Help:Using talk pages|discussion page]]s using four [[tilde]]s (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically insert your username and the date. If you need help, check out [[Wikipedia:Questions]], ask me on my talk page, or ask your question on this page and then place &lt;code&gt;&lt;nowiki&gt;{{help me}}&lt;/nowiki&gt;&lt;/code&gt; before the question. Again, welcome! &lt;!-- {{Welcome}} --&gt; [[User:Strikerforce|Strikerforce]] ([[User talk:Strikerforce|talk]]) 10:05, 28 February 2011 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,20 @@
+<article id="30741462" title=User talk:Cacno>
+	<talkpage id="30741462" title="User talk:Cacno">
+== Nomination of [[Jay Weigel]] for deletion ==
+
+&lt;div class=&quot;floatleft&quot; style=&quot;margin-bottom:0&quot;&gt;[[File:Ambox warning orange.svg|42px|alt=|link=]]&lt;/div&gt;The article '''[[Jay Weigel]]''' is being discussed concerning whether it is suitable for inclusion as an article according to [[Wikipedia:List of policies and guidelines|Wikipedia's policies and guidelines]] or whether it should be [[Wikipedia:Deletion policy|deleted]].
+
+The article will be discussed at [[Wikipedia:Articles for deletion/Jay Weigel]] until a consensus is reached, and anyone is welcome to contribute to the discussion. The nomination will explain the policies and guidelines which are of concern. The discussion focuses on good quality evidence, and our policies and guidelines.
+
+Users may edit the article during the discussion, including to improve the article to address concerns raised in the discussion.  However, do not remove the article-for-deletion template from the top of the article. [[User:KzKrann|KzKrann]] ([[User talk:KzKrann|talk]]) 22:49, 3 February 2011 (UTC)
+
+You should also know that the article is a [[WP:COPY|copyright violation]], as it is a cut-and-paste from the bio page at Wiegel's Website.  As such, it will likely be deleted very shortly. [[User:Blueboy96|Blueboy]][[User talk:Blueboy96|96]] 23:00, 3 February 2011 (UTC)
+
+==[[Wikipedia:Proposed deletion|Proposed deletion]] of [[Jay Weigel]]==
+[[Image:Ambox warning yellow.svg|left|link=|48px|]]
+
+The article [[Jay Weigel]] has been [[WP:BLPPROD|proposed for deletion]] because under Wikipedia policy, all '''[[WP:BLP|biographies of living persons]]''' created after March 18, 2010, must have at least one [[WP:V#Sources|source]] that directly supports material in the article. 
+
+If you created the article, please don't take offense. Instead, consider improving the article. For help on inserting references, see [[Wikipedia:Referencing for beginners]] or ask at [[Wikipedia:Help desk]]. Once you have provided at least one [[WP:V#Sources|reliable source]], you may remove the {{tl|prod blp}} tag. '''Please do not remove the tag unless the article is sourced.''' If you cannot provide such a source within ten days, the article may be deleted, but you can {{#ifexist:Jay Weigel|request that it be undeleted|[[Wikipedia:Requests for undeletion|request that it be undeleted]]}} when you are ready to add one.&lt;!-- Template:ProdwarningBLP --&gt; [[User:AllyD|AllyD]] ([[User talk:AllyD|talk]]) 21:40, 13 May 2011 (UTC)
+	</talkpage>
+</article>

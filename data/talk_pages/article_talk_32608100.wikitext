@@ -1,0 +1,5 @@
+<article id="32608100" title=Talk:Gare de Toulouse-Saint-Agne>
+	<talkpage id="32608100" title="Talk:Gare de Toulouse-Saint-Agne">
+{{WikiProject France|class=stub|importance=|commune=}}
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="18908849" title=Talk:Hunt House>
+	<talkpage id="18908849" title="Talk:Hunt House">
+{{DisambigProject}}
+{{WikiProject NRHP|class=dab}}
+	</talkpage>
+</article>

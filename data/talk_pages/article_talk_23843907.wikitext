@@ -1,0 +1,6 @@
+<article id="23843907" title=Talk:The Stratus Seekers>
+	<talkpage id="23843907" title="Talk:The Stratus Seekers">
+{{album}}
+{{WikiProject Jazz|class=stub|auto=length|album=yes|importance=}}
+	</talkpage>
+</article>

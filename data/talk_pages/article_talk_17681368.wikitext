@@ -1,0 +1,6 @@
+<article id="17681368" title=User talk:75.52.253.137>
+	<talkpage id="17681368" title="User talk:75.52.253.137">
+== May 2008 ==
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits{{#if:Moreland School District|, such as the one you made to [[:Moreland School District]],}} did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed.  Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing to this encyclopedia. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism1 --&gt; &amp;ndash; [[User:Zedla|Zedla]] &lt;small&gt;([[User_talk:Zedla|talk]])&lt;/small&gt; 05:02, 30 May 2008 (UTC)
+	</talkpage>
+</article>

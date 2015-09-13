@@ -1,0 +1,15 @@
+<article id="20862298" title=Talk:Georgios Kolokoudias>
+	<talkpage id="20862298" title="Talk:Georgios Kolokoudias">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|sports-work-group=yes
+|listas=Kolokoudias, Georgios
+}}
+{{WikiProject Football|class=Stub}}
+{{WikiProject Cyprus|class=Stub}}
+| blp=yes
+}}
+	</talkpage>
+</article>

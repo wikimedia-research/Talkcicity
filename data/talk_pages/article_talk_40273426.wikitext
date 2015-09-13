@@ -1,0 +1,9 @@
+<article id="40273426" title=User talk:Oggle46>
+	<talkpage id="40273426" title="User talk:Oggle46">
+==deletion alert==
+Your article on Robert Temple Booksellers was nominated by another editor for deletion as promotional. As reviewing administrator,  I though it was essentially historical, tho possibly over-detailed for WP , and I'm trying to rewrite it a little, as I am extremely interested in the subject. It would help very much if you could find another third party source. If you need any assistance, please ask me directly  on  ''' [[User talk:DGG|my user talk page]]. '''  There is no way I can prevent another editor from nominating it for a deletion discussion, and it might not stand.  '''[[User:DGG| DGG]]''' ([[User talk:DGG| talk ]]) 05:01, 18 August 2013 (UTC)
+
+'''It was intended to be historical: changes in the use of computers by small businesses for typesetting from the 1970s onwards need documenting while the information is still available; so do the transformations that occurred in the rare and secondhand bookselling business during the same period. Booksellers were at the cutting-edge in both - and this firm, which developed its own software, provides a particularly good example! Somebody writing the history of bookselling in England in a hundred years would find the information very hard to come by.'''~~Oggle46
+~~
+	</talkpage>
+</article>

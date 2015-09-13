@@ -1,0 +1,15 @@
+<article id="10864362" title=Talk:Srđan Urošević>
+	<talkpage id="10864362" title="Talk:Srđan Urošević">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|sports-work-group=yes
+|listas=Urosevic, Srdan
+}}
+{{WikiProject Belgrade|class=Stub|importance=}}
+{{WikiProject Football|class=Stub|importance=|Iran=yes}}
+| blp=yes
+}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="38276461" title=Talk:Kraft, Louisiana>
+	<talkpage id="38276461" title="Talk:Kraft, Louisiana">
+{{WikiProject United States|class=Stub|importance=Low|LA=yes|LA-importance=Low}}
+	</talkpage>
+</article>

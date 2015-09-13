@@ -1,0 +1,8 @@
+<article id="42475888" title=Talk:Bush legs>
+	<talkpage id="42475888" title="Talk:Bush legs">
+{{Translated page|ru|Ножки Буша}}
+{{WikiProject Food and drink|class=stub|importance=low}}
+{{WikiProject Russia|class=stub|importance=low}}
+{{WikiProject United States|class=stub|importance=low}}
+	</talkpage>
+</article>

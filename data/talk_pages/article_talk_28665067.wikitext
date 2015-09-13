@@ -1,0 +1,5 @@
+<article id="28665067" title=Talk:CD Peña Azagresa>
+	<talkpage id="28665067" title="Talk:CD Peña Azagresa">
+{{WikiProject Football|class=stub|importance=low|Spain=yes}}
+	</talkpage>
+</article>

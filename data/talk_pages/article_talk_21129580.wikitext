@@ -1,0 +1,9 @@
+<article id="21129580" title=Talk:Naval Housing Annex Negishi>
+	<talkpage id="21129580" title="Talk:Naval Housing Annex Negishi">
+{{WikiProjectBannerShell|1=
+{{WikiProject Japan|class=Start|importance=low|milhist=y}}
+{{WikiProject Military history|class=Stub|US=yes}}
+{{WikiProject United States}}
+}}
+	</talkpage>
+</article>

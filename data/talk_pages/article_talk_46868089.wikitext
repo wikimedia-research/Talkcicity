@@ -1,0 +1,5 @@
+<article id="46868089" title=Talk:Smith's Magazine>
+	<talkpage id="46868089" title="Talk:Smith's Magazine">
+{{WikiProject Magazines|class=stub|importance=low}}
+	</talkpage>
+</article>

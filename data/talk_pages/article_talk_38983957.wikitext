@@ -1,0 +1,8 @@
+<article id="38983957" title=User talk:176.250.92.5>
+	<talkpage id="38983957" title="User talk:176.250.92.5">
+
+== April 2013 ==
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:069952497a|069952497a]]. I wanted to let you know that I undid one or more of [[Special:Contributions/176.250.92.5|your recent contributions]]&amp;nbsp;to [[:Pekin duck]] because it didn't appear constructive. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:069952497a|my talk page]]. &lt;!-- Template:uw-vandalism1 --&gt;&lt;!-- Template:uw-cluebotwarning1 --&gt;   &lt;span style=&quot;background-color:yellow;color:;&quot;&gt;[[User:069952497a|'''069952497a''']]&lt;sup&gt;[[User talk:069952497a|''Comments and complaints'']]&lt;/sup&gt;&lt;sub&gt;[[Special:Contribs/069952497a|Stuff I've done]]&lt;/sub&gt;&lt;/span&gt; 20:58, 1 April 2013 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

@@ -1,0 +1,11 @@
+<article id="30436243" title=Talk:White as Snow (Captain Scarlet)>
+	<talkpage id="30436243" title="Talk:White as Snow (Captain Scarlet)">
+{{Talk header}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Television|class=|importance=Low|episode-coverage=Yes|episode-coverage-importance=Low}}
+{{WikiProject Science fiction|class=|importance=Low}}
+{{WikiProject British TV shows|class=}}
+{{WikiProject ITC Productions}}}}
+{{Find sources notice|White as Snow|&quot;Captain Scarlet&quot;}}
+	</talkpage>
+</article>

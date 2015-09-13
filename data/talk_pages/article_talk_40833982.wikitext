@@ -1,0 +1,6 @@
+<article id="39710339" title=Talk:2013 Louisiana–Lafayette Ragin' Cajuns football team>
+	<talkpage id="39710339" title="Talk:2013 Louisiana–Lafayette Ragin' Cajuns football team">
+{{WikiProject College football|class=Stub|importance=high}}
+{{WikiProject United States|class=Stub|importance=|LA=yes|LA-importance=}}
+	</talkpage>
+</article>

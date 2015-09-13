@@ -1,0 +1,15 @@
+<article id="35844833" title=Talk:Jasmine pearl tea>
+	<talkpage id="35844833" title="Talk:Jasmine pearl tea">
+== Contested deletion ==
+
+This article should not be speedy deleted as having no substantive content, because I'm still editing the page and I'm unsure what the problem is since all my sources are cited. Is there any advice you can give to help keep my article up? [[User:14jordane|14jordane]] ([[User talk:14jordane|talk]]) 02:10, 17 May 2012 (UTC)
+
+: Some suggestions:
+:* Livestrong.com (at least in this instance) appears to not be a particularly [[WP:RS|reliable source]]—and it's the site behind all three of your references. I recommend that you find other, better sources. 
+:* What does this article offer that [[Jasmine tea]] does not? You might consider improving that article, instead.
+:* The [[:File:Jasmine Pearl Tea.png|image currently used in this article]] is about to be deleted because its copyright is not suitable for Wikimedia Commons.
+:* There's a lot in this article that isn't cited, or is so general that it applies to all tea, not just Jasmine pearl.
+:* I would be ''very leery'' of making any comments that sound like medical advice (i.e., &quot;This tea, like most, can prevent the development of diabetes&quot;).
+:That should give you a few ideas for improvement. But really, I suggest just improving the [[Jasmine tea]] article first. &lt;span style='font:1.0em &quot;Apple Garamond&quot;,&quot;Adobe Garamond Pro&quot;,Garamond,serif;color:#369;'&gt;[[User:DoriSmith|Dori]] ☾[[User talk:DoriSmith|Talk]] ⁘ [[Special:Contributions/DoriSmith|Contribs]]☽&lt;/span&gt; 05:15, 17 May 2012 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="46880815" title=Talk:7th Light Anti-Aircraft Regiment>
+	<talkpage id="46880815" title="Talk:7th Light Anti-Aircraft Regiment">
+{{WikiProject South Africa |class=Stub}}
+{{WikiProject Military history |African=y |class=Stub}}
+	</talkpage>
+</article>

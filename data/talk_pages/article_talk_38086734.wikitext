@@ -1,0 +1,7 @@
+<article id="36392531" title=Talk:Oboo, Ghana>
+	<talkpage id="36392531" title="Talk:Oboo, Ghana">
+{{Talk header}}
+{{WikiProject Ghana}}
+{{reqphoto|in=Ghana}}
+	</talkpage>
+</article>

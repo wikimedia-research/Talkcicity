@@ -1,0 +1,6 @@
+<article id="3496454" title=Talk:A.N.A.L.O.G.>
+	<talkpage id="3496454" title="Talk:A.N.A.L.O.G.">
+{{WikiProject Magazines|class=Stub|importance=low}}
+{{WikiProject Computing|class=Stub|importance=low}}
+	</talkpage>
+</article>

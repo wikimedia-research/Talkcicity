@@ -1,0 +1,149 @@
+<article id="7749901" title=User talk:Cheemo>
+	<talkpage id="7749901" title="User talk:Cheemo">
+'''Welcome!'''
+
+Hello, {{BASEPAGENAME}}, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for your contributions. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Help:Contents|Help pages]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:Article development|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you need help, check out [[Wikipedia:Questions]], ask me on my talk page, or place &lt;code&gt;&lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt;&lt;/code&gt; on your talk page and someone will show up shortly to answer your questions. Again, welcome!&amp;nbsp; [[User:Jkelly|Jkelly]] 00:08, 3 November 2006 (UTC)
+
+== [[The Balloon Farm]] ==
+
+Thanks for your edits. The article now appears to meet notability guidelines. I'll remove the tag. --  [[User:Mattbrundage|Mattbrundage]] 12:59, 25 May 2007 (UTC)
+
+== Let It Snow... at least we tried ==
+
+I tried the move that you mentioned. No such luck. You'll need help from an admin to delete your intended destination (which seemed to be a redirect page the last time I checked), and then you can have the article moved to the correct place (I'd ask him/her/it to do both at the same time). If time is an issue, I'd click &quot;Recent changes&quot; to the left and look for actions of an admin involving deletion, although any admin should be helpful if you catch him/her/it in a good move. Best of luck! [[User:B.Wind|B.Wind]] 16:07, 27 May 2007 (UTC)
+
+==The Editor's Barnstar==
+{| style=&quot;border: 1px solid {{{border|gray}}}; background-color: {{{color|#fdffe7}}};&quot;
+|rowspan=&quot;2&quot; valign=&quot;middle&quot; | [[Image:Editors_Barnstar.png|100px]]
+|rowspan=&quot;2&quot; |
+|style=&quot;font-size: x-large; padding: 0; vertical-align: middle; height: 1.1em;&quot; | '''The Editor's Barnstar'''
+|-
+|style=&quot;vertical-align: middle; border-top: 1px solid gray;&quot; | For creating an article on [[Where Were You (When the World Stopped Turning)]], and for expanding the [[Last Dollar (Fly Away)]] article, ''and'' for your general overall work in ''tons'' of song articles, TenPoundHammer and his romp of Wikipedia-editing otters award you the Editor's Barnstar. (He especially thanks you for the &quot;Last Dollar&quot; work, since he created the article himself.) [[User:TenPoundHammer|&lt;span style=&quot;color:green;font-weight:bold;&quot;&gt;Ten&amp;nbsp;Pound&amp;nbsp;Hammer&lt;/span&gt;]]&amp;nbsp;•&amp;nbsp;&lt;sup&gt;((([[Special:Contributions/TenPoundHammer|Broken&amp;nbsp;clamshells]]&amp;nbsp;•&amp;nbsp;[[:User talk:TenPoundHammer|Otter&amp;nbsp;chirps]])))&lt;/sup&gt; 02:34, 6 June 2007 (UTC)
+|}
+==Orphaned non-free image (Image:When You Say Nothing at All.JPG)==
+Thanks for uploading '''[[:Image:When You Say Nothing at All.JPG]]'''. The image description page currently specifies that the image is non-free and may only be used on Wikipedia under a [[WP:FU|claim of fair use]]. However, the image is currently [[Wikipedia:Orphan|orphaned]], meaning that it is not used in any articles on Wikipedia. If the image was previously in an article, please go to the article and see why it was removed. [[WP:BOLD|You may add it back]] if you think that that will be useful. However, please note that images for which a replacement could be created are not acceptable for use on Wikipedia (see [[Wikipedia:Non-free content#Policy|our policy for non-free media]]).
+
+If you have uploaded other unlicensed media, please check whether they're used in any articles or not. You can find a list of 'image' pages you have edited by clicking on the &quot;[[Special:Contributions/{{PAGENAME}}|my contributions]]&quot; link (it is located at the very top of any Wikipedia page when you are logged in), and then selecting &quot;Image&quot; from the dropdown box. Note that any non-free images not used in any '''articles''' will be deleted after seven days, as described on [[wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. Thank you.&lt;!-- Template:Orphaned --&gt; [[User:BetacommandBot|BetacommandBot]] 08:33, 21 June 2007 (UTC)
+
+: Added a &quot;mistakenly created by user&quot; to the image. It was a failed experiment. [[User:Cheemo|Cheemo]] 19:49, 21 June 2007 (UTC)
+
+==Orphaned non-free image (Image:When You Say Nothing at All.jpg)==
+Thanks for uploading '''[[:Image:When You Say Nothing at All.jpg]]'''. The image description page currently specifies that the image is non-free and may only be used on Wikipedia under a [[WP:FU|claim of fair use]]. However, the image is currently [[Wikipedia:Orphan|orphaned]], meaning that it is not used in any articles on Wikipedia. If the image was previously in an article, please go to the article and see why it was removed. [[WP:BOLD|You may add it back]] if you think that that will be useful. However, please note that images for which a replacement could be created are not acceptable for use on Wikipedia (see [[Wikipedia:Non-free content#Policy|our policy for non-free media]]).
+
+If you have uploaded other unlicensed media, please check whether they're used in any articles or not. You can find a list of 'image' pages you have edited by clicking on the &quot;[[Special:Contributions/{{PAGENAME}}|my contributions]]&quot; link (it is located at the very top of any Wikipedia page when you are logged in), and then selecting &quot;Image&quot; from the dropdown box. Note that any non-free images not used in any '''articles''' will be deleted after seven days, as described on [[wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. Thank you.&lt;!-- Template:Orphaned --&gt; [[User:BetacommandBot|BetacommandBot]] 08:33, 21 June 2007 (UTC)
+
+: Added a &quot;mistakenly created by user&quot; to the image. It was a failed experiment. [[User:Cheemo|Cheemo]] 19:49, 21 June 2007 (UTC)
+
+== Captain Jack ==
+
+Holy shit, thank you so much. You did some awesome work over there. [[User:DurinsBane87|DurinsBane87]] 17:08, 10 July 2007 (UTC)
+==Fair use disputed for Image:Beattles.jpg==
+[[Image:Nuvola apps important.svg|32px|left]]
+Thanks for uploading '''[[:Image:Beattles.jpg]]'''. However, there is a concern that the rationale you have provided for using this image under &quot;fair use&quot; may be invalid. Please read the instructions at [[Wikipedia:Non-free content]] carefully, then go to [[:Image:Beattles.jpg|the image description page]] and clarify why you think the image qualifies for fair use. Using one of the templates at [[Wikipedia:Fair use rationale guideline]] is an easy way to ensure that your image is in compliance with Wikipedia policy, but remember that you must complete the template. Do not simply insert a blank template on an image page.
+
+If it is determined that the image does not qualify under fair use, it will be deleted within a couple of days according to our [[WP:CSD#Images/media|Criteria for speedy deletion]]. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|Media copyright questions page]]. Thank you.&lt;!-- Template:No fair --&gt;[[User:BetacommandBot|BetacommandBot]] 02:23, 6 September 2007 (UTC)
+==Fair use disputed for Image:When You Say Nothing at All.PNG==
+[[Image:Nuvola apps important.svg|32px|left]]
+Thanks for uploading '''[[:Image:When You Say Nothing at All.PNG]]'''. However, there is a concern that the rationale you have provided for using this image under &quot;fair use&quot; may be invalid. Please read the instructions at [[Wikipedia:Non-free content]] carefully, then go to [[:Image:When You Say Nothing at All.PNG|the image description page]] and clarify why you think the image qualifies for fair use. Using one of the templates at [[Wikipedia:Fair use rationale guideline]] is an easy way to ensure that your image is in compliance with Wikipedia policy, but remember that you must complete the template. Do not simply insert a blank template on an image page.
+
+If it is determined that the image does not qualify under fair use, it will be deleted within a couple of days according to our [[WP:CSD#Images/media|Criteria for speedy deletion]]. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|Media copyright questions page]]. Thank you.&lt;!-- Template:No fair --&gt;[[User:BetacommandBot|BetacommandBot]] 04:48, 16 September 2007 (UTC)
+: Issue has been addressed. [[User:Cheemo|Cheemo]] 19:24, 24 September 2007 (UTC)
+==Disputed fair use rationale for Image:LastDollarFlyAway.JPG==
+Thanks for uploading '''[[:Image:LastDollarFlyAway.JPG]]'''. However, there is a concern that the rationale you have provided for using this image under &quot;fair use&quot; may be invalid. Please read the instructions at [[Wikipedia:Non-free content]] carefully, then go to the image description page and clarify why you think the image qualifies for fair use. Using one of the templates at [[Wikipedia:Fair use rationale guideline]] is an easy way to ensure that your image is in compliance with Wikipedia policy, but remember that you must complete the template. Do not simply insert a blank template on an image page.
+
+If it is determined that the image does not qualify under fair use, it will be deleted within a couple of days according to our [[Wikipedia:Criteria for speedy deletion#Images/media|criteria for speedy deletion]]. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|media copyright questions page]]. Thank you.&lt;!-- Template:No fair --&gt;[[User:BetacommandBot|BetacommandBot]] 04:25, 1 October 2007 (UTC)
+==Disputed fair use rationale for Image:ActNaturallyOwens.JPG==
+Thanks for uploading '''[[:Image:ActNaturallyOwens.JPG]]'''. However, there is a concern that the rationale you have provided for using this image under &quot;fair use&quot; may be invalid. Please read the instructions at [[Wikipedia:Non-free content]] carefully, then go to the image description page and clarify why you think the image qualifies for fair use. Using one of the templates at [[Wikipedia:Fair use rationale guideline]] is an easy way to ensure that your image is in compliance with Wikipedia policy, but remember that you must complete the template. Do not simply insert a blank template on an image page.
+
+If it is determined that the image does not qualify under fair use, it will be deleted within a couple of days according to our [[Wikipedia:Criteria for speedy deletion#Images/media|criteria for speedy deletion]]. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|media copyright questions page]]. Thank you.&lt;!-- Template:No fair --&gt;[[User:BetacommandBot|BetacommandBot]] 06:06, 27 October 2007 (UTC)
+==Disputed fair use rationale for Image:Christmas Mood.PNG==
+Thanks for uploading '''[[:Image:Christmas Mood.PNG]]'''. However, there is a concern that the rationale you have provided for using this image under &quot;fair use&quot; may be invalid. Please read the instructions at [[Wikipedia:Non-free content]] carefully, then go to the image description page and clarify why you think the image qualifies for fair use. Using one of the templates at [[Wikipedia:Fair use rationale guideline]] is an easy way to ensure that your image is in compliance with Wikipedia policy, but remember that you must complete the template. Do not simply insert a blank template on an image page.
+
+If it is determined that the image does not qualify under fair use, it will be deleted within a couple of days according to our [[Wikipedia:Criteria for speedy deletion#Images/media|criteria for speedy deletion]]. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|media copyright questions page]]. Thank you.&lt;!-- Template:No fair --&gt;[[User:BetacommandBot|BetacommandBot]] 23:58, 29 October 2007 (UTC)
+
+==Image removal==
+I didn't even get a chance to put my rationale on the photo and it was gone!  Restore the image or go to hell! [[User:Cheemo|Cheemo]] 16:38, 7 November 2007 (UTC)
+:Which image do you want restored? --[[User:Carnildo|Carnildo]] 06:40, 8 November 2007 (UTC)
+:: Oh nevermind. I'm tired of fighting the anti-fair use bots (and humans) around here. I don't come here every day or every week; I don't live and breathe Wikipedia. I just wanted to help out. It just so happened that, unlike some of the other images I uploaded that have been tagged by the Fair Use Fascists, the one that was lost wasn't being watched by anyone else who could come along and add the fair use rationale because I was too busy to find the template (which, by the way, are damned near impossible to find, as if by design). Indeed, the damn bot ought to provide a link to the rationale templates, rather than just to what it thinks is wrong, so that they can be found easily. OK, if you care ... '''[[:Image:Christmas Mood.PNG]]'''... It was being used in an article about composer [[Alfred Burt]] to illustrate the first public release of his famous Christmas carols. I certainly could have justified the use of the LP cover under fair use, because it was mentioned prominently in the article, there is no separate article on the album, and it was important to establishing his reputation. [[User:Cheemo|Cheemo]] 04:19, 9 November 2007 (UTC)
+:::I've restored the image.  It certainly looks like it meets Wikipedia's critera for fair use. --[[User:Carnildo|Carnildo]] 05:38, 9 November 2007 (UTC)
+
+
+==Disputed fair use rationale for Image:WorldStoppedTurning.JPG==
+Thanks for uploading '''[[:Image:WorldStoppedTurning.JPG]]'''. However, there is a concern that the rationale you have provided for using this image under &quot;fair use&quot; may be invalid. Please read the instructions at [[Wikipedia:Non-free content]] carefully, then go to the image description page and clarify why you think the image qualifies for fair use. Using one of the templates at [[Wikipedia:Fair use rationale guideline]] is an easy way to ensure that your image is in compliance with Wikipedia policy, but remember that you must complete the template. Do not simply insert a blank template on an image page.
+
+If it is determined that the image does not qualify under fair use, it will be deleted within a couple of days according to our [[Wikipedia:Criteria for speedy deletion#Images/media|criteria for speedy deletion]]. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|media copyright questions page]]. Thank you.&lt;!-- Template:No fair --&gt;[[User:BetacommandBot|BetacommandBot]] 16:43, 3 December 2007 (UTC)
+
+
+==Disputed fair use rationale for Image:Friends in Low Places 45.JPG==
+Thanks for uploading '''[[:Image:Friends in Low Places 45.JPG]]'''. However, there is a concern that the rationale you have provided for using this image under &quot;fair use&quot; may be invalid. Please read the instructions at [[Wikipedia:Non-free content]] carefully, then go to the image description page and clarify why you think the image qualifies for fair use. Using one of the templates at [[Wikipedia:Fair use rationale guideline]] is an easy way to ensure that your image is in compliance with Wikipedia policy, but remember that you must complete the template. Do not simply insert a blank template on an image page.
+
+If it is determined that the image does not qualify under fair use, it will be deleted within a couple of days according to our [[Wikipedia:Criteria for speedy deletion#Images/media|criteria for speedy deletion]]. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|media copyright questions page]]. Thank you.&lt;!-- Template:No fair --&gt;[[User:BetacommandBot|BetacommandBot]] ([[User talk:BetacommandBot|talk]]) 06:19, 19 December 2007 (UTC)
+
+
+==Disputed fair use rationale for Image:FromMetoYou522.jpg==
+Thanks for uploading '''[[:Image:FromMetoYou522.jpg]]'''. However, there is a concern that the rationale you have provided for using this image under &quot;fair use&quot; may be invalid. Please read the instructions at [[Wikipedia:Non-free content]] carefully, then go to the image description page and clarify why you think the image qualifies for fair use. Using one of the templates at [[Wikipedia:Fair use rationale guideline]] is an easy way to ensure that your image is in compliance with Wikipedia policy, but remember that you must complete the template. Do not simply insert a blank template on an image page.
+
+If it is determined that the image does not qualify under fair use, it will be deleted within a couple of days according to our [[Wikipedia:Criteria for speedy deletion#Images/media|criteria for speedy deletion]]. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|media copyright questions page]]. Thank you.&lt;!-- Template:No fair --&gt;[[User:BetacommandBot|BetacommandBot]] ([[User talk:BetacommandBot|talk]]) 07:03, 19 December 2007 (UTC)
+
+== [[Captain Jack (song)]] ==
+
+You did a WONDERFUL job on [[Captain Jack (song)]], and I think that it will soon be time to nominate it for Good Article candidacy. I will add some more information and references, and then nominate the article. Let's hope for the best! Thank you very much and have a nice day! :) [[User:CarpetCrawler|CarpetCrawler]] ([[User talk:CarpetCrawler|talk]]) 17:27, 22 November 2008 (UTC)
+
+== [[James Farragher]] ==
+
+Hi Cheemo, This is just a quick note to thank you for your recent contributions to the article on James Farragher.  All the best, [[User:Twelsht|twelsht]] ([[User talk:Twelsht|talk]]) 20:18, 29 July 2009 (UTC)
+==Orphaned non-free image File:Friends in Low Places 45.JPG==
+
+&lt;span style=&quot;font-size:32px; line-height:1em&quot;&gt;'''[[Image:Ambox warning blue.svg|35px|left|&amp;#x26A0;]]'''&lt;/span&gt; Thanks for uploading '''[[:File:Friends in Low Places 45.JPG]]'''. The image description page currently specifies that the image is non-free and may only be used on Wikipedia under a [[WP:FU|claim of fair use]]. However, the image is currently [[Wikipedia:Orphan|orphaned]], meaning that it is not used in any articles on Wikipedia. If the image was previously in an article, please go to the article and see why it was removed. [[WP:BOLD|You may add it back]] if you think that that will be useful. However, please note that images for which a replacement could be created are not acceptable for use on Wikipedia (see [[Wikipedia:Non-free content#Policy|our policy for non-free media]]).
+
+'''PLEASE NOTE:''' 
+
+* I am a [[WP:BOT|bot]], and will therefore not be able to answer your questions. 
+* I will remove the request for deletion if the file is used in an article once again. 
+* If you receive this notice ''after'' the image is deleted, and you want to restore the image, click [http://en.wikipedia.org/w/index.php?action=edit&amp;preload=Wikipedia:Requests_for_undeletion/Example&amp;editintro=Wikipedia:Requests_for_undeletion/Intro&amp;preloadtitle={{urlencode:File:Friends in Low Places 45.JPG}}&amp;section=new&amp;title=Wikipedia:Requests_for_undeletion/Current_requests&amp;create=Request here] to file an un-delete request.
+* To opt out of these bot messages, add &lt;code&gt;&lt;nowiki&gt;{{bots|deny=DASHBot}}&lt;/nowiki&gt;&lt;/code&gt; to your talk page. 
+*If you believe the bot has made an error, please turn it off [[User:DASHBot/F5|here]] and leave a message on [[User talk:Tim1357|my owner's talk page]].
+
+
+Thank you. &lt;!-- Template:Di-orphaned fair use-notice --&gt; [[User:DASHBot|DASHBot]] ([[User talk:DASHBot|talk]]) 23:39, 18 March 2010 (UTC)
+==Orphaned non-free image File:When You Say Nothing at All.PNG==
+&lt;span style=&quot;font-size:32px; line-height:1em&quot;&gt;'''[[Image:Ambox warning blue.svg|35px|left|⚠|link=]]'''&lt;/span&gt; Thanks for uploading '''[[:File:When You Say Nothing at All.PNG]]'''. The image description page currently specifies that the image is non-free and may only be used on Wikipedia under a [[WP:FU|claim of fair use]]. However, the image is currently not used in any articles on Wikipedia. If the image was previously in an article, please go to the article and see why it was removed. You may add it back if you think that that will be useful. However, please note that images for which a replacement could be created are not acceptable for use on Wikipedia (see [[Wikipedia:Non-free content#Policy|our policy for non-free media]]).
+
+Note that any non-free images not used in any '''articles''' will be deleted after seven days, as described in the [[wikipedia:Criteria for speedy deletion#F5|criteria for speedy deletion]]. Thank you.&lt;!-- Template:Di-orphaned fair use-notice --&gt; [[User:Stefan2|Stefan2]] ([[User talk:Stefan2|talk]]) 18:40, 21 June 2014 (UTC)
+
+==Disambiguation link notification for July 18==
+
+Hi. Thank you for your recent edits. Wikipedia appreciates your help. We noticed though that when you edited [[Billboard Year-End Hot 100 singles of 1966]], you added a link pointing to the disambiguation page [[Green Grass]] ([http://dispenser.homenet.org/~dispenser/cgi-bin/dablinks.py/Billboard_Year-End_Hot_100_singles_of_1966 check to confirm]&amp;nbsp;|&amp;nbsp;[http://dispenser.homenet.org/~dispenser/cgi-bin/dab_solver.py/Billboard_Year-End_Hot_100_singles_of_1966 fix with Dab solver]). Such links are almost always unintended, since a disambiguation page is merely a list of &quot;Did you mean...&quot; article titles. &lt;small&gt;Read the [[User:DPL bot/Dablink notification FAQ|FAQ]]{{*}} Join us at the [[Wikipedia:Disambiguation pages with links|DPL WikiProject]].&lt;/small&gt;
+
+It's OK to remove this message. Also, to stop receiving these messages, follow these [[User:DPL bot|opt-out instructions]]. Thanks, [[User:DPL bot|DPL bot]] ([[User talk:DPL bot|talk]]) 08:59, 18 July 2015 (UTC)
+
+==Disambiguation link notification for July 29==
+
+Hi. Thank you for your recent edits. Wikipedia appreciates your help. We noticed though that when you edited [[Tracy's Theme]], you added a link pointing to the disambiguation page [[The Philadelphia Story]] ([http://dispenser.homenet.org/~dispenser/cgi-bin/dablinks.py/Tracy%27s_Theme check to confirm]&amp;nbsp;|&amp;nbsp;[http://dispenser.homenet.org/~dispenser/cgi-bin/dab_solver.py/Tracy%27s_Theme fix with Dab solver]). Such links are almost always unintended, since a disambiguation page is merely a list of &quot;Did you mean...&quot; article titles. &lt;small&gt;Read the [[User:DPL bot/Dablink notification FAQ|FAQ]]{{*}} Join us at the [[Wikipedia:Disambiguation pages with links|DPL WikiProject]].&lt;/small&gt;
+
+It's OK to remove this message. Also, to stop receiving these messages, follow these [[User:DPL bot|opt-out instructions]]. Thanks, [[User:DPL bot|DPL bot]] ([[User talk:DPL bot|talk]]) 10:17, 29 July 2015 (UTC)
+
+==Tracy's Theme has been nominated for Did You Know==
+{{DYKM
+ | box3
+ | text = Hello, Cheemo. &lt;!--
+--&gt;&lt;!-- empty --&gt;&lt;!--
+   --&gt;[[Tracy's Theme]], an article you either created or significantly contributed to,&lt;!--
+--&gt;&amp;nbsp;has been nominated&amp;nbsp; to appear on Wikipedia's [[Main Page]] as part of {{DYK blue}}. You can see the hook and the discussion &lt;!--
+   --&gt;'''[[Template:Did you know nominations/Tracy's Theme|here]]'''. You are welcome to participate! Thank you. [[User:APersonBot|APersonBot]]&amp;nbsp;([[User talk:APersonBot|talk!]]) 01:02, 1 August 2015 (UTC)}}&lt;!-- Template:DYKNom --&gt;
+
+==DYK for Tracy's Theme==
+{{tmbox
+|type = notice
+|image = [[Image:Updated DYK query.svg|15px|Updated DYK query]]
+|text = On [[Wikipedia:Recent_additions#4 September 2015|4 September 2015]], '''[[:Template:Did you know|Did you know]]''' was updated with a fact from the article '''''[[Tracy's Theme]]''''', which you recently created, substantially expanded, or brought to good article status. The fact was ''... that &quot;'''[[Tracy's Theme]]'''&quot; was written for ''The Philadelphia Story'' and released under a fictitious name?'' {{#if: |The nomination discussion and review may be seen at [[]].|{{#ifexist:Template:Did you know nominations/Tracy's Theme|The nomination discussion and review may be seen at [[Template:Did you know nominations/Tracy's Theme]].|{{#ifexist:Template talk:Did you know/Tracy's Theme|The nomination discussion and review may be seen at [[Template talk:Did you know/Tracy's Theme]].}} }} }} You are welcome to check how many page hits the article got while on the front page &lt;small&gt;([[User:Rjanag/Pageview stats|here's how]], [https://tools.wmflabs.org/wikiviewstats/index.php?page=Tracy%27s_Theme&amp;datefrom=2015-09-01&amp;dateto=2015-09-31 live views], [http://stats.grok.se/en/201509/Tracy%27s_Theme daily totals])&lt;/small&gt;, and it may be added to [[Wikipedia:Did you know/Statistics|the statistics page]] if the total is over 5,000. Finally, if you know of an interesting fact from another recently created article, then please feel free to suggest it on the [[:Template talk:Did you know|Did you know talk page]].
+}}&lt;!-- Template:UpdatedDYK --&gt;  [[User:Casliber|Cas Liber]] ([[User talk:Casliber|talk]] '''·''' [[Special:Contributions/Casliber|contribs]]) 00:01, 4 September 2015 (UTC)
+	</talkpage>
+</article>

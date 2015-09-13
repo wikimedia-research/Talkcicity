@@ -1,0 +1,32 @@
+<article id="31155098" title=Talk:Rehabilitation Policy>
+	<talkpage id="31155098" title="Talk:Rehabilitation Policy">
+{{WikiProjectBannerShell|1=
+{{WikiProject United States Public Policy|class=C|importance=}}
+{{WikiProject Crime|class=C}}
+{{WikiProject Law|class=C|importance=Mid}}
+}}
+
+{{WAP assignment | term = 2011 Spring | project = WikiProject United States Public Policy | university = Winona State University | course = Wikipedia:WikiProject United States Public Policy/Courses/Policy Analysis spring 2011 (Cooper) }}
+
+==Untitled==
+I think your article is really good, but in the expungement section I think you comment on the fact that a criminal record can affect a persons life negatively too much. Basically I just mean that you say it in the first paragraph and then you pretty much phrase it a different way in the second. It's not a crucial change, but you could consider it. [[User:Tdtallent1|Tdtallent1]] ([[User talk:Tdtallent1|talk]]) 17:31, 31 March 2011 (UTC)
+
+== a few thoughts ==
+
+As already denoted by the wikification tag, this article needs to hit certain benchmarks. The first one I can see that would be a major improvement would be the addition of a lead (intro) section as per the [[WP:LEDE]] guidelines. This will help by being a sort of standalone article that introduces the topic and gives a definition of the scope of rehabilitation policies. It will also probably touch on each of your sections with a summary sentence or two. 
+
+In your history section, try to give dates or titles (if there are any widely accepted ones) for each distinct time period. You've done a good job tracing the influence of different disciplines and school of thought on the practice though. You may also want to get rid of the large block quote in there unless you feel it's absolutely necessary. The &quot;Policies&quot; section looks good. Try and insert some inter-wikipedia links to common subjects you bring up and I bet you can find some &quot;Main article&quot; tags to insert as well. Good job so far! [[User:Boonefrog|Boonefrog]] ([[User talk:Boonefrog|talk]]) 19:36, 31 March 2011 (UTC)
+
+== POV issues, essay-like issues, etc. ==
+
+There are several spots that are contrary to the [[Wikipedia:Neutral point of view|neutral point of view]] policy, as there seems to be several opinions in the article.  For example:
+*&quot;Deterrence (legal) and incapacitation ruled over the criminal justice system up until the 90's where an unmanageable increase of the prisoner population created gaps where the benefits of rehabilitative policy could be discussed.&quot;
+*&quot;This is of particular concern since parole officer discretion determines parolee restrictions as well as the consequences for violating such restrictions.&quot;
+There are also several instances of [[Wikipedia:weasel words]].  For example:
+*&quot;It is also argued that parole is a deterred prison entry program due to the high percentage of parolees that end up in prison due to violating terms of their parole.&quot;
+*&quot;Criminal records limit what occupational and educational goals an individual may pursue, and it is noted that such restrictions may be correlated with recidivism.&quot;
+There are substantial portions of this article that are completely inside quotation marks.
+
+The way the article is written implies that the &quot;Second Chance for Ex-Offenders Act of 2007&quot; is law, but in reality, the bill didn't even get a vote in its first [[United States congressional committee|Congressional committee]], let alone reaching or being approved by either house of Congress or reaching the President.[http://thomas.loc.gov/cgi-bin/bdquery/z?d110:H.R.623:][http://www.govtrack.us/congress/bill.xpd?bill=h110-623] [[User:OCNative|OCNative]] ([[User talk:OCNative|talk]]) 23:37, 8 April 2011 (UTC)
+	</talkpage>
+</article>

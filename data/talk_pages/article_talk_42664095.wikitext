@@ -1,0 +1,10 @@
+<article id="42664095" title=Talk:Valea Viilor fortified church>
+	<talkpage id="42664095" title="Talk:Valea Viilor fortified church">
+{{DYK talk|25 May|2014|entry= ... that [[Villages with fortified churches in Transylvania|a World Heritage Site]] in Romania contains the fortified churches of '''[[Biertan fortified church|Biertan]]''' ''(pictured)'', '''[[Câlnic Citadel|Câlnic]]''', '''[[Prejmer fortified church|Prejmer]]''', '''[[Saschiz fortified church|Saschiz]]''', '''[[Valea Viilor fortified church|Valea Viilor]]''', '''[[Viscri fortified church|Viscri]]''', and '''[[Dârjiu fortified church|Dârjiu]]'''?|nompage=Template:Did you know nominations/Biertan fortified church, Câlnic Citadel, Dârjiu fortified church, Prejmer fortified church, Saschiz fortified church, Valea Viilor fortified church, Viscri fortified church}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Lutheranism|class=start |importance=low}}
+{{WikiProject Romania|class=start |importance=low }}
+{{WikiProject Architecture|class=start|importance=low}}
+}}
+	</talkpage>
+</article>

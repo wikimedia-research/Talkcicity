@@ -1,0 +1,7 @@
+<article id="30593153" title=Talk:United Nations Youth Australia>
+	<talkpage id="30593153" title="Talk:United Nations Youth Australia">
+{{WikiProject International relations|un=yes|class=|importance=}}
+== Narrowing of 'Challenges' section ==
+I have removed large parts of the 'challenges section' that were not referenced as they appeared to constitute hearsay, speculation and/or original research. In my opinion there is a problem with the section as a whole, no matter how accurate the criticisms contained within may or may not be. To be part of the wikipedia article they have to be supported with reliable sources, which these are largely not. [[User:Tasmarshall|Tasmarshall]] ([[User talk:Tasmarshall|talk]]) 16:55, 17 August 2011 (UTC)
+	</talkpage>
+</article>

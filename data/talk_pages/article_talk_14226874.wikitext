@@ -1,0 +1,5 @@
+<article id="14226874" title=Talk:Bird ichnology>
+	<talkpage id="14226874" title="Talk:Bird ichnology">
+{{WP Birds|class=start|importance=mid}}
+	</talkpage>
+</article>

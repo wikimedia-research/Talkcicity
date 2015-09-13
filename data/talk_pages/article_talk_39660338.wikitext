@@ -1,0 +1,39 @@
+<article id="39660338" title=User talk:Djevrek~enwiki>
+	<talkpage id="39660338" title="User talk:Djevrek~enwiki">
+
+==Your article submission [[Wikipedia talk:Articles for creation/Submissions/Ivica Vdovic Vd|Submissions/Ivica Vdovic Vd]]==
+[[File:Information icon4.svg|48px|left|alt=|link=]]
+
+Hello Djevrek. It has now been over six months since you last edited your article submission, entitled [[Wikipedia talk:Articles for creation/Submissions/Ivica Vdovic Vd|Submissions/Ivica Vdovic Vd]]. 
+
+If you no longer want this submission, it will shortly be deleted. However, if you wish to keep it, simply {{edit|Wikipedia talk:Articles for creation/Submissions/Ivica Vdovic Vd|edit the submission}} and remove the {{tlc|db-afc}} or {{tlc|db-g13}} code.
+
+If your submission has already been deleted by the time you get there, and you want to retrieve it, copy this code: &lt;code&gt;&lt;nowiki&gt;{{subst:Refund/G13|&lt;/nowiki&gt;Wikipedia talk:Articles for creation/Submissions/Ivica Vdovic Vd&lt;nowiki&gt;}}&lt;/nowiki&gt;&lt;/code&gt;, paste it in the edit box at &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/w/index.php?title=Wikipedia:Requests_for_undeletion&amp;action=edit&amp;section=new this link]&lt;/span&gt;, click &quot;Save&quot;, and an administrator will place the undeleted submission in your user space.
+
+Thanks for your submission to Wikipedia, and happy editing. &lt;!-- Template:Db-afc-notice --&gt; &lt;!-- Template:Db-csd-notice-custom --&gt; [[User:Joe Decker|j⚛e decker]][[User talk:Joe Decker|&lt;sup&gt;&lt;small&gt;&lt;i&gt;talk&lt;/i&gt;&lt;/small&gt;&lt;/sup&gt;]] 00:10, 13 June 2013 (UTC)
+
+== Your account will be renamed ==
+
+&lt;div class=&quot;plainlinks mw-content-ltr&quot; lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;
+Hello,
+
+The developer team at Wikimedia is making some changes to how accounts work, as part of our on-going efforts to provide new and better tools for our users like cross-wiki notifications. These changes will mean you have the same account name everywhere. This will let us give you new features that will help you edit and discuss better, and allow more flexible user permissions for tools. One of the side-effects of this is that user accounts will now have to be unique across all 900 Wikimedia wikis. See [[m:Special:MyLanguage/Single User Login finalisation announcement|the announcement]] for more information.
+
+Unfortunately, your account clashes with another account also called Djevrek. To make sure that both of you can use all Wikimedia projects in future, we have reserved the name Djevrek~enwiki that only you will have. If you like it, you don't have to do anything. If you do not like it, you can [[Special:GlobalRenameRequest|pick out a different name]]. If you think you might own all of the accounts with this name and this message is in error, please visit [[Special:MergeAccount]] to check and attach all of your accounts to prevent them from being renamed.
+
+Your account will still work as before, and you will be credited for all your edits made so far, but you will have to use the new account name when you log in.
+
+Sorry for the inconvenience.
+
+Yours,&lt;br /&gt;[[m:User:Keegan (WMF)|Keegan Peterzell]]&lt;br /&gt;Community Liaison, Wikimedia Foundation
+&lt;/div&gt; 23:28, 19 March 2015 (UTC)
+&lt;!-- SUL finalisation notification --&gt;
+
+== Renamed ==
+
+&lt;div class=&quot;plainlinks mw-content-ltr&quot; lang=&quot;en&quot; dir=&quot;ltr”&gt;
+This account has been renamed as part of [[m:Special:MyLanguage/Single User Login finalisation announcement|single-user login finalisation]]. If you own this account you can [[{{#special:userlogin}}|log in using your previous username and password]] for more information. If you do not like this account's new name, you can choose your own using this form after logging in: [[{{#special:GlobalRenameRequest}}]]. -- [[m:User:Keegan (WMF)|Keegan (WMF)]] ([[m:User talk:Keegan (WMF)|talk]])
+&lt;/div&gt; 12:12, 22 April 2015 (UTC)
+&lt;!-- SUL post-rename notification --&gt;
+	</talkpage>
+</article>

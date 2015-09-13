@@ -1,0 +1,543 @@
+<article id="42040083" title=User talk:Fluffernutter/Archive 17>
+	<talkpage id="42040083" title="User talk:Fluffernutter/Archive 17">
+{{talkarchivenav}}
+
+== [[m:Special:MyLanguage/Tech/News/2014/08|Tech News: 2014-08]] ==
+
+&lt;section begin=&quot;technews-2014-W08&quot;/&gt;&lt;div class=&quot;plainlinks mw-content-ltr&quot; lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;
+Latest '''[[m:Special:MyLanguage/Tech/News|tech news]]''' from the Wikimedia technical community. Please inform other users about these changes. Not all changes will affect you. [[m:Special:MyLanguage/Tech/News/2014/08|Translations]] are available.
+
+'''Recent software changes'''
+* The latest version of MediaWiki ([[mw:MediaWiki 1.23/wmf14|1.23wmf14]]) was added to test wikis and MediaWiki.org on February 13. It will be added to non-Wikipedia wikis on February 18, and all Wikipedia wikis on February 20 ([[mw:MediaWiki 1.23/Roadmap|calendar]]).
+* You can now use the list of [[Special:ActiveUsers|active users]] again. [//bugzilla.wikimedia.org/show_bug.cgi?id=41078] [//gerrit.wikimedia.org/r/#/c/111258/]
+* The new search tool ([[mw:Search|CirrusSearch]]) now gives more importance to content namespaces if you search in several namespaces. [//bugzilla.wikimedia.org/show_bug.cgi?id=61053]
+* You can now directly link to files viewed with [[mw:Extension:MultimediaViewer|MultimediaViewer]], the new tool for viewing media files. [//bugzilla.wikimedia.org/show_bug.cgi?id=56469]
+* You can read the [[mw:Special:MyLanguage/Wikimedia_engineering_report/2014/January/summary|summary]] of the Wikimedia technical report for January 2014. [http://lists.wikimedia.org/pipermail/wikitech-ambassadors/2014-February/000585.html]
+
+'''Problems'''
+* On February 9, [[mw:Wikimedia Labs|Wikimedia Labs]] was broken for about 2 hours due to an [[m:w:XFS|XFS]] file system problem. [http://lists.wikimedia.org/pipermail/wikitech-l/2014-February/074354.html]
+* On February 11, there were problems with VisualEditor for about 20 minutes due to a server logging issue. [https://wikitech.wikimedia.org/wiki/Incident_documentation/20140211-Parsoid]
+* On the same day, for about 20 minutes there were issues with page loading due to database problems.
+* There were issues with page loading between 21:00 UTC on February 13 and 11:00 UTC on February 14 for users in Europe. It was due to a cache server problem.
+* On February 14, all sites were broken for about 15 minutes for users in Southeast Asia, Oceania and the western part of North America. It was due to problems with cache servers.
+
+'''VisualEditor news'''
+* The link tool now tells you when you're linking to a disambiguation or redirect page. [//bugzilla.wikimedia.org/show_bug.cgi?id=50240]
+* You can now change image display (like thumbnail, frame and frameless) with VisualEditor. [//bugzilla.wikimedia.org/show_bug.cgi?id=38129]
+* Wikitext warnings will now hide when you remove wikitext from paragraphs you are editing. [//bugzilla.wikimedia.org/show_bug.cgi?id=51701]
+* You will soon be able to create and edit redirect pages with VisualEditor. [//bugzilla.wikimedia.org/show_bug.cgi?id=50878] [//bugzilla.wikimedia.org/show_bug.cgi?id=47328] [//bugzilla.wikimedia.org/show_bug.cgi?id=57173]
+
+'''''[[m:Special:MyLanguage/Tech/News|Tech news]]''' prepared by [[m:Special:MyLanguage/Tech/Ambassadors|tech ambassadors]] and posted by [[m:Special:MyLanguage/User:MediaWiki message delivery|MediaWiki message delivery]] • [[m:Special:MyLanguage/Tech/News#contribute|Contribute]] • [[m:Special:MyLanguage/Tech/News/2014/08|Translate]] • [[m:Tech|Get help]] • [[m:Talk:Tech/News|Give feedback]] • [[m:Global message delivery/Targets/Tech ambassadors|Subscribe or unsubscribe]].''&lt;/div&gt; &lt;section end=&quot;technews-2014-W08&quot;/&gt; 08:38, 17 February 2014 (UTC)
+&lt;!-- Message sent by User:Guillom@metawiki using the list at http://meta.wikimedia.org/w/index.php?title=Global_message_delivery/Targets/Tech_ambassadors&amp;oldid=7492018 --&gt;
+
+== March GOCE copyedit drive ==
+
+{| style=&quot;background-color: #dfeff3; border: 4px solid #bddff2; width:100%&quot; cellpadding=&quot;5&quot;
+
+|&lt;big&gt;'''Notes from the [[WP:GOCE|Guild of Copy Editors]]'''&lt;/big&gt;
+----
+[[File:Writing Magnifying.PNG|100px|right]]
+
+The '''[[Wikipedia:WikiProject Guild of Copy Editors/Backlog elimination drives/March 2014|March 2014 backlog elimination drive]]''' is a month-long effort to reduce the backlog of articles in need of copyediting. The drive begins on March 1 at 00:00 (UTC) and ends on March 31 at 23:59 (UTC). Our goals are to copyedit all articles tagged in December 2012 and January 2013 and to complete all [[WP:GOCE/REQ|requests]] placed in January 2014. Barnstars will be awarded to anyone who copyedits at least one article, and special awards will be given to the top five in the following categories: number of articles, number of words, number of articles over 5,000 words, number of articles tagged in December 2012 and January 2013 and the longest article. We hope to see you there!
+[[File:GOCE Coordinator.png|75px|left]]
+
+– Your drive coordinators: {{noping|Jonesey95}}, {{noping|Baffle gab1978}} and {{noping|Miniapolis}}
+{{center
+| &lt;small&gt;To discontinue receiving GOCE newsletters, please remove your name from [[Wikipedia:WikiProject Guild of Copy Editors/Mailing List|our mailing list]].&lt;/small&gt;
+}}
+|}
+[[User:MediaWiki message delivery|MediaWiki message delivery]] ([[User talk:MediaWiki message delivery|talk]]) 14:59, 21 February 2014 (UTC)
+&lt;!-- Message sent by User:Miniapolis@enwiki using the list at http://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Guild_of_Copy_Editors/Mailing_List&amp;oldid=595965791 --&gt;
+
+== ''The Signpost'': 19 February 2014 ==
+
+&lt;div style=&quot;-moz-column-count:2; -webkit-column-count:2; column-count:2;&quot;&gt;
+{{Wikipedia:Wikipedia_Signpost/2014-02-19}}
+&lt;/div&gt;&lt;!--Volume 10, Issue 7--&gt;
+&lt;div class=&quot;hlist&quot; style=&quot;margin-top:10px; font-size:90%; padding-left:5px; font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;&quot;&gt;
+* '''[[Wikipedia:Wikipedia Signpost|Read this Signpost in full]]'''
+* [[Wikipedia:Signpost/Single|Single-page]]
+* [[Wikipedia:Wikipedia Signpost/Subscribe|Unsubscribe]]
+* [[User:MediaWiki message delivery|MediaWiki message delivery]] ([[User talk:MediaWiki message delivery|talk]]) 15:10, 21 February 2014 (UTC)
+&lt;/div&gt;
+&lt;!-- Message sent by User:The ed17@enwiki using the list at http://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipedia_Signpost/Tools/Spamlist&amp;oldid=596485946 --&gt;
+
+== [[m:Special:MyLanguage/Tech/News/2014/09|Tech News: 2014-09]] ==
+
+&lt;section begin=&quot;technews-2014-W09&quot;/&gt;&lt;div class=&quot;plainlinks mw-content-ltr&quot; lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;
+Latest '''[[m:Special:MyLanguage/Tech/News|tech news]]''' from the Wikimedia technical community. Please inform other users about these changes. Not all changes will affect you. [[m:Special:MyLanguage/Tech/News/2014/09|Translations]] are available.
+
+'''Recent software changes'''
+* The latest version of MediaWiki ([[mw:MediaWiki 1.23/wmf15|1.23wmf15]]) was added to test wikis and MediaWiki.org on February 20. It will be added to non-Wikipedia wikis on February 25, and all Wikipedia wikis on February 27 ([[mw:MediaWiki 1.23/Roadmap|calendar]]).
+* The new search tool ([[mw:Search|CirrusSearch]]) was added to the Italian Wikiquote and all Wikiversity projects. Users can now enable it in their [[Special:Preferences#mw-prefsection-betafeatures|Beta options]]. [//gerrit.wikimedia.org/r/#/c/114156/] [//gerrit.wikimedia.org/r/#/c/114169/]
+* The [[mw:Special:MyLanguage/Universal Language Selector|Universal Language Selector]] was [[mw:Special:MyLanguage/Universal Language Selector/Announcement Feb2014|enabled on all Wikimedia wikis again]]. You can enable web fonts in your ULS options ([[:File:ULS-font-checkbox.png|see how]]).
+
+'''VisualEditor news'''
+* You will soon be able to add and edit &lt;bdi dir=&quot;ltr&quot;&gt;&lt;code&gt;__&lt;nowiki/&gt;STATICREDIRECT__&lt;/code&gt;&lt;/bdi&gt;, &lt;bdi dir=&quot;ltr&quot;&gt;&lt;code&gt;__&lt;nowiki/&gt;[NO]INDEX__&lt;/code&gt;&lt;/bdi&gt; and &lt;bdi dir=&quot;ltr&quot;&gt;&lt;code&gt;__&lt;nowiki/&gt;[NO]NEWEDITSECTION__&lt;/code&gt;&lt;/bdi&gt; in the page settings menu. [//bugzilla.wikimedia.org/show_bug.cgi?id=57173] [//bugzilla.wikimedia.org/show_bug.cgi?id=57167] [//bugzilla.wikimedia.org/show_bug.cgi?id=57168]
+* You will soon be able to use the &lt;kbd class=&quot;keyboard-key nowrap&quot; style=&quot;border:1px solid #AAA;background:#F9F9F9;padding:1px 3px&quot;&gt;Ctrl&lt;/kbd&gt;+&lt;kbd class=&quot;keyboard-key nowrap&quot; style=&quot;border:1px solid #AAA;background:#F9F9F9;padding:1px 3px&quot;&gt;Alt&lt;/kbd&gt;+&lt;kbd class=&quot;keyboard-key nowrap&quot; style=&quot;border:1px solid #AAA;background:#F9F9F9;padding:1px 3px&quot;&gt;S&lt;/kbd&gt; or &lt;kbd class=&quot;keyboard-key nowrap&quot; style=&quot;border:1px solid #AAA;background:#F9F9F9;padding:1px 3px&quot;&gt;⌘&lt;/kbd&gt;+&lt;kbd class=&quot;keyboard-key nowrap&quot; style=&quot;border:1px solid #AAA;background:#F9F9F9;padding:1px 3px&quot;&gt;Opt&lt;/kbd&gt;+&lt;kbd class=&quot;keyboard-key nowrap&quot; style=&quot;border:1px solid #AAA;background:#F9F9F9;padding:1px 3px&quot;&gt;S&lt;/kbd&gt; shortcuts to open the save window in VisualEditor. [//bugzilla.wikimedia.org/show_bug.cgi?id=50897] [//gerrit.wikimedia.org/r/#/c/110434/]
+* You will soon be able to preview your edit summary when checking your changes in the save window. [//bugzilla.wikimedia.org/show_bug.cgi?id=42139] [//gerrit.wikimedia.org/r/#/c/112490/]
+
+'''Future software changes'''
+* You will soon be able to use the &lt;bdi dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;nowiki&gt;&lt;categorytree&gt;&lt;/nowiki&gt;&lt;/code&gt;&lt;/bdi&gt; tag again. [//bugzilla.wikimedia.org/show_bug.cgi?id=59798]
+* You will soon be able to post messages with the [[mw:Extension:MassMessage|MassMessage]] tool in all talk namespaces. [//bugzilla.wikimedia.org/show_bug.cgi?id=60132] [//gerrit.wikimedia.org/r/#/c/94698/]
+* [[mw:Echo (Notifications)|Notifications]] will soon work in all namespaces. [//bugzilla.wikimedia.org/show_bug.cgi?id=55491][//bugzilla.wikimedia.org/show_bug.cgi?id=56311][//gerrit.wikimedia.org/r/#/c/93508/]
+
+'''''[[m:Special:MyLanguage/Tech/News|Tech news]]''' prepared by [[m:Special:MyLanguage/Tech/Ambassadors|tech ambassadors]] and posted by [[m:Special:MyLanguage/User:MediaWiki message delivery|MediaWiki message delivery]] • [[m:Special:MyLanguage/Tech/News#contribute|Contribute]] • [[m:Special:MyLanguage/Tech/News/2014/09|Translate]] • [[m:Tech|Get help]] • [[m:Talk:Tech/News|Give feedback]] • [[m:Global message delivery/Targets/Tech ambassadors|Subscribe or unsubscribe]].''
+&lt;/div&gt; &lt;section end=&quot;technews-2014-W09&quot;/&gt; 10:18, 24 February 2014 (UTC)
+&lt;!-- Message sent by User:Odder@metawiki using the list at http://meta.wikimedia.org/w/index.php?title=Global_message_delivery/Targets/Tech_ambassadors&amp;oldid=7584862 --&gt;
+
+== ''The Signpost'': 26 February 2014 ==
+
+&lt;div style=&quot;-moz-column-count:2; -webkit-column-count:2; column-count:2;&quot;&gt;
+{{Wikipedia:Wikipedia_Signpost/2014-02-26}}
+&lt;/div&gt;&lt;!--Volume 10, Issue 8--&gt;
+&lt;div class=&quot;hlist&quot; style=&quot;margin-top:10px; font-size:90%; padding-left:5px; font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;&quot;&gt;
+* '''[[Wikipedia:Wikipedia Signpost|Read this Signpost in full]]'''
+* [[Wikipedia:Wikipedia Signpost/Single|Single-page]]
+* [[Wikipedia:Wikipedia Signpost/Subscribe|Unsubscribe]]
+* [[User:MediaWiki message delivery|MediaWiki message delivery]] ([[User talk:MediaWiki message delivery|talk]]) 03:27, 28 February 2014 (UTC)
+&lt;/div&gt;
+&lt;!-- Message sent by User:The ed17@enwiki using the list at http://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipedia_Signpost/Tools/Spamlist&amp;oldid=597167495 --&gt;
+
+== WimpyKid1966 ==
+
+I see that you blocked WimpyKid1966.  Was that as a Kumioko sockpuppet?  If so, should he or she or it be added to the list of sockpuppets?  [[User:Robert McClenon|Robert McClenon]] ([[User talk:Robert McClenon|talk]]) 00:20, 1 March 2014 (UTC)
+:Yeah, that was Kumioko. I did the block on the fly to nix some notification spamming. It looks like since then, it's been listed (and confirmed) in the open SPI investigation [[Wikipedia:Sockpuppet_investigations/Kumioko|here]]. When an SPI clerk closes that up, I assume they'll tag and bag the whole bunch at once with one of their magic scripts. If they don't, feel free to give me another poke and I'll tag mine. [[User:Fluffernutter|A fluffernutter is a sandwich!]] ([[User talk:Fluffernutter#top|talk]]) 15:42, 1 March 2014 (UTC)
+
+== [[m:Special:MyLanguage/Tech/News/2014/10|Tech News: 2014-10]] ==
+
+&lt;section begin=&quot;technews-2014-W10&quot;/&gt;&lt;div class=&quot;plainlinks mw-content-ltr&quot; lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;
+&lt;div class=&quot;plainlinks&quot;&gt;
+Latest '''[[m:Special:MyLanguage/Tech/News|tech news]]''' from the Wikimedia technical community. Please inform other users about these changes. Not all changes will affect you. [[m:Special:MyLanguage/Tech/News/2014/10|Translations]] are available.
+&lt;section begin=&quot;tech-newsletter-software-news&quot;/&gt;
+'''Recent software changes'''
+
+* The latest version of MediaWiki ([[mw:MediaWiki 1.23/wmf16|1.23wmf16]]) was added to test wikis and MediaWiki.org on February 27. It will be added to non-Wikipedia wikis on March 4, and all Wikipedia wikis on March 6 ([[mw:MediaWiki 1.23/Roadmap|calendar]]).
+* When users enable web fonts by default, [[mw:Special:MyLanguage/Universal Language Selector|Universal Language Selector]] will now log if they don't have fonts to display pages correctly. This information will be used by developers to improve font support in the future. Read more about [[mw:Universal_Language_Selector/WebFonts#Font_detection|missing fonts]]. [//gerrit.wikimedia.org/r/#/c/113876/]
+* You can now use [[mw:Guided tours|Guided tours]] on the Czech and Japanese Wikipedia. If you want this tool on your wiki, you need to [//translatewiki.net/w/i.php?title=Special:Translate&amp;group=ext-guidedtour&amp;filter=&amp;language={{CONTENTLANG}}&amp;action=translate translate it] and ask in [//bugzilla.wikimedia.org Bugzilla]. [http://lists.wikimedia.org/pipermail/wikitech-ambassadors/2014-February/000595.html] [//gerrit.wikimedia.org/r/#/c/115824/]
+* You can now use information from [[:d:|Wikidata]] in all Wikisource wikis. [//gerrit.wikimedia.org/r/#/c/115393/]
+* The multimedia team is now posting weekly updates on their [[mail:multimedia|mailing list]]. [http://lists.wikimedia.org/pipermail/multimedia/2014-February/000071.html]
+
+'''VisualEditor news'''
+* You can now change image size to default for your wiki. If you add new images to pages, they will also be default size. [//bugzilla.wikimedia.org/show_bug.cgi?id=47804] [//bugzilla.wikimedia.org/show_bug.cgi?id=50379] [//gerrit.wikimedia.org/r/#/c/114420/]
+* If you switch from VisualEditor to wikitext editing, your edit will now be tagged. [//bugzilla.wikimedia.org/show_bug.cgi?id=56465]
+* Template parameters now have a bigger, auto-sizing input box for easier editing. [//bugzilla.wikimedia.org/show_bug.cgi?id=61289]
+* VisualEditor now has Arabic, Finnish and Kölsch icons for text styling. If you want icons for your language, ask in Bugzilla. [//gerrit.wikimedia.org/r/#/c/115636/] [//gerrit.wikimedia.org/r/#/c/115512/] [//gerrit.wikimedia.org/r/#/c/115424/]
+
+'''Future software changes'''
+* The [[mw:Extension:MultimediaViewer|new tool for viewing media files]] will soon show a progress bar and a thumbnail while loading full images. [//gerrit.wikimedia.org/r/#/c/113963/] [//wikimedia.mingle.thoughtworks.com/projects/multimedia/cards/146]
+* You will soon be able to make [[Special:Contributions|user contributions]] show only page creations. [//bugzilla.wikimedia.org/show_bug.cgi?id=42026] [//gerrit.wikimedia.org/r/#/c/115189/]
+* [[mw:Article feedback/Version 5|Article Feedback Tool]] will be removed from the English and French Wikipedias on March 3. It will also no longer be possible to add this tool to any Wikimedia wiki. [http://lists.wikimedia.org/pipermail/wikitech-ambassadors/2014-February/000596.html] [//bugzilla.wikimedia.org/show_bug.cgi?id=61163]
+* Wikis using the [[mw:Search|new search tool]] will come back to the old tool for a few hours starting at 00:00 UTC on March 6. [//bugzilla.wikimedia.org/show_bug.cgi?id=61879]
+&lt;section end=&quot;tech-newsletter-software-news&quot;/&gt;
+'''Problems'''
+* For about an hour on February 23, there were problems with page loading due to a MediaWiki bug. [//gerrit.wikimedia.org/r/#/c/114994/]
+
+'''''[[m:Special:MyLanguage/Tech/News|Tech news]]''' prepared by [[m:Special:MyLanguage/Tech/Ambassadors|tech ambassadors]] and posted by [[m:Special:MyLanguage/User:MediaWiki message delivery|MediaWiki message delivery]] • [[m:Special:MyLanguage/Tech/News#contribute|Contribute]] • [[m:Special:MyLanguage/Tech/News/2014/10|Translate]] • [[m:Tech|Get help]] • [[m:Talk:Tech/News|Give feedback]] • [[m:Global message delivery/Targets/Tech ambassadors|Subscribe or unsubscribe]].''
+&lt;/div&gt;
+&lt;/div&gt; &lt;section end=&quot;technews-2014-W10&quot;/&gt; 09:30, 3 March 2014 (UTC)
+&lt;!-- Message sent by User:Odder@metawiki using the list at http://meta.wikimedia.org/w/index.php?title=Global_message_delivery/Targets/Tech_ambassadors&amp;oldid=7697675 --&gt;
+
+== AfC Submission ==
+
+Hi Fluffernutter. I was wondering if I could beg and plead you to take a look at my AfC submission at [[Wikipedia_talk:Articles_for_creation/Brilliant_Earth]], as it says the backlog is currently a month long.
+
+I saw your message at the top of your Talk page and I have an uplifting story for you. I showed up to an article and declared my COI - a page that had a long history of anonymous, poor, COI editing and where the editor controlling and protecting the page has a negative viewpoint about the company. 
+
+Obviously myself and the other editor are in a position that sets the stage for a contentious relationship - the type of thing that often spills over to the drama boards. But instead we hammer out the content, get other editors involved for additional input, we're both completely reasonable, and we bring the article up to GA after a massive set of Talk page strings.
+
+For all intensive purposes, we had every possible reason to fight and bicker like the way you're describing, but instead we hammered it out and got the job done. Another GA under the belt. Assumptions of good faith all around even when there was every reason not to.   [[User:CorporateM|CorporateM]] ([[User_talk:CorporateM|Talk]]) 02:18, 3 March 2014 (UTC)
+:Hi {{U|CorporateM}}! I'll tell you right off the bat that business articles are one of my AfC weak points - I'll usually skip right over them because I'm so iffy on where the notability line lies - so I don't feel comfortable doing the actual review on this one. But I'd be happy to give you some of my impressions, which hopefully can be of some help to you, and perhaps one of my talk page stalkers will feel up to giving the submission a review. So, that said, my thoughts on skimming your submission:
+:#It lacks the usual lead style (&quot;'''Brilliant Earth''' is a blah that blahs and was founded in blah by blah&quot;). Not a dealbreaker for an AfC submission, but it's a pretty easy fix if you want to throw it in. 
+:#While the sourcing shows that third-party sources have discussed the business (yay), the article itself doesn't have anything to say about why or whether people care about Brilliant Earth. I'd feel more comfortable if there was some talk of &quot;Brilliant Earth has been recognized by [group/source] as [special thing]&quot; or &quot;The brand is [X popular] and sold in [notable places]&quot; or something. Right now you tell us what BE does, but not why we should care, or whether anyone else cares. That's something a lot of business AfC submissions struggle with, and it's a large part of why I have a hard time being comfortable passing them.
+:#You cite examiner.com in the article - this isn't acceptable as a reliable source on Wikipedia (the entire domain is actually blacklisted), and the pdf version of that that your citation actually links to is utterly borked and unreadable on my computer, anyway.
+:#Is your client willing to release any images? Obviously that's not a requirement for an AfC submission (not even close!), but it would improve the article in my opinion.
+:Hope these comments help! [[User:Fluffernutter|A fluffernutter is a sandwich!]] ([[User talk:Fluffernutter#top|talk]]) 15:26, 3 March 2014 (UTC)
+
+:::(1) {{done}}
+:::(2) How about [https://en.wikipedia.org/w/index.php?title=Wikipedia_talk%3AArticles_for_creation%2FBrilliant_Earth&amp;diff=597968778&amp;oldid=597968249 this]? It's sourced from the following quote from Businessweek: &quot;Along with just a handful of other retailers around the country sourcing only conflict-free diamonds, Brilliant Earth is helping to pioneer a new category in jewelry.&quot; (but written in a less promotional manner)
+:::(3) {{done}} Doesn't look like the source was needed anyway.
+:::(4) Hmmm... I think we discussed it, but I don't remember where the conversation went. It's such a small article, there isn't a ton of room for images, but they did say they could produce an image of their showroom. I'm not sure if that would be promotional or not...  
+:::[[User:CorporateM|CorporateM]] ([[User_talk:CorporateM|Talk]]) 15:43, 3 March 2014 (UTC)
+
+== ''(test) The Signpost'': 05 March 2014 ==
+
+&lt;div lang=&quot;en&quot; dir=&quot;ltr&quot; class=&quot;mw-content-ltr&quot;&gt;&lt;div style=&quot;-moz-column-count:2; -webkit-column-count:2; column-count:2;&quot;&gt;
+{{Wikipedia:Wikipedia Signpost/2014-03-05}}
+&lt;/div&gt;&lt;!--Volume 10, Issue 9--&gt;
+&lt;div class=&quot;hlist&quot; style=&quot;margin-top:10px; font-size:90%; padding-left:5px; font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;&quot;&gt;
+* '''[[Wikipedia:Wikipedia Signpost|Read this Signpost in full]]'''
+* [[Wikipedia:Signpost/Single|Single-page]]
+* [[Wikipedia:Wikipedia Signpost/Subscribe|Unsubscribe]]
+* [[User:MediaWiki message delivery|MediaWiki message delivery]] ([[User talk:MediaWiki message delivery|talk]]) 04:49, 10 March 2014 (UTC)
+&lt;/div&gt;&lt;/div&gt;
+&lt;!-- Message sent by User:LivingBot@enwiki using the list at http://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipedia_Signpost/Tools/Spamlist&amp;oldid=598358291 --&gt;
+
+== [[m:Special:MyLanguage/Tech/News/2014/11|Tech News: 2014-11]] ==
+
+&lt;section begin=&quot;technews-2014-W11&quot;/&gt;&lt;div class=&quot;plainlinks mw-content-ltr&quot; lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;div class=&quot;plainlinks&gt;
+Latest '''[[m:Special:MyLanguage/Tech/News|tech news]]''' from the Wikimedia technical community. Please inform other users about these changes. Not all changes will affect you. [[m:Special:MyLanguage/{{&lt;includeonly&gt;subst:&lt;/includeonly&gt;PAGENAME}}|Translations]] are available.
+&lt;section begin=&quot;tech-newsletter-software-news&quot;/&gt;
+'''Recent software changes'''
+* The latest version of MediaWiki ([[mw:MediaWiki 1.23/wmf17|1.23wmf17]]) was added to test wikis and MediaWiki.org on March 6. It will be added to non-Wikipedia wikis on March 11, and all Wikipedia wikis on March 13 ([[mw:MediaWiki 1.23/Roadmap|calendar]]).
+* You can now use the new search tool ([[mw:Search|CirrusSearch]]) on all Wikiquote projects. You can now enable it in your [[Special:Preferences#mw-prefsection-betafeatures|Beta options]]. [//gerrit.wikimedia.org/r/#/c/116919/] [//gerrit.wikimedia.org/r/#/c/116992/]
+
+'''VisualEditor news'''
+* It is now easier to edit templates. Complex tools are now in the &quot;advanced&quot; mode. [//bugzilla.wikimedia.org/show_bug.cgi?id=61822] [//bugzilla.wikimedia.org/show_bug.cgi?id=55434]
+* It is also easier to edit images. You now have more options and they are explained better. [//bugzilla.wikimedia.org/show_bug.cgi?id=61059]
+* VisualEditor adds fake blank lines so you can put your cursor there. They are now smaller and animated to be different from actual blank lines. [//bugzilla.wikimedia.org/show_bug.cgi?id=47790]
+* We have improved the tool to add special characters. The buttons are now larger. More changes are coming. [//gerrit.wikimedia.org/r/116661/]
+* You can now use new keyboard shortcuts to undo the last action, clear formatting, and show the shortcut help window. [//bugzilla.wikimedia.org/show_bug.cgi?id=53356] [//bugzilla.wikimedia.org/show_bug.cgi?id=52140] [//bugzilla.wikimedia.org/show_bug.cgi?id=56453]
+
+'''Future software changes'''
+* You will soon be able to use a [[Special:Preferences#mw-prefsection-betafeatures|Beta option]] to show a shorter list of language links. That way, [[mw:Special:MyLanguage/Universal Language Selector|Universal Language Selector]] will only show languages that are relevant to you. You will still be able to search for other languages. [//gerrit.wikimedia.org/r/#/c/116726/]
+* [[mw:Search|CirrusSearch]] will soon automatically index newly imported pages. [//bugzilla.wikimedia.org/show_bug.cgi?id=60053] [//gerrit.wikimedia.org/r/#/c/116896/]
+* It will soon be possible to use [[mw:ResourceLoader/Default modules:#Buttons|CSS to style buttons]] in templates on all Wikimedia wikis, without needing [[m:en:JavaScript|JavaScript]]. [//gerrit.wikimedia.org/r/#/c/114085/]
+* An [[m:IRC office hours|IRC discussion]] with the Wikimedia Foundation Language Engineering team will take place on March 12 at 17:00 UTC on the channel #wikimedia-office on Freenode ([http://www.timeanddate.com/worldclock/fixedtime.html?iso=20140312T1700 time conversion]). [http://lists.wikimedia.org/pipermail/wikitech-ambassadors/2014-March/000602.html]
+&lt;section end=&quot;tech-newsletter-software-news&quot;/&gt;
+'''''[[m:Special:MyLanguage/Tech/News|Tech news]]''' prepared by [[m:Special:MyLanguage/Tech/Ambassadors|tech ambassadors]] and posted by [[m:Special:MyLanguage/User:MediaWiki message delivery|MediaWiki message delivery]] • [[m:Special:MyLanguage/Tech/News#contribute|Contribute]] • [[m:Special:MyLanguage/{{&lt;includeonly&gt;subst:&lt;/includeonly&gt;PAGENAME}}|Translate]] • [[m:Tech|Get help]] • [[m:Talk:Tech/News|Give feedback]] • [[m:Global message delivery/Targets/Tech ambassadors|Subscribe or unsubscribe]].''
+&lt;/div&gt;&lt;/div&gt; &lt;section end=&quot;technews-2014-W11&quot;/&gt; 09:10, 10 March 2014 (UTC)
+&lt;!-- Message sent by User:Odder@metawiki using the list at http://meta.wikimedia.org/w/index.php?title=Global_message_delivery/Targets/Tech_ambassadors&amp;oldid=7775184 --&gt;
+
+== ''The Signpost'': 12 March 2014 ==
+
+&lt;div lang=&quot;en&quot; dir=&quot;ltr&quot; class=&quot;mw-content-ltr&quot;&gt;&lt;div style=&quot;-moz-column-count:2; -webkit-column-count:2; column-count:2;&quot;&gt;
+{{Wikipedia:Wikipedia Signpost/2014-03-12}}
+&lt;/div&gt;&lt;!--Volume 10, Issue 10--&gt;
+&lt;div class=&quot;hlist&quot; style=&quot;margin-top:10px; font-size:90%; padding-left:5px; font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;&quot;&gt;
+* '''[[Wikipedia:Wikipedia Signpost|Read this Signpost in full]]'''
+* [[Wikipedia:Signpost/Single|Single-page]]
+* [[Wikipedia:Wikipedia Signpost/Subscribe|Unsubscribe]]
+* [[User:MediaWiki message delivery|MediaWiki message delivery]] ([[User talk:MediaWiki message delivery|talk]]) 04:45, 15 March 2014 (UTC)
+&lt;/div&gt;&lt;/div&gt;
+&lt;!-- Message sent by User:LivingBot@enwiki using the list at http://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipedia_Signpost/Tools/Spamlist&amp;oldid=598358291 --&gt;
+
+== Discretionary sanctions 2013 review: Draft v3 ==
+
+Hi. You have commented on Draft v1 or v2 in the Arbitration Committee's [[WP:AC/DSR|2013 review]] of the discretionary sanctions system. I thought you'd like to know Draft v3 has now been posted to the main review page. You are very welcome to comment on it on the review talk page. Regards, [[User:AGK|&lt;font color=&quot;black&quot;&gt;'''AGK'''&lt;/font&gt;]] [[User talk:AGK#top|[•]]] 00:15, 16 March 2014 (UTC)
+
+== [[m:Special:MyLanguage/Tech/News/2014/12|Tech News: 2014-12]] ==
+
+&lt;section begin=&quot;technews-2014-W12&quot;/&gt;&lt;div class=&quot;plainlinks mw-content-ltr&quot; lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;div class=&quot;plainlinks&quot;&gt;
+Latest '''[[m:Special:MyLanguage/Tech/News|tech news]]''' from the Wikimedia technical community. Please inform other users about these changes. Not all changes will affect you. [[m:Special:MyLanguage/Tech/News/2014/12|Translations]] are available.
+&lt;section begin=&quot;tech-newsletter-software-news&quot;/&gt;
+'''Recent software changes'''
+* The latest version of MediaWiki ([[mw:MediaWiki 1.23/wmf18|1.23wmf18]]) was added to test wikis and MediaWiki.org on March 13. It will be added to non-Wikipedia wikis on March 18, and all Wikipedia wikis on March 20 ([[mw:MediaWiki 1.23/Roadmap|calendar]]).
+* You can now view smaller versions of PNG images bigger than 20 megapixels. [//gerrit.wikimedia.org/r/#/c/117809/]
+* You can now use the new search tool ([[mw:Search|CirrusSearch]]) on all [//noc.wikimedia.org/conf/highlight.php?file=small.dblist small] wikis. You can now enable it in your [[Special:Preferences#mw-prefsection-betafeatures|Beta options]]. [//gerrit.wikimedia.org/r/#/c/118482/] [//gerrit.wikimedia.org/r/#/c/118638/]
+* You can read a [[mw:Special:MyLanguage/Wikimedia_engineering_report/2014/February/summary|summary]] of the Wikimedia technical report for February 2014. [http://lists.wikimedia.org/pipermail/wikitech-ambassadors/2014-February/000585.html]
+
+'''VisualEditor news'''
+* Searching for template parameters in now case-insensitive. [//bugzilla.wikimedia.org/show_bug.cgi?id=51673] [//gerrit.wikimedia.org/r/#/c/117305/]
+* Required template parameters now have an asterisk (''*'') next to their edit boxes. [//gerrit.wikimedia.org/r/117327/]
+* Several template dialogs are now smaller, and their insert buttons have changed wording. [//bugzilla.wikimedia.org/show_bug.cgi?id=50998]
+
+'''Future software changes'''
+* You will soon see an error message if you try to log-in or register with an invalid or taken username. [//gerrit.wikimedia.org/r/#/c/117437/]
+* You can now test first version of a tool that includes [[m:en:OpenStreetMap|OpenStreetMap]] maps inside the [[mw:Extension:UploadWizard|UploadWizard]]. [[mw:Talk:UploadWizard OSM map embedding|Comments]] are welcome. [http://lists.wikimedia.org/pipermail/design/2014-March/001665.html]
+* You will soon be able to use the [[mw:Beta Features/Hovercards|Hovercards]] tool as a [[Special:Preferences#mw-prefsection-betafeatures|beta feature]]. [http://lists.wikimedia.org/pipermail/wikitech-ambassadors/2014-March/000624.html]
+&lt;section end=&quot;tech-newsletter-software-news&quot;/&gt;
+'''Problems'''
+* VisualEditor was slow to load on March 13 because of an [[m:en:API|API]] issue. [https://wikitech.wikimedia.org/wiki/Incident_documentation/20140313-API-Parsoid]
+
+'''''[[m:Special:MyLanguage/Tech/News|Tech news]]''' prepared by [[m:Special:MyLanguage/Tech/Ambassadors|tech ambassadors]] and posted by [[m:Special:MyLanguage/User:MediaWiki message delivery|MediaWiki message delivery]] • [[m:Special:MyLanguage/Tech/News#contribute|Contribute]] • [[m:Special:MyLanguage/Tech/News/2014/12|Translate]] • [[m:Tech|Get help]] • [[m:Talk:Tech/News|Give feedback]] • [[m:Global message delivery/Targets/Tech ambassadors|Subscribe or unsubscribe]].''
+&lt;/div&gt;&lt;/div&gt; &lt;section end=&quot;technews-2014-W12&quot;/&gt; 07:14, 17 March 2014 (UTC)
+&lt;!-- Message sent by User:Odder@metawiki using the list at http://meta.wikimedia.org/w/index.php?title=Global_message_delivery/Targets/Tech_ambassadors&amp;oldid=7817010 --&gt;
+
+== Your signature ==
+
+Hi, I noticed that on the warnings that you send to vandals it contains your custom signature (a fluffernutter is a sandwich!). Many might not be able to take your comments seriously or understand that it is a username instead of a randomly placed sentence. Just thought I'd let you know. Thanks. --&lt;font style=&quot;text-shadow:#BD33A4 0em 0em 0.8em,#FF007F -0.8em -0.8em 0.9em,#0247FE 0.7em 0.7em 0.8em&quot;&gt;[[User:Gourami Watcher|'''''&lt;span style=&quot;color:Blue-Violet;&quot;&gt;Gourami&lt;/span&gt;&lt;span style=&quot;color:Blue-Violet;&quot;&gt;Watcher&lt;/span&gt;''''']][[User talk:Gourami Watcher|&lt;font color=black&gt;&lt;sup&gt;'''''(?)'''''&lt;/sup&gt;]]&lt;/span&gt;&lt;/font&gt; 20:08, 16 March 2014 (UTC)
+:{{ping|Gourami Watcher}} Well, I've been using this signature for three or four years now, and this is the first time I've heard any complaint about it. Generally my plaintext sig is considered extremely restrained and comprehensible compared to signatures with complex coloring, super/sub-scripts, font size changes, etc (all of which are acceptable stylistic choices, but when we ask people to tone down their signatures, it's usually that sort of stuff that's the problem, rather than the signature not being complex enough). Are you aware of anyone actually having problems understanding that it's a signature, or are you just speculating that someone could possibly do so in the future? [[User:Fluffernutter|A fluffernutter is a sandwich!]] ([[User talk:Fluffernutter#top|talk]]) 15:16, 17 March 2014 (UTC)
+
+== ''The Signpost'': 19 March 2014 ==
+
+&lt;div lang=&quot;en&quot; dir=&quot;ltr&quot; class=&quot;mw-content-ltr&quot;&gt;&lt;div style=&quot;-moz-column-count:2; -webkit-column-count:2; column-count:2;&quot;&gt;
+{{Wikipedia:Wikipedia Signpost/2014-03-19}}
+&lt;/div&gt;&lt;!--Volume 10, Issue 11--&gt;
+&lt;div class=&quot;hlist&quot; style=&quot;margin-top:10px; font-size:90%; padding-left:5px; font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;&quot;&gt;
+* '''[[Wikipedia:Wikipedia Signpost|Read this Signpost in full]]'''
+* [[Wikipedia:Signpost/Single|Single-page]]
+* [[Wikipedia:Wikipedia Signpost/Subscribe|Unsubscribe]]
+* [[User:MediaWiki message delivery|MediaWiki message delivery]] ([[User talk:MediaWiki message delivery|talk]]) 03:15, 23 March 2014 (UTC)
+&lt;/div&gt;&lt;/div&gt;
+&lt;!-- Message sent by User:LivingBot@enwiki using the list at http://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipedia_Signpost/Tools/Spamlist&amp;oldid=600600919 --&gt;
+
+== [[m:Special:MyLanguage/Tech/News/2014/13|Tech News: 2014-13]] ==
+
+&lt;section begin=&quot;technews-2014-W13&quot;/&gt;&lt;div class=&quot;plainlinks mw-content-ltr&quot; lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;div class=&quot;plainlinks&gt;
+Latest '''[[m:Special:MyLanguage/Tech/News|tech news]]''' from the Wikimedia technical community. Please inform other users about these changes. Not all changes will affect you. [[m:Special:MyLanguage/Tech/News/2014/13|Translations]] are available.
+&lt;section begin=&quot;tech-newsletter-software-news&quot;/&gt;
+'''Recent software changes'''
+* The latest version of MediaWiki ([[mw:MediaWiki 1.23/wmf19|1.23wmf19]]) was added to test wikis and MediaWiki.org on March 20. It will be added to non-Wikipedia wikis on March 25, and all Wikipedia wikis on March 27 ([[mw:MediaWiki 1.23/Roadmap|calendar]]).
+
+'''VisualEditor news'''
+* You can now double-click or press the &lt;kbd class=&quot;keyboard-key nowrap&quot; style=&quot;border:1px solid #AAA;background:#F9F9F9;padding:1px 3px&quot;&gt;↲ Enter&lt;/kbd&gt; key on an image or template to change its settings. [//bugzilla.wikimedia.org/show_bug.cgi?id=50996] [//bugzilla.wikimedia.org/show_bug.cgi?id=54827]
+* Pages that don't exist will now show as red links in the edit mode. [//bugzilla.wikimedia.org/show_bug.cgi?id=37901]
+* You will no longer be able to try to use VisualEditor on pages translated using the [[mw:Extension:Translate|Translate]] extension, and you will see a warning if you try to edit pages marked for translation. [//bugzilla.wikimedia.org/show_bug.cgi?id=50284]
+* You will now see a full warning, including the most recent log entry, when you try to edit protected pages with VisualEditor. [//bugzilla.wikimedia.org/show_bug.cgi?id=51215]
+
+'''Future software changes'''
+* [[mw:Typography refresh|Typography Refresh]] will be enabled for test wiki and MediaWiki.org users who use the [[mw:Vector|Vector]] skin on March 27. For users on non-Wikipedia wikis, it will be enabled on April 1, and for Wikipedia users on April 3. If you don't use Vector as your skin, you will not be affected.
+* You will be able to use the [[mw:Beta Features/Hovercards|Hovercards]] tool as a [[Special:Preferences#mw-prefsection-betafeatures|beta feature]] on all wikis from March 26.
+* You will soon be able to include the [[Special:Whatlinkshere|Whatlinkshere]] special page in other pages. [//bugzilla.wikimedia.org/show_bug.cgi?id=35486] [//gerrit.wikimedia.org/r/#/c/106625/]
+&lt;section end=&quot;tech-newsletter-software-news&quot;/&gt;
+'''''[[m:Special:MyLanguage/Tech/News|Tech news]]''' prepared by [[m:Special:MyLanguage/Tech/Ambassadors|tech ambassadors]] and posted by [[m:Special:MyLanguage/User:MediaWiki message delivery|MediaWiki message delivery]] • [[m:Special:MyLanguage/Tech/News#contribute|Contribute]] • [[m:Special:MyLanguage/Tech/News/2014/13|Translate]] • [[m:Tech|Get help]] • [[m:Talk:Tech/News|Give feedback]] • [[m:Global message delivery/Targets/Tech ambassadors|Subscribe or unsubscribe]].''
+&lt;/div&gt;&lt;/div&gt; &lt;section end=&quot;technews-2014-W13&quot;/&gt; 18:56, 24 March 2014 (UTC)
+&lt;!-- Message sent by User:Guillom@metawiki using the list at http://meta.wikimedia.org/w/index.php?title=Global_message_delivery/Targets/Tech_ambassadors&amp;oldid=7911081 --&gt;
+
+== RE ==
+
+Sorry, I didn't end up getting your reply. The message I sent about your signature was just an observation, not a complaint. As a former IP test editor, I was unfamiliar with Wikipedia's warning system and from a vandal's point of view the signature could cause some confusion. Cheers! --&lt;font style=&quot;text-shadow:#BD33A4 0em 0em 0.8em,#FF007F -0.8em -0.8em 0.9em,#0247FE 0.7em 0.7em 0.8em&quot;&gt;[[User:Gourami Watcher|'''''&lt;span style=&quot;color:Blue-Violet;&quot;&gt;Gourami&lt;/span&gt;&lt;span style=&quot;color:Blue-Violet;&quot;&gt;Watcher&lt;/span&gt;''''']][[User talk:Gourami Watcher|&lt;font color=black&gt;&lt;sup&gt;'''''(?)'''''&lt;/sup&gt;]]&lt;/span&gt;&lt;/font&gt; 16:15, 26 March 2014 (UTC)
+
+== ''The Signpost'': 26 March 2014 ==
+
+&lt;div lang=&quot;en&quot; dir=&quot;ltr&quot; class=&quot;mw-content-ltr&quot;&gt;&lt;div style=&quot;-moz-column-count:2; -webkit-column-count:2; column-count:2;&quot;&gt;
+{{Wikipedia:Wikipedia Signpost/2014-03-26}}
+&lt;/div&gt;&lt;!--Volume 10, Issue 12--&gt;
+&lt;div class=&quot;hlist&quot; style=&quot;margin-top:10px; font-size:90%; padding-left:5px; font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;&quot;&gt;
+* '''[[Wikipedia:Wikipedia Signpost|Read this Signpost in full]]'''
+* [[Wikipedia:Signpost/Single|Single-page]]
+* [[Wikipedia:Wikipedia Signpost/Subscribe|Unsubscribe]]
+* [[User:MediaWiki message delivery|MediaWiki message delivery]] ([[User talk:MediaWiki message delivery|talk]]) 08:19, 29 March 2014 (UTC)
+&lt;/div&gt;&lt;/div&gt;
+&lt;!-- Message sent by User:LivingBot@enwiki using the list at http://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipedia_Signpost/Tools/Spamlist&amp;oldid=601545391 --&gt;
+
+== How do I...?==
+
+Hi there.  I noticed on your user page that you have a section called &quot;Pages I have created or significantly contributed to.&quot;  Is there an automated way of adding that kind of thing to my own user page, or do I have to look through all my contributions and copy/paste what I want to list there?  Thanks.  [[User:Nycdi|nycdi]] ([[User talk:Nycdi|talk]]) 14:57, 29 March 2014 (UTC)
+
+:That's a good question. It would be neat if a bot showed what articles you had been working on recently.  [[User:CorporateM|CorporateM]] ([[User_talk:CorporateM|Talk]]) 03:27, 30 March 2014 (UTC)
+
+== [[m:Special:MyLanguage/Tech/News/2014/14|Tech News: 2014-14]] ==
+
+&lt;section begin=&quot;technews-2014-W14&quot;/&gt;&lt;div class=&quot;plainlinks mw-content-ltr&quot; lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;div class=&quot;plainlinks&quot;&gt;
+Latest '''[[m:Special:MyLanguage/Tech/News|tech news]]''' from the Wikimedia technical community. Please inform other users about these changes. Not all changes will affect you. [[m:Special:MyLanguage/Tech/News/2014/14|Translations]] are available.
+&lt;section begin=&quot;tech-newsletter-software-news&quot;/&gt;
+'''Recent software changes'''
+* The latest version of MediaWiki ([[mw:MediaWiki 1.23/wmf20|1.23wmf20]]) was added to test wikis and MediaWiki.org on March 27. It will be added to non-Wikipedia wikis on April 1, and all Wikipedia wikis on April 3 ([[mw:MediaWiki 1.23/Roadmap|calendar]]).
+* [[mw:Typography refresh|Typography Refresh]] was added to test wikis and MediaWiki.org on March 27. You'll only see it if you use the [[mw:Vector|Vector]] skin. For users on non-Wikipedia wikis, it will be enabled on April 1, and for Wikipedia users on April 3.
+* [[mw:Search|CirrusSearch]], the new search tool, was enabled as a beta feature on over 30 new wikis on March 27. [//gerrit.wikimedia.org/r/#/c/121305/] [//gerrit.wikimedia.org/r/#/c/121305/]
+
+'''VisualEditor news'''
+* Blocked users now see the same messages in VisualEditor as in the wikitext editor. [//bugzilla.wikimedia.org/show_bug.cgi?id=51454] [//bugzilla.wikimedia.org/show_bug.cgi?id=52004]
+* The search box for re-using a reference in VisualEditor is now cleared after each use. [//bugzilla.wikimedia.org/show_bug.cgi?id=61959]
+* New links on sub-pages no longer point to the wrong location in VisualEditor. [//bugzilla.wikimedia.org/show_bug.cgi?id=58314]
+* VisualEditor's media dialog no longer breaks when opening some types of images. [//bugzilla.wikimedia.org/show_bug.cgi?id=62024]
+
+'''Future software changes'''
+* You will not be able to use the [[wikitech:|Wikitech]] wiki for a short period around 16:00 UTC on April 1 due to a server change. [http://lists.wikimedia.org/pipermail/wikitech-l/2014-March/075489.html]
+* [[mw:Search|CirrusSearch]] will become the main search engine for all non-Wikipedia wikis except Commons, Meta and Incubator on April 2.
+* You will soon be able to use a new special page listing duplicate files. [//gerrit.wikimedia.org/r/#/c/85446/]
+* Deleting a version of a file or a version of its description page will soon be shown differently in the logs. [//gerrit.wikimedia.org/r/#/c/115640/]
+&lt;section end=&quot;tech-newsletter-software-news&quot;/&gt;
+'''''[[m:Special:MyLanguage/Tech/News|Tech news]]''' prepared by [[m:Special:MyLanguage/Tech/Ambassadors|tech ambassadors]] and posted by [[m:Special:MyLanguage/User:MediaWiki message delivery|MediaWiki message delivery]] • [[m:Special:MyLanguage/Tech/News#contribute|Contribute]] • [[m:Special:MyLanguage/Tech/News/2014/14|Translate]] • [[m:Tech|Get help]] • [[m:Talk:Tech/News|Give feedback]] • [[m:Global message delivery/Targets/Tech ambassadors|Subscribe or unsubscribe]].''
+&lt;/div&gt;&lt;/div&gt; &lt;section end=&quot;technews-2014-W14&quot;/&gt; 09:20, 31 March 2014 (UTC)
+&lt;!-- Message sent by User:Guillom@metawiki using the list at http://meta.wikimedia.org/w/index.php?title=Global_message_delivery/Targets/Tech_ambassadors&amp;oldid=7991807 --&gt;
+
+
+== RE: My Ban ==
+
+(No I'm not appealing it :)  )
+
+Fluffernutter,
+
+Just so I'm clear,   I was topic banned for my conduct per [[Wikipedia:Arbitration/Requests/Case/Sexology | discretionary sanctions  given on this page ]].   Since it runs for 6 months, and the ban started in October 1,  would that mean my ban would expire April 1.  
+(I have avoided anything to do with any page mentioning sexology or any issue related to that - I'm asking so that I know when it's safe to engage in discussion in that area.)  &lt;span style=&quot;border:1px solid blue;padding:0.50x;&quot;&gt;[[User:KoshVorlon|&lt;font style=&quot;color:blue;background:white&quot;&gt;&amp;nbsp;'''K'''osh'''V'''orlon]].&lt;font style=&quot;color:white;background:blue;&quot;&gt;&amp;nbsp;'''W'''e '''a'''re '''a'''ll '''K'''osh &amp;nbsp;&lt;/font&gt;&lt;/span&gt; 19:51, 31 March 2014 (UTC)
+:Hi Kosh. Your topic ban [https://en.wikipedia.org/w/index.php?title=Wikipedia:Arbitration/Requests/Case/Sexology&amp;diff=575326215&amp;oldid=575194817 was consecutive to your block] rather than concurrent with it, so the &quot;safe&quot; date would be six months from October 8, aka April 8. Please remember to keep all our behavioral guidelines in mind if/when you return to that topic after April 8 - it's still a sensitive, potentially divisive area. [[User:Fluffernutter|A fluffernutter is a sandwich!]] ([[User talk:Fluffernutter#top|talk]]) 22:37, 31 March 2014 (UTC)
+
+::: No problem.   As you can see from my history, I wasn't a frequent editor on that page, so it's not like I want to get back there right away.  Thank you for answering my question, and I acknowledge that I see April 8th as  my safe date.
+See you around &lt;span style=&quot;border:1px solid blue;padding:0.50x;&quot;&gt;[[User:KoshVorlon|&lt;font style=&quot;color:blue;background:white&quot;&gt;&amp;nbsp;'''K'''osh'''V'''orlon]].&lt;font style=&quot;color:white;background:blue;&quot;&gt;&amp;nbsp;'''W'''e '''a'''re '''a'''ll '''K'''osh &amp;nbsp;&lt;/font&gt;&lt;/span&gt; 00:53, 1 April 2014 (UTC)
+
+== GOCE March drive wrapup ==
+
+{| style=&quot;position: relative; margin-left: 2em; margin-right: 2em; padding: 0.5em 1em; background-color: #dfeff3; border: 2px solid #bddff2; border-color: rgba( 109, 193, 240, 0.75 ); {{border-radius}} {{box-shadow|8px|8px|12px|rgba( 0, 0, 0, 0.7 )}}&quot;
+
+| &lt;span style=&quot;font-size: 110%;&quot;&gt;'''[[WP:GOCE|Guild of Copy Editors]] [[Wikipedia:WikiProject Guild of Copy Editors/Backlog elimination drives/March 2014|March 2014 backlog elimination drive]] wrap-up newsletter'''&lt;/span&gt;
+
+&lt;div style=&quot;float:right; width: 75px; height: 60px;&quot;&gt;&lt;/div&gt;
+&lt;div style=&quot;position: absolute; top: -20px; right: -12px;&quot;&gt;[[File:Writing Magnifying.PNG|100px|link=]]&lt;/div&gt;
+&lt;hr style=&quot;border-bottom: 1px solid rgba( 109, 193, 240, 0.75 );&quot; /&gt;
+&lt;center&gt;The '''[[Wikipedia:WikiProject Guild of Copy Editors/Newsletters/April 2014|March 2014 drive wrap-up]]''' is now ready for review.&lt;/center&gt;
+
+&lt;center&gt;{{red|Sign up for the [[Wikipedia:WikiProject Guild of Copy Editors/Blitzes/April 2014|April blitz]]!}}
+– Your project coordinators: {{noping|Jonesey95}}, {{noping|Baffle gab1978}} and {{noping|Miniapolis}}.
+&lt;/center&gt;
+{{center
+| &lt;small&gt; To discontinue receiving GOCE newsletters, please remove your name from [[Wikipedia:WikiProject Guild of Copy Editors/Mailing List|our mailing list]]. Newsletter delivered by &lt;/small&gt;
+}}
+|}
+
+{| style=&quot;position: relative; margin-left: 2em; margin-right: 2em; padding: 0.5em 1em; background-color: #dfeff3; border: 2px solid #bddff2; border-color: rgba( 109, 193, 240, 0.75 ); {{border-radius}} {{box-shadow|8px|8px|12px|rgba( 0, 0, 0, 0.7 )}}&quot;
+
+| &lt;span style=&quot;font-size: 110%;&quot;&gt;'''[[WP:GOCE|Guild of Copy Editors]] [[Wikipedia:WikiProject Guild of Copy Editors/Backlog elimination drives/March 2014|March 2014 backlog elimination drive]] wrap-up'''&lt;/span&gt;
+
+&lt;div style=&quot;float:right; width: 75px; height: 60px;&quot;&gt;&lt;/div&gt;
+&lt;div style=&quot;position: absolute; top: -20px; right: -12px;&quot;&gt;[[File:Writing Magnifying.PNG|100px|link=]]&lt;/div&gt;
+&lt;hr style=&quot;border-bottom: 1px solid rgba( 109, 193, 240, 0.75 );&quot; /&gt;
+'''Participation:''' Thanks to all who participated in the drive and helped out behind the scenes. 42 people signed up for this drive and 28 of these completed at least one article. Final results are available [[Wikipedia:WikiProject Guild of Copy Editors/Backlog elimination drives/March 2014/Barnstars|here]].
+
+'''Progress report:''' Articles tagged during the target months of December 2012 and January 2013 were reduced from 177 to 33, and the overall backlog was reduced by 13 articles. The total backlog was 2,902 articles at the end of March. On the Requests page during March, 26 copy edit requests were completed, all requests from January 2014 were completed, and the length of the queue was reduced by 11 articles.
+
+'''Blitz!''': The [[Wikipedia:WikiProject Guild of Copy Editors/Blitzes/April 2014|April blitz]] will run from April 13–19, with a focus on the [[WP:GOCE/REQ|Requests]] list. [[Wikipedia:WikiProject Guild of Copy Editors/Blitzes/April 2014|Sign up now!]] 
+
+– Your drive coordinators: {{noping|Jonesey95}}, {{noping|Baffle gab1978}} and {{noping|Miniapolis}}
+
+{{center
+| &lt;small&gt;To discontinue receiving GOCE newsletters, please remove your name from [[Wikipedia:WikiProject Guild of Copy Editors/Mailing List|our mailing list]].&lt;/small&gt;
+}}
+|}
+[[User:MediaWiki message delivery|MediaWiki message delivery]] ([[User talk:MediaWiki message delivery|talk]]) 13:57, 2 April 2014 (UTC)
+&lt;!-- Message sent by User:Miniapolis@enwiki using the list at http://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Guild_of_Copy_Editors/Mailing_List&amp;oldid=602417820 --&gt;
+
+== Recent oversight of IP edits ==
+
+Thanks for that. I see no problem with your decisions over what to suppress and what to revdel, and as far as I can tell you got all of it (certainly all the important stuff). Much obliged, as always. [[User:Yunshui|Yunshui]]&amp;nbsp;[[User talk:Yunshui|&lt;span style=&quot;font-size:110%&quot;&gt;雲&lt;/span&gt;]]&amp;zwj;[[Special:Contributions/Yunshui|&lt;span style=&quot;font-size:110%&quot;&gt;水&lt;/span&gt;]] 12:21, 3 April 2014 (UTC)
+
+== ''The Signpost'': 02 April 2014 ==
+
+&lt;div lang=&quot;en&quot; dir=&quot;ltr&quot; class=&quot;mw-content-ltr&quot;&gt;&lt;div style=&quot;-moz-column-count:2; -webkit-column-count:2; column-count:2;&quot;&gt;
+{{Wikipedia:Wikipedia Signpost/2014-04-02}}
+&lt;/div&gt;&lt;!--Volume 10, Issue 13--&gt;
+&lt;div class=&quot;hlist&quot; style=&quot;margin-top:10px; font-size:90%; padding-left:5px; font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;&quot;&gt;
+* '''[[Wikipedia:Wikipedia Signpost|Read this Signpost in full]]'''
+* [[Wikipedia:Signpost/Single|Single-page]]
+* [[Wikipedia:Wikipedia Signpost/Subscribe|Unsubscribe]]
+* [[User:MediaWiki message delivery|MediaWiki message delivery]] ([[User talk:MediaWiki message delivery|talk]]) 23:02, 6 April 2014 (UTC)
+&lt;/div&gt;&lt;/div&gt;
+&lt;!-- Message sent by User:LivingBot@enwiki using the list at http://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipedia_Signpost/Tools/Spamlist&amp;oldid=602872164 --&gt;
+
+== [[m:Special:MyLanguage/Tech/News/2014/15|Tech News: 2014-15]] ==
+
+&lt;section begin=&quot;technews-2014-W15&quot;/&gt;&lt;div class=&quot;plainlinks mw-content-ltr&quot; lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;div class=&quot;plainlinks&quot;&gt;
+Latest '''[[m:Special:MyLanguage/Tech/News|tech news]]''' from the Wikimedia technical community. Please inform other users about these changes. Not all changes will affect you. [[m:Special:MyLanguage/Tech/News/2014/15|Translations]] are available.
+&lt;section begin=&quot;tech-newsletter-software-news&quot;/&gt;
+'''Recent software changes'''
+* The latest version of MediaWiki ([[mw:MediaWiki 1.23/wmf21|1.23wmf21]]) was scheduled to be deployed to test wikis and MediaWiki.org on April 3, however it was temporarily put on hold due to localization issues. ([[mw:MediaWiki 1.23/Roadmap|calendar]]).
+* [[mw:Special:MyLanguage/Typography refresh|Typography Refresh]] was enabled on non-Wikipedia wikis on April 1, and on all Wikipedias on April 3. You'll only see it if you use the [[mw:Special:MyLanguage/Vector|Vector]] skin.
+* [[mw:Special:MyLanguage/Search|CirrusSearch]] was enabled as the primary search method on over 400 non-Wikipedia wikis on April 2. [//https://gerrit.wikimedia.org/r/#/c/123246/]
+
+'''Future software changes'''
+* A new special page (Special:TrackingCategories) will soon list all the [[mw:Special:MyLanguage/Help:Tracking categories|tracking categories]] on a wiki. [//bugzilla.wikimedia.org/show_bug.cgi?id=60333] [//gerrit.wikimedia.org/r/#/c/112323/]
+* All Wikiquote projects will start using language links from Wikidata on April 8. [http://lists.wikimedia.org/pipermail/wikiquote-l/2014-March/000157.html]
+* The [[mw:Special:MyLanguage/Beta Features/Hovercards|Hovercards]] feature will soon work with right-to-left languages. [//bugzilla.wikimedia.org/show_bug.cgi?id=62970] [//bugzilla.wikimedia.org/show_bug.cgi?id=62970]
+* You will soon be able to download files directly from [[mw:Special:MyLanguage/Extension:MultimediaViewer|MediaViewer]], the new multimedia tool. [//gerrit.wikimedia.org/r/#/c/120738/]
+* [[mw:Special:MyLanguage/Extension:MultimediaViewer|MediaViewer]] will be enabled for all users on MediaWiki.org on April 10. [[mw:Talk:Multimedia/About Media Viewer|Comments]] are welcome. 
+* You can help check that users can read [[m:en:CAPTCHA|CAPTCHA]]s in your language. [http://lists.wikimedia.org/pipermail/wikitech-ambassadors/2014-April/000643.html]
+&lt;section end=&quot;tech-newsletter-software-news&quot;/&gt;
+'''''[[m:Special:MyLanguage/Tech/News|Tech news]]''' prepared by [[m:Special:MyLanguage/Tech/Ambassadors|tech ambassadors]] and posted by [[m:Special:MyLanguage/User:MediaWiki message delivery|MediaWiki message delivery]] • [[m:Special:MyLanguage/Tech/News#contribute|Contribute]] • [[m:Special:MyLanguage/Tech/News/2014/15|Translate]] • [[m:Tech|Get help]] • [[m:Talk:Tech/News|Give feedback]] • [[m:Global message delivery/Targets/Tech ambassadors|Subscribe or unsubscribe]].''
+&lt;/div&gt;&lt;/div&gt; &lt;section end=&quot;technews-2014-W15&quot;/&gt; 08:00, 7 April 2014 (UTC)
+&lt;!-- Message sent by User:Guillom@metawiki using the list at http://meta.wikimedia.org/w/index.php?title=Global_message_delivery/Targets/Tech_ambassadors&amp;oldid=8035796 --&gt;
+
+== Your submission at [[Wikipedia:Articles for creation|Articles for creation]]: [[Draft:Trey McGriff|Trey McGriff]] (April 7) ==
+&lt;div style=&quot;border: solid 1px #FCC; background-color: #F8EEBC; padding: 0.5em 1em; color: #000; margin: 1.5em; width: 90%;&quot;&gt; [[File:AFC-Logo_Decline.svg|50px|left]]Your recent article submission to [[WP:AFC|Articles for Creation]] has been reviewed!  Unfortunately, it has not been accepted at this time.&lt;br /&gt;Please read the comments left by the reviewer on your submission.  You are encouraged to edit the submission to address the issues raised and resubmit when they have been &lt;u&gt;resolved&lt;/u&gt;.&lt;br/&gt;
+&lt;div class=&quot;plainlinks&quot;&gt;
+* If you would like to continue working on the submission, you can find it at [[Draft:Trey McGriff]].
+* To edit the submission, click on the &quot;Edit&quot; tab at the top of the window.
+* If you need any assistance, you can ask for help at the [//en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Articles_for_creation/Help_desk&amp;action=edit&amp;section=new '''Articles for creation help desk'''], or on the &lt;span class=&quot;noprint plainlinks&quot;&gt;[//en.wikipedia.org/w/index.php?title=User_talk:Josve05a&amp;action=edit&amp;section=new reviewer's talk page]&lt;/span&gt;.
+&lt;div style=&quot;float: right; display: block; text-align: center; border: 1px solid #000; margin: 3px -10px; padding: 3px 8px; background-color: #DCFFDC;&quot;&gt;'''&lt;big&gt;Thank you for your&lt;br /&gt;contributions to Wikipedia!&lt;/big&gt;'''&lt;/div&gt;
+:* '''Please remember to [[Help:Wikilink|link]] to the submission!'''
+* You can also get [http://webchat.freenode.net/?channels=#wikipedia-en-help real-time chat help from experienced editors].
+&lt;span style=&quot;background: turquoise; font-family: 'Segoe Script'&quot;&gt;([[User talk:Josve05a|'''t''']])&amp;nbsp;[[User:Josve05a|&lt;span style=&quot;color:white;&quot;&gt;'''Josve05a'''&lt;/span&gt;]]&amp;nbsp;([[Special:Contributions/Josve05a|'''c''']])&lt;/span&gt; 21:15, 7 April 2014 (UTC)&lt;/div&gt;&lt;!--Template:Afc decline--&gt;&lt;/div&gt;
+:{{ping|Josve05a}} That article isn't mine, I just fixed some formatting. You might want to go back and notify the actual creator. [[User:Fluffernutter|A fluffernutter is a sandwich!]] ([[User talk:Fluffernutter#top|talk]]) 23:13, 7 April 2014 (UTC)
+::Thank! I have message the user. &lt;span style=&quot;background: turquoise; font-family: 'Segoe Script'&quot;&gt;([[User talk:Josve05a|'''t''']])&amp;nbsp;[[User:Josve05a|&lt;span style=&quot;color:white;&quot;&gt;'''Josve05a'''&lt;/span&gt;]]&amp;nbsp;([[Special:Contributions/Josve05a|'''c''']])&lt;/span&gt; 23:25, 7 April 2014 (UTC)
+
+== References in portals ==
+
+I see that you've begun fixing the reference errors in portals - the start of a big job! I tried to get a discussion started about this at [[Wikipedia talk:Portal guidelines#References in portals]], your opinions would be welcome. -- [[User:John of Reading|John of Reading]] ([[User talk:John of Reading|talk]]) 20:22, 8 April 2014 (UTC)
+:Thanks for the pointer, {{U|John of Reading}}. I've commented there. [[User:Fluffernutter|A fluffernutter is a sandwich!]] ([[User talk:Fluffernutter#top|talk]]) 23:44, 8 April 2014 (UTC)
+
+==iDM is me, iDangerMouse, Cisco98, iDM|Away, and iDM|Peshawar currently since I am there==
+Hi... derp drama
+[[User:IDangerMouse|Danger^Mouse]] ([[User talk:IDangerMouse|talk]]) 20:31, 8 April 2014 (UTC)
+:: Derp evading ban on Wikipedia, https://en.wikipedia.org/wiki/User:FeelYouUp [[User:IDangerMouse|Danger^Mouse]] ([[User talk:IDangerMouse|talk]]) 16:41, 11 April 2014 (UTC)
+
+== ''The Signpost'': 09 April 2014 ==
+
+&lt;div lang=&quot;en&quot; dir=&quot;ltr&quot; class=&quot;mw-content-ltr&quot;&gt;&lt;div style=&quot;-moz-column-count:2; -webkit-column-count:2; column-count:2;&quot;&gt;
+{{Wikipedia:Wikipedia Signpost/2014-04-09}}
+&lt;/div&gt;&lt;!--Volume 10, Issue 14--&gt;
+&lt;div class=&quot;hlist&quot; style=&quot;margin-top:10px; font-size:90%; padding-left:5px; font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;&quot;&gt;
+* '''[[Wikipedia:Wikipedia Signpost|Read this Signpost in full]]'''
+* [[Wikipedia:Signpost/Single|Single-page]]
+* [[Wikipedia:Wikipedia Signpost/Subscribe|Unsubscribe]]
+* [[User:MediaWiki message delivery|MediaWiki message delivery]] ([[User talk:MediaWiki message delivery|talk]]) 04:06, 13 April 2014 (UTC)
+&lt;/div&gt;&lt;/div&gt;
+&lt;!-- Message sent by User:LivingBot@enwiki using the list at http://en.wikipedia.org/w/index.php?title=Wikipedia:Wikipedia_Signpost/Tools/Spamlist&amp;oldid=603710548 --&gt;
+
+
+== RE: Your note on [[User:JHunterJ | JHunterJ's page ]] ==
+
+Fluffernutter,
+
+I'm not looking for conflict, but I do have to say I'm dissapointed in your note on JHuterJ's page.
+The MOS page '''is''' covered by a discretionary sanction, '''but''' it's not the '''sexology''' sanction, therefore the note on his page implying that I was violating that sanction again was incorrect.   I've placed a note on his page explaining that as well.
+Once again, you're using a sledgehammer to swat a fly.  You'll note I've spelled out my reasons for removing the section (in violation of WP:BLP and WP:V)  I've also noted the reason for both reverts (any item failing WP:BLP can be reverted on sight , and it's noted as an exemption to 3rr (or even 0rr).)   As both are policy, this wouldn't fall under discretionary sanctions.  It's merely enforcing policy, nothing more.    &lt;span style=&quot;border:0.5px solid blue;padding:0.50x;&quot;&gt;[[User:KoshVorlon|&lt;font style=&quot;color:blue;background:lightblue&quot;&gt;&amp;nbsp;'''K'''osh'''V'''orlon]].&lt;font style=&quot;color:white;background:blue;&quot;&gt;&amp;nbsp;'''W'''e '''a'''re '''a'''ll '''K'''osh &amp;nbsp;&lt;/font&gt;&lt;/span&gt; 18:35, 13 April 2014 (UTC)
+:Kosh, I was quite careful to point out to JHunter that I hadn't examined the situation and was simply advising him of a previous sanction from the case he'd warned you about (and which I'd only noticed because he logged it on the case page). I'm sure you feel you were acting according policy, just as I'm sure he feels he was. I have to say, though, that watching you immediately return to exactly the behavior that got you sanctioned six months ago - right down to issuing threats and ultimatums to admins who attempt to get you to tone it down - makes me think that JHunter's warning-only approach was, if anything, too lax to handle the situation. Please consider that you may honestly be misunderstanding what is and isn't disruptive in the topic area of Chelsea Manning/trans issues. [[User:Fluffernutter|A fluffernutter is a sandwich!]] ([[User talk:Fluffernutter#top|talk]]) 19:11, 13 April 2014 (UTC)
+
+::Actually, I didn't immediately return.   A few days elapsed before I touched Chelsea Manning's page, and then only the talk page (Just so we're clear, I pretty much banned myself from making any change on the Chelsea Manning article relating to gender , I would only remove obvious vandalism up to May 31.  I would discuss on the talk page, but per Floquenbeam's request, if three users in good standing tell me to drop the stick, I drop the stick   - I wasn't going to make that public, but none the less, that's what I've imposed on myself to show goodwill (not just talk about it )  :)  .     See you around &lt;span style=&quot;border:0.5px solid blue;padding:0.50x;&quot;&gt;[[User:KoshVorlon|&lt;font style=&quot;color:blue;background:lightblue&quot;&gt;&amp;nbsp;'''K'''osh'''V'''orlon]].&lt;font style=&quot;color:white;background:blue;&quot;&gt;&amp;nbsp;'''W'''e '''a'''re '''a'''ll '''K'''osh &amp;nbsp;&lt;/font&gt;&lt;/span&gt; 19:32, 13 April 2014 (UTC)
+
+== [[m:Special:MyLanguage/Tech/News/2014/16|Tech News: 2014-16]] ==
+
+&lt;section begin=&quot;technews-2014-W16&quot;/&gt;&lt;div class=&quot;plainlinks mw-content-ltr&quot; lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;div class=&quot;plainlinks&quot;&gt;
+Latest '''[[m:Special:MyLanguage/Tech/News|tech news]]''' from the Wikimedia technical community. Please inform other users about these changes. Not all changes will affect you. [[m:Special:MyLanguage/Tech/News/2014/16|Translations]] are available.
+&lt;section begin=&quot;tech-newsletter-software-news&quot;/&gt;
+We are looking for [[m:Tech/News#contribute|contributors]] to help write new issues every week. If you would like to help, please [[m:Talk:Tech/News|contact us]].
+
+'''Recent software changes'''
+* The latest version of MediaWiki ([[mw:MediaWiki 1.23/wmf22|1.23wmf22]]) was added to test wikis and MediaWiki.org on April 10. It will be added to non-Wikipedia wikis on April 15, and all Wikipedias on April 17 ([[mw:MediaWiki 1.23/Roadmap|calendar]]).
+* [[mw:Special:MyLanguage/Extension:MultimediaViewer|MediaViewer]] was enabled for all users on MediaWiki.org on April 10. It will be enabled for all users on the Catalan (ca), Hungarian (hu) and Korean (ko) Wikipedias and English Wikivoyage on April 17. [[mw:Talk:Multimedia/About Media Viewer|Comments]] are welcome.  [http://lists.wikimedia.org/pipermail/wikitech-ambassadors/2014-April/000671.html] [//gerrit.wikimedia.org/r/#/c/125031/] [//gerrit.wikimedia.org/r/#/c/125032/]
+* Font issues caused by [[mw:Special:MyLanguage/Typography refresh|Typography refresh]] for Windows users were fixed on April 7. [//gerrit.wikimedia.org/r/#/c/124387/] [//bugzilla.wikimedia.org/show_bug.cgi?id=63512]
+
+'''VisualEditor news'''
+* You will now see only three options when you try to add a template parameter in VisualEditor; you will see other options after a click. [https://gerrit.wikimedia.org/r/#/c/124662/]
+* The size changing controls in VisualEditor media editing dialog were simplified further.
+* The wikitext editor tab will now fold into a drop-down menu in the [[mw:Vector|Vector]] skin if there is not enough space on your screen. [//bugzilla.wikimedia.org/show_bug.cgi?id=50255] [//gerrit.wikimedia.org/r/#/c/123503/]
+
+'''Future software changes'''
+* The font used for body text on Wikimedia wikis will change to your system default [[m:en:sans-serif|sans-serif]] font. This temporary change will be enabled on all non-Wikipedia wikis on April 15, and on all Wikipedias on April 17. [//gerrit.wikimedia.org/r/#/c/124475/] [//gerrit.wikimedia.org/r/#/c/125447/]
+* Files from Commons seen on another wiki will soon have a tab saying &quot;View on Wikimedia Commons&quot;. The create tab will change to &quot;Add local description&quot; ([[:File:New_foreign_repo_file_tabs.png|see screenshot]]). [//gerrit.wikimedia.org/r/104182]
+* You will soon be able to hide [[mw:Echo (Notifications)|Notification]] and [[mw:Beta Features/Hovercards|Hovercards]] pop-ups by pressing the &lt;kbd class=&quot;keyboard-key nowrap&quot; style=&quot;border:1px solid #AAA;background:#F9F9F9;padding:1px 3px&quot;&gt;Esc&lt;/kbd&gt; key. [//bugzilla.wikimedia.org/show_bug.cgi?id=53588] [//bugzilla.wikimedia.org/show_bug.cgi?id=62948] [//gerrit.wikimedia.org/r/#/c/123638/] [//gerrit.wikimedia.org/r/#/c/120343/]
+* [[mw:Universal Language Selector/Design/Interlanguage links|Shorter lists of language links]] will soon work in right-to-left languages. Languages that you have used before will be shown in the list. [//bugzilla.wikimedia.org/show_bug.cgi?id=62981]
+* You will soon be able to send messages with the [[mw:Extension:MassMessage|MassMessage]] tool to all pages in a given category. [//bugzilla.wikimedia.org/show_bug.cgi?id=57473] [//gerrit.wikimedia.org/r/#/c/120334/]
+* The [[Special:Preferences#mw-prefsection-datetime|date format]] user preference will soon be moved to the [[Special:Preferences#mw-prefsection-rendering|appearance]] tab. [//bugzilla.wikimedia.org/show_bug.cgi?id=63582] [//gerrit.wikimedia.org/r/#/c/125370/]
+* An [[m:IRC office hours|IRC discussion]] with the Wikimedia Foundation Multimedia team will take place on April 16 at 18:00 UTC on the channel #wikimedia-office on Freenode ([http://www.timeanddate.com/worldclock/fixedtime.html?iso=20140416T1800 time conversion]). [http://lists.wikimedia.org/pipermail/wikitech-ambassadors/2014-April/000671.html]
+&lt;section end=&quot;tech-newsletter-software-news&quot;/&gt;
+'''Problems'''
+* Wikimedia Foundation servers were updated after a security bug called [[m:w:Heartbleed|''Heartbleed'']] was discovered last week. You should [[Special:ChangePassword|change your password]] as an extra precaution.  [//meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Blog/Drafts/Heartbleed]
+
+'''''[[m:Special:MyLanguage/Tech/News|Tech news]]''' prepared by [[m:Special:MyLanguage/Tech/Ambassadors|tech ambassadors]] and posted by [[m:Special:MyLanguage/User:MediaWiki message delivery|MediaWiki message delivery]] • [[m:Special:MyLanguage/Tech/News#contribute|Contribute]] • [[m:Special:MyLanguage/Tech/News/2014/16|Translate]] • [[m:Tech|Get help]] • [[m:Talk:Tech/News|Give feedback]] • [[m:Global message delivery/Targets/Tech ambassadors|Subscribe or unsubscribe]].''
+&lt;/div&gt;&lt;/div&gt; &lt;section end=&quot;technews-2014-W16&quot;/&gt; 07:18, 14 April 2014 (UTC)
+&lt;!-- Message sent by User:Guillom@metawiki using the list at http://meta.wikimedia.org/w/index.php?title=Global_message_delivery/Targets/Tech_ambassadors&amp;oldid=8148011 --&gt;
+
+
+
+== My topic ban ==
+
+You issued that after I'd agreed to drop my issue on the MOS page, so that's a bit late, don't you think ?  Either way, I won't rant and rave on your page about it, nor try to get it removed.  I disagree with your ban, but at this time, it is what it is. &lt;span style=&quot;border:0.5px solid blue;padding:0.50x;&quot;&gt;[[User:KoshVorlon|&lt;font style=&quot;color:blue;background:lightblue&quot;&gt;&amp;nbsp;'''K'''osh'''V'''orlon]].&lt;font style=&quot;color:white;background:blue;&quot;&gt;&amp;nbsp;'''W'''e '''a'''re '''a'''ll '''K'''osh &amp;nbsp;&lt;/font&gt;&lt;/span&gt; 16:23, 14 April 2014 (UTC)
+
+== Custom templates ==
+
+Hello! If you (or any stalker) would be so kind, please take a look and see if a bit of copy editing would help. Feel free to make any changes you wish while trying to keep the purpose the same.
+
+Here is the page I made to organize my thoughts: [[User:Anna Frodesiak/Yellow sandbox]]. In the table, I could use your opinions on items 4, 5, and 9 regarding coiusername template vs. ublock. Please see the bottom where the templates and descriptions are. The items are separated with horrid black bars. They are there to separate the items because some templates have a heading, which makes everything confusing.
+
+Here is a list of the templates themselves:
+*[[User:Anna Frodesiak/Cuw-soa-block]]
+*[[User:Anna Frodesiak/Cuw-promo-username-block]]
+*[[User:Anna Frodesiak/Cuw-notable-username-block]]
+*[[User:Anna Frodesiak/Cuw-notable-promo-username-block]]
+*[[User:Anna Frodesiak/Cuw-not-deleted-notice]]
+*[[User:Anna Frodesiak/Cuw-promo-deleted-notice]]
+
+Many thanks, [[User:Anna Frodesiak|Anna Frodesiak]] ([[User talk:Anna Frodesiak|talk]]) 19:04, 15 April 2014 (UTC)
+
+
+'''Stalkers and Fluffernutter:''' in a nutshell, this is about addressing two things:
+
+:1. Sometimes ublock should not allow account creation.
+
+:2. Sometimes a promo userpage subject is notable. A spamblock loses the chance at an article and a potential editor.
+
+[[User:Anna Frodesiak|Anna Frodesiak]] ([[User talk:Anna Frodesiak|talk]]) 03:18, 16 April 2014 (UTC)
+	</talkpage>
+</article>

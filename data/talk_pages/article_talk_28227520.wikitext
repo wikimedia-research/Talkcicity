@@ -1,0 +1,6 @@
+<article id="28227520" title=Talk:Martin Brennan (hurler)>
+	<talkpage id="28227520" title="Talk:Martin Brennan (hurler)">
+{{WPBiography|living=yes|class=stub|auto=yes|listas=Brennan, Martin}}
+{{WikiProject Gaelic games}}
+	</talkpage>
+</article>

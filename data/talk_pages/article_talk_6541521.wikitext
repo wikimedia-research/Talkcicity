@@ -1,0 +1,16 @@
+<article id="6541521" title=Talk:Rainer Schmidt>
+	<talkpage id="6541521" title="Talk:Rainer Schmidt">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|sports-work-group=yes
+|listas=Schmidt, Rainer
+|auto=yes
+}}
+{{WikiProject Olympics|class=Stub|importance=|auto=yes}}
+{{WikiProject Germany|class=stub|importance= }}
+| blp=yes
+}}
+	</talkpage>
+</article>

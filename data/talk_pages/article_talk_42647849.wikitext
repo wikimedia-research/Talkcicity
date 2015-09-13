@@ -1,0 +1,12 @@
+<article id="42647849" title=User talk:86.3.58.94>
+	<talkpage id="42647849" title="User talk:86.3.58.94">
+
+
+== May 2014 ==
+[[File:Information.svg|left|25px|alt=|link=]] Hello, and welcome to Wikipedia. This is a message letting you know that one or more of your recent edits to [[:Watford F.C.]] has been undone by an automated computer program called [[User:ClueBot NG|ClueBot NG]].
+{{clear}}
+* ClueBot NG makes very few [[User:ClueBot NG#Information About False Positives|mistakes]], but it does happen. If you believe the change you made was constructive, please [[User:ClueBot NG#Information About False Positives|read about it]], [{{User:ClueBot NG/Warnings/FPReport|1818231}} report it here], remove this message from your talk page, and then make the edit again.
+* For help, take a look at the [[Wikipedia:Introduction|introduction]].
+* The following is the log entry regarding this message: [[Watford F.C.]] was [http://en.wikipedia.org/w/index.php?title=Watford+F.C.&amp;diff=606796150&amp;oldid=606011232 changed] by [[Special:Contributions/86.3.58.94|86.3.58.94]] [[User:86.3.58.94|(u)]] [[User talk:86.3.58.94|(t)]] ANN scored at 0.931215 on 2014-05-02T17:38:34+00:00 &lt;!-- MySQL ID: 1818231 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]) 17:38, 2 May 2014 (UTC)
+	</talkpage>
+</article>

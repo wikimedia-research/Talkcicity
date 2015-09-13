@@ -1,0 +1,5 @@
+<article id="45539383" title=User talk:Mraz586>
+	<talkpage id="45539383" title="User talk:Mraz586">
+{{Bfpage/registering new users}}
+	</talkpage>
+</article>

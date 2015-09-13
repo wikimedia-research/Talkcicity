@@ -1,0 +1,5 @@
+<article id="15714579" title=Talk:Westerheim, Bavaria>
+	<talkpage id="15714579" title="Talk:Westerheim, Bavaria">
+{{WikiProject Germany|class=stub|importance=low}}
+	</talkpage>
+</article>

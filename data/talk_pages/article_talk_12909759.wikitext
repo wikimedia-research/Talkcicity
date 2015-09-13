@@ -1,0 +1,5 @@
+<article id="12909759" title=Talk:Protea lanceolata>
+	<talkpage id="12909759" title="Talk:Protea lanceolata">
+{{WikiProject Plants|class=Stub}}
+	</talkpage>
+</article>

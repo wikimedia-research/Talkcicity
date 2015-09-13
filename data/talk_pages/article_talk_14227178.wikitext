@@ -1,0 +1,11 @@
+<article id="14227178" title=User talk:Llysarad>
+	<talkpage id="14227178" title="User talk:Llysarad">
+
+
+
+==Speedy deletion of [[:RMS Services Ltd]]==
+[[Image:Nuvola apps important.svg|32px|left]] A tag has been placed on [[:RMS Services Ltd]] requesting that it be speedily deleted from Wikipedia. This has been done under [[WP:CSD#A1|section A1 of the criteria for speedy deletion]], because it is a very short article providing little or no context to the reader. Please see [[Wikipedia:Stub#Essential information about stubs|Wikipedia:Stub]] for our minimum information standards for short articles. Also please note that articles must be on [[Wikipedia:Notability|notable]] subjects and should provide references to [[Wikipedia:Reliable sources|reliable sources]] that [[Wikipedia:Verifiability|verify]] their content. 
+
+If you think that this notice was placed here in error, you may contest the deletion by adding &lt;code&gt;{{tl|hangon}}&lt;/code&gt; to the top of the article (just below the existing speedy deletion or &quot;db&quot; tag), coupled with adding a note on '''[[Talk:RMS Services Ltd|the article's talk page]]''' explaining your position, but be aware that once tagged for ''speedy'' deletion, if the article meets the criterion it may be deleted without delay. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the article that would would render it more in conformance with Wikipedia's policies and guidelines. [[User:Slakr|&lt;span style=&quot;color:teal;font-weight:bold;&quot;&gt;slakr&lt;/span&gt;]]&lt;small&gt;&lt;sup&gt;\&amp;nbsp;[[User talk:Slakr|talk]]&amp;nbsp;/&lt;/sup&gt;&lt;/small&gt; 11:36, 13 November 2007 (UTC)&lt;!-- Template:Db-nocontext-notice --&gt; &lt;!-- Template:Db-csd-notice-custom --&gt;
+	</talkpage>
+</article>

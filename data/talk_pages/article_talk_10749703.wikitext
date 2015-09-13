@@ -1,0 +1,15 @@
+<article id="10749703" title=Talk:Cliff Hugo>
+	<talkpage id="10749703" title="Talk:Cliff Hugo">
+{{Talk header}}
+{{WikiProjectBannerShell|blp=yes|1=
+{{WikiProject Progressive Rock| class = Start | importance = Low}}
+{{WikiProject Biography
+|living=yes
+|class=Stub
+
+|musician-work-group=yes
+|listas=Hugo, Cliff
+}}
+}}
+	</talkpage>
+</article>

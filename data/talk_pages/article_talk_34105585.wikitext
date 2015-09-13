@@ -1,0 +1,5 @@
+<article id="34105585" title=Talk:Healey, Northumberland>
+	<talkpage id="34105585" title="Talk:Healey, Northumberland">
+{{WikiProject England|class=stub|importance=Low}}
+	</talkpage>
+</article>

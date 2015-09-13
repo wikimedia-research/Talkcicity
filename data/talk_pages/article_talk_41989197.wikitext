@@ -1,0 +1,37 @@
+<article id="39994844" title=Talk:Malawian Airlines>
+	<talkpage id="39994844" title="Talk:Malawian Airlines">
+{{AfricaProject|class=stub|importance=low|Malawi=yes|Malawi-importance=high}}
+{{WPAVIATION|class=stub|Airlines-project=yes}}
+
+==Malawi Airlines or Malawian Airlines?==
+
+I'm having difficulty seeing what is the actual name, considering the airline has no official website as of yet and there is inconsistency as to press mentions:
+
+These articles/pages use '''Malawi''' Airlines:
+*[http://www.nyasatimes.com/2013/07/08/local-investors-salivate-on-prospects-to-own-part-of-malawi-airlines/ Local investors salivate on prospects to own part of Malawi Airlines] - ''Nyasa Times''
+*[http://allafrica.com/stories/201307150169.html Ethiopian Becomes Strategic Partner With New Malawi Airlines] - ''Ethiopian Radio and Telvision Agency'' (This article is completely hopeless, it uses &quot;Malawi Airlines&quot; and &quot;Malawian Air&quot;)
+*[http://www.ch-aviation.ch/portal/airline.php?cha=QMN Airline Information: Malawi Airlines] - ''ch-aviation.ch''
+*[http://worldairlinenews.com/2013/07/04/malawi-airlines-limited-is-launched-in-partnership-with-ethiopian-airlines-to-replace-air-malawi/ Malawi Airlines Limited is launched in partnership with Ethiopian Airlines to replace Air Malawi] - ''World Airline News''
+*[http://www.herald.co.zw/ethiopian-airlines-buys-49pc-stake-in-air-malawi-airlines-partner/ Ethiopian Airlines buys 49pc stake in Air Malawi airlines partner] - ''The Herald'' (Zimbabwe)
+
+While these use use '''Malawian''' Airlines:
+
+*[http://www.mwebantu.com/2013/07/17/ethiopian-airlines-in-joint-venture-with-malawian-airlines/ Ethiopian Airlines in joint venture with Malawian Airlines] - ''mwebantu.com''
+*[http://www.malawivoice.com/2013/07/04/air-malawi-now-to-be-called-malawian-airlines-34814/ Air Malawi Now To Be Called Malawian Airlines] - ''Malawi Voice''
+*[http://atwonline.com/finance-amp-data/ethiopian-airlines-confirms-malawian-airlines-joint-venture Ethiopian Airlines confirms Malawian Airlines joint venture] - ''Air Transport World''
+*[http://www.routes-news.com/news/1-news/1647-malawian-airlines-ready-to-launch Malawian Airlines ready to launch] - ''Routes-news&quot;
+*[http://www.mbc.mw/index.php/business2/item/371-air-malawi-re-branded-as-malawian-airlines Air Malawi re-branded as Malawian Airlines] - ''Malawi Broadcasting Corporation''
+
+Google has 29,800 results for '''Malawi''' Airlines while it has 25,300 results for '''Malawian''' Airlines. From the sources those saying '''Malawian''' seem a bit more official but the overall name is unclear. [[User:Simfan34|Simfan34]] ([[User talk:Simfan34|talk]]) 19:15, 9 September 2013 (UTC)
+:Aircraft liveries show the name &quot;Malawian&quot;, so there's no more to discuss. I've moved back the article to &quot;Malawian Airlines&quot; and requested indefinite move protection ({{diff|Wikipedia%3ARequests_for_page_protection|596195254|596182845}}).--'''[[User:Jetstreamer|Jetstreamer]]'''&amp;nbsp;''{{sup|[[User talk:Jetstreamer#top|Talk]]}}'' 16:15, 19 February 2014 (UTC)
+
+==Ownership==
+Also confusing is the ownership structure. It is certain that 49% will be owned by [[Ethiopian Airlines]]. But the remaining 51% is unclear. Some sources say that the 51% will belong to the Government entirely, while others say 31% will be allocated to Malawian investors.It is unclear whether that is 31% of the 51%, ~16%, or 31% of the whole. Some sources also suggest they will own those shares ''through'' the government- it is completely confusing! Why must African journalism be so unclear!? Gaah! --[[User:Simfan34|Simfan34]] ([[User talk:Simfan34|talk]]) 19:15, 9 September 2013 (UTC)
+
+== Archived references not used in the article ==
+*{{cite web|title= Malawian Airlines Adds Beira Service from July 2014|publisher= Airline Route|date= {{Date|2014-6-17}}|url= http://airlineroute.net/2014/06/17/et0-bew-jul14/}}&amp;nbsp;{{Wayback|date= 20150103015642|url= http://airlineroute.net/2014/06/17/et0-bew-jul14/|df= yes}}
+*{{cite news|title= Ethiopian Airlines acquires 49pc stake in Malawian Air|first= David|last=  Mugwe|newspaper= [[The East African]]|date= {{Date|2013-7-15}}|url= http://www.theeastafrican.co.ke/business/Ethiopian-Airlines-acquires-49pc-stake-in-Malawian-Air/-/2560/1915766/-/2avjyj/-/com.coremedia.mauritius.cae.contentbeans.MauArticleImpl$$(id=1915766)&amp;title=Ethiopian%20Airlines%20acquires%2049pc%20stake%20in%20Malawian%20Air}}&amp;nbsp;{{wayback|url= http://www.theeastafrican.co.ke/business/Ethiopian-Airlines-acquires-49pc-stake-in-Malawian-Air/-/2560/1915766/-/2avjyj/-/com.coremedia.mauritius.cae.contentbeans.MauArticleImpl$$(id=1915766)&amp;title=Ethiopian%20Airlines%20acquires%2049pc%20stake%20in%20Malawian%20Air|date= 20140220111314|df= yes}}
+*{{cite news|title= Ethiopian Airlines Wins Air Malawi Bid: To have 49%, Government To Have 20%, Malawian Citizens 31%|work= Malawi Voice|date= {{Date|2013-2-17}}|url= http://www.malawivoice.com/2013/02/17/ethiopian-airline-wins-air-malawi-bid-to-have-49-government-to-have-20-malawian-citizens-31-12139/}}&amp;nbsp;{{wayback|url= http://www.malawivoice.com/2013/02/17/ethiopian-airline-wins-air-malawi-bid-to-have-49-government-to-have-20-malawian-citizens-31-12139/|date= 20140219222819|df= yes}}
+--'''[[User:Jetstreamer|Jetstreamer]]'''&amp;nbsp;''{{sup|[[User talk:Jetstreamer#top|Talk]]}}'' 02:14, 3 January 2015 (UTC)
+	</talkpage>
+</article>

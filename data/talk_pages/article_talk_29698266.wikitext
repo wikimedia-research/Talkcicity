@@ -1,0 +1,10 @@
+<article id="29698266" title=Talk:Wilhelm Michaelsen>
+	<talkpage id="29698266" title="Talk:Wilhelm Michaelsen">
+{{WikiProject Biography
+|living=no
+|class=stub
+|listas=Michaelsen, Wilhelm
+}}
+{{Translated page|de|Wilhelm Michaelsen}}
+	</talkpage>
+</article>

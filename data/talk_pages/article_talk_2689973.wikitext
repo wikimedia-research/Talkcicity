@@ -1,0 +1,18 @@
+<article id="2689973" title=User talk:68.50.100.146>
+	<talkpage id="2689973" title="User talk:68.50.100.146">
+This message is regarding the article [[List of works in irregular time signatures]]. Please stop removing content from Wikipedia. It is considered vandalism. If you want to experiment, please use the sandbox. Thank you. [[User:Dkaplowitz|Dkaplowitz]] 17:23, 16 September 2005 (UTC)
+
+== Meter of &quot;Changes&quot; ==
+
+I'm listening to &quot;Changes&quot; by [[Yes (band)|Yes]] and it seems to me that the beginning section is consistently in a 17-based meter (4+3+4+3+3). On [[List of works in irregular time signatures]] you reverted my edit, explaining &quot;4+3+4+3+3+3+3, because of tempo change&quot;. What do you mean by that? I'm giving you a chance to explain yourself rather than getting into a [[WP:EW|revert war]], because I think you may have something useful to contribute. BTW, welcome to Wikipedia! —[[User:Keenan Pepper|Keenan Pepper]] 03:37, 17 September 2005 (UTC)
+
+
+CHANGES
+the tempo is double time after 4+3+4 its 12/8 time 1anda2anda3 and a so its actually 6 instead of 3 extra beats 11+12 = 23 atleast thats what i made out of it anyway i hope you hear it btw i love balinese gamelan music and all sorts of exotic music in non equal temperment i also love discovering pop songs in just intonation real interesting stuff
+
+
+Hmm... in that case wouldn't it be 4 + (double tempo) 3 + 3 + (original tempo) 4 + (double tempo) 3 + 3 + 3 + 3 + (original tempo) 4? And usually the tempo can't change within a measure, so in that case it would be better analyzed as a constantly changing time signature, rather than a single time signature of 23/8 or 26/8 or whatever it may be.
+
+Anyway, there are plenty of [[gamelan]] and other exotic music topics that are just stubs or have no articles at all, so why don't you [[WP:WCA|get a username]] and start editing! —[[User:Keenan Pepper|Keenan Pepper]] 05:40, 17 September 2005 (UTC)
+	</talkpage>
+</article>

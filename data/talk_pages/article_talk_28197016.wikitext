@@ -1,0 +1,10 @@
+<article id="28197016" title=Talk:Kym Hampton>
+	<talkpage id="28197016" title="Talk:Kym Hampton">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography |living=yes |class=stub |auto=yes |listas=Hampton, Kym}}
+{{WikiProject Women's sport |class=Stub |auto=Inherit |importance=}}
+{{WikiProject United States |class=Start |Louisville=yes |Louisville-importance=Low}}
+|blp=yes
+}}
+	</talkpage>
+</article>

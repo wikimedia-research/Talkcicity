@@ -1,0 +1,40 @@
+<article id="34127690" title=User talk:193.62.111.10/Archive 1>
+	<talkpage id="34127690" title="User talk:193.62.111.10/Archive 1">
+{{talkarchive}}
+
+
+
+'''Welcome!'''
+
+Hello, and [[Wikipedia:Welcome, newcomers|welcome]] to [[Wikipedia]]. Thank you for your contributions.
+
+Currently, you are [[Wikipedia:How to edit a page|editing]] without a username. You can continue to do so as you are not required to log in to Wikipedia to read and write articles, however, logging in will result in a username being shown instead of your [[IP address]] (yours is {{PAGENAME}}). Logging in does not require any personal details. There are many other [[Wikipedia:Why create an account?|benefits for logging in to Wikipedia]]. For now, if you are stuck, you can type '''&lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt;''' on this page and an experienced Wikipedian will be around to answer any questions you may have.
+
+Please note these points:
+
+* Please [[Wikipedia:Copyrights |respect others' copyrights]]; do not copy and paste the contents from webpages directly.
+* Please use a [[Wikipedia:Neutral point of view |neutral point of view]] to edit the article; this is possibly the most important Wikipedia policy.
+* If you are testing, please use the [[Wikipedia:Sandbox|Sandbox]] to [http://en.wikipedia.org/w/index.php?title=Wikipedia:Sandbox&amp;action=edit do that]. 
+* Do not add unreasonable contents into any [[Wikipedia:What is an article|articles]], such as: '''[[copyright]]ed''' texts, '''advertisement''' messages, and texts that are '''not related to that article'''. Both adding such unreasonable information and editing articles maliciously are considered vandalism. A user who repeatedly vandalises articles will be blocked from editing.
+
+The [[Wikipedia:Tutorial|Wikipedia Tutorial]] is a good place to start learning about Wikipedia.  If you have any questions, ask me on [[{{ns:3}}:The JPS|my Talk page]] &amp;ndash; I will answer your questions as far as I can! Thank you again for contributing to Wikipedia.
+
+from [[Wikipedia:Wikipedians|Wikipedian]]:[[User:The JPS|The JPS]] 21:30, 14 September 2005 (UTC)
+
+== June 2008 ==
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits{{#if:Science Museum (London)|, such as the one you made to [[:Science Museum (London)]],}} did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed.  Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing to this encyclopedia. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism1 --&gt; [[User talk:Islander|&lt;sub&gt;&lt;font color=&quot;DarkGray&quot;&gt;'''Talk'''&lt;/font&gt;&lt;/sub&gt;]][[User:Islander|&lt;font color=&quot;Blue&quot;&gt;'''Islander'''&lt;/font&gt;]] 11:03, 14 June 2008 (UTC)
+:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
+
+== April 2009 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Kate_Winslet?diff=282764921 recent edit]&lt;/span&gt; you made to the page [[:Kate Winslet]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:J.delanoy|&lt;font color=&quot;green&quot;&gt;J'''.'''delanoy&lt;/font&gt;]][[User Talk:J.delanoy|&lt;sup&gt;&lt;font color=&quot;red&quot;&gt;gabs&lt;/font&gt;&lt;/sup&gt;]][[Special:Contributions/J.delanoy|&lt;font color=&quot;blue&quot;&gt;&lt;sub&gt;adds&lt;/sub&gt;&lt;/font&gt;]] 13:42, 9 April 2009 (UTC)
+
+== September 2009 ==
+
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to contribute constructively to the encyclopedia, adding content without [[Wikipedia:Citing sources|citing]] a [[Wikipedia:Reliable sources|reliable source]]{{#if:Mr Trick (DJ)|, as you did with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Mr_Trick_(DJ)?diff=315074602 this edit]&lt;/span&gt; to [[:Mr Trick (DJ)]],}} is not consistent with our policy of [[Wikipedia:Verifiability|verifiability]]. Take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia.  If you are familiar with [[Wikipedia:Citing sources]], please take this opportunity to add references to the article.&lt;!-- Template:uw-huggle1 --&gt; [[User:Lankiveil|Lankiveil]] &lt;sup&gt;([[User talk:Lankiveil|speak to me]])&lt;/sup&gt; 10:48, 20 September 2009 (UTC)
+
+== May 2010 ==
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Everyone is welcome to contribute to the encyclopedia, but when you add or change content, as you did to the article [[:Ultraviolet]], ''please cite a [[Wikipedia:Reliable sources|reliable source]]'' for the content of your edit. This is particularly important when adding or changing any facts or figures and helps maintain our policy of [[Wikipedia:Verifiability|verifiability]]. Take a look at [[Wikipedia:Citing sources]] for information about how to cite sources and the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. Thank you.&lt;!-- Template:uw-unsourced1 --&gt; [[User:Old Moonraker|Old Moonraker]] ([[User talk:Old Moonraker|talk]]) 10:44, 14 May 2010 (UTC)
+:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
+	</talkpage>
+</article>

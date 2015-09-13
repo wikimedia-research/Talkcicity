@@ -1,0 +1,10 @@
+<article id="20364081" title=User talk:195.54.210.8>
+	<talkpage id="20364081" title="User talk:195.54.210.8">
+
+== November 2008 ==
+
+[[Image:Information.svg|25px]] Welcome to Wikipedia. The project's content policies require that all articles be written from a [[Wikipedia:Neutral point of view|neutral point of view]], and not introduce bias or give undue weight to viewpoints. Please bear this in mind when making edits such as your &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Saunags?diff=253672167 recent edit]&lt;/span&gt; to [[:Saunags]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:Uw-hugglenpov1 --&gt; [[User:RainbowOfLight|&lt;font color=&quot;#D60047&quot;&gt;Rainbow&lt;/font&gt;&lt;font color=&quot;#00A300&quot;&gt;Of&lt;/font&gt;&lt;font color=&quot;#0A47FF&quot;&gt;Light&lt;/font&gt;]] [[User_Talk:RainbowOfLight|&lt;font color=&quot;#5200A3&quot;&gt;&lt;sup&gt;&lt;small&gt;Talk&lt;/small&gt;&lt;/sup&gt;&lt;/font&gt;]] 22:15, 23 November 2008 (UTC)
+
+[[Image:Information.png|25px]] Please do not violate Wikipedia's [[Wikipedia:Neutral point of view|neutral point of view]] policy, as you did with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Saunags?diff=253673494 this edit]&lt;/span&gt; to [[:Saunags]]. Thank you. &lt;!-- Template:uw-hugglenpov2 --&gt; [[User:RainbowOfLight|&lt;font color=&quot;#D60047&quot;&gt;Rainbow&lt;/font&gt;&lt;font color=&quot;#00A300&quot;&gt;Of&lt;/font&gt;&lt;font color=&quot;#0A47FF&quot;&gt;Light&lt;/font&gt;]] [[User_Talk:RainbowOfLight|&lt;font color=&quot;#5200A3&quot;&gt;&lt;sup&gt;&lt;small&gt;Talk&lt;/small&gt;&lt;/sup&gt;&lt;/font&gt;]] 22:22, 23 November 2008 (UTC)
+	</talkpage>
+</article>

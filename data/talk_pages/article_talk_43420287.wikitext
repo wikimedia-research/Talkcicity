@@ -1,0 +1,16 @@
+<article id="43420287" title=Talk:Bechir Mardassi>
+	<talkpage id="43420287" title="Talk:Bechir Mardassi">
+{{WikiProjectBannerShell|blp=yes|1=
+{{WikiProject Biography
+|living = yes
+|class = stub
+|sports-priority = low
+|listas=Mardassi, Bechir
+|sports-work-group = yes
+}}
+{{WikiProject Olympics|class=Stub|importance=low}}
+{{WikiProject Tunisia|class=Stub|importance=low}}
+{{WikiProject Cycling|class=Stub|importance=low}}
+}}
+	</talkpage>
+</article>

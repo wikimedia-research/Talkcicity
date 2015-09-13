@@ -1,0 +1,12 @@
+<article id="42469797" title=Talk:List of recipients of the Distinguished Service Cross (Australia)>
+	<talkpage id="42469797" title="Talk:List of recipients of the Distinguished Service Cross (Australia)">
+{{MILHIST|class=List|list=y|b1=y|b2=n|b3=n|b4=y|b5=n|ANZSP=y}}
+{{WikiProject Australia|class=list|importance=low|military=y|military-importance=low}}
+
+== Proposed move ==
+
+This article is proposed to be moved to [[List of recipients of the Distinguished Service Cross (Australia)]] so that viewers do not associate this page with other [[Distinguished Service Cross]]'s issued by other countries. Any comments or objections sought. Regards [[User:Newm30|Newm30]] ([[User talk:Newm30|talk]]) 02:04, 23 April 2014 (UTC)
+ 
+:Good idea, and now done. [[User:Nford24|Nford24]] ([[User Talk:Nford24|PE121 Personnel Request Form]]) 04:48, 23 April 2014 (UTC)
+	</talkpage>
+</article>

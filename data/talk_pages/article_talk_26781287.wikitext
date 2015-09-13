@@ -1,0 +1,5 @@
+<article id="26781287" title=Talk:Comitas parvifusiformis>
+	<talkpage id="26781287" title="Talk:Comitas parvifusiformis">
+{{WikiProject Gastropods|class=Stub|importance=Low|needs-photo=yes}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="20325877" title=Talk:Goanna (disambiguation)>
+	<talkpage id="20325877" title="Talk:Goanna (disambiguation)">
+{{DisambigProject}}
+	</talkpage>
+</article>

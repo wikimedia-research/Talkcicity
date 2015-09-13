@@ -1,0 +1,7 @@
+<article id="8514084" title=Talk:Bundesautobahn 643>
+	<talkpage id="8514084" title="Talk:Bundesautobahn 643">
+{{oldafdfull|date=2006-12-19|page=Bundesautobahn 643|result='''keep'''}}
+{{WikiProject Germany|Transport=yes|class=Start|Mainz=yes|importance=Low|MainzImp=Mid}}
+{{WikiProject Highways|class=Stub|auto=Yes|importance=|europe=yes}}
+	</talkpage>
+</article>

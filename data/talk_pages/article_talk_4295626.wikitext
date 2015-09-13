@@ -1,0 +1,12 @@
+<article id="4295626" title=Talk:Fantastic Dizzy>
+	<talkpage id="4295626" title="Talk:Fantastic Dizzy">
+{{WikiProject Video games|class=Start|importance=Low|screenshot=yes}}
+
+== WikiProject class rating==
+This article was automatically assessed because at least one WikiProject had rated the article as start, and the rating on other projects was brought up to start class. [[User:BetacommandBot|BetacommandBot]] 06:24, 10 November 2007 (UTC)
+
+== Platforms ==
+
+Is Fantastic Dizzy was really released on C64, CPC and Atari ST? For first two seems that it's not true.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/78.107.200.102|78.107.200.102]] ([[User talk:78.107.200.102|talk]]) 21:53, 7 February 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

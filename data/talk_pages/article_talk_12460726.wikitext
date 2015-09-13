@@ -1,0 +1,5 @@
+<article id="12460726" title=Talk:Double-banded pygmy tyrant>
+	<talkpage id="12460726" title="Talk:Double-banded pygmy tyrant">
+{{WikiProject Birds|class=stub|importance=low|needs-photo=yes}}
+	</talkpage>
+</article>

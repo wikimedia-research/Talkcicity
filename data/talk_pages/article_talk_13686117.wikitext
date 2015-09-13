@@ -1,0 +1,10 @@
+<article id="13686117" title=User talk:98.206.10.149>
+	<talkpage id="13686117" title="User talk:98.206.10.149">
+
+== October 2007 ==
+{{{icon|[[Image:Information.svg|25px]] }}}Please refrain from making unconstructive edits to Wikipedia{{{{{subst|}}}#if:Cool (aesthetic)|, as you did to [[:Cool (aesthetic)]]}}. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism2 --&gt; [[User:Neobros|Neobros]] 00:12, 12 October 2007 (UTC)
+:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
+
+{{{icon|[[Image:Information.svg|25px]] }}}Please refrain from making unconstructive edits to Wikipedia, as you did to [[:Loser (slang)]]. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Thank you.&lt;!-- Template:uw-vandalism2 --&gt; --[[User:Jauerback|Jauerback]] 21:42, 22 October 2007 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,10 @@
+<article id="36979358" title=Talk:18th Arizona Territorial Legislature>
+	<talkpage id="36979358" title="Talk:18th Arizona Territorial Legislature">
+{{WikiProject United States|class=Start|importance=Low|AZ=yes|AZ-importance=Low}}
+{{dyktalk|4 October|2012|entry=... that because of how the '''[[18th Arizona Territorial Legislature]]''' adjourned, they failed to [[appropriation bill|authorize payment]] of territorial debts for the next two years?}}
+
+== First sentence ==
+The first sentence reads &quot;...was a session of the Arizona Territorial Legislature '''which began on in''' Phoenix, Arizona&quot;. The bolded section is ungrammatical; what was the intended wording? [[User:Chris857|Chris857]] ([[User talk:Chris857|talk]]) 23:38, 10 September 2012 (UTC)
+:The intended wording is &quot;which began in&quot;. Typo fixed. --''[[User: Allen3|Allen3]]''&amp;nbsp;&lt;sup&gt;[[User talk:Allen3|talk]]&lt;/sup&gt; 23:56, 10 September 2012 (UTC)
+	</talkpage>
+</article>

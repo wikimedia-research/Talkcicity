@@ -1,0 +1,7 @@
+<article id="11890319" title=Talk:Tupolev ANT-1>
+	<talkpage id="11890319" title="Talk:Tupolev ANT-1">
+{{WPAVIATION|class=C|b1=n|b2=n|b3=y|b4=y|b5=y|aircraft=yes}}
+I just started the article and saved the template so that I could return to it.
+--[[User:Plane nerd|Plane nerd]] 23:17, 21 June 2007 (UTC)Plane nerd
+	</talkpage>
+</article>

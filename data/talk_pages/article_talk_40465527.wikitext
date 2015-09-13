@@ -1,0 +1,8 @@
+<article id="40465527" title=Talk:Kaldafjellet>
+	<talkpage id="40465527" title="Talk:Kaldafjellet">
+{{WikiProjectBannerShell|1=
+{{WikiProject Norway|class=stub }}
+{{WikiProject Mountains|class=Stub|importance=Low}}
+}}
+	</talkpage>
+</article>

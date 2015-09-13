@@ -1,0 +1,85 @@
+<article id="21000940" title=Talk:National Highway 1D (India)(old numbering)>
+	<talkpage id="21000940" title="Talk:National Highway 1D (India)(old numbering)">
+{{WP India
+|class=Start
+|importance=low
+}}
+{{INRD|class=Start|importance=mid}}
+
+==Classification==
+I'd suggest start-class instead of stub. Cheers, --[[User:Rayshade|Rayshade]] ([[User talk:Rayshade|talk]]) 20:33, 10 September 2009 (UTC)
+
+== Multiple page move request ==
+
+== Requested moves ==
+
+* [[:National Highway 1D (India)]] → {{no redirect|National Highway 1 (India)}}
+* [[:National Highway 61 (India)]] → {{no redirect|National Highway 2 (India)}}
+* [[:National Highway 70 (India)]] → {{no redirect|National Highway 3 (India)}}
+* [[:National Highway 223 (India)]] → {{no redirect|National Highway 4 (India)}}
+* [[:National Highway 22 (India)]] → {{no redirect|National Highway 5 (India)}}
+* [[:National Highway 154 (India)]] → {{no redirect|National Highway 6 (India)}}
+* [[:National Highway 72 (India)]] → {{no redirect|National Highway 7 (India)}}
+* [[:National Highway 44 (India)]] → {{no redirect|National Highway 8 (India)}}
+* [[:National Highway 10 (India)]] → {{no redirect|National Highway 9 (India)}}
+* [[:National Highway 31A (India)]] → {{no redirect|National Highway 10 (India)}}
+* [[:National Highway 34 (India)]] → {{no redirect|National Highway 12 (India)}}
+* [[:National Highway 229 (India)]] → {{no redirect|National Highway 13 (India)}}
+* [[:National Highway 60 (India)]] → {{no redirect|National Highway 14 (India)}}
+* [[:National Highway 52 (India)]] → {{no redirect|National Highway 15 (India)}}
+* [[:National Highway 5 (India)]] → {{no redirect|National Highway 16 (India)}}
+* [[:National Highway 31 (India)]] → {{no redirect|National Highway 17 (India)}}
+* [[:National Highway 32 (India)]] → {{no redirect|National Highway 18 (India)}}
+* [[:National Highway 2 (India)]] → {{no redirect|National Highway 19 (India)}}
+* [[:National Highway 75 (India)]] → {{no redirect|National Highway 20 (India)}}
+* [[:National Highway 77 (India)]] → {{no redirect|National Highway 22 (India)}}
+* [[:National Highway 11B (India)]] → {{no redirect|National Highway 23 (India)}}
+* [[:National Highway 29 (India)]] → {{no redirect|National Highway 24 (India)}}
+* [[:National Highway 112 (India)]] → {{no redirect|National Highway 25 (India)}}
+* [[:National Highway 43 (India)]] → {{no redirect|National Highway 26 (India)}}
+* [[:National Highway 28 (India)]] → {{no redirect|National Highway 27 (India)}}
+* [[:National Highway 233A (India)]] → {{no redirect|National Highway 28 (India)}}
+* [[:National Highway 36 (India)]] → {{no redirect|National Highway 29 (India)}}
+* [[:National Highway 221 (India)]] → {{no redirect|National Highway 30 (India)}}
+* [[:National Highway 19 (India)]] → {{no redirect|National Highway 31 (India)}}
+* [[:National Highway 45A (India)]] → {{no redirect|National Highway 32 (India)}}
+* [[:National Highway 80 (India)]] → {{no redirect|National Highway 33 (India)}}
+* [[:National Highway 108 (India)]] → {{no redirect|National Highway 34 (India)}}
+* [[:National Highway 76 (India)]] → {{no redirect|National Highway 35 (India)}}
+* [[:National Highway 226 (India)]] → {{no redirect|National Highway 36 (India)}}
+* [[:National Highway 53 (India)]] → {{no redirect|National Highway 37 (India)}}
+* [[:National Highway 45B (India)]] → {{no redirect|National Highway 38 (India)}}
+* [[:National Highway 39 (India)]] → {{no redirect|National Highway 39 (India)}}
+* [[:National Highway 18 (India)]] → {{no redirect|National Highway 40 (India)}}
+* [[:National Highway 8A (India)]] → {{no redirect|National Highway 41 (India)}}
+* [[:National Highway 219 (India)]] → {{no redirect|National Highway 42 (India)}}
+* [[:National Highway 78 (India)]] → {{no redirect|National Highway 43 (India)}}
+* [[:National Highway 7 (India)]] → {{no redirect|National Highway 44 (India)}}
+* [[:National Highway 12 (India)]] → {{no redirect|National Highway 45 (India)}}
+* [[:National Highway 69 (India)]] → {{no redirect|National Highway 46 (India)}}
+* [[:National Highway 59 (India)]] → {{no redirect|National Highway 47 (India)}}
+* [[:National Highway 8 (India)]] → {{no redirect|National Highway 48 (India)}}
+* [[:National Highway 6 (India)]] → {{no redirect|National Highway 49 (India)}}
+* [[:National Highway 218 (India)]] → {{no redirect|National Highway 50 (India)}}
+– The official names of the highways have been changed. It was not a mere change in number but few of the old highways or a part of those combined with others to form new highways. So the page describing the major portion of the present highway was edited to suit the present renaming/reorganization, so that most part of the history of the page is carried forward. [[User:Marlisco|Marlisco]] ([[User talk:Marlisco|talk]]) 07:47, 14 November 2014 (UTC)
+* Sometimes the same number means one highway in the old system and another highway in the new system. Confusing. Very liable to accidents when making the moves. Best first move all these pages e.g. [[National Highway 10 (India)]] to [[National Highway 10 (India)(old numbering)]], then as per the list above. Or, instead of those, move e.g. [[National Highway 8 (India)]] to [[National Highway 48 (India)(new numbering)]]. [[User:Anthony Appleyard|Anthony Appleyard]] ([[User talk:Anthony Appleyard|talk]]) 08:08, 14 November 2014 (UTC)
+:*Plus it will make incorrect any existing Wikilinks to the old highway numbers, and no evidence has been presented to show that the moves should be made. After fixing all the Wikilinks, I'd think it would be better to move all the highways to [[Old National Highway XX (India)]] and just create new articles under the new numbering system, since the history of Highway XX as Highway XX doesn't disappear when part of it becomes Highway YY. [[User:Dekimasu|Dekimasu]]&lt;small&gt;[[User talk:Dekimasu|よ!]]&lt;/small&gt; 08:13, 14 November 2014 (UTC)
+::*Also, what happens to highways not involved in the renumbering, e.g. [[National Highway 73 (India)]]? Is it still called that after the changes, even though 70, 75, 76, 77, and 78 are getting renumbered above? [[User:Dekimasu|Dekimasu]]&lt;small&gt;[[User talk:Dekimasu|よ!]]&lt;/small&gt; 08:34, 14 November 2014 (UTC)
+:::I guess you have got it wrong. As I understood there is no highway which is not renumbered(in fact it was not a renumbering but a reorganization). The example you have given, [[National Highway 73 (India)(old numbering)]] is now part of three highways NH 7, NH 173 and NH 344 in new numbering system.[[User:Marlisco|Marlisco]] ([[User talk:Marlisco|talk]]) 08:52, 15 November 2014 (UTC)
+::::*So I take it they are all to be moved, and not just the first 50. But what about the other problem, changing the direct links to highway articles that rely on information from the old numbering system? For example, all of [https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere&amp;target=National+Highway+2+%28India%29 these] pages link to &quot;National Highway 2 (India)&quot;. Since Highway 2 is being moved to Highway 19, these all presumably need to be relinked to &quot;National Highway 19 (India)&quot;. Otherwise people will receive information on the old Highway 61 (that is being moved to Highway 2) when they click the links on those articles that are actually intended to refer to Highway 19. How is all of that going to get done for the 50, and are the ones that don't get moved intended to be turned into redirects? Why would we retain an article on the old Highway 73, but not retain any article on the old Highway 2? [[User:Dekimasu|Dekimasu]]&lt;small&gt;[[User talk:Dekimasu|よ!]]&lt;/small&gt; 23:43, 15 November 2014 (UTC)
+:::::*That is the real challenge. I have moved all the articles (which I could figure out) on old highways to the new title of the form, [[National Highway XX (India)(old numbering)]]. For now, that solves the issue of wrong links and readers will get a sense that it is old number. Most of those pages are linked with 100s of other articles. Editing all those articles manually is virtually impossible. Unless Wikipedia has a tool to automatically correct all those, it is going to be unresolved for a while. Is it possible to develop such a tool? About getting wrong links, the information on National Highways is already wrong in many aspects, even if we leave it as it is. 
+::::::So I think it is better to create pages on new highways like this [[User:Marlisco/National_Highway_1_(India)]] and the problem can be resolved eventually when more and more editors become aware of the renumbering. [[User:Marlisco|Marlisco]] ([[User talk:Marlisco|talk]]) 04:46, 16 November 2014 (UTC)
+:::::::I agree that it's better so that all of the old highway information can be retained. The &quot;cleanest&quot; way to do this would be to figure out an alternative naming system for the new highways so that they aren't taking over the links of the old system until the links are cleaned. A bot might be able to process many of the changes, but I don't have much experience asking people to process things like that through bots. If the articles under the new naming are started at [[National Highway 1 (India, 2014–)]] (or similar) until the links are migrated, no moves will be necessary and time can be taken with the migration. [[User:Dekimasu|Dekimasu]]&lt;small&gt;[[User talk:Dekimasu|よ!]]&lt;/small&gt; 19:41, 16 November 2014 (UTC)
+::::::::*I have placed a bot request to change the link [[National Highway XX (India)]] to [[National Highway XX (India)(old numbering)]] in  [[Wikipedia:Bot requests/Archive 62#To change links]] so that we can use the existing numbering system for new highways. If that is not a viable option, is it a better option to create articles on new highways using the title [[National Highway XX (India)(new numbering)]] and to move it when the existing titles are free in cause of time? Please give suggestion. [[User:Marlisco|Marlisco]] ([[User talk:Marlisco|talk]]) 06:54, 17 November 2014 (UTC) 
+:::::::::*I hope the bot request works out. If it doesn't, I think your suggestion is the best one for now. [[User:Dekimasu|Dekimasu]]&lt;small&gt;[[User talk:Dekimasu|よ!]]&lt;/small&gt; 07:27, 17 November 2014 (UTC)
+I would proceed as suggested by both the editors. The corrections made in few pages for the move, would have to be reverted before moving it to the [[National Highway XX (India)(old numbering)]]. [[User:Marlisco|Marlisco]] ([[User talk:Marlisco|talk]]) 08:30, 14 November 2014 (UTC)
+:::::::::*I left a note on the bot request. So either way, we don't need the moves listed here anymore, right? [[User:Dekimasu|Dekimasu]]&lt;small&gt;[[User talk:Dekimasu|よ!]]&lt;/small&gt; 05:59, 19 November 2014 (UTC)
+::::::::::*Yes. That list is irrelevant now as those titles are already moved. [[User:Marlisco|Marlisco]] ([[User talk:Marlisco|talk]]) 06:24, 19 November 2014 (UTC) 
+:::::::::::*There has been no response for the [[Wikipedia:Bot requests/Archive 62#To change links|bot]] and [[Wikipedia talk:AutoWikiBrowser/CheckPage|AutoWikiBrowser]] till date. Is it OK to go for alternative option?  [[User:Marlisco|Marlisco]] ([[User talk:Marlisco|talk]]) 01:53, 24 November 2014 (UTC) 
+:In case anyone is looking for corroboration for the moves, I see a general [http://timesofindia.indiatimes.com/india/National-highway-numbers-to-change-stretches-to-be-longer/articleshow/5585374.cms Times of India article] on the new numbers, but is there a complete list of the changes somewhere? [[User:Dekimasu|Dekimasu]]&lt;small&gt;[[User talk:Dekimasu|よ!]]&lt;/small&gt; 07:27, 17 November 2014 (UTC)
+:: That article is very old one from 2012. GOI is trying to update all the NH numberings. Please find RTI filed and response from MORTH [https://www.dropbox.com/s/xlmeow7azxfa98y/NH%20india.pdf?dl=0 ]-- [[User:Naveenpf|naveenpf]] ([[User talk:Naveenpf|talk]]) 15:27, 26 November 2014 (UTC)
+
+===Space===
+(India)(old numbering) should be (India) (old numbering), right? [[User:Anna Frodesiak|Anna Frodesiak]] ([[User talk:Anna Frodesiak|talk]]) 23:23, 27 November 2014 (UTC)
+	</talkpage>
+</article>

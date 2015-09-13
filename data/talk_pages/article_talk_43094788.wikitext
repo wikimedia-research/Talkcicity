@@ -1,0 +1,7 @@
+<article id="43094788" title=User talk:49.202.194.6>
+	<talkpage id="43094788" title="User talk:49.202.194.6">
+== June 2014 ==
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:McGeddon|McGeddon]]. An edit that you recently made to [[:Education]] seemed to be a test and has been removed. If you want more practice editing, please use the [[Wikipedia:Sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:McGeddon|my talk page]]. Thanks!&lt;!-- Template:uw-test1 --&gt; [[User:McGeddon|McGeddon]] ([[User talk:McGeddon|talk]]) 08:34, 19 June 2014 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

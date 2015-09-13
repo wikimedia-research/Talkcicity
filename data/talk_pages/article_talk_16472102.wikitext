@@ -1,0 +1,7 @@
+<article id="16472102" title=Talk:Dundalk Grammar School>
+	<talkpage id="16472102" title="Talk:Dundalk Grammar School">
+{{WikiProject Schools|class=Start|importance=}}
+{{WikiProject Ireland|class=Start|importance=Low|listas= }}
+{{Image requested|in=County Louth}}
+	</talkpage>
+</article>

@@ -1,0 +1,9 @@
+<article id="27233495" title=Talk:Ali Rıza Pasin>
+	<talkpage id="27233495" title="Talk:Ali Rıza Pasin">
+{{WikiProject Biography
+|living=no
+|class=Stub
+|listas=Pasin, Ali Riza
+}}
+	</talkpage>
+</article>

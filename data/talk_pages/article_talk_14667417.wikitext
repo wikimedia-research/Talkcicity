@@ -1,0 +1,11 @@
+<article id="14667417" title=User talk:71.100.200.10>
+	<talkpage id="14667417" title="User talk:71.100.200.10">
+== December 2007 ==
+{{{icon|[[Image:Information.svg|25px]] }}}Please refrain from making unconstructive edits to Wikipedia{{{{{subst|}}}#if:Don Omar|, as you did to [[:Don Omar]]}}. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism2 --&gt; [[User:Tiptoety|Tiptoety]] ([[User talk:Tiptoety|talk]]) 01:17, 12 December 2007 (UTC)
+:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
+
+
+{{{icon|[[Image:Nuvola apps important.svg|25px]] }}}Please stop. If you continue to [[Wikipedia:Vandalism|vandalize]] Wikipedia{{{{{subst|}}}#if:Don Omar|, as you did to [[:Don Omar]]}}, you will be [[Wikipedia:Blocking policy|blocked]] from editing. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|}}&lt;!-- Template:uw-vandalism3 --&gt; [[User:Tiptoety|Tiptoety]] ([[User talk:Tiptoety|talk]]) 01:20, 12 December 2007 (UTC)
+:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
+	</talkpage>
+</article>

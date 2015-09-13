@@ -1,0 +1,10 @@
+<article id="34442458" title=Talk:Tuskegee Airmen (disambiguation)>
+	<talkpage id="34442458" title="Talk:Tuskegee Airmen (disambiguation)">
+{{WikiProjectBannerShell|1=
+{{WikiProject Military history|US=yes|WWII=yes|Aviation=yes|class=dab}}
+{{WikiProject Aviation|class=dab}}
+{{WikiProject African diaspora|class=dab}}
+{{WikiProject Disambiguation}}
+}}
+	</talkpage>
+</article>

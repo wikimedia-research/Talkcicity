@@ -1,0 +1,7 @@
+<article id="15283809" title=User talk:91.108.62.92>
+	<talkpage id="15283809" title="User talk:91.108.62.92">
+== January 2008 ==
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Everyone is welcome to contribute constructively to the encyclopedia. However, adding content without [[Wikipedia:Citing sources|citing]] a [[Wikipedia:Reliable sources|reliable source]]{{{{{subst|}}}#if:Rugby, Warwickshire|, as you did to [[:Rugby, Warwickshire]],}} is not consistent with our policy of [[Wikipedia:Verifiability|verifiability]]. This is especially important when dealing with ''[[Wikipedia:Biographies of living persons|biographies of living people]]'', but applies to all Wikipedia articles. Take a look at the [[Wikipedia:Welcome|welcome page]] to learn more about contributing to this encyclopedia.  If you are already familiar with [[Wikipedia:Citing sources]], please take this opportunity to add your original reference to the article. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-unsourced1 --&gt; ''Please remember that any additions need references. Ask me if you have any questions on my [[User talk:Tanthalas39|talk page]]. Thanks!'' [[User:Tanthalas39|Tanthalas39]] ([[User talk:Tanthalas39|talk]]) 20:50, 17 January 2008 (UTC)
+:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
+	</talkpage>
+</article>

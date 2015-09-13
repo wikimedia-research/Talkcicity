@@ -1,0 +1,21 @@
+<article id="19192940" title=Talk:Were the World Mine>
+	<talkpage id="19192940" title="Talk:Were the World Mine">
+{{Film|American-task-force=yes|class=start&lt;!-- B-Class checklist --&gt;
+&lt;!-- 1. It is suitably referenced, and all 
+major points are appropriately cited. --&gt;
+|B-Class-1=no
+&lt;!-- 2. It reasonably covers the topic, and 
+does not contain major omissions or inaccuracies. --&gt;
+|B-Class-2=no
+&lt;!-- 3. It has a defined structure, including 
+a lead section and one or more sections of content. --&gt;
+|B-Class-3=yes
+&lt;!-- 4. It is free from major grammatical errors. --&gt;
+|B-Class-4=yes
+&lt;!-- 5. It contains appropriate supporting materials, 
+such as an infobox, images, or diagrams. --&gt;
+|B-Class-5=yes
+}}
+{{LGBTProject |class=Stub}}
+	</talkpage>
+</article>

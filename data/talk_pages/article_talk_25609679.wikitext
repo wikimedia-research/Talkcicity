@@ -1,0 +1,6 @@
+<article id="25609679" title=Talk:Square Schoolhouse>
+	<talkpage id="25609679" title="Talk:Square Schoolhouse">
+{{WikiProject National Register of Historic Places|class=stub|importance=low}}
+{{WikiProject United States|class=Stub|importance=Low|NH=yes|NH-importance=Low}}
+	</talkpage>
+</article>

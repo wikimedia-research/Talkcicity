@@ -1,0 +1,18 @@
+<article id="15906085" title=User talk:Sg226>
+	<talkpage id="15906085" title="User talk:Sg226">
+{{#if:|&lt;div style=&quot;background:white; border:2px Blue solid; padding:12px;&quot;&gt;|}}
+{{#ifeq:|true|==|}}'''Welcome!''' &lt;small&gt;(''We can't say that loudly enough!'')&lt;/small&gt;{{#ifeq:|true|==|'''}}
+&lt;p&gt;Hello, Sg226, and '''''[[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome to Wikipedia]]!''''' I hope you like the place and decide to stay. Here are some pages you might find helpful:&lt;/p&gt;
+*[[Wikipedia:Be bold in updating pages|'''Be Bold!''']] 
+*[[Wikipedia:Avoiding common mistakes|Learn from others]] 
+*[[Wikipedia:Etiquette|Play nicely with others]] 
+*[[Wikipedia:Contributing to Wikipedia|Contribute, Contribute, Contribute!]] 
+*[[Wikipedia:User page|Tell us about you]] 
+
+If you have any questions or problems, no matter what they are, leave me a message on my talk page. Or, please come to the '''[[Wikipedia:New contributors' help page|new contributors' help page]]''', where experienced Wikipedians can answer any queries you have! Or, you can just type '''&lt;code&gt;{&amp;#123;helpme}}&lt;/code&gt;''' on your user page, and someone will show up shortly to answer your questions. 
+
+Please sign your name on talk pages and votes by typing &amp;#126;&amp;#126;&amp;#126;&amp;#126;; our software automatically converts it to your username and the date.
+
+We're so glad you're here! --&lt;span style=&quot;font-family:Times New Roman&quot;&gt;[[User:ThinkBlue|'''&lt;span style=&quot;background:Blue;color:White&quot;&gt; &amp;nbsp;ThinkBlue&amp;nbsp;&lt;/span&gt;''']] &lt;/span&gt;&lt;span style=&quot;font-family:Times New Roman&quot;&gt;[[User_talk:ThinkBlue|(Hit]]&lt;/span&gt; &lt;span style=&quot;font-family:Times New Roman&quot;&gt;[[User:ThinkBlue/Autograph book|'''BLUE''')]]&lt;/span&gt; 03:47, 23 February 2008 (UTC)&lt;/p&gt;{{#if:|&lt;/div&gt;|}}
+	</talkpage>
+</article>

@@ -1,0 +1,19 @@
+<article id="11741530" title=Talk:Paul Barry (American football)>
+	<talkpage id="11741530" title="Talk:Paul Barry (American football)">
+{{WikiProjectBannerShell|blp=no|1=
+{{WikiProject Biography|living=no
+|class=Stub
+|auto=yes
+|listas=Barry, Paul
+}}
+{{WikiProject College football|class=Stub}}
+{{WikiProject United States|class=Stub|importance=Low|DC=Yes|DC-importance=Low}}
+{{WikiProject Illinois|class=Stub |importance=Low}}
+{{WikiProject Chicago|class=Stub |importance=Low}}
+{{WikiProject St. Louis Rams|class= stub|importance= low}}
+}}
+
+==WikiProject class rating==
+This article was automatically assessed because at least one WikiProject had rated the article as stub, and the rating on other projects was brought up to Stub class. [[User:BetacommandBot|BetacommandBot]] 16:01, 9 November 2007 (UTC)
+	</talkpage>
+</article>

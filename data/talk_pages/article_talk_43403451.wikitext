@@ -1,0 +1,62 @@
+<article id="43403451" title=User talk:67.40.14.85>
+	<talkpage id="43403451" title="User talk:67.40.14.85">
+== Welcome to Wikipedia! ==
+
+Hello, and [[Wikipedia:Introduction|welcome]] to Wikipedia! Thank you for [[Special:Contributions/67.40.14.85|your contributions]]. I hope you like the place and decide to stay. Here are some pages you might like to see:
+
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Wikipedia:Contributing to Wikipedia|Contributing to Wikipedia]]
+* [[Wikipedia:Tutorial|Tutorial]]
+* [[Wikipedia:How to edit a page|How to edit a page]] and [[Wikipedia:Article development|How to develop articles]]
+* [[Wikipedia:Simplified Manual of Style|Simplified Manual of Style]]
+* [[Help:Wikipedia: The Missing Manual/Introduction|Intuitive guide to Wikipedia]]
+
+You are welcome to continue editing without [[Special:Userlogin|logging in]], but you may want to consider '''&lt;span class=&quot;plainlinks&quot;&gt;[{{fullurl:Special:Userlogin|type=signup&amp;campaign=anonwelcometemplate}} creating an account]&lt;/span&gt;'''. Doing so is free, requires no personal information, and provides several benefits such as the ability to create articles. For a full outline and explanation of the benefits that come with creating an account, please see [[Wikipedia:Why create an account?|this page]]. If you edit without a username, your [[IP address]] (67.40.14.85) is used to identify you instead.
+
+In any case, I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign your comments]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your IP address (or username if you're logged in) and the date. If you need help, check out [[Wikipedia:Questions]], ask me on [[User talk:BracketBot|my talk page]], or ask your question and then place &lt;code&gt;&lt;nowiki&gt;{{&lt;/nowiki&gt;[[:Category:Wikipedians looking for help|helpme]]&lt;nowiki&gt;}}&lt;/nowiki&gt;&lt;/code&gt; before the question on this page. Again, welcome! &lt;!-- Template:welcome-anon --&gt; [[User:BracketBot|BracketBot]] ([[User talk:BracketBot|talk]]) 04:37, 27 July 2014 (UTC)
+
+== July 2014 ==
+
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:BracketBot|BracketBot]]. I have automatically detected that &lt;span class=&quot;plainlinks&quot;&gt;[//en.wikipedia.org/w/index.php?diff=618629969 your edit] to [[The Legend of Zelda: A Link Between Worlds]] may have broken the [[syntax]] by modifying 2 &quot;[]&quot;s. If you have, don't worry: just [{{fullurl:The Legend of Zelda: A Link Between Worlds|action=edit&amp;minor=minor&amp;summary=Fixing+typo+raised+by+%5B%5BUser%3ABracketBot%7CBracketBot%5D%5D}} edit the page] again to fix it. If I misunderstood what happened, or if you have any questions, you can leave a message on [//en.wikipedia.org/w/index.php?action=edit&amp;preload=User:A930913/BBpreload&amp;editintro=User:A930913/BBeditintro&amp;minor=&amp;title=User_talk:A930913&amp;preloadtitle=BracketBot%20–%20{{subst&lt;/noinclude&gt;:REVISIONUSER}}&amp;section=new my operator's talk page].&lt;/span&gt;
+{{{!}} class=&quot;navbox collapsible collapsed&quot; style=&quot;text-align: left; border: 1px solid silver; margin-top: 0.2em;&quot; {{!}}-
+! style=&quot;background-color: #FAA;&quot; {{!}} &lt;div style=&quot;font-size:112%;&quot;&gt;List of unpaired brackets remaining on the page&lt;span style=&quot;font-size:88%;margin-left:3em;&quot;&gt;(Click show &lt;span style=&quot;font-size:130%;&quot;&gt;⇨&lt;/span&gt;)&lt;/span&gt;&lt;/div&gt;    
+{{!}}-
+{{!}} style=&quot;border: solid 1px silver; padding: 8px; background-color: white; &quot; {{!}} &lt;div style=&quot;font-size:112%;&quot;&gt;
+*&lt;nowiki&gt;the    one part stayed with the  family, and a third part took its rightful place in the heart of &lt;/nowiki&gt;{{red|'''&amp;#91;'''}}&lt;nowiki&gt;[Link (The Legend of Zelda)|]&lt;/nowiki&gt;
+*&lt;nowiki&gt;Link, who is the apprentice of a blacksmith, goes to deliver a sword to a captain at &lt;/nowiki&gt;{{red|'''&amp;#91;'''}}&lt;nowiki&gt;[Hy], only to encounter a mysterious figure named Yuga, who transforms a sage, Seres, into a&lt;/nowiki&gt;
+*&lt;nowiki&gt;&lt;/nowiki&gt;{{red|'''&amp;#123;'''}}&lt;nowiki&gt;{Video game view|&lt;/nowiki&gt;
+&lt;/div&gt;
+{{!}}}
+It's OK to remove this message. Also, to stop receiving these messages, follow [[User:BracketBot#Opting out|these opt-out instructions]]. Thanks, &lt;!-- (0, 2, 0, 0) --&gt;&lt;!-- User:BracketBot/inform --&gt;[[User:BracketBot|BracketBot]] ([[User talk:BracketBot|talk]]) 04:37, 27 July 2014 (UTC)
+
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:BracketBot|BracketBot]]. I have automatically detected that &lt;span class=&quot;plainlinks&quot;&gt;[//en.wikipedia.org/w/index.php?diff=618632729 your edit] to [[The Legend of Zelda: A Link Between Worlds]] may have broken the [[syntax]] by modifying 2 &quot;{}&quot;s and  1 &quot;&lt;&gt;&quot;s. If you have, don't worry: just [{{fullurl:The Legend of Zelda: A Link Between Worlds|action=edit&amp;minor=minor&amp;summary=Fixing+typo+raised+by+%5B%5BUser%3ABracketBot%7CBracketBot%5D%5D}} edit the page] again to fix it. If I misunderstood what happened, or if you have any questions, you can leave a message on [//en.wikipedia.org/w/index.php?action=edit&amp;preload=User:A930913/BBpreload&amp;editintro=User:A930913/BBeditintro&amp;minor=&amp;title=User_talk:A930913&amp;preloadtitle=BracketBot%20–%20{{subst&lt;/noinclude&gt;:REVISIONUSER}}&amp;section=new my operator's talk page].&lt;/span&gt;
+{{{!}} class=&quot;navbox collapsible collapsed&quot; style=&quot;text-align: left; border: 1px solid silver; margin-top: 0.2em;&quot; {{!}}-
+! style=&quot;background-color: #FAA;&quot; {{!}} &lt;div style=&quot;font-size:112%;&quot;&gt;List of unpaired brackets remaining on the page&lt;span style=&quot;font-size:88%;margin-left:3em;&quot;&gt;(Click show &lt;span style=&quot;font-size:130%;&quot;&gt;⇨&lt;/span&gt;)&lt;/span&gt;&lt;/div&gt;    
+{{!}}-
+{{!}} style=&quot;border: solid 1px silver; padding: 8px; background-color: white; &quot; {{!}} &lt;div style=&quot;font-size:112%;&quot;&gt;
+*&lt;nowiki&gt;plc|date=April 17, 2013|access    April 25, 2013}} puzzle&lt;/nowiki&gt;{{red|'''&amp;#62;&amp;#123;&amp;#123;'''}}&lt;nowiki&gt;cite | NAME Family||url=http://m.nbcnews.com/technology/ingame/long-last-nintendo-3ds-getting-link-&lt;/nowiki&gt;
+*&lt;nowiki&gt;the    one part stayed with the  family, and a third part took its rightful place in the heart of &lt;/nowiki&gt;{{red|'''&amp;#91;'''}}&lt;nowiki&gt;[Link (The Legend of Zelda)|]&lt;/nowiki&gt;
+*&lt;nowiki&gt;Link, who is the apprentice of a blacksmith, goes to deliver a sword to a captain at &lt;/nowiki&gt;{{red|'''&amp;#91;'''}}&lt;nowiki&gt;[Hy], only to encounter a mysterious figure named Yuga, who transforms a sage, Seres, into a&lt;/nowiki&gt;
+*&lt;nowiki&gt;&lt;/nowiki&gt;{{red|'''&amp;#123;'''}}&lt;nowiki&gt;{Video game view|&lt;/nowiki&gt;
+&lt;/div&gt;
+{{!}}}
+It's OK to remove this message. Also, to stop receiving these messages, follow [[User:BracketBot#Opting out|these opt-out instructions]]. Thanks, &lt;!-- (0, 0, 2, -1) --&gt;&lt;!-- User:BracketBot/inform --&gt;[[User:BracketBot|BracketBot]] ([[User talk:BracketBot|talk]]) 05:18, 27 July 2014 (UTC)
+
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:BracketBot|BracketBot]]. I have automatically detected that &lt;span class=&quot;plainlinks&quot;&gt;[//en.wikipedia.org/w/index.php?diff=618634064 your edit] to [[The Legend of Zelda: A Link Between Worlds]] may have broken the [[syntax]] by modifying 1 &quot;[]&quot;s. If you have, don't worry: just [{{fullurl:The Legend of Zelda: A Link Between Worlds|action=edit&amp;minor=minor&amp;summary=Fixing+typo+raised+by+%5B%5BUser%3ABracketBot%7CBracketBot%5D%5D}} edit the page] again to fix it. If I misunderstood what happened, or if you have any questions, you can leave a message on [//en.wikipedia.org/w/index.php?action=edit&amp;preload=User:A930913/BBpreload&amp;editintro=User:A930913/BBeditintro&amp;minor=&amp;title=User_talk:A930913&amp;preloadtitle=BracketBot%20–%20{{subst&lt;/noinclude&gt;:REVISIONUSER}}&amp;section=new my operator's talk page].&lt;/span&gt;
+{{{!}} class=&quot;navbox collapsible collapsed&quot; style=&quot;text-align: left; border: 1px solid silver; margin-top: 0.2em;&quot; {{!}}-
+! style=&quot;background-color: #FAA;&quot; {{!}} &lt;div style=&quot;font-size:112%;&quot;&gt;List of unpaired brackets remaining on the page&lt;span style=&quot;font-size:88%;margin-left:3em;&quot;&gt;(Click show &lt;span style=&quot;font-size:130%;&quot;&gt;⇨&lt;/span&gt;)&lt;/span&gt;&lt;/div&gt;    
+{{!}}-
+{{!}} style=&quot;border: solid 1px silver; padding: 8px; background-color: white; &quot; {{!}} &lt;div style=&quot;font-size:112%;&quot;&gt;
+*&lt;nowiki&gt;plc|date=April 17, 2013|access    April 25, 2013}} puzzle&lt;/nowiki&gt;{{red|'''&amp;#62;&amp;#123;&amp;#123;'''}}&lt;nowiki&gt;cite | NAME Family||url=http://m.nbcnews.com/technology/ingame/long-last-nintendo-3ds-getting-link-&lt;/nowiki&gt;
+*&lt;nowiki&gt;&quot; timeline]] since the split that  following the  of ''&lt;/nowiki&gt;{{red|'''&amp;#91;'''}}&lt;nowiki&gt;[The Legend of Zelda:  and give to data transfer  Washington[The Legend of Zelda ()|The Legend of&lt;/nowiki&gt;
+*&lt;nowiki&gt;the    one part stayed with the  family, and a third part took its rightful place in the heart of &lt;/nowiki&gt;{{red|'''&amp;#91;'''}}&lt;nowiki&gt;[Link (The Legend of Zelda)|]&lt;/nowiki&gt;
+*&lt;nowiki&gt;Link, who is the apprentice of a blacksmith, goes to deliver a sword to a captain at &lt;/nowiki&gt;{{red|'''&amp;#91;'''}}&lt;nowiki&gt;[Hy], only to encounter a mysterious figure named Yuga, who transforms a sage, Seres, into a&lt;/nowiki&gt;
+*&lt;nowiki&gt;&lt;/nowiki&gt;{{red|'''&amp;#123;'''}}&lt;nowiki&gt;{Video game view|&lt;/nowiki&gt;
+&lt;/div&gt;
+{{!}}}
+It's OK to remove this message. Also, to stop receiving these messages, follow [[User:BracketBot#Opting out|these opt-out instructions]]. Thanks, &lt;!-- (0, 1, 0, 0) --&gt;&lt;!-- User:BracketBot/inform --&gt;[[User:BracketBot|BracketBot]] ([[User talk:BracketBot|talk]]) 05:39, 27 July 2014 (UTC)
+
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Scarlettail|Scarlettail]]. I wanted to let you know that I undid one or more of [[Special:Contributions/67.40.14.85|your recent contributions]]&amp;nbsp;to [[:The Legend of Zelda: A Link Between Worlds]] because it did not appear constructive. If you would like to experiment, please use the [[WP:sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Scarlettail|my talk page]]. Thanks!&lt;!-- Template:uw-vandalism1 --&gt; [[User:Scarlettail|Scarlettail]] ([[User talk:Scarlettail|talk]]) 06:05, 27 July 2014 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

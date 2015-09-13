@@ -1,0 +1,9 @@
+<article id="7386631" title=User talk:Kilgour321>
+	<talkpage id="7386631" title="User talk:Kilgour321">
+It might not have been your intention, but you recently removed content from [[:John F. Kennedy]]. Please be careful not to remove content from Wikipedia without a valid reason, which you should specify in the [[WP:ES|edit summary]] or on the article's [[WP:TP|talk page]]. Thank you. &lt;!-- Template:Test1a-n (First level warning) --&gt; A link to the edit I have reverted can be found here: [http://en.wikipedia.org/w/index.php?title=John_F._Kennedy&amp;diff=next&amp;oldid=80688016 link]. If you believe this edit should not have been reverted, please contact me. &lt;!-- 167--&gt; [[User:Wikipediarules2221|Wikipediarul]][[WP:ESP|&lt;font color=&quot;green&quot;&gt;e&lt;/font&gt;]][[User:Wikipediarules2221|s]][[User talk:Wikipediarules2221|2221]] 22:21, 10 October 2006 (UTC)
+
+== Your changes to the [[Gillig]] article ==
+
+We appreciate your contributions to the [[Gillig]] article, but we cannot accept copyrighted text or images borrowed from other web sites or printed material. For this reason your edits have been [[Help:Reverting|reverted]] or removed. Perhaps you would like to rewrite the information in your own words, if you do please remember to [[Wikipedia:Citing sources|cite your source(s)]]. For more information, take a look at [[Wikipedia:Policies and guidelines|Wikipedia's policies and guidelines]]. Thanks, &lt;!-- Template:Nothanks-add --&gt; [[User:Zyqqh|Zyqqh]] 21:41, 9 November 2006 (UTC)
+	</talkpage>
+</article>

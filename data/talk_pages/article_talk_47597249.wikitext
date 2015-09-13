@@ -1,0 +1,16 @@
+<article id="47597249" title=User talk:223.176.58.45>
+	<talkpage id="47597249" title="User talk:223.176.58.45">
+
+
+==Your draft article, [[Draft:Sastapay]]==
+[[File:Information icon4.svg|48px|left|alt=|link=]]
+
+Hello, 223.176.58.45. It has been over six months since you last edited your [[WP:AFC]] draft article submission, entitled &quot;[[Draft:Sastapay|Sastapay]]&quot;. 
+
+The page will shortly be deleted. If you plan on editing the page to address the issues raised when it was declined and resubmit it, simply {{edit|Draft:Sastapay|edit the submission}} and remove the {{tlc|db-afc}} or {{tlc|db-g13}} code. Please note that Articles for Creation is not for indefinite hosting of material deemed unsuitable for the encyclopedia [[WP:mainspace|mainspace]].
+
+If your submission has already been deleted by the time you get there, and you want to retrieve it, you can request its undeletion by following the instructions at [[WP:REFUND/G13]]. An administrator will in most cases undelete the submission.
+
+Thanks for your submission to Wikipedia, and happy editing. &lt;!-- Template:Db-afc-notice --&gt;  [[User:Rankersbo|Rankersbo]] ([[User talk:Rankersbo|talk]]) 21:26, 22 August 2015 (UTC)
+	</talkpage>
+</article>

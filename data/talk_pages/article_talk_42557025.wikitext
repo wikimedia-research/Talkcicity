@@ -1,0 +1,15 @@
+<article id="42557025" title=User talk:96.25.100.134>
+	<talkpage id="42557025" title="User talk:96.25.100.134">
+== April 2014 ==
+
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:MusikAnimal|MusikAnimal]]. I wanted to let you know that I undid one of [[Special:Contributions/96.25.100.134|your recent contributions]],&amp;nbsp;such as the one you made with &lt;span class=&quot;plainlinks&quot;&gt;[https://en.wikipedia.org/w/index.php?title=Colorado%20Springs%2C%20Colorado&amp;diff=605345329 this edit]&lt;/span&gt; to [[:Colorado Springs, Colorado]], because it didn’t appear constructive to me. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:MusikAnimal|my talk page]]. Thanks. &lt;!-- Template:Huggle/warn-1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt;&amp;mdash; [[User:MusikAnimal|&lt;font color=&quot;black&quot;&gt;&lt;b&gt;&lt;i&gt;MusikAnimal&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;]] [[User talk:MusikAnimal|&lt;font color=&quot;green&quot; &gt;&lt;sup&gt;&lt;b&gt;talk&lt;/b&gt;&lt;/sup&gt;&lt;/font&gt;]] 20:07, 22 April 2014 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+
+== April 2014 ==
+[[File:Information.svg|left|25px|alt=|link=]] Hello, and welcome to Wikipedia. This is a message letting you know that one or more of your recent edits to [[:Clovis point]] has been undone by an automated computer program called [[User:ClueBot NG|ClueBot NG]].
+{{clear}}
+* ClueBot NG makes very few [[User:ClueBot NG#Information About False Positives|mistakes]], but it does happen. If you believe the change you made was constructive, please [[User:ClueBot NG#Information About False Positives|read about it]], [{{User:ClueBot NG/Warnings/FPReport|1810850}} report it here], remove this message from your talk page, and then make the edit again.
+* For help, take a look at the [[Wikipedia:Introduction|introduction]].
+* The following is the log entry regarding this message: [[Clovis point]] was [http://en.wikipedia.org/w/index.php?title=Clovis+point&amp;diff=606209160&amp;oldid=595325404 changed] by [[Special:Contributions/96.25.100.134|96.25.100.134]] [[User:96.25.100.134|(u)]] [[User talk:96.25.100.134|(t)]] ANN scored at 1 on 2014-04-28T17:55:14+00:00 &lt;!-- MySQL ID: 1810850 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]) 17:55, 28 April 2014 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="42547361" title=Talk:Satellite crop monitoring>
+	<talkpage id="42547361" title="Talk:Satellite crop monitoring">
+{{WikiProject Agriculture}}
+	</talkpage>
+</article>

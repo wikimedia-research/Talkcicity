@@ -1,0 +1,10 @@
+<article id="24412126" title=Talk:Outram baronets>
+	<talkpage id="24412126" title="Talk:Outram baronets">
+{{WikiProject Biography
+|living=no
+|class=Stub
+|peerage-work-group=yes
+|listas=Outram Baronets
+}}
+	</talkpage>
+</article>

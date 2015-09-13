@@ -1,0 +1,11 @@
+<article id="29692953" title=User talk:184.98.177.188>
+	<talkpage id="29692953" title="User talk:184.98.177.188">
+
+
+== November 2010 ==
+[[Image:Information.svg|left|25px|alt=|link=]] Welcome to Wikipedia. Everyone is welcome to make constructive contributions to Wikipedia, but at least one of your recent edits, such as the one you made to [[:Deryck Whibley]], did not appear to be constructive and has been '''automatically [[Help:Reverting|reverted]]''' by [[User:ClueBot NG|ClueBot NG]]. 
+* Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. Note that human editors do monitor recent changes to Wikipedia articles, and [[WP:ADMINS|administrators]] have the ability to [[WP:BLOCK|block]] users from editing if they repeatedly engage in [[WP:vandalism|vandalism]].
+* ClueBot NG produces very few [[false positives]], but it does happen. If you believe the change you made should not have been detected as unconstructive, please [[User:ClueBot NG/B|report it here]], remove this warning from your talk page, and then make the edit again. 
+* The following is the log entry regarding this warning: [[Deryck Whibley]] was [http://en.wikipedia.org/w/index.php?title=Deryck+Whibley&amp;diff=398141615&amp;oldid=398078147 changed] by [[Special:Contributions/184.98.177.188|184.98.177.188]] [[User:184.98.177.188|(u)]] [[User talk:184.98.177.188|(t)]] ANN scored at 0.956098 on 2010-11-21T23:12:06+00:00 &lt;!-- MySQL ID: 51186 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]) 23:12, 21 November 2010 (UTC)
+	</talkpage>
+</article>

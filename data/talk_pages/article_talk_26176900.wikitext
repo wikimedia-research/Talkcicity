@@ -1,0 +1,41 @@
+<article id="26109749" title=Talk:List of email subject abbreviations>
+	<talkpage id="26109749" title="Talk:List of email subject abbreviations">
+{{WikiProject Internet culture|class=list}}
+
+==title and content==
+This page does not have an article format. There is no discussion of the subject matter.
+The page should be renamed to the common WP list format: ''List of something''. However, just what this 'something' is needs to be clarified. It appears to have digresses far from the suspected original intent and has deteriorated into a list of Internet, email, or instant messaging slang, i.e. [[netspeak]]. [[User:Kbrose|Kbrose]] ([[User talk:Kbrose|talk]]) 19:58, 7 February 2010 (UTC)
+
+== Iteration of Reply ==
+
+In the discussion of RE, the syntax for iteration should be described.  This is my understanding.&lt;br&gt;
+A: Subject: &lt;blah&gt;.&lt;br&gt;
+B: Subject: RE: &lt;blah&gt;.&lt;br&gt;
+A: Subject: RE(2): &lt;blah&gt;.&lt;br&gt;
+B: Subject: RE: RE(2): &lt;blah&gt;.&lt;br&gt;
+A: Subject: RE(3): &lt;blah&gt;.&lt;br&gt;
+B: Subject: RE: RE(3): &lt;blah&gt;.&lt;br&gt;&amp;#160;&amp;#160;...&lt;br&gt;
+
+Can anyone correct or confirm this?  Is it in an RFC?  Thanks, ... [[User:PeterEasthope|PeterEasthope]] ([[User talk:PeterEasthope|talk]]) 16:03, 19 January 2012 (UTC)
+
+== SIM, N/T, and others. ==
+
+It would probably be better to have all of these abbreviations, that mean the message is in the subject line with a blank body, in a single line.
+
+Like,
+EOM (End of Message), SIM (Subject is Message), N/T (No Text), {and others}: The entire message is in the subject... {rest of definition}
+&lt;br&gt;
+or
+&lt;br&gt;
+'''E'''nd '''o'''f '''M'''essage {and so on}  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Gatonom|Gatonom]] ([[User talk:Gatonom|talk]] • [[Special:Contributions/Gatonom|contribs]]) 04:15, 7 December 2012 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+:+1 for adding EOM [[User:Ebertek|ebertek]] ([[User talk:Ebertek|talk]]) 19:12, 2 January 2015 (UTC)
+
+== Netiquette is not encyclopedic ==
+I love this type of article at WP, but it is not encyclopedic; it's mostly [[netiquette]]. Since when did WP start serving as a repository for such material? ''– [[User:Tim Chambers|tbc]] ([[User talk:Tim Chambers|talk]]) 17:00, 3 January 2013 (UTC)''
+:Formatting / stylistic conventions do not meet the definition for what I consider &quot;Netiquette&quot; ... Compared to Wiktionary's [[wikt:Appendix:English_internet_slang|Appendix:English_internet_slang]] I'd consider this &quot;just barely&quot; more encyclopedic... This article is talking mostly about well-established stuff like &quot;Re:&quot; in an email reply which is not a random [[wp:neologism|neologism]] or some sort of trendy subject which might otherwise vanishing in the next 5-10 years. Let's leave the article for now to see if it improves any during the next 5-10 years? --[[User:Kuzetsa|Kuzetsa]] ([[User talk:Kuzetsa|talk]]) 05:59, 24 July 2013 (UTC)
+
+== Latin &quot;res&quot; is the original etymology for using &quot;Re: &quot; in a reply ==
+
+If someone has time / in case I forget, here's a citation: [http://tools.ietf.org/html/rfc2822 rfc2822] -- '''(quote)''' ''The &quot;Subject:&quot; field is the most common and contains a short string identifying the topic of the message.  When used in a reply, the field body MAY start with the string &quot;Re: &quot; (from the Latin &quot;res&quot;, in the matter of)'' '''(end quote)''' I don't have time right now to add this. If anyone else has time, the &quot;[[Template:cite IETF|cite IETF]]&quot; template has an appropriate mode for RFC which I recently used here: [[Data_Carrier_Detect#PPS_.28Pulse_per_second.29_timing_use|PPS]], section: &quot;PPS (Pulse per second) timing use&quot; --[[User:Kuzetsa|Kuzetsa]] ([[User talk:Kuzetsa|talk]]) 06:14, 24 July 2013 (UTC)
+	</talkpage>
+</article>

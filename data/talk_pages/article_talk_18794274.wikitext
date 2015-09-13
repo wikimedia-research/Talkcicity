@@ -1,0 +1,6 @@
+<article id="18794274" title=Talk:Politówka>
+	<talkpage id="18794274" title="Talk:Politówka">
+{{WPCities|class=stub|importance=low}}
+{{WikiProject Poland|class=stub|importance=low}}
+	</talkpage>
+</article>

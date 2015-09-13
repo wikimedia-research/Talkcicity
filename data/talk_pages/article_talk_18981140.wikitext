@@ -1,0 +1,5 @@
+<article id="18981140" title=Talk:2004 Qatar Open>
+	<talkpage id="18981140" title="Talk:2004 Qatar Open">
+{{WikiProject Tennis|class=start|importance=low}}
+	</talkpage>
+</article>

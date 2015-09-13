@@ -1,0 +1,50 @@
+<article id="25293721" title=User talk:Demisbf>
+	<talkpage id="25293721" title="User talk:Demisbf">
+== Welcome! ==	
+&lt;div style=&quot;align: center; padding: 1em; border: solid 2px darkblue; background-color: darkblue; -moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px;&quot;&gt;
+&lt;center&gt;&lt;span style=&quot;color:#FFCCFF&quot;&gt;Hi, {{BASEPAGENAME}}, and [[Wikipedia:Welcome, newcomers|&lt;span style=&quot;color:rgb(205,205,255)&quot;&gt;Welcome&lt;/span&gt;]] to Wikipedia!&lt;/span&gt;&lt;/div&gt; 
+&lt;div style=&quot;align: left; padding: 1em; border: solid 2px darkblue; background-color: white; -moz-border-radius-bottomleft: 25px; -moz-border-radius-bottomright: 25px;&quot;&gt;
+[[Wikipedia:Introduction|Welcome]] to Wikipedia! I hope you enjoy the encyclopedia and want to [[Wikipedia:Wikipedians|stay]]. Before getting too in-depth, you may want to read the [[Wikipedia:Simplified Ruleset|simplified ruleset]]. If you need help, feel free to use any of Wikipedia's hundreds  of resources - like the [[Wikipedia:Boot Camp|Wikipedia Boot Camp]], where you can ask question on the wiki, or by getting access to an IRC chat online with fellow Wikipedians! Wikipedia also has many pages dedicated to the use of Wikipedia: if you need help on how to title new articles, check out the [[Wikipedia:Naming conventions|naming conventions]]; Want to know how to format pages? Visit the [[Wikipedia:Manual of Style|manual of style]]. Haven't found an answer? Feel free to post questions on [[User talk:I Feel Tired|my talk page]]–I'm happy to help you with anything you need.
+-------	 
+{{col-begin}}
+{{col-1-of-2}}
+&lt;font size=&quot;3&quot;&gt;'''Help'''&lt;/font&gt;&lt;br/&gt;
+:Remember, the links above are always good, but if you still need help, try these:
+*'''[[Wikipedia:Help]]''' – ask for general help in editing Wikipedia here
+*'''[[Wikipedia:village pump|Village Pump]]''' – here you can post technical questions about Wikipedia's operation
+*'''[[Wikipedia:Reference desk|Reference Desk]]''' – where you can get help locating articles or factual information
+*'''[[Wikipedia:Tutorial|Tutorial]]''' – a tutorial for beginners
+*'''[[Wikipedia:Policy Library|Policy Library]]''' – a overview of Wikipedia Policies
+*'''[[Wikipedia:Cheatsheet]]''' – a great way to remember the Wikipedia language.
+&lt;font size=&quot;3&quot;&gt;'''Additional tips&lt;/font&gt;&lt;br/&gt;
+:Here are some extra tips to help you get around in Wikipedia: 
+*If you want to practice your new Wiki skills, the [[Wikipedia:Sandbox|Sandbox]] is for you.	
+*You can (and should) sign your name using four tildes (~).  If your keyboard doesn't have tildes (or for whatever other reason) you can also click the [[Image:Signature_icon.png]] button on the bar above the editing field. 
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+'''Good luck.''' --[[User:I Feel Tired|I Feel Tired]] ([[User talk:I Feel Tired|talk]]) 17:20, 3 December 2009 (UTC)
+{{col-2-of-2}}
+&lt;font size=&quot;3&quot;&gt;'''Current tasks&lt;/font&gt;
+ 
+:{{opentask}}
+{{col-end}}
+&lt;/div&gt;
+
+==Welcome!==
+{{Quote box
+ | quote  = You may also wish to consider using a Wizard to help you create articles. See the [[Wikipedia:Article wizard2.0|Article Wizard]].'''''
+ | source = Thank you.
+ | width  = 20%
+ | align  = right
+}}
+
+Hello {{BASEPAGENAME}}, welcome to Wikipedia! Thank you for your contributions. I hope you like the place and decide to stay. Our [[Wikipedia:Introduction|intro page]] contains a lot of helpful material for new users—please check it out! If you need help, visit [[Wikipedia:Questions]] or place &lt;code&gt;{{tl|helpme}}&lt;/code&gt; on this page and someone will show up shortly to answer your questions.
+
+Unfortunately, however, a tag has been placed on [[:Hunter wilson]], requesting that it be [[Wikipedia:Criteria for speedy deletion|speedily deleted]] from Wikipedia. This has been done because the article seems to be about a real person, organization (band, club, company, ''etc.''), or web content, but it does not indicate how or why the subject is notable: that is, why an article about that subject should be included in Wikipedia. Under the [[WP:CSD#A7|criteria for speedy deletion]], articles that do not indicate the subject's importance or significance may be deleted at any time. Please [[Wikipedia:Notability|see the guidelines for what is generally accepted as notable]]. 
+
+If you feel that you can assert the notability of the subject, you may contest the deletion. To do this, add &lt;code&gt;{{tl|hangon}}&lt;/code&gt; on the top of the page (just below the existing speedy deletion or &quot;db&quot; tag) and leave a note on [[Talk:Hunter wilson|the article's talk page]] explaining your position. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the article that would confirm the subject's notability under Wikipedia guidelines.
+
+For guidelines on specific types of articles, you may want to check out our criteria [[Wikipedia:Notability (people)|for biographies]], [[WP:WEB|for web sites]], [[WP:BAND|for bands]], or [[WP:CORP|for companies]]. Feel free to leave a note on my talk page if you have any questions about this.{{#if:2|&amp;nbsp;{{{2}}}|}}&lt;!-- Template:nn-welcome --&gt; --[[User:SquidSK|SquidSK]] [[User_talk:SquidSK|&lt;sup&gt;(1MC&lt;/sup&gt;]]&lt;sup&gt;•&lt;/sup&gt;[[Special:Contributions/SquidSK|&lt;sup&gt;log)&lt;/sup&gt;]] 17:27, 3 December 2009 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,22 @@
+<article id="13946671" title=Talk:Lafayette High School (Louisiana)>
+	<talkpage id="13946671" title="Talk:Lafayette High School (Louisiana)">
+{{WikiProject Schools|class=Stub|auto=yes|importance=}}
+{{WikiProject United States|class=stub|importance=low|LA=yes|LA-importance=}}&lt;!-- begin Bot added message --&gt;
+
+==Untitled==
+This article has been automatically assessed as '''Stub-Class''' because it uses the &lt;nowiki&gt;[[Category:Louisiana stub]]&lt;/nowiki&gt; on the article page.
+*If you agree with this assessment, please remove this message.
+*If you disagree with the assessment, please change it by editing the class parameter of the &lt;nowiki&gt;&lt;/nowiki&gt; above to the appropriate class and removing the stub template from the article.
+&lt;!-- end Bot added message --&gt;
+
+==Fair use rationale for Image:Lafayettehigh.JPG==
+[[Image:Nuvola apps important.svg|70px|left]]
+'''[[:Image:Lafayettehigh.JPG]]''' is being used on this article. I notice the image page specifies that the image is being used under [[Wikipedia:Fair use|fair use]] but there is no [[Wikipedia:Fair use rationale guideline|explanation or rationale]] as to why its use in '''this''' Wikipedia article constitutes fair use. In addition to the [[Wikipedia:Image copyright tags/Fair use|boilerplate fair use template]], you must also write out on the image description page a specific explanation or rationale for why using this image in each article is consistent with [[WP:FU|fair use]].
+
+Please go to [[:Image:Lafayettehigh.JPG|the image description page]] and edit it to include a [[Wikipedia:Fair use rationale guideline |fair use rationale]]. Using one of the templates at [[Wikipedia:Fair use rationale guideline]] is an easy way to insure that your image is in compliance with Wikipedia policy, but remember that you must complete the template. Do not simply insert a blank template on an image page.
+
+If there is  other fair use media, consider checking that you have specified the fair use rationale on the other images used on this page.  Note that any fair use images uploaded after 4 May, 2006, and lacking such an explanation will be deleted one week after they have been uploaded, as described on [[Wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|Media copyright questions page]]. Thank you.&lt;!-- Template:Missing rationale2 --&gt;
+
+[[User:BetacommandBot|BetacommandBot]] 21:44, 6 November 2007 (UTC)
+	</talkpage>
+</article>

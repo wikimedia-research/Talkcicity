@@ -1,0 +1,486 @@
+<article id="10585022" title=Talk:Line of succession to the British throne/Archive 2>
+	<talkpage id="10585022" title="Talk:Line of succession to the British throne/Archive 2">
+{{talkarchive}}
+{{archive-nav|2}}
+==Poll==
+
+OK, I'd like to start a poll on the proposition below. I'll give it a few days in case the wording should be tweaked. [[User: Doops|Doops]] | [[User_talk:Doops | talk]] 02:25, 29 December 2005 (UTC)
+
+''All the red-linked names ought to be unlinked at one fell swoop. Then if any particular redlinks would be useful, they could be restored individually. However, there are unlikely to be many such cases.''
+
+* '''Support''': [[User:Craigy144|Craigy]] [[Image:Flag of the United Kingdom.svg|15px]] ([[User_talk:Craigy144|talk]]) 02:39, 29 December 2005 (UTC)
+*'''No''' [[User:Williamb|Williamb]] 05:42, 29 December 2005 (UTC)
+* '''Support''': [[User:Tompw|Tompw]] 15:46, 29 December 2005 (UTC)
+* '''Support'''. Maybe I've got a streak of [[m:Immediatism|immediatism]] in me, but I think it's a rather trivial matter to readd the links once the articles have been created, and, in the mean time, the profusion of red links invites the creation of material that may not be encyclopedic. And it just looks a bit unprofessional, IMO. &amp;ndash; [[User:Seancdaug|Seancdaug]] 05:05, 1 January 2006 (UTC)
+*'''Support''', however could we then put the names in '''bold''', it would be clearer, easier on the eyes, and much easier to read through all the info. that is next to the name. [[User:Cooldoug111|Mac Domhnaill]] 20:04, 2 January 2006 (UTC)
+*'''Oppose''' - new articles should be encouraged and dealt with on a case by case basis when they make an appearance. -- [[User:Francs2000|Francs]][http://en.wikipedia.org/w/index.php?title=User_talk:Francs2000&amp;amp;action=edit&amp;amp;section=new 2000] [[Image:Flag of the United Kingdom.svg|25px|&lt;nowiki&gt;&lt;/nowiki&gt;]] 20:19, 2 January 2006 (UTC)
+::There are two problems with that: firstly, we don't want to encourage the creation of silly little stubs containing nothing more than &quot;Joe Schmoe is 4321st in line for the British Throne&quot;, which will be a pain to VfD. Secondly, what then? If an article gets created and VfD'd, it'll go back to having a red link; do we unlink then? Or do we keep a red link in case that person ever in the future should become notable? [[User: Doops|Doops]] | [[User_talk:Doops | talk]] 20:59, 2 January 2006 (UTC)
+:::Is there a way then of predetermining which are nobility or members of the peerage, and which are not?  I am against a widespread removal of all the redlinks because some of them may be notable. -- [[User:Francs2000|Francs]][http://en.wikipedia.org/w/index.php?title=User_talk:Francs2000&amp;amp;action=edit&amp;amp;section=new 2000] [[Image:Flag of the United Kingdom.svg|25px|&lt;nowiki&gt;&lt;/nowiki&gt;]] 00:04, 3 January 2006 (UTC)
+::::Yes, some of them might be notable; but if so it's no hassle at all to relink them again. It's ease itself. (With regards to your question, I'm afraid I don't understand what you're asking.) [[User: Doops|Doops]] | [[User_talk:Doops | talk]] 02:52, 3 January 2006 (UTC)
+:::::To put it another way, how will you know that an article of someone notable who is in the line of succession has been created in order to relink it? -- [[User:Francs2000|Francs]][http://en.wikipedia.org/w/index.php?title=User_talk:Francs2000&amp;amp;action=edit&amp;amp;section=new 2000] [[Image:Flag of the United Kingdom.svg|25px|&lt;nowiki&gt;&lt;/nowiki&gt;]] 03:02, 3 January 2006 (UTC)
+::::::Well, it's probable that whoever writes such an article would be aware of this page's existence and make the link him- or herself. And, after all &amp;mdash; if somebody were to come along, UNaware of this page's existence, and create an article for one of these folks right now, we have no guarantee that he or she would hit on the same name for that person's article as this page's redlink has! [[User: Doops|Doops]] | [[User_talk:Doops | talk]] 04:10, 3 January 2006 (UTC)
+*'''Support'''- makes it easier to read [[User:Astrotrain|Astrotrain]] 21:08, 2 January 2006 (UTC)
+**I strongly disagree with that. It is far harder to read now, the red links emphasised the names of the people who were in line. [[User:Jdcooper|Jdcooper]] 10:49, 19 January 2006 (UTC)
+*'''Support'''- Many of the people listed will never get articles and it is hard on the eyes.  People writing articles on the more obscure persons on the list will know about this list anyway, as they are probably royalty specialists. ''Or, perhaps, links could be established not to the specific person, where they are personally obscure, but rather to the history of the region they come from, if such an article exists.  For example, link HRH Princess X of Baden to an article on the history of Baden.'' Then readers could find out more about the context of these people.  --[[User:Sares|Sares]] 10:50, 17 January 2006 (UTC) Hmm, I should be delinked at one fell swoop too...
+
+'''Comments'''
+
+Actually, I am against this list going beyond anything that can be confirmed from an authoritative source, for reasons I have already stated.  The British monarchy website stops at no. 39, the Earl of Harewood, the 2006 edition of [[Whitaker's Almanack]] stops at no. 38, Zenouska Mowatt (the last descendant of George V).  I doubt if you will find any authority that goes much further than this. [[User:PatGallacher|PatGallacher]] 19:02, 29 December 2005 (UTC)
+
+:Fair enough; but that's a separate question. [[User: Doops|Doops]] | [[User_talk:Doops | talk]] 19:34, 29 December 2005 (UTC)
+
+:: Actually Zenouska is not the last descendant of George V, [[Maximilian Lascelles]] (Number 52) is. And since anyone can trace the line through the descendants of the Electress Sophia, there is no reason why it should be stopped at such a low number. [[User:Astrotrain|Astrotrain]] 21:08, 2 January 2006 (UTC)
+
+Well, at a certain point, the Catholic issue starts to become a serious problem.  Genealogies have, however, been published of the descendants of Queen Victoria.  I would guess that it is, in fact, at least theoretically possible for us to determine the status of all descendants of Queen Victoria. After that I think it would become seriously dubious.  The current list, in my understanding, is pretty clearly and demonstrably accurate for all descendants of Edward VII (through #81), and probably up to the descendants of Princess Ileana of Romania (that is, through #104, although I believe that Sophie de Laufenborg might be excluded).  If we ditched excluding listing of suspected Catholics, and included everyone, while specifically noting people ''known'' for certain to be excluded, the problem of things being authoritative really doesn't arrive at all.  The descendants of Queen Victoria are pretty clearly documented, and as I noted before, new births and deaths can easily be tracked on the internet. [[User:John Kenney|john k]] 07:58, 3 January 2006 (UTC)
+
+*'''Strongly oppose''' (tho its a bit late now), the red links made it clear which were the names, now large parts are just a mess of unwikified text, which in my opinion is far &quot;harder to read&quot; and &quot;harder on the eyes&quot;. Why do redlinks necessarily have to be filled in? Can they not just be used (effectively might I add) for emphasis? And plus, who says they should go to VfD? The more articles we have on Wikipedia the better, I would rather hundreds of new articles about European nobility than hundreds of new articles about peoples' RPG-aliases any day of the week. This article is far worse now. [[User:Jdcooper|Jdcooper]] 10:49, 19 January 2006 (UTC)
+
+*'''Support'''.  If it is hard to read, then just break it into blocks of ten or twenty. I don't think that the more articles on Wikipedia, the better.  My view is that the more ''good'' articles on Wikipedia, the better. [[User:Jll|Jll]] 18:33, 19 January 2006 (UTC)
+**If we have stubs on someone, thats better than having nothing, IMO. [[User:Jdcooper|Jdcooper]] 02:40, 20 January 2006 (UTC)
+
+*'''Oppose'''.  People unaware of this page may create a page for that person, and it gets a link in from here.  Also, it is encouraging for people who know stuff on the subject to then write that article (new users especially) --[[User:Gregstephens|LeftyG]] 23:38, 26 January 2006 (UTC)
+
+== Family Branches ==
+
+Is it really nescesary to include a list this long. Couldnt it just be simplified to mention the descendents of a specific monarch (ie. descendents of Queen Victoria __-__, or Descendents of Emperor Wilhelm II of Germany __-__,) and even mention where the descendents of Queen Victoria stop and those of Electress Sophia begin. I thnk that that this particular part of the article has gotten out of control, much of the info on it can be discovered by looking on the list itself. Any thoughts? [[User:Cooldoug111|Mac Domhnaill]] 20:10, 2 January 2006 (UTC)
+
+:I agree, the second list is too long and unruly. -- [[User:Francs2000|Francs]][http://en.wikipedia.org/w/index.php?title=User_talk:Francs2000&amp;amp;action=edit&amp;amp;section=new 2000] [[Image:Flag of the United Kingdom.svg|25px|&lt;nowiki&gt;&lt;/nowiki&gt;]] 20:13, 2 January 2006 (UTC)
+
+::Why?  The second list, it seems to me, is considerably more useful than the first, which is just a long list of names of mostly obscure people.  The second list is a guide that explains who all these people are. [[User:John Kenney|john k]] 07:53, 3 January 2006 (UTC)
+
+:::I think we could do with a combination of the two types of lists.  I will ponder.  [[User:Morwen|Morwen]] - [[User_talk:Morwen|Talk]] 21:46, 3 January 2006 (UTC)
+
+Recently the list has gotten too detailed.  I suggest that we limit it to the children of monarchs and get rid of all the grandchildren and great grandchildren.  If there is no good family tree article that provides the detail this list currently has (grandchildren and great grandchildren), then we should create a new article for that.  I added this new section back in June, precisely because the naked list was too confusing when trying to understand from whom the various people were descended from, but if the family branches list is too long, that can be just as confusing. &lt;br&gt;Btw, it was the confusion I had over understanding the historical succession to the throne (especially when it jumps to a distant relative) that lead me to create the [[Direct descent from William I to Elizabeth II]] article to help me  - family trees can be so complicated. :p   [[User:NoSeptember|&lt;font color = &quot;green&quot;&gt;'''NoSeptember'''&lt;/font&gt;]] [[User talk:NoSeptember|&lt;font color = &quot;blue&quot;&gt;&lt;sup&gt;''talk''&lt;/sup&gt;&lt;/font&gt;]] 22:06, 3 January 2006 (UTC)
+
+== German Principalities ==
+
+I was reading through the official website of the Prince of Löwenstein-Wertheim-Rosenberg, and noted that the princely family is Catholic. I removed Princess Anastasia of Prussia and her descendents from thie list. I'm worried some of the other German princes and princesses on this list may have married Catholics, especially those that aren't as well known like the royal families still in power. [[User:Morhange|Morhange]] 23:11, 14 January 2006 (UTC)
+::Really you shouldn't remove people right now, the list is going through changes and it is being considered listing all decendents with a footnote for those Catholics. It's been a sticking point for some time now. We just have your word they are Catholic at the moment. [[User:Williamb|Williamb]]
+:Just to clarify though, if someone is Catholic they are removed from the line of succession, but their children are only removed if they too are Roman Catholic.  Is this the case for all those individuals that have been removed from the line of succession? -- [[User:Francs2000|Francs]][http://en.wikipedia.org/w/index.php?title=User_talk:Francs2000&amp;amp;action=edit&amp;amp;section=new 2000] [[Image:Flag of the United Kingdom.svg|25px|&lt;nowiki&gt;&lt;/nowiki&gt;]] 23:16, 14 January 2006 (UTC)
+
+::Can you possibly post the url of the official site too, Morhange? Thanks [[User:Craigy144|Craigy]] [[Image:Flag of the United Kingdom.svg|15px]] ([[User_talk:Craigy144|talk]]) 23:17, 14 January 2006 (UTC)
+::: The official site is at http://www.loewenstein.de and there's a button to change the language to English. On the sidebar, it will say  Fürst Löwenstein, and then Family history. On the Family History page, at the bottom, it says: ''Their fight for Catholic doctrine and their bond with their church has been a hallmark of all the Princes of Löwenstein. As a leading Catholic layman of the 19th century, Prince Karl (*1834, +1921) presided over the Central Committee of German Catholics. His son, Prince Aloys, as well as his grandson, Prince Karl, carried on in his footsteps. As such, the Princes of Löwenstein have played an important role in the Central Committee and Catholic Conferences for a century.'' [[User:Morhange|Morhange]] 16:00, 20 January 2006 (UTC)
+
+
+== Position ==
+
+Prince Georg Friedrich of Prussia is listed at 150, but his article says 146. Could you guys check to see which one is correct? --[[User:Marudubshinki|maru]]  [[User talk:Marudubshinki|(talk)]] [[Special:Contributions/Marudubshinki|contribs]] 02:42, 26 January 2006 (UTC)
+* Its more likely that this article is correct- since any new additions will automatically move others up one. [[User:Astrotrain|Astrotrain]] 09:58, 26 January 2006 (UTC)
+**That's the problem with some of the stubs that exist just because the subject is in line for the throne. It's a ton of needless editing every time a new baby is born or someone else dies and the numbers change. [[User:Morhange|Morhange]] 22:48, 30 January 2006 (UTC)
+***It's a general problem with any article that attempts to speak of the &quot;present&quot; -- there are a half-dozen articles discussing sovereigns that have something similar to &quot;(currently Queen Elizabeth II)&quot; which will require updating when this changes.  Optimally, one would use Templates to keep this stuff automatically updated (in that case, anyway).  In the case of positions here, Mediawiki falls short in being able to do it all. [[User:Crwth|Crwth]] 17:18, 20 July 2006 (UTC)
+
+== Prince/ss of Prussia ==
+
+Although titles aren't recognized in Germany anymore because the monarchy is gone, members of the Prussian Royal Family continue to title themselves HRH Prince/ss NN of Prussia. However, I believe there are strict rules on marriage, so that if a &quot;royal&quot; member marries a &quot;commoner&quot; then any children are surnamed either Prinz or Prinzzesin von Preussen. I think someone literally translated for some of the people on this list, so the ones with no HRH preceding their name are not Prince/ss NN of Prussia, but NN Prinz or Prinz/zesin von Preussen or, rarely, NN von Hohenzollern, which is their legal surname and is, I believe, their legally recognised surname in Germany and elsewhere, even though their parent's HRH Prince/ss NN of Prussia isn't. I'm just wondering if I should go ahead and make the changes to these people, who aren't (at least in the Hohenzollern family) entilted to be called Prince/ss of Prussia. [[User:Morhange|Morhange]] 00:09, 8 February 2006 (UTC)
+
+:The legal surname of all members of the Franconian line (i.e., the Prussian royal house) of the Hohenzollern house is &quot;Prinz von Preussen.&quot;  &quot;Prinz von Hohenzollern&quot; is the surname only of members of the (Catholic) Swabian line (i.e. the House of Hohenzollern-Sigmaringen). The German government since 1918 has recognized monarchical titles as surnames. [[User:John Kenney|john k]] 11:01, 17 August 2006 (UTC)
+
+== Note that the first 506 people on this list, as well as HM The Queen, are descended from Queen Victoria. ==
+
+This isn't really true anymore as there have been a couple of newcommers in the first 506 so the number of people descended has moved.
+
+I propose making a more general statement about lineage rather than an exact number as it's really shooting at a moving target...
+::I think it would be the first 502 people, as Robin Bryan is currently the last on the list of descendants. [[User:Morhange|Morhange]] 19:38, 12 February 2006 (UTC)
+
+==Catholicism==
+
+Alexander von Pejacsevich is a Catholic - No. 656, he should be skipped.
+
+Prince Michael of Kent's children, Lord Frederick &amp; Lady Gabriella Windsor are both Catholic and as such, should not be featured in the official line of succession.
+::Frederick and Gabriella aren't Catholics. Their mother is Catholic, and because their father married a Catholic, HE isn't in the line of succession. Fred and Ella were both raised as Anglicans, so they're still in the line of succession. [[User:Morhange|Morhange]] 23:03, 27 March 2006 (UTC)
+
+I notice that people who have married a Catholic are removed from the line of succession, but that protestant children born to them after they married a Catholic are included. I have always understood that when you give up or loose your right to the throne, any children born '''after''' that are also excluded. Is Britain an exeption to this rule. As far as I know it exists in all other hereditary monarchies.[[User:Hebel|Gerard von Hebel]] 23:48, 23 June 2006 (UTC)
+:As long as their children adhere to the Protestant faith then they're fine (see the comment above for the examples of Lord Frederick and Lady Gabriella). [[Edward Windsor, Lord Downpatrick|Lord Downpatrick]] on the other hand followed his father and became a Catholic which is why he isn't included on the succession list. [[User:Craigy144|Craigy]] ([[User_talk:Craigy144|talk]]) 00:44, 24 June 2006 (UTC)
+::The other example is Victoria Riberio, daughter and grand-daughter of Catholics, raised in Brazil, but is herself a protestant. [[User:Rhyddfrydol|Rhyddfrydol]] 21:44, 13 December 2006 (UTC)
+
+==Obnoxious American???==
+
+Can anyone tell me who the article's number one, Sir Leonard von Hobbes, actually is???
+: noone, relax. --[[User:Tasc|tasc]] 07:07, 27 March 2006 (UTC)
+
+== Prince Floris ==
+
+I think number 847 can be taken of the list, her married a Catholic.
+
+== What about the Orthodox? ==
+
+Is the only religious restriction really that the candidate can't be Catholic or can't marry a Catholic?  There are Romanovs on this list whom I assume are Orthodox, and who therefore wouldn't be in communion with the Churches of England or Scotland despite being the heads of both if by some bizarre chance they succeeded.  And of course the possibility exists that Muslims, Jews, or just plain old atheists might inherit. --[[User:Jfruh|Jfruh]] 23:49, 16 May 2006 (UTC)
+
+: Yes, it really is the case that Catholicism is the only religious affiliation that prevents a person from succeededing to the throne of the United Kingdom.
+
+:: You still have to be a Protestant to inherit, as in a member of the [[Church of England]]. It is anyone who marries a Catholic who becomes inelgible, although they can still inherit if they marry a Jew or Muslim. But a Jew or Muslim cannot inherit, as they are not members of the Church of England. [[User:Astrotrain|Astrotrain]] 20:25, 21 May 2006 (UTC)
+
+::: Was George I a member of the Church of England before he became its head?  &amp;mdash;[[User:Tamfang|Tamfang]] 01:11, 22 May 2006 (UTC)
+
+:::: I believe actually that you only have to be a member of a church in communion w/the C of E, which most Lutheran churches are, yes? --[[User:Jfruh|Jfruh]] 02:10, 22 May 2006 (UTC)
+
+::::: The only Lutheran Churches in communion with the Anglican Churches of the British Isles are the Porvoo Churches (the Churches Sweden and Norway, and the Evangelical-Lutheran Churches of Estonia, Lithuania, Iceland, and Finland) since 1994-5, so I don't think it is really true to say that most Lutheran Churches are in communion with the Church of England. More to the point, does the Sovereign have to be in communion with the Church of England, or does he/she only have to be willing to be its Supreme Governor and to take the necessary oath to defend it at the coronation (having taken the Scottish Presbyterian oath immediately on his/her succession)? Indeed, the Sovereign manages to be Supreme Governor of the Church of England at the same time as he/she is an ordinary member of the Church of Scotland, with which the Church of England is not in communion. I believe Queen Victoria caused some disquiet when she actually received the Sacraments in the Church of Scotland. --[[User:Oxonian2006|Oxonian2006]] 23:03, 25 May 2006 (UTC)
+
+== De-linking the red links ==
+
+There are more than 800 red links belonging to non notable heirs to the throne of Britain. If they don't deserve an article, shouldn't we just de-link them and bold their names instead? [[user:Funnybunny|Funnybunny]] (&lt;sup&gt;&lt;i&gt;[[user talk:Funnybunny|talk]]&lt;/i&gt;&lt;/sup&gt;/&lt;sub&gt;[[WP:CVU|Counter Vandalism Unit]]&lt;/sub&gt;) 03:24, 7 June 2006 (UTC)
+*I see your point, but leaving the links will incite people to create articles and avoid having to re-link once the people do become notable (which could happen as they grow older, assume more prominent styles and have children of their own). --[[User:LeoNomis|LeoNomis]] 13:57, 27 June 2006 (UTC)
+
+== tree style ==
+
+It's a bit odd to see a linear list followed by two trees.  I wonder how much longer the page would be if it showed all of Sophia's legitimate descendants in tree form, bolding those now alive (and not disqualified) and italicizing those disqualified.  &amp;mdash;[[User:Tamfang|Tamfang]] 04:33, 7 June 2006 (UTC)
+
+: By the way, what's the earliest generation (counting from Sophia) that has living members?  In other words, who is nearest the root of the family tree?  &amp;mdash;[[User:Tamfang|Tamfang]] 15:58, 10 August 2006 (UTC)
+
+== The Duke of Fife ==
+
+It appears that the Duke of Fife (53rd in succession) is the first person on the list who is not descended from King George V - is that correct? [[User:MK2|MK2]] 02:25, 19 June 2006 (UTC)
+
+: That is indeed consistent with [http://www.wargs.com/essays/succession/2001.html].  &amp;mdash;[[User:Tamfang|Tamfang]] 05:20, 19 June 2006 (UTC)
+
+== Standardizing format ==
+
+Today I have standardized the format of the names of various individuals (almost always preferring the format used earlier in the list, but not previously followed later in the list).
+
+1. Firstname Lastname, Courtesy Peerage Title
+
+2. Lady Firstname Lastname (not The Lady Firstname Lastname)
+
+3. The Hon. Firstname Lastname (not Hon. Firstname Lastname or The Honourable Firstname Lastname)
+
+4. removed Mr. and Miss from four entries
+
+5. for peers and peeresses: The Title of Place (not Firstname Lastname, Title of Place); this is what is done with those who come early in the list (e.g. The Earl of Harewood) [[User:Mcferran|Noel S McFerran]] 22:26, 5 July 2006 (UTC)
+
+: I notice &quot;son of Viscount Lascelles&quot; but later &quot;son of Lord Southesk&quot;  &amp;mdash;[[User:Tamfang|Tamfang]] 03:48, 6 July 2006 (UTC)
+
+== Italics for parenthetical skipped statements ==
+
+How about putting the parenthetical skipped statements in italics? E.g. at number 30 (regarding Prince Michael).  I think that this makes clear that the skipped statement is something different from the genealogical description.  Please reply here (but don't change the example on the page until there appears to be a consensus). [[User:Mcferran|Noel S McFerran]] 00:43, 18 July 2006 (UTC)
+*It's another unfortunate limitation of Mediawiki that we can't insert unnumbered entries into the list, perhaps with a strikethrough (and a parenthetical reason), to denote skipped individuals.  [[User:Crwth|Crwth]] 17:35, 20 July 2006 (UTC)
+
+:: Let's see &amp;mdash;
+::# Tom
+::* Dick
+::# Harry
+::: Alice
+::# Bob
+:: Damn, that is unfortunate.  &amp;mdash;[[User:Tamfang|Tamfang]] 19:09, 20 July 2006 (UTC)
+
+
+Oh yes, we can.
+
+#Tom
+#:Dick
+#Harry
+#*Alice
+#Bob
+
+Do it, folks. I know you want to. &lt;tt&gt;;)&lt;/tt&gt; &amp;mdash;[[User:Nightstallion|&lt;span style=&quot;font-variant:small-caps&quot;&gt;Nightst&lt;/span&gt;]]&lt;font color=&quot;green&quot;&gt;[[User:Nightstallion/esperanza|&lt;span style=&quot;font-variant:small-caps&quot;&gt;a&lt;/span&gt;]]&lt;/font&gt;[[User:Nightstallion|&lt;span style=&quot;font-variant:small-caps&quot;&gt;llion&lt;/span&gt;]] [[User talk:Nightstallion|''(?)'']] 13:54, 21 July 2006 (UTC)
+
+: Take a look at the page now (at number 30) to see how this would look.  [[User:Mcferran|Noel S McFerran]] 16:29, 21 July 2006 (UTC)
+
+::I like it, though I'd rather use
+
+:''skipped: [[nomen nescio]], .......''
+
+instead of
+
+:''skipped [[nomen nescio]], ......''
+
+&amp;mdash;[[User:Nightstallion|&lt;span style=&quot;font-variant:small-caps&quot;&gt;Nightst&lt;/span&gt;]]&lt;font color=&quot;green&quot;&gt;[[User:Nightstallion/esperanza|&lt;span style=&quot;font-variant:small-caps&quot;&gt;a&lt;/span&gt;]]&lt;/font&gt;[[User:Nightstallion|&lt;span style=&quot;font-variant:small-caps&quot;&gt;llion&lt;/span&gt;]] [[User talk:Nightstallion|''(?)'']] 13:16, 24 July 2006 (UTC)
+
+== Elder and younger, etc. ==
+
+In the early part of the list (and in a few other later parts), it is common to describe a person as the &quot;elder son&quot; of somebody, rather than just &quot;son&quot;.  I started adding this to lower parts of the list - but then wondered if this is really useful.  It certainly makes the descriptions longer (more often going to a second line).  What do others think? [[User:Mcferran|Noel S McFerran]] 13:35, 29 July 2006 (UTC)
+
+: Since seniority can be inferred from the sequence, there's no harm in omitting it.  &amp;mdash;[[User:Tamfang|Tamfang]] 01:17, 6 August 2006 (UTC)
+
+== Skipped for other reasons than religion? ==
+Is religion the only reason to miss out on inclusion in the line of succession? I know that in other countries those who married commoners or married without the formal consent of the Sovereign have been excluded. I think the same would be the case for those who married sovereigns of other nations (cf. [[Prince Philip, Duke of Edinburgh]] who could not keep his Danish and Greek titles...). It strikes me as possible to resign the right of succession, which would tempt others. Anybody know anything on this subject? [[User:OJH|OJH]] 17:42, 3 August 2006 (UTC)
+I gather religion is one reason why some people are skipped in the line of succession, but is it the only reason? Would it be useful / suitable / possible to add the reason to their omission? [[User:OJH|OJH]] 17:42, 3 August 2006 (UTC)
+
+:The Duke of Edinburgh is not and has never been a foreign sovereign. He has been British from birth. The renunciation is unproven and would not have been needed. He really still has those titles. Reasons for exclusion are marrying a Roman Catholic and being born out of wedlock or having no legitimate line of descent from Sophia, Electress of Hanover. Also, if The Queen doesn't approve the marriage (or specifically opposes it) then succession rights are lost. That's about it. [[User:Cfvh|Charles]] 18:01, 3 August 2006 (UTC)
+
+::OK, fine, but wouldn't it be of encyclopedic interest to know whether NN is excluded for marrying a Roman Catholic, being born out of wedlock or having married someone against the Sovereigns will? [[User:OJH|OJH]] 23:31, 5 August 2006 (UTC)
+
+:::Marrying a Catholic seems not to disturb the right of your children to inherit the throne, while being born out of wedlock distrupts your and your decendants claim. The difference is rather important... [[User:OJH|OJH]] 23:33, 5 August 2006 (UTC)
+
+==Skipping==
+Are we getting too many skipped people now. It doesn't add to the subject of this page and makes it long and cumbersome.
+
+I suggest that all we need is a line which says that x has been skipped and all his decendents because he married a Catholic or x's decendents have been skipped because they are Catholics. --[[User:Surveyor13|Surveyor13]] 17:46, 6 August 2006 (UTC)
+
+:If it's useful to list those in the line of succession according to the Act of Settlement, surely it is just as useful to list those excluded.    While a person is permanently excluded, it does not mean that his descendants are necessarily also excluded.  If a papist who is excluded has children who are raised anything but papist, then those children are in line of succession.  This has already happened with a few of the descendants of Archduchess Ileana (e.g. nos. 105-108 - although I think that no. 105 may be a mistake).  The only way of keeping up on this is to list those who are excluded so that when they have children some future editor can determine if the children are papist or not. [[User:Mcferran|Noel S McFerran]] 19:14, 6 August 2006 (UTC)
+
+::Papist? --[[User:Surveyor13|Surveyor13]] 21:53, 6 August 2006 (UTC)
+
+:::The exact phrase in the Act of Settlement is anyone who &quot;is, are or shall be reconciled to, or shall hold communion with, the See or Church of Rome, or shall profess the popish religion, or shall marry a papist&quot;. [[User:Mcferran|Noel S McFerran]] 22:49, 6 August 2006 (UTC)
+
+::::There are still some people who aren't on the list as being skipped, including the Royal Family of Spain and a few others. Easiest way to tell, usually, is when the boys have the name Maria. I'm going to go through a list of at least all of Victoria's descendants to see what other Catholics have been skipped. [[User:Morhange|Morhange]] 17:51, 7 August 2006 (UTC)
+
+Alright, I've gone ahead and added almost every one of Queen Victoria's skipped descendants to the list. I temporarily omitted the Spanish descendants as it is a very long list, and it's very late where I am now, but I'm going to add those in the morning. However, I have a couple questions about certain omissions. Do we need to put illegitimate children on the list who were later legitimized? I see that Benjamin and Emily Lascelles are on here, but I wasn't sure. Also, if a non-Catholic marries a Catholic, but later divorces, are they still barred from the succession? Anyway, I've done my best to add the skipped descendants, and hopefully I didn't miss anyone, excluding the Catholic descendants of Princess Beatrice, which, as I've said, I'll add tomorrow. [[User:Morhange|Morhange]] 06:31, 9 August 2006 (UTC)
+
+:Could you put on why individuals or groups have been skipped. --[[User:Surveyor13|Surveyor13]] 08:20, 9 August 2006 (UTC)
+
+: The Act says that anyone who &quot;should be reconciled to, or shall hold communion with the see or Church of Rome, or should profess the popish religion, or marry a papist, should be excluded&quot;.  It does not say &quot;anyone who is married to a papist&quot;, but rather anyone who &quot;should ... marry a papist&quot;.  So a person marrying can only be excluded by his own choice (i.e. a wife cannot decide to become a papist and thereby remove her husband from the succession list). This is the standard way the Act has been interpreted (e.g. with the Crown Prince of Yugoslavia who formerly had a marriage union, now annulled and divorced, with a Catholic). [[User:Mcferran|Noel S McFerran]] 13:07, 9 August 2006 (UTC)
+
+::Everyone that that I listed as skipped was skipped because they either married a Catholic or are Catholic themselves. I take it that illegitimate children who are later legitimized by their parents' marriage are listed as skipped; however, are the children of these legitimized descendants to be included in the skipped list too? [[User:Morhange|Morhange]] 22:47, 9 August 2006 (UTC)
+
+:::I would argue that in this particular case (it actually hasn't happened yet that a legitimatED child has had children), then it would NOT be necessary to list the people individually.  There is no way that the descendants of the legitimated can get &quot;back&quot; into line (as opposed to the case of the non-papist descendants of people excluded for being papist or marrying a papist). [[User:Mcferran|Noel S McFerran]] 00:30, 10 August 2006 (UTC)
+
+:::I just want to say &quot;Great Job&quot; Morhange. The list looks great with the skipped persons being indented and out of the &quot;line of succession&quot;. [[image:smiley.png|25px]] [[User:Prsgoddess187|Prsgodd]][[Wikipedia:Esperanza|&lt;font color=&quot;green&quot;&gt;e&lt;/font&gt;]][[User:Prsgoddess187|ss187]] 23:40, 9 August 2006 (UTC)
+::::Thanks :) By the way, Caterina, Countess d'Albora, who is the daughter of [[Marco Torlonia, 6th Prince of Civitella-Cesi]], was born before her parents married, and she now has two sons. I have included both Caterina and her sons, since the two elder Lascelles children are listed, even though they were born before their parents marriage, but I'll leave it up to someone else to determine whether or not Caterina's sons should be included. I just finished adding the Catholic descendants for Princess Beatrice, so the list is up to date concerned the descendants of Queen Victoria. I'll do my best to work on the latter parts of the list when I get a chance. [[User:Morhange|Morhange]] 01:16, 10 August 2006 (UTC)
+:::::I don't think illegitimate children should be listed.  If they were, there'd be some descendants of William IV ahead of the Queen!  [[User:John Kenney|john k]] 15:28, 16 August 2006 (UTC)
+::::::It's not a matter of listing illegitimate children, but rather of listing children legitimated by the subsequent marriage of their parents.  The children were born before their parents marriage, but are now legitimate - but that still doesn't make them eligible for the succession. [[User:Mcferran|Noel S McFerran]] 17:05, 16 August 2006 (UTC)
+
+John K's comment suggests a hypothetical problem: if the succession should ever reach beyond someone &quot;skipped&quot;, do we list that skipped person at the top?  &amp;mdash;[[User:Tamfang|Tamfang]] 04:50, 17 August 2006 (UTC)
+
+== Names and styles of married European ladies ==
+
+A princess of the UKGBNI keeps her style of princess when she marries a commoner, but this is not the case with German princesses and duchesses.  There is no such person as &quot;HI&amp;RH Archduchess Alexandra, Countess von Baillou&quot;; by her marriage Alexandra left the All-Highest House and is no longer an archduchess.  This is similar to the sisters of the King of Norway who are no longer &quot;princesses of Norway&quot; although they do continue to have the style &quot;princess&quot;.  It is sometimes difficult to determine the appropriate name and style for a married lady (especially today when some ladies retain their &quot;maiden&quot; name) - but I suggest that we continue to try. [[User:Mcferran|Noel S McFerran]] 02:25, 10 August 2006 (UTC)
+:I am under the impression that an archduchess retains her title and style if she marries, but may choose to use her husband's. [[User:Cfvh|Charles]] 01:45, 16 August 2006 (UTC)
+::The current Habsburg house laws have not been published.  But this was certainly not the case in the past.  Even when an archduchess married equally (i.e. to a member of a reigning or formerly reigning family), she had to renounce her membership in the All-Highest House. My original point, however, was that it is inappropriate to apply English &quot;rules&quot; (i.e. social norms of titulature) to continental ladies. [[User:Mcferran|Noel S McFerran]] 03:04, 16 August 2006 (UTC)
+:::Are titles lost with membership, or by membership do you really mean succession rights? (Since, I think, females were &quot;in remainder&quot; to succeed in the House of Austria). I believe there are many examples of females renouncing succession rights, etc, but retaining titles and styles. [[User:Cfvh|Charles]] 04:15, 16 August 2006 (UTC)
+
+==Related discussion==
+There is currently a debate on whether or not to delete the article on Countess [[Maralyn Ramsay]] (approx #650 in line of succession).  Interested editors are invited to participate in [[Wikipedia:Articles for deletion/Maralyn Ramsay, Countess of Dalhousie | the discussion]]. --[[User:Elonka|Elonka]] 22:43, 15 August 2006 (UTC)
+*See also [[Angelica Kreuger]] (#88). [[User:Kappa|Kappa]] 15:16, 16 August 2006 (UTC)
+
+== [[Princess Sophie of Romania]] ==
+
+Today [[User:Morhange]] edited the line of succession as well as the webpage about Princess Sophie to say that she married a Catholic.  However, this page [http://www.geocities.com/dagtho/uk-succession.html] says that her husband converted to Orthodoxy before his marriage.  If that were the case, then Sophie did not marry a papist and remains in line.  Presumably then her daughter was baptised according to the rites of the Orthodox Church. [[User:Mcferran|Noel S McFerran]] 04:49, 18 August 2006 (UTC)
+
+:Does conversion away from Catholicism count for allowing a spouse of the convertee to remain in the line of succession? I am under the impression that the rule was once a papist, always considered a papist. [[User:Cfvh|Charles]] 04:52, 18 August 2006 (UTC)
+::The Act says &quot;marry a papist&quot;.  It doesn't say &quot;marry someone who was a papist at anytime during their lives&quot;.  [[User:Mcferran|Noel S McFerran]] 04:58, 18 August 2006 (UTC)
+
+:In a message on alt.talk.royalty dated November 30, 1999, Marlene Koenig specifically says that their child &quot;will be christened in the Orthodox faith&quot;. In a message dated August 21, 2001, she writes, &quot;Michel de Laufenborg converted to Orthodoxy, and Elisabeta is most certainly Orthodox. I was invited to her christening, and have photos from the event.&quot; Since Marlene is in regular contact with members of the Romanian Royal Family, she is a fairly good source on this topic. [[User:Mcferran|Noel S McFerran]] 04:58, 18 August 2006 (UTC)
+
+::Thank you for the clarification, Noel. [[User:Cfvh|Charles]] 05:33, 18 August 2006 (UTC)
+:::My mistake :) I think it's very easy to confuse things like this. People with French and Spanish names you usually think are Catholics. I'm glad someone found this information out. [[User:Morhange|Morhange]] 02:34, 19 August 2006 (UTC)
+
+== Preposition, etc, changes ==
+
+I have changed ''some'' of the instances of ''von'', ''und'' and ''zu'' to ''of'', ''and'' and ''of'' (again), respectively, for the following reasons:
+
+*Where a title traditionally came from a sovereign state (Waldeck and Pyrmont, for instance)
+*Where the title was in English and appended to the end of the name (e.g, ''Hereditary Prince/Count of...'')
+*Where cadet members of a house had a head of the house with a title already using ''of'' (e.g, ''Prince/Count of...'')
+*Where the title is most commonly given an ''of''
+*And generally, but not always, where a style in the form of a grade of ''Highness'' was given
+
+No changes where made to titles given completely in a native form or where no style was given and the English title preceded the forenames. [[User:Cfvh|Charles]] 05:32, 18 August 2006 (UTC)
+
+== Doubly listed: Carl, Prince of Wied ==
+
+The Prince and his descendants are shown on the list twice, starting at 508 and 624. I am unfamiliar with the style of the list and how doubly descended people should be noted, but they should only be listed once. [[User:Cfvh|Charles]] 05:35, 18 August 2006 (UTC)
+
+:They should go at the highest place they would appear. [[User:John Kenney|john k]] 01:55, 20 August 2006 (UTC)
+
+== Rosenborg and Bernadotte ==
+
+Several Rosenborgs are shown with the surname ''von Rosenborg''. Is that indeed correct? Also, there are Bernadottes shown with the surname ''av Bernadotte'', which is surely incorrect. [[User:Cfvh|Charles]] 05:57, 18 August 2006 (UTC)
+:Isn't it auf Rosenberg/borg and auf Bernadotte? [[User:Morhange|Morhange]] 02:32, 19 August 2006 (UTC)
+::No, ''auf'' is a preposition meaning ''on''. Very, very few families use it. The Rosenb'''o'''rgs use ''af'' and the Bernadottes don't have preposition preceding their name... It is just a surname. There are ''af Rosenborgs'', ''Bernadottes'' and ''Bernadottes of Wisborg''. The titled Rosenborgs are ''of Roseborg''. [[User:Cfvh|Charles]] 03:23, 19 August 2006 (UTC)
+:::Oops, for Bernadotte, I mean, isn't it something like '''Count/ess Bernadotte auf Wisborg'''. [[User:Morhange|Morhange]] 16:57, 19 August 2006 (UTC)
+::::No, the surname is Bernadotte and the title is Count/Countess of Wisborg (Greve/Grevinde af Wisborg). It can be all put together as ''(Name) Bernadotte, Count of Wisborg'' or ''Count (Name) Bernadotte of Wisborg'' The particle is ''af'', not ''auf''. ''Af'' means ''of'' while ''auf'' is German and means ''on''. [[User:Cfvh|Charles]] 17:07, 19 August 2006 (UTC)
+
+Grevinde is not Swedish, it is Danish. It is certain NO Wisborg's Bernadotte uses Danish title, except possibly when in Denmark. Btw, Wisborg is a Luxemburger title, and not granted by Sweden - that may mean something to the choice of reasonable preposition to express the genitive. Af is very very old Swedish and used only in names established centuries ago. Today it's av. But of course practically no &quot;new&quot; surname today gets that prefix anyway. [[User:Suedois|Suedois]] 01:47, 20 August 2006 (UTC)
+
+== Prime Minister ==
+
+Simple question, does anyone know the line of succession for the office of Prime Minister in the Parliamentary System?  I think its important and should be on Wikipedia.  Not in this article of course but in a separate one. - [[User:BlackWidower|BlackWidower]] 03:23, 30 August 2006 (UTC)
+
+: There isn't one. The monarch simply appoints a new one. In cases where the PM dies or resigns, the monarch will ask the person most able to lead a government. [[User:Astrotrain|Astrotrain]] 08:38, 30 August 2006 (UTC)
+
+::Who that person is, is a decision that is largely up to the Queen (or technically the [[Queen-in-Parliament]]). She would normally extend the invitaion to the leader of the largest party in parliament. In the event of [[Tony Blair]]'s death, [[John Prescott]] would immediately become Labour Party Leader until the party conference (at which all Labour leaders must stand for re-election, often unopposed). Prior to this Prescott would most likely speak his colleagues and determine whether he had enough support to carry on until this time. My point of view is that this would be unlikely. In this event Prescott would decline to &quot;kiss hands&quot; (as the invitation to form a government is formally called) and then the queen would be free to ask whoever she wanted to form the government on the advice of her advisors. The Labour leadership would probably meet to work out a candidate. [[Gordon Brown]] is seen by many as the &quot;heir-apparent&quot;, and would likely be the person most able to form a government in these circumstances. He would let it be known that he would be willing and the leadership would let it be known that he would be acceptable and he would be asked to form a government (this is what happened with the appointment of [[Alec Douglas-Home]]. Alternatively Prescott may be supported as prime minister with the understanding that a full leadership election would take place, and that he would step aside for the new leader (unless he stood as leader and won). This is what happened after the death of [[John Smith (UK politician)|John Smith]], when [[Margaret Beckett]] was leader of the opposition and leader until a leadership election could be held.
+
+::It should be noted that this does not lead to any constitutional crisis as [[Parliamentary sovereignty|parliament would remain supreme]], and could overrule any decision made by the Queen, or any member of the cabinet that did not have the support of parliament. And parliament would certainly be recalled if it was not in session in this event.
+
+::The case would also be more complicated if parliament had been dissolved for a general election, but this is getting way way way into the realms of speculation. [[User:MrWeeble|&lt;span style=&quot;color:#008040;&quot;&gt;Mr&lt;/span&gt;&lt;span style=&quot;color:#007FBF;font-weight:bold&quot;&gt;Weeble&lt;/span&gt;]] &lt;small&gt;[[User talk:MrWeeble|Talk]] [[Wikipedia:WikiProject British TV channels|Brit tv]]&lt;/small&gt; 12:24, 30 August 2006 (UTC)
+
+: Parliament cannot &quot;over-rule the Queen&quot; in her choice of Prime Minsiter, as it is within the [[Royal Prerogative]] to decide the Prime Minister. Parliament can of course, give a vote of no confidence in the new government- requiring them to resign, however Parliament cannot choose a Prime Minister in its own right. [[User:Astrotrain|Astrotrain]] 12:33, 30 August 2006 (UTC)
+
+== positions not given ==
+
+Could approximate positions be added for Michael of Romania, Simeon II of Bulgaria and Alexander of Serbia and Yugoslavia as they are for ineligible monarchs in the previous sections? [[User:Circeus|Circeus]] 17:58, 7 September 2006 (UTC)
+:Approximate positions for what?  They are not in line at all, neither as number 100 or number 1000.  They are just not there anymore than I am.  To say what number they would be if they had not each married a papist, is like me saying that I would be number six if only my parents were Elizabeth and Philip. [[User:Mcferran|Noel S McFerran]] 00:30, 8 September 2006 (UTC)
+::Then what about this text in &quot;European monarchs in the Line of Succession&quot;?
+:::''Were he not a Catholic, HM King Juan Carlos of Spain, as the great-grandson of Princess Beatrice, who in turn was the youngest daughter of Queen Victoria, would be in the Line of Succession somewhere around the 500 mark. Other Catholic monarchs include HM King Albert of Belgium (about 1100th) and Henri, Grand Duke of Luxembourg (about 1120th).''
+::[[User:Circeus|Circeus]] 02:37, 5 October 2006 (UTC)
+
+== Upcoming additions ==
+
+According to Paul Theroff's online gotha, several people in the line of succession are expecting new additions, including, but not limited to:
+*[[Baron Carl Silfverschiöld]] - due in autumn 2006
+*Count Alexander Bernadotte - due in autumn/winter 2006
+*[[Prince Pieter Christiaan of Orange-Nassau, van Vollenhoven]] - due in November 2006
+*Cia-Rosemarie Rodenburg (nee Bernadotte) - due in November 2006
+*Bettina Haug (nee Bernadotte) - due in December 2006
+*[[Louis Alphonse, Duke of Anjou]] - due in April 2007
+*[[Willem-Alexander, Prince of Orange]] - due in April 2007
+*[[Frederik, Crown Prince of Denmark]] - due in May 2007
+*[[Felipe, Prince of Asturias]] - due in May 2007
+
+I figure this would be a good reference for when these new births occur so that the list can be quickly updated. The children of Louis Alphonse and Felipe will, of course, be among the skipped, but since we've included skipped people in line, they should be added. [[User:Morhange|Morhange]] 00:17, 7 October 2006 (UTC)
+:Updated. [[User:Morhange|Morhange]] 01:57, 27 October 2006 (UTC)
+
+This is an updated list of these upcoming additions:
+*[[Louis Alphonse, Duke of Anjou]] - due in April 2007
+*[[Willem-Alexander, Prince of Orange]] - due in April 2007
+*[[Frederik, Crown Prince of Denmark]] - due in May 2007
+*[[Felipe, Prince of Asturias]] - due in May 2007
+*[[Alexander Windsor, Earl of Ulster]] - due Spring 2007
+**[[Baron Carl Silfverschiöld]] - born, name not yet known
+**Count Alexander Bernadotte - born, name not yet known
+**[[Prince Pieter Christiaan of Orange-Nassau, van Vollenhoven]] - Emma Francisca Catharina
+**Cia-Rosemarie Rodenburg (nee Bernadotte) - born, name not yet known
+**Bettina Haug (nee Bernadotte) - born, name not yet known
+
+A little confusing I know, but if we are using this list to keep the additions straight, we should update this list as well. [[User:Prsgoddess187|Prsgodd]][[Wikipedia:Esperanza|&lt;font color=&quot;green&quot;&gt;e&lt;/font&gt;]][[User:Prsgoddess187|ss187]] 19:30, 17 January 2007 (UTC)
+
+== Lambrino == 
+
+Anyone know if the descendants of [[Carol Lambrino]] should be included in the line of succession? [[User:DWC LR|dwc lr]] 00:13, 21 October 2006 (UTC)
+:That's a good question. [[Carol II of Romania|Carol]] and Zizi Lambrino were certainly married when their son was concieved, but not when he was born. He's certainly not illegitimate, but I think that inclusion in the line of succession is limited to those who were BORN DURING the marriage. [[User:Morhange|Morhange]] 00:44, 21 October 2006 (UTC)
+::I've never seen them included in the line of succession. (Morhange, I corrected your link to be to Carol II, as Carol I was never, in fact, married to Zizi Lambrino. [[User:John Kenney|john k]]
+:::Thanks. Hah, I KNEW there were two Carols, but I was typing that earlier and completely forgot about his grandfather. I was thinking of kings '''after''' Carol II and thought, hmm, only his son Michael, instead of thinking back. [[User:Morhange|Morhange]] 02:21, 21 October 2006 (UTC)
+
+== Dual Citizens in Line == 
+
+Who is the fist in the line of succession to hold dual citizenship? Is anyone a citizen of a country which does not have a monarchy, i.e. the United States or other former colonies in the new world? Presumably this would be far down the line, but an intriguing point. [[User:72.83.162.52|72.83.162.52]] 19:12, 10 November 2006 (UTC)
+:I believe Count Christopher von Habsburg-Lothringen and his children live in the US. There are also several others who were born or live in the US as well, but I don't know their names off the top of my head. [[User:Morhange|Morhange]] 03:40, 11 November 2006 (UTC)
+::Aren't the Habsburg-Lorraines Catholic? [[User:Cfvh|Charles]] 03:48, 11 November 2006 (UTC)
+::Tewa Lascelles was born in New Mexico, and his mother was American.  James Lascelles' first wife was also American, but their children were born in England, so I'm not sure if they would have dual citizenship.  [[User:John Kenney|john k]] 12:38, 11 November 2006 (UTC)
+:::Per U.S. citizenship law at the time, Rowan Lascelles, James's son (and only legitimate child) from his first marriage, is an American citizen only if his mother (who was certainly a citizen, having been born in Maine) lived in the U.S. for ten years prior to his birth, and at least five of those years were after her fourteenth birthday. This is highly unlikely, seeing as by her nineteenth birthday (the first point at which it would even be possible for her to live ''anywhere'' for five years after her fourteenth birthday) she was already married to James, and, presumably, living in Britain. So I think it's safe to say that Rowan is ''not'' an American citizen, but his half-brother Tewa most certainly is, as he was born in New Mexico, and is thus the highest-ranking duel citizen in the line of succession. [[User:TysK|TysK]] 20:42, 17 January 2007 (UTC)
+::After the Lascelles', there's obviously the King of Norway.  Various of his sister Princess Ragnhild's grandchildren were born in Brazil, and may have Brazilian citizenship.  King Michael of Romania and his children are, I believe, citizens of Romania, and Crown Prince Alexander and his relations are Serbian citizens, I think.  Some of these, I think, would also be American citizens, since the Crown Prince's children, at least, were born in the US.  After that, well, there's a whole ton of Germans.  But  I'd say Tewa Lascelles is probably the first. [[User:John Kenney|john k]] 12:41, 11 November 2006 (UTC)
+:As far as know, UK citizenship is not required to ascend the throne... which raises the intrigueing idea of the a monarch having to apply for a visa. [[User:Tompw|Tompw]] 11:57, 14 November 2006 (UTC)
+::The Sophia Naturalization Act (it might be called something slightly different), actually makes all descendants of Electress Sophie British subjects.  [[User:John Kenney|john k]] 12:35, 14 November 2006 (UTC)
+::: That Act was repealled in 1949- see [[Sophia Naturalization Act]] (although it may still apply in some instances for those born before that date- but they are only Overseas Citizens, with no right to abode. [[User:Astrotrain|Astrotrain]] 12:47, 14 November 2006 (UTC)
+
+== Correct factual error ==
+
+Can someone correct the second in line? &quot;HRH Prince Mandeep Of Edgeworth (b.1986), UEA Science with a Foundation year graduate.&quot; Thanks.
+
+[[User:69.158.31.241|69.158.31.241]] 03:16, 12 December 2006 (UTC)
+
+:No.  Get a life. -- [[User:Roleplayer|Roleplayer]] 09:20, 12 December 2006 (UTC)
+
+== styles are not used in articles  ==
+
+See the consensus about styles. Usage means (or can be interpreted) as endorsement. That's POV. Style is explained once, regularly in infobox, per one person (which generally means the person's biography article) and is not to be repeated. This list article is not the place to express styles. A list mentions a person, and does not supply any more details as long as they are not absolutely necessary. If a person is unrecognizable or something without that style, sorry, then the person does not deserve place in Wikipedia. [[User:ObRoy|ObRoy]] 21:01, 12 December 2006 (UTC)
+
+== Born out of wedlock ==
+
+Can someone please clarify.  If a child is &quot;born out of wedlock&quot; and the parents later marry, is the person in line to the throne or not? [[User:Rhyddfrydol|Rhyddfrydol]] 21:47, 13 December 2006 (UTC)
+:Nope. The child is legitimized, but because at the time of their birth, their parents were unmarried, they aren't in line. I'm still a little unsure about what to do about the descendants of [[Carol Lambrino]] because his parents ''were married'', but before he was born, not at the time of his birth. I think his descendants are just left out anyway. [[User:Morhange|Morhange]] 22:00, 13 December 2006 (UTC)
+:: My take on Carol Lambrino is that his descendants should be on the list. Normally he wouldn't, as it was a [[morganatic marriage]], but the UK has never accepted such arrangements. [http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2006/02/09/db0901.xml] says that a Romanian court ruled that the marriage was valid and he does have the rights to his father's titles, although his half-brother King Michael I has appealed to the Romanian Supreme Court. The article I linked to says that there is some sort of rule regarding legitimacy: As long as the child is born within 300 days of the date of annulment, he or she is considered legitimate. [http://links.jstor.org/sici?sici=0026-7961(195501)18%3A1%3C71%3ALOACCO%3E2.0.CO%3B2-%23] says 9 months. Lambrino was born 261 days after the annulment was published. Therefore he is legitimate. The Romanian Courts agree: They say he's the heir to the Romanian throne. He wasn't a papist, as far as I know. Why would he have a claim to the Romanian throne but no claim to the British throne (when both came from his father)? [[User:Zhinz|Zhinz]] 01:42, 17 March 2007 (UTC)
+
+== Catholics and skipped persons ==
+
+Must all of those skipped be included in the article? The article is the line of succession to the British throne, not those who would otherwise be in line but are not. [[User:Cfvh|Charles]] 22:56, 13 December 2006 (UTC)
+:There are two reasons.  1) While Catholics are excluded, the non-Catholic children and descendants of Catholics are not excluded.  The only way of keeping track of this is to include the Catholics parenthetically (or rather in italics). 2) There is a minority scholarly opinion that Catholics are not really excluded any longer.  Several years ago a certain prince was allowed to attempt marriage in a civil registry office in spite of the fact that this is contrary to the Marriage Act 1949; the government decided that the Marriage Act was overruled by European human rights legislation.  It is perfectly possible that the anti-Catholic provisions of the Act of Settlement could be similarly treated (I personally do not subscribe to this legal theory). [[User:Mcferran|Noel S McFerran]] 01:54, 14 December 2006 (UTC)
+::I'd add that, as we go further along, the Catholicism of particular individuals becomes more difficult to demonstrate. [[User:John Kenney|john k]] 02:22, 14 December 2006 (UTC)
+:::Maybe so, but that's no point for inclusion when they are either going to be indented and italicized or listed as in the line of succession. If Catholics are not really excluded, they need not be indented (but they are). Similarly, it is not necessary to include the Catholic/skipped parents of an individual when it is not needed to keep track. Do we include the grandparents? The great-grandparents? The full line back to the Electress Sophia? [[User:Cfvh|Charles]] 03:09, 14 December 2006 (UTC)
+::::Also, I gather that anyone on the list could renounce their Catholicism and get back into the line of succession.  If that's right (or am I wrong?), that means that their exclusion is only provisional.  Unlike marrying a Catholic, which is forever -- see [[Karl Emich of Leiningen]], currently skipped after #110, who's excluded because his ''former wife'', who's now ''converted to Islam'', was a Catholic at the time he married her!  Nonetheless, even someone who's permanently excluded, like Karl Emich, should stay on the list so we know where to put his kids (now at #111-113).  The inclusion of the parents isn't &quot;to keep track&quot;:  People are included on the list because they're currently alive.  The religion of the parents has no bearing on whether their children are Catholic. [[User:Chaucer1387|Chaucer1387]] 23:11, 2 February 2007 (UTC)
+:::::The act states: &quot;And it was thereby further enacted, that all and every person and persons that then were, or afterwards should be reconciled to, or shall hold communion with the see or Church of Rome, or should profess the popish religion, or marry a papist, should be excluded, and are by that Act made '''for ever''' incapable to inherit, possess, or enjoy the Crown and government of this realm...&quot; - so I don't think reversion to the Protestant faith guarantees a place in the line of succession again. [[User:Craigy144|Craigy]] ([[User_talk:Craigy144|talk]]) 02:05, 3 February 2007 (UTC)
+::::::True. [[Lord Nicholas Windsor]] can never become King. However, if he changed his mind and became an Anglican again, and had children and brought them up Anglican, ''they'' could be in line for the throne.  (They'd even be in line if they weren't brought up Anglican - as long as they're not brought up Catholic.) Now if someone renounces the throne in order to become a Catholic, he's presumably sufficiently serious about it that he will certainly make an effort to bring up his children as Catholics. But if you marry a lapsed, divorced Catholic in a registery office, after living together for a few years, there's nothing particularly &quot;Catholic&quot; about it. It's unlikely the Protestant is going to make an effort to ensure that children are brought up Catholic, and it's almost as unlikely that the lapsed Catholic will. So in such cases, the children are sometimes brought up Protestant, and remain in line. It gets complicated, though, when you consider that great-great-great-grandchildren of Catholics could be in line for the throne if they were Protestant and had never been Catholic.  So if Lord Nicholas marries a Catholic and has four children, all brought up Catholic, and the third child is less devout than the others, and she marries a lukewarm Catholic, and their children lapse completely, and one of these lapsed children has a non-baptized grandchild who marries a committed Anglican, the children of that marriage will be brought up as Anglican, and will presumably be in line for the throne (in fact, once the descendents stop being Catholic, and have children who have never been Catholic, those children are in line, even if they're not Anglicans).  It can get quite complicated, because who is going to keep track of the great-great grandchildren of some Earl who forfeited his place in the line a hundred years ago, just to see if there are any who are not and never have been Catholic? [[User:ElinorD|ElinorD]] 02:51, 3 February 2007 (UTC)
+:::::::Alright.  Anyway, bottom line: I think there are at least two good reasons to keep listing all living descendants of Electress Sophia, and marking them specially if they're to be skipped: (1) To be able to see quickly where to put their kids in the list if they're eligible, and (2) so other editors of the page, who know of the existence of the person but don't know why he should be ineligible, don't think the omission is an oversight and keep wrongly &quot;correcting&quot; the page. [[User:Chaucer1387|Chaucer1387]] 03:36, 3 February 2007 (UTC)
+::::::::I concur absolutely. [[User:Mcferran|Noel S McFerran]] 05:12, 3 February 2007 (UTC)
+
+== Neutrality ==
+
+Our of curiosity, why is this article marked as disputed neutrality? [[User:Morhange|Morhange]] 21:01, 14 December 2006 (UTC)
+:It was added when &quot;styles are not used in articles&quot; was posted as above. [[User:Craigy144|Craigy]] ([[User_talk:Craigy144|talk]]) 21:10, 14 December 2006 (UTC)
+
+== Last Names ==
+
+Some of the married princesses, countess, baroness, &quot;commoners&quot; are listed with their pre-marital title, especially if they are linked through that title. Others who are not linked are listed by their married surname, or by their maiden names. I changed most or all of these unwikied names to their married names. In some cases, I don't know how some of these work out, ie if some of the Italian and Spanish titles, are kept upon marriage, so someone with more experience on the matter can decide if they need to be changed back. [[User:Morhange|Morhange]] 21:18, 14 December 2006 (UTC)
+: The right thing to do is to name these people as they are most frequently named (often a difficult thing to determine).  Morhange has made a wonderful effort in this direction.  In the case of Spanish women who have married, they always maintain the surname with which they were born as their legal name (although sometimes socially they add Sra. de Husbandname).  Where Morhange changed the name of a woman, I have made the change of that woman's name where she is mentioned in the relationship statements (e.g. daughter of ...). [[User:Mcferran|Noel S McFerran]] 02:49, 15 December 2006 (UTC)
+
+== Missing descendants of Prince Oscar, Duke of Gotland ==
+
+I noticed that the descendants of [[Prince Oscar, Duke of Gotland]] aren't listed.  Oscar was the younger brother of [[Gustav V of Sweden]].  He would be in the line [[Sophia of Hanover]] → [[George I of Great Britain|George I]] → [[George II of Great Britain|George II]] → [[Frederick, Prince of Wales]] → [[Princess Augusta Charlotte of Wales]] → Princess Auguste → Paul of Württemberg → Pauline of Württemberg → [[Sofia of Nassau]].
+
+Oscar was the second son of Sofia of Nassau, so his descendants should go after [[Paulina Grawe]] (currently #873), the last descendant of Gustav V of Sweden, and before Madeleine Kogevinas (currently skipped immediately after #873), the first descendant of his younger brother [[Prince Carl, Duke of Västergötland]].  As far as I can tell (by checking [http://www.thepeerage.com/p10341.htm#i103409 thepeerage.com]), he was married to Ebba Henrietta Munck af Filkila, who doesn't seem to have any ancestry that would connect her to the British throne further up in line.  Apparently he renounced his Swedish succession rights because of an unequal marriage, but I'm not aware that this has any bearing on his British status.  Does anyone have any theories as to why Oscar's descendants are missing? [[User:Chaucer1387|Chaucer1387]] 03:27, 2 February 2007 (UTC)
+
+:As no one has come up with theories as to why Oscar's descendants are missing, I will add them in soon.  My info comes from [http://www.thepeerage.com thepeerage.com], which is slightly out of date, so some of the old ones may have died and there may be some missing children, but hey, that's what other Wikipedians are for. [[User:Chaucer1387|Chaucer1387]] 16:38, 8 February 2007 (UTC)
+
+::Done. As I mentioned above, some of these may be dead or have children I don't know about, and of course some might be skippable. [[User:Chaucer1387|Chaucer1387]] 14:53, 10 February 2007 (UTC)
+
+:::The [http://pages.prodigy.net/ptheroff/gotha/gotha.htm Online Gotha] has a more up to date listing of Prince Oscars descendants. [[User:DWC LR|dwc lr]] 20:27, 11 February 2007 (UTC)
+
+::::Great, thanks, I'll work on that. [[User:Chaucer1387|Chaucer1387]] 21:47, 11 February 2007 (UTC)
+
+== Extra descendants of Leopold III of Belgium ==
+
+I noticed a couple extra descendants of [[Leopold III of Belgium]].  Leopold III married [[Astrid of Sweden]], with whom he had three children: [[Baudouin of Belgium]], [[Albert II of Belgium]], and [[Joséphine-Charlotte of Belgium]].  These are all properly listed (and skipped), currently immediately after #887, between Albert II of Belgium and Princess Marie-Astrid of Liechtenstein (b. 1987).
+
+But these people are in the list not because of Leopold III, but because of Astrid of Sweden, who's in the line [[Sophia of Hanover]] → [[George I of Great Britain|George I]] → [[George II of Great Britain|George II]] → [[Frederick, Prince of Wales]] → [[Princess Augusta Charlotte of Wales]] → Princess Auguste → Paul of Württemberg → Pauline of Württemberg → [[Sofia of Nassau]] → [[Prince Carl, Duke of Västergötland]] → Astrid of Sweden.
+
+So it would seem wrong to follow Marie-Astrid of Liechtenstein with [[Princess Marie-Christine of Belgium]], [[Princess Maria-Esmeralda of Belgium]], and Maria-Esmeralda's two children.  These are descendants of Leopold III from his second marriage (after the death of Astrid), to [[Lilian Baels]].  Lilian Baels, as far as I can tell (from checking [http://www.thepeerage.com/p10178.htm#i101775 peerage.com]), doesn't seem to have any ancestry that connects her with the British throne, nor does Leopold III himself apparently have any ancestry within the top 887.  Does anyone have a theory as to why Leopold III's descendants from this second wife are present? [[User:Chaucer1387|Chaucer1387]] 03:50, 2 February 2007 (UTC)
+:You're right. I removed them. [[User:Morhange|Morhange]] 05:28, 2 February 2007 (UTC)
+
+== VfD candidates ==
+
+''This section is for identifying pointless stub articles which serve merely to mention that their subjects are included in this list.''
+
+*[[Sienna Rose Ambler]] and [[India Tani Ambler]] have recently been created; entirely content-free. [[User: Doops|Doops]] | [[User_talk:Doops | talk]] 19:31, 9 February 2007 (UTC)
+
+== Ancestry ==
+
+Up until now some people have been described as (for example) &quot;[[David Armstrong-Jones, Viscount Linley]] (b. 1961), grandson of [[George VI of the United Kingdom|King George VI]] through his daughter [[Princess Margaret of the United Kingdom|Princess Margaret]]&quot;.  Now that [[User:Chaucer1387|Chaucer1387]] has added the bold-face ancestry summaries, I suggest that this be changed to &quot;[[David Armstrong-Jones, Viscount Linley]] (b. 1961), son of [[Princess Margaret of the United Kingdom|Princess Margaret]]&quot;.  I have done this for nos. 12, 18, and 22 (as examples), but will wait to change the rest in case other editors have different ideas. [[User:Mcferran|Noel S McFerran]] 14:06, 13 February 2007 (UTC)
+
+:I've thought the same.  Note that there are two cases.
+:(1) The first is the case you mention, where someone is described as &quot;way-back-descendant of ancestor X&quot; when a closer-in-time ancestor is available in the headings.  (This happens quite a lot, with &quot;greatX6-grandsons&quot; and the like.)  I agree that the person's description should be revised to reflect the closer-in-time ancestor.
+:(2) The second is kind of the opposite, where someone is described as &quot;Count Carl Johan (Jan) Bernadotte (b. 1941), son of Prince Lennart, Duke of Småland,&quot; where it's unclear how this Prince Lennart connects to anyone in the headings.  Similarly with one that I recently added, &quot;HSH Friedrich, Prince of Solms-Baruth (b. 1963), grandson of Adelheid of Schleswig-Holstein-Sonderburg-Glücksburg.&quot;
+:So here's a proposed policy: Everyone's description should refer back to someone.  Usually, their description should refer back to someone above them in the list (&quot;son of...&quot;, &quot;uncle of...&quot;).  When there's no one to refer back to in the list, then their description should refer back to the last person listed in the appropriate heading.  In any event, their description shouldn't refer back to anyone further up in the headings (e.g., Sophia herself).
+:This might occasionally require revisions, for instance as bolded sections get either merged or subdivided.  I've been following the policy of subdividing so that no section has more than 100 numbered people (section 844-959 is due for such a subdivision), but that cutoff is kind of arbitrary and I'm open to others. [[User:Chaucer1387|Chaucer1387]] 14:50, 13 February 2007 (UTC)
+
+== Check Soureces more Accurately ==
+
+Ok, having connections with the Royal Family, i have founs several errors that should be revised.
+
+1. King Juan Carlos of Spain is listed as skipped. In the correct succession, Juan Carlos is not skipped and has right to the throne. I understand that he was listed as skipped because he is a roman catholic but he is an exception &lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:Lindaige|Lindaige]] ([[User talk:Lindaige|talk]] • [[Special:Contributions/Lindaige|contribs]]) 17:16, 13 February 2007 (UTC).&lt;/small&gt;&lt;!-- HagermanBot Auto-Unsigned --&gt;
+
+:Had we but checked our Soureces more accurately, perhaps we wouldn't have reverted Lindaige's [http://en.wikipedia.org/w/index.php?title=Line_of_succession_to_the_British_Throne&amp;diff=prev&amp;oldid=90565876 previous contribution] a few months ago. [[User:Chaucer1387|Chaucer1387]] 18:52, 13 February 2007 (UTC)
+
+==List of descendants at the end of the page==
+
+I just did a little &quot;cleanup&quot; of the Descendants of Electress Sophia bulleted list, as it was getting quite long.  As I've been putting in new section breaks, to break up the sections with more than 100 names, I've been adding those descendants into that list.  And now I removed those descendants who weren't reflected in the bolded headings.  (Note: In addition, I made the names correspond to the names of the people in their Wikipedia articles; if this is a good idea, then the same should be done with the names in the bolded headings.)
+
+My question: What is that section really for?  Does anyone else share my vision of that section?  What else might that section be for?  (Clearly we can't make it a list of ''all'' descendants of Electress Sophia -- if we did, it would be much longer than the full line of succession list, as it would also include all the dead ancestors.)  Is the section useful at all?  (Note that whatever answer we give for that list probably also goes for the Descendants of Queen Victoria bulleted list, but I've refrained from touching that section, in case people disagree with what I've already done.) [[User:Chaucer1387|Chaucer1387]] 02:09, 14 February 2007 (UTC)
+
+:In my opinion the entire section &quot;Family branches of the line of succession&quot; could now be removed.  I think that the bold-face summary ancestry headings added to the line of succession by [[User:Chaucer1387|Chaucer1387]] adequately represent this information - and actually in a more useful format. [[User:Mcferran|Noel S McFerran]] 02:26, 14 February 2007 (UTC)
+
+::If we remove that section, then of course the relevant blue links would be added in to the bolded headings. [[User:Chaucer1387|Chaucer1387]] 02:49, 14 February 2007 (UTC)
+
+== Ileana Snyder ==
+
+Ileana Snyder (around no. 105) is one of the daughters of Archduke Stefan of Austria.  Her siblings are listed as skipped (presumably on account of being papists).  It is possible that Ileana is no longer a papist - but if she ever was one then she is out of the line of succession according to the Act of Settlement (and can't get back in merely by renouncing papistry).  I have therefore changed her to skipped.  Presumably her children are not papists and are therefore in line of succession according to the Act of Settlement. [[User:Mcferran|Noel S McFerran]] 03:09, 14 February 2007 (UTC)
+
+==Dividing Queen Marie of Romania==
+
+Mcferran, I noticed you divided Queen Marie of Romania, which wasn't terribly long (#82-107 = only 26 numbered people).  Not that I'm against having short sections -- short sections are good, provided there aren't so many that they start cluttering the place up.  But do you have a theory behind that particular division?  Are you shooting for shorter sections toward the top of the list where people care more?  Are you shooting for at least four levels down in each section?  Or is there some other principle you're implementing?
+
+(Note: I have no problem with your &quot;Princess Louise → Princess Maud of Fife&quot; and &quot;Maud of Norway → King Olav V of Norway&quot; edits -- if someone only gives us list members through a single one of their children, there's no harm in extending the section heading to include that child, and even some benefit as it gives more detail without cluttering us up with needless subsections.) [[User:Chaucer1387|Chaucer1387]] 03:30, 14 February 2007 (UTC)
+:The living descendants of Queen Marie of Romania only include 26 people in the line of succession according to the Act of Settlement - but there are also another 38 skipped individuals. On my computer (I use a low resolution) that comes out to over four screens (a higher resolution would result in fewer screens).
+:It seems to me that generally the people in each group who connect directly with the last named person in the boldface section title should (with the occasional exception) be either children or granchildren of those people (e.g. CP Alexander of Yugoslavia is a grandson of Princess Maria of Romania; Christopher Habsburg is a grandson of Princess Ileana of Romania).  I think that generally we should avoid identifying people as great-grandson or greatX2 or greatX3, at least now that we have the boldface section titles. [[User:Mcferran|Noel S McFerran]] 05:37, 14 February 2007 (UTC)
+
+==On removing Queen Elizabeth from the bolded heading==
+
+Morhange, I see what you were trying to do by removing QE2 from the top bolded heading -- after all, QE2 is right there at the top of list, and she's not her own descendant!  But note that the resulting heading, &quot;Victoria → Edward VII → George V → George VI&quot;, is inconsistent with having the next heading be &quot;Victoria → Edward VII → George V → George VI → Princess Margaret&quot;.
+
+Therefore, I suggest you do either of the following:
+(1) Put QE2 back into the bolded heading, but move the &quot;Current monarch&quot; line ''above'' the heading, or
+(2) Merge the QE2 and Princess Margaret sections, so it's all one &quot;Victoria → Edward VII → George V → George VI&quot; section.
+
+I myself prefer option (1) because you want to show the casual reader very clearly who descends from the current monarch and who doesn't, which is why I originally had QE2 and Princess Margaret in separate sections. [[User:Chaucer1387|Chaucer1387]] 20:48, 14 February 2007 (UTC)
+:I agree with the first option as well. I wasn't sure whether or not to change it, but the first option is good, because it shows who descendants from Elizabeth. [[User:Morhange|Morhange]] 20:50, 14 February 2007 (UTC)
+
+==Change of Germany to Prussia in chart of royal or princely houses==
+
+Mcferran: I see that the article [[Line of succession to the Prussian throne]] just redirects to [[Line of succession to the German throne]].  It seems like it was a unified monarchy?  Is it more correct to call it Prussia than to call it Germany (we do say [[William II, German Emperor]])? [[User:Chaucer1387|Chaucer1387]] 04:29, 21 February 2007 (UTC)
+
+:There was no German royal (or imperial) house.  There was a German Emperor, who received his position by virtue of being the head of the Prussian royal house.  And we oughtn't have an article called [[Line of succession to the German throne]] - there is no German throne.  All those articles are incredibly irritating. [[User:John Kenney|john k]] 16:45, 21 February 2007 (UTC)
+
+== Salm-Salm ==
+
+I notice there's some Salm-Salms included in the line.  It was my understanding that  Salm-Salm is a Catholic family. [[User:John Kenney|john k]] 17:03, 21 February 2007 (UTC)
+	</talkpage>
+</article>

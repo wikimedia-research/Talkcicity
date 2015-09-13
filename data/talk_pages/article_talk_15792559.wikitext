@@ -1,0 +1,21 @@
+<article id="15792559" title=User talk:82.128.207.39>
+	<talkpage id="15792559" title="User talk:82.128.207.39">
+
+
+
+&lt;div style=&quot;background:white; border:2px DarkOrchid solid; padding:12px;&quot;&gt;
+==Welcome!==
+[[Wikipedia:Welcoming committee/Welcome to Wikipedia|Welcome to Wikipedia]], [[Wikipedia|the free encyclopedia!]] You don't have to [[Special:Userlogin|log in]] to read or edit articles on Wikipedia.  To acquire [[Wikipedia:Why create an account?|additional privileges]], simply create an account.  It's free, requires no personal information, and lets you:
+* '''[[Help:Starting a new page|Create new pages]]''', and customize the appearance and behavior of the website
+* '''[[Wikipedia:How to rename a page|Rename pages]]'''
+* Edit '''[[Wikipedia:Semi-protection policy|semi-protected pages]]'''
+* '''[[Special:Upload|Upload images]]'''
+* Have your own '''[[Wikipedia:Watchlist|watchlist]]''', which shows when articles you are interested in have changed
+
+And your [[IP address]] will no longer be visible to other users. Wwwhatsup
+
+We hope that you choose to become a Wikipedian and '''[[Special:Userlogin|create an account]]'''. Feel free to ask me any questions you may have on my talk page. By the way, please make sure to [[Wikipedia:Sign your posts on talk pages|sign and date]] your comments with four tildes ('''&amp;#126;&amp;#126;&amp;#126;&amp;#126;''').  Happy editing! &lt;/div&gt;
+ 
+[[User:Wwwhatsup|Wwwhatsup]] ([[User talk:Wwwhatsup|talk]]) 20:20, 16 February 2008 (UTC)
+	</talkpage>
+</article>

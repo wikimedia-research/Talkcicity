@@ -1,0 +1,7 @@
+<article id="13652877" title=Talk:Grazzanise>
+	<talkpage id="13652877" title="Talk:Grazzanise">
+{{WP Italy|class=start|importance=low|auto=yes|attention=}}
+{{WikiProject Kingdom of Naples|class=start|importance=low}}
+{{reqphoto|in=Italy}}
+	</talkpage>
+</article>

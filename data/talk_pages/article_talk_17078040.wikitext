@@ -1,0 +1,7 @@
+<article id="17078040" title=Talk:Proburnetia>
+	<talkpage id="17078040" title="Talk:Proburnetia">
+{{talkheader}} {{WikiProject Palaeontology|class=stub|importance=low}}
+
+{{WikiProject Geology|class=Stub|importance=Low|auto=yes}}
+	</talkpage>
+</article>

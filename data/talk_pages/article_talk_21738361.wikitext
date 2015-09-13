@@ -1,0 +1,11 @@
+<article id="21738361" title=User talk:Greenbaum Marketing>
+	<talkpage id="21738361" title="User talk:Greenbaum Marketing">
+[[Image:Information.svg|25px]] If you have a close connection to some of the people, places or things you have written about {{#if:|in the article [[{{{1}}}]]|on Wikipedia}}, you may have a [[Wikipedia:Conflict of interest|conflict of interest]].  In keeping with Wikipedia's [[Wikipedia:Neutral point of view|neutral point of view]] policy, edits where there is a conflict of interest, or where such a conflict might reasonably be inferred from the tone of the edit and the proximity of the editor to the subject, are strongly discouraged. If you have a conflict of interest, you should '''avoid''' or '''exercise great caution''' when:
+#'''editing''' or '''creating''' articles related to you, your organization, or its competitors, as well as projects and products they are involved with;
+#'''participating''' in [[Wikipedia:Deletion policy#Deletion_processes|deletion discussions]] about articles related to your organization or its competitors;
+# '''linking''' to the Wikipedia article or website of your organization in other articles (see [[Wikipedia:Spam]]); and,
+# '''avoid breaching''' relevant policies and guidelines, especially those pertaining to [[Wikipedia:Neutral point of view|neutral point of view]], [[Wikipedia:Verifiability|verifiability of information]], and [[Wikipedia:Autobiography|autobiographies]].
+
+For information on how to contribute to Wikipedia when you have conflict of interest, please see [[Wikipedia:FAQ/Business|our frequently asked questions for businesses]]. For more details about what, exactly, constitutes a conflict of interest, please see [[Wikipedia:Conflict of Interest|our conflict of interest guidelines]].  {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-coi --&gt;   You may wish to consider changing your username; a name can't promote a vusiness, service or person.  --[[User:PMDrive1061|PMDrive1061]] ([[User talk:PMDrive1061|talk]]) 23:08, 27 February 2009 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="31293161" title=Talk:Porepunkah railway station>
+	<talkpage id="31293161" title="Talk:Porepunkah railway station">
+{{WikiProject Australia|class=stub|importance=|VIC=yes}}
+{{WikiProject Trains|class=stub|importance=low|imageneeded=yes|stations=yes}}
+	</talkpage>
+</article>

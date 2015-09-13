@@ -1,0 +1,5 @@
+<article id="18092739" title=Talk:Elgin, Western Cape>
+	<talkpage id="18092739" title="Talk:Elgin, Western Cape">
+{{WikiProject South Africa |class=Start |importance=Mid |attention= }}
+	</talkpage>
+</article>

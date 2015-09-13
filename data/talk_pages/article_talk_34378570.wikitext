@@ -1,0 +1,16 @@
+<article id="34378570" title=User talk:Alexanderaminwain>
+	<talkpage id="34378570" title="User talk:Alexanderaminwain">
+
+== Welcome ==
+'''Welcome!'''
+
+Hello, Alexanderaminwain, and [[Wikipedia:Introduction|welcome]] to Wikipedia! Thank you for [[Special:Contributions/Alexanderaminwain|your contributions]]. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Help:Editing|How to edit a page]] and [[Wikipedia:Article development|How to develop articles]]
+*[[Wikipedia:Your first article|How to create your first article]] (using the [[Wikipedia:Article wizard|Article Wizard]] if you wish)
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign]] your messages on [[Help:Using talk pages|discussion page]]s using four [[tilde]]s (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically insert your username and the date. If you need help, check out [[Wikipedia:Questions]], ask me on [[user talk:ElComandanteChe|my talk page]], or ask your question on this page and then place &lt;code&gt;&lt;nowiki&gt;{{help me}}&lt;/nowiki&gt;&lt;/code&gt; before the question. Again, welcome! &lt;!-- Template:Welcome --&gt; 
+&lt;span style=&quot;font:8pt verdana; background-color:whitesmoke; border:1px solid gray&quot;&gt;&amp;nbsp;[[User:ElComandanteChe|ElComandanteChe]]&lt;sup style=&quot;font-size:7pt&quot;&gt;[[User talk:ElComandanteChe#footer|ταλκ]]&lt;/sup&gt;&lt;/span&gt; 17:02, 14 January 2012 (UTC)
+	</talkpage>
+</article>

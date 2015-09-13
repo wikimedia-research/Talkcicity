@@ -1,0 +1,5 @@
+<article id="20533641" title=User talk:123.108.229.101>
+	<talkpage id="20533641" title="User talk:123.108.229.101">
+[[Image:Information.svg|25px]] Welcome, and thank you for experimenting with Wikipedia. Your test {{#if:Regular expression|on the page [[:Regular expression]]}} worked, and it has been [[Help:Reverting|reverted]] or removed. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|this encyclopedia]]. If you would like to experiment further, please use the [[Wikipedia:Sandbox|sandbox]] or [[Help:Show preview|show preview button]]. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-test1 --&gt; [[User:Tedickey|Tedickey]] ([[User talk:Tedickey|talk]]) 19:47, 3 December 2008 (UTC)
+	</talkpage>
+</article>

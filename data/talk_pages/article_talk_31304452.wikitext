@@ -1,0 +1,5 @@
+<article id="31304452" title=Talk:Baum test>
+	<talkpage id="31304452" title="Talk:Baum test">
+{{WikiProject Psychology|class=stub}}
+	</talkpage>
+</article>

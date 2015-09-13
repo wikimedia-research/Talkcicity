@@ -1,0 +1,76 @@
+<article id="44852733" title=User talk:Russell Crawford>
+	<talkpage id="44852733" title="User talk:Russell Crawford">
+
+{| width=&quot;100%&quot; style=&quot;background:transparent&quot;
+{| width=&quot;100%&quot; style=&quot;background-color:&lt;!-- Bug --&gt;#F5FFFA&quot;
+|style=&quot;width: 50%; border:1px solid &lt;!-- Strange bug makes the number sign have to go in front of the parserfunction here--&gt;#084080; background-color:&lt;!-- Bug --&gt;#F5FFFA; vertical-align:top&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;2&quot; style=&quot;vertical-align:top; background-color:&lt;!-- Bug --&gt;#F5FFFA&quot;
+| &lt;div style=&quot;margin: 0; background-color:
+#CEF2E0; font-family: sans-serif; border:1px solid 
+#084080; text-align:left; color:black; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;&lt;p&gt;Hello, Russell Crawford, and '''[[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome to Wikipedia!]]'''&lt;/p&gt;
+&lt;p&gt;Thank you for [[Special:Contributions/Russell Crawford|your contributions]] to {{{article}}}. If you decide that you need help, check out ''Getting Help'' below, ask me on [[User talk:EvergreenFir|my talk page]], or place '''{{Tlc|Help me}}''' on your talk page and ask your question there. Please remember to [[Wikipedia:Signatures|sign your name on talk pages]] by clicking [[File:Button sig.png|link=Wikipedia:How to sign your posts]] or [[File:Insert-signature.png|link=Wikipedia:How to sign your posts]] or by typing four tildes &lt;nowiki&gt;(~~~~)&lt;/nowiki&gt;; this will automatically produce your username and the date. Also, please do your best to always fill in the [[m:Help:Edit summary|edit summary field]]. Below are some useful links to facilitate your involvement.  Happy editing! [[User:EvergreenFir|'''&lt;span style=&quot;color:#8b00ff;&quot;&gt;Eve&lt;/span&gt;&lt;span style=&quot;color:#6528c2;&quot;&gt;rgr&lt;/span&gt;&lt;span style=&quot;color:#3f5184;&quot;&gt;een&lt;/span&gt;&lt;span style=&quot;color:#197947;&quot;&gt;Fir&lt;/span&gt;''']] [[User talk:EvergreenFir|(talk)]] &lt;small&gt;Please &amp;#123;&amp;#123;[[Template:re|re]]&amp;#125;&amp;#125;&lt;/small&gt; 04:18, 27 December 2014 (UTC)&lt;/p&gt;
+|}
+{| width=&quot;100%&quot; style=&quot;background-color:&lt;!-- Bug --&gt;#F5FFFA&quot;
+|style=&quot;width: 50%; border:0; background-color:&lt;!-- Bug --&gt;#F5FFFA; vertical-align:top&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;2&quot; style=&quot;vertical-align:top; background-color:&lt;!-- Bug --&gt;#F5FFFA;&quot;
+|-
+! &lt;div style=&quot;margin: 0; background-color:
+#E2F9ED; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid 
+#A3BFB1; text-align:left; color:black; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Getting started&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Introduction|Introduction]]
+* [[Wikipedia:Contributing to Wikipedia|Contributing to Wikipedia]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Help:Editing|How to edit a page]]
+* [[Help:Wikipedia: The Missing Manual/Introduction|Intuitive guide to Wikipedia]]
+|-
+! &lt;div style=&quot;margin: 0; background:
+#E2F9ED; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid 
+#A3BFB1; text-align:left; color:black; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Finding your way around&lt;/div&gt;
+|-
+| style=&quot;color:#000&quot;|
+* [[Portal:Contents|Table of contents]]
+* [[Wikipedia:Department directory|Department directory]]
+* [[Help:Contents/Directory|Help directory]]
+|-
+! &lt;div style=&quot;margin: 0; background-color:
+#E2F9ED; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid 
+#A3BFB1; text-align:left; color:black; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Editing articles&lt;/div&gt;
+|-
+| style=&quot;color:#000&quot;|
+* [[Wikipedia:Article development#How to develop an article|How to develop an article]]
+* [[Wikipedia:Simplified Manual of Style|Simplified Manual of Style]]
+|-
+|}
+|style=&quot;width: 50%; border:0; background-color:&lt;!-- Bug --&gt;#F5FFFA; vertical-align:top&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;2&quot; style=&quot;vertical-align:top; background-color:&lt;!-- Bug --&gt;#F5FFFA&quot;
+! &lt;div style=&quot;margin: 0; background-color:
+#E2F9ED; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid 
+#A3BFB1; text-align:left; color:black; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Getting help&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:FAQ/Overview|Frequently asked questions]]
+* [[Help:Cheatsheet|Cheatsheet]]
+* [[Wikipedia:Questions|Where to ask a question]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:New contributors' help page|New contributors' help page]]
+* [[Wikipedia:Article wizard|Article Wizard]] – a Wizard to help you create articles
+|-
+! &lt;div style=&quot;margin: 0; background-color:
+#E2F9ED; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid 
+#A3BFB1; text-align:left; color:black; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;How you can help&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Community portal|Community Portal]]
+* [[WP:WikiProject|Join a WikiProject]]
+* Follow [[Wikipedia:Etiquette|Wikipedia etiquette]]
+* Practice [[Wikipedia:Civility|civility]]
+* [[Wikipedia:Wikipedia Signpost|Discover what's going on in the Wikimedia community]]
+|-
+|}
+|}
+|}
+|} [[User:EvergreenFir|'''&lt;span style=&quot;color:#8b00ff;&quot;&gt;Eve&lt;/span&gt;&lt;span style=&quot;color:#6528c2;&quot;&gt;rgr&lt;/span&gt;&lt;span style=&quot;color:#3f5184;&quot;&gt;een&lt;/span&gt;&lt;span style=&quot;color:#197947;&quot;&gt;Fir&lt;/span&gt;''']] [[User talk:EvergreenFir|(talk)]] &lt;small&gt;Please &amp;#123;&amp;#123;[[Template:re|re]]&amp;#125;&amp;#125;&lt;/small&gt; 04:18, 27 December 2014 (UTC)
+	</talkpage>
+</article>

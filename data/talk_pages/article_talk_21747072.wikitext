@@ -1,0 +1,5 @@
+<article id="21747072" title=Talk:Veliki Kozjak>
+	<talkpage id="21747072" title="Talk:Veliki Kozjak">
+{{WikiProject Croatia|class=Stub|importance=Low}}
+	</talkpage>
+</article>

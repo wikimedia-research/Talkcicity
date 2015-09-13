@@ -1,0 +1,8 @@
+<article id="43986343" title=User talk:59.92.34.18>
+	<talkpage id="43986343" title="User talk:59.92.34.18">
+
+== September 2014 ==
+
+[[Image:Information.svg|25px|alt=|link=]] Hello, I'm [[User:Materialscientist|Materialscientist]]. I noticed that you recently removed some content from [[:2014 Ludian earthquake]] &amp;nbsp;with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/2014_Ludian_earthquake?diff=627651098 this edit]&lt;span&gt;, without explaining why. In the future, it would be helpful to others if you described your changes to Wikipedia with an [[Wikipedia:Edit summary|edit summary]]. If this was a mistake, don't worry, the removed content has been restored. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Materialscientist|my talk page]]. Thanks. &lt;!-- Template:Huggle/warn-delete-1 --&gt;&lt;!-- Template:uw-delete1 --&gt;[[User:Materialscientist|Materialscientist]] ([[User talk:Materialscientist|talk]]) 07:58, 30 September 2014 (UTC)
+	</talkpage>
+</article>

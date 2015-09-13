@@ -1,0 +1,5 @@
+<article id="20163424" title=Talk:Rzążew>
+	<talkpage id="20163424" title="Talk:Rzążew">
+{{WikiProject Poland|class=stub|importance=}}
+	</talkpage>
+</article>

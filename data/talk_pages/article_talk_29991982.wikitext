@@ -1,0 +1,7 @@
+<article id="29991982" title=User talk:166.137.143.164>
+	<talkpage id="29991982" title="User talk:166.137.143.164">
+== December 2010 ==
+[[File:Information.svg|25px|alt=|link=]] Welcome and thank you for experimenting with Wikipedia. Your test on the page [[:Six Sigma]] worked, and it has been [[Help:Reverting|reverted]] or removed. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|this encyclopedia]]. If you would like to experiment further, please use the [[Wikipedia:Sandbox|sandbox]] instead. Thank you.&lt;!-- Template:uw-test1 --&gt; [[User:Anaxial|Anaxial]] ([[User talk:Anaxial|talk]]) 22:05, 9 December 2010 (UTC)
+:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
+	</talkpage>
+</article>

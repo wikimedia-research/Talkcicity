@@ -1,0 +1,5 @@
+<article id="8676865" title=Talk:Ipava, Illinois>
+	<talkpage id="8676865" title="Talk:Ipava, Illinois">
+{{WikiProject Illinois |class=stub |importance=Mid}}
+	</talkpage>
+</article>

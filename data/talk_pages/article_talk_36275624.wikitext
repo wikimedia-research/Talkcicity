@@ -1,0 +1,7 @@
+<article id="2949038" title=Talk:Euribor>
+	<talkpage id="2949038" title="Talk:Euribor">
+{{WikiProject European Union | class = Start | importance = Low}}
+
+Putting &quot;numismaticnotice&quot; here so [[User:WatchlistBot]] will not accidentally re-tag it. [[User:Mom2jandk|Ingrid]] 23:28, 29 July 2006 (UTC)
+	</talkpage>
+</article>

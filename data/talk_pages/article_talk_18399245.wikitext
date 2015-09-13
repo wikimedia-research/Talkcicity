@@ -1,0 +1,5 @@
+<article id="18399245" title=Talk:Peloneustes>
+	<talkpage id="18399245" title="Talk:Peloneustes">
+{{WikiProject Palaeontology|class=Stub|importance=Mid|auto=yes}}
+	</talkpage>
+</article>

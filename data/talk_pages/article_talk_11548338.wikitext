@@ -1,0 +1,7 @@
+<article id="11548338" title=User talk:69.151.195.53>
+	<talkpage id="11548338" title="User talk:69.151.195.53">
+
+
+{{{icon|[[Image:Information.svg|25px]] }}}[[Wikipedia:Introduction|Welcome]] to Wikipedia, and thank you for your contributions. One of the core policies of Wikipedia is that articles should always be written from a [[Wikipedia:Neutral point of view|neutral point of view]]{{{{{subst|}}}#if:DSW, Inc.|. It appears you have not followed this policy at [[:DSW, Inc.]]}}. Please always observe our [[Wikipedia:Five pillars|core policies]]. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-npov1 --&gt; [[User:Ispy1981|Ispy1981]] 01:52, 2 June 2007 (UTC) &lt;br clear=&quot;both&quot;&gt;
+	</talkpage>
+</article>

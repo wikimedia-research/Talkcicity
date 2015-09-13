@@ -1,0 +1,5 @@
+<article id="17359124" title=Talk:9537 Nolan>
+	<talkpage id="17359124" title="Talk:9537 Nolan">
+{{WPAstronomy|object=yes|class=Stub|importance=Low}}
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="4012834" title=Talk:Screen Award for Best Actor>
+	<talkpage id="4012834" title="Talk:Screen Award for Best Actor">
+{{Film|class=List|Awards-task-force=yes|Indian-task-force=yes}}
+{{WikiProject India|class=List|importance=low|cinema=yes|cinema-importance=low}}
+	</talkpage>
+</article>

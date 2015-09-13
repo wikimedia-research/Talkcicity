@@ -1,0 +1,8 @@
+<article id="20075935" title=User talk:70.242.140.43>
+	<talkpage id="20075935" title="User talk:70.242.140.43">
+
+== November 2008 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Rosary?diff=249758137 recent edit]&lt;/span&gt; you made to [[:Rosary]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:Epbr123|Epbr123]] ([[User talk:Epbr123|talk]]) 00:16, 5 November 2008 (UTC)
+	</talkpage>
+</article>

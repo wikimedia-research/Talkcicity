@@ -1,0 +1,6 @@
+<article id="32043438" title=Talk:Extrafusal muscle fiber>
+	<talkpage id="32043438" title="Talk:Extrafusal muscle fiber">
+{{WikiProject Anatomy|class=stub|importance=low}}
+{{image needed|medical subjects}}
+	</talkpage>
+</article>

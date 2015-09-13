@@ -1,0 +1,14 @@
+<article id="20565954" title=Talk:Jeffreys>
+	<talkpage id="20565954" title="Talk:Jeffreys">
+{{disambigProject}}
+
+== George Jeffreys (pastor) ==
+I'm fairly well satisfied that 
+# 1889-1962 are his correct dates
+# our confusion about it is not from our clerical error.
+Most of my basis for that is two Google searches, with about equal numbers of hits, but from my incomplete inspection, i think that the '72 YoDs are disproportionately attributable to WP compared to the '62 YoDs. (I need to think about the 1963 YoD, but i take comfort that it is contradicted elsewhere on the only site i found it on.)  Here are the Google URLs: 
+# [http://www.google.com/search?hl=en&amp;rlz=1B3GGGL_enUS290US290&amp;as_q=+1889-1962+church+Welsh&amp;as_epq=George+Jeffreys+&amp;as_oq=&amp;as_eq=&amp;num=50&amp;lr=&amp;as_filetype=&amp;ft=i&amp;as_sitesearch=&amp;as_qdr=all&amp;as_rights=&amp;as_occt=any&amp;cr=&amp;as_nlo=&amp;as_nhi=&amp;safe=images '62]
+# [http://www.google.com/search?hl=en&amp;rlz=1B3GGGL_enUS290US290&amp;as_q=+1889-1972+church+Welsh&amp;as_epq=George+Jeffreys+&amp;as_oq=&amp;as_eq=&amp;num=50&amp;lr=&amp;as_filetype=&amp;ft=i&amp;as_sitesearch=&amp;as_qdr=all&amp;as_rights=&amp;as_occt=any&amp;cr=&amp;as_nlo=&amp;as_nhi=&amp;safe=images '72]
+Perhaps i'll inspect further, say more, and go around hunting down the bad dates in our articles that refer to him. &lt;br&gt;--[[User:Jerzy|Jerzy]]•[[User talk:Jerzy|t]] 06:47, 6 December 2008 (UTC)&lt;br&gt;
+	</talkpage>
+</article>

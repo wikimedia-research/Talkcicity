@@ -1,0 +1,104 @@
+<article id="42759662" title=User talk:Dank/Archive 36>
+	<talkpage id="42759662" title="User talk:Dank/Archive 36">
+{{talkarchive}}
+
+
+==Thank you==
+{| style=&quot;border: 1px solid gray; background-color: #fdffe7;&quot;
+|rowspan=&quot;2&quot; valign=&quot;middle&quot; | {{#ifeq:{{{2}}}|alt|[[File:Original Barnstar Hires.png|100px]]|[[File:Original Barnstar.png|100px]]}}
+|rowspan=&quot;2&quot; |
+|style=&quot;font-size: x-large; padding: 0; vertical-align: middle; height: 1.1em;&quot; | '''The Original Barnstar'''
+|-
+|style=&quot;vertical-align: middle; border-top: 1px solid gray;&quot; | Awarded to Dank, as part of [[User:AustralianRupert/New Year Honours List|AustralianRupert's 2014 New Year Honours List]], in recognition of his efforts to improve the project's standards for prose throughout 2013. Thank you and keep up the good work! [[User:AustralianRupert|AustralianRupert]] ([[User talk:AustralianRupert|talk]]) 21:29, 2 January 2014 (UTC)
+|}
+:Thanks kindly, AR. - Dank ([[User talk:Dank|push to talk]]) 23:19, 2 January 2014 (UTC)
+
+==Oct&amp;ndash;Dec 13 Milhist reviews==
+{| style=&quot;border: 2px solid lightsteelblue; background-color: whitesmoke;&quot;
+|rowspan=&quot;2&quot; valign=&quot;middle&quot; | [[Image:WikiChevrons.png|80px]]
+|rowspan=&quot;2&quot; |
+|style=&quot;font-size: x-large; padding: 0; vertical-align: middle; height: 1.1em;&quot; |&amp;ensp;'''The ''[[Wikipedia:WikiProject_Military_history/Awards#WikiChevrons|WikiChevrons]]'''''&amp;ensp;
+|-
+|style=&quot;vertical-align: middle; border-top: 1px solid lightsteelblue;&quot; | By order of the ''[[WP:MILHIST|Military history WikiProject coordinators]]'', for your devoted contributions to the WikiProject's [[WP:PR|Peer]], [[WP:GAN|Good Article]], [[WP:MHR#A-CLASS|A-Class]] and [[WP:FAC|Featured Article]] reviews for the period October&amp;ndash;December 2013, I am delighted to award you the ''[[Wikipedia:WikiProject Military history/Awards#WikiChevrons|WikiChevrons]]''. During this period you undertook a staggering 56 reviews. Without reviewers it would be very difficult for our writers to achieve their goals of creating high quality content, so your efforts are greatly appreciated. [[User:AustralianRupert|AustralianRupert]] ([[User talk:AustralianRupert|talk]]) 04:07, 8 January 2014 (UTC)
+|}
+:Thanks again, AR. - Dank ([[User talk:Dank|push to talk]]) 13:38, 8 January 2014 (UTC)
+
+== Congratulations! ==
+
+{| style=&quot;border: 1px solid gray; background-color: #fdffe7;&quot;
+|rowspan=&quot;2&quot; valign=&quot;middle&quot; | [[File:WikiprojectBarnstar.png|100px]]
+|rowspan=&quot;2&quot; |
+|style=&quot;font-size: x-large; padding: 0; vertical-align: middle; height: 1.1em;&quot; | '''The WikiProject Barnstar'''
+|-
+|style=&quot;vertical-align: middle; border-top: 1px solid gray;&quot; | I am delighted to present you with this WikiProject Barnstar in recognition of your extensive contributions to the [[Wikipedia:WikiProject Military history|Military history WikiProject]], as evidenced by your being nominated for the [//en.wikipedia.org/w/index.php?title=Wikipedia_talk:WikiProject_Military_history&amp;oldid=589402027#Voting_for_military_historian_of_the_year_for_2013_now_open.21 2013 &quot;Military historian of the Year&quot;] award.  We're grateful for your help and look forward to seeing more of your excellent work in the coming year. [[User:The ed17|Ed]]&amp;nbsp;&lt;sup&gt;[[User talk:The ed17|[talk]]] [[WP:OMT|[majestic titan]]]&lt;/sup&gt; 23:13, 9 January 2014 (UTC)
+|}
+:Thanks for handing these out, Ed. - Dank ([[User talk:Dank|push to talk]]) 23:58, 9 January 2014 (UTC)
+
+== PC2 ==
+
+ES&amp;L and Kevin have now offered to be closers. At some point, I want to ask if anyone has an objection to the closers. Would you rather I wait to see if someone else steps up before I ask? - Dank ([[User talk:Dank|push to talk]]) 22:48, 21 January 2014 (UTC)
+:Thank you for the note : )
+:As all three of us posted in the same day, I think it might not be a bad idea to wait a few days to see if anyone else is interested. I haven't looked, but did you already drop a note at [[WP:AN]] to see if anyone there was interested? - &lt;b&gt;[[User:Jc37|jc37]]&lt;/b&gt; 06:24, 22 January 2014 (UTC)
+::Only reply there has been from ES&amp;L. I'm happy to wait a few days. - Dank ([[User talk:Dank|push to talk]]) 13:47, 22 January 2014 (UTC)
+
+== Elizabeth of Bosnia ==
+
+Hi! I remember that you reviewed the article about [[Elizabeth of Bosnia]] the [[Wikipedia:Featured article candidates/Elizabeth of Bosnia/archive1|first time I nominated it for FA]]. Would you mind [[Wikipedia:Featured article candidates/Elizabeth of Bosnia/archive2|reviewing it again]]? It has not changed much since your first review, but I've been told that a new nomination requires new reviews. Thanks, [[User:Surtsicna|Surtsicna]] ([[User talk:Surtsicna|talk]]) 23:30, 26 January 2014 (UTC)
+:Welcome back to FAC. [https://en.wikipedia.org/w/index.php?title=Elizabeth_of_Bosnia&amp;diff=591040641&amp;oldid=505843141 This] is the diff since I copyedited this a year and a half ago ... more of it has changed than stayed the same, so I'd have to start over. I'm sorry, I'm not taking copyediting requests while I work on copyediting software. - Dank ([[User talk:Dank|push to talk]]) 19:02, 27 January 2014 (UTC)
+
+== Joe McElderry ==
+
+Hi Dank. May I kindly ask why my feature article nomination was reverted? [[User:Emirates123|Emirates123]] ([[User talk:Emirates123|talk]]) 19:57, 6 February 2014 (UTC)
+:Because you posted a page that was archived years ago; it wasn't your FAC, it was someone else's. Please see the instructions at the top of [[WP:FAC]], including the part about contacting the editors of the page to see if they're ready to take it to FAC. - Dank ([[User talk:Dank|push to talk]]) 19:59, 6 February 2014 (UTC)
+:: Who do you advise I contact in particular? [[User:Emirates123|Emirates123]] ([[User talk:Emirates123|talk]]) 20:04, 6 February 2014 (UTC)
+:::The people who have worked on the article. See the article history. - Dank ([[User talk:Dank|push to talk]]) 20:06, 6 February 2014 (UTC)
+:::: Are you talking about the archived feature article nom page or the actual article? [[User:Emirates123|Emirates123]] ([[User talk:Emirates123|talk]]) 20:10, 6 February 2014 (UTC)
+
+== interest automagically lua ==
+
+[https://en.wikipedia.org/w/index.php?title=Wikipedia:Village_pump_(technical)&amp;diff=prev&amp;oldid=594716232 Lol]. [[User:Matma Rex|Matma Rex]] &lt;small&gt;[[User talk:Matma Rex|talk]]&lt;/small&gt; 20:19, 9 February 2014 (UTC)
+:Heh thanks for catching that, I reported the bug at VPT. - Dank ([[User talk:Dank|push to talk]]) 20:30, 9 February 2014 (UTC)
+
+== Appeal for help with a bad-guy editor ==
+
+Deat Dank, - Hello again.   I am afraid I have come to think of you as my security blanket on Wikipedia (alas, one needs a security blanket even in one’s 60s), and there is now an issue that I hope you can help with.
+
+As you may recall, last February I reworked and greatly expanded the [[Radical center (politics)|radical centrism]] page.  Pageviews per month have doubled since then.  However, the page also seems to have attracted one editor whom I strongly suspect is attacking the site under a variety of identities.  If I am correct, here are his four most recent actions:
+
+1. On 29 December 2013, our editor, writing as 189 38 219 17, adds a long, unsourced, anti-leftist rant to a section.  (See under [https://en.wikipedia.org/w/index.php?title=Radical_center_(politics)&amp;action=history Radical center (politics): Revision history].)  It was subsequently removed by Philip Trueman.
+
+2. On 31 December 2013, I thank Trueman on his talk pge for removing the rant.  Our editor responds, anonymously, by calling me a cunt!  (See [[User talk:Philip Trueman]], entries #170 and 171.)
+
+3. On 30 January 2014, our editor, writing as 177 142 166 88, restores a tiny part of his rant as part of an already-existing sentence that already cited a source.  (See under [https://en.wikipedia.org/w/index.php?title=Radical_center_(politics)&amp;action=history Radical center (politics): Revision history].)
+
+4. On 8 February 2014, our editor writing as Amadha0719 – a username lacking any identification – reverts all the year-end updates I’d made to the site, for no expressed reason.  (See under [https://en.wikipedia.org/w/index.php?title=Radical_center_(politics)&amp;action=history Radical center (politics): Revision history].)  Since I’d spent many hours creating those updates, which are all non-controversial, you can see why I feel this is the last straw.
+
+Can you do anything?  Can anyone?
+
+Thanks again for being there! - [[User:Babel41|Babel41]] ([[User talk:Babel41|talk]]) 00:49, 10 February 2014 (UTC)
+:Hi Babel, good to hear from you. I've read over the reasons for your changes, and they look fine. The article is presumably in the shape you're looking for, so there's nothing for me to do at the moment, but I'll put it on my watchlist to be safe. Take care. - Dank ([[User talk:Dank|push to talk]]) 01:41, 10 February 2014 (UTC)
+
+::Hi Dank, thanks for your amazingly prompt response.  I am afraid I was being a little to gentle for my own good here.  This guy (if he is one single individual) is not an &quot;editor&quot; in any true sense of the word.  In recent months he has placed a long unsourced POV rant on the radical-centrism page, called me a &quot;cunt,&quot; and reverted hours of carefully-researched updates for no reason.  At what point does Wikipedia investigate to see if someone is systematically attempting to deteriorate a page and initimdate its principal editor?  Or am I maybe too thin-skinned for this world?  Best, - [[User:Babel41|Babel41]] ([[User talk:Babel41|talk]]) 22:39, 10 February 2014 (UTC)
+:::The name-calling is too stale for me to do anything about it at this point, and the rest of it is the kind of stuff that happens every day on Wikipedia. If they engage in frequent edits that hurt the article, I'll notice it and do something about it. One thing you can do to draw visibility is to have the article reviewed at [[WP:GAN]]. - Dank ([[User talk:Dank|push to talk]]) 22:45, 10 February 2014 (UTC)
+::::... I hear you: Toughen up!  Got it.  Thanks. - [[User:Babel41|Babel41]] ([[User talk:Babel41|talk]]) 21:45, 11 February 2014 (UTC)
+:::::No, you have my sympathies, and I wouldn't put it like that. I have no ability to make bad guys go away permanently; they can always create another account and come back. If they are abusive, I can block them, and if they harm an article, I can help you get the article back in shape. But the article's fine, and for all I know, the perp is long gone. - Dank ([[User talk:Dank|push to talk]]) 21:57, 11 February 2014 (UTC)
+
+== Space selfie ==
+
+That was a great title/lead pic this week—thank you! [[User:The ed17|Ed]]&amp;nbsp;&lt;sup&gt;[[User talk:The ed17|[talk]]] [[WP:OMT|[majestic titan]]]&lt;/sup&gt; 06:39, 13 February 2014 (UTC)
+:Thanks, that was Crisco_1492's nom, and we actually have a whole article on [[space selfie]]s now. - Dank ([[User talk:Dank|push to talk]]) 14:50, 13 February 2014 (UTC)
+::Wow, that's a new one. Good article, and nice find by [[User:Crisco 1492|Crisco 1492]]. [[User:The ed17|Ed]]&amp;nbsp;&lt;sup&gt;[[User talk:The ed17|[talk]]] [[WP:OMT|[majestic titan]]]&lt;/sup&gt; 04:47, 14 February 2014 (UTC)
+::*Thanks Ed. (See? DYK's not entirely useless!)&amp;nbsp;—&amp;nbsp;[[User:Crisco 1492|Crisco 1492]] ([[User talk:Crisco 1492|talk]]) 04:48, 14 February 2014 (UTC)
+
+== Featured content report ==
+
+Hi Dank, you included 3 FA descriptions last week that belong in this week's report because the report is behind. I have moved those FAs to this week. I've done all of the report except for FP descriptions. Would you do those please? I've already credited you as an author for this week because of the FAs from the last report. Thanks, --&lt;font style=&quot;white-space:nowrap;text-shadow:#008C3A 0.1em 0.1em 1.5em,#01796F -0.1em -0.1em 1.5em;color:#000000&quot;&gt;[[User:Pine|&lt;font color=&quot;#01796F&quot;&gt;&lt;b&gt;Pine&lt;/b&gt;&lt;/font&gt;]][[User talk:Pine|&lt;font color=&quot;#01796F&quot;&gt;&lt;sup&gt;✉&lt;/sup&gt;&lt;/font&gt;]]&lt;/font&gt; 01:58, 16 February 2014 (UTC)
+:I'm sorry Pine, I was only doing part of the Featured Content page to give Ed some time to find replacements. I already let WT:FAC people know (and Ed too I guess, since he keeps up with WT:FAC) that I'm done with FC for now, while I work on copyediting software and catch up on my copyediting jobs. Hopefully someone who reads WT:FAC will respond. - Dank ([[User talk:Dank|push to talk]]) 02:43, 16 February 2014 (UTC)
+::Thanks, Dank, for your assistance. I'll keep working on getting more FC people onboard. :-) [[User:The ed17|Ed]]&amp;nbsp;&lt;sup&gt;[[User talk:The ed17|[talk]]] [[WP:OMT|[majestic titan]]]&lt;/sup&gt; 04:16, 16 February 2014 (UTC)
+:::Thanks Ed. - Dank ([[User talk:Dank|push to talk]]) 04:38, 16 February 2014 (UTC)
+
+== Strachwitz review ==
+Hi, I wanted to check back and ask if you have any further suggestions or comments regarding the article. Thanks for your effort so far. [[User:MisterBee1966|MisterBee1966]] ([[User talk:MisterBee1966|talk]]) 08:17, 17 February 2014 (UTC)
+:I don't, I don't do as much copyediting as I used to. Best of luck. - Dank ([[User talk:Dank|push to talk]]) 15:24, 17 February 2014 (UTC)
+	</talkpage>
+</article>

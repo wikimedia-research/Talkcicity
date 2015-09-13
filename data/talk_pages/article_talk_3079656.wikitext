@@ -1,0 +1,5 @@
+<article id="3079656" title=Talk:Finnish national men's ice hockey team 1995 World Championships roster>
+	<talkpage id="3079656" title="Talk:Finnish national men's ice hockey team 1995 World Championships roster">
+{{ice hockey|class=stub}}
+	</talkpage>
+</article>

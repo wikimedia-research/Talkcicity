@@ -1,0 +1,6 @@
+<article id="10458701" title=User talk:75.68.110.114>
+	<talkpage id="10458701" title="User talk:75.68.110.114">
+==Editing Concerns==
+#{{{icon|[[Image:Information.svg|25px|left]] }}}Welcome, and thank you for experimenting with {{{{{subst|}}}#if:{{{1|}}}|the page [[:{{{1|}}}]] on}} Wikipedia. Your test worked, and it has been [[Help:Reverting|reverted]] or removed. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to our encyclopedia. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{{2|}}}&lt;!-- Template:uw-test1 --&gt; --[[User:Kukini|'''&lt;font color=&quot;#885500&quot;&gt;K&lt;font color=&quot;#bb8800&quot;&gt;u&lt;font color=&quot;#eebb00&quot;&gt;k&lt;/font&gt;i&lt;/font&gt;ni&lt;/font&gt;''']] &lt;sup&gt; [[User talk:kukini|hablame aqui]]&lt;/sup&gt; 16:05, 4 April 2007 (UTC)
+	</talkpage>
+</article>

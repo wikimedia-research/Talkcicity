@@ -1,0 +1,21 @@
+<article id="6624353" title=Talk:Sihem Bensedrine>
+	<talkpage id="6624353" title="Talk:Sihem Bensedrine">
+{{WikiProjectBannerShell| blp=yes
+|1=
+{{WikiProject Biography
+|living=yes
+|class=start
+
+|listas=Bensedrine, Sihem
+}}
+{{WikiProject Tunisia|class=start|importance=low}}
+{{WikiProject Human rights|class=start|importance=low}}
+{{WikiProject Journalism|class=start|importance=mid}}
+{{WikiProject Women writers|class=start|importance=|auto=inherit}}
+}}
+
+
+
+{{Image requested|journalists|people of Tunisia}}
+	</talkpage>
+</article>

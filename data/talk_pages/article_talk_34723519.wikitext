@@ -1,0 +1,5 @@
+<article id="34723519" title=Talk:American Utilicraft>
+	<talkpage id="34723519" title="Talk:American Utilicraft">
+{{WikiProject United States|class=Redirect|importance=NA|}}
+	</talkpage>
+</article>

@@ -1,0 +1,7 @@
+<article id="26232051" title=Talk:Filtration slits>
+	<talkpage id="26232051" title="Talk:Filtration slits">
+{{Talk header}}
+{{WikiProject Anatomy|class=Start|importance=low}}
+{{merged to|Podocyte|Date=May 2015}}
+	</talkpage>
+</article>

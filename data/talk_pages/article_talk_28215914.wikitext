@@ -1,0 +1,5 @@
+<article id="28215914" title=Talk:Central Entrerriano>
+	<talkpage id="28215914" title="Talk:Central Entrerriano">
+{{WikiProject Basketball|class=Stub|auto=yes}}
+	</talkpage>
+</article>

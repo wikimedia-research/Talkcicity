@@ -1,0 +1,8 @@
+<article id="11649454" title=User talk:81.153.195.152>
+	<talkpage id="11649454" title="User talk:81.153.195.152">
+
+=== June 2007 ===
+{{{icon|[[Image:Information.svg|25px]] }}}Welcome to Wikipedia. It might not have been your intention, but your recent contribution removed content from [[:Fibonacci]]. Please be more careful when editing articles and do not remove content from Wikipedia without a good reason, which should be specified in the [[Help:Edit summary|edit summary]]. Take a look at the [[Wikipedia:Welcome|welcome page]] to learn more about contributing to this encyclopedia.  If you would like to experiment again, please use the [[Wikipedia:Sandbox|sandbox]].  Thank you.&lt;!-- Template:uw-delete1 --&gt; [[User:wizzard2k|&lt;span style=&quot;color:navy;font-weight:bold;&quot;&gt;-wizzard2k&lt;/span&gt;]] &lt;sup&gt;([[Special:Contributions/wizzard2k|&lt;font color=&quot;navy&quot;&gt;C&lt;/font&gt;]]&lt;font color=&quot;navy&quot; weight=&quot;bold&quot;&gt;&amp;#x2022;&lt;/font&gt;[[User_talk:wizzard2k|&lt;font color=&quot;navy&quot;&gt;T&lt;/font&gt;]]&lt;font color=&quot;navy&quot; weight=&quot;bold&quot;&gt;&amp;#x2022;&lt;/font&gt;[[User:wizzard2k/desk|&lt;font color=&quot;navy&quot;&gt;D&lt;/font&gt;]])&lt;/sup&gt; 16:04, 7 June 2007 (UTC)
+:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
+	</talkpage>
+</article>

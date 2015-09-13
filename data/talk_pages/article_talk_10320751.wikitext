@@ -1,0 +1,7 @@
+<article id="10320751" title=Talk:Soda Pictures>
+	<talkpage id="10320751" title="Talk:Soda Pictures">
+{{Film|British-task-force=yes|class=Stub|Filmmaking-task-force=yes}}
+{{WikiProject United Kingdom}}
+{{oldafdfull|date= [[22 March]] [[2007]] |result= '''keep''' |page= Soda Pictures}}
+	</talkpage>
+</article>

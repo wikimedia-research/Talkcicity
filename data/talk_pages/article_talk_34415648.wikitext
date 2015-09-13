@@ -1,0 +1,15 @@
+<article id="34415648" title=User talk:Wilfredajohnsonian>
+	<talkpage id="34415648" title="User talk:Wilfredajohnsonian">
+== January 2012 ==
+[[Image:Information.svg|25px|alt=|link=]] Welcome to Wikipedia. It might not have been your intention, but your recent edit removed content from [[:Injunction]]. When removing content, please specify a reason in the [[Help:Edit summary|edit summary]] and discuss edits that are likely to be controversial on the article's [[Wikipedia:Talk page|talk page]]. If this was a mistake, don't worry; the content has been restored, as you can see from the &lt;span class=&quot;plainlinks&quot;&gt;[//en.wikipedia.org/w/index.php?title=Injunction&amp;action=history page history]&lt;/span&gt;. Take a look at the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing to this encyclopedia, and if you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]].  Thank you.&lt;!-- Template:uw-delete1 --&gt; --  '''[[User:Lukep913|&lt;span style=&quot;color:#DC143C&quot;&gt;&lt;span style=&quot;font-family:Palatino&quot;&gt;Luke&lt;/span&gt;&lt;/span&gt;]]  [[User_talk:Lukep913|&lt;span style=&quot;color:#000080&quot;&gt;&lt;span style=&quot;font-family:Palatino&quot;&gt;(Talk)&lt;/span&gt;&lt;/span&gt;]]''' 01:39, 18 January 2012 (UTC)
+
+==In response to your [[Special:FeedbackDashboard/13927|feedback]]==
+&lt;span id=&quot;feedback-dashboard-response-1329&quot;&gt;&lt;/span&gt;
+
+Wilfredajohnsonian, what's the problem you are facing? Is there anything wrong? 
+
+[[User:Jedd Raynier|Jedd Raynier]] ([[User talk:Jedd Raynier|talk]]) 08:06, 22 January 2012 (UTC)
+
+&lt;span class=&quot;markashelpful-mbresponse-1329&quot;&gt;&amp;#160;&lt;/span&gt;
+	</talkpage>
+</article>

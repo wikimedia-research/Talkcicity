@@ -1,0 +1,5 @@
+<article id="43931133" title=Talk:Nancy Glenn-Nieto>
+	<talkpage id="43931133" title="Talk:Nancy Glenn-Nieto">
+{{WikiProject Biography|living=yes|class=stub}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="32667534" title=Talk:Bhavnath>
+	<talkpage id="32667534" title="Talk:Bhavnath">
+{{WikiProject India|importance=low|class=stub|assess-date=April 2012}}
+	</talkpage>
+</article>

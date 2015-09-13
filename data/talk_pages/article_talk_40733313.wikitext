@@ -1,0 +1,5 @@
+<article id="40733313" title=Talk:Rahim Khan>
+	<talkpage id="40733313" title="Talk:Rahim Khan">
+{{DisambigProject}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="33905542" title=Talk:Cossmannica bancoensis>
+	<talkpage id="33905542" title="Talk:Cossmannica bancoensis">
+{{WikiProject Gastropods|class=stub|importance=low|needs-photo=yes}}
+	</talkpage>
+</article>

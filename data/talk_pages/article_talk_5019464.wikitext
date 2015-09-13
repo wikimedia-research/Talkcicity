@@ -1,0 +1,10 @@
+<article id="5019464" title=Talk:Berserk!>
+	<talkpage id="5019464" title="Talk:Berserk!">
+{{talk header}}
+{{WikiProjectBannerShell|1=
+{{HorrorWikiProject|class=start|importance=low}}
+{{Film|British-task-force=yes|class=Start}}
+{{WikiProject Circus|class=c|importance=low}}
+}}
+	</talkpage>
+</article>

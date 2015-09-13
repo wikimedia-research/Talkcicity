@@ -1,0 +1,5 @@
+<article id="26949787" title=Talk:Pathological Society>
+	<talkpage id="26949787" title="Talk:Pathological Society">
+{{WikiProject Medicine |class=Start |importance=Low}}
+	</talkpage>
+</article>

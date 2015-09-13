@@ -1,0 +1,15 @@
+<article id="5374662" title=Talk:Charlie Tonga>
+	<talkpage id="5374662" title="Talk:Charlie Tonga">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=Start
+|sports-work-group=yes
+|listas=Tonga, Charlie
+}}
+{{WikiProject Polynesia|class=start |importance=low |Tonga=yes |Tonga-importance=low}}
+{{WikiProject Rugby league|class=start |importance=low|auto=yes}}
+| blp=yes
+}}
+	</talkpage>
+</article>

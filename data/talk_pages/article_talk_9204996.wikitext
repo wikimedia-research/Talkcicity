@@ -1,0 +1,12 @@
+<article id="9204996" title=Talk:Winfield Scott Chaplin>
+	<talkpage id="9204996" title="Talk:Winfield Scott Chaplin">
+{{WikiProject United States|class=Stub|importance=Low|WUSL=yes|WUSL-importance=Low}}
+{{WikiProject Biography
+|living=no
+|class=Stub
+
+|s&amp;a-work-group=yes
+|listas=Chaplin, Winfield Scott
+}}
+	</talkpage>
+</article>

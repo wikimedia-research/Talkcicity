@@ -1,0 +1,8 @@
+<article id="47117133" title=Talk:St Andrews Presbyterian Church, Esk>
+	<talkpage id="47117133" title="Talk:St Andrews Presbyterian Church, Esk">
+{{WP Australia|class=C|importance=low}}
+{{Architecture|class=C|importance=low}}
+
+{{reqphoto|in=Somerset Region}}
+	</talkpage>
+</article>

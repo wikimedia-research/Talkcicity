@@ -1,0 +1,6 @@
+<article id="20370007" title=Talk:Kobe Station>
+	<talkpage id="20370007" title="Talk:Kobe Station">
+{{WikiProject Trains|class=dab|stations=yes|Japan=yes}}
+{{DisambigProject}}
+	</talkpage>
+</article>

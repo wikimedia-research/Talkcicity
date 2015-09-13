@@ -1,0 +1,43 @@
+<article id="36411021" title=User talk:50.71.163.55>
+	<talkpage id="36411021" title="User talk:50.71.163.55">
+[[Image:Stop hand nuvola.svg|30px|left|alt=|link=]] Your recent editing history at [[:GM Iron Duke engine]] shows that you are currently engaged in an [[WP:EDITWAR|edit war]]. '''Being involved in an edit war can result in you being [[WP:BLOCK|blocked from editing]]'''&amp;mdash;especially if you violate the [[WP:3RR|three-revert rule]], which states that an editor must not perform more than three [[WP:REVERT|reverts]] on a single page within a 24-hour period.  Undoing another editor's work—whether in whole or in part, whether involving the same or different material each time—counts as a revert.  Also keep in mind that while violating the three-revert rule often leads to a block, you can still be blocked for edit warring&amp;mdash;'''even if you don't violate the three-revert rule'''&amp;mdash;should your behavior indicate that you intend to continue reverting repeatedly.
+
+To avoid being blocked, instead of reverting please consider using the article's [[WP:TALK|talk page]] to work toward making a version that represents [[Wikipedia:Consensus|consensus]] among editors. See [[WP:BRD|BRD]] for how this is done. You can post a request for help at a relevant [[Wikipedia:Noticeboards|noticeboard]] or seek [[Wikipedia:Dispute resolution|dispute resolution]].  In some cases, you may wish to request temporary [[Wikipedia:Protection policy|page protection]]. &lt;!-- Template:uw-3rr --&gt;  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/174.6.177.4|174.6.177.4]] ([[User talk:174.6.177.4|talk]]) 16:51, 18 July 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+
+This is written in response to your post following the removal of your edit to the [[GM Iron Duke engine]] article: 
+
+
+It's not me you need to convince. I don't have an opinion one way or the other. I've never seen a Vega engine in my life. The reason your edit was removed has nothing to do with what I think about that engine.
+
+Wikipedia doesn't allow original research to be used as the basis for an article or claim. Everything must have reputable outside references attached to back them up. And as Carl Sagan said, &quot;Extraordinary claims require extraordinary evidence.&quot; Otherwise anyone could claim anything. There are a good number of reputable sources which disagree with the claim you have put forth. This is a problem.
+
+In other words, you can't just waltz into an article and say &quot;Everyone's wrong but me!&quot;
+
+Consider the following. I could edit the article on [[cats]] to say that they have the power of [[teleportation]]. When someone inevitably removes my edit, I could tell them how my cat repeatedly finds its way into my bedroom at night even though the door is closed, and claim this proves that cats are inter-dimensional beings. I could even offer to take pictures of my cat walking across my bed in the morning as proof. And maybe I'm right, and they really are space aliens disguised as cute fuzzballs. But the person reading the article has to be able to trust the information presented in it to be the generally accepted truth, and just because I believe it to be true does not automatically mean that cat experts or the world at large believe it. Until the scientific community comes out to say that cats can disappear and re-appear at will, it's not Wikipedia's place to advance this idea.
+
+The truth, as the world holds it, changes over time. We are not here to change the truth. We are not explorers discovering a new frontier. Wikipedia should never be the first place a new discovery is announced. Our goal instead is to list what is held to be true and cite who holds it as such. When there is conflict and uncertainty, that is what we say. To claim certainty based on uncertain evidence would be dishonest and misleading.
+
+If you feel the commonly accepted sources of knowledge about this engine are wrong, go find other reputable sources which back up your claim, list them on the article's talk page. If there are no objections, edit the article to describe the uncertainty, listing both sources and their claims. Say how there is debate as to whether the two are related or not. Don't simply present your personal beliefs as the only truth. 
+
+If no suitable sources exist which agree with what you have observed first-hand, then what you have discovered is not yet ready for inclusion on Wikipedia. You should instead work outside Wikipedia to document your findings, perhaps on a personal website or a car forum. Create discussion, get other people who are knowledgeable about these engines to help verify or overturn your observations. Eventually, if you are correct, this information will spread and solidify, and the day will come when the article can be updated to reflect this.
+
+All this may sound inefficient, but it adds layers of vetting and creates a trail back to the source of the information, as opposed to simply stating something as fact without giving readers any idea how reputable the source of the information is. The alternative would no doubt cause the entire Wikipedia project to collapse under the weight of untrustworthy claims and dubious facts.
+
+For more information I suggest you read the following articles.
+
+http://en.wikipedia.org/wiki/Wikipedia:NOR
+
+http://en.wikipedia.org/wiki/Wikipedia:Citing_sources
+
+http://en.wikipedia.org/wiki/Wikipedia:Verifiability
+
+http://en.wikipedia.org/wiki/Wikipedia:Reliable_sources
+
+
+Please take any further discussion to the talk page of the [[GM Iron Duke engine]] rather than to the talk page of a specific editor. This is a topic which must be discussed by the larger community. It is not about me.
+
+
+[[Special:Contributions/174.6.177.4|174.6.177.4]] ([[User talk:174.6.177.4|talk]]) 04:02, 13 July 2012 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,34 @@
+<article id="14339086" title=User talk:Melholeisfound>
+	<talkpage id="14339086" title="User talk:Melholeisfound">
+==Welcome!==
+{| class=&quot;wikitable&quot;
+|-
+|[[Image:AnimWIKISTAR-laurier-WT.gif|AnimWIKISTAR-laurier-WT.gif]] &lt;small&gt;Hi! Welcome to the [[English Wikipedia]]!&lt;/small&gt;&lt;/br&gt;{{boxboxtop|Fun and Interesting Articles}}
+[[Wikipedia:User page|Userpage guidelines]]&lt;/br&gt;[[Special:Random|Load a random article!]]&lt;/br&gt;[[Wikipedia:Userboxes|Userbox directory]]&lt;/br&gt;
+[[Wikipedia:Wikiproject|Join a WikiProject]]&lt;/br&gt;[[Wikipedia:Wikipediholic|Are you a Wikipediholic?]]&lt;/br&gt;[[Wikipedia:List of Wikipedians by number of edits|The top editors]]&lt;/br&gt;[[Wikipedia:Motto of the day|The motto of the day]]&lt;/br&gt;[[Wikipedia:List of really, really, really stupid article ideas that you really, really, really should not create|Some really bad ideas.....]]&lt;/br&gt;[[Wikipedia:Department of Fun|The Department of Fun!]]&lt;/br&gt;[[Wikipedia:Song|Wikisongs!!]]&lt;/br&gt;[[Wikipedia:Articles for creation|Some new article ideas]]&lt;/br&gt;[[Wikipedia:Unusual articles|Some very odd articles.....]]&lt;/br&gt;[[Special:Log/newusers|List of the newest users]]&lt;/br&gt;[[Wikipedia:Barnstars|Barnstars!]]&lt;/br&gt;[[Wikipedia:Personal user awards|List of user rewards]]&lt;/br&gt;[[Wikipedia:Most vandalized pages|List of pages most vandalized]]&lt;/br&gt;[[Wikipedia:Very Frequently Asked Questions|Very frequently asked questions]]&lt;/br&gt;[[Jimmy Wales|Jimmy Wales, owner of Wikipedia]]&lt;/br&gt;[[Wikipedia:Reward board|The reward board (earn $$$)]]&lt;/br&gt;[[User:SuggestBot|Get articles to edit from SuggestBot]]&lt;/br&gt;[http://tools.wikimedia.de/~interiot/cgi-bin/Tool1/wannabe_kate/ Find out how many edits you have!]
+{{boxboxbottom}}
+&lt;big&gt;Hello, &lt;span style=&quot;color: #FFD700&quot;&gt;{{BASEPAGENAME}}&lt;/span&gt;, and [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome to Wikipedia!]] Thank you for joining. I hope you like the place and decide to stay. Here are some pages that you might find helpful:&lt;/big&gt;
+: [[Image:Information_icon.svg|23px]] &amp;nbsp; '''[[Wikipedia:Introduction|Introduction]]'''
+: &amp;nbsp;&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;font color=&quot;orange&quot;&gt;'''5'''&lt;/font&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;!----&gt; &amp;nbsp;&amp;nbsp; '''[[WP:5P|The five pillars of Wikipedia]]'''
+: [[Image:Crystal package utilities.png|23px]] &amp;nbsp; '''[[WP:HEP|How to edit a page]]'''
+: [[Image:Crystal khelpcenter.png|23px]] &amp;nbsp; '''[[Help:Contents|Help]]'''
+: [[Image:Crystal Clear app ktip.png|23px]] &amp;nbsp; '''[[Wikipedia:Tips|Tips]]'''
+: [[Image:Cscr-featured.png|23px|]] &amp;nbsp; '''[[WP:IA|How to write a great article]]'''
+: [[Image:Crystal_Clear_app_kedit.png|23px]] &amp;nbsp; '''[[WP:MS|Manual of Style]]'''
+: [[Image:UncialB-01.png|23px]] &amp;nbsp; '''''[[WP:BB|Be Bold]]'''''
+: [[Image:Face-angel.svg|23px]] &amp;nbsp; '''''[[WP:AGF|Assume Good faith]]'''''
+: [[Image:Shade.png|23]] &amp;nbsp; '''''[[WP:COOL|Keep cool]]'''''
+: [[Image:Barnstar-lightbulb.png|23px]]&amp;nbsp; '''''[http://upload.wikimedia.org/wikipedia/commons/2/26/Kyokpae_banner.png Share your knowledge]'''''
+:  [[Image:Presa de decissions.png|23px]] &amp;nbsp; '''''[[WP:ADOPT|Get adopted]]'''''
+:  [[Image:Symbol_neutral_vote.svg|23px]] &amp;nbsp; '''''[[WP:NPOV|Neutral point of view]]'''''&lt;/br&gt;
+&lt;big&gt;And here are several pages on what to avoid:&lt;/big&gt;
+: [[Image:Stop hand.svg|23px]] [[Wikipedia:Copyrights|How to avoid&lt;span style=&quot;color: #FF0000&quot;&gt; Copyright infringement&lt;/span&gt;]]
+: [[Image:No-spam.png|23px]] [[WP:SPAM#How_not_to_be_a_spammer|How to not&lt;span style=&quot;color: #FF0000&quot;&gt; spam&lt;/span&gt;]]
+: [[Image:Octagon-warning.svg|23px]] [[WP:BLOCK|Make sure not to get&lt;span style=&quot;color: #FF0000&quot;&gt; blocked,&lt;/span&gt; which should be no problem after reading this]]
+
+&lt;big&gt;If you would like to view more useful links, visit [[User:Malinaccier/Welcome/More info|this page]].  I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[WP:SIG|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you need help, check out [[Wikipedia:Questions]], ask me on [[User_talk:Malinaccier|my talk page]], or place &lt;code&gt;&lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt;&lt;/code&gt; on your talk page and someone will show up shortly to answer your questions. Also, I think that you might be interested in [[Wikipedia: adopt-a-user|the adopt-a-user project]], where advanced editors can guide you in your editing; so check it out if you want. Again, welcome!&amp;nbsp;&lt;/big&gt;
+|}
+
+&lt;strong class=&quot;plainlinks&quot;&gt;[[User:Malinaccier|Malinaccier]] ([[User talk:Malinaccier|talk]] &lt;small&gt;•&lt;/small&gt; [[Special:Contributions/Malinaccier|contribs]])&lt;/strong&gt; 00:24, 21 November 2007 (UTC)
+	</talkpage>
+</article>

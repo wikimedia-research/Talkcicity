@@ -1,0 +1,6 @@
+<article id="25295495" title=Talk:RJR Plaza Building>
+	<talkpage id="25295495" title="Talk:RJR Plaza Building">
+{{WikiProject United States|class=stub|importance=low|NC=Yes|NC-importance=low}}
+{{reqphoto|of=the RJR Plaza Building|in=Forsyth County, North Carolina}}
+	</talkpage>
+</article>

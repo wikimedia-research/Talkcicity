@@ -1,0 +1,15 @@
+<article id="31386134" title=Talk:Archie Miller (basketball)>
+	<talkpage id="31386134" title="Talk:Archie Miller (basketball)">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|sports-work-group=yes
+|listas=Miller, Archie
+}}
+{{WikiProject College basketball|class=stub}}
+{{WikiProject Basketball|class=Stub|auto=yes}}
+| blp=yes
+}}
+	</talkpage>
+</article>

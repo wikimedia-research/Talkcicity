@@ -1,0 +1,20 @@
+<article id="35799986" title=User talk:ShawnM25>
+	<talkpage id="35799986" title="User talk:ShawnM25">
+&lt;h3 style=&quot;-moz-border-radius: 15px; text-align: left; padding: 5px; background: #8D8DFF&quot;&gt;[[Image:Crystal_Clear_app_gadu.png|25px]] Welcome, ShawnM25!&lt;/h3&gt;
+
+&lt;div style=&quot;padding: 3px; text-align: left; background-color: #FFFDD0;&quot;&gt;
+ 
+
+Hello, ShawnM25, and '''[[Wikipedia:Welcome, newcomers|welcome]]''' to Wikipedia! I'm [[User:Mr. Stradivarius|Mr. Stradivarius]], one of the thousands of editors here at [[Wikipedia]]. Thank you for your contributions. I hope you like the place and decide to stay. Here are a few good links for newcomers:
+
+: [[Image:Crystal Clear app ksmiletris.png|23px]] &amp;nbsp; '''[[Wikipedia:Five pillars|The five pillars of Wikipedia]]'''
+: [[Image:Crystal package utilities.png|23px]] &amp;nbsp; '''[[Wikipedia:How to edit a page|How to edit a page]]'''
+: [[Image:Crystal khelpcenter.png|23px]] &amp;nbsp; '''[[Help:Contents|Help pages]]'''
+: [[Image:Crystal Clear app ktip.png|23px]] &amp;nbsp; '''[[Wikipedia:Tutorial|Tutorial]]'''
+: [[Image:Crystal Clear app ksokoban.png|23px|]] &amp;nbsp; '''[[Wikipedia:How to write a great article|How to write a great article]]'''
+: [[Image:Crystal_Clear_app_kedit.png|23px]] &amp;nbsp; '''[[Wikipedia:Manual of Style|Manual of Style]]'''
+: [[Image:Nuvola apps konquest.png|23px]] &amp;nbsp; '''''[[Help:Contents/Fun stuff|Fun stuff...]]'''''
+
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (~&amp;#126;~~); this will automatically produce your username and the date. If you need help, check out [[Wikipedia:Where to ask a question]], ask me on my '''[[User talk:Mr. Stradivarius|talk page]]''', or type &lt;code&gt;{&amp;#123;helpme}}&lt;/code&gt; here on ''your'' talk page and someone will show up shortly to answer your questions. Again, welcome! &lt;/div&gt; — &lt;b style=&quot;text-shadow:0.15em 0.15em 0.1em #555; color: #194D00; font-style: oblique; font-family: Palatino, Times, serif&quot;&gt;[[User:Mr. Stradivarius|&lt;span style=&quot;color: #194D00&quot;&gt;Mr. Stradivarius&lt;/span&gt;]] &lt;sup&gt;[[User talk:Mr. Stradivarius|♫]]&lt;/sup&gt;&lt;/b&gt; 17:59, 12 May 2012 (UTC)
+	</talkpage>
+</article>

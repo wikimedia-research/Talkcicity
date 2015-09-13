@@ -1,0 +1,11 @@
+<article id="26624471" title=Talk:John Deydras>
+	<talkpage id="26624471" title="Talk:John Deydras">
+{{WikiProject Biography
+|living=no
+|class=Start
+|listas=Deydras, John
+}}
+
+{{WikiProject Middle Ages|class=start}}
+	</talkpage>
+</article>

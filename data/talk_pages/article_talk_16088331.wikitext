@@ -1,0 +1,6 @@
+<article id="16088331" title=Talk:Columbia (electoral district)>
+	<talkpage id="16088331" title="Talk:Columbia (electoral district)">
+{{WikiProject Canada|riding=yes|bc=yes|class=start|importance=low}}
+{{WikiProject Elections and Referendums}}
+	</talkpage>
+</article>

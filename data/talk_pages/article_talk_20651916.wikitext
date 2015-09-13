@@ -1,0 +1,8 @@
+<article id="20651916" title=User talk:74.71.203.79>
+	<talkpage id="20651916" title="User talk:74.71.203.79">
+
+== December 2008 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Fifth_dimension?diff=257380472 recent edit]&lt;/span&gt; you made to [[:Fifth dimension]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:Marek69|{{#if:|&lt;span style=&quot;background-color:Marek;color:DarkBlue;&quot;&gt;&lt;/span&gt;|&lt;span style=&quot;color:DarkBlue;&quot;&gt;Marek&lt;/span&gt;}}&lt;small&gt;{{#if:|&lt;span style=&quot;background-color:.69;color:Blue;&quot;&gt;&lt;/span&gt;|&lt;span style=&quot;color:Blue;&quot;&gt;.69&lt;/span&gt;}}&lt;/small&gt;]][[User_talk:Marek69|&lt;small&gt;{{#if:|&lt;span style=&quot;background-color:&lt;sup&gt;'' talk''&lt;/sup&gt;;color:Green;&quot;&gt;&lt;/span&gt;|&lt;span style=&quot;color:Green;&quot;&gt;&lt;sup&gt;'' talk''&lt;/sup&gt;&lt;/span&gt;}}&lt;/small&gt;]] 23:56, 11 December 2008 (UTC)
+	</talkpage>
+</article>

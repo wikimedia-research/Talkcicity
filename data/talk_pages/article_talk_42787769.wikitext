@@ -1,0 +1,5 @@
+<article id="42787769" title=Talk:Pratap simha>
+	<talkpage id="42787769" title="Talk:Pratap simha">
+{{WikiProject Biography|living=yes|class=stub|auto=yes}}
+	</talkpage>
+</article>

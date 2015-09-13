@@ -1,0 +1,10 @@
+<article id="34177107" title=Talk:William H. Maynard>
+	<talkpage id="34177107" title="Talk:William H. Maynard">
+{{WikiProject Biography
+|living=no
+|class=
+|listas=Maynard, William H.
+}}
+{{WikiProject New York|class=Stub|importance=Low}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="18032218" title=Talk:L'Anse-au-Clair>
+	<talkpage id="18032218" title="Talk:L'Anse-au-Clair">
+{{WikiProject Canada|geography=yes|nl=yes|community=yes|class=stub|importance=mid}}
+	</talkpage>
+</article>

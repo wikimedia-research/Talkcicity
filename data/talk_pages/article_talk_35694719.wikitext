@@ -1,0 +1,10 @@
+<article id="35694719" title=Talk:Gerhard IV, Count of Holstein-Plön>
+	<talkpage id="35694719" title="Talk:Gerhard IV, Count of Holstein-Plön">
+{{WikiProject Biography
+|living=no
+|class=Stub
+|auto=yes
+}}
+{{Translated page|de|Gerhard IV. (Holstein-Plön)}}
+	</talkpage>
+</article>

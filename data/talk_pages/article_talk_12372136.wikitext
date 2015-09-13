@@ -1,0 +1,5 @@
+<article id="12372136" title=Talk:Dendropsophus giesleri>
+	<talkpage id="12372136" title="Talk:Dendropsophus giesleri">
+{{AARTalk|class=Stub|needs-photo=yes}}
+	</talkpage>
+</article>

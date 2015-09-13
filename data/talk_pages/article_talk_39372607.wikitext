@@ -1,0 +1,6 @@
+<article id="39372607" title=Talk:1992 Australia rugby union tour of South Africa>
+	<talkpage id="39372607" title="Talk:1992 Australia rugby union tour of South Africa">
+{{WikiProject Rugby union|class=Stub|importance=Low}}
+{{WikiProject Australia|class=Stub|importance=Low|sports=y}}
+	</talkpage>
+</article>

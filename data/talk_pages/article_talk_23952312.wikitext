@@ -1,0 +1,6 @@
+<article id="23952312" title=Talk:Santo Antônio River (Santa Catarina)>
+	<talkpage id="23952312" title="Talk:Santo Antônio River (Santa Catarina)">
+{{WikiProject Rivers |importance=low |class=stub}}
+{{WikiProject Brazil |geo=yes |importance=low |class=stub}}
+	</talkpage>
+</article>

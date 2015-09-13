@@ -1,0 +1,5 @@
+<article id="26830946" title=Talk:Hindsiclava tippetti>
+	<talkpage id="26830946" title="Talk:Hindsiclava tippetti">
+{{WikiProject Gastropods|class=Stub|importance=Low|needs-photo=yes}}
+	</talkpage>
+</article>

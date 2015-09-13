@@ -1,0 +1,9 @@
+<article id="26849465" title=Talk:Choptank tribe>
+	<talkpage id="26849465" title="Talk:Choptank tribe">
+{{NorthAmNative|class=Start}}
+{{Ethnic groups|class=start|importance=}}
+
+==Propose Rename==
+Propose rename to [[Choptank]] and a disambig page (if there isn't one), for the river, town, language etc.  [[User:Duff|Duff]] ([[User talk:Duff|talk]]) 10:58, 6 April 2010 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="33683507" title=Talk:Zahra Dowlatabadi>
+	<talkpage id="33683507" title="Talk:Zahra Dowlatabadi">
+{{WikiProject Biography|living=yes|class=start|listas=Dowlatabadi, Zahra|filmbio-work-group=yes}}
+{{WikiProejct Iran|class=start}}
+	</talkpage>
+</article>

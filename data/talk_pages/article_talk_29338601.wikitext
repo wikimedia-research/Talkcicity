@@ -1,0 +1,10 @@
+<article id="29338601" title=Talk:Hemal Gunasekara>
+	<talkpage id="29338601" title="Talk:Hemal Gunasekara">
+{{WikiProject Biography
+|living=yes
+|class=stub
+|auto=yes
+|listas=Gunasekara, Hemal
+}}
+	</talkpage>
+</article>

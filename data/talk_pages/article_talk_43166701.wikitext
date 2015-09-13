@@ -1,0 +1,90 @@
+<article id="43166701" title=Talk:Lady Gaga Live at Roseland Ballroom/GA1>
+	<talkpage id="43166701" title="Talk:Lady Gaga Live at Roseland Ballroom/GA1">
+==GA Review==
+{{archivetop|This article was promoted to GA-class on June 30, 2014. &lt;span style=&quot;color:#3C0F85&quot;&gt;'''[[User:Prism|pedro]]''' &amp;#124; ''[[User talk:Prism|talk]]''&lt;/span&gt; 12:15, 30 June 2014 (UTC)}}
+{{Good article tools}}
+&lt;noinclude&gt;{{al|{{#titleparts:Lady Gaga Live at Roseland Ballroom/GA1|-1}}|noname=yes}}&lt;br/&gt;&lt;/noinclude&gt;&lt;includeonly&gt;:''This review is [[WP:transclusion|transcluded]] from [[Talk:Lady Gaga Live at Roseland Ballroom/GA1]]. The edit link for this section can be used to add comments to the review.''&lt;/includeonly&gt;
+
+'''Reviewer:''' [[User:Prism|Prism]]&amp;nbsp;([[User talk:Prism|talk]] '''·''' [[Special:Contributions/Prism|contribs]]) 16:39, 28 June 2014 (UTC)
+
+&lt;!-- Please add all review comments below this comment, and do not alter what is above. So that the review can be kept within a single section, please do not use level 2 headers (==...==) below to break up the review. Use level 3 (===...===), level 4 and so on.--&gt;
+
+;Prose
+'''Lead'''
+* I think the second mention of &quot;Roseland Ballroom&quot; could be changed to ''the venue'', it would be less repetitive.
+:* {{done}} '''''[[User:XXSNUGGUMSXX|Snuggums]] ([[User_talk:XXSNUGGUMSXX|talk]] • [[Special:Contributions/XXSNUGGUMSXX|contributions]])''''' 04:11, 29 June 2014 (UTC)
+* That being said, the first mention of &quot;the venue&quot; could be changed to &quot;it&quot;.
+:* {{done}} '''''[[User:XXSNUGGUMSXX|Snuggums]] ([[User_talk:XXSNUGGUMSXX|talk]] • [[Special:Contributions/XXSNUGGUMSXX|contributions]])''''' 04:11, 29 June 2014 (UTC)
+* &quot;high-rise&quot; → &quot;skyscraper&quot; (there's no problem with the original word, it's just that it's the exact same wording as in the Background section)
+:* changed wording '''''[[User:XXSNUGGUMSXX|Snuggums]] ([[User_talk:XXSNUGGUMSXX|talk]] • [[Special:Contributions/XXSNUGGUMSXX|contributions]])''''' 09:22, 29 June 2014 (UTC)
+* &quot;Gaga revealed that Roseland was the only venue in New York City that she had never played, although she had visited there previously to watch shows&quot; → &quot;Roseland was the only venue in New York City that Gaga had never played, despite having visited it to watch shows.&quot;
+* Add ''taken'' before &quot;before the time she became successful as a recording artist.&quot;
+:* {{done}} '''''[[User:XXSNUGGUMSXX|Snuggums]] ([[User_talk:XXSNUGGUMSXX|talk]] • [[Special:Contributions/XXSNUGGUMSXX|contributions]])''''' 04:12, 29 June 2014 (UTC)
+* &quot;decorated with roses&quot;, &quot;lined with roses&quot;, &quot;rose-adorned&quot;, &quot;rose themed&quot;, &quot;adorned with red roses&quot; Excessive mentions of roses
+:* indeed..... but I'm not sure how to revise this bit..... '''''[[User:XXSNUGGUMSXX|Snuggums]] ([[User_talk:XXSNUGGUMSXX|talk]] • [[Special:Contributions/XXSNUGGUMSXX|contributions]])''''' 08:37, 29 June 2014 (UTC)
+* &quot;The main set list for the show encompassed songs from all of Gaga's principal releases, including the successful singles from The Fame, lead releases and album cuts from The Fame Monster and Born This Way, and finally the singles from her most recent release, Artpop. Some of the songs performed were sung in acoustic versions.&quot; → &quot; The show's setlist encompassed songs from Gaga's discography—''The Fame'', ''The Fame Monster'', ''Born This Way'' and ''Artpop''. Some tracks were performed in acoustic versions.
+:* reworded '''''[[User:XXSNUGGUMSXX|Snuggums]] ([[User_talk:XXSNUGGUMSXX|talk]] • [[Special:Contributions/XXSNUGGUMSXX|contributions]])''''' 05:03, 29 June 2014 (UTC)
+* &quot;From its inception&quot; is redundant
+:* removed '''''[[User:XXSNUGGUMSXX|Snuggums]] ([[User_talk:XXSNUGGUMSXX|talk]] • [[Special:Contributions/XXSNUGGUMSXX|contributions]])''''' 05:03, 29 June 2014 (UTC)
+* What does &quot;the spectacle&quot; mean in this context? Doesn't it mean ''show''? If it does, it's redundant.
+:* removed '''''[[User:XXSNUGGUMSXX|Snuggums]] ([[User_talk:XXSNUGGUMSXX|talk]] • [[Special:Contributions/XXSNUGGUMSXX|contributions]])''''' 08:31, 29 June 2014 (UTC)
+* &quot;The set list was also commended for encompassing the whole of Gaga's discography&quot; (a bit similar to the last sentence from the 2nd paragraph. Maybe &quot;The choice of songs was also commended.&quot; Actually, I only saw one reviewer highlighting the setlist, so it's best if you remove it.
+:* removed '''''[[User:XXSNUGGUMSXX|Snuggums]] ([[User_talk:XXSNUGGUMSXX|talk]] • [[Special:Contributions/XXSNUGGUMSXX|contributions]])''''' 08:24, 29 June 2014 (UTC)
+* &quot;Lady Gaga Live at Roseland Ballroom had direct impact on the ticket sales of the singer's ArtRave: The Artpop Ball, the price of which had increased by 5.3%.&quot; I think you need to TNT this because it's a bit confusing.
+:* Couldn't figure out a good way to phrase it, so scrapped '''''[[User:XXSNUGGUMSXX|Snuggums]] ([[User_talk:XXSNUGGUMSXX|talk]] • [[Special:Contributions/XXSNUGGUMSXX|contributions]])''''' 08:24, 29 June 2014 (UTC)
+* remove the comma after 2014
+:* which instance (there are two)? '''''[[User:XXSNUGGUMSXX|Snuggums]] ([[User_talk:XXSNUGGUMSXX|talk]] • [[Special:Contributions/XXSNUGGUMSXX|contributions]])''''' 04:13, 29 June 2014 (UTC)
+
+'''Development and inspiration'''
+* &quot;Thematically both&quot; → &quot;Thematically, both&quot;
+:* {{done}} '''''[[User:XXSNUGGUMSXX|Snuggums]] ([[User_talk:XXSNUGGUMSXX|talk]] • [[Special:Contributions/XXSNUGGUMSXX|contributions]])''''' 08:43, 29 June 2014 (UTC)
+* &quot;The instruments used by the singer like a keyboard&quot; → &quot;The instruments used by the singer, such as a keyboard,&quot;
+:* {{done}} '''''[[User:XXSNUGGUMSXX|Snuggums]] ([[User_talk:XXSNUGGUMSXX|talk]] • [[Special:Contributions/XXSNUGGUMSXX|contributions]])''''' 08:43, 29 June 2014 (UTC)
+* &quot;helped Gaga to climb&quot; → &quot;helped Gaga climb&quot;
+:* {{done}} '''''[[User:XXSNUGGUMSXX|Snuggums]] ([[User_talk:XXSNUGGUMSXX|talk]] • [[Special:Contributions/XXSNUGGUMSXX|contributions]])''''' 08:52, 29 June 2014 (UTC)
+* &quot;A piano was also placed there for the opening performance, in front of a window representing Gaga's old apartment in New York, before she became successful&quot; (Only for the opening performance? A piano was placed there before she became successful? IMO this needs nuking, it's confusing.)
+:* any better now? '''''[[User:XXSNUGGUMSXX|Snuggums]] ([[User_talk:XXSNUGGUMSXX|talk]] • [[Special:Contributions/XXSNUGGUMSXX|contributions]])''''' 08:52, 29 June 2014 (UTC)
+* &quot;Gaga revealed to MTV News that she prefers to have light food like sandwiches and champagne, when she is performing live. Her vocal coach Don Lawrence, who has been teaching her from when she was 13, mentors the singer before each show, either by being present there or through phone&quot; The food part is trivial and not necessary, the second sentence is a bit ambiguous (before each show of this residency show or every show in Gaga's career?)
+:* Take a look now '''''[[User:XXSNUGGUMSXX|Snuggums]] ([[User_talk:XXSNUGGUMSXX|talk]] • [[Special:Contributions/XXSNUGGUMSXX|contributions]])''''' 08:52, 29 June 2014 (UTC)
+* &quot;utilized&quot; → &quot;used&quot; (as per an FA prose exercise sheet)
+:* {{done}} '''''[[User:XXSNUGGUMSXX|Snuggums]] ([[User_talk:XXSNUGGUMSXX|talk]] • [[Special:Contributions/XXSNUGGUMSXX|contributions]])''''' 08:52, 29 June 2014 (UTC)
+
+'''Concert synopsis'''
+* The first sentence is too long, write something like I suggested on the lead
+:* TNT'd '''''[[User:XXSNUGGUMSXX|Snuggums]] ([[User_talk:XXSNUGGUMSXX|talk]] • [[Special:Contributions/XXSNUGGUMSXX|contributions]])''''' 08:56, 29 June 2014 (UTC)
+* &quot;Gaga followed it up with &quot;Poker Face&quot; on the piano; the song had new lyrics introduced about the venue and New York&quot; → &quot;Poker Face&quot; followed, being played by Gaga on the piano. The song was rearranged to include lyrics about the venue and New York (City?).
+:* reworded '''''[[User:XXSNUGGUMSXX|Snuggums]] ([[User_talk:XXSNUGGUMSXX|talk]] • [[Special:Contributions/XXSNUGGUMSXX|contributions]])''''' 09:06, 29 June 2014 (UTC)
+
+'''Critical reception'''
+* Break the first paragraph in two
+:* split '''''[[User:XXSNUGGUMSXX|Snuggums]] ([[User_talk:XXSNUGGUMSXX|talk]] • [[Special:Contributions/XXSNUGGUMSXX|contributions]])''''' 05:11, 29 June 2014 (UTC)
+* &quot;explained:&quot; → &quot;explained,&quot;
+:* {{done}} '''''[[User:XXSNUGGUMSXX|Snuggums]] ([[User_talk:XXSNUGGUMSXX|talk]] • [[Special:Contributions/XXSNUGGUMSXX|contributions]])''''' 09:17, 29 June 2014 (UTC)
+
+'''Commercial reception and broadcasts'''
+* &quot;secondary markets&quot; (economical or region-wise?)
+* &quot;Letterman and Murray led the crowd through 53rd Street to Roseland&quot; (how?)
+
+;References
+*FN14 and 18 are incorrectly formatted (Work. Publisher. Instead of Work (Publisher))
+:* fixed '''''[[User:XXSNUGGUMSXX|Snuggums]] ([[User_talk:XXSNUGGUMSXX|talk]] • [[Special:Contributions/XXSNUGGUMSXX|contributions]])''''' 04:17, 29 June 2014 (UTC)
+
+;Usage of files
+*All up to code. Although... is there any poster without the Sold Out watermark?
+
+:Thanks Prism for the review. Me or Snuggums will take it up in a few moments. —[[User:IndianBio|&lt;font size=&quot;2&quot; face=&quot;Courier New&quot; color=&quot;#6F00FF&quot;&gt;&lt;big&gt;&lt;b&gt;Indian:&lt;/b&gt;&lt;/big&gt;&lt;font color=&quot;#FF033E&quot;&gt;'''BIO'''&lt;/font&gt;&lt;/font&gt;]] · &lt;sup&gt;[ [[User talk:IndianBio|&lt;font face=&quot;Tempus Sans ITC&quot; color=&quot;#1C1CF0&quot;&gt;&lt;b&gt;ChitChat&lt;/b&gt;&lt;/font&gt;]] ]&lt;/sup&gt; 04:02, 29 June 2014 (UTC)
+
+::Don't start without me, IndianBio :P! Sorry for the delay, lack of internet access. '''''[[User:XXSNUGGUMSXX|Snuggums]] ([[User_talk:XXSNUGGUMSXX|talk]] • [[Special:Contributions/XXSNUGGUMSXX|contributions]])''''' 04:04, 29 June 2014 (UTC)
+
+:::Haha, I won't. {{ping|Prism}}, that poster was actually uploaded on [http://www.ladygaga.com/news/roseland-poster Gaga's official website] with that watermark. I don't know whether removing it would be suitable since that would be copyright breaching. —[[User:IndianBio|&lt;font size=&quot;2&quot; face=&quot;Courier New&quot; color=&quot;#6F00FF&quot;&gt;&lt;big&gt;&lt;b&gt;Indian:&lt;/b&gt;&lt;/big&gt;&lt;font color=&quot;#FF033E&quot;&gt;'''BIO'''&lt;/font&gt;&lt;/font&gt;]] · &lt;sup&gt;[ [[User talk:IndianBio|&lt;font face=&quot;Tempus Sans ITC&quot; color=&quot;#1C1CF0&quot;&gt;&lt;b&gt;ChitChat&lt;/b&gt;&lt;/font&gt;]] ]&lt;/sup&gt; 05:47, 29 June 2014 (UTC)
+
+::::Yeah, I know, thank you anyway. :) Almost all the issues I raised were fixed and I think two weren't corrected. — &lt;small&gt;&lt;b&gt;[[User:Prism|&lt;span style=&quot;color:#D9E312&quot;&gt;prism&lt;/span&gt;]]&lt;/b&gt;&lt;/small&gt; &lt;small&gt;[[User talk:Prism|&lt;span style=&quot;color:#000000&quot;&gt;&lt;b&gt;△&lt;/b&gt;&lt;/span&gt;]]&lt;/small&gt; 11:21, 29 June 2014 (UTC)
+
+'''''Edit:''''' I copyedited the lead's second paragraph. — &lt;small&gt;&lt;b&gt;[[User:Prism|&lt;span style=&quot;color:#D9E312&quot;&gt;prism&lt;/span&gt;]]&lt;/b&gt;&lt;/small&gt; &lt;small&gt;[[User talk:Prism|&lt;span style=&quot;color:#000000&quot;&gt;&lt;b&gt;△&lt;/b&gt;&lt;/span&gt;]]&lt;/small&gt; 11:25, 29 June 2014 (UTC)
+
+Thanks for that {{u|Prism}} :). I fixed all but three points, not really sure how to address the last two. I'll let {{u|IndianBio}} address those. '''''[[User:XXSNUGGUMSXX|Snuggums]] ([[User_talk:XXSNUGGUMSXX|talk]] • [[Special:Contributions/XXSNUGGUMSXX|contributions]])''''' 16:42, 29 June 2014 (UTC)
+::{{ping|Prism}}, I have addressed the last two remaining issues. It is indeed the economically secondary market per Forbes, and the second protion I removed since the source (''Billboard'') did not have it as &quot;how&quot; they led the crowd, and I didn't want to keep it hanging. —[[User:IndianBio|&lt;font size=&quot;2&quot; face=&quot;Courier New&quot; color=&quot;#6F00FF&quot;&gt;&lt;big&gt;&lt;b&gt;Indian:&lt;/b&gt;&lt;/big&gt;&lt;font color=&quot;#FF033E&quot;&gt;'''BIO'''&lt;/font&gt;&lt;/font&gt;]] · &lt;sup&gt;[ [[User talk:IndianBio|&lt;font face=&quot;Tempus Sans ITC&quot; color=&quot;#1C1CF0&quot;&gt;&lt;b&gt;ChitChat&lt;/b&gt;&lt;/font&gt;]] ]&lt;/sup&gt; 05:50, 30 June 2014 (UTC)
+:::Now passing the article. Great work overall! {{smiley}} &lt;span style=&quot;color:#3C0F85&quot;&gt;'''[[User:Prism|pedro]]''' &amp;#124; ''[[User talk:Prism|talk]]''&lt;/span&gt; 12:14, 30 June 2014 (UTC)
+{{archivebottom}}
+	</talkpage>
+</article>

@@ -1,0 +1,15 @@
+<article id="32574050" title=User talk:Imagaskabo>
+	<talkpage id="32574050" title="User talk:Imagaskabo">
+Hello, and [[Wikipedia:Introduction|welcome to Wikipedia]]! Thank you for your contributions; however, ''please'' remember the essential rule of respecting [[copyright]]s.  Edits to Wikipedia may not contain material from copyrighted sources unless used with permission.  It is almost never okay to copy extensive text out of a book or website and paste it into a Wikipedia article with little or no alteration, though you ''can'' clearly and briefly quote copyrighted text in the right circumstances.  Content that does not comply with this legal rule must be removed. For more information on this, see:
+*[[Wikipedia:Copy-paste]]
+*[[Wikipedia:Copyright|Policy on copyright]]
+*[[Wikipedia:FAQ/Copyright|Frequently asked questions on Wikipedia's copyright policy]]
+*[[Wikipedia:Non-free content|Policy and guideline on non-free content]]
+
+If you still have questions, there is a [[Wikipedia:New contributors' help page|new contributor's help page]], or you can write '''&lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt;''' below this message along with a question and someone will be along to answer it shortly.  You may also find the following pages useful for a general introduction to Wikipedia:
+*[[Wikipedia:Introduction|Simple introduction]]
+*[[Help:Contents|Help pages]]
+
+I hope you enjoy editing Wikipedia!  Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. Feel free to write a note on the bottom of my talk page if you want to get in touch with me. Again, welcome! &lt;!-- Template:Welcome - Copyright --&gt;
+	</talkpage>
+</article>

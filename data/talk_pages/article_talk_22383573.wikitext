@@ -1,0 +1,9 @@
+<article id="22383573" title=User talk:129.97.22.116>
+	<talkpage id="22383573" title="User talk:129.97.22.116">
+
+
+== April 2009 ==
+[[Image:Information.svg|25px]] Welcome to Wikipedia. It might not have been your intention, but your recent edit removed content from {{#if:SERCA|[[:SERCA]]|Wikipedia}}. When removing text, please specify a reason in the [[Help:Edit summary|edit summary]] and discuss edits that are likely to be controversial on the article's [[Wikipedia:Talk page|talk page]]. If this was a mistake, don't worry; the text has been restored, as you can see from the {{#if:SERCA|&lt;span class=&quot;plainlinks&quot;&gt;[{{fullurl:SERCA|action=history}} page history]&lt;/span&gt;|[[Help:Page history|page history]]}}. Take a look at the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing to this encyclopedia, and if you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]].  {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-delete1 --&gt; [[User:CardinalDan|CardinalDan]] ([[User talk:CardinalDan|talk]]) 17:20, 12 April 2009 (UTC)
+:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
+	</talkpage>
+</article>

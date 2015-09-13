@@ -1,0 +1,762 @@
+<article id="3820773" title=Talk:Twin paradox/Archive 1>
+	<talkpage id="3820773" title="Talk:Twin paradox/Archive 1">
+{{talkarchive}}
+*[[Talk:Twin paradox/Archive 01]]: 2004 to December 2005
+
+
+== Symmetry ==
+I reverted to an earlier version (including the better moving clock example of muons). I removed this:
+
+''
+It turns out that twin positions are not symmetrical.
+One is twin never accelerates, while the other twin
+moves away, changes direction and returns back.  Although
+some have incorrectly stated otherwise, this problem
+is perfectly solvable using special relativity.
+Using
+special relativity one can calculate the elapsed time
+in the reference frame of each twin and the twin who
+moves away and comes back will have the shorter elapsed time.
+
+Consider a spaceship that travels to a star four [[:light year|light year]]s away in five years and returns five years later.
+In the reference frame of earth, the spaceship leaves
+at (x=0, t=0), moves to the star at (x=4, t=5), and
+returns to earth at (x=0, y=10).  The time elapsed
+for the person on earth is 10 years.
+
+Now let us look at things from the reference frame of
+the spaceship.  The key equation in special relativity
+is that the [[:spacetime interval|spacetime interval]] (s^2 = x^2 - t^2) is the 
+same in all reference frames.  Consider the spaceship
+moving to the star.  In the reference frame of the ship, 
+its position (x') is fixed.  Thereform the time elapse t' must obey the equation - t'^2 =  x^2 - t^2, which means that in the reference frame of the ship, three years have 
+elapsed between leaving earth and reaching the star.  Using a similar argument, one can see that the time elapsed in moving from the star to the earth is also three years.  Hence in the reference frame of the ship, six years have elapsed.''
+
+This paragraph does not resolve the paradox at all: From the viewpoint of the ship, the brother on Earth is moving away, then coming back. So the twin on the ship could perform the exact same analysis as given above, but with roles of the twins reversed, and would conclude that the &quot;trip&quot; by the brother on earth will be seen from the ship as being longer than it is experienced on Earth itself. The crucial difference between the brothers is that one sits in an inertial frame, the other doesn't. --AxelBoldt
+
+===The explanation (not the result) is just a matter of opinion?===
+:[[User:E4mmacro|E4mmacro]] 23:12, 20 December 2005 (UTC) The discussion goes on forever because, even amongst those who agree that the travelling twin comes home younger (most of us?), it is really a matter of opinion how you explain this. I think it is '''better''' to use GR to understand the situation from the point of view of the travelling twin but I do not dispute the SR-only calculation or the result; I just think the traveller's SR-only ''explanation'' of his calculation at the moment of turn-around sounds physically implausible. 
+
+: During the brief turn-around the traveller calculates that the twin-at-home suddenly aged. To quote from the article (with emphasis added) &quot;That's when [the travelling twin] must ''adjust'' the calculated age of the twin at rest. This is a ''purely artificial effect'' caused by the change in the ''definition'' of simultaneity when changing frames.&quot; The unsatisfactory bit to me, is the idea that a ''purely artificial effect'' (rapid aging during the turn-around) based on a ''definition'', overcomes what the article would say is a  &quot;real effect&quot; (slow aging during the trip) so that the twin-at-rest is absolutely older at the end. [[User:E4mmacro|E4mmacro]] 23:12, 20 December 2005 (UTC)
+
+: Einstein preferred the traveller to say, during the turn-around: &quot;I am at rest in a gravitational field (I can feel the gravity force). My twin is at a higher potential in the field and hence ages very rapidly compared to me&quot;. 
+
+: One can understand that many will think the introduction of the gravitational field is arbitrary (and seems a bit like instantaneous action-at-a-distance). The traveller might say instead: &quot;I applied my retro-rockets and 'inertia forces' acted upon me. According to [[d'Alembert's principle]] of inertial forces I can consider myself at rest, acted upon by the inertial forces and the rocket forces, and do all the normal calculations I would do in a static equilibrium. According to Einstein's equivalence principle I can go further and say everything (not just Newton's dynamics) is ''exactly'' the same as if these inertial forces were gravitational forces. I know (from experiments with gravity fields) that if I feel gravity forces and my twin does not, my time will be running slowly compared to his. Hence my twin ages faster than me during the turn-around.&quot; 
+
+: We know that inertial forces appear when we accelerate (&lt;math&gt;\equiv&lt;/math&gt; &quot;change inertial reference frame&quot;). We could add now one of two other effects of acceleration or effects of inertal forces. '''EITHER''' (1) our ''definition of simulatneity'' suddenly changes when we feel inertia forces (when we accelerate) so we must ''adjust'' the  age we calculate for everyhing else in the universe not subject to these forces (this is basically the twin paradox resolved in SR alone) '''OR'''  (2) our personal time runs slow while the inertia force (&lt;math&gt;\equiv&lt;/math&gt; gravity force) acts, compared with time for everybody subjected to less intensive inertia/gravity force.
+
+: If you accept that inertial forces require no further explanation you could similarly accept, without explanation the additional effect (1) or (2), whichever you prefer. [[User:E4mmacro|E4mmacro]] 23:12, 20 December 2005 (UTC)
+
+: Newton, Mach and Einstein, on the other hand, thought that inertial forces needed some explanation. Newton said they were a result of acceleration relative to &quot;absolute space&quot;. Mach said it could be relative  acceleration, relative to all the matter in the universe, that produces inertial forces (Mach's principle). Einstein originally thought Mach should be right but I do not think this is sustainable in GR, if physical effects propagate no faster than the speed of light. The present idea seems to be that  inertial forces (equivalent to gravitational forces) are the result of &quot;deviations from a geodisic path through space-time&quot; or acceleration realtive to the &quot;fabric of space-time&quot; or the &quot;space-time metric&quot;. This sounds something like Newton's space, except that the space is not flat but warped (and or course except that space and time are linked in a way unsuspected by Newton). 
+
+: One reason why I prefer the GR explanation is this: if Einstein had thought the SR-only calculation was sufficient he would not have bothered to postulate the equivalence principle. He might not have predicted the deflection of light by gravity or the slowing of clocks by gravity. Accepting the SR-only calculation stops one thinking further. [[User:E4mmacro|E4mmacro]] 23:12, 20 December 2005 (UTC)
+
+:: I had not noticed this, as strangely enough this is posted on top of very old discussions. But apparently Einstein's solution didn't work, and that his &quot;semi-Machian&quot; relativity has been abandoned. The only notable metaphysics that work mathematically are that of Lorentz (stationary ether) and that of Minkowski (space-time). Take your pick. BTW I'm still waiting for comments on our suggestion to split the article, which would give more space for discussion of this last point; and I also still wait for references that explain and defend the physical space-time concept. [[User:Harald88|Harald88]] 23:16, 22 January 2006 (UTC)
+
+---------------
+
+This just in from someone who created a duplicate article:
+
+The Twin's Paradox is a classic problem concerning apparant violations of [[Special Relativity]], which posits that no privileged frames of reference exist in the universe with regards to motion.
+
+The basic idea is this: one of a pair of twins blasts off on a spaceship and accelerates to near light-speed, travels around some nearby stars, and then returns to find his sibling greatly aged due to time dilation. The question is, if there are no privileged frames of reference, why does only one of the twins age? Couldn't the twin who was travelling say that he was at rest, and it was his sibling that was in motion?
+
+The correct [[Lorentz transformation]]s are provided by including [[General Relativity]], since accelerating objects reside in warped spacetime, and must take that into account to fully describe their frames of reference. The paradox results from only taking differences in the twins' positions into account, and not their respective local spacetime curvatures.
+
+: And where is this duplicate article? [[User:Harald88|Harald88]] 23:16, 22 January 2006 (UTC)
+
+See also: [[acceleration]]
+
+----
+
+I don't understand why the &quot;accelerating&quot; twin couldn't be interpreted as being stionary while the &quot;staionary&quot; twin is interpreted as accelerating. Maybe I don't understand this stuff, but it always seemed to me that the center of the universe (the origin of the big bang) could be used as a central point of reference by which to measure the relative movement of all things inside it...?
+
+------
+SR has such a revered place in physics that any attempt to suggest that it might be &quot;silly&quot; or &quot;wrong&quot; will only meet with scorn from the establishment who then try anything to save it. The twins paradox is an example of this.
+Two dictionary definitions of a paradox are : (i) a seemingly absurd statement that is actually based on truth; (ii) a statement contrary to accepted opinion.
+
+Thus (i)the establishment are telling us that the reality is true (the spaceship twin ages faster) even though SR predicts that both clocks will slow down equally and (ii) denying the truth of SR is wrong because it is contrary to accepted opinion i.e.theirs.
+
+The earth and the spaceship are two inertial frames moving with relative constant velocity. While they continue to move like this, SR predicts that the clock on the spaceship will run slow compared to a clock on earth. SR also predicts that the clock on earth will run slow compared to the clock on the spaceship. The two predictions are mutually inconsistent and thus the apparent paradox is not really a paradox at all. The notion that the spaceship twin ages faster is just wrong, and that is all there is to it!
+
+===Acceleration is a red herring===
+The explanation involving acceleration is just a red herring. The conclusion (differential aging) is predicted by an equation that does not depend on acceleration and so acceleration is irrelevant. 
+: Disagree: this is very thing that made Einstein call it a paradox: if you don't talk about acceleration you cannot differeniate between the twins and you ''could'' calculate the same time difference for either twin. It was paradoxical to Einstein, at least, that the very thing that the asymmetry depended on, the acceleration, did not enter the calculation. He ''resolved the paradox'' to his satisfaction by making the calculation ''depend on the acceleration'' which was equivalent to a gravitational effect. I think we can assume he knew many of the other igenious ways of calculating the time difference presented on this page and I doubt we need more calculations of it from the Lorentz transformations alone. [[User:E4mmacro|E4mmacro]] 04:47, 17 December 2005 (UTC))
+
+*One source of confusion is the fact that time and space must not be viewed separately. Best to forget about time dilation and length contraction formulas and stick to the Lorentz transformation of coordinate points in ''spacetime''.
+
+*Think of two identical light houses each one measurig the height of the other by looking horizontally for each others light.Now put them (on a moon or small planet) at a great distance from each other, so that they effectively point in different directions. ''Each'' of them will have to look ''down'' from the horizontal to see the others light an declare the other one to be the shorter.
+
+------
+I find the latest modification confusing. The separation of the three frames is indeed useful. But the analogy with the plane doesn't explain much, and the statement that the ordering of events depends on the reference frame might be easily misinterpreted (if there is a possible causal connection between two events, their order is fixed in all frames). I'm going to restore some of the previous text.&lt;br&gt;
+[[User:Bartosz|Bartosz]] 06:44, 13 Mar 2004 (UTC)
+------
+I added a standard spacetime diagram showing what happens. The whole article now seems full of repetitions. It should probably be rewritten by somebody with good editing skills.&lt;br&gt;
+[[User:Bartosz|Bartosz]] 08:38, 13 Mar 2004 (UTC)
+
+== From the POV of general relativity? ==
+
+([[User:William M. Connolley|William M. Connolley]] 21:53, 11 Jul 2004 (UTC)) I'm fairly happy with the page as it stands, and (probably) its contention that the paradox *can* be explained within SR. But I wonder what happens if you *do* explain the paradox within GR. The point is that then you can no longer say that the travelling twin switches frames. The laws are then the same for *all* observers, including one who accelerates. Doesn't this then end up linking time dilation from relative velocity to time dilation in gravity?
+
+:I'm not clear what you mean by explaining the paradox with GR. You can construct a thought experiment in which  twin A spends a long time out in flat spacetime while twin B goes deep into a gravity well, and then they rejoin and compare watches, but there's no 'paradox' since there's no way to flip it around so it seems that A's watch should be running slower than B's.
+
+::([[User:William M. Connolley|William M. Connolley]] 13:05, 12 Jul 2004 (UTC)) No, I don't mean that. I mean the same scenario as at present, but explained within GR. The current article explains the discrepancy - that both sides should be able to see the others clocks run slow - by the flip of frames at turnaround, and says that this is beacuse in SR you have to be in an inertial frame. Fair enough. But in GR you don't: the laws-of-physics are the same for *all observers*, accelerated or otherwise: so the &quot;travelling&quot; twin doesn't have to switch frames at turnaround.
+
+:::Something like this: 
+:::[http://math.ucr.edu/home/baez/physics/Relativity/SR/TwinParadox/twin_gr.html The Twin Paradox: The &quot;General Relativity&quot; Explanation]?
+:::--[[User:Wwoods|wwoods]] 19:28, 12 Jul 2004 (UTC)
+
+:::: ([[User:William M. Connolley|William M. Connolley]] 20:49, 12 Jul 2004 (UTC)) Yes, thats nice. Thanks. I shall ponder it.
+
+:I'm not happy with the phrase, &quot;the resting twin ages very fast&quot;. The stay-at-home twin isn't, of course, aging fast. It's just that the travelling twin calculates the time back home before and after his U-turn, and gets very different results.
+:--[[User:Wwoods|wwoods]] 22:56, 11 Jul 2004 (UTC)
+
+----
+([[User:Onerock|Onerock]] 19:40, 28 Jul 2004 (UTC)) 
+The so-called Twins Paradox, related at the end of a lecture on special relativity, was Einstein&amp;rsquo;s idea of a joke and a test to see who was paying attention. He hadn&amp;rsquo;t even begun working on his general theory, yet. The one or two members of the audience who laughed understood that you can&amp;rsquo;t apply special relativity to a round-trip problem. I mean, how can you go from A to B and back to A without accelerating? Ha, haa, haaaaaa! That ol&amp;rsquo; Alf sure knows how to tell &amp;lsquo;em, don&amp;rsquo;t he! He, heee! What a comedian! I gotta try that one at the improv&amp;rsquo;. It can&amp;rsquo;t go over any worse there than it did at all the major universities of the world. Even today, many serious scientists are trying to &amp;ldquo;explain&amp;rdquo; the &amp;ldquo;paradox&amp;rdquo; when they should be having a good laugh.
+P.S.: I'm new to Wiki, so please excuse my syntactic flubs.
+
+----
+It seems to me this paradox is 'solved' by the fact that the space ship twin went through acceleration at the start and at the midpoint of his travel. While this would seem to be a neat solution, there is something with troubles me greatly, yet I find it unlikely that it has not been explained in the history of SR. For illustration sake, I will use human examples in my question:
+
+So the twin takes off from earth in his space ship and soon reaches an inertial frame with constant-velocity. He travels for 20 of his years, and turns the ship around to head home. '''After turning around and reaching a constant velocity again with a path toward Earth, he and his wife (who he brought along) have a child in the spaceship. This child grows up in the spaceship and will arrive at Earth in 20 years of his time. All his life he could look through his telescope at Earth and see how rapidly it was coming towards him, since he observes his spaceship to be quite stationary. When this 20 year old arrives at Earth, what would he discover?'''
+
+Or even more plainly, would this child see people on Earth moving at ultra-rapid time or would he see them moving ultra-slow, assuming he had a telescope good enough to see individual people on the planet? 
+
+This eliminates all the nonsence about the importance of acceleration. Obviously the actions of the child's father in the past and his take off from Earth in the past shouldn't affect the child's frame of reference. All he knows is that he's in a stationary ship and he sees Earth coming at him through the window, right?
+
+I point out that &quot;turning around&quot; is also an irrelevant discussion. Since without the ship turning around, the two brothers can send each other information (at the speed of light) as to how old they are. Therefore they can determine who is the one actually aging faster without turning around. If acceleration is the problem, the twin on earth can have a child at the exact same time his brother on the ship does, and the two sons, who never experienced acceleration can send each other messages comparing ages.
+
+I would be extremely grateful to anybody who can answer this question for me. [[User:Wodan|Wodan]] 18:00, Aug 26, 2004 (UTC)
+
+
+:The point is that the twins disagree on what is &quot;the exact same time&quot;.
+
+:Maybe the diagrams on this page will help you understand:
+::[http://www.bvanrossum.net/rexe03.htm http://www.bvanrossum.net/rexe03.htm]
+
+:[[User:Bvr|Bvr]] 19:18, 2 Sep 2004 (UTC)
+
+Then let me simplify the matter greatly. Two spaceships are in deep deep space. So deep that light from the rest of the universe has not even reach them yet. They are as far as all they can tell, with no other references. They look out the window of the spaceships and see that they are heading toward each other at great speeds. So to both it looks like he is stationary and the other one is moving, or vice versa, or some mix of speeds. How does relativity explain which one will be actually experience time dilation???
+
+[[User:Wodan|Wodan]] 01:22, Sep 3, 2004 (UTC)
+
+:They both would. That is, they'd both see ''the other'' as being time-dilated. Well, they'd ''calculate'' the other as having been time-dilated, after they adjust their observations for [[relativistic Doppler effect]]. That's the essence of '''relativity'''&amp;mdash;no (inertial) frame of reference is more valid than another. It's only when you bring them back together that you can compare their different experiences, and determine that while one has traveled farther in space, the other has traveled farther in time, so that from start to finish they've both travelled the same interval in spacetime.
+: Try http://math.ucr.edu/home/baez/physics/Relativity/SR/TwinParadox/twin_paradox.html
+:[[User:Wwoods|&amp;mdash;wwoods]] 07:30, 3 Sep 2004 (UTC)
+
+:: * Then why does one move through time and one move through space? How does timespace decide which is moving through space and which is not, since it's impossible to observe either, and really, is rather meaningless since there is no reference whatsoever...?
+:: * Additionally, since there are no absolutes, me spinning around at night and watching all the stars in the universe is the same as the universe spinning around me, and no more or less valid. Then how is it that the universe just spun around me, since that would imply matter moving at much greater than the speed of light?
+[[User:Wodan|Wodan]] 19:52, Sep 3, 2004 (UTC)
+
+:This is basically reiterating Wodan's scenario, but I'll give my example anyways. Two spaceships are attached with a (very large) elastic in &quot;deep deep&quot; space. Each is moving with a constant velocity according to the frame of reference at the centre of the elastic. When the elastic becomes taut and causes decceleration, the two spaceships are pulled to the same point in spacetime. Which one has aged more? Each observer observes themselves to be stationary and the other to be the one doing the deccelerating.
+:[[User:PengRate|PengRate]] 02:05, 2005 Jun 23 (UTC)
+
+::Neither.  Since the acceleration is being applied equally to both spaceships, the situation remains symmetric, and both spaceships have aged equally, both having aged less than the center of the elastic. --[[User:Carnildo|Carnildo]] 06:01, 23 Jun 2005 (UTC)
+
+----
+The first question is somewhat similar to asking, How does space decide whether I'm moving in the X or Y direction? It doesn't! You pick a coordinate system that's convenient for you. Having said that, the space-time coordinate system cannot be picked arbitrarily--you cannot exchange the time axis with any of the space axes. All you can do is to, figuratively, tilt the time axis by less than 45 degrees. 
+
+In the diagram in the article, you can make a transformation in which the first leg of the rocket's trajectory coincides with the time axis. In such a system of coordinates, the earthbound twin will be moving in space (leftward), and the traveler will be stationary. If fact that coordinate system is the inertial frame of the traveling twin during the first leg of the journey. Note that after the U-turn, in that coordinate system, he will start moving fast toward the &quot;receding&quot; earthbound twin and will eventually catch up with him. Equivalently, you can transform the coordinate system such that the second leg of the journey will coincide with the time direction. In that frame, the eartbound twin will be steadily moving towards the traveling twin.
+
+The second question is a tough one. Einstein tried to address it in his general relativity, but failed. He wasn't able to derive the [[Mach's principle]] from his equations. So the question is still open.
+
+[[User:Bartosz|Bartosz]] 18:31, 15 Oct 2004 (UTC)
+
+
+-----
+Would someone please check the following example calculation?
+
+A spaceship starts from space station Alpha flying to space station Beta at a fixed distance of 4 ligthyears.
+Then it flies back again. Both times it travels with a speed of &lt;math&gt;\frac45 c_0&lt;/math&gt;.
+There are three events in spacetime, start at Alpha, arrival and simultanious departure at Beta, and rearival at Alpha. In the coordinate system of Alpha these have the representations &lt;math&gt;\left(\begin{matrix}0 \\ 0 \end{matrix}\right),&lt;/math&gt; &lt;math&gt;\left(\begin{matrix}5 \\ 4 \end{matrix}\right)&lt;/math&gt;
+and &lt;math&gt;\left(\begin{matrix}10 \\ 0 \end{matrix}\right).&lt;/math&gt;
+
+Now to obtain the representation of this events in the coordinate system of the spaceship by transforming the above coordinates with the appropriate Lorentz matrix. Measuring the distance in lightyears we have &lt;math&gt;c_0 = 1&lt;/math&gt; which simpifies the matrix. For the flight from Alpha to Beta we have &lt;math&gt;v=-\frac45&lt;/math&gt;, for the fligth back we have &lt;math&gt;v=\frac45&lt;/math&gt;. &lt;em&gt; This change of frames creates the asymmetry.&lt;/em&gt;
+
+So &lt;math&gt;L_{\Alpha\to\Beta} = \gamma\left(\begin{matrix}1 &amp; -\frac45 \\ -\frac45 &amp; 1\end{matrix}\right)&lt;/math&gt;
+wheras &lt;math&gt;L_{\Beta\to\Alpha} = \gamma\left(\begin{matrix}1 &amp; \frac45 \\ \frac45 &amp; 1\end{matrix}\right)&lt;/math&gt;
+whith &lt;math&gt;\gamma = \frac53&lt;/math&gt; both times.
+
+&lt;math&gt;\left(\begin{matrix}0 \\ 0 \end{matrix}\right)&lt;/math&gt; clearly transforms to itself.
+&lt;math&gt;L_{\Alpha\to\Beta}\left(\begin{matrix}5 \\ 4 \end{matrix}\right) = \left(\begin{matrix} 3 \\ 0 \end{matrix}\right)&lt;/math&gt;
+and for the fliht back we have to compute the difference &lt;math&gt;L_{\Beta\to\Alpha}\left(\left(\begin{matrix}10 \\ 0 \end{matrix}\right) - \left(\begin{matrix}5 \\ 4 \end{matrix}\right)\right) = \left(\begin{matrix} 3 \\ 0 \end{matrix}\right).&lt;/math&gt;
+
+This results in a total of &lt;math&gt;\left(\begin{matrix}3 \\ 0 \end{matrix}\right) + \left(\begin{matrix} 3 \\ 0 \end{matrix}\right) = \left(\begin{matrix} 6 \\ 0 \end{matrix}\right),&lt;/math&gt; so the frame-switching twin stays younger by ''10 - 6 = 4'' years.
+
+The space component of the transformed coordinates always being zero is an additional check on the computation.
+----
+This calculation looks correct. One might mention that &lt;math&gt;\gamma = \frac{1}{\sqrt{1 - v^2 / c^2}}&lt;/math&gt;, which in the example above becomes &lt;math&gt;\frac{1}{\sqrt{1 - 16/25}} = 5/3&lt;/math&gt;.
+
+[[User:Bartosz|Bartosz]] 22:25, 19 Oct 2004 (UTC)
+
+* should the example calculation be moved to the article then? Some corrections on language should perhaps better be done by a native speaker [[User:217.94.149.179|217.94.149.179]] 19:15, 20 Oct 2004 (UTC)
+----
+I think it's a good calculation for people who understand the math behind special relativity. For everybody else it's just black magic. One would have to explain the terms, notation, and most importantly the interpretation of the results--it's not really as simple as it looks. There are a lot of hidden assumptions made in this calculation, in particular about the connection between the vector being transformed and the subjective time of the observer (proper time). Physics is math + interpretation. Here we see naked math.
+
+[[User:Bartosz|Bartosz]] 22:17, 21 Oct 2004 (UTC)
+
+: I agree with what you say. On the other hand --- for most people the twin paradox will be black magic anyway.
+: I am new to wiki and I don't want to argue about this special calculation but other articles do have computations and proofs. So where would be an apropriate place for &quot;advanced&quot; examples, calculations and proofs that are not of interrest for the majority of readers? [[User:217.230.29.21|217.230.29.21]] 19:25, 24 Oct 2004 (UTC)
+----
+I didn't say it couldn't be published. It just needs quite a bit of additional work in order to be useful.
+
+[[User:Bartosz|Bartosz]] 21:34, 24 Oct 2004 (UTC)
+
+: I think now that [[wikibooks:Wikiversity:Special Relativity]] would finally be the best place for stuff like that. [[User:217.230.21.104|217.230.21.104]] 11:13, 30 Oct 2004 (UTC)
+
+== Need for general relativity? ==
+
+:It is sometimes claimed that the twin paradox cannot be resolved without the use of general relativity. Indeed, one of the twins must undergo acceleration during the U-turn, and only general relativity can properly describe accellerating observers. Strictly speaking this is true. Special relativity, however, is an excellent approximation to general relativity, except for very strong gravitational fields and large accellerations. If we can make the inertial legs of the trip long enough and the accelleration at the U-turn small enough, the effects of general relativity in the above analysis would amount to very small corrections.
+
+;I don't get this. Why can't accelerating objects be described with special relativity?[http://math.ucr.edu/home/baez/physics/Relativity/SR/acceleration.html] What difference is there between general and special, as long as the ship isn't traveling cosmological distances or near large masses?
+
+;Also, the point of making the inertial legs of the trip long enough--or the acceleration at the U-turn '''large enough'''--is to let you work out the problem with just algebra, instead of calculus, by making the parts of the trip under acceleration a trivial fraction of the whole. You can't do that by making the acceleration small.
+;[[User:Wwoods|&amp;mdash;wwoods]] 06:32, 20 Nov 2004 (UTC)
+
+== spin proviso ==
+
+On Sept 3 2004, Wodan asked about the quandry of spinning. If spinning is relativistically the same as being stock still while the entire cosmos whirls around about you, then that seems to allow for objcts to be moving at speeds far greater than lightspeed. But what Wodan is overlooking is the fact that in such a scenario (the entire cosmos whirling about you), no specific object is moving faster than lightspeed with respect to any other specific object. So Wodan has confused REAL relative motion with the purely human-concocted construct of moving with respect to a contrived hypothetical x-y-z frame; and those are quite disparate notions! There's no violation of the sanctity of lightspeed in perceiving the entire cosmos as whirling around that way. --[[User:EvanTPeoples|ETP]] 13:34, 16 Dec 2004 (UTC)
+
+== dispensing with GR ==
+
+As regards the question whether or not the TwinParadox can be resolved without GR, SR is just fine for all flat space purposes, including accelerations. I can show you a derivation that starts with the Lorentz Transform alone and ends up with the formula for gravitational clockrate differential, which is EQUIVALENT to acceleration-deduced clockrate differential, which is dt/dt'=(1+ax'/c^2)/gamma, where a is the g-force strength and x' is the distance to the remote clock, sign significant. You know what gamma is.
+
+The Twin Paradox in SR boils down to the distortion inaptly termed... The Relativity of Simultaneity -- I'm sure you've all heard. I call it clock dissynchronicity. Yes, the Twin Paradox boils down to clock dissynchronicity and you might argue that time dilation is sorta inconsequential; but no, they all work in harmony. See also my &quot;Twin Paradox resolved with Lorentz Transform alone&quot; under External Links.
+--[[User:EvanTPeoples|ETP]] 14:53, 16 Dec 2004 (UTC)
+
+:It's not the twin paradox, in the ordinary usage of the phrase, if the twins aren't brought back to the same point &amp;mdash; otherwise, it is meaningless to compare their ages because the answer depends on the frame of reference.  (And the &quot;need&quot; for GR to explain the twin paradox was dispensed with over half a century ago.)  [[User:Stevenj|&amp;mdash;Steven G. Johnson]] 17:42, Dec 16, 2004 (UTC)
+
+:&lt;&lt;the &quot;need&quot; for GR to explain the twin paradox was dispensed with over half a century ago&gt;&gt; That is perfectly true, but it was dispensed with from this Wikipedia article only a couple months ago, after much chatter. --[[User:EvanTPeoples|ETP]] 01:58, 17 Dec 2004 (UTC)
+
+:&lt;&lt;It's not the twin paradox, in the ordinary usage of the phrase&gt;&gt;
+
+:Keyword: &quot;ordinary&quot;. So think *outside* the box for a change: it's the timepiece that we're interested in, not the personalities. In my treatment, the timepiece is paramount, and the baton is passed at the halfway mark, with all due strict adherence to Relativity's constraints. The calculations are not flawed; the paradox is laid bare and then resolved, with elegance, lucidity and conciseness. If you doubt its utility, just show my essay to a bright seventeen-year old, and watch the enlightenment dawn.
+
+:&lt;&lt;otherwise, it is meaningless to compare their ages because the answer depends on the frame of reference&gt;&gt;
+
+:In that stated scenario of mine, there's only one right reckoning, true from ALL Frames-of-Ref, which is that Alf's clock will trail Terra's by 0.89 year, upon their coincidence. Look a bit harder and you'll see that. --[[User:EvanTPeoples|ETP]] 02:31, 17 Dec 2004 (UTC)
+
+== Twins in a Periodic Spacetime ==
+
+Nothing prevents a spatially periodic spacetime in special relativity. It still can be flat. No kidding. It's a boundary condition. It's interesting to consider the Twin Paradox under these circumstances, because the twins can be truly symmetric. That is, in a periodic spacetime, they can meet again without undergoing acceleration. I'm not certain about the resolution of the paradox in this case. However, the  existence in a periodic spacetime of two different light cones connecting the twins, one forward and one back in a 1-D periodic space, may be a clue. -MFR
+
+===Cylindrical Universe===
+:[[User:E4mmacro|E4mmacro]] 04:33, 18 December 2005 (UTC) I think there is a stationary cylindrical solution of the GR equations giving a possible space time where the twins could set out in opposite directions and eventually meet each other head on in a finite time; they were both unaccelerated for the entire trip.  I think by comparing their age difference they can work out which one has been more stationary, or closer in speed to the &quot;co-moving observer&quot;? [[User:E4mmacro|E4mmacro]] 22:54, 18 December 2005 (UTC)
+===Cosmic Censorship?===
+:[[User:E4mmacro|E4mmacro]] 22:54, 18 December 2005 (UTC) In the standard model for our closed Universe, assuming it is closed, you cannot complete the journey round the Universe before it collapses into the big crunch. Seems like a gigantic cosmic censorship at work here -- the only universes which are allowed by the censorship rule are those in which there are no closed inertial paths. If there were closed inertial paths you could have a twin paradox, or alternativity discover the &quot;absolute rest frame&quot;. [[User:E4mmacro|E4mmacro]] 04:33, 18 December 2005 (UTC)
+
+== Re Alternative Resolution of Paradox ==
+
+The section entitled &quot;Alternative Resolution of Paradox&quot;, along with two depictions, was add 3/27/2005 by Cpcjr. Congratulations! It looks okay on the surface, but it fails to explain how the spaceship crew accounts for the Earthbound twin's time dilation during either leg. The answer lies in the fact that the deceleration and subsequent acceleration of the spacecraft at the distant star system more than compensates for said time dilation. To reiterate: if the spaceship crew ages only 2.57 years during the outbound leg, then why doesn't the Earthbound twin age only half that, or 1.28 years during that span, throwing off the entire explanation? Okay, maybe I'm just fond of splitting hairs... and I have NO intention of editting anything. But I will take this opportunity to tout my own very fine explanation, which makes no convenient omissions, and resolves the paradox using only the basic Lorentz Transform. Find a link to my mercifully brief essay under External Links, below the article. Hey, I've never claimed that my explanation is unique or that it breaks any new ground! no, it's just a real fine lucid, eloquent and simple resolution done without smoke and mirrors and leaving nothing to the imagination.
+[[User:EvanTPeoples|ETP]] 16:21, 28 Mar 2005 (UTC)
+
+:No, you're absolutely correct, the &quot;solution&quot; does not solve anything and should be removed. Regardless of the trip and stay times, in fact, lets just call them T1 and S1, the travelling twin &quot;should see&quot; his Earth-bound counterpart age less. Period. That's the whole idea of the paradox, one that is apparently missing from this &quot;solution&quot;. I am going to remove. [[User:Maury Markowitz|Maury]] 02:16, 11 Apr 2005 (UTC)
+
+I agree that the alternative solution avoids the issue, because it doesn't address what the person on the moving spaceship &quot;sees&quot; when looking at the stationary twin.  Thus, it should be deleted.  I'm also going to delete ETP's link to his own &quot;explanation&quot;, because as I explained above, he resolved the &quot;paradox&quot; by changing the question, which is equally besides the point here. [[User:Stevenj|&amp;mdash;Steven G. Johnson]] 04:35, Apr 11, 2005 (UTC)
+
+:Go ahead and be an intellectual bigot. No tyro is ever going to understand the paradox resolution without the simplest of all possible pertinent information: namely that there are precisely THREE, rather than TWO, special relativistic distortions encompassed in the basic Lorentz transform. Everyone has had heard about length contraction and time dilation, but few realize that clock dissynchronicity is the third distortion ...
+:: see [[relativity of simultaneity]]? [[User:E4mmacro|E4mmacro]] 04:23, 18 December 2005 (UTC) 
+... and it isn't even a very difficult concept to grasp -- certainly not arithmetically so. So go ahead and barrage the reader with spacetime diagrams, which impart little if any elucidation to the uninitiated. See if ''I'' care![[User:EvanTPeoples|ETP]] 05:03, 11 Apr 2005 (UTC)
+
+:: ([[User:William M. Connolley|William M. Connolley]] 20:47, 11 Apr 2005 (UTC)) Hmm, well, let me say that I found the std explanation (the one that remains) really rather helpful and clear.
+
+::Clock synchronization is a well documented &quot;problem&quot; that is encountered in any greater discussion on relativity. &quot;Odd clock&quot; problems are another common class of physical paradoxes as well, although they are typically combined with length contraction (ie, &quot;close the doors '''when''' the ladder...&quot;). I agree that another (or additional) explaination containing a disuccsion of clock problems is likely a good idea. However the remove portion did not clearly do this, nor did it address the problem at all. I don't see how anyone can consider this &quot;intellectual bigotry&quot;. Nor do I understand why you think tyrants (tyro?) would be reading this... [[User:Maury Markowitz|Maury]] 21:48, 11 Apr 2005 (UTC)
+
+----
+
+It is true that the original version of the alternative resolution did not address how each twin observed the other. A new version has been posted that corrects this defect. Thanks for pointing it out.
+
+== Geodesics and closing a loop ==
+
+In the [http://www.physics.adelaide.edu.au/~dkoks/Faq/Relativity/SR/TwinParadox/twin_paradox.html Usenet Physics FAQ discussion of the Twin paradox], it is shown that the magnitude of the difference in proper time can be calculated in as many as four of five different ways, all producing the same answer. 
+
+I favor the most abstract approach, I favor the approach that uses considerations of geometry and symmetry only.
+
+It is possible to account for the difference in proper time on the basis of the invariance of the space-time interval. From the formula for the space-time interval, the following formula can be given for the proper time of a traveller
+: &lt;math&gt;d \tau ^2 = dt^2 - dx^2 - dy^2 - dz^2 &lt;/math&gt;
+
+This formula expresses an asymmetry: the laziest way to travel a year ahead in time is to just do nothing. You wait a year, and at the end of that, a full year has passed. Alternatively, you can fire up the thrusters of your space-craft, and you can take a longer path through space towards a rendez-vous with the traveller who only waits for a full year to pass. Working up many extra miles of traveling it will take less than a year, say, 11 months, to travel towards a point of rendez-vous with the traveller who is inertial.
+
+The formula expresses that the traveller who remains in the same inertial frame throughout the journey represents some ground level as far as proper time is concerned, somewhat akin to zero Kelvin. No matter what happens, the clocks that are co-moving with a traveller who moves inertially all the time (and stays away from gravitation) are '''the first''' to reach the point of a year of proper time. There is no physics that can make a clock count more proper time than that, it is only possible to count less proper time than that, by deviating from moving along a geodesic of Minkowski space-time, by taking &quot;a longer road&quot; towards the rendez-vous point in space-time. The rendez-vous is essential, it closes a loop. Without closure of the loop there is no such thing as being &quot;the first to have counted a year of proper time&quot;.
+
+What needs to be calculated is the path-integral of the path that is taken, the path with respect to the inertial frame of reference of the traveller who does nothing. 
+
+Relativity does not explain why time and space are related in this way. What would a universe be like in which taking longer path corresponds to counting more proper time? --[[User:Cleon Teunissen|Cleon Teunissen]] | [[User talk:Cleon_Teunissen|Talk]] 09:48, 13 Apr 2005 (UTC)
+
+== There is no absolute space ==
+
+In Special Relativity, there is the upper limit of velocity: the speed of light. Likewise there is an upper limit in the rate of time. 
+
+A clock that moves inertially, and stays away from gravitation, is in step with time at its maximum rate. All clocks that take a longer path through space than the inertially moving clock, are seen to have been in step with time that proceeded at a slower rate than the maximum rate. So when clocks separate and later reunite at a point of rendez-vous, the &quot;wandering&quot; clock is seen to have counted, say, 11 months, instead of the 12 months of the clock that is in step with time-at-its-maximum-rate. 
+
+This does not in any way imply absolute space. The asymmetry in rate of time is subject only to '''difference''' in path length, relative to the inertial frame co-moving with the inertially moving traveller.
+
+Still, there is an asymmetry. To focus on that asymmetry I use the following reasoning: all inertial frames are indistinguishable, so I might just as well envision a superposition of the entire group of all inertial frames of reference, and summerize that with the name ''the inertial frame of reference''. I treat the entire symmetry-group of inertial frames of reference as effectively a single frame.
+
+If two clocks separate and later rejoin, there is a loop. And whenever there is a loop, enclosing an area, at least one the the clocks has not moved along a geodesic, and in Minkowski space-time that matters: moving along a geodesic or not is different physics taking place. The geodesics of Minkowski space-time relate to the inertial frame of reference. Minkowski space-time is not a neutral background, it is not just empty space. Minkowski space-time is a physical entity that affects the rate of time of objects moving through it. --[[User:Cleon Teunissen|Cleon Teunissen]] | [[User talk:Cleon_Teunissen|Talk]] 11:06, 13 Apr 2005 (UTC)
+
+===Somethig like &quot;absolute space&quot;: Privileged frames OK in GR?===
+Not using GR seems silly -- as I understand it, GR has no problem with special references frames; the &quot;co-moving clocks&quot; (in free fall from the moment of the Big Bang to the Big Crunch) will age the greatest (show the greatest age in the closed Universe) from creation to destruction. All other clocks, moving with respect to the co-moving clocks will experience a shorter life from bang to crunch. You could find (approximately) this reference frame in your locality by finding the frame in which the entire Universe appears the most symmetrical; or you could find the reference frame in which the Doppler shift of the cosmic micro-wave background radiation is isotropic (this has already been done?) 
+: There is a possibility that these two references frames may be slighlty different since it has been claimed that the Universe is rotating with respect to the back-ground radiation (Birch, P. 1982 &quot;Is the Universe Rotating&quot;, ''Nature'' '''298''', 451). It has also been claimed, on statistical grouns, that we should expect some tiny difference between the matter and radiation reference frames, even if it is not as large a difference as that apparently observed (Macrossan, M. N. 1987 [http://eprint.uq.edu.au/archive/00003099&quot;A thermodynamic origin of a universal mass-angular momentum relationship&quot;]''Astrophys. Space Sci'', '''133'''(2), 403)
+
+Would there be any philosophical objection to assuming this is a privledged reference frame? As long as length contraction and time dilation happened with respect to this frame, the Lorentz transformations will hold between any two inertial frames in which simultaneity is defined by assuming the speed of light is &lt;math&gt;c&lt;/math&gt; in that frame. The situation is then identical to all we know about SR - the effects will appear symmetric to all inertial observers as long as they remain unaccelerated. And no one in the privledged reference frame could claim anything special about their inertial frame, except for the theoretical prediction of GR that clocks in their frame will show the greatest age of the universe at the big crunch.
+
+It may seem a retrograde step to say one frame (in our locality) is privileged - so that the contractions and dilations are real with respect to this frame and &quot;apparent&quot; (i.e. arising from a combination of the real effect and the clock synchronisation procedure, [[relativity of simultaneity]]) with respect to all other inertial frame. Nevertheless, it might satisfy the &quot;realists&quot; and might even stop the endless discussion. Of course I could be wrong on this, or about the closed universe and co-moving clocks, and wait for enlightenment. [[User:E4mmacro|E4mmacro]] 03:20, 17 December 2005 (UTC)
+
+See also the discussion on the Brans-Stewart model universe on this page. It is allowed in GR yet it does have a privledged reference frame, which can be discovered by its inhabitants. See also the comment on &quot;Cosmic&quot; censorship on this page. [[User:E4mmacro|E4mmacro]] 21:51, 30 December 2005 (UTC)
+
+E4, I'm becoming desoriented by so many similar comments and discussions all over this Talk page! I had not seen any of it... Anyway, your comments (after a quick read) correspond with those of Langevin, Ives and Builder. The advantage to me of that approach is clear: it brings logical comprehension back to physics, eventhough in the end reality could still be slightly different. [[User:Harald88|Harald88]] 23:32, 22 January 2006 (UTC)
+
+== The Twin paradox and time dissemination ==
+
+In the following discussion I shall use the names that the siblings have in the Usenet Physics FAQ. The twin who stays at home is called Terence, and the twin who travels into space is called Stella.
+
+The essence of the Twin scenario is that it is a scenario of time dissemination. To see this, imagine a fleet of space-ships, travelling in interstellar space. The ships are cruising in formation (no relative velocity) so the clocks of all the ships count time at the same rate. They want a procedure to ensure all the clocks are synchronized. They can use radio-signals for that, in which case they need to take the transtion time of the radio-signals into account, or they can use a separate ship that visits the other ships one by one, disseminating time. Either with radio-signals or a portable clock, the  transition time must be taken into account. 
+
+In the discussion of the Twin scenario in the [http://www.physics.adelaide.edu.au/~dkoks/Faq/Relativity/SR/TwinParadox/twin_paradox.html Usenet Physics FAQ; Twin paradox] the math is simplified by using the following scenario: at the point in space-time of separation Stella is in her spaceship, passing Earth at a constant velocity. At the point of closest approach to Earth she and Terence synchronize their clocks. It is the fact that they both set a clock to zero at a specific point in space-time that counts.
+
+The physics of the Time disseminaton scenario does not require Stella to make a physical U-turn herself. The essence of the scenerio is preserved when another space-traveller, lets call her 'Allets', synchronizes her clock with the clock of Stella as she passes Stella, and after that Allets goes on to the point of rendez-vous, where she and Terence compare clock-readings.
+
+In the Usenet Physcis FAQ Twin paradox discussion several calculations are presented, including a calculation based on instantaneous turnaround of Stella. That scenario is equivalent to a relay of Stella to Allets, with Allets synchronizing her clock with the clock of Stella at the moment that they pass each other.
+
+[[Image:Twin_paradox_Minkowski_diagram.png|thumb|Twins paradox diagram]]
+This facilitates an interpretation of the Twin paradox in purely geometric terms. 
+
+In space, Allets retraces the (straight) path that Stella had taken moving away from Terence. In the space-time diagram, that looks like a triangle.
+
+A remarkable feature of the geometry of time dissemination is that the difference in time at the point of rendez-vous is independent of the ''velocity'' of Stella and Allets. Suppose that the space journey is 300.000 kilometers out into space and back again. It would take radio signals 2 seconds to make that round trip and a time dissemination relay by space-travellers results at the point where the loop is closed in the same 2 seconds behind a traveller who has remained on Earth. 
+
+This independency on the travel velocity of the time dissemination relay can be seen in the space-time diagram. To focus on the most simple case, we put the point of separation somewhere in interstellar space, where the gravitation of surrounding suns cancels almost completely. Terence moves inertially, so his time is at maximum rate for his plane of simultaneity. 
+
+The space-time diagrams for different velocities of travel are different in shape, but in the end the '''difference''' in counted time is 2 seconds if the trip is 300.000 kilometers out into space. In terms of geometry this is Pythagoras' theorem. The slower the velocity of Stella and Allets in the time disseminaton relay, the more time it takes from separaton to reclosing the loop, but in the end the difference in proper time is always 2 seconds.
+
+Relativistic physics does not explain why space and time are in this pythagorean relation to each other, it just describes it. --[[User:Cleon Teunissen|Cleon Teunissen]] | [[User talk:Cleon_Teunissen|Talk]] 06:26, 18 Apr 2005 (UTC)
+
+----
+
+I just read what you (Cleon) wrote in the article and in the talk, e.g. 
+''A remarkable feature of the geometry of time dissemination is that the difference in time at the point of rendez-vous is independent of the ''velocity'' of Stella and Allets''  
+'''THIS IS FALSE''' I think you forgot the square root!!! The 300000 Km &lt;-&gt; 1 second of delay relation is true only for light, i.e. when 
+: &lt;math&gt;d s ^2 = 0 &lt;/math&gt;
+
+::Yeah, it has dawned on me now. It's nice round numbers only for light. It was too simple to be true. I shall have to rewrite. Some of it can remain, I think. The bit about showing how time dissemination procedure illustrates the principle of relativity of inertial motion, for example. I think that will, after proper rewrite, be usable. --[[User:Cleon Teunissen|Cleon Teunissen]] | [[User talk:Cleon_Teunissen|Talk]] 17:21, 23 Apr 2005 (UTC)
+
+== There is no Paradox ==
+
+
+...and you dont need General Relativity.
+
+And it can be explained without complex calculations.
+
+Consider a Ten Year Trip.
+
+The observer on the Ship sees the earth receeding for 5 years and converging for 5 years.
+
+The observer on earth sees the ship receeding for longer than five years because at the point he turns around light takes a long time to reach earth. The return journey seems a lot faster as from the earths viewpoint
+he is chasing his own light.
+
+Now with two different times of visible receeding and converging we have 
+two different results. Put them into standard special relativity calculations and no paradox exists.
+
+At the point the ship switches intertial frames(turns around). He has a totally different view of when past events occured on earth.
+
+:In the Twin paradox, one must distinguish between two kinds of suspicion: (1) Are we baffled because there is an inconsistency in the theoretical framework of relativistic physics? (2) The theory is self-consistent, but incomplete.
+
+:Its number (2). The twins are traveling with portable atomic clocks and at the point of rendez-vous the clock of the twin who has travelled has counted less cycles. In the end all clocks, including biologial and mechanical clocks, measure rate of time because the underlying quantumprocesses happen in time. This shows that relativistic physics deals for a 100% with quantumbehavior. It is sometimes said that relativistic physics 'describes macroscopic phenomena' and that quantum physics 'describes the microscopic world of quantum particles', but the Twin paradox brings into focus the reality that quantumbehavior is affected by ''space-time geometry''.
+
+:In order to complete the theory a quantumphysical model would have to be found that predicts the physics of Minkowski space-time on the basis of more fundamental physics. --[[User:Cleon Teunissen|Cleon Teunissen]] | [[User talk:Cleon_Teunissen|Talk]] 14:45, 29 Apr 2005 (UTC)
+
+== question ==
+
+i have too many questions on the twin paradox, like 30 or something, but all i want to know is that has people really resolved all the situation that you can ever make up about the paradox? and is it even easy to fully learn the whole thing and never think its inconsistent again? because i read from lots of places but i can still think up of new situations where it doesnt make sense
+thanks for your help
+
+-protecter
+
+* Yes, it is absolutely resolved, and has been for some decades.  You can make up new situations that are difficult to understand intuitively (as the Twin Paradox always has been), but they make perfect sense when expressed within the mathematical framework of relativity.  The Twin Paradox is taught in every undergraduate class on Special Relativity these days; it is in no way controversial, it's simply a fun problem that illustrates the importance of [[inertial reference frame]]s.  --[[User:LostLeviathan|LostLeviathan]] 01:13, 17 October 2005 (UTC)
+
+== NO paradox...? ==
+
+If I understand a preceding thought experiment correctly, the one about the train that explains that two events can be seen as simultaneous or not, depending on whether you use the train as reference frame, or the station, it follows that any statement about something happening within a frame of reference, is only applicable to that frame, and need not have any truthfullness in other frames.
+For example, the statement about events A and B occurring simultaneously, is only true in the reference frame of the train, and the opposite is true in the station's frame. 
+
+If one understands this concept, it leads to the conclusion that ANY truthfull statement about ANYTHING in a particular frame of reference, can coexists with this statement's truthfull contradiction, as long as the contradiction is from another frame of reference, that at least moves relative to the above one.
+
+Therefore, if A sees B moving past, and B's watch seems slower, while B sees A moving past and A's watch seems slower, both statements can be true, since they are based on two reference frames that moves relative to each other.
+Or am I on the wrong (train) track?
+[[User:155.232.250.35|155.232.250.35]] 05:17, 12 September 2005 (UTC)Harry Marx
+
+: This last, about A and B, is correct, but the preceding &quot;ANY truthfull statement about ANYTHING&quot; is an overstatement. For instance, check [[Special relativity#Simultaneity and causality]]. In many cases, everyone will agree on the order in which two events occur.
+:[[User:Wwoods|&amp;mdash;wwoods]] 07:28, 12 September 2005 (UTC)
+
+
+ok i see what you mean but one question: if two observers are traveling relative to one another and after some time they come to a single frame and show each other their clock, will the clock show the same time?
+
+: I'm not sure what &quot;come to a single frame&quot; means. If one of them accelerates to match velocity with the other (they don't even have to be in the same place), then ''thereafter'' their clocks will keep the same time.
+:[[User:Wwoods|&amp;mdash;wwoods]] 23:23, 20 September 2005 (UTC)
+
+== Pictures under sub-article &quot;ALTERNATIVE RESOLUTION OF PARADOX&quot; ==
+
+I understand this is a very trivial comment but please take note and do something.
+The pictures in the sub-article titled ALTERNATIVE RESOLUTION OF PARADOX are very
+dark and difficult to look at. Please can somebody more expert than me simply take
+away the grey base ? I'll be very grateful.Paolo de Magistris, Rome Italy.
+
+
+
+== Alternative resolution of paradox ==
+
+As far as I know, Doppler effect (both classical and relativistic),
+concerns the change in perceived frequency of a wave if the source of the wave is moving with respect to me, or if I'm moving with respect to the source. I don't understand the statement ..&quot;according to relativistic Doppler effect 1 second for one of the two brothers is seen as 3.7 seconds lapsed for the other&quot;. For me is a mistery, and for You?
+ [[User:Demaag|Demaag]] 16:24, 21 October 2005 (UTC)
+
+: One draws a distinction between [[time dilation]] and the [[relativistic doppler effect|doppler effect]].  Time dilation is the perceived rate of time between the moving clock, and a clock at the ''same place'' that ''isn't moving'' with respect to the observers frame.  This is to be contrasted with ''directly observing'' (via, say, a [[telescope]]) the moving clock:  such an observation is subject to the doppler effect (which has the time-dilation built into it).  The alternative explanation to the supposed paradox, which is far easier to comprehend and is an easier lead in to the simpler space-time interval explanation, is based on both twins literally looking at each other, so it the doppler effect is used.  [[User:Mdf|mdf]] 00:02, 22 October 2005 (UTC)
+
+== Why ==
+
+I've never studied physics, except to read a few popular books.  I want to understand this problem.  I've looked up many many web pages to try to get at the nature of it.  None of them are satisfying; they explain some of the basic physics without getting at the heart of what is bothering people that makes this seem paradoxical.  I keep wanting to put something in lay terms so it's a little plainer for 99% of us.
+
+Here's what I understand:
+
+Whereas relative motion within an inertial frame of reference is symmetrical, acceleration is not.  If my spaceship accelerates, it is doing it on its own, not in relation to the Earth.  Thus, the Earth doesn't accelerate.  Acceleration moves you from one inertial frame to another.
+
+The problem:  Why?  Why should my acceleration be something I can do alone, and not necessarily in a symmetrical relation to anything else?  Doesn't that imply absolute space?
+
+This is at the heart of the confusion.
+
+Don't say &quot;but really what's happening is that the traveling twin is shifting frames but the Earth twin isn't.&quot;  That doesn't answer WHY the Earth isn't the one shifting frames and the twin isn't.
+
+People want to understand why, why is there assymetry, why something can accelerate apparently separate from everything else when we keep being told everything is relative.  Someone please answer this.
+
+(Above by anon)
+You really need to ask yourself why after reading the page and the linked-to physics FAQ, you did not use &quot;inertial reference frame&quot; instead of &quot;absolute space&quot; in your question, in which case, you would have answered your own question.  As for teaching this to laymen, they neither believe in absolute space nor inertial reference frames, so good luck with that.[[User:Jok2000|Jok2000]] 23:33, 23 October 2005 (UTC)
+
+==Travelling at the speed of light==
+
+sorry for the stupid question but this is really interesting and i was just wondering, does this mean that if I could travel to the end of the universe and back at the speed of light it would take only a second for me (provided I didnt hit anything).. although when I got back to earth it would now be 30 billion A.D. ??? [[User:202.161.26.89|202.161.26.89]] 16:01, 26 October 2005 (UTC)
+
+*Yes, if you could travel at the speed of light, you would experience exactly zero time on a trip across the universe and back, but to someone on Earth, you'd seem to take X billion years to do the trip. See [[special relativity]] for more on this. Though note that nothing with [[mass]] can travel at the speed of light, though you can get arbitrarily close to it if you have enough energy available. --[[User:DrBob|Bob Mellish]] 16:14, 26 October 2005 (UTC)
+
+*But there is a small catch if the universe we actaully live in is closed. Before your 1 second was up the universe and you would have collapsed into the big crunch. It might seem a pity to shorten your personal life space to one more second. [[User:220.237.83.52|220.237.83.52]] 01:26, 20 December 2005 (UTC)
+
+== Incredible! ==
+The confusion around this paradox is incredible! Besides the effects, described bei Lorentz transformation, mentioned by A.Einstein in his famous paper, e.g. time dilation, there is nothing to be confused, except Langevins misinterpretation.
+Relativity doesn't say that there is no absolut room, but, it doesn't matter. The fact is: speed is symmetric. Terra measures the speed of Stella, relative to herself. This measurement is independent of any unaccelerated movement relative to any other object. Without violation of generality, as well Terra, as Stella can be seen to have speed 0. But, to measure speed, you have to measure distance and time. Time measuring instruments we call clocks. Space measuring instruments can be two stars. Terra and Stella measure the relative speed in relation to speed of light. Terra and Stella can very easily answer the question, who &quot;moves&quot;: They independently measure the distance of the stars and the one, who measures the smalest distance, moves. In very coincidence with Lorentz tranformation.
+Where is the problem? Why all the confusion? Just plain thinking. [[User:ErNa|ErNa]] 14:30, 27 October 2005 (UTC)
+
+== The Physics Prof and the Pauper ==
+
+Part of the problem is that for the people explaining the solution, the intuition has already been ingrained, so they have a hard time relating to those people for whom it isn't.  This is generally a problem with teaching:  the teacher has a hard time thinking from the students' perspective.  Both need to switch mental frames of reference to understand where the other is coming from.
+
+It took me a lot of work to understand - not because I couldn't 'get it,' but because no one doing the explaining got at the heart of the paradox as I saw it.  It's resolvable with a basic understanding of concepts of physics, but for those of us who don't have such a background, Wikipedia doesn't help much.  Every article on physics is written from the perspective of someone who already understands basic physics, so that most of us have no place to begin learning.  So, for the benefit of those who are confused, the following might be helpful, coming not from a physics prof but a physics pauper:
+
+:Motion itself is mutual, symmetrical (relative).  Both twins recede from each other.  Even during acceleration, both move apart from each other, at an increasing rate.
+
+:However, '''&quot;moving apart at an increasing rate&quot; does ''not'' equal &quot;mutual acceleration.&quot;'''  These ideas ''seem'' equal, since &quot;moving apart&quot; itself is mutual.  However, acceleration is something different than motion.  Both can be moving apart at an increasing rate, and yet only one be accelerating.  I think this is the heart of the confusion.
+
+:To understand why only one accelerates requires an understanding of inertia.  Imagine 100 motionless planets sitting in space.  One starts revolving. Its motion is relative to the other planets, but only it has changed anything.  Acceleration is not a relative thing, but rather a force-driven thing.  
+
+:Acceleration breaks the symmetry.  You can talk about inertial reference frames if you like, but they're not at the heart of the misunderstanding.  You can even do away with acceleration, but then you no longer have a twin taking a trip (unless she &quot;beams over&quot; to the ship traveling in the opposite direction, in which case the change of spaceships breaks the symmetry).
+
+I wish something in this article would explain it this way.  It really shouldn't be that hard to write articles that assume the reader knows little.  Otherwise us physics paupers get lost travelling through endless links, and pretty soon what we thought was minutes turns into hours, as if the Earth has suddenly aged below us.[[User:24.64.223.203|24.64.223.203]] 04:07, 28 October 2005 (UTC)
+
+:I tried to give you a hint, what the misunderstanding in Twin Paradox is and where it comes from. But it was reverted: ''William M. Connolley (Talk) (rv to Mathbot. I didn't find ErNa's additions helpful.)'' May be, he knows, what really happens or he just didn't understand. [[User:ErNa|ErNa]] 12:18, 30 October 2005 (UTC)
+
+Well, what I meant was what I said: that *I* didn't find your additions helpful. If other people disagreed with me, they are free to restore them. So are you. But its better to talk. 
+
+As I see it, the fundamental point is as the article says: the twins are not symmetric; one has a turnaround. So adding ''So far, the situation is paradox, but in correspondence with RT, in special Lorentz Transform.'' to the end of the first para doesn't really help (because that para *isn't* describing a paradox; and/or the entire point of the article is to explain why this isn't really a paradox). And then ''Carefull twins would determine, for example, the distance between to stars and exchange that information. The twin, measuring the shorter distance, moves.'' wasn't helpful at all. This appears to be implying the existence of an universal rest frame, which would be wrong; if it doesn't mean that, I don't know what it means.
+
+Having said that I find the opening para slightly unsatisfactory, as it states but does not resolve the paradox.
+
+[[User:William M. Connolley|William M. Connolley]] 16:47, 1 November 2005 (UTC).
+
+Thanks for Your answer. I have to apologize for my poor english. The TP suffers from the fact, that there are two paradoxes. First: twins, a prototype of equal objects, are no longer of same age. Second: they can see each other moving, themselves in rest and vice versa, in accordance with theory of relativity. The first is a fact, but surprising, the second is obviously wrong, for when they meet, the moving one grew older. Where is the misunderstanding?
+The solution in the article is very complicated and, at least to me, hard to understand, if ever. After difficult discussions in wikipedia.de, seems to be clear: Imagine two stars with a fixes distance. Wether or not there is a universal rest frame! Two observers can measure the distance of the stars. And they can measure their relative velocity - one to the other, not in relation to the stars! Lets start with the first one and call him Stella. He supposes to be in rest. He sees his twin Terra flying with relativistic velocity, so he knows: Terras clocks is slowed down by a factor of GAMMA(&lt;1). But Terra measures the same speed of travel relativ to Stella. Speed being length divided by time, so length has to be shrinked also by GAMMA. But, what, if Stella states, to be travelling. Then he knows, that Terras time moves faster, by 1/GAMMA (&gt;1). Also, Terras sees the same distance enlarged, again Terra measures the same relativ speed. Conclusion: If Terra is at rest (in relation to the stars, not to an absolute frame), then Stella's time passes slower than Terra's and Stella measures a smaller distance between the two stars then Terra does. Till now, we made no assumption about the relativ movement of the start to the twins. Now, we place one of the twins on an orbit around one star, we call Earth. Now we established the situation, that is known. And we can decide, who moves: Both exchange two informations: the speed of relativ motion, related to the speed of light and the distance of the two stars.
+
+== New Summary Paragraph ==
+If there is a paradox, than this: The opposite of an absolute, fixes frame is not no frame, but it doesn'nt matter if there is one. One thing is remarkable: in an collider experiment, we create a positron and an electron from radiation, from photons. The electron, in the moment of creation is certainly in relativistic movement, that is: very fast. You slow it down, his mass decreases and than you join it with an proton. The resulting hydrogen is absolute identical to any other existing hydrogen. Where does the electron know from, which mass it has to have during generation to have the right mass, when being brought close to any other existing electron. [[User:ErNa|ErNa]] 22:31, 1 November 2005 (UTC)
+
+: You may have a valid point, but poor english is obscuring it. Currently the page resolves the paradox by the observation that the twins are not symmetric - one effectively jumps frames at turnaround. This works, as an explanation. I don't think its complex or hard to understand. Conversely, I do (and so its seems to others) find your version hard to understand. If (as I suspect) you are proposing an alternative explanation (which must in the end come to the same thing, of course) then we should try to clarify that. I don't see why the collider stuff is relevant. 
+
+: So I guess the point is: do you think the current page is *wrong*; if so, is this because you don't understand it, or because you do understand it enough to know its wrong. If thats true, you'll encounter problems, because people here seem to be happy with it.
+
+: Or, do you think the current page correct, but that there is another easier to understand explanation?
+
+[[User:William M. Connolley|William M. Connolley]] 13:37, 4 November 2005 (UTC).
+
+Lets go on step by step. The first paragraph states: The TP states ... the travelling one is younger. I agree, this sounds paradox. The third paragraph say something different: The paradox arises ... So, the first question: what is the &quot;twins paradox&quot;? [[User:ErNa|ErNa]] 14:35, 4 November 2005 (UTC)
+
+I believe the main issue is that there are 3 or 4 ways of saying &quot;why&quot; this should be (See the Physics FAQ link).  This precludes picking just one way in the introduction.  My reading of your addition is that you feel that stars present a decent inertial reference frame.  Which takes us back to &quot;use a good inertial reference frame&quot;, which is already covered (3rd paragraph, under &quot;General&quot;).[[User:Jok2000|Jok2000]] 16:43, 4 November 2005 (UTC)
+
+:Couldn't we first have this agreement, what the paradox is? These two paragraph are contradictionary, aren't they? [[User:ErNa|ErNa]] 18:05, 4 November 2005 (UTC)
+
+:You are using the wrong word. It is &quot;counter-intuitive&quot; not &quot;paradoxical&quot; that one twin ages less.  It becomes a paradox when the meaning of the word &quot;moving&quot; is changed. [[User:Jok2000|Jok2000]] 18:21, 4 November 2005 (UTC)
+
+::This may be right. To which meaning is the word &quot;moving&quot; changed? ;-)[[User:ErNa|ErNa]] 19:57, 4 November 2005 (UTC)
+
+
+The problem, it seems to me, is that the introduction is spread over three paragraphs, split by a section header. And I don't think the Einstein quote helps; it's just about time dilation, not the twin paradox. The paradox is that both twins can say, &quot;I've alway been at the origin of my frame of reference--it's the other guy who moved away from me and then back. Therefore I've aged more.&quot; Of course, one of them is wrong, which resolves the apparent paradox. I think the intro paragraph should state the paradox, with the explanation of time dilation following.
+&lt;br/&gt;[[User:Wwoods|&amp;mdash;wwoods]] 18:26, 4 November 2005 (UTC)
+
+:Ok, this is an acceptable statement, the introduction has to be changed. Now, why do we have the paradox? The reason is: &quot;Special relativity says that all observers are equivalent,&quot; is only half of the truth. This sentence has to be continued: &quot;except twins&quot;.;-) It is clear: both twins measure the same relative velocity. By measuring only velocity, they can not determine, who was accelerated during his life time. They can state: I stand still, I move, as they like it. But, is there a possibility to proof it? Without meeting again? Yes! It is. Without establishing an absolute frame. When they were born and became adult, they learned how to measure relative speed. And, how to measure time. To measure speed is to measure a distance. Both can measure the distance between to selected stars. All people, that accept RT know about Lorentz transform and therefore about time dilation. Let both twins assume to be at rest. Both say: the other one move with speed v. But his time is dilated. And he will measure a shorter distance of the stars. Therefore, they only have to exchange the information about the distance of the stars to know, hows assumption was the right one. I think, this explanation is much simpler than those in the article. Or, can you explain, where I am wrong?[[User:ErNa|ErNa]] 19:57, 4 November 2005 (UTC)
+
+*But that's not really the twin paradox, is it? There's no &quot;paradox&quot; if they don't meet again - just because one twin happens to be at rest w.r.t. a pair of stars doesn't make his frame privileged. I don't really understand what you're proposing, here - for me, it's not in any way simpler than the explaination in the article, but language issues may the problem. --[[User:DrBob|Bob Mellish]] 20:21, 4 November 2005 (UTC)
+
+::The twin paradox -as is stated now- is: Both twins see a symmetric situation, but, in reality, the situation is asymmetric. Where comes the problem from: Langevin, who &quot;invented&quot; this paradox, said: both twins can state, in accordance with RT, that they are in rest, the other one moves. For, there is no possibility for them, to know, who moves. But this statement is wrong, there is such a possibility. It is not, that the twin is at rest to the stars, it is, that he measures a bigger distance between the stars than the traveller. This follows from the Lorentz Transform. If the twins dont know this, they are not properly prepared for their missing.[[User:ErNa|ErNa]] 22:15, 4 November 2005 (UTC)
+
+::: You didn't answer my questions. All is still in confusion, which is unhelpful. Anyway: as the page clearly states, the situation is superficically symmetric, but in fact not: one twin accelerates at turnaround. You don't need to bring in the stars. I still don't understand what you are finding so puzzling. [[User:William M. Connolley|William M. Connolley]] 22:36, 4 November 2005 (UTC).
+
+::The current article is wrong. First: there are two paradoxes. Second: 'The paradox arises if one takes the position of the traveling twin: from his perspective, his brother on Earth is moving away quickly, '. Without any other information, he only sees a growing distance. He can not know, wether he moves or not. 
+::I propose, first to make clear, what the paradox is. I can not do this for known reasons.;-) [[User:ErNa|ErNa]] 23:29, 4 November 2005 (UTC)
+
+::Second: it has to be stated, what the twins are able to measure. The basic information: they can measure the speed of light. This implies that they can measure local time and local distance. To measure relative speed between the twins, it needs additional abilities. For example: they can measure external distance at local time increments. For the relativ speed is constant, it doesn't matter, that light, that gives information about the distance, need some time to be detected. This time offset does not change the result of the measurement. 
+::Third: to come [[User:ErNa|ErNa]] 08:53, 5 November 2005 (UTC)
+
+:::There's nothing much to measure.  One sits around, the other travels then they look at their clocks together, that's it, everything else is just theory.  Please read other pages and FAQs linked to from the article.  You seem to be hung up on the [[equivalence principle]] -- start there. [[User:Jok2000|Jok2000]] 09:08, 5 November 2005 (UTC)
+
+::Your answer shows me, that we are not talking about the same item. 'One sits around, the other travels' introduces a fixed frame. This is in contradiction to RT. I talk about RT and the consequences of Lorentz Transformation to find the answer to the question: which twin travels. [[User:ErNa|ErNa]] 10:54, 5 November 2005 (UTC)
+
+:::I said nothing of the sort. [[User:Jok2000|Jok2000]] 14:16, 5 November 2005 (UTC)
+
+:: I also believe in a misunderstanding. But, You can't say, everything else is just theory. Twin paradox 2 says: Both think, the others time is dilated. It may be they think this, but then they have never heard of RT and how could they think, time is not absolute? Nearly all scientist, before 1905 thought, that time is absolute. 
+::If they know about SRT, then they know about Lorentz Transform. Now let's analyse the following situation: one sits, one travels. It's boring! Both think, independently, it would be nice, to know, who travels. According to the assumptions of the Twin Paradox, they can not find an answer. But, physical measurement give the answer. Without any problem, without Minkowsky, whithout general relativity, without the need for a fixed frame inertial system. Do You believe this? [[User:ErNa|ErNa]] 15:15, 5 November 2005 (UTC)
+
+::There are 3 problems with your proposed addition and the previous comment.
+::1. You don't need the stars to tell that you've moved, an [[inertial guidance system]] could tell you that.
+::2. Even if the twins are moving to start with relative to the stars the thought experiment still works, although I think the actual equations are a mess.
+::3. What you're writing sounds suspiciously like new research for you. If you believe it is, then Wikipedia wouldn't want it anyway.  If, on the other hand, you are trying to state the initial conditions that define a way in which to conduct a twin paradox-style experiment and know who's who, then I believe you are trying to reinvent the [[inertial reference frame]] page.
+::In summary, and without any prejudice, I believe my points 1 &amp; 2 are sufficient to end dicussion on the inclusion of your proposed addition.
+[[User:Jok2000|Jok2000]] 06:42, 9 November 2005 (UTC)
+
+-&gt;1: When we carefully read all the discussion here, we find some contributations that make sense, and others, that don't. I personally don't need stars. I use a inertial guidance system. But, it is commonly accepted: If two individual, carrying inertial guidance systems, stay together (at rest), later they see them drifting apart with a constant speed, than these system can tell them, who is moving! There is no doubt and there is not symmetry! What is called &quot;the traveling twins perspective&quot; is just a point of view, which is not covered by the theory of relativity.
+
+-&gt;2: The stars are only landmarks, that give the twins the possibility to independently determine a common distance that will be measured to have different lengt in accordance with SRT and LT. The measuring process compensates all the effects, that result from their relative movement and finite constant speed of light.
+
+-&gt;3: Please don't be suspicious! I believe in speed of light, I don't need an inertial fixed frame, I believe in conservation of energy, puls, whatever it needs to be a proper physicist. And I believe, that mass can be converted to radiation und vice verca, just like Einstein did.
+
+And in summary: the twins paradox is reality. But it is not at all a physical paradox if You accept, that time and space is not absolut! [[User:ErNa|ErNa]] 14:05, 9 November 2005 (UTC)
+
+== 5 object supposed paradox added by anon ==
+:: (Commentary Note: For once, special relativity makes a simple claim which anyone could, in principle check.Whether a man looks older than his twin, who is standing next to him, is a fact which can be observed and agreed upon by all persons, whatever their state of motion. Furthermore, the development of the twins' bodies could be determined at definite stages of the experiment. If the experiment were, specifically, to send a twin to another star known to be 50 light-years away, and return immediately - at speeds close to light-speed - we could wait on earth for fifty years to pass and then photograph the home-dwelling twin. The travelling twin could photograph himself when he approaches the star. These two images could be compared when the traveller returns.
+
+::Matters become interesting if there are four clones (such as Armadilloes produce). Bill stays at home while Tom, Chris, and Harry set off to the distant star. According to Einstein, the metabolic clocks of the travellers are all similarly slowed. Tom is soon homesick and comes back to Earth in a lifeboat, using its jets to slow down and then return. Presumably he now lives out his life at the same rate as Bill. Chris completes the mission, and eventually comes back, almost unchanged. Harry also gets homesick whilst still near Sol, but he makes an unfortunate mistake - he sets his lifeboat jets going 180 degrees the wrong way. He goes even faster towards the target-star, and comes back even younger than Chris. Now concentrate on the space-ship in deep-space. A general observer does not have to know anything about the existence of the Earth or its state of motion. Thus,an alien might first notice the space-travellers as a curious piece of debris. He sees inside three entities together. He then sees two of the entities accelerate away from the third, in opposite directions. Because the observer thinks like Einstein, he will expect to see the two accelerated entities - Tom and Harry - both living life more slowly than Chris. However we have shown that (1) according to the common observation that everything on the Earth has a similar clock-time, Tom will be living faster than Chris; and (2) according to Einstein's rules, Harry will be living slower than Chris. The curious alien can come to Earth and observe the brothers at the end of all the travelling. We can be sure that his expectations will be confounded. Unless, that is, there is an ABSOLUTE state of rest as an ultimate reference.)
+
+The above argument assumes the alien is at rest relative to Chris, in which case if the alien, tom &amp; harry &quot;return&quot; to chris, everything works.  You can't have it both ways.  Either you know of the earth, or you don't.[[User:Jok2000|Jok2000]] 16:48, 12 November 2005 (UTC)
+
+== Einstein had a point: calculation is not the problem==
+1. The above remark about Langevin should be the starting point of the article. Langevin's paradox was of course based on Einstein's introduction in his 1905 paper, and was not merely a misunderstanding as becomes clear from Einstein's 1918 answer.
+
+2. Despite the correct statement about the nature of the paradox which is not strictly a paradox of SRT, the article reflects the confusion of many literature articles that mistakenly assume that the paradox is about an SRT calculation problem, despite the fact that this calculation never was a problem (it was already solved in 1905!), let alone paradoxical. Maybe the biggest paradox here is this history of people trying to answer the wrong question...
+In any case, this confusion needs to be identified and explained.
+
+3. It ignores Einstein's attempted solution to the twin paradox (1918), as well as critical papers by scholars on his solution; instead it simply declares Einstein's GRT solution as being &quot;false&quot; (again, this is due to the common misunderstanding of what the paradox is about, but that's incompatible with the correct presentation in the introduction). 
+[[User:Harald88|Harald88]] 18:31, 12 November 2005 (UTC)
+
+===So did Newton===
+:I agree with Harald on this. Both Einstein and Netwon thought that acceleration is something strange, and its effects require an explanation. If Newton heard you resolve the twin paradox by saying that one twin acclerated and the other didn't (I have no objection to this resolution as far as it goes), he would probably take this as an additional confirmation of the strangeness of acceleration. He would then ''even more'' want an explanation of acceleration and its effects. He might think his original explanation wasn't so bad (''i.e.'' he concluded there is an absolute space. Acceleration relative to this space induces what we now call inertial forces, to which he could now add &quot;asymmetrical aging&quot;.) 
+
+:Einstein makes the calculation of the time difference depend on the acceleration (thinking that calculating the age difference from SR alone is not a resolution). He ''resolves the paradox'' (to his satisfaction) by saying that the accleration is equivalent to a gravitational field. It is this gravitationl effect at the turnaround (spread over any length of time, including the limiting case of zero turnaround time and infinite gravitational field) which introduces the asymmetry into the elapsed time on the clocks. 
+
+:Harald says the calculation is not the paradox (by which I think he means we know how to calculate it from SR and so did Einstein). The paradox for Einstein arises if the calculation does ''not'' involve the very thing that makes the situation asymmetric, the gravitational field (the acceleration). [[User:E4mmacro|E4mmacro]] 04:21, 17 December 2005 (UTC)
+
+:: Yes indeed -- with the exeption that in the last phrase you mix solution with cause: I'd say that the paradox for Einstein arises if no solution can be found in which the &quot;travelling twin&quot; may be justified to claim to be always &quot;in rest&quot; (which obviously is indeed not an SRT problem at all). See also my comments below. [[User:Harald88|Harald88]] 15:31, 17 December 2005 (UTC)
+
+
+
+
+: Where to find Einstein's Paper of 1918? Preferably in german language? And, where to find any document concerning Langevins presentation? [[User:ErNa|ErNa]] 19:11, 12 November 2005 (UTC)
+
+:: I don't know where Langevins's paper can be found; but Einstein's 1918 paper I have (in German), in PDF for who wants it. [[User:Harald88|Harald88]] 01:20, 13 November 2005 (UTC)
+
+::: ErNa received it from me, but I guess that he could not follow Einstein's arguments. In any case, the paragraph starting with &quot;It is sometimes claimed that the twin paradox cannot be resolved without the use of [[general relativity]] [...] This is false&quot; obviously needs to be corrected, as it's POV based on a particular interpretation of what the paradox is about, contrary to what Einstein and many others mean with it. I didn't correct that yet, for it requires quite some work. [[User:Harald88|Harald88]] 23:03, 23 November 2005 (UTC)
+
+::::I hope I could follow;-). But I still try to understand, why so many people misunderstand RT (and why I didn't care for it for so many years). A key point seems to be: LT doesn't say anything about the the appearance of anything in the fixed frame. A fixed observer doesn't see anything changed, except: timescale in/of the moving object is slowed down -&gt; spectra are shifted (doppler-compensated!) and live-time is expanded. But dimensions are not changed. And: it becomes more and more difficult to increase speed of such an object. In terms of mass it means: mass is increased. But today, people obviously switch to relativistic momentum. OK, we will see![[User:ErNa|ErNa]] 06:42, 24 November 2005 (UTC)
+
+:::: Why so many people misunderstand SRT, usually has to do with either the counterintuitive reciprocity (paradoxical for those who don't understand how the LT work, and often confused with the twin paradox), or with the apparent conflict between claims that &quot;only relative motion matters&quot; and the fact that the theory predicts absolute effects which intuitively should result from an absolute cause -- the Twin Paradox. Thus, when such clarifications are included in this article, it would certainly contribute to understanding of SRT. In contrast, at the moment this article likely just helps to '''increase''' the confusion. BTW, a &quot;fixed observer&quot; determines that also the length dimension of moving objects is changed. [[User:Harald88|Harald88]] 07:49, 24 November 2005 (UTC)
+
+:::::A very simple question: A &quot;fixed observer&quot;, that is, a man, drifting in space, no gravitational field or force, fires an object. The only fact, he can observe, which is non-newtonian is: the energy to accelerate the object to a speed of v is not 1/2 mv², but higher. Where from can we have an information about the variation of distances? I do not no about LT, I do not use a different inertial frame. If I want, -there is no must- i can acquire some information about &quot;timespeed&quot; of the moving object by measuring some characteristic spectral lines. The observes redshift is not explained by the doppler effect, but a combination of dopplershift and dilated time in the moving object. Now, if I suppose, that time is dilated for the moving object and -that is an postulat of RT, all systems measure same speed of light, than the moving object that measures the same speed of movement, as the fixes observer does, must measure distances shorter. But measure means: compare the distance do a meter, he carrys with himself. Therefore: the fixed object sees himself and the moving object without deformation. the moving object sees itself without distortion, but the fixes observer is distored.[[User:ErNa|ErNa]] 20:54, 25 November 2005 (UTC)
+
+Your story became incomplete and possibly already with implied error at the point &quot;if I suppose, that time is dilated for the moving object&quot; - one has to add: &quot;according to measurements using the observer's coordinate system&quot; (for example with two calibrated fixed clocks, or by laser bouncing, both with the conventional assumption that light speed is isotropically  c relative to the observer). Next, the last part is erroneous, as one cannot but measure/calculate the other (moving) object as contracted, thus '''with''' deformation. [[User:Harald88|Harald88]] 23:25, 28 November 2005 (UTC)
+
+:The whole thing becomes more complicated, if on adds! We have to remove. &quot;Time is dilated&quot; should be clear enough. Them You say &quot;calibrated fixed clocks&quot;, what is it? I say: &quot;Spectral lines of hydrogen atom&quot;. Were is the difference?
+
+
+===The Doppler shift calculation===
+Consider the hidden assumption in the elegant Doppler shift calculation of the age difference. We assume that the twin who turns around, immediately sees a Doppler shift in his image of the stay-at-home brother (and the rest of the universe). The stay-at-home twin has to wait quite some time before he sees the change in Doppler shift in the image of his brother. We then explain the asymmetry by saying the travelling-brother is accelerating; that it is not the rest of the Universe and all the radiation in it that is accelerating. The paradox for SR is that we invoke accleration but say the time difference is not a function of the acceleration; and we do not say how we know the rest of the Universe is not accelerating, except to say that it doesn't feel the inertial force the travelling twin feels (''i.e'' we '''say''' that the Universe isn't accelerating but do not, in SR, take the next step and try to explain this.) [[User:E4mmacro|E4mmacro]] 04:22, 17 December 2005 (UTC)
+
+== An Animals Farm ==
+All animals are created equal, but some are more equal. ;-&gt; All electrons are created equal, but, are some created more equal? I create an electron-positron pair during a collider experiment. These electrons are born in an very relativistic atmosphere! But, if I catch them, slow them down, there will never be a difference to those electron, that existed since ever and a day. Did Einstein ever say: a inertial frame at absolute rest doesn't exist or did he say: the physical laws are the same, whenever coordinates of space and time form an inertial system? More relative then &quot;there is no absolute frame&quot; is: &quot;it doesn't matter&quot;. René Descartes invented &quot;good faith&quot;: god created mankind with the ability to understand the world. [[User:ErNa|ErNa]] 20:31, 12 November 2005 (UTC)
+
+== The article is basically fine ==
+
+This article is basically fine. It has the correct explanation in it. The only thing wrog with it is the pseudo-mysterious setting up of it.
+
+I removed the german bit and the trans. All that does is confuse (because it appears to be asserting that something mysterious is going on): it has nothing to do with the paradox or its resolution.
+
+[[User:William M. Connolley|William M. Connolley]] 10:23, 24 November 2005 (UTC)
+
+: Actually, the article is lousy, see above; moreover, the part you deleted was badly formulated, but with your actions the text lost its meaning and became illogical, even loosing mention of the orginal paradox that Einstein commented on and which will be included. -&gt; I now correct it, but I agree that there is no need for the translation so I leave it out. [[User:Harald88|Harald88]] 18:49, 24 November 2005 (UTC)
+
+BTW, I now notice that in fact it's you who noticed one year ago that the GRT paradox was lacking -- which happens to be the original twin paradox, the one that Einstein tried to solve... and which therefore must be included. The mentioned &quot;solution&quot; addresses in fact a strawman paradox. [[User:Harald88|Harald88]] 21:48, 24 November 2005 (UTC)
+
+: By twin paradox, everyone means SRT twin paradox. Thats what the article addresses, and solves. It needs some re-writing, but the science is fine. Quite why you dislike it I don't know. [[User:William M. Connolley|William M. Connolley]] 23:19, 24 November 2005 (UTC).
+
+:: I don't like that what basically is a fraud (a strawman that replaced its original meaning), is portrayed as the only truth. If that's not bias, then I don't know what bias is! The twin paraodox never was really paradoxical in SRT, as Einstein also emphasized. It was a paradox of Einstein's relativity concept that led to GRT, and it resulted in a rejection and cover-up of the original intention and interpretation of GRT. That's the cause of the endless discussions and debates that emerged related to it. Just think about it, why would it have led to so much debate in scientific journals (and which I have read, have you?) if it was just another SRT paradox like for example the ladder paradox? The answer: because it wasn't. Again: &quot;SRT twin paradox&quot; is a strawman. [[User:Harald88|Harald88]] 07:40, 25 November 2005 (UTC)
+
+:: Now you've lost me.  &quot;Twin Paradox&quot; is just a famous term used to describe a particular physical property.  The property surprises a lot of people and generates interest.  Strawmen and frauds don't have much to do with it.[[User:Jok2000|Jok2000]] 12:37, 25 November 2005 (UTC)
+
+::: You likely claim that because, as most editors here, you don't really know the history of the Twin paradox debates, and perhaps you even only know what some physics books claim. I don't accuse any writer of deliberate fraud, but in case you didn't already know it: most physics text books don't care much about telling the &quot;whole truth&quot;, and many even simply copy historical information from other books without verifying. For unbiased information that is not kooked up or messed up, consult the original papers or at least a good encyclopedia. Now, let's make Wikipedia such a reference work! [[User:Harald88|Harald88]] 13:10, 25 November 2005 (UTC)
+
+You're quite right. I don't know the history. But the article should be written to describe and explain the simplest case first. Then after that we can have a section on the history of the paradox, if desired. But it will be hopelessly confusing to have the two sections merged into one. [[User:William M. Connolley|William M. Connolley]] 21:22, 25 November 2005 (UTC).
+
+: I agree, and it's not necessary to describe it as history. It's good to first fully explain how the 1905 solution is hardly a paradox for SRT (the &quot;soft&quot; version of the twin paradox), before moving on to the trickier subject of Einstein's relativity concept and the related paradox. Also in my case: only after fully understanding how the Lorentz transformations work with &quot;frame jumping&quot;, was I able to understand the more difficult, remaining issue. 
+:It may be sufficient to add it as a last section below the other solutions, referring back to the introduction that still one issue remained untackled sofar. 
+: I'm willing to work on that. But patience please, I must consider how to summarise the issue and the outcome in a concise manner. Over the last few years I noticed the suggestive introduction of the 1905 SRT paper by Einstein and read the common understanding of that, dug up 1916 comments by Einstein on the meaning of GRT, the Twin paradox according to Einstein in 1918, the debates between McCrea, Dingle and others in Nature, and read the criticisms of Builder and others. I'll likely leave out most and add parts in bits and pieces, starting with a referral to the Twin paradox according to Einstein in 1918 and his proposed GRT solution; next a summary of some criticisms and concluding opinions, with referal to the modern reinterpretation of GRT. At least ErNa now also has Einstein's paper. [[User:Harald88|Harald88]] 22:40, 25 November 2005 (UTC)
+
+My point of view: In his 1905 paper Einstein showed, that the application of Lorentz tranformation solves a problem with electromagnetic fields: an electric charge can be at rest for one observer, moving with this charge and moved for another one. So the will &quot;see&quot; a magnetic field, the first one not. Under Lorentz transformation, this problem no longer exists. But, as a consequence, now time and space are no longer absolut. This fact is still very confusing, as we can see. The so called &quot;twins paradox&quot; arises from the fact: if one of two twins is accelerated, takes a trip and comes back, his time is dilated, so he passes less time. This is in accordance with the RT. This is a consequence of RT. People, who fighted against the RT, argued: if relativity is given, then the situation is symmetrical and time is dilated for both twins. This is obviously not true, therefore RT is false. But these people misinterpret RT. In reality, the situation is not symmetrical and with help of very simple experiments, the twins can decide, which one was accelerated and which one not. This should be stated in the article. So we can write as much as we like about the misunderstanding. But not about an non existing physical paradox.[[User:ErNa|ErNa]] 18:31, 26 November 2005 (UTC)
+
+: ErNa, we seem to all agree that the symmetry of the LT (SRT) is hardly paradoxical, and that in the article the paradox from Einstein's (GRT) claim that all reference frames are equivalent has not been yet discussed despite his paper about that paradox and the following criticisms on his paper as well as the consequences for GRT (all published in reputed journals). Apart of that, was the distinction between &quot;physical&quot; and other kind of paradox your contribution? If so, it is based on which publication? I ask this because I never read such a distinction before in literature, and in the article on physical paradoxes it's called a physical paradox. I wonder if it's not unnecessarily complicating matters to even mention that expression. [[User:Harald88|Harald88]] 03:43, 27 November 2005 (UTC)
+
+:: In [[paradox]] we can read: '''Twin paradox: When the travelling twin returns, he is younger and older than his brother who stayed put. ''' An experiment with this outcome is really a paradox. But it is not a physical paradox. For such an experiment will never show this result. Worst case would be: until they meet again, they can't decide, which one will be younger, who was the traveling one. But: in reality, this question is never unanswered: a) they can carry an accelerometer with them. b) they communicate by sending a spectral line and compare the received to the sended wavelength. Other experiments are possible. To me the &quot;twin paradox&quot; is: how can, obviously intelligent people refuse to accept, that such experiments exist. [[User:ErNa|ErNa]] 12:37, 27 November 2005 (UTC)
+
+::: I like to have an answer on my question about &quot;physical paradox&quot;, as I think that it's better to remove that label, and we must assume that it's against NOR policy if no article is given by any editor here as reference. Apart of that, the phrase in [[paradox]] is not the twin paradox but confuses it in an erroneous way with the LT's paradoxical mutual time dilation and should therefore be corrected -- thanks for pointing that out! (Will you take care of that?) And your last interpretation of the twin paradox I've never seen before, to the POV of which article does it correspond? 
+::: Note: I referred to the [[physical paradox]] article. [[User:Harald88|Harald88]] 13:10, 27 November 2005 (UTC)
+
+In my opinion, it makes sense, first to write clearly, in correct language, what twin paradox is. First: before RT, it was accepted, that time is absolut and &quot;flows&quot; constantly. Twins of different age (more or less, a few hours) could not be imagined. It would be a paradox, to have twins of different age. After RT it became clear: time is no longer an absolute frame, but the flow of time is a function of ? what? The question 'what is time' is not answered, so what is 'flow of time'? For this discussion, it may be sufficient to say: time is, what a watch shows, or, more precise: time is, what separates different states of a system. To measure time can be defined as: count the number of state changes of a normalised system, lets say: count the number of periods of light, emitted by a certain atom and collected in a resonator. Now, let the twins be two systems of this kind and their age is the number of ticks of this counter. As long as they are close together at rest, the counters will show the same value. But this value will differ, if one of the two is accelerated. This is a physical fact, it seems to be (or is, as You like it) a paradox, as long as we dont know about SRT. After accepting SRT, it is no longer a paradox, may be, it's still confusing. SRT and reality coincide, as far as we know. Now, some people say: two systems moving relative one to another can not decide, which one was accelerated. Therefore, they both can say, in accordance with SRT, &quot;I am at rest, the other is moving&quot;. Therefore, when they meet, they are both older and younger. This is obviously not a paradox, but just nonsense. &quot;truth&quot; or, lets say &quot;reality&quot; can differ from what I state. The question is: is it possible to make an experiment during the flight, that allows me to predetermine, who will be older, even if I dont have an accelerometer? If &quot;No&quot;, I have to wait until the meeting to know, who moved. If &quot;Yes&quot;, I make this experiment and I know, who will be older. So, I can not see any paradox at all. I only see a &quot;meta&quot;-paradox: How can there be a struggle over more than a century about this very simple question? [[User:ErNa|ErNa]] 14:40, 27 November 2005 (UTC)
+
+: Indeed, we agree about that nonsense. Now, a &quot;correct&quot; presentation in Wikipedia is done by citing or paraphrasing the main opinions as expressed in high quality articles. It's not done as if Wikipedia is a discussion group to present editor opinions. Apart of that, you didn't answer my question about &quot;physical paradox&quot;... I now also added it to the Talk page of that article. And already above I assured you that that meta-paradox about what looks like just a simple question will be automatically answered when the article finally also handles the twin paradox according to Einstein and others -- which isn't simple at all! OK let's not waste more time and space here, instead let's refer to papers only, and deal with it in the article space. [[User:Harald88|Harald88]] 15:37, 27 November 2005 (UTC)
+
+OK, we agree. The question is: how to get the nonsense out of Wikipedia. Even in german language, it is very difficult for me, to write a sentence, that can not be misunderstood. Now, please look to [[time dilation]]. There you can find: '' For example, if the moving clock has a speed of 86.6% of the speed of light, then it will be found to have only 1 second of elapsed proper time for every 2 seconds of coordinate time for the stationary clock that it passes. '''
+This effect is symmetrical: In a temporal coordinate system synchronized with the &quot;moving&quot; clock, it is the &quot;stationary&quot; clock that is running slow.''' (A misunderstanding of this symmetry leads to the so-called twin paradox.)''
+
+Again: the same nonsense. And a very complicated argumentation, how to solve this! And, take a look to http://de.wikipedia.org/wiki/Zeitdilatation ! [[User:ErNa|ErNa]] 17:11, 27 November 2005 (UTC)
+
+: Hmm... if the last remark on the German Talk page is of you, yes you're right. And indeed that above phrase is junk, but maybe it can be repaired with minor changes, and you can just do it (boldly, as Wikipedia advises); what do you think of (this was a quick fix, so sorry in case it's still flawed):  
+: '' For example, if the moving clock has a speed of 86.6% of the speed of light, then it will be found to have only 1 second of elapsed time for every 2 seconds of coordinate time on the stationary clocks that it passes. This effect is symmetrical: In a coordinate system synchronized with the &quot;moving&quot; clock, it is the &quot;stationary&quot; clocks that seem to be running slow. (A misunderstanding about the validity of this symmetry leads to the so-called twin paradox.)'' [[User:Harald88|Harald88]] 20:07, 27 November 2005 (UTC)
+
+Ok, I forgot. ErNa is an appreviation of R.Nase. Look for the history of http://de.wikipedia.org/wiki/Zeitdilatation. My last edit, which was a bit sarcastic, was just reverted by another physicist. This is the reason, why I first try to make clear, that the twin paradox only exists for those people, for which &quot;relativity&quot; is the holy gral. They insist in &quot;symmetry&quot; and this group excluded me from editing of certain articles in the field of RT.[[User:ErNa|ErNa]] 20:24, 27 November 2005 (UTC)
+
+:ErNa, I already had the feeling that it's not just a matter of language. Your remark that &quot;Wird aber nun eine Uhr beschleunigt, so verlangsamt sich für sie der Zeitablauf&quot; was erroneous, if I understand it well: it sounds as if you think that for all observers the &quot;moving&quot; clock ticks slower than a &quot;resting&quot; clock. I fhtat were so, all observers would be able to determine &quot;the absolute frame&quot; (because acceleration plays no role except as means to change speed)... If you don't understand the LT, obviously you won't understand the Twin calculations either. [[User:Harald88|Harald88]] 20:33, 27 November 2005 (UTC)
+::What I wanted to express: every observer, at rest with a clock, see this clock running slower, if this clock is moving. Acceleration is the change of speed in relation to time. A clock that was at rest and is moving later, must have been accelerated. But, to compute the actual value of the time dilation, not the acceleration, but the integral of acceleration over time, that is speed difference (=speed, when expressed relative to the body seen at rest) is decisive. Therefore: we have to differenciate accelaration from decelaration.[[User:ErNa|ErNa]] 07:03, 28 November 2005 (UTC)
+
+: ErNa, I now understand why you had problems with other SRT articles: Your above claims are simply not conform SRT. Although this kind of discussions doesn't really belong here, I'll do a short attempt anyway: 
+:1. Compared to what, do you think, does one see that clock running slower? 
+:2. What do you think, is the difference in clock rate between a clock that has accelerated to +10m/s^2, and one that has first moved with forementioned clock, and then decelerated to -10 m/s^2? [[User:Harald88|Harald88]] 13:16, 28 November 2005 (UTC)
+
+We have to discuss and formulate very carefully. This is not easy. Twin paradox uses macroscopic things to illustrate general physical laws. We should start from a very elementary level. As I already mentioned: all electrons and all protons are indistinguishable when fixed in one place. If we combine a proton and an electron to form a hydrogen atom, we have a small, very simple clock, the ticks of this clock can be used to synchronise an oszillator, which's periods can be counted. For certain technological and physical reasons, we dont use the simple hydrogen atom, but a special spectral line of Caesium. But that doesn't change the principle: the relation of charge and mass of protons and electrons determine the time scale. For our purpose, hydrogen should be the optimal representation of a twin. Do we agree so far? [[User:ErNa|ErNa]] 06:52, 28 November 2005 (UTC)
+
+: Not really: this has nothing to do with any representation of the Twin paradox, nor with a summary of any reputable source on that subject. [[User:Harald88|Harald88]] 13:16, 28 November 2005 (UTC)
+
+What is a twin? Muscles and blood and skin and bones? A twin is something made from molecules and atoms and elementary particles and if one twin ages less than the other one, than not for he is frozen in the space, but because time is dilated and this is true for all the building blocks he is made of and therefor, light, emitted from a fast moving atom is of lower frequency and myons can survive the flight to earth. So, what are twins, if not Hydrogen atoms?[[User:ErNa|ErNa]] 17:20, 28 November 2005 (UTC)
+
+: That's not what I meant. For the Twin paradox it doesn't matter what kind of clock is used, that's not the point and on top of that, I never saw it discussed with hydrogen atoms while Wikipedia is supposed to render what has been published. [[User:Harald88|Harald88]] 22:00, 28 November 2005 (UTC)
+
+The whole discussion only could take place, because nobody tells, what he exactly means and understands. So, I think, it doesn't change anything, when we introduce as a clock a atomic clock. Einstein talks of identical clocks. And we have to know: clock can't be said to be identical, if they never were placed side by side and compared part for part. It is a very complicated checklist. Much easier, to say: we take an electron, a proton, and the excitation frequencies determine time, and time together with speed of light determine distance. This is a solid basis to discuss. Otherwise, we will never find an end and I think, that Wikipedia is NOT a medium, that collects all Papers on twin paradox, wether they are correct or not. Just: fix an environment to talk about.[[User:ErNa|ErNa]] 22:53, 28 November 2005 (UTC)
+
+: Of course the relevant sources that we're '''supposed''' to summarise here -- among them for sure the 1918 one of Einstein 1918 -- '''do''' tell what the authors understand with it. I haven't see you input a reference to any. Different from what you seem to think, Wikipedia is not a discussion group nor a place to write your own original articles. As I have nothing else to say about it (except in the article space), I'll not continue this discussion that doesn't belong here anyway. See you later with useful editing. [[User:Harald88|Harald88]] 23:25, 28 November 2005 (UTC)
+
+I do not wish to introduce more sources, but I try to read the sources very carefully. [[User:ErNa|ErNa]] 08:13, 29 November 2005 (UTC)
+
+: Which ones? Currently I only have one by Einstein (1918) and one by Builder (1957). 
+[[User:Harald88|Harald88]] 22:17, 30 November 2005 (UTC)
+
+::In his famous 1905 paper : A. Einstein, Zur Elektrodynamik bewegter Körper (Annalen der Physik und Chemie, Jg. 17, 1905, S. 891–921) [[Wikibooks1|A. Einstein, Zur Elektrodynamik bewegter Körper. Kommentiert und erläutert.]][[http://de.wikibooks.org/wiki/A._Einstein%2C_Zur_Elektrodynamik_bewegter_K%C3%B6rper._Kommentiert_und_erl%C3%A4utert.]] You can read:
+(Page 904, paragraph 3) '''Hieraus ergibt sich folgende eigentümliche Konsequenz ... die von A nach B bewegte Uhr .. geht nach.''' This &quot;eigentümliche Konsequenz&quot; is what is now called &quot;a paradox&quot;. This is called -in german article on PARADOX- a physical paradox. To me the real paradox is, that well educated people go into deep discussion without carefully fixing the basis. 
+
+:::Erna(?), &quot;eigentümliche&quot; does not mean &quot;paradoxical&quot;, it's much softer, more like &quot;interesting&quot; or, as officially translated, &quot;peculiar&quot;. No twin or clock paradox existed at that time, it came up years later and it seems that the only paper that you now have about it is the one I sent you, in which Einstein also emphasizes that for him no twin paradox exists in SRT. [[User:Harald88|Harald88]] 19:07, 2 December 2005 (UTC)
+
+
+== Physical vs. Logical paradox? ==
+What about &quot;physical&quot; vs Logical paradox? I have never seen such an issue, except suggested in the Wikipedia &quot;physical paradox&quot; article, so that I hereby challenge that concept for this Wikipedia article. Does anyone have a good source to show and argue that it that distinction is in this context existing, useful and relevant? [[User:Harald88|Harald88]] 23:23, 1 December 2005 (UTC)
+
+:A logical paradox: a man, traveling to the past and killing his father. This paradox can not happen for a simple reason: time travels are not possible. So, physical paradoxes do not exist. Logical paradoxes exist and follow from insufficient definition of the scope.
+
+:: Who wrote that? And I saw no source mentioned, Anyway I also only know logical paradoxes. If within a few days nobody comes with valid support for &quot;physical paradox&quot;, I'll edit that whole part out. [[User:Harald88|Harald88]] 19:07, 2 December 2005 (UTC)
+
+::: I now see that it was ScienceApologist who changed paradox to physical paradox, but now it stands as logical paradox; I think it's both. Therefore I will clean it up and remove this distracting issue all-together. [[User:Harald88|Harald88]] 17:04, 4 December 2005 (UTC)
+
+== Real symmetry ==
+I wonder, if anyone ever set up a real symmetric sitution: Two individuals are separated by a very big distance, lets say: 1 LJ. They like to know, if they are twins. So they exchange information with the help of coded light signals. This information is the sequence of the acids in their DNA. It takes one year to send the code. After they completed the broadcasting, they compare the now incoming signal to the local information and after one year they now: I am his twin. Again they send an acknowledge and after a second year they both know, that both know: we are twins. This is symmetry. And now we can modify the experiment: After starting to send the code, both immediately accelerate to speed c/2 towards the other. What happens if no time dilation takes place (non constant speed of  light?): after one year they meet in the middle. And just completed transmission of the information. So the shake hands and know, they are twins. Now we can make a similar experiment with c= const. And other similar experiment with unsymmetrical situations: One accelerated, the other not. And this will show to us, that it is not possible to change ones point of view as one likes it without consequences. We talk about physical experiment, not about womd. [[User:ErNa|ErNa]] 08:23, 2 December 2005 (UTC)
+
+: Post it in sci.physics.relativity (Google groups) complete with your calculation, and I (or someone else) will show you there what calculation error you made. This is not the place for it. [[User:Harald88|Harald88]] 19:12, 2 December 2005 (UTC)
+
+::No, I didn't make an error, I just said, wether or not RT is right, there has to be a symmetric experiment and after discussing (that is, understanding) it, we introduce a slight asymmetrie and will see, what happens. I just wanted to show, that we should not start from an asymmetric situation and prove, that she is symmetric, but go the different way. ok, ok, [[User:ErNa|ErNa]] 20:54, 2 December 2005 (UTC)
+
+OK. Yes symmetric thought experiments are also elaborated in literature, for exactly that purpose. The Twin paradox is about asymmetry. [[User:Harald88|Harald88]] 22:08, 2 December 2005 (UTC)
+
+:No, the twin paradox is not about asymmetry. It is about misinterpretation of SRT. This has to become clear in the article. [[User:ErNa|ErNa]] 12:51, 3 December 2005 (UTC)
+
+:: That's mistaken according to Einstein; and this article is both terribly incomplete as well as biased as long as his POV as the reactions on that are not included, as explained above. I'll now economise my time for such editing work, instead of trying to explain either SRT or the Twin paradox to you on this Talk page. By for now [[User:Harald88|Harald88]] 14:48, 3 December 2005 (UTC)
+
+== According to the French Wikipedia, GRT solved the paradox ==
+See http://fr.wikipedia.org/wiki/Paradoxe_des_jumeaux, under Le choix du repère inertiel.
+On that point the French page is more advanced than the English version, but they still omitted the objections against the GRT solution.  [[User:Harald88|Harald88]] 18:46, 3 December 2005 (UTC)
+
+For those who don't understand French, here is a partial BabelFish translation of the French Wikipedia article:
+
+[...] 
+(I removed it, it's still in the page history)
+
+There was also a summary, also Bablefish translated:
+
+&quot;A paradox of the twins subjected by the physicist Paul Langevin existed of 1911 to 1915, date where the publication of general relativity made disappear what seemed a logical contradiction [..]&quot;
+
+[[User:Harald88|Harald88]] 21:17, 6 December 2005 (UTC)
+
+== &quot;This can actually be accomplished through the use of the Frenet-Serret formulas.&quot; ==
+
+The above peculiar phrase can be found in the article. It doesn't seem to be really fitting and I see no good reason to have that phrase. Anyone who can motivate what that phrase is doing there and how it is helpful? It's not in the remarks of the editions. [[User:Harald88|Harald88]] 16:49, 4 December 2005 (UTC)
+
+== The paper by Langevin ==
+
+I finally obtained the paper by Langevin; it's in several important details significantly different from what some writers claim about it - apparently Langevin didn't consider it of paradoxical nature, and later authors so much disliked his argumentation that they misrepresented it! Happily, this does not affect the introduction as it stands now. If someone wants a copy (PDF, 2.4 Mb, French), just ask and I will send it. [[User:Harald88|Harald88]] 21:02, 6 December 2005 (UTC)
+
+BTW, apparently Langevin had not heard of Einstein's clock example as being considered paradoxical. Until now, the oldest record we have here of the problem being called a paradox is Einstein, 1918. Does anyone else know of an older mention of &quot;twin paradox&quot;? [[User:Harald88|Harald88]] 22:16, 7 December 2005 (UTC)
+
+== Brans and Stewart ==
+
+This page included:
+
+: ''&lt;b&gt;Note: it is wrong to think twin paradoxes are simply due to acceleration effects.&lt;/b&gt; One needs no acceleration to achieve a very similar effect to the twin paradox in flat spacetime (cf. Brans and Stewart). Thus, a twin paradox-type situation does not always imply acceleration, but it does always involve at least three inertial reference frames.''
+
+and in the references section
+
+:* ''* C. B. Brans and D. R. Stewart, Unaccelerated-Returning-Twin Paradox in Flat Space-Time, Phys. Rev. D 8, 1662-1666 (1973).''
+
+Someone is going to have to explain what this stuff is about.  As-is, it is causing confusion, and I am sure that it does not belong in the position of prominance that it has. --[[User:ems57fcva|EMS]] | [[User_talk:ems57fcva|Talk]] 05:21, 15 December 2005 (UTC)
+
+: It is useful to explain that Time dilation is not a function of acceleration, and thus it's not a direct effect of acceleration. Tests of slowdown of radioactive processes confirmed that only the speed matters, and no measurable effect from acceleration could be found. ; and that Acceleration is simply the necessary means to bring the two clocks back together. [[User:Harald88|Harald88]] 19:35, 15 December 2005 (UTC)
+
+:: One way of showing that time dilation is not a function of acceleration is to compare the following two scenarios: (1) the traveller travels with one turnaround. (2) the traveller does not travel as far away but with lots of turnarounds. Thus it is possible to accumulate a lot more acceleration. Since time dilation is not a function of acceleration accumulating more acceleration should make no difference.
+
+:: It is often suggested that it is during the turnaround of the traveller that the physics of time dilation takes place. I support the view that the buildup of a difference in lapse of proper time is distributed over the entire journey of the twins scenario. --[[User:Cleon_Teunissen|Cleon Teunissen]] | [[User talk:Cleon_Teunissen|Talk]] 20:07, 15 December 2005 (UTC)
+
+::: It was never seriously proposed (except based on misinterpretation of explanations) for it contradicts the theory. One only needs to compare a long trajectory with a short one. [[User:Harald88|Harald88]] 12:09, 17 December 2005 (UTC)
+----
+
+I just looked this article up.  From the abstract:
+
+:''The twin paradox in a flat space-time which is spatially closed on itself is considered. In such a universe, twin B can move with constant velocity away from twin A and yet return younger than A.''
+
+This is a well-known model, but has the interesting attribute of a preferred frame of reference.  If it must be talked about, it should be in a seperate article, and that article '''must''' discuss in detail the model universe being used!  This article should then reference the other article under &quot;See Also&quot;, and be done with it.  This article '''must''' be about the [[special relativity]] situation only, and not this [[general relativity]] related exercise. --[[User:ems57fcva|EMS]] | [[User_talk:ems57fcva|Talk]] 05:35, 15 December 2005 (UTC)
+
+: EMS, apparently you missed out on the ongoing information that is here on the Talk page but not yet on in the article and from which follows that the Twin paradox is in reality related to 1918 GRT and not to SRT. However, I share your opinion that that example isn't very helpful for the Twin paradox which supposedly happens in a classical universe. [[User:Harald88|Harald88]] 05:15, 17 December 2005 (UTC)
+
+
+
+== additional paragraphs to fill the information hole ==
+
+After 10 days silence on the above topics related to how &quot;twin paradox&quot; originated as well as silence to the same question on sci.physics.research, I think that we may, at least for the time being, work with these papers as providing the origin of the Twin paradox. This could run the risk of being criticized of &quot;original research&quot;, if presented as Wikipedia conclusion and loose from any peer reviewed article. 
+
+However, it can be presented as received factual information about the origin of the Twin/Clock paradox (BTW it may be useful to add the info that they are the same thing), and happily the corresponding logical conclusion turns out to be nothing new. Ives claimed in &quot;The aberration of Clocks and the Clock Paradox&quot; JOSA 27 p.305, 1937:
+
+&quot;The &quot;clock paradox&quot; is a consequence of a sweeping and unqualified application of the hypothesis that relative motion of matter is the only operative factor.&quot; 
+
+Thus I have in mind to write a paragraph titled &quot;The origin of the clock paradox&quot; starting with that remark, and adding the historical information that we have and which corraborates it.
+
+Next we should write a paragraph that summarizes the differing opinions of scientists on this matter, exclusively based on cited reference of peer reviewed papers in high quality journals (there is plenty of that). 
+
+Note that I push strongly that we stick to what is availabe in literature, in order to avoid the mess of adding text that is just personal (and possibly confused) opinions of Wikipedia editors. [[User:Harald88|Harald88]] 15:32, 17 December 2005 (UTC)
+	</talkpage>
+</article>

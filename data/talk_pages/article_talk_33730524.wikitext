@@ -1,0 +1,25 @@
+<article id="33730524" title=User talk:68.194.250.110>
+	<talkpage id="33730524" title="User talk:68.194.250.110">
+
+== Welcome ==
+Hello, 68.194.250.110, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for [[Special:Contributions/68.194.250.110|your contributions]]. I hope you like the place and decide to stay. Unfortunately, one or more of your edits to the page [[:John Jay Scholar]] have not conformed to Wikipedia's '''[[WP:V|verifiability policy]]''', and may be removed if they have not yet been. Wikipedia articles should refer only to facts and interpretations that have been stated in print or on reputable websites or other forms of media. Always remember to provide a '''[[WP:RS|reliable source]]''' for quotations and for any material that is likely to be challenged, or it may be removed. Wikipedia also has a related policy against including [[WP:OR|original research]] in articles.  As well, all new [[WP:BLP|biographies of living people]] must contain at least one reliable source.
+
+If you are stuck and looking for help, please see the '''[[Wikipedia:Citing sources|guide for citing sources]]''' or come to the '''[[Wikipedia:New contributors' help page|new contributors' help page]]''', where experienced Wikipedians can answer any queries you have! Or, you can just type '''&lt;code&gt;{{tl|helpme}}&lt;/code&gt;''' on your user page, and someone will show up shortly to answer your questions. Here are a few other good links for newcomers:
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Wikipedia:How to edit a page|How to edit a page]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Tutorial|Tutorial]]
+* [[Wikipedia:How to write a great article|How to write a great article]]
+* [[Wikipedia:Manual of Style|Manual of Style]]
+
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you have any questions, check out [[Wikipedia:Where to ask a question]] or ask me on [[User talk:Hazmat2{{!}}my talk page]]. &lt;!-- Template:Welcomeunsourced --&gt; Again, welcome!&amp;nbsp; 
+&lt;span style=&quot;text-shadow:#808080 0.2em 0.2em 0.2em&quot; class=&quot;texhtml&quot;&gt;[[User:Hazmat2|The Haz]] &lt;sub&gt;[[User talk:Hazmat2|&lt;font color=&quot;black&quot;&gt;talk&lt;/font&gt;]]&lt;/sub&gt;&lt;/span&gt; 04:15, 13 November 2011 (UTC)
+
+== November 2011 ==
+[[Image:Information.svg|25px|alt=|link=]] Welcome to Wikipedia. Everyone is welcome to contribute to the encyclopedia, but when you add or change content, as you did to the article [[:John Jay Scholar]], please cite a [[Wikipedia:Identifying reliable sources|reliable source]] for your addition. This helps maintain our policy of [[Wikipedia:Verifiability|verifiability]]. See [[Wikipedia:Citing sources]] for how to cite sources, and the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. Thank you.&lt;!-- Template:uw-unsourced1 --&gt; &lt;span style=&quot;text-shadow:#808080 0.2em 0.2em 0.2em&quot; class=&quot;texhtml&quot;&gt;[[User:Hazmat2|The Haz]] &lt;sub&gt;[[User talk:Hazmat2|&lt;font color=&quot;black&quot;&gt;talk&lt;/font&gt;]]&lt;/sub&gt;&lt;/span&gt; 04:39, 13 November 2011 (UTC)
+:''If this is a [[closed proxy|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+
+[[Image:Ambox warning pn.svg|25px|alt=|link=]] Please do not add [[Wikipedia:Citing sources|unsourced]] content, as you did to [[:John Jay Scholar]]. This contravenes Wikipedia's policy on [[Wikipedia:Verifiability|verifiability]]. If you continue to do so, you may be [[Wikipedia:Blocking policy|blocked]] from editing Wikipedia. &lt;!-- Template:uw-unsourced3 --&gt; &lt;span style=&quot;text-shadow:#808080 0.2em 0.2em 0.2em&quot; class=&quot;texhtml&quot;&gt;[[User:Hazmat2|The Haz]] &lt;sub&gt;[[User talk:Hazmat2|&lt;font color=&quot;black&quot;&gt;talk&lt;/font&gt;]]&lt;/sub&gt;&lt;/span&gt; 04:51, 13 November 2011 (UTC)
+:''If this is a [[closed proxy|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

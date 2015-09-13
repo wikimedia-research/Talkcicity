@@ -1,0 +1,5 @@
+<article id="33673418" title=Talk:Szczecin Główny railway station>
+	<talkpage id="33673418" title="Talk:Szczecin Główny railway station">
+{{WikiProject Poland|class=start|importance=low}}
+	</talkpage>
+</article>

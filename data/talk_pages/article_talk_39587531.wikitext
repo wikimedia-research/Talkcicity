@@ -1,0 +1,5 @@
+<article id="39587531" title=Talk:Texas in July (album)>
+	<talkpage id="39587531" title="Talk:Texas in July (album)">
+{{album|class=stub|importance=low}}
+	</talkpage>
+</article>

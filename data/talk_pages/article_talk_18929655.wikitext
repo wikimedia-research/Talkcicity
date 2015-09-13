@@ -1,0 +1,5 @@
+<article id="18929655" title=Talk:Baqqal>
+	<talkpage id="18929655" title="Talk:Baqqal">
+{{WikiProject Azerbaijan|class=stub|importance=low}}
+	</talkpage>
+</article>

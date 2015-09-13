@@ -1,0 +1,6 @@
+<article id="34510769" title=Talk:Brigade 93>
+	<talkpage id="34510769" title="Talk:Brigade 93">
+{{WikiProject Africa|class=stub|importance=low|Libya-importance=low|Libya=yes}}
+{{WPMILHIST|class=stub|African=yes}}
+	</talkpage>
+</article>

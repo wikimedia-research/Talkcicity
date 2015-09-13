@@ -1,0 +1,14 @@
+<article id="6286909" title=Talk:Aharon Dolgopolsky>
+	<talkpage id="6286909" title="Talk:Aharon Dolgopolsky">
+{{WikiProject Biography
+|living=no
+|class=Stub
+|s&amp;a-work-group=yes &lt;!-- Science and Academia --&gt;
+|needs-photo=yes
+|needs-infobox=yes
+|listas=Dolgopolsky, Aharon
+}}
+{{WikiProject Israel|class=start|importance=low}}
+{{Image requested|scientists and academics|people of Israel|date=December 2011}}
+	</talkpage>
+</article>

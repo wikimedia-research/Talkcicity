@@ -1,0 +1,24 @@
+<article id="595369" title=Talk:Phanes (mythology)>
+	<talkpage id="595369" title="Talk:Phanes (mythology)">
+{{WikiProjectBannerShell|1=
+{{WikiProject Greece|class=Stub|importance=Low}}
+{{WikiProject Classical Greece and Rome|class=Stub|importance=Low}}
+{{WikiProject Mythology|class=Stub|importance=Low}}
+}}
+
+==Comments==
+Is that really Roman [[Mithras]], &quot;the Bull-Slayer&quot; (2nd cty BC -- 5th cty AD), or rather Persian [[Mithra]] of the [[Zoroastrian]] (before Christ)?&lt;br&gt;[[User:Jorge Stolfi|Jorge Stolfi]] 04:02, 14 Apr 2004 (UTC)
+
+* Regarding your question on whether Phanes is linked with the Persian Mi'''t'''ras or the Roman Mi'''th'''ras the current scholarly opinion seems to be that mi'''t'''ras wasn't the basis for Mithras, although given the Roman tactic of [[Syncretism]] it's possibly that they borrowed elements of him for their miThras - the Roman version is the one that makes him linked with the 'world egg', and certainly the persian version isn't linked with the sun (because of the Persian [[Ahura Mazda]]).   Mithras is depicted emergng from the 'world' egg on the University of Newcastle website: [http://museums.ncl.ac.uk/archive/mithras/frames.htm found here]
+
+This stub is self-contradictory (How can Night (Nyx) be older than Phanes if Phanes is first born?) and does not correspond at all to the account given in the Orphic poems (see Guthrie's Orpheus and Greek Religion chapter iV). It should be completely rewritten using reliable sources. [[User:Eluard|Eluard]] ([[User talk:Eluard|talk]]) 05:05, 9 January 2011 (UTC)
+
+==Placement of this article==
+I see no discussion of the *direct* reference to &quot;Greek mythology&quot;, although this is rather questionable. Phanes is no mythological figure. I would suggest to first link to Orpheus, 2. to Neoplatonism (important) and only in 3d place to mythology, or leave that out altogether. Obviously the lemma has to be expanded also.
+[[User:Bibh wkp|Bibh wkp]] 20:37, 16 October 2006 (UTC)
+
+== Sources missing ==
+
+This article has no sources at all. [[User:ICE77|ICE77]] ([[User talk:ICE77|talk]]) 19:51, 24 April 2011 (UTC)
+	</talkpage>
+</article>

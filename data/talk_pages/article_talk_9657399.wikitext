@@ -1,0 +1,7 @@
+<article id="9657399" title=Talk:SIMULIA>
+	<talkpage id="9657399" title="Talk:SIMULIA">
+{{WikiProject Business &amp; Economics|class=start|importance=low}}
+== Naming Cleanup ==
+Time to clean up this page some. Propose changing the name to SIMULIA, and setting up redirects. Perhaps even an outright merge with the [[Abaqus]] page? I'm not sure the SIMULIA needs  page, being just a brand. Abaqus (the product) certainly does, however. - [[User:EndingPop|EndingPop]] ([[User talk:EndingPop|talk]]) 16:41, 18 June 2008 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,7 @@
+<article id="32295276" title=Talk:Taba Naba>
+	<talkpage id="32295276" title="Talk:Taba Naba">
+{{WikiProject Australia|class=start|importance=low|QLD=yes|QLD-importance=low}}
+
+This isn't very interesting.  Maybe we should get rid of it?  I don't know; what do you think?  --[[Special:Contributions/24.177.6.38|24.177.6.38]] ([[User talk:24.177.6.38|talk]]) 01:07, 30 June 2013 (UTC)
+	</talkpage>
+</article>

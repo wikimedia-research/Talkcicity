@@ -1,0 +1,9 @@
+<article id="42655231" title=Talk:Nicolai Johansen>
+	<talkpage id="42655231" title="Talk:Nicolai Johansen">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|class=stub|living=no|listas=Johansen, Nicolai |sports-work-group=yes|sports-priority=low}}
+{{WikiProject Football |class=Stub }}
+{{WikiProject Norway |class=stub }}
+}}
+	</talkpage>
+</article>

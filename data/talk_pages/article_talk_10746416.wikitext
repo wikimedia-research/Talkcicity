@@ -1,0 +1,11 @@
+<article id="10746416" title=Talk:Arthur Lange>
+	<talkpage id="10746416" title="Talk:Arthur Lange">
+{{WikiProject Biography
+|living=no
+|class=Stub
+
+|musician-work-group=yes
+|listas=Lange, Arthur
+}}
+	</talkpage>
+</article>

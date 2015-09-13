@@ -1,0 +1,348 @@
+<article id="7011110" title=Talk:Semi-arid climate>
+	<talkpage id="7011110" title="Talk:Semi-arid climate">
+{{meteorology|class=C|importance=Mid}}
+
+I have elected to identify Midland, USA as Midland, Texas because there are other significant communities named Midland in the United States. Midland, Michigan, which is about half the size of Midland, Texas, definitely does not have a steppe climate. --[[User:Pbrower2a|Pbrower2a]] ([[User talk:Pbrower2a|talk]]) 09:36, 21 November 2009 (UTC)
+
+== Evapotranspiration thresholds required for BSk ==
+
+[[Calgary]] and [[Edmonton]] receive relatively low precipitation, but the threshold alone does not result in a BSk classification. They are Koeppen Dfb- not enought [[Evapotranspiration]] for BSk. In their place, I've added [[Penticton]] so that Canada has a representative location for this classification. [[User:Koppenlady|Koppenlady]] ([[User talk:Koppenlady|talk]]) 20:07, 14 January 2010 (UTC)
+
+: Hey, Koppenlady. I've read this and am now curious. What exactly is the formula that determines whether a place is semi-arid or humid continental? How did you reach this conclusion? I only ask because this info should be included in the article itself.[[User:G. Capo|G. Capo]] ([[User talk:G. Capo|talk]]) 21:49, 15 January 2010 (UTC)
+
+Hi G. Capo. The simple version is [http://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification#GROUP_B:_Dry_.28arid_and_semiarid.29_climates here]. If It doesn't meet the criteria it is, obviously, something other than a B climate. Climate textbooks usually include much more elaborate information, but that is overkill for a WP article. Generally, there is no need to go through the calculations if you possess a detailed Koeppen map. Most of the stuff I've come across on WP is simplistic, but you can still see that Calgary and Edmonton are Dfb or Dfc [http://koeppen-geiger.vu-wien.ac.at/pics/kottek_et_al_2006.gif here], for example. [[User:Koppenlady|Koppenlady]] ([[User talk:Koppenlady|talk]]) 00:45, 16 January 2010 (UTC)
+
+: I just plugged in the numbers for both Calgary and Edmonton and you (and the map) are absolutely correct! They're both continental, even though the two cities receive under 500 mm of precip! I don't believe it's overkill for a WP article. If people have some skill in math, they can figure this out. I think we should at least add the formula and get rid of the current precip. thresholds in both the [[arid climate]] and [[semiarid climate]] pages so that there's no future debate on this issue. Thanks for your work! [[User:G. Capo|G. Capo]] ([[User talk:G. Capo|talk]]) 22:38, 16 January 2010 (UTC)
+
+==Determining between BSk or BSh==
+Can anyone tell me how to delineate between BSk and BSh? From what I've seen, it does not seem to be the same -3° C/0° C isotherm used to draw the border between humid continental and humid subtropical climates. [[User:1brettsnyder|1brettsnyder]] ([[User talk:1brettsnyder|talk]]) 15:32, 24 May 2010 (UTC)
+
+: It’s supposed to be 0° C (or at least relatively close to 0° C). However, when I attempted to take, for example, Zaragoza out of the BSk category, someone constantly kept putting it back into the cold climate category, even though Zaragoza clearly does not fit there. Even after I explained the reasoning behind the move, they kept putting it back in there. You have my support if you want to fix this. I’m only interested in getting this right [[User:G. Capo|G. Capo]] ([[User talk:G. Capo|talk]]) 21:30, 14 July 2010 (UTC)
+
+:: Alright thank you for clearing that up. I do want to fix this. I have taken Zaragoza from the list, and will place Tehran on the BSh list. I will also remove Tashkent, because its climate is not semi-arid, as well as Konya and Comodoro Rivadavia, as I can find no climate data on these cities' pages. [[User:1brettsnyder|1brettsnyder]] ([[User talk:1brettsnyder|talk]]) 00:31, 17 July 2010 (UTC)
+
+== Greek Cities ==
+
+Someone keeps on taking of Ellinikon,Athens from the BSh climates list.I have added the source of the Greek meteorological service which clearly states that Ellinikon in Athens has a BSh climate. This is the official response of the Greek authorities.I am adding Ellinikon back to the list..could you please make sure that this is not deleted again by someone who keeps on erasing it??  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Weatherextremes|Weatherextremes]] ([[User talk:Weatherextremes|talk]] • [[Special:Contributions/Weatherextremes|contribs]]) 21:54, 14 July 2010 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+: I’m glad you’re willing to discuss this. There are a number of issues with Ellinikon. First, this is a suburb of a city, not necessarily a city in itself. It’s a suburb of Athens. Just about all of the other examples listed under the Koppen climate classification pages list cities, not suburbs of cities. Second, this page is going by Koppen’s definition of a semi-arid climate, not the Greek government’s definition. There may be a difference between the two. Third, the Ellinikon page’s weather data currently does not have source, or a climate chart. Even if it was there, going by the numbers on the page, knowing that nearby Athens has wet winters and dry summers, Ellinikon straddles a zone between a [[Mediterranean climate]] and a semi-arid climate. It would be only 6 mm of precipitation short of the transition point. If this was a relatively rare type of climate (e.g. a [[tropical monsoon climate]]) a climate like Ellinikon would be on this list. However there are a number of cities that has a semi-arid climate.  I hope this is helpful [[User:G. Capo|G. Capo]] ([[User talk:G. Capo|talk]]) 17:33, 15 July 2010 (UTC)
+
+
+
+: In that case, neither am I willing to discuss anything. It's a suburb, not a city. The title in question is &quot;notable CITIES&quot;. If we listed all the small suburbs of the world that had different climates from their mother cities we'd have like 10,000 entries. Try finding a Greek CITY that has this climate and I'll call it a day. [[User:G. Capo|G. Capo]] ([[User talk:G. Capo|talk]]) 03:52, 16 July 2010 (UTC)
+
+Thessaloniki has a BSk for example and is Greece's second biggest. The southern Athens area has a semi-arid climate and this is NOTABLE on its own merit.It needs to go back in.Please do not erase it again  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Weatherextremes|Weatherextremes]] ([[User talk:Weatherextremes|talk]] • [[Special:Contributions/Weatherextremes|contribs]]) 15:15, 16 July 2010 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+Thessaloniki does not have a BSk climate going by the most widely accepted isotherm, 0° C. From the data found on it's page the mean temperature in the coldest month, January, is 5° C. From my calculations, Thessaloniki does however have a BSh type climate and may legitimately placed on the list of cities with hot semi-arid climates. Ellinkion is not notable enough to be placed on the list, as it is a suburb of a city, not a city unto itself. Noting that Athens' southern suburbs are semi-arid is appropriate on the Athens page, but it is not appropriate for this page. As G.Capo said, if we listed every suburb that had a differing climate classification from its mother city (even if the city itself would be notable), there would be a ridiculous amount of entries. And please, let's go by the world's standard, most widely accepted system for climate classification, not the system used by one state in Southeastern Europe.
+[[User:1brettsnyder|1brettsnyder]] ([[User talk:1brettsnyder|talk]]) 00:05, 17 July 2010 (UTC)
+
+How many times do I have to say that the Greek state does NOT have any system on climate classification. The classification is based on the data that derive from   HNMS and from the most recent publication of Koppen classification (Peel et al 2007 http://hal-sde.archives-ouvertes.fr/docs/00/29/88/18/PDF/hessd-4-439-2007.pdf) which gives BSk climate for Thessaloniki and BSh for the whole of Southern Athens. The distinction which is widely accepted for delination between BSk and BSh is the average annual temperature of 18.0C. Thessaloniki clearly has BSk climate and needs to go of the list. 
+Regarding Athens if you can find a metropolis or mega-city that has different type of climates at least by 50% then I would accept your argument . It is notable that half of Athens has BSh climate and also for at least half a century Athens climate internationally was represented by the data of Ellinikon as the ex international airport of Athens.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Weatherextremes|Weatherextremes]] ([[User talk:Weatherextremes|talk]] • [[Special:Contributions/Weatherextremes|contribs]]) 08:57, 17 July 2010 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:Alright, first, you haven't once before said that the Greek state doesn't have its own system, and your original post on this talk page very much made it look like the Greek state did have a different system from Koeppen. Second; from all that I have heard, read and seen, the most common dividing line between BSk and BSh is no longer an 18° C mean annual temperature, but 0° C mean temperature in the coldest month, in line with the delineation between humid continental and humid subtropical climates. Thessaloniki is appropriately placed on the BSh list, and, from what searching and reading I have done, Athens (not the relative obscurity that is Ellinikon) is also appropriately placed on the list with the caveat that it is a borderline climate between semi-arid and mediterranean. Lastly, I strongly suggest that you objectively look at your obsession with adding Greek cities to these lists. You seem to be doing this without regard for their appropriateness or notability. Greece is not the world. This is intended not as an insult, but as an invitation to discuss this further. Let's refrain from editing from now and talk this over. Be informed that I  apply a [[tit for tat]] strategy, so if you are willing to discuss this, I will happily oblige, but if you tell me that you are not willing to discuss this, as you told G.Capo, I will only reply in kind. [[User:1brettsnyder|1brettsnyder]] ([[User talk:1brettsnyder|talk]]) 23:48, 17 July 2010 (UTC)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Ok, I have said that Greece does not have it's system but then I deleted the whole comment so as I will not escalate the issue with Capo since I admit that I was abrupt towards him by saying that I will not discuss this further.So I am sorry for this.I have tried more than 10 times and it was getting erased all the time and this made me loose my patience.
+
+Regarding the dividing line ,if you look what Peel et al 2007 says it appears that the average annual temperature still stands as the most appropriate dividing line and thus why in the updated version of Koppen map he and his team have decided to keep this rule.Lastly ,I never said that Greece is the world and if you are reffering to my edits on Greek climate it is because I want to be as punctual as I can.So regarding Thessaloniki (and Terhan for that matter) I believe we need to put it as BSk.I think the dividing line is not 0C as is now currently the practice in the USA but then again neither the States is the world.The rest of the world seems to accept the average annual temperature.What are your thoughts on this?  
+
+As I said I do believe that it is not irrational to mention that half of Athens which is one of the largest cities in the world has semi-arid climate. Probably I did not put it correctly by just mentioning Ellinikon and I believe the way it now appears is far better (as borderline).From my side no hard feelings. Take care.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Weatherextremes|Weatherextremes]] ([[User talk:Weatherextremes|talk]] • [[Special:Contributions/Weatherextremes|contribs]]) 00:48, 19 July 2010 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:OK; I think we're good. The 0° C dividing line is not dominant just in the USA, it also seems to be preferred here in Canada as well. But North America is not the world, and most publications I have looked at were Canadian or American. I have looked at sources outside of North America, and it does appear that you are right, the mean annual temperature is used very widely outside of North America. I did not realise the extent of its use. So instead of arguing over which of the two widely used dividing lines to use, how about we mention in the article that there are two lines, so that in some publications and documents, a given city (like Thessaloniki) may be classified as BSh, while in others, it may be classified as BSk. [[User:1brettsnyder|1brettsnyder]] ([[User talk:1brettsnyder|talk]]) 01:33, 19 July 2010 (UTC)
+
+Fair enough,however given the fact that indeed north america is just one part of the world with this practise I would suggest that we add that the 0C distinction is widely used mainly in North America.What do you think?  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Weatherextremes|Weatherextremes]] ([[User talk:Weatherextremes|talk]] • [[Special:Contributions/Weatherextremes|contribs]]) 01:40, 20 July 2010 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+: Been busy for a while. The cities I've taken out of the list, I took out because they have another climate classification that ''borders'' on a semi-arid climate. They don't necessarily have a semi-arid climate. While Athens should technically not be on this list as it officially has a Mediterranean climate bordering on a semiarid climate, seeing that Weatherextremes is a good guy (at least on the internet:), I'll leave it on. No hard feelings here as well.[[User:G. Capo|G. Capo]] ([[User talk:G. Capo|talk]]) 03:50, 21 July 2010 (UTC)
+
+Hi again.I must admit it looks very nice with the corrections.However I hate to be pedantic but I have noticed your wording regarding the 0C isotherm while referring to cities like Tehran and Thessaloniki.I would suggest we leave out the word ''most modern method'' and just replace it with something along the lines ''according to the other method '' since the mentioning of a method being as ''modern'' seems to show a slight bias. According to Peel et all 2007 the most up to date Koppen classification at an international level accepts the 18C annual temperature,this map was designed in 2007.Regarding Athens we see that officially both from the Greek authorities and Peel et all we have traditionally two types of climate and not only the Mediterrenean in Athens.Cheers  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Weatherextremes|Weatherextremes]] ([[User talk:Weatherextremes|talk]] • [[Special:Contributions/Weatherextremes|contribs]]) 21:51, 21 July 2010 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:::Looking back at this now I would like to apologise to Weatherextremes, as some of my comments to this user were [[ad hominem]], which I would consider to be out of line.[[User:1brettsnyder|1brettsnyder]] ([[User talk:1brettsnyder|talk]]) 01:10, 16 August 2010 (UTC)
+
+
+I can't understand how this argue took place since, loking the dates of Thessaloniki, it's not a B-dry climate but a C-temperate--[[Special:Contributions/83.58.80.199|83.58.80.199]] ([[User talk:83.58.80.199|talk]]) 02:27, 3 March 2012 (UTC)
+
+==Borderline climates==
+I think it would be a good idea if all the cities with &quot;borderline&quot; climates were removed from the lists and replaced with locations that are more definitively semi-arid, well below the borderline,  with precipitation at most 90-95% of the precipitation threshold. I'm fine with Athens being exempt from this, in keeping with our previous compromise with Weatherextremes, but if he is cool with Athens being taken off the list like other borderline cities, that would be good. [[User:1brettsnyder|1brettsnyder]] ([[User talk:1brettsnyder|talk]]) 00:50, 30 July 2010 (UTC)
+
+==Larisa,Kavala,Thessaloniki==
+
+All are added back.Someone keeps on erasing them.Why is this?The cities have semi-arid climate according to Peel at al and HNMS REGARDING THE KOPPEN CLASSIFICATION.
+
+References here .Crystal clear BSk/BSh climates according to Koppen Classification
+
+
+http://www.hnms.gr/hnms/english/climatology/climatology_region_diagrams_html?dr_city=Larisa&amp;dr_region=ClimThessaly
+
+http://www.hnms.gr/hnms/english/climatology/climatology_region_diagrams_html?dr_city=Thessaloniki_Mikra&amp;dr_region=ClimMacedonia_Central
+
+http://www.hnms.gr/hnms/english/climatology/climatology_region_diagrams_html?dr_city=Kavala_Chryssoupoli  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/147.197.190.60|147.197.190.60]] ([[User talk:147.197.190.60|talk]]) 03:44, 14 February 2011 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+==Murcia==
+
+goes in the varying classification since it has a lower than 18C mean annual according to AEMET 
+
+http://www.aemet.es/es/elclima/datosclimatologicos/valoresclimatologicos?l=7228&amp;k=mur
+
+http://www.aemet.es/es/elclima/datosclimatologicos/valoresclimatologicos?l=7031&amp;k=mur  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Weatherextremes|Weatherextremes]] ([[User talk:Weatherextremes|talk]] • [[Special:Contributions/Weatherextremes|contribs]]) 16:04, 16 February 2011 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+==Thessaloniki's constant deletion==
+
+The reference has been provided both here and in the main article.Both according to Greece's HNMS and Peel et al Thessaloniki has a semi-arid climate.Please do not remove it again.You are invited to discuss an alternative relevant reference if you have it.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/147.197.190.60|147.197.190.60]] ([[User talk:147.197.190.60|talk]]) 08:29, 16 March 2011 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== City lists and gallery-like section gone, per the Manual of Style ==
+By request, I have swept in and wikified the article.  In this article's case, that meant eliminating the city lists (which were not referenced anyway) and the gallery-like chart section at the end of the article.  No charts were saved in this article's case as there was already enough imagery within the article, and no room for more along the margins without compromising its format.  This brings the article into tolerance with wikipedia standards, and sets it up for improvement to GA, someday, once all the content has inline references.  Although in this article's case, there wasn't much encyclopedaic content to start with. [[User:Thegreatdr|Thegreatdr]] ([[User talk:Thegreatdr|talk]]) 14:32, 3 April 2011 (UTC)
+: Without some form of list of cities at the edge of Koppen regions, I find the included maps as they are now don't allow for pinpointing the borders of the arid regions.  With no country, state, or city shown on the maps I can't tell where the borders start and end.  For instance, looking at the map, is [[Denver, Colorado]] considered BSh or BSk--I can't tell by the map if it's either or none.  [[User:Nodove]] ([[User talk:Nodove|talk]]) 16:50 December 2013 (UTC)
+
+Denver International Airport has a sub-freezing average for January, so if considered arid (which it is marginally) it neatly fits the criteria for BSk. The non-arid analogue for Denver, which has hot summers, would be Dfa -- which is likely found in places just wet enough to avoid the semi-arid classification. 
+
+Illustrative examples of at least one incontrovertible example of a BSh climate by both the 0°C cold-month isotherm and the 18°C average annual temperature, a BSk climate by both criteria, and a climate that has a cold-moth isotherm above 0°C or an average annual temperature under 18°C. For large cities in or near the United States I would pick Albuquerque for the first, Denver for the second, and San Diego (Tijuana would also do very well) for the third -- with the qualification that those cities are in mountainous areas in which there are non-arid microclimates. Of course one might have alternatives elsewhere, as in the Sahel for an unambiguous BSh climate, some place in or near central Asia for the BSk climate, and somewhere on the coast of Morocco for a climate ambiguous as BSh or BSk. Maybe there could be one for a place south of the equator.[[User:Pbrower2a|Pbrower2a]] ([[User talk:Pbrower2a|talk]]) 03:58, 20 October 2014 (UTC)
+
+==The map is wrong==
+[[File:Koppen World Map BSh BSk.png|right|300px]]
+*Murcia, Almería and Alicante don't have a cold semi-arid climate (''Bsk''), but a hot semi-arid climate with Mediterranean influence (''Bsh'' ~ ''Csa'').
+*''Bs'' does not occur in coastal areas: from [[Catalonia]] to right down to the [[Montgó Massif]], in the [[Dénia|Marina Alta]] ([[Land of Valencia|Valencia]]). Most of the Spanish Mediterranean coast has a proper hot summer Mediterranean climate ''Csa'' (excepting from Central Alicante to Almería, [[Cabo de Gata]], and fewer areas in Castellón and Tarragona where ''Bsh'' with Csa features can be found).
+*''Bsk'' ONLY occurs in inland areas adjacents to ''Bsh'' (e.g. [[Albacete]], inland Valencia: [[Morella, Castellón|Morella]], Central and Southern Aragon: [[Teruel]] -excepting the Ebro Valley). Obviously, these inland areas are at a higher elevation, and there is much less influence from the Mediterranean sea.
+*Outside continental Spain, ''Bsh'' can be found in the Eastern Canary Islands ([[Lanzarote]] and [[Fuerteventura]]).
+
+===Murcia (varying classification: ''Bsh'' ~ ''Csa'')===
+&lt;div style=&quot;width:80%;&quot;&gt;
+{{Weather box
+|location = Murcia-[[Alcantarilla]]
+|metric first = yes
+|single line = yes
+|Jan high C = 16.4
+|Feb high C = 18.2
+|Mar high C = 20.4
+|Apr high C = 22.5
+|May high C = 25.8
+|Jun high C = 30.0
+|Jul high C = 33.4
+|Aug high C = 33.6
+|Sep high C = 30.2
+|Oct high C = 25.5
+|Nov high C = 20.0
+|Dec high C = 17.0
+|year high C = 24.4
+|Jan mean C = 10.1
+|Feb mean C = 11.7
+|Mar mean C = 13.5
+|Apr mean C = 15.6
+|May mean C = 19.0
+|Jun mean C = 23.1
+|Jul mean C = 26.2
+|Aug mean C = 26.7
+|Sep mean C = 23.6
+|Oct mean C = 18.8
+|Nov mean C = 14.1
+|Dec mean C = 11.1
+|year mean C = 17.8
+|Jan low C = 3.9
+|Feb low C = 5.2
+|Mar low C = 6.7
+|Apr low C = 8.7
+|May low C = 12.2
+|Jun low C = 16.2
+|Jul low C = 19.0
+|Aug low C = 19.9
+|Sep low C = 16.9
+|Oct low C = 12.7
+|Nov low C = 8.2
+|Dec low C = 5.2
+|year low C = 11.2
+|Jan precipitation cm = 2.5
+|Feb precipitation cm = 2.8
+|Mar precipitation cm = 3.0
+|Apr precipitation cm = 2.7
+|May precipitation cm = 3.2
+|Jun precipitation cm = 2.0
+|Jul precipitation cm = 0.5
+|Aug precipitation cm = 1.0
+|Sep precipitation cm = 2.7
+|Oct precipitation cm = 4.4
+|Nov precipitation cm = 3.2
+|Dec precipitation cm = 2.1
+|year precipitation cm = 30.1
+|Jan precipitation days = 3
+|Feb precipitation days = 3
+|Mar precipitation days = 3
+|Apr precipitation days = 4
+|May precipitation days = 4
+|Jun precipitation days = 2
+|Jul precipitation days = 1
+|Aug precipitation days = 1
+|Sep precipitation days = 2
+|Oct precipitation days = 4
+|Nov precipitation days = 4
+|Dec precipitation days = 4
+|year precipitation days = 35
+|source 1 = [[Agencia Estatal de Meteorología]]&lt;ref&gt;{{cite web
+  |url=http://www.aemet.es/es/elclima/datosclimatologicos/valoresclimatologicos?l=7228&amp;k=mur
+  |title=Valores Climatológicos Normales. Murcia - Alcantarilla
+  |accessdate=}}&lt;/ref&gt;
+|date=August 2010
+}}
+
+{{Weather box
+|location = Murcia - [[San Javier, Murcia|San Javier]] (Airport, near sea)
+|metric first = yes
+|single line = yes
+|Jan high C = 15.9
+|Feb high C = 16.9
+|Mar high C = 18.1
+|Apr high C = 19.9
+|May high C = 22.4
+|Jun high C = 25.7
+|Jul high C = 28.4
+|Aug high C = 29.0
+|Sep high C = 27.3
+|Oct high C = 23.4
+|Nov high C = 19.6
+|Dec high C = 16.8
+|year high C = 22.0
+|Jan mean C = 10.6
+|Feb mean C = 11.6
+|Mar mean C = 12.9
+|Apr mean C = 14.6
+|May mean C = 17.6
+|Jun mean C = 21.3
+|Jul mean C = 24.1
+|Aug mean C = 24.9
+|Sep mean C = 22.7
+|Oct mean C = 18.7
+|Nov mean C = 14.6
+|Dec mean C = 11.7
+|year mean C = 17.1
+|Jan low C = 5.2
+|Feb low C = 6.3
+|Mar low C = 7.6
+|Apr low C = 9.3
+|May low C = 12.9
+|Jun low C = 17.0
+|Jul low C = 19.9
+|Aug low C = 20.8
+|Sep low C = 18.2
+|Oct low C = 14.0
+|Nov low C = 9.7
+|Dec low C = 6.6
+|year low C = 12.3
+|Jan precipitation cm = 3.8
+|Feb precipitation cm = 2.6
+|Mar precipitation cm = 2.9
+|Apr precipitation cm = 2.5
+|May precipitation cm = 3.1
+|Jun precipitation cm = 1.1
+|Jul precipitation cm = 0.6
+|Aug precipitation cm = 0.8
+|Sep precipitation cm = 3.4
+|Oct precipitation cm = 5.5
+|Nov precipitation cm = 4.3
+|Dec precipitation cm = 3.3
+|year precipitation cm = 33.9
+|Jan precipitation days = 4
+|Feb precipitation days = 3
+|Mar precipitation days = 4
+|Apr precipitation days = 3
+|May precipitation days = 3
+|Jun precipitation days = 2
+|Jul precipitation days = 1
+|Aug precipitation days = 1
+|Sep precipitation days = 2
+|Oct precipitation days = 4
+|Nov precipitation days = 4
+|Dec precipitation days = 4
+|year precipitation days = 33
+|source 1 = [[Agencia Estatal de Meteorología]]&lt;ref&gt;{{cite web
+  |url=http://www.aemet.es/es/elclima/datosclimatologicos/valoresclimatologicos?l=7031&amp;k=mur
+  |title=Valores Climatológicos Normales. Murcia - San Javier
+  |accessdate=}}&lt;/ref&gt;
+|date=August 2010
+}}
+&lt;/div&gt;
+
+===Albacete (varying classification: ''Bsk'' ~ ''Csa'')===
+&lt;div style=&quot;width:80%;&quot;&gt;
+{{Weather box
+|location = Albacete
+|metric first = Y
+|single line = Y
+|Jan high C = 10.1
+|Feb high C = 12.3
+|Mar high C = 15.5
+|Apr high C = 17.7
+|May high C = 22.1
+|Jun high C = 27.9
+|Jul high C = 32.5
+|Aug high C = 31.9
+|Sep high C = 26.8
+|Oct high C = 19.8
+|Nov high C = 14.2
+|Dec high C = 10.8
+|year high C = 20.1
+|Jan mean C = 4.8
+|Feb mean C = 6.6
+|Mar mean C = 9.0
+|Apr mean C = 11.1
+|May mean C = 15.3
+|Jun mean C = 20.3
+|Jul mean C = 24.4
+|Aug mean C = 24
+|Sep mean C = 19.9
+|Oct mean C = 13.8
+|Nov mean C = 8.8
+|Dec mean C = 5.9
+|year mean C = 13.6
+|Jan low C = -0.4
+|Feb low C = 0.8
+|Mar low C = 2.5
+|Apr low C = 4.5
+|May low C = 8.5
+|Jun low C = 12.7
+|Jul low C = 16.0
+|Aug low C = 16.1
+|Sep low C = 12.9
+|Oct low C = 7.9
+|Nov low C = 3.5
+|Dec low C = 1.1
+|year low C =7.1
+|Jan precipitation cm = 2.1
+|Feb precipitation cm = 2.4
+|Mar precipitation cm = 2.8
+|Apr precipitation cm = 4.8
+|May precipitation cm = 4.8
+|Jun precipitation cm = 3.6
+|Jul precipitation cm = 1.2
+|Aug precipitation cm = 1.4
+|Sep precipitation cm = 3.2
+|Oct precipitation cm = 4.2
+|Nov precipitation cm = 3.4
+|Dec precipitation cm = 2.8
+|year precipitation cm = 36.7
+|Jan precipitation days = 2
+|Feb precipitation days = 3
+|Mar precipitation days = 4
+|Apr precipitation days = 5
+|May precipitation days = 5
+|Jun precipitation days = 4
+|Jul precipitation days = 1
+|Aug precipitation days = 0
+|Sep precipitation days = 4
+|Oct precipitation days = 4
+|Nov precipitation days = 4
+|Dec precipitation days = 2
+|year precipitation days = 38
+|unit precipitation days = 1&amp;nbsp;mm
+|source 1 = [[Weatherbase]] [[Agencia Estatal de Meteorología]]&lt;ref&gt;[http://www.aemet.es/es/elclima/datosclimatologicos/valoresclimatologicos?l=8175 Valores climatológicos normales. Albacete-Los Llanos] [http://www.aemet.es/es/elclima/datosclimatologicos/efemerides_extremos?o=8175&amp;m=13&amp;v=PND%2CPDV%2CPDT%2CPMD%2CPMA%2CPMB%2CVMX%2CTMX%2CTMMA%2CTMmB%2CTMA%2CTMB%2CTmn Valores extremos: -24ºC (Jan 1971) and 42.6ºC (Jul 1978) ]&lt;/ref&gt;
+ | url = {{cite web|url=http://www.weatherbase.com/weather/weatherall.php3?s=8280&amp;refer=&amp;units=metric
+ | title = Albacete, Spain
+ | accessdate = 2010-11-13
+ | publisher = Weatherbase
+ | date=November 2010}}&lt;/ref&gt;
+|date=March 2011}}
+&lt;/div&gt;
+
+===Teruel (varying classification: ''Bsk'' ~ ''Csa'')===
+[[File:Clima Teruel (España).PNG|350px]]
+{{reflist}}
+
+The map is derived from the [[Köppen climate classification|Köppen climate map]], which was created by climate scientists. It may not be 100% precise, but it's enough to illustrate the article.--[[Special:Contributions/216.110.99.210|216.110.99.210]] ([[User talk:216.110.99.210|talk]]) 08:32, 11 April 2014 (UTC)
+	</talkpage>
+</article>

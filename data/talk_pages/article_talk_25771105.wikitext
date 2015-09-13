@@ -1,0 +1,10 @@
+<article id="25771105" title=Talk:Swiss Institute of Comparative Law>
+	<talkpage id="25771105" title="Talk:Swiss Institute of Comparative Law">
+{{Talk header}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Switzerland|class=Start|importance=Low}}
+{{WPLibrarians|class=stub|importance=low}}
+{{WikiProject Law|class=stub}}
+}}
+	</talkpage>
+</article>

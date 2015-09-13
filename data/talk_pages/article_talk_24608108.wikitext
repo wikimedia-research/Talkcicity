@@ -1,0 +1,5 @@
+<article id="24608108" title=Talk:2008–09 Motherwell F.C. season>
+	<talkpage id="24608108" title="Talk:2008–09 Motherwell F.C. season">
+{{Football |class=start |importance=low |seasons=yes|Scotland=yes}}
+	</talkpage>
+</article>

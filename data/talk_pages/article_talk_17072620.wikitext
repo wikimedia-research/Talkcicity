@@ -1,0 +1,5 @@
+<article id="17072620" title=Talk:Pardina, Tulcea>
+	<talkpage id="17072620" title="Talk:Pardina, Tulcea">
+{{WikiProject Romania|class=Stub|importance=}}
+	</talkpage>
+</article>

@@ -1,0 +1,7 @@
+<article id="10543699" title=Talk:Amaila Falls>
+	<talkpage id="10543699" title="Talk:Amaila Falls">
+{{WikiProject South America|Guyana=yes|class=stub|Guyana-importance=low}}
+{{WikiProject Waterfalls|class=stub}}
+{{Image requested|in=Guyana}}
+	</talkpage>
+</article>

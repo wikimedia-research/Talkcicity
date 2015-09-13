@@ -1,0 +1,9 @@
+<article id="26807360" title=Talk:Catalogue of Works in Refutation of Methodism>
+	<talkpage id="26807360" title="Talk:Catalogue of Works in Refutation of Methodism">
+{{Skip to talk}}
+{{Talk header}}
+{{WikiProject Books|class=Start}}
+{{WikiProject Bibliographies |class=List |importance= }}
+{{Archives|search=yes}}
+	</talkpage>
+</article>

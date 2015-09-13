@@ -1,0 +1,5 @@
+<article id="13888915" title=Talk:Midsong (The Sinceros Song)>
+	<talkpage id="13888915" title="Talk:Midsong (The Sinceros Song)">
+{{songs|class=redirect}}
+	</talkpage>
+</article>

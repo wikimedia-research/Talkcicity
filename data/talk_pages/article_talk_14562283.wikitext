@@ -1,0 +1,6 @@
+<article id="14562283" title=Talk:Cechenena helops>
+	<talkpage id="14562283" title="Talk:Cechenena helops">
+{{WikiProject Lepidoptera|class=stub|importance=low}}
+{{WikiProject Insects|class=stub|importance=low}}
+	</talkpage>
+</article>

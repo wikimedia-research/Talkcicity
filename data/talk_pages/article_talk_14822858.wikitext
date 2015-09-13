@@ -1,0 +1,10 @@
+<article id="14822858" title=Talk:Pietro Ridolfi>
+	<talkpage id="14822858" title="Talk:Pietro Ridolfi">
+{{WikiProject Biography
+|class=stub
+|living=no
+|auto=yes
+|listas=Ridolfi, Pietro
+}}
+	</talkpage>
+</article>

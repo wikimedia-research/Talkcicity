@@ -1,0 +1,13 @@
+<article id="39954319" title=Talk:Eduardo Sartelli>
+	<talkpage id="39954319" title="Talk:Eduardo Sartelli">
+{{WikiProjectBannerShell|1=
+{{WikiProject Socialism|class=Start|importance=low}}
+{{WikiProject Argentina|topic=polit|class=Start|importance=low}}
+{{WikiProject Biography
+|living=yes
+|class=Start
+|listas=Sartelli, Eduardo
+}}
+}}
+	</talkpage>
+</article>

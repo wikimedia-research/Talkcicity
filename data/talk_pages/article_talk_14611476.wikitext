@@ -1,0 +1,15 @@
+<article id="14611476" title=User talk:Physicsbenson08>
+	<talkpage id="14611476" title="User talk:Physicsbenson08">
+
+
+
+==Speedy deletion of [[:Mr. Benson's Physics Class]]==
+[[Image:Nuvola apps important.svg|32px|left]] A tag has been placed on [[:Mr. Benson's Physics Class]] requesting that it be speedily deleted from Wikipedia. This has been done under [[WP:CSD#A7|section A7 of the criteria for speedy deletion]], because the article appears to be about a person or group of people, but it does not indicate how or why the subject is notable: that is, why an article about that subject should be included in an encyclopedia. Under the [[WP:CSD#Articles|criteria for speedy deletion]], articles that do not assert the subject's importance or significance may be deleted at any time. Please [[Wikipedia:Notability|see the guidelines for what is generally accepted as notable]], as well as our subject-specific [[Wikipedia:Notability (people)|notability guideline for biographies]]. 
+
+If you think that this notice was placed here in error, you may contest the deletion by adding &lt;code&gt;{{tl|hangon}}&lt;/code&gt; to '''the top of [[:Mr. Benson's Physics Class|the article]]''' (just below the existing speedy deletion or &quot;db&quot; tag), coupled with adding a note on '''[[Talk:Mr. Benson's Physics Class|the article's talk page]]''' explaining your position, but be aware that once tagged for ''speedy'' deletion, if the article meets the criterion it may be deleted without delay. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the article that would would render it more in conformance with Wikipedia's policies and guidelines. '''[[User:Pumpmeup|&lt;font color=&quot;Purple&quot;&gt;Pump&lt;/font&gt;]]'''[[User:Pumpmeup|&lt;font color=&quot;black&quot;&gt;me&lt;/font&gt;]]'''[[User talk:Pumpmeup|&lt;font color=&quot;blue&quot;&gt;up&lt;/font&gt;]]''' 06:59, 8 December 2007 (UTC)&lt;!-- Template:Db-bio-notice --&gt; &lt;!-- Template:Db-csd-notice-custom --&gt;
+
+== Regarding your edits to [[Riverside Christian School]] ==
+
+{{{icon|[[Image:Information.svg|25px]] }}}Welcome, and thank you for experimenting with Wikipedia. Your test {{{{{subst|}}}#if:{{{1|}}}|on the page [[:{{{1|}}}]]}} worked, and it has been [[Help:Reverting|reverted]] or removed. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|our encyclopedia]]. If you would like to experiment further, please use the [[Wikipedia:Sandbox|sandbox]]. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-test1 --&gt; -- [[User:Gogo Dodo|Gogo Dodo]] ([[User talk:Gogo Dodo|talk]]) 07:09, 8 December 2007 (UTC)
+	</talkpage>
+</article>

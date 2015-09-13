@@ -1,0 +1,9 @@
+<article id="14784738" title=Talk:Linkbelt Oval>
+	<talkpage id="14784738" title="Talk:Linkbelt Oval">
+{{WikiProject Australian rules football
+|class=stub
+|importance=low
+}}
+{{WikiProject Micronesia |class=Stub |importance= |Nauru=yes}}
+	</talkpage>
+</article>

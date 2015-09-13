@@ -1,0 +1,11 @@
+<article id="24166044" title=Talk:Santa Maria in Aquiro>
+	<talkpage id="24166044" title="Talk:Santa Maria in Aquiro">
+{{WikiProjectBannerShell|1=
+{{WikiProject Christianity|class=stub|importance=low|catholicism=yes|catholicism-importance=low}}
+{{WikiProject Architecture|class=stub|importance=low}}
+{{WikiProject Historic sites|class=stub|importance=}}
+{{WikiProject Rome|class=stub|importance=}}
+}}
+{{Translated page|it|Chiesa di Santa Maria in Aquiro}}
+	</talkpage>
+</article>

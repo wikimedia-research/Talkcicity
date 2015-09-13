@@ -1,0 +1,9 @@
+<article id="31047723" title=User talk:Gcgowans>
+	<talkpage id="31047723" title="User talk:Gcgowans">
+Could you please try not to add external links to GeneReviews and OMIM. The {{tl|Infobox disease}} has parameters that allows you to link to both resources automatically. [[User:Jfdwolff|JFW]]&amp;nbsp;&amp;#124;&amp;nbsp;[[User_talk:Jfdwolff|&lt;small&gt;T@lk&lt;/small&gt;]] 17:53, 1 March 2011 (UTC)
+
+== External links at end of article ==
+
+Also per, [[WP:LAYOUT]], the external links section should come [http://en.wikipedia.org/w/index.php?title=Hemoglobin%2C_alpha_1&amp;action=historysubmit&amp;diff=416593486&amp;oldid=416585141 after] the further reading section.   [[User:Boghog|Boghog]] ([[User talk:Boghog|talk]]) 18:29, 1 March 2011 (UTC)
+	</talkpage>
+</article>

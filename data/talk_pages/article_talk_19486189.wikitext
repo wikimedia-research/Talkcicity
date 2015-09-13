@@ -1,0 +1,11 @@
+<article id="19416252" title=Talk:Airbourne (air show)>
+	<talkpage id="19416252" title="Talk:Airbourne (air show)">
+{{WikiProject Sussex|class=Start|importance=Low}}
+== Proposed move ==
+This page should be moved, as the show is either &quot;Airbourne&quot; or &quot;Eastbourne Air Show&quot;, never &quot;Airbourne Air Show&quot;. However, [[Airbourne]] currently redirects to a disambiguation page at [[airborne]], and there is a rival claim from [[Airbourne (band)|an Australian rock band]].
+
+Depending on opinions on those pages, I suggest this page be moved to either [[Airbourne]] (with links to [[Airbourne (band)]] and [[airborne]]) or [[Airbourne (air show)]], which is more in line with naming conventions. - [[User:IMSoP|IMSoP]] ([[User talk:IMSoP|talk]]) 21:56, 21 September 2008 (UTC)
+
+:OK, I've [[WP:BOLD|gone ahead]] and moved this page, and requested that the band be moved as the primary meaning of [[Airbourne]] on [[WP:RM]]. I think this makes most sense, but am happy to discuss further if anyone disagrees. - [[User:IMSoP|IMSoP]] ([[User talk:IMSoP|talk]]) 21:35, 26 September 2008 (UTC)
+	</talkpage>
+</article>

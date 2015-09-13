@@ -1,0 +1,58 @@
+<article id="20500926" title=Talk:Pierre Clereau/Comments>
+	<talkpage id="20500926" title="Talk:Pierre Clereau/Comments">
+==Composers Project Assessment of {{BASEPAGENAME}}: 2008-12-1==
+&lt;!-- cut/paste as needed
+{{Y}}, {{N}}
+{{GAList/check|y}}, {{GAList/check|n}}, {{GAList/check|?}}
+--&gt;
+
+This is an assessment of article '''[[{{BASEPAGENAME}}]]''' by a member of the [[Wikipedia:WikiProject Composers|Composers]] project, according to its [[Wikipedia:WikiProject Composers/Assessment|assessment]] criteria.  This review was done by {{UT|Magicpiano}}.
+
+If an article is well-cited, the reviewer is assuming that the article reflects reasonably current scholarship, and deficiencies in the historical record that are documented in a particular area will be appropriately scored.  If insufficient inline citations are present, the reviewer will assume that deficiencies in that area may be cured, and that area may be scored down.
+
+Adherence to overall Wikipedia standards ([[WP:MOS]], [[WP:WIAGA]], [[WP:WIAFA]]) are the reviewer's opinion, and are not a substitute for the Wikipedia's processes for awarding [[WP:GAN|Good Article]] or [[WP:FAC|Featured Article]] status.
+
+===Origins/family background/studies===
+Does the article reflect what is known about the composer's background and childhood?  If s/he received musical training as a child, who from, is the experience and nature of the early teachers' influences described?
+*{{GAList/check|y}} OK
+===Early career===
+Does the article indicate when s/he started composing, discuss early style, success/failure?  Are other pedagogic and personal influences from this time on his/her music discussed?
+*{{GAList/check|y}} OK
+===Mature career===
+Does the article discuss his/her adult life and composition history?  Are other pedagogic and personal influences from this time on his/her music discussed?
+*{{GAList/check|y}} OK
+===List(s) of works===
+Are lists of the composer's works in WP, linked from this article?  If there are special catalogs (e.g. Köchel for Mozart, Hoboken for Haydn), are they used?  If the composer has written more than 20-30 works, any exhaustive listing should be placed in a separate article.
+*{{GAList/check|n}} No complete list of compositions.
+===Critical appreciation===
+Does the article discuss his/her style, reception by critics and the public (both during his/her life, and over time)?
+*{{GAList/check|y}} OK
+===Illustrations and sound clips===
+Does the article contain images of its subject, birthplace, gravesite or other memorials, important residences, manuscript pages, museums, etc?  Does it contain samples of the composer's work (as composer and/or performer, if appropriate)?  (Note that since many 20th-century works are copyrighted, it may not be possible to acquire more than brief [[WP:FAIRUSE|fair use]] samples of those works, but efforts should be made to do so.)  If an article is of high enough quality, do its images and media comply with [[WP:IUP|image use policy]] and [[WP:NFCC|non-free content policy]]? (Adherence to these is needed for Good Article or Featured Article consideration, and is apparently a common reason for nominations being quick-failed.)
+*{{GAList/check|n}} No images or sound.
+===References, sources and bibliography===
+Does the article contain a suitable number of references?  Does it contain sufficient inline citations?  (For an article to pass [[WP:WIAGA|Good Article]] nomination, every paragraph possibly excepting those in the lead, and every direct quotation, ''should'' have at least one footnote.)  If appropriate, does it include Further Reading or Bibliography beyond the cited references?
+*{{GAList/check|???}} Article has references, some inline citations.
+===Structure and compliance with WP:MOS===
+Does the article comply with Wikipedia style and layout guidelines, especially [[WP:MOS]], [[WP:LEAD]], [[WP:LAYOUT]], and possibly [[WP:SIZE]]?  (Article length is not generally significant, although Featured Articles Candidates may be questioned for excessive length.)
+*{{GAList/check|y}} OK
+===Things that may be necessary to pass a [[WP:WIAGA|Good Article]] review===
+* Article requires more inline citations ([[WP:CITE]])
+* Article needs (more) images and/or other media ([[MOS:IMAGE]])
+&lt;!--
+Reviewer: cut/paste from these as needed:
+* Article requires more inline citations ([[WP:CITE]])
+* Article lead needs work ([[WP:LEAD]])
+* Article footer material needs organization ([[WP:LAYOUT]])
+* Article needs (more) images and/or other media ([[MOS:IMAGE]])
+* Images and media have copyright/fair-use issues ([[WP:IUP]] or more specific GA/FA criteria)
+* Article prose needs work ([[WP:MOS]])
+* Article text formatting needs work (e.g. quotation methods, punctuation, inconsistent styles)
+--&gt;
+
+===Summary===
+This is a brief article about a poorly-documented figure.  What is know about him appears to be included; his compositions are not listed exhaustively.  The article would benefit from some kind of semi-relevant image, and/or a sound clip.  While the article is referenced and partly inline-cited, more would likely be needed for GA/FA consideration.
+
+Article is B-class. ''[[User:Magicpiano|&lt;span style=&quot;background-color:khaki;color:firebrick;&quot;&gt;Magic&lt;/span&gt;]]''[[User_talk:Magicpiano|♪piano]] 15:48, 1 December 2008 (UTC)
+	</talkpage>
+</article>

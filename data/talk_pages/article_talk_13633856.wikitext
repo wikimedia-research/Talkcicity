@@ -1,0 +1,9 @@
+<article id="13633856" title=User talk:86.129.101.31>
+	<talkpage id="13633856" title="User talk:86.129.101.31">
+
+
+== October 2007 ==
+{{{icon|[[Image:Information.svg|25px]] }}}Please refrain from making unconstructive edits to Wikipedia{{{{{subst|}}}#if:Crumhorn|, as you did to [[:Crumhorn]]}}. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism2 --&gt; [[User:Caltas|Caltas]] &lt;sup&gt;&lt;small&gt;[[User talk:Caltas|(talk)]]&lt;/small&gt;&lt;/sup&gt; 18:42, 8 October 2007 (UTC)
+:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
+	</talkpage>
+</article>

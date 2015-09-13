@@ -1,0 +1,6 @@
+<article id="32422128" title=Talk:Bob Dawson (footballer)>
+	<talkpage id="32422128" title="Talk:Bob Dawson (footballer)">
+{{WPBiography|living=yes|class=stub|listas=Dawson, Bob}}
+{{WP Australia|afl=yes|class=stub|importance=low|afl-importance=low}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="39026753" title=Talk:Innominate bone>
+	<talkpage id="39026753" title="Talk:Innominate bone">
+{{WPAN|class=redirect}}
+	</talkpage>
+</article>

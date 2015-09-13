@@ -1,0 +1,9 @@
+<article id="10351662" title=User talk:168.169.148.172>
+	<talkpage id="10351662" title="User talk:168.169.148.172">
+
+==Your edit to [[:Battle of Antietam]]==
+Your recent edit to [[:Battle of Antietam]] ([http://en.wikipedia.org/w/index.php?title=Battle_of_Antietam&amp;diff=118827428&amp;oldid=118824855 diff]) was reverted by an '''automated bot''' that attempts to recognize and repair [[Wikipedia:vandalism|vandalism]] to Wikipedia articles. If the bot reverted a legitimate edit, please accept my humble creator's apologies – if you bring it to the attention of the bot's owner, we may be able to improve its behavior. '''[[User:Tawkerbot2/FAQ|Click here]]''' for '''frequently asked questions''' about the bot and this warning. // [[User:MartinBot|MartinBot]] 17:49, 29 March 2007 (UTC)
+
+{{{icon|[[Image:Information.svg|25px|left]] }}}Please do not add unhelpful and unconstructive information to Wikipedia{{{{{subst|}}}#if:Viola|, as you did to [[:Viola]]}}. Your edits appear to be [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{{2|Thank you.}}}&lt;!-- {{uw-vandalism2}} --&gt;
+	</talkpage>
+</article>

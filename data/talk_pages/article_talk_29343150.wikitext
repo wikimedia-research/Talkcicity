@@ -1,0 +1,6 @@
+<article id="29343150" title=Talk:Górnik Wałbrzych (football)>
+	<talkpage id="29343150" title="Talk:Górnik Wałbrzych (football)">
+{{WikiProject Poland|class=stub
+}}
+	</talkpage>
+</article>

@@ -1,0 +1,47 @@
+<article id="14744698" title=Talk:Free Software Foundation anti-Windows campaigns>
+	<talkpage id="14744698" title="Talk:Free Software Foundation anti-Windows campaigns">
+{{WikiProjectBannerShell|1=
+{{WikiProject Computing|class=Start|importance=Low}}
+{{WikiProject Microsoft|class=Start|importance=Low|windows=yes|windows-importance=Low}}
+}}
+
+== This article should be removed ==
+
+The article lacks any significant encyclopedic content, it lacks [[WP:notable|notability]] and it is aq soapbox article and [[WP:NOTSOAPBOX#SOAPBOX| Wikipedia is not a soapbox]]. Criticism on [[Windows Vista]] is already in the Vista article and the FSF who is responsible for this campaign has already a separate article as well. There is no need for a separate article about some FSF campaign criticizing Vista. This article is like an invite to every other campaign to add article on themselves in Wikipedia. [[User:HAl|hAl]] ([[User talk:HAl|talk]]) 15:28, 4 October 2008 (UTC)
+
+== This article should &lt;u&gt;not&lt;/u&gt; be removed ==
+
+The notability derives from the basic questions that the campaign puts. In addition, big users as Intel have expressed serious doubts on adopting Vista. I'll try and describe the basic question in a new section of the article, striving to be objective and not partisan. It is not just a free vs. non-free operating system question, but addresses issues that will encompass the design of electronic appliances in the next decades. Therefore, it deserves a balanced explanation in an encyclopedia that aims at giving quickly understandable information about relevant facts. The question arose in an FSF campaign involving a Microsoft OS, so let's just inform the people about the point from a [[neutral point of view]].
+
+[[User:Ale2006|ale]] ([[User talk:Ale2006|talk]]) 13:20, 24 November 2008 (UTC)
+&lt;br /&gt;&lt;br /&gt;Asking a relevant question does not make YOU relevant, sorry. The fact that a small group agrees with a large group isn't cause for notability either, at least not until the small group actually, you know, DOES something notable. &lt;br /&gt;I also think this article should be removed.[[User:Kingoomieiii|Kingoomieiii]] ([[User talk:Kingoomieiii|talk]]) 15:59, 31 December 2008 (UTC)
+
+:Hm... The ''small group'' is the BadVista supporters (7000 registered supporters at end of 2008[http://badvista.fsf.org/badvista-declares-victory]). The ''large group'' is presumably Intel (86,000 employees worldwide at end of 2007[http://media.corporate-ir.net/media_files/irol/10/101302/2007annualReport/common/pdfs/intel_2007ar.pdf]). However, they merely consider [[Total cost of ownership|TCO]] and productivity (see e.g. [http://download.intel.com/pressroom/kits/vpro/PT_CompModelsTCO1107.pdf CompModelsTCO]) which is not quite the same subject. Furthermore, Intel &quot;obviously&quot; lauds Vista[http://www.intel.com/it/pdf/adopting-microsoft-windows-vista-in-the-enterprise.pdf].
+
+:The reason why [[BadVista]] should not be removed is that it embodies a question which is rather unique. It is difficult (and nonsensical) to cover that question in Wikipedia independently of BadVista. So, is it a relevant question? Dunno. To answer that, one has to put another couple of questions: Is computing an epochal transition? (How does it compare to, say, the advent of [[writing system]]s at the end of neolithic?) If yes, will freedom be preserved during that transition? (This is not the place to philosophize whether [[Wikipedia]] would ever have existed if [[Richard Stallman]] hadn't launched the [[GNU project]], but some of the implied considerations would help to correctly place FSF and its campaigns.) &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Ale2006|Ale2006]] ([[User talk:Ale2006|talk]] • [[Special:Contributions/Ale2006|contribs]]) 12:55, 9 January 2009 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+::This article should not be removed. It got good press, raised points others would not raise, and was successful. It is written from also written from a neutral tone and is not SOAP. It is certainly notable enough to deserve the short article it has.[[User:Scientus|Scientus]] ([[User talk:Scientus|talk]]) 11:04, 20 May 2009 (UTC)
+
+==Move==
+
+&lt;div class=&quot;boilerplate&quot; style=&quot;background-color: #efe; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px dotted #aaa;&quot;&gt;&lt;!-- Template:polltop --&gt;
+:''The following discussion is an archived discussion of the proposal. &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made in a new section on the talk page. No further edits should be made to this section. ''
+
+The result of the proposal was '''moved'''. --[[User:BDD|BDD]] ([[User talk:BDD|talk]]) 00:45, 7 February 2014 (UTC)
+
+[[:BadXP]] → {{no redirect|Free Software Foundation anti-Windows campaigns}} – general name. &lt;small&gt;&lt;small&gt;--'''Relisted.''' [[User:Armbrust|Armbrust]] &lt;sup&gt;[[User talk:Armbrust|&lt;font color=&quot;#E3A857&quot;&gt;The&lt;/font&gt; &lt;font color=&quot;#008000&quot;&gt;Homunculus&lt;/font&gt;]]&lt;/sup&gt; 14:06, 26 January 2014 (UTC)&lt;/small&gt;&lt;/small&gt; [[Special:Contributions/23.226.70.113|23.226.70.113]] ([[User talk:23.226.70.113|talk]]) 20:35, 18 January 2014 (UTC)
+
+:&quot;Free Software Foundation anti-DRM campaigns&quot; would be more specific and clearer... [[User:AnonMoos|AnonMoos]] ([[User talk:AnonMoos|talk]]) 17:13, 26 January 2014 (UTC)
+
+::&quot;Free Software Foundation anti-Windows campaigns&quot; title would be better because it excludes [[Defective by Design]] not listed here. [[Special:Contributions/72.51.41.46|72.51.41.46]] ([[User talk:72.51.41.46|talk]]) 16:51, 27 January 2014 (UTC)
+:''The above discussion is preserved as an archive of the proposal.  &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made in a new section on this talk page. No further edits should be made to this section.&lt;/div&gt;&lt;!-- Template:pollbottom --&gt;
+
+== DRM ==
+
+Please say that [[Product Activation]] caused much grievance, of course in article itself. [[Special:Contributions/2001:4858:AAAA:1B:0:0:0:1207|2001:4858:AAAA:1B:0:0:0:1207]] ([[User talk:2001:4858:AAAA:1B:0:0:0:1207|talk]]) 13:35, 4 April 2014 (UTC)
+
+== Mac OS X is not &quot;less restrictive&quot; ==
+
+No, FSF does not &quot;like&quot; Windows XP neither Mac OS X. And not all FreeBSD and GNU/Linux are &quot;entirely free&quot; (only these in [http://www.gnu.org/distros/free-distros.html Free GNU/Linux distributions] are entirely free). There is some way to rewrite this article [[Special:Contributions/177.126.57.128|177.126.57.128]] ([[User talk:177.126.57.128|talk]]) 18:19, 6 November 2014 (UTC) .
+	</talkpage>
+</article>

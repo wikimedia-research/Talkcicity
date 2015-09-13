@@ -1,0 +1,14 @@
+<article id="23884615" title=Talk:Richard Hofmann>
+	<talkpage id="23884615" title="Talk:Richard Hofmann">
+{{DYK talk|6 August|2009|{{*mp}}... that &quot;'''[[Richard Hofmann|King Richard]]'''&quot; lost his ear in a car accident, but still scored 24 times for [[Germany national football team|his country]]?}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Olympics|class=|importance=}}
+{{WikiProject Biography|sports-work-group=yes|listas=Hofmann, Richard
+|living=no
+|class=Start
+}}
+
+{{WikiProject Football|class=start|importance=mid|Germany=yes}}
+}}
+	</talkpage>
+</article>

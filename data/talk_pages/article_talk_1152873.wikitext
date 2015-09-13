@@ -1,0 +1,47 @@
+<article id="1152873" title=Talk:Lady Windermere's Fan>
+	<talkpage id="1152873" title="Talk:Lady Windermere's Fan">
+{{WikiProjectBannerShell|1=
+{{WikiProject Film|American-task-force=yes
+|class=C
+|needs-infobox=yes&lt;!-- n.b. there are two films mentioned --&gt;
+|needs-image=yes}}
+{{WikiProject Library of Congress|class=C|importance=low}}
+{{WikiProject Theatre|class=C|importance=low}}
+}}
+
+==Untitled==
+For future reference, when the limit on template invocations is raised, [http://imdb.com/find?q=Lady%20Windermere%27s%20Fan here] is a list of entries on [[IMDb]]: there were 7 exact matches today. --[[User:Phil Boswell|Phil]] | [[User talk:Phil Boswell|Talk]] 13:56, Nov 10, 2004 (UTC)
+
+==What makes this DC production notable?==
+
+Recently anonymously added: &quot;An important revival of the play directed by the British actor and director, Keith Baxter, opens in June 2005 at The Shakespeare Theatre in Washington, DC, with Dixie Carter playing Mrs. Erlynne. [http://www.shakespearetheatre.org The Shakespeare Theatre]&quot; What makes this production notable? And why the link to the generic site of the organization which, as far as I can quickly tell, offers only one uninteresting paragraph about the play, and that not on the page linked to? Unless someone can explain, I don't think this should be here. -- [[User:Jmabel|Jmabel]] | [[User talk:Jmabel|Talk]] 05:07, May 12, 2005 (UTC)
+
+==Incidental music==
+
+&quot;…first published…with incidental music by [[Walter Slaughter]].&quot; Really? First performed with, quite possibly; I don't believe it was ever customary to publish plays with incidental music, even in the heydey of incidental music. - [[User:Jmabel|Jmabel]] | [[User talk:Jmabel|Talk]] 06:33, 9 September 2006 (UTC)
+* Given no reply after 3 days, I'm reverting. [http://en.wikipedia.org/w/index.php?title=Lady_Windermere%27s_Fan&amp;diff=74175944&amp;oldid=73380295 This is the reverted edit]. If there is something to this, please clarify &amp; re-add appropriately. Thanks. - [[User:Jmabel|Jmabel]] | [[User talk:Jmabel|Talk]] 22:17, 12 September 2006 (UTC)
+
+==Image copyright problem with File:Oscar Wilde.jpg==
+The image [[:File:Oscar Wilde.jpg]] is used in this article under a claim of [[WP:NFC|fair use]], but it does not have an adequate explanation for why it meets the [[WP:NFCC|requirements for such images]] when used here.  In particular, for each page the image is used on, it must have an [[Wikipedia:Non-free use rationale guideline|explanation]] linking to that page which explains why it needs to be used on that page.  Please check
+
+:* That there is a [[Wikipedia:Non-free use rationale guideline|non-free use rationale]] on the image's description page for the use in this article.
+:* That this article is linked to from the image description page.
+&lt;!-- Additional 10c list header goes here --&gt;
+
+This is an automated notice by [[User:FairuseBot|FairuseBot]]. For assistance on the image use policy, see [[Wikipedia:Media copyright questions]]. --23:06, 6 January 2009 (UTC)
+
+==Notability==
+
+I'm not clear on why this exists, can it be explained better at the head of the article? [[User:Carl Reinke|Carl Reinke]] ([[User talk:Carl Reinke|talk]]) 10:24, 1 June 2010 (UTC)
+
+Because it's a famous play by Oscar Wilde? It needs no more evidence than the section detailing various famous productions of it. So I'm confused at why you ask. Have you read the notability guidelines at [[WP:Notability]]? [[User:FergusRossFerrier|FergusRossFerrier]] ([[User talk:FergusRossFerrier|talk]]) 19:10, 3 June 2010 (UTC)
+
+==satirize 'Victorian' morals and 'marriage'?==
+i have removed the claim that play satirize 'Victorian' morals and 'marriage' due to several reasons. 
+in addition to having no critical work cited for this claim, following should be noted; 
+1/ play satirizes morals in general,not limited to any particular time, or set of morals.
+2/ 'Victorian' is a vague term. 
+3/ 'marriage' is not morality as article sentence implied.
+4/ marriage is not satirized in play.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Sittingnut|Sittingnut]] ([[User talk:Sittingnut|talk]] • [[Special:Contributions/Sittingnut|contribs]]) 11:41, 5 May 2015 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

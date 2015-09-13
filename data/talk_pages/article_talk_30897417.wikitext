@@ -1,0 +1,13 @@
+<article id="30879130" title=Talk:NRL All Stars team>
+	<talkpage id="30879130" title="Talk:NRL All Stars team">
+{{WikiProject New Zealand
+ |class=List
+ |importance=low
+}}
+
+==Request move==
+&lt;del&gt;
+[[NRL All Stars Squad]] → {{no redirect|1=NRL All Stars}} — Article is not about the squad but the whole team. Move will bring it into line with other articles. [[User:Mattlore|Mattlore]] ([[User talk:Mattlore|talk]]) 06:28, 16 February 2011 (UTC)&lt;/del&gt;
+*'''Withdrawn''' as I have moved the page to NRL All Stars rugby league team which I feel to be an even better, if longer, name. [[User:Mattlore|Mattlore]] ([[User talk:Mattlore|talk]]) 22:31, 16 February 2011 (UTC)
+	</talkpage>
+</article>

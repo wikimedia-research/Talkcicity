@@ -1,0 +1,11 @@
+<article id="17323870" title=Talk:George Sutton (cricketer)>
+	<talkpage id="17323870" title="Talk:George Sutton (cricketer)">
+{{WikiProject Biography
+|living=no
+|class=Stub
+|listas=Sutton, George
+|auto=yes
+}}
+{{WikiProject Cricket|class=stub|importance=low}}
+	</talkpage>
+</article>

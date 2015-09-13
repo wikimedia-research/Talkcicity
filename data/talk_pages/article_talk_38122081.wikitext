@@ -1,0 +1,5 @@
+<article id="38122081" title=Talk:Pasi language>
+	<talkpage id="38122081" title="Talk:Pasi language">
+{{WikiProject Languages|class=stub}}
+	</talkpage>
+</article>

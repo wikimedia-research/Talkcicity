@@ -1,0 +1,8 @@
+<article id="39452781" title=User talk:174.23.177.202>
+	<talkpage id="39452781" title="User talk:174.23.177.202">
+
+== May 2013 ==
+
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:SQL|SQL]]. I wanted to let you know that I undid one of [[Special:Contributions/174.23.177.202|your recent contributions]],&amp;nbsp;such as the one you made with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Felix_Mendelssohn?diff=556206639 this edit]&lt;/span&gt; to [[:Felix Mendelssohn]], because it didn’t appear constructive to me. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:SQL|my talk page]]. Thanks, &lt;!-- Template:Huggle/warn-1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt;[[User:SQL|&lt;span style=&quot;font-size:7pt;color: #fff;background:#900;border:2px solid #999&quot;&gt;SQL&lt;/span&gt;]][[User talk:SQL|&lt;sup style=&quot;font-size: 5pt;color:#999&quot;&gt;Query me!&lt;/sup&gt;]] 03:16, 22 May 2013 (UTC)
+	</talkpage>
+</article>

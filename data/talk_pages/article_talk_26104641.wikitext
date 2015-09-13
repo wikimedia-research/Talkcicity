@@ -1,0 +1,6 @@
+<article id="12620259" title=Talk:Haplochromis beadlei>
+	<talkpage id="12620259" title="Talk:Haplochromis beadlei">
+{{Fishproject|class=Stub|needs-photo=yes}}
+{{AfricaProject|class=Stub|importance=|Uganda=yes|Uganda-importance=}}
+	</talkpage>
+</article>

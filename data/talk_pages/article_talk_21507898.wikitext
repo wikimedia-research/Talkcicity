@@ -1,0 +1,19 @@
+<article id="21507898" title=Talk:Uthai Thani>
+	<talkpage id="21507898" title="Talk:Uthai Thani">
+{{WikiProject Thailand|class=Stub|importance=}}
+
+== Sources modified on [[Uthai Thani]] ==
+
+Hello fellow Wikipedians,
+
+I have just attempted to maintain the sources on [[Uthai Thani]].  I managed to add archive links to 1 {{plural:1|source|sources}}, out of the total 1 I modified, whiling tagging 0 as dead.
+
+Please take a moment to review my changes to verify that the change is accurate and correct.  If it isn't, please modify it accordingly and if necessary tag that source with {{tlx|cbignore}} to keep Cyberbot from modifying it any further.  Alternatively, you can also add &lt;code&gt;&lt;nowiki&gt;{{nobots|deny=InternetArchiveBot}}&lt;/nowiki&gt;&lt;/code&gt; to keep me off the page's sources altogether.  Let other users know that you have reviewed my edit by leaving a comment on this post.
+
+Below, I have included a list of modifications I've made:
+*Added archive http://web.archive.org/web/20141218062045/http://uthaicity.org/ to http://www.uthaicity.org/
+
+
+Cheers.—[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner]]:Online&lt;/sub&gt;&lt;/small&gt; 16:07, 5 July 2015 (UTC)
+	</talkpage>
+</article>

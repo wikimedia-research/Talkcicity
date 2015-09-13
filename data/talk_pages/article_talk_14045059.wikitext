@@ -1,0 +1,5 @@
+<article id="14045059" title=Talk:Benzoyl-CoA 3-monooxygenase>
+	<talkpage id="14045059" title="Talk:Benzoyl-CoA 3-monooxygenase">
+{{Wikiproject MCB|importance=Low|class=Stub}}
+	</talkpage>
+</article>

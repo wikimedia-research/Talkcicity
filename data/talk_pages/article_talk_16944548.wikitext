@@ -1,0 +1,12 @@
+<article id="16944548" title=User talk:151.199.193.87>
+	<talkpage id="16944548" title="User talk:151.199.193.87">
+
+
+== April 2008 ==
+[[Image:Information.svg|left|25px]] Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits, such as the one you made to [[:Roswell UFO Incident]], did not appear to be constructive and has been '''automatically [[Help:Reverting|reverted]]''' by [[User:ClueBot|ClueBot]].  Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. {{User:ClueBot/Tracker}} '''If you believe there has been a mistake and would like to report a false positive, please [[User:ClueBot/FalsePositives|report it here]] and then remove this warning from your talk page.'''  If your edit was not vandalism, please feel free to make your edit again after reporting it. The following is the log entry regarding this warning: [[Roswell UFO Incident]] was [http://en.wikipedia.org/w/index.php?title=Roswell+UFO+Incident&amp;diff=205792854&amp;oldid=205778088 changed] by [[Special:Contributions/151.199.193.87|151.199.193.87]] [[User:151.199.193.87|(u)]] [[User talk:151.199.193.87|(t)]] making a minor change with obscenities on 2008-04-15T14:36:47+00:00 &lt;!-- MySQL ID: 322079 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot|ClueBot]] ([[User talk:ClueBot|talk]]) 14:36, 15 April 2008 (UTC)
+
+== May 2008 ==
+
+[[Image:Information.png|25px|left]] Hi, the &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/White_tiger?diff=210577512 recent edit]&lt;/span&gt; you made to [[:White tiger]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thanks. &lt;!-- Template:uw-huggle1 --&gt; &lt;span style=&quot;border:3px solid #004e00;padding:2px;&quot;&gt;[[User:StaticGull|&lt;b&gt;StaticGull&lt;/b&gt;]] [[User_talk:StaticGull|&lt;font style=&quot;color:Black;background:Turquoise;&quot;&gt;&amp;nbsp;Talk&amp;nbsp;&lt;/font&gt;]]&lt;/span&gt; 14:51, 6 May 2008 (UTC)
+	</talkpage>
+</article>

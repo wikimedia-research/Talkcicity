@@ -1,0 +1,6 @@
+<article id="21556914" title=Talk:K-1 World MAX 2005 Championship Final>
+	<talkpage id="21556914" title="Talk:K-1 World MAX 2005 Championship Final">
+{{WikiProject Martial arts|class=Start|kickboxing=yes}}
+{{Wikiproject Japan|class=Start|importance=low|sports=yes}}
+	</talkpage>
+</article>

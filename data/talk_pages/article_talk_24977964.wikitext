@@ -1,0 +1,209 @@
+<article id="3771790" title=Talk:Peasant Protests>
+	<talkpage id="3771790" title="Talk:Peasant Protests">
+{{WikiProjectBannerShell|1={{WikiProject Germany|class=Start|importance=high}}
+{{WPMILHIST|class=Start
+&lt;!-- B-Class 5-criteria checklist --&gt;
+&lt;!-- B-Class-1. It is suitably referenced, and all major points have appropriate inline citations. --&gt;
+|B1=no
+&lt;!-- B-Class-2. It reasonably covers the topic, and does not contain obvious omissions or inaccuracies. --&gt;
+|B2=no
+&lt;!-- B-Class-3. It has a defined structure, including a lead section and one or more sections of content. --&gt;
+|B3=yes
+&lt;!-- B-Class-4. It is free from major grammatical errors. --&gt;
+|B4=yes
+&lt;!-- B-Class-5. It contains appropriate supporting materials, such as an infobox, images, or diagrams. --&gt;
+|B5=no
+|German-task-force=yes
+|Early-Modern-task-force=yes}}
+{{WikiProject Christianity|class=Start|importance=High|anabaptist=yes|anabaptist-importance=High}}}}
+{{OnThisDay|date1=2007-05-15|oldid1=131041530}}
+{{merged-to|German Peasants' War}}
+
+==Rubbish==
+
+This article is terrible!!! I know it's not very helpful, but I suggest to delete entire paragraphs and chapters or to begin completely anew. At least, unless you find a historian who has enough patience to correct the errors and limits its content.
+
+For example, Frederick III of Saxony was not Elector of Wurttemberg, nor did he rule Wurttemberg. Wurttemberg was a duchy, and no electorate or kingdom, as claimed elsewhere (i.e. until Napoléon). Between 1498 and 1550 Wurttemberg was ruled (intermittently) by a Duke Ulrich of Wurttemberg. Frederick's collecting of relics is as important a fact as the hobbies of the Emperor of China, and that Ralph Fiennes acted in a movie belongs into a Trivia section or omitted.  [[Special:Contributions/92.230.59.204|92.230.59.204]] ([[User talk:92.230.59.204|talk]]) 18:08, 9 January 2010 (UTC)
+
+:I agree, 92, I have tried to get the title changed, without success (I did it, and someone reversed it).  I was appalled at the factual errors of this.  Your point about Duke Ulrich is only ''one'' of the errors of this.  I'm working on a new article (see [[German Peasants' War]]) which I hope will satisfy the requirements.  Please bear in mind it is a work in progress.  [[User:Auntieruth55|Auntieruth55]] ([[User talk:Auntieruth55|talk]]) 19:05, 9 January 2010 (UTC)
+
+== Clarification Needed ==
+
+This article needs to be reorganized into a more standard format.  At present it is mostly a list of groups and their possible motivations and interests with regard to the war.  The actual chronology of events however is quite unclear.  Much more information about battles, key events, and casualties is needed. [[User:74.136.219.119|74.136.219.119]] 14:56, 27 October 2006 (UTC)
+
+Quote from the article:
+----
+The Peasants
+
+The lowest strata of society remained the peasant. The peasant supported all other estates of society not only through direct taxation but in the production of agriculture and the keeping of livestock. The peasant was the property of whomever he was subject to. Be it bishop, prince, a town or a noble, the peasant and all things associated with him were subject to any whim whatsoever; the lord could take the peasant's horse and ride it as he pleased (or the peasant's wife if he so desired). Countless taxes were exacted on the peasant, forcing more and more of his time to be spent working on his lord’s estate. Most of what he produced was taken in the form of a tithe or some other tax. The peasant could not hunt, fish or chop wood freely in the early 16th century as the lords had recently taken these commonly held lands for their own purposes. The lord had rights to use the peasant’s land as he wished; often the peasant could do nothing but watch idly by as his crops were destroyed by wild game and nobles on the chivalric hunt. When a peasant wished to marry, he required the lord's permission as well as having to pay a tax. When the peasant died, the lord was entitled to his best cattle, his best garment and his best tool. The justice system, staffed by the clergy or wealthy burgher and patrician jurists, would not provide the peasant any solace; the upper classes survived by exploiting the peasant and plebian classes and saw the danger in offering them any sort of equality or real justice. Generations of submission to servitude and the autonomous nature of the provinces limited peasant insurrections to local areas. The peasant’s only hope was a unification of ideals across provincial lines. Müntzer was to recognize that the more recently diluted class structures provided the lower stratum of society with greater force of legitimacy in their revolt as well as more room for political and socio-economic gains.
+----
+
+I think this requires further qualification, but since I'm writing from a Dutch perspective, I'd like some comments from someone who understands the German situation better.
+
+My thoughts are that in the late 15th - early 16th century, serfdom (which is the condition described here) was still possible, but free farmers who did have rights, possessions and priviledges similar to the burgher class were also (and perhaps more) common. In the Netherlands, the scale of possessions of members of the peasant class could range from nothing to the size of minor nobility, including a manor and having a number of leaseholdings. 
+
+I don't know much about the legal position of such wealthy farmers, but it seems highly unlikely for them to stand by while some impoverished member of the nobility (who quite probably had less possessions than these farmers) violated their lands or even their wives and daughters (which, I think, was never legally possible).
+
+Response to above:
+Well, before the outbreak of the German Peastants' war from 1524-1526 a few things need to be observed, especially pertaining to the peasants.  First off German '''Peasant''' War is sort of a misnomer.  The term that was used by the Germans during that time for the participants of the revolt was ''germeiner'' which means anyone from who is a peasant, beggar, miner, not able to have certain rights such as being able to participate on a town council, and anyone from the lower rural class, transliterated into English it means &quot;commoner&quot; which is more inclusvie than peasant.  
+In Swabia, were much of the revolt was concentrated there was a flury of economic changes that were affecting the life of many of these ''germeiners'' before the outbreak of the revolt.  In Swarbia it was practice that all of the sons of a recently deceased farmer would inherite the farm (they didn't neccissarily &quot;own&quot; the land, it was under the control of the lord, the farmers would farm the land and leave the land to their children to farm but it was all under the ownership of the lord, they technically worked the land for the lord).  But what was happening was that overtime there was a large increase in the populaiton and farms were becoming fragmented because with every generation the farm plots were getting smaller and smaller.  With this increase in population and fragmentation of farms there was a straining of the rural economy and a food shortage.  Many peasants began to migrate to urban centers.  To counter this the lords, using ''leibeigenschaft'' (personal bondage) forced the ''germeiners'' to stay on their land and also consolodated the fragmented farms by combining the smaller farms into more sizeable and productive plots.  The lords when then lease out the plots to people to till and work on.  This caused an increase in landless ''germeiners'' which caused friction between the rural and townsfolk.  So, essentially the farmers had no choice but to let the lords seize their plots of land because it was within the lords right, there was no impoverished lords but there were many impoversiehd farmers.  Also, there was confusion between the lords of which serf belonged to which lord because when serfs were marrying other serfs from other plots of land it became confusing who was under control of whom.  So, along with ''leibeigenschaft'', the lords also transfered, sometimes in the thousands, of ''germeiners'' between each other in order to balance out their feudal estates.  Also, along with that the economy was changing as well with an increase of urban capital into the rural sector with the &quot;putt-out&quot; system and struggles over avaiable resources.  Overall, the issues of &quot;peasantry&quot; were very complex during and before the time of the &quot;Peasants&quot; (or Common Man) War.
+
+Sources used:
+
+Blickle, Peter.  ''The Revolution of 1525: The German Peasants’ War from a New Perspective''.  Translated by Thomas A. Brady, Jr. and H. C. Erik Midelfort.  Baltimore: John Hopkins University Press, 1981.
+
+Buck, L. P. And Zophy J. W. editors.  ''The Social History of the Reformation''.  Columbus: Ohio State University Press, 1972.
+
+Karant-Nunn, Susan G. Review of ''The German People and the Reformation'' edited by R. Po-Chia Hsia.  ''American Historical Review'' 95, no. 3 (1990): 847-848.
+
+Scott, Tom. “The Peasants’ War: A Historiographical Review: Part I.”  ''The Historical Journal'' 22, no. 3 (1979): 693-720.
+
+	—''Freiburg and the Breisgau: Town-County Relations in the Age of Reformation and Peasants’ War''.  New York: Clarendon Press, 1986.
+
+	—“The German Peasants War and the ‘Crisis of Feudalism:’ Reflections On a Neglected Theme.” ''Journal of Early Modern History'' 6, no. 3 (2002): 265-295.
+
+	—''Town, Country, and Regions in Reformation Germany''.  Boston: Brill, 2005.
+
+	Scribner, B. and Benecke, G. editors.  ''The German Peasant War of 1525: New Viewpoints''.  London: G. Allen &amp; Unwin, 1979.
+
+[[User:Stephensj74|Stephensj74]] 01:33, 2 April 2006 (UTC)
+
+== War? ==
+
+What was the nature of the &quot;War&quot;? Was it violent??
+
+:violence is an essence of WAR  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/84.164.192.35|84.164.192.35]] ([[User talk:84.164.192.35|talk]]) 12:36, 20 August 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+---------------------
+
+There needs to be more detail on the war itself. In Wuerzburg, for instance, there is a huge castle overlooking the city with several huge walls. It looks like it would be impossible to militarily overrun, even with machine guns and modern artillery. Apparently, hordes of peasants did try to attack the castle and were slaughtered in great numbers. A modern movie could be made about the unsuccessful attack on this Marienburg castle.[[User:EnglishGarden|EnglishGarden]] 21:11, 9 September 2006 (UTC)
+
+== What actually happened? ==
+
+This appears to be a very learned article, with lots of sociological background and analysis, but what actually happened?  Can someone add a narrative account of the Peasants' War? It's no good a non-expert like me reading all this detailed analysis if I only have a vague idea from general knowledge about what happened. Or perhaps this article should be more accurately entitled, &quot;Analysis of the Peasants' War.&quot;
+--[[User:Iacobus|Iacobus]] 03:31, 3 April 2006 (UTC)
+
+Here's why the war happened. Here's the legacy of it. The substance of the article is missing. If the Luther article just told of the medieval Catholic status and his effect on Lutheranism, it would be a crappy article. Please do this article. I'm not yet trained in effective article-writing.
+[[Special:Contributions/151.185.60.250|151.185.60.250]] ([[User talk:151.185.60.250|talk]]) 01:21, 26 November 2008 (UTC)
+:This article was basically an essay in Marxist theory. I have taken out some of the POV, but that leaves the article even shorter, and still lacking in factual substance. [[User:Postlebury|Postlebury]] ([[User talk:Postlebury|talk]]) 15:35, 14 April 2009 (UTC)
+
+== Priority ==
+
+I find it odd that this piece is about a Peasant uprising but they are the last listed group in the list. What's the reasoning behind the order? Thanks for the article. [[User:Hu Gadarn|Hu Gadarn]] 21:27, 15 May 2006 (UTC)
+
+In defense of the priority as it stands:
+
+The order in which the classes are listed is a sophisticated rhetorical device, used to good purpose. First, it's easier to understand the different social classes if they're listed in order; and it makes sense to list them from top to bottom, because the concerns of the more powerful classes will be of greater scope, and will encompass the concerns of the class(es) below them. This sequencing gives a gradual, continuous direction to the explanations of issues, conflicts, and relationships between the classes. The structure naturally assists the exposition.
+
+Second, the point of the explanation of the classes is to set the stage for the peasants' revolt. The cumulative weight of the descriptions of all the other classes, with their ambitions, hungers, and resentments, and their universal need for more money, palpably comes to rest at the bottom on the peasants. Whoever drafted this explanation could simply have said &quot;The peasants were under constantly increasing pressure,&quot; but it would be a much weaker construction. You wouldn't feel the pressure on the peasants the way you do when you've seen how many stacked-up layers were resting on their shoulders.
+
+The third benefit of that device is that you can't just read the opening paragraph about the peasantry, decide you know what's going on, and skim-read the rest if you read it at all. It forces the reader to pay attention to a series of important relationships, which actually focuses more attention on the part about the peasants. 
+
+I don't know who wrote it, but that sequence is a nice piece of construction, with built-in reinforcing logic. I wouldn't reverse its order just to put the peasants first.
+
+== Narrative ==
+I utterly agree with Iacobus above. This is fine as a sociological analysis, but few historians would now write about the Peasant's War in this form. Could we insert a large chunk of narrative in first in this document (since that's probably the most important stuff to put in, and a great deal of the sociological stuff already in the article would now be disputed by many Reformation historians).
+For narrative, I would suggest broadly following the introcution to Scribner &amp; Scott, The German Peasant's War, (1990). This divides up the war into the five separate geographical entities it was:
+1. Southwestern Germany (Black Forest, Upper Swabia)
+2. Franconia
+3. Thuringia and Saxony
+4. Rhine-Main region
+5. Tirol.
+
+Would this be acceptable to put on the page?
+User: Sam, 5 June 2006
+
+:That looks like a good plan. Please go ahead if you have the time, it looks like you have the sources to hand. --[[User:Iacobus|Iacobus]] 01:50, 30 June 2006 (UTC)
+
+== NPOV issues ==
+
+Quite a bit of the wording comes out as praising the poor and vilifying the upper classes and clergy.  Without specific sources, I couldn't justify the current wording. I got rid of some of the most blatant issues, but hopefully someone else can make further improvements. [[User:Sxeptomaniac|Sxeptomaniac]] 19:54, 9 June 2006 (UTC)
+
+What else is new at Wikipedia? Just kidding. This article is quite different from the German article. The German article goes into detail about how the farmers were not organized properly with many staying home to tend their crops.
+
+The German article gave me a lot of what I wanted, which was an account of the more important battles, if you could call them that.
+
+It seems that the farmers (Bauern) just captured cities by surprise, which counted as their victories, and they were later defeated by real armies. How they were treated by the real armies who defeated them, depended on how cruel they were to the people they captured by surprise. So, for instance, when they tortured and killed nobles and knights at Weinsberg, the nobles and knights of all Europe got very upset and this actually guaranteed that the peasants would get no sympathy in this war. The particular peasant leaders who tortured the nobles at Weinsberg were burned alive in punishment and everyone associated with them killed. At the same time, other disorganized peasant armies were defeated and captured so easily that the local nobles just made them pay large fines and go home.
+
+Because this Peasant's War (Bauernkrieg) has been so important for communist ideology (and presumably modern leftist ideology), it could be the case that POV was shown in selectively translating this article using the German article as a base.
+
+In particular, someone needs to edit this article to show how disorganized and ineffective the peasants were...by recounting how they captured unguarded cities and lost when the real armies came to bring order. People who are pro-Proletariat might not want the article to reflect the major turning point of the war, which was when the farmers tortured the nobles at Weinsberg and turned the learned world against them (those who could read and write).
+
+[[User:EnglishGarden|EnglishGarden]] 21:45, 9 September 2006 (UTC)
+
+the ideological objections (that the nobles have been shown insufficient sympathy, that the Bauernkrieg has been important for leftists and communists) here seem below the level of historical narrative construction (and themselves quite ideologically driven) and should be dismissed as reasons to rewrite the article, unless serous professional sources can be adduced.
+
+[[User:Actio|Actio]] 17:57, 22 April 2007 (UTC) Actio
+:I think you misunderstood my meaning.  I was not saying that we needed to be sympathetic to the nobles.  The nobles are going to look bad no matter how we present the information (because they were doing awful things), but we don't want the article to feel like we're cheering on the peasants and booing the nobles.  We want to simply present the facts, not make value judgements regarding who the good and bad guys were. [[User:Sxeptomaniac|Sxeptomaniac]] 20:02, 23 April 2007 (UTC)
+::The article was a Marxist essay. I have taken out the worst of the bias, but the lack of factual substance remains unresolved. [[User:Postlebury|Postlebury]] ([[User talk:Postlebury|talk]]) 15:37, 14 April 2009 (UTC)
+
+== The Peasant Siege of the Marienberg Fortress Above Wuerzburg in May 1525 ==
+
+I recommend that editors examine the Marienberg Fortress article for an account of the critical battle that lost the war for the peasants. Note that I've already described how the tortures and killings by the peasants of nobles and knights in Weinsberg was the psychological turning point that made it so the nobles and knights would not compromise or make peace with the peasant movement.[[User:EnglishGarden|EnglishGarden]] 22:46, 9 September 2006 (UTC)
+
+== Additional link? ==
+
+Would it be a good idea to add a link to the opera by [[Paul Hindemith]] called ''[[Mathis der Maler (opera)|Mathis der Maler]]''? It is set during the War and centers on the painter [[Matthias Grünewald]]. [[User:Wspencer11|Wspencer11]] 13:48, 31 July 2006 (UTC)
+
+== Comments ==
+
+First, [[User:Stephensj74|Stephensj74]] has got it right in his comment at the top (and he used good sources; I am familiar with Blickle's work, which is kind of a standard for the ''Bauernkrieg''). Second, see the terminology note at [[Popular_revolt_in_late_medieval_Europe]]. But most of all I'm astonished about [[:Image:Karte bauernkrieg3 en.jpg|the map]]; it needs a couple of corrections:
+* Strassbourg isn't in modern Germany
+* it's &quot;Odenwald&quot;, not &quot;Ode'''r'''nwald&quot;
+* &quot;Prag&quot; should be spelled &quot;Praha&quot;.
+* But my major factual gripe about this map concerns Switzerland. It's given as &quot;Insurgences since 1291&quot;, which is a bit nonsensical. By 1524, the [[Old Swiss Confederacy]] was firmly established, and emperor [[Maximilian I, Holy Roman Emperor|Maximilian I]] had in 1511 officially given up all former territorial claims of the Habsburgs in that area in a treaty with the Swiss Confederacy called the ''Erbeinung''.&lt;ref name=&quot;braun2&quot;&gt;{{HDS|8886|Ewige Richtung'' and ''Erbeinungen|author=Braun, B., Sieber-Lehmann, C.|date=2004-12-07}}&lt;/ref&gt; The Swiss Confederacy was at that time an [[Imperial estate]] exempt from the [[Reichskammergericht|Imperial Chamber Court]], although that status within the empire was never formalized.&lt;ref name=&quot;braun&quot;&gt;{{HDS|6626-1-3|Heiliges Römisches Reich &amp;ndash; 3. Von der Reichsreform zum Westfälischen Frieden|author=Braun, B.}}&lt;/ref&gt; Furthermore, much of the northern and western part of the Swiss Confederacy is shown as having seen uprisings during the German peasant war. This completely neglects that these &quot;insurgences&quot; in the Swiss Confederacy had a completely different quality as they did not (as in Germany) result in widespread armed uprisings. In the Swiss Confederacy, these insurgences remained isolated events and in general did not escalate to armed conflicts. 
+* The boundaries of the Holy Roman Empire shown seem to imply that the [[Duchy of Milan]] was part of the empire. But France surrendered its claims in northern Italy only in 1526; see [[Italian Wars]], in particular [[Italian War of 1521]]. Also compare [[:Image:Western Europe in the Time of Charles V (1525).jpg|this map]].
+* Finally, what was used as the background image for this map? It looks like some satellite image. Where did it come from? Is it in the public domain? 
+
+&lt;div style=&quot;padding-left:3em;&quot; class=&quot;references-small&quot;&gt;&lt;references/&gt;&lt;/div&gt;
+
+[[User:Lupo|Lupo]] 22:44, 7 October 2006 (UTC)
+Taylor Lautner is the sexiest man alive!!!
+*Strassbourg was certainly in Germany then; Prague should be spelt Prague.  The Duchy of Milan is very reasonably shown in the Empire.  But this old-fashioned Marxist version (of the whole article) needs wholesale changes, including description of the actual events. [[User:Johnbod|Johnbod]] 02:03, 28 July 2007 (UTC)
+
+==Primary What?!?==
+Primary sources
+
+:* Martin Luther (1525). Against the Murderous, Thieving Hordes of Peasants
+:* Friedrich Engels (1850). The Peasant War in Germany
+:* Tom Scott and Bob Scribner (1991). The German Peasants' War: A History in Documents
+
+Friedrich Engels is a primary source for the german peasant's war? Thats an interesting viewpoint. I'm changing this. --[[Special:Contributions/168.105.209.33|168.105.209.33]] ([[User talk:168.105.209.33|talk]]) 23:07, 25 November 2007 (UTC)
+:Yes, clearly that is in error.  It should be moved to secondary sources. ---&lt;font face=&quot;Celtic&quot;&gt;[[User:RepublicanJacobite|&lt;span style=&quot;color:#009900&quot;&gt;RepublicanJacobite&lt;/span&gt;]]&lt;sub&gt;''[[User talk:RepublicanJacobite|&lt;span style=&quot;color:#006600&quot;&gt;The'FortyFive'&lt;/span&gt;]]''&lt;/sub&gt;&lt;/font&gt; 04:52, 26 November 2007 (UTC)
+
+==Rewrite==
+I know a lot of people seem to be defending this article for whatever reason, but it desperately needs a rewrite. It seems to be written from an extremely socialist viewpoint. Not that it is overtly biased, but the article has about ten sections on classes and class conflict, and about two or three scattered paragraphs on the actually events of the war. As if they were some sort of footnote. Inarguably you can't study the Bauernkrieg without understanding the class issues that underpinned it, but this article focuses so exclusively on them that it ends up being to the detriment of the end product. Its unencyclopedic and something needs to be done about it. Thoughts? --[[User:168.105.125.248|168.105.125.248]] 16:41, 30 November 2007 (UTC)
+:I've added a rewrite tag. If nothing happens in a while, I might come back and cut the whole thing down to a couple of paragraphs to deal with the imbalance issues. Better to have a hundred word stub (which is what I could do, I'm not an expert), than a thousand word biased essay. [[User:Postlebury|Postlebury]] ([[User talk:Postlebury|talk]]) 15:43, 14 April 2009 (UTC)
+
+==Roman Civil law==
+I saw the redlink to Roman Civil law in the article and was tempted to change it to link to [[Corpus Juris Civilis]] but I thought I'd better check - and I can't find a reference supporting this. Certainly Engels doesn't mention Justinian law in any way in his book (he does mention it, as 'the Pandects', in other works, but not in relation to this conflict as far as I can tell). To the contrary, the mentions of 'Roman' and 'jurisprudence' that I found were all about the application of church dogma in the courts - not the same thing. I'm tagging this as lacking sources. [[User:Bazzargh|Bazzargh]] ([[User talk:Bazzargh|talk]]) 12:01, 9 April 2008 (UTC)
+
+== WikiProject Military history/Assessment/Tag &amp; Assess 2008 ==
+Article reassessed and graded as start class. --[[User:Dashiellx|dashiellx]] ([[User talk:Dashiellx|talk]]) 19:37, 27 June 2008 (UTC)
+
+== Possible solution....? ==
+
+I suggest renaming this article to &quot;Social Background of the Peasant War in Germany&quot; or something to that effect.  It ''is'' a good article, and although it doesn't have inline sources and there are some npov questions, those would not be difficult to fix; fundamentally it is well done and largely &quot;correct&quot; in terms of the interpretation of the historiography.  
+There are some other question I would raise: I might quibble with &quot;minor deaths&quot; for example.  The death of the Count resulted in reprisals that were particularly gruesome, and I'm wondering about the relevance of the information on his wife.  
+That said, however, anyone wanting to know the military aspects of the Peasant War would be disappointed with this article, because it simply does not suffice in that area.
+So I'm suggesting a set of articles, including this one, to form the core of a series on the Peasant War in Germany.  It would include Cause of the War (partially covered here), Course of the War (plus battles, typical battle box), and it should also include some spin offs of the major commanders on both sides, and so forth.  Ideas?  Theories?  [[User:Auntieruth55|Auntieruth55]]
+
+== It may be a bad title, but it was at least descriptive of the article, which the current title is not. ==
+
+When you do something like that, it would be good to find out what the discussion or motivation has been prior to moving something back.  This is a poor article about the peasant war, although a much better article about Marxist interpretation of the Peasant war.  An article about the Peasant War should have some specific things in it, like Battles, Orders of Battle, commanders, soldiers, casualties, etc.  This has none of that.  It is, however, quite an interesting article on the interpretation of the causes of the war.  So I'd appreciate it if you would retitle the article to something you think is more appropriate to something ''other'' than the Peasant war, so that the military historians can actually write the appropriate article... Thanks.  [[User:Auntieruth55|Auntieruth55]] ([[User talk:Auntieruth55|talk]]) 02:18, 6 November 2009 (UTC)
+
+:Maybe causes of the peasant war?[[User:Teeninvestor|Teeninvestor]] ([[User talk:Teeninvestor|talk]]) 13:20, 6 November 2009 (UTC)
+::''Causes of the Peasant War'' works sort of, except that this only focuses on Marx and Engels' interpretation of the Causes of the Peasant's War. There are other interpretations of the causes and this is by no means an unbiased presentation of the Causes.  [[User:Auntieruth55|Auntieruth55]] ([[User talk:Auntieruth55|talk]]) 17:55, 6 November 2009 (UTC)
+
+== article is unacceptable, possibly the worst cited page i have seen ==
+
+Look at the clergy paragraph . I think John MacArthur wrote this bigoted trash. No citations on things. [[User:Peppermintschnapps|Peppermintschnapps]] ([[User talk:Peppermintschnapps|talk]]) 00:08, 4 January 2010 (UTC)
+
+this should be deleted
+
+== Bauer =/= peasant ==
+
+A Bauer is a commoner of his own lands. A peasant is someone that doesn't own land, just works it. --[[Special:Contributions/41.151.79.199|41.151.79.199]] ([[User talk:41.151.79.199|talk]]) 05:58, 4 May 2012 (UTC)
+:Historically, a ''Bauer'' didn't necessarily own the fields he was working on. See [[:de:Bauernstand]]. --[[User:Rosenzweig|Rosenzweig]] ([[User talk:Rosenzweig|talk]]) 17:27, 4 May 2012 (UTC)
+	</talkpage>
+</article>

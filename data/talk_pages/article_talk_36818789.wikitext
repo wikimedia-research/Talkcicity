@@ -1,0 +1,9 @@
+<article id="24167482" title=Talk:Stadion pod Borićima>
+	<talkpage id="24167482" title="Talk:Stadion pod Borićima">
+{{WikiProjectBannerShell|1=
+{{WikiProject Bosnia and Herzegovina|class=Stub|importance=mid}}
+{{WikiProject Football|class=Stub|importance=mid}}
+{{WikiProject Sports facilities task force}}
+}}
+	</talkpage>
+</article>

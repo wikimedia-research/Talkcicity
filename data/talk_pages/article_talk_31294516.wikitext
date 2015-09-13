@@ -1,0 +1,8 @@
+<article id="31294516" title=User talk:164.104.245.71>
+	<talkpage id="31294516" title="User talk:164.104.245.71">
+
+== March 2011 ==
+
+[[File:Information.png|25px|alt=|link=]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, the &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Northwest_Ordinance?diff=420668770 recent edit]&lt;/span&gt; you made to [[:Northwest Ordinance]] did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you. &lt;!-- Uw-vandalism1 --&gt;&lt;!-- Template:Huggle/warn-1 --&gt; &lt;b&gt;&lt;span style=&quot;font-family: Papyrus&quot;&gt;[[User:Wikipelli|&lt;font color=&quot;#01796F&quot;&gt;'''Wikipelli'''&lt;/font&gt;]] [[User talk:Wikipelli|&lt;font color=&quot;#7b68ee&quot;&gt;&lt;sup&gt;Talk&lt;/sup&gt;&lt;/font&gt;]]&lt;/span&gt;&lt;/b&gt; 15:39, 25 March 2011 (UTC)
+	</talkpage>
+</article>

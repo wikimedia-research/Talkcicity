@@ -1,0 +1,6 @@
+<article id="35704432" title=Talk:Architectural, Surveying and Planning (constituency)>
+	<talkpage id="35704432" title="Talk:Architectural, Surveying and Planning (constituency)">
+{{WikiProject Elections and Referendums}}
+{{WikiProject Hong Kong|class=stub|importance=Low}}
+	</talkpage>
+</article>

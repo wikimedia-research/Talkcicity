@@ -1,0 +1,10 @@
+<article id="16029539" title=User talk:66.92.221.131>
+	<talkpage id="16029539" title="User talk:66.92.221.131">
+
+== March 2008 ==
+
+[[Image:Information.png|25px|left]] Hi, the &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Battle_of_Gallipoli?diff=195028281 recent edit]&lt;/span&gt; you made to [[:Battle of Gallipoli]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thanks. &lt;!-- Template:uw-huggle1 --&gt; [[User:Cro0016|Steve Crossin]] ([[User talk:Cro0016|talk]]) 01:31, 1 March 2008 (UTC)
+
+[[Image:Information.png|25px|left]] The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/VCs_of_the_First_World_War_—_Gallipoli?diff=195031088 recent edit]&lt;/span&gt; you made to [[:VCs of the First World War — Gallipoli]] constitutes [[Wikipedia:Vandalism|vandalism]], and has been reverted. Please do not continue to vandalize pages; use the [[Wikipedia:Sandbox|sandbox]] for testing. Thanks. &lt;!-- Template:uw-huggle2 --&gt; &lt;span style=&quot;font-family: Papyrus&quot;&gt;[[User:Chetblong|&lt;font color=&quot;gray&quot;&gt;Chetblong&lt;/font&gt;]]&lt;sup&gt;[[User talk:Chetblong|&lt;font color=&quot;#00dc64&quot;&gt;T&lt;/font&gt;]] [[Special:Contributions/Chetblong|&lt;font color=&quot;black&quot;&gt;C&lt;/font&gt;]]&lt;/sup&gt;&lt;/span&gt; 01:52, 1 March 2008 (UTC))
+	</talkpage>
+</article>

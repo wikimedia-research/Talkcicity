@@ -1,0 +1,13 @@
+<article id="9256225" title=Talk:Charles Lecocq>
+	<talkpage id="9256225" title="Talk:Charles Lecocq">
+{{WikiProjectBannerShell|1=
+{{WikiProject Opera|class=Start|auto=yes}}
+{{WikiProject France|class= Start|importance= }}
+{{WikiProject Biography|living=no|class=start|listas=Lecocq, Alexandre Charles
+}}
+}}
+
+== WikiProject class rating==
+This article was automatically  assessed because at least one article was rated and this bot brought all the other ratings up to at least that level. [[User:BetacommandBot|BetacommandBot]] 02:11, 27 August 2007 (UTC)
+	</talkpage>
+</article>

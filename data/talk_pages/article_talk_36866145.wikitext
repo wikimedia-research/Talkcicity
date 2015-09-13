@@ -1,0 +1,15 @@
+<article id="36866145" title=Talk:Daundre Barnaby>
+	<talkpage id="36866145" title="Talk:Daundre Barnaby">
+{{WikiProjectBannerShell|1=
+{{WikiProject Athletics}}
+{{WikiProject Biography
+|living=no
+|class=Stub
+|listas=Barnaby, Daundre
+}}
+{{WikiProject Canada|class=stub|importance=low}}
+{{WikiProject Olympics|class=stub|importance=low}}
+| blp=no
+}}
+	</talkpage>
+</article>

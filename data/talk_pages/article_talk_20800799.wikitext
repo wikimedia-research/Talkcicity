@@ -1,0 +1,6 @@
+<article id="20800799" title=Talk:Wairarapa Railway Restoration Society>
+	<talkpage id="20800799" title="Talk:Wairarapa Railway Restoration Society">
+{{WikiProject New Zealand|importance=low|class=start}}
+{{WikiProject Trains|class=start|importance=low|unref=yes|infoboxneeded=yes|NZR=yes|portaldykdate=February 27, 2012}}
+	</talkpage>
+</article>

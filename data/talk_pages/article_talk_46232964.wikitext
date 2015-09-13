@@ -1,0 +1,9 @@
+<article id="46232964" title=User talk:173.187.14.236>
+	<talkpage id="46232964" title="User talk:173.187.14.236">
+== March 2015 ==
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Gilliam|Gilliam]]. I wanted to let you know that I undid one or more of [[Special:Contributions/173.187.14.236|your recent contributions]]&amp;nbsp;to [[:Clef]] because it did not appear constructive. If you would like to experiment, please use the [[WP:sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Gilliam|my talk page]]. Thanks.&lt;!-- Template:uw-vandalism1 --&gt; – [[User:Gilliam|Gilliam]] ([[User talk:Gilliam|talk]]) 13:28, 26 March 2015 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+
+[[File:Information orange.svg|25px|alt=Information icon|link=]] Please refrain from making unconstructive edits to Wikipedia, as you did at [[:Da capo]]. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]] or removed. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. [[Wikipedia:Administrators|Administrators]] have the ability to [[WP:BLOCK|block]] users from editing if they repeatedly engage in vandalism. Thank you.&lt;!-- Template:uw-vandalism2 --&gt; &amp;nbsp;—[[User:Smalljim|S&lt;small&gt;MALL&lt;/small&gt;]][[User talk:Smalljim#top|&lt;small&gt;JIM&lt;/small&gt;]]&amp;nbsp; 14:20, 26 March 2015 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="43603905" title=Talk:Vijay Singh (disambiguation)>
+	<talkpage id="43603905" title="Talk:Vijay Singh (disambiguation)">
+{{disambigproject}}
+	</talkpage>
+</article>

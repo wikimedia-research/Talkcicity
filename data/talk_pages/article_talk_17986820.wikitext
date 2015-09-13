@@ -1,0 +1,5 @@
+<article id="17986820" title=Talk:Zhetigen>
+	<talkpage id="17986820" title="Talk:Zhetigen">
+{{WikiProject Central Asia|class=stub|importance=low|Kazakhstan=yes|Kazakhstan-importance=low}}
+	</talkpage>
+</article>

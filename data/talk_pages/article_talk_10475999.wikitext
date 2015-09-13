@@ -1,0 +1,12 @@
+<article id="10475999" title=Talk:George II of Georgia>
+	<talkpage id="10475999" title="Talk:George II of Georgia">
+{{WikiProject Biography
+|living=no
+|class=Start
+|listas=George 02 Of Georgia
+|royalty-work-group=yes
+}}
+{{WikiProject Georgia (country)|class=Start|importance=}}
+{{WPMA|class=Start|importance=Low}}
+	</talkpage>
+</article>

@@ -1,0 +1,12 @@
+<article id="16140430" title=Talk:Cultus deorum>
+	<talkpage id="16140430" title="Talk:Cultus deorum">
+On what basis is this the &quot;proper&quot; name for the Roman religion?
+
+==Strange name==
+What a strange name. Why isn't it ''Cultus deorum romanorum'', or ''Cultus deorum romanus''. &quot;The roman thing of the worship of the gods&quot; strikes me as perversly indirect, even by latin standards. [[User:Rwflammang|Rwflammang]] ([[User talk:Rwflammang|talk]]) 15:00, 25 July 2008 (UTC)
+
+*There are more google results for 'cultus deorum romanorum' than for 'cultus deum romanum', but only a few thousand for each, and I didn't find any definite scholarship on the subject. The former is much more direct, but you know what the Romans were like.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/169.229.109.115|169.229.109.115]] ([[User talk:169.229.109.115|talk]]) 01:04, 17 March 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+::I get no hits searching Google Books for ''[http://books.google.com/books?as_q=&amp;num=10&amp;btnG=Google+Search&amp;as_epq=cultus+deorum+romanorum&amp;as_oq=&amp;as_eq=&amp;as_brr=0&amp;as_pt=ALLTYPES&amp;lr=&amp;as_vt=&amp;as_auth=&amp;as_pub=&amp;as_sub=&amp;as_drrb_is=q&amp;as_minm_is=0&amp;as_miny_is=&amp;as_maxm_is=0&amp;as_maxy_is=&amp;as_isbn=&amp;as_issn= cultus deorum romanum]'', which is an ungrammatical construction. For the grammatical ''cultus deorum romanorum'', I get a [http://books.google.com/books?as_q=&amp;num=10&amp;btnG=Google+Search&amp;as_epq=Cultus+deorum+romanorum&amp;as_oq=&amp;as_eq=&amp;as_brr=0&amp;as_pt=ALLTYPES&amp;lr=&amp;as_vt=&amp;as_auth=&amp;as_pub=&amp;as_sub=&amp;as_drrb_is=q&amp;as_minm_is=0&amp;as_miny_is=&amp;as_maxm_is=0&amp;as_maxy_is=&amp;as_isbn=&amp;as_issn= grand two]. I don't know what the article is supposed to be about, but I'm pretty sure it's already covered in [[Religion in ancient Rome]] or [[Imperial cult (ancient Rome)]], and I've redirected it to the latter. [[User:Cynwolfe|Cynwolfe]] ([[User talk:Cynwolfe|talk]]) 00:03, 21 May 2010 (UTC)
+	</talkpage>
+</article>

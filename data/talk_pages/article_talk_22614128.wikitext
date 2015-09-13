@@ -1,0 +1,11 @@
+<article id="22614128" title=Talk:Stanley Banham>
+	<talkpage id="22614128" title="Talk:Stanley Banham">
+{{WikiProject Biography
+|living=no
+|class=Stub
+|listas=Banham, Stanley
+}}
+
+{{WikiProject Cricket|class=stub|importance=low}}
+	</talkpage>
+</article>

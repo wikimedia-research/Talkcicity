@@ -1,0 +1,27 @@
+<article id="21347886" title=Talk:Gladiators: Springbok Challenge 2>
+	<talkpage id="21347886" title="Talk:Gladiators: Springbok Challenge 2">
+{{Talk header}}
+{{WikiProjectBannerShell|1=
+{{WPSPORTS}}
+{{WPTV}}
+{{WPUK}}
+{{WikiProject South Africa |class=Stub |importance=Mid |attention= |needs-infobox= }}
+
+}}
+
+==Requested move 2009==
+{{polltop}} '''Move''' [[User:Parsecboy|Parsecboy]] ([[User talk:Parsecboy|talk]]) 14:14, 7 February 2009 (UTC)
+
+[[Springbok challenge 2]] → [[Gladiators: Springbok Challenge 2]] — This is called ''Gladiators: Springbok Challenge'' in most things I find on the net. — [[Special:Contributions/76.66.196.229|76.66.196.229]] ([[User talk:76.66.196.229|talk]]) 05:38, 1 February 2009 (UTC)
+
+===Survey===
+:''Feel free to state your position on the renaming proposal by beginning a new line in this section with'' &lt;code&gt;&lt;nowiki&gt;*'''Support'''&lt;/nowiki&gt;&lt;/code&gt; ''or'' &lt;code&gt;&lt;nowiki&gt;*'''Oppose'''&lt;/nowiki&gt;&lt;/code&gt;'', then sign your comment with'' &lt;code&gt;&lt;nowiki&gt;~~~~&lt;/nowiki&gt;&lt;/code&gt;''. Since [[Wikipedia:Polling is not a substitute for discussion|polling is not a substitute for discussion]], please explain your reasons, taking into account [[Wikipedia:Naming conventions|Wikipedia's naming conventions]].''
+
+*
+
+===Discussion===
+:''Any additional comments:''
+
+{{pollbottom}}
+	</talkpage>
+</article>

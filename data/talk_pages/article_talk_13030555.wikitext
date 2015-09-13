@@ -1,0 +1,5 @@
+<article id="13030555" title=Talk:Yeridat ha-dorot>
+	<talkpage id="13030555" title="Talk:Yeridat ha-dorot">
+{{WikiProject Judaism|importance=high|class=stub}}
+	</talkpage>
+</article>

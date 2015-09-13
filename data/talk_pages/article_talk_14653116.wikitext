@@ -1,0 +1,9 @@
+<article id="14653116" title=Talk:Strawberry Banks>
+	<talkpage id="14653116" title="Talk:Strawberry Banks">
+{{WikiProjectBannerShell|1=
+{{WikiProject Environment|class=start|importance=}}
+{{WikiProject England|class=start|importance=low}}
+{{WikiProject Protected areas|class=Start|importance=Low}}
+}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="44872559" title=Talk:Tun Tavern Brewery>
+	<talkpage id="44872559" title="Talk:Tun Tavern Brewery">
+{{WikiProject Food and drink}}
+	</talkpage>
+</article>

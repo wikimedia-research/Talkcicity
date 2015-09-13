@@ -1,0 +1,28 @@
+<article id="3674023" title=Talk:Seven Sister States>
+	<talkpage id="3674023" title="Talk:Seven Sister States">
+{{WikiProject India
+|class=start
+|importance=low
+|assam=yes|assam-importance=low
+|assess-date=April 2012
+}}
+{{WPASM}}
+==Better name?==
+
+A better name for the article would be the seven sisters of India or the seven sisters of the North-East, as these are the names used in media rather than &quot;Seven Sister States.&quot; --[[User:Gurubrahma|Gurubrahma]] 06:17, 10 January 2006 (UTC)
+
+Using the term &quot;Seven Sisters&quot; would require a disambiguation, because &quot;The Seven Sisters&quot; is another name given to the &quot;Pleiads&quot; group of stars in astronomy. [[User:Hugo Dufort|Hugo Dufort]] 03:31, 2 October 2006 (UTC)
+
+: It is unambiguously called &quot;Seven Sister States&quot;.  [[User:Chaipau|Chaipau]] 04:10, 2 October 2006 (UTC)
+
+::Actually, &quot;Seven Sister States&quot; is a far second to &quot;Seven Sisters&quot;.  A much better name, according to [[WP:NC]] would be [[Seven Sisters (India)]].  [[User:TShilo12|Tom]]&lt;font color=&quot;#008000&quot;&gt;[[Wikipedia:Esperanza|e]]&lt;/font&gt;[[User:TShilo12|r]][[User talk:TShilo12|&lt;sup style=&quot;font-variant: small-caps; color: #129dbc!important;&quot;&gt;talk&lt;/sup&gt;]] 08:01, 7 January 2007 (UTC)
+
+:::Seven Sisters can also refer to certain colleges in the U.S. (mostly formerly all-women) and mountaintops in Massaschusetts.[[User:Historian932|Historian932]] ([[User talk:Historian932|talk]]) 22:51, 27 May 2013 (UTC)
+
+i think think the most appropriate name can be seven heavens...how about this???  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/111.93.52.250|111.93.52.250]] ([[User talk:111.93.52.250|talk]]) 11:11, 22 March 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Interdependence ==
+
+I am confused by this line from the Interdependence paragraph:  &quot;A correct strategy to control floods in the plains calls for soil conservation and afforestation in the hills.&quot;  I know something about range/forest/watershed management at least in the USA and it seems as though the author is suggesting that the sister states practice &quot;afforestation?&quot;  To minimize peakflows downstream, a more forested and more vegetated uplands is needed or desired to reduce valley flooding not afforestation.  Is this a language issue perhaps?[[User:Polkamj|Polkamj]] ([[User talk:Polkamj|talk]]) 13:56, 18 April 2013 (UTC)polkamj
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="3100527" title=Talk:Bisharin tribe>
+	<talkpage id="3100527" title="Talk:Bisharin tribe">
+{{WikiProject Egypt|class=stub|importance=Mid}}
+{{WikiProject Africa|Sudan=yes|class=stub|importance=Top|Sudan-importance=Top}}
+	</talkpage>
+</article>

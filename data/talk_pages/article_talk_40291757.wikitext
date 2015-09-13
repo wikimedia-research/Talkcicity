@@ -1,0 +1,10 @@
+<article id="40291757" title=Talk:Qeshlaq-e Seyyedlar Sahab Isa Zadeh>
+	<talkpage id="40291757" title="Talk:Qeshlaq-e Seyyedlar Sahab Isa Zadeh">
+{{WikiProjectBannerShell|1=
+{{WikiProject Geography|class=stub|importance=low}}
+{{WikiProject Iran |importance=|class=stub}}
+{{WikiProject Cities|class=stub|importance=low}}
+{{Image requested|in=Iran}}
+}}
+	</talkpage>
+</article>

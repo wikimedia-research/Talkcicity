@@ -1,0 +1,42 @@
+<article id="42688708" title=User talk:Xgenmedia>
+	<talkpage id="42688708" title="User talk:Xgenmedia">
+== Welcome! ==
+
+Hello, Xgenmedia, and welcome to Wikipedia! Thank you for [[Special:Contributions/Xgenmedia|your contributions]]. I hope you like the place and decide to stay. Here are a few links to pages you might find helpful:
+* [[Help:Getting started|Getting started]]
+* [[Wikipedia:Introduction|Introduction to Wikipedia]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Help:Editing|How to edit a page]] and [[Wikipedia:Article development|How to develop articles]]
+* [[Wikipedia:Your first article|How to create your first article]] 
+* [[Wikipedia:Simplified Manual of Style|Simplified Manual of Style]]
+Please remember to [[Wikipedia:Signatures|sign]] your messages on [[Help:Using talk pages|talk page]]s by typing four [[tilde]]s (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically insert your username and the date. If you need help, check out [[Wikipedia:Questions]], ask me on my talk page, or ask your question on this page and then place '''{{Tlc|Help me}}''' before the question. Again, welcome! &lt;!-- Template:Welcome --&gt; [[User:BracketBot|BracketBot]] ([[User talk:BracketBot|talk]]) 11:46, 7 May 2014 (UTC)
+
+== May 2014 ==
+
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:BracketBot|BracketBot]]. I have automatically detected that &lt;span class=&quot;plainlinks&quot;&gt;[//en.wikipedia.org/w/index.php?diff=607464620 your edit] to [[Monica Lewinsky]] may have broken the [[syntax]] by modifying 2 &quot;{}&quot;s. If you have, don't worry: just [{{fullurl:Monica Lewinsky|action=edit&amp;minor=minor&amp;summary=Fixing+typo+raised+by+%5B%5BUser%3ABracketBot%7CBracketBot%5D%5D}} edit the page] again to fix it. If I misunderstood what happened, or if you have any questions, you can leave a message on [//en.wikipedia.org/w/index.php?action=edit&amp;preload=User:A930913/BBpreload&amp;editintro=User:A930913/BBeditintro&amp;minor=&amp;title=User_talk:A930913&amp;preloadtitle=BracketBot%20–%20{{subst&lt;/noinclude&gt;:REVISIONUSER}}&amp;section=new my operator's talk page].&lt;/span&gt;
+:List of unpaired brackets remaining on the page:
+*&lt;nowiki&gt;[Bachelor of Arts|BA]])&lt;/small&gt;&lt;br/&gt;[[London School of Economics]] &lt;small&gt;([[Master of Science]]|MS&lt;/nowiki&gt;{{red|'''&amp;#93;&amp;#93;'''}}&lt;nowiki&gt;)&lt;/nowiki&gt;
+*&lt;nowiki&gt;Monica-Lewinsky-breaks-silence-on-Clinton-affair#.U2omR4GSxe4 |publisher=ABP News |date=7 May 2014&lt;/nowiki&gt;{{red|'''&amp;#125;&amp;#125;'''}}&lt;nowiki&gt;&lt;/ref&gt;&lt;/nowiki&gt;
+It's OK to remove this message. Also, to stop receiving these messages, follow [[User:BracketBot#Opting out|these opt-out instructions]]. Thanks, &lt;!-- (0, 0, -2, 0) --&gt;&lt;!-- User:BracketBot/inform --&gt;[[User:BracketBot|BracketBot]] ([[User talk:BracketBot|talk]]) 11:46, 7 May 2014 (UTC)
+== Your submission at [[Wikipedia:Articles for creation|Articles for creation]]: [[User:Xgenmedia/sandbox|User:Xgenmedia/sandbox]] (May 8) ==
+&lt;div style=&quot;border: solid 1px #FCC; background-color: #F8EEBC; padding: 0.5em 1em; color: #000; margin: 1.5em; width: 90%;&quot;&gt; [[File:AFC-Logo_Decline.svg|50px|left]]Your recent article submission to [[WP:AFC|Articles for Creation]] has been reviewed!  Unfortunately, it has not been accepted at this time.&lt;br /&gt;Please read the comments left by the reviewer on your submission.  You are encouraged to edit the submission to address the issues raised and resubmit when they have been &lt;u&gt;resolved&lt;/u&gt;.&lt;br/&gt;
+&lt;div class=&quot;plainlinks&quot;&gt;
+* If you would like to continue working on the submission, you can find it at [[Wikipedia&amp;#32;talk:Articles for creation/Xgenmedia/sandbox]].
+* To edit the submission, click on the &quot;Edit&quot; tab at the top of the window.
+* If you need any assistance, you can ask for help at the [//en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Articles_for_creation/Help_desk&amp;action=edit&amp;section=new '''Articles for creation help desk'''], or on the &lt;span class=&quot;noprint plainlinks&quot;&gt;[//en.wikipedia.org/w/index.php?title=User_talk:Aggie80&amp;action=edit&amp;section=new reviewer's talk page]&lt;/span&gt;.
+&lt;div style=&quot;float: right; display: block; text-align: center; border: 1px solid #000; margin: 3px -10px; padding: 3px 8px; background-color: #DCFFDC;&quot;&gt;'''&lt;big&gt;Thank you for your&lt;br /&gt;contributions to Wikipedia!&lt;/big&gt;'''&lt;/div&gt;
+:* '''Please remember to [[Help:Wikilink|link]] to the submission!'''
+* You can also get [http://webchat.freenode.net/?channels=#wikipedia-en-help real-time chat help from experienced editors].
+[[User:Aggie80|The Ukulele Dude - Aggie80]] ([[User talk:Aggie80|talk]]) 00:09, 8 May 2014 (UTC)&lt;/div&gt;&lt;!--Template:Afc decline--&gt;&lt;/div&gt;
+==Your draft article, [[User:Xgenmedia/sandbox]]==
+[[File:Information icon4.svg|48px|left|alt=|link=]]
+
+Hello Xgenmedia. It has been over six months since you last edited your [[WP:AFC]] draft article submission, entitled &quot;[[User:Xgenmedia/sandbox|sandbox]]&quot;. 
+
+The page will shortly be deleted. If you plan on editing the page to address the issues raised when it was declined and resubmit it, simply {{edit|User:Xgenmedia/sandbox|edit the submission}} and remove the {{tlc|db-afc}} or {{tlc|db-g13}} code. Please note that Articles for Creation is not for indefinite hosting of material deemed unsuitable for the encyclopedia [[WP:mainspace|mainspace]].
+
+If your submission has already been deleted by the time you get there, and you want to retrieve it, copy this code: &lt;code&gt;&lt;nowiki&gt;{{subst:Refund/G13|&lt;/nowiki&gt;User:Xgenmedia/sandbox&lt;nowiki&gt;}}&lt;/nowiki&gt;&lt;/code&gt;, paste it in the edit box at &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/w/index.php?title=Wikipedia:Requests_for_undeletion&amp;action=edit&amp;section=new this link]&lt;/span&gt;, click &quot;Save page&quot;, and an administrator will in most cases undelete the submission.
+
+Thanks for your submission to Wikipedia, and happy editing. &lt;!-- Template:Db-afc-notice --&gt; &lt;!-- Template:Db-csd-notice-custom --&gt; [[User:JMHamo|JMHamo]] ([[User talk:JMHamo|talk]]) 15:54, 12 November 2014 (UTC)
+	</talkpage>
+</article>

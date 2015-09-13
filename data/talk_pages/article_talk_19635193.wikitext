@@ -1,0 +1,13 @@
+<article id="19635193" title=Talk:Demoptolemus>
+	<talkpage id="19635193" title="Talk:Demoptolemus">
+{{WikiProjectBannerShell|1=
+{{WikiProject Greece|class=Stub|importance=Low}}
+{{WikiProject Classical Greece and Rome|class=Stub|importance=Low}}
+{{WikiProject Mythology|class=Stub|importance=Low}}
+}}
+
+
+==Untitled==
+named in (Hom. Od. xxii. 246, 266.) according to [http://www.mythindex.com/greek-mythology/D/Demoptolemus.html] --[[User:Zeborah|Zeborah]] ([[User talk:Zeborah|talk]]) 09:43, 19 February 2009 (UTC)
+	</talkpage>
+</article>

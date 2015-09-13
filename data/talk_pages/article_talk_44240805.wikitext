@@ -1,0 +1,8 @@
+<article id="44240805" title=User talk:64.134.161.156>
+	<talkpage id="44240805" title="User talk:64.134.161.156">
+== October 2014 ==
+
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Frosty|Frosty]]. I wanted to let you know that I undid one of [[Special:Contributions/64.134.161.156|your recent contributions]]&amp;nbsp;—the one you made with &lt;span class=&quot;plainlinks&quot;&gt;[https://en.wikipedia.org/w/index.php?title=Fuck%20You%20%28Lily%20Allen%20song%29&amp;diff=631545590 this edit]&lt;/span&gt; to [[:Fuck You (Lily Allen song)]]— because it didn’t appear constructive to me. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Frosty|my talk page]]. Thanks. &lt;!-- Template:Huggle/warn-1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt;—'''''[[User:Frosty|Frosty]]''''' [[User talk:Frosty|☃]] 01:15, 29 October 2014 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

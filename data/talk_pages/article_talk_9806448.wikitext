@@ -1,0 +1,57 @@
+<article id="9806448" title=Talk:Isolation transformer>
+	<talkpage id="9806448" title="Talk:Isolation transformer">
+{{WikiProject Energy|autotagged=yes|class=|importance=}}
+{{WikiProject Occupational Safety and Health |class = start |importance = low}}
+Dear sir
+please send me details of working of transformer isolated barrier.can i get the ckt diagram that how it will work ?please send urgently.
+regards
+Umesh
+
+Ground Fault Isolation
+We are using 120V commercial grade electronic ballasts, properly grounded, rated at 2Amps to drive two low pressure UV lamps submerged in water rated at 800mA.  System requirements are to use GFI barkers with each ballast. This installation in a wastewater treatment plant, where there are motors, pumps and air compressors. GFI’s are randomly tripping at 5mA from ballast electronic current leakage up to 9.2mA.  Can we resolve our nuisance GFI tripping by using 120V to 120V isolation transformers between the GFI and electronic ballast? 
+
+You've probably got a defective ballast or defective GFCI breaker. 
+
+[[User:Ivannewman|Ivannewman]] 00:41, 19 June 2007 (UTC)
+
+
+Wikipedia is not the place for such queries. I don't think that the bit of how-to information about connecting two power transformers symmetrically to create an isolation transformer belongs here either.
+[[User:Eikimart|Eikimart]] 19:58, 16 August 2007 (UTC)
+
+== Protecting Audio-Video equipment ==
+
+How do we fully protect the home AV equipment in case of any possible problems in the mains power network (fluctuations, noise, etc)? I read that there are seven types of power problems. So how do we protect our consumer electronics against all these problems, without loosing quality in sound and video?
+I was informed about two solutions:
+1/. On-line UPS or
+2/. Isolation transformer and Power Conditioner.
+But these two solutions, as i was told, affect the quality of the sound. Does anyone know why this happens? What are the advantages and disadvantages of these two solutions? Why is the isolation transformer used in our case, how does it protect?
+Are there other solutions?
+[[User:Leo67|Leo67]] ([[User talk:Leo67|talk]]) 11:00, 28 March 2008 (UTC)
+
+== Where does the potential difference come from? ==
+
+:''Grounded objects near the device under test (desk, lamp, concrete floor, oscilloscope ground lead, etc.) may be at a hazardous potential difference with respect to that device. By using an isolation transformer, the bonding is eliminated, and the shock hazard is entirely contained within the device.''
+Why should there be a potential difference between the DUT and objects near the DUT? And if there is a potential difference, shouldn't the earthing system and its circuit breakers prevent bad from happening? Thanks, --[[User:Abdull|Abdull]] ([[User talk:Abdull|talk]]) 20:05, 31 January 2010 (UTC)
+
+::As an example, most switching power supplies (such as used in TVs, PCs, etc.) connect a bridge rectifier directly to the AC input.  There's about 165VDC (in the US) across the reservoir caps but the negative side of those caps (so-called HOT ground) are about -83V w.r.t. Earth.  So, for example, if you forget to use an isolation transformer and you try to connect an oscilloscope ground lead to the HOT ground, you will most likely vaporize some PCB tracks and blow a fuse or three. [[User:Alfred Centauri|Alfred Centauri]] ([[User talk:Alfred Centauri|talk]]) 23:09, 31 January 2010 (UTC)
+
+== Earthing one end and safety ==
+
+I've inadvertently restored a sentence that had been deleted with comment. I'll let the restoration stand, and justify it here.
+
+The sentence is:
+
+*Earthing one end of the secondary makes an isolation transformer less safe for working on live equipment, as discussed above; but if neutral is connected to earth a [[fuse]] will blow or [[circuit breaker]] trip (if fitted!) if the transformer fails in certain ways or the live output gets shorted to earth&amp;mdash;a desirable and safe outcome.
+
+* The comment: I still think this is redundant...longer, but not clearer.
+
+It's not redundant in the sense of repeating something already said; I don't think this point is addressed at all in the article (I'll recheck, have been known to miss things). I don't think it's redundant in the sense of not needed; noise is often given as the reason for earthing the secondary, but this is relevant and perhaps more important. I haven't given a reference, but would comment that it's fairly obvious that this happens, and that it's a good thing.
+
+[[User:Pol098|Pol098]] ([[User talk:Pol098|talk]])
+:: I'm not sure how I'd describe someone who purchases a very expensive isolation transformer and then grounds the secondary.  &quot;Dumbass&quot; is the first word that comes to mind, but I've been called cynical. Should we also advise that baring the wires of the transformer leads and wrapping the energized bare ends around the tounge will lead to acute discomfort and perhaps death? Really, do we need to describe all the ways an idiot can go wrong here, or should we confine ourselves to the intended use of an isolation transformer? Since the (primary) neutral is already connnected to earth, the above sentence is wrong anyway. --[[User:Wtshymanski|Wtshymanski]] ([[User talk:Wtshymanski|talk]]) 16:00, 7 July 2010 (UTC)
+
+:::120:120 instrument transformers are called '''isolation transformers''' and their secondaries are almost always connected to the same ground the primary is connected to. This is done for phasor reversal of 180 degrees. Just because an isolating transformer is not designed for human safety and incorporating a big isolation factor design, such a medical operating room usage types, doesn't mean it isn't called an &quot;isolation transformer&quot;. The term is used due to not having a step-up or step-down voltage transformation and lack of a better name. These are also called &quot;reversing coil&quot; and &quot;reversing transformer&quot; in the industry. [[Special:Contributions/174.118.142.187|174.118.142.187]] ([[User talk:174.118.142.187|talk]]) 13:39, 3 May 2013 (UTC)
+
+::With respect to Pol098's comment. I don't like taking out breakers by passing that amount of current through my body when working on equipment. You missed the point of a safety isolating transformer [[Special:Contributions/174.118.142.187|174.118.142.187]] ([[User talk:174.118.142.187|talk]]) 13:43, 3 May 2013 (UTC)
+	</talkpage>
+</article>

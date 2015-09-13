@@ -1,0 +1,9 @@
+<article id="30112270" title=Talk:Ministry of Science and Higher Education (Poland)>
+	<talkpage id="30112270" title="Talk:Ministry of Science and Higher Education (Poland)">
+{{WikiProjectBannerShell|1=
+{{WikiProject Poland|class=Stub|importance=mid}}
+{{WikiProject Science|class=Stub|importance=low}}
+{{WikiProject Education|class=Stub|importance=low}}
+}}
+	</talkpage>
+</article>

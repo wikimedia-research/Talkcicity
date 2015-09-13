@@ -1,0 +1,9 @@
+<article id="47248292" title=User talk:86.154.28.148>
+	<talkpage id="47248292" title="User talk:86.154.28.148">
+== July 2015 ==
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Keri|Keri]]. An edit that you recently made to [[:Olly Alexander]] seemed to be a test and has been removed. If you want more practice editing, please use the [[Wikipedia:Sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Keri|my talk page]]. Thanks!&lt;!-- Template:uw-test1 --&gt; [[User:Keri|Keri]] ([[User talk:Keri|talk]]) 20:39, 15 July 2015 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+
+[[File:Information orange.svg|25px|alt=|link=]] Please do not add or significantly change content without citing [[Wikipedia:Verifiability|verifiable]] and [[Wikipedia:Verifiability|''reliable'' sources]]{{#if:Calvin Harris|, as you did with &lt;span class=&quot;plainlinks&quot;&gt;[https://en.wikipedia.org/w/index.php?title=Calvin%20Harris&amp;diff=671610594 this edit]&lt;/span&gt; to [[:Calvin Harris]]}}. Before making any potentially controversial [[Wikipedia:Editing policy|edits]], it is recommended that you discuss them first on the article's talk page. Please review the guidelines at [[Wikipedia:Citing sources]] and take this opportunity to add references to the article.&lt;!-- Template:Huggle/warn-unsor-2 --&gt;&lt;!-- Template:uw-unsourced2 --&gt; [[User:Donner60|Donner60]] ([[User talk:Donner60|talk]]) 20:50, 15 July 2015 (UTC)
+	</talkpage>
+</article>

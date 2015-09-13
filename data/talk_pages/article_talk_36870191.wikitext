@@ -1,0 +1,6 @@
+<article id="36870191" title=Talk:Yeşim Ağaoğlu>
+	<talkpage id="36870191" title="Talk:Yeşim Ağaoğlu">
+{{WikiProject Biography|living=yes|class=Start|listas=Ağaoğlu, Yesim|a&amp;e-work-group=y|a&amp;e-priority=}}
+{{WikiProject Women artists|class=Start}}
+	</talkpage>
+</article>

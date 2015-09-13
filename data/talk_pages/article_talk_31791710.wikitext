@@ -1,0 +1,5 @@
+<article id="31791710" title=Talk:United States presidential election 2004>
+	<talkpage id="31791710" title="Talk:United States presidential election 2004">
+{{WikiProject United States|class=Redirect|importance=NA|USGov=Yes|USGov-importance=NA}}
+	</talkpage>
+</article>

@@ -1,0 +1,10 @@
+<article id="23799941" title=Talk:David Gaines (racing driver)>
+	<talkpage id="23799941" title="Talk:David Gaines (racing driver)">
+{{WikiProject Biography
+|living=no
+|class=Stub
+|auto=yes
+|listas=Gaines, David
+}}
+	</talkpage>
+</article>

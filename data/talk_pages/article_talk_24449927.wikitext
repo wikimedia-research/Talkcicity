@@ -1,0 +1,12 @@
+<article id="24449927" title=Talk:Henry Marten (educator)>
+	<talkpage id="24449927" title="Talk:Henry Marten (educator)">
+{{WikiProject Biography
+|living=no
+|class=Start
+|listas=Marten, Henry}}
+{{WikiProject England|class=start|importance=low}}
+{{WikiProject University of Oxford|class=Start|auto=inherit|importance=low}}
+{{reqphoto|people of England}}
+{{DYK talk|23 September|2009|{{*mp}}... that [[Elizabeth II of the United Kingdom|Queen Elizabeth II]] was taught constitutional history by '''[[Henry Marten (educator)|Henry Marten]]'''?}}
+	</talkpage>
+</article>

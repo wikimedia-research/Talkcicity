@@ -1,0 +1,9 @@
+<article id="10239032" title=Talk:Zabaykalsky Krai>
+	<talkpage id="10239032" title="Talk:Zabaykalsky Krai">
+{{WikiProject Russia|class=Start|importance=Top|humgeo=yes}}
+{{Translated page|ru|Забайкальский край}}
+
+==&quot;Zabaykalsky&quot; vs. &quot;Trans(-)baikal(ia)&quot;==
+Please do not move this article to a name that's a variation of &quot;Trans-baikal&quot;.  As the federal subject is very new, there is no established English name for it in English.  Per [[WP:RUS#Place names]], romanization must be used when a conventional English name does not exist.  Additionally, the krai is not the same as [[Transbaikal]] (which is a historic/geographic region), so the names are not interchangeable.—[[User:Ezhiki|Ëzhiki (Igels Hérissonovich Ïzhakoff-Amursky)]]&amp;nbsp;•&amp;nbsp;([[User talk:Ezhiki|yo?]]); 23:37, 2 March 2008 (UTC)
+	</talkpage>
+</article>

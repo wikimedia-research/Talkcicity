@@ -1,0 +1,10 @@
+<article id="46194123" title=Talk:Trần Thị Kim Hồng>
+	<talkpage id="46194123" title="Talk:Trần Thị Kim Hồng">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=yes|class=stub|sports-work-group=yes|sports-priority=low}}
+{{WikiProject Football|class=stub|importance=low|Women=yes}}
+{{WikiProject Women's sport|class=Stub|importance=low}}
+| blp=yes
+}}
+	</talkpage>
+</article>

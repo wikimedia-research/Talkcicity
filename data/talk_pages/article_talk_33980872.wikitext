@@ -1,0 +1,5 @@
+<article id="33980872" title=Talk:Bill tip organ>
+	<talkpage id="33980872" title="Talk:Bill tip organ">
+{{BirdTalk|class=Redirect|importance=NA}}
+	</talkpage>
+</article>

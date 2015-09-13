@@ -1,0 +1,8 @@
+<article id="13543839" title=User talk:24.216.64.130>
+	<talkpage id="13543839" title="User talk:24.216.64.130">
+
+
+== October 2007 ==
+{{{icon|[[Image:Information.svg|left|25px]] }}}Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits, such as the one you made to [[:Montenegrin cuisine]], did not appear to be constructive and has been '''automatically [[Help:Reverting|reverted]]''' by [[User:ClueBot|ClueBot]].  Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. {{User:ClueBot/Tracker}} '''If you believe there has been a mistake and would like to report a false positive, please [[User:ClueBot/FalsePositives|report it here]] and then remove this warning from your talk page.'''  If your edit was not vandalism, please feel free to make your edit again after reporting it. The following is the log entry regarding this warning: [[Montenegrin cuisine]] was [http://en.wikipedia.org/w/index.php?title=Montenegrin+cuisine&amp;diff=161902992&amp;oldid=152334262 changed] by [[User:24.216.64.130|24.216.64.130]] [[Special:Contributions/24.216.64.130|(c)]] [[User talk:24.216.64.130|(t)]] blanking the page on 2007-10-02T23:30:19+00:00 &lt;!-- MySQL ID: 1081 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot|ClueBot]] 23:30, 2 October 2007 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,16 @@
+<article id="22919701" title=User talk:97.119.141.163>
+	<talkpage id="22919701" title="User talk:97.119.141.163">
+&lt;!-- Substituted from Template:Create --&gt;[[Wikipedia:Introduction|Welcome to Wikipedia]], the free encyclopedia! You don't have to [[Special:Userlogin|log in]] to read or edit articles on Wikipedia, but creating an account is quick, free and non-intrusive, requires no personal information, and gives you many [[Wikipedia:Why create an account?|benefits]], including:
+*The use of a [[Wikipedia:Username|username]] of your choice, provided that it is [[Wikipedia:Username#Inappropriate_usernames|appropriate]].
+*The use of your own personal [[Wikipedia:Watchlist|watchlist]] to which you can add articles that interest you.
+*The ability to [[Help:Starting a new page|start new pages]].
+*The ability to [[Wikipedia:How to rename a page|rename pages]].
+*The ability to edit [[Wikipedia:Semi-protection policy|semi-protected pages]].
+*The ability to [[Special:Upload|upload images]].
+*The ability to customize the appearance and behavior of the website.
+*The eligibility to eventually become an [[Wikipedia:Administrators|administrator]].
+*Your [[IP address]] will no longer be visible to other users.
+
+We hope that you choose to become a Wikipedian and '''[[Special:Userlogin|create an account]]'''. Feel free to ask me any questions you may have on my talk page. By the way, make sure to [[Wikipedia:Sign your posts on talk pages|sign your posts]] and comments with four tildes ('''&amp;#126;&amp;#126;&amp;#126;&amp;#126;'''), which will let others know who left it. [[User:Quantumobserver|Quantumobserver]] ([[User talk:Quantumobserver|talk]]) 23:47, 23 May 2009 (UTC)
+	</talkpage>
+</article>

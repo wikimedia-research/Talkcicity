@@ -1,0 +1,748 @@
+<article id="35990887" title=User talk:Art Carlson/Archive 2004-2010>
+	<talkpage id="35990887" title="User talk:Art Carlson/Archive 2004-2010">
+'''''This page archives all the contributions on [[User talk:Art Carlson]] from 2004 to 2010.'''''
+
+Hello, [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia. Here are some useful links in case you haven't already found them:
+
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Wikipedia:How to write a great article|How to write a great article]]
+*[[Wikipedia:Naming conventions|Naming conventions]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+*[[Wikipedia:Policies and guidelines|Wikipedia Policies and guidelines]]
+
+If you made any edits before you got an account, you might be interested in [[Wikipedia:Changing attribution for an edit|assigning those to your username]]. If you have any questions, see the [[Wikipedia:Help|help pages]], add a question to the [[Wikipedia:village pump|village pump]] or ask me on [[User_talk:snoyes|my talk page]]. I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]!
+
+''Tip: you can sign your name with &lt;nowiki&gt;~~~~&lt;/nowiki&gt; ''
+
+[[User:Snoyes|snoyes]] 16:09, 4 Feb 2004 (UTC)
+
+Thanks for your help on [[modern geocentrism]]. :-) [[User:Evercat|Evercat]] 13:50, 27 Oct 2004 (UTC)
+
+
+Thanks for the honest perspective. I cannot make you (or any one else) &quot;believe&quot; in geo-centrism, but it clearly is as feasible as heliocentrism, discounting the notion of natural simplicity (i.e., God would likely have to have willed it for it to turn out this way). Does understanding that fact make you wonder sometimes? Truth_Seeker.
+
+==[[Nuclear fusion]] vs. [[Nucleosynthesis]]== 
+
+I call the fusing of nuclei heavier than iron [[nucleosynthesis]]. I use nuclear fusion to describe the creation of a heavier nucleus from lighter nuclei in a process that releases energy. But I see that the article is not written from that point of view; which is why I didn't re-edit. Off topic, but you seemed to be very contentious and appeared to be trying to condescend; unnecessary.
+[[User:ProfessorToomin|ProfessorToomin]] ([[User talk:ProfessorToomin|talk]]) 17:56, 2 July 2008 (UTC)
+
+== Langmuir ==
+
+I saw that you were basically the only one to edit the [[Langmuir probe]] page. I was wondering if you had any knowledge in Langmuir himself. I am currently working on reworking his page (my grandmother was his secretary and i have some of his journals and notes in my possession). 01:33, 7 Feb 2005 (UTC)
+
+:Sorry, I don't think I can help. I believe that there is considerable biographical information in &quot;The Complete Works of ... &quot;, but you must know that already. I am a plasma physicist specialized in Langmuir probes, so if there are entries in the journals and notes that you would like me to analyze or comment on from the technical side, I would be eager to do that. I live in Muinch but make occasional trips to the States. Where are you located? [[User:Art Carlson|Art Carlson]] 20:32, 2005 Feb 9 (UTC)
+
+::The above message was left by [[User:578|bakuzjw]] [[User_talk:578|(aka 578)]] 20:36, 9 Feb 2005 (UTC)
+I am currently rewriting the article and i just wondered if you would like to help, (I am rewriting the article in word and either tonight or tomorrow night i will upload it to wikipedia), i was wondering if you would be willing to look through it for spelling or grammar errors after i upload to wikipedia thanks. I live in Gainesville Florida, but i was born in Munich Germany so its a small world eh, (my german is rather bad i can speak it but wirting it is a whole differnt story) [[User:578|bakuzjw]] [[User_talk:578|(aka 578)]] 20:36, 9 Feb 2005 (UTC)
+
+I think Wikipedia could use a page on emmisive probes.  I found the page on Langmuir probes very helpful.  I don't know if you have the knowledge to start such an article, but perhaps you might know someone who could.  Just an idea.
+
+:I added a paragraph on emissive probes to the Langmuir probe article. --[[User:Art Carlson|Art Carlson]] 12:19, 26 September 2005 (UTC)
+
+I just came upon the Langmuir Probe page yesterday. I would like to refer you to the overview article written by Larry Brace in &quot;Measurement techniques in space plasmas: particles&quot;
+ By Robert F. Pfaff, Joseph E. Borovsky 
+&lt;http://books.google.com/books?id=3pBNNEykLIIC&amp;pg=PA23#v=onepage&amp;q&amp;f=false&gt; 
+which speaks to spaceflight LP's that he was involved with from 1959 (IGY) through Pioneer Venus (1978-1992) and Dynamics Explorer 2 (ca. 1980). The paper includes an extensive bibliography. Unfortunately, Larry is no longer with us to answer followup questions. 
+
+I was flight electronics designer for the PV and DE-2 and would like to question the line at the end of the Single Probe section stating that the need for &quot;sophisticated electronics...&quot; is a driver to go to multiple probes. Larry used two probes at right angles on PV, but they were used as two independent single probes. The Instrument had several pre-programmed operating modes that could independently be applied to each of the probes. Either of the Krehbiel, et. al., articles in the bibliography will give details on the Instrument system design.
+[[User:Wpinkus|Wpinkus]] ([[User talk:Wpinkus|talk]]) 01:32, 17 November 2010 (UTC)
+
+==Homeopathy==
+A fair &quot;compromise&quot;; but I fear that it will probably be declared too wordy by the homeopathy apologists and watered down/removed. [[User:Jooler|Jooler]] 20:09, 14 Mar 2005 (UTC)
+
+I do not appreciate your reversals of the Totally Disputed tag.  I have detailed precisely what points are factually incorrect and misleading, and I think readers need to be made aware that your version of the truth is disputed.  --[[User:Leifern|Leifern]] 15:16, May 24, 2005 (UTC)
+
+:Looking through [Talk:Homeopathy]], the only specific objections I can find from you are POV disputes. Will you please do me the favor of writing a bulleted list of the statements you feel are ''factually'' inaccurate? [[User:Art Carlson|Art Carlson]] 15:27, 2005 May 24 (UTC)
+
+Off the top of my head:
+*That homeopathy is best known for its use of chemically inactive ingredients
+*That Hahnemann's texts are the final word on homeopathy
+*That homeopaths explain potency of extremely diluted remedies as a &quot;vital force&quot;
+*That there is a scientific establishment that rejects the &quot;theoretical foundations&quot; for homeopathy
+*That the guy on quackwatch has any credibility
+*etc...
+I realize you and Geni have decided your grasp on science exceeds that of anybody who disagrees with you, but I have caught a) Geni making so many wrong assertions about statistics, rhetorical fallacies, and clinical trials that he has lost all credibility, and b) being polemic about the topic, that it's clear that this article is worthless for anyone who is interested in learning about the topic (as opposed to being indoctrinated on one perspective).  --[[User:Leifern|Leifern]] 15:50, May 24, 2005 (UTC)
+
+==Infobox==
+
+The infobox removed had two versions - one added manually into the article, and the other, containing the same information and formatting, that could be added through use of a template. The template version was deleted, which means that manual versions of it are bad for comparable reasons (In this case, because of a consensus that it was not really an infobox at all). In this case, if you wanted to preserve the information, I'd suggest categories, or simply adding the relevent facts into the text of the article. [[User:Snowspinner|Snowspinner]] 13:48, Mar 22, 2005 (UTC)
+
+:[[Wikipedia:Templates for deletion/Log/Deleted]] at the bottom. [[User:Snowspinner|Snowspinner]] 16:03, Mar 22, 2005 (UTC)
+
+To see the infobox on [[Acupuncture]] and [[Homeopathy]] simply click on their repective history hyperlink.  Then look for my name and click on the time and date stamp to the left of my name and you will see an old version of the respective articles complete with the very useful infobox that Snowspinner keeps on deleting. -- [[User:John Gohde|John Gohde]] 13:21, 23 Mar 2005 (UTC)
+
+==[[Nuclear fusion]] exceptions?==
+
+« With some exceptions, nuclei lighter than [[iron]] release energy when they fuse, while heavier nuclei absorb energy [...] ».  What exceptions had you in mind?  I can't think of any.
+
+[[User:Urhixidur|Urhixidur]] 19:19, 2005 Apr 22 (UTC)
+
+There exist certain metastable nuclei, at the very least, which fuse and also release a ton of alphas. I don't know any specific one, but that might be how to find one. [[User:Danielfong|Danielfong]] 08:59, 4 March 2006 (UTC)
+
+== [[Fusor]] tubes ==
+
+I'm trying to gather information to update the fusor article (see [[Talk:Farnsworth-Hirsch_Fusor#updates]]), and found [http://web.archive.org/web/20010602040847/http://www.ipp.mpg.de/~Arthur.Carlson/rider.html this article].  Unless there's a large secret underground organization of PhD physicists named Art Carlson, I'm going to assume it was written by you.  Do you have a link to a current version?  I just get dead links everywhere else.  Or perhaps you changed your mind and took it down? 
+Regardless, I bet you could help expand on the article... - [[User:Omegatron|Omegatron]] 18:53, May 2, 2005 (UTC)
+
+:That's me, all right. And I still stand by what I wrote. It's just that I've left the business and neither I nor anybody else is maintaining the pages. The original thesis is now available online, which is a much better reference anyway: http://theses.mit.edu/Dienst/UI/2.0/Describe/0018.mit.theses/1995-130
+
+:I'll try to take a look at the fusor article in the next few days. I hope I'll be able to say something intelligent on the subject. If you have any specific questions before then, shoot. [[User:Art Carlson|Art Carlson]] 16:47, 2005 May 3 (UTC)
+
+Can I have your vote on whether to move the page to [[Fusor]]?  [[Talk:Farnsworth-Hirsch_Fusor#Rename_to_plain_old_.22Fusor.22_or_.22Fusor_tube.22.3F]] - [[User:Omegatron|Omegatron]] 23:41, May 11, 2005 (UTC)
+
+== Faraday disc ==
+Hi Art. Thanks for merging the [[Faraday disc]] and [[homopolar generator]] articles: you did a good job. I found the disc to be a fascinating subject. When I started the article I thought I was writing about a simple dynamo, but then I realised that I had to learn about the [[Lorentz force]], and to understand that I had to read about [[special relativity]]. I'm hoping that providing an easy-to-read explanation in Wikipedia will help combat the unnecessary mysticism that surrounds this device. Regards, --[[User:Heron|Heron]] 29 June 2005 09:24 (UTC)
+
+:Happy to help. Actually I'm not satisfied with the explanations on the page. I can't believe it makes a difference that charge comes in discrete bundles (electrons). But I need to mull it over before I can say any more. [[User:Art Carlson|Art Carlson]] 2005 June 29 09:30 (UTC)
+
+Hi again, Art.  [[User:Occultations]] has just queried your addition of the &quot;Configuration without a return path&quot; section to the [[Faraday Paradox]] article, and I have to say I agree with him, although I'm an engineer and not a physicist.  Could you give a reference to back up your information, please?  (And it would be nice to know whether anybody has verified it experimentally.) You seem to be saying that either (1) the field is not uniform, so its rotation can have an effect on the disc, or (2) somehow the disc knows that the source of the field is rotating, even though the field itself is uniform.  Which of these statements is true, or are they both wrong?  --[[User:Heron|Heron]] 22:45, 18 December 2005 (UTC)
+
+== IEC ==
+
+See: [[Talk:Inertial electrostatic confinement]] [[User:Maury Markowitz|Maury]] 5 July 2005 21:43 (UTC)
+
+== Aether - thanks ==
+
+Thanks for sorting out aether. You might perhaps be interested in [[Wikipedia:WikiProject Pseudoscience]] and [[Wikipedia:Pages needing attention/Physics]]. [[User:William M. Connolley|William M. Connolley]] 08:32:13, 2005-07-13 (UTC).
+
+==[[User:Reddi]] RfC==
+
+Could you ask [[User:Reddi]] to respond on the [[Talk:Plasma cosmology]] page? He seems to have decided I'm not worth discussing.
+
+If this fails, would you support an RfC against [[User:Reddi]]? He responded on [[User Talk:Reddi|his talk page]] that he will not respond to my comments because he considers me a troll. 
+
+Thanks, --[[User:Joshuaschroeder|Joshuaschroeder]] 20:56, 21 November 2005 (UTC)
+
+:See [[User_talk:Reddi]]. We passed each other in an edit conflict. If he persists in reverting without entering the discussion, then an RfC would certainly be called for. --[[User:Art Carlson|Art Carlson]] 21:24, 21 November 2005 (UTC)
+
+Now he's at it on the [[Quasi-steady state cosmology]] page. I'm going to start the RfC.
+
+--[[User:Joshuaschroeder|Joshuaschroeder]] 21:42, 21 November 2005 (UTC)
+
+I've started the RfC here: [[Wikipedia:Requests for comment/Reddi]]. [[User:Joshuaschroeder|Joshuaschroeder]] 22:17, 21 November 2005 (UTC)
+
+== [[User:Elerner|Elerner]] RfC ==
+
+I have added a request for comment on Eric Lerner's editing, at [[Wikipedia:Requests_for_comment/Elerner]]. Please take a look at it and endorse if you feel it is appropriate. &amp;ndash;[[User:Joke137|Joke137]] 00:23, 22 November 2005 (UTC)
+
+Art, If you would, please take a moment to comment on http://en.wikipedia.org/wiki/Wikipedia_talk:Requests_for_arbitration/Pseudoscience/Proposed_decision, since you have experience discussing aneutronic fusion with Lerner. Thanks. [[User:ABlake|ABlake]] 21:01, 9 November 2006 (UTC)
+
+== [[User:Reddi|Reddi]] RfAr ==
+
+Arbitrartion request for Reddi's refusal to engage me. I don't know what else to do at this point: [[Wikipedia:Requests for arbitration]].
+
+--[[User:Joshuaschroeder|Joshuaschroeder]] 18:16, 22 November 2005 (UTC)
+
+:I'll do what I can. --[[User:Art Carlson|Art Carlson]] 18:49, 22 November 2005 (UTC)
+
+==Wolf effect==
+
+Your comment on the redshift page just disappeared, but here are the references.
+
+*The Wolf effect and the Redshift of Quasars (1998) Daniel F. V. James [http://arxiv.org/abs/astro-ph/9807205] (Full)
+*Correlation-induced spectral changes (1996) Wolf, Emil; James, Daniel F. V. [http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1996RPPh...59..771W&amp;amp;db_key=PHY&amp;amp;data_type=HTML&amp;amp;format=&amp;amp;high=42ca922c9c17991]
+--[[User:Iantresman|Iantresman]] 21:04, 8 December 2005 (UTC)
+
+== Depleted uranium RfC ==
+
+Your input to an RfC at [[Talk:Depleted uranium#Request for Comments]] would be appreciated. [[User:DV8 2XL|DV8 2XL]] 07:51, 15 December 2005 (UTC)
+
+==Redshift RfC==
+
+[[User:Iantresman]] is using you as a supporter of his RfC that he thinks was inappropriately closed. Can you comment on the [[Talk:Redshift]] page please? Thanks, --[[User:ScienceApologist|ScienceApologist]] 15:00, 20 December 2005 (UTC)
+
+==Troika==
+I have suggested a small panel of users competent in science to evaluate editors of scientific articles. Please comment at [[Wikipedia:Requests_for_arbitration/Reddi_2/Workshop#Troika]]. [[User:Fred Bauder|Fred Bauder]] 20:26, 31 December 2005 (UTC)
+
+== Cold fusion ==
+
+Hi Art, sorry for bothering you, but I wonder if you could help with a problem. The foxes appear to be guarding the henhouse in the [[cold fusion]] article. Could you have a look at the talk page, and also [[Wikipedia:Featured article removal candidates/Cold fusion]]? Much obliged. &amp;ndash;[[User:Joke137|Joke]] 19:26, 3 January 2006 (UTC)
+
+Hello,
+
+There's currently a controversy at [[Cold fusion]] that I would appreciate it if you could look at.  The article is about to fail a Featrued Article Removal Candidate [[vote]].  There are at least 3 fairly different versions in play: one based on the original Featured Article dating back to 2004-08-20 and tossing out all edits between now and then [http://en.wikipedia.org/w/index.php?title=Cold_fusion&amp;oldid=33905552] (&quot;FA version&quot;), one which was the current version up until that [http://en.wikipedia.org/w/index.php?title=Cold_fusion&amp;oldid=33645188] (&quot;current version&quot;), and a proposed new draft written originally by Edmund Storms (a retired Los Alamos scientist) and edited by me [http://en.wikipedia.org/w/index.php?title=Cold_fusion/tmp&amp;oldid=33876153] (&quot;Storms version&quot;).  At the moment the article is being rather agressively edited by a few people who support the version from a year ago, and if this stands, a lot of good material will be lost.  Frankly, I can't entirely support any of the versions; the article just needs more work and more different perspectives.  Hence this invitation.  I hope you can help.
+
+I'm posting this to you because I've seen you on various physics-related pages, and/or because you've worked on the [[Cold fusion]] page before.  Thank you for your time.
+
+[[User:ObsidianOrder|ObsidianOrder]] 06:24, 6 January 2006 (UTC)
+
+
+
+:Dear Joke, dear ObsidianOrder (hope you're both listening),
+
+:I looked through the three versions of the cold fusion article. I have criticims, but none are as bad as I feared. The problems can probably all be cleaned up. Examples of phasing that I consider POV:
+::From 33645188 - current version:
+:::The autoradiograph shown here is a good example of what the skeptics demand: conclusive evidence other than excess heat. Only a nuclear reaction could produce the copious x-rays shown here.
+:::We know that cold fusion is a nuclear effect because …
+:::It is more likely that the current understand of physics is incomplete, because highly loaded metal deuterides have not been studied in detail before.
+::From 33876153 - Storms version:
+:::On the other hand, reactions initiated by the &quot;cold fusion&quot; process occur in a unique solid structure without significant energy being applied.
+:::This is not the result of biased, true believers continuing to be deceived, but of trained scientists who trusted what they saw with their instruments after much skeptical evaluation. This approach is identical to how all new discoveries are treated by science.
+:::Most disagreement over the validity of the results, that continue to the present day, ignores the fact that all of the demands by skeptics have been met.
+:::At this time, it is safe to conclude that anomalous energy is produced regardless of its source.
+:::Clearly, unusual nuclear processes are occurring in material where none should occur.
+:Although the order of my preference is FA, current, Storms, I don't see the problems as so massive that I need to cast a vote. If I had the time - which I unfortunately don't - I would enter the fray and comment and edit in more detail. I'll try to drop by from time to time anyway. Good luck. --[[User:Art Carlson|Art Carlson]] 16:55, 6 January 2006 (UTC)
+
+
+==Ball Lightning==
+
+Be assured the pdf exits on the web on a Royal Society server. I downloaded it round about 2000 GMT. It is itself a review, so summarising a conclusion in one sentence would be 'Singer did review'!.If it's characterisable as POV, then we are all doomed!  Please track down and read so we can reach an agreed position.
+Bob aka [[User:Linuxlad|Linuxlad]] 21:20, 14 January 2006 (UTC)
+Here's the link (it was still on an open page!)
+
+[http://www.journals.royalsoc.ac.uk/(rertgj45g4enzj45dvdt5kqt)/app/home/contribution.asp?referrer=parent&amp;backto=issue,2,8;journal,51,119;linkingpublicationresults,1:102021,1]
+
+:I didn't find it with google, but I downloaded it from your link. I'll try to read it soon. It seems to me (before I have actaully read the article) that it is inappropriate to single out one article in the intro. More an editorial issue than one of content (I hope). --[[User:Art Carlson|Art Carlson]] 21:52, 14 January 2006 (UTC)
+
+I found it quite high up Google earlier- but it seems to not be in pole position now (odd, but not unknown).
+Tend to agree it probably shouldn't be in Intro. But its general style seemed appropriate to what finally goes there. Bob aka [[User:Linuxlad|Linuxlad]]
+
+== Marmet's physics ==
+
+Hi I gave a little more precision on the [[Tired light]] Talk page. Is his mechanism clear now? I would be interested to discuss a little more about it if you like, although it won't be fast as I don't have much time. [[User:Harald88|Harald88]] 08:01, 31 January 2006 (UTC)
+
+==Are You a drowser==
+
+Hey, Art, are you not a big name in the world of drowsing? I think I remember seeing your name in some drowsing literature I picked up from the library. I don't mean to accuse you of being POV. I just thought it would be cool to be arguing with someone of your status. [[User:JohnJohn|JohnJohn]] 02:52, 12 February 2006 (UTC)
+
+: I do a lot of drowsing myself, in the evenings, with a nice cup of cocoa. I don't much rate dowsing though. [[User:William M. Connolley|William M. Connolley]] 11:29, 12 February 2006 (UTC).
+
+:Nope. Ain't none of me. --[[User:Art Carlson|Art Carlson]] 15:39, 12 February 2006 (UTC)
+
+I have a friend who works for the LaGrange water department. One day I saw him working by the road and stopped to talk. I was astonished to see him walking around with a dowsing rod. What are you doing? I asked him. &quot;Looking for the pipe&quot; he replied matter of factly. &quot;But don't you have electronics to do that?&quot;  &quot;Sure, but this works just as good. Finds plastic too.&quot; he said. That's when my friends helper chimed in &quot;I have a friend who doesn't believe it.&quot; [[User:Tommysun|Tommysun]] 19:27, 11 March 2006 (UTC)
+
+==Mediation==
+So, I have dutifully taken the mediation of [[Wikipedia:Requests for mediation/Plasma cosmology|plasma cosmology]]. Before we start, I would like to know what form of mediation you would like to take? You guys basically have three options: the first (and most popular) is to just do it on the wiki, probably at [[Wikipedia talk:Requests for mediation/Plasma cosmology]]. The second is to do it by email (I wouldn't recommend it as there are quite a few users listed). And the third is to do it be [[IRC]]. Please respond at [[Wikipedia talk:Requests for mediation/Plasma cosmology]] where you would like to do it. Thanks. '''[[User:Sasquatch|Sasquatch]]'''  [[User_talk:Sasquatch|t]]|[[Special:Contributions/Sasquatch|c]] 05:18, 13 February 2006 (UTC)
+
+:Okay, now that we have all agreed to do it on the Wiki, I have intiated the next step which is an intial statement to see where we all stand. Just state your point of view on the issues at hand without making references to others or the conduct of them. Just to let you know, I have been reading over the talk page and will address the concern of needing a person who understands plasma comology. I feel after reading it, I have a pretty good grasp of it as I am pretty good in science. However, the issues seem to extend beyond just simple right and wrong on the issue but rather into what should be included and where we should draw the line. I hope, as mediator, to rectify these differences and to reach a consensus. As a last note, I suggest you put the mediation page on your watchlist as I will not always give messages like this. Thanks! '''[[User:Sasquatch|Sasquatch]]'''  [[User_talk:Sasquatch|t]]|[[Special:Contributions/Sasquatch|c]] 01:27, 14 February 2006 (UTC)
+==A plasma question==
+Sorry to bother you, but I was impressed with your command of plasma physics on the [[plasma]] talk page, and I was wondering if you could answer a question for me. In a one atmosphere uniform glow Discharge plasma (OAUGDP) what is the voltage drop for a large current, say 1000 amps, running across it? Is there an equation that one could use to compute this for different voltages? Thanks a lot for your patience. cc[[User:24.137.78.34|24.137.78.34]] 00:00, 28 February 2006 (UTC)
+
+:That's not the parameter range where I have direct experience, but .... The voltage drop at 1000 A will depend both on the area involved and the distance between the electrodes. Unless you have a very large area, when you try to put 1000 A through a gas, you will generally get an [[electric arc]] rather than a [[glow discharge]]. --[[User:Art Carlson|Art Carlson]] 15:00, 1 March 2006 (UTC)
+
+::Thanks a lot. cc [[User:24.137.78.34|24.137.78.34]] 16:22, 1 March 2006 (UTC)
+
+==Fundamental Limitations to Non-Maxwellian Fusion Reactor Concepts==
+
+Hi Art. First, I'd like to say that I really respect what you've done so far. It's very impressive (especially your help in the fusion FAQ and the glossary), and your pages have lead me onto an entirely different path of inquiry.
+
+I have a question and concern regarding your repeated citation of Rider's thesis and paper, however. Unfortunately, I can't access the thesis (the links that I could find were all down), nor could I read your review of the paper. Perhaps you still have some copies. In any case, certain statements seemed spurious, and they appeared to be highlighted in the [http://fusion.ps.uci.edu/artan/Posters/aps_poster_2.pdf following] poster at the APS meeting. I haven't looked at Rider's calculation directly, but the poster notices that Rider assumes that the velocity space is always isotropic, and then proves that the redistribution power required for at least one example is smaller than the ideal fusion power. I see that you cite many of Rider's original paper's without taking this vulnerablity into account. Could you look into this? Is the jury still out on this issue? Articles referencing fundamental limitations and claiming 'impossibility' should really at -least- mention that there is some controversy. From my, admittedly green, standpoint, it looks like there really is a problem with some of the impossibility claims. We should look into this quickly, and revert if necessary. Kindly, [[User:Danielfong|Danielfong]] 09:27, 4 March 2006 (UTC)
+
+:Backatcha, Daniel. You've left your mark for me all over Wikipedia. I'll try to speak to the content where it comes up. Here, I'd first like to welcome you to Wiki's fusion pages. I have the impression you will be able to contribute a lot. Second, I'd like you to remember me to Sam Cohen. I spent a few weeks with him at Princeton longer ago than either of us would like to be reminded of. At the time I was just starting to consider leaving fusion - or at least the [[Max-Planck-Institut für Plasmaphysik|IPP]] in [[Garching bei München|Garching]]. After a long story that is best told with the help of a bottle of red wine, I am currently back in Garching but at a different Max Planck Institute working on grid computing for the German astronomy community. On your [[User:Danielfong|list of likes and dislikes]] I notice you did not include dancing on roller skates one way of the other. (Ask Sam.)
+
+:Thanks for pointing out the poster. I had been wondering what Rostoker and friends had been up to since our [http://www.sciencemag.org/cgi/content/full/281/5375/307a encounter] eight years ago. I'll need some time to look at their argument in detail. I am ''very'' surprized that they think they can get around the problem by considering a non-isotopic distribution. Generally speaking, the time scale to reach isotropy is ''much'' faster than that to reach a Maxwellian energy distribution, so I would expect the recirculating power required to be even worse. I admit that &quot;impossibility&quot; can never be absolute. A German professor came up with a system several years ago to which Rider's argument did not obviously apply. For whatever reason, he has sunk back into oblivion. I don't say there is no way around Rider's arguments (except when I get polemic), but I do insist that anyone claiming that a proton-boron system is feasible has to specifically address them.
+
+:--[[User:Art Carlson|Art Carlson]] 12:21, 4 March 2006 (UTC)
+
+::It's a specific type of non-maxwellian distribution they're talking about -- a 'drifted' maxwellian. I think these relax much more slowly. [[User:Danielfong|Danielfong]] 21:31, 4 March 2006 (UTC)
+
+:::The electrons within their own frame of reference are isotropic, so my concern above does not hold. I'm not sure whether Rider's argument depends on the relative average speed of the electrons and ions or not. In any case, I read their poster and reread [http://www.sciencemag.org/cgi/content/full/281/5375/307a my critique] of the concept. As far as I can tell, none of my criticisms have been answered. What do you think? --[[User:Art Carlson|Art Carlson]] 17:04, 5 March 2006 (UTC)
+
+== Contentless POV? ==
+
+I may (from a purely theoretical viewpoint) agree that my addition [http://en.wikipedia.org/w/index.php?title=Modern_geocentrism&amp;diff=47252596&amp;oldid=45835716] did not add &quot;content&quot;, in exactly the same sense that any mathematical theorem does not add content, although it may be surprising or revealing. But what makes you call it POV? I'm about as puzzled by your comment as you would presumably have been, had someone reverted your debunking of the hypothesis that ball lightning is a highly ionized plasma contained by magnetic fields with the comment &quot;POV addition that doesn't add content&quot;. [[User:Lambiam|Lambiam]][[User talk:Lambiam|&lt;small&gt;&lt;sup&gt;Talk&lt;/sup&gt;&lt;/small&gt;]] 18:02, 6 April 2006 (UTC)
+
+:The red flags were expressions like &quot;extremely complicated&quot;, &quot;extremely unsatisfactory&quot;, and &quot;awkward&quot;. I also find the comparison to [[epicycle]]s to be inapt and designed to ridicule geocentrism more than to objectively characterize or criticize it. The big problem with epicycles was not that they were inherently more complicated than Keplerian orbits, but that they did not fit the data without an indefinite number of additional parameters. Furthermore, we don't have to &quot;devise a geocentric reformulation of the laws of physics&quot;. Einstein has already done that for us. In general relativity, the symmetries are broken not by the laws of physics, but by the distribution of matter. I also find the example of a perfectly spherical Earth to be artificial. (konstruiert, gewollt - I can't find a good English equivalent.) The comment line in the history is so short that it is hard not to sound gruff. I hope this explains my reversion to your satisfaction. --[[User:Art Carlson|Art Carlson]] 08:21, 7 April 2006 (UTC)
+
+::Thank you for the explanation. Perhaps you could have a look at this quote from [[Geocentric model]], which then would seem to be POV and also incorrect:
+::&lt;blockquote&gt;''Geocentrism has been fully disproven by modern science. Science has now shown that the Sun is at the center of the solar system, not the Earth. Further, the Sun is not the center of the universe; it is merely the center of one local solar system, and itself orbits around the center of our galaxy. Space probes which have visited the other planets in our solar system have followed paths which were calculated using Heliocentrism; if the geocentric model were true, then none of these spaceships could ever have arrived at their target planets or moons.''&lt;/blockquote&gt;
+::Note the red flags &quot;fully disproven&quot; and &quot;Science has shown&quot;. [[User:Lambiam|Lambiam]][[User talk:Lambiam|&lt;small&gt;&lt;sup&gt;Talk&lt;/sup&gt;&lt;/small&gt;]] 21:13, 7 April 2006 (UTC)
+
+:::Thanks for the tip. I cleaned it up. --[[User:Art Carlson|Art Carlson]] 08:10, 9 April 2006 (UTC)
+
+::I made a few more changes; please have a look. In doing this I noticed that article [[Ptolemaic system]] is only a slight elaboration with considerable overlap, in particular in discussing the evolution of the received model. I put a comment on that article's talk page that I think it should be merged; alternatively, it should be pruned back to a pure description of the Ptolemaic model, put in context of course. What do you think? I don't feel quite up to that task, even though this was the topic of the very first public lecture I gave more than 45 years ago; I'm also handicapped by not having access to a library. [[User:Lambiam|Lambiam]][[User talk:Lambiam|&lt;small&gt;&lt;sup&gt;Talk&lt;/sup&gt;&lt;/small&gt;]] 12:29, 9 April 2006 (UTC)
+
+:::I think your changes were sound editing. I also agree that [[Ptolemaic system]] and [[Geocentric model]] should be merged. I would keep [[Ptolemaic system]] as the primary article (It is also better written.), and redirect [[Geocentric model]] to it. If we're lucky, maybe someone else will do the work for us. --[[User:Art Carlson|Art Carlson]] 14:14, 9 April 2006 (UTC)
+
+==Redshift quantization==
+I've started a tentative article on [[Redshift quantization]] --[[User:Iantresman|Iantresman]] 15:28, 2 May 2006 (UTC)
+
+==Pinch (plasma physics)==
+I've started an article on the &quot;[[Pinch (plasma physics)]]&quot; over which you may wish to cast your more experienced eye. I've not merged with Z-pinch, since the latter seems more about the Z-pinch machine, rather than the process. --[[User:Iantresman|Iantresman]] 16:30, 30 May 2006 (UTC)
+
+:I don't think it's a good idea to separate the physics ([[Pinch (plasma physics)]]) and the technology ([[Z-pinch]]) of z-pinches, particularly since both articles are short and currently have considerable overlap.
+:What is definitely missing, either as a separate article or as part of [[Pinch (plasma physics)]], is a description of the theta-pinch.
+:I don't think I can find the time to do much polishing, but I saw no glaring factual errors. --[[User:Art Carlson|Art Carlson]] 20:55, 30 May 2006 (UTC)
+
+
+==Eric Lerner's Focus Fusion==
+
+Hi Art, you seem to be (one of) the resident experts on fusion, can I ask your opinion of Eric Lerner's attempts to get proton-boron fusion to produce net energy? From what I have read on your talk page, it seems that you agree with Tod Rider's thesis that dismisses p-11B as a viable fuel mix for a future fusion power reactor. Would I be correct in assuming that in your opinion Lerner has not addressed Rider's criticisms either in whole or in part?  --[[User:Jaganath]] 13:27, 15 June 2006 (UTC)
+
+:He seems to have addressed the issue at least in part. The Bremsstrahlung argument depends on a chain of energy transfer from the fusion products to the fuel ions, from there to the electrons, and finally loss by the electrons through Bremsstrahlung. For the sake of argument, perfectly optimistic assumptions are made for the first and last steps. Lerner cuts the chain at the second step by proposing a reduction in the classical energy transfer rate from ions to electrons. I haven't read his paper yet, so I can't say whether his theory and the experimental evidence for it is any good. I also suspect, but can't at present show, that achieving the necessary conditions will have its own set of fundamental problems. I'll report back after I have read [http://arxiv.org/abs/physics/0401126 his paper]. --[[User:Art Carlson|Art Carlson] 09:54, 18 June 2006 (UTC)
+
+:After reading Lerner's paper, I've made some changes to [[Aneutronic fusion]]. There are many interesting points in the paper, but also several that I find suspect. If we accept his calculation, the effect is only a factor of 2. This is enough to change the ratio of bremsstrahlung to fusion power from just over one to just under one. But since the calculation of the ratio is based on very simple and optimistic assumptions, there is still no way in hell to make a reactor work. I think the most serious problem in this particular case is the neglect of [[cyclotron radiation]]. This loss mechanism is hard to get exactly right, but since it scales with B^2, it's going to be a mother at a megatesla. --[[User:Art Carlson|Art Carlson]] 09:12, 20 June 2006 (UTC)
+
+::I got this one wrong the first time around, as documented in [[Talk:Aneutronic fusion#Cyclotron radiation, radiation dose, and suppression of bremsstrahlung]]. Cyclotron radiation ''could'' be a problem, but it's not the killer I thought it would be because, if the plasma beta is high enough, the frequency will be below the cut-off and not propagate. Then I realized that these kinds of fields will have so much magnetic pressure that they cannot be contained. --[[User:Art Carlson|Art Carlson]] 08:54, 6 July 2006 (UTC)
+
+:::Eric Lerner and I have had a lot of additional discussions. We still disagree on whether the lifetime of a high-field plasmoid will be limited to something close to the Alfven transit time, but either way, in this case there may not be the kind of all-encompassing proof of non-principle that I love. Come over to [[Talk:Aneutronic fusion]] if you want to keep up-to-date. --[[User:Art Carlson|Art Carlson]] 15:39, 1 August 2006 (UTC)
+
+Thanks Art for replying so quickly and taking the time to craft a comprehensible and detailed reply. Seems like p-11B fusion still faces huge, if not insurmountable problems before it can become a future energy source; in light of this, can I ask if you think [[ITER]], and (spherical) tokamaks in general are the right direction to be going in if we are to harness fusion to produce useful power within your or my lifetimes? --[[User: Jaganath]] 18:42, 20 June 2006 (UTC)
+
+:For what it's worth, I believe (1) fusion will work with D-T or not at all, (2) the best bet is an ITER-like tokamak, although similar machines like the stellarator or the spherical tokamak might turn out to be a bit better, (3) despite formidable problems, there is no fundamental reason that fusion cannot become an attractive source of energy, and (4) we will probably never get there, because trying things out is so expensive and time-consuming, and because there are alternatives that are constantly improving. I must, however, admit that I have a somewhat irrational fondness for the [[Field-Reversed Configuration]]. --[[User:Art Carlson|Art Carlson]] 08:43, 21 June 2006 (UTC)
+
+==[[Brantz J. Craddock]]==
+You placed a Copyright violation tag on this article.  All of the info is from a .mil site.  This means it is Public Domain info from the US government.  Might be best to remove the tag.  Cheers--[[User:Looper5920|Looper5920]] 09:41, 11 July 2006 (UTC)
+
+==Plasma (physics): Wikipedia:Peer review==
+Just to let you know that I've requested Peer Review for the Plasma physics artciles, discussion should appear on the page at [[Wikipedia:Peer review/Plasma (physics)/archive1]] --[[User:Iantresman|Iantresman]] 11:06, 18 August 2006 (UTC)
+
+== [[User:Lucaas]] on [[Talk:Modern geocentrism]] ==
+
+It is clear that this user won't give up.[http://en.wikipedia.org/w/index.php?title=Talk:Modern_geocentrism&amp;diff=74790508&amp;oldid=74773528] I suggest that from now on we just ignore his ramblings on the talk page. --[[User:Lambiam|Lambiam]][[User talk:Lambiam|&lt;small&gt;&lt;sup&gt;Talk&lt;/sup&gt;&lt;/small&gt;]] 22:18, 9 September 2006 (UTC)
+
+==Fulcher band==
+Art, are you familliar with the &quot;fulcher band&quot;? Being a plasma physicist I thought you'd probably have at least some experience with not so hot H&lt;sub&gt;2&lt;/sub&gt; plasmas and might be able to help me here: [[Wikipedia:Peer review/Deuterium arc lamp/archive1]]. Any input is appreciated! thanks. --[[User:Deglr6328|Deglr6328]] 07:37, 1 October 2006 (UTC)
+
+:Nice try, but spectroscopy is a very large subdivisionn of plasma physics and I only know the rudiments. Sorry I can't help you. If you're really stuck, I could at most give you a couple email addresses of acquaintances who know their way around. --[[User:Art Carlson|Art Carlson]] 20:28, 1 October 2006 (UTC)
+
+==RfArb==
+
+[[User:Iantresman]] has started a request for arbitration you may wish to comment on [[WP:RfArb#Pseudoscience__vs_Pseudoskepticism]]. --[[User:ScienceApologist|ScienceApologist]] 12:26, 4 October 2006 (UTC)
+
+==[[Wikipedia:Requests for arbitration/Pseudoscience]]==
+Hello,
+
+An Arbitration case in which you commented has been opened: [[Wikipedia:Requests for arbitration/Pseudoscience]].  Please add any evidence you may wish the arbitrators to consider to the evidence sub-page, [[Wikipedia:Requests for arbitration/Pseudoscience/Evidence]].  You may also contribute to the case on the workshop sub-page, [[Wikipedia:Requests for arbitration/Pseudoscience/Workshop]].
+
+On behalf of the Arbitration Committee, [[User talk:Thatcher131|Thatcher131]] 11:40, 12 October 2006 (UTC)
+
+==Jive /Jibe ==
+Hi, Art.  In your recent diff [http://en.wikipedia.org/w/index.php?title=Wikipedia:Requests_for_arbitration/Pseudoscience/Evidence&amp;curid=7407802&amp;diff=81454390&amp;oldid=81450521] , &quot;doesn't jive with&quot; should be &quot;doesn't jibe with&quot;.  I didn't fix it directly because I didn't want to become part of the case.  [[User:Cardamon|Cardamon]] 20:52, 14 October 2006 (UTC)
+
+== Aneutronic fusion ==
+
+Nice rewrite of the intro! Much better now. [[User:Maury Markowitz|Maury]] 22:20, 16 November 2006 (UTC)
+
+== Got a few minutes? ==
+
+Would you mind giving [[Riggatron]] and [[Migma]] a quick once-over? I noticed both were being referred to in various articles but had no articles of their own. Hopefully I've made a start, at least. I did notice an older thread between you and Gordon on whether or not the non-equilibrium issue applies to the Migma approach. Gordon seemed to be suggesting it didn't really apply. What was the outcome here? [[User:Maury Markowitz|Maury]] 15:17, 18 November 2006 (UTC)
+
+:Both articles are OK for a first cut. No howlers. I'll see if I can find some time to polish them. I think the non-equilibrium distribution is a big problem in several ways. I don't remember if I ever convinced Gordon of that - probably not. --[[User:Art Carlson|Art Carlson]] 17:38, 18 November 2006 (UTC)
+
+== Thanks ==
+
+...For your hard work on [[Aneutronic fusion]].  From the little I've read, I can't really tell if you or Elerner is generally right, but it seems that you are, or he does a really (and un-editor-worthy) lousy job supporting or being careful in his edits, which greatly enhances your credibility in my book.  If its any consolation, it seems your edit war has resulted in a better-sourced article.  And a very good one, even if it's far from perfection. --[[User:Elvey|Elvey]] 09:05, 27 November 2006 (UTC)
+
+== Mediation for article ==
+
+Please respond on the [[Talk:Afshar experiment|Afshar Experiment Talk Page]] as to whether you would accept impartial mediation for that article. Thank you! [[User:Sdirrim|Sdirrim]] 18:10, 5 February 2007 (UTC)
+:Hey, I'm not deep enough into this discussion to even have a difference of opinion with anybody. I never have anything against impartial mediation, but I think you're asking the wrong guy here. --[[User:Art Carlson|Art Carlson]] 18:50, 5 February 2007 (UTC)
+
+== Quasineutrality ==
+
+Hi there, I noticed your edits  on [[Quasineutrality]].
+
+I'm no scientist, nor do I exactly know the details of what IP 68 added. However a quick Google search did show that this concept might deserve its own page. Even if a stub, we should have a few lines and a seperate section for external links or references which the user can lookup for further details. 
+
+Secondly, if you are in a position to improve on the article content, please do so. Calling a good faith edit &quot;worse than useless&quot; isn't right. Allow me to remind you that the majority of WP's content is written by anon IPs, their inaccuracies and irrelevant material can be improved upon, but shouldn't be removed outright. 
+
+By your contributions, I see you are an expert in this field, please don't take this as criticism, it isn't. Looking forward to working on an article with you in future :) Cheers! &lt;span style=&quot;border:1px solid #228B22;padding:1px;&quot;&gt;[[User:Xcentaur| - xC - ]] | [[User_talk:Xcentaur|&lt;font style=&quot;color:#7CFC00;background:#006400;&quot;&gt;☎&lt;/font&gt;]] &lt;/span&gt; 13:50, 2 March 2007 (UTC)
+
+:Thanks for your interest. I already said on the Talk page that an article, even a stubby one, might be a good idea, but the current REDIRECT already leads the reader to the essential information. I didn't mean to impute the good faith of 62. I maybe should have chosen softer words. But the content really is bad: &quot;Quasineutrality of a plasma requires that plasma currents close on themselves in electric circuits.&quot; Quasineutrality has nothing to do with currents, only with charge densities. The only precise meaning I can assign to currents that close on themselves is that the divergence of the current vanishes, which is required in any steady state, whether it is quasineutral or not. The emphasis on certain concepts like Birkeland currents and double-layers is also a particular point of view (see [[Plasma cosmology]]) that is not widely held and thus, even where it is not wrong, not the best choice for an encyclopedic article. --[[User:Art Carlson|Art Carlson]] 14:57, 2 March 2007 (UTC)
+
+== Edits on Aneutronic fusion ==
+Maybe you should seek an IP ban from the non english speaking folks from editing this article.  Or maybe you can ask them to seek someone they know who speaks better english or refer them to the japanese wikipedia.  I can see that their edits are irritating in that they are hard to understand because of grammar problems as well as the fact that they are discussing fairly obscure technical details.  [[User:Mathchem271828|Mathchem271828]] 04:53, 24 March 2007 (UTC)
+
+== Check this Wiki-entry ==
+
+Dear Art, your criterion for notability and Wiki-entries seemed to me very dubious, however I respect your view on the problem. Since Wikipedia is free-encyclopedia and its biographic database is expanding, I have myself been editing several entries on famous bulgarian scientists, yet I have created this entry on [[Tabish Qureshi]], who is known for his analysis of Popper's experiment, and the so-called entangled biphoton wavefunction. Well, this is all based on my old readings done several years ago [when I was not Wikipedian], when I have not even met prof. Qureshi personally. The fact that I have met him in Wikipedia changes nothing, I have opened the entry solely on scientific grounds. You can check the bibliographic list of his publications in the main article. Kind Regards, [[User:Danko Georgiev MD|Danko Georgiev MD]] 12:16, 27 March 2007 (UTC)
+: Concerning the NAFL author - definition of complementarity [http://arxiv.org/pdf/quant-ph/0504115 page 6] - ''&quot;The particle and wave nature of the photon cannot be simultaneously demonstrated to hold ...&quot;'' and then the author says ''&quot;Note carefully the location of the word &quot;simultaneously&quot; in this definition; if we were to change BCP to &quot;. . . cannot be demonstrated to hold simultaneously...&quot; then such a definition would arguably fail even in NAFL.&quot;''. COMMENT by me - I see NO DIFFERENCE in the meaning even IF the word order is changed. I don't think that my English is so poor to fail to recognize a change of the sense due to word order. As this author is obviously with English language problem, I am not sure why it is included on equal footing with Qureshi, and Unruh. Not to mention that he works for commercial IBM corporation and possibly is not involved in academic research seriously, i.e. looks like hobby-scientist. I judge this on the content of his paper, and the discussed passage, NOT on extra-scientific criteria. I am to conclude that this author can NOT even formulate the complementarity principle correctly, as he sees not existent meaning in the word order given above. [[User:Danko Georgiev MD|Danko Georgiev MD]] 11:41, 1 April 2007 (UTC)
+:: Concerning the [[Matti Pitkänen (physicist)|Matti Pitkänen]] work on Afshar experiment, don't be offended but is a friendly joke. I think you have included too much low quality papers in the critique section, and from your previous posts I got an impression that you ridicule me and took this edit personally against my personality. Nevertheless, I still believe your edits are with good intentions, so just want to ask for favour - please let us stop attacking each other e.g. &quot;Are you coming back?&quot;, and let us always assume that the relevant thing is the new information in the post, not the way it is presented. otherwise, one can always &quot;see&quot; bad intentions even in a well-written non-offensive paragraph. [[User:Danko Georgiev MD|Danko Georgiev MD]] 11:52, 1 April 2007 (UTC)
+:::I didn't take much time to try to figure it out, but I didn't understand what Srinivasan was trying to say about the word order either. I only added him and O'Hara because they were cited by Qureshi. After reading the papers, I'm starting to think it was a mistake. As to your paper, I finally found the time to read it. I'm not sure I understand everything you are saying, but I think I agree with you on almost all points. I still read Unruh differently than you (We'll have to get back to this point.), and at the end (but not before) you seem to agree with Qureshi that which-way information is somehow erased when the beams pass through each other. That I cannot accept at all. Assuming I have understood him properly, I think Qureshi's view would be rejected by most physicists, so I am wondering whether the reference to his work should also be removed from the article. --[[User:Art Carlson|Art Carlson]] 15:10, 1 April 2007 (UTC)
+:::As near as I can tell, your position is very close to that of Kastner (and Reitzner). Do you see it that way, too? --[[User:Art Carlson|Art Carlson]] 19:14, 1 April 2007 (UTC)
+:: Dear Art, as the passion has calmed down, yes '''I am happy that Unruh personally posted in Wikipedia'''! (I never expected such a fast solution). Now concerning your comment - Qureshi is completely right, but my work compared to Qureshi's work is more general because I have provided EXPLANATION WHY the information is erased. Yes, in 2004 I said exactly as Qureshi that overlap erases the which way, and physicists didnot believe a word, as I had no math proof. Well, I suspect you did not understand the introduction which is '''compressed information''' and one must &quot;decompress&quot; it only by having some acquaintance with decoherence theory of Zeh. But I believe you understand perfectly well the equations [3] and [4] in my paper as they apply only Beam-splitter transformations and mirror reflection.
+So let us calculate the evolution of the quantum state in Unruh's setup directly [look my figure 2]:
+: &lt;math&gt;\Psi \rightarrow \frac{1}{\sqrt{2}} (\imath |1&gt; + |2&gt;) \rightarrow  -1 |6&gt; \rightarrow  -1 \imath |8&gt; \rightarrow  \frac{-1}{\sqrt{2}} (|D_1&gt; +  \imath |D_2&gt;)&lt;/math&gt;
+:: as &lt;math&gt;|8&gt; = \frac{1}{2} (|1&gt; + |2&gt;)&lt;/math&gt; you see that &lt;math&gt;|D_2&gt; = \frac{1}{2} (|1&gt;+|2&gt;)&lt;/math&gt; that is &lt;math&gt;|D_2&gt; = |8&gt;&lt;/math&gt;. It is obvious as &lt;math&gt;D_2&lt;/math&gt; gets half the intensity of light coming at |8&gt; that is &lt;math&gt;D_2&lt;/math&gt; gets light from both paths |1&gt; and |2&gt;. The '''present momentum''' of photons coming along path 8, with '''past history''' of either path 1 or path 2, is the SAME. The beam-splitter (BS3) reflects the present momentum, and not according to &quot;knowledge&quot; about what the photon momentum WERE IN THE PAST. [[User:Danko Georgiev MD|Danko Georgiev MD]] 06:07, 2 April 2007 (UTC)
+
+p.s. contrary to Unruh, I have said that putting the obstacle or NOT does not matter. It is the presence of destructive interference at path 5 itself that &quot;erases&quot; the which way. Look at the expression &lt;math&gt;\Psi \rightarrow -1 |6&gt; + 0 |5&gt;&lt;/math&gt;. You can drop the zero term [comment: multiplied by zero vector |5&gt; cannot be regained without dividing to zero! - impossible math operation]. Indeed the existent negative interference mathematically is formulated like that: &lt;math&gt;\Psi \rightarrow -1 |6&gt;&lt;/math&gt;. The measurement of the negative interference by obstacle physically mathematically is written like that &lt;math&gt;\Psi \rightarrow -1 |6&gt;&lt;/math&gt;. So my conclusion is that it is IMPOSSIBLE to have difference in the which way claim for interference + obstacle vs. interference + no obstacle. The mathematical expression is always the SAME &lt;math&gt;\Psi \rightarrow -1 |6&gt;&lt;/math&gt;. ''I am excited'' because it seems Unruh will publish his original 1 page letter-to-editor in PP (full of errors), and as his letter explicitly claims the inconsistency decribed in my sec. 3.3, I will have the beautiful opportunity to publicly solve the Georgiev-Unruh issue in the pages of reputable peer-review journal. [[User:Danko Georgiev MD|Danko Georgiev MD]] 09:08, 2 April 2007 (UTC)
+
+:Dear Danko, one thing still has me puzzled. When you and Qureshi talk about the interference &quot;erasing&quot; the which-way information, I have this picture:
+::''Two laser pulses approach each other.''
+::''Before they cross, a measurement will yield which-way information.''
+::''As they cross, there is an interference pattern.''
+::''After they have crossed, there is no longer any which-way information.''
+:Is that what Queshi and you are trying to say?
+:And a related question. Kastner seems to believe there is never any which-way information when both slits are open, whether or not the interference pattern is measured, and whether one talks about the situation just after the slits or just before the detector. I believe you disagree. What do you see as the flaw in her argument?
+:--[[User:Art Carlson|Art Carlson]] 10:42, 2 April 2007 (UTC)
+::: Dear Art, yes before the overlap there is which way, but after the overlap there is no which way. The critical is the idea of [[bijection]] of input state and observables. As one can take the realist interpretation of q-superposition, which in my case is direct ontological interpretation of the AND-gate, one will notice two types of superposition - one of orthogonal states, and one of non-orthogonal states. The states before the overlap [imagine |1&gt; and |2&gt; of Mach-Zehnder] are really orthogonal, so measuring the state at |1&gt; simply gives you information that the state is NOT |2&gt;. This state &lt;math&gt;\Psi = \imath |1&gt; + |2&gt;&lt;/math&gt; (not normalized) is superposition in TIME, but in space the wavefunctions |1&gt; and |2&gt; are separated - do not overlap - hence they are orthogonal states - interference is zero. Now consider after overlap the state at the arm |6&gt;. Here you have superposition of non-orthogonal states. States |1&gt; and |2&gt; are vectors that are time dependent. Under time evolution, both wavefunctions overlap, so they are no more orthogonal. Detecting at |6&gt; a photon does not give you information that the photon has passed through only path 1, or alternatively only path 2. You know indeed that the photon passed both paths, interfered and came to arm 6. So in certain sense my work shows another &quot;inconsistency&quot; of the popular presentation of QM, and in OLD Copenhagen anti-realist view. As I use direct math argumentation I show that quantum waves pass through both paths at ones. And this is NOT equivalent to &quot;lack of knowledge of the photon path&quot;. Yes, I have knowledge which is quite substantial - &quot;I know that the photon passed both paths at once&quot;. The proof is suggested in the introduction of my PP paper. Imagine a double slit - close slit 1 - see Gaussian like distribution1 , close slit 2 - see Gauusian like distribution 2. What knowledge you have? You know that slit 1 XOR slit 2 is open, which means the slits are NOT simultaneously open. Now open both slits - you see nice interference pattern. What you know? Is it &quot;lask of knowledge of slit 1 or slit 2&quot;? NO! You know mathematically rigorously that the setup is NOT XOR. Simple logical gate application of NOT-gate to XOR-gate gives you the XNOR gate. After elimination the &quot;false&quot; &quot;false&quot; outcome which is mathematically trivial, but physically meaningless, then you come to the AND gate. Yes, in coherent double-slit setup with open both slits the photon passed through BOTH slits at once! This is the ONLY mathematically valid way to get the interference. Concerning Kastner, as I said she is in my view incompetent on the topic, so I neither understand her analogy, nor I think she understands the orthogonality of vectors criterion, nor she understands what strictly [[bijection]] means in math terms. Sorry, for my mathematically oritented thinking. I love mathematics, and as Drezet joked on Afshar's talk &quot;Mathematics is the queen of all natural science ... and Danko is its prophet&quot; [the meaning was similar]. [[User:Danko Georgiev MD|Danko Georgiev MD]] 11:20, 2 April 2007 (UTC)
+:: Addendum: as you may see in my paper I say I have defended the MWI of QM. Yes, I mention the Copenhagen interpretation - CI - purely formally, where I envison CI anti-realism based directly on QM formalism. Yet, I think that popular wording of CI as &quot;lack of which way&quot; as MISLEADING and semantically wrong. &quot;You don't know whether photon passed through slit 1 or slit 2&quot; for me is equivalent to &quot;you don't know the density matrix of setup&quot; i.e. you don't know whether two slit wavefunctions 1 and 2 are coherent or they are incoherent. In contrast knowing that the two wavefunctions are coherent, is NOT lack of knowledge, but substantial information. You know the photon has passed both slits at once. In a certain sense you also know the which way bijection is NOT valid, but also the knowledge - &quot;ww bijection is false&quot; - for me is NOT &quot;lack of knowledge of the bijection truth-value&quot;. i.e. lack of knowledge suggests it might be true, which is not the case [[User:Danko Georgiev MD|Danko Georgiev MD]] 11:32, 2 April 2007 (UTC)
+
+== Aneutronic fusion and anon ==
+
+I'm very busy right now, you may want to post this to [[WP:ANI]] where an admin who has time can take of it. [[User:JoshuaZ|JoshuaZ]] 14:15, 26 April 2007 (UTC)
+
+== Unruh's interferometer ==
+
+Dear Art, please see this entry [[Unruh's interferometer]], if you are interetsed in clarification the problem that ocurred with interpreting Unruh's claims. Regards, [[User:Danko Georgiev MD|Danko Georgiev MD]] 06:56, 27 April 2007 (UTC)
+
+== Polywell ==
+
+Thanks a lot for your contributions on fusion articles.  It's great to have you here to sort things out that the rest of us don't understand.
+
+Is there a reason you haven't contributed to [[Polywell]]? — [[User:Omegatron|Omegatron]] 15:23, 11 May 2007 (UTC)
+
+:Ignorance. But I'll keep an eye on it and jump in if I can add verifiable content (or remove unverifiable content). --[[User:Art Carlson|Art Carlson]] 07:14, 18 May 2007 (UTC)
+
+It seems you have pounced ;).  I'm suspicious of your use of the words &quot;might&quot; and &quot;verifiable content&quot; together here.  I'm not convinced that running the current through the edges of the polyhedron would be the best bet; won't the magnetic field curve at the vertices leaving them unshielded, and a source of electron losses?  I can't find anything in the [http://askmar.com/ConferenceNotes/Should%20Google%20Go%20Nuclear.pdf Google transcript].  I subconsciously corrected Bussard's truncated cube and truncated dodecahedron into cuboctahedron and icosidodecahedron, respectively, when I tried to work out all the shapes.  I suppose if he says &quot;truncated cube&quot; when he means &quot;cuboctahedron with solenoids on the square faces,&quot; then when he says &quot;truncated dodecahedron&quot; he means &quot;icosidodecahedron with solenoids on the pentagonal faces.&quot;  When does filling in the gaps turn into original research?  Let's discuss. [[User:Eassin|Eassin]] 16:01, 21 May 2007 (UTC)
+
+:I was thinking of the picture and section named &quot;NPG Polyhedral Grid&quot; on page 14 of the google transcript. You're right that the field would go to zero at the vertices, but it does that anyway. Where two of the round coils touch, their currents are oppositely directed, so there is no field to protect them there. Funny that Bussard didn't mention that. But there I go doing OR again. It's a constant danger in a topic like this, but I'm afraid the only alternative might be to delete the article due to a lack of secondary sources and critical appraisal in the literature. --[[User:Art Carlson|Art Carlson]] 20:57, 21 May 2007 (UTC)
+
+Mea culpa; I should have read instead of using the search function.  Bussard does skirt the fact that where the round coils touch the field goes to zero: his models show a progressive decrease in amount of metal sitting in the field lines.  I think it has something to do with the fact that quadrupole magnets can only focus in one direction and you should design your vertex based on that.  I guess my question is: why do you think the NPG polyhedral grid might be the best way to go, and why didn't Bussard stick with it?  
+*Was it because a single coil of tubing wasn't producing a strong enough field, or is a circle always a better solenoid than a polygon?
+*Further, it looks like his NPG polyhedral grid is soldered together.  I remember doing a homework problem quite like that; some of those edges will have zero current.  Was the NPG polyhedral grid poor because there is an inherent flaw, or because he forgot to use insulators at each vertex to ensure that the current went in the same loop as the coolant?
+*And finally, why is it a rectified cube instead of - for instance - a rectified rhombic enneacontahedron?  Why did he add more turns to the coil instead of adding more single turn faces, which would have been easier to build? 
+I don't believe for a minute that Bussard is going to save the world; I'm just curious about some basic E&amp;M if you have the time for original research, verging on speculation and outright mind-reading.  If not, I've been meaning to read Jackson for many years now anyway.  Thanks. [[User:Eassin|Eassin]] 05:17, 22 May 2007 (UTC)
+
+:I suspect, and seem to agree with Bussard on this point, that you want maximum symmetry. For that reason, if it had been my experiment, I would have chosen an octahedron with alternating polarity on the faces. In Bussard's design, there is a lack of symmetry between the 6 coils/faces where the magnetic flux goes in and the 8 corners where it comes out again. But maybe it is more important to have a large number of faces than this kind of symmetry. I suspect that he used circular coils because they are easy to make, and he used 6 of them because a cube is easy to assemble. Although I am not ready to trust Bussard on everything, I assume he was not so stupid that he didn't insulate the vertices of his model. On the other hand, it seems he gave up pretty quickly on making a multi-turn version of his NPG Polyhedral Grid. If you're into geometry, it's a lot of fun thinking about the magnetic geometry of his grid. As a physicist, I am worried that you have to get the basic principles right before you begin optimizing, and I suspect he has not done that. --[[User:Art Carlson|Art Carlson]] 08:02, 22 May 2007 (UTC)
+
+== The EMC² Barnstar ==
+
+{| style=&quot;border: 1px solid {{{border|gray}}}; background-color: {{{color|#fdffe7}}};&quot;
+|rowspan=&quot;2&quot; valign=&quot;top&quot; | [[Image:Barnstar-atom3.png|100px]]
+|rowspan=&quot;2&quot; |
+|style=&quot;font-size: x-large; padding: 0; vertical-align: bottom; height: 1.1em;&quot; | '''The E=mc² Barnstar'''
+|-
+|style=&quot;vertical-align: top; border-top: 1px solid gray;&quot; | I'm awarding you this barnstar for your particularly fine contributions regarding mathematics or science-related topics! Great work! [[User:Wikidudeman|'''&lt;font color=&quot;blue&quot;&gt;Wikidudeman&lt;/font&gt;''']] &lt;sup&gt;[[User talk:Wikidudeman|(talk)]]&lt;/sup&gt; 21:23, 20 June 2007 (UTC)
+|}
+
+==Homeopathy rough draft finished==
+
+I have finished my draft of the [[Homeopathy]] article. The draft is a rough approximation of what it should be like. It obviously has some flaws in it's format and wording right now but they will be kinked out within the next couple of days. Right now what I want is for you, if you're interested in helping to improve the article, to come to the articles talk page. There we will all discuss the article and how it could be improved before we replace the current homeopathy article with it. In order for this to work we need to follow a few rules. The first rule, the most important rule, is that no one but me can edit the rough draft. &lt;u&gt;Do not edit the rough draft.&lt;/u&gt; This precaution is used to prevent edit warring and loss or addition of information that might not be up to consensus. Don't worry, It's just a draft and you'll have all the time you want to make changes after we've replaced it with the current article. The second rule is that all proposed changes in the rough draft must be made on the talk page of the rough draft and must be clear and concise. At that point anyone involved will discuss the proposed changes and if agreed by consensus they will be implemented. We will do that until there is no disputes or disagreements. After all disputes are hammered out, we will replace the [[homeopathy]] article with the rough draft. At that point there shouldn't be anyone needing to make huge edits, and if you do see an edit that you want to make, be sure to add a note on the talk page PRIOR to making the edit so that consensus can be reached and then you should make the edit. If you have any questions you can leave me a message on my talk page. Here is the link to the rough draft [[User:Wikidudeman/Homeopathdraft|Link to rough draft]]. [[User:Wikidudeman|'''&lt;font color=&quot;blue&quot;&gt;Wikidudeman&lt;/font&gt;''']] &lt;sup&gt;[[User talk:Wikidudeman|(talk)]]&lt;/sup&gt; 13:02, 25 July 2007 (UTC)
+
+The Homeopathy draft seems about ready to go live. I'll wait a few more days and see if any other people make proposed changes though, Tell me what you think of it currently and if you see a problem with it then please propose some changes on the talk page for me to make to it. I want to make sure everyone agrees on the article before replacing it so that edit wars don't instantly begin. Thanks. [[User:Wikidudeman|'''&lt;font color=&quot;blue&quot;&gt;Wikidudeman&lt;/font&gt;''']] &lt;sup&gt;[[User talk:Wikidudeman|(talk)]]&lt;/sup&gt; 17:09, 17 August 2007 (UTC)
+
+==PU/EU Discussion==
+[http://www.thunderbolts.info/forum/phpBB/phpBB2/viewtopic.php?t=410 FYI]. PS. Is your Wiki email address up-to-date? --[[User:82.80.248.177|82.80.248.177]] 10:55, 31 July 2007 (UTC)
+
+:Thanks, but I don't have the time and patience for bull sessions that I had in college. What I like about Wikipedia is that the discussion is (ideally) focussed on a concrete goal (writing a reliable and neutral article), and not just people who think alike show up there. As for my Wiki-email address, it should work. If you think there is a problem, could you send me an email to test it? --[[User:Art Carlson|Art Carlson]] 11:36, 31 July 2007 (UTC)
+
+== [[User talk:Wikidudeman/Homeopathdraft|Homeopathy draft]] ==
+
+Can you take another look at the [[User talk:Wikidudeman/Homeopathdraft|Homeopathy draft]]? I think it's looking very good and I would appreciate some more input. It has drastically improved since its creation and any input would be great. Thanks. [[User:Wikidudeman|'''&lt;font color=&quot;blue&quot;&gt;Wikidudeman&lt;/font&gt;''']] &lt;sup&gt;[[User talk:Wikidudeman|(talk)]]&lt;/sup&gt; 23:08, 23 August 2007 (UTC)
+
+Hey Art, I plan to implement the homeopathy rough draft( [[User:Wikidudeman/Homeopathdraft|link]]) by September 1st, 5 days from now. Unless of course more proposals are made to change it, in which case I will postpone the implementation until it is ready and agreed upon. Some things concerning the rough draft are still in discussions, which can easily continue once it goes live. An example is the inclusion of mentions of [[Jacques Benveniste]]. Other things can easily be fixed after a week or so of copy editors from the general public going over it and removing redundancy and rewording sentences to be more brief and precise, which will cut down size of the article including the lead without removing relevant info. So If by September 1st I receive no more suggestions on improving the rough draft then I will replace the [[Homeopathy]] article with it. If you see problems with the draft, please make suggestions on improving it. Even if the suggestions might have already been made, just make a new post with the suggestions so that we can discuss them. Here is the link to the rough draft again: '''[[User:Wikidudeman/Homeopathdraft|Link to rough draft]]'''. Thanks. [[User:Wikidudeman|'''&lt;font color=&quot;blue&quot;&gt;Wikidudeman&lt;/font&gt;''']] &lt;sup&gt;[[User talk:Wikidudeman|(talk)]]&lt;/sup&gt; 13:42, 27 August 2007 (UTC)
+
+== The Original Barnstar ==
+
+{| style=&quot;border: 1px solid {{{border|gray}}}; background-color: {{{color|#fdffe7}}};&quot;
+|rowspan=&quot;2&quot; valign=&quot;middle&quot; | [[Image:Original Barnstar.png|100px]]
+|rowspan=&quot;2&quot; |
+|style=&quot;font-size: x-large; padding: 0; vertical-align: middle; height: 1.1em;&quot; | '''The Original Barnstar'''
+|-
+|style=&quot;vertical-align: middle; border-top: 1px solid gray;&quot; | I'm awarding you this barnstar for your help in rewriting the [[homeopathy]] article. It is now implemented and hopefully will improve even further in the near future. Great job! [[User:Wikidudeman|'''&lt;font color=&quot;blue&quot;&gt;Wikidudeman&lt;/font&gt;''']] &lt;sup&gt;[[User talk:Wikidudeman|(talk)]]&lt;/sup&gt; 14:50, 1 September 2007 (UTC)
+|}
+{| style=&quot;border: 1px solid {{{border|gray}}}; background-color: {{{color|#fdffe7}}};&quot;
+|rowspan=&quot;2&quot; valign=&quot;middle&quot; | [[Image:Editors Barnstar.png|100px]]
+|rowspan=&quot;2&quot; |
+|style=&quot;font-size: x-large; padding: 0; vertical-align: middle; height: 1.1em;&quot; | '''The Editor's Barnstar'''
+|-
+|style=&quot;vertical-align: middle; border-top: 1px solid gray;&quot; | Thanks, Art, for your recent civil and helpful editing of the [[Homeopathy]] article. I for one felt it was a pleasure to work with you. Thanks again. [[User talk:Peter morrell|Peter morrell]] 08:46, 5 September 2007 (UTC)
+|}
+
+== Homeopathy paving the way ==
+
+Here's the reference to that, It's cited a sentence down from the initial claim. [http://www.colorado.edu/philosophy/vstenger/Medicine/Homeop.html]. [[User:Wikidudeman|'''&lt;font color=&quot;blue&quot;&gt;Wikidudeman&lt;/font&gt;''']] &lt;sup&gt;[[User talk:Wikidudeman|(talk)]]&lt;/sup&gt; 13:31, 5 September 2007 (UTC)
+
+:OK. It wasn't clear to me that the reference also referred to that statement. You don't have the article referenced in full text, do you?
+Ernst, E. Homeopathy revisited. Arch Intern Med 1996; 156: 2162 2164.
+:--[[User:Art Carlson|Art Carlson]] 13:52, 5 September 2007 (UTC)
+
+::What do you mean in full text? I have references after the sentence or sentence or sometimes paragraphs that use them. Sometimes I use one reference per paragraph rather than adding the same reference to each sentence of the paragraph. [[User:Wikidudeman|'''&lt;font color=&quot;blue&quot;&gt;Wikidudeman&lt;/font&gt;''']] &lt;sup&gt;[[User talk:Wikidudeman|(talk)]]&lt;/sup&gt; 13:53, 5 September 2007 (UTC)
+
+:::No, no. Your references are fine. The source cited supports the statement in the article. It's just that, on the basis of the other things I have read about homeopathy, it surprizes me that it is said that Hahnemann developed statistical methods. I would like to examine the statement more closely. It might prove to be either interesting or faulty. The Franklin Institute reference cites this one: ''Ernst, E. Homeopathy revisited. Arch Intern Med 1996; 156: 2162 2164'' as the original source of its statement, so that that is obviously the article I want to read. Unfortunately, I can't find a version of it online. That's what I meant by &quot;full text&quot;, an online version of the Ernst article. --[[User:Art Carlson|Art Carlson]] 14:22, 5 September 2007 (UTC)
+
+:::::I'm afraid I can't find it online for free. Here's the pubmed of it [http://www.ncbi.nlm.nih.gov/sites/entrez?cmd=retrieve&amp;db=pubmed&amp;list_uids=8885813&amp;dopt=AbstractPlus] but I don't have access to the full texts. Someone else might though. [[User:Wikidudeman|'''&lt;font color=&quot;blue&quot;&gt;Wikidudeman&lt;/font&gt;''']] &lt;sup&gt;[[User talk:Wikidudeman|(talk)]]&lt;/sup&gt; 14:27, 5 September 2007 (UTC)
+
+== insults ==
+
+Please refrain from insulting me. If you would check [http://en.wikipedia.org/wiki/User_talk:Jheald#no_original_research_on_black_hole here] you will see a message from you calling me clueless. I don't appreciate this kind of namecalling, please stop doing it. Thanks. [[User:SteakNotShake|SteakNotShake]] 20:25, 8 September 2007 (UTC)
+:I felt the edits you had made to the article were of poor quality, but I should have simply said so instead of being impolite. I apologize. --[[User:Art Carlson|Art Carlson]] 22:06, 8 September 2007 (UTC)
+
+==Flood Geology==
+[[Image:Nuvola_apps_important.svg|25px]] You are in danger of violating the [[Wikipedia:three-revert rule|three-revert rule]]{{{{{subst|}}}#if:Flood geology|&amp;#32;on [[:Flood geology]]}}. Please cease further reverts or you may be [[Wikipedia:Blocking policy|blocked]] from editing.&lt;!-- {{uw-3rr3}} --&gt; If you want to make big changes, make your case on the talk page.--[[User:Filll|Filll]] 16:19, 2 October 2007 (UTC)
+::These automatic warnings for established users really isn't helpful. If you dispute his edits then the least you could do is write a note out yourself asking him to stop reverting. [[User:Wikidudeman|'''&lt;font color=&quot;blue&quot;&gt;Wikidudeman&lt;/font&gt;''']] &lt;sup&gt;[[User talk:Wikidudeman|(talk)]]&lt;/sup&gt; 16:30, 2 October 2007 (UTC)
+
+:Actually, I'm not. In the last 24 hours I made [http://en.wikipedia.org/w/index.php?title=Flood_geology&amp;diff=161759665&amp;oldid=161437565 one edit] that was original, and later [http://en.wikipedia.org/w/index.php?title=Flood_geology&amp;diff=161788555&amp;oldid=161769842 another edit] on the same material that was a revert, which I justified in detail [[Talk:Flood geology#Who all bit the dust?|on the Talk page]]. The [http://en.wikipedia.org/w/index.php?title=Flood_geology&amp;diff=161791368&amp;oldid=161788555 third edit] was also original (and was consecutive, so it wouldn't fall under the 3RR, anyway). The [http://en.wikipedia.org/w/index.php?title=Flood_geology&amp;diff=161810127&amp;oldid=161791846 fourth one] was not a revert but a modification of an edit made by another user. That makes 1 revert. I would have to make 3 more within 23 hours 40 minutes of your warning to be in violation. Strange. --[[User:Art Carlson|Art Carlson]] 20:18, 2 October 2007 (UTC)
+
+==Iantresman ban appeal==
+Hi. With permission from an arbitrator, [[User:Iantresman|Iantresman]] has filed an appeal to the Arbitration Committee, seeking review of the ban against him imposed after discussion at the Community Sanctions Noticeboard, and listed you as a potentially interested party. Your comments would be welcome at [[Wikipedia:Requests for arbitration#iantresman indefinite ban appeal]]. [[User:Newyorkbrad|Newyorkbrad]] 18:40, 2 October 2007 (UTC)
+
+== New try at homeopathy intro ==
+To all involved: please see &quot;My two cents&quot; edit of homeopathy intro [[Talk:Homeopathy#My_two_cents|here]]  
+
+[[User:Friarslantern|Friarslantern]] 22:51, 5 October 2007 (UTC)
+
+== Homeopathy ==
+
+The proposal to split the [[Homeopathy]] article into separate articles is not a good idea. Prior to the rewrite of the article, It was split into 5 or 6 separate articles. One on the &quot;history&quot; of homeopathy. A few on each tenet of homeopathic philosophy. One on criticism of homeopathy. Etc. This mass of articles was impossible to navigate through and they all generally contained redundant info except for the small amount of info differentiating them per the name of the article. I merged them all into that one article and cut down all of the redundant material. I would suggest that the best way to solve this is not to split the article into other articles but to try to best summarize the scientific studies as a whole. Using only the most reputable and reliable sources or meta-analysis and simply summarizing them in a NPOV manner. [[User:Wikidudeman|'''&lt;font color=&quot;blue&quot;&gt;Wikidudeman&lt;/font&gt;''']] &lt;sup&gt;[[User talk:Wikidudeman|(talk)]]&lt;/sup&gt; 16:37, 8 October 2007 (UTC)
+
+:If you wish to read the Ernst review you keep removing please e-mail me through my user page and I will send you the Pdf. It is unwise to remove references if you have not read them. If you read this you will see that the first paragraph of the introduction deals with the topic of the conflict between homeopathy and modern science. [[User:TimVickers|Tim Vickers]] 14:59, 17 October 2007 (UTC)
+
+== &quot;Sorting&quot; of Production Grids ==
+
+You sorted the production grids list on the [[Grid Computing]] page (something I approve of in general) but it's not at all clear to me what the criteria for the ordering you used were. Definitely not alphabetic! If there's some other ''objective'' criterion involved, please state what it is on that page or change it back to alphabetic. (Alphabetic sucks, but it's the best inherent order we've got without introducing additional information so that we can objectively measure &quot;importance&quot;). Right now, you've made it marginally harder for people to find information about the production grids without any conspicuous counterbalancing benefit, which is hardly improving anything. [[User:Dkf11|Donal Fellows]] 14:51, 8 November 2007 (UTC)
+
+== Critical density ==
+
+Regarding your edit:[http://en.wikipedia.org/w/index.php?title=Virial_theorem&amp;diff=170325392&amp;oldid=170320970]
+
+[[Critical density]] is a &quot;&lt;nowiki&gt;[[Category:Redirects with possibilities|redirect with possibilities]]&lt;/nowiki&gt;&quot;.  It doesn't have its own article now, but it could have one -- maybe I'll even write one, if I can get around to it.  Until then it seems to make sense to have links go right to it.  As the category page says, &quot;Do not replace these redirected links with a link directly to the target page.&quot;
+
+Maybe I'm wrong and no one will ever write an article on it (which would surprise me, since a lot of articles mention it) -- but even then the link still goes to the right place.  Of course it will be a redirect until an article is made, but I don't think it's that bad.
+
+I actually often remove redirects myself, but I don't think this is one to remove.  Still, since you reverted me, I'll [[WP:0RR]] and leave it.
+
+[[User:CRGreathouse|CRGreathouse]]&lt;small&gt; ([[User talk:CRGreathouse|t]] | [[Special:Contributions/CRGreathouse|c]])&lt;/small&gt; 16:29, 10 November 2007 (UTC)
+
+:I had never heard of a &quot;redirect with possibilities&quot;, so I naturally didn't pay attention to the category, but the concept makes sense. I'm not sure how much sense in this case, since the article itself is so short, but, hey, I'm easy. I'll revert myself. (Does that count as my second revert now? :-o ) --[[User:Art Carlson|Art Carlson]] 17:00, 10 November 2007 (UTC)
+
+:: I think I should have explained myself in the edit summary; that'll teach me.  As I said I often re-link to remove redirects so I might have done the same to you if our positions were reversed.
+:: What do you think of having an article for critical density -- doable, or too specialized?  There are a lot of links to it, which makes me think it's worthwhile.
+:: [[User:CRGreathouse|CRGreathouse]]&lt;small&gt; ([[User talk:CRGreathouse|t]] | [[Special:Contributions/CRGreathouse|c]])&lt;/small&gt; 17:21, 10 November 2007 (UTC)
+
+:::What do you want to say about it beyond the half page in [[Friedmann equations#The density parameter]]? If you remove that section from Friedmann equations, there will only be one page left. That comes close to replacing one short article with two stubs, and you probably won't be able to understand either one without the context of the other. (Another aspect is that &quot;critical density&quot; is used in several contexts, although I admit the majority of the google hits seem to be about cosmology.) As you can see, I'm a bit skeptical, but maybe I don't know enough about the Friedmann equations to appreciate the potential for expansion. --[[User:Art Carlson|Art Carlson]] 22:00, 10 November 2007 (UTC)
+
+==AfD nomination of Arsenicum album==
+[[Image:Nuvola apps important.svg|48px|left]]An article that you have been involved in editing, [[Arsenicum album]], has been listed for [[Wikipedia:Deletion policy|deletion]].  If you are interested in the deletion discussion, please participate by adding your comments at [[Wikipedia:Articles for deletion/{{{2|Arsenicum album}}}]].  Thank you.&lt;!-- Template:adw --&gt; &lt;font style=&quot;background-color:#218921; color:blue;font-family: Monotype Corsiva&quot;&gt;Table&lt;/font&gt;&lt;font style=&quot;background-color:#121298; color:white;font-family: Monotype Corsiva&quot;&gt;Manners&lt;/font&gt;&lt;sup&gt;[[Special:Contributions/TableManners|C]]·[[User:TableManners|'''U''']]·[[User_talk:TableManners|T]]&lt;/sup&gt; 03:15, 26 January 2008 (UTC)
+
+==In case you missed it.==
+I agree with your intro in the Carpe Diem section. [[User:Anthon01|Anthon01]] ([[User talk:Anthon01|talk]]) 14:47, 29 January 2008 (UTC)
+
+Thanks for reverting on the homeopathy page.  I think we just need to nip these things in the bud. Some editors don't know when to stop. [[User:David D.|David D.]] [[User talk:David D.|(Talk)]] 18:50, 30 January 2008 (UTC)
+
+==Banned by East==
+I've just got notice that I've been banned for stonewalling. We have been largely agreeing on the current issues. Any thoughts. [[User:Anthon01|Anthon01]] ([[User talk:Anthon01|talk]]) 17:48, 2 February 2008 (UTC)
+
+== The scientific community considers homeopathy to be pseudoscience ==
+
+:Per [[Wikipedia:Neutral_point_of_view/FAQ#Pseudoscience]]: &quot;Theories which have a following, such as astrology, but which are generally considered pseudoscience by the scientific community may properly contain that information and may be categorized as pseudoscience.&quot;
+
+The article states: ''The ideas of homeopathy are scientifically implausible[5][6] and its &quot;theory is diametrically opposed to modern pharmaceutical knowledge.&quot;[7] Claims for its efficacy beyond placebo are unsupported by the collective weight of scientific and clinical studies[8][9][10][11] and it is considered to be pseudoscientific.[12][13][14][15]''
+
+http://en.wikipedia.org/w/index.php?title=Homeopathy&amp;diff=next&amp;oldid=188572923
+
+I encourge you to read the references in the article. Thanks, [[User:QuackGuru|&lt;span style=&quot;color:#FFFF00;background:black;border-style: double&quot;&gt;Quack&lt;/span&gt;]] [[User talk:QuackGuru|&lt;span style=&quot;color:#00FF00;background:black;border-style: double&quot;&gt;Guru&lt;/span&gt;]] 17:58, 2 February 2008 (UTC)
+
+:With the possible exception of the [http://www.nsf.gov/statistics/seind02/c7/c7s5.htm NSF source], none of those sources meets [[Wikipedia:RS#Claims_of_consensus]].  Statements from individual researchers do not add up to attributable scientific consensus.  On Wikipedia, we have a well-established principle:  [[WP:NOTTRUTH|verifiability, not truth]].  In arguing for this point, Art was on very firm ground policy-wise.  As it happens, we have [http://news.bbc.co.uk/2/hi/health/6085242.stm another source], citing the Royal College of Pathologists, which provides the necessary statement of consensus from a mainstream body of scientists.  So we can go ahead and leave the category there, and move on. --[[User:Jim Butler|Jim Butler]] ([[User talk:Jim Butler|t]]) 04:43, 5 February 2008 (UTC)
+
+==I've been banned from the homeopathy page==
+Beware. Banned from the page for stonewalling.[[User:Anthon01|Anthon01]] ([[User talk:Anthon01|talk]]) 18:55, 2 February 2008 (UTC)
+
+I just realized I posted twice. sorry. [[User:Anthon01|Anthon01]] ([[User talk:Anthon01|talk]]) 19:12, 2 February 2008 (UTC)
+
+I took the position that you have taken on the Psci issue. [[User:Anthon01|Anthon01]] ([[User talk:Anthon01|talk]]) 21:10, 2 February 2008 (UTC)
+
+:I am surprised you got banned. Did you do something terrible while I wasn't looking? What exactly was the reason given by East? For better or for worse, I'm going on vacation until next Wednesday. That doesn't help you, but at least it should keep me out of trouble. Till then. --[[User:Art Carlson|Art Carlson]] ([[User talk:Art Carlson#top|talk]]) 21:28, 2 February 2008 (UTC)
+
+:: For taking on moderate position agreed on by you, Jim Butler, Scientizzle and a few other good experience editors. [[User:Anthon01|Anthon01]] ([[User talk:Anthon01|talk]]) 21:39, 2 February 2008 (UTC)
+
+== Homeopathy article probation ==
+
+Thought you should know that every article related to homeopathy is under [[WP:SANCTION|article probation]] now - please familiarize yourself with the terms [[Talk:Homeopathy/Article probation|here]]. I hope that you understand that this notice is a mere formality and hope that set a good example for some of our other editors. [[user:east718|&lt;small style=&quot;background:#fff;border:#ccc 1px solid;color:#000;padding:0px 3px 1px 4px;white-space:nowrap&quot;&gt;'''east&lt;big style=&quot;color:#090&quot;&gt;.&lt;/big&gt;718''' ''at 21:07, February 2, 2008''&lt;/small&gt;]]
+
+==Banned==
+You are banned for 7 days from editing [[homeopathy]] and its talk page.  You have been tendentiously pushing an agenda [http://en.wikipedia.org/w/index.php?title=Talk:Homeopathy&amp;curid=14274&amp;diff=188668190&amp;oldid=188668025] [http://en.wikipedia.org/w/index.php?title=Talk:Homeopathy&amp;diff=prev&amp;oldid=188657595] [http://en.wikipedia.org/w/index.php?title=Talk:Homeopathy&amp;diff=prev&amp;oldid=188601843]  and furthering an edit war,[http://en.wikipedia.org/w/index.php?title=Homeopathy&amp;diff=prev&amp;oldid=188629319]  in opposition to all evidence and Wikipedia policy.  This is disruptive.  [[Pseudoscience]] has a [[wikt:Pseudoscience|plain English meaning]].  Many reliable sources say that homeopathy is pseudoscience. &lt;ref&gt;National Science Board (April 2002) ''Science and Engineering Indicators,'' Chapter 7, &quot;Science and Technology: Public Attitudes and Public Understanding&quot; - [http://www.nsf.gov/statistics/seind02/c7/c7s5.htm &quot;Science Fiction and Pseudoscience&quot;] (Arlington, Virginia: National Science Foundation Directorate for Social, Behavioral and Economic Sciences)&lt;/ref&gt;&lt;ref&gt;Wahlberg, A. (2007) [http://dx.doi.org/10.1016/j.socscimed.2007.07.024 &quot;A quackery with a difference—New medical pluralism and the problem of 'dangerous practitioners' in the United Kingdom,&quot;] ''Social Science &amp; Medicine'' '''65'''(11) pp. 2307-2316: PMID 18080586&lt;/ref&gt;&lt;ref&gt;Atwood, K.C. (2003) [http://archotol.ama-assn.org/cgi/content/extract/129/12/1356 &quot;Neurocranial Restructuring' and Homeopathy, Neither Complementary nor Alternative,&quot;] ''Archives of Otolaryngology-Head and Neck Surgery'' '''129'''(12) pp. 1356-1357: PMID 14676179&lt;/ref&gt;&lt;ref&gt;Ndububa, V.I. (2007) [http://www.find-health-articles.com/rec_pub_18080586-medical-quackery-nigeria-silence.htm &quot;Medical quackery in Nigeria; why the silence?&quot;] ''Nigerian Journal of Medicine'' '''16'''(4) pp. 312-317: PMID 18080586&lt;/ref&gt; Arguing otherwise is like arguing that the moon is made of cheese.  This manner of disruption will no longer be tolerated. [[User:Jehochman|Jehochman]]  &lt;sup&gt;[[User_talk:Jehochman|Talk]]&lt;/sup&gt; 22:02, 2 February 2008 (UTC)
+
+:[http://en.wikipedia.org/w/index.php?title=User_talk:Jehochman&amp;diff=prev&amp;oldid=188724905 Bad call].  We all make mistakes and I hope [[User:Jehochman]] is able to realize that this is one, and reverses himself. --[[User:Jim Butler|Jim Butler]] ([[User talk:Jim Butler|t]]) 03:04, 3 February 2008 (UTC)
+
+I have undone this ban.  Your calmness during the aftermath convinced me that a ban was no longer needed. [[User:Jehochman|Jehochman]]  &lt;sup&gt;[[User_talk:Jehochman|Talk]]&lt;/sup&gt; 23:29, 4 February 2008 (UTC)
+
+:Well, Art was never not-calm (hmm, that sounds like a Zen expression). :-)  But thanks, sincerely.  We don't want to punish good behavior.  regards, [[User:Jim Butler|Jim Butler]] ([[User talk:Jim Butler|t]]) 05:21, 5 February 2008 (UTC)
+
+:What calmness? Didn't I tell you I was going on vacation? --[[User:Art Carlson|Art Carlson]] ([[User talk:Art Carlson#top|talk]]) 21:20, 6 February 2008 (UTC)
+::It was an indefensible action on Jehochman's part, and while it was good that he reversed it, the reason given -- that you were suitably &quot;calm&quot; -- was equally off the mark.  Your position on WP policy was at best correct and at worst defensible, and your position on sourcing a statement of scientific consensus was simply correct.  I would like to see objective guidelines that avoid such unfortunate actions by sysops in the future.  I mean, come on ... WP should be thanking editors like you, not sanctioning them over nothing.  --[[User:Jim Butler|Jim Butler]] ([[User talk:Jim Butler|t]]) 06:04, 7 February 2008 (UTC)
+:::Thanks for your support. I have the feeling that Jehochman's actions are not just in poor judgement but also an abuse of power. I have considered taking action against him, but as no actual harm was done to me and he does not seem to be a [[berserker]], I'll let it slide. As to the issue of the [[:Category:Pseudoscience]], I'm not entirely happy with the quality of the references we have found, but as long as the category is based on RSs, then at least Wikipedia policy is not being flogged. I am also disappointed that the pro-cats never really seemed to catch on that there was a policy issue at stake. Anyway, I'm just muttering to myself now. I think I'll step back from [[Homeopathy]] a while. It takes too much time, and I'm no expert anyway. Cheers, --[[User:Art Carlson|Art Carlson]] ([[User talk:Art Carlson#top|talk]]) 16:02, 7 February 2008 (UTC)
+::::Agree with everything except that last bit -- you may not be an expert in homeopathy, but you know a hell of a lot more about scientific sources, and evidently WP policy, than most editors there, including the banning admin.  I doubt he'll acknowledge his error, but perhaps he's learned and won't repeat the mistake, which is what matters in the long run.  Yes, I think I'll leave that article for others to fight over... funner stuff to do.  all best, [[User:Jim Butler|Jim Butler]] ([[User talk:Jim Butler|t]]) 10:06, 8 February 2008 (UTC)
+:::::Art, your calmness is admirable -- even if you are on vacation.  :)  It's beginning to look as if the article probation is having an effect opposite that espoused by its supporter: the truly NPOV/knowledgable editors are being chased away while the loons are ruling the roost (beware mixed metaphor).  I may wend my way back to homeopathy after the Passion of the Admins subsides, and after the article is totally screwed up, and I hope you and Jim do the same.  Or, maybe we can just accept the fact that WP is ''truly'' dysfunctional, especially in science areas, and look for another outlet. [[User:Jim62sch|&lt;font face=&quot;Times New Roman&quot; color=&quot;FF2400&quot;&gt;&amp;#0149;Jim&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;F4C430&quot;&gt;62&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;000000&quot;&gt;sch&amp;#0149;&lt;/font&gt;]]&lt;sup&gt;[[User talk:Jim62sch|dissera!]]&lt;/sup&gt; 20:33, 8 February 2008 (UTC)
+
+:::::: Art. I too was banned for taking the same position that you and Jim took on that page and humorously your banning admin encourage the day after. There are many derogatory comments made against pro-homeopathy editors, but those commentators largely miss an an important point. That is, pseudoscience POV-pushers are also part of the problem, as Jehochman realize as he met them head-on. It looks like one of those POV pushers has left. [[User:Anthon01|Anthon01]] ([[User talk:Anthon01|talk]]) 03:02, 9 February 2008 (UTC)
+
+===References===
+{{reflist}}
+
+== the ernst study ==
+
+(Answering here to avoid posting on homeopathy articles) &lt;s&gt;I mean that the study says that homeopathy seems to have no effect beyond placebo. It also says &quot;scientific implausibility of the basic concepts that underlie homeopathic thinking,&quot;, altought out of context, it surely refers to the law of similars, increased effect with decreased dose, etc, which go against stablished principles of modern science. So, while it doesn't specifically say &quot;it contradicts scientific principles&quot;, it's also clear that it does say at all &quot;it is in agreement with scientific principles&quot; &lt;/s&gt; Ah, forget it, I see that it needs to be ''exactly the same wording down to the last word in the same order'' in order to get past the filters in place, not sure if this is good or bad --[[User:Enric Naval|Enric Naval]] ([[User talk:Enric Naval|talk]]) 08:50, 4 April 2008 (UTC)
+
+==Samuel Hahnemann==
+Hi Art, I wonder if you would mind checking this article [[Samuel Hahnemann]] because footnote #9, though the title is embedded in the html text, it does not appear in the listed footnotes, except as an op.cit. I can't seem to work out how to reformat it so the title appears in a citation a bit further up as well as the op.cit. Hope you follow that! Would you please mind checking it and doing what needs doing? many thanks [[User talk:Peter morrell|Peter morrell]] 16:36, 4 April 2008 (UTC)
+: I looked at the article and wasn't able to figure out what you want done. Maybe the problem has been solved, since the article has been edited after you left this note. If not, try telling me again what should be changed. I don't understand all the ins and outs of Wikipedia mark-up, but I'll give it a look. --[[User:Art Carlson|Art Carlson]] ([[User talk:Art Carlson#top|talk]]) 08:56, 5 April 2008 (UTC)
+
+Thanks, Art, no worries, Tim Vickers fixed it as I guessed you had gone off. It was a tangled mess of codes that blocked several refs from appearing in the main text even though the refs were embedded in the html tx of the article in draft form. thanks anyway [[User talk:Peter morrell|Peter morrell]] 13:52, 5 April 2008 (UTC)
+
+== Talk pages ==
+
+Hi Art,
+
+Could you avoid inserting comments into the middle of other people comments like in talk:homeopathy. In moderate doses it's not too big an issue, but if it gets out of hand then it becomes next to impossible to tell who's saying what since the sections lose their signature. Take a look at talk:chiropractic and you'll see what I mean.
+
+Best wishes, anyway
+[[User:Jefffire|Jefffire]] ([[User talk:Jefffire|talk]]) 12:56, 22 April 2008 (UTC)
+
+: Sometimes it's less confusing to keep the topics together than to keep the contributions of each editor together, but thanks for the tip. I'll keep it in mind. --[[User:Art Carlson|Art Carlson]] ([[User talk:Art Carlson#top|talk]]) 13:07, 22 April 2008 (UTC)
+
+== Note from John Brandenburg ==
+
+Dear Art, 
+
+I note you are supporting deletion of my article, but you have at least asked for a second opinion and I thank you for this. I also note that , like myself , you are a plasma physicist who has worked on aneutronic fusion, as have I. I consider it will one day save the world from global warming.  I am also from Oregon originally, ( Medford).  Perhaps my theory is not noteable, I have not made a effort to make it into a headline, but I will soon, because i have decided it is time. What if i succeed? 
+
+So i ask you to reread the article and consider as a plasma physicist, who is familiar with the ExB drift, and with cosmology ( like most plasma physicists , since the known cosmos is 99% plasma, it gives us a license to be cosmlogists) , to look at the article, and ask yourself:  are its physical premises in obvious error?  Are its results for G, for the Hubble time, and  the temperature of the CBR noteable? 
+
+I am not a &quot;surfer dude&quot; with a E (8) unified field theory,  I am a working plasma physicist, who like many of our vocation in the US , being unable to do fusion, we have gone into space, where i work on plasma propulsion and other plasma technologies. I can build and run a langmuir probe, a coax plasmas into doing what i want.  That makes me stay close to the practical. My theory is good physics, as for being noteable, that is simply a new project to me. 
+
+with every good wish
+John Brandenburg Ph D  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Deepthought137|Deepthought137]] ([[User talk:Deepthought137|talk]] • [[Special:Contributions/Deepthought137|contribs]]) 14:37, 28 April 2008 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:Dear John, if you ever manage to make your theory into a &quot;headline&quot;, then I will support its inclusion in Wikipedia, whether I think it is right or not. I think it is unlikely that I will have time to look at it in any detail in the near future. [[User:Art Carlson|Art Carlson]] ([[User talk:Art Carlson#top|talk]]) 15:15, 28 April 2008 (UTC)
+
+== Re: What is kept by a decision to keep? ==
+
+Basically, when a discussion is closed as keep, that means that there is consensus that the article as it was on March 2007 was satisfactory enough for an independent article. That being said, since the AfD took place over a year ago, newfound developments could very well have made that AfD void (see [[Wikipedia:Consensus can change]]). If there is consensus to merge, that can be done at the talk page, and is the best option if there is just a keep v. merge debate. If there's a keep v. merge v. delete battle, AfD is generally a better option, but in this case you guys seem to be coming to a consensus rather nicely. To answer your questions in short, keep = to keep the content in some form, merges can be decided by consensus on the talk page. Hopefully I answered your questions fully. [[User:Wizardman|&lt;span style=&quot;color:#060&quot;&gt;'''''Wizardman'''''&lt;/span&gt;]] 15:38, 1 June 2008 (UTC)
+
+== Savannah Apes ==
+
+Hi [[User:Art Carlson|Art]].  Further to the recent new-user edits at [[Expanding Earth theory]], if you've got a moment you might like to check out a new article created by the same new-user, [[Savannah apes]].  To give the new-user some credit, at least their [[User talk:Andiemackay|username]] is the same as their real name (which is more than can be said for me!).  Anyway, I've tagged the article with a &lt;nowiki&gt;{{notability}}&lt;/nowiki&gt; flag, but I suspect it really needs deleting.  That said, a Google trawl reveals that a &quot;Savannah ape hypothesis&quot; does appear to exist, but not in association with the apparent author of this new article, &quot;Andrew D. Mackay&quot;.  Anyway, what do you reckon?  Cheers, --[[User:Plumbago|Plumbago]] ([[User talk:Plumbago|talk]]) 17:16, 19 June 2008 (UTC)
+
+== A question ==
+
+Do you have information about the flammability in the plasma (state of matter)?
+
+Thanks,
+
+--[[Special:Contributions/190.67.186.169|190.67.186.169]] ([[User talk:190.67.186.169|talk]]) 18:53, 13 August 2008 (UTC)
+
+==Cold fusion==
+
+HELP! We have Cold Fusion proponents dramatically asserting [[WP:OWN|ownership]] over [[cold fusion]]. I need all the help I can get. [[User:ScienceApologist|ScienceApologist]] ([[User talk:ScienceApologist|talk]]) 16:03, 27 October 2008 (UTC)
+: It seems like a swamp, but I'll have a look. --[[User:Art Carlson|Art Carlson]] ([[User talk:Art Carlson#top|talk]]) 21:54, 27 October 2008 (UTC)
+:: I was just looking up how to collapse a section, and then go back to the page to find you've done it already! Thanks [[User:Verbal|&lt;font color=&quot;#CC7722&quot; face=&quot;Papyrus&quot;&gt;'''Verbal'''&lt;/font&gt;]] &lt;small&gt;[[User talk:Verbal#top|&lt;font color=&quot;grey&quot; face=&quot;Papyrus&quot;&gt;chat&lt;/font&gt;]]&lt;/small&gt; 16:29, 18 December 2008 (UTC)
+
+
+In spite of what you think, I do know a thing or two, likely plenty to get myself in Big Trouble.  If the word &quot;hydrino&quot; caused your eyeballs to roll up and make you stop reading, tough.  You would have missed the part where I said I don't put much credence in the claims.  And if you would care to offer a few concepts associated with the notion that somehow atomic nuclei separated by 100,000 diameters can have greater electric repulsion than electrons separated by 100 nuclear diameters, I'd be happy to hear it.  In the meantime, here's a wild idea to think about:  http://www.halfbakery.com/idea/BEC_20Fusion   [[User:Objectivist|V]] ([[User talk:Objectivist|talk]]) 05:47, 4 February 2009 (UTC)
+: I may have been a bit curt. I didn't mean to insult you. But I do need to ration my time and in that context I didn't have anything to add to the discussion. Regards, --[[User:Art Carlson|Art Carlson]] ([[User talk:Art Carlson#top|talk]]) 07:53, 4 February 2009 (UTC)
+
+== Hello ==
+
+Hello. I was wondering if you were related to [[User:Steve carlson]]?--[[User:Stereotyper|Stereotyper]] ([[User talk:Stereotyper|talk]]) 21:00, 27 October 2008 (UTC)
+:Not as far as I know. --[[User:Art Carlson|Art Carlson]] ([[User talk:Art Carlson#top|talk]]) 21:51, 27 October 2008 (UTC)
+
+== Bayesian priors and belief ==
+Your comment about Bayesian priors strikes a cord with me.  I have noticed how intuitive reasoning (in the immediate belief or recognition sense of the word) shows the workings of a probabilistic depedency model.  All training data seems to have been subconsciously processed to form a maximum likliehood estimate.  A good example is face recognition being affected by the place or environment where the face is encountered. No big surprise given that nueral networks are probabolistic dependancy models.
+
+Taking perhaps a different direction, I have also been struck by how the filtration of incoming information based on past information causes people to become polarized, yet clustered, in their beliefs. In recent years, this became very noticeable in the divisions between political camps.  Belief in seemingly unpolitical matters like whether global warming is real became predictable based on political affiliation.
+
+I had an idea for developing a model that would cluster people into political camps without relying on aprior divisions like race, sex, income, etc.  A naïve Bayes model with a hidden variable predictive of cluster was what I had in mind.  I do not mean to be misleading, I never knew the math very well and have forgotten much of what I learned.  The training data would use a bunch of candidate questions.  Part of the model-building process would be to find which small group of questions best sorted people into clusters that were predictive of voting behavior and political views.  Next step would be a nationwide study to get the population distribution of clusters (too expensive, idea fails here).  In future polls you ask the cluster sorting questions along with whatever else you are interested in and use the cluster information to correct for sample bias.  I was sure it would work better than demographics and would also be useful in building focus groups.
+
+Getting back on track, I though it would be interesting to study how people decide what is true and whether there was something to be learned about distinguishing between functional and disfunctional belief forming habits or rooting our weak premises.  Have you gone anywhere with any of this?[[User:Pvkeller|Paul V. Keller]] ([[User talk:Pvkeller|talk]]) 20:42, 3 December 2008 (UTC)
+
+== [[Talk:Plasmoid]] ==
+
+Please help to reformulate the text.[[User:Carn|Carn]] ([[User talk:Carn|talk]]) 12:31, 27 December 2008 (UTC)
+
+== [[WP:PHYS]] ==
+
+Hey there, I noticed from your talk page that you seem to know something about physics. Might I interested you in joining [[WP:PHYS|WikiProject Physics]]? [[User:Headbomb|Headbomb]]&amp;nbsp;{&lt;sup&gt;[[User talk:Headbomb|ταλκ]]&lt;/sup&gt;&lt;sub style=&quot;margin-left:-4.0ex;&quot;&gt;[[Special:Contributions/Headbomb|κοντριβς]]&lt;/sub&gt;&amp;nbsp;&amp;ndash;&amp;nbsp;[[WP:PHYS|WP Physics]]} 05:33, 1 March 2009 (UTC)
+
+: Thanks for the invite. I looked at the project pages, but I don't think I will have time to do more than I am doing now: watching articles I have expertise in or happen to be interested in for other reasons. --[[User:Art Carlson|Art Carlson]] ([[User talk:Art Carlson#top|talk]]) 11:16, 1 March 2009 (UTC)
+
+::Alright then. Though you might want to watch [[Wikipedia:WikiProject Physics/Article alerts]] to see if something catches you eye from time to time.[[User:Headbomb|Headbomb]]&amp;nbsp;{&lt;sup&gt;[[User talk:Headbomb|ταλκ]]&lt;/sup&gt;&lt;sub style=&quot;margin-left:-4.0ex;&quot;&gt;[[Special:Contributions/Headbomb|κοντριβς]]&lt;/sub&gt;&amp;nbsp;&amp;ndash;&amp;nbsp;[[WP:PHYS|WP Physics]]} 11:40, 1 March 2009 (UTC)
+
+::: OK. I'll at least give that a try. --[[User:Art Carlson|Art Carlson]] ([[User talk:Art Carlson#top|talk]]) 13:17, 1 March 2009 (UTC)
+
+== Only smoke? Or possibly some fire? ==
+
+Hello Dr. Carlson. I've read with interest your entries at Talk-Polywell.org as well as some of your contributions here at WP. I respect your approach of testing an idea or theory's strength by subjecting it to the most rigorous scrutiny. I also understand that you have limited time and must choose your topics of interest. I was hoping you were familiar with an article by Dr. David Goodstein, of CalTech titled, &quot;Whatever Happened to Cold Fusion?&quot; If not, I was hoping I could interest you enough to read it [http://www.its.caltech.edu/~dg/fusion_art.html here].
+
+With respect to Dr. Goodstein's article, a recent (April 19, 2009) 60 Minutes piece profiled the work of Energetics Technologies. The 60 Minutes piece is linked on the company's commercial [http://superwavefusion.com/ site]. Also on the company's site is a presentation demonstrating their technique that is mentioned in the 60 minutes piece.
+
+If you have followed along this far, my question is whether you think Energetics' technique might be a realistic way to increase the &quot;x&quot; that Dr. Goodstein discusses in his article?
+
+[[User:Krellkraver|Krellkraver]] ([[User talk:Krellkraver|talk]]) 10:55, 21 April 2009 (UTC)
+
+: If x were really the key, as Goodstein speculated 15 years ago, we would know it by now. &quot;If not, then the whole story I have told you is nothing but a curious footnote to a bizarre and ugly episode in the history of science.&quot; My gut reaction to the &quot;SuperWave&quot; business is that it is implausible and sounds like hocus pocus. And I'm just talking about whether they can get higher concentrations that way. From there to cold fusion is still several light years. Do not invest. --[[User:Art Carlson|Art Carlson]] ([[User talk:Art Carlson#top|talk]]) 11:21, 21 April 2009 (UTC)
+
+:: Thanks for your insight, Dr. Carlson. [[User:Krellkraver|Krellkraver]] ([[User talk:Krellkraver|talk]]) 21:18, 21 April 2009 (UTC)
+
+:::Dr. Carlson, I just came across the discussions here. There is a paper by [[Michael McKubre]] in the Low Energy Nuclear Reactions Sourcebook (2008) ([[American Chemical Society]] and [[Oxford University Press]]), reporting ''Replication of Condensed Matter Heat Production,'' which covers replication of the Energetics Technologies work by McKubre at SRI and at ENEA in Italy. Whatever the phenomenon behind what are now overwhelming reports of excess heat (153 peer-reviewed papers), correlated with helium (several confirmations) at 25 +/- 5 MeV/ He4 (compared to d-d -&gt; He4 fusion, 23.8 MeV), charged particle radiation (many reports), helium correlated with excess heat, and low level -- but significant -- neutrons (Mosier-Boss, [[Naturwissenschaften]], Jan 2009, &quot;Triple tracks ....&quot;), it's clear that the reaction is rare and difficult to set up; it was not until 2007 that research groups began reporting 100% excess heat, i.e., in every cell. (He Jing-Tang, Frontiers of Physics in China, 2007).
+
+:::There are many theories now, but there is one that I find interesting: There is an article in that same ACS Sourcebook by Akito Takahashi and Norio Yabuuchi, ''Study on 4D/Tetrahedral Symmetric Condensate Condensation Motion by Non-Linear Langevin Equation.'' In it, he predicts, using [[quantum electrodynamics]] (I think!) to predict that if what he calls a Tetrahedral Symmetric Condensate forms, that it will fuse 100 percent per TSC formation. The TSC appears to be seeded with two deuterium molecules, crossed and confined in the cubic palladium lattice (the most efficient packing); as I'm sure you know, deuterium dissociates in palladium and does not exist in the molecular form there; but at the surface, this configuration might rarely form; the deuterium nuclei would be in a tetrahedron (and is there some relationship as in the [[Oppenheimer-Phillips process]], i.e., those deuterons could be polarized as the system collapses, with the neutrons to the center, thus able to approach more closely, perhaps closely enough that the strong force takes over, this is not a simple two-body problem as is the norm in plasma physics.) I'm unclear on it, but it seems that the TSC, as a &quot;condensate,&quot; is a [[Bose-Einstein condensate]].
+
+:::There is another paper in Naturwissenschaften, May 2009, by Kim, proposing Bose-Einstein condensate formation as an explanation for the apparent nuclear reactions in palladium deuteride. If Takahashi is right, the fusion reaction isn't d+d -&gt; He4, rather it's 4d -&gt; Be-8 -&gt; 2He4 + 57.6 MeV. This reaction produces no neutrons, except from secondary reactions caused by the hot alphas. I've asked researchers in the field about this theory, and they seem to think that there isn't enough secondary radiation, and the charged particles detected by the SPAWAR group and others are at too low an energy, but I've seen no good study on this. It appears, in any case, that earlier objections based on theoretical predictions of reaction rates and resulting radiation involved limited assumptions about what reactions to consider.
+
+:::However, from the massive work in the field, it's now quite clear (to me and to many others) that there are nuclear reactions taking place (there is no other plausible explanation for the copious charged particles and the low levels of neutrons, this is using CR-39 which is not vulnerable to the noise of electronic detectors and other artifacts that plagued Fleischmann and others, this recent analysis shows that early reports of low levels of neutrons were, some of them, probably accurate, but these were dismissed because they were at levels way too low to explain the reported heat, assuming deuterium fusion. Using co-deposition, these results are consistent and there are controls.
+
+:::Back in January, I happened to notice, from Jehochman Talk, that JzG had blacklisted lenr-canr.org and newenergytimes.com, unilaterally, out of process. I looked into it and saw that he was involved at [[Cold fusion]], so I warned him and that led to a process which eventually took us before ArbComm, where my claim of action while involved was sustained and JzG was reprimanded.
+
+:::However, I started to look into the field. I had closely followed the original announcement when it hit the media in 1989, and, in fact, I very quickly bought $10,000 worth of palladium. When it seemed to be a flash in the pan, I ended up roughly breaking even, and I'd concluded, with practically everyone else, that cold fusion was bogus. However, when I started reading the sources in January, I saw that this may have been a premature conclusion. Fleischmannn's excess heat measurements were never actually shown to be wrong, but the difficulties of replication made it easy to assume so. In fact, when Fleischmann ran out of his original batch of palladium, even he couldn't get it to work again for quite a while. In hindsight, it's obvious. The reaction in bulk palladium requires loading to exceed roughly 90%, and microcracks in the palladium prevent high loading. Not just any palladium will do. And with bulk palladium, it takes weeks of electrolysis to get sufficient loading, the early attempts at replication weren't patient enough -- or had unusable palladium, or other problems. However, the [[SPAWAR]] group (that reported neutrons last year) uses a codeposition technique that immediately produces 100% loading, and these cells start producing heat and radiation very quickly and consistently. But codeposition is a research technique, it's not likely to work for energy production.
+
+:::Indeed, it's very possible that no CF technique will ever produce practical commercial power. However, the first question, for the science of this, is whether or not these reactions take place at all. Nobody rejects [[muon-catalyzed fusion]] because it can't be used to brew a cup of tea.
+
+:::Now, the Wikipedia situation. Because I'd filed an RfC on JzG, I started to attract a lot of negative attention. I got flack for even discussing the research at [[Talk:Cold fusion]], and when I started to put in reliably-sourced material that should have been non-controversial, it was reverted out, and the page was protected twice; the first time I was involved, because after so many reverts I did, on May 21, insist a bit. But the next revert war on June 1 did not involve me. However, I was banned from the article and its talk by [[User:William M. Connolley|William M. Connolley]], and all this is before ArbComm right now. My purpose here? Simply to suggest that, as a plasma physicist, you might be in a good position to understand the sources and to help insure that the article fairly represents the balance found in reliable source.
+
+:::What I've called the cabal (see the RfAr) relies upon the 1989-1990 reviews, including the 1989 DoE review, which was so highly negative that only one member of the panel, apparently, didn't support Huizenga's view as co-chair that the whole thing was preposterous bogosity, in order to claim that cold fusion &quot;is rejected by mainstream scientists.&quot; Now, it's obvious that &quot;most scientists&quot; reject cold fusion. But in 2004, there was another DoE review, as I assume you know. In that review, on the crucial excess heat question, half the 18-member panel considered the evidence for excess heat conclusive. My guess is that this may represent the breakdown of the panel into chemists and physicists! -- but that is speculation at this point. And one-third the panel considered that the evidence for a nuclear origin was &quot;somewhat convincing.&quot; Because the bureaucrat summarizing the results was concerned with the purpose of the panel, to determine funding, and because the funding recommendations (modest funding under existing programs) were the same as in 1989, what's been emphasized in our article is that &quot;the conclusions were the same.&quot; Which easily implies total rejection. But, in fact, they were very, very different.
+
+:::The 2004 DoE panel shows, unmistakeably, that cold fusion is controversial science, but not rejected by consensus ''among those who are informed.'' The panel was informed through a paper, some of them may have studied the references, and a one-day meeting was held where cold fusion researchers made a presentation.
+
+:::Robert Duncan, mentioned above by Krellkraver, was a skeptical physicist hired by CBS News to investigate cold fusion, and he was amazed by what he found. He recently ran a seminar where most of the major researchers were invited, and there is video of that seminar.
+
+:::We can't put all the stuff I mentioned above in the article, it's way too new, as to the science. But there is plenty of reliable source that we now have, including peer-reviewed secondary source, for text that is much more neutral. And, while my ban was converted to a community ban, and has expired, WMC still claims that he can block me if I edit the article. I [[WP:DGAF|DGAF]] if he blocks me, it would merely accelerate matters, but I also don't do disruption. In the mean time, do you think you could look at the article. There is [http://en.wikipedia.org/wiki/Talk:Cold_fusion/Archive_33#Poll.2C_reserved_section a poll recently archived] that contained a matrix with diffs between a set of relevant versions: May 21, as protected in the first edit war (some progress had been made); May 31, just before the second edit war; June 1, just before it was protected; and May 14, which WMC reverted to for some very strange reason, and the current version derives from that, stuff that had been accepted by consensus remains removed.
+
+:::If you could look at those diffs and comment, or otherwise watch and assist with the article, it would be appreciated. Knowledgeable editors are needed to ensure that the consensus formed there is based on knowledge and not just on knee-jerk opinion. I wasn't there to push a POV, but to try to balance the article, with consensus, following our guidelines. Thanks. --[[User:Abd|Abd]] ([[User talk:Abd|talk]]) 03:05, 2 August 2009 (UTC)
+
+== Rydberg Matter ==
+Hi Art. Any thoughts on [[Rydberg matter]]? Cheers. [[User:ABlake|ABlake]] ([[User talk:ABlake|talk]]) 13:56, 7 May 2009 (UTC)
+
+== Do shaped charge jets = plasma? ==
+
+Good day sir!
+I'm merely a layman in the field of high energy physics, but I find plasma to be a fascinating topic to research for the fun of it.  I was hoping that you could disambiguate something for me since you appear to be the man in the know.
+Several times while reading various articles about linear shaped explosive charges, the author(s) refer to the 'jet', (which is a ductile metal, most commonly copper that is shaped and accelerated by the surrounding explosive to cut through hardened objects such as steel beams or concrete) as a plasma.  
+My question is this;  Is enough energy imparted by the explosive to the metal such that the electrons jump up an orbit and are able to 'boil off' and ionize the metal jet into a plasma state, or was the term used flippantly in the articles that I read?    
+If you have the time to answer, that would be super.  Since the question is of a trivial nature, it's not going to hurt my feelers any if you fail to reply.
+
+Thanksamillion,
+[[User:Dreadp00l|Dreadp00l]] ([[User talk:Dreadp00l|talk]]) 08:41, 20 May 2009 (UTC)
+
+: Sorry, I can't say. The fireball from an explosion is certainly a plasma, but if the energy is transfered from the fireball to a metal, it depends. Enough energy might be transfered to ionize the metal into a plasma, or else it might only be melted. --[[User:Art Carlson|Art Carlson]] ([[User talk:Art Carlson#top|talk]]) 09:19, 20 May 2009 (UTC)
+
+== Not quite as small... ==
+
+Hi Art!
+
+While I'm still associated academically with TUM , I'm no longer working there for mu salary - I'm in Karlsruhe at the moment. How is life at the LRZ? 
+
+--[[User:Stephan Schulz|Stephan Schulz]] ([[User talk:Stephan Schulz|talk]]) 10:53, 15 June 2009 (UTC)
+
+: Stessig, this month, non-stop meetings and conferences. I'm working in D-Grid, so I come to Karlsruhe quite a bit, but fortunately not again until September. If I ever have some time to kill I'll try to look you up. I also have a sister-in-law in Karlsruhe. A small world, but not after all nano scale. --[[User:Art Carlson|Art Carlson]] ([[User talk:Art Carlson#top|talk]]) 11:00, 15 June 2009 (UTC)
+
+==Science vs Astrology==
+Hi Art, I re-read your statement and realised in my rush to reply, I didn´t take it all in. I am quite busy these days. Apologies. I have now added in bold, three points, to my original answer. These points hopefully more directly address the questions raised by you, even if I realise additional reflection would be needed to make them more concise. [[User:Odin 85th gen|Odin 85th gen]] ([[User talk:Odin 85th gen|talk]]) 04:10, 18 September 2009 (UTC)
+
+== Typo? ==
+
+Hi Art. In this [http://en.wikipedia.org/w/index.php?title=Talk:Astrology&amp;diff=prev&amp;oldid=318826023 edit] I suspect you made a typo: astrology/astronomy. Thrice you write &quot;astronomy&quot;, where &quot;astrology&quot; is probably what you meant. It's an easy one to make. -- [[User:BullRangifer|Brangifer]] ([[User talk:BullRangifer|talk]]) 13:51, 13 October 2009 (UTC)
+: Embarrassing nonetheless. Thanks. --[[User:Art Carlson|Art Carlson]] ([[User talk:Art Carlson#top|talk]]) 15:38, 13 October 2009 (UTC)
+
+== You are now a Reviewer ==
+
+[[File:Wikipedia Reviewer.svg|right|130px]]
+Hello. Your account has been granted the &quot;&lt;tt&gt;reviewer&lt;tt&gt;&quot; userright, allowing you to [[WP:Reviewing|review other users' edits]] on certain flagged pages. Pending changes, also known as flagged protection, is currently undergoing a [[WP:Pending changes|two-month trial]] scheduled to end 15 August 2010.
+
+Reviewers can review edits made by users who are not [[wp:autoconfirmed|autoconfirmed]] to articles placed under pending changes. Pending changes is applied to only [[Special:StablePages|a small number of articles]], similarly to how semi-protection is applied but in a more controlled way for the trial. The list of articles with pending changes awaiting review is located at [[Special:OldReviewedPages]].
+
+When reviewing, edits should be accepted if they are not obvious [[WP:VAND|vandalism]] or [[WP:BLP|BLP violations]], and not clearly problematic in light of the reason given for protection (see [[Wikipedia:Reviewing process]]). More detailed documentation and guidelines can be found [[WP:Pending changes|here]].
+
+If you do not want this userright, you may ask any administrator to remove it for you at any time. &lt;!-- Template:Reviewer-notice --&gt; [[User:Courcelles|Courcelles]] ([[User talk:Courcelles|talk]]) 04:53, 20 June 2010 (UTC)
+
+== Spheromak = spherical tokamak? ==
+
+Are these two terms equivalent? [[User:Maury Markowitz|Maury Markowitz]] ([[User talk:Maury Markowitz|talk]]) 21:58, 11 November 2010 (UTC)
+: No. A spherical tokamak is simply a tokamak with an extremely small aspect ratio, i.e. the column down the middle is very thin in comparison to the outer radius. A spheromak is a compact toroid, i.e. has no central column at all. --[[User:Art Carlson|Art Carlson]] ([[User talk:Art Carlson#top|talk]]) 08:01, 12 November 2010 (UTC)
+:: Ok thanks, no need for a redir then. [[User:Maury Markowitz|Maury Markowitz]] ([[User talk:Maury Markowitz|talk]]) 13:10, 12 November 2010 (UTC)
+:: Could you give [[Spheromak]]'s new intro a quick read-over? I'm going to start work on the CTX. [[User:Maury Markowitz|Maury Markowitz]] ([[User talk:Maury Markowitz|talk]])
+::: I don't see any major problems with the article. --[[User:Art Carlson|Art Carlson]] ([[User talk:Art Carlson#top|talk]]) 09:44, 13 November 2010 (UTC)
+	</talkpage>
+</article>

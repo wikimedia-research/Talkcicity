@@ -1,0 +1,11 @@
+<article id="23068366" title=User talk:71.243.148.125>
+	<talkpage id="23068366" title="User talk:71.243.148.125">
+
+== June 2009 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/User_talk%3aNishkid64?diff=294001900 recent edit]&lt;/span&gt; you made to the page [[:User talk:Nishkid64]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:Alansohn|Alansohn]] ([[User talk:Alansohn|talk]]) 19:07, 2 June 2009 (UTC)
+
+[[Image:Nuvola apps important.svg|25px]] Please stop your disruptive editing. If you continue to [[Wikipedia:Vandalism|vandalize]] Wikipedia, {{#if:User talk:Chris G|as you did at [[:User talk:Chris G]],}} you will be [[Wikipedia:Blocking policy|blocked from editing]]. &lt;!-- Template:uw-vandalism3 --&gt; [[User:Caltas|Caltas]] &lt;sup&gt;&lt;small&gt;[[User talk:Caltas|(talk)]]&lt;/small&gt;&lt;/sup&gt; 19:08, 2 June 2009 (UTC)
+:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
+	</talkpage>
+</article>

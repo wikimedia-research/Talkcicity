@@ -1,0 +1,9 @@
+<article id="21934119" title=Talk:Tanya Datta>
+	<talkpage id="21934119" title="Talk:Tanya Datta">
+{{WikiProject Biography
+|living=yes
+|class=Start
+|listas=Datta, Tanya
+}}
+	</talkpage>
+</article>

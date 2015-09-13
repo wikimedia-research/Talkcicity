@@ -1,0 +1,70 @@
+<article id="10974148" title=Talk:Constantine (Briton)>
+	<talkpage id="6058355" title="Talk:Constantine (Briton)/Archive 1">
+{{talkarchive}}
+
+This article treats as fact a number of traditional statements about St. Constantine.
+
+A more historical approach is to be found in:
+
+''[[Nicholas Roscarrock]]'s Lives of the Saints of Cornwall and Devon''; edited by Nicholas Orme; Devon &amp; Cornwall Record Society (New Series, No. 35) 1992 ISBN 0-9018953-35-6 - Page 126-127, Orme's note on what is historically known about St. Constantine. Roscarrock, writing in the 17th Century, expressed no great certainty about which of the stories of St. Constantine should be believed. Roscarrock merits an entry in [[ODNB]] and so satisfies some criteria on WP &quot;Notability&quot;. Vernon White 21:52, 5 September 2006 (UTC)
+
+:I've tidied the article up a bit. [[User:Walgamanus|Walgamanus]] 13:39, 11 September 2006 (UTC)
+
+&lt;P&gt;
+_________________
+
+&lt;P&gt;
+
+Thanks, Walgamus!
+May I suggest adding the following, based on Nicholas Orme's article on Constantine in his ''Saints of Cornwall''?
+
+==Veneration==
+The cult of Saint Constantine centred on the two places bearing his name, both of which seem to have supported monastic establishments. Constantine Bay also had a Holy Well. The dedication of the church in Kerrier to Saint Constantine is recorded in the [[Domesday Book]]. However, the monasteries seem to have declined into Parish Churches, after the Norman Conquest. The present Kerrier building is 15th Century and bears no remnants of Constantinist iconography. The Saint's Day was celebrated around 9th March.
+
+SOURCE: Nicholas Orme ''The saints of Cornwall''; Oxford University Press, 2000 ISBN 0-19-820765-4
+
+:Looks good to me. I have inserted the paragraph with a few very minor changes. [[User:Walgamanus|Walgamanus]] 21:55, 13 September 2006 (UTC)
+
+:Thanks Mr. W.  This is a great improvement!
+&lt;P&gt;
+Do you have access to &lt;P&gt;
+''A history of the parish of Constantine in Cornwall'', compiled by Charles Henderson, M.A., edited by Rev. G.H.Doble, M.A.; Royal Institution of Cornwall, 1937 
+&lt;P&gt;
+Chapter V &quot;The Patron Saint&quot; says that the Chapel in Constantine Bay is ruined. The full story of the Conversion by Saint Petroc is given here and is worth re-telling.
+&lt;P&gt;
+Henderson also says that the land of the Constantine monastery was seized by Robert de Mortain, which may account for its decline (p44).  Orme cites OLSON, B. Lynette (1989) ''Early monasteries in Cornwall'' which may give a fuller story.
+&lt;P&gt;
+Vernon White 21:05, 14 September 2006 (UTC)
+&lt;P&gt;
+_________________
+
+==David Nash Ford==
+
+I see there's a biography of this Web Author at [http://britannia.com/history/davidbio.html].
+&lt;P&gt;
+Vernon White 22:07, 17 September 2006 (UTC)
+&lt;P&gt;
+_________________
+	</talkpage>
+	<talkpage id="10974148" title="Talk:Constantine (Briton)">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=no
+|class=Start
+|royalty-work-group=yes
+|needs-photo=yes
+|needs-infobox=yes
+|listas=Constantine
+}}
+{{WikiProject Wales|class=Start|importance=Low}}
+{{WikiProject Middle Ages|class=Start|importance=Low}}
+{{WikiProject King Arthur|class=Start|importance=Low}}
+{{WikiProject Cornwall|class=Start|importance=Low}}
+{{WikiProject Saints|class=start|importance=low|needs-infobox=yes}}
+}}
+{{Archive box| [[/Archive 1]] }}
+
+==Merge==
+I have merged the articles on [[Constantine of Dumnonia]] with [[Constantine III of Britain]], which essentially repeated each other's sometimes innacurrate information. I have also moved them both to this title, since the only historical reference to the king doesn't call him &quot;Constantine of [[Dumnonia]], but &quot;Damnonia&quot;, which is possibly a significant distinction. And not even Geoffrey of Monmouth calls his derivative figure &quot;Constantine III of Britain&quot;. There may be a better title, but this is my suggestion.--[[User:Cuchullain|Cúchullain]] [[User talk:Cuchullain|&lt;sup&gt;t&lt;/sup&gt;]]/[[Special:Contributions/Cuchullain|&lt;small&gt;c&lt;/small&gt;]] 20:00, 6 January 2010 (UTC)
+	</talkpage>
+</article>

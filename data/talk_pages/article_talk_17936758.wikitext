@@ -1,0 +1,15 @@
+<article id="17936758" title=Talk:Ivo Štakula>
+	<talkpage id="17936758" title="Talk:Ivo Štakula">
+{{WikiProjectBannerShell|1=
+{{WikiProject Olympics|class=Stub|importance=}}
+{{WikiProject Biography
+|living=no
+|class=Stub
+|sports-work-group=yes
+|listas=Stakula, Ivo
+}}
+{{WikiProject Swimming|class=Stub|importance=}}
+{{WikiProject Croatia|class=Stub|importance=Low}}
+}}
+	</talkpage>
+</article>

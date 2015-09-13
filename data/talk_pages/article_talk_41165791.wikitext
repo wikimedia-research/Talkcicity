@@ -1,0 +1,40 @@
+<article id="41165791" title=User talk:172.254.107.202>
+	<talkpage id="41165791" title="User talk:172.254.107.202">
+== Welcome to Wikipedia! ==
+
+Hello, and [[Wikipedia:Introduction|welcome]] to Wikipedia! Thank you for [[Special:Contributions/172.254.107.202|your contributions]]. I hope you like the place and decide to stay. Here are some pages you might like to see:
+
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Tutorial|Tutorial]]
+* [[Wikipedia:How to edit a page|How to edit a page]] and [[Wikipedia:Article development|How to develop articles]]
+* [[Wikipedia:Simplified Manual of Style|Simplified Manual of Style]]
+* [[Help:Wikipedia: The Missing Manual/Introduction|Intuitive guide to Wikipedia]]
+
+You are welcome to continue editing without [[Special:Userlogin|logging in]], but you may want to consider '''&lt;span class=&quot;plainlinks&quot;&gt;[{{fullurl:Special:Userlogin|type=signup&amp;campaign=anonwelcometemplate}} creating an account]&lt;/span&gt;'''. Doing so is free, requires no personal information, and provides several benefits such as the ability to create articles. For a full outline and explanation of the benefits that come with creating an account, please see [[Wikipedia:Why create an account?|this page]]. If you edit without a username, your [[IP address]] (172.254.107.202) is used to identify you instead.
+
+In any case, I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign your comments]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your IP address (or username if you're logged in) and the date. If you need help, check out [[Wikipedia:Questions]], ask me on [[User talk:BracketBot|my talk page]], or ask your question and then place &lt;code&gt;&lt;nowiki&gt;{{&lt;/nowiki&gt;[[:Category:Wikipedians looking for help|helpme]]&lt;nowiki&gt;}}&lt;/nowiki&gt;&lt;/code&gt; before the question on this page. Again, welcome! &lt;!-- Template:welcome-anon --&gt;
+
+== November 2013 ==
+
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:BracketBot|BracketBot]]. I have automatically detected that [//en.wikipedia.org/w/index.php?diff=582923762 your edit] to [[Oxana Fedorova]] may have broken the [[syntax]] by modifying 2 &quot;[]&quot;s. If you have, don't worry: just [{{fullurl:Oxana Fedorova|action=edit&amp;minor=minor&amp;summary=Fixing+typo+raised+by+%5B%5BUser%3ABracketBot%7CBracketBot%5D%5D}} edit the page] again to fix it. If I misunderstood what happened, or if you have any questions, you can leave a message on [//en.wikipedia.org/w/index.php?action=edit&amp;preload=User:A930913/BBpreload&amp;editintro=User:A930913/BBeditintro&amp;minor=&amp;title=User_talk:A930913&amp;preloadtitle=BracketBot%20–%20{{subst&lt;/noinclude&gt;:REVISIONUSER}}&amp;section=new my operator's talk page].
+:List of unpaired brackets remaining on the page:
+*&lt;nowiki&gt;Звуковая дорожка) Awards for their duet &quot;Prava Lyubov&quot; (Love is Right).  The event was held at the &lt;/nowiki&gt;{{red|'''&amp;#91;&amp;#91;'''}}&lt;nowiki&gt;Luzhniki Sports Palac&lt;/nowiki&gt;
+Thanks, &lt;!-- (0, 2, 0, 0) --&gt;&lt;!-- User:BracketBot/inform --&gt;[[User:BracketBot|BracketBot]] ([[User talk:BracketBot|talk]]) 07:04, 23 November 2013 (UTC)
+
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:BracketBot|BracketBot]]. I have automatically detected that [//en.wikipedia.org/w/index.php?diff=582924702 your edit] to [[Oxana Fedorova]] may have broken the [[syntax]] by modifying 1 &quot;[]&quot;s and  1 &quot;&lt;&gt;&quot;s likely mistaking one for another. If you have, don't worry: just [{{fullurl:Oxana Fedorova|action=edit&amp;minor=minor&amp;summary=Fixing+typo+raised+by+%5B%5BUser%3ABracketBot%7CBracketBot%5D%5D}} edit the page] again to fix it. If I misunderstood what happened, or if you have any questions, you can leave a message on [//en.wikipedia.org/w/index.php?action=edit&amp;preload=User:A930913/BBpreload&amp;editintro=User:A930913/BBeditintro&amp;minor=&amp;title=User_talk:A930913&amp;preloadtitle=BracketBot%20–%20{{subst&lt;/noinclude&gt;:REVISIONUSER}}&amp;section=new my operator's talk page].
+{{{!}} class=&quot;navbox collapsible collapsed&quot; style=&quot;text-align: left; border: 1px solid silver; margin-top: 0.2em;&quot; {{!}}-
+! style=&quot;background-color: #FAA;&quot; {{!}} &lt;div style=&quot;font-size:112%;&quot;&gt;List of unpaired brackets remaining on the page&lt;span style=&quot;font-size:88%;margin-left:3em;&quot;&gt;(Click show &lt;span style=&quot;font-size:130%;&quot;&gt;⇨&lt;/span&gt;)&lt;/span&gt;&lt;/div&gt;    
+{{!}}-
+{{!}} style=&quot;border: solid 1px silver; padding: 8px; background-color: white; &quot; {{!}} &lt;div style=&quot;font-size:112%;&quot;&gt;
+*&lt;nowiki&gt;p=803594&amp;hilit=oxana+oxana+still#p803594 Forum page]. Missosology.info. Retrieved on 2011-09-27.&lt;/nowiki&gt;{{red|'''&amp;#60;'''}}&lt;nowiki&gt;/rMost beautiful Miss Universe of all time&lt;/nowiki&gt;{{red|'''&amp;#93;'''}}&lt;nowiki&gt;. Globalbeauties.com. Retrieved on 2011-09-27.&lt;/ref&gt; In a [[Opinion poll|poll]] conducted by the ­&lt;/nowiki&gt;
+*&lt;nowiki&gt;*She was among seveстории игрушек&quot; Барби и Кен заговорят голосами Федоровой и Баскова&lt;/nowiki&gt;{{red|'''&amp;#93;'''}}&lt;nowiki&gt;. Rian.ru (2011-09-23). Retrieved on 2011-09-27.&lt;/ref&gt;&lt;/nowiki&gt;
+*&lt;nowiki&gt;Oxana Fedorova established the c и фонд “Спешите Делать Добро!”пригласили друзей на ужин&lt;/nowiki&gt;{{red|'''&amp;#93;'''}}&lt;nowiki&gt;&lt;/ref&gt;&lt;/nowiki&gt;
+*&lt;nowiki&gt;the joint UNICEF-[[Pampers]]  &quot;1 Pack = 1 Vaccine&quot; [[tetanus]] [[Advocacy|campaign]] to thegestan&lt;/nowiki&gt;{{red|'''&amp;#93;&amp;#93;'''}}&lt;nowiki&gt;, [[Russian Federation]] in July 2008 and 2009.&lt;ref&gt;[http://www.unicef.org/russia/media_9329.html 2&lt;/nowiki&gt;
+&lt;/div&gt;
+{{!}}}
+Thanks, &lt;!-- (0, -1, 0, 1) --&gt;&lt;!-- User:BracketBot/inform --&gt;[[User:BracketBot|BracketBot]] ([[User talk:BracketBot|talk]]) 07:18, 23 November 2013 (UTC)
+
+[[Image:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia. Your edits to [[Oxana Federova]], five unexplained removals of content, have been reverted. Please use edit summaries and the talk page if necessary to explain such revisions. If you would like to experiment, please use the sandbox. Thank you. [[User:Donner60|Donner60]] ([[User talk:Donner60|talk]]) 07:22, 23 November 2013 (UTC)
+	</talkpage>
+</article>

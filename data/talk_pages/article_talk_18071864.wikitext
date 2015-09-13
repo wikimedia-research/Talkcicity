@@ -1,0 +1,10 @@
+<article id="18071864" title=Talk:Krisztián Vermes>
+	<talkpage id="18071864" title="Talk:Krisztián Vermes">
+{{WikiProjectBannerShell|1=
+{{WikiProject Football|class=Stub|importance=|hungary=yes}}
+{{WikiProject Biography|living=yes|class=stub|sports-work-group=yes|listas=Vermes, Krisztian}}
+{{WikiProject Hungary|class=stub|sports=yes}}
+| blp=yes
+}}
+	</talkpage>
+</article>

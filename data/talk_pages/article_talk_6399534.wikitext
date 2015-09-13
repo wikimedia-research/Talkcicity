@@ -1,0 +1,40 @@
+<article id="6399534" title=Talk:Earl Blumenauer>
+	<talkpage id="6399534" title="Talk:Earl Blumenauer">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=yes
+|class=Start
+|politician-priority=Low
+|politician-work-group=yes
+|listas=Blumenauer, Earl
+}}
+{{WikiProject Oregon|class=Start|importance=Low}}
+{{WikiProject U.S. Congress|class=Start}}
+| blp=yes
+}}
+
+== Darfur quotation ==
+
+I'm going to remove the Darfur quotation. I cannot seem to find any source for it; searching for part of it in Google only returns this article and mirrors. If we can find a source, we should re-add it.&amp;mdash;[[User:Clipdude|Clipdude]] 21:30, 30 December 2006 (UTC)
+
+== Citations ==
+Good job on the referencing, who ever did it.  It seems like all articles should have this many refs.  The only thing I can think of is links to the official transcription of floor speeches, if there is one ([[THOMAS]]?).  [[User:Jmchuff|Jason McHuff]] 20:47, 29 January 2007 (UTC)
+
+: I did some of that, thanks for noticing! I agree, it would be great to have online refs for those floor speeches. I'll hunt around some day if nobody gets there first! -[[User:Peteforsyth|Pete]] 09:02, 31 January 2007 (UTC)
+
+== Photo Change ==
+
+I reverted the change in the photo back to the old one. The new photo that was uploaded was marked for deletion because it did not have the proper sourcing. If whomever did this fixes it then please feel free to change it back. [[User:Davidpdx|Davidpdx]] 09:51, 5 February 2007 (UTC)
+
+== Spouse ==
+
+Why was his spouse's name removed?  The reason given is &quot;BLP&quot; - but the Biography of Living Persons policy doesn't forbid naming spouses...  (I'm not going to make this edit, since Congressman Blumenauer is a client of mny company's.  However, I can verify personally that his wife is Margaret (Kirkpatrick) Blumenauer.)
+: Agreed, and since I have no conflict, I'm putting it back in. -[[User:Peteforsyth|Pete]] 20:41, 5 April 2007 (UTC)
+
+== Activity in Congress ==
+
+The Hurricane Katrina aftermath bit doesn't make any sense whatsoever. I really don't want to re-tool it, as I'm not sure what the original intent of the author was. However, the way in which it is phrased is extremely poor. There are no quotation marks, it does not pertain to political aftermath (as the quotes are from BEFORE Katrina), and the significance is not mentioned.--[[User:Uoregonduckman|Uoregonduckman]] ([[User talk:Uoregonduckman|talk]]) 16:10, 2 March 2009 (UTC)
+
+== Elections need added ==
+My apologies I'm not updating it, but this article is now 3 elections behind. [[Oregon's 3rd congressional district]] also needs adding to.  The info does appear on e.g. [[United States House of Representatives elections in Oregon, 2012]]. [[User:Jmchuff|Jason McHuff]] ([[User talk:Jmchuff|talk]]) 08:20, 11 December 2014 (UTC)
+	</talkpage>
+</article>

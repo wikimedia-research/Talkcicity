@@ -1,0 +1,10 @@
+<article id="31376167" title=Talk:Church of St John the Evangelist, Cheetham Hill>
+	<talkpage id="31376167" title="Talk:Church of St John the Evangelist, Cheetham Hill">
+{{WikiProjectBannerShell|1=
+{{WikiProject Christianity|class=Start|importance=low|anglicanism=yes|anglicanism-importance=low|}}  
+{{WikiProject Architecture|class=Start|importance=Low}}
+{{WikiProject Historic sites|class=Start|importance=Low}}
+{{WikiProject Greater Manchester|class=Start|importance=mid}}
+}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="42693195" title=Talk:Oreos Athletic Club>
+	<talkpage id="42693195" title="Talk:Oreos Athletic Club">
+{{WikiProject American football|class=Stub|importance=}}
+	</talkpage>
+</article>

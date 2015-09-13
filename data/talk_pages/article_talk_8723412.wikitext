@@ -1,0 +1,48 @@
+<article id="8723412" title=User talk:John.d.van.horn>
+	<talkpage id="8723412" title="User talk:John.d.van.horn">
+
+==Image tagging for Image:Cos loss.gif==
+Thanks for uploading '''[[:Image:Cos loss.gif]]'''. The image has been identified as not specifying the source and creator of the image, which is required by Wikipedia's policy on images. If you don't indicate the source and creator of the image on the image's description page, it may be deleted some time in the next seven days. If you have uploaded other images, please verify that you have provided source information for them as well.
+
+For more information on using images, see the following pages:
+* [[Wikipedia:Image use policy]]
+* [[Wikipedia:Image copyright tags]]
+
+This is an automated notice by [[User:OrphanBot|OrphanBot]]. For assistance on the image use policy, see [[Wikipedia:Media copyright questions]]. 20:08, 2 January 2007 (UTC)
+ == Image:Bubbles.gif listed for deletion ==
+&lt;div style=&quot;padding:5px; background-color:#E1F1DE;&quot;&gt;'''Dear uploader:''' The media file you uploaded as [[:Image:Bubbles.gif]] has been listed for [[Wikipedia:Speedy deletions|speedy deletion]] because you selected a copyright license type implying some type of restricted use, such as '''''for non-commercial use only''''', or '''''for educational use only''''' or  '''''for use on Wikipedia by permission.'''''  While it might seem reasonable to assume that such files can be freely used on Wikipedia, a non-profit website, [http://mail.wikimedia.org/pipermail/wikien-l/2005-May/023760.html this is in fact '''not''' the case]. Please do not upload any more files with these restrictions on them, because content on Wikipedia needs to be compatible with the [[GNU Free Documentation License]], which allows anyone to use it for any purpose, commercial or non-commercial.
+
+'''If you ''created'' this media file''' and want to use it on Wikipedia, you may re-upload it (or amend the image description if it has not yet been deleted) and use the license {{tl|GFDL-self}} to license it under the [[GFDL]], or {{tl|cc-by-sa-2.5}} to license it under the [[Creative Commons]] Attribution-ShareAlike license, or use {{tl|PD-self}} to release it into the public domain.
+
+'''If you ''did not create'' this media file''' but want to use it on Wikipedia, there are two ways to proceed.  First, you may choose one of the fair use tags from [[Wikipedia:Fair Use#Tagging fair use images|this list]] if you believe one of those [[fair use]] rationales applies to this file.  Second, you may want to contact the copyright holder and [[Wikipedia:Example requests for permission|request that they make the media available under a '''free''' license]].
+
+If you have any questions please ask at [[Wikipedia:Media copyright questions]]. Thank you. {{{2|—&lt;b&gt;&lt;font color=&quot;#00FFFF&quot;&gt;[[User:Pilotguy|P]]&lt;/font&gt;[[User:Pilotguy|ilotguy]] ([[User_talk:Pilotguy|ptt]])&lt;/b&gt; 03:38, 3 January 2007 (UTC)}}}&lt;/div&gt;&lt;!-- Template:Idw-noncom --&gt;
+==Image tagging for Image:LONI_Logo_Head.gif==
+Thanks for uploading '''[[:Image:LONI_Logo_Head.gif]]'''. The image has been identified as not specifying the source and creator of the image, which is required by Wikipedia's policy on images. If you don't indicate the source and creator of the image on the image's description page, it may be deleted some time in the next seven days. If you have uploaded other images, please verify that you have provided source information for them as well.
+
+For more information on using images, see the following pages:
+* [[Wikipedia:Image use policy]]
+* [[Wikipedia:Image copyright tags]]
+
+This is an automated notice by [[User:OrphanBot|OrphanBot]]. For assistance on the image use policy, see [[Wikipedia:Media copyright questions]]. 09:25, 4 January 2007 (UTC)
+
+== June 2009 ==
+[[Image:Information.svg|25px]] If you have a close connection to some of the people, places or things you have written about {{#if:Susan Van Horn|in the article [[Susan Van Horn]]|on Wikipedia}}, you may have a [[Wikipedia:Conflict of interest|conflict of interest]].  In keeping with Wikipedia's [[Wikipedia:Neutral point of view|neutral point of view]] policy, edits where there is a conflict of interest, or where such a conflict might reasonably be inferred from the tone of the edit and the proximity of the editor to the subject, are strongly discouraged. If you have a conflict of interest, you should '''avoid''' or '''exercise great caution''' when:
+#'''editing''' or '''creating''' articles related to you, your organization, or its competitors, as well as projects and products they are involved with;
+#'''participating''' in [[Wikipedia:Deletion policy#Deletion_processes|deletion discussions]] about articles related to your organization or its competitors; and
+# '''linking''' to the Wikipedia article or website of your organization in other articles (see [[Wikipedia:Spam]]).
+
+Please familiarize yourself with relevant policies and guidelines, especially those pertaining to [[Wikipedia:Neutral point of view|neutral point of view]], [[Wikipedia:Verifiability|verifiability of information]], and [[Wikipedia:Autobiography|autobiographies]].
+
+For information on how to contribute to Wikipedia when you have conflict of interest, please see [[Wikipedia:FAQ/Organizations|our frequently asked questions for organizations]]. For more details about what, exactly, constitutes a conflict of interest, please see [[Wikipedia:Conflict of Interest|our conflict of interest guidelines]].  {{#if:|{{{2}}}|Thank you.}}[[Category:User talk pages with conflict of interest notices||{{PAGENAME}}]]&lt;!-- Template:uw-coi --&gt;  [[User:Fabrictramp|&lt;font color=&quot;#228b22&quot; face=&quot;comic sans ms&quot;&gt;Fabrictramp&lt;/font&gt;]] | [[User talk:Fabrictramp|&lt;font color=&quot;#960018&quot; face=&quot;Papyrus&quot;&gt;talk to me&lt;/font&gt;]] 16:09, 4 June 2009 (UTC)
+
+==Proposed deletion of Susan Van Horn==
+[[Image:Ambox warning yellow.svg|left|48px|]]
+A [[Wikipedia:Proposed deletion|proposed deletion]] template has been added to the article [[Susan Van Horn]], suggesting that it be deleted according to the proposed deletion process&amp;#32; because of the following concern:
+:&lt;b&gt;Declined speedy because there's a claim of importance (known for originating an art style), but gsearch and gnews searches aren't turning up [[WP:N|notability]]. [[WP:COI]] issues don't help.&lt;/b&gt;
+
+All contributions are appreciated, but this article may not satisfy Wikipedia's [[Wikipedia:Criteria for inclusion|criteria for inclusion]], and the deletion notice should explain why (see also &quot;[[Wikipedia:What Wikipedia is not|What Wikipedia is not]]&quot; and [[Wikipedia:Deletion policy|Wikipedia's deletion policy]]).  You may prevent the proposed deletion by removing the &lt;code&gt;{{tl|dated prod}}&lt;/code&gt; notice, but please explain why you disagree with the proposed deletion in your edit summary or on [[Talk:Susan Van Horn|its talk page]].
+
+Please consider improving the article to address the issues raised because, even though removing the deletion notice will prevent deletion through the [[WP:PROD|proposed deletion process]], the article may still be deleted if it matches any of the [[Wikipedia:Criteria for speedy deletion|speedy deletion criteria]] or it can be sent to [[Wikipedia:Articles for deletion|Articles for Deletion]], where it may be deleted if [[Wikipedia:Consensus|consensus]] to delete is reached.&lt;!-- Template:PRODWarning --&gt; [[User:Fabrictramp|&lt;font color=&quot;#228b22&quot; face=&quot;comic sans ms&quot;&gt;Fabrictramp&lt;/font&gt;]] | [[User talk:Fabrictramp|&lt;font color=&quot;#960018&quot; face=&quot;Papyrus&quot;&gt;talk to me&lt;/font&gt;]] 16:11, 4 June 2009 (UTC)
+	</talkpage>
+</article>

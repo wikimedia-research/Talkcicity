@@ -1,0 +1,5 @@
+<article id="4308919" title=Talk:Ski jumping at the 1972 Winter Olympics>
+	<talkpage id="4308919" title="Talk:Ski jumping at the 1972 Winter Olympics">
+{{OlympicsWikiProject|class=Stub|importance=Mid}}
+	</talkpage>
+</article>

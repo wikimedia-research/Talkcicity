@@ -1,0 +1,8 @@
+<article id="19401914" title=User talk:67.8.190.92>
+	<talkpage id="19401914" title="User talk:67.8.190.92">
+
+
+== September 2008 ==
+[[Image:Information.svg|25px]]  Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits{{#if:Toblerone|, such as the one you made to [[:Toblerone]],}} did not appear to be constructive and has been removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism1 --&gt; [[User:Gunnar Hendrich|Gunnar Hendrich]] ([[User talk:Gunnar Hendrich|talk]]) 19:09, 20 September 2008 (UTC)
+	</talkpage>
+</article>

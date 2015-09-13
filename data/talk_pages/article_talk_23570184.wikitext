@@ -1,0 +1,10 @@
+<article id="23570184" title=Talk:Baron Pentland>
+	<talkpage id="23570184" title="Talk:Baron Pentland">
+{{WikiProject Biography
+|living=no
+|class=Stub
+|baronets-work-group=yes
+|listas= Pentland, Baron
+}}
+	</talkpage>
+</article>

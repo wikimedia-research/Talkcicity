@@ -1,0 +1,12 @@
+<article id="43092294" title=Talk:Brainwash Projects>
+	<talkpage id="43092294" title="Talk:Brainwash Projects">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=yes|class=Stub|musician-priority=|listas=Brainwash Projects|musician-work-group=yes}}
+{{WikiProject California|la=yes}}
+{{WikiProject Hip hop|class=|importance=}}
+{{WikiProject Christianity}}
+{{Christianmusic|class=Start|importance=|Contemporary Christian-work-group=yes|Gospel music-work-group=yes}}
+|blp=yes
+}}
+	</talkpage>
+</article>

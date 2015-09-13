@@ -1,0 +1,6 @@
+<article id="8312711" title=User talk:Vidy7>
+	<talkpage id="8312711" title="User talk:Vidy7">
+==Regarding your edit to [[:Sardar Vallabhbhai National Institute of Technology, Surat]]:==
+Your recent edit to [[:Sardar Vallabhbhai National Institute of Technology, Surat]] ([http://en.wikipedia.org/w/index.php?title=Sardar_Vallabhbhai_National_Institute_of_Technology%2C_Surat&amp;diff=prev&amp;oldid=92675436 diff]) was reverted by '''automated bot'''. The edit was identified as adding either [[WP:VAND|vandalism]] or [[WP:SPAM|link spam]] to the page. If this revert was in error, please contact the bot operator. Thanks! // [[User:VoABot II|VoABot II]] 11:09, 7 December 2006 (UTC)
+	</talkpage>
+</article>

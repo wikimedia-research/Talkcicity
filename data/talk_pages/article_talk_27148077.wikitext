@@ -1,0 +1,5 @@
+<article id="27148077" title=Talk:Olivella drangai>
+	<talkpage id="27148077" title="Talk:Olivella drangai">
+{{WikiProject Gastropods|class=Stub|importance=Low|needs-photo=yes}}
+	</talkpage>
+</article>

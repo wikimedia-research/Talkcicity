@@ -1,0 +1,17 @@
+<article id="42208184" title=User talk:Astromechology>
+	<talkpage id="42208184" title="User talk:Astromechology">
+== Welcome! ==
+
+Hello, Astromechology, and welcome to Wikipedia! Thank you for [[Special:Contributions/Astromechology|your contributions]]. I hope you like the place and decide to stay. Here are a few links to pages you might find helpful:
+* [[Help:Getting started|Getting started]]
+* [[Wikipedia:Introduction|Introduction to Wikipedia]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Help:Editing|How to edit a page]] and [[Wikipedia:Article development|How to develop articles]]
+* [[Wikipedia:Your first article|How to create your first article]] 
+* [[Wikipedia:Simplified Manual of Style|Simplified Manual of Style]]
+Please remember to [[Wikipedia:Signatures|sign]] your messages on [[Help:Using talk pages|talk page]]s by typing four [[tilde]]s (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically insert your username and the date. If you need help, check out [[Wikipedia:Questions]], ask me on my talk page, or ask your question on this page and then place '''{{Tlc|Help me}}''' before the question. Again, welcome! &lt;!-- Template:Welcome --&gt;-[[User:Vatsan34|Vatsan34]] ([[User talk:Vatsan34|talk]]) 06:41, 15 March 2014 (UTC)
+
+I decided to do a little digging to answer my own question and succeeded!
+Here is how I can find articles that need copy editing: [[https://en.wikipedia.org/wiki/Category:Wikipedia_articles_needing_copy_edit]]; and here is the Wikipedia guild that organizes such contributors: [[Wikipedia:WikiProject_Guild_of_Copy_Editors]].
+	</talkpage>
+</article>

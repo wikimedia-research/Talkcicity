@@ -1,0 +1,6 @@
+<article id="16991560" title=Talk:Limbășelu Mare River>
+	<talkpage id="16991560" title="Talk:Limbășelu Mare River">
+{{WikiProject Romania|class=Stub|importance=low}} 
+{{WikiProject Rivers|class=stub|importance=low}}
+	</talkpage>
+</article>

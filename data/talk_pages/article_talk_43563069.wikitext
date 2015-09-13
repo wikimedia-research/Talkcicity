@@ -1,0 +1,9 @@
+<article id="43563069" title=Talk:Toluca Cathedral>
+	<talkpage id="43563069" title="Talk:Toluca Cathedral">
+{{WikiProjectBannerShell|1=
+{{WikiProject Architecture|class=start|importance=mid}}
+{{WikiProject Catholicism|class=start|importance=low}}
+{{WikiProject Mexico|class=start|importance=}}
+}}
+	</talkpage>
+</article>

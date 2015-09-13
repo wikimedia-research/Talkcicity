@@ -1,0 +1,12 @@
+<article id="10715403" title=Talk:Hermynia Zur Mühlen>
+	<talkpage id="10715403" title="Talk:Hermynia Zur Mühlen">
+{{WikiProject Biography
+|living=no
+|class=Start
+|a&amp;e-work-group=yes
+|listas=Zur Muhlen, Hermynia
+}}
+{{WikiProject Women's History|class=Start|importance=}}
+{{WikiProject Women writers|class=start|importance=|auto=inherit}}
+	</talkpage>
+</article>

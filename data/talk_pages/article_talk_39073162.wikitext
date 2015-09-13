@@ -1,0 +1,20 @@
+<article id="39073162" title=User talk:Gkmoul>
+	<talkpage id="39073162" title="User talk:Gkmoul">
+== Help us improve the Wikipedia Education Program ==
+
+Hi Gkmoul! As a student editor on Wikipedia, you have a lot of valuable experience about what it's like to edit as a part of a classroom assignment. In order to help other students like you enjoy editing while contributing positively to Wikipedia, it's extremely helpful to hear from real student editors about their challenges, successes, and support needs. Please take a few minutes to answer these questions by clicking below. (Note that the responses are posted to a public wiki page.) Thanks!
+
+&lt;inputbox&gt;
+type=commenttitle
+editintro=Wikipedia:Wikipedia Education Program/Surveys/Student editintro
+preload=Wikipedia:Wikipedia Education Program/Surveys/Student preload
+hidden=yes
+default=[[User:{{PAGENAME}}]]
+page=Wikipedia:Wikipedia Education Program/Surveys/Students
+buttonlabel=Take the survey
+&lt;/inputbox&gt;
+
+&lt;small&gt;Delivered on behalf of [[User:Sage Ross (WMF)]], 17:06, 10 April 2013 (UTC)&lt;/small&gt;
+&lt;!-- EdwardsBot 0498 --&gt;
+	</talkpage>
+</article>

@@ -1,0 +1,8 @@
+<article id="20144236" title=User talk:24.11.154.126>
+	<talkpage id="20144236" title="User talk:24.11.154.126">
+
+== November 2008 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Human_feces?diff=250776140 recent edit]&lt;/span&gt; you made to [[:Human feces]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:J.delanoy|&lt;font color=&quot;green&quot;&gt;J'''.'''delanoy&lt;/font&gt;]][[User Talk:J.delanoy|&lt;sup&gt;&lt;font color=&quot;red&quot;&gt;gabs&lt;/font&gt;&lt;/sup&gt;]][[Special:Contributions/J.delanoy|&lt;font color=&quot;blue&quot;&gt;&lt;sub&gt;adds&lt;/sub&gt;&lt;/font&gt;]] 01:43, 10 November 2008 (UTC)
+	</talkpage>
+</article>

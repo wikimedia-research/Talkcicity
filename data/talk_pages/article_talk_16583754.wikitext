@@ -1,0 +1,7 @@
+<article id="16583754" title=User talk:70.156.73.123>
+	<talkpage id="16583754" title="User talk:70.156.73.123">
+
+== March 2008 ==
+{{{icon|[[Image:Information.svg|25px]] }}} Your recent edit to [[:Goldfish]] ([http://en.wikipedia.org/w/index.php?title=Goldfish&amp;curid=13113&amp;diff=200956721&amp;oldid=200724692 diff]) was reverted by an '''automated bot'''. The edit was identified as adding test edits to the page. If you want to experiment, please use the '''preview button''' while editing or consider using the [[Wikipedia:Sandbox|sandbox]]. If this revert was in error, please contact the bot operator. Thanks!&lt;!-- Template:uw-vandalism1 --&gt; // [[User:VoABot II|VoABot II]] ([[User talk:VoABot II|talk]]) 01:28, 26 March 2008 (UTC)
+	</talkpage>
+</article>

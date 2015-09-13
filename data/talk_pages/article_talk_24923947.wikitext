@@ -1,0 +1,9 @@
+<article id="24923947" title=User talk:98.231.83.7>
+	<talkpage id="24923947" title="User talk:98.231.83.7">
+
+
+== November 2009 ==
+[[Image:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia, as you did to [[:Kat Von D]]. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Thank you.&lt;!-- Template:uw-vandalism2 --&gt; [[User:Magnius|magnius]] ([[User talk:Magnius|talk]]) 18:49, 1 November 2009 (UTC)
+:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
+	</talkpage>
+</article>

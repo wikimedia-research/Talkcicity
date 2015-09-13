@@ -1,0 +1,11 @@
+<article id="8580474" title=Talk:Paul Eltzbacher>
+	<talkpage id="8580474" title="Talk:Paul Eltzbacher">
+{{WikiProject Germany|class=Stub}}
+{{WikiProject Biography
+|living=no
+|class=Stub
+|auto=yes
+|listas=Eltzbacher, Paul
+}}
+	</talkpage>
+</article>

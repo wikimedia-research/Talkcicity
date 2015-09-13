@@ -1,0 +1,14 @@
+<article id="30807634" title=User talk:Chennairocks>
+	<talkpage id="30807634" title="User talk:Chennairocks">
+&lt;!-- Template from Template:Welcomeg --&gt;
+{| style=&quot;background-color:#F5FFFA; padding:0;&quot; cellpadding=&quot;0&quot;
+|style=&quot;border:1px solid #084080; background-color:#F5FFFA; vertical-align:top; color:#000000;&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;0&quot; cellspacing=&quot;5&quot; style=&quot;vertical-align:top; background-color:#F5FFFA; padding:0;&quot;
+| &lt;div style=&quot;margin:0; background-color:#CEF2E0; border:1px solid #084080; text-align:left; padding-left:0.4em; padding-top:0.2em; padding-bottom:0.2em;&quot;&gt;Hello, Chennairocks! [[Wikipedia:Welcoming committee/Welcome to Wikipedia|Welcome]] to Wikipedia! Thank you for [[Special:Contributions/Chennairocks|your contributions]] to this free encyclopedia. If you decide that you need help, check out ''Getting Help'' below, ask me on [[User talk:Mean as custard|my talk page]], or place '''{{tl|helpme}}''' on your talk page and ask your question there. Please remember to [[Wikipedia:Signatures|sign your name]] on talk pages by using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;) or by clicking [[File:Insert-signature.png]] if shown; this will automatically produce your username and the date. Finally, please do your best to always fill in the [[Help:Edit summary|edit summary]] field. Below are some useful links to facilitate your involvement. Happy editing! [[User:Mean as custard|Mean as custard]] ([[User talk:Mean as custard|talk]]) 21:00, 9 February 2011 (UTC)
+|}
+{{Welcomeg/links}}
+|}
+|}&lt;!--Template:Welcomeg--&gt;
+[[Image:Information.svg|25px|alt=|link=]] Welcome to Wikipedia. Everyone is welcome to contribute constructively to the encyclopedia. However, please do not add promotional material to articles or other Wikipedia pages. [[Wikipedia:What Wikipedia is not#Wikipedia is not a soapbox|Advertising]] and using Wikipedia as a &quot;[[soapbox]]&quot; are against Wikipedia policy and not permitted. Take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about Wikipedia. Thank you.[[Category:User talk pages with Uw-advert1 notices|{{PAGENAME}}]]&lt;!-- Template:Uw-advert1 --&gt; [[User:Mean as custard|Mean as custard]] ([[User talk:Mean as custard|talk]]) 21:00, 9 February 2011 (UTC)
+	</talkpage>
+</article>

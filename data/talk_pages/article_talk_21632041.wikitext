@@ -1,0 +1,8 @@
+<article id="21632041" title=User talk:71.191.35.83>
+	<talkpage id="21632041" title="User talk:71.191.35.83">
+[[Image:Information.svg|25px]] Please do not delete content or templates from pages on Wikipedia{{#if:|, as you did to [[:{{{1}}}]],}} without giving a valid reason for the removal in the [[Help:Edit summary|edit summary]]. Your content removal does not appear constructive, and has been [[Help:Reverting|reverted]]. Please make use of the [[Wikipedia:Sandbox|sandbox]] if you'd like to experiment with test edits. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-delete2 --&gt; - [[User:Kingpin13|Kingpin13]] ([[User talk:Kingpin13|talk]]) 08:15, 21 February 2009 (UTC)
+
+==June 2009==
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt; [http://en.wikipedia.org/w/index.php?title=Redland_Middle_School_(Montgomery_County,_Maryland)&amp;diff=prev&amp;oldid=296849162 recent edit]&lt;/span&gt; you made to the page [[:Redland Middle School (Montgomery County, Maryland)]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:Stainedglasscurtain|Stainedglasscurtain]] ([[User talk:Stainedglasscurtain|talk]]) 00:52, 17 June 2009 (UTC)
+	</talkpage>
+</article>

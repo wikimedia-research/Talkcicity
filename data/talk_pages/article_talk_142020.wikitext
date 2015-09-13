@@ -1,0 +1,290 @@
+<article id="24332389" title=Talk:Moscow theater hostage crisis>
+	<talkpage id="24332389" title="Talk:Moscow theater hostage crisis">
+{{talkheader}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Russia|class=B|importance=High|pol=yes|hist=yes}}
+{{WikiProject Terrorism|class=B|importance=}}
+{{WP Crime|class=B}}
+{{WikiProject Death|class=B|importance=low}}
+{{disaster management|class=B}}
+}}
+{{OnThisDay|date1=2004-10-23|oldid1=6880538|date2=2005-10-23|oldid2=26272402|date3=2006-10-23|oldid3=83306721|date4=2008-10-26|oldid4=247759241|date5=2012-10-23|oldid5=519294795}}
+
+==This article needs cleanup==
+There are dozens of grammatical errors and citation issues with this article. How do you mark it for cleanup? [[User:Bryteline|Bryteline]] ([[User talk:Bryteline|talk]]) 16:06, 29 March 2010 (UTC)
+
+==Cause of hostage deaths?==
+I heard in a documentary of the incident that very few of the hostages who were killed were killed by the gas - some were crushed by comatose bodies laid on them, and the vast majority of the fatalities were killed because they were left lying on their backs while comatose and choked on their tongues. Sadly, I cannot cite this, as I do not know how to. [[User:Grieferhate|Grieferhate]] ([[User talk:Grieferhate|talk]]) 00:24, 5 October 2008 (UTC)
+
+==Confusing==
+
+It says that the terrorists killed people, &quot;She was seen to be pushed through a side door and presumably executed when three shots were heard, but 5 were actually shot.
+The next day another civilian also managed to gain entry to the theater. It is said that he told the gunmen that he was there to fetch his son, but when his son did not seem to be present, he too was shot outside.&quot;, and then it says they did not.... &quot;All the terrorists lay dead, and not a single hostage had been killed by the terrorists.[citation needed]&quot;
+??
+
+Fix the links section. All the Wasington Post links are broken.
+--[[User:Jenlight|jenlight]] 11:01, July 13, 2005 (UTC)
+
+I heard that the person killed by terrorist was a woman who wanted to enter the building.
+
+: I also saw on the History Channel documentary on the incident that the person killed was a woman trying to get in. I'll make the change. [[User:Mprudhom|Mprudhom]] 07:58, 22 Feb 2004 (UTC)
+
+== Move ==
+I don't understand why '106 moved this article to [[House of Culture Incident]]. When I searched on Google for &quot;House Culture Incident&quot; I didn't get any relevant hits. But &quot;Moscow theatre siege&quot; got plenty. --[[User:Ed Poor|Ed Poor]]
+
+:Just make sure that you integrate the two articles... [[User:DanKeshet|DanKeshet]]
+
+== Sequence ==
+The &quot;Sequence of Events Summary&quot; is redundant. It just duplicates everything in the main body of the article, for the most part. Should we just integrate the little additional info from the sequence of events summary into the main article and ditch the rest? --[[:kwertii|kwertii]]
+
+== Widows ==
+
+I heard that many of the bomb women were widows of Cechnyan combatants or victims.
+They are part of the Black Widows group.
+
+==Is this a siege?==
+
+If terrorists or their ilk take over an educational or religous building (with or without hostages), and police or military then try to dislodge them from this recently-assumed posture, should we call this a &quot;siege&quot;?
+
+If so, WHO has laid siege to the building? The terrorists, or the forces trying to dislodge them?
+
+My impression after reading our [[siege]] article is that taking over the [[Church of the Nativity]] or the school in [[Beslan]] -- which then attracts a government anti-terrorist squad -- isn't really the same as a &quot;siege&quot;. Or am I just not understand the word correctly? --[[User:Ed Poor|Uncle Ed]] 17:58, 13 Sep 2004 (UTC)
+
+A siege is a military operation to compel forces within a city or building to surrender, chiefly by not letting in food or other supplies (&quot;laid siege to the city&quot;). Siege operations also include tactics to breach the walls of a fortress; siege weapons included catapults and ladders in medieval times. --[[User:Ed Poor|Uncle Ed]] 15:56, 17 Sep 2004 (UTC)
+
+==Renamed==
+
+No one commented or complained, so I 'moved' this article from [[Moscow Theatre Siege]] to [[Moscow Hostage Crisis of 2002]]. I don't think the terrorists were conducting a siege, because they weren't trying to make &quot;forces within the building&quot; surrender. Nor were the commandos who ended the takeover conducting a siege, because they didn't try to starve out the terrorists.
+
+The terrorists took over the building suddenly. The commandos stormed it and rescued the hostages. I don't see how any of that is a &quot;siege&quot;. The media are sloppy; they'll use any word that's short and catchy. --[[User:Ed Poor|Uncle Ed]] 17:06, 17 Sep 2004 (UTC)
+
+:I moved the article to ''Moscow theatre hostage crisis''. The term should not be capitalized as it has not yet become a historical term in the way that, for instance, [[Cuban Missile Crisis]] is a historical term. Indeed, a quick Google search reveals that &quot;Moscow hostage crisis&quot; is usually ''not'' capitalized (see, for example, what currently are the first three results: [http://www.ccc.nps.navy.mil/si/may03/russia.asp], [http://english.pravda.ru/main/2002/11/05/39173.html], [http://news.bbc.co.uk/2/hi/europe/2358667.stm]) except when it is in the title of a news article, in which case it is only capitalized because words in news article titles are capitalized.
+
+:Actually, &quot;theater&quot; not &quot;theatre&quot; since it is the form that appeared most often on the text of the article. --[[User:Lowellian|Lowellian]] 06:11, Sep 20, 2004 (UTC)
+
+::I like your approach, Lowellian. Please read and comment on the new [[hostage crisis]] article, a first draft of which I posted today. --[[User:Ed Poor|Uncle Ed]] 18:37, 22 Sep 2004 (UTC)
+
+It's a bit late in the day, but I would support moving this to &quot;Moscow theatre hostage crisis of 2002&quot;. In light of current events it seems that the chance of something like this happening again, in Moscow, is high enough to warrant including the date. -[[User:Ashley Pomeroy|Ashley Pomeroy]] 09:07, 23 October 2005 (UTC)
+
+I am going to go through and make sure that all references to this event, including the ones that use siege redirect here because I but in &lt;b&gt;The Siege of Nord Ost&lt;/b&gt;, which is the way the history channel reported, and nothing came up. [[User:Stopmenow100|Stop Me Now!]] 18:47, 14 August 2006 (UTC)
+
+== Terrorists or rebels ==
+Hi, the discussion here is much more polite, and I would like to invite you to resolve or calm down the dispute we are having over the [[October 2005 Nalchik attack]]. Both incidents (+ Beslan school) are different but however closely linked. Thank you. -- [[User:Bggoldie|Goldie]] [[User talk:Bggoldie|(tell me)]] 11:10, 23 October 2005 (UTC)
+
+== POV ==
+
+Calling the attackers &quot;terrorists&quot; is a blatant violation of the NPOV rule. [[User:Taw|Taw]] 15:25, 17 March 2006 (UTC) &gt;&gt;&gt;&gt;Taking hostages who are innocent people and making demands makes you a terrorist.&gt;&gt;&gt; (Adrien C)
+
+Actually, yes these are terrorists, unless of course you don't believe terrorism exists.  I understand the argument, that they aren't terrorists because of their cause and the ongoing war, but then that would make Al Qaeda, the IRA, Hezbollah, and other organization that target only civilian people.  I know there's an ongoing war, but they went beyond their borders and targeted 900 people who, for the most part, had absolutely nothing to do with the war in their home country.  If you really believe this, Taw, then you wouldn't call the 9/11 hijackers or anyone else from the muslim world who attacks the United States terrorists.  Surely you don't dare to make that statement? [[User:Stopmenow100|Stop Me Now!]] 18:40, 14 August 2006 (UTC)
+
+I think that this article does use the word &quot;terrorist&quot; too much. See [[Wikipedia:Words to avoid]] - &quot;In line with the Wikipedia Neutral Point of View policy, the words &quot;Extremist&quot;, &quot;Terrorist&quot; and &quot;Freedom fighter&quot; should be avoided unless there is a verifiable citation indicating who is calling a person or group by one of those names in the standard Wikipedia format of &quot;X says Y&quot;. In an article the words should be avoided in the unqualified &quot;narrative voice&quot; of the article.&quot; 
+It's not a matter of whether I, you, or any other editor believes that they are terrorists or not, simply whether it's an appropriate neutral stance to say that they are in this article. [[User:MorganaFiolett|MorganaFiolett]] 08:14, 6 September 2007 (UTC)
+
+:I think it does not really matter. One can call them &quot;rebels&quot;, &quot;hostage takers&quot; or whatever to improve the style. The article describes what they actually did. This is clear enough.[[User:Biophys|Biophys]] 23:10, 6 September 2007 (UTC)
+
+===&lt;strike&gt;Spetsnaz are better than U.S. Special Forces and S.A.S&lt;/strike&gt;===
+
+I deleted the comment that was here because it wasn't really an argument so much as someone trying to lash out against the United States and British special forces, and really didn't have a whole lot to do with the article.  But, you can't remove the elite from in front of the spetsnaz because whether or not you like them, (I am not taking any side), you can't argue that in the Russian army they ARE the elite units.  It's not a question of they skill compared to the Americans or British, but their skill within the Russian Army.  Oh yeah, and you can't just shove some unsigned comment up that is only an opinion and then not sign it. [[User:Stopmenow100|Stop Me Now!]] 18:34, 14 August 2006 (UTC)
+
+== NPOV ==
+
+Whilst the article may not be completely neutral, it is hardly biased. The term &quot;terrorist&quot; is used and misued with equal regularity. Anyway, I have reduced the frequency of use in this article and on the strength of that removed the POV banner.
+
+I recently made an addition to the article that called these people terrorists quite often and anyone who removes these references is committing vandalism and giving the article a POV that supports the terrorists.  If you remove the terrorists references without discussion, as the the unsigned comment above says they did, I will flag you for vandalism. [[User:Stopmenow100|Stop Me Now!]] 18:43, 14 August 2006 (UTC)
+
+== 'Terrorist' + footnotes ==
+
+These guys were terrorists by every international and national law definition there is, and so it is not POV to use it.
+
+Anyways, the real reason I'm here: This article should have more footnotes, especially for the direct quotes. [[User:Joffeloff|Joffeloff]] 00:17, 29 June 2006 (UTC)
+
+== Extensive report by a hostages' relatives ==
+
+http://www.pravdabeslana.ru/nordost/dokleng.htm - it covers just everything established yet and the questions too. Someone would use it in the article.
+
+== Gas section ==
+
+I think this should be moved to another or a new article. --[[User:HanzoHattori|HanzoHattori]] 15:01, 30 April 2007 (UTC)
+
+Without it, there would be no: Categories: Pages needing expert attention | Articles with unsourced statements since January 2007 | All articles with unsourced statements
+
+== Pictures? ==
+
+Practically ANY would do. --[[User:HanzoHattori|HanzoHattori]] 13:38, 17 May 2007 (UTC)
+
+== Politkovskaya ==
+
+Politkovskaya tells of her excitement about breaking a news story that a ``terrorist'' who had been involved in the Russian theater hostage taking in October 2002 was now employed by the government of President Vladimir Putin. Expecting a flurry of queries and phone calls, she is surprised by the lack of reaction to her expose. [http://www.bloomberg.com/apps/news?pid=20601088&amp;sid=atqwMSQBML38&amp;refer=home]
+
+?? --[[User:HanzoHattori|HanzoHattori]] 14:04, 28 May 2007 (UTC)
+
+== Okay, I give up - so they now officially say 12 escaped or not? how to write this? ==
+
+Fri Jun 1, 2007 7:45 pm (PST) 
+Russian prosecutors suspend probe into Dubrovka attack
+
+MOSCOW, June 1 (Itar-Tass) - The Russian Prosecutor General's Office has suspended the investigation into the terrorist attack on the Dubrovka theatre in Moscow, as the whereabouts of the defendants remain unknown, lawyer Igor Trunov, who represents victims' interests, told Itar-Tass.
+
+&quot;Today, we received a letter from the prosecutor's office saying that preliminary investigation into the case over the Dubrovka terrorist attack has been suspended in connection with the unknown whereabouts of the defendants - Gerikhan Dudayev and Khasan Zakayev, who were put on the wanted list,&quot; Trunov said.
+
+According to the lawyer, he would appeal the prosecutor's decision, because &quot;it is unsubstantiated.&quot;
+
+&quot;I believe the investigation was not conducted properly. According to investigators, at least 52 people were involved in the act of terror; 40 were destroyed in the course of the special operation, and at least 12 escaped, hence the question: why only two were put on the wanted list,&quot; Trunov said.
+
+The prosecutor's letter also stated that the attack was masterminded by Shamil Basayev, who died in an explosion.
+
+Forty gunmen broke into the building of the Dubrovka theatre center in the evening of October 23, 2002, taking 912 spectators hostage. Most of the hostages were saved in the special operation on October 26, 2002. One-hundred and thirty people died. [http://www.itar-tass.com/eng/level2.html?NewsID=11588461&amp;PageNum=0]
+
+==Fair use rationale for Image:Dubrovkaht.jpg==
+[[Image:Nuvola apps important.svg|70px|left]]
+'''[[:Image:Dubrovkaht.jpg]]''' is being used on this article. I notice the image page specifies that the image is being used under [[Wikipedia:Fair use|fair use]] but there is no [[Wikipedia:Fair use rationale guideline|explanation or rationale]] as to why its use in Wikipedia articles constitutes fair use. In addition to the [[Wikipedia:Image copyright tags/Fair use|boilerplate fair use template]], you must also write out on the image description page a specific explanation or rationale for why using this image in each article is consistent with [[WP:FU|fair use]].
+
+Please go to [[:Image:Dubrovkaht.jpg|the image description page]] and edit it to include a [[Wikipedia:Fair use rationale guideline |fair use rationale]]. Using one of the templates at [[Wikipedia:Fair use rationale guideline]] is an easy way to insure that your image is in compliance with Wikipedia policy, but remember that you must complete the template. Do not simply insert a blank template on an image page.
+
+If there is other other fair use media, consider checking that you have specified the fair use rationale on the other images used on this page.  Note that any fair use images uploaded after 4 May, 2006, and lacking such an explanation will be deleted one week after they have been uploaded, as described on [[Wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|Media copyright questions page]]. Thank you.&lt;!-- Template:Missing rationale2 --&gt;[[User:BetacommandBot|BetacommandBot]] 05:36, 4 June 2007 (UTC)
+
+== Cleanup done, copyedit needed ==
+
+--[[User:HanzoHattori|HanzoHattori]] 13:05, 2 September 2007 (UTC)
+
+==New sources==
+
+[http://www.echo.msk.ru/programs/albac/55756/ Nord-Ost: 5 years] - discussion at [[Echo of Moscow]] with [[Yevgenia Albats]]. Some important points:
+
+1. Poison gas (most believe that was [[aerosol]] of [[carfentanyl]]) was inefficient: hostage takers continued their shooting out during 20 minutes after this gas was used (21 people), according to official investigation. (Russian text: Я хотел бы подчеркнуть, что пример Марата подчеркивает развенчивание мифов о чудо-газе. Не только Марат не заснул. Не заснули террористы. В материалах следствия отмечено, что они в течение 20 минут отстреливались из 13 автоматов и 8 пистолетов. Газ был видимым, согласно материалам следствия, имел запах, не мгновенного действия, и фактически только провоцировал террористов на ответные действия.)
+
+2. &quot;Chemist&quot; who directed this gas received a high honor (Gold star). Всего за «Норд-Ост» были даны пять звезд «Героев России». Их получили двое ребят – бойцы «Альфы» и «Вымпела», еще две звезды достались Штабу, а именно – руководителям штаба по освобождению заложников, первому зам.директора ФСБ генералу Проничеву и начальнику Центра спецназначения ФСБ генералу Тихонову. Пятую золотую звезду получил химик, пустивший газ в театральный центр.
+
+3. All bombs of hostage takers were disconnected; no detonators; the batteries were taken out; and Russian authorities ''knew'' about it. The concert hall was under electronic survelliance. ''An informer in the hall (which was taken by the terrorists) had a constant communication with FSB'' (this man, Pavel Platonov, was officially honored by government for that). There was absolutely no chances that anything would be blown out. So, there was no any reason for using this gas. See Russian text below.
+
+Четвертый орден вручен Павлу Платонову – он, бывший военнослужащий погранвойск, сумел из зала давать информацию сотрудникам спецслужб о всем происходящем в зале – вплоть до момента штурма.
+
+Е.АЛЬБАЦ: То есть, они знали, что там происходит?
+
+Д.МИЛОВИДОВ: Они знали. Кроме того, зал был начинен системами аудиконтроля и другими – неспроста, как вы понимаете, Штаб находился так близко, и спецмашина так близко от зала находилась – несмотря на якобы угрозу взрыва. О взрыве надо сказать отдельно – в 35 метрах от зала находился штаб. В штабе находились послы иностранных государств. Чьи граждане попали в заложники, известные деятели Госдумы, - и это при угрозе взрыва? Господа, выводы делайте сами. Марат говорил о том поясе, который стоял напротив него. В материалах следствия указано – данные три пояса, которые находились перед ними, детонаторов не имели. Исполнительные устройства у шахидок не были подключены к поясам. Батарейки, согласно протоколам осмотра мета происшествия, согласно протоколам осмотра трупов террористок, оставались в карманах. [[User:Biophys|Biophys]] 03:15, 24 October 2007 (UTC)
+
+== Knockout drug used: was it fentanyl? ==
+
+http://everything2.com/index.pl?node=fentanyl sez: &quot;In 2002 public attention world wide was focused on the drug as it (or one if its derivates) was used by Russian special forces during their attack, which ended the Moscow theatre siege. Over 150 people (including innocent hostages) were killed due to the large, knock-out dosage used.&quot; -- anyone have a suggestion where to look to confirm the drug was &quot;fentanyl&quot; and not &quot;an unknown drug&quot;? And the # of people killed? ( seems that fentanyl article confirms this? http://en.wikipedia.org/wiki/Fentanyl#External_links ... then again, it might have been remifentanil -- according to http://cns.miis.edu/pubs/week/02110b.htm ) [[User:68.149.190.31|68.149.190.31]] 04:43, 24 October 2007 (UTC)
+
+It was officially not disclosed. Many say it was not even a gas, but an aerosol. --[[User:HanzoHattori|HanzoHattori]] 08:03, 24 October 2007 (UTC)
+
+== Should I take care this article? ==
+
+In the sense of what I did to the Beslan one? --[[Special:Contributions/84.234.60.154|84.234.60.154]] ([[User talk:84.234.60.154|talk]]) 12:55, 16 March 2008 (UTC)
+
+== Not covered effects ==
+
+# The order to destroy bodies of &quot;terrorists&quot; since (included Maskhadov's). 
+# A campaign by the special forces of killing the widows of the Chechen fighters. --[[Special:Contributions/84.234.60.154|84.234.60.154]] ([[User talk:84.234.60.154|talk]]) 10:48, 12 May 2008 (UTC)
+
+== So, I just doubled the article in size now ==
+
+Give me an internet cookie or something. --[[User:Captain Obvious and his crime-fighting dog|Captain Obvious and his crime-fighting dog]] ([[User talk:Captain Obvious and his crime-fighting dog|talk]]) 21:35, 30 May 2008 (UTC)
+
+:Thank you for huge improvements! I think this is now close to &quot;good article&quot; status. Actually, most of the surviving hostages have been incapacitated (very serious problems with heath) to the rest of their lives due to this poison substance. Maybe this should be mentioned.[[User:Biophys|Biophys]] ([[User talk:Biophys|talk]]) 03:22, 31 May 2008 (UTC)
+
+::Add yourself? --[[User:Captain Obvious and his crime-fighting dog|Captain Obvious and his crime-fighting dog]] ([[User talk:Captain Obvious and his crime-fighting dog|talk]]) 06:25, 31 May 2008 (UTC)
+
+==For further use== 
+[http://www.rferl.org/reports/corruptionwatch/2003/12/42-181203.asp]
+[http://www.rferl.org/reports/corruptionwatch/2004/01/1-080104.asp]
+[http://www.rferl.org/reports/corruptionwatch/2004/01/2-150104.asp] (lots of information, later). --[[User:Captain Obvious and his crime-fighting dog|Captain Obvious and his crime-fighting dog]] ([[User talk:Captain Obvious and his crime-fighting dog|talk]]) 00:19, 31 May 2008 (UTC)
+
+== Anything more about this? ==
+
+&quot;But even among the fanatical women with their suicide belts, not all wanted to die. The older women, yes, but among the shahidki were a lot of girls, very young ones, seventeen years old or so. Two girls came up from below to see Barayev's wife. They were crying. They spoke in their own language, but I understood - they were very scared of dying. I saw that they were frightened. Barayeva yelled loudly at them. It seemed to me that these women during the assault threw off their gowns and masks and belts and hid with the hostages. They found two suicide belts in the hall afterwards, and the girls were discovered in the hospital where I had been taken. They found them because of the gunpowder on their hands. They gave them artificial respiration, first aid, and then took them somewhere.&quot; [http://www.geocities.com/svetlana.gubareva/natalya_snezhinsk.html] --[[User:Captain Obvious and his crime-fighting dog|Captain Obvious and his crime-fighting dog]] ([[User talk:Captain Obvious and his crime-fighting dog|talk]]) 11:22, 10 June 2008 (UTC)
+
+== Latynina ==
+
+In the republic of Ingushetia, death squads are executing people. They're being shot in front of witnesses, in crowded places, in market squares, at bus stops, and then weapons are being planted on them and they're being photographed as dead &quot;terrorists.&quot; In some instances, the crowd has shielded the intended victims. In others, the local Ingush police have nearly beaten the Russian executioners to death. Who's being killed? Those on the so-called Wahhabi lists. These lists were compiled at the order of the FSB (the successor to the KGB) soon after the Moscow theater massacre of 2002, in which Chechen terrorists took an audience hostage and 130 people died when Russian special forces stormed the theater.
+ad_icon
+
+But who ordered these lists to be drawn up? Who would think, to stop the problem of terrorism in the northern Caucasus from spreading, of executing fundamentalist Muslims wholesale, simply for their convictions, not for any crimes that they may have committed? Such an order couldn't have been given without Putin's knowledge. In the 1970s, then-Israeli prime minister Golda Meir had those who had taken part in the massacre of Israeli athletes at the 1972 Munich Olympics annihilated. But since the Moscow theater incident, Putin has gone her one better -- he has even wiped out people who had nothing to do with it.
+
+Each such execution, however, has created more terrorists than it has eliminated, and for all intents and purposes, Russia has lost control of Ingushetia -- the only republic where authorities have fully followed the execution order. Who will dare to inform the great Putin, the former KGB man, the courageous hero, who happily sits for photographs in the cockpit of a fighter plane and poses bare-chested on a fishing trip? 
+
+http://www.washingtonpost.com/wp-dyn/content/article/2008/06/20/AR2008062002596.html?hpid=opinionsbox1 
+
+--[[User:Captain Obvious and his crime-fighting dog|Captain Obvious and his crime-fighting dog]] ([[User talk:Captain Obvious and his crime-fighting dog|talk]]) 17:34, 24 June 2008 (UTC)
+
+== [[OSNAZ]] vs [[Spetsnaz]] ==
+
+A contradiction here:
+
+In the intro it says the siege ended after a raid by OSNAZ but in the section entitled Special Forces Raid it says it was the Spetsnaz that performed the operation.
+
+I thought Spetsnaz was from the Soviet era and OSNAZ was 'it's same old faces, just different name' replacement.
+
+It needs to be sorted out anyway.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/86.144.112.31|86.144.112.31]] ([[User talk:86.144.112.31|talk]]) 18:53, 18 December 2008 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:Neither. They mean the same thing and Spetsnaz is the newer name although both are used today. There are no &quot;faces&quot; which are the same, Osnaz/Spetsnaz is just regular troops/policemen/agents which are trained to do a specific thing such as hostage extraction. Unfortunately the teams assigned to this event were trained in terrorist assassination not hostage extraction. Both names itself means special forces though ([[User talk:Jenga3|talk]])
+
+(All above brought over from [[Talk:2002 Moscow theater hostage crisis]])
+
+==&quot;Two Captains&quot;==
+
+There is no mention of Chechens in &quot;Two Captains&quot; at all, the claim that it is somehow prejudiced towards them is not based on fact. The captains in the book work in the North.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/67.212.3.170|67.212.3.170]] ([[User talk:67.212.3.170|talk]]) 00:25, 6 July 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+==Sources==
+*&quot;[http://www.camberwell.arts.ac.uk/newsevents/eventsarchive/events2006/fiftysevenhoursinthehouseofculture/ Fifty Seven Hours in the House of Culture].&quot; University of the Arts London Camberwell. 31 March - 29 April 2006.
+*&quot;[http://rt.com/news/nord-ost-siege-anniversary/ Surviving terrorist attack helps to appreciate life’s value].&quot; ''[[RT (TV network)|RT]]''. 25 October 2009. Edited 27 October 2009.
+[[User:WhisperToMe|WhisperToMe]] ([[User talk:WhisperToMe|talk]]) 20:15, 29 October 2011 (UTC)
+
+==Sources about attitudes towards Beslan and Dubrovka==
+I found:
+* Macgilchrist, Felicitas. ''Journalism and the Political: Discursive Tensions in News Coverage of Russia''. [[John Benjamins Publishing Company]], 2011. ISBN 9027206317, 9789027206312.
+Pages 94-100 discuss Beslan and Dubrovka.
+[[User:WhisperToMe|WhisperToMe]] ([[User talk:WhisperToMe|talk]]) 04:55, 20 November 2011 (UTC)
+
+==File:Nordost-dubrovka.jpg Nominated for Deletion==
+{|
+|-
+| [[File:Image-x-generic.svg|100px]] 
+| An image used in this article, [[commons:File:Nordost-dubrovka.jpg|File:Nordost-dubrovka.jpg]], has been nominated for deletion at [[Wikimedia Commons]] in the following category: ''Deletion requests February 2012'' 
+;What should I do?
+''Don't panic''; a discussion will now take place over on Commons about whether to remove the file. This gives you an opportunity to contest the deletion, although please review Commons guidelines before doing so.
+* If the image is [[WP:NFCC|non-free]] then you may need to upload it to Wikipedia (Commons does not allow fair use)
+* If the image isn't freely licensed and there is no [[WP:FUR|fair use rationale]] then it cannot be uploaded or used.
+
+''This notification is provided by a Bot'' --[[User:CommonsNotificationBot|CommonsNotificationBot]] ([[User talk:CommonsNotificationBot|talk]]) 21:49, 9 February 2012 (UTC)
+|}
+
+== Statements not found in cite, use of subscription-sites, dead links ==
+
+The statement &quot;Russian authorities reportedly insisted that the hostages not be separated into foreign and Russian categories&quot; is used three times in the article in various forms, but two of the inline cites do not support the statement, and the first mentioning of it is to a paid-subscription link of the Moscow Times.  How can this be verified? The first linked is also a dead link, now. I'm going to tag this for citation needed - I can't find any other mention of this in any Google search I do.  It smells of propaganda - what possible point would the Russian gov't have in demanding this?[[User:HammerFilmFan|HammerFilmFan]] ([[User talk:HammerFilmFan|talk]]) 06:24, 23 October 2012 (UTC)
+
+==Number of victims==
+Why revert widely published number of 129 (130)([http://www.bbc.co.uk/news/world-europe-20067384 BBC])? According to organization &quot;Nord-Ost&quot;, the actual number of dead hostages was even higher, 174 [http://www.regnum.ru/news/533220.html]. [http://www.nord-ost.org/today/tayny-tragedii-nord-osta-9-let-spustya_en.html This] tells &quot;around 200.&quot; And [http://www.opendemocracy.net/od-russia/irina-borogan-andrei-soldatov/nord-ost-ten-years-on this source] tells 174, according to  Karinna Moskalenko, a lawyer acting for the victims’ families. And [http://en.novayagazeta.ru/investigations/8210.html this]... [[User:My very best wishes|My very best wishes]] ([[User talk:My very best wishes|talk]]) 04:37, 16 March 2013 (UTC)
+:The BBC link says all 40 attackers were killed and 130 hostages also sounds reasonable. Those other links you posted have conflicts of interest (a lawyer??) and are not mainstream and reliable sources. We should stick to well established, mainstream news outlets like BBC. [[User:LokiiT|LokiiT]] ([[User talk:LokiiT|talk]]) 04:57, 16 March 2013 (UTC)
+::[[Karinna Moskalenko]], [[Andrei Soldatov]] and [[Vladimir Kara-Murza]] (quoted above) are pretty good sources. To be completely honest here, I was surprised that you appeared after several months of inactivity to revert my edit, although I did not edit in this area for a long time. That was just a coincidence (I thought about creating a BLP page of former actress of [[Nord-Ost]]). Unfortunately, I do not have a lot of time right now for editing any  politics, no [http://www.youtube.com/watch?v=2tmAiGKGZV8 I really do not]. [[User:My very best wishes|My very best wishes]] ([[User talk:My very best wishes|talk]]) 05:10, 16 March 2013 (UTC)
+::On the other hand, I do not see any reason why I should not edit these pages, at least occasionally, since almost no one improved them for years, and I am familiar with the subject... [[User:My very best wishes|My very best wishes]] ([[User talk:My very best wishes|talk]]) 06:17, 24 March 2013 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:15|one external link|15 external links}} on [[Moscow theater hostage crisis]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=678503535 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive https://web.archive.org/20121220204613/http://www.russiatoday.ru/spotlight/release/830/video to http://www.russiatoday.ru/spotlight/release/830/video
+*Added archive https://web.archive.org/20130921061444/http://archives.cnn.com/2002/WORLD/europe/10/23/russia.siege to http://archives.cnn.com/2002/WORLD/europe/10/23/russia.siege
+*Added archive https://web.archive.org/20141016235303/http://edition.cnn.com/2002/WORLD/europe/10/24/moscow.siege.video/ to http://edition.cnn.com/2002/WORLD/europe/10/24/moscow.siege.video/
+*Added archive https://web.archive.org/20150221033951/http://www.moscowtimes.ru/article/850/49/242402.htm to http://www.moscowtimes.ru/article/850/49/242402.htm
+*Added archive https://web.archive.org/20150402143648/http://www.time.com/time/potw/20021101/3.html to http://www.time.com/time/potw/20021101/3.html
+*Added archive https://web.archive.org/20140222055118/http://archives.cnn.com/2002/WORLD/europe/10/26/moscow.standoff/ to http://archives.cnn.com/2002/WORLD/europe/10/26/moscow.standoff/
+*Added archive https://web.archive.org/20110629113558/http://www.voanews.com/english/archive/2002-10/a-2002-10-27-14-Death.cfm to http://www.voanews.com/english/archive/2002-10/a-2002-10-27-14-Death.cfm
+*Added archive https://web.archive.org/20130627142919/http://www.prospect-magazine.co.uk/article_details.php?id=7575 to http://www.prospect-magazine.co.uk/article_details.php?id=7575
+*Added archive https://web.archive.org/20120225082346/http://www.eng.yabloko.ru/Publ/2002/PAPERS/moscow-times-041102-02.html to http://www.eng.yabloko.ru/Publ/2002/PAPERS/moscow-times-041102-02.html
+*Added archive https://web.archive.org/20121110211302/http://www.pbs.org/newshour/media/media_watch/july-dec02/russia_11-13.html to http://www.pbs.org/newshour/media/media_watch/july-dec02/russia_11-13.html
+*Added archive https://web.archive.org/20140222055025/http://archives.cnn.com/2002/WORLD/europe/11/01/moscow.web to http://archives.cnn.com/2002/WORLD/europe/11/01/moscow.web
+*Added archive https://web.archive.org/20130615185605/http://www.moscowtimes.ru/article/850/49/195737.htm to http://www.moscowtimes.ru/article/850/49/195737.htm
+*Added archive https://web.archive.org/20130408112009/http://cmiskp.echr.coe.int/tkp197/view.asp?item=1&amp;portal=hbkm&amp;action=html&amp;highlight=RUSSIA%20%7C%20hostage&amp;sessionid=99113232&amp;skin=hudoc-en to http://cmiskp.echr.coe.int/tkp197/view.asp?item=1&amp;portal=hbkm&amp;action=html&amp;highlight=RUSSIA%20%7C%20hostage&amp;sessionid=99113232&amp;skin=hudoc-en
+*Added archive https://web.archive.org/20121102092716/http://www.cbc.ca/arts/theatre/story/2008/04/12/chechen-play-banned.html to http://www.cbc.ca/arts/theatre/story/2008/04/12/chechen-play-banned.html
+*Added archive https://web.archive.org/20140223232021/http://www.spfnyc.com/festival/show.cfm?id=83 to http://www.spfnyc.com/festival/show.cfm?id=83
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=false}}
+
+Cheers. —[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner]]:Online&lt;/sub&gt;&lt;/small&gt; 20:01, 29 August 2015 (UTC)
+	</talkpage>
+</article>

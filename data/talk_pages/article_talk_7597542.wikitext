@@ -1,0 +1,10 @@
+<article id="7597542" title=Talk:Cadigal>
+	<talkpage id="7597542" title="Talk:Cadigal">
+{{WP Australia
+|class=start
+|importance=low
+|Sydney=yes
+|Indigenous=yes
+}}
+	</talkpage>
+</article>

@@ -1,0 +1,8 @@
+<article id="24652729" title=User talk:59.177.97.54>
+	<talkpage id="24652729" title="User talk:59.177.97.54">
+
+== October 2009 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Intel_8085?diff=319235853 recent edit]&lt;/span&gt; you made to the page [[:Intel 8085]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; —[[User talk:SpaceFlight89|SpaceFlight89]] 14:49, 11 October 2009 (UTC)
+	</talkpage>
+</article>

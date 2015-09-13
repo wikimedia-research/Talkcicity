@@ -1,0 +1,9 @@
+<article id="14599508" title=User talk:Pandgovi>
+	<talkpage id="14599508" title="User talk:Pandgovi">
+
+==Speedy deletion of [[:User:Pandgovi]]==
+[[Image:Ambox warning_pn.svg|48px|left]] A tag has been placed on [[:User:Pandgovi]], requesting that it be speedily deleted from Wikipedia. This has been done under [[WP:CSD#G11|section G11 of the criteria for speedy deletion]], because the page seems to be blatant advertising which only promotes a company, product, group, service or person and would need to be fundamentally rewritten in order to become an encyclopedia article. Please read [[Wikipedia:Spam|the guidelines on spam]] as well as [[Wikipedia:FAQ/Business]] for more information. 
+
+If you think that this notice was placed here in error, you may contest the deletion by adding &lt;code&gt;{{tl|hangon}}&lt;/code&gt; to '''the top of [[:User:Pandgovi|the page that has been nominated for deletion]]''' (just below the existing speedy deletion or &quot;db&quot; tag), coupled with adding a note on '''[[User talk:Pandgovi|the talk page]]''' explaining your position, but be aware that once tagged for ''speedy'' deletion, if the page meets the criterion it may be deleted without delay. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the page that would render it more in conformance with Wikipedia's policies and guidelines. Lastly, please note that if the page does get deleted, you can contact [[:Category:Wikipedia administrators who will provide copies of deleted articles|one of these admins]] to request that they  [[Wikipedia:Userfication#Userfication_of_deleted_content|userfy]] the page or have a copy emailed to you. &lt;!-- Template:Db-spam-notice --&gt; &lt;!-- Template:Db-csd-notice-custom --&gt; [[User:Alexius08|Alexius08]] ([[User talk:Alexius08|talk]]) 00:57, 14 April 2009 (UTC)
+	</talkpage>
+</article>

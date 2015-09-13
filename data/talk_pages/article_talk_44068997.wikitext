@@ -1,0 +1,5 @@
+<article id="44068997" title=Talk:Iris rutherfordii>
+	<talkpage id="44068997" title="Talk:Iris rutherfordii">
+{{WikiProject Plants|class=start|importance=low|needs-photo=yes}}
+	</talkpage>
+</article>

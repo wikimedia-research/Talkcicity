@@ -1,0 +1,5 @@
+<article id="10086179" title=Talk:Catch Kandy>
+	<talkpage id="10086179" title="Talk:Catch Kandy">
+{{WP Australia|class=Start|television=yes}}
+	</talkpage>
+</article>

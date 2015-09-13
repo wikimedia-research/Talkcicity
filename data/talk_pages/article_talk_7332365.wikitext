@@ -1,0 +1,21 @@
+<article id="7332365" title=User talk:Taishar>
+	<talkpage id="7332365" title="User talk:Taishar">
+
+==License tagging for Image:Gd200513 sm.jpg==
+Thanks for uploading [[:Image:Gd200513 sm.jpg]].  Wikipedia gets thousands of images uploaded every day, and in order to verify that the images can be legally used on Wikipedia, the source and copyright status must be indicated.  Images need to have an [[Wikipedia:Image copyright tags|image tag]] applied to the [[Wikipedia:Image description page|image description page]] indicating the copyright status of the image.  This uniform and easy-to-understand method of indicating the license status allows potential re-users of the images to know what they are allowed to do with the images.
+
+For more information on using images, see the following pages:
+*[[Wikipedia:Image use policy]]
+*[[Wikipedia:Image copyright tags]]
+
+This is an automated notice by [[User:OrphanBot|OrphanBot]].  If you need help on selecting a tag to use, or in adding the tag to the image description, feel free to post a message at [[Wikipedia:Media copyright questions]]. 09:05, 7 October 2006 (UTC)
+
+
+==Image copyright problem with Image:Grosseye.jpg==
+
+[[Image:Nuvola apps important.svg|32px|left|Image Copyright problem]]
+Thank you for uploading [[:Image:Grosseye.jpg]]. However, it currently is missing information on its copyright status. Wikipedia takes [[Wikipedia:Copyrights|copyright]] very seriously. It may be deleted soon, unless we can determine the '''license''' and the '''source''' of the image. If you know this information, then you can add a '''[[Wikipedia:Image copyright tags|copyright tag]]''' to the [[Help:Image page|image description page]].
+
+If you have any questions, please feel free to ask them at the [[Wikipedia:Media copyright questions|media copyright questions page]]. Thanks again for your cooperation. NOTE: once you correct this, please remove the tag from the image's page. [[User:STBotI|STBotI]] 19:53, 10 August 2007 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="5869060" title=Talk:Arslanbob>
+	<talkpage id="5869060" title="Talk:Arslanbob">
+{{WikiProject Central Asia| ... | class=start | importance=mid | ...}}
+{{dyktalk|24 February|2011|entry=... that '''[[Arslanbob]]''' in [[Kyrgyzstan]] is the largest single natural source of [[walnut]]s on Earth?}}
+	</talkpage>
+</article>

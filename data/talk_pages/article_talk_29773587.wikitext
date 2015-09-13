@@ -1,0 +1,10 @@
+<article id="29773587" title=Talk:William Bingham (disambiguation)>
+	<talkpage id="29773587" title="Talk:William Bingham (disambiguation)">
+{{WikiProject Biography
+|living=no
+|class=Dab
+|listas=Bingham, Billy
+}}
+{{WikiProject Disambiguation}}
+	</talkpage>
+</article>

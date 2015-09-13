@@ -1,0 +1,36 @@
+<article id="27087253" title=User talk:Empowerbpo1>
+	<talkpage id="27087253" title="User talk:Empowerbpo1">
+
+==[[:Biometric Technology]]==
+[[Image:Copyright-problem.svg|left|40px]]
+This is an automated message from [[User:CorenSearchBot|CorenSearchBot]].  I have performed a web search with the contents of [[:Biometric Technology]], and it appears to include a substantial copy of http://www.newswiretoday.com/news/69070.  For legal reasons, we cannot accept copyrighted text or images borrowed from other web sites or printed material; such additions will be deleted. You may use external websites as a source of information, but not as a source of sentences. See our [[Wikipedia:Copyrights|copyright policy]] for further details. (If you own the copyright to the previously published content and wish to donate it, see [[Wikipedia:Donating copyrighted materials]] for the procedure.)
+
+This message was placed automatically, and it is possible that the bot is confused and found similarity where none actually exists.  If that is the case, you can remove the tag from the article and it would be appreciated if you could drop a note on [[User talk:Coren|the maintainer's talk page]]. [[User:CorenSearchBot|CorenSearchBot]] ([[User talk:CorenSearchBot|talk]]) 11:00, 24 April 2010 (UTC)
+
+==[[Wikipedia:Criteria for speedy deletion|Speedy deletion]] nomination of [[:Hipaa ocr]]==
+[[Image:Ambox warning_pn.svg|48px|left]] A tag has been placed on [[:Hipaa ocr]] requesting that it be speedily deleted from Wikipedia. This has been done under [[WP:CSD#G12|section G12 of the criteria for speedy deletion]], because the article appears to be a clear [[Wikipedia:Copyrights|copyright]] infringement. For legal reasons, we cannot accept copyrighted text or images borrowed from other web sites or printed material, and as a consequence, your addition will most likely be deleted. You may use external websites as a source of ''information'', but not as a source of ''sentences''. This part is crucial: ''say it in your own words''.
+
+If the external website belongs to you, and you want to allow Wikipedia to use the text — which means allowing other people to modify it — then you ''must'' verify that externally by one of the processes explained at [[Wikipedia:Donating copyrighted materials]]. If you are not the owner of the external website but have permission from that owner, see [[Wikipedia:Requesting copyright permission]]. You might want to look at [[Wikipedia:Policies and guidelines|Wikipedia's policies and guidelines]] for more details, or ask a question [[Wikipedia:Help desk|here]]. 
+
+If you think that this notice was placed here in error, you may contest the deletion by adding &lt;code&gt;{{tl|hangon}}&lt;/code&gt; to '''the top of [[:Hipaa ocr|the page that has been nominated for deletion]]''' (just below the existing speedy deletion or &quot;db&quot; tag - if no such tag exists then the page is no longer a speedy delete candidate and adding a hangon tag is unnecessary), coupled with adding a note on '''[[Talk:Hipaa ocr|the talk page]]''' explaining your position, but be aware that once tagged for ''speedy'' deletion, if the page meets the criterion, it may be deleted without delay. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the page that would render it more in conformance with Wikipedia's policies and guidelines.  &lt;!-- Template:Db-copyvio-notice --&gt; &lt;!-- Template:Db-csd-notice-custom --&gt; [[User:Mr. Vernon|Mr. Vernon]] ([[User talk:Mr. Vernon|talk]]) 06:08, 15 June 2010 (UTC)
+
+&lt;div class=&quot;user-block&quot;&gt;[[Image:Stop_x_nuvola.svg|left|35px]]&lt;span style=&quot;font-size: 105%;&quot;&gt;Your account has been '''blocked indefinitely''' from editing Wikipedia because it appears to be mainly intended or used for publicity and/or promotional purposes. Please read the following carefully.&lt;/span&gt;&lt;/br&gt;
+
+&lt;p&gt;'''Why can't I edit Wikipedia?'''&lt;/br&gt;
+&lt;p&gt;[[Special:Contributions/Empowerbpo1|Your account's edits]] and/or username indicate that it is being used on behalf of a company, group, or organization for purposes of promotion and/or publicity.  The edits may have violated one or more of our rules on [[WP:SPAM|spamming]], which include: [[WP:LINKSPAM|adding inappropriate external links]], [[WP:SPAM|posting advertisements]], and [[WP:PROMOTION|using Wikipedia for promotion]]. Wikipedia has many articles on companies, groups, and organizations, but it is considered [[WP:COI|inappropriate]] for such groups to use Wikipedia to write about themselves. ''In addition'', usernames like yours are disallowed under our [[WP:ORGNAME|username policy]].
+
+;Am I allowed to make these edits if I change my username?
+Probably not.  See [[Wikipedia:FAQ/Organization]] for a helpful list of frequently asked questions by people in your position.  Also, review the [[Wikipedia:Conflict of interest|conflict of interest guidance]] to see the kinds of limitations you would have to obey if you did want to continue editing about your company, group, or organization.  If this does not fit in with your goals, then you will not be allowed to edit again.  Consider using [[WP:Alternative outlets|one of the many websites]] that allow this instead.
+
+;What can I do now?
+You are still welcome to write about something other than your company or organization. If you ''do'' intend to make useful contributions on some other topic, you must convince a [[WP:ADMIN|Wikipedia administrator]] that you mean it.  To that end, please do the following: 
+
+*Add the text &lt;!-- Copy the text as it appears on your page, not as it appears in this edit area. Do not include the &quot;tlx&quot; argument. --&gt;{{tlx|unblock-spamun|Your proposed new username|Your reason here}} below this message box.
+*Replace the text &quot;Your proposed new username&quot; with a new username you are willing to use.  See [[Special:Listusers]] to search for available usernames.  Your new username will need to meet our [[WP:U|username policy]].
+*Replace the text &quot;Your reason here&quot; with your reason to be unblocked. In this reason, you must:
+:*Convince us that you understand the reason for your block and that you will not repeat the edits for which you were blocked.
+:*Describe in general terms the contributions that you intend to make if you are unblocked.
+
+If you believe this block was made in error, please see how to [[Wikipedia:Appealing a block|appeal a block]]. [[User talk:7|&lt;span style=&quot;background:#acf;padding:2px;color:white;text-shadow:black 0.2em 0.2em 0.3em&quot;&gt;&amp;nbsp;'''7'''&amp;nbsp;&lt;/span&gt;]] 06:21, 15 June 2010 (UTC)&lt;/div&gt;&lt;!-- Template:Uw-softerblock --&gt;[[Category:Wikipedians who are indefinitely blocked for promotional user names|{{PAGENAME}}]]{{z17}}&lt;!-- Template:Uw-coiublock --&gt;
+	</talkpage>
+</article>

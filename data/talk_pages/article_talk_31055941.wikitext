@@ -1,0 +1,7 @@
+<article id="31055941" title=Talk:Substation 401>
+	<talkpage id="31055941" title="Talk:Substation 401">
+{{WikiProject National Register of Historic Places|class=Stub|importance=low}}
+{{WikiProject New York City|class=Stub|importance=Low}}
+{{reqphoto|in=Brooklyn}}
+	</talkpage>
+</article>

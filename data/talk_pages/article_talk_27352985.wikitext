@@ -1,0 +1,6 @@
+<article id="27352985" title=Talk:National University of Santiago del Estero>
+	<talkpage id="27352985" title="Talk:National University of Santiago del Estero">
+{{WikiProject Universities|class=Stub}}
+{{WPArgentina|class=stub|importance=Top}}
+	</talkpage>
+</article>

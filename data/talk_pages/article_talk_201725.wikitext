@@ -1,0 +1,20 @@
+<article id="201725" title=Talk:Slogan>
+	<talkpage id="201725" title="Talk:Slogan">
+{{WikiProjectBannerShell|1=
+{{WikiProject Business|class=Start|importance=High}}
+{{WikiProject Marketing &amp; Advertising|class=Start|importance=High}}
+{{WikiProject Media|class=Start|importance=High}}
+{{WikiProject Politics|class=Start|importance=High}}
+}}
+
+==Untitled==
+For discussion on naming policy for slogans, see [[Wikipedia:Naming_policy_for_slogans]]. &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:The Cunctator |The Cunctator ]] ([[User talk:The Cunctator |talk]] • [[Special:Contributions/The Cunctator |contribs]]) 22:28, 26 March 2003&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt;
+
+
+{{ course assignment | course = Education Program:University of Toronto Mississauga/CCT110: The Rhetoric of Digital and Interactive Media Environments (S2014) | term = 2014 Q1 }} 
+Hello, my name is Sara Ammari, I'm a student at University of Toronto and I will be adding to this page as part of my assignment.
+
+==Improvement needed==
+This article reads like a college essay (explainable  by notes above :-)). However it needs to be improved. I've added a note to the top and tried to break it into sections, but I don't know when I can get to working on it myself. [[User:Wikimandia|Wikimandia]] ([[User talk:Wikimandia|talk]]) 10:11, 12 January 2015 (UTC)
+	</talkpage>
+</article>

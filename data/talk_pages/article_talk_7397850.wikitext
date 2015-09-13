@@ -1,0 +1,13 @@
+<article id="7397850" title=Talk:Specific volume>
+	<talkpage id="7397850" title="Talk:Specific volume">
+{{physics|class=start|importance=low}}
+
+== Redirect to Volume (thermodynamics) ==
+
+There is a much more descriptive section in that page for specific volume. Instead of this basically empty page with no sources, it should just redirect there instead... [[Special:Contributions/67.165.206.187|67.165.206.187]] ([[User talk:67.165.206.187|talk]]) 21:39, 11 September 2011 (UTC)
+
+== Ideal Gas Law Stated Incorrectly ==
+
+This article states the Ideal Gas Law is PV = mRT. Click on the link to ideal gas and there the Ideal Gas Law is PV = nRT. In the first case m is a mass and in the second case n is the number of moles. The problem relates to the constant R which should be the specific gas constant in this article.  &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/71.220.225.222|71.220.225.222]] ([[User talk:71.220.225.222|talk]]) 18:20, 1 August 2015 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

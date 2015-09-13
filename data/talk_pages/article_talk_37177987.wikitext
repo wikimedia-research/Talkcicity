@@ -1,0 +1,15 @@
+<article id="37177987" title=User talk:24.63.46.137>
+	<talkpage id="37177987" title="User talk:24.63.46.137">
+
+
+== September 2012 ==
+[[Image:Information.svg|left|25px|alt=|link=]] Hello, and welcome to Wikipedia. This is a message letting you know that one of your recent edits has been undone by an automated computer program called [[User:ClueBot NG|ClueBot NG]].
+{{clear}}
+* ClueBot NG makes very few [[User:ClueBot NG#Information About False Positives|mistakes]], but it does happen. If you believe the change you made was constructive, please [[User:ClueBot NG#Information About False Positives|read about it]], [{{User:ClueBot NG/Warnings/FPReport|1243556}} report it here], remove this message from your talk page, and then make the edit again.
+* For help, take a look at the [[Wikipedia:Introduction|introduction]].
+* The following is the log entry regarding this message: [[Among the Hidden]] was [http://en.wikipedia.org/w/index.php?title=Among+the+Hidden&amp;diff=515363400&amp;oldid=513625862 changed] by [[Special:Contributions/24.63.46.137|24.63.46.137]] [[User:24.63.46.137|(u)]] [[User talk:24.63.46.137|(t)]] ANN scored at 0.913531 on 2012-09-30T20:27:58+00:00 &lt;!-- MySQL ID: 1243556 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]) 20:28, 30 September 2012 (UTC)
+
+[[File:Information.svg|25px|alt=|link=]] Please refrain from making unconstructive edits to Wikipedia, as you did at [[:Among the Hidden]]. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]] or removed. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. &lt;!-- Template:uw-vandalism2 --&gt;&lt;!-- Template:uw-cluebotwarning2 --&gt;  [[User:Telfordbuck|Telfordbuck]] ([[User talk:Telfordbuck|talk]]) 20:34, 30 September 2012 (UTC)
+:''If this is a [[open proxy|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

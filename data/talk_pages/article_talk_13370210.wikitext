@@ -1,0 +1,15 @@
+<article id="13370210" title=Talk:Juan Ramón Martínez>
+	<talkpage id="13370210" title="Talk:Juan Ramón Martínez">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=yes
+|class=Stub
+|sports-priority=Low
+|sports-work-group=yes
+|listas=Martinez, Juan Ramon
+}}
+{{WikiProject Olympics|class=Stub|importance=|auto=yes}}
+{{WikiProject Football|class=Stub|importance=mid}}
+| blp=yes
+}}
+	</talkpage>
+</article>

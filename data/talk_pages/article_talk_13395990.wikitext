@@ -1,0 +1,12 @@
+<article id="13395990" title=Talk:Sir Ralph Assheton, 2nd Baronet, of Middleton>
+	<talkpage id="13395990" title="Talk:Sir Ralph Assheton, 2nd Baronet, of Middleton">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=no
+|class=Stub
+|listas=Assheton, Sir Ralph, 2nd Baronet
+|baronets-work-group=yes}}
+{{WikiProject England|class=stub|importance=low}}
+{{WikiProject University of Oxford|class=Stub|importance=low}}
+}}
+	</talkpage>
+</article>

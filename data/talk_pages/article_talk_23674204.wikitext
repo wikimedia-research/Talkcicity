@@ -1,0 +1,11 @@
+<article id="23674204" title=User talk:80.225.11.170>
+	<talkpage id="23674204" title="User talk:80.225.11.170">
+
+
+== July 2009 ==
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits{{#if:Bhata|, such as the one you made to [[:Bhata]],}} did not appear to be constructive and has been reverted. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; [[User:Favonian|Favonian]] ([[User talk:Favonian|talk]]) 12:00, 20 July 2009 (UTC)
+:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
+
+[[Image:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia, as you did with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Bhata?diff=303119341 this edit]&lt;/span&gt; to the page [[:Bhata]]. Such edits constitute [[Wikipedia:Vandalism|vandalism]] and are [[Help:Reverting|reverted]]. Please do not continue to make unconstructive edits to pages; use the [[Wikipedia:Sandbox|sandbox]] for testing. Thank you. &lt;!-- Template:uw-huggle2 --&gt; [[User:William Avery|William Avery]] ([[User talk:William Avery|talk]]) 12:03, 20 July 2009 (UTC)
+	</talkpage>
+</article>

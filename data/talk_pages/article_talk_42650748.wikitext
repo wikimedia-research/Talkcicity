@@ -1,0 +1,22 @@
+<article id="5290916" title=Talk:Weekly Young Magazine>
+	<talkpage id="5290916" title="Talk:Weekly Young Magazine">
+{{WikiProject Anime and manga|class=Start|importance=High}}
+
+== Title ==
+
+Why is it called YOUNG magazine?
+-[[Special:Contributions/75.38.132.93|75.38.132.93]] ([[User talk:75.38.132.93|talk]]) 03:37, 23 May 2011 (UTC)
+
+Because it's for young men. [[User:Radicalanimal|Radicalanimal]] ([[User talk:Radicalanimal|talk]]) 06:31, 12 September 2011 (UTC)
+
+== Picture Incorrect? ==
+
+I think the pic is for Monthly Young Magazine. The fact that it's the 10th issue and late in the year and the first kanji in the title. It doesn't look like there's a page for Monthly Young Magazine though. If you look at this page [http://yanmaga.jp/] it has the current covers of both and the title here matches the bottom one. I don't actually read Japanese. [[User:Bookcats|Bookcats]] ([[User talk:Bookcats|talk]]) 10:58, 25 October 2014 (UTC)
+
+:([[User talk:Bookcats|talk]]) is correct. The picture shows a Monthly Young Magazin. Its written on the cover (in the circle) and the title is 月刊ヤングマガジン, Gekkan Young Magazin. [[User:Rka001|Rka001]] ([[User talk:Rka001|talk]]) 19:58, 30 April 2015 (UTC)
+
+::I believe the correct issue cover would have {{Nihongo|Weekly|週刊|Shuukan}}, not {{Nihongo|Monthly|月刊|Gekkan}}. I can put up a 2015 Issue 1 cover if you wish.
+
+::PS: OFC I have to render it in 270px for fairuse reasons. [[User:Zkrjebril92|Zkrjebril92]] ([[User talk:Zkrjebril92|talk]]) 11:11, 26 August 2015 (UTC)
+	</talkpage>
+</article>

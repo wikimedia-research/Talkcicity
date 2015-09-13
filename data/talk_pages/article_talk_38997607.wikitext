@@ -1,0 +1,26 @@
+<article id="38997607" title=Talk:Christopher Gore/GA1>
+	<talkpage id="38997607" title="Talk:Christopher Gore/GA1">
+==GA Review==
+{{Good article tools}}
+&lt;noinclude&gt;{{al|{{#titleparts:Christopher Gore/GA1|-1}}|noname=yes}}&lt;br/&gt;&lt;/noinclude&gt;&lt;includeonly&gt;:''This review is [[WP:transclusion|transcluded]] from [[Talk:Christopher Gore/GA1]]. The edit link for this section can be used to add comments to the review.''&lt;/includeonly&gt;
+
+'''Reviewer:''' [[User:Sturmvogel 66|Sturmvogel 66]]&amp;nbsp;([[User talk:Sturmvogel 66|talk]] '''·''' [[Special:Contributions/Sturmvogel 66|contribs]]) 04:02, 3 April 2013 (UTC)
+&lt;!-- Please add all review comments below this comment, and do not alter what is above. So that the review can be kept within a single section, please do not use level 2 headers (==...==) below to break up the review. Use level 3 (===...===), level 4 and so on.--&gt;
+
+*If Gore lost the election in 1789 how could he ultimately resign under pressure?
+**Because (next sentence) he was again elected in a special election. ''[[User:Magicpiano|&lt;span style=&quot;background-color:khaki;color:firebrick;&quot;&gt;Magic&lt;/span&gt;]]''[[User_talk:Magicpiano|♪piano]] 16:29, 3 April 2013 (UTC)
+***D'oh!--[[User:Sturmvogel 66|Sturmvogel 66]] ([[User talk:Sturmvogel 66|talk]]) 02:16, 4 April 2013 (UTC)
+*What's the difference between an overseer and fellow at Harvard?
+**If the relevant WP articles are to be believed, the overseers are sort of like a board of &quot;outside&quot; directors, while the fellows may have (or had then) more involvement in day-to-day matters. I'll add some links. ''[[User:Magicpiano|&lt;span style=&quot;background-color:khaki;color:firebrick;&quot;&gt;Magic&lt;/span&gt;]]''[[User_talk:Magicpiano|♪piano]] 16:35, 3 April 2013 (UTC)
+*Need an OCLC # for Bradford '''Added''' ''[[User:Magicpiano|&lt;span style=&quot;background-color:khaki;color:firebrick;&quot;&gt;Magic&lt;/span&gt;]]''[[User_talk:Magicpiano|♪piano]] 17:12, 4 April 2013 (UTC)
+
+More later.--[[User:Sturmvogel 66|Sturmvogel 66]] ([[User talk:Sturmvogel 66|talk]]) 04:02, 3 April 2013 (UTC)
+
+*What's that &quot;(class 1)&quot; in the US Senator navbox?
+**It's automatically added by {{tl|U.S. Senator box}}; it refers to [[Classes of United States Senators|which of the three groups of Senators]] the seat is in for determining when it's up for election.  This is also explained in [[List of United States Senators from Massachusetts]], which that navbox links to. ''[[User:Magicpiano|&lt;span style=&quot;background-color:khaki;color:firebrick;&quot;&gt;Magic&lt;/span&gt;]]''[[User_talk:Magicpiano|♪piano]] 17:12, 4 April 2013 (UTC)
+***Seems a pretty unimportant distinction, but whatever.--[[User:Sturmvogel 66|Sturmvogel 66]] ([[User talk:Sturmvogel 66|talk]]) 00:13, 5 April 2013 (UTC)
+*Was Gore successful with his Mass. war debts?--[[User:Sturmvogel 66|Sturmvogel 66]] ([[User talk:Sturmvogel 66|talk]]) 02:16, 4 April 2013 (UTC)
+**Answered in the next paragraph (unless I've got the location of your query wrong): &quot;exchanged Continental and state paper&quot; ''[[User:Magicpiano|&lt;span style=&quot;background-color:khaki;color:firebrick;&quot;&gt;Magic&lt;/span&gt;]]''[[User_talk:Magicpiano|♪piano]] 17:12, 4 April 2013 (UTC)
+***No, you understood it correctly. Nobody'd ever believe that I've tried to give this a close reading with me missing information already in the article, would they? Ah, well, some days you get the bear, some days the bear gets you.--[[User:Sturmvogel 66|Sturmvogel 66]] ([[User talk:Sturmvogel 66|talk]]) 00:13, 5 April 2013 (UTC)
+	</talkpage>
+</article>

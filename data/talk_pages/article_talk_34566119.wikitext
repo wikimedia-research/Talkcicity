@@ -1,0 +1,15 @@
+<article id="34566119" title=User talk:193.183.206.110>
+	<talkpage id="34566119" title="User talk:193.183.206.110">
+
+
+== February 2012 ==
+[[Image:Information.svg|left|25px|alt=|link=]] Hello, and welcome to Wikipedia. Everyone is welcome to make constructive contributions to Wikipedia, but at least one of your recent edits, such as the one you made to [[:Buenos Aires]], did not appear to be constructive and has been '''automatically [[Help:Reverting|reverted]]''' (undone) by an [[automated]] [[computer program]] called [[User:ClueBot NG|ClueBot NG]]. 
+* Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. Note that human editors do monitor recent changes to Wikipedia articles, and [[WP:ADMINS|administrators]] have the ability to [[WP:BLOCK|block]] users from editing if they repeatedly engage in [[WP:vandalism|vandalism]].
+* ClueBot NG makes very few [[User:ClueBot NG#Information About False Positives|mistakes]], but it does happen. If you believe the change you made should not have been considered as unconstructive, please [[User:ClueBot NG#Information About False Positives|read about it]], [{{User:ClueBot NG/Warnings/FPReport|853181}} report it here], remove this warning from your talk page, and then make the edit again.
+*'''If you need help''', please see our '''[[Help:Contents|help pages]]''', and if you can't find what you are looking for there, please feel free to place &quot;&lt;code&gt;{{tl|helpme}}&lt;/code&gt;&quot; on [[Special:MyTalk|your talk page]] and someone will drop by to help.
+* The following is the log entry regarding this warning: [[Buenos Aires]] was [http://en.wikipedia.org/w/index.php?title=Buenos+Aires&amp;diff=474385377&amp;oldid=474268145 changed] by [[Special:Contributions/193.183.206.110|193.183.206.110]] [[User:193.183.206.110|(u)]] [[User talk:193.183.206.110|(t)]] ANN scored at 0.970186 on 2012-02-01T12:22:22+00:00 &lt;!-- MySQL ID: 853181 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]) 12:22, 1 February 2012 (UTC)
+
+[[File:Ambox warning pn.svg|25px|alt=|link=]] Please stop your [[Wikipedia:Disruptive editing|disruptive editing]]. If you continue to [[Wikipedia:Vandalism|vandalize]] Wikipedia, as you did at [[:Buenos Aires]], you may be [[Wikipedia:Blocking policy|blocked from editing]]. &lt;!-- Template:uw-vandalism3 --&gt;&lt;!-- Template:uw-cluebotwarning3 --&gt; [[User:Alexf|Alexf]]&lt;sup&gt;&lt;i&gt;[[User talk:Alexf|(talk)]]&lt;/i&gt;&lt;/sup&gt; 14:57, 1 February 2012 (UTC)
+:''If this is a [[closed proxy|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

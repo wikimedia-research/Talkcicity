@@ -1,0 +1,12 @@
+<article id="7106969" title=Talk:European Parliamentary Elections Act 2002>
+	<talkpage id="7106969" title="Talk:European Parliamentary Elections Act 2002">
+{{WikiProjectBannerShell|1=
+{{WikiProject Elections and Referendums}}
+{{WikiProject Politics of the United Kingdom|class=Stub|auto=inherit|importance=}}
+{{WikiProject Law|class=Stub|importance=Low}}
+}}
+
+==Untitled==
+this seems to imply the voting system changed by the introduction of the regional list system: this was already implemented in by the 1999 act.  i'm unsure if this one actually made any changes.  [[User:Morwen|Morwen]] - [[User_talk:Morwen|Talk]] 12:43, 22 September 2006 (UTC)
+	</talkpage>
+</article>

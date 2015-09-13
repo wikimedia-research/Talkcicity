@@ -1,0 +1,8 @@
+<article id="29793265" title=User talk:75.3.221.70>
+	<talkpage id="29793265" title="User talk:75.3.221.70">
+
+== November 2010 ==
+
+[[Image:Information.png|25px|alt=|link=]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Fresno%2c_California?diff=399423192 recent edit]&lt;/span&gt; you made to [[:Fresno, California]] has been reverted, as it appears to introduce incorrect information. Please do not intentionally add incorrect information to articles; use the [[Wikipedia:Sandbox|sandbox]] for testing. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggleerror1 --&gt; [[User:Diannaa|&lt;span style=&quot;color:teal;&quot;&gt;Diannaa&lt;/span&gt;]] &lt;sup&gt;([[User talk:Diannaa|Talk]])&lt;/sup&gt; 00:28, 29 November 2010 (UTC)
+	</talkpage>
+</article>

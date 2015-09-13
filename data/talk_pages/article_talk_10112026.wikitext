@@ -1,0 +1,6 @@
+<article id="10112026" title=Talk:Miami Lakes Educational Center>
+	<talkpage id="10112026" title="Talk:Miami Lakes Educational Center">
+{{WikiProject Miami|class=start|importance=low}}
+{{WPSchools|class=start|importance=low|needs-infobox=no}}
+	</talkpage>
+</article>

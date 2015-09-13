@@ -1,0 +1,325 @@
+<article id="40153930" title=Talk:Virgin Media/Archive 1>
+	<talkpage id="40153930" title="Talk:Virgin Media/Archive 1">
+{{talk archive}}
+
+==Speculation==
+This article seems to contain a lot of things that appear to be speculation on the part of the author.  AFAICT this not what Wikipedia is:
+
+*&quot; It is ''likely'' Virgin Media shops ''could'' be set up in major cities to promote its services, on a stand alone basis.&quot;
+*&quot;The ultimate holding company of Virgin Media Plc is ''likely'' to be Virgin Media, Inc.&quot;
+*&quot;However, if in the future it is felt that it would be inappropriate, the division ''could'' be re-branded something like Virgin Content, whilst a channel like Living TV ''could'' be re-branded as Virgin Living.&quot;
+
+[[User:Pit-yacker|Pit-yacker]] 16:22, 22 December 2006 (UTC)
+
+
+== Clean Up ==
+This article is currently a bit of a mess and needs a cleanup.  Although I have tried to restructure it a bit, as I said above there is a lot of Crystal Ball gazing.  There are also acres of unsourced statements. IMHO this article, [[NTL]], and [[Telewest]] (possibly [[Virgin.net]] as well: AFAICT it is rebranding to Virgin Media) should all be merged, probably with NTL forming the back-bone of the new article amended for changes in the structure. [[User:Pit-yacker|Pit-yacker]] 02:00, 1 February 2007 (UTC)
+
+--[[User:81.170.119.238|81.170.119.238]] 11:45, 2 February 2007 (UTC)
+I definitely think this should happen once Virgin Media is officially launched (rumoured to be either 8th or 14th Feb).
+
+:It appears someone has changed the dates of the merger on all articles with out providing any source.
+:Just to add, it appears that Virgin.net IS changing its name to Virgin Media.  I dont know where this leaves the claim that Virgin.net is one of the 6 divisions of the new company.  As far as I can tell its products are being merged into the rest of the group.  Also what happens to NTL:Telewest business???? [[User:Pit-yacker|Pit-yacker]] 17:04, 3 February 2007 (UTC)
+
+Posted by Alex on 4th of Febaury 2007
+
+I think that the section Ntl:Telwest should be scrapped since virgin media is the new name of all the companies put together and more foucsing on this (Virgin Media)
+
+----
+
+Firstly Virgin Media Sections are to be created in a lot of Virgin Mobile stores, which cannot be rebranded at this time. 
+
+Virgin.net will remain as an ADSL broadband service, as opposed to cable broadband.
+
+Virign Media officialy launches on Feb 8th 2007 which has been labeled V Day.
+
+As for a source - I am currently employed by ntl:telewest (Soon to be Virgin Media). The above information has been posted on the company intranet.
+[[User:82.40.202.187|82.40.202.187]] 17:26, 4 February 2007 (UTC)
+: Hi, Thanks for your reply. I have to admit I'm quite confused to what is happening, it appears NTL seem to be throwing in suprises for the media and public to keep us on our toes. As a customer of NTL, the details I have received suggest the Virgin.net will be re-branded &quot;Virgin Media&quot; at the same time.  Virgin's promotional website (know1st.co.uk) also appears to indicate Virgin.net will be integrated into the rest of the business.  If this is the case where do the 6 divisions come from? At the  same time I note there is no mention of &quot;NTL:Telewest Business&quot;, is this the 6th unit or is this also being integated into the rest of the business?
+: I think we need to keep things from the NTL and Telewest articles such as the history, it sets a context about the company, and thats what Wikipedia is about more than being an advert for Virgin IMHO.  However, I guess a lot of the stuff regarding services will probably be irrelevant now.
+:I have seen that [[Digital Spy]] is now reporting the new launch date which should do as a source for that.
+:[[User:Pit-yacker|Pit-yacker]] 22:24, 4 February 2007 (UTC)
+
+===Merger of Virgin Mobile ===
+Since Virgin Mobile has international operations, IMHO this should remain a separate article, unless they are also rebranding as Virgin Media [[User:Pit-yacker|Pit-yacker]] 02:53, 8 February 2007 (UTC)
+
+
+-- Virgin Mobile is now part of Virgin Media [[User:81.6.193.157|81.6.193.157]] 23:07, 17 March 2007 (UTC)
+
+==Inc or Plc?==
+Virgin Media Inc. is the correct name for this company. No company names Virgin Media plc exists. See http://quotes.nasdaq.com/asp/SummaryQuote.asp?selected=VMED&amp;symbol=VMED
+Stuartfanning
+:What are you trying to say? - [[User:X201|X201]] 16:20, 8 February 2007 (UTC)
+
+I've merged the histories of these articles because the content was the same, but I'm not sure what title they belong under myself. [[User:Cool Hand Luke|Cool Hand]] ''[[User talk:Cool Hand Luke|Luke]]'' 16:55, 8 February 2007 (UTC)
+
+There is no Virgin Media plc registered with Companies House. Can I suggest [[Virgin_Media_Plc|Virgin Media Plc]] page be deleted from Wikipedia?
+[[User:Marcgr|Marcgr]] 23:09, 10 February 2007 (UTC)
+
+Well that's very official. If it's not registered with the companies house then the company does not exist under law. So it should be deleted, why is this taking so long!
+
+-----
+Virgin Media Inc is a company registered in New York, NY
+
+Virgin Media Inc is made up of 4 main trading companies:
+Virgin Media Limited is the company that registerd in London, UK providing services to consumers.
+ntl Business Limited is the company that is registered in London, UK providing businesses.
+Virgin Mobile Telecoms Limited is the company that is registered in London, UK providng mobile phone services to consumers.
+
+The structure is a follows:
+
+3 Divisions:
+A. Consumer
+B. Business
+C. Television Content
+
+A. The consumer division has 4 product offerings
+
+TV
+Broadband
+Phone
+Mobile
+
+B. The business divison is knows as ntl:Telewest Business
+
+C. Telelvision content is Virgin Media Television
+
+[[User:Marcgr|Marcgr]] 21:33, 8 February 2007 (UTC)
+
+-----
+
+NASDAQ is American. Therefore there is no PLC. Virgin Media operates in the UK, so it is very likely that it is Virgin Media PLC. Look on the London Stock Exchange instead.
+
+After searching, I found &quot;VMED - Virgin Media Inc&quot; So I guess you are right, but that does not mean there is no Virgin Media PLC.
+
+Oh and in their terms (http://allyours.virginmedia.com/html/legal/oncable/terms.html) They reference &quot;Virgin Media Limited&quot;... which in the UK usually refers to a privately limited company (LTD)
+
+== Proxy servers ==
+
+[[User:Ongal|Ongal]] 18:32, 9 February 2007 (UTC)As much as I hate the proxy servers - I don't think that this problem is actually related:
+
+''These transparent proxy servers also override the user's hosts file and prevent manual DNS updates.''
+
+I could list many problems that are caused by proxies, but this isn't one of them to the best of my knowledge. Any objections if I remove this line?
+
+'''They have removed the transparent proxies correct, however their is a Web Cache service available (webcache.virginmedia:8080) ... Any ideas?'''  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/82.17.70.95|82.17.70.95]] ([[User talk:82.17.70.95|talk]]) 14:47, 3 September 2007 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Redirects to this page ==
+The following all now redirect here [[NTL]], [[Telewest]], [[Virgin.net]]. They are all historic names in British business history and deserve articles of their own. I vote this page should have a short description of each as antecedents to Virgin Media Inc with a link to the main page describing each business in more detail. [[User:Lumos3|Lumos3]] 23:32, 11 February 2007 (UTC)
+
+:I agree. - [[User:X201|X201]] 12:43, 12 February 2007 (UTC)
+
+::I agree. It's quite rediculous that people always jump on merging and redirecting articles just because companies have merged or rebranded. NTL and Telewest have been major brands in the UK for decades, and the wealth of information that is relevent to an encyclopedia like this but not specific to Virgin Media is huge. [[User:Timb0h|Timb0h]] 15:22, 15 February 2007 (UTC)
+
+:::Question is, where do you draw the line? How do you break the articles in two? (Given that IMHO duplication on Wikipeida is a '''very''' bad thing (it very quickly leads to inconsistencies - if it isnt already the first law of Wikipedia should be avoid duplication at all costs)).  Fact is Virgin Media *IS* NTL Inc - just with a different name. AFAICT, there hasnt even been a pretence on VM's part that it is a different company. [[User:Pit-yacker|Pit-yacker]] 15:25, 15 February 2007 (UTC)
+''(Moved by [[User:Pit-yacker|Pit-yacker]] as it is substantially the same topic of debate):'' Now that the Telewest article redirects here, where's amm the Telewest data gone; its history, trade and information specific to what Telewest was that no longer exists in the Vermin oriented article? I'll reopen the Telewest article to feature the company history with clear mention that the company's now trading under a different name with bright red labels. '''&lt;FONT COLOR=&quot;#000000&quot;&gt;[[User:Captain scarlet|Captain Scarlet]]&lt;/FONT&gt;''' ''&lt;FONT COLOR=&quot;#FF0000&quot;&gt;[[User talk:Captain scarlet|and the Mysterons]]&lt;/FONT&gt;'' 16:33, 24 February 2007 (UTC)
+
+::For the main part see my reply above as to why I think one article is a better idea.  As for where the data is? Things such the history where copied and pasted to this article.  A few things that I felt werent really notable were deleted.  For example, are advertising campaigns really notable? Equally a lot of the services actually refer to the service that was provided just before the merger, and bare more similarities to the services provided by VM today rather than the Telewest of old.[[User:Pit-yacker|Pit-yacker]] 17:34, 24 February 2007 (UTC)
+
+:::Other than, I'm clearly against the mass redirecting to Vermin Media, there is a clear loss of information when redirects are implemented following company mergers. The information present on [[Telewest]] is a testimony of what the company was and is set in stone. The VM article will evolve as the branded services do, the Telewest will not. It is unencyclopedic to remove information on the grounds a company no longer exist when the company in quest is notable and possesses a substantial history. I agree with the changes you have implemented since the reopening of [[Telewest]] and it is important that such information hidden in history logs be present and not ommited in the VM article where they would be out of date and rather off topic, there place rightfully being in [[Telewest]]. I see that messages above tend to agree in a less aggressive manner to mine to the fact that articles are too easily merged and forgotten. Wikipedia would be very empty with no History related articles: ''sorry WWII was 50 years ago, it's been merged with Iraqi war II''. '''&lt;FONT COLOR=&quot;#000000&quot;&gt;[[User:Captain scarlet|Captain Scarlet]]&lt;/FONT&gt;''' ''&lt;FONT COLOR=&quot;#FF0000&quot;&gt;[[User talk:Captain scarlet|and the Mysterons]]&lt;/FONT&gt;'' 19:01, 24 February 2007 (UTC)
+
+::::There's precedent for keeping the articles separate: see, for example, [[Plessey]], which is now part of [[BAE Systems]] by way of [[The General Electric Company|GEC]] [[User:Nevalicori|Nevalicori]] 23:33, 1 March 2007 (UTC)
+
+== History section reorg ==
+
+I have reorganised the History section, such that it is now in chronological order and correctly groups all of the NTL history together. I have added no additional information. [[User:JonoP|JonoP]] 16:49, 17 February 2007 (UTC)
+
+== Virgin Media Inc → Virgin Media Categories for Discussion nomination - implications for article title ==
+
+Someone nominated [[:Category:Virgin Media Inc]] for CfD, stating that Inc is not used in titles. If that title is renamed, then it has implications for the title of this article.
+
+Discussion of the CfD is here: [[Wikipedia:Categories for discussion#Category:Virgin Media Inc]] --[[User:Tghe-retford|&lt;b&gt;tghe&lt;/b&gt;retford]] &lt;small&gt;([[User talk:Tghe-retford|talk]])&lt;/small&gt; 22:18, 21 February 2007 (UTC)
+
+==NPOV==
+* Paragraph 'Rebranding' is not neutral - (unsigned)
+* Paragraph ‘Business Services’ is similarly not neutral [[User:Nevalicori|Nevalicori]] 00:00, 2 March 2007 (UTC)
+
+== Why? ==
+
+OK, Why was the mega paragraph i wrote deleted?
+
+i scanned the pictures/took them specially, and i am not very happy. I Demand an explanation. &lt;b&gt;&lt;font color=&quot;red&quot;&gt;[[User :ACBest|AC]]&lt;/font&gt;&lt;font color=&quot;gold&quot;&gt;[[User talk:ACBest/Main|Best]]&lt;/font&gt;&lt;font color=&quot;blue&quot;&gt;[[Special:Contributions/ACBest|My Contributions]]&lt;/font&gt;&lt;/b&gt; 16:17, 2 March 2007 (UTC)
+:First off take a trip to [[WP:CIVIL]], stamping your feet and demanding answers isn't the done thing. Secondly, I don't know why it was removed. I didn't remove it. My opinion of it was that it was a bit messy but could have been tidied up without too much hassle and was mostly worth keeping. The quotes and the sniping between them is worth mentioning so that people get a flavour their attitude to one another. - [[User:X201|X201]] 16:38, 2 March 2007 (UTC)
+::Heh heh heh! sorry! But can i put it back? &lt;b&gt;&lt;font color=&quot;red&quot;&gt;[[User :ACBest|AC]]&lt;/font&gt;&lt;font color=&quot;gold&quot;&gt;[[User talk:ACBest/Main|Best]]&lt;/font&gt;&lt;font color=&quot;blue&quot;&gt;[[Special:Contributions/ACBest|My Contributions]]&lt;/font&gt;&lt;/b&gt; 16:58, 2 March 2007 (UTC)
+:::You can add anything you want to Wikipedia, as long as there's a valid reason for adding it and as long as it has citations (if needed) and conforms to things like [[WP:NPOV]] and [[WP:OR]] and [[WP:MOS]]. It was [[User:AnemoneProjectors|AnemoneProjectors]] who reverted your edits so perhaps a polite (remember [[WP:CIVIL]] ;-)  ) request as to why he/she removed them might be worth while. - [[User:X201|X201]] 20:28, 2 March 2007 (UTC)
+::::I'm putting my paragraph back on, and i will get in touch with the user i think. Thanks for your help! &lt;b&gt;&lt;font color=&quot;red&quot;&gt;[[User :ACBest|AC]]&lt;/font&gt;&lt;font color=&quot;gold&quot;&gt;[[User talk:ACBest/Main|Best]]&lt;/font&gt;&lt;font color=&quot;blue&quot;&gt;[[Special:Contributions/ACBest|My Contributions]]&lt;/font&gt;&lt;/b&gt; 06:39, 3 March 2007 (UTC)
+
+== Sky basic channels ==
+
+I still have [[BBC News 24]], [[CNBC]] Europe, [[TV5]], [[Euronews]] and [[BBC Parliament]]. But I have lost [[Bloomberg Television]], [[CNN International]], and of course, [[Sky News]]. Were they part of Sky Basic and shouldn't they be listed as channels that have gone? --[[User:81.105.251.160|81.105.251.160]] 16:31, 2 March 2007 (UTC)
+:Nope, I still have them. I'd suggest ringing Virgin Media on 0845 454 0000 &lt;b&gt;&lt;font color=&quot;red&quot;&gt;[[User :ACBest|AC]]&lt;/font&gt;&lt;font color=&quot;gold&quot;&gt;[[User talk:ACBest/Main|Best]]&lt;/font&gt;&lt;font color=&quot;blue&quot;&gt;[[Special:Contributions/ACBest|My Contributions]]&lt;/font&gt;&lt;/b&gt; 17:00, 2 March 2007 (UTC)
+::No they shouldnt have gone or be removed. Sky basic channels refers to &quot;basic level&quot; channels owned by [[BSkyB]], as opposed to channels that are included in [[Sky Digital]] &quot;basic&quot; packs.  With the exception of Sky News, the channels you list above are not owned by BSkyB, they are just channels that happen to be carried on Sky Digital among numerous platforms. [[User:Pit-yacker|Pit-yacker]] 17:11, 2 March 2007 (UTC)
+==NPOV (Again)==
+
+Look at the Virgin vs Sky section... seems to highlight Virgin as beign the only pty aty fauly...&quot;Virgin WOULD not come to an agreement&quot;...just me? Plz comment. -- addressed [[User:Toon05|Toon]] 23:08, 5 September 2007 (UTC)
+
+== Why does this page not come from Telewest? ==
+
+shouldn't this page redirect from Telewest, NTL, Virgin mobile, Virgin.net?
+
+[[User:Jodie kennedy|Jodie kennedy]] 22:05, 9 March 2007 (UTC)
+: See the ongoing discussions in ‘Redirects to this page’, above. [[User:Nevalicori|Nevalicori]] 01:40, 10 March 2007 (UTC)
+
+==Sky Sports==
+
+Is there a reason (eg ofcom decision) why Sky haven't threatened to stop Virgin from selling Sky Sports as part of the recent dispute? If there is, it would be worth mentioning that in the article.
+:I presume the sport contract is separate and wasn't up for renewal at the same time. - [[User:X201|X201]] 08:48, 2 April 2007 (UTC)
+::Correct. Sky Sports (and Sky Movies), though not currently, AIUI, the HD versions, are on what is called the ''Rate Card'', which is a list of channels maintained by OFCOM. If something is on the Rate Card, then any platform that is willing to pay the asking price, which is regulated, must be given the channels. Sky One was on the Rate Card for a time (which is how it turned up on ITV Digital), but was removed either last year or the year before (I don't know the details). Some have speculated that it might be put back on, especially if the rumoured move to put some Premier League football on it on Saturday afternoons turns out to be true. [[User:JonoP|JonoP]] 10:24, 2 April 2007 (UTC)
+
+== Bankruptcy ==
+
+I'm confused about the section on NTL bankruptcy. The section states that bankruptcy was filed in the United States. However, the article doesn't mention anywhere that NTL is a US company (and AFAIK it never was). How can this be? There don't seem to be any cited sources for this passage.
+[[User:Aldoliel|Aldoliel]] 21:17, 24 April 2007 (UTC)
+
+== History of Virgin Media seperation... ==
+
+Should The History of Virgin Media (Aka The NTL era and the Telewest Era) be seperated into its own article. eg [[Virgin Media Inc/History]] becuase currently the History section is way to big for just one segment of the whole. --[[User:Dee4leeds|Dee4leeds]] 16:59, 26 April 2007 (UTC)
+:The NTL stuff should have it's own article just like [[Telewest]]. Just because companies merge or change name doesn't mean that all evidence of them should be eradicated from Wikipedia. Recreate [[NTL]] they were a major company and deserve their own article. - [[User:X201|X201]] 18:03, 26 April 2007 (UTC)
+::That also works. More opinions please. --[[User:Dee4leeds|Dee4leeds]] 13:06, 28 April 2007 (UTC)
+Telewest article contents are all covered in the Virgin Media article. Telewest does not exist anymore and is not of historical importance. Both Ntl and Telewest articles should redirect.
+&lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Fgfgbgbg|Fgfgbgbg]] ([[User talk:Fgfgbgbg|talk]] • [[Special:Contributions/Fgfgbgbg|contribs]]) [[2007-04-28]]&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt;
+:::I would prefer [[History of Virgin Media]].  The fine details of the merger are actually quite complicated. Its also part the reason why I believe there should be one Virgin Media article, with child articles for longer sections.  
+:::AFAICT, in actual fact, Telewest took over NTL and re-named itself NTL (AFAICT NTL:Telewest was just a trading name).  If we want to be properly correct that means there should be at least 4 articles.  Telewest (pre 2006), NTL (pre 2006), NTL (2006-07) [aka the company previously known as Telewest] and Virgin Media.  Each of these has its own history.  Of course then we remember NTL (2006-07) does actually still exist, just its called Virgin Media now. This raises a few questions:
+:::#Given the rebrand was very much a rolling programme.  Eg. product lines were harmonised and rebranded ahead of the re-name, where is the rebrand line drawn?
+:::#What sort of precendent does this set. If Virgin Media renames itself &quot;Virgin Cable&quot; do we start a whole new article?
+:::#Do we have an article for each of the sub companies before takeover? By this rule NTL itself didnt actually exist before 1998?
+:::[[User:Pit-yacker|Pit-yacker]] 20:22, 28 April 2007 (UTC)
+::::Any other ideas?
+:::::NTL should have it's own article, the history is way too long. We could have a link to the full article followed by a summary of what NTL was/is
+
+==Fair use rationale for Image:NTL logo.png==
+[[Image:Nuvola apps important.svg|70px|left]]
+'''[[:Image:NTL logo.png]]''' is being used on this article. I notice the image page specifies that the image is being used under [[Wikipedia:Fair use|fair use]] but there is no [[Wikipedia:Fair use rationale guideline|explanation or rationale]] as to why its use in '''this''' Wikipedia article constitutes fair use. In addition to the [[Wikipedia:Image copyright tags/Fair use|boilerplate fair use template]], you must also write out on the image description page a specific explanation or rationale for why using this image in each article is consistent with [[WP:FU|fair use]].
+
+Please go to [[:Image:NTL logo.png|the image description page]] and edit it to include a [[Wikipedia:Fair use rationale guideline |fair use rationale]]. Using one of the templates at [[Wikipedia:Fair use rationale guideline]] is an easy way to insure that your image is in compliance with Wikipedia policy, but remember that you must complete the template. Do not simply insert a blank template on an image page.
+
+If there is other other fair use media, consider checking that you have specified the fair use rationale on the other images used on this page.  Note that any fair use images uploaded after 4 May, 2006, and lacking such an explanation will be deleted one week after they have been uploaded, as described on [[Wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|Media copyright questions page]]. Thank you.&lt;!-- Template:Missing rationale2 --&gt;[[User:BetacommandBot|BetacommandBot]] 04:46, 5 June 2007 (UTC)
+
+==Widespread piracy and retentions deals==
+
+I think a couple of major issues facing Virgin Media should be included in the article:
+
+1) The use of Nagravision 1 (which has been compromised since 1999), and the widespread availability of pirate boxes (see eBay). 
+
+2) That a high percentage of customers are on &quot;retentions&quot; deals, with customers often cutting the cost of their package by 50% or more - offered by the retentions department, accessible to customers who say they wish to leave.
+
+[[User:Satellite John|Satellite John]] 21:43, 9 September 2007 (UTC)
+
+:Topics such as these should only be included if [[WP:NOTABLE]] enough. I wouldn't say that issue 1 would add anything to the article, it's simply trivia tbh. Your second topic I do agree could be added, if it is [[WP:CITE|Cited]] from 3rd party news sources. [[User:Toon05|Toon]] 23:20, 9 September 2007 (UTC)
+
+
+==Is Virgin Media still the number two landline phone provider?==
+
+&quot;Virgin Phone offers landline telephone services; it ranks as the number-two service behind the former UK state monopoly, BT Group&quot;
+
+Or have they been overtaken by Talk Talk or even Sky Talk?
+On Wikipedia's Talk Talk entry it says Talk Talk have three million customers.
+
+[[User:Satellite John|Satellite John]] 17:50, 3 October 2007 (UTC)
+
+
+* Even if you pay your line rental to Talk Talk or Sky Talk, your line is still a BT line, even when unbundled. My guess is that the only other provider of physical telephone lines on the UK mainland would be [[Kingston Communications]] in Hull. [[User:JonoP|JonoP]] 11:49, 4 October 2007 (UTC)
+:They certainly do have their own network. I think you're right, BT and KC are the only ones, everyone else rents lines from them. [[User:Digifiend|Digifiend]] ([[User talk:Digifiend|talk]]) 14:17, 15 July 2008 (UTC)
+
+* I'd personally read such statistics as being retail sales, in line with the mobile figures (although it's not quite equivalent, as Vodafone and the like can't lock you into an initial contract with them when you first get a mobile 'phone). Annoyingly, Ofcom only split out the fixed line figures for BT and Virgin [http://media.ofcom.org.uk/facts/ here] (BT 52.1%, Virgin 12.7%, rest 35.2% for Q2 2010) although it likely means Virgin are still no. 2.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Aoeuidhtns|Aoeuidhtns]] ([[User talk:Aoeuidhtns|talk]] • [[Special:Contributions/Aoeuidhtns|contribs]]) 22:17, 29 April 2011 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+==BSkyB dispute - merge from [[Virgin 1]] article==
+Discussion ongoing here: [[Talk:Virgin 1#BSkyB dispute]] --[[User:Tghe-retford|&lt;b&gt;tghe&lt;/b&gt;retford]] &lt;small&gt;([[User talk:Tghe-retford|talk]])&lt;/small&gt; 20:58, 6 December 2007 (UTC)
+
+==Fair use rationale for Image:Telewest.gif==
+[[Image:Nuvola apps important.svg|70px|left]]
+'''[[:Image:Telewest.gif]]''' is being used on this article. I notice the image page specifies that the image is being used under [[Wikipedia:Fair use|fair use]] but there is no [[Wikipedia:Fair use rationale guideline|explanation or rationale]] as to why its use in '''this''' Wikipedia article constitutes fair use. In addition to the [[Wikipedia:Image copyright tags/Fair use|boilerplate fair use template]], you must also write out on the image description page a specific explanation or rationale for why using this image in each article is consistent with [[WP:FU|fair use]].
+
+Please go to [[:Image:Telewest.gif|the image description page]] and edit it to include a [[Wikipedia:Fair use rationale guideline |fair use rationale]]. Using one of the templates at [[Wikipedia:Fair use rationale guideline]] is an easy way to insure that your image is in compliance with Wikipedia policy, but remember that you must complete the template. Do not simply insert a blank template on an image page.
+
+If there is  other fair use media, consider checking that you have specified the fair use rationale on the other images used on this page.  Note that any fair use images lacking such an explanation can be deleted one week after being tagged, as described on [[Wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|Media copyright questions page]]. Thank you.&lt;!-- Template:Missing rationale2 --&gt;
+
+[[User:BetacommandBot|BetacommandBot]] ([[User talk:BetacommandBot|talk]]) 08:16, 15 January 2008 (UTC)
+
+:Sorted - [[User:X201|X201]] ([[User talk:X201|talk]]) 09:36, 15 January 2008 (UTC)
+
+== Cleanup ==
+
+From what I've seen... This article is a complete mess! I'll clear this up. [[User:Eth01|Eth01]] ([[User talk:Eth01|talk]]) 17:06, 7 February 2008 (UTC)
+
+== Headquarters ==
+
+Is there really any need for have 3 different types of headquarters? Surely only the Corperate and operational locations are required due to the slightly unusual holding of the company?  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/78.86.131.61|78.86.131.61]] ([[User talk:78.86.131.61|talk]]) 01:15, 15 February 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+::I personally don't see any problem listing all 3. Then again, listing only Hook as HQ would be perfectly adequate? [[User:Eth01|Eth01]] ([[User talk:Eth01|talk]]) 11:07, 22 February 2008 (UTC)
+
+==Net Neutrality Conterversy==
+
+I read Virgin Mobile is going to sell  their broadband speed, should this be placed in the wiki?
+
+[http://stopvirgin.movielol.org/ more info]  &lt;small&gt;&lt;/small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/86.83.228.117|86.83.228.117]] ([[User talk:86.83.228.117|talk]]) 20:58, 15 April 2008 (UTC)
+
+I removed the &quot;Internet Group Anonymous&quot; sentence. there is nothing noteworthy happening there yet. some youtube video with 267 views as of writing this is hardly worth mentioning in here. also: raidfags suck. [[Special:Contributions/77.187.203.26|77.187.203.26]] ([[User talk:77.187.203.26|talk]]) 00:20, 16 April 2008 (UTC)
+
+== Julia Jordan ==
+Why does Julia Jordan link to here?  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/68.37.137.237|68.37.137.237]] ([[User talk:68.37.137.237|talk]]) 03:09, 3 May 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Virgin Media Torrent Scandal ==
+
+Personally I think this is the practical embodiment of the word &quot;Scandal&quot; -
+
+[http://news.bbc.co.uk/1/hi/technology/7444390.stm]
+
+Betraying your customers for the Record companies? Hmm. If someone could get the section started up? --[[User:Nitro378|Nitro378]] ([[User talk:Nitro378|talk]]) 18:08, 19 June 2008 (UTC)
+
+== Copyvio 2008-07-09 ==
+
+This edit[http://en.wikipedia.org/w/index.php?title=Virgin_Media&amp;diff=224544778&amp;oldid=224544493] added {{tl|copyvio}} to the page with no edit summary and incomplete data (no specific URL).  I've rolled it back for the moment.  Please feel free to re-add with sufficient detail and a link to this '''Talk:''' page with useful details.  —[[User:Sladen|Sladen]] ([[User talk:Sladen|talk]]) 13:39, 9 July 2008 (UTC)
+
+- Correct. [[Special:Contributions/82.17.70.141|82.17.70.141]] ([[User talk:82.17.70.141|talk]]) 08:51, 14 July 2008 (UTC)
+
+== BSkyB/virgin issue. ==
+
+&lt;blockquote&gt;&quot;Virgin Media replaced the Sky1, Sky2, Sky Travel, Sky Travel Extra, Sky Sports News and Sky News channel content with a standard message&quot;&lt;/blockquote&gt;umm not quite.
+in a childish stunt, virgin renamed [[Sky News]] as 'Sky Snooze' and [[Sky Sports News]] as 'Old Sky Sports Snooze':&lt;br/&gt;- [http://www.theregister.co.uk/2007/03/01/sky_virgin_spat/ Sky takes ball and goes home]
+&lt;/br&gt;- [http://scotlandonsunday.scotsman.com/virgin/Virgin-shrugs-off-the-loss.3351386.jp Virgin shrugs off the loss of Sky channels]&lt;br/&gt;
+as it stands, the above quote is just wrong. i dont really know how to edit that section but it seems to have missed out a lot about virgin and their immature actions and comments. [[User:Perry mason|Perry mason]] ([[User talk:Perry mason|talk]]) 20:48, 28 July 2009 (UTC)
+
+== DNS Hijacking. ==
+Virgin has started to Hijack DNS web errors and break the DNS standards in order to serve adverts from Yahoo and track the users behaviour via Sageanalyst, according to numerous user reports and this article [http://www.theregister.co.uk/2009/08/18/virgin_advanced/] in the technical press, users are opted automatically in by default and need to specifically opt-out [https://my.virginmedia.com/advancederrorsearch/settings]
+this opt out uses your cable modems mac address (as apposed to cookie based) so is global within your network  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/62.49.217.9|62.49.217.9]] ([[User talk:62.49.217.9|talk]]) 14:26, 18 August 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Virgin rank as broadband provider in UK ==
+
+The following statements cannot be correct:
+
+&quot;Virgin Broadband {{as of|2009|1|alt=currently}} ranks as the UK's third-largest broadband supplier, behind [[TalkTalk]] and [[BT]]. Figures show Virgin to have just over 3.6 Million customers, which would translate as a 35% market share across the UK; its major competitor, [[BT Broadband]], had a 40% market share.&quot;
+
+If BT has 40%, and Virgin has 35%, then the remaining competitors in total can have only 25%, thus Virgin must be the number 2 provider. What is the correct figure for TalkTalk? (above by 24.63.141.95) 
+
+: The problem is that the figures are out of date, and have been doubled so as to represent the market share that Virgin Media would have in the fantasy world where their cable network reached the whole of the UK. VM's true market share is 22%, BT's about 27%. Have amended the paragraph with better figures and a citation. [[User:Bonusballs|Bonusballs]] ([[User talk:Bonusballs|talk]]) 17:34, 11 March 2010 (UTC)
+
+== Cable London - article perfunctorily removed ==
+
+It's rather disappointing that someone unknown, and without the courtesy of discussion, should remove the historical article I had researched and written about Cable London, one of the first and last of the small Cable operators in the 1980s and 1990s.  Foolish of me not to have kept a copy of my work - so many days' work and effort is just wasted owing to such action.  
+
+As a local historian, I know that articles such as my mine have value to a wide range of people and it would have sat quite happily with, in the background and separate from, the article which has superseded it - Virgin Media (the successor company).  Indeed, given that nowhere else is such a company history available, it is plain daft and bad manners to throw it away (delete it) without reference to the originating author (me!).
+
+If Wikipedia is not interested in encouraging, and safeguarding, such work as the article on Cable London, then the author should be told.  Actions such as this - and something similar, related to an entirely different article, happened before do nought to encourage research work and posting articles on Wikipedia.  
+
+Whatever the outcome of this post, I would like my original article back, so that at Least I may have the work to hand.  I will donate a hard copy to the local borough archives who, I know, would appreciate it unlike, it seems, Wikipedia.
+
+I have a life and do not spend my whole day online and Wiki-ing.  Thus, I cannot and do not monitor what happens to my work on Wikipedia.  It was only my responfing to a question about Cable London that alerted me to the article's total disappearance.  
+
+Wikipedia, and those who monitor articles, would do well to embrace good manners and decent research effort.  I am quite happy not to contribute if my work is not wanted but I am certainly not prepared to have my work discarded willy nilly and my time and effort, all well intended, wasted.  So, please own up and let me have my article back!  
+
+[[User:Lestermay|Lestermay]] ([[User talk:Lestermay|talk]]) 00:49, 7 April 2010 (UTC)
+
+:The [[Cable London]] article has been redirected to [[Virgin Media]] by [[User:Cloudbound|Cloudbound]], rather than deleted altogether. Although explanation is given in the edit summary, the actions appear to be in line with [[Wikipedia:Deletion policy#Redirection|Alternatives to deletion]] (a method of response is also outlined). Older versions of the article are still viewable through the page history.[http://en.wikipedia.org/w/index.php?title=Cable_London&amp;oldid=335707838] I would advise you to read [[Wikipedia:Ownership of articles|Ownership of articles]] before claiming that articles are yours. - [[User:Jasmeet 181|Jasmeet_181]] ([[User talk:Jasmeet 181|talk]]) 02:05, 14 April 2010 (UTC)
+
+== Rapidshare block ==
+
+Any news on this? VirginMedia appear to be blocking rapidshare.com [[Special:Contributions/82.44.55.254|82.44.55.254]] ([[User talk:82.44.55.254|talk]]) 23:22, 13 May 2010 (UTC)
+
+== Throttling ==
+
+I have updated the entry regarding the XXL 'unlimited' 50mb package and VM's [http://shop.virginmedia.com/help/traffic-management/traffic-management-policy.html new T&amp;C] which now includes a 75% throttle.[[User:Twobells|Twobells]] ([[User talk:Twobells|talk]])
+
+{{talk archive}}
+	</talkpage>
+</article>

@@ -1,0 +1,8 @@
+<article id="17192282" title=User talk:Ooper>
+	<talkpage id="17192282" title="User talk:Ooper">
+
+
+== April 2008 ==
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to contribute constructively to the encyclopedia, one or more of the external links you added {{#if:Participation (decision making)|to the page [[:Participation (decision making)]]}} do not comply with our [[Wikipedia:External links|guidelines for external links]] and have been removed. [[Wikipedia:What_Wikipedia_is_not#LINK|Wikipedia is not a collection of links]]; nor should it be used for [[Wikipedia:Spam|advertising]] or promotion. Since Wikipedia uses [[nofollow]] tags, external links do not alter search engine rankings. If you feel the link should be added to the article, please discuss it on the {{#if:Participation (decision making)|[[talk:Participation (decision making)|article's talk page]]|article's talk page}} before reinserting it. Please take a look at the [[Wikipedia:Welcome|welcome page]] to learn more about contributing to this encyclopedia. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-spam1 --&gt; [[User:Dekisugi|Dekisugi]] ([[User talk:Dekisugi|talk]]) 08:21, 30 April 2008 (UTC)
+	</talkpage>
+</article>

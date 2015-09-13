@@ -1,0 +1,6 @@
+<article id="10695042" title=Talk:Dice snake>
+	<talkpage id="10695042" title="Talk:Dice snake">
+{{WikiProject Amphibians and Reptiles|class=Start|importance=Low|needs-taxobox=no}}
+{{WikiProject Romania|class=start|importance=Low}}
+	</talkpage>
+</article>

@@ -1,0 +1,12 @@
+<article id="37276524" title=Talk:Peter Sivák>
+	<talkpage id="37276524" title="Talk:Peter Sivák">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=yes
+|class=stub
+|listas=Sivak, Peter}}
+{{WikiProject Slovakia|class=stub|importance=low}}
+{{WikiProject Ice Hockey|class=stub|importance=low}}
+| blp=yes
+}}
+	</talkpage>
+</article>

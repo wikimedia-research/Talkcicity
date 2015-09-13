@@ -1,0 +1,13 @@
+<article id="27168581" title=Talk:Joe LeSage>
+	<talkpage id="27168581" title="Talk:Joe LeSage">
+{{WikiProject Biography
+|living=yes
+|class=Start
+|politician-priority=Low
+|politician-work-group=yes
+|listas=Lesage, Joe
+}}
+{{WikiProject United States|class=Start|importance=Low|LA=yes|LA-importance=}}
+{{DYK talk|15 May|2010|entry=... that former [[Louisiana State Legislature|Louisiana State Senator]] '''[[Joe LeSage]]''' was a [[quarterback]] for the [[LSU Tigers]] and at the age of 27 was named to the [[Louisiana State University|LSU]] Board of Supervisors?}}
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="33967533" title=Talk:W. B. Hibbs and Company Building>
+	<talkpage id="33967533" title="Talk:W. B. Hibbs and Company Building">
+{{WikiProject United States|class=Stub|importance=low|DC=Yes|DC-importance=low}}
+{{WikiProject National Register of Historic Places|class=Stub|importance=Low}}
+	</talkpage>
+</article>

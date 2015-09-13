@@ -1,0 +1,61 @@
+<article id="5074983" title=Talk:Ivar Giaever>
+	<talkpage id="5074983" title="Talk:Ivar Giaever">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=C
+|s&amp;a-work-group=yes
+|needs-photo=yes
+|listas=Giaever, Ivar
+}}
+{{WikiProject Norway|class=C}}
+{{WikiProject Physics|class=C|importance=High|bio=yes}}
+| blp=yes
+}}
+
+
+
+[[John Giaever]] was a distant relative (second cousin once removed), not significant enough to mention in article.  [[User:Gene Nygaard|Gene Nygaard]] 13:30, 12 October 2006 (UTC)
+
+==Global warming skepticism==
+I've been doing some work on improving the article.  Is there an accessible cite for 'Giaever is an enthusiastic global warming skeptic...'?  The one currently given demands login and password.  A bit of googling suggests [http://blogs.nature.com/climatefeedback/2008/07/nobelists_talk_energy.html], which is at least a reasonably mainstream source, but describes Giaever only as a 'self-proclaimed “skeptic” in regard to the importance of global warming'.  (I'm not really sure the sentence belongs in the article at all.)
+
+I think it should be noted. I haven't found what in specific he opposes of in the climate science but it interests a lot of people. [[Special:Contributions/84.250.36.45|84.250.36.45]] ([[User talk:84.250.36.45|talk]]) 12:04, 16 January 2009 (UTC)
+:I've watched the panel discussion - and Gievar is certainly not &quot;an enthusiastic global warming sceptic&quot;. He is sceptical about some of the results - but not to the extent that some people in the blogosphere have blown things up to. --[[User:KimDabelsteinPetersen|Kim D. Petersen]] ([[User talk:KimDabelsteinPetersen|talk]]) 13:29, 16 January 2009 (UTC)
+:: He had certainly signed an open letter to the APS Council asking it to reconsider its recently accepted (and very mainstream) position on the global warming. [[User:Dimawik|Dimawik]] ([[User talk:Dimawik|talk]]) 21:31, 28 June 2009 (UTC)
+:: And yes, he did say that global warming is a &quot;new religion&quot; - I am planning to add this fact back into the article (it was recently deleted for some reason as &quot;unsourced&quot; - although this is an exact quote - and not out of context - an both the audio source and transcripts are very easy to come by), unless someone will explain to me why this should not be quoted. He also openly declared himself a &quot;sceptic&quot;, although did not use the word &quot;enthusiastic&quot; indeed. [[User:Dimawik|Dimawik]] ([[User talk:Dimawik|talk]]) 21:53, 28 June 2009 (UTC)
+
+:I will not comment whether he is skeptics or not, but his quote is interesting:
+:http://dotearth.blogs.nytimes.com/2010/09/17/the-nobel-divide-and-the-climate-divide/
+:&quot;I participated in a panel discussion in the Nobel meeting in Lindau in 2008 where I said the global warming has become a new religion. Please see the statement from the American Physical Society where it is stated: The evidence is incontrovertible; i.e. it can’t be discussed, just like religion. The [society] will discuss the mass of a proton for example, or negative energy, but global warming is incontrovertible…. We have gone through this before: the acid rain used to be a big problem, then the ozone hole took over and Freon is no longer used for refrigeration which costs you dearly, and now finally we have global warming to worry about. But there is NO unusual rise in the ocean level, so what where and what is the big problem?&quot;
+:--[[User:Kittyhawk2|Kittyhawk2]] ([[User talk:Kittyhawk2|talk]]) 14:46, 20 September 2010 (UTC)
+
+Dr. Giaever is a regular participant on [[WAMC]]'s monthly &quot;Science Forum&quot; call-in show, where he plays a reasonable and knowledgeable, if somewhat curmudgeonly, role (just my opinion, obviously).  He has repeatedly stated, there, that he is skeptical of the validity of climate models, arguing that climate is too complex to model accurately.  I don't know enough, either about climate science or the models in question, to add to the discussion, but I can vouch for the opinion that he's expressed.  How might one cite such? -- [[User:Fcy|Fcy]] ([[User talk:Fcy|talk]]) 03:22, 21 August 2011 (UTC)
+
+I'm confused, why do we care if a particle physicist is a global warming skeptic? How is this notable? Just because it's in FoxNews? -[[User:W0lfie|W0lfie]] ([[User talk:W0lfie|talk]]) 16:56, 15 September 2011 (UTC)
+
+:I almost wouldn't respond, but I will presume good faith.  Independent of whether you agree with him or not, or his specific qualifications, a Nobel Laureate taking this position with the intense public scrutiny it creates, and publicly resigning from the APS to object to a statement made by that body is significant.  He is clearly an accomplished scientist.  Restricting valid opinions on climate to climatologists or similar specialists will significantly skew those opinions due to self-selection.  The reader can determine whether Mr. Giaever's knowledge and experience are relevant and his opinions well founded.  In any case, he is a significant scientific figure and he has expressed opinions and taken actions that have received significant public notice.  The inclusion of this is highly appropriate to a biographic entry in an encyclopedia.  If this was a troll, consider it successful and your mission completed.[[User:Packetmonger|Packetmonger]] ([[User talk:Packetmonger|talk]]) 09:12, 16 September 2011 (UTC)
+::the copy of his email circulating refers to minus degrees Kelvin.  Is that the sort of minor mistake that physicists make that can be safely overlooked, in terms of credibility with regards to climate questions? (I'm not a scientist) --[[User:Richardson mcphillips|Richardson mcphillips]] ([[User talk:Richardson mcphillips|talk]]) 14:13, 16 September 2011 (UTC)
+::: That &quot;minus&quot; is actually a tilde &quot;~&quot; which signifies approximately. As in, &quot;I am ~1.8m tall&quot;.[[Special:Contributions/82.71.30.178|82.71.30.178]] ([[User talk:82.71.30.178|talk]]) 17:55, 16 September 2011 (UTC)
+::: And THAT is why this section has no place in this man's biog. When idiots get on Wiki and trash people when they don't seem to have even graduated from high school.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/193.120.161.6|193.120.161.6]] ([[User talk:193.120.161.6|talk]]) 08:03, 26 September 2011 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:::Minus, tilda, pffft.  Who cares when it comes to defending an increasingly irrelevant, discredited ivory tower socioeconomic mythology disguised as a secular reincarnation of neopaganism?  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/99.249.219.158|99.249.219.158]] ([[User talk:99.249.219.158|talk]]) 22:17, 6 February 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Funding source for University of Oslo ==
+
+Can anyone point to a source for this statement? &quot;(funded by the Norwegian oil and gas company, Statoil)&quot;  I doesn't appear to be footnoted.  Also, can anyone point to other cases, outside the climate science area, where the source of funding for an academic position is given such prominence? -- [[User:Chasrmartin|Charlie (Colorado)]] ([[User talk:Chasrmartin|talk]]) 22:46, 14 September 2011 (UTC)
+
+== Removing the synthesis related to the APS  ==
+
+I'm going to remove &quot;While the APS position statement does contain the above sentence, it also contains an exhaustive and nuanced clarification which was accepted more than 1 year before Giaever's resignation.&quot; because it's synthesising a point that has no references to support it. I looked through the APS statements and this is the only one that has an extra commentary added so it is unusual but the thing is that unless we have a reliable source that says that Giaever was objecting to this additional commentary then it is irrelevant to his resignation. [[User:Fromthehill|Fromthehill]] ([[User talk:Fromthehill|talk]]) 02:54, 17 February 2012 (UTC)
+
+:I am not sure what the complaint is. That sentence is completely supported by the reference. 
+
+::''The use of the word &quot;incontrovertible&quot; had already caused debate within the group, so much so that an addendum was added to the statement discussing its use in April, 2010'' [http://www.foxnews.com/scitech/2011/09/14/nobel-prize-winning-physicist-resigns-from-top-physics-group-over-global/ ref]
+
+:and Giaever resigned Sept 2011. [[User:Q Science|Q Science]] ([[User talk:Q Science|talk]]) 08:09, 17 February 2012 (UTC)
+::Firstly who says that it is an &quot;exhaustive and nuanced clarification&quot; ? and then secondly we only need to report what Giaever was objecting to. We're doing original research if we must interpret the timings to make any APS statement relevant. Unless we can find someone reliable that says that the additional commentary is relevant then this must go. [[User:Fromthehill|Fromthehill]] ([[User talk:Fromthehill|talk]]) 11:53, 17 February 2012 (UTC)
+
+:::The source I provided explicitly provides the timing. No original research needed. (I even provided a quote.) Giaever's statements in many sources indicates that that phrase was, and still is, important to him (and many others). The fact that the APS statement was watered down before his resignation is important since does not appear to change Giaever's position. As a result, that information is relevant for readers who want a complete understanding of this controversy. Even though the APS &quot;clarification&quot; is four times longer than the original, I agree that &quot;exhaustive&quot; is a bit of a stretch. [[User:Q Science|Q Science]] ([[User talk:Q Science|talk]]) 20:44, 17 February 2012 (UTC)
+::::To save time here I have removed the bit that is unsourced i.e. the bit &quot;While the APS position statement does contain the above sentence, it also contains an exhaustive and nuanced clarification which was accepted more than 1 year before Giaever's resignation.&quot; because who says that it is an &quot;exhaustive and nuanced clarification&quot;, why is it relevant that it was &quot;was accepted more than 1 year before Giaever's resignation&quot; (APS members AFAIK do not vote on these) ? [[User:Fromthehill|Fromthehill]] ([[User talk:Fromthehill|talk]]) 01:18, 18 February 2012 (UTC)
+	</talkpage>
+</article>

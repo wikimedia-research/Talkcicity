@@ -1,0 +1,10 @@
+<article id="23078369" title=Talk:Alexandrea Yeo>
+	<talkpage id="23078369" title="Talk:Alexandrea Yeo">
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|listas=Yeo, Alexandrea
+|auto=yes
+}}
+	</talkpage>
+</article>

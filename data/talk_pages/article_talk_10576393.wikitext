@@ -1,0 +1,25 @@
+<article id="10576393" title=User talk:Taylordeems>
+	<talkpage id="10576393" title="User talk:Taylordeems">
+'''Welcome!'''
+
+Hello, {{BASEPAGENAME}}, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for your contributions. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Help:Contents|Help pages]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:Article development|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you need help, check out [[Wikipedia:Questions]], ask me on my talk page, or ask your question and then place &lt;code&gt;&lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt;&lt;/code&gt; after the question on your talk page. Again, welcome!&amp;nbsp;&lt;!-- Template:Welcome --&gt;
+
+{{#if:1|=={{{header-text|[[:The Crumpersons]]}}}==}}
+Welcome to [[Wikipedia]]! We welcome your help to create new content, but your recent additions (such as [[:The Crumpersons]]) are considered nonsense. [[Wikipedia:Patent nonsense|Please refrain from creating nonsense articles]]. If you want to test things out, edit the [[Wikipedia:Sandbox|sandbox]] instead. Take a look at the [[Wikipedia:Introduction|welcome]] page if you would like to learn more about contributing to our encyclopedia.&lt;!-- Template:Nonsensepages --&gt;  &lt;font color=&quot;darkgreen&quot;&gt;[[User:Jay Litman|Jay]]&lt;/font&gt;&lt;font color=&quot;black&quot;&gt;[[User:Jay Litman|&amp;dagger;]]&lt;/font&gt;&lt;font color=&quot;darkgreen&quot;&gt;[[User:Jay Litman|Litman]]&lt;/font&gt; 16:31, 10 April 2007 (UTC)
+
+{{#if:1|=={{{header-text|[[:Lovely Lisa]]}}}==}}
+Welcome to [[Wikipedia]]! We welcome your help to create new content, but your recent additions (such as [[:Lovely Lisa]]) are considered nonsense. [[Wikipedia:Patent nonsense|Please refrain from creating nonsense articles]]. If you want to test things out, edit the [[Wikipedia:Sandbox|sandbox]] instead. Take a look at the [[Wikipedia:Introduction|welcome]] page if you would like to learn more about contributing to our encyclopedia.&lt;!-- Template:Nonsensepages --&gt;  [[User:Quietust|Quietust]] 17:42, 12 April 2007 (UTC)
+
+{{#if:1|=={{{header-text|Attacks in the article [[:Hands On Atlanta]]}}}==}}
+Please do not make personal attacks{{{{{subst|}}}#if:Hands On Atlanta|&amp;#32;as you did at [[:Hands On Atlanta]]}}. Wikipedia has a strict policy against [[Wikipedia:No personal attacks|personal attacks]]. [[Wikipedia:Attack_page|Attack pages]] and images '''are not tolerated''' by Wikipedia and are [[Wikipedia:Criteria for speedy deletion|speedily deleted]]. Users who continue to create or repost such pages and images will be [[Wikipedia:Blocking policy|blocked]] from editing Wikipedia. Thank you. &lt;!-- Template:attack --&gt; --[[User:Quietust|Quietust]] 17:44, 12 April 2007 (UTC)
+
+Please stop. If you continue to create inappropriate pages{{{{{subst|}}}#if:{{{1|}}}|&amp;#32;such as [[:{{{1}}}]]}}, you will be [[Wikipedia:Blocking policy|blocked]] from editing Wikipedia. &lt;!-- Template:Test3article (Third level warning) --&gt; &lt;font color=&quot;darkgreen&quot;&gt;[[User:Jay Litman|Jay]]&lt;/font&gt;&lt;font color=&quot;black&quot;&gt;[[User:Jay Litman|&amp;dagger;]]&lt;/font&gt;&lt;font color=&quot;darkgreen&quot;&gt;[[User:Jay Litman|Litman]]&lt;/font&gt; 17:45, 12 April 2007 (UTC)
+	</talkpage>
+</article>

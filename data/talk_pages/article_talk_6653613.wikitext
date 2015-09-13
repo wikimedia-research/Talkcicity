@@ -1,0 +1,10 @@
+<article id="6653613" title=Talk:Tonny Eyk>
+	<talkpage id="6653613" title="Talk:Tonny Eyk">
+{{WikiProject Biography|musician-work-group=yes
+|living=yes
+|class=Stub
+|listas=Eyk, Tonny
+}}
+{{WikiProject Pop music}}
+	</talkpage>
+</article>

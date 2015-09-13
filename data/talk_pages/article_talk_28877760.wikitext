@@ -1,0 +1,6 @@
+<article id="17195912" title=Talk:FC Dunav Ruse>
+	<talkpage id="17195912" title="Talk:FC Dunav Ruse">
+{{football|class=Start|importance=Low}}
+{{WikiProject Bulgaria|class=Start|importance=Low}}
+	</talkpage>
+</article>

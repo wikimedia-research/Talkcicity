@@ -1,0 +1,8 @@
+<article id="42755088" title=Talk:Ernest Fooks>
+	<talkpage id="42755088" title="Talk:Ernest Fooks">
+{{WikiProject Biography|living=no|class=C|listas=Fooks, Ernest|a&amp;e-work-group=yes|a&amp;e-priority=Low}}
+{{WikiProject Slovakia|class=C}}
+{{WikiProject Australia|class=C|importance=Low}}
+{{WikiProject Architecture|class=C|importance=Low}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="36980086" title=Talk:Tristar Productions>
+	<talkpage id="36980086" title="Talk:Tristar Productions">
+{{WikiProject Baseball|class=start|importance=low}}
+	</talkpage>
+</article>

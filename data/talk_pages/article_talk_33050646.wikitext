@@ -1,0 +1,5 @@
+<article id="33050646" title=Talk:Lerbäcken>
+	<talkpage id="33050646" title="Talk:Lerbäcken">
+{{WPSweden|class=stub|importance=low}}
+	</talkpage>
+</article>

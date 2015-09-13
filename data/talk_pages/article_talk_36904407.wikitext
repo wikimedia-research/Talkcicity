@@ -1,0 +1,14 @@
+<article id="36904407" title=Talk:Walter Glaß>
+	<talkpage id="36904407" title="Talk:Walter Glaß">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=no
+|class=Stub
+|listas=Glass, Walter
+|sports-work-group=yes
+|sports-priority=low
+}}
+{{WikiProject Olympics|class=stub}}
+{{WikiProject Skiing and Snowboarding|class=stub}}
+}}
+	</talkpage>
+</article>

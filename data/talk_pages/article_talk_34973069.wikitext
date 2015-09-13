@@ -1,0 +1,44 @@
+<article id="34973069" title=User talk:ELClinkscale>
+	<talkpage id="34973069" title="User talk:ELClinkscale">
+Hi! [[User:NicoleBriggs|NicoleBriggs]] ([[User talk:NicoleBriggs|talk]]) 11:22, 5 March 2012 (UTC)
+
+Watcha! Thank you for your top tips on pet nomenclature. Will let you know the outcome. Voting is scheduled for September 2013. [[User:Katynehammer|Katynehammer]] ([[User talk:Katynehammer|talk]]) 11:25, 5 March 2012 (UTC)
+==Welcome!==
+
+[[Image:Chocolate chip cookies.jpg|thumb|300px|Some cookies to welcome you! [[File:Face-smile.svg|25px]]]] [[Wikipedia:Welcoming committee/Welcome to Wikipedia|Welcome to Wikipedia]], ELClinkscale! Thank you for [[Special:Contributions/ELClinkscale|your contributions]]. I am [[User:MartinPoulter|MartinPoulter]] and have been editing Wikipedia for quite some time, so if you have any questions feel free to leave me a message on [[User talk:MartinPoulter|my talk page]]. You can also check out [[Wikipedia:Questions]] or type {{tlx|helpme}} at the bottom of this page.  Here are some pages that you might find helpful:
+* [[Wikipedia:Introduction|Introduction]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Wikipedia:How to edit a page|How to edit a page]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Article development|How to write a great article]]
+Also, when you post on [[Wikipedia:Talk page|talk pages]] you should [[Wikipedia:Sign your posts on talk pages|sign your name]] using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); that will automatically produce your username and the date.  I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! 
+ 
+[[User:MartinPoulter|MartinPoulter]] ([[User talk:MartinPoulter|talk]]) 16:20, 5 March 2012 (UTC)
+
+== Invitation to tea ==
+
+
+{| style=&quot;margin: 2em 0;&quot;
+|- style=&quot;vertical-align: top;&quot;
+| [[File:WP teahouse logo 2.png|alt=Teahouse logo]]
+| &lt;div style=&quot;background-color:#f4f3f0; color: #393D38; padding: 1em; font-size: 1.1em; width:420px; border-radius:10px;box-shadow:-2px -2px 1px #8e8a78;&quot;&gt;Hello! '''ELClinkscale''',
+you are invited to join other new editors and friendly hosts in the [[WP:Teahouse|Teahouse]]. An awesome place to meet people, ask questions and learn more about Wikipedia. Please join us! [[User:Charlesdrakew|Charles]] ([[User talk:Charlesdrakew|talk]]) 10:25, 6 March 2012 (UTC)&lt;/div&gt;
+|}[[Category:Wikipedians who have received a Teahouse invitation]]
+:I do hope you'll stop by for any help or just to say hello at the Teahouse! I actually work in the museum industry as well :) [[User:SarahStierch|Sarah]] ([[User talk:SarahStierch|talk]]) 16:08, 6 March 2012 (UTC)
+
+== Please fill out our brief Teahouse survey! ==
+
+Hello fellow Wikipedian, the hardworking hosts and staff at [[Wikipedia:Teahouse|Wikipedia:Teahouse]] would like your feedback! We have created a brief [https://wikimedia.qualtrics.com/SE/?SID=SV_3wlaKjW3w4ceU3a survey] meant to help us better understand the experience of new editors on Wikipedia. You are being selected to participate in our survey because you either received an invitation to visit the Teahouse, or edited the Teahouse [[Wikipedia:Teahouse/Questions|Questions]] or [[Wikipedia:Teahouse/Guests|Guests]] page.  
+
+'''Click [https://wikimedia.qualtrics.com/SE/?SID=SV_3wlaKjW3w4ceU3a here] to be taken to the survey site.'''
+
+The survey should take less than 10 minutes to complete. We really appreciate your feedback, and we look forward to your next vist to the Teahouse!
+
+Happy editing, 
+
+[[User:Jtmorgan|J-Mo]], Teahouse host, 15:25, 20 March 2012 (UTC)
+
+Message sent with [[m:Global message delivery|Global message delivery]].
+&lt;!-- EdwardsBot 0173 --&gt;
+	</talkpage>
+</article>

@@ -1,0 +1,15 @@
+<article id="8823899" title=Talk:War of the Sons of Light Against the Sons of Darkness>
+	<talkpage id="8823899" title="Talk:War of the Sons of Light Against the Sons of Darkness">
+{{WikiProject Religious texts|class=Stub}}
+{{WP Israel|class=C|importance=low}}
+
+==Changing &quot;comprised of&quot; to &quot;comprises&quot;==
+According to Merriam Webster (http://www.m-w.com/dictionary/comprises), the compose/constitute form which includes *both* &quot;comprises&quot; and &quot;comprised of&quot; are under criticism for no apparent reason.  It seems strange to change it from one critisized form to another.  Since I'm not married to the word, I'm going to just remove it.
+
+== &quot;congregation of the gods&quot; ==
+
+Considering that the religion this pertains to is monotheistic, should this not read &quot;congregation of God&quot;? -- [[User:Emperorbma|EmperorBMA]]|[[User talk:Emperorbma|&amp;#35441;&amp;#12377;]] 21:44, 27 September 2009 (UTC)
+**Not necessarily - the canonical scriptures (both Jewish and Christian) refer to the &quot;congregation of the gods&quot; on occasion with reference to human rulers or angelic beings under the authority of the one God. This does not indicate henotheism but instead allows for multiple understandings of &quot;gods&quot; - to further convolute matters, &quot;congregation of the gods&quot; or other similar phrases is sometimes used in a derogatory sense (Psalms 82 and 96) indicating the reality of the one God and the unreality of the gods of the other peoples.--[[User:Eleuthero|eleuthero]] ([[User talk:Eleuthero|talk]]) 01:58, 11 January 2010 (UTC)
+***Granted, there are indeed such constructions with the word &quot;elohim.&quot;  In fact, there is one which refers to men as &quot;gods&quot; in the 82nd Psalm.  I do think the eschatological context of the work implies that the ''intended'' reading of &quot;qahal ha elohim&quot; here is actually referring to the Deity proper, however. - [[User:Emperorbma|EmperorBMA]]|[[User talk:Emperorbma|&amp;#35441;&amp;#12377;]] 04:15, 4 March 2010 (UTC)
+	</talkpage>
+</article>

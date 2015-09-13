@@ -1,0 +1,102 @@
+<article id="4543838" title=Talk:U.S. Città di Palermo>
+	<talkpage id="4543838" title="Talk:U.S. Città di Palermo">
+{{ArticleHistory
+|action1=GAN
+|action1date=2006-11-27
+|action1link=Talk:U.S. Città di Palermo#Good article review
+|action1result=Failed
+|action1oldid=89698565
+
+|action2=PR
+|action2date=2007-02-21
+|action2link=Wikipedia:Peer review/U.S. Città di Palermo/archive1
+|action2result=Reviewed
+|action2oldid=107892074
+
+|action3=GAN
+|action3date=2007-05-21
+|action3link=Talk:U.S. Città di Palermo#GA review
+|action3result=Listed
+|action3oldid=131188194
+
+|action4=PR
+|action4date=2007-06-21
+|action4link=Wikipedia:Peer review/U.S. Città di Palermo/archive2
+|action4result=Reviewed
+|action4oldid=139771755
+
+|action5=GAR
+|action5link=Talk:U.S. Città di Palermo/GA1
+|action5date=10:57, 25 February 2010 (UTC)
+|action5result=delisted
+|action5oldid=346272440
+
+|currentstatus=DGA
+|topic=Everydaylife}}
+
+{{football|class=B|importance=mid|Italy=yes}}
+{{WikiProject Sicily|importance=high|class=B|}}
+
+== US Palermo Founding Year ==
+
+Conflicting dates concerning the foundation of US Palermo. http://www.channel4.com/sport/football_italia/palermo.html says that Palermo was founded in 1900 while I tend to believe http://www.corrieredellosport.it/sportnetwork/calcio/seriea/pdf/palermo.pdf saying 1898.
+
+:No doubt, it's been founded in 1898: [http://www.palermorosanero.it/palermo/storia_palermo_100_anni.asp]. --[[User:Angelo.romano|Angelo]] 20:00, 10 July 2006 (UTC)
+
+::But it currently says 1900, should we change it?  [[User:Pippu d'angelo|πίππύ δ'Ω∑]] - [[:scn:User talk:Pippu d'Angelo|&lt;small&gt;(waarom? jus'b'coz!)&lt;/small&gt;]] 00:57, 6 November 2006 (UTC)
+
+Lately I've looked around for some source, in an attempt to expand this article, and I've found there are two different opinions on it (they're described in the article itself by the way). The founding statute says 1900, but there exist proofs of the existance of the same football club already in 1898. So, it is 1898, and I'm going to fix it right now. --[[User:Angelo.romano|Angelo]] 01:07, 6 November 2006 (UTC)
+
+:I've read several books and articles, and the great majority of this state the club foundation date as November 1, 1900; the US Palermo official website also states the official foundation year as 1900. So I changed it. --[[User:Angelo.romano|Angelo]] 03:51, 19 June 2007 (UTC)
+
+I know this is an oldish debate, but; if there is evidence to suggest that Palermo were indeed founded in 1898, then that is the date that should be used, but at the same time, mention in the article that it is commonly claimed to be 1900. Through research I've found that Genoa for example, only offically became a football club in 1897, if Palermo started just a year after that it would make them one of the oldest in all of Italian football. - [[User:Daddy Kindsoul|The Daddy]] 09:57, 30 August 2007 (UTC)
+
+==Good article review==
+This article is most of the way there, but isn't there yet. It is stable, and generally broad in coverage, but there are two main issues: there are several uncited statements about controversial issues, and there is a trend of [[Wikipedia:Recentism|recentism]]. Given Palermo's recent success, some focus on recent seasons is to be expected, but nearly half the history covers the last season and a half. Individual incidents such as the off-field events of the West Ham match are covered in excessive detail. In terms of statements needing citations or rewording, inferring that the referee favoured Palermo's opponents in their cup final appearances should not be done, even if it is a common view among Palermo supporters. Terms such as &quot;shockingly replaced&quot; should also be avoided. Any statement that could potentially be challenged should have reference cited.
+
+In addition, an image, while not a requirement, would be beneficial. Please feel free to ask any questions on my talk page. [[User:Oldelpaso|Oldelpaso]] 22:43, 27 November 2006 (UTC)
+
+==Managerial history==
+Does anybody have complete information on this?... the presidential part isn't too mad, but managers needs work. - [[User:Deathrocker|Deathrocker]] 14:38, 9 February 2007 (UTC)
+: [http://panormitansite.altervista.org/Allenatori.htm]. Anyway, please leave the section as it was before your edits: they were just a few because that was a &quot;notable former managers&quot; section. The article was designed according to the [[Wikipedia:WikiProject Football/Clubs]] guidelines. Thanks. --[[User:Angelo.romano|Angelo]] 16:46, 9 February 2007 (UTC)
+
+==When will the idiocy end?==
+Francis Escort proven sockpuppet of the indef-blocked user Panairjdde[http://en.wikipedia.org/wiki/Wikipedia:Requests_for_checkuser/Case/Kwame_Nkrumah] seems to be on an endless campaign to troll this article. Put quite simply Panairjdde, stop it. It won't be tollerated... the home shirt is significantly black in parts to warrant it been shown in the image... unless of course you are going to go to the [[Internazionale]] and [[AC Milan]] articles to remove the black from their shirts as well.
+
+I created part of the image for the third kit also, so you can stop removing that. As a blocked user, you shouldn't be editing Wikipedia, period. - [[User:Deathrocker|Deathrocker]] 17:58, 24 March 2007 (UTC)
+
+:I won't comment on the blocked user part, even if it could be considered a personal attack. As regards the kit, you should know that it was discussed on [[Template_talk:Football_kit]] that the kits should depict generic information on the club jersey/shors/socks, and not the actual design, which changes every year. I would remember that you are under a revert parole, too.--[[User:Francis Escort|Francis Escort]] 19:29, 24 March 2007 (UTC)
+
+''Note'': Francis Escort aka Panairjdde is now blocked. Ringrazi il dio. - [[User:Deathrocker|Deathrocker]] 22:52, 24 March 2007 (UTC)
+
+
+==GA Review==
+I'm going to pass this article as it meets the GA criteria, just one small thing you could address for me, please:
+*In the history section, the sub-headings are there for every 3 paragraphs or so, but there isn't one for the first group of paragraphs, why not have a sub-heading there such as &quot;Foundation&quot;?
+
+Other then that minor point it's a good article and is well written, well done. --[[User:Skully Collins|Phill]] &lt;sup&gt;[[User:Skully Collins|talk]] [[Special:Contributions/Skully_Collins|Edits]]&lt;/sup&gt; 09:40, 21 May 2007 (UTC)
+:You're right, I'm going to fix it. Thanks. --[[User:Angelo.romano|Angelo]] 13:52, 21 May 2007 (UTC)
+
+== new transfer... can someone plz update ==
+
+captain Andrea Barzagli, has transfered to Wolfsberg despite much speculation that he would tranfer to Fiorentina.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/86.133.147.183|86.133.147.183]] ([[User talk:86.133.147.183|talk]]) 02:06, 1 June 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:Neither Wolfsburg nor Palermo have announced to have finalized this transfer, so it just cannot be included here. --[[User:Angelo.romano|Angelo]] ([[User talk:Angelo.romano|talk]]) 23:31, 2 June 2008 (UTC)
+
+{{/GA1}}
+
+== Orphaned references in [[:U.S. Città di Palermo]] ==
+
+I check pages listed in [[:Category:Pages with incorrect ref formatting]] to try to fix reference errors. One of the things I do is look for content for [[User:AnomieBOT/docs/OrphanReferenceFixer|orphaned references]] in wikilinked articles. I have found content for some of [[:U.S. Città di Palermo]]'s orphans, the problem is that I found more than one version. I can't determine which (if any) is correct for ''this'' article, so I am asking for a sentient editor to look it over and copy the correct ref content into this article.
+
+&lt;b&gt;Reference named &quot;struna_varese&quot;:&lt;/b&gt;&lt;ul&gt;
+&lt;li&gt;From [[Aljaž Struna]]: {{cite news |url=http://palermocalcio.it/it/1213/news/scheda.php?id=26883 |publisher=US Palermo |language=Italian |accessdate=4 July 2012 |date=4 July 2012 |title=Acquistato Struna dal Koper, andrà in prestito al Varese |trans_title=Aljaž Struna officially a Palermo player, he moved on loan to Varese}}&lt;/li&gt;
+&lt;li&gt;From [[2012–13 U.S. Città di Palermo season]]: {{cite news |accessdate=8 July 2012 |date=4 July 2012 |language=Italian |publisher=US Città di Palermo |url=http://palermocalcio.it/it/1213/news/scheda.php?id=26883 |title=ACQUISTATO STRUNA DAL KOPER ANDRA' IN PRESTITO AL VARESE |trans_title=STRUNA IN FROM KOPER, WILL GO ON LOAN TO VARESE}}&lt;/li&gt;
+&lt;/ul&gt;
+
+I apologize if any of the above are effectively identical; I am just a simple computer program, so I can't determine whether minor differences are significant or not. [[User:AnomieBOT|AnomieBOT]][[User talk:AnomieBOT|&lt;font color=&quot;#888800&quot;&gt;⚡&lt;/font&gt;]] 06:42, 8 August 2012 (UTC)
+
+
+==Shirts==
+the black shirt is the away shirt and the white shirt is the third, as you look in the store of team's official website. 10/set/2012  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/95.237.61.54|95.237.61.54]] ([[User talk:95.237.61.54|talk]]) 11:06, 10 September 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

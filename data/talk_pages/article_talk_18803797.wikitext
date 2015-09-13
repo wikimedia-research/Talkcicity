@@ -1,0 +1,6 @@
+<article id="18803797" title=User talk:74.167.86.124>
+	<talkpage id="18803797" title="User talk:74.167.86.124">
+
+[[Image:Information.svg|25px]] Welcome, and thank you for experimenting with Wikipedia. Your test {{#if:Baseball|on the page [[:Baseball]]}} worked, and it has been [[Help:Reverting|reverted]] or removed. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|this encyclopedia]]. If you would like to experiment further, please use the [[Wikipedia:Sandbox|sandbox]]. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-test1 --&gt; [[User:M0M3NTUM|M0M3NTUM]] ([[User talk:M0M3NTUM|talk]]) 01:27, 11 August 2008 (UTC)
+	</talkpage>
+</article>

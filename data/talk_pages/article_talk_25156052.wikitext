@@ -1,0 +1,6 @@
+<article id="25156052" title=Talk:Antigoni Douka>
+	<talkpage id="25156052" title="Talk:Antigoni Douka">
+{{WikiProject Soap Operas | class=stub }}
+{{WikiProject Fictional characters|class=stub}}
+	</talkpage>
+</article>

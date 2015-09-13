@@ -1,0 +1,13 @@
+<article id="28535187" title=User talk:114.76.255.227>
+	<talkpage id="28535187" title="User talk:114.76.255.227">
+
+
+==August 2010==
+[[Image:Information.png|25px]] Welcome to Wikipedia. While everyone is welcome to contribute to Wikipedia, at least one of your contributions, such as your [http://en.wikipedia.org/w/index.php?diff=380879769 recent edit] to [[:Tibet]], did not appear to be constructive and was '''automatically [http://en.wikipedia.org/w/index.php?diff=next&amp;oldid=380879769 reverted]''' by [[User:DASHBot|DASHBot]]. 
+* Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. Note that human editors do monitor recent changes to Wikipedia articles, and [[WP:ADMINS|administrators]] have the ability to [[WP:BLOCK|block]] users from editing if they repeatedly engage in [[WP:vandalism|vandalism]].
+* DASHBot produces few false positives, but they do happen. If you believe the bot has reverted your edit wrongly, it is helpful if you report the error so the bot does not make the same mistake again.  Please:
+::* [http://en.wikipedia.org/w/index.php?title=User:DASHBot/False_Postive_Reports&amp;action=edit&amp;section=new&amp;preloadtitle=False%20positive%20report%20from%20%7B%7Bsubst%3AREVISIONUSER%7D%7D%20%28Diff%3A380879769%29 Click here] to  submit a false positive report.
+::* [{{fullurl:{{FULLPAGENAME}}|action=edit}} Edit this page] and remove this message.
+Thanks, &lt;!-- Template:uw-vandalism1 --&gt; [[User:DASHBot/Anti-Vandalism|DASHBot Anti-Vandalism]] ([[User talk:DASHBot/Anti-Vandalism|talk]]) 08:43, 25 August 2010 (UTC)
+	</talkpage>
+</article>

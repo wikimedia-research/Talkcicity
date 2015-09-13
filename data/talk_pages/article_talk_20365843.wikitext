@@ -1,0 +1,23 @@
+<article id="11097978" title=Talk:Wetworld>
+	<talkpage id="11097978" title="Talk:Wetworld">
+{{WikiProjectBannerShell|1=
+{{WikiProject Doctor Who|class=Stub|importance=Low}}
+{{WikiProject Novels|class=Stub|importance=Low|sf-task-force=yes}}
+{{WikiProject BBC|class=stub}}
+}}
+{{plot2}}
+
+==Plot section removed==
+A simple Google search showed that the whole of the plot section had been stolen from various original sources, so I've removed it.
+
+If you want to add a plot section, please:
+* keep it brief (a few sentences)
+* include all ''important'' plot points (don't omit something simply because it's a &quot;spoiler&quot;.
+* use your own words. --[[User talk:Tony Sidaway|Tony Sidaway]] 16:08, 19 November 2007 (UTC)
+
+
+== Copyright problem removed ==
+
+One or more portions of this article duplicated other source(s). {{#if:|The material was copied from: {{{url}}}.|}} Infringing material has been rewritten or removed and must not be restored, ''unless'' it is duly released under a compatible license. (For more information, please see [[Wikipedia:COPYRIGHT#Using_copyrighted_work_from_others|&quot;using copyrighted works from others&quot;]] if you are not the copyright holder of this material, or [[Wikipedia:Donating copyrighted materials|&quot;donating copyrighted materials&quot;]] if you are.) For [[Wikipedia:Copyrights|legal reasons]], we cannot accept [[Wikipedia:Copyrights|copyrighted]] text or images borrowed from other web sites or published material; such additions will be deleted. Contributors may use copyrighted publications as a source of ''information'', but not as a source of ''sentences'' or ''phrases''. Accordingly, the material ''may'' be rewritten, but only if it does not infringe on the copyright of the original ''or'' [[Wikipedia:Plagiarism|plagiarize]] from that source. Please see our [[Wikipedia:NFC#Text|guideline on non-free text]] for how to properly implement limited quotations of copyrighted text. Wikipedia takes copyright violations very seriously, and persistent violators '''will''' be [[Wikipedia:Blocking policy|blocked]] from editing. While we appreciate contributions, we must require all contributors to understand and comply with these policies. Thank you. &lt;!-- Template:Cclean --&gt; &lt;!--Signature--&gt;'''''[[User:Theleftorium|&lt;font color=&quot;AE0937&quot;&gt;The&lt;/font&gt;]][[User talk:Theleftorium|&lt;font color=&quot;AD4740&quot;&gt;left&lt;/font&gt;&lt;font color=&quot;C6454E&quot;&gt;orium&lt;/font&gt;]]''''' 16:33, 11 February 2010 (UTC)
+	</talkpage>
+</article>

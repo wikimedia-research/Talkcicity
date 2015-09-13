@@ -1,0 +1,36 @@
+<article id="10608686" title=Talk:Fredrik Hasselqvist>
+	<talkpage id="10608686" title="Talk:Fredrik Hasselqvist">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=no
+|class=Start
+|s&amp;a-work-group=yes
+|listas=Hasselquist, Fredrik
+}}
+{{WikiProject Palestine|class=start|importance=low}}
+{{WikiProject Sweden|class=start|importance=low}}
+}}
+
+
+
+== Name ==
+
+Why is his name spelled with a &quot;c&quot;. His name is Fredrik with a &quot;k&quot;. English version or not does not change the spelling of a mans name...
+Vote for changing the title of the article to: Fredrik Hasselquist  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/78.79.163.214|78.79.163.214]] ([[User talk:78.79.163.214|talk]]) 00:34, 29 February 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+The name is spelled correctly in the external sources. That should be enough.
+
+== Requested move ==
+&lt;div class=&quot;boilerplate&quot; style=&quot;background-color: #efe; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px dotted #aaa;&quot;&gt;&lt;!-- Template:RM top --&gt;
+:''The following discussion is an archived discussion of a [[WP:RM|requested move]]. &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made in a new section on the talk page. No further edits should be made to this section. ''
+
+The result of the move request was: '''moved to [[Fredrik Hasselqvist]]'''. [[User:Favonian|Favonian]] ([[User talk:Favonian|talk]]) 09:50, 7 March 2012 (UTC)
+
+----
+
+[[Fredric Hasselquist]] → [[Fredrik Hasselqvist]] – The mans name is Fredrik Hasselquist, as shown in all external sources, as well as in the Swedish version of Wikipedia. Spelling with &quot;c&quot; instead of &quot;k&quot; has no purpose for English speaking readers here and may even cause confusion as all sources available spell it with &quot;k&quot;.  As oulined in [[Wikipedia:Naming conventions|Wikipedia: Naming conventions]]: ''The most common name for a subject, as determined by its prevalence in reliable English-language sources, is often used as a title(...)'' and ''If there are too few English-language sources to constitute an established usage, follow the conventions of the language appropriate to the subject (German for German politicians, Portuguese for Brazilian towns, and so on)''. [[User:Hazzelq|Hazzelq]] ([[User talk:Hazzelq|talk]]) 01:35, 29 February 2012 (UTC)
+
+Actually, in the source #1 Linneus does spell it with a ''c'' instead of a ''k''. Probably due to some variety being used in the 17'th century. Fact remains the Swedes do spell his name with a ''k''.[[User:Hazzelq|Hazzelq]] ([[User talk:Hazzelq|talk]]) 02:15, 29 February 2012 (UTC)
+*'''Support''' per nom. [[User:HandsomeFella|HandsomeFella]] ([[User talk:HandsomeFella|talk]]) 10:59, 5 March 2012 (UTC)
+:''The above discussion is preserved as an archive of a [[WP:RM|requested move]].  &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made in a new section on this talk page. No further edits should be made to this section.&lt;/div&gt;&lt;!-- Template:RM bottom --&gt;
+	</talkpage>
+</article>

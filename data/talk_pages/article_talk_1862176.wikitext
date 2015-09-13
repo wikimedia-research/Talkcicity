@@ -1,0 +1,13 @@
+<article id="1862176" title=Talk:STS-97>
+	<talkpage id="1862176" title="Talk:STS-97">
+{{WikiProject Spaceflight|class=C|importance=Mid|HSF=yes|HSF-importance=Mid}}
+
+
+
+==Untitled==
+Why is the mission description in the future tense if this is a past event? --[[User:BD2412|&lt;font style=&quot;background: darkgreen&quot; color=#FFC000&gt;&amp;nbsp;BD&lt;/font&gt;&lt;font style=&quot;background: green&quot; color=#FFC000&gt;24&lt;/font&gt;&lt;font style=&quot;background: darkgreen&quot; color=#FFC000&gt;12&lt;/font&gt;]] [[User talk:BD2412|&lt;sup&gt;&lt;font color=&quot;DarkGreen&quot;&gt;thi&lt;/font&gt;&lt;font color=&quot;red&quot;&gt;&lt;b&gt;m&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;DarkGreen&quot;&gt;k&lt;/font&gt;&lt;/sup&gt;]] 07:30, 2005 May 9 (UTC)
+
+: It's a copy/paste off a NASA web site that was posted before the launch actually happened. I am currently going through the STS articles and fixing them of this. Any help would be appreciated. -[[User:Jetman123|Jetman123]] 08:40, 10 September 2006 (UTC)
+:: Wiki to-do activity is fixing this. [[User:LanceBarber|LanceBarber]] ([[User talk:LanceBarber|talk]]) 03:28, 11 February 2008 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,10 @@
+<article id="31545021" title=Talk:Hofstadter Committee>
+	<talkpage id="31545021" title="Talk:Hofstadter Committee">
+{{WikiProjectBannerShell|1=
+{{WikiProject Law|class=Start|importance=Low}}
+{{WikiProject History}}
+{{WikiProject New York City|class=Start|importance=}}
+{{WikiProject United States|class=Start|auto=Inherit|importance=Low}}
+}}
+	</talkpage>
+</article>

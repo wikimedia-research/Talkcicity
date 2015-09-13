@@ -1,0 +1,14 @@
+<article id="21995359" title=Talk:Julie Agoos>
+	<talkpage id="21995359" title="Talk:Julie Agoos">
+{{WPBiography
+|living=yes
+|class=Stub
+|a&amp;e-priority=low
+|a&amp;e-work-group=yes
+|listas=Agoos, Julie
+|needs-infobox=yes
+|needs-photo=yes
+}}
+{{WikiProject Women writers|importance=|class=stub|auto=stub}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="29301285" title=Talk:Antosia>
+	<talkpage id="29301285" title="Talk:Antosia">
+{{WikiProject Ukraine|class=stub|importance=}}
+	</talkpage>
+</article>

@@ -1,0 +1,10 @@
+<article id="10486029" title=Talk:John Trevor (died 1410)>
+	<talkpage id="10486029" title="Talk:John Trevor (died 1410)">
+{{WikiProject Biography
+|living=no
+|class=Stub
+|listas=Trevor, John, II
+}}
+{{WikiProject Wales|class=Stub|importance=Low}}
+	</talkpage>
+</article>

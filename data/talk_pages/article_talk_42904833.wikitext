@@ -1,0 +1,5 @@
+<article id="42904833" title=Talk:Machtey Award>
+	<talkpage id="42904833" title="Talk:Machtey Award">
+{{WikiProject Awards|importance=low|auto=yes}}
+	</talkpage>
+</article>

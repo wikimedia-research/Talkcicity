@@ -1,0 +1,13 @@
+<article id="21058569" title=Talk:Dasha Astafieva>
+	<talkpage id="21058569" title="Talk:Dasha Astafieva">
+{{oldafdfull| date = 20 April 2010 (UTC) | result = '''keep''' | page = Derya Astafava}}
+
+{{WPBiography
+|living=yes
+|class=Stub
+|auto=yes
+|listas=Astafieva, Dasha
+}}
+{{Pornproject|class=Start|importance=low}}
+	</talkpage>
+</article>

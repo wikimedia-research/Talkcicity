@@ -1,0 +1,16 @@
+<article id="23142517" title=Talk:Igor Mordvinov>
+	<talkpage id="23142517" title="Talk:Igor Mordvinov">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|sports-work-group=yes
+|listas=Mordvinov, Igor
+|auto=yes
+}}
+{{WikiProject Football|class=Stub}}
+{{WikiProject Russia|class=Stub|importance=Low|sport=yes}}
+| blp=yes
+}}
+	</talkpage>
+</article>

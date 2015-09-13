@@ -1,0 +1,46 @@
+<article id="36567611" title=User talk:Syrup won't stop em>
+	<talkpage id="36567611" title="User talk:Syrup won't stop em">
+== Replaceable fair use File:Amanda Downum by Katie Cowden.jpg ==
+[[File:Ambox warning.svg|32px|left]]
+Thanks for uploading '''[[:File:Amanda Downum by Katie Cowden.jpg]]'''. I noticed the description page specifies that the media is being used under a claim of [[Wikipedia:Non-free content|fair use]], but its use in Wikipedia articles fails the [[Wikipedia:Non-free content criteria|first non-free content criterion]] in that it illustrates a subject for which a freely licensed media could be found or created that provides substantially the same information or which could be adequately covered with text alone. If you believe this media is not replaceable, please:
+
+# Go to [[:File:Amanda Downum by Katie Cowden.jpg|the media description page]] and edit it to add {{tlx|di-replaceable fair use disputed}}, '''without deleting the original replaceable fair use template'''.
+# On [[File talk:Amanda Downum by Katie Cowden.jpg|the image discussion page]], write the reason why this image is not replaceable at all.
+
+Alternatively, you can also choose to replace this non-free media by finding freely licensed media of the same subject, [[Wikipedia:Requesting copyright permission|requesting that the copyright holder release this (or similar) media under a free license]], or by taking a picture of it yourself.
+
+If you have uploaded other non-free media, consider checking that you have specified how these images fully satisfy our non-free content criteria. You can find a list of description pages you have edited by clicking on &lt;span class=&quot;plainlinks&quot;&gt;[{{fullurl:Special:Contributions|target=Syrup_won%27t_stop_em&amp;namespace=6}} this link]&lt;/span&gt;. Note that even if you follow steps 1 and 2 above, non-free media which could be replaced by freely licensed alternatives will be deleted 2 days after this notification (7 days if uploaded before 13 July 2006), per the [[Wikipedia:Non-free content criteria|non-free content policy]].  If you have any questions please ask them at the [[Wikipedia:Media copyright questions|Media copyright questions page]]. Thank you. &lt;!-- Template:di-replaceable fair use-notice --&gt; [[User:DMacks|DMacks]] ([[User talk:DMacks|talk]]) 15:40, 28 July 2012 (UTC)
+== Your submission at [[Wikipedia:Articles for creation|Articles for creation]] ==
+&lt;div style=&quot;border:solid 1px #9accf6;background:#f1f9ff;padding:1em;padding-top:0.5em;padding-bottom:0.5em;width:20em;color:black;margin-bottom: 1.5em;margin-left: 1.5em;width: 90%;&quot;&gt; [[File:AFC-Logo_Decline.svg|50px|left]]Thank you for your recent submission to [[WP:AFC|Articles for Creation]]. Your article submission has been reviewed.  Unfortunately, it has not been accepted at this time. Please view your submission to see the comments left by the reviewer. You are welcome to edit the submission to address the issues raised, and resubmit once you feel they have been resolved.&lt;br&gt;
+&lt;div class=&quot;plainlinks&quot;&gt;
+* If you would like to continue working on the submission, you can find it at [[Wikipedia&amp;#32;talk:Articles for creation/Amanda Downum]].
+* To edit the submission, click on the &quot;Edit&quot; tab at the top of the window.
+* If you need any assistance, you can ask for help at the [[Wikipedia:WikiProject Articles for creation/Help desk|help desk]], via [http://webchat.freenode.net/?channels=wikipedia-en-help real time chat with helpers], or on the &lt;span class=&quot;noprint plainlinks&quot;&gt;[{{fullurl:User_talk:{{urlencode:Txcrossbow|WIKI}}|action=edit&amp;section=new}} reviewer's talk page]&lt;/span&gt;
+:Thank you for your contributions to Wikipedia! ''Cheers! [[User:Txcrossbow|Stella]]''  [[User talk:Txcrossbow|&lt;sup&gt;&lt;small&gt;BATPHONE&lt;/small&gt;&lt;/sup&gt;]][[Special:Contributions/Txcrossbow|&lt;sub style=&quot;margin-left:-8.3ex;&quot;&gt;&lt;small&gt;GROOVES&lt;/small&gt;&lt;/sub&gt;]] 17:26, 28 July 2012 (UTC)&lt;/div&gt;&lt;!--Template:Afc decline--&gt;&lt;/div&gt;
+==Non-free rationale for File:Amanda Downum by Katie Cowden.jpg==
+[[File:Copyright-problem.svg|64px|left|alt=|link=]]
+Thanks for uploading or contributing to '''[[:File:Amanda Downum by Katie Cowden.jpg]]'''. I notice the file page specifies that the file is being used under [[WP:NFCC|non-free content criteria]], but there is not a suitable explanation or rationale as to why each specific use in Wikipedia is acceptable. Please go to [[:File:Amanda Downum by Katie Cowden.jpg|the file description page]], and edit it to include a [[Wikipedia:Non-free use rationale guideline|non-free rationale]].
+
+If you have uploaded other non-free media, consider checking that you have specified the non-free rationale on those pages too. You can find a list of 'file' pages you have edited by clicking on the &quot;[[Special:Contributions/Syrup won&amp;#39;t stop em|my contributions]]&quot; link (it is located at the very top of any Wikipedia page when you are logged in), and then selecting &quot;File&quot; from the dropdown box. Note that any non-free media lacking such an explanation will be deleted one week after they have been tagged, as described on [[Wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. If the file is already gone, you can still make a [[Wikipedia:Requests for undeletion|request for undeletion]] and ask for a chance to fix the problem.&lt;!-- Template:You can request undeletion --&gt; If you have any questions, please ask them at the [[Wikipedia:media copyright questions|Media copyright questions page]]. Thank you.&lt;!-- Template:Di-no fair use rationale-notice --&gt; [[User:Eeekster|Eeekster]] ([[User talk:Eeekster|talk]]) 17:31, 28 July 2012 (UTC)
+==[[Wikipedia talk:Articles for creation/Amanda Downum]] concern==
+Hi there, I'm [[User:HasteurBot|HasteurBot]]. I just wanted to let you know that [[Wikipedia talk:Articles for creation/Amanda Downum]], a page you created, has not been edited in at least 180 days.  The Articles for Creation space is not an indefinite storage location for content that is not appropriate for articlespace.
+
+If your submission is not edited soon, it could be nominated for deletion.  If you would like to attempt to save it, you will need to improve it.
+
+You may request [[WP:USERFY|Userfication]] of the content if it meets requirements.
+
+If the deletion has already occured, instructions on how you may be able to retrieve it are available at [[WP:REFUND/G13]].
+
+Thank you for your attention. [[User:HasteurBot|HasteurBot]] ([[User talk:HasteurBot|talk]]) 14:20, 20 August 2013 (UTC)
+==Your article submission [[Wikipedia talk:Articles for creation/Amanda Downum|Amanda Downum]]==
+[[File:Information icon4.svg|48px|left|alt=|link=]]
+
+Hello Syrup won&amp;#39;t stop em. It has been over six months since you last edited your article submission, entitled [[Wikipedia talk:Articles for creation/Amanda Downum|Amanda Downum]]. 
+
+The page will shortly be deleted. If you plan on editing the page to address the issues raised when it was declined and resubmit it, simply {{edit|Wikipedia talk:Articles for creation/Amanda Downum|edit the submission}} and remove the {{tlc|db-afc}} or {{tlc|db-g13}} code. Please note that Articles for Creation is not for indefinite hosting of material deemed unsuitable for the encyclopedia [[WP:mainspace|mainspace]].
+
+If your submission has already been deleted by the time you get there, and you want to retrieve it, copy this code: &lt;code&gt;&lt;nowiki&gt;{{subst:Refund/G13|&lt;/nowiki&gt;Wikipedia talk:Articles for creation/Amanda Downum&lt;nowiki&gt;}}&lt;/nowiki&gt;&lt;/code&gt;, paste it in the edit box at &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/w/index.php?title=Wikipedia:Requests_for_undeletion&amp;action=edit&amp;section=new this link]&lt;/span&gt;, click &quot;Save&quot;, and an administrator will in most cases undelete the submission.
+
+Thanks for your submission to Wikipedia, and happy editing. &lt;!-- Template:Db-afc-notice --&gt; [[User:HasteurBot|HasteurBot]] ([[User talk:HasteurBot|talk]]) 16:52, 1 December 2013 (UTC)
+	</talkpage>
+</article>

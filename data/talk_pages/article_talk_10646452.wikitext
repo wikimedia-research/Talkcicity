@@ -1,0 +1,16 @@
+<article id="10646452" title=Talk:Davorin Dolar>
+	<talkpage id="10646452" title="Talk:Davorin Dolar">
+{{WikiProject Biography
+|living=no
+|class=Stub
+|s&amp;a-work-group=yes
+|listas=Dolar, Davorin
+}}
+{{WikiProject Slovenia|class=stub|importance=low}}
+
+== gaining notoriety in the field ==
+
+Does &quot;gaining notoriety in the field&quot; really mean this and if so, why? Or should it be &quot;gaining notability in the field&quot;? --[[User:Bduke|&lt;span style=&quot;color:#002147;&quot;&gt;'''Bduke'''&lt;/span&gt;]]  [[User_talk:Bduke|&lt;span style=&quot;color:#002147;&quot;&gt;'''(Discussion)'''&lt;/span&gt;]] 06:59, 6 July 2015 (UTC)
+:Probably just a bad translation from Slovenian. I'll fix it. [[User:Doremo|Doremo]] ([[User talk:Doremo|talk]]) 07:07, 6 July 2015 (UTC)
+	</talkpage>
+</article>

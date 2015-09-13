@@ -1,0 +1,32 @@
+<article id="8635378" title=Talk:Ludlow epoch>
+	<talkpage id="8635378" title="Talk:Ludlow epoch">
+{{WikiProject Geology
+|class=redirect
+|importance=Low
+|attention= 
+|needs-infobox= 
+|peer-review= 
+|old-peer-review= 
+}}
+
+==[[User:AMK152|AMK152's]] Geotimeboxes==
+[[User:AMK152|AMK152]] proposed in edits of 27 December 2006 a geotimebox for this article as follows:
+
+{{Geotimebox|Eon=yes|Era=yes|Period=yes|Epoch=yes
+|eb= Proterozoic
+|e= Phanerozoic
+|ea= 
+|erb= Neoproterozoic
+|er= Paleozoic
+|era= Mesozoic
+|pb= Ordovician
+|p= Silurian
+|pa= Devonian
+|epb= Wenlock epoch
+|ep= Ludlow epoch
+|epa= Pridoli
+}}
+
+I feel that the box information that is appropriate for the article is already in the footer, and that other extraneous information, such as previous eons, can be supplied where important, by links from the text.  I removed the geotimebox and left the footer, pending discussion.  --[[User:Bejnar|Bejnar]] 23:30, 27 December 2006 (UTC)
+	</talkpage>
+</article>

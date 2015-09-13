@@ -1,0 +1,7 @@
+<article id="39291462" title=User talk:105.229.119.58>
+	<talkpage id="39291462" title="User talk:105.229.119.58">
+== May 2013 ==
+[[File:Information.svg|25px|alt=Information icon]] Please refrain from making unconstructive edits to Wikipedia, as you did at [[:Gift of the Givers]]. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]] or removed. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Thank you.&lt;!-- Template:uw-vandalism2 --&gt;&lt;!-- Template:uw-cluebotwarning2 --&gt; [[User:Dodger67|Roger (Dodger67)]] ([[User talk:Dodger67|talk]]) 17:10, 3 May 2013 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

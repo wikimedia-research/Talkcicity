@@ -1,0 +1,8 @@
+<article id="38812324" title=User talk:50.100.45.221>
+	<talkpage id="38812324" title="User talk:50.100.45.221">
+&lt;!--Template:IAV!--&gt;
+== March 2013 ==
+
+[[Image:Information.svg|25px|alt=|link=]] Hello, I'm [[User:Doniago|Doniago]]. I noticed that you made a change to an article, [[:Orlando Bloom]], but you didn't provide a [[Wikipedia:Identifying reliable sources|reliable source]]. It's been removed for now, but if you'd like to [[Wikipedia:Citing sources|include a citation]] and re-add it, please do so! If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Doniago|my talk page]]. Thank you. &lt;!-- Template:uw-unsourced1 --&gt; -- [[User:Doniago|Doniago]] ([[User talk:Doniago|talk]]) 15:14, 14 March 2013 (UTC)
+	</talkpage>
+</article>

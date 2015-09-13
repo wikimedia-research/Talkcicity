@@ -1,0 +1,6 @@
+<article id="21754090" title=Talk:Gongliao Station>
+	<talkpage id="21754090" title="Talk:Gongliao Station">
+{{WPTAIWAN|class=stub|importance=low}}
+{{TrainsWikiProject|auto=yes|stations=yes|class=stub|importance=}}
+	</talkpage>
+</article>

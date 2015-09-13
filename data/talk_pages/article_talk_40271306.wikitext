@@ -1,0 +1,7 @@
+<article id="40271306" title=Talk:Jane Harvey>
+	<talkpage id="40271306" title="Talk:Jane Harvey">
+{{old AfD multi
+ |date1 = May 30 2007 |result1 = '''delete''' |page1 = Jane Harvey
+}}
+	</talkpage>
+</article>

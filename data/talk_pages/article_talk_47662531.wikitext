@@ -1,0 +1,83 @@
+<article id="47662531" title=Talk:M9 Half-track/GA1>
+	<talkpage id="47662531" title="Talk:M9 Half-track/GA1">
+==GA Review==
+{{Good article tools}}
+&lt;noinclude&gt;{{al|{{#titleparts:M9 Half-track/GA1|-1}}|noname=yes}}&lt;br/&gt;&lt;/noinclude&gt;&lt;includeonly&gt;:''This review is [[WP:transclusion|transcluded]] from [[Talk:M9 Half-track/GA1]]. The edit link for this section can be used to add comments to the review.''&lt;/includeonly&gt;
+
+'''Reviewer:''' [[User:West Virginian|West Virginian]]&amp;nbsp;([[User talk:West Virginian|talk]] '''·''' [[Special:Contributions/West Virginian|contribs]]) 14:03, 29 August 2015 (UTC)
+
+&lt;!-- Please add all review comments below this comment, and do not alter what is above. So that the review can be kept within a single section, please do not use level 2 headers (==...==) below to break up the review. Use level 3 (===...===), level 4 and so on.--&gt;
+{{u|Tomandjerry211 (alt)}} and {{u|Tomandjerry211}}, I will engage in a thorough and comprehensive review of this article within the next 48 hours. Please let me know if you have any questions or concerns in the meantime. Thanks! -- [[User:West Virginian|&lt;span style=&quot;font-weight:bold;font-style:MS Sans Serif;color:#2E5894&quot;&gt;West Virginian &lt;/span&gt;]] [[User talk:West Virginian|&lt;span style=&quot;font-style:MS Sans Serif;color:#CFB53B&quot;&gt;''(talk)''&lt;/span&gt;]] 14:03, 29 August 2015 (UTC)
+
+:'''[[Wikipedia:Good article nominations|GA]] review''' (see [[Wikipedia:Good article criteria|here]] for what the criteria are, and [[WP:GACN|here]] for what they are not)
+&lt;hr width=50%&gt;{{u|Tomandjerry211 (alt)}} and {{u|Tomandjerry211}}, as promised, I've completed a thorough and comprehensive review and re-review of this article, and I find that it meets the criteria for passage to Good Article status. Prior to its passage, however, I do have some comments and suggestions that should first be addressed. Thank you for your continued contributions to Wikipedia! -- [[User:West Virginian|&lt;span style=&quot;font-weight:bold;font-style:MS Sans Serif;color:#2E5894&quot;&gt;West Virginian &lt;/span&gt;]] [[User talk:West Virginian|&lt;span style=&quot;font-style:MS Sans Serif;color:#CFB53B&quot;&gt;''(talk)''&lt;/span&gt;]] 14:32, 29 August 2015 (UTC)
+#It is '''reasonably well written'''.
+#:a ''(prose, no copyvios, spelling and grammar)'': {{GAList/check|y}} b ''([[Wikipedia:Manual of Style|MoS]] for [[WP:LEAD|lead]], [[WP:LAYOUT|layout]], [[WP:WTW|word choice]], [[WP:WAF|fiction]], and [[Wikipedia:Embedded list|lists]])'': {{GAList/check|y}}
+#:: 
+#It is '''factually accurate''' and '''[[Wikipedia:Verifiability|verifiable]]'''.
+#:a ''([[WP:FNNR|reference section]])'': {{GAList/check|y}} b ''(citations to [[WP:RS|reliable sources]])'': {{GAList/check|y}} c ''([[Wikipedia:No original research|OR]])'': {{GAList/check|y}}
+#:: 
+#It is '''broad in its coverage'''.
+#:a ''([[WP:Out of scope|major aspects]])'': {{GAList/check|y}} b ''([[WP:LENGTH|focused]])'': {{GAList/check|y}}
+#:: 
+#It follows the '''[[WP:NPOV|neutral point of view]] policy'''.
+#:''Fair representation without bias'': {{GAList/check|y}}
+#:: 
+#It is '''stable'''.
+#:''No edit wars, etc.'': {{GAList/check|y}}
+#:: 
+#It is illustrated by '''[[Wikipedia:Images|images]]''' and other media, where possible and appropriate.
+#:a ''(images are tagged and non-free content have [[WP:FUR|fair use rationales]])'': {{GAList/check|y}} b ''([[WP:IMAGE RELEVANCE|appropriate use]] with [[WP:CAP|suitable captions]])'': {{GAList/check|y}}
+#:: 
+#'''Overall''': 
+#:''Pass/Fail'': {{GAList/check|y}}
+#:: &lt;!-- Template:GAList --&gt;
+
+'''Lede'''
+* Per [[Wikipedia:Manual of Style/Lead section]], the lede of this article adequately defines the half-track, establishes the half-track's necessary context, and explains why the half-track is otherwise notable. 
+* The info box for the half-track is beautifully formatted and its content is sourced within the prose of the text and by the references cited therein.
+* The image of the M9A1 Half-track is licensed CC BY 2.0 and it is therefore acceptable for use in this article.
+* I would recommend adding an alternative caption per the guidance outlined at [[Wikipedia:Alternative text for images]]. If this is not doable with the &quot;Infobox Weapon&quot; template, then please disregard this recommendation.{{done}}
+* &quot;half-track&quot; should be wiki-linked in the first sentence of the lede.{{done}}
+* Lend-Lease in this usage should be rendered as &quot;lend-lease&quot; throughout the article as it is not a formal naming of the Lend-Lease policy.{{done}}
+* The lede is otherwise well-written, consists of content that is adequately sourced and verifiable, and I have no further comments or questions for this section.
+
+'''Development'''
+* I would suggest spelling out United States in the first sentence of this section.
+* Consider re-rendering the end of the first sentence as such: &quot;...could be built more quickly and cheaply by civilian vehicle producers.&quot;{{done}}
+* Rather than say &quot;better vehicles&quot; with a wiki-link to [[M8 Greyhound]], perhaps mention the M8 Greyhound outright and provide a statement as to why these vehicles were indeed better.{{done}}
+* In the first sentence of the second paragraph, I would reword as &quot;In order to supply US allies&quot; and wiki-link US allies to [[Allies of World War II]].{{done}}
+* M3 Half-track should be mentioned in full at its first mention in the article, and it should be wiki-linked to the [[M3 Half-track]] article.{{done}}
+* The first mention of International Harvester should be followed with &quot;(IH)&quot; to allow for the abbreviation to be used later. Of course this does not apply to United States, so just mentioning it in full at the beginning of the section will suffice.{{done}}
+* This section is otherwise well-written, consists of content that is adequately sourced and verifiable, and I have no further comments or questions for this section.
+
+'''Design'''
+* I would reword the first sentence of this section as follows: &quot;The M9 used the same chassis and mechanical components as the M5, and while it provided similar stowage, its layout differed to allow for access to the radios from the inside. The M9 also had rear doors and a pedestal machine gun mount, which was similar to the M2.&quot; This is just a recommendation, and based on my read of the sentence. Let me know if this isn't what you were trying to convey.
+:*Did it in a different way to convey the actual meaning.--[[User:Tomandjerry211 (alt)|Tomandjerry211 (alt)]] ([[User talk:Tomandjerry211 (alt)|talk]]) 17:37, 29 August 2015 (UTC)
+* The M9A1 is mentioned, but is not introduced. Perhaps state as: &quot;The M9A1 modification of the M9 matched....&quot; or something like this.{{done}}
+* Should &quot;M2/M3 and M5&quot; be rendered &quot;M2, M3, and M5&quot; instead?{{done}}
+* Should face-hardened be wiki-linked to [[Case-hardening]], which is where &quot;face-hardened&quot; re-directs?{{done}}
+* This section is otherwise well-written, consists of content that is adequately sourced and verifiable, and I have no further comments or questions for this section.
+
+'''Production history'''
+* The &quot;Production history&quot; and &quot;Service history&quot; sections should probably be folded into each other since they are both brief sections.{{done}}
+* International Harvester could be abbreviated to IH here since it was established in the &quot;Design&quot; section.
+* Do we know where specifically they were manufactured by IH?{{done}}
+* Zaloga is mentioned but has not been introduced. Perhaps re-render as: &quot;According to American historian and defense consultant Steven Zaloga, 2,026 M9 and 1,407 M9A1 were produced in 1943.&quot;{{done}}
+* This section is otherwise well-written, consists of content that is adequately sourced and verifiable, and I have no further comments or questions for this section.
+
+'''Service history'''
+* As stated above, the &quot;Production history&quot; and &quot;Service history&quot; sections should probably be folded into each other since they are both brief sections.{{done}}
+* Perhaps begin the first sentence as: &quot;The M9 was utilized in...&quot;{{done}}
+* Reword as &quot;The production of M9 half-tracks used in these conflicts were leased to other countries, like most other IH half-tracks had been produced during World War II.&quot; Or something like this.{{done}}
+* This section is otherwise well-written, consists of content that is adequately sourced and verifiable, and I have no further comments or questions for this section.
+
+'''Operators'''
+* Reword the first sentence as such: &quot;The M9 was used by eleven countries, however, it was not utilized by the US as there was sufficient M2 and M3 production to satisfy its defense needs.&quot;{{done}}
+* Britain should be rendered as The UK here as the United Kingdom was mentioned above and this would be consistent with that.{{done}}
+* I would suggest re-wording the third sentence as: &quot;Following World War II, the second-hand market was a source of supply for some countries, including [[Israel]].&quot;{{done}}
+* The first sentence of the next paragraph should be folded into this paragraph as: &quot;M9 Half-tracks were provided under the Military Aid Program (MAP) to the following countries:&quot;{{done}}
+* This section is otherwise well-written, consists of content that is adequately sourced and verifiable, and I have no further comments or questions for this section.
+:*{{u|Tomandjerry211 (alt)}} and {{u|Tomandjerry211}}, thank you for taking the time to address my comments and questions in such a timely and efficient manner. Following my re-review of this article, I find that it meets the criteria for GA status and hereby pass it. Congratulations on a job well done! -- [[User:West Virginian|&lt;span style=&quot;font-weight:bold;font-style:MS Sans Serif;color:#2E5894&quot;&gt;West Virginian &lt;/span&gt;]] [[User talk:West Virginian|&lt;span style=&quot;font-style:MS Sans Serif;color:#CFB53B&quot;&gt;''(talk)''&lt;/span&gt;]] 01:57, 30 August 2015 (UTC)
+	</talkpage>
+</article>

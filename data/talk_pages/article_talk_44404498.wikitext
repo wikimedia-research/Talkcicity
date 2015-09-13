@@ -1,0 +1,5 @@
+<article id="44404498" title=Talk:Bancker, Louisiana>
+	<talkpage id="44404498" title="Talk:Bancker, Louisiana">
+{{WikiProject United States|LA=yes}}
+	</talkpage>
+</article>

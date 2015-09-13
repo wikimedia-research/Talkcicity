@@ -1,0 +1,7 @@
+<article id="30252805" title=Talk:Francisco Raúl Villalobos Padilla>
+	<talkpage id="30252805" title="Talk:Francisco Raúl Villalobos Padilla">
+{{WikiProject Biography|living=yes|class=stub|listas= Villalobos Padilla, Francisco Raul}}
+{{WP Catholicism|class=stub|importance=low}}
+{{WP Mexico|class=stub|importance=low}}
+	</talkpage>
+</article>

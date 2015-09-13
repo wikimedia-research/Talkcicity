@@ -1,0 +1,8 @@
+<article id="10915385" title=User talk:86.131.78.95>
+	<talkpage id="10915385" title="User talk:86.131.78.95">
+
+=== April 2007 ===
+{{{icon|[[Image:Information.svg|25px|left]] }}}Welcome, and thank you for experimenting with the page [[:Marginated Tortoise]] on Wikipedia. Your test worked, and it has been [[Help:Reverting|reverted]] or removed. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to our encyclopedia. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{{2|}}}&lt;!-- Template:uw-test1 --&gt; [[User_talk:Wimt|Will]] &lt;small&gt;&lt;font color=&quot;red&quot;&gt;(aka [[User:Wimt|&lt;font color=&quot;red&quot;&gt;Wimt&lt;/font&gt;]])&lt;/font&gt;&lt;/small&gt; 19:18, 26 April 2007 (UTC)
+:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
+	</talkpage>
+</article>

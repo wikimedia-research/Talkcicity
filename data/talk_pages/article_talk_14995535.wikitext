@@ -1,0 +1,5 @@
+<article id="14995535" title=Talk:U.S. Highway 12 in Wisconsin>
+	<talkpage id="14995535" title="Talk:U.S. Highway 12 in Wisconsin">
+{{U.S. Roads WikiProject|state=WI|type=US|class=Redirect|needs-map=NA}}
+	</talkpage>
+</article>

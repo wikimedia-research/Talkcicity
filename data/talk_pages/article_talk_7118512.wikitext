@@ -1,0 +1,12 @@
+<article id="7118512" title=User talk:Kristenhamms@sbcglobal.net>
+	<talkpage id="7118512" title="User talk:Kristenhamms@sbcglobal.net">
+[[Image:Attention yellow.svg|left|40px]]
+&lt;p&gt;&lt;big&gt;'''Dear {{PAGENAME}}''',&lt;/big&gt;&lt;/p&gt;&lt;!--
+
+--&gt;&lt;p&gt;&lt;big&gt;'''[[Wikipedia:Welcome, newcomers|Welcome]]''' to '''[[Wikipedia]]'''!&lt;/big&gt;&lt;/p&gt;&lt;!--
+
+--&gt;&lt;p&gt;Unfortunately, using your [[e-mail address]] as your [[Wikipedia:Username|username]] is not a good idea. Wikipedia content is extensively copied and the site itself is one of the most visited sites in the world. Any edit you make on Wikipedia will have your username attached to it, and using your email address will make you a tempting target for [[E-mail spam|spammers]]. We recommend that you change your username at [[Wikipedia:Changing username]] in order to prevent abuse.  However, if you have very few or no edits, it might just be easier to create a new account.&lt;/p&gt;&lt;!--
+
+--&gt;&lt;p&gt;If you need any help, simply contact me on my talk page, or go to [[Wikipedia:Help desk]]. Another option is to place {{tl|helpme}} on your own talk page, and someone will come shortly to help. Remember to [[Wikipedia:Sign your posts on talk pages|sign]] your posts on talk pages with four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;). Again, welcome!&lt;!-- {{WelcomeEmail}} --&gt; &amp;mdash; [[User:ERcheck|ERcheck]] ([[User talk:ERcheck|talk]]) 04:48, 23 September 2006 (UTC)
+	</talkpage>
+</article>

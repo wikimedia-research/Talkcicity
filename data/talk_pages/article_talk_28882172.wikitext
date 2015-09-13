@@ -1,0 +1,7 @@
+<article id="28882172" title=User talk:75.39.193.48>
+	<talkpage id="28882172" title="User talk:75.39.193.48">
+== September 2010 ==
+[[File:Information.svg|25px|alt=]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of [[Special:Contributions/75.39.193.48|your recent edits]], such as the one you made to [[:Walt Disney]], did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; [[User:Prestonmag|Prestonmag]] ([[User talk:Prestonmag|talk]]) 19:29, 19 September 2010 (UTC)
+:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
+	</talkpage>
+</article>

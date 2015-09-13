@@ -1,0 +1,12 @@
+<article id="22583151" title=Talk:League 1 (rugby league)>
+	<talkpage id="22583151" title="Talk:League 1 (rugby league)">
+{{WikiProject Rugby league
+|class=start
+|importance=mid
+}}
+
+== Changing page name ==
+
+Change the page name to League 1 as this is the leagues new name [[User:Gotty14|Gotty14]] ([[User talk:Gotty14|talk]]) 15:55, 27 July 2014 (UTC)
+	</talkpage>
+</article>

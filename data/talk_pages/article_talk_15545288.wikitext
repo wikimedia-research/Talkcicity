@@ -1,0 +1,9 @@
+<article id="15545288" title=Talk:Polyphontes>
+	<talkpage id="15545288" title="Talk:Polyphontes">
+{{WikiProjectBannerShell|1=
+{{WikiProject Greece|class=Stub|importance=Low}}
+{{WikiProject Classical Greece and Rome|class=Stub|importance=Low}}
+{{WikiProject Mythology|class=Stub|importance=Low}}
+}}
+	</talkpage>
+</article>

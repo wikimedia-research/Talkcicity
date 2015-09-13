@@ -1,0 +1,11 @@
+<article id="6890799" title=User talk:Meemsie>
+	<talkpage id="6890799" title="User talk:Meemsie">
+== [[Aviva romm]] ==
+Thank you for experimenting with Wikipedia by creating the page [[:Aviva romm]]. Your test worked, and has been or will soon be removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any other tests you want to do. Take a look at the [[Wikipedia:Welcome, newcomers|welcome page]] if you would like to learn more about contributing to our encyclopedia.&lt;!-- Template:Testarticle-n (first level warning) --&gt;  &lt;span style=&quot;border:1px solid #808;padding:1px;&quot;&gt;[[User talk:(aeropagitica)|&lt;font style=&quot;color:#fff;background:#808;&quot;&gt;'''(aeropa'''&lt;/font&gt;&lt;font style=&quot;color:#808;background:#fff;&quot;&gt;'''gitica)'''&lt;/font&gt;]]&lt;/span&gt; 23:24, 7 September 2006 (UTC)
+
+'''Do not repost speedily deleted material'''.  This is considered vandalism and can lead to you being blocked from editing for a period of time. &lt;span style=&quot;border:1px solid #808;padding:1px;&quot;&gt;[[User talk:(aeropagitica)|&lt;font style=&quot;color:#fff;background:#808;&quot;&gt;'''(aeropa'''&lt;/font&gt;&lt;font style=&quot;color:#808;background:#fff;&quot;&gt;'''gitica)'''&lt;/font&gt;]]&lt;/span&gt; 23:30, 7 September 2006 (UTC)
+
+== Image:DSC02084.JPG listed for deletion ==
+An image or media file that you uploaded or altered, [[:Image:DSC02084.JPG]], has been listed at [[Wikipedia:Images and media for deletion/2006 October 21#Image:DSC02084.JPG|Wikipedia:Images and media for deletion]]. Please look there to see why this is (you may have to search for the title of the image to find its entry), if you are interested in its not being deleted. Thank you.&lt;!-- Template:Idw --&gt;
+	</talkpage>
+</article>

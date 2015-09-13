@@ -1,0 +1,12 @@
+<article id="6448867" title=Talk:Joe Stankevicius>
+	<talkpage id="6448867" title="Talk:Joe Stankevicius">
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|auto=yes
+|sports-work-group=yes
+|listas=Stankevicius, Joe
+}}
+{{WikiProject Olympics|class=Stub|importance=|auto=yes}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="18653862" title=User talk:74.78.24.30>
+	<talkpage id="18653862" title="User talk:74.78.24.30">
+Please stop. If you continue to [[Wikipedia:Vandalism template link|vandalize]] pages, {{#if:|as you did {{#if:|with [{{{diff}}} this edit]}} to [[:{{{1}}}]],|{{#if:as you did with [{{{diff}}} this edit],}}}} you will be [[Wikipedia:Blocking policy|blocked]] from editing Wikipedia. &lt;!-- Template:Test3 (Third level warning) --&gt;--[[User:Chaser|chaser]] - [[User_talk:Chaser|t]] 01:51, 31 July 2008 (UTC)
+	</talkpage>
+</article>

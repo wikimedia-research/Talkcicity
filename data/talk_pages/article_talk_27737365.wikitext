@@ -1,0 +1,6 @@
+<article id="27737365" title=Talk:Kramerspitz>
+	<talkpage id="27737365" title="Talk:Kramerspitz">
+{{WikiProject Mountains|class=Stub|importance=Low}}
+{{WikiProject Germany|class=Stub|importance=Low}}
+	</talkpage>
+</article>

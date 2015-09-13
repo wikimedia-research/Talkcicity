@@ -1,0 +1,7 @@
+<article id="32064120" title=Talk:Svaland>
+	<talkpage id="32064120" title="Talk:Svaland">
+{{WikiProject Norway|class=Stub
+|auto=yes
+}}
+	</talkpage>
+</article>

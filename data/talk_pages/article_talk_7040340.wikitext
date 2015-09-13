@@ -1,0 +1,10 @@
+<article id="7040340" title=Talk:Carlton R. Sickles>
+	<talkpage id="7040340" title="Talk:Carlton R. Sickles">
+{{WikiProject Biography|living=no
+|class=Stub
+|politician-work-group=yes
+|listas=Sickles, Carlton Ralph
+}}
+{{WikiProject United States|class=Stub|importance=low|needs-infobox=yes}}
+	</talkpage>
+</article>

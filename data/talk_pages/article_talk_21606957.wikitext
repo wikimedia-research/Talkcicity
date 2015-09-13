@@ -1,0 +1,15 @@
+<article id="21606957" title=Talk:Wolfgang Grobe>
+	<talkpage id="21606957" title="Talk:Wolfgang Grobe">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|listas=Grobe, Wolfgang
+|sports-work-group=yes
+}}
+{{WikiProject Germany|class=Stub|importance=Low}}
+{{WikiProject Football|class=Stub}}
+| blp=yes
+}}
+	</talkpage>
+</article>

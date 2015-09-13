@@ -1,0 +1,12 @@
+<article id="5302983" title=User talk:86.139.164.89>
+	<talkpage id="5302983" title="User talk:86.139.164.89">
+
+
+==Your edit to [[Theo Walcott]]==
+Your recent edit to [[Theo Walcott]] was reverted by an '''automated bot''' that attempts to recognize and repair [[Wikipedia:vandalism|vandalism]] to Wikipedia articles. If the bot reverted a legitimate edit, please accept my humble creator's apologies – if you bring it to the attention of the bot's owner, we may be able to improve its behavior. '''[[User:Tawkerbot2/FAQ|Click here]]''' for '''frequently asked questions''' about the bot and this warning. // [[User:Tawkerbot2|Tawkerbot2]] 18:57, 26 May 2006 (UTC)
+
+== May 27 ==
+
+Please do not add nonsense to Wikipedia. It is considered [[Wikipedia:Vandalism|vandalism]]. If you would like to experiment, use the [[Wikipedia:Sandbox|sandbox]]. Thank you. &lt;!-- Template:Test2 (second level warning) --&gt; [[User:Gershwinrb|Gershwinrb]] 19:01, 26 May 2006 (UTC)
+	</talkpage>
+</article>

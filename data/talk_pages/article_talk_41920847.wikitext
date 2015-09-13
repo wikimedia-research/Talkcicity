@@ -1,0 +1,59 @@
+<article id="41920847" title=User talk:EAB Emco Wheaton>
+	<talkpage id="41920847" title="User talk:EAB Emco Wheaton">
+
+&lt;!-- This comes from the template {{subst:W-screen}} --&gt;
+&lt;div style=&quot;text-align: center; padding: 1em; border: solid 2px darkblue; background-color: darkblue; -moz-border-radius: 25px 25px 0 0; -webkit-border-radius: 25px 25px 0 0; border-radius: 25px 25px 0 0;&quot;&gt;
+&lt;span style=&quot;font-size:120%; color:white&quot;&gt;Hello EAB Emco Wheaton, and [[Wikipedia:Welcoming committee/Welcome to Wikipedia|&lt;span style=&quot;color:orange&quot;&gt;Welcome to Wikipedia!&lt;/span&gt;]]&lt;/span&gt;[[File:New-Bouncywikilogo.gif|50px]]&lt;/div&gt; 
+&lt;div style=&quot;align: left; padding: 1em; border: solid 2px darkblue; background-color: white; -moz-border-radius: 0 0 25px 25px; -webkit-border-radius: 0 0 25px 25px; border-radius: 0 0 25px 25px;&quot;&gt;
+'''''[[Wikipedia:Welcoming committee/Welcome to Wikipedia|Welcome to Wikipedia!]]''''' I hope you enjoy the encyclopedia and want to [[Wikipedia:Wikipedians|stay]]. As a first step, you may wish to read the [[Wikipedia:Introduction|Introduction]].
+
+If you have any questions, feel free to ask me at [[User talk:Jnanaranjan sahu|my talk page]] – I'm happy to help. Or, you can ask your question at the [[Wikipedia:New contributors' help page|New contributors' help page]].
+
+-------  
+Here are some more resources to help you as you explore and contribute to [[Wikipedia|the world's largest encyclopedia...]]
+
+&lt;big&gt; '''Finding your way around:''' &lt;/big&gt;
+{{col-begin}}
+{{col-2}}
+* '''[[Portal:Contents|Table of contents]]'''
+{{col-2}}
+* '''[[Wikipedia:Department directory|Department directory]]'''
+{{col-end}}
+
+&lt;big&gt; '''Need help?''' &lt;/big&gt;
+{{col-begin}}
+{{col-2}}
+* '''[[Wikipedia:Questions|Questions]]''' – a guide on where to ask questions
+* '''[[Wikipedia:Cheatsheet|Cheatsheet]]''' – quick reference on Wikipedia's mark-up codes
+* '''[[Wikipedia:Five pillars|Wikipedia's 5 pillars]]''' – an overview of Wikipedia's foundations
+{{col-2}}
+* '''[[Wikipedia:Article wizard|Article wizard]]''' – a Wizard to help you create articles
+* '''[[Wikipedia:Simplified ruleset|The simplified ruleset]]''' – a summary of Wikipedia's most important rules
+*'''[[Help:Wikipedia: The Missing Manual/Introduction|Guide to Wikipedia]]''' – a thorough step-by-step guide to Wikipedia
+{{col-end}}
+
+&lt;big&gt; '''How you can help:''' &lt;/big&gt;
+{{col-begin}}
+{{col-2}}
+* '''[[Wikipedia:Contributing to Wikipedia|Contributing to Wikipedia]]''' – a guide on how you can help
+{{col-2}}
+* '''[[Wikipedia:Community portal|Community portal]]''' – Wikipedia's hub of activity
+{{col-end}}
+
+&lt;big&gt; '''Additional tips...''' &lt;/big&gt; 
+{{col-begin}}
+{{col-2}}
+* Please sign your messages on talk pages with four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;). This will automatically insert your &quot;signature&quot; (your username and a date stamp). The [[File:Button sig.png]] or [[File:Insert-signature.png]] button, on the tool bar above Wikipedia's text editing window, also does this. 
+{{col-2}}
+* If you would like to play around with your new Wiki skills the '''''[[Wikipedia:Sandbox|Sandbox]]''''' is for you. 
+{{col-end}}
+
+''EAB Emco Wheaton, '''good luck, and have fun.''''' – &lt;span style=&quot;font-family: Segoe Script; font-size:12px; color: white; text-shadow: black 0.1em 0.1em 0.2em;&quot;&gt;[[User:Jnanaranjan_sahu|Jnanaranjan Sahu (ଜ୍ଞାନ)]]&lt;/span&gt; &lt;sup&gt;[[User talk:Jnanaranjan_sahu|&lt;font color=&quot;red&quot;&gt;talk&lt;/font&gt;]]&lt;/sup&gt; 13:44, 12 February 2014 (UTC)&lt;/div&gt;
+==[[Wikipedia:Criteria for speedy deletion|Speedy deletion]] nomination of [[:Emco Wheaton]]==
+[[Image:Ambox warning pn.svg|48px|left|alt=|link=]]
+{{Quote box|quote=&lt;p&gt;If this is the first article that you have created, you may want to read [[WP:Your first article|the guide to writing your first article]].&lt;/p&gt;&lt;p&gt;You may want to consider using the [[Wikipedia:Article wizard|Article Wizard]] to help you create articles.&lt;/p&gt;|width=20%|align=right}}
+A tag has been placed on [[:Emco Wheaton]], requesting that it be speedily deleted from Wikipedia. This has been done under [[WP:CSD#G11|section G11 of the criteria for speedy deletion]], because the page seems to be unambiguous advertising which only promotes a company, product, group, service or person and would need to be fundamentally rewritten in order to become encyclopedic. Please read [[Wikipedia:Spam|the guidelines on spam]] and [[Wikipedia:FAQ/Organizations]] for more information. 
+
+If you think this page should not be deleted for this reason, you may '''contest the nomination''' by [[:Emco Wheaton|visiting the page]] and clicking the button labelled &quot;Click here to contest this speedy deletion&quot;. This will give you the opportunity to explain why you believe the page should not be deleted. However, be aware that once a page is tagged for speedy deletion, it may be removed without delay. Please do not remove the speedy deletion tag from the page yourself, but do not hesitate to add information in line with [[Wikipedia:List of policies|Wikipedia's policies and guidelines]]. If the page is deleted, and you wish to retrieve the deleted material for future reference or improvement, you can place a request [[WP:RFUD|here]]. &lt;!-- Template:Db-spam-notice --&gt; &lt;!-- Template:Db-csd-notice-custom --&gt; [[User:TheLongTone|TheLongTone]] ([[User talk:TheLongTone|talk]]) 13:45, 12 February 2014 (UTC)
+	</talkpage>
+</article>

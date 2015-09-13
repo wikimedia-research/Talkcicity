@@ -1,0 +1,6 @@
+<article id="30517449" title=Talk:Edward Shaw (politician)>
+	<talkpage id="30517449" title="Talk:Edward Shaw (politician)">
+{{WikiProject Biography|living=no|class=Stub|politician-priority=Low|politician-work-group=yes|listas=Shaw, Edward}}
+{{WikiProject New Zealand|class=Stub|importance=Low|politics=yes|politics-importance=Low}}
+	</talkpage>
+</article>

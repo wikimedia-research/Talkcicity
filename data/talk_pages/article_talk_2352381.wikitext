@@ -1,0 +1,23 @@
+<article id="2352381" title=User talk:Demaro>
+	<talkpage id="2352381" title="User talk:Demaro">
+'''Welcome!'''
+
+[[Wikipedia:Welcome, newcomers|Welcome]] to Wikipedia, {{PAGENAME}}!  My name is Ryan, aka [[User:Acetic Acid|Acetic Acid]]. I noticed that you were new and haven't received any messages yet. I just wanted to see how you were doing. Wikipedia can be a little intimidating at first, since it uses different formatting than other sites that use [[HTML]] and [[Cascading Style Sheets|CSS]]. In the long run, though, you'll find that the WikiSyntax is a lot easier and faster than those other ways. Here are a few links to get you started:
+
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Wikipedia:Tutorial|Editing, policy, conduct, and structure tutorial]]
+*[[Wikipedia:Picture tutorial|Picture tutorial]]
+*[[Wikipedia:How to write a great article|How to write a great article]]
+
+There are a lot of policies and guides to read, but I highly recommend reading over those first. If you have any questions, feel free to leave me a message on my [[User Talk:Acetic Acid|talk page]]. Please be sure to [[Wikipedia:Sign your posts on talk pages|sign your name on Talk]] using four tildes (&amp;#126;&amp;#126;&amp;#126;&amp;#126;) to produce your name and the current date, along with a link to your user page. This way, others know when you left a message and how to find you. It's easier than having to type out your name, right? :)
+
+I hope you enjoy contributing to Wikipedia. We can use all the help we can get! Have a nice day.
+Sincerely, [[User:Acetic Acid|Ryan]] 05:11, August 1, 2005 (UTC)
+
+==Unreferenced BLPs==
+[[File:Information.svg|30px]] Hello Demaro! Thank you for your contributions. I am a [[WP:BOT|bot]] alerting you that '''1''' of the articles that you created   is tagged as an[[Wikipedia:Biographies_of_living_persons#Sources| Unreferenced Biography of a Living Person]]. The [[WP:BLP|biographies of living persons]] policy requires that all personal or potentially controversial information be sourced. In addition, to ensure [[WP:VERRIFY|verifiability]], all biographies should be based on [[WP:RELIABLE|reliable sources]]. If you were to bring this article up to standards, it would greatly help us with the current ''[[:Category:All_unreferenced_BLPs|{{PAGESINCATEGORY:All_unreferenced_BLPs}}]]'' article backlog. Once the article is adequately referenced, please remove the {{tl|unreferencedBLP}} tag. Here is the article:
+
+# [[Michael Zilber]] - &lt;small&gt;{{findsources|Michael Zilber}}&lt;/small&gt;
+Thanks!--[[User:DASHBot|DASHBot]] ([[User talk:DASHBot|talk]]) 17:17, 17 January 2010 (UTC)
+	</talkpage>
+</article>

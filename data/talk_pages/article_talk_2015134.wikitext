@@ -1,0 +1,15 @@
+<article id="2015134" title=User talk:195.195.0.77>
+	<talkpage id="2015134" title="User talk:195.195.0.77">
+{{IPtalk}}
+{{SharedIPEDU|[[Lewisham College]]}}
+{{repeatvandal}}
+{{ow}}
+
+== June 2014 ==
+
+[[File:Information.svg|25px|alt=|link=]] Thank you for your interest in editing Wikipedia. Your edit to [[:Georgia O'Keeffe]] was successful, but because it was not considered beneficial to the page, the edit has been [[Help:Reverting|reverted]] or removed. If you would like to experiment with editing, please use the '''[[Wikipedia:Sandbox|sandbox]]''' instead. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|this encyclopedia]]. Thank you.&lt;!-- Template:uw-test1 --&gt; [[User:Mandarax|&lt;span style=&quot;color:green&quot;&gt;M&lt;small&gt;AN&lt;/small&gt;d&lt;small&gt;ARAX&lt;/small&gt;&lt;/span&gt;]]&amp;nbsp;&lt;span style=&quot;color:blue&quot;&gt;•&lt;/span&gt;&amp;nbsp;[[User talk:Mandarax|&lt;span style=&quot;color:#999900&quot;&gt;&lt;small&gt;XAЯA&lt;/small&gt;b&lt;small&gt;ИA&lt;/small&gt;M&lt;/span&gt;]] 09:51, 18 June 2014 (UTC)
+
+[[File:Information orange.svg|25px|alt=Information icon]] Please refrain from making unconstructive edits to Wikipedia, as you did at [[:Recoupment]]. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]] or removed. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. [[Wikipedia:Administrators|Administrators]] have the ability to [[WP:BLOCK|block]] users from editing if they repeatedly engage in vandalism. Thank you.&lt;!-- Template:uw-vandalism2 --&gt; [[User:Mandarax|&lt;span style=&quot;color:green&quot;&gt;M&lt;small&gt;AN&lt;/small&gt;d&lt;small&gt;ARAX&lt;/small&gt;&lt;/span&gt;]]&amp;nbsp;&lt;span style=&quot;color:blue&quot;&gt;•&lt;/span&gt;&amp;nbsp;[[User talk:Mandarax|&lt;span style=&quot;color:#999900&quot;&gt;&lt;small&gt;XAЯA&lt;/small&gt;b&lt;small&gt;ИA&lt;/small&gt;M&lt;/span&gt;]] 09:54, 18 June 2014 (UTC)
+{{schoolblock}}
+	</talkpage>
+</article>

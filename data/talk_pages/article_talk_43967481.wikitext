@@ -1,0 +1,19 @@
+<article id="43967481" title=Talk:Potiskum Airstrip>
+	<talkpage id="43967481" title="Talk:Potiskum Airstrip">
+{{talk page header}}
+{{WikiProjectBannerShell|
+{{WPAVIATION
+|class=stub
+|attention=yes
+|B-Class-1=
+|B-Class-2=
+|B-Class-3=
+|B-Class-4=
+|B-Class-5=
+|portal-link=
+|Airports-project=yes
+}}
+{{WikiProject Nigeria}}
+}}
+	</talkpage>
+</article>

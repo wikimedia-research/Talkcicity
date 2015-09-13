@@ -1,0 +1,47 @@
+<article id="30454943" title=Talk:Javan slow loris/GA1>
+	<talkpage id="30454943" title="Talk:Javan slow loris/GA1">
+==GA Review==
+{{Good article tools}}
+&lt;noinclude&gt;{{al|{{#titleparts:Javan Slow Loris/GA1|-1}}|noname=yes}}&lt;br/&gt;&lt;/noinclude&gt;&lt;includeonly&gt;:''This review is [[WP:transclusion|transcluded]] from [[Talk:Javan Slow Loris/GA1]]. The edit link for this section can be used to add comments to the review.''&lt;/includeonly&gt;
+&lt;!-- Please add all review comments below this comment, and do not alter what is above. To keep the review within a single section, please do not use level 2 headers (==...==) below to break up the review. Use level 3 (===...===), level 4 and so on.--&gt;
+
+'''Reviewer:''' '''[[User:Rcej|Rcej]] (Robert)''' - '''''[[User talk:Rcej|talk]]''''' 09:40, 13 January 2011 (UTC)
+
+rev '''[[User:Rcej|Rcej]] (Robert)''' - '''''[[User talk:Rcej|talk]]''''' 09:40, 13 January 2011 (UTC)
+
+Thank you for taking up the review.  Sasata and I look forward to your comments. –&amp;nbsp;'''[[User:Visionholder|&lt;span style=&quot;color:darkgreen&quot;&gt;VisionHolder&lt;/span&gt;]] «[[User talk:Visionholder|&lt;span style=&quot;color:olive&quot;&gt;&amp;nbsp;talk&amp;nbsp;&lt;/span&gt;]]»''' 16:06, 13 January 2011 (UTC)
+:You're very welcome! Fine job with this article... everything is in order, after a couple nitpicks:
+*:In '''Taxonomy and phylo''', may we have more on its synonymy? Mention how the little dude goes from ''Nycticebus javanicus''-&gt;''Bradylemur tardigradus''-&gt;''N.&amp;nbsp;tardigradus javanicus''-&gt;''N.&amp;nbsp;javanicus''. Also, albeit obvious, define the specific epithet ''javanicus''. '''[[User:Rcej|Rcej]] (Robert)''' - '''''[[User talk:Rcej|talk]]''''' 07:05, 14 January 2011 (UTC)
+*::I may have something in one of the sources I have on my home computer.  Most sources don't cover all the odd names from the time when taxonomic names were all over the place.  However, I think the article already covers its promotion from ''N.&amp;nbsp;tardigradus javanicus'' to ''N.&amp;nbsp;javanicus''.  I'll check when I get home from work this evening. –&amp;nbsp;'''[[User:Visionholder|&lt;span style=&quot;color:darkgreen&quot;&gt;VisionHolder&lt;/span&gt;]] «[[User talk:Visionholder|&lt;span style=&quot;color:olive&quot;&gt;&amp;nbsp;talk&amp;nbsp;&lt;/span&gt;]]»''' 15:50, 14 January 2011 (UTC)
+*:::I found the source for Lesson's ''Bradylemur tardigradus'' online, and added a source &amp; link for that. Couldn't find online the actual sources for the remaining two synonyms, so I just mentioned them in the text and cited a recent source that listed the synonyms. This doesn't really cover ''why'' the genera or species names were changed, but at least they are mentioned in the text now. I also couldn't find a source that explicitly said that ''javanicus'' means &quot;from Java&quot;, probably because it's so obvious. I'm putting it in the article uncited as a statement that is unlikely to be challenged. I'm hoping a library trip this weekend will shed more details about the taxonomy (detials which will probably be necessary for FAC). [[User:Sasata|Sasata]] ([[User talk:Sasata|talk]]) 16:04, 14 January 2011 (UTC)
+*::::Good... I will pass the article! Its nice seeing you get your head out of the mushroom vapors occasionaly, Sasata... jeez Louise ;) Nice working with you again Visionholder! '''[[User:Rcej|Rcej]] (Robert)''' - '''''[[User talk:Rcej|talk]]''''' 04:03, 15 January 2011 (UTC)
+*:::::Lol! There'll be more of these cutesy big-eyed primates coming down the pipe, but it's only a temporary diversion ... my heart still lies with the fungi ;-) [[User:Sasata|Sasata]] ([[User talk:Sasata|talk]]) 04:33, 15 January 2011 (UTC)
+*::::::Thanks for the review!  Likewise, I'll eventually get back to my lemurs. –&amp;nbsp;'''[[User:Visionholder|&lt;span style=&quot;color:darkgreen&quot;&gt;VisionHolder&lt;/span&gt;]] «[[User talk:Visionholder|&lt;span style=&quot;color:olive&quot;&gt;&amp;nbsp;talk&amp;nbsp;&lt;/span&gt;]]»''' 06:04, 15 January 2011 (UTC)
+
+=== Results of review ===
+
+:'''[[Wikipedia:Good article nominations|GA]] review''' (see [[Wikipedia:What is a good article?|here]] for criteria)
+&lt;hr width=50%&gt;The article [[Javan Slow Loris]] passes this review, and has been promoted to [[WP:GA|good article]] status. The article is found by the reviewing editor to be deserving of good article status based on the following criteria:
+#It is '''reasonably well written'''.
+#:a ''(prose)'': {{GAList/check|aye}} b ''([[Wikipedia:Manual of Style|MoS]])'': {{GAList/check|aye}}
+#:: 
+#It is '''factually accurate''' and '''[[Wikipedia:Verifiability|verifiable]]'''.
+#:a ''(references)'': {{GAList/check|aye}} b ''(citations to [[WP:RS|reliable sources]])'': {{GAList/check|aye}} c ''([[Wikipedia:No original research|OR]])'': {{GAList/check|aye}}
+#:: 
+#It is '''broad in its coverage'''.
+#:a ''(major aspects)'': {{GAList/check|aye}} b ''(focused)'': {{GAList/check|aye}}
+#:: 
+#It follows the '''[[WP:NPOV|neutral point of view]] policy'''.
+#:''Fair representation without bias'': {{GAList/check|aye}}
+#:: 
+#It is '''stable'''.
+#:''No edit wars, etc.'': {{GAList/check|aye}}
+#:: 
+#It is illustrated by '''[[Wikipedia:Images|images]]''', where possible and appropriate.
+#:a ''(images are tagged and non-free images have [[Wikipedia:Image_description_page#Use_rationale|fair use rationales]])'': {{GAList/check|aye}} b ''(appropriate use with [[WP:CAP|suitable captions]])'': {{GAList/check|aye}}
+#:: 
+#'''Overall''': 
+#:''Pass/Fail'': {{GAPass}}
+#:: &lt;!-- Template:GAList --&gt;
+	</talkpage>
+</article>

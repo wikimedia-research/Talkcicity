@@ -1,0 +1,6 @@
+<article id="8355542" title=Talk:Skylark (song)>
+	<talkpage id="8355542" title="Talk:Skylark (song)">
+{{WikiProject Jazz|class=start|song=yes}}
+{{WikiProject Songs|class=start}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="10295114" title=Talk:Werbach>
+	<talkpage id="10295114" title="Talk:Werbach">
+{{WikiProject Germany|class=stub|importance=low}}
+	</talkpage>
+</article>

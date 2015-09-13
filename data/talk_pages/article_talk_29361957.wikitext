@@ -1,0 +1,6 @@
+<article id="18369986" title=Talk:Belgrano Norte Line>
+	<talkpage id="18369986" title="Talk:Belgrano Norte Line">
+{{WP Argentina}}
+{{TrainsWikiProject|class=start|importance=low}}
+	</talkpage>
+</article>

@@ -1,0 +1,10 @@
+<article id="20409532" title=Talk:Jean Galloway Bissell>
+	<talkpage id="20409532" title="Talk:Jean Galloway Bissell">
+{{WikiProject United States courts and judges |class=Start |importance=}}
+{{WikiProject Biography |living=no |class=Start |listas=Bissell, Jean Galloway |politician-work-group=y |politician-priority=}}
+
+==Bot-created subpage==
+
+A subpage at [[Jean Galloway Bissell/fjc]] was automatically created by a perl script, based on [http://www.fjc.gov/servlet/tGetInfo?jid=177 this article] at the [[Biographical Directory of Federal Judges]]. The subpage should either be merged into this article, or moved and disambiguated. [[User:Polbot|Polbot]] ([[User talk:Polbot|talk]]) 13:42, 4 March 2009 (UTC)
+	</talkpage>
+</article>

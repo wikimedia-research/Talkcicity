@@ -1,0 +1,6 @@
+<article id="13994721" title=Talk:Dublin Chamber of Commerce>
+	<talkpage id="13994721" title="Talk:Dublin Chamber of Commerce">
+{{WikiProject Ireland|class= stub|importance= low|attention=yes }}
+{{Image requested|in=County Dublin}}
+	</talkpage>
+</article>

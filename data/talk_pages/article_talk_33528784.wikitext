@@ -1,0 +1,20 @@
+<article id="6486294" title=Talk:Beatles for Sale (EP)>
+	<talkpage id="6486294" title="Talk:Beatles for Sale (EP)">
+{{WPBeatles
+|class=Start
+|importance=Low
+|martin =yes
+|also-beatles =yes
+|display=Beatles
+|album =yes
+|song =
+|album-importance =
+|song-importance =
+|attention =yes
+}}&lt;!--{{Album}} not needed--&gt;
+
+== Related article discussion ==
+
+A move request discussion is underway at [[Talk:Beatles for Sale#Requested move]]. Please make any comments there. [[User:Dohn joe|Dohn joe]] ([[User talk:Dohn joe|talk]]) 23:21, 18 October 2011 (UTC)
+	</talkpage>
+</article>

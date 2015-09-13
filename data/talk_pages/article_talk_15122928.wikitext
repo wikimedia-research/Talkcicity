@@ -1,0 +1,54 @@
+<article id="15122928" title=Talk:1995 in New Zealand>
+	<talkpage id="15122928" title="Talk:1995 in New Zealand">
+{{WikiProject New Zealand|class=start|importance=mid}}
+
+== Dead link ==
+
+During several automated bot runs the following external link was found to be unavailable. Please check if the link is in fact down and fix or remove it in that case!
+
+* http://www.gg.govt.nz/gg/former.htm
+** In [[1990 in New Zealand]] on 2011-05-25 05:52:45, 404 Not Found
+** In [[2000 in New Zealand]] on 2011-05-25 07:02:38, 404 Not Found
+** In [[2005 in New Zealand]] on 2011-05-25 08:08:52, 404 Not Found
+** In [[2006 in New Zealand]] on 2011-05-26 02:22:00, 404 Not Found
+** In [[2007 in New Zealand]] on 2011-05-27 15:27:58, 404 Not Found
+** In [[1990 in New Zealand]] on 2011-06-08 00:08:43, 404 Not Found
+** In [[1992 in New Zealand]] on 2011-06-08 01:48:22, 404 Not Found
+** In [[1995 in New Zealand]] on 2011-06-08 03:31:34, 404 Not Found
+
+--[[User:JeffGBot|JeffGBot]] ([[User talk:JeffGBot|talk]]) 03:31, 8 June 2011 (UTC)
+
+== Dead link 2 ==
+
+During several automated bot runs the following external link was found to be unavailable. Please check if the link is in fact down and fix or remove it in that case!
+
+* http://www.nzsoccer.com/page/chatham_cup_records.html
+** In [[1932 in New Zealand]] on 2011-05-25 03:04:52, 404 Not Found
+** In [[1969 in New Zealand]] on 2011-05-25 04:05:25, 404 Not Found
+** In [[1983 in New Zealand]] on 2011-05-25 05:07:57, 404 Not Found
+** In [[1994 in New Zealand]] on 2011-05-25 06:11:52, 404 Not Found
+** In [[2001 in New Zealand]] on 2011-05-25 07:13:46, 404 Not Found
+** In [[2006 in New Zealand]] on 2011-05-26 02:22:06, 404 Not Found
+** In [[2007 in New Zealand]] on 2011-05-27 15:28:16, 404 Not Found
+** In [[1932 in New Zealand]] on 2011-06-04 15:43:53, 404 Not Found
+** In [[1947 in New Zealand]] on 2011-06-04 16:47:47, 404 Not Found
+** In [[1952 in New Zealand]] on 2011-06-04 17:49:00, 404 Not Found
+** In [[1960 in New Zealand]] on 2011-06-04 19:01:41, 404 Not Found
+** In [[1955 in New Zealand]] on 2011-06-04 20:03:40, 404 Not Found
+** In [[1959 in New Zealand]] on 2011-06-04 21:58:23, 404 Not Found
+** In [[1964 in New Zealand]] on 2011-06-06 13:04:59, 404 Not Found
+** In [[1968 in New Zealand]] on 2011-06-06 14:06:39, 404 Not Found
+** In [[1972 in New Zealand]] on 2011-06-06 15:23:23, 404 Not Found
+** In [[1973 in New Zealand]] on 2011-06-06 20:39:29, 404 Not Found
+** In [[1976 in New Zealand]] on 2011-06-06 21:43:19, 404 Not Found
+** In [[1978 in New Zealand]] on 2011-06-07 00:39:07, 404 Not Found
+** In [[1980 in New Zealand]] on 2011-06-07 01:56:04, 404 Not Found
+** In [[1982 in New Zealand]] on 2011-06-07 03:08:16, 404 Not Found
+** In [[1985 in New Zealand]] on 2011-06-07 11:56:43, 404 Not Found
+** In [[1990 in New Zealand]] on 2011-06-08 00:08:52, 404 Not Found
+** In [[1992 in New Zealand]] on 2011-06-08 01:48:31, 404 Not Found
+** In [[1995 in New Zealand]] on 2011-06-08 03:31:45, 404 Not Found
+
+--[[User:JeffGBot|JeffGBot]] ([[User talk:JeffGBot|talk]]) 03:32, 8 June 2011 (UTC)
+	</talkpage>
+</article>

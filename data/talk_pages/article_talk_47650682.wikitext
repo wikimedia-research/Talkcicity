@@ -1,0 +1,26 @@
+<article id="47650682" title=User talk:Biensurbanana>
+	<talkpage id="47650682" title="User talk:Biensurbanana">
+
+==Welcome to The Wikipedia Adventure!==
+[[File:TWA guide left bottom.png |left|link=]]
+:::::'''Hi Biensurbanana!'''  We're so happy you wanted to play to learn, as a friendly and fun way to get into our community and mission.  I think these links might be helpful to you as you get started.
+::::::* [[WP:TWA/Portal|The Wikipedia Adventure Start Page]]
+::::::* [[WP:TWA/Lounge|The Wikipedia Adventure Lounge]]
+::::::* [[WP:Teahouse|The Teahouse new editor help space]]
+::::::* [[WP:Help|Wikipedia Help pages]]
+-- 06:55, Friday, August 28, 2015 ([[UTC]])
+{{Wikipedia:TWA/Navigation2}}
+
+==File copyright problem with File:Brooke Davis (Author).jpeg==
+[[File:Copyright-problem.svg|64px|left|alt=|link=]]
+Thank you for uploading [[:File:Brooke Davis (Author).jpeg]]. However, it currently is missing information on its '''copyright''' and '''licensing''' status. Wikipedia takes [[Wikipedia:Copyrights|copyright]] very seriously. It may be deleted soon, unless we can verify that it has an acceptable license status and a verifiable source. Please add this information by editing the [[:File:Brooke Davis (Author).jpeg|image description page]]. You may refer to the '''[[WP:IUP#Adding images|image use policy]]''' to learn what files you can or cannot upload on Wikipedia. The page on '''[[Wikipedia:Image copyright tags|copyright tags]]''' may help you to find the correct tag to use for your file. If the file is already gone, you can still make a [[Wikipedia:Requests for undeletion|request for undeletion]] and ask for a chance to fix the problem.&lt;!-- Template:You can request undeletion --&gt;
+
+Please also check any other files you may have uploaded to make sure they are correctly tagged. Here is [{{fullurl:Special:Log|type=upload&amp;user=Biensurbanana}} a list of your uploads].
+
+If you have any questions, please feel free to ask them at the [[Wikipedia:Media copyright questions|media copyright questions page]]. Thanks again for your cooperation.&lt;!-- Template:Di-no license-notice --&gt; [[User:Sfan00 IMG|Sfan00 IMG]] ([[User talk:Sfan00 IMG|talk]]) 11:56, 5 September 2015 (UTC)
+==License tagging for File:Brooke davis screen cap.JPG==
+Thanks for uploading [[:File:Brooke davis screen cap.JPG]].  You don't seem to have indicated the license status of the image.  Wikipedia uses a set of [[Wikipedia:Image copyright tags|image copyright tags]] to indicate this information. 
+
+To add a tag to the image, select the appropriate tag from [[Wikipedia:Image copyright tags/All|this list]], click on [[:File:Brooke davis screen cap.JPG|this link]], then click &quot;Edit this page&quot; and add the tag to the image's description.  If there doesn't seem to be a suitable tag, the image is probably not appropriate for use on Wikipedia. For help in choosing the correct tag, or for any other questions, leave a message on [[Wikipedia:Media copyright questions]].  Thank you for your cooperation.&lt;!-- User:OrphanBot/untagged-new --&gt; --[[User:ImageTaggingBot|ImageTaggingBot]] ([[User talk:ImageTaggingBot|talk]]) 23:05, 5 September 2015 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="21752329" title=Talk:Todas as Ruas do Amor>
+	<talkpage id="21752329" title="Talk:Todas as Ruas do Amor">
+{{WikiProject Songs|class=Stub|importance=|auto=yes}}
+{{EurovisionNotice|class=Stub|importance=low}}
+	</talkpage>
+</article>

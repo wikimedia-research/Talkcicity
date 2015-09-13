@@ -1,0 +1,7 @@
+<article id="38253310" title=Talk:Julian Bicknell>
+	<talkpage id="38253310" title="Talk:Julian Bicknell">
+{{WikiProject Biography
+|living=yes|listas=Bicknell, Julian|class=Start
+}}
+	</talkpage>
+</article>

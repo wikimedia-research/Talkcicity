@@ -1,0 +1,7 @@
+<article id="36316308" title=User talk:89.195.68.177>
+	<talkpage id="36316308" title="User talk:89.195.68.177">
+== July 2012 ==
+[[File:Information.svg|25px|alt=|link=]] Hello, and welcome to Wikipedia. Although everyone is invited to contribute, at least one of [[Special:Contributions/89.195.68.177|your recent edits]], such as the one you made to [[:Upton-upon-Severn]], did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt;&lt;!-- Template:uw-cluebotwarning1 --&gt; [[User:Jongleur100|  &lt;font style=&quot;color:#990000;&quot;&gt;'''''♦ Jongleur&lt;sup&gt;100&lt;/sup&gt; ♦'''''&lt;/font&gt;]] &lt;sup&gt;[[User talk:Jongleur100|&lt;span style='color: #FFA500;'&gt;talk&lt;/span&gt;]]&lt;/sup&gt; 16:05, 3 July 2012 (UTC)
+:''If this is a [[open proxy|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

@@ -1,0 +1,9 @@
+<article id="45177980" title=Talk:Sehrou Guirassy>
+	<talkpage id="45177980" title="Talk:Sehrou Guirassy">
+{{WikiProject Biography|living=yes
+|class=Stub
+|auto=yes
+}}
+{{WikiProject Football}}
+	</talkpage>
+</article>

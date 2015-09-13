@@ -1,0 +1,5 @@
+<article id="20794766" title=Talk:Lyall Bay>
+	<talkpage id="20794766" title="Talk:Lyall Bay">
+{{WikiProject New Zealand|importance=low|class=start}}
+	</talkpage>
+</article>

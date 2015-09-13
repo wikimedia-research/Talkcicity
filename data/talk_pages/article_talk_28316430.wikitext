@@ -1,0 +1,5 @@
+<article id="28316428" title=Talk:Wasteland (The View song)>
+	<talkpage id="28316428" title="Talk:Wasteland (The View song)">
+{{song|class=redirect}}
+	</talkpage>
+</article>

@@ -1,0 +1,93 @@
+<article id="5102565" title=User talk:IboCino>
+	<talkpage id="5102565" title="User talk:IboCino">
+==Welcome to Wikipedia!!!==
+{| style=&quot;border-spacing:8px;margin:0px -8px&quot; width=&quot;100%&quot;
+|class=&quot;MainPageBG&quot; style=&quot;width: 55%; border:1px solid #084080; background-color:#F5FFFA; vertical-align:top;color:#000000;font-size: 85%&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;2&quot; cellspacing=&quot;5&quot; style=&quot;vertical-align:top; background-color:#F5FFFA&quot;
+! &lt;div style=&quot;margin: 0; background-color:#CEF2E0; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #084080; text-align:left; color:#082840; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt; Hello &lt;font color=#0000FF&gt;{{PAGENAME}}&lt;/font&gt;! [[Wikipedia:Welcome, newcomers|Welcome]] to Wikipedia! Thank you for [[Special:Contributions/{{PAGENAME}}|your contributions]]. If you decide that you need help, check out [[Wikipedia:Where to ask a question]], ask me on my talk page, or place '''&lt;code&gt;{&amp;#123;helpme}}&lt;/code&gt;''' on your talk page and someone will show up shortly to answer your questions. Please remember to [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (~&amp;#126;~~); this will automatically produce your name and the date. Below are some recommended guidelines to facilitate your involvement. Happy Editing! [[User:Kukini|Kukin]][[Wikipedia:Esperanza|&lt;font color=&quot;green&quot;&gt;i&lt;/font&gt;]]&lt;/div&gt;
+|}
+{| style=&quot;border-spacing:8px;margin:0px -8px&quot; width=&quot;100%&quot;
+|class=&quot;MainPageBG&quot; style=&quot;width: 55%; border:1px solid #FFFFFF; background-color:#F5FFFA; vertical-align:top&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;2&quot; cellspacing=&quot;5&quot; style=&quot;vertical-align:top; background-color:#F5FFFA&quot;
+! &lt;div style=&quot;margin: 0; background-color:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Getting Started&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Tutorial|Wikipedia Tutorial]]
+* [[Wikipedia:How to edit a page|How to edit a page]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Wikipedia:Manual of Style|Manual of Style]]
+* [[Wikipedia:Be bold in updating pages|Be bold in editing]]
+* [[Wikipedia:How to write a great article|How to write a great article]]
+* [[Wikipedia:List of WikiProjects|WikiProjects]]
+|-
+! &lt;div style=&quot;margin: 0; background:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #cef2e0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Getting your info out there&lt;/div&gt;
+|-
+| style=&quot;color:#000&quot;|
+* [[Wikipedia:Cite your sources|Cite your sources]]
+* [[Wikipedia:NPOV|Neutral Point of View]]
+* [[Wikipedia:POV|Point of View]]
+* [[Wikipedia:Verifiability|Verifiability]]
+* [[Wikipedia:Uploading images|Uploading images]]
+* [[Wikipedia:Image use policy|Image use policy]]
+|-
+! &lt;div style=&quot;margin: 0; background:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #cef2e0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Getting more Wikipedia rules&lt;/div&gt;
+|-
+| style=&quot;color:#000&quot;|
+* [[Wikipedia:List of policies|Policy Library]]
+|-
+|}
+|class=&quot;MainPageBG&quot; style=&quot;width: 55%; border:1px solid #FFFFFF; background-color:#F5FFFA; vertical-align:top&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;2&quot; cellspacing=&quot;5&quot; style=&quot;vertical-align:top; background-color:#F5FFFA&quot;
+! &lt;div style=&quot;margin: 0; background-color:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Getting Help&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:New contributors' help page|New contributors' help page]]
+* [[Wikipedia:Where to ask a question|Where to ask a question]]
+* [[Wikipedia:Help desk|Help Desk]]
+* [[Wikipedia:FAQ|Frequently Asked Questions]]
+|-
+! &lt;div style=&quot;margin: 0; background-color:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #cef2e0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Getting along&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Wikiquette|Wikiquette]]
+* [[Wikipedia:Civility|Civility]]
+* [[Wikipedia:Sign your posts on talk pages|Sign your posts]]
+* [[Wikipedia:Wikipedians|Wikipedians]]
+* [[Wikipedia:Conflict resolution|Conflict resolution]]
+|-
+! &lt;div style=&quot;margin: 0; background-color:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #cef2e0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Getting technical&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+[[Image:Wikimedia.png|60px|right]]
+* [[Wikipedia:Pages needing attention|Pages needing attention]]
+* [[Wikipedia:Peer review|Peer review]]
+* [[Wikipedia:Utilities|Utilities]]
+* [[Wikipedia:Village pump|Village pump]]
+|-
+|}
+|}
+|} [[User:Kukini|Kuki]][[Wikipedia:Esperanza|&lt;font color=&quot;green&quot;&gt;ni&lt;/font&gt;]] 13:25, 11 May 2006 (UTC)
+
+
+==Orphaned fair use image ([[:Image:A-31230-1-.jpg]])==
+
+{| align=&quot;CENTER&quot;  style=&quot;background-color:#FFFFFF; border:8px solid #FF0000;  padding:5px;&quot;
+|-
+|[[Image:Achtung.svg|30px|Warning sign]]
+| &lt;center&gt;&lt;big&gt;This media may be '''deleted'''.&lt;/big&gt;
+&lt;/center&gt;
+|}
+
+Thanks for uploading '''[[:Image:A-31230-1-.jpg]]'''. I notice the 'image' page currently specifies that your image can be used under a [[WP:FU|fair use license]]. However, the image is currently [[WP:O|orphaned]], meaning that is not used in any articles on Wikipedia. If your image was previously in an article, please go to the article and see why your image was deleted. [[WP:BOLD|You may add it back]] if you think that that will be useful. 
+
+If you have uploaded other fair use media, please check whether they're used in any articles or not. You can find a list of 'image' pages you have edited by clicking on the &quot;[[Special:Contributions/{{PAGENAME}}|my contributions]]&quot; link (it is located at the very top of any Wikipedia page when you are logged in), and then selecting &quot;Image&quot; from the dropdown box. Note that any fair use images not used in any '''articles''' will be deleted after seven days, as described on [[wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. Thank you. --[[User:Durin|Durin]] 20:11, 30 May 2006 (UTC)
+==License tagging for Image:GSM-Shop.nl.jpg==
+Thanks for uploading [[:Image:GSM-Shop.nl.jpg]]. Wikipedia gets thousands of images uploaded every day, and in order to verify that the images can be legally used on Wikipedia, the source and copyright status must be indicated. Images need to have an [[Wikipedia:Image copyright tags|image tag]] applied to the [[Wikipedia:Image description page|image description page]] indicating the copyright status of the image. This uniform and easy-to-understand method of indicating the license status allows potential re-users of the images to know what they are allowed to do with the images.
+
+For more information on using images, see the following pages:
+* [[Wikipedia:Image use policy]]
+* [[Wikipedia:Image copyright tags]]
+
+This is an automated notice by [[User:OrphanBot|OrphanBot]]. If you need help on selecting a tag to use, or in adding the tag to the image description, feel free to post a message at [[Wikipedia:Media copyright questions]]. 21:08, 22 May 2007 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,219 @@
+<article id="1426335" title=Talk:.30-06 Springfield>
+	<talkpage id="34713115" title="Talk:.30-06 Springfield/Archive 1">
+{{aan}}
+
+== Picture ==
+
+Why is there a picture of a .303 British shell on the .30-06 Springfield article?  It should be explained that the picture is of a contemporary but different cartridge.
+: Disregard, it turns out the same picture is used on most (all?) rifle cartridge pages.  I don't know enough about templates, or I'd do this myself, but it'd be nice if someone put an indication in the caption that the picture is not of the cartridge the article focuses on.
+
+* Could someone provide a picture of this round next to a different round for scale?  Possibly next to a .308 round, as the fact that they are different rounds with the same caliber can cause some confusion.  [[User:Bad ideas|Bad ideas]] 02:18, 23 January 2007 (UTC)
+:http://www.theboxotruth.com/docs/edu26.htm scroll down to the bottom of the page and the .308 is on the right and the .30-06 is on the right
+:This is a good idea, but I want to say that there shouldn't be any confusion from them being the &quot;same.&quot;  .30-06 Springfield and .308 Winchester are obviously different when written in the English/Standard system and in the Metric system (7.62x63mm Springfield and 7.62x51mm NATO respectively). -- [[User:Thatguy96|Thatguy96]] 12:40, 23 January 2007 (UTC)
+* I don't have a picture but the .308 is a lot shorter the the .30-06. and the first sentence is weird, because the metric &quot;name&quot; for .308 is 7.62x51
+
+== References ==
+
+Lots of good info in this article, but it lacks citations. We need to find references and annotate the article as appropriate. [[User:Arthurrh|Arthurrh]] 00:28, 15 August 2007 (UTC)
+
+== GA review ==
+
+I've failed the GA for a few reasons. The most obvious reason I found was that it was vastly undercited, particularly in the performance section. The &quot;Cartridge dimensions&quot; section will do better as a thumbnail picture. Try to also convert one or two of the bulleted lists into prose. Although there aren't any examples of ammunition GA's, you might want to look at [[M1 Garand]], which is quite well written and cited. All in all, some more work should be done to improve the article to GA status. If you have any questions, please ask me. If you'd like to contest my decision, head to [[WP:GAR]]. '''''[[User:Bibliomaniac15|&lt;font color=&quot;black&quot;&gt;bibliomaniac&lt;/font&gt;]][[User talk:Bibliomaniac15|&lt;font color=&quot;red&quot;&gt;1&lt;/font&gt;]][[Special:Contributions/Bibliomaniac15|&lt;font color=&quot;blue&quot;&gt;5&lt;/font&gt;]]''''' 00:58, 23 November 2007 (UTC)
+== Weight and FPE ==
+
+Those weights aren't right. I know for a fact that the don't make 9.7 grain 30/06 rounds.....That's way too light to have that much FPE. I thing someone forgot a couple of zero's or converted to grams....  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/71.145.141.57|71.145.141.57]] ([[User talk:71.145.141.57|talk]]) 00:14, 30 December 2007 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Merge M2 Ball ==
+
+I think the article [[M2 Ball]] should be merged into this one. What do you all think ?&lt;br /&gt;
+I put the templates in place and will add it to the to do list if everyone agrees. --[[User:Boris Barowski|Boris Barowski]] ([[User talk:Boris Barowski|talk]]) 15:39, 31 August 2008 (UTC)
+:'''Support''': Performance specs can be added to the line in the .30-06 article on the M2 ball cartridge. -- [[User:Thatguy96|Thatguy96]] ([[User talk:Thatguy96|talk]]) 16:20, 31 August 2008 (UTC)
+:'''Support''': The M2 ball has a development history that can be summarized in two to five sentences.  A separate article is silly. --[[User:Nukes4Tots|Nukes4Tots]] ([[User talk:Nukes4Tots|talk]]) 18:40, 20 September 2008 (UTC)
+
+== Broken links on ballistic performance ==
+
+I fixed the link to Accurate Powders but the one to the Federal site remains broken. Someone might want to either delete it or correct it and then adjust the ballistics numbers to fit the new reference. Everyone who reloads knows that ballistics data varies considerably but we do need to have some numbers which make sense here. I'm not a 30-06 expert so will avoid the temptation to [[Fudd]] things up too badly. Regards.[[User:Trilobitealive|Trilobitealive]] ([[User talk:Trilobitealive|talk]]) 03:34, 10 February 2009 (UTC)
+
+== Poor data in the ballistic performance table ==
+
+The data listed in the ballistic table, is poor.  While the 150 grn and 165 grn listings are reasonably accurate, in the rest the velocities listed with the given bullet weights, are just not possible, without bullets with anti-friction coatings and/or dangerous amounts of powder. 
+
+The 180 grn loading in particular, has a weight and velocity combination that is more like something you would find from a .300 Remington Ultra Mag, rather than a 30-06.   Without special coatings ( like molybdenum disulfide ) velocities attained by 180 grain bullets from the 30-06 are more typically going to be in the 2600-2800 fps range - maybe even up to the low to mid 2700 fps range ( at maximum loading ), but at these loadings people start running the risk of exceeding recommended chamber pressure of the 30-06.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Greg Har|Greg Har]] ([[User talk:Greg Har|talk]] • [[Special:Contributions/Greg Har|contribs]]) 17:48, 18 June 2009 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+*The 30-06 with 180gr. bullets is very capable of attaining 2900fps. or more in commercial factory loadings for non semi/full auto weapons.(See: Federal High Energy, Hornady Light Magnum and Norma Oryx loadings for the 30-06. These loads are SAAMI congruent and are also measured in the military (CUP) Copper Units of Pressure or Crusher method and considered safe aswell. There are absolutely no chamber pressure risks involved in these commercial 30-06 loads. Safe SAAMI hand loads at 2900fps. for the 30-06 with 180gr. bullets are easily attainable where as similar loads for the .308win. are not! (See various loading Manuels) The 30-06 150gr.,165gr. and 200gr. bullet loads for this section are on the low side too! Federals High Energy 30-06 Trophy Bonded/180gr.@2900fps. from(www.ableammo.com/catalog) and Normas Oryx 200gr.@2625fps from (www.midway.com/view) product no.286754 are examples of modern 30-06 ammunition. The ammunition companies have modernized the 30-06, because of lost sales due to private or individual reloading. The 30-06 is the number 1 reloaded cartridge based on die and reloading sales in America!
+*Many ammunition companys such as: Federal, Hornady, Norma, Remington, Winchester etc. are now offering modern day loads that far exceed the 1930 loadings for the &quot;06&quot;. As best I can tell the ballistic tables that you have provided are severely low on the velocity end for various bullet weights. Here are some typical modern 30-06 velocies by mfg. and bullet weight:
+*1) Hornady Light Magnum  150grain@3100fps.
+*2) Hornady Light Magnum  165grain@3015fps.
+*3) Hornady light Magnum  180grain@2900fps.
+*4) Federal High Energy   180grain@2887fps.
+*5) Norma Oryx            200grain@2625fps.
+*If this web site is going to keep modern definitions on hand for the general public to make accurate comparisons, then it should change the ballistic tables utilizing more modern velocities rather than use old out-dated material! 
+
+MG.[[Special:Contributions/174.47.178.224|174.47.178.224]] ([[User talk:174.47.178.224|talk]]) 03:48, 12 April 2010 (UTC)[[Special:Contributions/74.215.118.101|74.215.118.101]] ([[User talk:74.215.118.101|talk]]) 11:36, 10 April 2010 (UTC)
+(Historian for the Nat'l Archives)  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/74.215.118.101|74.215.118.101]] ([[User talk:74.215.118.101|talk]]) 02:05, 10 April 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+== WikiProject Military history/Assessment/Tag &amp; Assess 2008 ==
+
+Article reassessed and graded as start class.  [[Wikipedia:WikiProject Military history/Style guide#Sources|Referencing]]and [[Wikipedia:WikiProject Military history/Style guide#Citations|appropriate inline citation]] guidelines not met.    --[[User:Dashiellx|dashiellx]] ([[User talk:Dashiellx|talk]]) 11:14, 24 April 2008 (UTC)
+9.7 grains is about 1 .177 pellet. Should be a hundred plus.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/66.109.88.249|66.109.88.249]] ([[User talk:66.109.88.249|talk]]) 05:53, 28 August 2011 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Interchangable with the 7.62x51mm NATO ? ==
+
+Is this .30-06 Springfield interchangable with the 7.62x51mm NATO? if it is, it should be mentioned in the article.[[User:Gruoney|Gruoney]] ([[User talk:Gruoney|talk]]) 16:25, 26 August 2009 (UTC)
+
+     It is not interchangable. [[User:Vitae drinker|Vitae drinker]] ([[User talk:Vitae drinker|talk]]) 04:24, 25 November 2009 (UTC)
+
+The 7.62 NATO is about .5 inch ( 12.7 mm ) shorter than the 30.06 [[User:Greg Har|Greg Har]] ([[User talk:Greg Har|talk]]) 15:03, 3 December 2009 (UTC)
+
+::I believe the 7.62x51mm NATO is supposed to be interchangeable with a [[.308 Winchester]] per the .308 article.  [[User:Dachande|Dachande]] ([[User talk:Dachande|talk]]) 18:47, 11 November 2010 (UTC)
+
+== Wrong bullet diameter ==
+
+The .30-06 uses a .308&quot; bullet, not a .300&quot; bullet as claimed in the specifications table.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Tchaika|Tchaika]] ([[User talk:Tchaika|talk]] • [[Special:Contributions/Tchaika|contribs]]) 00:44, 7 November 2010 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Dead link ==
+
+During several automated bot runs the following external link was found to be unavailable. Please check if the link is in fact down and fix or remove it in that case!
+
+* http://www.accuratepowder.com/data/AccurateGuideV3-2.pdf
+** In [[.30-06 Springfield]] on 2011-05-20 21:36:20, 404 Not Found
+** In [[.30-06 Springfield]] on 2011-06-20 02:58:30, 404 Not Found
+
+--[[User:JeffGBot|JeffGBot]] ([[User talk:JeffGBot|talk]]) 02:59, 20 June 2011 (UTC)
+== Dead link 2 ==
+
+During several automated bot runs the following external link was found to be unavailable. Please check if the link is in fact down and fix or remove it in that case!
+
+* http://www.cip-bp.org/index.php?id=tdcc-telechargement
+** In [[.223 Remington]] on 2011-05-20 21:28:33, Socket Error: 'getaddrinfo failed'
+** In [[10mm Auto]] on 2011-05-23 02:08:47, Socket Error: 'getaddrinfo failed'
+** In [[.223 Remington]] on 2011-05-31 04:44:11, Socket Error: 'getaddrinfo failed'
+** In [[.325 WSM]] on 2011-05-31 12:36:32, Socket Error: 'getaddrinfo failed'
+** In [[10mm Auto]] on 2011-06-01 01:40:56, Socket Error: 'getaddrinfo failed'
+** In [[5.45x39mm]] on 2011-06-19 14:22:29, Socket Error: 'getaddrinfo failed'
+** In [[6.5x68mm]] on 2011-06-19 20:34:20, Socket Error: 'getaddrinfo failed'
+** In [[8x57mm IS]] on 2011-06-19 21:41:24, Socket Error: 'getaddrinfo failed'
+** In [[.223 Remington]] on 2011-06-20 02:54:59, Socket Error: 'getaddrinfo failed'
+
+--[[User:JeffGBot|JeffGBot]] ([[User talk:JeffGBot|talk]]) 03:01, 20 June 2011 (UTC)
+== Units ==
+
+I've read the article and find it somewhat confusing.  We have a mix of dominance between the metric and english units, especially in the Performance section.  Being an American designed round with most specifications (especially the 1938 reference about test data) would neccessarily be in english units and as such should be accurate and dominant with approximate metrics parentheticized.  Anything relating to any NATO or international changes could be metric, but in the US usage and history there shouldn't be a &quot;X gram (N.nnn grain)&quot;.  A 150 grain bullet AS DESIGNED should never have the grain (designed spec) as the secondary unit.
+[[Special:Contributions/68.196.105.69|68.196.105.69]] ([[User talk:68.196.105.69|talk]]) 21:56, 18 August 2011 (UTC)
+
+
+yeah having cartridge dimensions is kinda silly, hand-loaders use the English system so this picture is basically useless. [[Special:Contributions/68.82.143.169|68.82.143.169]] ([[User talk:68.82.143.169|talk]]) 13:35, 24 May 2012 (UTC)Finch
+== .30 Gov't 06 ==
+
+Should there be some mention of the .30 Gov't 06 designation that this cartridge wore, for much of its life?  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/67.185.128.163|67.185.128.163]] ([[User talk:67.185.128.163|talk]]) 08:32, 27 August 2011 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Pronunciation of the &quot;0&quot;. Is it regional. ==
+
+I reverted the addition of &quot;less frequently&quot; from the lead which stated &quot;thirty-aught-six&quot;, or ''less frequently'', &quot;thirty-oh-six&quot;. I believe it's regional, with &quot;aught&quot; being almost universally used in the USA but I think &quot;oh&quot; being used in Australia and maybe the UK also.   Any comments or suggestions.--[[User:Dmol|Dmol]] ([[User talk:Dmol|talk]]) 06:14, 2 May 2012 (UTC)
+
+* I'm in the US, and I've never heard it be anything other that &quot;thirty-aught-six&quot; (but my regional view doesn't mean much). See [[Names for the number 0 in English#&quot;Nought&quot; and &quot;naught&quot; versus &quot;aught&quot; and &quot;ought&quot;]]
+: It's a US cartridge, so the pronunciation in other countries might be viewed as minor. The contemporary British cartridge was the three-oh-three, so &quot;thirty-oh-six&quot; would be reasonable.
+: Google turns up a debate for either [http://thefiringline.com/forums/archive/index.php?t-194895.html]
+: Here's thirty-aught-six [http://books.google.com/books?id=RIGXmHwL5zYC&amp;pg=PT34&amp;lpg=PT34&amp;dq=%22thirty+ought+six%22+isbn+%22.30-06%22&amp;source=bl&amp;ots=8bXBjb-umG&amp;sig=D692TacKgkgCPLldG-9-cUYPzp8&amp;hl=en&amp;sa=X&amp;ei=2a-iT5_ZHsepiQLZ3M3ABw&amp;sqi=2&amp;ved=0CDAQ6AEwAg#v=onepage&amp;q&amp;f=false in a book]
+: Here's thirty-oh-six [http://books.google.com/books?id=tuVUMLRE47UC&amp;pg=PA171&amp;lpg=PA171&amp;dq=%22thirty+oh+six%22&amp;source=bl&amp;ots=tIEww_jdzy&amp;sig=0fQcGWzOikL-YFmAge0FlsLVsKk&amp;hl=en&amp;sa=X&amp;ei=xqiiT9zeJqeRiAL--LzUBw&amp;ved=0CCgQ6AEwAQ#v=onepage&amp;q=%22thirty%20oh%20six%22&amp;f=false in a book] published in the US.
+: Google has about 5 times more hits for &quot;thirty aught six&quot;, and 3 times more hits for &quot;thirty ought six&quot; (including some song lyrics).
+: Google(&quot;thirty oh six&quot; isbn &quot;.30-06&quot; -wikipedia) gets 8 hits. They mostly give both pronunciations but aught is first.
+: Google(&quot;thirty aught six&quot; isbn &quot;.30-06&quot; -wikipedia) gets 70,000. But even some of those give the &quot;oh&quot; version.
+: My gut tells me that oh-six is used &quot;less frequently&quot;, but I don't have an RS that says that. I'm OK with &quot;less frequently&quot;, but I'm also OK with leaving it out. The underlying origin is vestigal.
+: On another matter, the info box says the .30-06 is still &quot;in service&quot;. I understand that phrase to be in military service, and there's seems little point to have both the .30-06 and the [[7.62×51mm NATO]].
+: [[User:Glrx|Glrx]] ([[User talk:Glrx|talk]]) 18:41, 3 May 2012 (UTC)
+
+== Energy Data Inaccurate? ==
+
+I was going through the bullet mass, velocity and energy data and, not seeing the energies already listed, decided to calculate them myself.  The energies I get just simply from the familiar kinetic energy (T = 1/2*m*v^2) and the current shown energy are:
+
+{| class=&quot;wikitable&quot; border=&quot;1&quot;
+|-
+! Mass (gr)
+! My Energy (ft*lbf)
+! Shown Energy (ft*lbf)
+|-
+| 150.0
+| 2820.0
+| 2820
+|-
+| 165.0                       
+| 2871.8
+| 2872
+|-
+| 180.0
+| 2913.2
+| 2913
+|-
+| 200.0
+| 2930.4
+| 2932
+|-
+| 220.0
+| 3052.6
+| 2981
+|}
+
+As you can see they agree well for the first 3, the 4th energy is pretty close, but the last energy is very different.  I noticed these results are cited, but they are inconsistent, so I'm wondering what's going on with these data.
+
+[[Special:Contributions/74.243.202.171|74.243.202.171]] ([[User talk:74.243.202.171|talk]]) 06:26, 31 August 2012 (UTC)
+
+I noticed the same thing myself; and unfortunately they seem to be off on other cartridge infoboxes as well. These should be auto-computed by MediaWiki anyhow; see [[Wikipedia_talk:WikiProject_Firearms/Archive_8#Cartridge_Infobox|my proposal]] to implement this.
+[[User:Dfavro|David F]] ([[User talk:Dfavro|talk]]) 04:06, 13 June 2013 (UTC)
+	</talkpage>
+	<talkpage id="1426335" title="Talk:.30-06 Springfield">
+{{talkheader}}
+{{WikiProjectBannerShell|1=
+{{WP1.0|v0.7=nom|class=Start}}
+{{WikiProject Military history|class=C
+&lt;!-- B-Class 5-criteria checklist --&gt;
+|B1 &lt;!-- Referencing and citations --&gt; =n
+|B2 &lt;!-- Coverage and accuracy --&gt; =y
+|B3 &lt;!-- Structure --&gt; =y
+|B4 &lt;!-- Grammar and style --&gt; =y
+|B5 &lt;!-- Supporting materials --&gt; =y
+|Weaponry=y|US=y}}
+{{WikiProject Firearms|importance=top|class=C|B-Class-1=n|B-Class-2=y|B-Class-3=y|B-Class-4=y|B-Class-5=y}}
+}}
+{{ArticleHistory|action1=GAN
+|action1date=23 November 2007
+|action1result=not listed
+|action1oldid=172438665
+|currentstatus=FGAN
+}}
+{{User:MiszaBot/config
+|archiveheader = {{aan}}
+|maxarchivesize = 150K
+|counter = 1
+|minthreadsleft = 4
+|minthreadstoarchive = 1
+|algo = old(100d)
+|archive = Talk:.30-06 Springfield/Archive %(counter)d
+}}
+{{Archive box|auto=long|search=yes|bot=MiszaBot I|age=100}}
+
+== Clarification ==
+&quot;boat-tailed bullets was beyond the safety limitations of many ranges.&quot;&lt;br /&gt;
+
+Could someone try and clarify what the article means by &quot;range&quot; in the quoted part of the article? I couldn't be sure what the hell it meant based on my limited knowledge of firearms and possible definitions of the word, and wasn't the point of the M1 to increase the range in the first place? Nor would I think they'd care too much about their rifle ranges to demand the War Department to change their rifle round -back- to the original instead of just compensating the ranges. Unless that was the intent, and I give the US Army too much credit intelligence-wise. -anon.
+
+I took this to mean a shooting range. The article at this point was talking about using old ammunition for training. If the new ammunition was too powerful, it could shoot through the barriers at the end of the shooting range, posing a danger for other personnel.  [[Special:Contributions/64.136.195.215|64.136.195.215]] ([[User talk:64.136.195.215|talk]]) 01:30, 21 October 2013 (UTC)
+
+== USMC .30-06 Model 70 in Vietnam? ==
+Why is there no mention of the .30-06's use in Vietnam by the Marine Corps?  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/76.190.232.213|76.190.232.213]] ([[User talk:76.190.232.213|talk]]) 08:50, 8 September 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Incorrect/mistyped range information within the History section. ==
+The following information contradicts other information on the page itself and outside of Wikipedia. (The following information is un-sourced; I do not feel knowledgeable enough about this round &amp; rifle to state the true range.) Most information points to a range of only '''1,000 yards'''. Much less than the stated 5,500 yards on this page.
+
+In addition, I read and searched the source PDF for this informaion but as yet been unable to find the exact source of the stated 5,500 yard range.
+
+&quot; Its maximum range was approximately {{convert|5500|yd|m|-1|abbr=on}}.&lt;ref name=&quot;cgsc.edu&quot;&gt;[http://www.cgsc.edu/carl/docrepository/FM23_10.pdf FM 23-10 ''Basic Field Manual: U.S. Rifle Caliber .30, M1903'', 20 September 1943 page 212]&lt;/ref&gt; &quot;
+
+&lt;references/&gt;
+
+[[User:Mrwhite22|Mrwhite22]] ([[User talk:Mrwhite22|talk]]) 00:19, 2 July 2014 (UTC)
+
+: The PDF has the 5500 yard claim for (M1, discontinued) on page 212 -- just as the citation stated. Range for M2 was 3450 yd. See history section for description of range safety. [[User:Glrx|Glrx]] ([[User talk:Glrx|talk]]) 00:46, 4 July 2014 (UTC)
+
+== More powerful claim ==
+While the .30-06 is described as more powerful than the 6.5mm x50 Arisaka, this only holds true at shorter-medium ranges as the 6.5mm bullet holds velocity and energy better than the larger .30 bullet.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/86.30.132.216|86.30.132.216]] ([[User talk:86.30.132.216|talk]]) 13:04, 15 August 2014 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

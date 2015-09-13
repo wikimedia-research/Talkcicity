@@ -1,0 +1,18 @@
+<article id="34444275" title=User talk:Gogoichittaranjanj>
+	<talkpage id="34444275" title="User talk:Gogoichittaranjanj">
+'''Welcome!'''
+
+Hello, Gogoichittaranjanj, and [[Wikipedia:Introduction|welcome]] to Wikipedia! Thank you for [[Special:Contributions/Gogoichittaranjanj|your contributions]]. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Help:Editing|How to edit a page]] and [[Wikipedia:Article development|How to develop articles]]
+*[[Wikipedia:Your first article|How to create your first article]] (using the [[Wikipedia:Article wizard|Article Wizard]] if you wish)
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign]] your messages on [[Help:Using talk pages|discussion page]]s using four [[tilde]]s (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically insert your username and the date. If you need help, check out [[Wikipedia:Questions]], ask me on [[user talk:Jeff G.|my talk page]], or ask your question on this page and then place &lt;code&gt;&lt;nowiki&gt;{{help me}}&lt;/nowiki&gt;&lt;/code&gt; before the question. Again, welcome! &lt;!-- Template:Welcome --&gt;&amp;nbsp; &amp;mdash; '''&lt;span style=&quot;background:Yellow;color:Blue;&quot;&gt;[[User:Jeff G.|Jeff]] [[User:Jeff G./talk|G.&amp;nbsp; ツ]]&lt;/span&gt;''' 14:00, 21 January 2012 (UTC)
+
+== January 2012 ==
+[[Image:Information.svg|25px|alt=|link=]] Welcome to Wikipedia. Everyone is welcome to contribute to the encyclopedia, but when you add or change content, as you did to the article [[:Dibrugarh University]], please cite a [[Wikipedia:Identifying reliable sources|reliable source]] for your addition. This helps maintain our policy of [[Wikipedia:Verifiability|verifiability]]. See [[Wikipedia:Citing sources]] for how to cite sources, and the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. Thank you.&lt;!-- Template:uw-unsourced1 --&gt; [[User:Muhandes|Muhandes]] ([[User talk:Muhandes|talk]]) 10:10, 23 January 2012 (UTC)
+
+[[Image:Stop hand nuvola.svg|30px|alt=|link=]] Your addition to [[:Dibrugarh University]] has been removed, as it appears to have added [[Wikipedia:Copyrights|copyrighted]] material to Wikipedia without [[Wikipedia:Requesting copyright permission|permission]] from the copyright holder. For [[Wikipedia:Copyrights|legal reasons]], we cannot accept copyrighted text or images borrowed from other websites or printed material; such additions will be deleted. You may use external websites or publications as a source of ''information'', but not as a source of ''article content'' such as sentences or images. Wikipedia takes copyright violations very seriously and persistent violators '''will be [[Wikipedia:Blocking policy|blocked from editing]]'''. &lt;!-- Template:uw-copyright --&gt; ''From http://www.dibru.ac.in/page.php?cat=Centre&amp;id=Juridical%20Studies&amp;m_id=Profile&amp;show=sm'' [[User:Muhandes|Muhandes]] ([[User talk:Muhandes|talk]]) 13:41, 23 January 2012 (UTC)
+	</talkpage>
+</article>

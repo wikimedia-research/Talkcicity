@@ -1,0 +1,12 @@
+<article id="8124650" title=Talk:USS Cape St. George>
+	<talkpage id="8124650" title="Talk:USS Cape St. George">
+{{WikiProject Ships
+  |class=start
+  |importance = Mid}}
+
+{{WPMILHIST
+|class=start
+|Maritime-task-force=yes 
+|US-task-force=yes}}
+	</talkpage>
+</article>

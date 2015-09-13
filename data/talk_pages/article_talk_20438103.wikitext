@@ -1,0 +1,9 @@
+<article id="20438103" title=Talk:David Murray discography>
+	<talkpage id="20438103" title="Talk:David Murray discography">
+{{WikiProject Discographies|class=stub}}
+{{WikiProject Jazz|album=yes
+|class=list
+|importance=mid
+}}
+	</talkpage>
+</article>

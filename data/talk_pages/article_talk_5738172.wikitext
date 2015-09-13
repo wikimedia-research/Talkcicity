@@ -1,0 +1,20 @@
+<article id="5738172" title=User talk:Mlachance>
+	<talkpage id="5738172" title="User talk:Mlachance">
+==Welcome==
+
+'''Welcome!'''
+
+Hello, {{BASEPAGENAME}}, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for your contributions. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Help:Contents|Help pages]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:Article development|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (~&amp;#126;~~); this will automatically produce your name and the date. If you need help, check out [[Wikipedia:Questions]], ask me on my talk page, or place &lt;code&gt;{&amp;#123;helpme}}&lt;/code&gt; on your talk page and someone will show up shortly to answer your questions. Again, welcome!&amp;nbsp; --[[User:TeaDrinker|TeaDrinker]] 00:07, 28 June 2006 (UTC)
+
+== Your edits to [[Hugo Largo]] ==
+
+Thank you for contributing to Wikipedia, Mlachance! However, your edit [http://en.wikipedia.org/w/index.php?title=Hugo_Largo&amp;diff=95267811&amp;oldid=95267297 here] was reverted by an automated bot that attempts to remove spam from Wikipedia. If you were trying to insert a good link, please accept my creator's apologies, and try to reinsert the link again. If your link was genuine spam, please note that inserting spam into Wikipedia is against policy. For more information about me, see [[User:Shadowbot/FAQ|my FAQ page]]. Thanks! [[User:Shadowbot|Shadowbot]] 07:31, 19 December 2006 (UTC)
+	</talkpage>
+</article>

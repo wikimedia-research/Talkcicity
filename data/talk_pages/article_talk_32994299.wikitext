@@ -1,0 +1,9 @@
+<article id="32994299" title=Talk:Pat Twohill>
+	<talkpage id="32994299" title="Talk:Pat Twohill">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=no|class=Stub|filmbio-priority=Low|filmbio-work-group=yes|listas=Twohill, Pat }}
+{{WikiProject New Zealand|class=Stub|importance=Low}}
+{{WikiProject Australia|class=Stub|importance=Low}}
+}}
+	</talkpage>
+</article>

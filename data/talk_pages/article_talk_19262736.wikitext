@@ -1,0 +1,5 @@
+<article id="19262736" title=Talk:Critical Assessment of Prediction of Interactions>
+	<talkpage id="19262736" title="Talk:Critical Assessment of Prediction of Interactions">
+{{WPMCB|class=stub}}
+	</talkpage>
+</article>

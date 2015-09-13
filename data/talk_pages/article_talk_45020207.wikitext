@@ -1,0 +1,22 @@
+<article id="31283304" title=Talk:United States Telecom Ass'n v. FCC>
+	<talkpage id="31283304" title="Talk:United States Telecom Ass'n v. FCC">
+{{WikiProject United States|class=Start|importance=Low|USGov=Yes|USGov-importance=Low|USPP=Yes}}
+{{WikiProject United States Public Policy}}
+{{WAP assignment | term = 2011 Spring | project = WikiProject United States Public Policy | university = Michigan State University| course =Wikipedia:WikiProject United States Public Policy/Courses/Media and Telecommunication Policy spring 2011 (Obar) }}
+
+==Untitled==
+History: Talking about 1996 Telecom Act leading to USTA I
+
+Triennial Review Order: The creation of it after USTA I and its goals, etc.
+
+Ruling: The court's opinion on the case
+
+Implications: Business Implications and Consumer implications.
+
+Look at possible implications with Wireless Networks.
+
+[[User:Bakern10|Bakern10]] ([[User talk:Bakern10|talk]]) 13:41, 24 March 2011 (UTC)
+
+What if we move the TRRO below implications? It would make more sense to gave after the definition of the ruling I think. [[User:Bakern10|Bakern10]] ([[User talk:Bakern10|talk]]) 18:42, 3 April 2011 (UTC)
+	</talkpage>
+</article>

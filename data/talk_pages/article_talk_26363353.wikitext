@@ -1,0 +1,14 @@
+<article id="24041893" title=Talk:Janet Watson>
+	<talkpage id="24041893" title="Talk:Janet Watson">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=no
+|class=start
+|listas=Watson, Janet Vida
+|s&amp;a-work-group=yes}}
+{{WikiProject Geology|class=start|importance=low}}
+{{WikiProject Women scientists|class=start|importance=low}}
+}}
+
+{{DYK talk|23 February|2010|{{*mp}}...  that '''[[Janet Vida Watson]]'''{{`}}s first job involved researching the growth of chickens, but that she went on to become the first woman  president of the [[Geological  Society of London]]?}}
+	</talkpage>
+</article>

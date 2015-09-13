@@ -1,0 +1,25 @@
+<article id="33666933" title=User talk:KatherineBarnard>
+	<talkpage id="33666933" title="User talk:KatherineBarnard">
+[[Image:Information.svg|25px|alt=|link=]] Welcome to Wikipedia. It might not have been your intention, but your recent edit removed content from Wikipedia. When removing content, please specify a reason in the [[Help:Edit summary|edit summary]] and discuss edits that are likely to be controversial on the article's [[Wikipedia:Talk page|talk page]]. If this was a mistake, don't worry; the content has been restored, as you can see from the [[Help:Page history|page history]]. Take a look at the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing to this encyclopedia, and if you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]].  Thank you.&lt;!-- Template:uw-delete1 --&gt; &lt;b&gt;[[User:Ohnoitsjamie|OhNo&lt;font color=&quot;#D47C14&quot;&gt;itsJamie&lt;/font&gt;]] [[User talk:Ohnoitsjamie|&lt;sup&gt;Talk&lt;/sup&gt;]]&lt;/b&gt; 17:09, 7 November 2011 (UTC)
+
+== December 2011 ==
+
+Regarding [http://en.wikipedia.org/w/index.php?title=Erin_Burnett&amp;diff=prev&amp;oldid=467957453 this edit] you made to the [[Erin Burnett]]  article: you removed content from Wikipedia without providing an explanation in an [[WP:ES|edit summary]] or on the article's [[WP:TP|talk page]]. Moreover, your edit was marked as a [[WP:MINOR|minor edit]]. Minor edits are grammar/spelling corrections, reverting '''obvious''' vandalism and things like that. Removal of content that isn't obvious vandalism is rarely (if ever) a minor edit.
+
+I understand that, if you're new to Wikipedia, all the policies and jargon may seem overwhelming at first. Hopefully, the links in the paragraph above are helpful to you and if you have any remaining questions, feel free to ask. Regards, --&lt;span style=&quot;padding:2px;border:1px solid #000000;&quot;&gt;&lt;span style=&quot;background-color:#6bb5d6;&quot;&gt;&amp;nbsp;[[User:Skysmurf|&lt;font color=&quot;black&quot;&gt;Skysmurf&amp;nbsp;&lt;/font&gt;]]&lt;/span&gt;&amp;nbsp;[[User talk:Skysmurf|&lt;font color=&quot;#000000&quot;&gt;(Talk)&lt;/font&gt;]]&lt;/span&gt; 21:08, 27 December 2011 (UTC)
+==Welcome!==
+
+[[Image:Chocolate chip cookies.jpg|thumb|300px|Some cookies to welcome you! [[File:Face-smile.svg|25px]]]] [[Wikipedia:Welcoming committee/Welcome to Wikipedia|Welcome to Wikipedia]], KatherineBarnard! Thank you for [[Special:Contributions/KatherineBarnard|your contributions]]. I am [[User:Skysmurf|Skysmurf]] and have been editing Wikipedia for quite some time, so if you have any questions feel free to leave me a message on [[User talk:Skysmurf|my talk page]]. You can also check out [[Wikipedia:Questions]] or type {{tlx|helpme}} at the bottom of this page.  Here are some pages that you might find helpful:
+* [[Wikipedia:Introduction|Introduction]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Wikipedia:How to edit a page|How to edit a page]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Article development|How to write a great article]]
+Also, when you post on [[Wikipedia:Talk page|talk pages]] you should [[Wikipedia:Sign your posts on talk pages|sign your name]] using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); that will automatically produce your username and the date.  I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! 
+ 
+&lt;span style=&quot;padding:2px;border:1px solid #000000;&quot;&gt;&lt;span style=&quot;background-color:#6bb5d6;&quot;&gt;&amp;nbsp;[[User:Skysmurf|&lt;font color=&quot;black&quot;&gt;Skysmurf&amp;nbsp;&lt;/font&gt;]]&lt;/span&gt;&amp;nbsp;[[User talk:Skysmurf|&lt;font color=&quot;#000000&quot;&gt;(Talk)&lt;/font&gt;]]&lt;/span&gt; 21:09, 27 December 2011 (UTC)
+
+==Burnett==
+Could use your input [[Talk:Erin_Burnett#BLP|here]], you seem to be familiar with the subject and show.  Thanks! [[User:Dreadstar|Dreadstar]] &lt;small&gt;[[User talk:Dreadstar|&lt;span class=&quot;Unicode&quot;&gt;☥&lt;/span&gt;]]&lt;/small&gt;  21:51, 18 June 2012 (UTC)
+	</talkpage>
+</article>

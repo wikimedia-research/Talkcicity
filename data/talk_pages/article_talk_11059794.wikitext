@@ -1,0 +1,6 @@
+<article id="10757598" title=Talk:Northern Vanuatu languages>
+	<talkpage id="10757598" title="Talk:Northern Vanuatu languages">
+{{WP Languages|class=Stub}}
+{{WikiProject Melanesia|class=Stub|Vanuatu=yes}}
+	</talkpage>
+</article>

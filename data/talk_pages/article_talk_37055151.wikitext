@@ -1,0 +1,355 @@
+<article id="37055151" title=User talk:Cpiral/Archive 1>
+	<talkpage id="37055151" title="User talk:Cpiral/Archive 1">
+{{talk archive}}
+==Questions I'd like help with==
+&lt;!--{{helpme}}--&gt;
+'''Welcome!'''
+
+Hello, {{BASEPAGENAME}}, and [[Wikipedia:Introduction|welcome]] to Wikipedia!
+
+Thank you for [[Special:Contributions/{{BASEPAGENAME}}|your contributions]]{{#if: |, especially what you did for [[:{{{article}}}]]}}{{#if: |, especially what you did for [[:{{{art}}}]]}}{{#if: |&amp;nbsp;even though it is being considered for deletion}}.{{#if: |&amp;nbsp;Also, thank you for your message on my Talk Page.}} It's great that you want to contribute to Wikipedia - the more constructive editors the better!
+
+I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Wikipedia:Article development|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+
+You might also find these policies and guidelines useful:
+*[[Wikipedia:COI|What do we mean if we say that you might have a '''Conflict of Interest'''?]]
+*[[Wikipedia:NPOV|What do we mean by '''Neutral Point of View'''?]]
+*[[Wikipedia:RELIABLE_SOURCES|What sources are counted as '''reliable'''?]]
+*[[Wikipedia:NOTABILITY|What makes the subject of an article '''notable'''?]]
+*[[Wikipedia:WMD|Why was my page '''deleted'''?]]
+*[[Wikipedia:BAI|An essay containging a '''List of bad article ideas''']]
+
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Getting the articles ''just right'' can be tricky - but there are lots of people to ask!
+
+If you have any questions, just click on the ''Contact Me'' link after my signature at the end of this section. Alternatively, check out [[Wikipedia:Questions]], or ask your question on this page and then place &lt;code&gt;&lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt;&lt;/code&gt; before the question.
+
+By the way, when you are writing on a discussion page (or someone's talk page), it is considered good manners to ''sign'' your comment... to do this, just add &lt;code&gt;&lt;nowiki&gt;~~~~&lt;/nowiki&gt;&lt;/code&gt; at the end of your comment. That will put your user name ({{BASEPAGENAME}}) and the date/time at the end (or you can click on the [[File:Button_sig.png]] icon when you are editing. '''Never sign on an article page''' - only on a discussion page. 
+
+{{#if: |&lt;font color=&quot;red&quot; size=+1&gt;&lt;u&gt;'''Your user name'''&lt;/u&gt;: Your user name appears to be that of a company or arganisation, which could be against Wikipedia's [[WP:USER|User name policy]], specifically &quot;[[WP:ORGNAME|Explicit use of a name or url of a company, group or product as a username is not permitted]]&quot;.&lt;/font&gt;
+
+You can request a change of user name by following the instructions at [[Wikipedia:Changing_username]] .
+
+If you have any other questions, leave me a message by clicking on &quot;Contact Me&quot; in my signature.}}
+
+I am now going to add my signature, using &lt;code&gt;&lt;nowiki&gt;~~~~&lt;/nowiki&gt;&lt;/code&gt;: -- '''[[User:Phantomsteve|&lt;font color=&quot;#307D7E&quot;&gt;Phantom&lt;/font&gt;&lt;font color=&quot;#55CAFA&quot;&gt;Steve&lt;/font&gt;]]''' ([[User talk:Phantomsteve|&lt;font color=&quot;#307D7E&quot;&gt;Contact Me&lt;/font&gt;]], [[Special:Contributions/Phantomsteve|&lt;font color=&quot;#5599FA&quot;&gt;My Contribs&lt;/font&gt;]]) 23:52, 7 September 2009 (UTC)
+
+===View instead of Edit===
+Where's the &quot;view page source&quot; button other than the &quot;edit this page&quot; button?(I once saw a &quot;view source&quot; tab on the &quot;Vector&quot; skin. Do I need a new skin?)[[User:Cpiral&amp;#124;&lt;font style=&quot;background:#FFF090;color:#00C000&quot;&gt;'''Cp&lt;font style=&quot;background:#FFF0A0;color:#80C000&quot;&gt;i&lt;font style=&quot;color:#C08000&quot;&gt;r&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#C00000&quot;&gt;al&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#2820F0&quot;&gt;Cpiral'''&lt;/font&gt;]] 20:47, 3 September 2009 (UTC)
+:I am very confused about that! I think it might only apply to special pages (ex. the main page). Very strange! &lt;span style=&quot;font-family: Arial Black; font-size: 12&quot; &gt;&lt;span style=&quot;color:#008080&quot;&gt;[[User:Marx01|&lt;b&gt;Marx01&lt;/b&gt;]]&lt;/span&gt;&lt;/span&gt; &lt;sup&gt;[[User_talk:Marx01|Tell me about it]]&lt;/sup&gt; 02:58, 5 September 2009 (UTC)
+:: Hi Cpiral. If you see a &quot;View page source&quot; tab instead of &quot;edit this page&quot;, that means that the page is protected, and cannot be edited. The source is the same as you would normally see if you edited the page, but as it is protected (from vandalism, for example), you cannot alter the source. (see [[Help:Wikipedia:_The_Missing_Manual/Appendixes/A_Tour_of_the_Wikipedia_Page#Edit_This_Page_.28or_View_Source.29]] -- '''[[User:Phantomsteve|&lt;font color=&quot;#307D7E&quot;&gt;Phantom&lt;/font&gt;&lt;font color=&quot;#55CAFA&quot;&gt;Steve&lt;/font&gt;]]''' ([[User talk:Phantomsteve|&lt;font color=&quot;#307D7E&quot;&gt;Contact Me&lt;/font&gt;]], [[Special:Contributions/Phantomsteve|&lt;font color=&quot;#5599FA&quot;&gt;My Contribs&lt;/font&gt;]]) 23:52, 7 September 2009 (UTC)
+:::Thanks Phantom! That was bugging me I couldn't answer! &lt;span style=&quot;font-family: Arial Black; font-size: 12&quot; &gt;&lt;span style=&quot;color:#008080&quot;&gt;[[User:Marx01|&lt;b&gt;Marx01&lt;/b&gt;]]&lt;/span&gt;&lt;/span&gt; &lt;sup&gt;[[User_talk:Marx01|Tell me about it]]&lt;/sup&gt; 01:10, 9 September 2009 (UTC)
+Thanks for the answers.  Here is my contribution to the ''Missing Manual'' that PhantomSteve linked me to:
+The &quot;edit this page&quot; non-issue.
+&quot;Edit this page&quot; is non-destructive and non contentious.  It has basically the same effect as if it had displayed &quot;View Source&quot;.  Don't hesitate.  It's OK.  A user preference sets the double-click to edit a page.
+
+To &quot;edit this page&quot;, then, is ''really'' just to &quot;view source&quot;. To get a feel for this reality, you could edit a watchlist. There ''is'' no &quot;Cancel&quot; option. Finally, there is the rare case of the ''Copyrights'' article, where administrators changed &quot;edit this page&quot; to &quot;view source&quot;. [[User:Cpiral|&lt;font style=&quot;background:#FFF090;color:#00C000&quot;&gt;'''Cp&lt;font style=&quot;background:#FFF0A0;color:#80C000&quot;&gt;i&lt;font style=&quot;color:#C08000&quot;&gt;r&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#C00000&quot;&gt;al&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#2820F0&quot;&gt;Cpiral'''&lt;/font&gt;]] 18:00, 11 September 2009 (UTC)
+
+===Signature Limit===
+Will the &lt;code&gt;My-Preferences--&gt;User-profile-&gt;Signature-&gt;Signature box&lt;/code&gt; accept more than 260 characters?[[User:Cpiral&amp;#124;&lt;font style=&quot;background:#FFF090;color:#00C000&quot;&gt;'''Cp&lt;font style=&quot;background:#FFF0A0;color:#80C000&quot;&gt;i&lt;font style=&quot;color:#C08000&quot;&gt;r&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#C00000&quot;&gt;al&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#2820F0&quot;&gt;Cpiral'''&lt;/font&gt;]] 20:47, 3 September 2009 (UTC)
+:I'm not sure on that... I don't think so because when you edit something (Ex. A talk page.) a long string of code might make it take longer to load. &lt;span style=&quot;font-family: Arial Black; font-size: 12&quot; &gt;&lt;span style=&quot;color:#008080&quot;&gt;[[User:Marx01|&lt;b&gt;Marx01&lt;/b&gt;]]&lt;/span&gt;&lt;/span&gt; &lt;sup&gt;[[User_talk:Marx01|Tell me about it]]&lt;/sup&gt; 02:49, 5 September 2009 (UTC)
+:: The answer is &quot;no&quot;! The limit is actually 255 characters - which includes HTML or wiki markup code (see [[Wikipedia:Signature#Length]]) -- '''[[User:Phantomsteve|&lt;font color=&quot;#307D7E&quot;&gt;Phantom&lt;/font&gt;&lt;font color=&quot;#55CAFA&quot;&gt;Steve&lt;/font&gt;]]''' ([[User talk:Phantomsteve|&lt;font color=&quot;#307D7E&quot;&gt;Contact Me&lt;/font&gt;]], [[Special:Contributions/Phantomsteve|&lt;font color=&quot;#5599FA&quot;&gt;My Contribs&lt;/font&gt;]]) 23:55, 7 September 2009 (UTC)
+
+===Link to a File===
+How to I link to a file?&lt;br /&gt;&lt;nowiki&gt;[[File:User_contributions_detail.png]]?&lt;/nowiki&gt; It renders. It writ large! I need it to show a link instead.[[User:Cpiral&amp;#124;&lt;font style=&quot;background:#FFF090;color:#00C000&quot;&gt;'''Cp&lt;font style=&quot;background:#FFF0A0;color:#80C000&quot;&gt;i&lt;font style=&quot;color:#C08000&quot;&gt;r&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#C00000&quot;&gt;al&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#2820F0&quot;&gt;Cpiral'''&lt;/font&gt;]] 20:47, 3 September 2009 (UTC)
+::I recommend that you print out the [http://upload.wikimedia.org/wikipedia/meta/6/66/MediaWikiRefCard.pdf wikimedia reference card]. That makes edits like this one simpler. I will be creating a task for this later, but this is to help now. For this particular edit, to shrink it write it like this:
+
+&lt;pre&gt;[[File:User_contributions_detail.png|#px]]&lt;/pre&gt;
+
+
+That will limit the picture to however many pixels you wish (i.e. 25px would limit it to 25 pixels). Hope that helps! &lt;span style=&quot;font-family: Arial Black; font-size: 12&quot; &gt;&lt;span style=&quot;color:#008080&quot;&gt;[[User:Marx01|&lt;b&gt;Marx01&lt;/b&gt;]]&lt;/span&gt;&lt;/span&gt; &lt;sup&gt;[[User_talk:Marx01|Tell me about it]]&lt;/sup&gt; 02:53, 5 September 2009 (UTC)
+
+It became useful today.  Thank you![[User:Cpiral|&lt;font style=&quot;background:#FFF090;color:#00C000&quot;&gt;'''Cp&lt;font style=&quot;background:#FFF0A0;color:#80C000&quot;&gt;i&lt;font style=&quot;color:#C08000&quot;&gt;r&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#C00000&quot;&gt;al&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#2820F0&quot;&gt;Cpiral'''&lt;/font&gt;]] 05:46, 5 October 2009 (UTC)
+
+::: The correct answer was &quot;Use the ''Media'' namespace.&quot;
+:::[[Media:User_contributions_detail.png]]
+:::[[User:Cpiral|&lt;font style=&quot;background:#FFF090;color:#00C000&quot;&gt;'''Cp&lt;font style=&quot;background:#FFF0A0;color:#80C000&quot;&gt;i&lt;font style=&quot;color:#C08000&quot;&gt;r&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#C00000&quot;&gt;al&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#2820F0&quot;&gt;Cpiral'''&lt;/font&gt;]]
+
+== LinuxZArth Mentor ==
+
+&lt;!-- This is not zarth's original post.  I cpiral edited it heavily. --&gt;
+
+Hello there, Cpiral. I'd like to welcome you to Wikipedia. 
+I noticed you are seeking a mentor. 
+Let me introduce myself, I'm [[User:Linuxzarth|zarth]].
+
+I have been kicking around online here since April'09. 
+I struggled, like most newbies, and slowly gained experience. 
+Most of what I learned was self taught. 
+For months I edited and warred (under a different identity), 
+making friends and also disgruntling several editors. 
+This month I started fresh under my new name.
+I tinker with improvements, including fixing page layouts. 
+I've created some userboxes in the past. 
+I love tutoring newbies and whacking vandals.
+
+I answer questions, 
+show solutions to problems 
+and give advice. 
+I also handout some cool goodies.
+
+If you decide to take me up on your offer, 
+[[User:Linuxzarth|leave a message on my talk page]]
+
+[[Linux]][[User:Linuxzarth|zarth]]  &lt;sup&gt;(R) &lt;/sup&gt; 22:54, 13 August 2009 (UTC)
+
+== [[Aspberger's|Asperger syndrome]] ==
+I reverted the edit you made to the Asperger syndrome page because it seems to have made it more difficult to read.  If you want your edits to stay please explain each change you made to the paragraph.  -- ''&lt;B&gt;[[User:Soap|Soap]]&lt;/B&gt;'' &lt;sup&gt;[[User talk:Soap|Talk]]&lt;/sup&gt;/&lt;sub&gt;[[Special:Contributions/Soap|Contributions]]&lt;/sub&gt; 03:15, 14 August 2009 (UTC)
+:I replied on [[user talk:Linuxzarth|Linuxzarth's talk page]].  -- ''&lt;B&gt;[[User:Soap|Soap]]&lt;/B&gt;'' &lt;sup&gt;[[User talk:Soap|Talk]]&lt;/sup&gt;/&lt;sub&gt;[[Special:Contributions/Soap|Contributions]]&lt;/sub&gt; 15:28, 17 August 2009 (UTC)
+::And I moved your reply here because the purpose of my user talk page is so that I can communicate with other wikipedia contributors about improving Wikipedia.  If my mentor translated, I would not have moved your reply.[[User:Cpiral|&lt;font style=&quot;background:#FFF090;color:#00C000&quot;&gt;'''Cp&lt;font style=&quot;background:#FFF0A0;color:#80C000&quot;&gt;i&lt;font style=&quot;color:#C08000&quot;&gt;r&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#C00000&quot;&gt;al&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#2820F0&quot;&gt;Cpiral'''&lt;/font&gt;]]
+:Cpiral, I'm sorry I can't offer more constructive criticism.  I appreciate you taking the time to explain each part of your edit to me, as I had asked you to do, but all I can say is that I think they aren't improvements.  If you want to try again I will let your edits stand, and if someone else reverts them (probably [[User:Eubulides|Eubulides]], he might be able to better explain his reasoning than I can.  -- ''&lt;B&gt;[[User:Soap|Soap]]&lt;/B&gt;'' &lt;sup&gt;[[User talk:Soap|Talk]]&lt;/sup&gt;/&lt;sub&gt;[[Special:Contributions/Soap|Contributions]]&lt;/sub&gt; 15:27, 17 August 2009 (UTC)
+
+== Fringe Theory in a Nutshell ==
+
+The last line of your edit changed the meaning significantly... from: &quot;...as they establish the notability of the theory '''outside''' of its group of adherents&quot; to  &quot;The idea must be established and notable '''inside or outside''' of its group of adherents&quot; (bolding mine).  The key to the policy is that a Fringe theory does not have to be accepted by the mainstream... but it does have to have been noticed and discussed by the ''mainstream''... notability within Fringe theory fandom is not enough.  Hope that clarifies things. [[User:Blueboar|Blueboar]] ([[User talk:Blueboar|talk]]) 16:31, 21 August 2009 (UTC)
+
+&lt;blockquote&gt;
+No. You seem to indicate here that it matters, for inclusion criterion for an ariticle,
+&quot;which side&quot; the reliable major source or which side the extensive references are on.
+It does not.
+
+I don't understand the inclusion criteria for an article to be whose side they're on.
+[[WP:N|Quoting:]] &quot;If a topic has received 
+significant coverage in
+reliable sources that are 
+independent of the subject, 
+it is presumed to satisfy the inclusion criteria.&quot;
+
+The criteria for inclusion is the ''number'' of reliable sources, not which side they're on.
+For Fringe Theory that includes &quot;one major publication&quot;.
+  
+'''''Whose Side''''' is an important concept in Fringe Theory article inclusion
+only in that it is a '''''non-issue'''''.   
+So we bring up the &quot;sides&quot; issue using two bullets to represent the two sides, 
+only to to eliminate &quot;sides&quot; as a selection criterion, where we say
+&quot;one major publication...&quot;
+
+Please, either change your nutshell to both our liking, 
+support your reverts with valid arguments, or let me edit the nutshell.
+But please don't revert my edits and then ignore my
+requests on your talk page for communication here.
+
+Here is the [[WP:fringe|nutshell]]:
+{{nutshell|title=Fringe theory
+|In order to be notable enough to appear in Wikipedia, an idea should be referenced extensively, and in a serious manner, in at least one major publication, or by a notable group or individual that is independent of the theory.
+|Even debunking or disparaging references are adequate, as they establish the notability of the theory outside of its group of adherents.}}
+(The target of ''adequate'' is '''inclusion critereon''', right?)
+
+And here is my most recent suggestion:
+{{nutshell|title=Fringe theory|
+To qualify for an article in Wikipedia, 
+an established idea should have significant mention in extensive references
+|in a supportive manner, or even 
+|in a debunking or disparaging manner
+in at least one major publication, or by a notable group or individual that is independent of the theory.}}
+[[User:Cpiral|&lt;font style=&quot;background:#FFF090;color:#00C000&quot;&gt;'''Cp&lt;font style=&quot;background:#FFF0A0;color:#80C000&quot;&gt;i&lt;font style=&quot;color:#C08000&quot;&gt;r&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#C00000&quot;&gt;al&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#2820F0&quot;&gt;Cpiral'''&lt;/font&gt;]] ([[User talk:Cpiral#top|talk]]) 15:10, 25 August 2009 (UTC)cpiral
+[[User:Cpiral|&lt;font style=&quot;background:#FFF090;color:#00C000&quot;&gt;'''Cp&lt;font style=&quot;background:#FFF0A0;color:#80C000&quot;&gt;i&lt;font style=&quot;color:#C08000&quot;&gt;r&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#C00000&quot;&gt;al&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#2820F0&quot;&gt;Cpiral'''&lt;/font&gt;]] 02:45, 8 September 2009 (UTC)
+&lt;/blockquote&gt;
+
+== Adoption! ==
+
+I would like to adopt you! click [[User talk:Marx01|here]] to say yes or no. Happy editing! [[User:Marx01|&lt;b&gt;&lt;span style=&quot;color:#191970&quot;&gt;Marx01&lt;/span&gt;&lt;/b&gt;]] &lt;sup&gt;[[User_talk:Marx01|Tell me about it]]&lt;/sup&gt; 01:25, 23 August 2009 (UTC)
+
+== RE:Adoption ==
+
+I like your style! Very [[WP:Bold|bold]]! I will create an adoption page for you in a bit I have an appointment but I am glad that you accepted! Also remember to sign talk pages with &lt;nowiki&gt;~~~~&lt;/nowiki&gt; so people know who you are. Also about my username you were very close but [[Karl Marx]] is actually a relative of mine (great-great-great-grandfather) and I decided to use that for my username! I like what you said though :D! Very Cool! &lt;span style=&quot;font-family: Arial Black; font-size: 12&quot; &gt;&lt;span style=&quot;color:#008080&quot;&gt;[[User:Marx01|&lt;b&gt;Marx01&lt;/b&gt;]]&lt;/span&gt;&lt;/span&gt; &lt;sup&gt;[[User_talk:Marx01|Tell me about it]]&lt;/sup&gt; 22:53, 26 August 2009 (UTC)
+:[[User:Marx01/Adoption/Cpiral|This is your program page.]] Feel free to ask fo a specifi task I'm going to start you on userpage development since you seem to want that first : ). If the link is red just wait I'm still creating it. Thank you, &lt;span style=&quot;font-family: Arial Black; font-size: 12&quot; &gt;&lt;span style=&quot;color:#008080&quot;&gt;[[User:Marx01|&lt;b&gt;Marx01&lt;/b&gt;]]&lt;/span&gt;&lt;/span&gt; &lt;sup&gt;[[User_talk:Marx01|Tell me about it]]&lt;/sup&gt; 23:54, 26 August 2009 (UTC)
+
+{{award2|image=The Unique Barnstar.png|topic=The Unique Barnstar|text=I award this [[Wikipedia:Barnstars on Wikipedia|Barnstar]] to Cpiral for their boldness. Congrats! &lt;span style=&quot;font-family: Arial Black; font-size: 12&quot; &gt;&lt;span style=&quot;color:#008080&quot;&gt;[[User:Marx01|&lt;b&gt;Marx01&lt;/b&gt;]]&lt;/span&gt;&lt;/span&gt; &lt;sup&gt;[[User_talk:Marx01|Tell me about it]]&lt;/sup&gt; 01:15, 27 August 2009 (UTC)}}
+
+:Thank you.  I assume it is for the pricklies I had to endure editing some well established pages. ''Please sign even your talk page with &lt;nowiki&gt;~~~~&lt;/nowiki&gt; next time! If your keyboard doesn't have that symbol, then click the &quot;Signature&quot; button next to the W with a red sign over it. Thanks! &lt;span style=&quot;font-family: Arial Black; font-size: 12&quot; &gt;&lt;span style=&quot;color:#008080&quot;&gt;[[User:Marx01|&lt;b&gt;Marx01&lt;/b&gt;]]&lt;/span&gt;&lt;/span&gt; &lt;sup&gt;[[User_talk:Marx01|Tell me about it]]&lt;/sup&gt; 00:22, 28 August 2009 (UTC) ''
+
+::If that's how you got it then yes! Also not sure if you had the time (sorry if this sounds like nagging) but please remember to complete the tasks under the &quot;Tasks&quot; heading, &quot;Minor tasks&quot; are optional, and by the way [[User:Marx01/Adoption/Cpiral|click this, it is the link to your adoption page.]] Your welcome! &lt;span style=&quot;font-family: Arial Black; font-size: 12&quot; &gt;&lt;span style=&quot;color:#008080&quot;&gt;[[User:Marx01|&lt;b&gt;Marx01&lt;/b&gt;]]&lt;/span&gt;&lt;/span&gt; &lt;sup&gt;[[User_talk:Marx01|Tell me about it]]&lt;/sup&gt; 00:22, 28 August 2009 (UTC)
+
+::: I joined the wikiproject &quot;Outlines of Knowledge&quot;.[[User:Cpiral|&lt;font style=&quot;background:#FFF090;color:#00C000&quot;&gt;'''Cp&lt;font style=&quot;background:#FFF0A0;color:#80C000&quot;&gt;i&lt;font style=&quot;color:#C08000&quot;&gt;r&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#C00000&quot;&gt;al&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#2820F0&quot;&gt;Cpiral'''&lt;/font&gt;]]
+
+== Re:In too deep ==
+
+Not sure what you mean by that: but if by that you mean the fact that I wasn't on much today, I apologize. I had other things on my agenda. Few things I need to say:
+# Thank you for completing the basic links task I will move you into userpage stuff now.
+# Thank you again for completing the test. I will center article-related tasks around your interests.
+# Thank you once more for completing ''both optional tasks''. As a reward you will receive a personalized userbox (of your choice (Ex. color, design...)) and a [[WP:Barnstar|Barnstar]]. 
+# If you have any specific requests please ask. 
+Thank you, &lt;span style=&quot;font-family: Arial Black; font-size: 12&quot; &gt;&lt;span style=&quot;color:#008080&quot;&gt;[[User:Marx01|&lt;b&gt;Marx01&lt;/b&gt;]]&lt;/span&gt;&lt;/span&gt; &lt;sup&gt;[[User_talk:Marx01|Tell me about it]]&lt;/sup&gt; 02:39, 31 August 2009 (UTC)
+
+P.S- Tell me what you want in your userbox on my talk page. &lt;span style=&quot;font-family: Arial Black; font-size: 12&quot; &gt;&lt;span style=&quot;color:#008080&quot;&gt;[[User:Marx01|&lt;b&gt;Marx01&lt;/b&gt;]]&lt;/span&gt;&lt;/span&gt; &lt;sup&gt;[[User_talk:Marx01|Tell me about it]]&lt;/sup&gt;
+
+===Barnstar===
+
+{| style=&quot;border: 1px solid gray; background-color: #fdffe7;&quot;
+|rowspan=&quot;2&quot; valign=&quot;middle&quot; | [[Image:Original_Barnstar.png|100px]]
+|rowspan=&quot;2&quot; |
+|style=&quot;font-size: x-large; padding: 0; vertical-align: middle; height: 1.1em;&quot; | '''The Original Barnstar'''
+|-
+|style=&quot;vertical-align: middle; border-top: 1px solid gray;&quot; | I award this barnstar to Cpiral for their enthusiastic work as an adoptee and for completing things they was not required to do, but which introduced them into some of the advanced workings of the wiki. Good job! &lt;span style=&quot;font-family: Arial Black; font-size: 12&quot; &gt;&lt;span style=&quot;color:#008080&quot;&gt;[[User:Marx01|&lt;b&gt;Marx01&lt;/b&gt;]]&lt;/span&gt;&lt;/span&gt; &lt;sup&gt;[[User_talk:Marx01|Tell me about it]]&lt;/sup&gt; 02:39, 31 August 2009 (UTC)
+|}
+
+== Userbox ==
+
+If you want anything changed, please tell me. Here is your userbox!
+{{User:Marx01/Cpiral}}
+
+Put &lt;nowiki&gt;{{User:Marx01/Cpiral}}&lt;/nowiki&gt; to create it! &lt;span style=&quot;font-family: Arial Black; font-size: 12&quot; &gt;&lt;span style=&quot;color:#008080&quot;&gt;[[User:Marx01|&lt;b&gt;Marx01&lt;/b&gt;]]&lt;/span&gt;&lt;/span&gt; &lt;sup&gt;[[User_talk:Marx01|Tell me about it]]&lt;/sup&gt; 23:30, 2 September 2009 (UTC)
+
+:Thank you very much, Marx01!  Your generosity gives me a great reputation to live up to.
+[[User:Cpiral|&lt;font style=&quot;background:#FFF090;color:#00C000&quot;&gt;'''Cp&lt;font style=&quot;background:#FFF0A0;color:#80C000&quot;&gt;i&lt;font style=&quot;color:#C08000&quot;&gt;r&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#C00000&quot;&gt;al&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#2820F0&quot;&gt;Cpiral'''&lt;/font&gt;]]
+
+:: You're very welcome! Just so you know I have another task set for you and feel free to take up on the offer I gave to Wedgiey1 if you feel like it. If you would like to write the essay, or do neither, I will have the other task posted on there for you to see. BTW I know that the extra credit may seem like A LOT but you do not ''have to do it.'' &lt;span style=&quot;font-family: Arial Black; font-size: 12&quot; &gt;&lt;span style=&quot;color:#008080&quot;&gt;[[User:Marx01|&lt;b&gt;Marx01&lt;/b&gt;]]&lt;/span&gt;&lt;/span&gt; &lt;sup&gt;[[User_talk:Marx01|Tell me about it]]&lt;/sup&gt; 02:47, 5 September 2009 (UTC)
+
+==Signature==
+I see that you are changing your signature from how it's normally displayed. Is there anything I can help you with? It's a lot of effort to have to fix it every time, and it seems that you forget to sometimes, leaving your sig with no link to your userpage. '''&lt;font face=&quot;times new roman&quot;&gt;[[User:hmwith|&lt;span style=&quot;background:#999;color:#fff;padding:0 4px&quot;&gt;hmwith&lt;/span&gt;]][[User talk:hmwith|&lt;span style=&quot;background:#666;padding:0 4px;color:#fff;&quot;&gt;t&lt;/span&gt;]]&lt;/font&gt;''' 23:11, 7 September 2009 (UTC)
+
+== Your Userpage ==
+
+Just so you know; I would not recommend going around telling people to read it. I'm not angry with you in any way, but if you were to tell certain people to do that it might tick them off. Also, Since your userpage seems to be exceedingly long, I would recommend creating [[WP:Subpages|Subpages]] to put it all in. That way you can have a friendly, welcoming, and ''exciting'' userpage! Just a thought on the second comment.
+Thank you!
+&lt;span style=&quot;font-family: Arial Black; font-size: 12&quot; &gt;&lt;span style=&quot;color:#008080&quot;&gt;[[User:Marx01|&lt;b&gt;Marx01&lt;/b&gt;]]&lt;/span&gt;&lt;/span&gt; &lt;sup&gt;[[User_talk:Marx01|Tell me about it]]&lt;/sup&gt; 00:52, 9 September 2009 (UTC)
+: OK
+: Your user page is '''''awesome'''''!   Any suggestion you might make for mine welcomed and will be dedicated.  I like my words, and so they tend to multiply.  Tweet. Tweet.  Tweet.   Tweet.  Tweet.
+:[[User:Cpiral|&lt;font style=&quot;background:#FFF090;color:#00C000&quot;&gt;'''Cp&lt;font style=&quot;background:#FFF0A0;color:#80C000&quot;&gt;i&lt;font style=&quot;color:#C08000&quot;&gt;r&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#C00000&quot;&gt;al&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#2820F0&quot;&gt;Cpiral'''&lt;/font&gt;]] 16:57, 9 September 2009 (UTC)
+
+===Adoption===
+Just so you know you have two new tasks on your program page. Just informing in case you didn't know! Just curious is that page on your [[WP:watchlist|watchlist]] (which it should be)? If so, do you check your watchlist? 
+: I used to use the Watchlist report.  It got too noisy with preference AutoWatch turned on.  I will master this basic today.
+:[[User:Cpiral|&lt;font style=&quot;background:#FFF090;color:#00C000&quot;&gt;'''Cp&lt;font style=&quot;background:#FFF0A0;color:#80C000&quot;&gt;i&lt;font style=&quot;color:#C08000&quot;&gt;r&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#C00000&quot;&gt;al&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#2820F0&quot;&gt;Cpiral'''&lt;/font&gt;]] 16:57, 9 September 2009 (UTC)
+:P.S. I hope you are watching [[user talk:Marx01/Adoption/Cpiral]]. I started a discussion.
+:: Sorry if I came across as angry... I felt bad posting that! I just didn't want you getting in any trouble. Any way to your question:
+:::You can do no wrong in my eyes, Marx01, because you are like my parent when you are my mentor.
+:::You are quite right about the etiquette of pushing ones user page.  
+:::The reason you felt bad was because you used a ''general'' negative, which are impossible to digest.
+:::Who one is becomes apparent, especially when one becomes ''a parent''.  You're great!
+:::Ah, the rub of life!
+* I highly recommend installing Mozilla Firefox for your Mac. Firefox and Wikipedia really seem to get along. If you cannot or do not wish to that is okay! You'll still have a quality editing experience, just not one lazy people like me live. Also I hope I did not come across as discouraging your ideas and ideals and all that: I've read them and think they are ''great''! I just feel that saying &quot;read my userpage because ''you will remember it''&quot; or anything like that may come across as forceful, and some Wikipedians do not like that. Since you fell your words should be heard, I would create show/hide options for them because they are particularly massive and a bear to get through when doing a massive revamp on your userpage. Saying that, I would ''highly recomend'' completing one of the two extra credit assignments. Judging your personality, I think you might enjoy writing the essay! It's all about your opinions on a specific question with no real guidelines. Actually that gives me an amazingly brilliant idea... Thank you! Also expect more chances for 'extra credit' in the future! Remember that whatever you put in you will receive right back! Thank you for your time and your indirect relationship with the formation of an idea regarding extra credit!!!!! &lt;span style=&quot;font-family: Arial Black; font-size: 12&quot; &gt;&lt;span style=&quot;color:#008080&quot;&gt;[[User:Marx01|&lt;b&gt;Marx01&lt;/b&gt;]]&lt;/span&gt;&lt;/span&gt; &lt;sup&gt;[[User_talk:Marx01|Tell me about it]]&lt;/sup&gt; 23:51, 9 September 2009 (UTC)
+:I'm glad that I can be associated in any way or facilitate great ideas.  
+:Life is all about ideas and also about learning from everything and also about organization.
+
+
+:In an tightly organized, well understood category of topics and media and style and etiquette,
+:we ''would'' talk about Cpiral in Cpiral's space for Cpiral's use. 
+:It's not important, really, but I'm leading up to something.
+:We ''should'' have email or chatted already.  
+:Wikipedia ''has'' a [[wp:chat|chat]] line.  We ''have'' email.
+:I am a voracious writer and ''on topic'', but not in ''my media'' here.  
+:I hesitate to call this a &quot;discussion&quot;...
+
+
+:I &quot;boldly&quot; call for [[Wikipedia:Refactoring_talk_pages|a refactor]] before being archived to a space &quot;where it has never gone before&quot;.  (The quotes are a reference Star Trek.)
+:But first I will have a guideline concerning when to use which of the three media, ''if I have to write it myself''.
+:That's what I was leading up to...  We could call it &quot;'''Comm-Media''&quot; for funny.
+:OK, it's a &quot;discussion&quot;. :-)
+:[[User:Cpiral|&lt;font style=&quot;background:#FFF090;color:#00C000&quot;&gt;'''Cp&lt;font style=&quot;background:#FFF0A0;color:#80C000&quot;&gt;i&lt;font style=&quot;color:#C08000&quot;&gt;r&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#C00000&quot;&gt;al&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#2820F0&quot;&gt;Cpiral'''&lt;/font&gt;]] 16:46, 10 September 2009 (UTC)
+
+::I apologize, but could you break that down for me? Also for some reason I cannot seem to work the wiki-chat on my PC... and no views in the future of a new one. Moreover I firmly believe that a userpage help Wikipedia to develop into a group effort instead of a &quot;patchwork project&quot; because it allows users to share information about themselves so they may communicate while not even online! I would like you to have ''exactly'' what you want on your userpage, but I also want you to see how you may personalize it beyond the boundaries of written language. And to finish myself up I think that it would be beneficial to communicate however due to unfortunate security reasons (I am underage) it must take place on a talk page. Thank you, and I will have another task for you as soon as possible :D.
+
+:::Quickly, in my essays, I will assail the [[User:Cpiral#How_to_Communicate_in_Collaborative_Efforts|breakdown]].  
+
+:::And ''do'' watch those [[paragraph]] topics. More than topic in a paragraph makes it a ''block''. 'Block' is my [[portmanteau]] of black box.  A black box is something whose insides are mysterious.  When one breaks, you replace it rather than try to troubleshoot. The refactor and archive is about fixing such things: paragraphs are easy to factor-far-out, and blocks are not.
+:::[[User:Cpiral|&lt;font style=&quot;background:#FFF090;color:#00C000&quot;&gt;'''Cp&lt;font style=&quot;background:#FFF0A0;color:#80C000&quot;&gt;i&lt;font style=&quot;color:#C08000&quot;&gt;r&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#C00000&quot;&gt;al&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#2820F0&quot;&gt;Cpiral'''&lt;/font&gt;]] 01:25, 13 September 2009 (UTC)
+
+&lt;span style=&quot;font-family: Arial Black; font-size: 12&quot; &gt;&lt;span style=&quot;color:#008080&quot;&gt;[[User:Marx01|&lt;b&gt;Marx01&lt;/b&gt;]]&lt;/span&gt;&lt;/span&gt; &lt;sup&gt;[[User_talk:Marx01|Tell me about it]]&lt;/sup&gt; 20:25, 12 September 2009 (UTC)
+
+Please post on my talkpage if you have a conflicting schedule which lasts for a long period, need help, or have any questions.
+Thank you,
+&lt;span style=&quot;font-family: Arial Black; font-size: 12&quot; &gt;&lt;span style=&quot;color:#008080&quot;&gt;[[User:Marx01|&lt;b&gt;Marx01&lt;/b&gt;]]&lt;/span&gt;&lt;/span&gt; &lt;sup&gt;[[User_talk:Marx01|Tell me about it]]&lt;/sup&gt; 00:59, 9 September 2009 (UTC)
+
+== Essay and your Extra credit prize!!!!! ==
+
+Thank you very very much for the wonderful essay! The reward I was alluding to was a userpage update! Please look over [http://en.wikipedia.org/wiki/Wikipedia:User_page_design_center/Style this] and [Wikipedia:User page design center/Decor this] and give me specs on:
+* Color
+* Type
+* Style
+* And either your title changed (like [[User:Marx01|mine]]) to fit your liking or a Personalized Banner ACross you top screen!!!!!
+
+Happy Editing!
+
+&lt;span style=&quot;font-family: Arial Black; font-size: 12&quot; &gt;&lt;span style=&quot;color:#008080&quot;&gt;[[User:Marx01|&lt;b&gt;Marx01&lt;/b&gt;]]&lt;/span&gt;&lt;/span&gt; &lt;sup&gt;[[User_talk:Marx01|Tell me about it]]&lt;/sup&gt; 23:35, 11 September 2009 (UTC)
+
+== Re: ==
+
+I'm very happy that you are going so far within the Wiki! Also I am very very proud that my students are displaying their work, and getting compliments on it! I am also glad that you are working on non-task items, which increases your social notability on Wikipedia (I'm not worried much about the task, I stalk all of my students contributions to make sure their on the right track). Please please please refrain from spending too much time on here! Take care of what must be done first; because although Wikipedia has an article dedicated to [[world|the world]], it cannot replace one! I have been in very gnarly situations because of my time spent on here (mainly with workload), and I would not want to see that happen to you. Think of the Wiki as a treat: as you finish your work, allow glances or edits to the wiki between work. Or just finish all your needs first and then go on an editing spree. I am saying this a peer and friend who understands the situation. &lt;span style=&quot;font-family: Arial Black; font-size: 12&quot; &gt;&lt;span style=&quot;color:#008080&quot;&gt;[[User:Marx01|&lt;b&gt;Marx01&lt;/b&gt;]]&lt;/span&gt;&lt;/span&gt; &lt;sup&gt;[[User_talk:Marx01|Tell me about it]]&lt;/sup&gt; 05:06, 18 September 2009 (UTC)
+
+== Notes ==
+
+{{User:Marx01/Sick}}
+:If you have any specific concerns, I will address them without question. Your efforts and comments are greatly appreciated, Marx01. I ''am'' developing articles for wikipedia in my sub pages.  Do those count as user page edits?  You'll see.  You'll see.  And many of my user page edits are to-do lists, stylistic notes, and other Wikipedia related notations.  Your concern is well founded: &quot;Why have you not burst out yet?&quot;  Well, I'm still preparing. I haven't conceptualized most of the basic Wikipedia canon.  For example, I'm my first real discussion about an article section, and I'm not even sure about indention because I haven't any concept of WP:Discussion.  What little I know about WP:User Page is that it is for the most part a Wikpedia oriented text, with a small part about yourself for editing and discussion purposes.
+:[[User:Cpiral|&lt;font style=&quot;background:#FFF090;color:#00C000&quot;&gt;'''Cp&lt;font style=&quot;background:#FFF0A0;color:#80C000&quot;&gt;i&lt;font style=&quot;color:#C08000&quot;&gt;r&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#C00000&quot;&gt;al&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#2820F0&quot;&gt;Cpiral'''&lt;/font&gt;]] 16:53, 21 September 2009 (UTC)
+::Alright, I'm very glad that you are editing within subpages before putting them onto the Wiki. That is fine. I would not have any concerns if that was the case. I was showing concern because the 172:100 ratio is based on edits to your userpage compared to all articles. Yes, subpages (including my adoption program) do count as a part of your Userpage edit ''percentage'' but I am not taking the percentage into consideration. I was looking at all the edits you had ever made to your user page only, not including subpages. If I had taken subpages into account the ratio would be 277:103 (that is from today's stats). 
+
+==First Article==
+I think that it would beneficiary for you to begin and dive into the heart of the wiki. I see that you are already creating discussions on article talk pages (I particularly like your argument on the Netbook talk page). Since you seem particularly ready to dive into the Wiki... I think that you should begin to formulate an article you wish to write. I did see your ''Article'' subsection:
+&lt;blockquote&gt;
+I believe in OJT. I don't want to edit articles I'm not willing to adopt or take an interest in, returning and watching to see how my edits went, and to defend my work, familiarizing myself with the content.
+&lt;/blockquote&gt;
+Which is why, since I feel you deserve a ''fun'' challenge: I am going to require you to write an article which meets your criteria. Please look through [[WP:Articles requested for more than a year|Articles requested for more than a year]] and [[WP:Requested Articles|Requested Articles]] and find an article you are interested in working on. Please note that this does not necessarily have to fall into your category of interest; each article you create gives you more knowledge you may not have previously known. The reason I know this is because I wrote an article which I had no prior knowledge about the subject, but I had plenty of fun throughout writing it. Once you choose an article, please write it here and I will direct you  step by step on the article's talk page as to how to go about writing the article. Also none of the process will take place on subpages, so that you can receive critique from other users. 
+
+I know that this is out of the blue, but I feel that you are very ready to write an article.
+
+--&lt;span style=&quot;font-family: Arial Black; font-size: 12&quot; &gt;&lt;span style=&quot;color:#008080&quot;&gt;[[User:Marx01|&lt;b&gt;Marx01&lt;/b&gt;]]&lt;/span&gt;&lt;/span&gt; &lt;sup&gt;[[User_talk:Marx01|Tell me about it]]&lt;/sup&gt; 23:58, 21 September 2009 (UTC)
+
+I also noticed you wanted a color-coded version of your edits. I use this to check up on you guys if you would like to take a peek-&gt; [http://toolserver.org/~soxred93/ec Soxred93's Tool]
+
+:How about [[User:Marx01/Human Vs Computer|Human Vs Computer]] from [[Wikipedia:Requested_articles/Applied_arts_and_sciences/Computer_science,_computing,_and_Internet#Other_uncategorized_computer_science_terms|requested articles]]?  It seems a bit pretentious of me to write such an important article, but then that's not the point is it?  I can start the article. I have several books on the subject, and certainly have an interest.  What do you think, Marx01?  Shall I try a different one instead?
+:[[User:Cpiral|&lt;font style=&quot;background:#FFF090;color:#00C000&quot;&gt;'''Cp&lt;font style=&quot;background:#FFF0A0;color:#80C000&quot;&gt;i&lt;font style=&quot;color:#C08000&quot;&gt;r&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#C00000&quot;&gt;al&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#2820F0&quot;&gt;Cpiral'''&lt;/font&gt;]] 04:22, 25 September 2009 (UTC)
+
+That would be fine. i'm going to create the article and get things settled so that you can start editing at any time. Information will be on the talk page. &lt;span style=&quot;font-family: Arial Black; font-size: 12&quot; &gt;&lt;span style=&quot;color:#008080&quot;&gt;[[User:Marx01|&lt;b&gt;Marx01&lt;/b&gt;]]&lt;/span&gt;&lt;/span&gt; &lt;sup&gt;[[User_talk:Marx01|Tell me about it]]&lt;/sup&gt; 22:54, 25 September 2009 (UTC)
+
+:I have a saved copy of what was deleted, so no worries.  Fix the link, and I'll add this:
+&lt;blockquote&gt;
+Human Vs Computer: 
+Not about robots or insects, just cognition styles, strengths, and weakness.
+Not about neural network.
+Not about the mind.
+It's about cognitive comparisons today,
+and has a section about the future, since computers are rapidly evolving.
+
+cognitive arena: winner
++ serial: memory: computer
++ pseudo parallel: multi-tasking: computer  (Clifford Nass Stanford: Humans can't multi-task)
++ parallel: analogy, metaphore, pattern recognition: humans
+The mind may not be cognitive at all.
+
+In the future section:
+Computers evolve faster, so a timeline is inline.
+When will computers beat humans in parallel thinking?
+Quantity:
+If Moore's law holds, and we now have X transistors on a die,
+and we need 100 Billion, that's 1x10&lt;sup&gt;11&lt;/sup&gt;,
+with 10 thousand wires each, that's 10e3,
+Quality:
+Our brain cells are connected in patterns in time and space that
+neither humans nor computers can see clearly enough diagnostically
+[[User:Cpiral|&lt;font style=&quot;background:#FFF090;color:#00C000&quot;&gt;'''Cp&lt;font style=&quot;background:#FFF0A0;color:#80C000&quot;&gt;i&lt;font style=&quot;color:#C08000&quot;&gt;r&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#C00000&quot;&gt;al&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#2820F0&quot;&gt;Cpiral'''&lt;/font&gt;]] 18:34, 26 September 2009 (UTC)
+&lt;/blockquote&gt;
+
+Alrighty; Thank you for the fact (very interesting), but I would just like to put in a little something about myself:
+
+I'm much more comfortable with scientific notation in normal format (1x10&lt;sup&gt;12&lt;/sup&gt;) instead of (10e11). Took me a while to figure that out. Thank you :D &lt;span style=&quot;font-family: Arial Black; font-size: 12&quot; &gt;&lt;span style=&quot;color:#008080&quot;&gt;[[User:Marx01|&lt;b&gt;Marx01&lt;/b&gt;]]&lt;/span&gt;&lt;/span&gt; &lt;sup&gt;[[User_talk:Marx01|Tell me about it]]&lt;/sup&gt; 17:46, 26 September 2009 (UTC)
+
+:Thanks for the suggestion for the article.  Now please fix the link to the article so I can edit it.[[User:Cpiral|&lt;font style=&quot;background:#FFF090;color:#00C000&quot;&gt;'''Cp&lt;font style=&quot;background:#FFF0A0;color:#80C000&quot;&gt;i&lt;font style=&quot;color:#C08000&quot;&gt;r&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#C00000&quot;&gt;al&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#2820F0&quot;&gt;Cpiral'''&lt;/font&gt;]] 19:03, 26 September 2009 (UTC)
+
+::It's fixed. Sorry about that ^.^;;;;;;
+
+== Account Compromisation ==
+
+I believe your account was compromised. Please change your password. Reasons:
+
+*You normally do not edit at this time of day.
+*You made an edit I would not expect from you.
+
+Please do not think I am being mean if it is you, just keeping you secure. --&lt;span style=&quot;font-family: Arial Black; font-size: 12&quot; &gt;&lt;span style=&quot;color:#008080&quot;&gt;[[User:Marx01|&lt;b&gt;Marx01&lt;/b&gt;]]&lt;/span&gt;&lt;/span&gt; &lt;sup&gt;[[User_talk:Marx01|Tell me about it]]&lt;/sup&gt; 05:28, 27 September 2009 (UTC)
+
+If You do not respond within 30 minutes, I'm reporting this to an admin. I am almost positive you are not Cpiral. If you are not Cpiral, and wish to discontinue being an [[donkey|ass]], please leave a note below and no hard feelings. If you are Cpiral, please tell me below so I can give you some advice. &lt;span style=&quot;font-family: Arial Black; font-size: 12&quot; &gt;&lt;span style=&quot;color:#008080&quot;&gt;[[User:Marx01|&lt;b&gt;Marx01&lt;/b&gt;]]&lt;/span&gt;&lt;/span&gt; &lt;sup&gt;[[User_talk:Marx01|Tell me about it]]&lt;/sup&gt; 05:40, 27 September 2009 (UTC)
+
+:I was worried that some would not find the [[User:Cpiral#.22Cpiral_did_not_know_that.22|violation]] funny.  Rather than having to change my password, I shall change my words passed.  (Past?)  Shall I [[Wikipedia_talk:Talk_page_guidelines#No_Personal_Viewpoints.2C_Please.|reword?]]  Or is there something else?  What?  It was a magnification of policy dressed in a mockery, but a magnification nevertheless.  I will reword the mockery?[[User:Cpiral|&lt;font style=&quot;background:#FFF090;color:#00C000&quot;&gt;'''Cp&lt;font style=&quot;background:#FFF0A0;color:#80C000&quot;&gt;i&lt;font style=&quot;color:#C08000&quot;&gt;r&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#C00000&quot;&gt;al&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#2820F0&quot;&gt;Cpiral'''&lt;/font&gt;]] 05:49, 27 September 2009 (UTC)
+
+:If your ambiguous but considerate remarks were concerning the discussion point &quot;No Personal Viewpoints&quot; at the Wikipedia Guideline: Talk page guidelines, then &quot;Thank you&quot;.  I have been protected by you.  I have removed the offending remarks.  I apologize for alarming you, Marx01.  Please forgive me on this one.[[User:Cpiral|&lt;font style=&quot;background:#FFF090;color:#00C000&quot;&gt;'''Cp&lt;font style=&quot;background:#FFF0A0;color:#80C000&quot;&gt;i&lt;font style=&quot;color:#C08000&quot;&gt;r&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#C00000&quot;&gt;al&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#2820F0&quot;&gt;Cpiral'''&lt;/font&gt;]] 06:14, 27 September 2009 (UTC)
+
+::Actually the main cause for my concern was the Sew thing and the &lt;nowiki&gt;#&lt;/nowiki&gt; thing. I could not make a single thing of them and when I looked at your other edits (and lack of ''replies'') I assumed you were not you (or [[Intoxication|intoxicated]]. Luckily, I was just about to report you to an admin. Thanks for the heads up an the laughs! &lt;span style=&quot;font-family: Arial Black; font-size: 12&quot; &gt;&lt;span style=&quot;color:#008080&quot;&gt;[[User:Marx01|&lt;b&gt;Marx01&lt;/b&gt;]]&lt;/span&gt;&lt;/span&gt; &lt;sup&gt;[[User_talk:Marx01|Tell me about it]]&lt;/sup&gt; 06:38, 27 September 2009 (UTC)
+
+{{talk archive}}
+	</talkpage>
+</article>

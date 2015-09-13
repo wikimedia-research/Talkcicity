@@ -1,0 +1,13 @@
+<article id="7897933" title=User talk:Gedi18>
+	<talkpage id="7897933" title="User talk:Gedi18">
+
+==Image copyright problem with Image:Magyar_posse.jpg==
+Thanks for uploading [[:Image:Magyar_posse.jpg]]. The image has been identified as not specifying the copyright status of the image, which is required by Wikipedia's policy on images. If you don't indicate the copyright status of the image on the image's description page, using an appropriate [[WP:ICT|copyright tag]], it may be deleted some time in the next seven days. If you have uploaded other images, please verify that you have provided copyright information for them as well.
+
+For more information on using images, see the following pages:
+* [[Wikipedia:Image use policy]]
+* [[Wikipedia:Image copyright tags]]
+
+This is an automated notice by [[User:OrphanBot|OrphanBot]]. For assistance on the image use policy, see [[Wikipedia:Media copyright questions]]. 08:10, 12 November 2006 (UTC)
+	</talkpage>
+</article>

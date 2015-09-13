@@ -1,0 +1,5 @@
+<article id="22937377" title=Talk:Wola Kudypska>
+	<talkpage id="22937377" title="Talk:Wola Kudypska">
+{{WikiProject Poland|class=start|importance=mid}}
+	</talkpage>
+</article>

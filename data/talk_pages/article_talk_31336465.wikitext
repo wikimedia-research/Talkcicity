@@ -1,0 +1,11 @@
+<article id="31336465" title=Talk:Domnallan mac Maelbrigdi>
+	<talkpage id="31336465" title="Talk:Domnallan mac Maelbrigdi">
+{{WikiProject Biography
+|living=no
+|class=stub
+|listas=Domnallan mac Maelbrigdi
+|royalty-work-group=yes
+}}
+{{WikiProject Ireland|class= start|importance= low}}
+	</talkpage>
+</article>

@@ -1,0 +1,8 @@
+<article id="21451863" title=User talk:77.245.14.97>
+	<talkpage id="21451863" title="User talk:77.245.14.97">
+
+
+== February 2009 ==
+[[Image:Information.svg|25px]]  Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits{{#if:Wassily Kandinsky|, such as the one you made to [[:Wassily Kandinsky]],}} did not appear to be constructive and has been reverted. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism1 --&gt; &lt;span style=&quot;border:1px solid blue&quot;&gt;&amp;nbsp;[[User:Mandarax|&lt;span style=&quot;background:white;color:green&quot;&gt;MANdARAX&lt;/span&gt;]]&lt;font color=&quot;blue&quot;&gt;&amp;nbsp;•&amp;nbsp;&lt;/font&gt;[[User talk:Mandarax|&lt;span style=&quot;background:white;color:#999900&quot;&gt;XAЯAbИAM&lt;/span&gt;]]&amp;nbsp;&lt;/span&gt; 19:45, 8 February 2009 (UTC)
+	</talkpage>
+</article>

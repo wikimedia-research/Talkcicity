@@ -1,0 +1,35 @@
+<article id="6514842" title=User talk:Cprockhill>
+	<talkpage id="6514842" title="User talk:Cprockhill">
+
+==Orphaned non-free image (File:Nysp logo.gif)==
+&lt;span style=&quot;font-size:32px; line-height:1em&quot;&gt;'''[[Image:Ambox warning blue.svg|35px|left|&amp;#x26A0;]]'''&lt;/span&gt; Thanks for uploading '''[[:File:Nysp logo.gif]]'''. The image description page currently specifies that the image is non-free and may only be used on Wikipedia under a [[WP:FU|claim of fair use]]. However, the image is currently [[Wikipedia:Orphan|orphaned]], meaning that it is not used in any articles on Wikipedia. If the image was previously in an article, please go to the article and see why it was removed. [[WP:BOLD|You may add it back]] if you think that that will be useful. However, please note that images for which a replacement could be created are not acceptable for use on Wikipedia (see [[Wikipedia:Non-free content#Policy|our policy for non-free media]]).
+
+If you have uploaded other unlicensed media, please check whether they're used in any articles or not. You can find a list of 'file' pages you have edited by clicking on the &quot;[[Special:MyContributions|my contributions]]&quot; link (it is located at the very top of any Wikipedia page when you are logged in), and then selecting &quot;File&quot; from the dropdown box. Note that any non-free images not used in any '''articles''' will be deleted after seven days, as described on [[wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. Thank you. &lt;!-- Template:Di-orphaned fair use-notice --&gt; [[User:Radiant chains|Radiant chains]] ([[User talk:Radiant chains|talk]]) 10:00, 25 April 2009 (UTC)
+
+==Orphaned non-free image (File:Nysp patch Logo.gif)==
+&lt;span style=&quot;font-size:32px; line-height:1em&quot;&gt;'''[[Image:Ambox warning blue.svg|35px|left|&amp;#x26A0;]]'''&lt;/span&gt; Thanks for uploading '''[[:File:Nysp patch Logo.gif]]'''. The image description page currently specifies that the image is non-free and may only be used on Wikipedia under a [[WP:FU|claim of fair use]]. However, the image is currently [[Wikipedia:Orphan|orphaned]], meaning that it is not used in any articles on Wikipedia. If the image was previously in an article, please go to the article and see why it was removed. [[WP:BOLD|You may add it back]] if you think that that will be useful. However, please note that images for which a replacement could be created are not acceptable for use on Wikipedia (see [[Wikipedia:Non-free content#Policy|our policy for non-free media]]).
+
+If you have uploaded other unlicensed media, please check whether they're used in any articles or not. You can find a list of 'file' pages you have edited by clicking on the &quot;[[Special:MyContributions|my contributions]]&quot; link (it is located at the very top of any Wikipedia page when you are logged in), and then selecting &quot;File&quot; from the dropdown box. Note that any non-free images not used in any '''articles''' will be deleted after seven days, as described on [[wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. Thank you. &lt;!-- Template:Di-orphaned fair use-notice --&gt; [[User:Radiant chains|Radiant chains]] ([[User talk:Radiant chains|talk]]) 10:00, 25 April 2009 (UTC)
+
+==Orphaned non-free image (File:Nysp patch Logo.gif)==
+&lt;span style=&quot;font-size:32px; line-height:1em&quot;&gt;'''[[Image:Ambox warning blue.svg|35px|left|&amp;#x26A0;]]'''&lt;/span&gt; Thanks for uploading '''[[:File:Nysp patch Logo.gif]]'''. The image description page currently specifies that the image is non-free and may only be used on Wikipedia under a [[WP:FU|claim of fair use]]. However, the image is currently [[Wikipedia:Orphan|orphaned]], meaning that it is not used in any articles on Wikipedia. If the image was previously in an article, please go to the article and see why it was removed. [[WP:BOLD|You may add it back]] if you think that that will be useful. However, please note that images for which a replacement could be created are not acceptable for use on Wikipedia (see [[Wikipedia:Non-free content#Policy|our policy for non-free media]]).
+
+If you have uploaded other unlicensed media, please check whether they're used in any articles or not. You can find a list of 'file' pages you have edited by clicking on the &quot;[[Special:MyContributions|my contributions]]&quot; link (it is located at the very top of any Wikipedia page when you are logged in), and then selecting &quot;File&quot; from the dropdown box. Note that any non-free images not used in any '''articles''' will be deleted after seven days, as described on [[wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. Thank you. &lt;!-- Template:Di-orphaned fair use-notice --&gt; [[User:Radiant chains|Radiant chains]] ([[User talk:Radiant chains|talk]]) 14:33, 30 April 2009 (UTC)
+
+
+== Speedy deletion of [[Template:Infobox LE Organization]] ==
+A tag has been placed on [[Template:Infobox LE Organization]] requesting that it be speedily deleted from Wikipedia. This has been done under [[WP:CSD#T3|section T3 of the criteria for speedy deletion]], because it is a deprecated or orphaned template. After seven days, if it is still unused and the speedy deletion tag has not been removed, the template will be deleted.
+
+If the template is intended to be substituted, please feel free to remove the speedy deletion tag and please consider putting a note on the template's page indicating that it is substituted so as to avoid any future mistakes (&lt;tt&gt;&amp;lt;noinclude&gt;&amp;#123;{transclusionless}}&amp;lt;/noinclude&gt;&lt;/tt&gt;).
+
+Thanks. &lt;!-- Template:Db-csd-notice-custom --&gt; [[User:RL0919|RL0919]] ([[User talk:RL0919|talk]]) 20:50, 16 October 2009 (UTC)
+
+== Nomination of [[Vampire houses in Blade]] for deletion ==
+
+&lt;div class=&quot;floatleft&quot; style=&quot;margin-bottom:0&quot;&gt;[[File:Ambox warning orange.svg|42px|alt=|link=]]&lt;/div&gt;The article '''[[Vampire houses in Blade]]''' is being discussed concerning whether it is suitable for inclusion as an article according to [[Wikipedia:List of policies and guidelines|Wikipedia's policies and guidelines]] or whether it should be [[Wikipedia:Deletion policy|deleted]].
+
+The article will be discussed at [[Wikipedia:Articles for deletion/Vampire houses in Blade]] until a consensus is reached, and anyone is welcome to contribute to the discussion. The nomination will explain the policies and guidelines which are of concern. The discussion focuses on good quality evidence, and our policies and guidelines.
+
+Users may edit the article during the discussion, including to improve the article to address concerns raised in the discussion.  However, do not remove the article-for-deletion template from the top of the article. [[User:I42|I42]] ([[User talk:I42|talk]]) 09:49, 30 December 2010 (UTC)
+	</talkpage>
+</article>

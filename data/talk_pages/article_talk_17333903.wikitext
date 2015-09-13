@@ -1,0 +1,5 @@
+<article id="17333903" title=Talk:4356 Marathon>
+	<talkpage id="17333903" title="Talk:4356 Marathon">
+{{WPAstronomy|object=yes|class=Stub|importance=Low}}
+	</talkpage>
+</article>

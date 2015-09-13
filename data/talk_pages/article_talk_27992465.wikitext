@@ -1,0 +1,6 @@
+<article id="27992465" title=Talk:Lilienstein>
+	<talkpage id="27992465" title="Talk:Lilienstein">
+{{WikiProject Mountains|class=Stub|importance=Low}}
+{{WikiProject Germany|class=stub|importance=low}}
+	</talkpage>
+</article>

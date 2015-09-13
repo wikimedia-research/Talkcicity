@@ -1,0 +1,9 @@
+<article id="13832269" title=User talk:Yafcolinownsyou>
+	<talkpage id="13832269" title="User talk:Yafcolinownsyou">
+
+
+
+==Notability of [[:Random sense]]==
+[[Image:Information_icon.svg|left]]Hello, this is a message from [[User:CSDWarnBot|an automated bot]]. A tag has been placed on [[:Random sense]], by {{#ifeq:{{{nom}}}|1|[[User:{{{nominator}}}|{{{nominator}}}]]&amp;nbsp;([[User talk:{{{nominator}}}|talk]]&amp;nbsp;'''·''' [[Special:Contributions/{{{nominator}}}|contribs]]),}} another Wikipedia user, requesting that it be [[Wikipedia:Speedy deletions|speedily deleted]] from Wikipedia. The tag claims that it should be speedily deleted because [[:Random sense]] seems to be about a person, group of people, band, club, company, or web content, but it does not indicate how or why the subject is notable: that is, why an article about that subject should be included in an encyclopedia. Under the [[WP:CSD#Articles|criteria for speedy deletion]], articles that do not assert the subject's importance or significance may be deleted at any time. Please [[Wikipedia:Notability|see the guidelines for what is generally accepted as notable]]. &lt;br&gt;&lt;br&gt;To contest the tagging and request that administrators wait before possibly deleting [[:Random sense]], please affix the template &lt;nowiki&gt;{{hangon}}&lt;/nowiki&gt; to the page, and put a note on its talk page. If the article has already been deleted, see the advice and instructions at [[WP:WMD]]. Feel free to contact the [[User:CSDWarnBot|bot operator]] if you have any questions about this or any problems with this bot, bearing in mind that '''this bot is only informing you of the nomination for speedy deletion; it does not perform any nominations or deletions itself.''' [[User:CSDWarnBot|CSDWarnBot]] 02:04, 21 October 2007 (UTC)
+	</talkpage>
+</article>

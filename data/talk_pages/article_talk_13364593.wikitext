@@ -1,0 +1,6 @@
+<article id="13364593" title=User talk:Beethoven12>
+	<talkpage id="13364593" title="User talk:Beethoven12">
+==Regarding your edits to [[:Symphony No. 9 (Beethoven)]]:==
+Your recent edit to [[:Symphony No. 9 (Beethoven)]] ([http://en.wikipedia.org/w/index.php?title=Symphony_No._9_%28Beethoven%29&amp;diff=prev&amp;oldid=159289914 diff]) was reverted by an '''automated bot'''. The edit was identified as adding either test edits, [[WP:VAND|vandalism]], or [[WP:SPAM|link spam]] to the page or having an inappropriate [[WP:ES|edit summary]]. If you want to experiment, please use the preview button while editing or consider using the [[Wikipedia:Sandbox|sandbox]]. If this revert was in error, please contact the bot operator. If you made an edit that removed a large amount of content, try doing smaller edits instead. Thanks! // [[User:VoABot II|VoABot II]] 00:41, 21 September 2007 (UTC)
+	</talkpage>
+</article>

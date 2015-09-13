@@ -1,0 +1,17 @@
+<article id="38705287" title=Talk:TUGSAT-1>
+	<talkpage id="38705287" title="Talk:TUGSAT-1">
+{{Talk header}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Spaceflight|class=Start|importance=Low
+| b1 &lt;!--Referencing &amp; citations--&gt; = 
+| b2 &lt;!--Coverage &amp; accuracy    --&gt; = 
+| b3 &lt;!--Structure              --&gt; = 
+| b4 &lt;!--Grammar &amp; style        --&gt; = 
+| b5 &lt;!--Supporting materials   --&gt; = 
+| b6 &lt;!--Accessibility          --&gt; = 
+|needs-image=yes}}
+{{WikiProject Austria|class=Start|importance=Low}}
+}}
+{{Reqphoto|spaceflight}}
+	</talkpage>
+</article>

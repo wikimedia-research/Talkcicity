@@ -1,0 +1,6 @@
+<article id="13096218" title=Talk:WTIG>
+	<talkpage id="13096218" title="Talk:WTIG">
+{{WikiProject United States|class=Stub|importance=low|OH=yes|OH-importance=||auto=yes}}
+{{WikiProject Radio Stations|class=Stub}}
+	</talkpage>
+</article>

@@ -1,0 +1,10 @@
+<article id="43250378" title=Talk:Zamorano-Leonés>
+	<talkpage id="43250378" title="Talk:Zamorano-Leonés">
+{{talk header}}
+{{WikiProjectBannerShell|1=
+{{WPFarm|class=start|importance=low|livestock=yes}}
+{{WPSpain}}
+{{WPEQ|class=start|importance=low}}
+}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="17534938" title=Talk:5618 Saitama>
+	<talkpage id="17534938" title="Talk:5618 Saitama">
+{{WPAstronomy|object=yes|class=Stub|importance=Low}}
+	</talkpage>
+</article>

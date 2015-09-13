@@ -1,0 +1,9 @@
+<article id="8764287" title=User talk:66.153.207.10>
+	<talkpage id="8764287" title="User talk:66.153.207.10">
+[[Image:Stop hand.svg|30px|left]] This is your '''last warning'''. The next time you insert a [[Wikipedia:Spam|spam]] link,  {{{{{subst|}}}#if:Phentermine|as you did to [[:Phentermine]],}} you ''will'' be blocked from editing Wikipedia. Persistent spammers may have their websites [[meta:Talk:Spam blacklist|blacklisted]] from Wikipedia. &lt;!-- Template:Spam4 --&gt;  [[User:Gwernol|Gwernol]] 04:10, 5 January 2007 (UTC)
+
+:&lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;[[Image:Octagon-warning.svg|left|30px]]'''You have been {{#if:{{{1|}}}||temporarily}} [[Wikipedia:Blocking policy|blocked]] from editing Wikipedia {{#if:{{{1|}}}|for a period of {{{1|}}}}} as a result of your {{#if:{{{2|}}}|disruptive edits to [[:{{{2}}}]]|disruptive edits}}.''' You are free to make constructive edits after the block has expired, but please note that [[Wikipedia:Vandalism|vandalism]] (including page blanking or addition of [[Wikipedia:Patent nonsense|random text]]), [[Wikipedia:Spam|spam]], deliberate misinformation, privacy violations, [[Wikipedia:No personal attacks|personal attacks]]; and repeated, blatant violations of our [[Wikipedia:Neutral point of view|neutral point of view]] policy will not be tolerated.&lt;!-- Template:Test5 --&gt; [[User:Alphachimp|&lt;span style=&quot;color:MidnightBlue&quot;&gt;'''alphachimp'''&lt;/span&gt;]] 04:17, 5 January 2007 (UTC)
+
+{{blocked proxy}}
+	</talkpage>
+</article>

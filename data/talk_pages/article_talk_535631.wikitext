@@ -1,0 +1,9 @@
+<article id="535631" title=Talk:List of municipalities of Sweden by wealth>
+	<talkpage id="535631" title="Talk:List of municipalities of Sweden by wealth">
+{{WPSweden|class=List|importance=Low}}
+
+1) I slutlig skatt ingår statlig och kommunal inkomstskatt på förvärvsinkomster, statlig inkomstskatt på kapitalinkomster, fastighetsskatt (mot dessa fyra skatter kan skattereduktion ha erhållits för fastighetsskatt, byggnadsarbete på bostadshus, och underskott av kapital), förmögenhetsskatt, allmänna egenavgifter samt egenavgifter och skatter för näringsverksamma. Eventuell mervärdesskatt som debiteras vid skatteberäkning debiteras ej.
+2) De som någon gång under 2001 var folkbokförda i riket. Barn under 18 år som saknar summa förvärvs- och kapitalinkomst samt slutlig skatt ingår ej i populationen. Medelvärde beräknat för samtliga.
+3) Enligt 2001 års priser.
+	</talkpage>
+</article>

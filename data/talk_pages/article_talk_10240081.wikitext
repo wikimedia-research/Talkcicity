@@ -1,0 +1,7 @@
+<article id="10240081" title=User talk:71.57.105.62>
+	<talkpage id="10240081" title="User talk:71.57.105.62">
+
+
+{{{icon|[[Image:Information.svg|25px|left]] }}}Please do not add unhelpful and unconstructive information to Wikipedia{{{{{subst|}}}#if:John Ashcroft|, as you did to [[:John Ashcroft]]}}. Your edits appear to be [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{{2|Thank you.}}}&lt;!-- {{uw-vandalism2}} --&gt; [[User:Kuru|&lt;font color = &quot;#cd853f&quot;&gt;'''Kuru'''&lt;/font&gt;]] [[User talk:Kuru|&lt;font color = &quot;#f5deb3&quot;&gt;&lt;sup&gt;''talk''&lt;/sup&gt;&lt;/font&gt;]] 17:35, 24 March 2007 (UTC) &lt;br clear=&quot;both&quot;&gt;
+	</talkpage>
+</article>

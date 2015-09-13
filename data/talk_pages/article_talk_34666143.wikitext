@@ -1,0 +1,8 @@
+<article id="34666143" title=User talk:Kdx80>
+	<talkpage id="34666143" title="User talk:Kdx80">
+
+== February 2012 ==
+
+[[File:Information.svg|25px]] Welcome to Wikipedia. Please do not replace pages with blank content, as you did with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Canon_EOS_550D?diff=475943468 this edit]&lt;/span&gt; to [[:Canon EOS 550D]], as this is confusing to readers. The page's content has been restored for now. If there is a problem with the page, it should be edited or [[Wikipedia:Reverting|reverted]] to a previous version if possible; if you think the page should be removed entirely, see [[Wikipedia:How to delete a page|further information]]. Thank you. &lt;!-- Template:Huggle/warn-blank-1 --&gt;&lt;!-- Template:Uw-delete1 --&gt;[[User:DVdm|DVdm]] ([[User talk:DVdm|talk]]) 14:21, 9 February 2012 (UTC)
+	</talkpage>
+</article>

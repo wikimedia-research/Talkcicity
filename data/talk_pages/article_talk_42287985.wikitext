@@ -1,0 +1,7 @@
+<article id="42287985" title=User talk:81.244.77.24>
+	<talkpage id="42287985" title="User talk:81.244.77.24">
+== March 2014 ==
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:TheIrishWarden|TheIrishWarden]]. I noticed that you made an edit concerning content related to a living person{{spaces|1}}on [[:Shahyar Ghanbari]], but that you didn’t support your changes with a [[Wikipedia:Citing sources|citation to a reliable source]], so I removed it. Wikipedia has a strict policy concerning [[Wikipedia:Biographies of living persons|how we write about living people]], so please help us keep such articles accurate. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:TheIrishWarden|my talk page]]. Thank you. &lt;!-- Template:uw-biog1 --&gt; &lt;span style=&quot;background:#FFF; text-shadow:0px 0px .3em LightSkyBlue&quot;&gt;[[User:TheIrishWarden|&lt;font color=&quot;green&quot;&gt;Thєíríshwαrdєn&lt;/font&gt;]][[User talk:TheIrishWarden|&lt;font color=&quot;#FF7E00&quot;&gt; - írísh αnd prσud&lt;/font&gt;]]&lt;/span&gt; 19:35, 23 March 2014 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

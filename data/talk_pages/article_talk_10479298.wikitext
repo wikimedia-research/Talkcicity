@@ -1,0 +1,18 @@
+<article id="10479298" title=Talk:Odo IV, Duke of Burgundy>
+	<talkpage id="10479298" title="Talk:Odo IV, Duke of Burgundy">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=no
+|class=Start
+|royalty-work-group=yes
+|listas=Odo Iv, Duke Of Burgundy
+}}
+{{WikiProject Middle Ages|class=start}}
+{{WikiProject Greece|class=start|importance=}}
+}}
+
+==Untitled==
+Other places give his year of death as 1349. What is the correct date? [[User:Fornadan|Fornadan]] [[User talk:Fornadan|(t)]] 09:03, 16 May 2009 (UTC)
+
+In the 14th century the new year began in March - April, so his date of death would have been 1349 by 14th century reckoning, but 1350 by modern reckoning. [[User:Kissmaiden|Kissmaiden]] ([[User talk:Kissmaiden|talk]]) 00:02, 25 October 2010 (UTC)
+	</talkpage>
+</article>

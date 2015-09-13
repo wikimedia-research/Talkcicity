@@ -1,0 +1,7 @@
+<article id="39854312" title=Talk:LYaPAS>
+	<talkpage id="39854312" title="Talk:LYaPAS">
+{{WikiProject Computing|class=stub|importance=low}}
+
+Pretty much everything that's ever been written in English about LYaPAS is contained in http://www.worldcat.org/title/lyapas-a-programming-language-for-logic-and-coding-algorithms/oclc/49528/editions?referer=di&amp;editionsView=true. I've got a copy but it looks like there's an eBook there on WorldCat.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Znmeb|Znmeb]] ([[User talk:Znmeb|talk]] • [[Special:Contributions/Znmeb|contribs]]) 22:11, 11 October 2014 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

@@ -1,0 +1,13 @@
+<article id="25827281" title=Talk:Mao Denda>
+	<talkpage id="25827281" title="Talk:Mao Denda">
+{{WikiProject Biography|living=yes
+|class=Stub
+|listas=Denda, Mao
+|needs-photo=yes}}
+
+{{WikiProject Pop music}}
+{{WPRB}}
+{{WPJAPAN|class=stub|importance=low|bio=y|music=y}}
+{{image requested|music|in=Japan}}
+	</talkpage>
+</article>

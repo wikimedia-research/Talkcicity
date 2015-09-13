@@ -1,0 +1,6 @@
+<article id="33057767" title=Talk:Laurent Paquin>
+	<talkpage id="33057767" title="Talk:Laurent Paquin">
+{{WikiProject Biography|living=yes|class=stub|a&amp;e-priority=low|a&amp;e-work-group=yes|listas=Paquin, Laurent}}
+{{WikiProject Canada|qc=yes|class=stub|importance=low}}
+	</talkpage>
+</article>

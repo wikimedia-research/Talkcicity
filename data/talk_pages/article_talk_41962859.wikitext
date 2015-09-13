@@ -1,0 +1,10 @@
+<article id="41962859" title=Talk:Chah-e Mirza, Khash>
+	<talkpage id="41962859" title="Talk:Chah-e Mirza, Khash">
+{{WikiProjectBannerShell|1=
+{{WikiProject Geography|class=stub|importance=low}}
+{{WikiProject Iran |importance=|class=stub}}
+{{WikiProject Cities|class=stub|importance=low}}
+{{Image requested|in=Iran}}
+}}
+	</talkpage>
+</article>

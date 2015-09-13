@@ -1,0 +1,26 @@
+<article id="38812290" title=User talk:204.14.79.26>
+	<talkpage id="38812290" title="User talk:204.14.79.26">
+
+
+== March 2013 ==
+[[Image:Information.svg|left|25px|alt=|link=]] Hello, and welcome to Wikipedia. This is a message letting you know that one of your recent edits has been undone by an automated computer program called [[User:ClueBot NG|ClueBot NG]].
+{{clear}}
+* ClueBot NG makes very few [[User:ClueBot NG#Information About False Positives|mistakes]], but it does happen. If you believe the change you made was constructive, please [[User:ClueBot NG#Information About False Positives|read about it]], [{{User:ClueBot NG/Warnings/FPReport|1557470}} report it here], remove this message from your talk page, and then make the edit again.
+* For help, take a look at the [[Wikipedia:Introduction|introduction]].
+* The following is the log entry regarding this message: [[Ryan White]] was [http://en.wikipedia.org/w/index.php?title=Ryan+White&amp;diff=544114428&amp;oldid=542386456 changed] by [[Special:Contributions/204.14.79.26|204.14.79.26]] [[User:204.14.79.26|(u)]] [[User talk:204.14.79.26|(t)]] ANN scored at 0.955321 on 2013-03-14T15:10:16+00:00 &lt;!-- MySQL ID: 1557470 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]) 15:10, 14 March 2013 (UTC)
+
+== May 2013 ==
+[[Image:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Pinethicket|Pinethicket]]. I noticed that you made a change to an article, [[:Pass Christian, Mississippi]], but you didn't provide a [[Wikipedia:Identifying reliable sources|reliable source]]. It's been removed for now, but if you'd like to [[Wikipedia:Citing sources|include a citation]] and re-add it, please do so! If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Pinethicket|my talk page]]. Thank you. &lt;!-- Template:uw-unsourced1 --&gt; [[User:Pinethicket|Pinethicket]] ([[User talk:Pinethicket|talk]]) 18:29, 22 May 2013 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+
+[[Image:Stop hand nuvola.svg|30px|alt=Stop icon]] This is your '''only warning'''; if you violate Wikipedia's [[Wikipedia:Biographies of living persons|biographies of living persons]] policy by inserting [[Wikipedia:Verifiability|unsourced]]  or [[Wikipedia:Identifying reliable sources|poorly sourced]] [[Wikipedia:Libel|defamatory]] content into an article or any other Wikipedia page again, as you did at [[:Pass Christian, Mississippi]], you may be '''[[Wikipedia:Blocking policy|blocked from editing]] without further notice'''. &lt;!-- Template:uw-biog4im --&gt; [[User:Gtwfan52|Gtwfan52]] ([[User talk:Gtwfan52|talk]]) 05:16, 23 May 2013 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+
+== July 2013 ==
+[[Image:Information.svg|left|25px|alt=|link=]] Hello, and welcome to Wikipedia. This is a message letting you know that one of your recent edits to [[:Understatement]] has been undone by an automated computer program called [[User:ClueBot NG|ClueBot NG]].
+{{clear}}
+* ClueBot NG makes very few [[User:ClueBot NG#Information About False Positives|mistakes]], but it does happen. If you believe the change you made was constructive, please [[User:ClueBot NG#Information About False Positives|read about it]], [{{User:ClueBot NG/Warnings/FPReport|1686898}} report it here], remove this message from your talk page, and then make the edit again.
+* For help, take a look at the [[Wikipedia:Introduction|introduction]].
+* The following is the log entry regarding this message: [[Understatement]] was [http://en.wikipedia.org/w/index.php?title=Understatement&amp;diff=564247045&amp;oldid=564246786 changed] by [[Special:Contributions/204.14.79.26|204.14.79.26]] [[User:204.14.79.26|(u)]] [[User talk:204.14.79.26|(t)]] ANN scored at 0.982523 on 2013-07-14T17:11:16+00:00 &lt;!-- MySQL ID: 1686898 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]) 17:11, 14 July 2013 (UTC)
+	</talkpage>
+</article>

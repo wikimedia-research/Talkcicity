@@ -1,0 +1,5 @@
+<article id="17869487" title=User talk:70.146.47.75>
+	<talkpage id="17869487" title="User talk:70.146.47.75">
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to contribute constructively to the encyclopedia, one or more of the external links you added {{#if:|to the page [[:{{{1}}}]]}} do not comply with our [[Wikipedia:External links|guidelines for external links]] and have been removed. [[Wikipedia:What_Wikipedia_is_not#LINK|Wikipedia is not a collection of links]]; nor should it be used for [[Wikipedia:Spam|advertising]] or promotion. Since Wikipedia uses [[nofollow]] tags, external links do not alter search engine rankings. If you feel the link should be added to the article, please discuss it on the {{#if:|[[talk:{{{1}}}|article's talk page]]|article's talk page}} before reinserting it. Please take a look at the [[Wikipedia:Welcome|welcome page]] to learn more about contributing to this encyclopedia. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-spam1 --&gt; [[User:Halifax Nomad|Halifax Nomad]] ([[User talk:Halifax Nomad|talk]]) 08:07, 10 June 2008 (UTC)
+	</talkpage>
+</article>

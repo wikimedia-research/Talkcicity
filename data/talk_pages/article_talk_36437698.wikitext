@@ -1,0 +1,17 @@
+<article id="6552386" title=Talk:Performing arts of Australia>
+	<talkpage id="6552386" title="Talk:Performing arts of Australia">
+{{WP Australia
+|class= start 
+|importance= high
+}}
+
+== Comedy (stand-up &amp; other live comedy performance) missing ==
+
+Not sure how it should be added, but I believe it's of great cultural importance. (Possible subsections: Live stand-up circuit, Festivals that feature comedy, Theatre Sports, etc etc)--[[User:Tyranny Sue|Tyranny Sue]] ([[User talk:Tyranny Sue|talk]]) 05:46, 5 April 2009 (UTC)
+
+== Significant Australian performing arts organisations box ==
+
+The layout is fairly awkward-looking as it is, with all those state columns. Perhaps breaking it down into state subheadings, each with its own box, would be better.
+And perhaps include some festivals? (e.g. MICF, Adelaide Fringe, etc) --[[User:Tyranny Sue|Tyranny Sue]] ([[User talk:Tyranny Sue|talk]]) 05:58, 5 April 2009 (UTC)
+	</talkpage>
+</article>

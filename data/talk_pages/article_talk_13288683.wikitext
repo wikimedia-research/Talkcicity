@@ -1,0 +1,17 @@
+<article id="13288683" title=User talk:Amywalls>
+	<talkpage id="13288683" title="User talk:Amywalls">
+
+==Image tagging for Image:18.jpg==
+Thanks for uploading '''[[:Image:18.jpg]]'''. The image has been identified as not specifying the source and creator of the image, which is required by Wikipedia's policy on images. If you don't indicate the source and creator of the image on the image's description page, it may be deleted some time in the next seven days. If you have uploaded other images, please verify that you have provided source information for them as well.
+
+For more information on using images, see the following pages:
+* [[Wikipedia:Image use policy]]
+* [[Wikipedia:Image copyright tags]]
+
+This is an automated notice by [[User:OrphanBot|OrphanBot]]. For assistance on the image use policy, see [[Wikipedia:Media copyright questions]]. 07:05, 16 September 2007 (UTC)
+==Orphaned non-free media (Image:18.jpg)==
+[[Image:Nuvola apps important blue.svg|25px]] Thanks for uploading '''[[:Image:18.jpg]]'''. The media description page currently specifies that it is non-free and may only be used on Wikipedia under a [[WP:FU|claim of fair use]]. However, it is currently [[Wikipedia:Orphan|orphaned]], meaning that it is not used in any articles on Wikipedia. If the media was previously in an article, please go to the article and see why it was removed. [[WP:BOLD|You may add it back]] if you think that that will be useful. However, please note that media for which a replacement could be created are not acceptable for use on Wikipedia (see [[Wikipedia:Non-free content#Policy|our policy for non-free media]]).
+
+If you have uploaded other unlicensed media, please check whether they're used in any articles or not. You can find a list of 'image' pages you have edited by clicking on the &quot;[[Special:Contributions/{{PAGENAME}}|my contributions]]&quot; link (it is located at the very top of any Wikipedia page when you are logged in), and then selecting &quot;Image&quot; from the dropdown box. Note that all non-free media not used in any '''articles''' will be deleted after seven days, as described on [[wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. Thank you.&lt;!-- Template:Orphaned --&gt; [[User:BetacommandBot|BetacommandBot]] 15:31, 17 September 2007 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,10 @@
+<article id="15851845" title=User talk:Nio101>
+	<talkpage id="15851845" title="User talk:Nio101">
+
+
+==Speedy deletion of [[:Creat an article]]==
+[[Image:Nuvola apps important.svg|48px|left]] A tag has been placed on [[:Creat an article]], requesting that it be speedily deleted from Wikipedia. This has been done under [[WP:CSD#G1|section G1 of the criteria for speedy deletion]], because the page appears to have no meaningful content or history, and the text is unsalvageably incoherent. If the page you created was a test, please use the [[Wikipedia:Sandbox|sandbox]] for any other experiments you would like to do. Feel free to leave a message on my talk page if you have any questions about this. 
+
+If you think that this notice was placed here in error, you may contest the deletion by adding &lt;code&gt;{{tl|hangon}}&lt;/code&gt; to '''the top of [[:Creat an article|the page]]''' (just below the existing speedy deletion or &quot;db&quot; tag), coupled with adding a note on '''[[Talk:Creat an article|the article's talk page]]''' explaining your position, but be aware that once tagged for ''speedy'' deletion, if the article meets the criterion it may be deleted without delay. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the article that would would render it more in conformance with Wikipedia's policies and guidelines. [[User:ClueBot V|ClueBot V]] ([[User talk:ClueBot V|talk]]) 00:20, 20 February 2008 (UTC)&lt;!-- Template:Db-nonsense-notice --&gt;
+	</talkpage>
+</article>

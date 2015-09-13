@@ -1,0 +1,5 @@
+<article id="19775581" title=Talk:Ministry of Science, Technology and Higher Education>
+	<talkpage id="19775581" title="Talk:Ministry of Science, Technology and Higher Education">
+{{WikiProject Portugal|class=stub|importance=}}
+	</talkpage>
+</article>

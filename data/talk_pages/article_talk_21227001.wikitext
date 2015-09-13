@@ -1,0 +1,11 @@
+<article id="21227001" title=Talk:Forever, Darling>
+	<talkpage id="21227001" title="Talk:Forever, Darling">
+{{WikiProject Film|American-task-force=yes|class=Start
+|B-Class-1 &lt;!-- Referencing &amp; citations --&gt; = no
+|B-Class-2 &lt;!-- Coverage &amp; accuracy     --&gt; = no
+|B-Class-3 &lt;!-- Structure               --&gt; = yes
+|B-Class-4 &lt;!-- Grammar                 --&gt; = 
+|B-Class-5 &lt;!-- Supporting materials    --&gt; = no
+}}
+	</talkpage>
+</article>

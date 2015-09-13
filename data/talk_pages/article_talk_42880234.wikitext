@@ -1,0 +1,9 @@
+<article id="42880234" title=Talk:John Baptist Nosardy Zino>
+	<talkpage id="42880234" title="Talk:John Baptist Nosardy Zino">
+{{Talk header}}
+{{WikiProjectBanners|collapsed=no|1=
+{{WPBiography|living=no|class=start|listas=Zino, John Baptist Nosardy}}
+{{ChristianityWikiProject|class=start|importance=low|catholicism=yes|catholicism-importance=low}}
+}}
+	</talkpage>
+</article>

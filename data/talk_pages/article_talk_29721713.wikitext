@@ -1,0 +1,6 @@
+<article id="29721713" title=Talk:Goethe Way>
+	<talkpage id="29721713" title="Talk:Goethe Way">
+{{translated page|de|Goetheweg}} 
+{{WikiProject Germany|class=start|importance=low}}
+	</talkpage>
+</article>

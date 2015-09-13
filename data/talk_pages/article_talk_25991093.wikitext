@@ -1,0 +1,6 @@
+<article id="25991093" title=Talk:Goâve>
+	<talkpage id="25991093" title="Talk:Goâve">
+{{WikiProject Disambiguation}}
+{{WikiProject Articles for creation|class=disamb|ts=20100129094930|reviewer=Bradjamesbrown}}
+	</talkpage>
+</article>

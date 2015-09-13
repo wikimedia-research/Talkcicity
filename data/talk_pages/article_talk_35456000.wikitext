@@ -1,0 +1,9 @@
+<article id="35456000" title=Talk:Minneapolis Shoal Light Station>
+	<talkpage id="35456000" title="Talk:Minneapolis Shoal Light Station">
+{{WikiProjectBannerShell|1=
+{{WikiProject National Register of Historic Places|importance = Low|class=start}}
+{{WikiProject Michigan|class=start|importance=Low}}
+{{WikiProject Lighthouses|class=start}}
+}}
+	</talkpage>
+</article>

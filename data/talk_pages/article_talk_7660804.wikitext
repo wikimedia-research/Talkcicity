@@ -1,0 +1,19 @@
+<article id="7660804" title=Talk:Perambur Loco Works railway station>
+	<talkpage id="7660804" title="Talk:Perambur Loco Works railway station">
+{{talk header}}
+{{WP India
+|importance=low
+|class=stub
+|tamilnadu=yes
+|tamilnadu-importance=low
+|chennai=yes
+|chennai-importance=low
+|transport=yes
+|transport-importance=low
+|railways=yes
+|railways-importance=low
+}}
+{{TrainsWikiProject|auto=yes|class=stub|importance=low}}
+{{Reqphoto|in=Chennai|of=Perambur Loco Works}}
+	</talkpage>
+</article>

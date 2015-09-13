@@ -1,0 +1,42 @@
+<article id="5717991" title=Talk:Ram Island (Connecticut)>
+	<talkpage id="5717991" title="Talk:Ram Island (Connecticut)">
+{{Talk header}}
+{{WikiProject Connecticut|class=stub|importance=low}}
+{{WikiProject Geography|class=stub|importance=low}}
+{{Image requested|in=Connecticut}}
+
+==Former and current hotels==
+I was unable to find any information about the former hotel; however, I do see that there is a currently operating restaurant by the name of [http://www.shelterislandinns.com/ramshead/ Ram's Head Inn].  The restuarant's site doesn't mention Ram's Island by name, but rather describes its location as Mystic Island (though on the map it's clear that Ram's Island refers to a causeway-connected peninsula on the edge of shelter island). I couldn't verify the information about the Ragsdale family. Further information is appreciated. &lt;b&gt;[[User:Ohnoitsjamie|OhNo&lt;font color=&quot;#D47C14&quot;&gt;itsJamie&lt;/font&gt;]] [[User talk:Ohnoitsjamie|&lt;sup&gt;Talk&lt;/sup&gt;]]&lt;/b&gt; 15:43, 26 June 2006 (UTC)
+
+There is no restaurant on the island. The island is completely privately owned and consists only of a house and out buildings. The previous owner of the island operated a small motel that catered to people traveling through the area by boat. This motel is different than the hotel mentioned in the article. The former hotel was completely destroyed during the hurricane of 1938. ([[User:Rhvanwinkle|Rhvanwinkle]] ([[User talk:Rhvanwinkle|talk]]) 22:16, 8 September 2008 (UTC))
+
+== Wrong Coordinates and Info Confirmation ==
+
+The coordinates listed are wrong, they are for New Haven, Connecticut. The actual Ram Island is located near New London, Stonington, and Groton, about 2 miles offcoast from Connecticut.
+Also, here are a couple of articles that mention both Ram Island:
+
+http://images.lib.uconn.edu/cdm-cho/item_viewer.php?CISOROOT=/cho&amp;CISOPTR=12325&amp;CISOBOX=1&amp;REC=20
+
+http://www.cthistoryonline.org/cdm-cho/item_viewer.php?CISOROOT=/cho&amp;CISOPTR=12185&amp;CISOBOX=1&amp;REC=9
+
+
+== Incorrect name for the island ==
+
+The proper name for the island is Ram Island not Ram's Island. ([[User:Rhvanwinkle|Rhvanwinkle]] ([[User talk:Rhvanwinkle|talk]]) 15:54, 17 September 2008 (UTC))
+
+==Requested move==
+{{polltop}} '''Move''' (which someone has already done) [[User:Anthony Appleyard|Anthony Appleyard]] ([[User talk:Anthony Appleyard|talk]]) 04:59, 20 September 2008 (UTC)
+
+[[Ram&amp;#39;s Island]] → [[Ram Island]] — This is the correct name for the island — [[User:Rhvanwinkle|Rhvanwinkle]] ([[User talk:Rhvanwinkle|talk]]) 15:57, 17 September 2008 (UTC)
+
+===Survey===
+:''Feel free to state your position on the renaming proposal by beginning a new line in this section with'' &lt;code&gt;&lt;nowiki&gt;*'''Support'''&lt;/nowiki&gt;&lt;/code&gt; ''or'' &lt;code&gt;&lt;nowiki&gt;*'''Oppose'''&lt;/nowiki&gt;&lt;/code&gt;'', then sign your comment with'' &lt;code&gt;&lt;nowiki&gt;~~~~&lt;/nowiki&gt;&lt;/code&gt;''. Since [[Wikipedia:Polling is not a substitute for discussion|polling is not a substitute for discussion]], please explain your reasons, taking into account [[Wikipedia:Naming conventions|Wikipedia's naming conventions]].''
+
+*'''Support'''.  External links above and in the article confirm the name.  Also move [[Ram's Island, Northern Ireland]] to [[Ram's Island]].  The DAB [[WP:HATNOTE|hatnotes]] will take care of any possible confusion. — &lt;span style=&quot;border:1px solid blue;padding:1px;&quot;&gt;[[User talk:AjaxSmack|&lt;font style=&quot;color:#fef;background:navy;&quot;&gt;''' AjaxSmack '''&lt;/font&gt;]]&lt;/span&gt; 05:55, 19 September 2008 (UTC)
+* Agree that the name is &quot;Ram Island&quot;, but there already is at least one article that could also have the same name, [[Ram Island (Tasmania)]] and other articles with titles that could easily be confused. No argument for primary topic has been made. Suggest moving to [[Ram Island (Connecticut)]] and leave [[Ram Island]] as a disambiguation page. There are at least 48 other places named Ram Island in the U.S. alone. [[User:Bkonrad|older]] ≠ [[User talk:Bkonrad|wiser]] 10:22, 19 September 2008 (UTC)
+
+===Discussion===
+:''Any additional comments:''
+{{pollbottom}}
+	</talkpage>
+</article>

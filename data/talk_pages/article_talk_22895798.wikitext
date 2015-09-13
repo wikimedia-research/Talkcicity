@@ -1,0 +1,5 @@
+<article id="22895798" title=Talk:Radostków-Kolonia>
+	<talkpage id="22895798" title="Talk:Radostków-Kolonia">
+{{WikiProject Poland|class=start|importance=mid}}
+	</talkpage>
+</article>

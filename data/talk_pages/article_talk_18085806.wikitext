@@ -1,0 +1,5 @@
+<article id="18085806" title=Talk:James Francis (disambiguation)>
+	<talkpage id="18085806" title="Talk:James Francis (disambiguation)">
+{{DisambigProject}}
+	</talkpage>
+</article>

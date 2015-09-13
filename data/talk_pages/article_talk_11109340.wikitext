@@ -1,0 +1,5 @@
+<article id="11109340" title=User talk:89.172.181.100>
+	<talkpage id="11109340" title="User talk:89.172.181.100">
+Thank you for experimenting with {{#if:{{{1|}}}|the page [[:{{{1}}}]] on}} Wikipedia{{#if:{{{diff|}}}|&amp;nbsp;as you did with [{{{diff}}} this edit]}}. Your test worked, and it has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any other tests you may want to do. Take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to our encyclopedia.&lt;!-- Template:Test (first level warning) --&gt; - [[User:Yamamoto_Ichiro|Y.Ichiro]] &lt;small&gt;([[User talk:Yamamoto Ichiro|会話]])&lt;/small&gt; 22:16, 7 May 2007 (UTC)
+	</talkpage>
+</article>

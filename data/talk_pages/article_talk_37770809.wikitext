@@ -1,0 +1,13 @@
+<article id="37770809" title=User talk:Huama1985>
+	<talkpage id="37770809" title="User talk:Huama1985">
+
+'''Welcome!''' '''
+&lt;p&gt;Hello, Huama1985, and '''''[[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome to Wikipedia]]!''''' This is one of the most popular websites in the world, and it's only through the contributions of editors like you. And Wikipedia is not just a collection of articles, it's an [[Wikipedia:Community Portal|active community]]. The real fun here is [[Wikipedia:Contributing to Wikipedia|contributing to Wikipedia]], but don't feel hurt if some of your first few edits get removed, as there are some [[Wikipedia:Five pillars|central guidelines]] you may not be familiar with. &lt;/p&gt;
+
+Some good advice: [[Wikipedia:Be bold in updating pages|'''be bold''']] in your editing, and [[Help:Using talk pages|use the talk pages]] to discuss with other editors. [[Wikipedia:Etiquette|Be kind to others]], because there's a lot you can [[Wikipedia:Avoiding common mistakes|learn from them]], and there's lots they can [[Wikipedia:New contributors' help page|help you with]].
+
+There's lots of resources to help you become a great editor, from our [[Wikipedia:Introduction|basic introduction]] to our in-depth [[Help:Wikipedia: The Missing Manual|manual]]. But if you have any questions or problems, no matter what they are, leave me a message on my talk page. Or, you can just type '''&lt;code&gt;{&amp;#123;helpme}}&lt;/code&gt;''' on this page, and someone will show up shortly to answer your questions. And if you haven't done so, [[Wikipedia:User page|tell us a bit about yourself]]. If you need some help, visit the [[Wikipedia:Teahouse/Questions|Teahouse]] Q&amp;A board. Oh, and please sign your name on talk pages and votes by typing &amp;#126;&amp;#126;&amp;#126;&amp;#126;; our software automatically converts it to your username and the date.
+
+Glad you're here! [[User:Wateresque|Wateresque]] ([[User talk:Wateresque|talk]]) 15:17, 28 November 2012 (UTC)&lt;/p&gt;
+	</talkpage>
+</article>

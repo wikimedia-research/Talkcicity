@@ -1,0 +1,11 @@
+<article id="22303899" title=Talk:Liam Wilson>
+	<talkpage id="22303899" title="Talk:Liam Wilson">
+{{WikiProject Biography
+|living=yes
+|class=start
+|musician-work-group=yes
+|listas=Wilson, Liam
+}}
+{{WikiProject Metal|class=start|importance=mid}}
+	</talkpage>
+</article>

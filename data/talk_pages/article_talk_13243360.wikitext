@@ -1,0 +1,9 @@
+<article id="13243360" title=User talk:168.156.84.234>
+	<talkpage id="13243360" title="User talk:168.156.84.234">
+
+
+A tag has been placed on [[:Roller shoes]], requesting that it be speedily deleted from Wikipedia. This has been done under the [[WP:CSD#Articles|criteria for speedy deletion]], because it is a very short article providing little or no context to the reader. Please see [[Wikipedia:Stub#Essential information about stubs|Wikipedia:Stub]] for our minimum information standards for short articles. Also please note that articles must be on [[Wikipedia:Notability|notable]] subjects and should provide references to [[Wikipedia:Reliable sources|reliable sources]] that [[Wikipedia:Verifiability|verify]] their content. 
+
+Please do not remove the speedy deletion tag yourself. If you plan to expand the article, you can request that [[Wikipedia:Administrators|administrators]] wait a while for you to add contextual material.  To do this, affix the template '''&lt;code&gt;{{tl|hangon}}&lt;/code&gt;''' to the article and state your intention on the article's [[Help:Talk page|talk page]]. Feel free to leave a note on my talk page if you have any questions about this.&lt;!-- Template:Empty-warn --&gt; [[User:Dubkiller|Dubkiller]] 07:13, 13 September 2007 (UTC)
+	</talkpage>
+</article>

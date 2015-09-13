@@ -1,0 +1,9 @@
+<article id="32072518" title=Talk:Susan Spencer>
+	<talkpage id="32072518" title="Talk:Susan Spencer">
+{{WikiProject Biography|living=yes
+|class=
+|listas=Spencer, Susan}}
+{{Image requested|journalists}}
+{{WikiProject Journalism}}
+	</talkpage>
+</article>

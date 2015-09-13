@@ -1,0 +1,5 @@
+<article id="32597615" title=Talk:Arboretum du Planel>
+	<talkpage id="32597615" title="Talk:Arboretum du Planel">
+{{WikiProject France|class=stub|importance=|commune=}}
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="33714384" title=Talk:1989–90 Eredivisie (ice hockey) season>
+	<talkpage id="33714384" title="Talk:1989–90 Eredivisie (ice hockey) season">
+{{WikiProject Ice Hockey|class=stub|euro=yes}}
+{{WPNL|class=Stub}}
+	</talkpage>
+</article>

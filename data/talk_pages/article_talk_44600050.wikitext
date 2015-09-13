@@ -1,0 +1,7 @@
+<article id="44600050" title=User talk:99.123.250.36>
+	<talkpage id="44600050" title="User talk:99.123.250.36">
+== December 2014 ==
+
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Manul|Manul]]. I wanted to let you know that I undid one or more of [[Special:Contributions/99.123.250.36|your recent contributions]]&amp;nbsp;to [[:Goku]] because it did not appear constructive. If you would like to experiment, please use the [[WP:sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Manul|my talk page]]. Thanks!&lt;!-- Template:uw-vandalism1 --&gt;  ''[[User talk:Manul|Manul]]'' 23:01, 4 December 2014 (UTC)
+	</talkpage>
+</article>

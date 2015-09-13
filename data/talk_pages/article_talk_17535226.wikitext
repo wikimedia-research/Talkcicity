@@ -1,0 +1,5 @@
+<article id="17535226" title=Talk:6216 San Jose>
+	<talkpage id="17535226" title="Talk:6216 San Jose">
+{{WPAstronomy|object=yes|class=Stub|importance=Low}}
+	</talkpage>
+</article>

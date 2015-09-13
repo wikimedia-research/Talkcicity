@@ -1,0 +1,39 @@
+<article id="43744137" title=User talk:99.224.242.154>
+	<talkpage id="43744137" title="User talk:99.224.242.154">
+== Welcome to Wikipedia! ==
+
+Hello, and [[Wikipedia:Introduction|welcome]] to Wikipedia! Thank you for [[Special:Contributions/99.224.242.154|your contributions]]. I hope you like the place and decide to stay. Here are some pages you might like to see:
+
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Wikipedia:Contributing to Wikipedia|Contributing to Wikipedia]]
+* [[Wikipedia:Tutorial|Tutorial]]
+* [[Wikipedia:How to edit a page|How to edit a page]] and [[Wikipedia:Article development|How to develop articles]]
+* [[Wikipedia:Simplified Manual of Style|Simplified Manual of Style]]
+* [[Help:Wikipedia: The Missing Manual/Introduction|Intuitive guide to Wikipedia]]
+
+You are welcome to continue editing without [[Special:Userlogin|logging in]], but you may want to consider '''&lt;span class=&quot;plainlinks&quot;&gt;[{{fullurl:Special:Userlogin|type=signup&amp;campaign=anonwelcometemplate}} creating an account]&lt;/span&gt;'''. Doing so is free, requires no personal information, and provides several benefits such as the ability to create articles. For a full outline and explanation of the benefits that come with creating an account, please see [[Wikipedia:Why create an account?|this page]]. If you edit without a username, your [[IP address]] (99.224.242.154) is used to identify you instead.
+
+In any case, I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign your comments]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your IP address (or username if you're logged in) and the date. If you need help, check out [[Wikipedia:Questions]], ask me on [[User talk:BracketBot|my talk page]], or ask your question and then place &lt;code&gt;&lt;nowiki&gt;{{&lt;/nowiki&gt;[[:Category:Wikipedians looking for help|helpme]]&lt;nowiki&gt;}}&lt;/nowiki&gt;&lt;/code&gt; before the question on this page. Again, welcome! &lt;!-- Template:welcome-anon --&gt; [[User:BracketBot|BracketBot]] ([[User talk:BracketBot|talk]]) 00:24, 5 September 2014 (UTC)
+
+== September 2014 ==
+
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:BracketBot|BracketBot]]. I have automatically detected that &lt;span class=&quot;plainlinks&quot;&gt;[//en.wikipedia.org/w/index.php?diff=624225558 your edit] to [[Halifax Explosion]] may have broken the [[syntax]] by modifying 1 &quot;[]&quot;s. If you have, don't worry: just [{{fullurl:Halifax Explosion|action=edit&amp;minor=minor&amp;summary=Fixing+typo+raised+by+%5B%5BUser%3ABracketBot%7CBracketBot%5D%5D}} edit the page] again to fix it. If I misunderstood what happened, or if you have any questions, you can leave a message on [//en.wikipedia.org/w/index.php?action=edit&amp;preload=User:A930913/BBpreload&amp;editintro=User:A930913/BBeditintro&amp;minor=&amp;title=User_talk:A930913&amp;preloadtitle=BracketBot%20–%20{{subst&lt;/noinclude&gt;:REVISIONUSER}}&amp;section=new my operator's talk page].&lt;/span&gt;
+{{{!}} class=&quot;navbox collapsible collapsed&quot; style=&quot;text-align: left; border: 1px solid silver; margin-top: 0.2em;&quot; {{!}}-
+! style=&quot;background-color: #FAA;&quot; {{!}} &lt;div style=&quot;font-size:112%;&quot;&gt;List of unpaired brackets remaining on the page&lt;span style=&quot;font-size:88%;margin-left:3em;&quot;&gt;(Click show &lt;span style=&quot;font-size:130%;&quot;&gt;⇨&lt;/span&gt;)&lt;/span&gt;&lt;/div&gt;    
+{{!}}-
+{{!}} style=&quot;border: solid 1px silver; padding: 8px; background-color: white; &quot; {{!}} &lt;div style=&quot;font-size:112%;&quot;&gt;
+*&lt;nowiki&gt;of direction, land elevation and the foreground vessel mostly strongly suggest Bedford Basin &lt;/nowiki&gt;{{red|'''&amp;#91;'''}}&lt;nowiki&gt;http://www.svpproductions.com/blastcloud.html Joel Zemel, &quot;Halifax Explosion - The Anatomy Of A&lt;/nowiki&gt;
+*&lt;nowiki&gt;to avoid an accident.&lt;ref&gt;{{harvnb|Kitz|Payzant|2006|p=17}}; {{harvnb|Mac Donald|2005|p=33}};  &lt;/nowiki&gt;{{red|'''&amp;#40;'''}}&lt;nowiki&gt;Appeals Book: Imo vs. Mont Blanc, Vol. I - Testimony of Edward Renner (pilot, Clara), pp.441-450,&lt;/nowiki&gt;
+*&lt;nowiki&gt; Clara), pp.441-450, William Nickerson (second mate, Stella Maris), pp. 370-382 and Walter Brannen &lt;/nowiki&gt;{{red|'''&amp;#40;'''}}&lt;nowiki&gt;1st. mate, Stella Maris, pp. 480-497.&lt;/ref&gt;&lt;/nowiki&gt;
+&lt;/div&gt;
+{{!}}}
+It's OK to remove this message. Also, to stop receiving these messages, follow [[User:BracketBot#Opting out|these opt-out instructions]]. Thanks, &lt;!-- (0, 1, 0, 0) --&gt;&lt;!-- User:BracketBot/inform --&gt;[[User:BracketBot|BracketBot]] ([[User talk:BracketBot|talk]]) 00:24, 5 September 2014 (UTC)
+
+== October 2014 ==
+[[File:Information.svg|left|25px|alt=|link=]] Hello, and welcome to Wikipedia. This is a message letting you know that one or more of your recent edits to [[:Basal metabolic rate]] has been undone by an automated computer program called [[User:ClueBot NG|ClueBot NG]].
+{{clear}}
+* ClueBot NG makes very few [[User:ClueBot NG#Information About False Positives|mistakes]], but it does happen. If you believe the change you made was constructive, please [[User:ClueBot NG#Information About False Positives|read about it]], [{{User:ClueBot NG/Warnings/FPReport|2010496}} report it here], remove this message from your talk page, and then make the edit again.
+* For help, take a look at the [[Wikipedia:Introduction|introduction]].
+* The following is the log entry regarding this message: [[Basal metabolic rate]] was [http://en.wikipedia.org/w/index.php?title=Basal+metabolic+rate&amp;diff=631667127&amp;oldid=630699189 changed] by [[Special:Contributions/99.224.242.154|99.224.242.154]] [[User:99.224.242.154|(u)]] [[User talk:99.224.242.154|(t)]] ANN scored at 0.918885 on 2014-10-29T21:39:43+00:00 &lt;!-- MySQL ID: 2010496 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]) 21:39, 29 October 2014 (UTC)
+	</talkpage>
+</article>

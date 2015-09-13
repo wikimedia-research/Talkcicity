@@ -1,0 +1,8 @@
+<article id="40678266" title=User talk:87.39.123.248>
+	<talkpage id="40678266" title="User talk:87.39.123.248">
+== October 2013 ==
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Pinethicket|Pinethicket]]. I wanted to let you know that I undid one or more of [[Special:Contributions/87.39.123.248|your recent contributions]]&amp;nbsp;to [[:Natural sounds]] because it did not appear constructive. If you would like to experiment, you can use the [[WP:sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Pinethicket|my talk page]]. Thanks!&lt;!-- Template:uw-vandalism1 --&gt; [[User:Pinethicket|Pinethicket]] ([[User talk:Pinethicket|talk]]) 13:56, 1 October 2013 (UTC)
+
+&lt;div style=clear: both&gt;&lt;/div&gt;[[File:Information.svg|25px|alt=Information icon]] Please refrain from making nonconstructive edits to Wikipedia, as you did at [[:Natural sounds]] with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Natural_sounds?diff=575291274 this edit]&lt;/span&gt;. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]] or removed. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. [[WP:ADMINS|Administrators]] have the ability to [[WP:BLOCK|block]] users from editing if they repeatedly engage in [[WP:vandalism|vandalism]]. Thank you. &lt;!-- Template:Huggle/warn-2 --&gt;&lt;!-- Template:uw-vandalism2 --&gt;[[User:Tgeairn|Tgeairn]] ([[User talk:Tgeairn|talk]]) 14:01, 1 October 2013 (UTC)
+	</talkpage>
+</article>

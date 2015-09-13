@@ -1,0 +1,11 @@
+<article id="15274788" title=Talk:Paul Oram>
+	<talkpage id="15274788" title="Talk:Paul Oram">
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|listas=Oram, Paul
+|auto=yes
+}}
+{{WikiProject Canada|class=stub|importance=low|ppap=yes|nl=yes}}
+	</talkpage>
+</article>

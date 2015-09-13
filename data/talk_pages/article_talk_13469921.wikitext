@@ -1,0 +1,12 @@
+<article id="13469921" title=User talk:Skeleton Warrior55955>
+	<talkpage id="13469921" title="User talk:Skeleton Warrior55955">
+
+== September 2007 ==
+{{{icon|[[Image:Information.svg|25px]] }}}Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits{{{{{subst|}}}#if:Shark|, such as the one you made to [[:Shark]],}} did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed.  Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism1 --&gt; [[User:Sengkang|Sengkang]] 01:42, 28 September 2007 (UTC)
+
+== October 2007 ==
+{{{icon|[[Image:Information.svg|25px]] }}}Please do not delete content from pages on Wikipedia{{{{{subst|}}}#if:Shark|, as you did to [[:Shark]]}}.  Your edits do not appear to be constructive and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use [[Wikipedia:Sandbox]] for test edits. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-delete2 --&gt; &amp;mdash; [[User:Indon|Indon]] ([[User_talk:Indon |&lt;font color=&quot;green&quot;&gt;reply&lt;/font&gt;]]) &amp;mdash; 01:08, 4 October 2007 (UTC)
+
+{{{icon|[[Image:Nuvola apps important.svg|25px]] }}}Please stop. If you continue to [[Wikipedia:Vandalism|vandalize]] Wikipedia{{{{{subst|}}}#if:Crap|, as you did to [[:Crap]]}}, you ''will'' be [[Wikipedia:Blocking policy|blocked]] from editing. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|}}&lt;!-- Template:uw-vandalism3 --&gt; &amp;mdash; [[User:Indon|Indon]] ([[User_talk:Indon |&lt;font color=&quot;green&quot;&gt;reply&lt;/font&gt;]]) &amp;mdash; 01:10, 4 October 2007 (UTC)
+	</talkpage>
+</article>

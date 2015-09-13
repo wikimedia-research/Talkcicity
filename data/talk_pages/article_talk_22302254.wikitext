@@ -1,0 +1,24 @@
+<article id="22302254" title=User talk:Imperialcar>
+	<talkpage id="22302254" title="User talk:Imperialcar">
+==Username Concern==
+
+Hello, and [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome to Wikipedia]]!
+
+I hope not to seem unfriendly or make you feel unwelcome, but I noticed your username, and I am concerned that it might not meet Wikipedia's [[Wikipedia:Username policy|username policy]] for the following reason: It is a promotional username. After you look over that policy, could we discuss that concern here?
+
+I'd appreciate learning your own views, for instance your reasons for wanting this particular name, and what alternative username you might accept that avoids raising this concern.
+
+You have several options freely available to you:
+* If you can relieve my concern through discussing it here, I can stop worrying about it.
+* If the two of us can't agree here, we can ask for help through Wikipedia's [[Wikipedia:Resolving disputes|dispute resolution process]], such as [[Wikipedia:Requests for comment/User names|requesting comments]] from other Wikipedians.  [[Wikipedia:Administrators|Wikipedia administrators]] usually abide by agreements reached through this process.
+* You can keep your contributions history under a new username. Visit [[Wikipedia:Changing username]] and follow the guidelines there.
+
+{{#if:|{{{2}}}|Thank you.}}  &lt;!-- Template:uw-username --&gt; [[User:GT5162|GT5162]] &lt;sup&gt;[[User_talk:GT5162|(我的对话页)]]&lt;/sup&gt; 10:54, 6 April 2009 (UTC)
+
+&lt;div class=&quot;user-block&quot;&gt;[[Image:Stop_x_nuvola.svg|left|40px]]Your account has been '''blocked indefinitely from editing Wikipedia''', because it has been identified as an account used for promotion of a company or group, with a username that implies that this has been done by that company or group.''' See '''[[Wikipedia:FAQ/Organization]]''' and '''[[Wikipedia:Conflict of interest]]''.
+
+This kind of activity is considered [[Wikipedia:Spam|spamming]] and forbidden by policies, and also violates [[Wikipedia:Username policy|our username policy]]. 
+
+However, if you feel that there has been a mistake in your blocking, please  [[Wikipedia:Appealing a block|appeal this block]] by adding the text &lt;!-- Copy the text as it appears on your page, not as it appears in this edit area. Do not include the &quot;tlx&quot; argument. --&gt;{{tlx|unblock|Your reason here}} {{#switch:{{NAMESPACE}}|User talk=below|on [[Special:MyTalk|your user talk page]]}} or email the administrator who blocked you. Your reason should include your response to this issue ''and'' a new username you wish to adopt that does not violate our [[Wikipedia:Username policy|username policy]] (specifically, understand that accounts are for individuals, not companies or groups, and that your username should reflect this).  Please check that your new username has not already been taken by checking  [[Special:ListUsers|this list]]. {{#if:1|—[[User:Wknight94|Wknight94]] ([[User talk:Wknight94|talk]]) 11:27, 6 April 2009 (UTC)}}&lt;/div&gt;[[Category:Wikipedians who are indefinitely blocked for promotional user names||{{PAGENAME}}]]&lt;!-- Template:Uw-spamublock --&gt;
+	</talkpage>
+</article>

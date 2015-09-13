@@ -1,0 +1,11 @@
+<article id="35407873" title=User talk:94.4.145.31>
+	<talkpage id="35407873" title="User talk:94.4.145.31">
+== April 2012 ==
+[[Image:Information.svg|25px|alt=|link=]] Welcome to Wikipedia. We welcome and appreciate [[Special:Contributions/94.4.145.31|your contributions]],&amp;nbsp;including your edits to [[:Titan (moon)]],&amp;nbsp;but we cannot accept [[Wikipedia:No original research|original research]]. Original research also encompasses [[WP:SYN|combining published sources in a way to imply something that none of them explicitly say]]. Please be prepared to cite a [[Wikipedia:Reliable sources|reliable source]] for all of your contributions. Thank you.&lt;!-- Template:Uw-nor1 --&gt; &lt;small&gt;[[User:SkyMachine|&lt;font color=&quot;black&quot;&gt;'''''Sky'''''&lt;/font&gt;&lt;font color=&quot;darkgreen&quot;&gt;'''''Machine'''''&lt;/font&gt;]]&lt;/small&gt; [[User talk:SkyMachine| &lt;sup&gt;(&lt;font color=&quot;SteelBlue&quot;&gt;'''++'''&lt;/font&gt;)&lt;/sup&gt;]] 08:53, 9 April 2012 (UTC)
+:''If this is a [[closed proxy|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+
+[[Image:Information.svg|25px|alt=|link=]] Please refrain from making test edits in Wikipedia pages, such as those you made to [[:Atmosphere of Venus]], even if you intend to fix them later. Your edits do not appear to be constructive and have been [[Help:Reverting|reverted]]. If you would like to experiment again, please use the [[Wikipedia:Sandbox|sandbox]]. Thank you.&lt;!-- Template:uw-test2 --&gt; [[User:Materialscientist|Materialscientist]] ([[User talk:Materialscientist|talk]]) 09:09, 9 April 2012 (UTC)
+
+[[Image:Information.svg|25px]] Terms like &quot;strange&quot; and &quot;I don't know&quot; are not encyclopedic and have been [http://en.wikipedia.org/w/index.php?title=Iapetus_%28moon%29&amp;diff=486445154&amp;oldid=486403617 reverted.] Please check your spelling when editing. -- [[User:Kheider|Kheider]] ([[User talk:Kheider|talk]]) 15:45, 9 April 2012 (UTC)
+	</talkpage>
+</article>

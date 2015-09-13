@@ -1,0 +1,39 @@
+<article id="10524868" title=Talk:Ready Steady Go!>
+	<talkpage id="10524868" title="Talk:Ready Steady Go!">
+{{WikiProject Television
+|class=
+|importance=
+}}
+
+== Infobox image ==
+Can anyone get the image to appear inside the infobox because I can't?   [[User:Lumos3|Lumos3]] 22:03, 7 April 2007 (UTC)
+
+==Fair use rationale for Image:RSG Screenshot2.jpg==
+[[Image:Nuvola apps important.svg|70px|left]]
+'''[[:Image:RSG Screenshot2.jpg]]''' is being used on this article. I notice the image page specifies that the image is being used under [[Wikipedia:Fair use|fair use]] but there is no [[Wikipedia:Fair use rationale guideline|explanation or rationale]] as to why its use in '''this''' Wikipedia article constitutes fair use. In addition to the [[Wikipedia:Image copyright tags/Fair use|boilerplate fair use template]], you must also write out on the image description page a specific explanation or rationale for why using this image in each article is consistent with [[WP:FU|fair use]].
+
+Please go to [[:Image:RSG Screenshot2.jpg|the image description page]] and edit it to include a [[Wikipedia:Fair use rationale guideline |fair use rationale]]. Using one of the templates at [[Wikipedia:Fair use rationale guideline]] is an easy way to insure that your image is in compliance with Wikipedia policy, but remember that you must complete the template. Do not simply insert a blank template on an image page.
+
+If there is  other fair use media, consider checking that you have specified the fair use rationale on the other images used on this page.  Note that any fair use images uploaded after 4 May, 2006, and lacking such an explanation will be deleted one week after they have been uploaded, as described on [[Wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|Media copyright questions page]]. Thank you.&lt;!-- Template:Missing rationale2 --&gt;
+
+[[User:BetacommandBot|BetacommandBot]] 16:46, 24 October 2007 (UTC)
+
+== Mistake in Description ==
+
+The fourth par of the description of RSG claims: &quot;The show was recorded at small studios in Rediffusion's headquarters in Kingsway, London.&quot;
+
+Wrong. RSG was not recorded but broadcast live, like TOTP. (You could also correct the word &quot;studios&quot; plural to Studio 9, singular.)
+
+In the early 1960s in the UK commercial broadcast videotape was prohibitively expensive, and the time taken and difficulty of editing 2-inch tape meant it would not have been practical for a topical weekly show. (Telecine recording, ie, on a film camera pointed at a TV screen, was the favoured medium for syndicating popular shows abroad.)
+
+So don't be confused by the later reference to the music going &quot;live&quot; on RSG in 1965. This refers to the music. Before that, as with TOTP, artists on RSG mimed to the playback of their records until that daring switchover to singing live.
+
+: Not so - The Beach Boys performed live in November 1964, as witnessed by the horrendous false start to &quot;When I Grow Up (To Be A Man) ! [[Special:Contributions/81.100.43.193|81.100.43.193]] ([[User talk:81.100.43.193|talk]]) 22:28, 20 April 2015 (UTC)
+
+See http://www.tvstudiohistory.co.uk/old%20bbc%20studios.htm
+http://www.articles.adsoft.org/postproduction.htm  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/217.155.200.241|217.155.200.241]] ([[User talk:217.155.200.241|talk]]) 02:06, 11 January 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+==Removed deadlink and included new references==
+Discovered one of the links was no longer working, removed and updated, also included additional detail and links for some of the VHS videos [[User:Zerosprite|Zerosprite]] ([[User talk:Zerosprite|talk]]) 09:33, 25 February 2013 (UTC)
+	</talkpage>
+</article>

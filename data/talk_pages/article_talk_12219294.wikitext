@@ -1,0 +1,5 @@
+<article id="12219294" title=Talk:Benzylidene compounds>
+	<talkpage id="12219294" title="Talk:Benzylidene compounds">
+{{chemistry|class=stub|importance=mid}}
+	</talkpage>
+</article>

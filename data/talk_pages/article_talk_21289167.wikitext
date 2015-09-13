@@ -1,0 +1,9 @@
+<article id="21289167" title=User talk:58.107.176.110>
+	<talkpage id="21289167" title="User talk:58.107.176.110">
+
+
+== January 2009 ==
+[[Image:Stop hand nuvola.svg|30px]] This is your '''only warning'''. &lt;br&gt; The next time you make a [[Wikipedia:No personal attacks|personal attack]]{{#if:Talk:Occupation 101|&amp;#32;as you did at [[:Talk:Occupation 101]]}}, you '''will''' be [[Wikipedia:Blocking policy|blocked]] for disruption. Comment on content, not on other contributors or people. {{#if:|{{{2}}}|}}&lt;!-- Template:uw-npa4im --&gt; ''Racist insults are not acceptable. Don't repeat this'' [[User:RolandR|RolandR]] ([[User talk:RolandR|talk]]) 01:10, 28 January 2009 (UTC)
+:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
+	</talkpage>
+</article>

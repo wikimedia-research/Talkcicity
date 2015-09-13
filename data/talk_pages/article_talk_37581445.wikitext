@@ -1,0 +1,8 @@
+<article id="37581445" title=User talk:2.223.116.61>
+	<talkpage id="37581445" title="User talk:2.223.116.61">
+
+== November 2012 ==
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:Altaïr|Altaïr]]. I wanted to let you know that I undid one or more of [[Special:Contributions/2.223.116.61|your recent contributions]]&amp;nbsp;to [[:Hex – the Legend of the Towers]] because it didn't appear constructive. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Altaïr|my talk page]]. &lt;!-- Template:uw-vandalism1 --&gt;&lt;!-- Template:uw-cluebotwarning1 --&gt;   [[User:Altaïr|Altaïr]] ([[User talk:Altaïr|talk]]) 21:24, 8 November 2012 (UTC)
+:''If this is a [[open proxy|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

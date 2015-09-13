@@ -1,0 +1,6 @@
+<article id="23659877" title=Talk:Maori River>
+	<talkpage id="23659877" title="Talk:Maori River">
+{{WikiProject New Zealand|class=stub|importance=low}}
+{{WikiProject Rivers|class=stub|importance=low}}
+	</talkpage>
+</article>

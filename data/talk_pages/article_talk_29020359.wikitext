@@ -1,0 +1,7 @@
+<article id="6673920" title=Talk:List of Billboard 200 number-one albums of 1972>
+	<talkpage id="6673920" title="Talk:List of Billboard 200 number-one albums of 1972">
+{{talkheader}}
+{{WPCharts|class=list|importance=}}
+{{album|class=list}}
+	</talkpage>
+</article>

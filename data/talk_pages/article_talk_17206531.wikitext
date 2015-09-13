@@ -1,0 +1,17 @@
+<article id="17206531" title=Talk:Intelligence Outsourcing>
+	<talkpage id="17206531" title="Talk:Intelligence Outsourcing">
+{{Educational assignment}}
+
+== Improvements needed ==
+
+This article needs work, but there's hope.
+* The title needs improvement.  Wikipedia titles need to be clearly descriptive, since they drive search engines.
+* The first paragraph is too much like an essay.
+* Should this be covered along with outsourcing of other security functions? What about [[Blackwater Worldwide]]?
+--[[User:Nagle|John Nagle]] ([[User talk:Nagle|talk]]) 16:57, 1 May 2008 (UTC)
+
+: I think this article has hope, but it will need a great deal of expansion. I'd expect to see additional sections on why a country chooses to outsource intelligence gathering and what advantages and disadvantages this brings.  Ideally, there would also be a section on the history of outsourcing intelligence.  Right now the article is extremely US-focused; it should be broadened to cover practices in other countries or regions of the world.  When you've got a good solid article, I'd recommend putting a summary of the article into the main [[intelligence (information gathering)]] article, per [[WP:SUMMARY|wikipedia's guideline on summary style]]. [[User:Karanacs|Karanacs]] ([[User talk:Karanacs|talk]]) 20:13, 1 May 2008 (UTC)
+
+::The current content of the article mostly duplicates [[Central Intelligence Agency#Outsourcing]].  Is there anything important here that isn't covered in the main CIA article?   --[[User:Nagle|John Nagle]] ([[User talk:Nagle|talk]]) 15:20, 2 May 2008 (UTC)
+	</talkpage>
+</article>

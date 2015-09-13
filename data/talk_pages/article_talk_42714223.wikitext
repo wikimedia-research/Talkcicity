@@ -1,0 +1,15 @@
+<article id="42714223" title=User talk:113.21.228.34>
+	<talkpage id="42714223" title="User talk:113.21.228.34">
+
+
+== May 2014 ==
+[[File:Information.svg|left|25px|alt=|link=]] Hello, and welcome to Wikipedia. This is a message letting you know that one or more of your recent edits to [[:Bangladesh Television]] has been undone by an automated computer program called [[User:ClueBot NG|ClueBot NG]].
+{{clear}}
+* ClueBot NG makes very few [[User:ClueBot NG#Information About False Positives|mistakes]], but it does happen. If you believe the change you made was constructive, please [[User:ClueBot NG#Information About False Positives|read about it]], [{{User:ClueBot NG/Warnings/FPReport|1830236}} report it here], remove this message from your talk page, and then make the edit again.
+* For help, take a look at the [[Wikipedia:Introduction|introduction]].
+* The following is the log entry regarding this message: [[Bangladesh Television]] was [http://en.wikipedia.org/w/index.php?title=Bangladesh+Television&amp;diff=607863737&amp;oldid=604551120 changed] by [[Special:Contributions/113.21.228.34|113.21.228.34]] [[User:113.21.228.34|(u)]] [[User talk:113.21.228.34|(t)]] ANN scored at 0.968947 on 2014-05-10T04:13:05+00:00 &lt;!-- MySQL ID: 1830236 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]) 04:13, 10 May 2014 (UTC)
+
+[[Image:Stop hand nuvola.svg|30px|alt=Stop icon]] You may be '''[[Wikipedia:Blocking policy|blocked from editing]] without further warning''' the next time you remove or blank page content or templates from Wikipedia, as you did at [[:2014 Russian military intervention in Ukraine]]. &lt;!-- Template:uw-delete4 --&gt; &lt;font face=&quot;Century Gothic&quot;&gt;&lt;b&gt;[[User:Kkj11210|&lt;span style=&quot;color:green&quot;&gt;KJ&lt;/span&gt;]]&lt;/b&gt;&lt;sup&gt;&lt;b&gt;[[User talk:Kkj11210|&lt;span style=&quot;#819FF7&quot;&gt; &amp;#171;Click Here&amp;#187;&lt;/span&gt;]]&lt;/b&gt;&lt;/sup&gt;&lt;/font&gt; 13:57, 17 May 2014 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

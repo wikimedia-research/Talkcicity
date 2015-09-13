@@ -1,0 +1,12 @@
+<article id="9284539" title=Talk:1998–99 Australian Baseball League season>
+	<talkpage id="9284539" title="Talk:1998–99 Australian Baseball League season">
+{{talkheader}}
+{{WikiProject Baseball
+| class = start
+| importance = mid
+| australia = yes
+| australia-importance = high
+}}
+{{WP Australia |class=Start |importance=low}}
+	</talkpage>
+</article>

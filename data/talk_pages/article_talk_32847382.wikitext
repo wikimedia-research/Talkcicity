@@ -1,0 +1,6 @@
+<article id="32847382" title=Talk:Andrea Ghidone>
+	<talkpage id="32847382" title="Talk:Andrea Ghidone">
+{{WikiProject Biography|living=yes|class=start|a&amp;e-work-group=yes|listas=Ghidone, Andrea}}
+{{WikiProject Uruguay|class=start}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="38734053" title=Talk:Grand Post Office>
+	<talkpage id="38734053" title="Talk:Grand Post Office">
+{{WPTR|class=Start|importance=}}
+	</talkpage>
+</article>

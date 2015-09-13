@@ -1,0 +1,10 @@
+<article id="25696122" title=Talk:Sing (Jim Bianco album)>
+	<talkpage id="25696122" title="Talk:Sing (Jim Bianco album)">
+{{Album
+|class=
+|importance=
+|attention=
+|needs-infobox=no
+}}
+	</talkpage>
+</article>

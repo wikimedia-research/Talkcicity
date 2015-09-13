@@ -1,0 +1,6 @@
+<article id="19014434" title=Talk:Pereskia quisqueyana>
+	<talkpage id="19014434" title="Talk:Pereskia quisqueyana">
+{{WikiProject Plants|class=Stub|importance=Low}}
+{{WikiProject Caribbean|class=Stub|importance=Low|Dominican Republic=yes|Dominican Republic-importance=Low}}
+	</talkpage>
+</article>

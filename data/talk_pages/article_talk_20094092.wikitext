@@ -1,0 +1,5 @@
+<article id="20094092" title=Talk:Ojrzeń, Masovian Voivodeship>
+	<talkpage id="20094092" title="Talk:Ojrzeń, Masovian Voivodeship">
+{{WikiProject Poland|class=stub|importance=low}}
+	</talkpage>
+</article>

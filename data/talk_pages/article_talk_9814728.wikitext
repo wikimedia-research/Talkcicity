@@ -1,0 +1,15 @@
+<article id="9814728" title=Talk:Andre Torrey>
+	<talkpage id="9814728" title="Talk:Andre Torrey">
+{{WikiProject Biography
+|listas=Torrey, Andre
+|living=yes
+|class=Stub
+|auto=yes
+|sports-work-group=yes
+}}
+{{WikiProject College football|class=Stub|auto=yes|importance=}} 
+
+== WikiProject class rating==
+This article was automatically assessed because at least one WikiProject had rated the article as stub, and the rating on other projects was brought up to Stub class. [[User:BetacommandBot|BetacommandBot]] ([[User talk:BetacommandBot|talk]]) 18:00, 5 January 2008 (UTC)
+	</talkpage>
+</article>

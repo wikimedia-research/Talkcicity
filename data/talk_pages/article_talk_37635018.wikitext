@@ -1,0 +1,5 @@
+<article id="37635018" title=User talk:202.90.61.30>
+	<talkpage id="37635018" title="User talk:202.90.61.30">
+{{Shared IP edu|[http://www.watchdog.net.nz/ Watchdog Corporation] for use by New Zealand schools}}
+	</talkpage>
+</article>

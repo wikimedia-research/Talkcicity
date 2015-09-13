@@ -1,0 +1,5 @@
+<article id="40209839" title=Talk:Medabots (video game)>
+	<talkpage id="40209839" title="Talk:Medabots (video game)">
+{{WikiProject Video games|class=Stub|importance=low}}
+	</talkpage>
+</article>

@@ -1,0 +1,25 @@
+<article id="17420015" title=User talk:Fozzy1994>
+	<talkpage id="17420015" title="User talk:Fozzy1994">
+'''Welcome!'''
+
+Hello, {{BASEPAGENAME}}, and [[Wikipedia:Introduction|welcome]] to Wikipedia! Thank you for [[Special:Contributions/{{BASEPAGENAME}}|your contributions]]{{#if:|, especially what you did for [[{{{art}}}]]|}}. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Wikipedia:Article development|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign]] your messages on [[Wikipedia:talk page|discussion page]]s using four [[tilde]]s (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically insert your username and the date. If you need help, check out [[Wikipedia:Questions]], ask me on {{#if:|[[user talk:{{{1}}}|my talk page]]|my talk page}}, or ask your question on this page and then place &lt;code&gt;&lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt;&lt;/code&gt; before the question. Again, welcome! &lt;!-- Template:Welcome --&gt;  --[[User:Tylerpuetz|Tyler Puetz]] ([[User talk:Tylerpuetz|talk]]) 09:22, 14 May 2008 (UTC)
+
+== May 2008 ==
+
+[[Image:Information.png|25px|left]] Hi, the &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/WWE_Judgment_Day?diff=212315516 recent edit]&lt;/span&gt; you made to [[:WWE Judgment Day]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thanks. &lt;!-- Template:uw-huggle1 --&gt; &lt;font color=&quot;#0D98DA&quot;&gt;[[User:Treelo|treelo]]&lt;/font&gt; &lt;sub&gt;[[User talk:Treelo|talk]]&lt;/sub&gt; 09:44, 14 May 2008 (UTC)
+
+== Speedy deletion of &quot;Wwe beats ecw&quot; ==
+
+[[Image:Nuvola apps important.svg|48px|left]] A page you created, [[:Wwe beats ecw]], has been tagged for [[Wikipedia:Deletion policy|deletion]], as it meets one or more of the [[Wikipedia:Criteria for speedy deletion|criteria for speedy deletion]]; specifically, it is nonsense or gibberish.
+
+You are welcome to contribute content which complies with our [[Wikipedia:List of policies#Content and Style|content policies]] and any applicable [[Wikipedia:Notability|inclusion guidelines]]. However, please do not simply re-create the page with the same content. You may also wish to read our [[Wikipedia:Introduction|introduction to editing]] and [[Wikipedia:Your first article|guide to writing your first article]].
+
+Thanks. [[User:Yamakiri|&lt;font color=&quot;Green&quot;&gt;Yamakiri&lt;/font&gt;]] &lt;sup&gt;[[User talk:Yamakiri|T]]&lt;/sup&gt;&lt;sub&gt;[[Special:Contributions/Yamakiri|C]]&lt;/sub&gt;   &lt;span title=&quot;You are here: Yamakiri&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span class=&quot;plainlinks&quot; id=&quot;purgelink&quot;&gt;[{{fullurl:{{FULLPAGENAME}}|action=purge}} §]&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;  '''07-30-2008 • 06:04:33''' 06:04, 30 July 2008 (UTC)
+	</talkpage>
+</article>

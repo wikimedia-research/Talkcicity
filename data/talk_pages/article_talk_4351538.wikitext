@@ -1,0 +1,22 @@
+<article id="4351538" title=User talk:Tia Maria>
+	<talkpage id="4351538" title="User talk:Tia Maria">
+== '''Welcome to Wikipedia!''' ==
+Dear {{PAGENAME}}:
+[[Wikipedia:Welcome, newcomers|Welcome]] to [[Wikipedia]], a free and open-content encyclopedia.  I hope you enjoy contributing.  To help get you settled in, I thought you might find the following pages useful:
+
+* [[Wikipedia:Five pillars|Five Pillars of Wikipedia]]
+* [[Wikipedia:Community Portal|Community Portal]]
+* [[Wikipedia:FAQ|Frequently Asked Questions]]
+* [[Wikipedia:How to edit a page|How to edit a page]]
+* [[Wikipedia:Revert|How to revert to a previous version of a page]]
+* [[Wikipedia:Tutorial|Tutorial]]
+* [[Wikipedia:Copyrights|Copyrights]]
+* [[Wikipedia:Shortcuts|Shortcuts]]
+
+Don't worry too much about being perfect.  Very few of us are!  Just in case you are not perfect, click [[Wikipedia:Avoiding common mistakes|here]] to see how you can avoid making common mistakes.
+
+If you are stuck, and looking for help, please come to the '''[[Wikipedia:Boot Camp|Wikipedia Boot Camp]]''', where experienced Wikipedians can answer any queries you have! Or, you can just type '''&lt;code&gt;{&amp;#123;helpme}}&lt;/code&gt;''' on your user page, and someone will show up shortly to answer your questions. 
+
+Wikipedians try to follow a strict policy of [[Wikipedia:Please do not bite the newcomers|never biting new users]].  If you are unsure of how to do something, you are welcome to ask a more experienced user such as an [[Wikipedia:Administrator|administrator]].  One last bit of advice: please sign any dicussion comment with four tildes (~&amp;#126;~~).  The software will automatically convert this into your signature which can be altered in the &quot;Preferences&quot; tab at the top of the screen.  I hope I have not overwhelmed you with information.  If you need any help just let me know.  Once again welcome to Wikipedia, and don't forget to [[Wikipedia:User page|tell us about yourself]] and be [[Wikipedia:Bold|'''BOLD''']]!&lt;noinclude&gt;[[user:Eagle 101|Eagle]] ([[user_talk:Eagle 101|talk]]) ([[user:Eagle 101/Desk|desk]]) 06:43, 11 March 2006 (UTC)
+	</talkpage>
+</article>

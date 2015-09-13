@@ -1,0 +1,9 @@
+<article id="10643325" title=Talk:Francis Hobler, Jnr>
+	<talkpage id="10643325" title="Talk:Francis Hobler, Jnr">
+{{WikiProject Biography
+|living=no
+|class=
+|listas=Hobler, Francis
+}}
+	</talkpage>
+</article>

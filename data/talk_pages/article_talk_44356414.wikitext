@@ -1,0 +1,26 @@
+<article id="44356414" title=User talk:Private Angel>
+	<talkpage id="44356414" title="User talk:Private Angel">
+
+== Welcome! ==
+
+Hello, Private Angel, and [[Project:Introduction|welcome]] to Wikipedia! Thank you for [[Special:Contributions/Private Angel|your contributions]]. I hope you like the place and decide to stay. Unfortunately, one or more of the pages you created, such as [[Private Angel]], may not conform to some of Wikipedia's [[Wikipedia:List of policies|guidelines]], and may not be retained. 
+
+There's a page about creating articles you may want to read called '''[[Wikipedia:Your first article|Your first article]]'''. If you are stuck, and looking for help, please come to the '''[[Wikipedia:Teahouse|Teahouse]]''', where experienced Wikipedians can answer any queries you have! Or, you can just type '''{{tl|help me}}''' on this page, followed by your question, and someone will show up shortly to answer your questions. Here are a few other good links for newcomers:
+* [[Wikipedia:Starting an article|Starting an article]]
+* [[Wikipedia:Your first article|Your first article]]
+* [[Wikipedia:Contributing to Wikipedia|Contributing to Wikipedia]]
+* [[Wikipedia:Biographies of living persons|Biographies of living persons]]
+* [[Wikipedia:Article development|How to write a great article]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Tutorial|Tutorial]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you have any questions, check out [[Wikipedia:Questions]] or ask me on my talk page. &lt;!-- Template:First article --&gt; Again, welcome!&amp;nbsp;&lt;font face=&quot;Century Gothic&quot;&gt;&lt;b&gt;[[User:Kkj11210|&lt;span style=&quot;color:green&quot;&gt;KJ&lt;/span&gt;]]&lt;/b&gt;&lt;sup&gt;&lt;b&gt;[[User talk:Kkj11210|&lt;span style=&quot;#819FF7&quot;&gt; Discuss?&lt;/span&gt;]]&lt;/b&gt;&lt;/sup&gt;&lt;/font&gt; 12:53, 10 November 2014 (UTC)
+
+==[[Wikipedia:Criteria for speedy deletion|Speedy deletion]] nomination of [[:Private Angel]]==
+[[Image:Information icon4.svg|48px|left|alt=|link=]]
+{{Quote box|quote=&lt;p&gt;If this is the first article that you have created, you may want to read [[WP:Your first article|the guide to writing your first article]].&lt;/p&gt;&lt;p&gt;You may want to consider using the [[Wikipedia:Article wizard|Article Wizard]] to help you create articles.&lt;/p&gt;|width=20%|align=right}}
+Hello, and welcome to Wikipedia. This is a notice to inform you that a tag has been placed on [[:Private Angel]] requesting that it be speedily deleted from Wikipedia. This has been done under [[WP:CSD#A3|section A3 of the criteria for speedy deletion]], because it is an article with no content whatsoever, or whose contents consist only of external links, a &quot;See also&quot; section, book references, category tags, template tags, interwiki links, images, a rephrasing of the title, a question that should have been asked at the [[Wikipedia:Help desk|help]] or [[Wikipedia:Reference desk|reference]] desks, or an attempt to contact the subject of the article. Please see [[Wikipedia:Stub#Essential information about stubs|Wikipedia:Stub]] for our minimum information standards for short articles. Also please note that articles must be on [[Wikipedia:Notability|notable]] subjects and should provide references to [[Wikipedia:Reliable sources|reliable sources]] that [[Wikipedia:Verifiability|verify]] their content. 
+
+If you think this page should not be deleted for this reason, you may '''contest the nomination''' by [[:Private Angel|visiting the page]] and clicking the button labelled &quot;Click here to contest this speedy deletion&quot;. This will give you the opportunity to explain why you believe the page should not be deleted. However, be aware that once a page is tagged for speedy deletion, it may be removed without delay. Please do not remove the speedy deletion tag from the page yourself, but do not hesitate to add information in line with [[Wikipedia:List of policies|Wikipedia's policies and guidelines]]. If the page is deleted, and you wish to retrieve the deleted material for future reference or improvement, then please contact the deleting administrator, or if you have already done so, you can place a request [[WP:RFUD|here]]. &lt;!-- Template:Db-nocontent-notice --&gt; &lt;!-- Template:Db-csd-notice-custom --&gt; &lt;font face=&quot;Century Gothic&quot;&gt;&lt;b&gt;[[User:Kkj11210|&lt;span style=&quot;color:green&quot;&gt;KJ&lt;/span&gt;]]&lt;/b&gt;&lt;sup&gt;&lt;b&gt;[[User talk:Kkj11210|&lt;span style=&quot;#819FF7&quot;&gt; Discuss?&lt;/span&gt;]]&lt;/b&gt;&lt;/sup&gt;&lt;/font&gt; 12:53, 10 November 2014 (UTC)
+	</talkpage>
+</article>

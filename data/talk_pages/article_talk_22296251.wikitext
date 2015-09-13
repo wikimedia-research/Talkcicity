@@ -1,0 +1,8 @@
+<article id="22296215" title=Talk:Escambia County Area Transit>
+	<talkpage id="22296215" title="Talk:Escambia County Area Transit">
+{{WikiProject buses|class=stub|importance=}}
+{{WPFlorida|class=Stub |importance=Low}}
+
+== Discussion ==
+	</talkpage>
+</article>

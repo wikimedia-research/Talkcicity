@@ -1,0 +1,6 @@
+<article id="23062432" title=Talk:Thalia Awards>
+	<talkpage id="23062432" title="Talk:Thalia Awards">
+{{WikiProject Theatre|class=Stub|importance=low}}
+{{WikiProject Czech Republic|class=Stub}}
+	</talkpage>
+</article>

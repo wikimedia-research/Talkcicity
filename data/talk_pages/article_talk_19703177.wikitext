@@ -1,0 +1,6 @@
+<article id="19473870" title=Talk:Zeitschrift für Geologische Wissenschaften>
+	<talkpage id="19473870" title="Talk:Zeitschrift für Geologische Wissenschaften">
+{{WPJournals | class=Start |needs-infobox=no}}
+{{WP Geology|class=start|importance=low}}
+	</talkpage>
+</article>

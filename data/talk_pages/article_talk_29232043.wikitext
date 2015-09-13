@@ -1,0 +1,59 @@
+<article id="29232043" title=Talk:Our Lady Star of the Sea and St Winefride, Amlwch/GA1>
+	<talkpage id="29232043" title="Talk:Our Lady Star of the Sea and St Winefride, Amlwch/GA1">
+==GA Review==
+{{Good article tools}}
+&lt;noinclude&gt;{{al|{{#titleparts:Our Lady Star of the Sea and St Winefride, Amlwch/GA1|-1}}|noname=yes}}&lt;br/&gt;&lt;/noinclude&gt;&lt;includeonly&gt;:''This review is [[WP:transclusion|transcluded]] from [[Talk:Our Lady Star of the Sea and St Winefride, Amlwch/GA1]]. The edit link for this section can be used to add comments to the review.''&lt;/includeonly&gt;
+&lt;!-- Please add all review comments below this comment, and do not alter what is above. To keep the review within a single section, please do not use level 2 headers (==...==) below to break up the review. Use level 3 (===...===), level 4 and so on.--&gt;
+
+'''Reviewer:''' [[User:Jezhotwells|Jezhotwells]] ([[User talk:Jezhotwells|talk]]) 17:21, 17 October 2010 (UTC)
+
+
+I shall be reviewing this article against the [[WP:GACR|Good Article criteria]], following its [[WP:GAN|nomination]] for Good Article status.
+
+'''[[WP:Disambiguation|Disambiguation]]s''': none found
+
+'''[[WP:Linkrot|Linkrot]]''': none found. [[User:Jezhotwells|Jezhotwells]] ([[User talk:Jezhotwells|talk]]) 17:22, 17 October 2010 (UTC)
+
+===Checking against GA criteria===
+
+:'''[[Wikipedia:Good article nominations|GA]] review''' (see [[Wikipedia:What is a good article?|here]] for criteria)
+
+#It is '''reasonably well written'''.
+#:a ''(prose)'': {{GAList/check|y}} b ''([[Wikipedia:Manual of Style|MoS]] for [[WP:LEAD|lead]], [[WP:LAYOUT|layout]], [[WP:WTW|word choice]], [[WP:WAF|fiction]], and [[Wikipedia:Embedded list|lists]])'': {{GAList/check|y}}
+#:: &lt;s&gt;''As of 2010, the church is closed (and has been since 2004) because of structural problems'' This statement will soon be dated.  better you just say that it has been closed since 2004.&lt;/s&gt; {{OK}}
+#::: Tweaked. [[User:Bencherlite|Bencherlite]][[User talk:Bencherlite|&lt;i&gt;&lt;sup&gt;Talk&lt;/sup&gt;&lt;/i&gt;]] 14:23, 18 October 2010 (UTC)
+#::&lt;s&gt;''The parish priest is Father Michael Ryan...'' How come, if the church is closed?&lt;/s&gt; {{OK}}
+#::: Why shouldn't it have a parish priest?  The parish remains, even if the church is temporarily closed until repairs are carried out. [[User:Bencherlite|Bencherlite]][[User talk:Bencherlite|&lt;i&gt;&lt;sup&gt;Talk&lt;/sup&gt;&lt;/i&gt;]] 14:23, 18 October 2010 (UTC)
+#::::Understood. [[User:Jezhotwells|Jezhotwells]] ([[User talk:Jezhotwells|talk]]) 18:51, 18 October 2010 (UTC)
+#It is '''factually accurate''' and '''[[Wikipedia:Verifiability|verifiable]]'''.
+#:a ''(references)'': {{GAList/check|y}} b ''(citations to [[WP:RS|reliable sources]])'': {{GAList/check|y}} c ''([[Wikipedia:No original research|OR]])'': {{GAList/check|y}}
+#:: &lt;s&gt;''The architect was Giuseppe Rinvolucri, an Italian engineer from Piedmont. He had been a prisoner of war held in Wales, '' Italy was allied to Britain and France in WWI.  Needs explanation of why he was a prisoner of war?&lt;/s&gt; {{OK}}
+#::References appear OK, several repeat the information that Rinvolucri was a prisoner of war, but without explanation. I found one oblique reference in a Google search[http://www.google.co.uk/search?q=%22Giuseppe+Rinvolucri%22&amp;hl=en&amp;client=firefox-a&amp;rls=org.mozilla:en-GB:official&amp;ei=tjW7TMLHKoyOjAfWuuWpDg&amp;start=10&amp;sa=N] to his having been interned or subjected to restrictions in '''WWII''', as many Italians were.  Perhaps this is the source of the confusion?
+#::: Well, as [[CADW]] (a high-quality source) [http://jura.rcahms.gov.uk/cadw/cadw_eng.php?id=24455 says] he came to Wales as a POW before later settling down, we may be in a &quot;verifiability not truth&quot; issue here.  I can't find anything about why he was a POW, but obviously he can't have been a WWII POW who later settled in Wales, as this is a 1930s design. I'd be surprised if &quot;interned&quot; had been muddled up with &quot;POW&quot;, since the two concepts are very different. [[User:Bencherlite|Bencherlite]][[User talk:Bencherlite|&lt;i&gt;&lt;sup&gt;Talk&lt;/sup&gt;&lt;/i&gt;]] 14:23, 18 October 2010 (UTC)
+#:::I think it would be better to omit this statement as it is clearly incorrect.  I have asked for opinions at [[WT:WikiProject Military history#Help requested with Italian prisoners of war during World war One (1914-18)]]. [[User:Jezhotwells|Jezhotwells]] ([[User talk:Jezhotwells|talk]]) 18:51, 18 October 2010 (UTC)
+#::::Ok, I have found out a little more. Rinvolucri's son, Mario, states that his father fought against the Austro-Hungarians, i.e.  on the Italian (Allied) side.[&lt;ref&gt;{{Cite web
+ |url= http://www.jeremy-harmer.com/features/people-i-like/mario-rinvolucri/marios-biography
+ |title=Mario's biography — Jeremy Harmer - Teaching to learn
+ |work=jeremy-harmer.com
+ |accessdate=18 October 2010
+}}&lt;/ref&gt;]  He states that his father was an immigrant.[http://www.teachingenglish.org.uk/blogs/mario-rinvolucri/mario-rinvolucri-biography]. [[User:Jezhotwells|Jezhotwells]] ([[User talk:Jezhotwells|talk]]) 20:25, 18 October 2010 (UTC)
+#:::::OK, well, the easiest thing to do is to remove it and see if anything better comes up in the future.  Perhaps if I make it to Amlwch from my end of Anglesey I might find out more.  [[User:Bencherlite|Bencherlite]][[User talk:Bencherlite|&lt;i&gt;&lt;sup&gt;Talk&lt;/sup&gt;&lt;/i&gt;]] 10:38, 19 October 2010 (UTC)
+#It is '''broad in its coverage'''.
+#:a ''(major aspects)'': {{GAList/check|y}} b ''(focused)'': {{GAList/check|y}}
+#:: 
+#It follows the '''[[WP:NPOV|neutral point of view]] policy'''.
+#:''Fair representation without bias'': {{GAList/check|y}}
+#:: 
+#It is '''stable'''.
+#:''No edit wars, etc.'': {{GAList/check|y}}
+#:: 
+#It is illustrated by '''[[Wikipedia:Images|images]]''', where possible and appropriate.
+#:a ''(images are tagged and non-free images have [[Wikipedia:Image_description_page#Use_rationale|fair use rationales]])'': {{GAList/check|y}} b ''(appropriate use with [[WP:CAP|suitable captions]])'': {{GAList/check|y}}
+#:: 
+#'''Overall''': 
+#:''Pass/Fail'': {{GAList/check|y}}
+#::On hold for seven days for above issues to be resolved. [[User:Jezhotwells|Jezhotwells]] ([[User talk:Jezhotwells|talk]]) 17:55, 17 October 2010 (UTC)
+#:::Ok, I am now happy to pass this as a Good Article. Congratulations. [[User:Jezhotwells|Jezhotwells]] ([[User talk:Jezhotwells|talk]]) 16:07, 19 October 2010 (UTC)
+#:: &lt;!-- Template:GAList --&gt;
+	</talkpage>
+</article>

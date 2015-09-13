@@ -1,0 +1,5 @@
+<article id="19222162" title=Talk:Youngou>
+	<talkpage id="19222162" title="Talk:Youngou">
+{{WikiProject Africa|Burkina Faso=yes|class=stub|importance=low}}
+	</talkpage>
+</article>

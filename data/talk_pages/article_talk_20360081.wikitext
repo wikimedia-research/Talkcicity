@@ -1,0 +1,6 @@
+<article id="20360081" title=Talk:Roger A. Caras>
+	<talkpage id="20360081" title="Talk:Roger A. Caras">
+{{talkheader}}
+{{WPBiography|living=no|class=Start|listas=Caras, Roger A.|needs-photo=yes}}
+	</talkpage>
+</article>

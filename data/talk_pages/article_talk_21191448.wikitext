@@ -1,0 +1,10 @@
+<article id="21191448" title=Talk:Thiofrid of Echternach>
+	<talkpage id="21191448" title="Talk:Thiofrid of Echternach">
+{{WikiProject Biography
+|living=no
+|class=Stub
+|listas=Thiofrid of Echternach
+|auto=yes
+}}
+	</talkpage>
+</article>

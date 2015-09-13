@@ -1,0 +1,10 @@
+<article id="7430245" title=Talk:Willy Vande Walle>
+	<talkpage id="7430245" title="Talk:Willy Vande Walle">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=yes|class=start|s&amp;a-work-group=yes|listas=Vande Walle, Willy|needs-photo=yes}}
+{{WikiProject Japan|class=start|importance=low}}
+{{WikiProject Belgium}}
+| blp=yes
+}}
+	</talkpage>
+</article>

@@ -1,0 +1,68 @@
+<article id="4079957" title=Talk:Mansfield>
+	<talkpage id="4079957" title="Talk:Mansfield">
+{{talk header}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Nottinghamshire|class=c|importance=high}}
+{{WPUKgeo|class=Start|importance=mid}}
+{{WPCities|class=Start|importance=low}}}}
+
+==History==
+This article reads a bit too much like an advert.. Is anyone proficient enough in local history to put a section about that in? Even the two notable Mansfields in the USA have history sections..  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/46.64.10.251|46.64.10.251]] ([[User talk:46.64.10.251|talk]]) 20:26, 22 June 2011 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+==Population==
+Population counts seem off. Can someone research/revise?  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/89.105.102.210|89.105.102.210]] ([[User talk:89.105.102.210|talk]]) 11:39, 12 August 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+This has been corrected for ages, but some ' keeps deliberately, subtly vandalising it to add 100,000 to the population. The correct one is between 60 and 70,000, as quoted (and referenced). [[Special:Contributions/144.32.57.20|144.32.57.20]] ([[User talk:144.32.57.20|talk]]) 20:34, 3 August 2009 (UTC)
+
+==Railways==
+Can somone check which station is which, also, surely the railways should be LNER and LMS, not LNR [[User:Chevin|Chevin]] 10:45, 15 February 2006 (UTC)
+
+It looked as though several paragraphs had been deleted as there was no mention of Midland Railway lines opened after 1849 nor was there anything about the locally promoted Mansfield Railway.  Two different railway companies hence two separate stations.  Removed references to the LMS and LNE Railways which made no contribution to Mansfield other than working railways inherited from pre-grouping companies.  [[User:Pmbarnes|Pmbarnes]] ([[User talk:Pmbarnes|talk]]) 19:12, 8 January 2012 (UTC)
+
+== neutrailty issue? ==
+
+someone clearly has a problem with mansfield bus station...
+
+Yes - almost everyone who lives in the town!  And the local Council seems to agree since it's due to be &quot;redeveloped&quot; ... something it has needed (in the opinion of many in the town) since about 1979 (about two years after it opened).  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/90.194.38.219|90.194.38.219]] ([[User talk:90.194.38.219|talk]]) 22:05, 30 March 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== type error ==
+
+{{Tlc|geodata-check}}
+The coordinates need the following fixes:
+* Write here
+Mansfield is not a city as it doesn't have a cathederal. It is a large town.
+[[Special:Contributions/95.149.168.14|95.149.168.14]] ([[User talk:95.149.168.14|talk]]) 09:16, 26 April 2010 (UTC)
+
+:: cleared. Article doesn't say Mansfield is a city. And careful of your definitions - consider Guildford against Cambridge. [[User:Grblundell|Grblundell]] ([[User talk:Grblundell|talk]]) 10:19, 26 April 2010 (UTC)
+
+== empty shop rates ==
+
+Nearby Chesterfield suffered worse than Mansfield (for a similar sized town). The vacant properties are less than 11% compared to some places which are as high as 25%?
+
+With less boarded up shops than affluent Windsor, Chesterfield is one of the UK’s best-performing high streets, a new report claims.
+
+The town’s vacancy rate – which fell from 8.7 per cent last year to 7.7 per cent in 2013 – puts it in the top ten large centres in the country, way below the 13.5 per cent average.
+
+The shop vacancy rates report, published by The Local Data Company, names Chesterfield as one of only three towns north of the Watford Gap listed in the top 25 
+
+Mansfield 11% Chesterfield 7.7% Id say Chesterfield is doing better, would you?At the very least check.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/92.24.151.182|92.24.151.182]] ([[User talk:92.24.151.182|talk]]) 10:43, 27 September 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Neutrality of politics section ==
+
+The politics section seems to have a roundly negative and quite personality-based opinion of the town's mayor without citing many sources. I am not familiar with the town's politics, just 'passing through' the article so to speak, but phrases such as 'Most local residents see the Mayor as someone who is very keen on self publicity', and 'an undeniable fact is that during his time in office, Mansfield has struggled with local land development and many of the projects across the region have faltered' not followed by citations seem to breach NPOV. Any fact which is 'undeniable' should be fairly easy to substantiate with a clear and reliable media source. Also 'most residents feel that...' comes across as opinion rather than reported fact. Wikipedia's NPOV guidelines outline an unbiased contribution as 'presenting fairly, proportionately, and as far as possible without bias all significant views that have been published by reliable sources (N.B.: not all views held by editors or by the general public)'. So basically even if the town's entire general public quietly feel that way it's not Wikipedia-worthy unless that's reported by a reliable source. Essentially those sections either need to be pulled out altogether or someone familiar with the town's politics needs to substantiate them with some kind of evidence. [[User:BroSwerve|BroSwerve]] ([[User talk:BroSwerve|talk]]) 00:31, 16 December 2013 (UTC)
+:ThanQ for your eloquent and correct statement of Wikipedia policy, for the time given for any 'editors' to add sources and for your sensible changes. Whereas this is [[WP:NOTFORUM}} you may find the following instructional - after reading, the &quot;''roundly negative and quite personality-based opinion of the town's mayor''&quot; may not seem quite as bad as originally thought&lt;p&gt;The disputed sections appeared in October [https://en.wikipedia.org/w/index.php?title=Mansfield&amp;diff=575396955&amp;oldid=575395660 here] and were copy-pasted into the lede of the Mayor's BLP [https://en.wikipedia.org/w/index.php?title=Mansfield&amp;diff=575396955&amp;oldid=575395660 here] which was unacceptable and dealt with by admin.&lt;p&gt;I left the disputed sections for the following reasons:&lt;br&gt; 1. To see how long they would endure&lt;br&gt;2. Because I knew (or suspected) that an editor may provide sources&lt;br&gt;3. Although the prose was not verified I considered it to be largely ''verifiable''.&lt;br&gt;4. As there has been a number of IP address interference, and as they are without Watchlist, I did not want to antagonise the 'authors' whilst it was fresh in their minds, lest there should be more as retaliation&lt;br&gt;5. Whereas as a Wikipedian I have to observe [[WP:NPOV}}, as a somewhat-informed individual I ''tend'' to agree with the ''sentiments'' expressed, but it's not incumbent on me to be a moral arbiter as I'm too close for objectivity&lt;br&gt;6. The Politics section is obscure being 'buried' way down in a lengthy article&lt;p&gt;A different outburst was dealt with [https://en.wikipedia.org/w/index.php?title=Mansfield&amp;diff=575396955&amp;oldid=575395660 here] &quot;''Removed emotional content''&quot;&lt;p&gt;To understand the strength of feeling, you may find it helpful to read these two sections carefully starting [[Tony Egginton#Election to Mayor|here]] to learn how it all started. The Mayor's mentor is highly politically-motivated and has recently taken to the local paper readers' column (yet again, after a break) plus another disgruntled ex-councillor, purporting to be concerned citizens. I emailed the reporter a few months back (no response) as many readers will not know the situation and now, again, the sniping has recurred (I will forward the email to the new editor). This motivated gentleman with a POV was also the MD of the local paper before it was swallowed by a giant having a complete monopoly - his demise was not reported, neither were (I suspect) his more-recent business failings. Often it's difficult, near impossible to obtain &quot;reliable sources&quot; - news organisations don't report on each other, sole local 'papers are usually 'friend to the establishment', and the Mayor + mentor are accomplished ''Spinmeisters''. &lt;p&gt;Whereas I've devoted not-inconsiderable time to this article - particularly in providing multiple sources (and I knew where and what to look for) it's often the Law of Diminishing Returns - I've still got one more important source to find, probably I need to go hard copy. This is [[WP:NOTOWN}}, it's a wiki and inevitably will be a mess so I've concentrated on what I feel to be the most important, most prominent sections, unlike the Politics section located quite-obscurely some 20 page-downs. I am not connected so there is no COI. &lt;p&gt;Hope that adequately summarises it.--[[User:Rocknrollmancer|Rocknrollmancer]] ([[User talk:Rocknrollmancer|talk]]) 02:47, 23 December 2013 (UTC)
+
+== Economy, Town Centre sub section - concerning POV, COI and Promotion ==
+
+{{Connected contributor|109.150.232.180|Mansfield}} 
+In February 2014, I tagged this (sub)section as [[WP:advert]] due to the large amount of material added (overwritten, without completion of edit summary, showing as only -42) relating to '''Mansfield BID''' (Business Improvement District), an organisation operating in Mansfield town centre area. The references provided were [[WP:PRIMARY|primary-sourced]], i.e., BID's own website. Additionally, when this was added, correctly-sourced (from local news media) material was deleted, affecting the [[WP:NPOV|neutral-balance]] which is fundamental to Wikipedia. The deleted material was subsequently re-added by an admin and myself.&lt;p&gt;IMO, this added material failed [[WP:COI|conflict of interest]], [[WP:PROMOTION|promotional content]] and [[WP:NPOV|neutral point of view]] aspects.&lt;p&gt;The IP address responsible has no other Wikipedia contributions; considering the simultaneous deleted material, there is a strong suspicion that these edits were from BID's own staff, which is &quot;''strongly discouraged''&quot; by Wikipedia policy.&lt;p&gt;No improvements to the content have been forthcoming since February 2014, so - in preparation for deletion of the ''promotional'' material (including un-encyclopaedic and badly-formatted trivia) - I have now additionally tagged this subsection as [[WP:Conflict of Interest]]. I had initially hoped not to have to swamp the section with banner templates.--[[User:Rocknrollmancer|Rocknrollmancer]] ([[User talk:Rocknrollmancer|talk]]) 13:57, 19 June 2014 (UTC)
+
+:No response from IP address concerned. I now propose to delete the BID over-the-top promotional material. This is not an article about Mansfield BID, it is not even a section about BID, it's a small part of a Town Centre section.--[[User:Rocknrollmancer|Rocknrollmancer]] ([[User talk:Rocknrollmancer|talk]]) 20:16, 11 July 2014 (UTC)
+::BID Promotional and COI material has been removed.--[[User:Rocknrollmancer|Rocknrollmancer]] ([[User talk:Rocknrollmancer|talk]]) 21:47, 20 August 2014 (UTC)
+
+== Economy section is what the town used to be ==
+
+I've just read the Economy section of the article.  Every paragraph relates to businesses or industry that used to exist in the town.  Can't any information be found on the present day economy?
+
+Personally, I think that the whole section on coal mining should be moved to history, and should be expanded to cover the earlier 20th century (which I can help with).  Mining is what caused the town to grow, but it is no longer part of its economy.  [[User:Epa101|Epa101]] ([[User talk:Epa101|talk]]) 17:44, 13 October 2014 (UTC)
+	</talkpage>
+</article>

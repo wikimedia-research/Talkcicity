@@ -1,0 +1,18 @@
+<article id="9369413" title=Talk:David S. Alberts>
+	<talkpage id="9369413" title="Talk:David S. Alberts">
+{{WikiProjectBannerShell|blp=yes|1=
+{{WPBiography|living=yes|class=Start|politician-priority=Low|politician-work-group=yes|listas=Alberts, David S.}}
+{{WikiProject Systems|class=start |importance=mid |field=Operations research}}
+}}
+{{oldafdfull | date = 10/15/2010 | result = '''Nomination Withdrawn''' | page = David S. Alberts }}
+
+
+
+== Removed detailled experience ==
+I removed the following detailled info:
+
+:''Alberts' experience includes serving as a CEO for a high-technology firm specializing in the design and development of large, state-of-the-art computer systems (including expert, investigative, intelligence, information, and command and control systems) in both government and industry. He has also led organizations engaged in research and analysis of command and control system performance and related contributions to operational missions. Alberts has had policy responsibility for corporate computer and telecommunications capabilities, facilities, and experimental laboratories. His responsibilities have also included management of research aimed at enhancing the usefulness of systems, extending their productive life, and the development of improved methods for evaluating the contributions that systems make to organizational functions. Alberts frequently contributes to Government task forces and workshops on systems acquisition, command and control, and systems evaluation.''
+
+These seems like a lot of words to say nothing. -- [[User:Mdd|Marcel Douwe Dekker]] ([[User talk:Mdd|talk]]) 13:56, 2 July 2008 (UTC)
+	</talkpage>
+</article>

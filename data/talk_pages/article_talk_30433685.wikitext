@@ -1,0 +1,5 @@
+<article id="30433685" title=Talk:2005–06 Swiss Challenge League>
+	<talkpage id="30433685" title="Talk:2005–06 Swiss Challenge League">
+{{WikiProject Switzerland|class=Stub|importance=Low}}
+	</talkpage>
+</article>

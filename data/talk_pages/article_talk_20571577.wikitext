@@ -1,0 +1,5 @@
+<article id="20571577" title=Talk:Wind Across the Everglades>
+	<talkpage id="20571577" title="Talk:Wind Across the Everglades">
+{{Film|class=Stub|American-task-force=yes}}
+	</talkpage>
+</article>

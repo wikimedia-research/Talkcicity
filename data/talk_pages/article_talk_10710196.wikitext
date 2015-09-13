@@ -1,0 +1,7 @@
+<article id="10710196" title=User talk:81.111.100.49>
+	<talkpage id="10710196" title="User talk:81.111.100.49">
+
+
+Your recent edit to [[:Oyster card]] ([http://en.wikipedia.org/w/index.php?title=Oyster_card&amp;diff=123324013&amp;oldid=122818301 diff]) was reverted by an '''automated bot''' that attempts to recognize and repair [[Wikipedia:vandalism|vandalism]] to Wikipedia articles. If the bot reverted a legitimate edit, please accept my humble creator's apologies – if you bring it to the attention of the bot's owner, we may be able to improve its behavior. '''[[User:Tawkerbot2/FAQ|Click here]]''' for '''frequently asked questions''' about the bot and this warning. // [[User:MartinBot|MartinBot]] 19:20, 16 April 2007 (UTC)
+	</talkpage>
+</article>

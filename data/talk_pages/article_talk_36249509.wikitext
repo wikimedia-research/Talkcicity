@@ -1,0 +1,30 @@
+<article id="36249509" title=User talk:108.45.134.95>
+	<talkpage id="36249509" title="User talk:108.45.134.95">
+
+== Welcome! ==
+{| align=&quot;center&quot; class=&quot;notice noprint&quot; style=&quot;background: lightyellow; border: 1px solid #aaa; padding: 0.5em; margin: 0.5em auto;&quot;
+|-
+| valign=&quot;top&quot; style=&quot;padding: 0.1em&quot; |
+| style=&quot;padding: 0.1em&quot; | 
+
+Hello, and '''''[[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia!'''''
+
+Someone using this [[IP address]], {{BASEPAGENAME}}, has made unhelpful edits&amp;nbsp;to the page [[:Camille Paglia]], which have been [[Help:Reverting|reverted]].  If you did this, in the future please try to contribute in a more constructive manner.  If you did not do this, you may wish to consider &lt;span class=&quot;plainlinks&quot;&gt;[{{fullurl:Special:Userlogin|type=signup&amp;returnto=Main_Page}} getting a username]&lt;/span&gt; to avoid confusion with other editors.
+
+You don't have to [[Special:Userlogin|log in]] to read or edit articles on Wikipedia, but creating an account is quick, free, requires no personal information, and has many [[Wikipedia:Why create an account?|benefits]].  Without a username, your [[IP address]] is used to identify you.
+
+Some good links for newcomers are:
+*[[Help:Contents|Help contents]] – the main help page.
+*[[Wikipedia:Quick guide|Quick guide]] – a &quot;cheatsheet&quot; listing the main editing commands.
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:Tutorial|Tutorial]]
+
+Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four (~&amp;#126;~~); this will automatically produce your name and timestamp. If you need help, check out [[Wikipedia:Questions]], ask me on [[User talk:Cargoking{{!}}my talk page]], or place &lt;code&gt;{&amp;#123;helpme}}&lt;/code&gt; on your talk page and someone will show up shortly to answer your questions.
+
+Again, welcome! &lt;!-- Template:Welcome-anon-vandal --&gt; —&lt;small&gt;&amp;nbsp;&lt;span style=&quot;border:2px solid #000;padding:1px;&quot;&gt;&amp;nbsp;[[User:Cargoking|&lt;font style=&quot;color:#000080;&quot;&gt;'''Cargoking'''&lt;/font&gt;]]&amp;nbsp;[[User talk:Cargoking|&lt;font style=&quot;color:#f9f9f9;background:#000000;&quot;&gt;&amp;nbsp;talk&amp;nbsp;&lt;/font&gt;]]&lt;/span&gt;&lt;/small&gt; 01:04, 26 June 2012 (UTC)
+|}
+== September 2012 ==
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:I dream of horses|I dream of horses]]. I wanted to let you know that I undid one of [[Special:Contributions/108.45.134.95|your recent contributions]]&amp;nbsp;to [[:Camille Paglia]] because it didn't appear constructive. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:I dream of horses|my talk page]]. &lt;!-- Template:uw-vandalism1 --&gt;&lt;!-- Template:uw-cluebotwarning1 --&gt;   [[User:I dream of horses|I dream of horses]] &lt;span style=&quot;border:1px solid #ffa500;background:#ffce7b;&quot;&gt;&lt;small&gt;If you reply here, please leave me a {{[[Template:Talkback|Talkback]]}} message on [[User talk:I dream of horses|my talk page]].&lt;/small&gt;&lt;/span&gt; @  04:46, 7 September 2012 (UTC)
+:''If this is a [[open proxy|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

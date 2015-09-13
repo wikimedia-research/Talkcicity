@@ -1,0 +1,5 @@
+<article id="19305362" title=Talk:Chrysomyxa ledi var. rhododendri>
+	<talkpage id="19305362" title="Talk:Chrysomyxa ledi var. rhododendri">
+{{WikiProject Fungi|class=stub|importance=low|needs-photo=yes}}
+	</talkpage>
+</article>

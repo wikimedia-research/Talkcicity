@@ -1,0 +1,16 @@
+<article id="45225830" title=User talk:152.14.60.69>
+	<talkpage id="45225830" title="User talk:152.14.60.69">
+
+
+== Your submission at [[Wikipedia:Articles for creation|Articles for creation]]: [[3D Weaving]] has been accepted ==
+&lt;div style=&quot;border:solid 1px #57DB1E; background:#E6FFE6; padding:1em; padding-top:0.5em; padding-bottom:0.5em; width:20em; color:black; margin-bottom: 1.5em; margin-left: 1.5em; width: 90%;&quot;&gt;[[File:AFC-Logo.svg|50px|left]] '''[[3D Weaving]], which you submitted to Articles for creation, has been created.'''&lt;br /&gt; The article has been assessed as '''Start-Class''', which is recorded on the article's [[Talk:3D Weaving|talk page]]. You may like to take a look at the [[Wikipedia:WikiProject Articles for creation/Grading scheme|grading scheme]] to see how you can improve the article.
+You are more than welcome to continue making quality contributions to [[Wikipedia]]. {{#if:{{#invoke:IPAddress|isIp|1=152.14.60.69}}
+ |You may wish to consider [[Wikipedia:Why create an account?|registering an account]] so you can create articles yourself
+ |Note that because you are a logged-in user, you can [[Wikipedia:Starting an article|create articles yourself]], and don't have to post a request. However, you may continue submitting work to [[Wikipedia:Articles for creation|Articles for Creation]] if you prefer
+}}.
+* If you have any questions, you are welcome to ask at the '''&lt;span class=&quot;plainlinks&quot;&gt;[//en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Articles_for_creation/Help_desk&amp;action=edit&amp;section=new&amp;nosummary=1&amp;preload=Template:AfC_talk/HD_preload&amp;preloadparams%5B%5D=User_talk:152.14.60.69 help desk]&lt;/span&gt;'''.
+* If you would like to help us improve this process, please consider {{leave feedback/link|page=Wikipedia:WikiProject Articles for creation|text=leaving us some feedback}}.
+Thank you for helping improve Wikipedia!
+~[[user talk:Kvng|KvnG]] 04:30, 27 January 2015 (UTC)&lt;/div&gt;&lt;!--Template:Afc talk--&gt;
+	</talkpage>
+</article>

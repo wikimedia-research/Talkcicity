@@ -1,0 +1,7 @@
+<article id="44772926" title=User talk:LOL is broken>
+	<talkpage id="44772926" title="User talk:LOL is broken">
+== December 2014 ==
+
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:I dream of horses|I dream of horses]]. I wanted to let you know that I undid one of [[Special:Contributions/LOL is broken|your recent contributions]]&amp;nbsp;—the one you made with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/w/index.php?title=Target%20Corporation&amp;diff=638727249 this edit]&lt;/span&gt; to [[:Target Corporation]]— because it didn’t appear constructive to me. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:I dream of horses|my talk page]]. Thanks. &lt;!-- Template:Huggle/warn-1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt;[[User:I dream of horses|I dream of horses]] &lt;span style=&quot;border:1px solid #ffa500;background:#ffce7b;&quot;&gt;&lt;small&gt;If you reply here, please leave me a &amp;#123;&amp;#123;[[Template:Talkback|Talkback]]&amp;#125;&amp;#125; message on [[User talk:I dream of horses|my talk page]].&lt;/small&gt;&lt;/span&gt; @  02:54, 19 December 2014 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,16 @@
+<article id="29160455" title=Talk:Lotus Mark IX>
+	<talkpage id="29160455" title="Talk:Lotus Mark IX">
+{{WikiProjectBannerShell|1=
+{{WikiProject Motorsport}}
+{{WikiProject Automobiles}}
+{{WikiProject United Kingdom}}
+{{WikiProject Brands|class=|importance=}}
+}}
+
+{{oldprodfull}}
+{{British English}}
+
+==Work==
+This needs some sourcing, and has all sorts of prevaricating terminology that needs correction. [[Special:Contributions/76.66.200.95|76.66.200.95]] ([[User talk:76.66.200.95|talk]]) 05:56, 12 October 2010 (UTC)
+	</talkpage>
+</article>

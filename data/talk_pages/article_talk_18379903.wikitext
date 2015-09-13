@@ -1,0 +1,5 @@
+<article id="18379903" title=Talk:Mõniste Parish>
+	<talkpage id="18379903" title="Talk:Mõniste Parish">
+{{WikiProject Estonia|class=stub|importance=low}}
+	</talkpage>
+</article>

@@ -1,0 +1,65 @@
+<article id="34210432" title=User talk:Qtjackson>
+	<talkpage id="34210432" title="User talk:Qtjackson">
+= In reference to recent deletion from [[adaptive_grammar]] =
+
+(Moved from [[Talk:adaptive_grammar]] to avoid clutter there.)
+
+• Affeldt, Reynald, et al., &quot;Formal Network Packet Processing with Minimal Fuss: Invertible Syntax Descriptions at Work,&quot; In Proceedings of the 6th ACM Workshop Programming Languages meets Program Verification, PLPV 2012, Philadelphia, PA, USA, January 24, 2012.
+ 
+• Reginaldo Inojosa Silva Filho and Ricardo Luis de Azevedo da Rocha, &quot;Adaptive Finite Automaton: A New Algebraic Approach,&quot; Adaptive and Natural Computing Algorithms, Springer-Verlag, Lecture Notes in Computer Science, Vol. 6594/2011, pp. 275-284, 2011. 
+
+• Bel-Enguix, et al., &quot;A Grammatical View of Language Evolution,&quot; International Conference on Agents and Artificial Intelligence, 28-30 January 2011, Rome, Italy.
+ 
+• Dizeró, Wagner, Formalismos Adaptativos Aplicados na Modelagem de Softwares Educacionais, Doctoral Dissertation, Dept. of Electrical Engineering, University of São Paulo, 2010.
+ 
+• Adam Carmi, Adaptive Multi-Pass Parsing, M.Sc. Thesis, Technical Report MSC-2010-11, Computer Science Dept., Technion-Israel Institute of Technology, Israel, February 2010.
+ 
+• Malentyev, Artem A., On the Methods and Technologies of Extensible Languages, Master's Thesis, Dept. of Mathematics, Ural State University, Ekaterinburg, Russia, 2009. (In Russian.)
+ 
+• Amir Pourabdollah, Theory and Practice of the Ternary Relations Model of Information Management, Doctoral Dissertation, School of Computer Science, Nottingham University, United Kingdom, February 2009.
+ 
+• Henning Christiansen, “Adaptable Grammars for Non-Context-Free Languages,” Bio-Inspired Systems: Computational and Ambient Intelligence, 10th International Work-Conference on Artificial Neural Networks, IWANN 2009, Salamanca, Spain, June 10-12, 2009, Springer Verlag, pp. 488-495.
+
+• Rosalia Edith Caya Carhuanina, Estudio de la Mejora de la Calidad de un Sintetizador de Voz para el Castellano Utili-zando el Metodo de Automatas Adaptativos, Monograph, PUC-PE, Lima, Peru, May 2009.
+
+• Stefan Andrei, “Parallel Parsing-based Reverse Engineering,” Proceedings of the First 2009 World Congress on Computer Science and Information Engineering (CSIE 2009), IEEE Computer Society, pp. 503-507, Los Angeles, USA, March 31-April 2, 2009.
+
+• J. J. Neto, “A Small Survey of the Evolution of Adaptivity and Adaptive Technology,” Latin American Transactions, IEEE, pp. 496-505, Vol. 4 No. 7, Nov. 2007.
+
+• Reuben Rowe, “Tools for Recursive Adaptive Grammars,” Source Forge Project page, http://ragtools.sourceforge.net/, Project Dated 2007.
+
+• Ivone Penque Matsuno, Um Estudo do Processo de Inferência de Gramáticas Regulares e Livres de Contexto Baseados em Modelos Adaptativos, Master's dissertation, Dept. of Electrical Engineering, University of São Paulo, 2006.
+
+• Blake Hegerle, “Parsing Transformative LR(1) Languages,” http://arxiv.org/abs/cs.PL/0605104, July 2006.
+
+• Dick Grune and Ceriel J.H. Jacobs, Parsing Techniques—A Practical Guide, (2nd ed.), Springer Verlag, (In Press) 2006.
+
+• Aparacido Valdemir de Freitas &amp; João José Neto, “Conception of Adaptive Programming Languages,” Proceedings of the 17th IASTED International Conference, Montreal, Canada, 14-16 May 2006.
+
+• Hemerson Pistori et al., “Adaptive Non-Deterministic Decision Trees: General Formulation and Case Study,” INFOCOMP Journal of Computer Science, (In Press) 2006.
+
+• Alexander Okhotin, Boolean Grammars: Expressive Power and Parsing Algorithms, Doctoral thesis, School of Comput-ing, Queen’s University, Canada, Oct. 2004.
+
+• Alexander Okhotin, “An extension of recursive descent parsing for Boolean grammars,” Technical Report 2004-475 School of Computing, Queen’s University, Kingston, Ontario, Canada, Mar. 2004.
+
+• César Bravo, Grámmaticas Livres de Contexto Adaptativas com verificação de aparência, Doctoral thesis, Dept. of Elec-trical Engineering, University of São Paulo, Jan. 2004.
+
+• Hemerson Pistori, Tecnologia Adaptativa em Engenharia de Computação: Estado da Arte e Aplicações, Doctoral thesis, Dept. of Electrical Engineering, University of São Paulo, 2003.
+
+• Markus L. Noga, Optimierung der Verarbeitung von Dokumenten, Doctoral thesis, Faculty of Computer Science, Univer-sität Karlsruhe, Germany, Dec. 2003.
+
+• Mary Fernandez &amp; Jerome Simeon, “Growing XQuery,” European Conference on Object-Oriented Programming 2003, Darmstadt, Germany, 21-25 July 2003.
+
+• Vyacheslav Levitsky, Mykola Kolodnytsky &amp; Andriy Kovalchuk, Modern Compiler Generation Tools, Zhytomyr: ZIET, 2002.
+
+• Adam Carmi, “Adapser: An LALR(1) Adaptive Parser,” The Israeli Workshop on Programming Languages &amp; Development Environments, Haifa, Israel, 1 July 2002.
+
+• Eugenio Herrera Hernández &amp; Servilio Afre Puentes, “Analisis de Herramientas para la Construccion de Compiladores,” Revista Ciencias Mathemáticas, Vol. 2 No. 2, Universidad de Habana, Habana, Cuba, 2002.
+
+• Sarita J. Bassil &amp; Rudolf K. Keller, “Software Visualization Tools—Survey and Analysis,” in Proceedings of the Ninth In-ternational Workshop on Program Comprehension (IWPC’2001), pp. 7-17, Toronto, Ontario, Canada, May 2001.
+
+• Sarita J. Bassil, Qualitative and Quantitative Evaluation of Software Visualization Tools, (French title: Évaluation qualita-tive et quantitative d’outils de visualisation logicielle), Master’s thesis, Université de Montréal, Canada, Dec. 2000.
+
+[[User:Qtjackson|Qtjackson]] ([[User talk:Qtjackson|talk]]) 16:26, 26 December 2011 (UTC)
+	</talkpage>
+</article>

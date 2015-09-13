@@ -1,0 +1,8 @@
+<article id="42426111" title=Talk:Clea Smith>
+	<talkpage id="42426111" title="Talk:Clea Smith">
+{{WikiProject Biography|living=yes|class=stub|sports-work-group=yes|listas=Smith, Clea}}
+{{WikiProject Australia|class=stub|importance=low|sports=yes|Victoria=yes}}
+{{WikiProject Cricket|class=stub|importance=low|Women's cricket=true}}
+{{WikiProject Women's sport|class=stub|importance=low}}
+	</talkpage>
+</article>

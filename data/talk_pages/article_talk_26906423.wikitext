@@ -1,0 +1,13 @@
+<article id="9088313" title=Talk:Protein quaternary structure>
+	<talkpage id="9088313" title="Talk:Protein quaternary structure">
+{{Wikiproject MCB|class=Start|importance=High}}
+
+The following is a highly and confused paragraph that was extracted from the article. It is hinting at a correct observation, but needs to be re-written to explain the facts properly (it is wrong at the moment). --[[User:dmb000006|Dan]]|&lt;sup&gt;[[User_talk:Dmb000006|(talk)]]&lt;/sup&gt; 12:26, 24 January 2007 (UTC)
+
+''The physical interactions holding protein complexes together are, in general, weaker and more polar than those holding the tertiary structure together.  Hence, it is sometimes possible to cause a complex to dissociate into folded protein monomers, e.g., by high pressure or high salt concentrations.''
+
+==Massive reorganization of biomolecular structure articles==
+
+This article was moved from '''[[Quaternary structure]]''' as a result of a proposal at [[WT:MCB#Massive reorganization of biomolecular structure articles|WT:MCB]].  '''[[Quaternary structure]]''' now redirects to [[Biomolecular structure]] instead.  [[User:Antony-22|Antony-'''''22''''']] ([[User talk:Antony-22|talk]]) 20:35, 10 April 2010 (UTC)
+	</talkpage>
+</article>

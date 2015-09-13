@@ -1,0 +1,14 @@
+<article id="38417247" title=Talk:Tonka (fuel)>
+	<talkpage id="38417247" title="Talk:Tonka (fuel)">
+{{WPAVIATION|class=stub
+| b1 &lt;!--Referencing &amp; citations--&gt; =n
+| b2 &lt;!--Coverage &amp; accuracy    --&gt; =n
+| b3 &lt;!--Structure              --&gt; =n
+| b4 &lt;!--Grammar &amp; style        --&gt; =n
+| b5 &lt;!--Supporting materials   --&gt; =n
+|Engines=y}}
+{{WikiProject Rocketry|class=stub|importance=mid}}
+
+In the news: http://www.nytimes.com/2015/05/15/world/middleeast/12-years-later-a-mystery-of-chemical-exposure-in-iraq-clears-slightly.html [[User:Greg Lindahl|Greg]] ([[User talk:Greg Lindahl|talk]]) 20:00, 14 May 2015 (UTC)
+	</talkpage>
+</article>

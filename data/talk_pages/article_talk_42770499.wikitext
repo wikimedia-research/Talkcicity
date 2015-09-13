@@ -1,0 +1,5 @@
+<article id="42770499" title=Talk:Sturrock>
+	<talkpage id="42770499" title="Talk:Sturrock">
+{{WikiProject Anthroponymy |class=list }}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="44264808" title=Talk:Ilse Crawford>
+	<talkpage id="44264808" title="Talk:Ilse Crawford">
+{{WikiProject Biography|living=yes|class=stub|listas=Crawford, Ilse|a&amp;e-work-group=yes|a&amp;e-priority=}}
+	</talkpage>
+</article>

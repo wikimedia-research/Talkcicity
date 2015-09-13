@@ -1,0 +1,6 @@
+<article id="8395057" title=Talk:Nebraska Highway 13>
+	<talkpage id="8395057" title="Talk:Nebraska Highway 13">
+{{WikiProject United States|class=Start|importance=Low|NE=Yes|NE-importance=}}
+{{U.S. Roads WikiProject|state=NE|class=Start|needs-kml=no|needs-map=yes|importance=Mid|needs-jctint=no}}
+	</talkpage>
+</article>

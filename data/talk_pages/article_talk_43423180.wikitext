@@ -1,0 +1,5 @@
+<article id="43423180" title=Talk:Billy Squier discography>
+	<talkpage id="43423180" title="Talk:Billy Squier discography">
+{{WikiProject discographies|class=Start}}
+	</talkpage>
+</article>

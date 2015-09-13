@@ -1,0 +1,44 @@
+<article id="8774309" title=Talk:ITV Meridian>
+	<talkpage id="8774309" title="Talk:ITV Meridian">
+{{WikiProjectBannerShell|1=
+{{British TV channels project|class=B|importance=mid}}
+{{WikiProject Dorset |class=B |importance=Low}}
+{{WikiProject Essex|class=B|importance=Low}}
+{{WikiProject Hampshire|class=B|importance=low}}
+{{WikiProject Kent |class=B |importance=Low}}
+{{WikiProject Sussex |class=B |importance=Low}}
+{{WikiProject Surrey |class=B |importance=Low}}
+{{WikiProject Wight |class=B |importance=Low}}
+}}
+
+
+==ITV Regional Companies Official Name changes==
+On [[29 December]] [[2006]], the following ITV companies officially changed their names:
+
+*[[Meridian Broadcasting]] Limited became '''ITV Meridian Ltd'''
+*[[Central Independent Television]] became '''ITV Central Ltd'''
+*[[Border Television]] became '''ITV Border Ltd'''
+*[[HTV|HTV Group]] became '''ITV Wales and West Ltd'''
+
+See http://wck2.companieshouse.gov.uk and search under &quot;ITV&quot; - URL linking is not supported.
+So that signalled the death knell for HTV then. [[User:Marbles333|Marbles]] 19:50, 5 January 2007 (UTC)
+
+==moving?==
+move the article to ITV Meridian as that is its offical name?Mark999 21:09, 1 October 2007 (UTC)
+:As per [[WP:UCN]], no it would be wrong to move Meridian Broadcasting to ITV Meridian. It has existed for 13 years as Meridian Broadcasting Ltd and 11 months as ITV Meridian Ltd. [[User:Marbles|/Marbles]] 10:29, 2 October 2007 (UTC)
+
+== Moved ==
+
+Why has this article been moved to ITV Meridian? It should remain as Meridian broadcasting: this was decided a long time ago so why has it changed? Also it is good practice to discuss moving an article before doing so. [[User:Rafmarham|Rafmarham]] ([[User talk:Rafmarham|talk]]) 12:06, 27 November 2011 (UTC)
+
+== 1999 Meridian logo ==
+
+I am unsure about the use of the ITV Meridian station logo from 1999. By not including the background or the general look it is inaccurately conveying what the 1999 Hearts look appeared as and so seems innapropriate. I therefore believe the image needs changing to the real 1999 ident with hearts in background or removed entirely - it is misleading plain and simple. [[User:Rafmarham|Rafmarham]] ([[User talk:Rafmarham|talk]]) 21:10, 5 January 2012 (UTC)
+
+:I will remove this image as it is inaccurate and nothing has been done to alter this innacurate representation. [[User:Rafmarham|Rafmarham]] ([[User talk:Rafmarham|talk]]) 09:47, 10 September 2012 (UTC)
+
+== Edits made 27/3/12 ==
+
+Hi, I have made some major edits to this page to hopefully improve. It had occured to me that this article was not longer near a B as large areas of Meridian's 'story' was missing. I have therefore added some details about Meridian's 1991 bid and incorporated the ownership into the history section. I have also added as much detail as I can find about Meridian's other studio bases outside Southampton/Whiteley. I also cleared up the sub-regions section as this was difficult to understand for outsiders and have moved some information about programmes into that section. I have also added references to the Identity section. I believe that this article has been greatly improved. [[User:Rafmarham|Rafmarham]] ([[User talk:Rafmarham|talk]]) 16:44, 27 March 2012 (UTC)
+	</talkpage>
+</article>

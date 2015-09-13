@@ -1,0 +1,5 @@
+<article id="18943594" title=Talk:Kirovka, Bilasuvar>
+	<talkpage id="18943594" title="Talk:Kirovka, Bilasuvar">
+{{WikiProject Azerbaijan|class=stub|importance=low}}
+	</talkpage>
+</article>

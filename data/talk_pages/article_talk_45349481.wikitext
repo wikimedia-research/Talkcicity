@@ -1,0 +1,8 @@
+<article id="45349481" title=User talk:139.222.87.199>
+	<talkpage id="45349481" title="User talk:139.222.87.199">
+
+
+==Recent edit to [[Aporia]]==
+[[Image:Information.svg|25px|alt=Information icon]] Hello, and welcome to Wikipedia. I noticed that you made a change to an article, [[Aporia]], but you didn't provide a [[Wikipedia:Identifying reliable sources|reliable source]]. It's been removed for now, but if you'd like to [[Wikipedia:Citing sources|include a citation]] and re-add it, please do so! If you need guidance on referencing, please see the [[Help:Referencing for beginners|referencing for beginners]] tutorial, or if you think I made a mistake, you can leave me a message on my talk page. Thank you! '''[[User:AKS.9955|&lt;span style=&quot;color:#000080&quot;&gt; Arun Kumar SINGH &lt;/span&gt;]][[User talk: AKS.9955|&lt;span style=&quot;color:#01BFFF&quot;&gt; (Talk) &lt;/span&gt;]]''' 14:18, 9 February 2015 (UTC)
+	</talkpage>
+</article>

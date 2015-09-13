@@ -1,0 +1,5 @@
+<article id="25412223" title=Talk:WASP-19b>
+	<talkpage id="25412223" title="Talk:WASP-19b">
+{{WPAstronomy|object=yes|importance=low|class=Stub}}
+	</talkpage>
+</article>

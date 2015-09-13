@@ -1,0 +1,13 @@
+<article id="35087462" title=Talk:Kingfisher Airlines financial crisis>
+	<talkpage id="35087462" title="Talk:Kingfisher Airlines financial crisis">
+{{WikiProjectBannerShell|1=
+{{WikiProject India|class=start|importance=low}}
+{{WikiProject Economics|class=start|importance=low}}
+{{WikiProject Aviation|class=Redirect|Defunct=yes}}
+}}
+
+==Additional sources==
+*Hardasmalani, Rumi Datta. &quot;[http://www.business-standard.com/india/news/is-kingfisher-airlines-really-in-trouble/471168/ Is Kingfisher Airlines really in trouble?]&quot; ''[[Business Standard]]''. 13 April 2012.
+[[User:WhisperToMe|WhisperToMe]] ([[User talk:WhisperToMe|talk]]) 03:32, 14 April 2012 (UTC)
+	</talkpage>
+</article>

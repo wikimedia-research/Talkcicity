@@ -1,0 +1,6 @@
+<article id="20831540" title=Talk:Chouchou (film)>
+	<talkpage id="20831540" title="Talk:Chouchou (film)">
+{{Film|class=Stub|French-task-force=yes}}
+{{LGBTProject |class=Stub}}
+	</talkpage>
+</article>

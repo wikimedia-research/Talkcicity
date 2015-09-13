@@ -1,0 +1,5 @@
+<article id="34455597" title=Talk:Venidium fastuosum>
+	<talkpage id="34455597" title="Talk:Venidium fastuosum">
+{{WikiProject Plants |class=redirect |importance= }}
+	</talkpage>
+</article>

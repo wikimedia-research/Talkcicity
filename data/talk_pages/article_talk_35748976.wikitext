@@ -1,0 +1,7 @@
+<article id="35748976" title=Talk:Zero-forcing precoding>
+	<talkpage id="35748976" title="Talk:Zero-forcing precoding">
+Just a note - it looks like the introduction needs some editing. [[Special:Contributions/66.208.12.229|66.208.12.229]] ([[User talk:66.208.12.229|talk]]) 20:35, 7 May 2012 (UTC)
+
+The article has some significant grammatical issues which make it quite unclear.  It needs to be re-written.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/132.181.64.224|132.181.64.224]] ([[User talk:132.181.64.224|talk]]) 01:19, 9 January 2014 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

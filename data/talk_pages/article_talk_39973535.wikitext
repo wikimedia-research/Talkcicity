@@ -1,0 +1,10 @@
+<article id="39973535" title=Talk:Hawaii Five-0 (season 4)>
+	<talkpage id="39973535" title="Talk:Hawaii Five-0 (season 4)">
+{{Talk header}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Articles for creation|class=start|ts=20130715173001|reviewer=LionMans Account}}
+{{WikiProject Hawaii|class=List|importance=low}}
+{{WikiProject Television|class=List|importance=low}}
+}}
+	</talkpage>
+</article>

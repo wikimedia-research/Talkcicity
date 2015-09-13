@@ -1,0 +1,8 @@
+<article id="39586135" title=User talk:117.212.228.107>
+	<talkpage id="39586135" title="User talk:117.212.228.107">
+
+== June 2013 ==
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Tentinator|Tentinator]]. I wanted to let you know that I undid one or more of [[Special:Contributions/117.212.228.107|your recent contributions]]&amp;nbsp;to [[:Delhi Public School Society]] because it did not appear constructive. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Tentinator|my talk page]]. &lt;!-- Template:uw-vandalism1 --&gt;&lt;!-- Template:uw-cluebotwarning1 --&gt;   &lt;small&gt;&lt;b&gt;&lt;span style=&quot;border:1px solid;background:#030303&quot;&gt;&amp;nbsp;[[User:Tentinator|&lt;font color=&quot;white&quot;&gt;'''Tentinator'''&lt;/font&gt;]]&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/small&gt; 14:48, 5 June 2013 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

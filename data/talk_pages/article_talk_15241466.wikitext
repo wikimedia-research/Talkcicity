@@ -1,0 +1,10 @@
+<article id="15241466" title=Talk:Bob O'Brien>
+	<talkpage id="15241466" title="Talk:Bob O'Brien">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=yes|class=Stub|sports-work-group=yes|listas=Obrien, Bob}}
+{{WikiProject Pennsylvania|class=Stub|importance=low}}
+{{WikiProject Baseball|college=yes|dodgers=yes|class=Stub|importance=low}}
+| blp=yes
+}}
+	</talkpage>
+</article>

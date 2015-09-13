@@ -1,0 +1,9 @@
+<article id="22422394" title=Talk:National Highway 102 (India)>
+	<talkpage id="22422394" title="Talk:National Highway 102 (India)">
+{{INRD|class=stub|importance=mid}}
+{{WP India
+|class=Stub
+|importance=low
+}}
+	</talkpage>
+</article>

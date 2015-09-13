@@ -1,0 +1,125 @@
+<article id="31559075" title=User talk:Mike Cline/Articles Under Contemplation/Tom Morgan (rodsmith)>
+	<talkpage id="31559075" title="User talk:Mike Cline/Articles Under Contemplation/Tom Morgan (rodsmith)">
+{{Infobox person
+| honorific_prefix          = 
+| name                      = Tom Morgan
+| honorific_suffix          = 
+| image                     = 
+| image_size                = 
+| alt                       = 
+| caption                   = 
+| birth_name                = 
+| birth_date                =  &lt;!--{{Birth date|1840|06|20|df=y}}--&gt;
+| birth_place               = 
+| disappeared_date       I   = &lt;!-- {{Disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) --&gt;
+| disappeared_place         = 
+| disappeared_status        = 
+| death_date                =  &lt;!--{{Death date and age|1896|02|14|1840|06|20|df=y}}--&gt;
+| death_place               = 
+| death_cause               = 
+| body_discovered           = 
+| resting_place             = 
+| resting_place_coordinates = 
+| monuments                 = 
+| residence                 = 
+| nationality               = 
+| other_names               = 
+| ethnicity                 = 
+| citizenship               = 
+| education                 = 
+| alma_mater                = 
+| occupation                = 
+| years_active              = 
+| employer                  = 
+| organization              = 
+| agent                     = 
+| known_for                 = [[R. L. Winston flyrods]]
+| notable_works             = 
+| style                     = 
+| influences                = 
+| influenced                = 
+| home_town                 = 
+| salary                    = 
+| net_worth                 = 
+| height                    = 
+| weight                    = 
+| television                = 
+| title                     = 
+| term                      = 
+| predecessor               = 
+| successor                 = 
+| party                     = 
+| movement                  = 
+| opponents                 = 
+| boards                    = 
+| religion                  = 
+| denomination              = 
+| criminal_charge           = 
+| criminal_penalty          = 
+| criminal_status           = 
+| spouse                    = 
+| partner                   = 
+| children                  = 
+| parents                   = 
+| relatives                 = 
+| callsign                  = 
+| awards                    = 
+| signature                 = 
+| signature_alt             = 
+| signature_size            = 
+| module                    = 
+| module2                   = 
+| module3                   = 
+| module4                   = 
+| module5                   = 
+| module6                   = 
+| website                   = {{URL|www.troutrods.com/}}
+| footnotes                 = 
+| box_width                 =  
+}}
+
+'''Tom Morgan''' (19XX - ) is a renowned rodsmith, former owner of the R. L. Winston rod company and current owner of Tom Morgan Rodsmiths, [[Manhattan, Montana]].  Tom Morgan Rodsmiths manufactures [[Bamboo fly rod|bamboo]], fiberglass and graphite [[Fly fishing tackle|fly rods]].
+
+==Early life==
+http://www.sexyloops.com/articles/tommorgan.shtml
+
+==R. L. Winston==
+&lt;ref&gt;{{cite book |last=Johnson |Victor R. |coauthors=Johnson, Victor R. Jr. |title=Fiberglass Fly Rods-The Evolution of the Modern Fly Rod From Bamboo to Graphite |chapter=Winston |publisher=Centennial Publications |location=Grand Junction, Colorado |year=1996 |isbn=1882418247 |page=67-70}}&lt;/ref&gt;
+
+&lt;ref&gt;{{cite book |last=Engle |first=Ed |title=Splitting Cane-conversations with bamboo rodmakers |publisher=Stackpole Books |location=Mechanicsburg, PA |year=2002 |isbn=0811700089}}&lt;/ref&gt;
+
+''In 1973, Merrich sold controlling interest of Winston to Thomas Morgan and Sidney Eliason.  Tom Morgan bought Eliason out in 1975 and moved the plant to Twin Bridges in his home state of Montana, in 1976. Morgan has previously been a fishing guide working out of Ennis, Montana and quickly introduced some new fiberglass rods to the Winston line.  He particularly liked light line rods and made a #2/3/4 weight series that ranged in length from 6'6&quot; to 8'6&quot; called the Stalker Series that became very popular. Like Merrick, he continued to use Fisher blanks and Winston continued to sell its fiberglass rod series until the mid-80s.  When graphite came into demand, Winston began making graphite rods; the first blanks were obtained from H.L. Leonard Co. and were built by a new manufacturer.  These gray colored blanks had an unacceptably high rate of breakage and Winston quickly switched to Fisher graphite blanks which performed very well.  Morgan continued to use Perfection guides and made a new custom seat for his rods.  Morgan then brought in a partner, Glenn Brackett, and they incorporated the firm in 1980.  Morgan and Brackett sold Winston in 1992 to David Ondaatje and the Winston tradition of making fine rods goes on.''
+
+http://cu.imt.net/~rodsmiths/RIGHTST.htm
+
+http://web.winstonrods.com/story/history
+
+
+President Emeritus and consultant &lt;ref&gt;{{cite book |last=Engle |first=Ed |title=Spitting Cane-Conversations with Bamboo Rodmakers |publisher=Stackpole Books |location=Mechanicsburg, PA |year=2002 |isbn=0811700089 |chapter=Glenn Brackett and the R. L. Winston Co. |pages=74-84}}&lt;/ref&gt;
+
+==Tom Morgan Rodsmiths==
+http://www.powerfibers.com/
+
+http://www.goabra.org/Tom%20Morgan%20Interview.pdf
+
+http://www.rodbuildingforum.com/sources/special/morgan.php
+
+http://www.forbes.com/forbes-life-magazine/2008/1208/120_2.html
+
+http://www.distinctlymontana.com/article/montana-fly-rod-makers
+
+http://www.matr.net/article-24900.html
+
+http://outsidebozeman.com/magazine.php?action=fullArticle&amp;articleID=889
+
+==See also==
+* [[Bamboo fly rod]]
+* [[Fishing tackle]]
+* [[Fly fishing tackle]]
+
+==Notes==
+{{reflist}}
+
+{{Angling personalities topics}}
+	</talkpage>
+</article>

@@ -1,0 +1,9 @@
+<article id="12574480" title=User talk:69.108.164.92>
+	<talkpage id="12574480" title="User talk:69.108.164.92">
+{{{icon|[[Image:Information.svg|25px]] }}}Welcome to Wikipedia. It might not have been your intention, but your recent contribution removed content from {{{{{subst|}}}#if:Talk:Number of the Beast|[[:Talk:Number of the Beast]]|Wikipedia}}. Please be more careful when editing pages and do not remove content from Wikipedia without a good reason, which should be specified in the [[Help:Edit summary|edit summary]]. Take a look at the [[Wikipedia:Welcome|welcome page]] to learn more about contributing to this encyclopedia.  If you would like to experiment again, please use the [[Wikipedia:Sandbox|sandbox]].  {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-delete1 --&gt; [[User:Savie Kumara|Savie Kumara]] 05:48, 2 August 2007 (UTC)
+
+{{{icon|[[Image:Information.svg|25px]] }}}Please do not delete content from pages on Wikipedia{{{{{subst|}}}#if:Talk:Number of the Beast|, as you did to [[:Talk:Number of the Beast]]}}.  Your edits do not appear to be constructive and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use [[Wikipedia:Sandbox]] for test edits. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-delete2 --&gt; [[User:Savie Kumara|Savie Kumara]] 05:55, 2 August 2007 (UTC)
+
+{{{icon|[[Image:Stop hand nuvola.svg|left|30px]] }}}This is your '''last warning'''. &lt;br&gt; The next time you delete or blank page contents or templates from Wikipedia{{{{{subst|}}}#if:Talk:Number of the Beast|, as you did to [[:Talk:Number of the Beast]]}}, you '''will''' be [[Wikipedia:Blocking policy|blocked]] from editing. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|}}&lt;!-- Template:uw-delete4 --&gt; [[User:Savie Kumara|Savie Kumara]] 06:01, 2 August 2007 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="46417040" title=User talk:Boumelik Abdelkader>
+	<talkpage id="46417040" title="User talk:Boumelik Abdelkader">
+[[Image:Information.svg|25px|alt=|link=]] Nous vous prions de ne pas ajouter de texte en français à la version anglophone de Wikipédia. Par contre, vos contributions en français sont bienvenues sur la [[:fr:Accueil|Wikipédia francophone]].
+Please do not contribute text in French to English Wikipedia. Your contributions are more than welcome at [[:fr:Accueil|French Wikipedia]]. &lt;!-- Template:Contrib-fr1 --&gt;– [[User:Gilliam|Gilliam]] ([[User talk:Gilliam|talk]]) 11:32, 15 April 2015 (UTC)
+	</talkpage>
+</article>

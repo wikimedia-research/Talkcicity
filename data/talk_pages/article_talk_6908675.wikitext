@@ -1,0 +1,5 @@
+<article id="6908675" title=Talk:Eastover, North Carolina>
+	<talkpage id="6908675" title="Talk:Eastover, North Carolina">
+{{WikiProject United States|class=start|importance=low|NC=Yes|NC-importance=low}}
+	</talkpage>
+</article>

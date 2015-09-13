@@ -1,0 +1,8 @@
+<article id="8783660" title=Talk:1987 Copa América>
+	<talkpage id="8783660" title="Talk:1987 Copa América">
+{{Football
+|class=Stub
+|importance=Mid
+}}
+	</talkpage>
+</article>

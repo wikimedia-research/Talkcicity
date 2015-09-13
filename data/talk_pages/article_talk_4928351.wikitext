@@ -1,0 +1,6 @@
+<article id="4928351" title=Talk:Higashi-Yamoto Station>
+	<talkpage id="4928351" title="Talk:Higashi-Yamoto Station">
+{{WikiProject Trains|class=start|importance=low|unref=yes|stations=yes|Japan=yes|portaldykdate=October 28, 2014}}
+{{WikiProject Japan|class=start|importance=low|trains=yes}}
+	</talkpage>
+</article>

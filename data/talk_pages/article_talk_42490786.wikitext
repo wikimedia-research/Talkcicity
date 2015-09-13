@@ -1,0 +1,10 @@
+<article id="42490786" title=User talk:68.142.187.61>
+	<talkpage id="42490786" title="User talk:68.142.187.61">
+
+== April 2014 ==
+
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:BethNaught|BethNaught]]. I wanted to let you know that I undid one of [[Special:Contributions/68.142.187.61|your recent contributions]],&amp;nbsp;such as the one you made with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Chinstrap_beard?diff=604191548 this edit]&lt;/span&gt; to [[:Chinstrap beard]], because it didn’t appear constructive to me. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:BethNaught|my talk page]]. Thanks. &lt;!-- Template:Huggle/warn-1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt;[[User:BethNaught|BethNaught]] ([[User talk:BethNaught|talk]]) 18:22, 14 April 2014 (UTC)
+
+&lt;div style=clear: both&gt;&lt;/div&gt;[[File:Information orange.svg|25px|alt=Information icon]] Please refrain from making nonconstructive edits to Wikipedia, as you did at [[:Chinstrap beard]] with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Chinstrap_beard?diff=604191983 this edit]&lt;/span&gt;. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]] or removed. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. [[Wikipedia:Administrators|Administrators]] have the ability to [[WP:BLOCK|block]] users from editing if they repeatedly engage in vandalism. Thank you. &lt;!-- Template:Huggle/warn-2 --&gt;&lt;!-- Template:uw-vandalism2 --&gt;[[User:BethNaught|BethNaught]] ([[User talk:BethNaught|talk]]) 18:25, 14 April 2014 (UTC)
+	</talkpage>
+</article>

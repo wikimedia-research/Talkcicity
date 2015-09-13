@@ -1,0 +1,17 @@
+<article id="16717621" title=Talk:Red Richards>
+	<talkpage id="16717621" title="Talk:Red Richards">
+{{WikiProject Jazz|class=stub|auto=length|importance=}}
+{{WPBiography
+|living=no
+|class=Stub
+|auto=inherit
+|listas=Richards, Red
+}}
+
+
+==Untitled==
+I was an acquaintance of Red and met him several times on jobs where I played the piano.
+
+I bought three CDs (which are now packed away) of his playing through Amazon.  Those three CDs should be added to his discography.
+	</talkpage>
+</article>

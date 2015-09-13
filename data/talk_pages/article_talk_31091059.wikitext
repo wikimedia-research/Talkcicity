@@ -1,0 +1,18 @@
+<article id="31091059" title=User talk:68.106.195.134>
+	<talkpage id="31091059" title="User talk:68.106.195.134">
+
+==Welcome!==
+
+[[Image:Chocolate chip cookies.jpg|thumb|300px|Some cookies to welcome you! [[File:Face-smile.svg|25px]]]] [[Wikipedia:Welcoming committee/Welcome to Wikipedia|Welcome to Wikipedia]], 68.106.195.134! I am [[User:Cymru.lass|Cymru.lass]] and have been editing Wikipedia for quite some time. Thank you for [[Special:Contributions/68.106.195.134|your contributions]]. I just wanted to say hi and welcome you to Wikipedia! If you have any questions check out [[Wikipedia:Questions]], or feel free to leave me a message on [[User talk:Cymru.lass|my talk page]] or type ''{{tl|helpme}}'' at the bottom of this page. I love to help new users, so don't be afraid to leave a message!  I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+* [[Wikipedia:Introduction|Introduction]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Wikipedia:How to edit a page|How to edit a page]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Article development|How to write a great article]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Also, when you post on [[Wikipedia:Talk page|talk pages]] you should [[Wikipedia:Sign your posts on talk pages|sign your name]] using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); that should automatically produce your username and the date after your post.  Again, welcome! 
+ 
+&lt;span style=&quot;white-space:nowrap;&quot;&gt;[[User:Cymru.lass|&lt;span style=&quot;color:#007FFF; font-family:tahoma&quot;&gt;c y m r u . l a s s&lt;/span&gt;]]&lt;/span&gt; &lt;sup&gt;[[User talk:Cymru.lass|&lt;span style=&quot;color:#007FFF&quot;&gt;(talk me, stalk me)&lt;/span&gt;]]&lt;/sup&gt; 18:26, 5 March 2011 (UTC)
+==Talkback==
+{{talkback|Wikipedia:New contributors' help page/questions|Mike Huckabee|ts=18:27, 5 March 2011 (UTC)}}
+	</talkpage>
+</article>

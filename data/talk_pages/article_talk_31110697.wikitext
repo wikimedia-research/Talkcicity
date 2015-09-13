@@ -1,0 +1,8 @@
+<article id="31110697" title=User talk:173.171.215.79>
+	<talkpage id="31110697" title="User talk:173.171.215.79">
+
+== March 2011 ==
+
+[[Image:Information.png|25px|alt=|link=]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Emperor?diff=417618334 recent edit]&lt;/span&gt; you made to [[:Emperor]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:Huggle/warn-1 --&gt; '''''[[User:DARTH SIDIOUS 2|DARTH SIDIOUS 2]]''''' &lt;sup&gt;([[User talk:DARTH SIDIOUS 2|Contact]])&lt;/sup&gt; 16:10, 7 March 2011 (UTC)
+	</talkpage>
+</article>

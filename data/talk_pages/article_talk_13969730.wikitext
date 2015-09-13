@@ -1,0 +1,5 @@
+<article id="13969730" title=Talk:Legislative district of Mountain Province>
+	<talkpage id="13969730" title="Talk:Legislative district of Mountain Province">
+{{WPPhilippines|class=Start|importance=Low}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="39742168" title=Talk:Harpalus flavicornis>
+	<talkpage id="39742168" title="Talk:Harpalus flavicornis">
+{{WikiProject Beetles|class=Stub|importance=Low|needs-photo=yes}}
+	</talkpage>
+</article>

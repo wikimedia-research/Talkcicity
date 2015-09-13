@@ -1,0 +1,8 @@
+<article id="25452354" title=User talk:173.48.90.102>
+	<talkpage id="25452354" title="User talk:173.48.90.102">
+
+== December 2009 ==
+
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to contribute constructively to the encyclopedia, adding content without [[Wikipedia:Citing sources|citing]] a [[Wikipedia:Reliable sources|reliable source]]{{#if:Bladder spasm|, as you did with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Bladder_spasm?diff=331971561 this edit]&lt;/span&gt; to [[:Bladder spasm]],}} is not consistent with our policy of [[Wikipedia:Verifiability|verifiability]]. Take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia.  If you are familiar with [[Wikipedia:Citing sources]], please take this opportunity to add references to the article.&lt;!-- Template:uw-huggle1 --&gt; &lt;font face=&quot;courier new&quot;&gt;&lt;b&gt;&gt; [[User:RUL3R|RUL3R]]&lt;small&gt;&lt;sup style=&quot;margin-left:1.0ex;&quot;&gt;&gt;[[User talk:RUL3R|trolling]]&lt;/sup&gt;&lt;sub style=&quot;margin-left:-10.0ex;&quot;&gt;&gt;[[Special:Contributions/RUL3R|vandalism]]&lt;/sub&gt;&lt;/small&gt;&lt;/b&gt;&lt;/font&gt; 06:14, 16 December 2009 (UTC)
+	</talkpage>
+</article>

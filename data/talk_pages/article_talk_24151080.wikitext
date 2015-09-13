@@ -1,0 +1,5 @@
+<article id="24151080" title=Talk:Astha>
+	<talkpage id="24151080" title="Talk:Astha">
+{{WikiProject Lepidoptera|class=stub|importance=low}}
+	</talkpage>
+</article>

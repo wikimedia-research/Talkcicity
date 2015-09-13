@@ -1,0 +1,16 @@
+<article id="12033195" title=Talk:Chase Stanley>
+	<talkpage id="12033195" title="Talk:Chase Stanley">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|sports-work-group=yes
+|listas=Stanley, Chase
+}}
+{{WikiProject Rugby league|class=stub|importance=low|state-of-origin=no|state-of-origin-importance=}}
+{{WikiProject Australia|importance=low|class=stub|nrl=yes}}
+{{WikiProject New Zealand|class=stub|importance=low|maori=yes|maori-importance=low}}
+| blp=yes
+}}
+	</talkpage>
+</article>

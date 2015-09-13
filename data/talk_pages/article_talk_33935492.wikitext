@@ -1,0 +1,5 @@
+<article id="33935492" title=User talk:217.207.76.103>
+	<talkpage id="33935492" title="User talk:217.207.76.103">
+[[File:Information.svg|25px|alt=|link=]] Welcome to Wikipedia. At least one of [[Special:Contributions/217.207.76.103|your recent edits]], such as the edits you made to [[:Cadbury Roses]], did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make. Although everyone is welcome to contribute to Wikipedia, please take some time to familiarise yourself with our policies and guidelines. You can find information about these at the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] which also provides further information about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-disruptive1 --&gt;
+	</talkpage>
+</article>

@@ -1,0 +1,7 @@
+<article id="37243269" title=Talk:Tarran>
+	<talkpage id="37243269" title="Talk:Tarran">
+{{old AfD multi
+ |date1 = January 3 2006 |result1 = '''delete''' |page1 = Tarran
+}}
+	</talkpage>
+</article>

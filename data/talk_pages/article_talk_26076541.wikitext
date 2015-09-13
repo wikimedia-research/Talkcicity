@@ -1,0 +1,5 @@
+<article id="26076541" title=Talk:Rauhajärvi>
+	<talkpage id="26076541" title="Talk:Rauhajärvi">
+{{WikiProject Finland|class=stub|importance=}}
+	</talkpage>
+</article>

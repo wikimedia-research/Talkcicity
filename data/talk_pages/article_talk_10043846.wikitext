@@ -1,0 +1,7 @@
+<article id="10043846" title=Talk:FreePBX>
+	<talkpage id="10043846" title="Talk:FreePBX">
+{{oldafdfull| date = 6 January 2010 (UTC) | result = '''nomination withdrawn''' | page = FreePBX }}
+
+{{oldafdfull|date=2007 March 8|result='''redirect''' to [[Asterisk (PBX)]]|votepage=FreePBX}}
+	</talkpage>
+</article>

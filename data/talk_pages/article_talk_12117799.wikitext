@@ -1,0 +1,5 @@
+<article id="12117799" title=Talk:Ellis Guitars>
+	<talkpage id="12117799" title="Talk:Ellis Guitars">
+{{WP Australia|WA=yes|class=stub| WA-importance = low}}
+	</talkpage>
+</article>

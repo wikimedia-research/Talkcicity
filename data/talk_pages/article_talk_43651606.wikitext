@@ -1,0 +1,5 @@
+<article id="43651606" title=Talk:Kokkola Futis 10>
+	<talkpage id="43651606" title="Talk:Kokkola Futis 10">
+{{WikiProject Football |class=stub |importance=low |Women=yes }}
+	</talkpage>
+</article>

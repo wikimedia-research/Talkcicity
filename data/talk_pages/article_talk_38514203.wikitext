@@ -1,0 +1,9 @@
+<article id="37208695" title=Talk:Michael Harris (offensive tackle)>
+	<talkpage id="37208695" title="Talk:Michael Harris (offensive tackle)">
+{{WikiProject Biography
+|living=yes
+|class=
+|listas=Harris, Michael
+}}
+	</talkpage>
+</article>

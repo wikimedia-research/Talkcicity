@@ -1,0 +1,7 @@
+<article id="43503977" title=Talk:Saône-et-Loire's 5th constituency>
+	<talkpage id="43503977" title="Talk:Saône-et-Loire's 5th constituency">
+{{WikiProject Elections and Referendums}}
+{{WikiProject France|class=Stub|importance=Low}}
+{{Translated page|fr|Cinquième circonscription de Saône-et-Loire}}
+	</talkpage>
+</article>

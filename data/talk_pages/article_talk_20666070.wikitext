@@ -1,0 +1,5 @@
+<article id="20666070" title=Talk:Chhimkeswori>
+	<talkpage id="20666070" title="Talk:Chhimkeswori">
+{{WikiProject Nepal|class=|importance=}}
+	</talkpage>
+</article>

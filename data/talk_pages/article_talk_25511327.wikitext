@@ -1,0 +1,5 @@
+<article id="25511327" title=Talk:Center Alliance>
+	<talkpage id="25511327" title="Talk:Center Alliance">
+{{WikiProject Norway|class=start|importance=low}}
+	</talkpage>
+</article>

@@ -1,0 +1,25 @@
+<article id="10485803" title=Talk:RenderMan>
+	<talkpage id="10485803" title="Talk:RenderMan">
+{{WikiProjectBannerShell|1=
+{{WikiProject Disambiguation}}
+{{WikiProject Film|class=dab}}
+{{WikiProject Animation|class=dab|importance=none|american-animation=yes|american-animation-importance=none|pixar-work-group=yes|pixar-importance=none}}
+}}
+
+== Links to other Renderman pages? ==
+
+As this page is talking about Renderman as a general topic, should it not then have links to the other Renderman topics such as the [[RenderMan Interface Specification]], the [[RenderMan Shading Language]], and the [[RenderMan Artists Tools]]?
+[[User:Raceimaztion|Raceimaztion]] ([[User talk:Raceimaztion|talk]]) 19:33, 25 September 2011 (UTC)
+: If you think it would benefit the article, please summarize them and add it here.
+
+: This was originally just a disambiguation page, but I have been working to turn it into a general article as a bridge between [[distributed rendering]] and RenderMan API's which are an extremely narrow and specialized area of discussion. It is worth noting the history of the software/API that got us to where we are now. [[User:DMahalko|DMahalko]] ([[User talk:DMahalko|talk]]) 23:57, 7 October 2011 (UTC)
+
+:: This article contains so many wrong facts, I don't even know how to start. There was a good reason this was a disambiguation page. I strongly suggest to return this to a disambiguation page. All the facts about PRMan are in the resp. article on the software (the 1st version did not run on a Mac, this is bullshit). All the facts about the API are in the API article (the API has absolutely nothing to do with networking and neither are implementation details, i.e. ray-tracing, part of it). Caveat emptor: I have been using Pixar's RenderMan and RenderMan compliant renderers in production for over two decades and have been participating in the RenderMan newsgroup, while it was active, for over a decade (google my name +RenderMan).
+::[[User:MoritzMoeller|MoritzMoeller]] ([[User talk:MoritzMoeller|talk]]) 11:00, 20 January 2014 (UTC)
+
+:::Hello, everyone. Because of the article's [[WP:V|complete lack of source]], perceived factual inaccuracy, [[WP:CFORK]] and the fact that PRMan is now called RenderMan, I have converted the article back to a dab page. (You know the drill: Content without source may be deleted.) I stress that any addition of disputed content needs to be accompanied with a source.
+
+:::Best regards,
+:::[[User:Codename Lisa|Codename Lisa]] ([[User talk:Codename Lisa|talk]]) 14:44, 3 November 2014 (UTC)
+	</talkpage>
+</article>

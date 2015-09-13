@@ -1,0 +1,5 @@
+<article id="38601927" title=Talk:Calyptrocalyx elegans>
+	<talkpage id="38601927" title="Talk:Calyptrocalyx elegans">
+{{WP Plants|class=stub|importance=low}}
+	</talkpage>
+</article>

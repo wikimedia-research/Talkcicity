@@ -1,0 +1,8 @@
+<article id="45000229" title=User talk:182.71.128.110>
+	<talkpage id="45000229" title="User talk:182.71.128.110">
+
+
+==Recent edit to [[Etawah]]==
+[[Image:Information.svg|25px|alt=Information icon]] Hello, and welcome to Wikipedia. I noticed that you made a change to an article, [[Etawah]], but you didn't provide a [[Wikipedia:Identifying reliable sources|reliable source]]. It's been removed for now, but if you'd like to [[Wikipedia:Citing sources|include a citation]] and re-add it, please do so! If you need guidance on referencing, please see the [[Help:Referencing for beginners|referencing for beginners]] tutorial, or if you think I made a mistake, you can leave me a message on my talk page. Thank you! [[User:Materialscientist|Materialscientist]] ([[User talk:Materialscientist|talk]]) 08:14, 10 January 2015 (UTC)
+	</talkpage>
+</article>

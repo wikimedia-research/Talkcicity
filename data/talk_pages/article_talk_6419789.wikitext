@@ -1,0 +1,39 @@
+<article id="6419789" title=Talk:Gesine Schwan>
+	<talkpage id="6419789" title="Talk:Gesine Schwan">
+{{WikiProject Biography|living=yes|class=B|listas=Schwan, Gesine}}
+{{WikiProject Germany| class= B | importance = high
+&lt;!-- 1. It is suitably referenced, and all major points are appropriately cited. --&gt;
+|B-Class-1=yes
+&lt;!-- 2. It reasonably covers the topic, and does not contain major omissions or inaccuracies. --&gt;
+|B-Class-2=yes
+&lt;!-- 3. It has a defined structure, including a lead section and one or more sections of content. --&gt;
+|B-Class-3=yes
+&lt;!-- 4. It is free from major grammatical errors. --&gt;
+|B-Class-4=yes
+&lt;!-- 5. It contains appropriate supporting materials, such as an infobox, images, or diagrams. --&gt;
+|B-Class-5=yes
+}}
+
+== Reassessment ==
+
+I have added a considerable amount of content to this article, including lots of references. It is clean up now and has sufficient sections for the currently presented contend. I think this article should not be classified a stub anymore and therefore request a reassessment. Also suggestions for further improvement are well appreciated. Thanks for your efforts. [[User:Tomeasy|&lt;span style=&quot;color:#0000f1;font-family:Papyrus;cursor:help&quot;&gt;'''''T&lt;font color=&quot;#009ef2&quot;&gt;om&lt;font color=&quot;#6bd5f5&quot;&gt;ea&lt;/font&gt;s&lt;/font&gt;y'''''&lt;/span&gt;]]&lt;sub&gt;[[User talk:Tomeasy| T]][[Special:Contributions/Tomeasy| C]]&lt;/sub&gt; 13:05, 21 July 2008 (UTC)
+:VERY GOOD: This is B. Minor issue is, that the ref should follow the punctation acc to MOS. e.g.: {{Quotation|Born in Berlin on 22 May 1943, Schwan was baptized in catholic faith[2] as the daughter of Oberschulrat (Senior School Inspector) Hans R. Schneider. During the Third Reich dictatorship her parents were members of the passive resistance[3] offering protection to Jewish girl by hiding her. After WWII, the family engaged actively in the reconciliation of the Polish–German relations.}}
+The wikilinking of dates - see quote above - is currently under dicussion. I would link full dates: [[May 22]] [[1942]]. [[User:Sebastian scha.|Sebastian scha.]] ([[User talk:Sebastian scha.|talk]]) 03:28, 27 September 2008 (UTC)
+::Thank you very much, Sebastian for this assessment. It's nice to see one's work is appreciated after one has put a lot of effort. If you have any suggestion how the content might be further extended (new sections tables, pictures etc.), just put them down. I will see what I can do.
+::With respect to your two points, i need clarification. First, I do not see in how far the references violate MOS. Perhaps you can provide a link. Second, the dates were wiki-linked by myself before. I removed those links when the style guys started changing the articles all over Wikipedia removing these links. Allegedly, this was done on the basis of a change in the style guide, as [[User_talk:Tomeasy#date_autoformatting|one editor who is very active on that side explained me]]. So, I think the article conforms better to the current style consensus without the links. E.g., look at all featured articles, which were the first targets of the &quot;style police&quot;. [[User:Tomeasy|&lt;span style=&quot;color:#0000f1;font-family:Papyrus;cursor:help&quot;&gt;'''''T&lt;font color=&quot;#009ef2&quot;&gt;om&lt;font color=&quot;#6bd5f5&quot;&gt;ea&lt;/font&gt;s&lt;/font&gt;y'''''&lt;/span&gt;]]&lt;sub&gt;[[User talk:Tomeasy| T]][[Special:Contributions/Tomeasy| C]]&lt;/sub&gt; 11:34, 27 September 2008 (UTC)
+:::You got me ,-) The citation link is [[Wikipedia:Citing sources]]: all examples are at the end of the sentence. So I thought it should be - like call a spade a spade - but I've read it some where else, I've to look. And this date thing, as I wrote: it is unlinked because of the ''new'' style guidelines - sometime, somewhere, somebody will change the guideline to linked dates. No, just let the dates unlinked, thats fine, everyhing else is my POV ,-) [[User:Sebastian scha.|Sebastian scha.]] ([[User talk:Sebastian scha.|talk]]) 13:58, 27 September 2008 (UTC)
+::::Citations in the middle of the sentence are quite common - also in the wikipedia MOS. I would say it's often even a moral requirement. With respect to the above quote, imagine citation [2] (supporting the claim of catholic faith only) was put at the end of the sentence. This would mislead the reader pretending that there was more sourced backup, also for the claim of the father's name and profession. I think, in this sense the correct placement of references is an ethical issue rather than a typesetting one.
+::::What about the article? Do you have some ideas how to extend and improve it? I can imagine putting even more work, but I ran out of ideas for relevant content. [[User:Tomeasy|&lt;span style=&quot;color:#0000f1;font-family:Papyrus;cursor:help&quot;&gt;'''''T&lt;font color=&quot;#009ef2&quot;&gt;om&lt;font color=&quot;#6bd5f5&quot;&gt;ea&lt;/font&gt;s&lt;/font&gt;y'''''&lt;/span&gt;]]&lt;sub&gt;[[User talk:Tomeasy| T]][[Special:Contributions/Tomeasy| C]]&lt;/sub&gt; 21:22, 27 September 2008 (UTC)
+:::::Hm, okay I comply ,-) Article improvement? When Schwan became member of the SPD? I really don't know. What were the press comments about Schwan and her first canditation? I think, I remember something like &quot;we need a woman&quot; in German media (Merkel became chancellor a year later), Schwan was relatively unknown in Germany before her first candiation (East German woman against West German man) - or is this specualtion? [This article is better than Horst Köhlers.] Greetings. [[User:Sebastian scha.|Sebastian scha.]] ([[User talk:Sebastian scha.|talk]]) 21:50, 27 September 2008 (UTC)
+
+== Schwan a Polish nationalist? ==
+
+[[User:Hubert Lup]] keeps on adding the three following statements:
+*Schwan is a Polish nationalist
+*Schwan justifies enthic cleansing
+*Schwan's family is of Polish origin
+The former two are extremely biased, negative POV statements, which cannot be tolerated on an article of a [[WP:LIVE|living person]]. The last statement is simply wrong. That is, I look forward to reading sources that support this claim. The same user has recently tried to back up their assertions by means of a German source. I do not contest the source - the case is even simpler. While the source is critical in regards to Schwan, by no means, it makes any of the above statements. 
+
+I have reverted the additions and put a note on the administrator's notice board. I think this is justified due to the cited policy. Thanks for your comments. [[User:Tomeasy|&lt;span style=&quot;color:#0000f1;font-family:Papyrus;cursor:help&quot;&gt;'''''T&lt;font color=&quot;#009ef2&quot;&gt;om&lt;font color=&quot;#6bd5f5&quot;&gt;ea&lt;/font&gt;s&lt;/font&gt;y'''''&lt;/span&gt;]]&lt;sub&gt;[[User talk:Tomeasy| T]][[Special:Contributions/Tomeasy| C]]&lt;/sub&gt; 17:09, 20 January 2009 (UTC)
+	</talkpage>
+</article>

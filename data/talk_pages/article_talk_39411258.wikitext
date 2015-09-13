@@ -1,0 +1,9 @@
+<article id="39411258" title=User talk:112.204.193.162>
+	<talkpage id="39411258" title="User talk:112.204.193.162">
+{{Shared IP|host=112.204.193.162.pldt.net|Philippine Long Distance Telephone, Bowling Lane, Cainta, Rizal, Philippines}}
+
+== May 2013 ==
+[[Image:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Areaseven|Areaseven]]. Your recent edit to the page [[:Cars of the Philippines]] appears to have added incorrect information, so I have removed it for now. If you believe the information was correct, please [[Wikipedia:Citing sources|cite a reliable source]] or discuss your change on the article's talk page. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Areaseven|my talk page]]. Thank you. &lt;!-- Template:uw-error1 --&gt; [[User:Areaseven|Areaseven]] ([[User talk:Areaseven|talk]]) 14:29, 17 May 2013 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

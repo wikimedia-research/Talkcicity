@@ -1,0 +1,13 @@
+<article id="16163014" title=Talk:Edward Temperley Gourley>
+	<talkpage id="16163014" title="Talk:Edward Temperley Gourley">
+{{WikiProjectBannerShell|1=
+{{WikiProject Politics of the United Kingdom|class=B|auto=inherit|importance=}}
+{{WikiProject Biography
+|living=no
+|class=B
+|listas=Gourley, Edward Temperley
+}}
+{{WikiProject North East England}}
+}}
+	</talkpage>
+</article>

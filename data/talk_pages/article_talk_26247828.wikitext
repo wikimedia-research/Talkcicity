@@ -1,0 +1,8 @@
+<article id="26247828" title=User talk:Abgoto>
+	<talkpage id="26247828" title="User talk:Abgoto">
+
+
+== February 2010 ==
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Everyone is welcome to contribute to the encyclopedia, but when you add or change content (particularly if you change facts and figures), as you have to the article [[:Food, Inc.]], please cite a [[Wikipedia:Reliable sources|reliable source]] for the content of your edit. This helps maintain our policy of [[Wikipedia:Verifiability|verifiability]]. Take a look at [[Wikipedia:Citing sources]] for information about how to cite sources and the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. Thank you.&lt;!-- Template:uw-unsourced1 --&gt; [[User:Goodvac|&lt;span style=&quot;text-shadow:green 0.3em 0.3em 0.3em;&quot;&gt;&lt;font face=&quot;Papyrus&quot; color=&quot;green&quot;&gt;&lt;i&gt;&lt;b&gt;Goodvac&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;]] ([[User talk:Goodvac|&lt;font color=&quot;Magenta&quot;&gt;talk&lt;/font&gt;]]) 16:19, 18 February 2010 (UTC)
+	</talkpage>
+</article>

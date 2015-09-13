@@ -1,0 +1,5 @@
+<article id="42038064" title=Talk:The Whip (1917 film)>
+	<talkpage id="42038064" title="Talk:The Whip (1917 film)">
+{{WikiProject Film|class=stub|American-task-force=yes|Silent=yes|needs-infobox=yes}}
+	</talkpage>
+</article>

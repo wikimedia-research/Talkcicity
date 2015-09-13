@@ -1,0 +1,190 @@
+<article id="2854784" title=Talk:Human/Archive 17>
+	<talkpage id="2854784" title="Talk:Human/Archive 17">
+{{aan}}
+
+== evolution ==
+
+I think we need a section discussing human evolution, and the creation stories of various prominent religions. [[User:Sam Spade|Sam Spade]] 23:48, 25 September 2005 (UTC)
+
+:I made one. [[User:Sam Spade|Sam Spade]] 00:07, 26 September 2005 (UTC)
+
+:: Well done sam.  Unfortunately, you have a section of [[science]] and followed by a bit of [[mythology|myth]]ology, followed by a bit more science.  Now, whilst respecting your religious point of view, a section on science isn't the place for mythology.  The beliefs section is.  But even then for some reason the page ''starts'' with beliefs when more realistically it ought to start with basic anatomy and physical features and population data. It's bad, and it's POV pushing. [[User:Duncharris|Dunc]]|[[User talk:duncharris|&amp;#9786;]] 17:34, 26 September 2005 (UTC)
+
+::: No, Sam, this should not reflect your religious POVs, or be factually incorrect, such as this gem: &quot;While the general idea of [[natural selection]] may fit into various particular views, the evolutionary concept of [[common descent]] &amp;mdash;that humans are &quot;descended from lesser creatures&quot; &amp;mdash; is a point of great debate&quot;.  That is quite frankly [[patent nonsense]].  There is no controversy over common descent, and particularly not common descent of humans and other apes.  The evidence from genetics and palaeontology and comparative anatomy is overwhelming.  Creationism *might* get a mention in the evolution section that some people disagree with it for religious reasons.
+
+::: Now, having said that I do now think that the structure of the beliefs section and the culture section and the consciousness section need fixing, somehow, but Sam isn't the man to do it. [[User:Duncharris|Dunc]]|[[User talk:duncharris|&amp;#9786;]] 18:39, 26 September 2005 (UTC)
+::::Having watched for a bit, I'm in agreement with Dunc. - [[User:UtherSRG|UtherSRG]] [[User_talk:UtherSRG|(talk)]] 19:04, 26 September 2005 (UTC)
+
+The evolution section can be made separate from the section on creationism if need be. Your abrasive comments are wildly unhelpful however, and I have done you the favor of disregarding them. Now, onto why I reverted. There has been long standing consensus that this article would balance religious and scientific views. [[Human#Human_beliefs_and_conceptions]] was made into the first section so as not to have religion dominate, nor be excluded from, the intro. Review the archives. Some of your thoughts (if not your words) regarding the evolution section might well be correct, and I agree it can use some work and shortening (I for one think it has too much detail regarding anthropology). But the net results of your edits were a rather intensive enforcement of a materialist POV, which not only won't work (see the archives for a history of such discussions), but will also ensure a failed FAC, something some of us have been working on for some time here. [[User:Sam Spade|Sam Spade]] 19:36, 26 September 2005 (UTC)
+
+:-trying to be as npov as possible, why not divided the sections into &quot;Darwinian Evolution,&quot; &quot;Biblical Creationism,&quot; etc and have an intro to the different sections as to these are a few of the current theories of origin? Im sort of new to this whole Wikipedia thing, so I dont know exactly how you all deal with opposing points of view like this--I would have thought that to be neutral, each theory should get at least a summary of its main points(?) [[User:Ego Eime|Ego Eime]] 9/26/05
+
+::Sounds like a good idea. To be even yet more fair, we should mention the creation stories of some of the other major religions as well, not only abrahamic. A mention of their similarities might also be fascinating, such as [[Manu (Hinduism)]] and [[Noah]]. [[User:Sam Spade|Sam Spade]] 20:49, 26 September 2005 (UTC)
+
+== Layout, images, etc ==
+
+It took a considerable amount of effort to get all the pics in high-resolution as requested by the peer review. It also took considerable effort to lay the page out so that all images can coexist nicely in the article, adjusting sizes to befit each image. So I object to the recent changes, deletions and additions of images. If any of you want to make changes to layout and/or images, '''please discuss beforehand''' out of respect for the hard work we have put into responding to the peer review. Thanks. I am reverting all changes. [[User:Jossifresco|&amp;asymp; jossi &amp;asymp;]] 20:20, 26 September 2005 (UTC)
+
+==Strange locations for some information==
+
+I find it strange that in anatomy and physiology there is a large section on tanning and then in the body image section there is a section on nutrition.  Would it be more appropriate if they were switched since they seem strange to see them under their respective sub headings? Likewise, what does sleep have to do with body image?  In this section I would expect to read about eating disorders (not from the starvation dehydration perspective)  Possibly a bit about steroids and body building and plastic surgery.  Or am I missing the point of the body image section?
+
+There seems to be quite a bit of redundancy between the genetics and life cycle sections.  
+
+The evolution section seems bloated compared to the other sections.  Especially since it points to two other main articles.  I find it quite strange that the creationism section is in, first, with evolution and second under the biology section.   Most people would not consider it biology.  Very few, if any practicing biologist consider it to be biology. Wouldn't this be more appropriate under the 'consciousness' heading? Or even the culture heading.
+
+The absense of a religious section is striking.  There is a breif mention of beliefs in the culture section and that is it?  Yet there is a massive section devoted to humanism.
+
+I am willing to make some edits but I don't want to tread of peoples feet.  [[User:Daycd|David D.]] [[User talk:Daycd|(Talk)]] 22:04, 26 September 2005 (UTC)
+
+:Scratch that last comment about religion.  Somehow I overlooked the first section on beliefs. [[User:Daycd|David D.]] [[User talk:Daycd|(Talk)]] 22:18, 26 September 2005 (UTC)
+
+I like the sound of what your proposing, one of the most valid complaints about the article are excess and redundancy, and I favor sorting of stray and misplaced informnation. Anyone else? [[User:Sam Spade|Sam Spade]] 22:29, 26 September 2005 (UTC)
+
+:Sounds good to me. This article could really use some pruning. [[User:Turnstep|Turnstep]] 23:54, 26 September 2005 (UTC)
+
+:Sounds good to me too. Go ahead and show us what you can do...! [[User:Jossifresco|&amp;asymp; jossi &amp;asymp;]] 01:28, 27 September 2005 (UTC)
+
+::How about a general &quot;Body - Mind - Spirit&quot; progression of the overall article, with sections sequenced and transitioned along the lines of those three general themes? [[User:RDF|&lt;nowiki&gt;&lt;/nowiki&gt;]] &amp;mdash; [[User:RDF|RDF]] &lt;sup&gt;[[User_talk:RDF|talk]]&lt;/sup&gt; 01:55, 27 September 2005 (UTC)
+:::Good idea, but I do not think it would be acceptable to some editors ... as such a taxonomy may be considered POV by some... [[User:Jossifresco|&amp;asymp; jossi &amp;asymp;]] 02:50, 27 September 2005 (UTC)
+::::Well then, what are the apparent themes that emerge from the existing sections?  Is there any other mutually acceptable progression they follow to some extent, such as [[Maslow's hierarchy of needs]]? Would such a framework help order the sections, as well as suggest what's ''missing''? [[User:RDF|&lt;nowiki&gt;&lt;/nowiki&gt;]] &amp;mdash; [[User:RDF|RDF]] &lt;sup&gt;[[User_talk:RDF|talk]]&lt;/sup&gt; 03:07, 27 September 2005 (UTC)
+:::::Maslow's framework is interesting but not mainstream, in fact his model is widely challenged by behavioral psychology. I would not think that his framework (even if I personally find it quite appealing) is appropriate as a a framework for this article. [[User:Jossifresco|&amp;asymp; jossi &amp;asymp;]] 14:53, 27 September 2005 (UTC)
+::::::Okay, let's say the objective is to find a widely acceptable and noteworthy (e.g., has a Wikipedia article about it) conceptual framework to organize the sections of this article.  What options are out there? :-) [[User:RDF|&lt;nowiki&gt;&lt;/nowiki&gt;]] &amp;mdash; [[User:RDF|RDF]] &lt;sup&gt;[[User_talk:RDF|talk]]&lt;/sup&gt; 16:19, 27 September 2005 (UTC)
+
+The problem we have been having all along is between people who think materialism should dominate (humans are a chimp who thinks he's special, but isn't ''really''), and everybody else. I don't think we've had too many religious zealots come and insist apon an extremist religious POV, rather the clear consensus has been for balance, w occaisional raids from agro atheists. How that balance works out isn't a problem for me, so long as it is preserved. I for one find my body to be the least essential component of my humanity, and my soul the most important. As some people are fond of saying &quot;animals are people too!&quot; ;) [[User:Sam Spade|Sam Spade]] 16:38, 27 September 2005 (UTC)
+
+==Lets discuss formatting==
+
+How should the sections be formatted? What do '''you''' think? ;) [[User:Sam Spade|Sam Spade]] 16:38, 27 September 2005 (UTC)
+
+Okay, tear this one apart.  Take the five main sections, rename two, and put them in this order:
+
+# Terminology
+# Biology
+# Culture
+# Mind
+# Spirit
+
+[[User:RDF|&lt;nowiki&gt;&lt;/nowiki&gt;]] &amp;mdash; [[User:RDF|RDF]] &lt;sup&gt;[[User_talk:RDF|talk]]&lt;/sup&gt; 20:25, 28 September 2005 (UTC)
+
+What I notice upon looking at the article is the overwhelming predominance of Biology. I don't know if thats ever going to change, but I wish it wasn't so. Anyways, as far as your list, why does spirit come last? I can understand terminology and biology coming 1st, but how about:
+
+# Terminology
+# Biology
+# Spirit
+# Mind
+# Culture
+
+[[User:Sam Spade|Sam Spade]] 11:08, 29 September 2005 (UTC)
+
+:I'll assume you like the number of main sections and titles.  As far as the order goes, I see it as a general progression from the &quot;concrete&quot; to the &quot;subtle.&quot; :-) [[User:RDF|&lt;nowiki&gt;&lt;/nowiki&gt;]] &amp;mdash; [[User:RDF|RDF]] &lt;sup&gt;[[User_talk:RDF|talk]]&lt;/sup&gt; 11:29, 29 September 2005 (UTC)
+:As far as coverage goes, I wouldn't remove anything.  Over time, I support adding more substance to the later sections. [[User:RDF|&lt;nowiki&gt;&lt;/nowiki&gt;]] &amp;mdash; [[User:RDF|RDF]] &lt;sup&gt;[[User_talk:RDF|talk]]&lt;/sup&gt; 11:36, 29 September 2005 (UTC)
+
+I for one would like more summary and less specific data (esp regarding biology! ;), but I think that will be an eternal, and overall losing, battle, on this page. As per your proposed section titles and the number of them, I have no strong feelings, but they seem succinct, which is good. [[User:Sam Spade|Sam Spade]] 12:38, 29 September 2005 (UTC)
+
+::I like the way that RDF has broken up the sections.  With regard to order is does not really bother me.  I do like the logic of starting with the more concrete and progressing to the more subtle, although, my first thought was that it was alphabetical ;).  I also agree that the article is top heavy on biology, especially given the links to other more detailed articles being prominent throughout the article.  My background is biology so I'll be happy to try and prune it when i have time.  i would not freel so confident in the other sections. Again can someone clarify the point of the body image section.  i'm still not sure of the goal/aim for that section [[User:Daycd|David D.]] [[User talk:Daycd|(Talk)]] 15:56, 29 September 2005 (UTC)
+:::Moved pertinent content to the section &quot;Anatomy and physiology&quot;. and the rest under a &quot;Body image&quot; subsection in &quot;Culture&quot;. That would do it. [[User:Jossifresco|&amp;asymp; jossi &amp;asymp;]] 19:23, 29 September 2005 (UTC)
+::::Hi Jossi, that edit did the trick.  it seems much more logical now. [[User:Daycd|David D.]] [[User talk:Daycd|(Talk)]] 20:52, 29 September 2005 (UTC)
+
+:I say go ahead and pick something then go for [[WP:FAC]] and watch what happens.  There's no such thing as &quot;finishing&quot; an article around here anyway. ;-) [[User:RDF|&lt;nowiki&gt;&lt;/nowiki&gt;]] &amp;mdash; [[User:RDF|RDF]] &lt;sup&gt;[[User_talk:RDF|talk]]&lt;/sup&gt; 13:59, 29 September 2005 (UTC)
+
+I made the changes I suggested.  Who's next?! ;-) [[User:RDF|&lt;nowiki&gt;&lt;/nowiki&gt;]] &amp;mdash; [[User:RDF|RDF]] &lt;sup&gt;[[User_talk:RDF|talk]]&lt;/sup&gt; 16:29, 29 September 2005 (UTC)
+:Next is to nominate for FAC. Who would do the honors? [[User:Jossifresco|&amp;asymp; jossi &amp;asymp;]] 19:08, 29 September 2005 (UTC)
+::How about Sam? Didn't he make the original proposal? [[User:RDF|&lt;nowiki&gt;&lt;/nowiki&gt;]] &amp;mdash; [[User:RDF|RDF]] &lt;sup&gt;[[User_talk:RDF|talk]]&lt;/sup&gt; 19:35, 29 September 2005 (UTC)
+
+Before that.... I would propose to move the sub-section &quot;Emotion and sexuality&quot; to &quot;Culture&quot; as I think it fits much better there. (If it was only on reproduction, it would fit in &quot;Body&quot;. But that is not the case. [[User:Jossifresco|&amp;asymp; jossi &amp;asymp;]] 19:21, 29 September 2005 (UTC)
+:That makes sense to me. [[User:RDF|&lt;nowiki&gt;&lt;/nowiki&gt;]] &amp;mdash; [[User:RDF|RDF]] &lt;sup&gt;[[User_talk:RDF|talk]]&lt;/sup&gt; 19:35, 29 September 2005 (UTC)
+
+:I'd also like to see some pruning in the biology section first, if I saw this I might object to it as unbalanced, w that section being so much larger and more comprehensive than the rest. Also, if the content isn't redundant, some of it should be moved as being too specific, like some of the genetic material, hardly any readers are going to be interested in that level of detail, and if they are, it can be just a click away. [[User:Sam Spade|Sam Spade]] 00:07, 30 September 2005 (UTC)
+::Prune away, my friend, prune! [[User:Jossifresco|&amp;asymp; jossi &amp;asymp;]] 21:52, 30 September 2005 (UTC)
+
+== Content I removed ==
+
+Theres nothing necesarilly wrong w any of this, but I think it should find a new home elsewhere, unless its redundant:
+
+Partial genome sequencing resulted in these conclusions: &quot;[C]himps, gorillas, and humans form a [[clade]] of closely related species; orangutans are slightly less close phylogenetically, and gibbons are a more distant branch.&quot; [http://www.primates.com/primate/hominidae.html] &quot;To study the genomic divergences among hominoids [we] sequenced [DNA] in a human, a chimpanzee, a gorilla, and an orangutan. The average sequence divergence was only '''1.24%''' ± 0.07% for the human-chimpanzee pair, '''1.62%''' ± 0.08% for the human-gorilla pair, and 1.63% ± 0.08% for the chimpanzee-gorilla pair. [...] The average sequence divergences between orangutans and humans, chimpanzees, and gorillas were '''3.08%''' ± 0.11%, 3.12% ± 0.11%, and 3.09% ± 0.11%, respectively.&quot; [http://www.journals.uchicago.edu/cgi-bin/resolve?id=doi:10.1086/318206&amp;erFrom=4282301866785473000Guest]
+
+DNA evidence supports an African origin for the maternal and paternal lineages of contemporary humans. An unintuitive complication for this debate is that the evolutionary lineage of an individual may differ from the evolutionary history of each of an individual's genes. An emerging synthesis theory proposes that the genes of contemporary humans are predominantly descendent from a recent African origin, but that interbreeding and assimilation with other hominids may have contributed genes to local populations (Templeton, 2002). Eswaran et al. (2005) speculate that &quot;as much as 80% of the nuclear genome is significantly affected by assimilation from archaic humans (i.e., 80% of loci may have some archaic admixture, not that the human genome is 80% archaic).&quot;
+
+
+During the [[1990s]], variations in human [[mitochondrial DNA]] were recognised as a valuable source for reconstructing the human [[race|&quot;family tree&quot;]] and for tracing early human migrations. As a result, the ancestors of all modern humans are thought to have evolved in Africa over 150,000 years ago; modern humans began to move [[Single-origin hypothesis|out of Africa]] less than 100,000 years ago. Australia was colonised 70,000 years ago; Europe 40,000 years ago with later waves 22,000 and 9,000 years ago, according to Ornello Semino of the [[University of Pavia]] and Peter Underhill of [[Stanford University]] [http://www.duerinck.com/migrate.html]; and the Americas 30,000 years ago, with a second colonisation from across the [[Pacific Ocean]] 15,000 years ago. (See [[Human migration]].)
+
+Since the [[Embryogenesis|human embryo]] normally takes its [[mitochondrial DNA]] from its mother's [[Ovum|egg]] and not from the [[sperm]], variations in human mitochondrial DNA provide a means of identifying those individuals who share a common [[Matrilineality|matrilineal ancestor]]. A mathematical analysis of mitochondrial DNA from thousands of living individuals suggests that the matrilineal lines for the people analysed converges on one ancestor called [[Mitochondrial Eve]] (ME) who lived in Africa about 200,000 years ago. That is, ME is claimed to be the [[most recent common ancestor]] of all humans alive today with respect to matrilineal descent (Boyd and Silk 2003:389&amp;ndash;99). &lt;!-- please enter the full citation in the References section--&gt;
+
+[[User:Sam Spade|Sam Spade]] 23:49, 30 September 2005 (UTC)
+
+== I think the article is now ready ==
+
+And I will nominate it if their arn't objections or challenging edits for a couple of days. [[User:Sam Spade|Sam Spade]] 00:02, 1 October 2005 (UTC)
+
+== Human infobox has to go ==
+
+{{tl|Template:Social Infobox/Human}}
+
+Could it be any uglier and disruptive to the flow of the article?  If the info is all that important, put it in a normal section. [[User:RDF|&lt;nowiki&gt;&lt;/nowiki&gt;]] &amp;mdash; [[User:RDF|RDF]] &lt;sup&gt;[[User_talk:RDF|talk]]&lt;/sup&gt; 01:10, 1 October 2005 (UTC)
+
+:Ahhh, it feels so good when it stop hurting! ;-) [[User:RDF|&lt;nowiki&gt;&lt;/nowiki&gt;]] &amp;mdash; [[User:RDF|RDF]] &lt;sup&gt;[[User_talk:RDF|talk]]&lt;/sup&gt; 03:11, 1 October 2005 (UTC)
+
+So why did you think the infobox was ugly and disruptive? I was pretty happy w it up at the top filling in all that empty white space... [[User:Sam Spade|Sam Spade]] 13:43, 1 October 2005 (UTC)
+:Purely subjective.  Maybe when an info box is that big, it should be more horizontal than vertical.  In effect, the eye is drawn more to the box than the narrative.  Because that one is so long, it seemed to make even more white space too. [[User:RDF|&lt;nowiki&gt;&lt;/nowiki&gt;]] &amp;mdash; [[User:RDF|RDF]] &lt;sup&gt;[[User_talk:RDF|talk]]&lt;/sup&gt; 15:20, 1 October 2005 (UTC)
+
+:'''Head of Planet'''. If the goal is to fill in the white space, add a nice image of a human baby or something. [[Wikipedia:Section#Floating the TOC|Another option]] I had problems with the content of &lt;nowiki&gt;{{&lt;/nowiki&gt;[[tl|Template:Social Infobox/Human]]&lt;nowiki&gt;}}&lt;/nowiki&gt; For example: [[Head of Planet]]? --[[User:JWSchmidt|JWSchmidt]] 14:09, 1 October 2005 (UTC)
+::I agree the article would be better without the box. First, the way it goes down into the terminology section is worse than the previous white space.  Secondly, the stats are interesting but not that important to the article.  It reads more like an info box for the country Earth rather than an info box for humanity.  Thirdly, head of planet is more like a parody and I think detracts from the article.  
+::Why not merge the useful info into each appropriate section?  I think anything important can be a table or merged into the text in the appropriate section rather than all in one table/infobox.  [[User:Daycd|David D.]] [[User talk:Daycd|(Talk)]] 16:27, 1 October 2005 (UTC)
+
+We seem to have different ideas about formatting. How about we all show an example of what we have in mind, and discuss from there, The way the article is (as of my last edit 18:01, 1 October 2005) is how I'd like it to be. Can I assume your edit of 17:26, 1 October 2005 how you'd most prefer things to be, Jossi? And how about everybody else? What baby image? If the &lt;nowiki&gt;{{tl|Template:Social Infobox/Human}}&lt;/nowiki&gt; is to be removedm where will that info go? We need to resolve these matters before a FAC bid, thats for sure. [[User:Sam Spade|Sam Spade]] 16:06, 1 October 2005 (UTC)
+
+:Sam, I do book design and page layout as a profession... and I can say that the way you have the article now, does not work from a layout/design point of view... I would prefer the last version, without the infobox and with the floating TOC at the left. [[User:Jossifresco|&amp;asymp; jossi &amp;asymp;]] 21:48, 1 October 2005 (UTC)
+
+Well obviously, you placed things that way ;). I don't agree (it looks good to me now, and looked bad to me then), but it seems the consensus is against the infobox, for all number of reasons. I can agree to its removal, so long as the information is kept. The floating left TOC on the other hand looked terrible to me, and it least on my moniter shoved the text in so tightly as to be difficult to read. [[User:Sam Spade|Sam Spade]] 01:07, 2 October 2005 (UTC)
+:I just saw the floating toc version.  I agree, that looked pretty bad on my monitor too. But the info box pushing down into the terminology section was worse. [[User:Daycd|David D.]] [[User talk:Daycd|(Talk)]] 02:48, 2 October 2005 (UTC)
+
+::What monitor problems you refer to? I cannot see any problems at all... I am running a 1600 x 1200 screen. Maybe that is why I dont see it. I will downgrade my monitor resolution to 1024 x 768 to see if I can see the problem. [[User:Jossifresco|&amp;asymp; jossi &amp;asymp;]] 06:38, 2 October 2005 (UTC)
+
+:::I checked at 1024 x 678 and still cannot see any problem with the floating TOC at left. Could you please explain what is the problem you are seeing? Thanks. [[User:Jossifresco|&amp;asymp; jossi &amp;asymp;]] 06:40, 2 October 2005 (UTC)
+
+The Social infobox links to three articles, Earth, Society, and Human.  All but the top &quot;Forms of Government&quot; tidbits seem to have obvious sections for the rest of the information.  [[:Category:Forms of government]] is under [[:Category:Government]] which is under[[:Category:Politics]] which is under [[:Category:Culture]] ''and'' [[:Category:Society]]. I propose adding a brief &quot;Government&quot; section under &quot;Culture&quot;  and then spreading the data to the appropriate sections.  The article just looks trashy now. [[User:RDF|&lt;nowiki&gt;&lt;/nowiki&gt;]] &amp;mdash; [[User:RDF|RDF]] &lt;sup&gt;[[User_talk:RDF|talk]]&lt;/sup&gt; 03:30, 2 October 2005 (UTC)
+
+==Genetics==
+[[image:Human male karyotype.gif||thumbnail|300px|A human [[karyotype]] showing 46 chromosomes including XY sex chromosomes.]]
+[[Image:Human karyogram.png|thumbnail|300px|Karyogram of human female; two X chromosomes]] 
+I just made some edits that may not go down well.  Be gentle. 
+I am also wondering about the double helix image.  It looks great but I do not think it is very applicable to the human article.  In my view a [[karotype]] depicting the human chromosomes would be much more appropriate. There are even a couple of pictures available in wiki (see to right). [[User:Daycd|David D.]] [[User talk:Daycd|(Talk)]] 03:57, 2 October 2005 (UTC)
+
+::Unusable for this article. The Peer review requested we find high-resolution images, as this article is too important (and may be printed hardcopy at a certian point) [[User:Jossifresco|&amp;asymp; jossi &amp;asymp;]] 04:09, 2 October 2005 (UTC)
+:::That's a shame about the resolution, i had not checked before posting them.  I still think the DNA should go even if we cannot find a karyotype. [[User:Daycd|David D.]] [[User talk:Daycd|(Talk)]] 04:33, 2 October 2005 (UTC)
+::::OK I took the plunge and removed it.  i hope this is OK.  [[User:Daycd|David D.]] [[User talk:Daycd|(Talk)]] 06:07, 2 October 2005 (UTC)
+
+==Creationism bit deleted, discuss==
+
+I have removed this text from the evolution creation section:
+;There is also the [[intellegent design]] movement, which intends to prove creationism by scientific means.
+
+;While the general idea of [[natural selection]] may fit into various particular views, the evolutionary concept of [[common descent]] &amp;mdash;that humans are &quot;descended from lesser creatures&quot; &amp;mdash; is a point of great debate. Some creationists may also dispute scientific accounts of the [[origin of life]], and of the [[Age of the Earth|geological history of Earth]], [[solar nebula|the formation of the solar system]], [[Big Bang|the origin of the physical universe]], and a few even support such ideas as [[modern geocentrism|geocentrism]]. [[Argument from evolution]] and [[creation (theology)]] discuss this debate in more detail.
+
+My reasoning is several. Firstly, I'm not sure the ID movement is about proving creationism by scientific means.  This is close to a POV. As far as I can tell even the Discovery Institute, one of the original champions of ID do not endorse it anymore. Their approach now is teach the controversy from a perspection of bringing down the so called 'icons of evolution' such as the peppered moths and Haekaels embryo's. 
+
+Secondly, evolution does not propose that ancestors are lesser creatures. In the sentence above i cannot tell if the great debate is about the 'existance of common ancestors' or the 'descended from lesser creatures'. With reagrd to this there is really no deabte at all in the scientific community so where is the great debate? From the perspective of the US there is a debate in the high schools with regard to curriculum but i'm not sure that that debate should be in this article.  certainly not in the biology section.  
+
+Thirdly, the other things mentioned have no bearing on this article, origin of life is not even addressed by the theory of evolution and the others are not even biology, i.e. the formation of the solar system.  This is much too broad for this article and detracts from the good points that are made.
+
+You will note that I have not cut creationism completely. I don't want this to be a revert war.  I think what i have left will get through a FAC.  i think what I have cut will cause problems in FAC which is why I cut them now before it goes forward.  I'd be interested to here what you all think? [[User:Daycd|David D.]] [[User talk:Daycd|(Talk)]] 04:32, 2 October 2005 (UTC)
+
+:I like the way this section reads now. Great NPOVing. Thanks. [[User:Jossifresco|&amp;asymp; jossi &amp;asymp;]] 06:35, 2 October 2005 (UTC)
+
+thats fine, and I also like the genetic info you trimmed. [[User:Sam Spade|Sam Spade]] 10:57, 2 October 2005 (UTC)
+
+== Images - please restore ==
+
+The image of the fetus and the image of the man with the beard are '''low resolution''' images. The peer review requested that we find high-res images, which I did. '''Please restore''' the images of the 11-day baby and the image of the elderly lady, or find alternative ones with at least 1200 px resolution witdth. Thanks. [[User:Jossifresco|&amp;asymp; jossi &amp;asymp;]] 04:08, 2 October 2005 (UTC)
+
+:I restored the images. You are welcome to go and find more suitable ones, and if you do, please make sure that are at least 1,000 pixels wide and that are not copyvios. Also removed the social infobot. (Do we really need it? ) [[User:Jossifresco|&amp;asymp; jossi &amp;asymp;]] 06:33, 2 October 2005 (UTC)
+
+If you can find images equal or better to what is there, I am open to discuss them. I don't agree that the the pensioner or the 11 days baby image are an improvement to the article. [[User:Sam Spade|Sam Spade]] 10:56, 2 October 2005 (UTC)
+
+:I am looking for a better image for the foetus, to replace the baby pic. As for the pensioner, I thought it worked because we can see progression from baby or pre-born, childood and then elderly. If you pefer a photo of a man, pl;ease find one that is high-res. Thanks.[[User:Jossifresco|&amp;asymp; jossi &amp;asymp;]] 15:24, 2 October 2005 (UTC)
+
+I'll be frank. I find the pensioner unattractive, and find the baby image less than &quot;Featured image&quot; material. I kinda liked having a wikipedian in the article, but I guess I can understand hi-res concerns. Ergo, in sum, I am willing to compromise, despite liking my way better. (I'm pretty sure there isn't a hi-res requirement for FAC's). [[User:Sam Spade|Sam Spade]] 17:35, 2 October 2005 (UTC)
+::I have replaced the images. Are these OK with you? [[User:Jossifresco|&amp;asymp; jossi fresco &amp;asymp;]] 23:43, 3 October 2005 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="39944509" title=Talk:Boston attacks>
+	<talkpage id="39944509" title="Talk:Boston attacks">
+{{WPAFC|class=redirect|ts=20130712114248|reviewer=Buffbills7701}}
+	</talkpage>
+</article>

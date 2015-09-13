@@ -1,0 +1,33 @@
+<article id="27739399" title=User talk:IVESCL>
+	<talkpage id="27739399" title="User talk:IVESCL">
+
+'''Welcome!'''
+
+Hello, IVESCL, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for [[Special:Contributions/IVESCL|your contributions]]. I hope you like the place and decide to stay. Unfortunately, one or more of the pages you created, such as [[Victoria Cabello]], may not conform to some of Wikipedia's [[Wikipedia:List of policies|guidelines]] for page creation, and may soon be deleted. 
+{{Quote box
+ | quote  = You may also wish to consider using a Wizard to help you create articles. See the [[Wikipedia:Article wizard|Article Wizard]]. Thank you.
+ | source = 
+ | width  = 20%
+ | align  = right
+}}
+There's a page about creating articles you may want to read called '''[[Wikipedia:Your first article|Your first article]]'''. If you are stuck, and looking for help, please come to the '''[[Wikipedia:New contributors' help page|New contributors' help page]]''', where experienced Wikipedians can answer any queries you have! Or, you can just type '''{{t|helpme}}''' on this page, and someone will show up shortly to answer your questions. Here are a few other good links for newcomers:
+* [[Wikipedia:Your first article|Your first article]]
+* [[Wikipedia:BLP|Biographies of living persons]]
+* [[Wikipedia:How to write a great article|How to write a great article]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Tutorial|Tutorial]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you have any questions, check out [[Wikipedia:Where to ask a question]] or ask me on my talk page. &lt;!-- Template:First article --&gt; Again, welcome!&amp;nbsp;&lt;font color=&quot;blue&quot;&gt;[[User:SlimVirgin|SlimVirgin]]&lt;/font&gt; &lt;small&gt;&lt;sup&gt;&lt;font color=&quot;red&quot;&gt;[[User_talk:SlimVirgin|talk|]]&lt;/font&gt;&lt;font color=&quot;green&quot;&gt;[[Special:Contributions/SlimVirgin|contribs]]&lt;/font&gt;&lt;/sup&gt;&lt;/small&gt; 08:43, 17 June 2010 (UTC)
+==[[Wikipedia:Proposed deletion|Proposed deletion]] of [[Victoria Cabello]]==
+[[Image:Ambox warning yellow.svg|left|48px|]]
+
+The article [[Victoria Cabello]] has been [[Wikipedia:Proposed deletion|proposed for deletion]]&amp;#32; because of the following concern:
+:'''Unsourced; notability therefore unclear'''
+
+While all contributions to Wikipedia are appreciated, content or articles may be [[WP:DEL#REASON|deleted for any of several reasons]].
+
+You may prevent the proposed deletion by removing the &lt;code&gt;{{tl|dated prod}}&lt;/code&gt; notice, but please explain why in your [[Help:edit summary|edit summary]] or on [[Talk:Victoria Cabello|the article's talk page]].
+
+Please consider improving the article to address the issues raised. Removing &lt;code&gt;{{tl|dated prod}}&lt;/code&gt; will stop the [[Wikipedia:Proposed deletion|proposed deletion process]], but other [[Wikipedia:deletion process|deletion process]]es exist.  The [[Wikipedia:Criteria for speedy deletion|speedy deletion process]] can result in deletion without discussion, and [[Wikipedia:Articles for deletion|articles for deletion]] allows discussion to reach [[Wikipedia:Consensus|consensus]] for deletion.&lt;!-- Template:PRODWarning --&gt; &lt;font color=&quot;blue&quot;&gt;[[User:SlimVirgin|SlimVirgin]]&lt;/font&gt; &lt;small&gt;&lt;sup&gt;&lt;font color=&quot;red&quot;&gt;[[User_talk:SlimVirgin|talk|]]&lt;/font&gt;&lt;font color=&quot;green&quot;&gt;[[Special:Contributions/SlimVirgin|contribs]]&lt;/font&gt;&lt;/sup&gt;&lt;/small&gt; 08:43, 17 June 2010 (UTC)
+	</talkpage>
+</article>

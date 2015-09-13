@@ -1,0 +1,12 @@
+<article id="10775860" title=Talk:Mahākāśyapa>
+	<talkpage id="10775860" title="Talk:Mahākāśyapa">
+{{WPBiography
+|living=no
+|class=Start
+|listas=Mahakasyapa
+}}
+{{WikiProject Buddhism|class=Start}}
+
+This is an appalling article. There are dozens of early texts that feature Mahakassapa, as well as an extensive legendary biogrpahy, all of which are ignored in this article, which uses only very late east Asian sources, which have nothing to do with the historical figure.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/121.44.28.32|121.44.28.32]] ([[User talk:121.44.28.32|talk]]) 20:52, 10 January 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

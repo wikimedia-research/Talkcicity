@@ -1,0 +1,25 @@
+<article id="11332070" title=User talk:Holden93>
+	<talkpage id="11332070" title="User talk:Holden93">
+
+==License tagging for Image:Kirk McLean1994.jpg==
+Thanks for uploading [[:Image:Kirk McLean1994.jpg]]. Wikipedia gets thousands of images uploaded every day, and in order to verify that the images can be legally used on Wikipedia, the source and copyright status must be indicated. Images need to have an [[Wikipedia:Image copyright tags|image tag]] applied to the [[Wikipedia:Image description page|image description page]] indicating the copyright status of the image. This uniform and easy-to-understand method of indicating the license status allows potential re-users of the images to know what they are allowed to do with the images.
+
+For more information on using images, see the following pages:
+* [[Wikipedia:Image use policy]]
+* [[Wikipedia:Image copyright tags]]
+
+This is an automated notice by [[User:OrphanBot|OrphanBot]]. If you need help on selecting a tag to use, or in adding the tag to the image description, feel free to post a message at [[Wikipedia:Media copyright questions]]. 03:09, 21 May 2007 (UTC)
+
+== [[Wikipedia:Proposed deletion|Proposed deletion]] of [[Tyson Sexsmith]] ==
+[[Image:Ambox warning yellow.svg|left|link=|48px|]]
+
+The article [[Tyson Sexsmith]] has been [[Wikipedia:Proposed deletion|proposed for deletion]]&amp;#32; because of the following concern:
+:'''The subject of this article does not appear to meet the general notability guideline or the [[WP:NHOCKEY]] guideline for ice hockey players. I am unable to find significant coverage of this person in third party sources.'''
+
+While all contributions to Wikipedia are appreciated, content or articles may be [[WP:DEL#REASON|deleted for any of several reasons]].
+
+You may prevent the proposed deletion by removing the {{Tlc|proposed deletion/dated}} notice, but please explain why in your [[Help:edit summary|edit summary]] or on [[Talk:Tyson Sexsmith|the article's talk page]].
+
+Please consider improving the article to address the issues raised. Removing {{Tlc|proposed deletion/dated}} will stop the [[Wikipedia:Proposed deletion|proposed deletion process]], but other [[Wikipedia:deletion process|deletion process]]es exist. The [[Wikipedia:Criteria for speedy deletion|speedy deletion]] process can result in deletion without discussion, and [[Wikipedia:Articles for deletion|articles for deletion]] allows discussion to reach [[Wikipedia:Consensus|consensus]] for deletion.&lt;!-- Template:Proposed deletion notify --&gt; [[User:Onthegogo|Onthegogo]] ([[User talk:Onthegogo|talk]]) 15:57, 7 March 2011 (UTC)
+	</talkpage>
+</article>

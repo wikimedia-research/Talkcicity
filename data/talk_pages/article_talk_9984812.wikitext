@@ -1,0 +1,7 @@
+<article id="9984812" title=User talk:81.96.118.32>
+	<talkpage id="9984812" title="User talk:81.96.118.32">
+
+
+Your recent edit to [[:Haemophilia in European royalty]] ([http://en.wikipedia.org/w/index.php?title=Haemophilia_in_European_royalty&amp;diff=114202608&amp;oldid=114104264 diff]) was reverted by an '''automated bot''' that attempts to recognize and repair [[Wikipedia:vandalism|vandalism]] to Wikipedia articles. If the bot reverted a legitimate edit, please accept my humble creator's apologies – if you bring it to the attention of the bot's owner, we may be able to improve its behavior. '''[[User:AntiVandalBot/FAQ|Click here]]''' for '''frequently asked questions''' about the bot and this warning. &lt;!-- AntiVandalBot level 1 (one) warning --&gt; // [[User:AntiVandalBot|AntiVandalBot]] 02:06, 11 March 2007 (UTC)
+	</talkpage>
+</article>

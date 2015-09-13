@@ -1,0 +1,6 @@
+<article id="36357832" title=Talk:J.H. Manchester Round Barn>
+	<talkpage id="36357832" title="Talk:J.H. Manchester Round Barn">
+{{WikiProject National Register of Historic Places|class=Stub|importance=Low}}
+{{WikiProject United States|class=Stub|importance=Low|OH=yes|OH-importance=Low}}
+	</talkpage>
+</article>

@@ -1,0 +1,17 @@
+<article id="15845383" title=Talk:Quarry Wood, Stockton-on-Tees>
+	<talkpage id="15845383" title="Talk:Quarry Wood, Stockton-on-Tees">
+{{WPUKgeo|class=Stub|importance=Low}}
+{{WikiProject Protected areas|class=Stub|importance=Low}}
+
+== Article title ==
+
+The article was moved, and I have reverted it back.  Please can it be discussed here before being moved. [[User:Andrew Duffell|Andrew Duffell]] ([[User talk:Andrew Duffell|talk]]) 16:31, 9 August 2010 (UTC)
+
+:Why does it need to be discussed? It is a statutory Local Nature Reserve. The photo on the article page shows it to be &quot;Quarry Wood Local Nature Reserve&quot;. Adding LNR to the title helps to disambiguate it from all the other places in England called Quarry Wood. In fact, a Google Maps search for &quot;Quarry Wood&quot; doesn't even throw up this one. [[User:Jimmy Pitt|&lt;font color=&quot;purple&quot;&gt;Jimmy Pitt&lt;/font&gt;]] [[User talk:Jimmy Pitt|'''&lt;font color=&quot;green&quot;&gt;talk&lt;/font&gt;''']] 17:52, 9 August 2010 (UTC)
+
+: A further point -- there is a page on the Stockton-on-Tees council website entitled [http://www.stockton.gov.uk/citizenservices/environment/parksandopen/parksopenspace/rivertees/quarrywoods/ Quarry Woods Local Nature Reserve].So the name is supported by a reliable source. [[User:Jimmy Pitt|&lt;font color=&quot;purple&quot;&gt;Jimmy Pitt&lt;/font&gt;]] [[User talk:Jimmy Pitt|'''&lt;font color=&quot;green&quot;&gt;talk&lt;/font&gt;''']] 20:15, 9 August 2010 (UTC)
+
+::For the same reason we don't call [[Preston Park, Stockton-on-Tees]] Preston Park, Public Parkland
+::The name of the woods is Quarry Wood, and calling it Quarry Wood Local Nature Reserve is more likely to confuse local people.  If it did need disambiguation in the title because there were other notable woods of the same name, then as in other articles, the location (Stockton on Tees, or Eaglescliffe) would be the correct way to disambiguate it.  It doesn't however. [[User:Andrew Duffell|Andrew Duffell]] ([[User talk:Andrew Duffell|talk]]) 20:21, 9 August 2010 (UTC)
+	</talkpage>
+</article>

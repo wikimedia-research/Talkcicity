@@ -1,0 +1,13 @@
+<article id="11775314" title=User talk:Hoshiz>
+	<talkpage id="11775314" title="User talk:Hoshiz">
+This message is regarding the article [[Victoria Kaye Wheeler]]. Please do not create nonsense articles in Wikipedia; it is considered [[Wikipedia:Vandalism|vandalism]]. If you would like to experiment, use the [[Wikipedia:Sandbox|sandbox]]. If you would like to learn more about contributing to our encyclopedia, take a look at the [[Wikipedia:Welcome, newcomers|welcome page]]. If you'd like to give free rein to your imagination please check out the [[Uncyclopedia]] [http://uncyclopedia.org/wiki/Main_Page here]. Thank you. --[[User:Barneca|barneca]] ([[User_talk:Barneca|talk]]) 22:24, 14 June 2007 (UTC)
+==Image tagging for Image:VICKYSGANGSTAGRAMMA.JPG==
+Thanks for uploading '''[[:Image:VICKYSGANGSTAGRAMMA.JPG]]'''. The image has been identified as not specifying the source and creator of the image, which is required by Wikipedia's policy on images. If you don't indicate the source and creator of the image on the image's description page, it may be deleted some time in the next seven days. If you have uploaded other images, please verify that you have provided source information for them as well.
+
+For more information on using images, see the following pages:
+* [[Wikipedia:Image use policy]]
+* [[Wikipedia:Image copyright tags]]
+
+This is an automated notice by [[User:OrphanBot|OrphanBot]]. For assistance on the image use policy, see [[Wikipedia:Media copyright questions]]. 23:08, 14 June 2007 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,27 @@
+<article id="8266751" title=User talk:Goney3>
+	<talkpage id="8266751" title="User talk:Goney3">
+== '''Welcome!''' &lt;small&gt;(''We can't say that loudly enough!'')&lt;/small&gt; ==
+
+Here are a few links you might find helpful: 
+
+*[[Wikipedia:Be bold in updating pages|'''Be Bold!''']] 
+*[[Wikipedia:Please do not bite the newcomers|Don't let grumpy users scare you off]] 
+*[[Wikipedia:New user log|Meet other new users]] 
+*[[Wikipedia:Avoiding common mistakes|Learn from others]] 
+*[[Wikipedia:Wikiquette|Play nicely with others]] 
+*[[Wikipedia:Contributing to Wikipedia|Contribute, Contribute, Contribute!]] 
+*[[Wikipedia:User page|Tell us about you]] 
+
+You can sign your name on talk pages and votes by typing &amp;#126;&amp;#126;&amp;#126;&amp;#126;; our software automatically converts it to your username and the date.
+
+If you have any questions or problems, no matter what they are, leave me a message on [[User talk:Simonkoldyk|my talk page]]. Or, please come to the '''[[Wikipedia:New contributors' help page|new contributors' help page]]''', where experienced Wikipedians can answer any queries you have! Or, you can just type '''&lt;code&gt;{&amp;#123;helpme}}&lt;/code&gt;''' on your user page, and someone will show up shortly to answer your questions. 
+
+We're so glad you're here! --[[User:Simonkoldyk|Simonkoldyk]] 18:32, 4 December 2006 (UTC)
+
+==Bourke==
+You have shown an interest in the Bourke engine in the past. This engine's page is presently undergoing peer review, it would be appreciated if you would review this page and give any comments or suggestions you may have. [http://en.wikipedia.org/wiki/Wikipedia:Scientific_peer_review/Bourke_engine Bourke review page]. Thank you very much for your time and help.[[User:Sno2|Sno2]] 16:33, 27 May 2007 (UTC)
+
+== Possibly unfree Image:BourkAn.gif ==
+An image that you uploaded or altered, [[:Image:BourkAn.gif]], has been listed at [[Wikipedia:Possibly unfree images]] because its copyright status is disputed. If the image's copyright status cannot be verified, it may be deleted. You may find more information on the [[:Image:BourkAn.gif|image description page]]. You are welcome to add comments to its entry at [[Wikipedia:Possibly unfree images/2008 April 16#Image:BourkAn.gif|the discussion]] if you are interested in it not being deleted. Thank you. [[User:MECU|&lt;font color=&quot;CEBE70&quot;&gt;'''MECU'''&lt;/font&gt;]]≈&lt;small&gt;[[User talk:MECU|talk]]&lt;/small&gt; 13:43, 16 April 2008 (UTC) &lt;!-- Template:Idw-pui --&gt;
+	</talkpage>
+</article>

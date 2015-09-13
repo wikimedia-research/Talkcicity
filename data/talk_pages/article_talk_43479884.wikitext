@@ -1,0 +1,9 @@
+<article id="43479884" title=Talk:Club des Femmes>
+	<talkpage id="43479884" title="Talk:Club des Femmes">
+{{WikiProjectBannerShell|1=
+{{WikiProject Feminism|class=start}}
+{{WikiProject Film|class=start}}
+{{WikiProject LGBT studies|class=start}}
+}}
+	</talkpage>
+</article>

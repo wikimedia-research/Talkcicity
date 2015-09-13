@@ -1,0 +1,10 @@
+<article id="32063517" title=Talk:Rudolf Červený>
+	<talkpage id="32063517" title="Talk:Rudolf Červený">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=yes|class=stub|listas=Cerveny, Rudolf}}
+{{WikiProject Czech Republic|class=stub|importance=Low}}
+{{WikiProject Ice Hockey|class=Stub|bio=yes}}
+| blp=yes
+}}
+	</talkpage>
+</article>

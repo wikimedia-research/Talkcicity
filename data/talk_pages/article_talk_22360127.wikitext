@@ -1,0 +1,7 @@
+<article id="22360127" title=User talk:24.171.223.156>
+	<talkpage id="22360127" title="User talk:24.171.223.156">
+== April 2009 ==
+
+[[Image:Information.svg|25px]]  Your recent edit {{#if:WrestleMania|to the page [[:WrestleMania]]}} appears to have added incorrect information and has been [[Help:Reverting|reverted]] or removed. All information in this encyclopedia must be [[Wikipedia:Verifiability|verifiable]] in a reliable, published source. If you believe the information that you added was correct, please [[Wikipedia:Citing sources|cite the references or sources]] or before making the changes, discuss them on the article's [[Wikipedia:Talk page guidelines|talk page]]. Please use the [[Wikipedia:Sandbox|sandbox]] for any other tests that you may do and take a look at the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]], if you would like to learn more about contributing to our encyclopedia. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-error1 --&gt; '''&lt;span style=&quot;border: 2px Maroon solid;background:#4682B4;font-family: Monotype Corsiva&quot;&gt;[[User:TJ Spyke|&lt;font color=&quot;Maroon&quot;&gt;TJ&lt;/font&gt;]] [[User talk:TJ Spyke|&lt;font color=&quot;Maroon&quot;&gt;Spyke&lt;/font&gt;]]&lt;/span&gt;''' 17:51, 10 April 2009 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="41077174" title=Talk:Oxycheilinus>
+	<talkpage id="41077174" title="Talk:Oxycheilinus">
+{{WikiProject Fishes|class=Stub}}
+	</talkpage>
+</article>

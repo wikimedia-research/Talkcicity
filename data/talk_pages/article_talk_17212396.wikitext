@@ -1,0 +1,6 @@
+<article id="17212396" title=Talk:Hovhannes>
+	<talkpage id="17212396" title="Talk:Hovhannes">
+{{WikiProject Disambiguation}}
+{{WikiProject Armenia|class=disambig}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="16901995" title=Talk:Shikoku Gakuin University>
+	<talkpage id="16901995" title="Talk:Shikoku Gakuin University">
+{{WikiProject Japan|class=Stub|importance=low|edu=y}}
+	</talkpage>
+</article>

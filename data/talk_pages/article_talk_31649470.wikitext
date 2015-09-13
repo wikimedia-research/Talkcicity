@@ -1,0 +1,6 @@
+<article id="31649470" title=Talk:Adoni Arts and science college>
+	<talkpage id="31649470" title="Talk:Adoni Arts and science college">
+{{Talk header}} {{WikiProject India|importance=low |class=stub |andhra=yes |andhra-importance=low |education=yes |education-importance=low }}
+{{WikiProject Education}}
+	</talkpage>
+</article>

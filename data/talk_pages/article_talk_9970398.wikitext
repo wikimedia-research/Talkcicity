@@ -1,0 +1,5 @@
+<article id="9970398" title=Talk:Cephalanthus occidentalis>
+	<talkpage id="9970398" title="Talk:Cephalanthus occidentalis">
+{{WikiProject Plants|class=Start|importance=Low}}
+	</talkpage>
+</article>

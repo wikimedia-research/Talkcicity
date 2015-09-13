@@ -1,0 +1,6 @@
+<article id="40905523" title=Talk:Buckroe Beach Carousel>
+	<talkpage id="40905523" title="Talk:Buckroe Beach Carousel">
+{{WikiProject National Register of Historic Places|class=Stub|importance=Low}}
+{{WikiProject Virginia|class=Stub|importance=Low}}
+	</talkpage>
+</article>

@@ -1,0 +1,21 @@
+<article id="14205191" title=Talk:Tun Mutahir of Malacca>
+	<talkpage id="14205191" title="Talk:Tun Mutahir of Malacca">
+{{WikiProject Biography
+|living=no
+|class=stub
+|listas=Mutahir, Tun
+}}
+
+== Glaring error ==
+
+I've removed this part:
+
+'''This caused uneasiness among [[Malays (ethnic group)|Malays]] (Raja Mendeliar and Laksamana Khoja Hassan), they accused Mutahir of conspiring a plot to overthrow [[Mahmud Shah of Malacca|Sultan Mahmud]].'''
+
+This sentence is very wrong and obviously written by someone who lacks the knowledge. Raja Mudaliar/Mendeliar and Khoja Hassan are definitely not Malays, just by looking at their names alone is enough to know that Mudaliar is a Tamil Hindu, and Khoja is an Indian name also. The Sejarah Melayu mentioned Raja Mudaliar as the Chief of Port has a conflict with a certain Hindu named Nina Sura Dewana who was a Chief of Tamil traders. Nina Sura Dewana then approached a certain Si Kittul (another Hindu) who owed him large amount of gold. Nina wrote off the loan, on the pretext that Si Kittul tarnish Raja Mudaliar's name by concocting a story to clash Raja Mudaliar with the Bendahara Tun Mutahir. Raja Mudaliar heard of the story from Si Kittul, and both conspired to create a rumor that caused the Sultan to become angry and hastily executed Tun Mutahir and his family. It is known that there was already rift between the Sultan and Tun Mutahir, but this rumor was what set off the executions.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/183.171.165.39|183.171.165.39]] ([[User talk:183.171.165.39|talk]]) 17:57, 20 December 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Misconception ==
+
+Bendahara Tun Mutahir belongs to Tamil etnicity and not from gujerat.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Tan Meifen|Tan Meifen]] ([[User talk:Tan Meifen|talk]] • [[Special:Contributions/Tan Meifen|contribs]]) 11:13, 12 April 2013 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

@@ -1,0 +1,14 @@
+<article id="14419865" title=Talk:Leyton Buzzards>
+	<talkpage id="14419865" title="Talk:Leyton Buzzards">
+{{WikiProjectBannerShell|1=
+{{WikiProject Pop music}}
+{{WikiProject Biography|living              = yes
+|class               = Stub
+|musician-work-group = yes
+|listas              = Leyton Buzzards
+}}
+{{WikiProject New Wave music}}
+| blp=yes
+}}
+	</talkpage>
+</article>

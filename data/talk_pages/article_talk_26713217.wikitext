@@ -1,0 +1,5 @@
+<article id="26713217" title=Talk:6th Alberta Legislature>
+	<talkpage id="26713217" title="Talk:6th Alberta Legislature">
+{{WikiProject Canada |class=stub |importance=mid |ab=yes |cangov=yes}}
+	</talkpage>
+</article>

@@ -1,0 +1,21 @@
+<article id="22802111" title=User talk:Dixie Outlet Mall>
+	<talkpage id="22802111" title="User talk:Dixie Outlet Mall">
+== May 2009 ==
+[[Image:Information.svg|25px]] If you have a close connection to some of the people, places or things you have written about {{#if:Dixie Outlet Mall|in the article [[Dixie Outlet Mall]]|on Wikipedia}}, you may have a [[Wikipedia:Conflict of interest|conflict of interest]].  In keeping with Wikipedia's [[Wikipedia:Neutral point of view|neutral point of view]] policy, edits where there is a conflict of interest, or where such a conflict might reasonably be inferred from the tone of the edit and the proximity of the editor to the subject, are strongly discouraged. If you have a conflict of interest, you should '''avoid''' or '''exercise great caution''' when:
+#'''editing''' or '''creating''' articles related to you, your organization, or its competitors, as well as projects and products they are involved with;
+#'''participating''' in [[Wikipedia:Deletion policy#Deletion_processes|deletion discussions]] about articles related to your organization or its competitors; and
+# '''linking''' to the Wikipedia article or website of your organization in other articles (see [[Wikipedia:Spam]]).
+
+Please familiarize yourself with relevant policies and guidelines, especially those pertaining to [[Wikipedia:Neutral point of view|neutral point of view]], [[Wikipedia:Verifiability|verifiability of information]], and [[Wikipedia:Autobiography|autobiographies]].
+
+For information on how to contribute to Wikipedia when you have conflict of interest, please see [[Wikipedia:FAQ/Organizations|our frequently asked questions for organizations]]. For more details about what, exactly, constitutes a conflict of interest, please see [[Wikipedia:Conflict of Interest|our conflict of interest guidelines]].  {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-coi --&gt;  [[User:Wuhwuzdat|Wuhwuzdat]] ([[User talk:Wuhwuzdat|talk]]) 18:21, 14 May 2009 (UTC)
+
+&lt;div class=&quot;user-block&quot;&gt;[[Image:Stop_x_nuvola.svg|left|40px]]Your account has been '''blocked from editing Wikipedia''', because it appears to be mainly intended or used for promotional purposes of a company or group.''' See '''[[Wikipedia:FAQ/Organization]]''' and '''[[Wikipedia:Conflict of interest]]''.
+
+In addition, accounts are for '''individuals only''', not for companies or groups or other collective editing, and your username should reflect this.
+
+'''Wikipedia is not a promotion website'''; this kind of activity is considered [[Wikipedia:Spam|spam]] on Wikipedia, and forbidden by policies, and usernames that appear to be promotional also violate [[Wikipedia:Username policy|our username policy]]. Editing on Wikipedia is not intended to be used to promote anyone, or anything, and its use for that purpose will result in '''blocking''' of the account involved. 
+
+If you feel that there has been a mistake, please  [[Wikipedia:Appealing a block|appeal this block]] by adding the text &lt;!-- Copy the text as it appears on your page, not as it appears in this edit area. Do not include the &quot;tlx&quot; argument. --&gt;{{tlx|unblock|Your reason here}} {{#switch:{{NAMESPACE}}|User talk=below|on [[Special:MyTalk|your user talk page]]}} or contacting the administrator who has blocked you. Your reason should include a clear response to this issue ''and'' a new username you wish to adopt that does not violate our [[Wikipedia:Username policy|username policy]].  Please check that your new username has not already been taken [[Special:ListUsers|here]]. {{#if:|[[User:Orangemike|&lt;font color=&quot;darkorange&quot;&gt;Orange Mike&lt;/font&gt;]]  &amp;#x007C;  [[User talk:Orangemike|&lt;font color=&quot;orange&quot;&gt;Talk&lt;/font&gt;]] 21:04, 14 May 2009 (UTC)}}&lt;/div&gt;[[Category:Wikipedians who are indefinitely blocked for promotional user names||{{PAGENAME}}]]&lt;!-- Template:Uw-spamublock --&gt;--[[User:Orangemike|&lt;font color=&quot;darkorange&quot;&gt;Orange Mike&lt;/font&gt;]]  &amp;#x007C;  [[User talk:Orangemike|&lt;font color=&quot;orange&quot;&gt;Talk&lt;/font&gt;]] 21:04, 14 May 2009 (UTC)
+	</talkpage>
+</article>

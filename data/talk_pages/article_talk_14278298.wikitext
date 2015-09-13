@@ -1,0 +1,9 @@
+<article id="14278298" title=User talk:Pall Roobens Ronaldmc>
+	<talkpage id="14278298" title="User talk:Pall Roobens Ronaldmc">
+
+== November 2007 ==
+{{{icon|[[Image:Nuvola apps important.svg|25px]] }}} Your recent edit to [[:Paul Reubens]] ([http://en.wikipedia.org/w/index.php?title=Paul_Reubens&amp;diff=prev&amp;oldid=171959347 diff]) was reverted by an '''automated bot'''. The edit was identified as adding either test edits, [[WP:VAND|vandalism]], or [[WP:SPAM|link spam]] to the page or having an inappropriate [[WP:ES|edit summary]]. If you want to experiment, please use the preview button while editing or consider using the [[Wikipedia:Sandbox|sandbox]]. If this revert was in error, please contact the bot operator. If you made an edit that removed a large amount of content, try doing smaller edits instead. Thanks!&lt;!-- Template:uw-vandalism1 --&gt; // -- [[User:VoABot II|VoABot II]] ([[User talk:VoABot II|talk]]) 21:06, 16 November 2007 (UTC)
+
+{{{icon|[[Image:Nuvola apps important.svg|25px]] }}}Please stop. If you continue to [[Wikipedia:Vandalism|vandalize]] Wikipedia{{{{{subst|}}}#if:Paul Reubens|, as you did to [[:Paul Reubens]]}}, you ''will'' be [[Wikipedia:Blocking policy|blocked]] from editing. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|}}&lt;!-- Template:uw-vandalism3 --&gt; -- [[User:Wildthing61476|Wildthing61476]] ([[User talk:Wildthing61476|talk]]) 21:06, 16 November 2007 (UTC)
+	</talkpage>
+</article>

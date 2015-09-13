@@ -1,0 +1,18 @@
+<article id="12130871" title=User talk:דוד נ. דוד>
+	<talkpage id="12130871" title="User talk:דוד נ. דוד">
+==Commercial use of [[:Image:OldBuchachPanorama.jpg]]==
+[[Image:Information_icon.svg|left]]Hello, this is a message from [[User:Android Mouse Bot 2|an automated bot]]. A tag has been placed on [[:Image:OldBuchachPanorama.jpg]], by {{#ifeq:{{{nom}}}|1|[[User:{{{nominator}}}|{{{nominator}}}]]&amp;nbsp;([[User talk:{{{nominator}}}|talk]]&amp;nbsp;'''·''' [[Special:Contributions/{{{nominator}}}|contribs]]),}} another Wikipedia user, requesting that it be [[Wikipedia:Speedy deletions|speedily deleted]] from Wikipedia. The tag claims that it should be speedily deleted because [[:Image:OldBuchachPanorama.jpg]] has a copyright license type implying some type of restricted use, such as '''''for non-commercial use only''''', or '''''for educational use only''''' or  '''''for use on Wikipedia by permission''''', which was either uploaded on or after [[2005-05-19]] or is not used in any articles ([[WP:CSD#I3|CSD I3]]). While it might seem reasonable to assume that such files can be freely used on Wikipedia, this is in fact '''not''' the case[http://mail.wikimedia.org/pipermail/wikien-l/2005-May/023760.html][http://lists.wikimedia.org/pipermail/foundation-l/2007-February/027547.html]. Please '''do not upload any more files with these restrictions on them''', because content on Wikipedia needs to be compatible with the [[GNU Free Documentation License]], which allows anyone to use it for any purpose, commercial or non-commercial. See our [[Wikipedia:Non-free content|non-free content guidelines]] for more more information.
+
+'''If you ''created'' this media file''' and want to use it on Wikipedia, you may re-upload it (or amend the image description if it has not yet been deleted) and use the license {{tl|GFDL-self}} to license it under the [[GFDL]], or {{tl|cc-by-sa-2.5}} to license it under the [[Creative Commons]] Attribution-ShareAlike license, or use {{tl|PD-self}} to release it into the public domain.
+
+'''If you ''did not create'' this media file''' but want to use it on Wikipedia, there are two ways to proceed.  First, you may choose one of the fair use tags from [[Wikipedia:Non-free content#Tagging fair use images|this list]] if you believe one of those [[fair use]] rationales applies to this file.  Second, you may want to contact the copyright holder and [[Wikipedia:Example requests for permission|request that they make the media available under a '''free''' license]].
+
+If the article has already been deleted, see the advice and instructions at [[WP:WMD]]. '''This bot is only informing you of the nomination for speedy deletion, it did not nominate [[:Image:OldBuchachPanorama.jpg]] itself'''. Feel free to leave a message [[User talk:Android Mouse|on the bot operator's talk page]] if you have any questions about this or any problems with this bot. If you have any questions about what to do next or why your image was nominated for speedy deletion please ask at [[Wikipedia:Media copyright questions]]. Thanks. --[[User:Android Mouse Bot 2|Android Mouse Bot 2]] 11:24, 7 July 2007 (UTC)
+
+:Thank you dear bot, I fixed the problem.[[User:David N. David|David N. David]] 11:35, 7 July 2007 (UTC)
+
+== Name ==
+
+Should your name not be: David vs. David? Neenche out of the account.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/128.139.226.37|128.139.226.37]] ([[User talk:128.139.226.37|talk]]) 09:38, 11 November 2007 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

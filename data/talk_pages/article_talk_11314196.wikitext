@@ -1,0 +1,11 @@
+<article id="11314196" title=Talk:Farrell Agencies Arena>
+	<talkpage id="11314196" title="Talk:Farrell Agencies Arena">
+{{WikiProjectBannerShell|1=
+{{WikiProject Canada|sk=yes|class=stub|importance=low}}
+{{ice hockey|class=Stub}}
+{{WPVENUE|class=stub|sports=yes}}
+}}
+
+[[User:SriMesh|SriMesh]] | [[User talk:SriMesh|&lt;small&gt;talk&lt;/small&gt;]] 00:38, 20 May 2007 (UTC)
+	</talkpage>
+</article>

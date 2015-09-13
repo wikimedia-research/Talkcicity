@@ -1,0 +1,299 @@
+<article id="35322791" title=Talk:Planck constant/Archive 3>
+	<talkpage id="35322791" title="Talk:Planck constant/Archive 3">
+{{talkarchivenav}}
+
+== Verging on an edit war ==
+{{hidden|header=IP was blocked, so those discussions are hidden here. Click to see them.|headerstyle=background:lightblue|2=
+An unregistered individual has repeatedly made major changes to this article, certifying only a single source by a writer with no true name and no known qualifications. Probably an administrator needs to give this individual some information on the rules.[[User:Patrick0Moran|P0M]] ([[User talk:Patrick0Moran|talk]]) 04:06, 14 October 2011 (UTC)
+
+:The &quot;knol&quot; that he is referencing is complete nonsense, confusing a different variable &quot;h&quot; with Planck's constant, that was just published within the last hour.  I expect he is its author.  He has also put the same in [[Mass–energy equivalence]], but I've already reverted three times.  [[User:Dicklyon|Dicklyon]] ([[User talk:Dicklyon|talk]]) 04:13, 14 October 2011 (UTC)
+::You are wrong, [[User:Dicklyon|Dicklyon]]. Here is the Hayward quotation:
+&lt;blockquote&gt;
+Suppose a particle to be in motion under the action of a force, which tends to or from a fixed centre. Since the force has no moment about the centre, '''the angular momentum of the particle, with respect to the centre of force, remains constant in intensity''' and direction; and hence the path of the particle lies in a fixed plane, and its areal velocity about the centre of force is constant. Three '''constants''' will be required to define the intensity and direction of the angular momentum, corresponding to the three '''constants''' entering into three first integrals of the equations of motion as usually obtained; we may naturally assume them as follows:
+*''h'' the intensity of the angular momentum with respect to the centre; or, the areal momentum about the centre in the plane of the orbit.
+*''h''&lt;sub&gt;1&lt;/sub&gt; the angular momentum about the normal to a fixed plane of reference; or, the reduced areal momentum in that plane.
+*Ω the longitude of the node of the plane of the orbit; or, 90° + the longitude of the meridian through the direction of the angular momentum ''h''.
+:—Hayward, R. B. ♦ [http://books.google.com/books?id=HsQ_AQAAIAAJ&amp;pg=PA24&amp;dq=%22h+the+intensity+of+the+angular+momentum%22&amp;hl=en&amp;ei=2ublTf-CIdHEswbMrvyDCA&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1 Direct  Demonstration  of Jacobi's Canonical Formulae for the Variation of Elements in a Disturbed Orbit] ''The Quarterly Journal of Pure and Applied Mathematics'', volume 3, p. 24; London, John W. Parker &amp; Son, 1860, p.&amp;nbsp;24
+&lt;/blockquote&gt;
+::[[Special:Contributions/91.122.1.39|91.122.1.39]] ([[User talk:91.122.1.39|talk]]) 04:47, 14 October 2011 (UTC)
+
+:::Nothing wrong there, but it's unrelated to Planck's constant.  [[User:Dicklyon|Dicklyon]] ([[User talk:Dicklyon|talk]]) 04:59, 14 October 2011 (UTC)
+::::In Wiener's quotation '''about the Planck constant''', the talk is about the &quot;areal momentum, defined as the product of mass and areal velocity as that latter term is used in '''astronomy'''&quot;. [[Special:Contributions/91.122.1.39|91.122.1.39]] ([[User talk:91.122.1.39|talk]]) 05:05, 14 October 2011 (UTC)
+
+:And now he has put it back in [[Planck constant]] again, and Patrick did an edit after without reverting for some reason...  [[User:Dicklyon|Dicklyon]] ([[User talk:Dicklyon|talk]]) 04:41, 14 October 2011 (UTC)
+::I did revert, and it looks like 91... got in right afterwards.[[User:Patrick0Moran|P0M]] ([[User talk:Patrick0Moran|talk]]) 05:46, 14 October 2011 (UTC)
+::Dicklyon's right. The ''knol'' references is complete nonsense (not to mention, utterly fails [[WP:RS]]). &lt;span style=&quot;font-variant:small-caps; whitespace:nowrap;&quot;&gt;[[User:Headbomb|Headbomb]] {[[User talk:Headbomb|talk]] / [[Special:Contributions/Headbomb|contribs]] / [[WP:PHYS|physics]] / [[WP:WBOOKS|books]]}&lt;/span&gt; 04:50, 14 October 2011 (UTC)
+:::You are wrong, [[User:Headbomb|Headbomb]]. The cited Google Knol source contains extended quotations from books by trustworthy authors (Wiener and Hayward), with direct Google Books links. [[Special:Contributions/91.122.1.39|91.122.1.39]] ([[User talk:91.122.1.39|talk]]) 04:55, 14 October 2011 (UTC)
+::::The quotations are OK; their interpretation is what is nonsense.  [[User:Dicklyon|Dicklyon]] ([[User talk:Dicklyon|talk]]) 04:57, 14 October 2011 (UTC)
+:::::In Wiener's quotation, the talk is about the &quot;areal momentum, defined as the product of mass and areal velocity as that latter term is used in astronomy&quot;. What is wrong with the interpretation, then? [[Special:Contributions/91.122.1.39|91.122.1.39]] ([[User talk:91.122.1.39|talk]]) 05:00, 14 October 2011 (UTC)
+::::::You might want to spell out your reasoning, starting with what connection there can possibly be between the way solar system objects behave in orbit and the way that each photon carries an amount of energy that is directly connected to its frequency.[[User:Patrick0Moran|P0M]] ([[User talk:Patrick0Moran|talk]]) 05:46, 14 October 2011 (UTC)
+:::::::The &quot;connection between the way solar system objects behave in orbit and the way that each photon carries an amount of energy&quot; follows from [[mass-energy equivalence]]:
+::::::::&quot;The Planck constant (denoted as h), also called Planck's constant, reflects the constancy of areal momentum (defined as the product of mass and areal velocity) in electromagnetism. The constant had been known in celestial mechanics long before 1899, when Max Planck applied it to electromagnetic phenomena ('''by assuming mass-energy equivalence''') and thus introduced quantum mechanics.&quot; http://knol.google.com/k/eschatos/planck-constant/1zm6ikqu62pfl/12#
+::::::: [[Special:Contributions/89.110.23.46|89.110.23.46]] ([[User talk:89.110.23.46|talk]]) 06:11, 14 October 2011 (UTC)
+:::::The [[knol]] is [http://knol.google.com/k/eschatos/planck-constant/1zm6ikqu62pfl/12# here].  Weiner wrote &quot;This image will now help in obtaining a new defining model for Planck's universal constant of action ''h'', which is so closely related to the Boltzmann–Gibbs entropy concept, and hence to the logical structure of information and communication theory. Action is energy × time which is areal momentum, ie ms&lt;sup&gt;2&lt;/sup&gt;/t.&quot;  He does not say that every expression with those units is Planck's constant.  [[User:Dicklyon|Dicklyon]] ([[User talk:Dicklyon|talk]]) 06:06, 14 October 2011 (UTC)
+:::::::Both Wiener and Hayward speak about the &quot;'''constant''' of areal momentum&quot;. If you recall the mass-energy equivalence, you will (hopefully) understand that Wiener and Hayward are talking about the same constant. [[Special:Contributions/89.110.23.46|89.110.23.46]] ([[User talk:89.110.23.46|talk]]) 06:15, 14 October 2011 (UTC)
+::::::::Both speak of orbital parameters unrelatated to Planck's constant.  Weiner uses that to set up an analogy for thinking about Planck's constant, which is many orders of magnitudes smaller than the ''h'' values that Hayward was speaking of.  It's a good thing we both protected the articles and blocked your other IP.  [[User:Dicklyon|Dicklyon]] ([[User talk:Dicklyon|talk]]) 06:18, 14 October 2011 (UTC)
+:::::::::Wiener's formula is '''dimensional'''. Read footnote 1 in the knol: &quot;where ''m'', ''s'', and ''t'' are the three fundamental physical dimensions of mass, length and time&quot;. So, the units in which the constant of areal momentum can be expressed are totally irrelevant here (it can be expressed in many different units, while staying dimensionally the same, so it is possible to convert the astronomical ''h'' into the electromagnetic ''h'' and vice versa). [[Special:Contributions/89.110.23.46|89.110.23.46]] ([[User talk:89.110.23.46|talk]]) 06:38 (UTC), 14 October 2011 
+
+::::::I asked for a connection between planets in orbit (and their momentums) and photons carrying energy related to their frequency. You did not give me a responsive reply. Instead, you said that it &quot;follows from mass-energy equivalance.&quot; How does it follow? The masses of planets could be expressed as the amount of energy if those masses were totally converted to energy, or the energies of photons could be expressed as the amount of mass they would have if they were converted. Neither of these calculations would have anything to do with the frequencies of the photons.[[User:Patrick0Moran|P0M]] ([[User talk:Patrick0Moran|talk]]) 07:24, 14 October 2011 (UTC)
+:::::::The ''h'' of quantum mechanics (expressed through the unit of energy) is '''dimensionally''' identical to the ''h'' of celestial mechanics (expressed through the unit of mass). When a particle shrinks in size, it becomes less &quot;celestial-mechanical&quot; and more &quot;quantum-mechanical&quot; (in other words, the particle's mass-energy becomes less &quot;mass-like&quot; and more &quot;energy-like&quot;). Just imagine that the mass-energies of the sun and of a planet orbiting the sun gradually shrink to an atomic scale. It is easy to see that ''h'' will remain constant throughout the whole shrinkage process, but at a certain point, the wave-like properties will becomes so high that you will need to use other units. The fundamental physical '''dimensionality''' of the formula of areal momentum's constancy will stay the same (read footnote 1 in the [http://knol.google.com/k/eschatos/planck-constant/1zm6ikqu62pfl/12# knol]). [[Special:Contributions/89.110.23.46|89.110.23.46]] ([[User talk:89.110.23.46|talk]]) 08:33, 14 October 2011 (UTC)
+
+::::::::What you have written is only an '''assertion''' that channels Eschatos. I think you will not convince anyone who has a degree in physics to abandon what has been worked out, tested, and re-tested, by generations of well trained and highly responsible scientists just by quoting the assertions of somebody who disagrees with them.[[User:Patrick0Moran|P0M]] ([[User talk:Patrick0Moran|talk]]) 18:15, 14 October 2011 (UTC)
+
+&lt;b&gt;Now that my opponents have understood that they have lost the argument, they have just vanished into thin air. It has turned out that none of them is man enough to accept his own wrongness, to unblock the article, and to restore [http://en.wikipedia.org/w/index.php?title=Planck_constant&amp;diff=455485161&amp;oldid=455485056 my edit]. What is the point in such discussions, then? Are they just ''pro forma''?&lt;/b&gt; [[Special:Contributions/89.110.23.46|89.110.23.46]] ([[User talk:89.110.23.46|talk]]) 15:26, 14 October 2011 (UTC)
+
+The article agrees that the units and dimensionality are the same &quot;The Planck constant has dimensions of physical action; these are the same as those of angular momentum,....&quot;.  That does not mean that the celestial work in any way eludes to Planck's constant.  Your sources state that &quot;h is a function of r and v&quot;.  Not a constant, but a function.[[User:AManWithNoPlan|AManWithNoPlan]] ([[User talk:AManWithNoPlan|talk]]) 15:45, 14 October 2011 (UTC)
+
+:Anon89, if you, 
+::{{checkip|89.110.23.46}},
+:are the same person as the currently blocked
+::{{checkip|91.122.1.39}},
+:then please realise that you are ''not allowed'' to edit while your block is active. See [[wp:block evasion]]. You can contest your block on your talk page at [[User talk:91.122.1.39]]. [[User:DVdm|DVdm]] ([[User talk:DVdm|talk]]) 15:35, 14 October 2011 (UTC)
+
+Note that [[Orbital_eccentricity]] clearly includes the h that this person is referring to.  It links to [[Specific_relative_angular_momentum]].
+
+Another sock: {{checkip|91.122.86.108}}
+
+Compare with
+:{{checkip|91.122.93.63}}
+:{{checkuser|Antichristos}}
+[[User:DVdm|DVdm]] ([[User talk:DVdm|talk]]) 17:26, 14 October 2011 (UTC)
+
+::Wow, and I thought he was just a clueless newbie.  Turns out he's been around long enough to have no excuse to be so clueless about what doesn't work at WP.  [[User:Dicklyon|Dicklyon]] ([[User talk:Dicklyon|talk]]) 17:41, 14 October 2011 (UTC)
+}}
+
+Rewrote the first paragraph concerning the Hayward claims above before checking out the talk page.  Guess that axe hadn't been ground quite enough yet. [[User:Johnny Assay|Johnny Assay]] ([[User talk:Johnny Assay|talk]]) 19:56, 8 March 2012 (UTC)
+
+:Just to be clear on the issue here:  the Hayward article talks only about the angular momentum of a specific object in central-force motion;  this quantity is constant throughout the particular motion of this object, but is not a constant of nature like the speed of light or Newton's gravitational constant and so cannot be equivalent to Planck's constant.  The fact that the same symbol &lt;i&gt;h&lt;/i&gt; is used is a coincidence.  [[User:Johnny Assay|Johnny Assay]] ([[User talk:Johnny Assay|talk]]) 01:27, 9 March 2012 (UTC)
+::In celestial mechanics, ''h'' is the '''specific''' areal momentum. In this case, the word &quot;specific&quot; means &quot;per unit mass&quot;—see [[Classical_central-force_problem#Specific_angular_momentum]]. The constancy of [[areal velocity]] has been known since Kepler. Being the product of a constant unit mass and a constant areal velocity, the '''specific''' areal momentum is a truly universal constant of nature. [[Special:Contributions/91.122.6.61|91.122.6.61]] ([[User talk:91.122.6.61|talk]]) 10:36, 9 March 2012 (UTC)
+:::The edits here have a facade of knowledgeability, but it is so divorced from what anyone with even the slightest knowledge of physics would know that I am going to be bold and treat this as trolling.  It has wasted the time of enough productive editors already.  I have consequently blocked [[user:Io865we]] and all their sockpuppets, protected the articles ([[Specific relative angular momentum]] is also involved), and reverted both to the last good versions.  By the way [[Specific relative angular momentum#Elliptical orbit]] shows quite clearly that ''h'' is ''not'' a constant, even within a given system, let alone a universal constant. '''[[User:Spinningspark|&lt;font style=&quot;background:#fafad2;color:#C08000&quot;&gt;Spinning&lt;/font&gt;]][[User talk:Spinningspark|&lt;font style=&quot;color:#4840a0&quot;&gt;Spark'''&lt;/font&gt;]]''' 13:45, 9 March 2012 (UTC)
+::::[[Specific relative angular momentum#Elliptical orbit]] says: &quot;In an [[elliptical orbit]], the specific relative angular momentum is twice the area per unit time swept out by a chord from the primary to the secondary: this area is referred to by [[Kepler%27s_laws_of_planetary_motion#Second_law|Kepler's second law of planetary motion]]&quot;, which is the law of constant areal velocity (&quot;A line joining a planet and the Sun sweeps out equal areas during equal intervals of time&quot;). Since both the areal velocity and the unit mass are constant, their product—''h''—is constant too. [[Special:Contributions/89.110.2.77|89.110.2.77]] ([[User talk:89.110.2.77|talk]]) 06:09, 10 March 2012 (UTC)
+:::::Assertions there were cloned from assertions here. That article needs attention from an administrator. [[User:Patrick0Moran|P0M]] ([[User talk:Patrick0Moran|talk]]) 06:21, 10 March 2012 (UTC)
+:::::: &quot;Assertions there&quot; first appeared four years ago, in this version: http://en.wikipedia.org/w/index.php?title=Specific_relative_angular_momentum&amp;direction=next&amp;oldid=182736276 That article needs attention not from a power-tripping ignorant administrator, but from a physicist. [[Special:Contributions/89.110.2.77|89.110.2.77]] ([[User talk:89.110.2.77|talk]]) 06:38, 10 March 2012 (UTC)
+::::::: Actually, the parts that agreed with parts in dispute in this argument date from 8 March of this year. Same lo865we authorship, same content, same date, no? [[User:Patrick0Moran|P0M]] ([[User talk:Patrick0Moran|talk]]) 08:44, 10 March 2012 (UTC)
+::::::::Blocked editors may not use other IPs to circumvent a block (other than to appeal the block on the account's talk page).  Consequently, the latest post has been reverted and the whole IP range is now temporarily blocked. '''[[User:Spinningspark|&lt;font style=&quot;background:#fafad2;color:#C08000&quot;&gt;Spinning&lt;/font&gt;]][[User talk:Spinningspark|&lt;font style=&quot;color:#4840a0&quot;&gt;Spark'''&lt;/font&gt;]]''' 10:20, 10 March 2012 (UTC)
+
+Thanks.[[User:Patrick0Moran|P0M]] ([[User talk:Patrick0Moran|talk]]) 13:33, 10 March 2012 (UTC)
+
+== Translation of plaque ==
+
+Although a word-for-word translation of &quot;In diesem hause lehrte Max Planck...&quot; is &quot;In this house taught Max Planck&quot;, this is not proper English, or at least it is never expressed this way. A proper translation is &quot;Max Planck taught in this house&quot;. German word order is not the same as English word order. [[User:PAR|PAR]] ([[User talk:PAR|talk]]) 04:01, 25 January 2011 (UTC)
+
+:&quot;In this house taught Max Planck&quot; is perfectly proper English.  The prepositional phrase – intransitive verb – subject structure is the same structure used in &quot;Into the valley of Death rode the six hundred&quot; in [[The Charge of the Light Brigade (poem)]], for example.  However, that word order sounds archaic and stilted to modern ears, so I do prefer your looser, more modern, more informal translation to the original word-for-word translation.  [[User:Red Act|Red Act]] ([[User talk:Red Act|talk]]) 19:41, 25 January 2011 (UTC)
+
+::I think you are right on both counts, but I object to the word &quot;informal&quot;. Even a &quot;formal&quot; translation should convey a sense of the original. The translation is gramatically proper, but it adds, like you say, an archaic or poetic tone to the translation which is absent in the original German. No English speaking person would speak this way if they were trying to convey the nuanced meaning of the original. In that sense it is a poor translation. [[User:PAR|PAR]] ([[User talk:PAR|talk]]) 22:49, 25 January 2011 (UTC)
+:::Right.  The only surviving [[Jedi master]] [[Yoda]] never did get the hang of colloquial English, and became the cultural icon of [http://uncyclopedia.wikia.com/wiki/Speaking_backwards speaking backwards].  --[[User:Vaughan Pratt|Vaughan Pratt]] ([[User talk:Vaughan Pratt|talk]])
+
+::::&quot;In this house taught...&quot; is the proper translation, and is perfectly fine sentence in English. Concerns of &quot;archaïcity&quot; of &quot;stiltedness&quot; are rather irrelevant. If &quot;Max Planck taught in this house&quot; was meant, &quot;Max Planck lehrte in diesem Haus...&quot; would be written instead.  &lt;span style=&quot;font-variant:small-caps; whitespace:nowrap;&quot;&gt;[[User:Headbomb|Headbomb]] {[[User talk:Headbomb|talk]] / [[Special:Contributions/Headbomb|contribs]] / [[WP:PHYS|physics]] / [[WP:WBOOKS|books]]}&lt;/span&gt; 10:35, 22 October 2011 (UTC)
+
+:::::What we want is a translation that conveys as closely as possible, a sense of the original, rather than a dorky word for word translation. According to [[Talk:German_language#Help with translation]], the German phrase is in &quot;in perfectly straightforward contemporary German&quot;. The English translation should be also. &quot;Max Planck, discoverer of the elementary quantum of action ''h'', taught in this house from 1889 to 1928.&quot; is straightforward contemporary English, and is therefore preferred. [[User:PAR|PAR]] ([[User talk:PAR|talk]]) 17:45, 27 October 2011 (UTC)
+
+::::::I would say &quot;house&quot; is wrong in this context. &quot;Haus&quot; in German ''can'' mean a residential dwelling, but it can - quite normally - also have other meanings that it doesn't commonly have in English, such as &quot;institution&quot;, &quot;firm&quot; or &quot;building&quot; (including a commercial building or an appartment block); so to avoid ''mis''translation one can either use a more inclusive phrase such as &quot;here&quot; (&quot;taught here&quot; would probably be more normal for a plaque, anyway) or the translator finds out what type of &quot;Haus&quot; is actually meant, and uses the appropriate word. If it is at the university, it is very unlikely that it means a &quot;house&quot; (implying a residential dwelling for one or two households). It might mean &quot;building&quot;, but it might mean &quot;institute&quot; (in which case &quot;building&quot; might be wrong, if the institute comprises several buildings). So I would go for &quot;here&quot;, which has roughly the same ambiguity as the German. Adverbial phrases of location are very commonly placed at the beginning of German sentences. The translation should use normal English subject-verb-object order. --[[User:Boson|Boson]] ([[User talk:Boson|talk]]) 22:43, 27 October 2011 (UTC)
+
+:::::::What about the word &quot;hall&quot;, a common English name for a university building?. An editor on [[Talk:German_language#Help with translation]] recommended against it, however. &quot;here&quot; seems too loose. [[User:PAR|PAR]] ([[User talk:PAR|talk]]) 02:39, 28 October 2011 (UTC)
+::::::::Without knowing more about the exact position of the plaque, I think &quot;here&quot; is the only description that is almost certainly true.  I have not seen the plaque; so I do not know it's exact location, but it is described somewhere as being in the front courtyard of the university, ''presumably'' affixed to the main building at Unter den Linden, 6 (52°31'03.52&quot;N, 13°31'37.44&quot;E). This is an enormous building with several wings that I definitely would not describe as a hall (or a house). It probably contains the main ''Aula''. I would prefer &quot;building&quot;, which is probably true, since I assume he would have taught in the main building at some time. I think most Germans would understand ''Haus'' to mean building in this case, but - if challenged - I think many would say that ''Haus'' might just refer to the university (though that interpretation would be unlikely). [http://www.hu-berlin.de/ueberblick/geschichte/bau_html This] has a picture of the building and a list of the buildings belonging to the university. --[[User:Boson|Boson]] ([[User talk:Boson|talk]]) 20:04, 28 October 2011 (UTC)
+
+:::::::::[http://maps.google.com/maps?q=berlin+germany+planck+plaque&amp;hl=en&amp;ie=UTF8&amp;view=map&amp;cid=12242034418720581317&amp;ll=52.517487,13.391561&amp;spn=0.000731,0.001497&amp;t=h&amp;z=19&amp;vpsrc=6&amp;layer=c&amp;cbll=52.517487,13.391561&amp;cbp=12,0,,0,0&amp;photoid=po-38636870 The building is huge], not a house. [http://www.panoramio.com/photo/38636870 Additional image] [[User:Q Science|Q Science]] ([[User talk:Q Science|talk]]) 21:12, 28 October 2011 (UTC)
+
+:::::::::PS: The small problem that I have with &quot;building&quot; is that the plaque might be attached to something like a porter's lodge. Since this would not be regarded as a ''Haus'' in German, the word would be taken to refer to the main building. In English, however, such a small structure might also be regarded as a building. It would appear that the plaque was 'originally'(implying that it has now been moved) 'in the courtyard' (possibly implying not affixed to the main building) when it was unveiled. --[[User:Boson|Boson]] ([[User talk:Boson|talk]]) 22:01, 28 October 2011 (UTC)
+::::::::::As can easily be verified by [http://maps.google.com/maps?q=berlin+germany+planck+plaque&amp;hl=en&amp;ll=52.517456,13.393218&amp;spn=0.001332,0.003484&amp;view=map&amp;cid=12242034418720581317&amp;t=h&amp;vpsrc=0&amp;layer=c&amp;cbll=52.517456,13.393218&amp;cbp=12,355.68,,1,-0.12&amp;hq=berlin+germany+planck+plaque&amp;z=19&amp;panoid=xxFQ9HKMWH2UsnAMHLfm2g google street view], the plaque is mounted on one of the outer wall of the main building the Humboldt University.[[User:TimothyRias|T]][[User talk:TimothyRias|R]] 00:17, 29 October 2011 (UTC)
+
+::::::::::: Ok, I have put in &quot;building&quot; as the translation of &quot;Hause&quot;. From the German Wikipedia page for &quot;Haus&quot; at http://de.wikipedia.org/wiki/Haus:
+
+::::::::::::&quot;Umgangssprachlich wird das Wort synonym zu Gebäude – ohne Kontext der Nutzung&quot;
+
+:::::::::::which, according to my rudimentary German and the help of Google translator, becomes:
+
+::::::::::::&quot;Colloquially, the word is synonymous with building - when used without context&quot;
+
+:::::::::::Also, the German Wiktionary at http://de.wiktionary.org/wiki/Haus gives the first &quot;meaning&quot; as &quot;Unterkunft, Gebäude&quot; which translates to &quot;property, building&quot;. Thanks to Q Science and TR, we can see that this is an appropriate translation. [[User:PAR|PAR]] ([[User talk:PAR|talk]]) 04:26, 29 October 2011 (UTC)
+
+==Plank's Constant and Quantization==
+
+from the begining of the article:
+
+&quot;The non-zero value of the Planck constant is the reason phenomena occurring in quantum physics display discrete behavior (e.g. spectral lines) rather than assuming a continuous range of possible values.&quot;
+
+really?  really?  wow.  whoever wrote that did not think.
+the proportionality constant does not DETERMINE NOR IS IT THE REASON for the discrete spetrum of a quantum observable.  it does not appear that the author has studied quantum mechanics beyond the simple basics that they teach in intro physics courses.  
+
+this would be better:
+
+Plank's constant is a proportionality that appears as a result of the discrete spectrum of quantum observables and its fundamental nature is evident by its appearance in many mathematical models.[[Special:Contributions/70.177.16.146|70.177.16.146]] ([[User talk:70.177.16.146|talk]]) 06:43, 27 November 2008 (UTC)
+:It would be mathematically correct to say that as Planck's constant tends to zero (assuming the Boltzmann constant is held fixed) Planck's law tends to the classical Rayleigh-Jeans law.  Whether it's worth saying in this article is a separate question, which I for one would not answer strongly in the negative.  --[[User:Vaughan Pratt|Vaughan Pratt]] ([[User talk:Vaughan Pratt|talk]]) 19:36, 26 October 2011 (UTC)
+
+::Speaking of multiple negatives, it is not clear to me why a constant would not resist tending to zero, or to anything but its value.  I am not one of those who would not answer strongly in the negative.  [[User:Dicklyon|Dicklyon]] ([[User talk:Dicklyon|talk]]) 20:07, 26 October 2011 (UTC)
+
+== Planck's constant equals zero in classical physics? ==
+
+The article still says: &quot;This is the origin of the often-quoted summary that 'the Planck constant is zero in classical physics' or that 'classical physics is quantum mechanics at the limit that the Planck constant tends to zero'. The Planck constant, of course, is never zero, but it is so small compared to most human experience that its existence had been ignored prior to Planck's work.&quot;  
+
+Above, we had the remarks:
+
+:It would be mathematically correct to say that as Planck's constant tends to zero (assuming the Boltzmann constant is held fixed) Planck's law tends to the classical Rayleigh-Jeans law.  Whether it's worth saying in this article is a separate question, which I for one would not answer strongly in the negative.  --[[User:Vaughan Pratt|Vaughan Pratt]] ([[User talk:Vaughan Pratt|talk]]) 19:36, 26 October 2011 (UTC)
+
+::Speaking of multiple negatives, it is not clear to me why a constant would not resist tending to zero, or to anything but its value.  I am not one of those who would not answer strongly in the negative.  [[User:Dicklyon|Dicklyon]] ([[User talk:Dicklyon|talk]]) 20:07, 26 October 2011 (UTC)
+
+Mathematically, if h were to become zero, then how would one evaluate the equation: 
+
+&lt;math&gt;E = h\nu.\,&lt;/math&gt;?
+
+Or, in the formula developed by Planck himself:
+
+&lt;math&gt;E = nhf,\,&lt;/math&gt; where &lt;math&gt;n = 1,2,3,\ldots&lt;/math&gt;
+
+everything would turn up Orphan Annie eyes.  ( &lt;big&gt;&lt;big&gt;⨟&lt;/sub&gt;&lt;/big&gt;¬)  &lt;/big&gt; ) Moreover, there is no '''h''' in the classical equations. What Vaughan Pratt says is far superior to something that does not make sense.
+
+On the assumption that h = 0, then regardless of the frequency of a photon, it would always carry energy = 0. And if we were to investigate what happens when '''h''' is gradually changed from its experimentally determined value toward zero, E would gradually decrease to zero. If we are writing for people who do not already understand very well how the equations relate to experiences in the laboratory, then we ought to expect that readers will look at the literary context of the statement that Planck's constant being reduced to zero, and conclude falsely that solutions of the relevant equations should tend toward the values predictable by classical physics. Adding, &quot;but it is so small....&quot; only serves to confuse the reader once again. Take the sentence quoted above out, and then the account will be true and will not be an instance of unnecessary mystification.[[User:Patrick0Moran|P0M]] ([[User talk:Patrick0Moran|talk]]) 01:08, 27 October 2011 (UTC)
+
+:If there's a connection to Rayleigh-Jeans this way, or an oft-quoted something, why does the paragraph cite no sources?  I think it needs to be out until we can say something sourced.  [[User:Dicklyon|Dicklyon]] ([[User talk:Dicklyon|talk]]) 15:15, 28 October 2011 (UTC)
+
+::I agree - this is the [[correspondence principle]] dumbed down. Quantum equations don't deal with observables, they deal with wave functions, and Planck's law isn't the only equation to be considered, there's Schroedinger's equation, etc. etc. You cannot take the limit of these equations as Planck's constant goes to zero and get anything sensible. You have to consider the expectation values, not the wave functions. E.g., For bound systems, there's a quantum number that multiplies Planck's constant, and the classical limit is when the quantum number is large, so that the product, which is a &quot;typical action&quot; (I) of the system is much larger than ''h''. In other words the ratio h/I of the system tends to zero. Then the expectation values can be expanded in terms of h/I and you take the low order term. And you are not there yet - for example, you cannot postulate a precise value of the position expectation, because your momentum uncertainty becomes infinite - not a classical situation. The correspondence principle cannot be stated by simply letting ''h'' approach zero.  [[User:PAR|PAR]] ([[User talk:PAR|talk]]) 18:24, 28 October 2011 (UTC)
+
+The part I stuck in came from [[Vaughan Pratt]] -- see above. Maybe he will give a citation to one of his own publications or some other publication. As a Stanford professor I presume that he knows what he is talking about. I'll be satisfied, however, if we just get rid of the much greater dumbing down that talks about &quot;when h = 0 we get classical physics.&quot; [[User:Patrick0Moran|P0M]] ([[User talk:Patrick0Moran|talk]]) 20:01, 28 October 2011 (UTC)
+
+Meanwhile, see the second section of [[Rayleigh–Jeans law]] where it says:
+&lt;blockquote&gt;This results in Planck's blackbody formula reducing to
+:&lt;math&gt;B_{\lambda}(T) = \frac{2ckT}{\lambda^4},&lt;/math&gt;
+which is identical to the classically derived Rayleigh–Jeans expression.&lt;/blockquote&gt;
+
+Use that information to fix what the article said, and I have been complaining about for some time:
+&lt;blockquote&gt;The article still says: &quot;This is the origin of the often-quoted summary that 'the Planck constant is zero in classical physics' or that 'classical physics is quantum mechanics at the limit that the Planck constant tends to zero'. The Planck constant, of course, is never zero, but it is so small compared to most human experience that its existence had been ignored prior to Planck's work.&quot;  &lt;/blockquote&gt;
+
+I don't know who wrote that statement, so I can't supply a citation for the &quot;often-quoted summary.&quot;[[User:Patrick0Moran|P0M]] ([[User talk:Patrick0Moran|talk]]) 20:32, 28 October 2011 (UTC)
+
+:I think the best place to look for a source that makes (a similar statement) is textbooks discussing path integrals (Zee's QFT book is a goo candidate, but I don't have it on hand right now). Since h divides the action in the weight of the path integral, it directly follows that in the limit that h goes to zero, all correlators approach their classical value. [[User:TimothyRias|T]][[User talk:TimothyRias|R]] 15:21, 29 October 2011 (UTC)
+
+::To me it appears to be so simplistic that it ought not to be retained, cited or not. I'm more concerned to get the issue described correctly and in a way that it makes sense in a context where we find &lt;math&gt;E = h\nu.\,&lt;/math&gt;  [[User:Patrick0Moran|P0M]] ([[User talk:Patrick0Moran|talk]]) 16:46, 29 October 2011 (UTC)
+
+:::There is nothing simplistic about the claim. Note that makes perfect sense in the context of &lt;math&gt;E = h\nu&lt;/math&gt;; in the classical limit the size of the energy quanta becomes zero.[[User:TimothyRias|T]][[User talk:TimothyRias|R]] 17:48, 29 October 2011 (UTC)
+::::So for a system composed of a finite number of particles, the total energy will be zero. Not so perfect. [[User:PAR|PAR]] ([[User talk:PAR|talk]]) 19:58, 29 October 2011 (UTC)
+:::::Systems made of a finite number of photons are not classical. (Photons are quanta, and therefore not classical per definition.) [[User:TimothyRias|T]][[User talk:TimothyRias|R]] 20:51, 29 October 2011 (UTC)
+:::::: &lt;math&gt;E = h\nu&lt;/math&gt; holds for electrons, protons, and baseballs, it is not an equation that is restricted to photons. [[User:PAR|PAR]] ([[User talk:PAR|talk]]) 22:04, 29 October 2011 (UTC)
+:::::::I don't think you'll find any source that agrees it can be applied to baseballs.  In any case, it doesn't make sense to talk about that equation and at the same time talk about the constant in it going to zero, unless you let the number of particles go to infinity at the same time.  [[User:Dicklyon|Dicklyon]] ([[User talk:Dicklyon|talk]]) 22:16, 29 October 2011 (UTC)
+:::::::Classical particles are not waves, they have zero wavelength. Equivalently, their frequency is infinite, as is required by the equation &lt;math&gt;E = h\nu&lt;/math&gt; in the limit that h goes to zero, since their energy is finite. Still no problem.[[User:TimothyRias|T]][[User talk:TimothyRias|R]] 00:43, 30 October 2011 (UTC)
+:::::::: &lt;math&gt;E = h\nu&lt;/math&gt; is a quantum equation. There are many others, e.g. the Schroedinger equation. Are you saying that the Schroedinger equation will yield classical behavior in the limit of h-&gt;0? How does that work?
+
+:::::::: Its similar to the theory of relativity. In that case, you would say that Newtonian behavior is attained as the speed of light becomes infinite. To be precise, Newtonian behavior is attained as the dimensionless variable ''v/c'' tends to zero, with ''c'' being a constant. The two statements may yield equivalent results, but the first statement is unphysical, uneccesary, and should be avoided. In quantum mechanics, to be precise, classical behavior is attained as the dimensionless variable ''h/I'' tends to zero, where ''I'' is a typical action of the system, with ''h'' being constant. The concoction that ''h'' tends to zero is unphysical, uneccesary, and should be avoided. [[User:PAR|PAR]] ([[User talk:PAR|talk]]) 03:25, 30 October 2011 (UTC)
+
+One of the problems with this discussion is that people are assuming that the average well-informed reader or inquiring high school system will know about Plank's Law, Rayleigh-Jeans law, Wien's Displacement Law, etc., etc. The average reader who doesn't already understand this subject will look at E= hν and put it together with h = 0, getting E = 0, and then wonder what kind of crazy world would form such an equation,  how or where it might apply, etc.
+Does anybody see any problems with the discussion in the Rayleigh–Jeans law section on the &quot;Comparison to Planck's law&quot;? To me that explanation seem clear enough even for a high school student, and not to involve weird and unintended jumping to conclusions on the part of the unprepared.[[User:Patrick0Moran|P0M]] ([[User talk:Patrick0Moran|talk]]) 23:07, 29 October 2011 (UTC)
+:You mean the Black-body radiation section?  I just added one more fact tag; I don't really understand what sort of &quot;equivalence&quot; is intended here; a source could help clarify.  [[User:Dicklyon|Dicklyon]] ([[User talk:Dicklyon|talk]]) 23:38, 29 October 2011 (UTC)
+::I do mean that section. My problem is with what was originally there. Now that I've got people to pay some attention to it I guess I should revert to what was there before and add some fact tags of my own. I didn't write the part that you just tagged, so somebody else had best be the one to explain it. [[User:Patrick0Moran|P0M]] ([[User talk:Patrick0Moran|talk]]) 00:14, 30 October 2011 (UTC)
+
+It seems to me that PAR's argument isn't quite complete. If we consider  special relativity, then the classical limit is naively the v to zero limit. But in that limit where all velocities become zero, you end up with a degenerate theory. If you really want to see classical physics emerge, you must zoom into the low velocity world using a scale factor as you let the velocities go to zero. That involves scaling your variables in a careful way. I have explained this in detail [[User:Count Iblis/Speed of light|here]]. But what then happens is that despite the speed of light being kept fixed (I work in natural units where c = 1), you get a dimnensionless rescaling parameter that appears in the same way as the speed of light would, which is sent to infinity.
+
+The case of quantum mechanics is more complicated, this issue isn't settled 100% because of the measurement problem. So, we don't know how a full quantum description where everything evolves according to the Schrödinger equation gives rise to the classical world, where with some macroscopic measuring apparatus you can observe the quantum world. Quantum mechanics as conventionally formulated already assumes that observers are macroscopic and that the wavefunction (apparently) collapses upon measurement, so at best it is already an effective theory.
+
+But what is clear is that you do need to consider a similar scaling argument. You can keep hbar fixed, say put it equal to 1. You then set up an appropriate scaling argument involving larger and larger systems. Decoherence happens faster and faster, all typical quantum effects will vanish as you let the scaling parameter go to infinity. You can then identify the scaling parameter (or its reciprocal) with how Planck's constant would appear to an observer who lives close to the scaling limit. [[User:Count Iblis|Count Iblis]] ([[User talk:Count Iblis|talk]]) 23:16, 31 October 2011 (UTC)
+
+:Yes. Nitpicking, I said &quot;as ''v/c'' tends to zero&quot;, rather than &quot;v equals zero&quot;. At any rate, I agree my argument was simplistic, there is more to the [[correspondence principle]] than just letting ''h/I'' tend to zero. [[User:PAR|PAR]] ([[User talk:PAR|talk]]) 03:54, 1 November 2011 (UTC)
+
+==Argument based on Rayleigh-Jeans article==
+The Planck constant is not equal to zero in classical physics. The article is wrong at this point. 
+
+Classical physics had no idea of the quantum nature of phenomena, so it would have been strange indeed if it had included a term '''h''' in its equations, and even odder if it demanded that '''h''' = 0. In fact, the classical Rayleigh-Jeans equation produced predictions of radiance that diverged from empirical data more strongly the higher the frequencies of light emitted by a black body that were considered. The Wien approximation underestimated radiance at lower frequencies, and Planck's Law gave the correct predictions. Both of the latter two used equations that included '''h''', and they did so to take account of an aspect of reality unheeded by classical physics. Since the latter two were derived from a classical basis, one would expect that if the modifications made to deal with the failings of classical physics were attenuated, then the predicted results would draw closer to the classical physics.
+
+Such is indeed the case. The Rayleigh-Jeans equation predicts the lower end of the spectrum of a black body radiator fairly well, but the prediction of radiance gets progressively worse at higher frequencies. The Wien approximation is off at lower frequencies, but accurate at higher frequencies. Only Planck's law gives an accurate prediction. So, if we were to reverse history and eliminate the change Planck needed to make Planck's Law, then we would have the Wien approximation. It still retains '''h''' as an important factor, so it cannot be regarded as belonging to classical physics. So we can take the Wien Approximation and see what it is for cases in which &quot;very high temperatures or long wavelengths&quot; are involved, and we get the Rayleigh-Jeans equation. 
+
+Here is how I think the math is to be done, based on other Wikipedia articles previously cited by me:
+
+We start with Planck's Law from the [[Rayleigh-Jeans law]] article:
+:&lt;math&gt;B_\lambda(T) = \frac{2 c^2}{\lambda^5}~\frac{h}{e^\frac{hc}{\lambda kT}-1},&lt;/math&gt;
+
+&quot;In the limit of very high temperatures or long wavelengths, the term in the exponential becomes small, and so the exponential is well approximated by its first-order [[Taylor series|Taylor polynomial]]&quot;:
+
+:&lt;math&gt;e^{\frac{hc}{\lambda kT}} \approx 1 + \frac{hc}{\lambda kT}.&lt;/math&gt;
+Then
+:&lt;math&gt;\frac{1}{e^\frac{hc}{\lambda kT}-1} \approx \frac{1}{\frac{hc}{\lambda kT}} = \frac{\lambda kT}{hc}.&lt;/math&gt;
+By substitution:
+:&lt;math&gt;B_\lambda(T) = \frac{2 c^2}{\lambda^5}~\frac{h\lambda kT}{hc},&lt;/math&gt;
+And cancelling we get:
+:&lt;math&gt;B_\lambda(T) = \frac{2 c}{\lambda^4}~\frac{kT}{1},&lt;/math&gt;
+&lt;!-- This results in Planck's blackbody formula reducing to
+:&lt;math&gt;B_{\lambda}(T) = \frac{2ckT}{\lambda^4},&lt;/math&gt;
+which is identical to the classically derived Rayleigh–Jeans expression.--&gt;:
+
+Note that removing a constant or a variable from an equation is not the equivalent of reducing it to zero. Since h/h=1, and in the case where temperatures are high or wavelengths are long, the non-classical terms drop out and we are back to the Rayleigh-Jeans law:
+ 
+:&lt;math&gt;B_\lambda(T) = \frac{2 c k T}{\lambda^4}.&lt;/math&gt;
+
+::Exactly. The thing that is going to zero is not ''h'', but the dimensionless ratio ''h/I'', where ''I'' is a typical action of the system, which, in this case, is equal to ''&amp;lambda; k T/c''. [[User:PAR|PAR]] ([[User talk:PAR|talk]]) 20:00, 30 October 2011 (UTC)
+
+So how are we going to fix the article? Wouldn't the best thing be to delete the passage: &quot;This is the origin of the often-quoted summary that 'the Planck constant is zero in classical physics' or that 'classical physics is quantum mechanics at the limit that the Planck constant tends to zero'. The Planck constant, of course, is never zero, but it is so small compared to most human experience that its existence had been ignored prior to Planck's work.&quot;
+
+What was &quot;ignored&quot; was the fact that light frequency and the energy of individual photons are linked. The issue was not the smallness of the effect but the unguessed presence of the effect.
+
+If the Planck constant were larger, would the fact that violet light gave people a sunburn have alerted people any faster to the fact that it was not the intensity of the sun under which they bathed but the punch packed by its violet component that made the burns possible (and noticeable if the violet component were sufficiently intense to damage many skin cells)? 
+
+I would be in favor of simply deleting the quoted passage.[[User:Patrick0Moran|P0M]] ([[User talk:Patrick0Moran|talk]]) 08:03, 31 October 2011 (UTC)
+
+:Remove and replace with a one-sentence explanation and link to the [[correspondence principle]]. [[User:PAR|PAR]] ([[User talk:PAR|talk]]) 09:36, 31 October 2011 (UTC)
+
+== Does anyone remember... ==
+
+I am looking for something I thought I read in a Wikipedia article about the size of discontinuities in a spectrum. It said that between higher pairs of frequencies there would be a discontinuity, but the magnitude of the gap would be so small that it could not be detected using current experimental methods. 
+
+Sometimes spectra are described as having a discontinuous portion and a continuous portion (related to free electrons). The discussion I am trying to locate may have been qualifying the idea of a &quot;continuous&quot; spectrum as actually being a spectrum with such narrow discontinuities that (at least for current methods of measurement) it gives all appearances of being continuous. Or perhaps the discussion was merely meant to apply to photons emitted by transitions between electron energy states that involved nearly identical energies.
+
+Thanks.[[User:Patrick0Moran|P0M]] ([[User talk:Patrick0Moran|talk]]) 06:06, 3 November 2011 (UTC)
+
+== Another question ==
+
+The text currently has this statement:
+&lt;blockquote&gt;This is equivalent to saying that the energy element ε (the difference between allowed values of the energy) is zero, and therefore that h in this context is zero.&lt;/blockquote&gt;
+However, ε is not defined that way in other Wikipedia articles (or anywhere else that I could find with just a little rooting around). I think it would be possible to calculate the differences between adjacent frequencies in, e.g., the hydrogen bright-line spectrum, and it would be useful to be able to say that there are instances where this value either is zero or is so close to zero that it could not be observed. If the general form of these calculations can be established, then it would be possible to assess the truth of the statement that &quot;h in this context is zero.&quot; Nobody has supplied a citation in support of the above statement, so I will delete it at least temporarily.[[User:Patrick0Moran|P0M]] ([[User talk:Patrick0Moran|talk]]) 20:00, 3 November 2011 (UTC)
+
+== Better lede needed to define the term ==
+
+I am a social scientist coming to this page in order to understand what is Planck's constant. After reading most of the page I still do not know! Could someone please rewrite to the lede to explain to me exactly what it is and why it is important. To say it is a constant reflecting quanta tells me nothing. I should not have to jump over and read up on quanta and quantum mechanics in order to understand this term. [[User:Archivingcontext|Archivingcontext]] ([[User talk:Archivingcontext|talk]]) 05:48, 28 November 2011 (UTC)
+
+:Defining it is easy, but explaining how it works in the universe is probably more what you want. 
+
+::::&lt;math&gt;E = h\nu.\,&lt;/math&gt;
+
+That equation says that if you want to know the energy (E) of a photon you can find it by multiplying its frequency &lt;math&gt;\nu&lt;/math&gt; by '''h'''. If you know the energy you need and want to find the right frequency to give you that energy then you can do the appropriate algebra. But it turns out that '''h''' has wider application than that equation. The equation is just historically where '''h''' was first identified and calculated.
+
+：Nevertheless, what you say sounds reasonable to me if you want to know why anybody should care. Let me try a few things. (This may take a while because I am busy elsewhere and may not think of everything all at once, so stay tuned.) Maybe it would be  it help to say:
+
+:*Planck's constant, '''h''', like π, is a fundamental fact about nature that turns up in many places where you might not expect to find it. Just as the value of π tells us something about what kind of a space we live in (what the appropriate geometry to describe our universe is), the value of '''h''' tells us things such as how destructive light of different frequencies is to our cells. If '''h''' had a different value, then we might get a sunburn from violet light or even blue light, and ultraviolet light would be more dangerous to us than it is now. Or if '''h''' changed in the other direction then ultraviolet light might not give us sunburns. Planck's constant also tell us how much uncertainty would necessarily be left after we have made our best attempts to measure certain pairs of things such as the position &quot;right now&quot; of an electron and the exact direction in which it is going &quot;right now.&quot; As Heisenberg said, &quot;The more we clarify the secret of position the more deeply hidden becomes the secret of velocity....We can distribute the uncertainty as we wish, but we can never get away from it.&quot; (Quoted in ''World of Mathematics,''p. 1051.)
+
+:One of my physics professor friends calls it a &quot;God number&quot; because it determines the kind of universe we live in. Maybe other people will add some &quot;God number&quot; examples to show how '''h''' is important. [[User:Patrick0Moran|P0M]] ([[User talk:Patrick0Moran|talk]]) 19:10, 28 November 2011 (UTC)
+
+::Its not a &quot;God number&quot;. Its value depends on the definition of mass, length, and time. In the old days, the kilogram was the mass of a liter of water, which is equivalent to a box 1/10 meter on a side. The meter was 1/10,000,000 of the distance from the equator to the north pole of the Earth.  A second was 1/60 of 1/60 of 1/24 of a day. Present day values are just the result of trying to stabilize these values, not to change them. These are man-numbers, and so is the value of '''h'''. The only &quot;God numbers&quot; are dimensionless - they have the same value in any system of units. The [[fine structure constant]], for example. The only numbers that determine the kind of universe we live in are dimensionless. [[User:PAR|PAR]] ([[User talk:PAR|talk]]) 19:54, 28 November 2011 (UTC)
+
+== Furthering a misunderstanding. ==
+
+The current text says, &quot;Planck conjectured correctly that under certain conditions, energy could not take on any indiscriminate value. Instead, the energy must be some multiple of a very small quantity (later to be named a &quot;quantum&quot;). This inherent granularity is counterintuitive in the everyday world, where it is possible to &quot;make things a little bit hotter&quot; or &quot;move things a little bit faster&quot;....Nevertheless, it is impossible, as Planck found out, to explain some phenomena without accepting that energy is quantized; that is, it can only equal certain energy levels with space in between them.&quot; 
+
+This way of explaining things is not sufficiently clear. It could be interpreted to support what appears to me to be a common misunderstanding -- that Planck's constant is a minimum quantum or unit of energy and that all possible energy levels are integer multiples of that quantum of energy. [[User:Patrick0Moran|P0M]] ([[User talk:Patrick0Moran|talk]]) 14:17, 16 March 2011 (UTC)
+
+:I slightly agree. The words &quot;under certain conditions&quot; makes the first sentence ok, &quot;to explain some phenomena&quot; makes the second ok. Nevertheless, it should be made more clear that energy is not always quantized. [[User:PAR|PAR]] ([[User talk:PAR|talk]]) 16:38, 16 March 2011 (UTC)
+
+::What do you mean when you say that energy is not always quantized? I guess if you mean something like potential energy of some object in a gravitational field then maybe you are right. 
+
+::The thing that needs to be made clear is that Plank's constant is not some &quot;atom&quot; of energy. If the wavelength of a photon is one light second, then c/lambda = 1 and the numerical value for energy in joules (E=hc/lambda)turns out to be equal to numerical value of Planck's constant. But even though that wavelength is rather large there is nothing but the age of the universe to prevent there being greater and greater wavelengths.
+
+::All Planck's constant does is (1) affirm that for any photon frequency one measures there is always a related energy (which is an important affirmation), and (2) it gives us the conversion factor to turn the energy in a familiar unit (the joule) so it is easy to apply to the kinds of problems people often want to solve. [[User:Patrick0Moran|P0M]] ([[User talk:Patrick0Moran|talk]]) 21:38, 16 March 2011 (UTC)
+
+:::For example, the energy of a photon is h%nu; and the frequency &amp;nu; is not quantized, so neither is the photon energy. Energy is quantized for bound systems only. Planck's constant is a quantum of action, not energy. Planck's constant has units of action, not energy. Action is quantized, not energy. As the quantum of action, Planck's constant is more than a conversion factor, it specifies the minimum uncertainty in the product of conjugate variables like space and momentum or energy and time. [[User:PAR|PAR]] ([[User talk:PAR|talk]]) 22:46, 16 March 2011 (UTC)
+::::Exactly right, seconded.  --[[User:Vaughan Pratt|Vaughan Pratt]] ([[User talk:Vaughan Pratt|talk]]) 05:54, 5 April 2011 (UTC)
+
+As usual, Einstein puts things much clearer than I can.  See Physics and Reality, p. 24
+&lt;blockquote&gt;&quot;The question is first: How can one assign a discrete succession of energy value H&lt;sub&gt;σ&lt;/sub&gt; to a system specified in the sense of classical mechanics (the energy function is a given function of the coordinates q&lt;sub&gt;r&lt;/sub&gt; and the corresponding momenta p&lt;sub&gt;r&lt;/sub&gt;)? Planck's constant h relates the frequency H&lt;sub&gt;σ&lt;/sub&gt;/h to the energy values H&lt;sub&gt;σ&lt;/sub&gt;. It is therefore sufficient to give to the system a succession of discrete frequency values.&quot;&lt;/blockquote&gt;
+The idea that &quot;energy must be some multiple of a very small quantity&quot; suggests that there is a minimum quantity of energy and, therefore, that there is a maximum wavelength of electromagnetic radiation. Putting those ideas in the context of a small constant is surely misleading, no? I see that &quot;energy&quot; has been replaced by &quot;action&quot; in the sentence I first criticized. Thanks to whomever made that change.[[User:Patrick0Moran|P0M]] ([[User talk:Patrick0Moran|talk]]) 18:07, 12 December 2011 (UTC)
+:P.S. I did not intend to re-open discussion, just to record a useful quotation.[[User:Patrick0Moran|P0M]] ([[User talk:Patrick0Moran|talk]]) 18:09, 12 December 2011 (UTC)
+
+::Just to clarify, only the energy of a bound particle is quantized, because its wave function is in the form of standing waves, see [[Energy level]].  A free electron in space can have any energy.  --&lt;font color=&quot;blue&quot;&gt;[[User:Chetvorno|Chetvorno]]&lt;/font&gt;&lt;sup&gt;''&lt;small&gt;[[User talk:Chetvorno|&lt;font color=&quot;Purple&quot;&gt;TALK&lt;/font&gt;]]&lt;/small&gt;''&lt;/sup&gt; 17:41, 14 February 2012 (UTC)
+:::What is always quantized is the action.  Quantization of the energy of an orbiting electron is a corollary.  A free electron can have &quot;any energy&quot; in two senses, the second of which is that it has different KE's for different inertial frames.  --[[User:Vaughan Pratt|Vaughan Pratt]] ([[User talk:Vaughan Pratt|talk]]) 03:50, 15 February 2012 (UTC)
+
+==Fixation==
+The 2011 meeting of the General Conference on Weights and Measure has occurred now. 
+&quot;On Oct. 21, 2011, CGPM, the diplomatic body that has the authority under the Meter Convention to enact such a sweeping change, passed a resolution declaring that the kilogram, the ampere, the kelvin and the mole, “will be redefined in terms of invariants of nature; the new definitions will be based on fixed numerical values of the Planck constant (h), the elementary charge (e), the Boltzmann constant (k), and the Avogadro constant (NA), respectively.”&quot; from
+http://www.nist.gov/pml/newsletter/siredef.cfm
+--&lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/129.6.136.124|129.6.136.124]] ([[User talk:129.6.136.124|talk]]) 13 December 2011‎ &lt;/span&gt;&lt;!-- Template:UnsignedIP2 --&gt;
+:Useful observation. There is more at [[New SI definitions]]. --[[User:Hro%C3%B0ulf|Hroðulf]] (or Hrothulf) ([[User talk:Hro%C3%B0ulf|Talk]]) 20:48, 13 December 2011 (UTC)
+
+{{talkarchive}}
+	</talkpage>
+</article>

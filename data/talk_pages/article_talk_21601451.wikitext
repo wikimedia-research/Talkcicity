@@ -1,0 +1,8 @@
+<article id="21601451" title=User talk:91.109.40.53>
+	<talkpage id="21601451" title="User talk:91.109.40.53">
+
+== February 2009 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Fernando_Torres?diff=271720390 recent edit]&lt;/span&gt; you made to the page [[:Fernando Torres]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; &lt;font color=&quot;#3300ff&quot;&gt;[[User:Thingg|Thingg]]&lt;/font&gt;&lt;sup&gt;&lt;font color=&quot;#33ff00&quot;&gt;[[User talk:Thingg|&amp;#8853;]]&lt;/font&gt;&lt;/sup&gt;&lt;sup&gt;&lt;font color=&quot;#ff0033&quot;&gt;[[Special:Contributions/Thingg|&amp;#8855;]]&lt;/font&gt;&lt;/sup&gt; 02:01, 19 February 2009 (UTC)
+	</talkpage>
+</article>

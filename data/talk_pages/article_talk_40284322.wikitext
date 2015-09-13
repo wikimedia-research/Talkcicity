@@ -1,0 +1,5 @@
+<article id="40284322" title=Talk:Tsuzurahara>
+	<talkpage id="40284322" title="Talk:Tsuzurahara">
+{{WikiProject Anthroponymy|class=Redirect}}
+	</talkpage>
+</article>

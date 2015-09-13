@@ -1,0 +1,11 @@
+<article id="44916655" title=User talk:Bohemian Gal/Archive 2>
+	<talkpage id="44916655" title="User talk:Bohemian Gal/Archive 2">
+==Happy New Year!==
+&lt;div style=&quot;background:orange; padding: 10px; border-top: 3px solid yellow; border-left: 3px solid yellow; border-right: 3px solid yellow; border-bottom: 3px solid yellow 8px; font-size: 110%; font-family:Tahoma; text-align: center;&quot;&gt;
+[[File:Fuochi d'artificio.gif|left|150px]]
+Dear {{BASEPAGENAME}},&lt;br&gt; &lt;span style=&quot;color:red&quot;&gt;'''HAPPY NEW YEAR'''&lt;/span&gt; Hoping 2015 will be a great year for you! Thank you for your contributions!&lt;br&gt; From a fellow editor,&lt;br&gt; --[[User:Bzuk|FWiW  Bzuk]] ([[User talk:Bzuk|talk]]) 
+
+&lt;small&gt;This message promotes [[WP:LOVE|WikiLove]]. Originally created by [[User:Nahnah4|Nahnah4]] (see &quot;invisible note&quot;). &lt;!--To use this template, leave &lt;nowiki&gt;{{subst:User:Nahnah4/Happy New Year}}&lt;/nowiki&gt; on someone else's talk page.--&gt;&lt;/small&gt; 
+&lt;/div&gt;
+	</talkpage>
+</article>

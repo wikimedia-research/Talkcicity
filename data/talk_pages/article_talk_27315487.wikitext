@@ -1,0 +1,5 @@
+<article id="18032111" title=Talk:Gillams>
+	<talkpage id="18032111" title="Talk:Gillams">
+{{WikiProject Canada|geography=yes|nl=yes|community=yes|class=stub|importance=mid}}
+	</talkpage>
+</article>

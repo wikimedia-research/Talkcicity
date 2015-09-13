@@ -1,0 +1,9 @@
+<article id="5440007" title=Talk:Academy of Natural Sciences of Drexel University>
+	<talkpage id="5440007" title="Talk:Academy of Natural Sciences of Drexel University">
+{{WikiProjectBannerShell|1=
+{{WikiProject Museums|class=start|importance=Low}}
+{{WikiProject Philadelphia|class=start|importance=Low}}
+{{WikiProject Pennsylvania|class=start|importance=Low}}
+}}
+	</talkpage>
+</article>

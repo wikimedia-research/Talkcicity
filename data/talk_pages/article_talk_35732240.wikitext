@@ -1,0 +1,5 @@
+<article id="35732240" title=Talk:Bib (tribe)>
+	<talkpage id="35732240" title="Talk:Bib (tribe)">
+{{Talk header}} {{WikiProject India|importance=low |class=stub |jandk=yes |jandk-importance=low}}
+	</talkpage>
+</article>

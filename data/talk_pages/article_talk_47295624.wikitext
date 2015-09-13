@@ -1,0 +1,5 @@
+<article id="47295624" title=Talk:List of Iwata Asks interviews>
+	<talkpage id="47295624" title="Talk:List of Iwata Asks interviews">
+{{WikiProject Video games |class=List |importance=low |Nintendo=yes}}
+	</talkpage>
+</article>

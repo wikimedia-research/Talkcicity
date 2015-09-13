@@ -1,0 +1,27 @@
+<article id="21966942" title=Talk:Rob Harris (curler)>
+	<talkpage id="21966942" title="Talk:Rob Harris (curler)">
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|listas=Harris, Rob
+|auto=yes
+}}
+{{WikiProject Curling|class=start|importance=low|}}
+
+
+==Pending changes==
+This article is one of a  number (about 100) selected for the early stage of the trial of the [[Wikipedia:Pending Changes]] system on the English language Wikipedia. All the articles listed at [[Wikipedia:Pending changes/Queue ]]  are being considered for level 1 pending changes protection.
+
+The following request appears on that page:
+
+{{Mbox|text=Many of the articles were selected semi-automatically from a list of indefinitely semi-protected articles.&lt;br /&gt;Please confirm that the protection level appears to be still warranted, and consider unprotecting instead, before applying pending changes protection to the article.}}
+
+Comments on the suitability of theis page for &quot;Penfding changes&quot;  would be appreciated.
+
+Please update the [[Wikipedia:Pending changes/Queue|Queue]] page as appropriate.
+
+Note that I am not involved in this project any much more than any other editor, just posting these notes since it is quite a big change, potentially
+
+Regards, ''[[User:Rich Farmbrough|Rich]]&amp;nbsp;[[User talk:Rich Farmbrough|Farmbrough]]'', 23:45, 16 June 2010 (UTC).
+	</talkpage>
+</article>

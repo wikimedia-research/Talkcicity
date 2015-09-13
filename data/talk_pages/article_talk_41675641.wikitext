@@ -1,0 +1,6 @@
+<article id="41675641" title=Talk:Mark Paterson (public servant)>
+	<talkpage id="41675641" title="Talk:Mark Paterson (public servant)">
+{{WPBiography|living=y|class=|listas=Paterson, Mark}}
+{{WikiProject Australia|class=|importance=}}
+	</talkpage>
+</article>

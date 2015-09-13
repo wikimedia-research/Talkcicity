@@ -1,0 +1,32 @@
+<article id="39446491" title=User talk:Larfleeze13>
+	<talkpage id="39446491" title="User talk:Larfleeze13">
+== Your submission at [[Wikipedia:Articles for creation|Articles for creation]] ==
+&lt;div style=&quot;border:solid 1px #9accf6;background:#f1f9ff;padding:1em;padding-top:0.5em;padding-bottom:0.5em;width:20em;color:black;margin-bottom: 1.5em;margin-left: 1.5em;width: 90%;&quot;&gt; [[File:AFC-Logo_Decline.svg|50px|left]]Thank you for your recent submission to [[WP:AFC|Articles for Creation]]. Your article submission has been reviewed.  Unfortunately, it has not been accepted at this time. Please view your submission to see the comments left by the reviewer. You are welcome to edit the submission to address the issues raised, and resubmit if you feel they have been resolved.&lt;br&gt;&lt;br&gt;
+&lt;div class=&quot;plainlinks&quot;&gt;
+* If you would like to continue working on the submission, you can find it at [[Wikipedia&amp;#32;talk:Articles for creation/Norris&amp;#32;Wiley]].
+* To edit the submission, click on the &quot;Edit&quot; tab at the top of the window.
+* If you need any assistance, you can ask for help at the [{{fullurl:Wikipedia:WikiProject_Articles_for_creation/Help_desk|action=edit&amp;section=new}} '''Articles for creation help desk'''], or on the &lt;span class=&quot;noprint plainlinks&quot;&gt;[{{fullurl:User_talk:LionMans_Account|action=edit&amp;section=new reviewer's talk page]}}&lt;/span&gt;. Please remember to link to the submission!
+*You can also get [http://webchat.freenode.net/?channels=#wikipedia-en-help live chat help from experienced editors].
+:Thank you for your contributions to Wikipedia! [[User:LionMans Account|LionMans Account]] ([[User talk:LionMans Account|talk]]) 14:40, 21 May 2013 (UTC)&lt;/div&gt;&lt;!--Template:Afc decline--&gt;&lt;/div&gt;
+==[[Wikipedia talk:Articles for creation/Norris Wiley]] concern==
+Hi there, I'm [[User:HasteurBot|HasteurBot]]. I just wanted to let you know that [[Wikipedia talk:Articles for creation/Norris Wiley]], a page you created, has not been edited in 6 months.  The Articles for Creation space is not an indefinite storage location for content that is not appropriate for articlespace.
+
+If your submission is not edited soon, it could be nominated for deletion.  If you would like to attempt to save it, you will need to improve it.
+
+You may request [[WP:USERFY|Userfication]] of the content if it meets requirements.
+
+If the deletion has already occured, instructions on how you may be able to retrieve it are available at [[WP:REFUND/G13]].
+
+Thank you for your attention. [[User:HasteurBot|HasteurBot]] ([[User talk:HasteurBot|talk]]) 02:10, 23 November 2013 (UTC)
+==Your draft article, [[Wikipedia talk:Articles for creation/Norris Wiley]]==
+[[File:Information icon4.svg|48px|left|alt=|link=]]
+
+Hello Larfleeze13. It has been over six months since you last edited your [[WP:AFC]] draft article submission, entitled &quot;[[Wikipedia talk:Articles for creation/Norris Wiley|Norris Wiley]]&quot;. 
+
+The page will shortly be deleted. If you plan on editing the page to address the issues raised when it was declined and resubmit it, simply {{edit|Wikipedia talk:Articles for creation/Norris Wiley|edit the submission}} and remove the {{tlc|db-afc}} or {{tlc|db-g13}} code. Please note that Articles for Creation is not for indefinite hosting of material deemed unsuitable for the encyclopedia [[WP:mainspace|mainspace]].
+
+If your submission has already been deleted by the time you get there, and you want to retrieve it, copy this code: &lt;code&gt;&lt;nowiki&gt;{{subst:Refund/G13|&lt;/nowiki&gt;Wikipedia talk:Articles for creation/Norris Wiley&lt;nowiki&gt;}}&lt;/nowiki&gt;&lt;/code&gt;, paste it in the edit box at &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/w/index.php?title=Wikipedia:Requests_for_undeletion&amp;action=edit&amp;section=new this link]&lt;/span&gt;, click &quot;Save&quot;, and an administrator will in most cases undelete the submission.
+
+Thanks for your submission to Wikipedia, and happy editing. &lt;!-- Template:Db-afc-notice --&gt; [[User:HasteurBot|HasteurBot]] ([[User talk:HasteurBot|talk]]) 14:08, 30 January 2014 (UTC)
+	</talkpage>
+</article>

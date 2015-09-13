@@ -1,0 +1,7 @@
+<article id="36263362" title=Talk:Bad Nauheim station>
+	<talkpage id="36263362" title="Talk:Bad Nauheim station">
+{{TrainsWikiProject|class=Start|importance=Low|DE=yes|DE-importance=Low|stations=yes}}
+{{WikiProject Germany|class=Start|importance=Low}}
+{{translated page|de|Bahnhof Bad Nauheim}}
+	</talkpage>
+</article>

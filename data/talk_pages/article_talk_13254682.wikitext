@@ -1,0 +1,29 @@
+<article id="13254682" title=Talk:Air Hawk and the Flying Doctors>
+	<talkpage id="13254682" title="Talk:Air Hawk and the Flying Doctors">
+{{comicsproj|Strips-work-group=yes|class=start|importance=low}}
+
+==Fair use rationale for Image:Airhawk.jpg==
+[[Image:Nuvola apps important.svg|70px|left]]
+'''[[:Image:Airhawk.jpg]]''' is being used on this article. I notice the image page specifies that the image is being used under [[Wikipedia:Fair use|fair use]] but there is no [[Wikipedia:Fair use rationale guideline|explanation or rationale]] as to why its use in '''this''' Wikipedia article constitutes fair use. In addition to the [[Wikipedia:Image copyright tags/Fair use|boilerplate fair use template]], you must also write out on the image description page a specific explanation or rationale for why using this image in each article is consistent with [[WP:FU|fair use]].
+
+Please go to [[:Image:Airhawk.jpg|the image description page]] and edit it to include a [[Wikipedia:Fair use rationale guideline |fair use rationale]]. Using one of the templates at [[Wikipedia:Fair use rationale guideline]] is an easy way to insure that your image is in compliance with Wikipedia policy, but remember that you must complete the template. Do not simply insert a blank template on an image page.
+
+If there is  other fair use media, consider checking that you have specified the fair use rationale on the other images used on this page.  Note that any fair use images uploaded after 4 May, 2006, and lacking such an explanation will be deleted one week after they have been uploaded, as described on [[Wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|Media copyright questions page]]. Thank you.&lt;!-- Template:Missing rationale2 --&gt;
+
+[[User:BetacommandBot|BetacommandBot]] 23:26, 13 September 2007 (UTC)
+==Fair use rationale for Image:Airhawk.jpg==
+[[Image:Nuvola apps important.svg|70px|left]]
+'''[[:Image:Airhawk.jpg]]''' is being used on this article. I notice the image page specifies that the image is being used under [[Wikipedia:Fair use|fair use]] but there is no [[Wikipedia:Fair use rationale guideline|explanation or rationale]] as to why its use in '''this''' Wikipedia article constitutes fair use. In addition to the [[Wikipedia:Image copyright tags/Fair use|boilerplate fair use template]], you must also write out on the image description page a specific explanation or rationale for why using this image in each article is consistent with [[WP:FU|fair use]].
+
+Please go to [[:Image:Airhawk.jpg|the image description page]] and edit it to include a [[Wikipedia:Fair use rationale guideline |fair use rationale]]. Using one of the templates at [[Wikipedia:Fair use rationale guideline]] is an easy way to insure that your image is in compliance with Wikipedia policy, but remember that you must complete the template. Do not simply insert a blank template on an image page.
+
+If there is  other fair use media, consider checking that you have specified the fair use rationale on the other images used on this page.  Note that any fair use images uploaded after 4 May, 2006, and lacking such an explanation will be deleted one week after they have been uploaded, as described on [[Wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|Media copyright questions page]]. Thank you.&lt;!-- Template:Missing rationale2 --&gt;
+
+[[User:BetacommandBot|BetacommandBot]] 21:46, 29 October 2007 (UTC)
+
+==Wrong Dixon==
+The &quot;John Dixon&quot; to which this article links is a fictitious character on a television program. There doesn't seem to be an entry for the Australian artist, nor a disambiguation link.
+[[User:JWMcCalvin|JWMcCalvin]] ([[User talk:JWMcCalvin|talk]]) 00:12, 11 December 2007 (UTC)
+* You are right so I have created an article for [[John Dixon (cartoonist)|John Dixon]]. [[User:Dan arndt|Dan arndt]] ([[User talk:Dan arndt|talk]]) 09:15, 13 October 2011 (UTC)
+	</talkpage>
+</article>

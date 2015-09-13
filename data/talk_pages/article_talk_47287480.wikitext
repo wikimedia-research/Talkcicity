@@ -1,0 +1,25 @@
+<article id="47287480" title=User talk:Cherabs07>
+	<talkpage id="47287480" title="User talk:Cherabs07">
+
+== Welcome! ==
+
+Hello, Cherabs07, and [[Project:Introduction|welcome]] to Wikipedia!  I hope you like the place and decide to stay. Unfortunately, one or more of the pages you created, such as [[Fuwomos.com]], may not conform to some of Wikipedia's [[Wikipedia:List of policies|guidelines]], and may not be retained. 
+
+There's a page about creating articles you may want to read called '''[[Wikipedia:Your first article|Your first article]]'''. If you are stuck, and looking for help, please come to the '''[[Wikipedia:Teahouse|Teahouse]]''', where experienced Wikipedians can answer any queries you have! Or, you can just type '''{{tl|help me}}''' on this page, followed by your question, and someone will show up shortly to answer your questions. Here are a few other good links for newcomers:
+* [[Wikipedia:Your first article|Your first article]]
+* [[Wikipedia:Contributing to Wikipedia|Contributing to Wikipedia]]
+* [[Wikipedia:Biographies of living persons|Biographies of living persons]]
+* [[Wikipedia:Article development|How to write a great article]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Tutorial|Tutorial]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you have any questions, check out [[Wikipedia:Questions]] or ask me on my talk page. &lt;!-- Template:First article --&gt; Again, welcome!&amp;nbsp;[[User:GZWDer|GZWDer]] ([[User talk:GZWDer|talk]]) 10:51, 20 July 2015 (UTC)
+
+==[[Wikipedia:Criteria for speedy deletion|Speedy deletion]] nomination of [[:Fuwomos.com]]==
+[[File:Ambox warning pn.svg|48px|left|alt=|link=]]
+{{Quote box|quote=&lt;p&gt;If this is the first article that you have created, you may want to read [[WP:Your first article|the guide to writing your first article]].&lt;/p&gt;&lt;p&gt;You may want to consider using the [[Wikipedia:Article wizard|Article Wizard]] to help you create articles.&lt;/p&gt;|width=20%|align=right}}
+A tag has been placed on [[:Fuwomos.com]], requesting that it be speedily deleted from Wikipedia. This has been done under [[WP:CSD#G11|section G11 of the criteria for speedy deletion]], because the page seems to be unambiguous advertising which only promotes a company, product, group, service or person and would need to be fundamentally rewritten in order to become encyclopedic. Please read [[Wikipedia:Spam|the guidelines on spam]] and [[Wikipedia:FAQ/Organizations]] for more information. 
+
+If you think this page should not be deleted for this reason, you may '''contest the nomination''' by [[:Fuwomos.com|visiting the page]] and clicking the button labelled &quot;Click here to contest this speedy deletion&quot;. This will give you the opportunity to explain why you believe the page should not be deleted. However, be aware that once a page is tagged for speedy deletion, it may be removed without delay. Please do not remove the speedy deletion tag from the page yourself, but do not hesitate to add information in line with [[Wikipedia:List of policies|Wikipedia's policies and guidelines]]. If the page is deleted, and you wish to retrieve the deleted material for future reference or improvement, then please contact the deleting administrator, or if you have already done so, you can place a request [[WP:RFUD|here]]. &lt;!-- Template:Db-spam-notice --&gt; &lt;!-- Template:Db-csd-notice-custom --&gt; [[User:GZWDer|GZWDer]] ([[User talk:GZWDer|talk]]) 10:51, 20 July 2015 (UTC)
+	</talkpage>
+</article>

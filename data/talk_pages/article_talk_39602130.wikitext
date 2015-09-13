@@ -1,0 +1,7 @@
+<article id="39602130" title=Talk:Randhir (actor)>
+	<talkpage id="39602130" title="Talk:Randhir (actor)">
+{{WikiProject Biography
+|living=yes
+}}
+	</talkpage>
+</article>

@@ -1,0 +1,23 @@
+<article id="33754882" title=Talk:Park Won-soon>
+	<talkpage id="33754882" title="Talk:Park Won-soon">
+{{WikiProject Biography
+|living=yes
+|class=|listas=Park, Won-soon
+}}
+{{WikiProject Korea}}
+
+==File:Parkwonsoon.png Nominated for speedy Deletion==
+{|
+|-
+| [[File:Image-x-generic.svg|100px]] 
+| An image used in this article, [[commons:File:Parkwonsoon.png|File:Parkwonsoon.png]], has been nominated for speedy deletion at [[Wikimedia Commons]] for the following reason: ''Copyright violations'' 
+;What should I do?
+''Don't panic''; deletions can take a little longer at Commons than they do on Wikipedia. This gives you an opportunity to contest the deletion (although please review Commons guidelines before doing so). The best way to contest this form of deletion is by posting on the image talk page.
+* If the image is [[WP:NFCC|non-free]] then you may need to upload it to Wikipedia (Commons does not allow fair use)
+* If the image isn't freely licensed and there is no [[WP:FUR|fair use rationale]] then it cannot be uploaded or used.
+* If the image has already been deleted you may want to try [[commons:COM:UR|Commons Undeletion Request]]
+
+''This notification is provided by a Bot'' --[[User:CommonsNotificationBot|CommonsNotificationBot]] ([[User talk:CommonsNotificationBot|talk]]) 09:47, 15 November 2011 (UTC)
+|}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="40339039" title=Talk:2004–05 Venezuelan Primera División season>
+	<talkpage id="40339039" title="Talk:2004–05 Venezuelan Primera División season">
+{{Football|class=Start|importance=Low|season=yes}}
+	</talkpage>
+</article>

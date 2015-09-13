@@ -1,0 +1,5 @@
+<article id="42030512" title=Talk:Preljubje>
+	<talkpage id="42030512" title="Talk:Preljubje">
+{{WPMKD}}
+	</talkpage>
+</article>

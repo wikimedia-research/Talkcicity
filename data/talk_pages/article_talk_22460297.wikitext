@@ -1,0 +1,5 @@
+<article id="22460297" title=Talk:Paternkofel>
+	<talkpage id="22460297" title="Talk:Paternkofel">
+{{WikiProject Mountains|class=Stub|importance=Low}}
+	</talkpage>
+</article>

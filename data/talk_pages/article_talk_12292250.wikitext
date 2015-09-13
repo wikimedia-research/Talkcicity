@@ -1,0 +1,11 @@
+<article id="12292250" title=Talk:Dirk Martens>
+	<talkpage id="12292250" title="Talk:Dirk Martens">
+{{WikiProject Biography
+|living=no
+|class=Stub
+|auto=yes
+|listas=Martens, Dick
+}}
+{{WikiProject Belgium|class=stub}}
+	</talkpage>
+</article>

@@ -1,0 +1,13 @@
+<article id="21162007" title=Talk:Anna Koltovskaya>
+	<talkpage id="21162007" title="Talk:Anna Koltovskaya">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=no
+|class=Stub
+|listas=Koltovskaya, Anna
+}}
+{{WikiProject Russia|class=Start|importance=Mid|hist=yes|relig=yes}}
+{{WikiProject Women's History|class=start|importance=low}}
+}}
+	</talkpage>
+</article>

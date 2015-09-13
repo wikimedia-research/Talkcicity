@@ -1,0 +1,12 @@
+<article id="25549543" title=User talk:Sjmakaveli26>
+	<talkpage id="25549543" title="User talk:Sjmakaveli26">
+
+==[[:Raging Phoenix]]==
+[[Image:Copyright-problem.svg|left|40px]]
+This is an automated message from [[User:CorenSearchBot|CorenSearchBot]].  I have performed a web search with the contents of [[:Raging Phoenix]], and it appears to include a substantial copy of http://www.kungfucinema.com/trailer-and-pics-for-yanins-raging-phoenix-9468.  For legal reasons, we cannot accept copyrighted text or images borrowed from other web sites or printed material; such additions will be deleted. You may use external websites as a source of information, but not as a source of sentences. See our [[Wikipedia:Copyrights|copyright policy]] for further details.
+
+This message was placed automatically, and it is possible that the bot is confused and found similarity where none actually exists.  If that is the case, you can remove the tag from the article and it would be appreciated if you could drop a note on [[User talk:Coren|the maintainer's talk page]]. [[User:CorenSearchBot|CorenSearchBot]] ([[User talk:CorenSearchBot|talk]]) 21:43, 24 December 2009 (UTC)
+
+Hi.  For your own sake, please don't post sensitive personal info.  Thanks.  :)  --[[User:PMDrive1061|PMDrive1061]] ([[User talk:PMDrive1061|talk]]) 22:06, 24 December 2009 (UTC)
+	</talkpage>
+</article>

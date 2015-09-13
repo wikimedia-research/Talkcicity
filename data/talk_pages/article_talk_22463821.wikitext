@@ -1,0 +1,136 @@
+<article id="22463821" title=Talk:Evan Turner/GA1>
+	<talkpage id="22463821" title="Talk:Evan Turner/GA1">
+==Evan Turner GA Review==
+&lt;noinclude&gt;{{al|{{#titleparts:Evan Turner/GA1|-1}}|noname=yes}}&lt;br/&gt;&lt;/noinclude&gt;&lt;includeonly&gt;:''This review is [[WP:transclusion|transcluded]] from [[Talk:Evan Turner/GA1]]. The edit link for this section can be used to add comments to the review.''&lt;/includeonly&gt;
+&lt;!-- Please add all review comments below this comment, and do not alter what is above. To keep the review within a single section, please do not use level 2 headers (==...==) below to break up the review. Use level 3 (===...===), level 4 and so on.--&gt;
+===Review 1===
+====Lead====
+''He was born in Chicago, Illinois.''
+
+This doesn’t need a separate sentence; it can go right beside his birth date.
+*done.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|t]]/[[Special:Contributions/TonyTheTiger|c]]/[[User:TonyTheTiger/Antonio Vernon|bio]]/[[WP:CHICAGO]]/[[WP:LOTM]]) &lt;/small&gt; 13:28, 18 April 2009 (UTC)
+**The should not be capitalized, or part of the wikilink. [[User:Noble Story|Noble Story]] ([[User talk:Noble Story|talk]] • [[Special:Contributions/Noble Story|contributions]]) 12:06, 19 April 2009 (UTC)
+
+''He has officially decided to return for his junior season in 2009-10.''
+
+This needs to be put in chronologically, if at all, in the lead.
+*done.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|t]]/[[Special:Contributions/TonyTheTiger|c]]/[[User:TonyTheTiger/Antonio Vernon|bio]]/[[WP:CHICAGO]]/[[WP:LOTM]]) &lt;/small&gt; 13:28, 18 April 2009 (UTC)
+
+''Turner attended St. Joseph High School in Westchester, a Chicago suburb. In high school, he was overshadowed at first by teammate Demetri McCamey and then later by fellow Chicagoland basketball star Derrick Rose.''
+
+How about: “Turner attended St. Joseph High School in Westchester, where he overshadowed at first by teammate Demetri McCamey and then later by fellow Chicagoland basketball star Derrick Rose.'' Also please use something other than the very obscure and informal “Chicagoland”.
+*done.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|t]]/[[Special:Contributions/TonyTheTiger|c]]/[[User:TonyTheTiger/Antonio Vernon|bio]]/[[WP:CHICAGO]]/[[WP:LOTM]]) &lt;/small&gt; 13:28, 18 April 2009 (UTC)
+
+You go right on from his being overshadowed, to college. Nothing about his HS career, his recruitment, and all that?
+*done.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|t]]/[[Special:Contributions/TonyTheTiger|c]]/[[User:TonyTheTiger/Antonio Vernon|bio]]/[[WP:CHICAGO]]/[[WP:LOTM]]) &lt;/small&gt; 13:28, 18 April 2009 (UTC)
+**Not really. You don't have any transition between HS and college. [[User:Noble Story|Noble Story]] ([[User talk:Noble Story|talk]] • [[Special:Contributions/Noble Story|contributions]]) 12:06, 19 April 2009 (UTC)
+
+‘‘He was also selected as a member of the 2009 Big Ten Conference Men's Basketball Tournament team.''
+
+I think it should “All-2009 Big Ten...”
+*done.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|t]]/[[Special:Contributions/TonyTheTiger|c]]/[[User:TonyTheTiger/Antonio Vernon|bio]]/[[WP:CHICAGO]]/[[WP:LOTM]]) &lt;/small&gt; 13:28, 18 April 2009 (UTC)
+
+====Youth career====
+The section should be renamed; most people would say he’s still a “youth”.
+*O.K.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|t]]/[[Special:Contributions/TonyTheTiger|c]]/[[User:TonyTheTiger/Antonio Vernon|bio]]/[[WP:CHICAGO]]/[[WP:LOTM]]) &lt;/small&gt; 13:30, 18 April 2009 (UTC)
+
+''Turner was a star on the 2002-03 Gwendolyn Brooks Middle School's varsity boys basketball that team finished the 2002-03 season with a record of 23-2.''
+
+“boys basketball that team” is ungrammatical.
+*fixed.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|t]]/[[Special:Contributions/TonyTheTiger|c]]/[[User:TonyTheTiger/Antonio Vernon|bio]]/[[WP:CHICAGO]]/[[WP:LOTM]]) &lt;/small&gt; 13:33, 18 April 2009 (UTC)
+
+''During summer 2004, he played in the 2004 AAU Boys 15-under Basketball National Championship Tournament for the Illinois Knights.''
+
+Should be “summer of 2004”. You also repeat 2004 twice. And, no word on the actual results of the team?
+*On WP, the proper correction is Summer 2004, I believe.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|t]]/[[Special:Contributions/TonyTheTiger|c]]/[[User:TonyTheTiger/Antonio Vernon|bio]]/[[WP:CHICAGO]]/[[WP:LOTM]]) &lt;/small&gt; 13:33, 18 April 2009 (UTC)
+*It is a summer basketball camp. Team results are not readily available.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|t]]/[[Special:Contributions/TonyTheTiger|c]]/[[User:TonyTheTiger/Antonio Vernon|bio]]/[[WP:CHICAGO]]/[[WP:LOTM]]) &lt;/small&gt; 13:39, 18 April 2009 (UTC)
+::I find nothing in MOS indicating either way, although I personally thinking &quot;summer of&quot; is the correct way. However, [[WP:SEASON]] says &quot;neutral wording may be preferable (in early 1990, in the second quarter of 2003, around September).&quot; A good idea would be to follow that. [[User:Noble Story|Noble Story]] ([[User talk:Noble Story|talk]] • [[Special:Contributions/Noble Story|contributions]]) 13:46, 18 April 2009 (UTC)
+:::For the format of the modification that I used, I think it is correct as I have changed it because summer is modifying the camp name.  Upon your review, let me know if you disagree.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|t]]/[[Special:Contributions/TonyTheTiger|c]]/[[User:TonyTheTiger/Antonio Vernon|bio]]/[[WP:CHICAGO]]/[[WP:LOTM]]) &lt;/small&gt; 13:52, 18 April 2009 (UTC)
+
+''As a high school sophomore, he helped lead a St. Josephs run in the Illinois AA Boys High School basketball tournament''
+
+You need to say something about his enrolling in HS, so readers know what St. Joseph’s is.
+*In the previous paragraph they were introduced with a link. I expanded the sentence, however.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|t]]/[[Special:Contributions/TonyTheTiger|c]]/[[User:TonyTheTiger/Antonio Vernon|bio]]/[[WP:CHICAGO]]/[[WP:LOTM]]) &lt;/small&gt; 13:41, 18 April 2009 (UTC)
+**Ah, OK, never mind. The first way was the better way. Sorry. However, you do need to say how they finished. Where did their run end? [[User:Noble Story|Noble Story]] ([[User talk:Noble Story|talk]] • [[Special:Contributions/Noble Story|contributions]]) 12:06, 19 April 2009 (UTC)
+
+''At the beginning of his junior season, Chicago Tribune named him to a top Chicago metropolitan area basketball list,''
+
+What kind of list? Player list?
+*Fixed.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|t]]/[[Special:Contributions/TonyTheTiger|c]]/[[User:TonyTheTiger/Antonio Vernon|bio]]/[[WP:CHICAGO]]/[[WP:LOTM]]) &lt;/small&gt; 13:48, 18 April 2009 (UTC)
+
+‘‘The team went to the state sectional final before its season ended.''
+
+The team went to the section finals, and then what? They lost? You should elaborate.
+*O.K.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|t]]/[[Special:Contributions/TonyTheTiger|c]]/[[User:TonyTheTiger/Antonio Vernon|bio]]/[[WP:CHICAGO]]/[[WP:LOTM]]) &lt;/small&gt; 14:00, 18 April 2009 (UTC)
+
+''At the conclusion of the season, he committed to Ohio State.''
+
+You already say “at the end of season”, so maybe “during the summer of 2005” or whatever.
+*O.K.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|t]]/[[Special:Contributions/TonyTheTiger|c]]/[[User:TonyTheTiger/Antonio Vernon|bio]]/[[WP:CHICAGO]]/[[WP:LOTM]]) &lt;/small&gt; 14:00, 18 April 2009 (UTC)
+
+''Turner's father, James Turner, lived in Columbus, Ohio and Turner had visited him every summer since he was ten years old.''
+
+The connection between him going to OSU and his father needs to be clearer. Like, did his dad actually influence him, talk directly to him about it? As it is, the sentence looks like it has nothing all to do with the preceding sentences.
+*Fixed.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|t]]/[[Special:Contributions/TonyTheTiger|c]]/[[User:TonyTheTiger/Antonio Vernon|bio]]/[[WP:CHICAGO]]/[[WP:LOTM]]) &lt;/small&gt; 14:03, 18 April 2009 (UTC)
+
+''During his senior season, his team was listed second to Rose's Simeon in the preseason Tribune rankings.''
+
+Second in state? Country? Also, it should be “Simeon High School” or whatever the full name is.
+*O.K.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|t]]/[[Special:Contributions/TonyTheTiger|c]]/[[User:TonyTheTiger/Antonio Vernon|bio]]/[[WP:CHICAGO]]/[[WP:LOTM]]) &lt;/small&gt; 14:19, 18 April 2009 (UTC)
+
+OK, then about the scouting box. Can you tell me how much it adds that isn’t already there, or couldn’t be conveyed better in plain text, not a table?
+*Personally, I think it adds pizzazz to a player page.  As people get use to using them, (I have only added them to {{icon|GA}} [[Manny Harris]], {{icon|GA}} [[DeShawn Sims]], and [[Sherron Collins]] so far.) they will find info about the players entering class of recruits at his original university.  The word is out on whether they are properly used and I think some modification of the box might be useful since it was designed for team articles such as [[2008–09 Michigan Wolverines men's basketball team]].  So far both prior GACs have passed with the feature.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|t]]/[[Special:Contributions/TonyTheTiger|c]]/[[User:TonyTheTiger/Antonio Vernon|bio]]/[[WP:CHICAGO]]/[[WP:LOTM]]) &lt;/small&gt; 14:19, 18 April 2009 (UTC)
+**Well, I guess I have no comment. Personally, I think it messes up the page, since there's a big white space to the left of the table. But if or when this article passes, the pass cannot be construed as an encouragement of those boxes. (end official statement) [[User:Noble Story|Noble Story]] ([[User talk:Noble Story|talk]] • [[Special:Contributions/Noble Story|contributions]]) 12:06, 19 April 2009 (UTC)
+
+====College career====
+''As a freshman, he helped Ohio State win the 2008 National Invitation Tournament by totalling 37 points, 14 rebounds, 9 assists and 6 steals in the tournament's semifinal and final round at Madison Square Garden.''
+
+Why not just say “semifinal and final”? Also, maybe you just do averages, as “totalling” can be a bit confusing.
+*MSG is sort of seen as &quot;The Big Stage&quot; in certain contexts and is relevant for this article in that sense.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|t]]/[[Special:Contributions/TonyTheTiger|c]]/[[User:TonyTheTiger/Antonio Vernon|bio]]/[[WP:CHICAGO]]/[[WP:LOTM]]) &lt;/small&gt; 14:46, 18 April 2009 (UTC)
+
+Also, what about his freshman season averages? How did he help OSU in the season, and what were their final results? The coverage of his freshmen to sophomore seasons is very disproportionate.
+*Added some.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|t]]/[[Special:Contributions/TonyTheTiger|c]]/[[User:TonyTheTiger/Antonio Vernon|bio]]/[[WP:CHICAGO]]/[[WP:LOTM]]) &lt;/small&gt; 14:46, 18 April 2009 (UTC)
+
+''Turner is currently a sophomore guard/forward for the Ohio State Buckeyes men's basketball team of the Big Ten Conference.''
+
+I don’t think this is needed, it really interrupts the flow. The reader can also infer this pretty easily anyway.
+*O.K.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|t]]/[[Special:Contributions/TonyTheTiger|c]]/[[User:TonyTheTiger/Antonio Vernon|bio]]/[[WP:CHICAGO]]/[[WP:LOTM]]) &lt;/small&gt; 14:46, 18 April 2009 (UTC)
+
+''as a sophomore, he was the only person chosen as a unanimous first-team All Big Ten selection by both the coaches and the media at the end of the regular season.''
+
+Try: “he was the only sophomore chosen...”
+*Fixed.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|t]]/[[Special:Contributions/TonyTheTiger|c]]/[[User:TonyTheTiger/Antonio Vernon|bio]]/[[WP:CHICAGO]]/[[WP:LOTM]]) &lt;/small&gt; 14:46, 18 April 2009 (UTC)
+
+''based on voting from its national membership.''
+
+Isn’t this assumed anyway?
+*No. The regional awards could be based on regional voting.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|t]]/[[Special:Contributions/TonyTheTiger|c]]/[[User:TonyTheTiger/Antonio Vernon|bio]]/[[WP:CHICAGO]]/[[WP:LOTM]]) &lt;/small&gt; 14:46, 18 April 2009 (UTC)
+
+''On March 15, he was selected to the 2009 Big Ten Conference Men's Basketball Tournament team although Ohio State was runner up to Purdue.''
+
+Try: “despite Ohio State losing in the final to Purdue.”
+*O.K.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|t]]/[[Special:Contributions/TonyTheTiger|c]]/[[User:TonyTheTiger/Antonio Vernon|bio]]/[[WP:CHICAGO]]/[[WP:LOTM]]) &lt;/small&gt; 14:46, 18 April 2009 (UTC)
+
+''Turner led the Big Ten in scoring as a sophomore.''
+
+This is very isolated, couldn’t you combine somewhere else?
+
+*I have rearranged the text.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|t]]/[[Special:Contributions/TonyTheTiger|c]]/[[User:TonyTheTiger/Antonio Vernon|bio]]/[[WP:CHICAGO]]/[[WP:LOTM]]) &lt;/small&gt; 14:49, 18 April 2009 (UTC)
+
+[[User:Noble Story|Noble Story]] ([[User talk:Noble Story|talk]] • [[Special:Contributions/Noble Story|contributions]]) 08:59, 18 April 2009 (UTC)
+
+===Review 2===
+''...it ranked St. Josephs was ranked...''
+
+This is ungrammatical. 
+*Fixed.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|t]]/[[Special:Contributions/TonyTheTiger|c]]/[[User:TonyTheTiger/Antonio Vernon|bio]]/[[WP:CHICAGO]]/[[WP:LOTM]]) &lt;/small&gt; 13:56, 19 April 2009 (UTC)
+
+''As a sophomore guard/forward for the Ohio State Buckeyes''
+
+You repeat sophomore. 
+*Fixed.--[[User:TonyTheTiger|TonyTheTiger]] &lt;small&gt;([[User talk:TonyTheTiger|t]]/[[Special:Contributions/TonyTheTiger|c]]/[[User:TonyTheTiger/Antonio Vernon|bio]]/[[WP:CHICAGO]]/[[WP:LOTM]]) &lt;/small&gt; 13:55, 19 April 2009 (UTC)
+
+[[User:Noble Story|Noble Story]] ([[User talk:Noble Story|talk]] • [[Special:Contributions/Noble Story|contributions]]) 12:06, 19 April 2009 (UTC)
+:OK, it looks like a pass. [[User:Noble Story|Noble Story]] ([[User talk:Noble Story|talk]] • [[Special:Contributions/Noble Story|contributions]]) 06:00, 22 April 2009 (UTC)
+	</talkpage>
+</article>

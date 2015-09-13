@@ -1,0 +1,26 @@
+<article id="40946016" title=User talk:Ns25>
+	<talkpage id="40946016" title="User talk:Ns25">
+== Welcome to Wikipedia: check out the Teahouse! ==
+
+{{Wikipedia:Teahouse/Invitation}} I, and the rest of the hosts, would be more than happy to answer any questions you have! [[User:SarahStierch|SarahStierch]] ([[User talk:SarahStierch|talk]]) 05:44, 1 November 2013 (UTC)
+== Your submission at [[Wikipedia:Articles for creation|Articles for creation]]: [[Wikipedia talk:Articles for creation/Audley Retirement|Audley Retirement]] (November 24) ==
+&lt;div style=&quot;border:solid 1px #9accf6;background:#f1f9ff;padding:1em;padding-top:0.5em;padding-bottom:0.5em;width:20em;color:black;margin-bottom: 1.5em;margin-left: 1.5em;width: 90%;&quot;&gt; [[File:AFC-Logo_Decline.svg|50px|left]]Thank you for your recent submission to [[WP:AFC|Articles for Creation]]. Your article submission has been reviewed.  Unfortunately, it has not been accepted at this time. Please view your submission to see the comments left by the reviewer. You are welcome to edit the submission to address the issues raised, and resubmit if you feel they have been resolved.&lt;br&gt;&lt;br&gt;
+&lt;div class=&quot;plainlinks&quot;&gt;
+* If you would like to continue working on the submission, you can find it at {{#ifeq:¬|¬|[[{{#ifeq:¬|¬|Wikipedia&amp;#32;talk:Articles for creation/|{{#ifeq:{{{2}}}|||{{{2}}}/}}}}Audley&amp;#32;Retirement]]|[[{{{full}}}]]}}.
+* To edit the submission, click on the &quot;Edit&quot; tab at the top of the window.
+* If you need any assistance, you can ask for help at the [{{fullurl:Wikipedia:WikiProject_Articles_for_creation/Help_desk|action=edit&amp;section=new}} '''Articles for creation help desk'''], or on the &lt;span class=&quot;noprint plainlinks&quot;&gt;[{{fullurl:User_talk:FairyTailRocks|action=edit&amp;section=new reviewer's talk page]}}&lt;/span&gt;. Please remember to link to the submission!
+*You can also get [http://webchat.freenode.net/?channels=#wikipedia-en-help real-time chat help from experienced editors].
+:Thank you for your contributions to Wikipedia! [[User:FairyTailRocks|FairyTailRocks]] ([[User talk:FairyTailRocks|talk]]) 07:59, 24 November 2013 (UTC)&lt;/div&gt;&lt;!--Template:Afc decline--&gt;&lt;/div&gt;
+
+==Your draft article, [[Wikipedia talk:Articles for creation/Audley Retirement]]==
+[[File:Information icon4.svg|48px|left|alt=|link=]]
+
+Hello Ns25. It has been over six months since you last edited your [[WP:AFC]] draft article submission, entitled &quot;[[Wikipedia talk:Articles for creation/Audley Retirement|Audley Retirement]]&quot;. 
+
+The page will shortly be deleted. If you plan on editing the page to address the issues raised when it was declined and resubmit it, simply {{edit|Wikipedia talk:Articles for creation/Audley Retirement|edit the submission}} and remove the {{tlc|db-afc}} or {{tlc|db-g13}} code. Please note that Articles for Creation is not for indefinite hosting of material deemed unsuitable for the encyclopedia [[WP:mainspace|mainspace]].
+
+If your submission has already been deleted by the time you get there, and you want to retrieve it, copy this code: &lt;code&gt;&lt;nowiki&gt;{{subst:Refund/G13|&lt;/nowiki&gt;Wikipedia talk:Articles for creation/Audley Retirement&lt;nowiki&gt;}}&lt;/nowiki&gt;&lt;/code&gt;, paste it in the edit box at &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/w/index.php?title=Wikipedia:Requests_for_undeletion&amp;action=edit&amp;section=new this link]&lt;/span&gt;, click &quot;Save page&quot;, and an administrator will in most cases undelete the submission.
+
+Thanks for your submission to Wikipedia, and happy editing. &lt;!-- Template:Db-afc-notice --&gt;  [[User:Rankersbo|Rankersbo]] ([[User talk:Rankersbo|talk]]) 10:15, 27 June 2014 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="42699314" title=Talk:Archips asiaticus>
+	<talkpage id="42699314" title="Talk:Archips asiaticus">
+{{LepidopteraTalk|class=stub|importance=low}}
+	</talkpage>
+</article>

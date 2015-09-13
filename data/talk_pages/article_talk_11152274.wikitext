@@ -1,0 +1,37 @@
+<article id="11152274" title=User talk:Ebiya~enwiki>
+	<talkpage id="11152274" title="User talk:Ebiya~enwiki">
+==May 2007==
+=={{{header-text|Notability of [[:Josef Ebiya]]}}}==
+A tag has been placed on [[:Josef Ebiya]], requesting that it be [[Wikipedia:Criteria for speedy deletion|speedily deleted]] from Wikipedia. This has been done because the article seems to be about a person, group of people, band, club, company, or web content, but it does not indicate how or why the subject is notable: that is, why an article about that subject should be included in an encyclopedia. Under the [[WP:CSD#Articles|criteria for speedy deletion]], articles that do not assert the subject's importance or significance may be deleted at any time. Please [[Wikipedia:Notability|see the guidelines for what is generally accepted as notable]]. 
+
+If you feel that you can assert the notability of the subject, you may contest the deletion. To do this, add &lt;code&gt;{{tl|hangon}}&lt;/code&gt; on the top of the page (just below the existing speedy deletion or &quot;db&quot; tag) and leave a note on [[Talk:Josef Ebiya|the article's talk page]] explaining your position. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the article that would confirm the subject's notability under Wikipedia guidelines.
+
+For guidelines on specific types of articles, you may want to check out our criteria [[Wikipedia:Notability (people)|for biographies]], [[WP:WEB|for web sites]], [[WP:BAND|for bands]], or [[WP:CORP|for companies]]. Feel free to leave a note on my talk page if you have any questions about this.&lt;!-- Template:Nn-warn --&gt;  [[User:Turlo Lomon|Turlo Lomon]] 10:00, 10 May 2007 (UTC)
+
+Some of the people, places or things you have written about {{#if:{{{1|}}}|in the article [[{{{1}}}]]|on Wikipedia}} may not be sufficiently well-known to merit articles of their own. The Wikipedia community [[Wikipedia:Introduction|welcomes newcomers]]. On Wikipedia, all users are entitled to a [[Wikipedia:user page|user page]] in which they can describe themselves, and this article's content may be incorporated into that page. However, to merit inclusion in the encyclopedia proper, a subject must be [[Wikipedia:Notability (people)|notable]], with reference to [[Wikipedia:Reliable sources|reliable published sources]]. We encourage you to write or improve articles on notable subjects. &lt;!-- Template:ConflictOfInterest --&gt;  [[User:Turlo Lomon|Turlo Lomon]] 10:01, 10 May 2007 (UTC)
+
+== Your account will be renamed ==
+
+&lt;div class=&quot;plainlinks mw-content-ltr&quot; lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;
+Hello,
+
+The developer team at Wikimedia is making some changes to how accounts work, as part of our on-going efforts to provide new and better tools for our users like cross-wiki notifications. These changes will mean you have the same account name everywhere. This will let us give you new features that will help you edit and discuss better, and allow more flexible user permissions for tools. One of the side-effects of this is that user accounts will now have to be unique across all 900 Wikimedia wikis. See [[m:Special:MyLanguage/Single User Login finalisation announcement|the announcement]] for more information.
+
+Unfortunately, your account clashes with another account also called Ebiya. To make sure that both of you can use all Wikimedia projects in future, we have reserved the name Ebiya~enwiki that only you will have. If you like it, you don't have to do anything. If you do not like it, you can [[Special:GlobalRenameRequest|pick out a different name]]. If you think you might own all of the accounts with this name and this message is in error, please visit [[Special:MergeAccount]] to check and attach all of your accounts to prevent them from being renamed.
+
+Your account will still work as before, and you will be credited for all your edits made so far, but you will have to use the new account name when you log in.
+
+Sorry for the inconvenience.
+
+Yours,&lt;br /&gt;[[m:User:Keegan (WMF)|Keegan Peterzell]]&lt;br /&gt;Community Liaison, Wikimedia Foundation
+&lt;/div&gt; 23:36, 19 March 2015 (UTC)
+&lt;!-- SUL finalisation notification --&gt;
+
+== Renamed ==
+
+&lt;div class=&quot;plainlinks mw-content-ltr&quot; lang=&quot;en&quot; dir=&quot;ltr”&gt;
+This account has been renamed as part of [[m:Special:MyLanguage/Single User Login finalisation announcement|single-user login finalisation]]. If you own this account you can [[{{#special:userlogin}}|log in using your previous username and password]] for more information. If you do not like this account's new name, you can choose your own using this form after logging in: [[{{#special:GlobalRenameRequest}}]]. -- [[m:User:Keegan (WMF)|Keegan (WMF)]] ([[m:User talk:Keegan (WMF)|talk]])
+&lt;/div&gt; 12:24, 22 April 2015 (UTC)
+&lt;!-- SUL post-rename notification --&gt;
+	</talkpage>
+</article>

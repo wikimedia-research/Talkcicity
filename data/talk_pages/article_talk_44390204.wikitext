@@ -1,0 +1,7 @@
+<article id="44390204" title=Talk:German submarine U-678>
+	<talkpage id="44390204" title="Talk:German submarine U-678">
+{{WPGermany|class=start|B1=n|B2=n|B3=y|B4=y|B5=y}}
+{{WPSHIPS|class=start|B1=n|B2=n|B3=y|B4=y|B5=y}}
+{{WPMILHIST|class=start|B1=n|B2=n|B3=y|B4=y|B5=y|German=y|Maritime=y|WWII=y}}
+	</talkpage>
+</article>

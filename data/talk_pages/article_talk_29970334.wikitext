@@ -1,0 +1,60 @@
+<article id="29970334" title=Talk:Ultrasonic impact treatment>
+	<talkpage id="29970334" title="Talk:Ultrasonic impact treatment">
+{{metalworking|class=C|importance=low}}
+
+Copyleft notice added to footer of page here: http://appliedultrasonics.com/solutions.html (this page has most of the technical info)
+Full text of Copyleft statement here: http://appliedultrasonics.com/copyleft.html
+
+[[User:Hcd2|Crockett Dunn]] ([[User talk:Hcd2|talk]]) 20:34, 13 December 2010 (UTC)
+
+== Created Temp page, found releasable source, waiting for designers to post release on web page (deadline= 12/15) ==
+OK, I found a source to which we can add a copyright release: http://appliedultrasonics.com/solutions.html (click tools of the trade, and Esonix Video.
+
+I will get a copyright release added to this web site shortly.
+
+[[User:Hcd2|Crockett Dunn]] ([[User talk:Hcd2|talk]]) 23:02, 8 December 2010 (UTC)
+
+It appears that the violation was the first sentence of the Theory section.  It was verbatim the same as sentence one of The Technology: Principal, [[here|http://books.google.com/books?id=uczkKDKn5HYC&amp;lpg=PA225&amp;dq=%22ultrasonic%20impact%20treatment%22&amp;pg=PA225#v=onepage&amp;q=%22ultrasonic%20impact%20treatment%22&amp;f=false]].
+
+I've posted an update on the temp page, and I will wait until I see that it's no longer listed as Possible Copyright Infringement before restoring the other material.  If this content continues to be contested, we will seek a release from our publisher.
+[[User:Hcd2|Crockett Dunn]] ([[User talk:Hcd2|talk]]) 22:42, 8 December 2010 (UTC)
+
+
+Change history here:
+http://en.wikipedia.org/w/index.php?title=Ultrasonic_impact_treatment&amp;action=history
+[[User:Hcd2|Crockett Dunn]] ([[User talk:Hcd2|talk]]) 22:30, 8 December 2010 (UTC)
+
+Created temp page whilst resolving copyright issue (we have until 12/15): http://en.wikipedia.org/wiki/Talk:Ultrasonic_impact_treatment/Temp
+
+[[User:Hcd2|Crockett Dunn]] ([[User talk:Hcd2|talk]]) 22:28, 8 December 2010 (UTC)
+
+
+'''Background'''
+The author of the deleted page for Ultrasonic Impact Treatment (TayHanes), is my client, Taylor Hanes, Chief Operating Officer of Applied Ultrasonics.  See http://www.appliedultrasonics.com/rapidresponse.html for complete contact information.
+
+Applied Ultrasonics is was formerly branded, &quot;Esonix.&quot;  See 0:50 here: http://www.youtube.com/watch?v=aRPZq8-jEmc.
+
+The cited copyright violation was of the following content:
+http://books.google.com/books?id=uczkKDKn5HYC&amp;lpg=PA225&amp;dq=%22ultrasonic%20impact%20treatment%22&amp;pg=PA226#v=onepage&amp;q=%22ultrasonic%20impact%20treatment%22&amp;f=false)
+
+If you scroll up a page, to here http://books.google.com/books?id=uczkKDKn5HYC&amp;lpg=PA225&amp;dq=%22ultrasonic%20impact%20treatment%22&amp;pg=PA225#v=onepage&amp;q=%22ultrasonic%20impact%20treatment%22&amp;f=true, you can see the authors of this content are L. Teheni and E. Statnikov.
+
+E. Statnikov is the late Efim Statnikov, founder of Applied Ultrasonics, a.k.a. Esonix.  See http://www.appliedultrasonics.com/company.html.  L. Tehini was also a founding member.
+
+Here http://books.google.com/books?id=uczkKDKn5HYC&amp;lpg=PA225&amp;dq=%22ultrasonic%20impact%20treatment%22&amp;pg=PA225#v=onepage&amp;q=%22ultrasonic%20impact%20treatment%22&amp;f=true you can also see the title, &quot;Esonix,&quot; which is the previously marketed name for Applied Ultrasonics (see 0:50 here: http://www.youtube.com/watch?v=aRPZq8-jEmc)
+
+Summary:
+The author of the deleted page on Ultrasonic Impact Treatment is the COO of the company which employs the authors of the cited copyright infringement (thanks SuggestBot).  I am looking into the easiest way to release the copyright: posting the content on their website with a release, adding a release to the Google Book, or emailing a release.  Any advice as to which route is best would be greatly appreciated.
+
+
+Cheers,
+Crockett
+--[[Special:Contributions/67.188.129.47|67.188.129.47]] ([[User talk:67.188.129.47|talk]]) 20:36, 8 December 2010 (UTC)
+
+== Copyright problem removed ==
+
+One or more portions of this article duplicated other source(s). The material was copied from: [http://books.google.com/books?id=uczkKDKn5HYC&amp;lpg=PA225&amp;dq=%22ultrasonic%20impact%20treatment%22&amp;pg=PA226#v=onepage&amp;q=%22ultrasonic%20impact%20treatment%22&amp;f=false Structural materials technology IV: an NDT conference]. Infringing material has been rewritten or removed and must not be restored, ''unless'' it is duly released under a compatible license. (For more information, please see [[Wikipedia:COPYRIGHT#Using_copyrighted_work_from_others|&quot;using copyrighted works from others&quot;]] if you are not the copyright holder of this material, or [[Wikipedia:Donating copyrighted materials|&quot;donating copyrighted materials&quot;]] if you are.) For [[Wikipedia:Copyrights|legal reasons]], we cannot accept [[Wikipedia:Copyrights|copyrighted]] text or images borrowed from other web sites or published material; such additions will be deleted. Contributors may use copyrighted publications as a source of ''information'', but not as a source of ''sentences'' or ''phrases''. Accordingly, the material ''may'' be rewritten, but only if it does not infringe on the copyright of the original ''or'' [[Wikipedia:Plagiarism|plagiarize]] from that source. Please see our [[Wikipedia:NFC#Text|guideline on non-free text]] for how to properly implement limited quotations of copyrighted text. Wikipedia takes copyright violations very seriously, and persistent violators '''will''' be [[Wikipedia:Blocking policy|blocked]] from editing. While we appreciate contributions, we must require all contributors to understand and comply with these policies. Thank you. &lt;!-- Template:Cclean --&gt; [[User:Moonriddengirl|Moonriddengirl]] &lt;sup&gt;[[User talk:Moonriddengirl|(talk)]]&lt;/sup&gt; 21:56, 13 December 2010 (UTC)
+
+:So you reworded the text to solve the copyvio problem? [[User:Wizard191|Wizard191]] ([[User talk:Wizard191|talk]]) 19:20, 13 January 2011 (UTC)
+	</talkpage>
+</article>

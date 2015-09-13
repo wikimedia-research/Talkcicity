@@ -1,0 +1,6 @@
+<article id="6268555" title=Talk:Mugesera v Canada (Minister of Citizenship and Immigration)>
+	<talkpage id="6268555" title="Talk:Mugesera v Canada (Minister of Citizenship and Immigration)">
+{{WikiProject Canada|canlaw=yes|class=Stub|importance=Low}}
+{{WikiProject Law|class=Stub}}
+	</talkpage>
+</article>

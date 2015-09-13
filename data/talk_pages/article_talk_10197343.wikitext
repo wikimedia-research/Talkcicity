@@ -1,0 +1,5 @@
+<article id="10197343" title=Talk:The Jade Box>
+	<talkpage id="10197343" title="Talk:The Jade Box">
+{{WikiProject Film|American-task-force=yes|class=start|needs-image=yes|Silent=yes}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="102590" title=Talk:Beethoven (disambiguation)>
+	<talkpage id="102590" title="Talk:Beethoven (disambiguation)">
+{{DisambigProject}}
+	</talkpage>
+</article>

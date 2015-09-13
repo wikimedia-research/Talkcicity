@@ -1,0 +1,5 @@
+<article id="34320858" title=Talk:Vinny Guadagnino>
+	<talkpage id="34320858" title="Talk:Vinny Guadagnino">
+{{WikiProject Biography|living=yes|class=start|listas=Guadagnino, Vinny|a&amp;e-work-group=yes}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="16744052" title=Talk:Isojoki>
+	<talkpage id="16744052" title="Talk:Isojoki">
+{{WikiProject Finland|class=Stub}}
+	</talkpage>
+</article>

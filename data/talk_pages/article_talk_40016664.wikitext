@@ -1,0 +1,5 @@
+<article id="40016664" title=Talk:Słonowice>
+	<talkpage id="40016664" title="Talk:Słonowice">
+{{DisambigProject|class=}}
+	</talkpage>
+</article>

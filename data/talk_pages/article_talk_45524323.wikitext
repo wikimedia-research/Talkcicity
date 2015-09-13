@@ -1,0 +1,5 @@
+<article id="45524323" title=Talk:Farm to Market Road 352>
+	<talkpage id="45524323" title="Talk:Farm to Market Road 352">
+{{WikiProject U.S. Roads|state=TX|class=Redirect}}
+	</talkpage>
+</article>

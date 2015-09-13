@@ -1,0 +1,7 @@
+<article id="46406913" title=Talk:Brad Beaumont>
+	<talkpage id="46406913" title="Talk:Brad Beaumont">
+{{WikiProject Biography|living=yes|class=Stub|listas=}}
+
+{{WikiProject Football}}
+	</talkpage>
+</article>

@@ -1,0 +1,82 @@
+<article id="34788330" title=Talk:Politehnica University of Timișoara>
+	<talkpage id="34788330" title="Talk:Politehnica University of Timișoara">
+{{WikiProject Romania|class=|importance=}}
+{{WikiProject Universities|class=Start|importance=}}
+
+
+== Requested move 15 January 2015 ==
+&lt;div class=&quot;boilerplate&quot; style=&quot;background-color: #efe; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px dotted #aaa;&quot;&gt;&lt;!-- Template:RM top --&gt;
+:''The following is a closed discussion of a [[WP:requested moves|requested move]]. &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made in a new section on the talk page. Editors desiring to contest the closing decision should consider a [[Wikipedia:move review|move review]]. No further edits should be made to this section. ''
+
+The result of the move request was: '''no consensus'''. {{RMnac}} [[User:Calidum|&lt;span style=&quot;color:#C60C30; font-family:serif&quot;&gt;'''-- ''Calidum'''''&lt;/span&gt;]] 05:25, 27 January 2015 (UTC)
+
+----
+
+
+[[:Polytechnic University of Timișoara]] → {{no redirect|Politehnica University of Timisoara}} – The University has recently changed formally its Official Name, and we would like to use the official translation for the Wikipedia page in english. Official papers can be provided, upon request from an admin / moderator. [[User:Andrei.craciun84|Andrei.craciun84]] ([[User talk:Andrei.craciun84|talk]]) 13:43, 15 January 2015 (UTC)
+*'''Oppose for now''' per [[WP:OFFICIALNAME]] and [[WP:COMMONNAME]]. Yes, the university may have changed its official name, but what matters here is the commonly used name in English. I have not seen evidence that this has changed yet. &amp;nbsp;&amp;mdash;&amp;nbsp;[[User:Amakuru|Amakuru]] ([[User talk:Amakuru|talk]]) 10:58, 23 January 2015 (UTC)
+----
+:''The above discussion is preserved as an archive of a [[Wikipedia:Requested moves|requested move]].  &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made in a new section on this talk page or in a [[Wikipedia:Move review|move review]]. No further edits should be made to this section.&lt;/div&gt;&lt;!-- Template:RM bottom --&gt;
+
+== Page Move (February 2015) ==
+&lt;div class=&quot;boilerplate&quot; style=&quot;background-color: #EDEAFF; padding: 0px 10px 0px 10px; border: 1px solid #8779DD;&quot;&gt;
+:''The following discussion is closed. &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made on the appropriate discussion page. No further edits should be made to this discussion.''&lt;!-- from Template:Archive top--&gt;
+----
+
+We will complete the formatting of the article with the new name and solve some of the issues, and also can provide official signed papers that confirm the name change, also in English. Would that suffice for the name change on Wikipedia to be completed?
+
+thank you  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Andrei.craciun84|Andrei.craciun84]] ([[User talk:Andrei.craciun84|talk]] • [[Special:Contributions/Andrei.craciun84|contribs]]) 13:05, 27 January 2015 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+We have made a few modifications to the post and we would like to kindly ask for help in order to change the name of the page, and correlate it with the official new name. An [http://huro.upt.ro/Move_UPT_eng.jpg Official signed paper] by the University management can be accessed for conformity. 
+Andrei Mihai CRĂCIUN 17:31, 1 February 2015 (UTC)
+: OK, done. [[User:Wbm1058|Wbm1058]] ([[User talk:Wbm1058|talk]]) 17:49, 1 February 2015 (UTC)
+
+----
+:''The discussion above is closed.  &lt;span style=&quot;color: #F00;&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made on the appropriate discussion page. No further edits should be made to this discussion.''&lt;!-- from Template:Archive bottom --&gt;&lt;/div&gt;&lt;br style=&quot;clear:both;&quot; /&gt;
+
+== Requested move 3 March 2015 ==
+
+&lt;div class=&quot;boilerplate&quot; style=&quot;background-color: #efe; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px dotted #aaa;&quot;&gt;&lt;!-- Template:RM top --&gt;
+:''The following is a closed discussion of a [[WP:requested moves|requested move]]. &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made in a new section on the talk page. Editors desiring to contest the closing decision should consider a [[Wikipedia:move review|move review]]. No further edits should be made to this section. ''
+
+The result of the move request was: '''Move''' to [[Politehnica University of Timișoara]]. [[User:Cuchullain|Cúchullain]] [[User talk:Cuchullain|&lt;sup&gt;t&lt;/sup&gt;]]/[[Special:Contributions/Cuchullain|&lt;small&gt;c&lt;/small&gt;]] 13:25, 2 April 2015 (UTC)
+
+----
+
+
+[[:Polytechnic University of Timișoara]] → {{no redirect|Politehnica University of Timisoara}} – A requested by the university was made per  [http://huro.upt.ro/Move_UPT_eng.jpg] in the above section as the [[WP:OFFICIALNAME]] of the university has changed. Since this move changes the outcome of a prior move request, a new request is now open. [[Special:Contributions/70.51.200.101|70.51.200.101]] ([[User talk:70.51.200.101|talk]]) 03:59, 3 March 2015 (UTC)
+
+===Survey===
+:''Feel free to state your position on the renaming proposal by beginning a new line in this section with'' &lt;code&gt;&lt;nowiki&gt;*'''Support'''&lt;/nowiki&gt;&lt;/code&gt; ''or'' &lt;code&gt;&lt;nowiki&gt;*'''Oppose'''&lt;/nowiki&gt;&lt;/code&gt;'', then sign your comment with'' &lt;code&gt;&lt;nowiki&gt;~~~~&lt;/nowiki&gt;&lt;/code&gt;''. Since [[Wikipedia:Polling is not a substitute for discussion|polling is not a substitute for discussion]], please explain your reasons, taking into account [[Wikipedia:Article titles|Wikipedia's policy on article titles]].''
+
+*'''Comment''' per the failure of the last move request, please keep in mind [[WP:OFFICIALNAME]], [[WP:UCN]], [[WP:UE]] -- [[Special:Contributions/70.51.200.101|70.51.200.101]] ([[User talk:70.51.200.101|talk]]) 04:00, 3 March 2015 (UTC)
+
+*'''Comment''' - leaning toward &quot;Politehnica University of Timișoara&quot;, due to a) consistency with [[Politehnica University of Bucharest]] and b) a seeming preference for this variant by Google/Google Books. However, either is ultimately fine, provided we settle on one, both for the article and the associated categories. - [[User:Biruitorul|Biruitorul]] &lt;small&gt;&lt;sup&gt;[[User talk:Biruitorul|Talk]]&lt;/sup&gt;&lt;/small&gt; 04:37, 3 March 2015 (UTC)
+**'''Support''', [[Politehnica University of Timișoara]] as per similar conclusion as [[User:Biruitorul|Biruitorul]].  [[User:GregKaye|Greg]][[User talk:GregKaye|Kaye]] 13:32, 6 March 2015 (UTC)
+**'''Support''', [[Politehnica University of Timișoara]]. Ditto. [[User:Wbm1058|Wbm1058]] ([[User talk:Wbm1058|talk]]) 17:04, 13 March 2015 (UTC)
+**'''Support''', [[Politehnica University of Timișoara]]. The consistency with the name of Politehnica University of Bucharest although it is true, is not an argument. Each university has its own official name, there is no uniform rule names. The [http://huro.upt.ro/Move_UPT_eng.jpg Official signed paper] is based on the Romanian Government's Decision no. 493 published in the Monitorul Oficial no. 447/2013-07-22. The word ''Politehnica'' in the name of the university (as well as the one in Bucharest) is a proper noun, not an adjective. Is not ''Universitatea Politehnic'''ă''' (adjective) Timișoara'' = Polytechnic University of Timișoara, but ''Universitatea Politehnic'''a''' (noun) of Timișoara''. --[[User:Turbojet|Turbojet]] ([[User talk:Turbojet|talk]]) 08:52, 17 March 2015 (UTC)
+
+===Discussion===
+:''Any additional comments:''
+* PINGing prior participants in the moves {{ping|Calidum|Amakuru|Andrei.craciun84}} -- [[Special:Contributions/70.51.200.101|70.51.200.101]] ([[User talk:70.51.200.101|talk]]) 03:59, 3 March 2015 (UTC)
+
+*'''Comment''' – Two issues here: (1) Whether to put that squiggly line under the ș or not. No opinion on whether &quot;official&quot;, &quot;common&quot;, or &quot;English&quot; names guidelines are relevant to the use of diacritics. [[Timișoara]] has the squiggly; we should probably keep consistent with that. {{no redirect|Timisoara}} redirects there however. (2) No opinion on whether &quot;official&quot;, &quot;common&quot;, or &quot;English&quot; names guidelines are relevant to &quot;Politehnica&quot;. I assume this is the [[Romanian language]] word for &quot;Polytechnic&quot;. If there's a problem with using that word on Wikipedia, then there are [[Politehnica|a couple other articles]] with the problem too. I assume that the University has not changed their Romanian language name, but only the &quot;official name&quot; that they wish to be called in English. Regarding the silly idea that we need to wait for third-party reliable sources to confirm the name change. See [[List of university and college name changes in the United States]]. Show me one case where we intentionally waited for months to see whether sources respected the university's name change, or where reliable sources insisted on continuing to call the school by its old name months or years after the name change. [[User:Wbm1058|Wbm1058]] ([[User talk:Wbm1058|talk]]) 20:15, 3 March 2015 (UTC)
+
+* '''See also''' [[List of institutions using the term &quot;institute of technology&quot; or &quot;polytechnic&quot;]]. If we call Polish universities [[Politechnika]] and Italian universities [[Politecnico]], it seems fair to call Romanian universities &quot;Politehnica&quot;. [[User:Wbm1058|Wbm1058]] ([[User talk:Wbm1058|talk]]) 20:28, 3 March 2015 (UTC)
+
+**I don't really see the use of [[S-comma]] as something we should be debating. Wikipedia uses diacritics for foreign place names, unless there's an especially good reason not to. Moreover, given the existence of not just [[Timișoara]], but also of [[St. George's Cathedral, Timișoara]], [[Roman Catholic Diocese of Timișoara]], [[Timișoara Orthodox Cathedral]], [[Timișoara Traian Vuia International Airport]], [[Banatul Philharmonic of Timișoara]], [[Romanian National Opera, Timișoara]], [[Timișoara Nord railway station]], [[Proclamation of Timișoara]], [[The Timișoara Times]], [[Modern, Timișoara]], [[History of Timișoara]], [[Tibiscus University of Timișoara]], [[West University of Timișoara]], [[Victor Babeș University of Medicine and Pharmacy, Timișoara]], [[List of mayors of Timișoara]], [[Iulius Mall Timișoara]], [[Regia Autonomă de Transport Timișoara]], [[List of places in Timișoara]], [[Timișoara Zoological Garden]], [[Timișoara metropolitan area]], [[Chinezul Timișoara]], [[Coat of arms of Timișoara]], [[ACS Poli Timișoara]], [[Stadionul CFR (Timișoara)]], [[FC Ripensia Timișoara]], [[TVR Timișoara]], [[Timișoara Saracnes]], [[CAM Timișoara]], [[CA Timișoara]], [[CSP UM Timișoara]], [[FC CFR Timișoara]], etc., etc., ''and'' of [[:Category:Timișoara]] and all its subcategories, it would be downright whimsical to omit the diacritic ''only'' in this article. - [[User:Biruitorul|Biruitorul]] &lt;small&gt;&lt;sup&gt;[[User talk:Biruitorul|Talk]]&lt;/sup&gt;&lt;/small&gt; 21:36, 3 March 2015 (UTC)
+
+*Some consideration on official name and common name of the subject.
+:The first name (1920) was ''Școala Politehnică din Timișoara = Polytechnic'' (adjective) ''School of Timișoara'', according to the French model ''[[École Polytechnique]]''.
+
+:In 1948 the communist regime held that only the humanist schools are &quot;universities&quot; (??), the technical ones are &quot;institute&quot;. Therefore the name was ''Institutul Politehnic Timișoara = Polytechnic'' (adj.) ''Institute of Timișoara''. All this time the common name was ''Politehnica din Timișoara = The Polytechnic'' (noun) ''of Timișoara''.
+
+:After 1990, in Germany was told that &quot;institute&quot; means &quot;college&quot;, not &quot;university&quot;. To avoid misunderstandings, the name was changed to ''Universitatea Tehnică din Timișoara = Technical University of Timișoara'', according to the German model ''Technische Universität''. This has confused the public, that would be ''another'' university, not the polytechnic one. It took a name that contains both the words &quot;university&quot; and &quot;polytechnic&quot; (noun). The solution was found in 1995 with the name ''Universitatea „Politehnica” din Timișoara = &quot;Politehnica&quot; University of Timișoara''. The quotation marks indicate that &quot;Politehnica&quot; is a proper noun (name), not common noun.
+
+:But the quotes were annoying (the Romanian quotes are smart quotes, not straight quotes), so that in 2013 have been removed. The word ''Politehnica'' remained a proper noun and should not be translate.
+
+:The actual name of the article, ''Polytechnic'' (adj.) ''University of Timișoara = Universitatea Politehnic'''ă''''' (adj.) ''din Timișoara'' never was the name of the school, neither official nor common, and is the worst option. --[[User:Turbojet|Turbojet]] ([[User talk:Turbojet|talk]]) 19:41, 18 March 2015 (UTC)
+----
+:''The above discussion is preserved as an archive of a [[Wikipedia:Requested moves|requested move]].  &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made in a new section on this talk page or in a [[Wikipedia:Move review|move review]]. No further edits should be made to this section.&lt;/div&gt;&lt;!-- Template:RM bottom --&gt;
+	</talkpage>
+</article>

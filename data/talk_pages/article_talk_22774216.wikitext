@@ -1,0 +1,72 @@
+<article id="22774216" title=User talk:Ksw9298>
+	<talkpage id="22774216" title="User talk:Ksw9298">
+== Welcome ==
+
+Hi, Ksw9298. This is NOT some automated message...it's from a real person. You can [http://toolserver.org/~bjelleklang/pjirc/ talk to me right now]. Welcome to Wikipedia! I noticed you've just joined, and wanted to give you a few tips to get you started. If you have any questions, please [http://toolserver.org/~bjelleklang/pjirc/ talk to us]. The tips below should help you to get started. Best of luck! &lt;small&gt;&lt;span style=&quot;border: 1px solid; background-color:darkblue;&quot;&gt;[[User:Chzz|'''&lt;span style=&quot;background-color:darkblue; color:#FFFFFF&quot;&gt; &amp;nbsp;Chzz&amp;nbsp;&lt;/span&gt;''']][[User talk:Chzz|&lt;span style=&quot;color:#00008B; background-color:yellow; border: 0px solid; &quot;&gt;&amp;nbsp;►&amp;nbsp;&lt;/span&gt;]]&lt;/span&gt;&lt;/small&gt; 12:23, 12 May 2009 (UTC)
+
+{| style=&quot;background-color:#F5FFFA; padding:0;&quot; cellpadding=&quot;0&quot;;
+|style=&quot;border:1px solid #084080; background-color:##E6F2FF; vertical-align:top; color:#000000;&quot;|
+
+[[image:Wikipe-tan_face.jpg|thumb|ようこそ]]
+
+*'''You don't need to read anything''' - anybody can edit; just go to an article and edit it. [[WP:BOLD|Be Bold]], but please don't put silly stuff in - it will be removed very quickly, and will annoy people.
+
+*'''Ask for help'''. [http://toolserver.org/~bjelleklang/pjirc/ Talk to us live], or edit this page, put '''&lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt;''' and describe what help you need. Someone will reply very quickly - usually within a few minutes.
+
+*'''Play''' in your user area. For example, create [[User:Ksw9298/test]].
+
+*'''Edit existing articles''', before you make your own. Look at some subjects that you know about, and see if you can make them a bit better. For example, [[Wikipedia:Cleanup#2009]].
+
+*'''When you're ready''', read about [[Wikipedia:Your first article|Your first article]]. It should be about something well-known, and it will need references.
+
+Good luck with editing; please drop me a line some time on [[User talk:Chzz|my own talk page]].
+
+There's lots of information below. Once again, welcome to the fantastic world of Wikipedia!
+
+--&lt;small&gt;&lt;span style=&quot;border: 1px solid; background-color:darkblue;&quot;&gt;[[User:Chzz|'''&lt;span style=&quot;background-color:darkblue; color:#FFFFFF&quot;&gt; &amp;nbsp;Chzz&amp;nbsp;&lt;/span&gt;''']][[User talk:Chzz|&lt;span style=&quot;color:#00008B; background-color:yellow; border: 0px solid; &quot;&gt;&amp;nbsp;►&amp;nbsp;&lt;/span&gt;]]&lt;/span&gt;&lt;/small&gt; 12:23, 12 May 2009 (UTC)
+
+{| width=&quot;100%&quot; style=&quot;background-color:#F5FFFA;&quot;
+|style=&quot;width: 55%; border:1px solid #FFFFFF; background-color:#F5FFFA; vertical-align:top&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;0&quot; cellspacing=&quot;5&quot; style=&quot;vertical-align:top; background-color:#F5FFFA&quot;
+! &lt;div style=&quot;margin: 0; background-color:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Getting started&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+
+* [[Wikipedia:Tutorial|A tutorial]] • [[Wikipedia:Five pillars|Our five pillars]] • [[Wikipedia:Adopt-a-User|Getting mentored]]
+* How to: [[Wikipedia:How to edit a page|edit a page]] • [[Wikipedia:Images|upload and use images]]
+* [[Wikipedia:FAQ|Frequently asked questions]] • [[Wikipedia:Tips|Tips]]
+* [[Wikipedia:Questions|Where to ask questions or make comments]]
+* [[Wikipedia:Requests for administrator attention|Request administrator attention]]
+|-
+! &lt;div style=&quot;margin: 0; background:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Policies and guidelines&lt;/div&gt;
+|-
+| style=&quot;color:#000&quot;|
+* [[Wikipedia:Neutral point of view|Neutral point of view]] • [[Wikipedia:No original research|No original research]] 
+* [[Wikipedia:Verifiability|Verifiability]] • [[Wikipedia:Reliable sources|Grade sources]] • [[Wikipedia:Citing sources|Cite sources]]
+* [[Wikipedia:What Wikipedia is not|What Wikipedia is not]] • [[Wikipedia:Biographies of living persons|Biographies of living persons]]
+* [[Wikipedia:External links|External links]] • [[Wikipedia:Spam|Spam]] • [[Wikipedia:Vandalism|Vandalism]]
+* [[Wikipedia:Deletion policy|Deletion policy]] • [[Wikipedia:Conflict of interest|Conflict of interest]] • [[Wikipedia:Notability|Notability]]
+|-
+|}
+|class=&quot;MainPageBG&quot; style=&quot;width: 55%; border:1px solid #FFFFFF; background-color:#F5FFFA; vertical-align:top&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;0&quot; cellspacing=&quot;5&quot; style=&quot;vertical-align:top; background-color:#F5FFFA&quot;
+! &lt;div style=&quot;margin: 0; background-color:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;The community&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Wikipedia Signpost|Signpost]] • [[Wikipedia:IRC channels|IRC channels]] • [[Wikipedia:Mailing lists|Mailing lists]] •  [[Wikipedia:FA|Best articles]]
+* [[Wikipedia:Consensus|Build consensus]] • [[Wikipedia:Dispute resolution|Resolve disputes]]
+* [[Wikipedia:Assume good faith|Assume good faith]] • [[Wikipedia:Civility|Civility]] • [[Wikipedia:Etiquette|Etiquette]]
+* [[Wikipedia:No personal attacks|No personal attacks]] • [[Wikipedia:No legal threats|No legal threats]]
+|-
+! &lt;div style=&quot;margin: 0; background-color:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Writing articles&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Be bold|Be bold in editing]] • [[Wikipedia:Article development|Develop an article]]
+* [[Wikipedia:The perfect article|The perfect article]] • [[Wikipedia:Manual of Style|Manual of style]]
+* [[Wikipedia:Pages needing attention|Pages needing attention]] • [[Wikipedia:Peer review|Peer review]]
+* [[WP:TMM|The missing manual]]
+|}
+|}
+|}
+	</talkpage>
+</article>

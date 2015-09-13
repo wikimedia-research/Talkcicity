@@ -1,0 +1,14 @@
+<article id="32006309" title=Talk:Mickey Davis>
+	<talkpage id="32006309" title="Talk:Mickey Davis">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=yes
+|class=stub
+|listas=Davis, Mickey
+}}
+{{WikiProject College basketball|class=stub}}
+{{WikiProject National Basketball Association|class=stub}}
+{{WikiProject Basketball|class=stub}}
+| blp=yes
+}}
+	</talkpage>
+</article>

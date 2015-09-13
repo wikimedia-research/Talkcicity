@@ -1,0 +1,16 @@
+<article id="19954453" title=Talk:Meredith Hunter (politician)>
+	<talkpage id="19954453" title="Talk:Meredith Hunter (politician)">
+{{WikiProject Biography
+|living=yes
+|class=C
+|politician-work-group=yes
+|listas=Hunter, Meredith 
+}}
+{{WikiProject Australia|class=C
+|importance=Low 
+|politics=yes
+|politics-importance=Low 
+|Canberra=yes
+}}
+	</talkpage>
+</article>

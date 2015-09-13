@@ -1,0 +1,9 @@
+<article id="12478816" title=Talk:Tawny-backed fantail>
+	<talkpage id="12478816" title="Talk:Tawny-backed fantail">
+{{WikiProject Birds|class=stub|importance=low|needs-photo=yes}}
+{{WP Indonesia|class=Stub|importance=low}}
+
+== WikiProject class rating==
+This article was automatically assessed because at least one WikiProject had rated the article as stub, and the rating on other projects was brought up to Stub class. [[User:BetacommandBot|BetacommandBot]] 20:55, 9 November 2007 (UTC)
+	</talkpage>
+</article>

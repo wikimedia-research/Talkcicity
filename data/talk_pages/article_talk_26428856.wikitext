@@ -1,0 +1,11 @@
+<article id="26428856" title=User talk:67.173.150.52>
+	<talkpage id="26428856" title="User talk:67.173.150.52">
+
+== March 2010 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Shutter_Island_(film)?diff=347798600 recent edit]&lt;/span&gt; you made to [[:Shutter Island (film)]] has been reverted, as it appears to have removed content from the page without explanation. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggledelete1 --&gt; '''[[User:Ronhjones|&lt;span style=&quot;border:1px solid black;color:black; padding:1px;background:yellow&quot;&gt;&lt;font color=&quot;green&quot;&gt;&amp;nbsp;Ron&lt;font color=&quot;red&quot;&gt;h&lt;/font&gt;jones&amp;nbsp;&lt;/font&gt;&lt;/span&gt;]]'''&lt;sup&gt;[[User talk:Ronhjones|&amp;nbsp;(Talk)]]&lt;/sup&gt; 23:03, 4 March 2010 (UTC)
+
+==Your recent edits==
+[[Image:Information.svg|25px|link=]] Hello. In case you didn't know, when you add content to [[Wikipedia:Talk page|talk pages]] and Wikipedia pages that have open discussion, you must [[Wikipedia:Signatures|sign your posts]] by typing four [[tilde]]s  ( &amp;#126;&amp;#126;&amp;#126;&amp;#126; ) at the end of your comment. You may also click on the signature button [[File:Insert-signature.png|link=Wikipedia:How to sign your posts]] located above the edit window.  This will automatically insert a signature with your username or IP address and the time you posted the comment. This information is useful because other editors will be able to tell who said what, and when. Thank you. &lt;!-- Template:uw-tilde --&gt; --[[User:SineBot|SineBot]] ([[User talk:SineBot|talk]]) 04:30, 11 September 2010 (UTC)
+	</talkpage>
+</article>

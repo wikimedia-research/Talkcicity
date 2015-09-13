@@ -1,0 +1,124 @@
+<article id="6029069" title=User talk:AOL account>
+	<talkpage id="6029069" title="User talk:AOL account">
+&lt;noinclude&gt;
+{| class=&quot;messagebox&quot;
+|-
+||{{User_talk:AOL account/0}}
+|}
+&lt;/noinclude&gt;
+== Please see [[Wikipedia:Administrators%27_noticeboard#AOL_Blocks|WP:AN]].. ==
+..for a more detailed explanation of what I'm doing--[[User:AOL account|205.188.116.200]] 14:56, 19 July 2006 (UTC)
+*The only thing is someone needs to tell Tawkerbot not to revert me--[[User:AOL account|205.188.116.200]] 14:59, 19 July 2006 (UTC)
+Removing old warnings, per [[Wikipedia:Administrators'_noticeboard#AOL_Blocks|WP:AN]], any other questions/concerns, [[Wikipedia:Requests_for_investigation#New_requests|please visit]]
+
+*[[/Nearly complete list of tagged AOL users]]
+Ok, i seem to have missed quite a few--[[User:AOL account|AOL account  (205.188.116.200)]] 17:59, 19 July 2006 (UTC)
+
+==You are acting without authorization==
+*When people remove warning tags from their ''own'' user page, we consider it vandalism, and use the following warning message:
+**{{tl|wr0}}
+**{{tl|wr0}}
+*When people remove contect from ''someone else's'' user page, we consider it vandalism, and use the following warning message:
+**{{tl|tpv1}}
+**{{tl|tpv1}}
+*Despite what you claim, [[WP:AN]] does not justify your actions.  No other user has concurred with your decision, even though a series of edits this drastic would require community consensus.
+*Therefore, I have reported your actions for investigation as vandalism, and I ask you to please stop what you are doing and go through the proper channels -- that is, public discussion -- to see whether your idea of removing old tags should or should not become Wikipedia policy. --[[User:Mareino|M]][[User_talk:Mareino|&lt;font color=&quot;orange&quot;&gt;@&lt;/font&gt;]][[User:Mareino|r]][[Special:Contributions/Mareino|&lt;font color=&quot;orange&quot;&gt;ē&lt;/font&gt;]][[User:Mareino|ino]] 19:36, 19 July 2006 (UTC)
+:*That's borderline irrational, it's impossible for any AOL user to actually receive any message sent to their talk page.  When they get a '''new message''' they're sent around from one talk to the next, the best way to look at an AOL talk page is as 'community property'.  Having several years worth of vandalism warnings sitting in front of them, is little more than a deterrent to productive editors, and a '''how to '''guide for vandals--[[User:AOL account|AOL account  (205.188.116.200)]] 19:57, 19 July 2006 (UTC)
+
+== Vandals ==
+
+...What? [[User:Ryulong|Ryūlóng]] 00:56, 20 July 2006 (UTC)
+*In other words, stop throwing&lt;nowiki&gt; {{test4}}s&lt;/nowiki&gt; at people for very minor vandalism, and they won't have any incentive to keep vandalizing, the only thing they get out of it is your reaction to your vandalism, remove that, and they get nothing--[[User:AOL account|AOL account  (205.188.116.200)]] 00:58, 20 July 2006 (UTC)
+**Oh. As I stated at [[WP:AIV]], I connected the third editor due to range, and the first two contributed and recontributed the same false information into episode lists. That is why I hit them with the {{tl|verror}} warnings. [[User:Ryulong|Ryūlóng]] 00:59, 20 July 2006 (UTC)
+***'&lt;i&gt;verror&lt;/i&gt;'? I still remember when {{tl|test1}} through {{tl|test5}} were the only things to choose from--[[User:AOL account|AOL account  (205.188.116.200)]] 01:01, 20 July 2006 (UTC)
+****{{tl|verror}} are used when false information is inserted, a '''V'''erifiability '''error'''. [[User:Ryulong|Ryūlóng]] 01:13, 20 July 2006 (UTC)
+*****Yes, I know, I was just musing over all the templates that have been added--[[User:AOL account|AOL account  (205.188.116.200)]] 01:14, 20 July 2006 (UTC)
+******Well, I'm still standing by the first two I listed, as they added identical information to the Mystic Force articles and sections on episodes. My criterion is that if it isn't listed on TV.com, it's fake and vandalism. [[User:Ryulong|Ryūlóng]] 01:27, 20 July 2006 (UTC)
+*******Except, that's a content dispute, which is the textbook definition of '''not''' vandalism, now if they were inserting random letters, spam, or graffiti those would be clear cut examples of vandalism, this is borderline--[[User:AOL account|AOL account  (205.188.116.200)]] 01:31, 20 July 2006 (UTC)
+********If the information is unsourced (which a good amount of anonymous edits to these lists have been) then it is vandalism. There have been way too many fan-made lists of upcoming episodes for these to be content disputes. [[User:Ryulong|Ryūlóng]] 01:37, 20 July 2006 (UTC)
+*********All I'm saying is, [[Wikipedia:Resolving disputes|content dispute]], no where near blatent vandalism--[[User:AOL account|AOL account  (205.188.116.200)]] 01:41, 20 July 2006 (UTC)
+
+== User:He's Calling My Mumma  ==
+
+User has been given a standard NPA warning and a basic welcome to Wikipedia. Thank you for your assistance. &lt;b&gt;&lt;i&gt;&lt;font color=&quot;#FF00FF&quot;&gt;~Kylu ([[User:Kylu|u]]|[[User talk:Kylu|t]]) &lt;/font&gt;&lt;/i&gt;&lt;/b&gt; 02:10, 20 July 2006 (UTC)
+
+== Edit on Talk page ==
+
+Hi,
+
+May I ask you the reason for [http://en.wikipedia.org/w/index.php?title=User_talk:Ambuj_in_exile&amp;diff=next&amp;oldid=64758501 this] edit. &amp;mdash; [[User:Ambuj.Saxena|Ambuj Saxena]] ([[User_talk:Ambuj.Saxena|talk]]) 16:14, 20 July 2006 (UTC)
+*I didn't see the doppleganger notice at the time, and assumed it was an impersonator/vandal, the fact that it kept being targeted by WatchtowerJihad socks also looked rather odd, not to mention they kept claiming to be your sockpuppets, guess I wasn't paying enough attention--[[User:AOL account|AOL account  (205.188.116.200)]] 16:52, 20 July 2006 (UTC)
+::Don't worry. When one tries to do a lot of work, slip-ups are bound to happen. WatchtowerJihad has in fact tried to impersonate me, see [[:Category:Imposters of Ambuj.Saxena]], though the account in question is my valid and legal sock. &amp;mdash; [[User:Ambuj.Saxena|Ambuj Saxena]] ([[User_talk:Ambuj.Saxena|talk]]) 17:29, 20 July 2006 (UTC)
+:::You don't by any chance know what is going on with {{User|Xanax is my FRIEND}} because it seems to have followed me home, so to speak--[[User:AOL account|AOL account]] 17:31, 20 July 2006 (UTC)
+
+== [[User:Xanax is my FRIEND]] ==
+
+I've looked at his contribs, and I don't think he's WatchtowerJihad.  The only related edit he's made is [http://en.wikipedia.org/w/index.php?title=Talk:African_American&amp;diff=prev&amp;oldid=64806628 this] one to [[Talk:African American]], and you'll notice that he's actually reverting WatchtowerJihad vandalism by 152.163.100.12.  I'm going to unblock him (with no prejudice against a reblock should he turn out to be a vandal after all, of course) and try to explain to him what happened.  Let's just chalk this up to a misunderstanding and move on, shall we?  —[[User:Ilmari Karonen|Ilmari Karonen]] &lt;small&gt;([[User talk:Ilmari Karonen|talk]])&lt;/small&gt; 19:02, 20 July 2006 (UTC)
+
+:and [http://en.wikipedia.org/w/index.php?title=User_talk%3AAmbuj_in_exile&amp;diff=64806841&amp;oldid=64758597 here] where it managed to find more yet more WatchtowerJihad vandalism within 3 minutes of registration, not to mention [http://en.wikipedia.org/w/index.php?title=Talk:South_Central_Farm&amp;diff=prev&amp;oldid=64758595 this game], they were playing on Talk:South Central Farm, where one would vandalize, and then the other would revert to yet another version of vandalism, and they'd go back and forth until a dozen AOL talk pages were lighting up vandalism warnings--[[User:AOL account|AOL account]] 19:08, 20 July 2006 (UTC)
+
+::Ehm.  The first edit was, again, vandalism ''removal''.  The second diff does indeed seem to be WatchtowerJihad vandalism, but you'll notice Xanax is my FRIEND was not involved.  (I'm not even sure if the &quot;reverting vandalism to vandalism&quot; trick was deliberate; the other vandal may just have slipped an edit in while &quot;Ward Cleaver&quot; was reverting you.  It's a common race condition with reverts, both good ''and'' bad faith ones.)  I haven't seen any actual vandalism from Xanax is my FRIEND; let's just assume good faith until and unless there's actual evidence, please.  —[[User:Ilmari Karonen|Ilmari Karonen]] &lt;small&gt;([[User talk:Ilmari Karonen|talk]])&lt;/small&gt; 19:22, 20 July 2006 (UTC)
+:::In that case, since Xanax is my FRIEND ''isn't'' a vandal, you wouldn't mind sprotecting my user and talk pages to stop the near constant ''not'' vandalism to them--[[User:AOL account|AOL account]] 14:18, 27 July 2006 (UTC)
+::::Done.  I see Syrthiss already sprotected your user page.  You should probably add some kind of notice, such as {{[[Template:sprotected|sprotected]]}}, to this page; I haven't.   You may also want to copy the trick I've used on my own talk page for allowing new/anon users to edit a part of my talk page despite the semiprotection, especially if you're serious about acting as a &quot;good will ambassador between AOL and Wikipedia&quot;.  Oh, and welcome to the wonderful world of being a vandal target.  ;-)  —[[User:Ilmari Karonen|Ilmari Karonen]] &lt;small&gt;([[User talk:Ilmari Karonen|talk]])&lt;/small&gt; 16:21, 27 July 2006 (UTC)
+::::Ps. I wonder why you seem to think Xanax is my FRIEND is involved; surely it's more reasonable to assume that the reason you've been targeted is because you reverted vandalism by [[User:Ward Cleaver|Ward Cleaver]], who ''is'' an obvious sock of our dear friend WatchtowerJihad.  From what I've seen of Xanax's edits — not that there have been many — he still hasn't shown any vandalous tendencies.  His latest edit, though unsourced, was otherwise perfectly reasonable.  Of course, it's true there ''are'' vandals that sneaky, but this just doesn't smell like WatchtowerJihad to me; he's sneaky in his own ways, but doesn't seem to have this kind of patience.  —[[User:Ilmari Karonen|Ilmari Karonen]] &lt;small&gt;([[User talk:Ilmari Karonen|talk]])&lt;/small&gt; 17:00, 27 July 2006 (UTC)
+:::::Well, alright, fair enough--[[User:AOL account|AOL account]] 17:04, 27 July 2006 (UTC)
+
+== um, okay... ==
+That was weird. I don't think I've ever had a warning for vandalism before, warranted or not... and what you call &quot;only a few recent edits&quot; is what I call &quot;Wikipedia is taking over my life again and I'm not getting any work done&quot;, but whatever! You've made me go and restore my user page, anyway. --[[User:Woggly|woggly]] 17:10, 27 July 2006 (UTC)
+
+== Re: AOL talk pages, and the persistent restoration of warnings several years old ==
+
+Okay, first of all, allow me to, once again, explain how the system works here on Wikipedia. You are entitled to remove warnings from AOL talk pages (technically, policy states you are to '''archive''' warnings, but since it is AOL we are talking about here, we all have been very lenient about it and have not really questioned your actions to a large extent), just as much as I am entitled to restore them. As you have said, it would make no difference how many warnings are on the talk page of AOL users, or how old or new they may be. AOL users will always be warned, due to automated vandal fighting tools, among other things, so you ought to understand that is not going to change. Therefore, I am going to ask you to refrain from you preforming such activites as policing AOL talk pages, and refrain from edit warring with administrators on the AOL template, as this will warrant a block. You may wish to review [[WP:OWN]]. Now, with that being said, your work, though admittedly odd, is viewed helpful to some people, with me, of course, being the exception.  In my personal opinion, if AOL was a good internet service provider, they would have addressed this issue a long time ago. I would suggest you change your activites from the aforementioned to contacting AOL's customer service department if you wish to see changes around here. Otherwise, your actions are wasted. By thw way, Wikipedia has been around only since 2003 or so I believe, so no warnings are years old :) --[[User:Pilotguy|&lt;font color=&quot;#000000&quot;&gt;'''Pilotguy'''&lt;/font&gt;]]&lt;sup&gt; '''('''[[User_talk:Pilotguy|&lt;font color=&quot;#0000FF&quot;&gt;&lt;b&gt;''roger that''&lt;/b&gt;&lt;/font&gt;]]''')'''&lt;/sup&gt; 23:59, 31 July 2006 (UTC)
+*most of the warnings you are restoring '''are''' that old :) and inserting false information into a template, while helpful for some people, who they are I'm not sure, the vandals I guess, is rather pointless, although it probably helps justify a lot of range blocks :)--[[User:AOL account|AOL account]] 00:03, 1 August 2006 (UTC)
+**I'd just like to note that you accidentally removed warnings that were placed within the last 48 hours from some talk pages. [[User:Ryulong|Ryūlóng]] 00:24, 1 August 2006 (UTC)
+***It wasn't an accident, AOL hasn't used XTP headers at any time since 2004, they're no more or less random to AOL users than older warnings, if you want to restore the more recent warnings, as you have been doing, I have no objections--[[User:AOL account|AOL account]] 00:26, 1 August 2006 (UTC)
+****I'm talking about warnings from last night. Not ones from 2005. [[User:Ryulong|Ryūlóng]] 00:35, 1 August 2006 (UTC)
+*****I know, those aren't going to be any more or less random to the person who receives them, then the older warnings, you of course can restore them if you want to--[[User:AOL account|AOL account]] 00:37, 1 August 2006 (UTC)
+
+
+
+I hope you're not a vandal. [[User:QuizQuick|QuizQuick]] 01:26, 1 August 2006 (UTC)
+:Ok? same to you?--[[User:AOL account|AOL account]] 01:27, 1 August 2006 (UTC)
+
+== eh? ==
+
+I'm going to assume you didn't mean to do this [http://en.wikipedia.org/w/index.php?title=Hip_hop_music&amp;diff=66960728&amp;oldid=66960524] :)--[[User:AOL account|AOL account]] 01:35, 1 August 2006 (UTC) &lt;small&gt;Retreived from [[User_talk:Deon555|Deon555's talk page]]&lt;/small&gt;
+
+::That would be very kind of you ;) :P --[[User:Deon555|Deon555]]|[[User_talk:Deon555|talk]]|&lt;font color=&quot;green&quot;&gt;[[Wikipedia:Esperanza|e]]&lt;/font&gt; 01:37, 1 August 2006 (UTC)
+
+== Careful ==
+
+[http://en.wikipedia.org/w/index.php?title=Dick_Cheney&amp;diff=prev&amp;oldid=67037515]. Thanks, —&amp;nbsp;[[User:FireFox|&lt;span style=&quot;color:#380474&quot;&gt;FireFox&lt;span&gt;]] &lt;sup&gt;([[User talk:FireFox|&lt;span style=&quot;color:#380474&quot;&gt;talk&lt;span&gt;]])&lt;/sup&gt; &lt;sub&gt;&lt;span style=&quot;color:#380474&quot;&gt;13:48, 01 August '06&lt;/span&gt;&lt;/sub&gt;
+*sorry, that obviously wasn't right, I was already in the process of a self revert, but you beat me to it--[[User:AOL account|AOL account]] 13:50, 1 August 2006 (UTC)
+::No probs. —&amp;nbsp;[[User:FireFox|&lt;span style=&quot;color:#380474&quot;&gt;FireFox&lt;span&gt;]] &lt;sup&gt;([[User talk:FireFox|&lt;span style=&quot;color:#380474&quot;&gt;talk&lt;span&gt;]])&lt;/sup&gt; &lt;sub&gt;&lt;span style=&quot;color:#380474&quot;&gt;14:02, 01 August '06&lt;/span&gt;&lt;/sub&gt;
+
+== Old link on your userpage ==
+Hello AOL account. Your userpage directs all concerns to the relevant [[WP:RFI|request for investigation]], but that has long since been closed and archived. The same applies to the link to the [[WP:AN|Administrator's noticeboard]]. ;) // [&lt;small&gt;[[WP:ADMIN|admin]]&lt;/small&gt;] [[User:Pathoschild/s|Pathoschild]] (&lt;sup&gt;''[[User_Talk:Pathoschild/s|talk]]''&lt;/sup&gt;/&lt;sub&gt;[[m:User:Pathoschild|map]]&lt;/sub&gt;) 06:36, 3 August 2006 (UTC)
+*Thanks, I thought I had updated those a long time ago--[[User:AOL account|AOL account]] 15:12, 3 August 2006 (UTC)
+
+== RE:hmmm... ==
+
+Sorry, I misread the summary while using [[WP:VP2|VandalProof2]].
+[[User:Firefoxman|The Fox Man of Fire]] 12:06, 6 October 2006 (UTC)
+
+Maybe you should remove the aol names from the list 
+
+http://en.wikipedia.org/wiki/Category:Suspected_Wikipedia_sockpuppets_of_Mykungfu
+
+and keep the screen shots.  [[User:152.163.100.139|152.163.100.139]] 16:13, 6 October 2006 (UTC)
+*In this case, I'm a little wary to take the advice of an anon aol user for obvious reasons, either way I'm sure someone will fix it once the current aol issues die down--[[User:AOL account|AOL account]] 23:17, 6 October 2006 (UTC)
+
+== What happened to you? ==
+
+Are you still an administrator?  I don't see you in the sysops list.  [[User:Anomo|Anomo]] 22:34, 6 October 2006 (UTC)
+*I was never a sysops, are you thinking of someone else?--[[User:AOL account|AOL account]] 23:15, 6 October 2006 (UTC)
+::Well you seem to be the same person as before since you made the list of all the AOL IPs.  [[User_talk:AOL_account/Nearly_complete_list_of_tagged_AOL_users]].  I wanted to ask you, do you really still use AOL? I don't mean AOL won't let you cancel, but you use it by choice.  You don't speak in ALL CAPS.  [[User:Anomo|Anomo]] 01:04, 7 October 2006 (UTC)
+
+==AOL tagging==
+
+Sorry, but the vandal who uses the AOL accounts is malicious.  And, it is best to tag which IPs he uses in order to forewarn administrators of his activity.  [[User:Bearly541|Bearly541]] 03:12, 7 October 2006 (UTC)
+
+== AOL proxies ==
+I have just delinked and deleted the {{tl|AOL-static}} template, since no such thing exists: the user pages labelled with this were either AOL dynamically assigned IP addresses (&quot;DAHA&quot; in AOL terminology) from the ipt.aol.com pool, or corresponded to nonexistent IP addresses, such as in the case of [[User talk:172.324.195.106]]. -- [[User:The Anome|The Anome]] 23:16, 18 November 2006 (UTC)
+	</talkpage>
+</article>

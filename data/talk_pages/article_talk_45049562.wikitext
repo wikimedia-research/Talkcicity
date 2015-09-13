@@ -1,0 +1,14 @@
+<article id="45049562" title=User talk:162.127.23.76>
+	<talkpage id="45049562" title="User talk:162.127.23.76">
+{{Shared IP edu|University of Nebraska}}
+
+
+
+== January 2015 ==
+[[File:Information.svg|left|25px|alt=|link=]] Hello, and welcome to Wikipedia. This is a message letting you know that one or more of your recent edits to [[:Geography of the United Kingdom]] has been undone by an automated computer program called [[User:ClueBot NG|ClueBot NG]].
+{{clear}}
+* ClueBot NG makes very few [[User:ClueBot NG#Information About False Positives|mistakes]], but it does happen. If you believe the change you made was constructive, please [[User:ClueBot NG#Information About False Positives|read about it]], [{{User:ClueBot NG/Warnings/FPReport|2089822}} report it here], remove this message from your talk page, and then make the edit again.
+* For help, take a look at the [[Wikipedia:Introduction|introduction]].
+* The following is the log entry regarding this message: [[Geography of the United Kingdom]] was [http://en.wikipedia.org/w/index.php?title=Geography+of+the+United+Kingdom&amp;diff=642458574&amp;oldid=642458257 changed] by [[Special:Contributions/162.127.23.76|162.127.23.76]] [[User:162.127.23.76|(u)]] [[User talk:162.127.23.76|(t)]] ANN scored at 0.946833 on 2015-01-14T14:42:34+00:00 &lt;!-- MySQL ID: 2089822 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]) 14:42, 14 January 2015 (UTC)
+	</talkpage>
+</article>

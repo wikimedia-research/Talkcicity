@@ -1,0 +1,5 @@
+<article id="15514808" title=Talk:Kopfing im Innkreis>
+	<talkpage id="15514808" title="Talk:Kopfing im Innkreis">
+{{WikiProject Austria |class=stub}}
+	</talkpage>
+</article>

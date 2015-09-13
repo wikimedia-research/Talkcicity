@@ -1,0 +1,18 @@
+<article id="42387048" title=User talk:RooneyC88>
+	<talkpage id="42387048" title="User talk:RooneyC88">
+
+== Welcome ==
+
+Hello, RooneyC88 and welcome to Wikipedia! It appears you are participating in a class project. If you haven't done so already, we encourage you to go through our training for students. 
+
+{{Clickable button 2|Wikipedia:Training/For students|Go through our online training for students.}}
+
+If you need help, check out [[Wikipedia:Questions]], ask me on {{#if:Stuartyeates|[[user talk:Stuartyeates|my talk page]]|my talk page}}, or ask your question on this page and then place &lt;code&gt;&lt;nowiki&gt;{{Help me}}&lt;/nowiki&gt;&lt;/code&gt; before the question. Please also read this helpful [[WP:STUDENTS|advice for students]].
+
+Before you create an article, make sure you understand [[Wikipedia:What Wikipedia is not|what kind of articles are accepted here]]. Remember: Wikipedia is an encyclopedia, and while many topics are encyclopedic, [[WP:N|some things are not]].
+
+Your instructor or professor may wish to set up a [[Wikipedia:Course pages|course page]], if your class doesn't already have one. It is highly recommended that you place this text: &lt;code&gt;&lt;nowiki&gt;{{Educational assignment}}&lt;/nowiki&gt;&lt;/code&gt; on the talk page of any articles you are working on as part of your Wikipedia-related course assignment. This will let other editors know this article is a subject of an educational assignment and aid your communication with them.
+
+We hope you like it here and encourage you to stay even after your assignment is finished! [[User:Stuartyeates|Stuartyeates]] ([[User talk:Stuartyeates|talk]]) 06:22, 3 April 2014 (UTC)
+	</talkpage>
+</article>

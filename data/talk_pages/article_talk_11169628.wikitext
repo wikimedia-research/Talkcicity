@@ -1,0 +1,17 @@
+<article id="11169628" title=User talk:Meelijane>
+	<talkpage id="11169628" title="User talk:Meelijane">
+==License tagging for Image:L 25b5af19ffe01c89d87764e5910d941d.gif==
+Thanks for uploading [[:Image:L 25b5af19ffe01c89d87764e5910d941d.gif]]. Wikipedia gets thousands of images uploaded every day, and in order to verify that the images can be legally used on Wikipedia, the source and copyright status must be indicated. Images need to have an [[Wikipedia:Image copyright tags|image tag]] applied to the [[Wikipedia:Image description page|image description page]] indicating the copyright status of the image. This uniform and easy-to-understand method of indicating the license status allows potential re-users of the images to know what they are allowed to do with the images.
+
+For more information on using images, see the following pages:
+* [[Wikipedia:Image use policy]]
+* [[Wikipedia:Image copyright tags]]
+
+This is an automated notice by [[User:OrphanBot|OrphanBot]]. If you need help on selecting a tag to use, or in adding the tag to the image description, feel free to post a message at [[Wikipedia:Media copyright questions]]. 11:07, 11 May 2007 (UTC)
+
+==Orphaned non-free image (Image:Ymi.gif)==
+Thanks for uploading '''[[:Image:Ymi.gif]]'''. The image description page currently specifies that the image is non-free and may only be used on Wikipedia under a [[WP:FU|claim of fair use]]. However, the image is currently [[Wikipedia:Orphan|orphaned]], meaning that it is not used in any articles on Wikipedia. If the image was previously in an article, please go to the article and see why it was removed. [[WP:BOLD|You may add it back]] if you think that that will be useful. However, please note that images for which a replacement could be created are not acceptable for use on Wikipedia (see [[Wikipedia:Non-free content#Policy|our policy for non-free media]]).
+
+If you have uploaded other unlicensed media, please check whether they're used in any articles or not. You can find a list of 'image' pages you have edited by clicking on the &quot;[[Special:Contributions/{{PAGENAME}}|my contributions]]&quot; link (it is located at the very top of any Wikipedia page when you are logged in), and then selecting &quot;Image&quot; from the dropdown box. Note that any non-free images not used in any '''articles''' will be deleted after seven days, as described on [[wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. Thank you.&lt;!-- Template:Orphaned --&gt; [[User:Mecu|&lt;font color=&quot;CEBE70&quot;&gt;'''MECU'''&lt;/font&gt;]]≈&lt;small&gt;[[User talk:Mecu|talk]]&lt;/small&gt; 18:04, 27 May 2007 (UTC)
+	</talkpage>
+</article>

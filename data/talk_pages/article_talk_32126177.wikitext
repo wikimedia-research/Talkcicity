@@ -1,0 +1,15 @@
+<article id="18367693" title=User:WilhelmBot>
+	<talkpage id="18367693" title="User:WilhelmBot">
+{{Bot|Wilhelm II|site=ru|status=unapproved}}
+
+&lt;big&gt;[[Special:Contributions/WilhelmBot|'''Contributions''']]&lt;/big&gt;
+
+''In other languages''
+* [http://ru.wikipedia.org/wiki/Special:Contributions/WilhelmBot Russian]
+* [http://he.wikipedia.org/wiki/Special:Contributions/WilhelmBot Hebrew]
+
+
+[[he:משתמש:WilhelmBot]]
+[[ru:Участник:WilhelmBot]]
+	</talkpage>
+</article>

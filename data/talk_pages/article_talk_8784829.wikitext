@@ -1,0 +1,8 @@
+<article id="8784829" title=User talk:67.164.25.111>
+	<talkpage id="8784829" title="User talk:67.164.25.111">
+
+
+==Your edit to [[:Wrong]]==
+Your recent edit to [[:Wrong]] ([http://en.wikipedia.org/w/index.php?title=Wrong&amp;diff=98841598&amp;oldid=97469361 diff]) was reverted by an '''automated bot''' that attempts to recognize and repair [[Wikipedia:vandalism|vandalism]] to Wikipedia articles. If the bot reverted a legitimate edit, please accept my humble creator's apologies – if you bring it to the attention of the bot's owner, we may be able to improve its behavior. '''[[User:AntiVandalBot/FAQ|Click here]]''' for '''frequently asked questions''' about the bot and this warning. &lt;!-- AntiVandalBot level 1 (one) warning --&gt; // [[User:AntiVandalBot|AntiVandalBot]] 09:15, 6 January 2007 (UTC)
+	</talkpage>
+</article>

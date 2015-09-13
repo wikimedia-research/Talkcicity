@@ -1,0 +1,208 @@
+<article id="17125003" title=Talk:SkyTran>
+	<talkpage id="17125003" title="Talk:SkyTran">
+{{TrainsWikiProject|class=|importance=|monorail=yes}}
+
+== Deletion ==
+
+I am annoyed that a number of people's contributions to the SkyTran and then Unimodal pages seem to have been deleted without a trace -- SkyTran gave only a cryptic delete notice that didn't link to any details, and Unimodal (where SkyTran had been moved) now only links to the alternate disambiguation of unimodal function.  I believe strongly that SkyTran is one of the most positive technical developments in today's world -- not only is it '''200 MPG''', but it solves the problem of urban transportation congestion (and thus encourages planet-friendly dense cities) better than any other I am aware of.  Global warming and all the misery caused already fighting over increasingly-scarce oil make these attributes we cannot dismiss lightly.  
+
+SkyTran is also not a frivolous or amateur affair.  Its inventor [[Douglas Malewicki]] is very well qualified to design highly efficient small vehicles: he has a Aeronautical Engineering MS from Stanford; his previous inventions include human-powered vehicles &lt;ref&gt;Gross, AC, Kyle CR, and Malewicki DJ. The aerodynamics of human-powered land vehicles. Sci Am 249: 142-152, 1983&lt;/ref&gt;, two Guinness world records for fuel-efficient &quot;California Commuter&quot; cars (ca. 155 MPG gas and diesel), light aircraft for Cessna, and many more.  See his [[http://www.carbonangel.org/julieta/advisory_duglas_malewicki.html board member bio at CarbonAngel] for these and many more examples.  Doug applied for his first patent on SkyTran 18 years ago; he has spent almost two decades fighting to get it accepted; the world does not have a surplus of such people and achievements.  
+
+Finally, what are the transportation design qualifications of the people arbitrarily deleting this material?  It's true that [http://www.skytran.net his original, detail-packed web page] has been temporarily password-protected (probably for commercial reasons), but [http://www.unimodal.com his company Unimodal]'s is still up and gives the basics.  I have put a number of external references into this version; so no one can say it is unverifiable.  A quick Google will provide many more examples -- this invention is real, and it's finally getting traction.  Please respect a brilliant inventor and a tremendously promising system; add to this article whatever positive or negative points you can document, but please don't delete it again.  (A technical point: SkyTran is the invention; Unimodal is the company; each should have a page -- combining them makes as much sense as moving all the MS Windows pages to a Microsoft article.)
+--[[User:Howie Goodell|Howie Goodell]] ([[User talk:Howie Goodell|talk]]) 06:56, 26 April 2008 (UTC)
+
+:It's been more than a decade since SkyTran was announced to the world, but as of today (April 27, 2008), there is no demo system. 
+
+:No money? Ask Paul Allen for it. He personally funded the winning entry for the X-Prize. I'll bet he'd be willing to help here as well.
+
+:JUST DO SOMETHING!  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/72.67.35.214|72.67.35.214]] ([[User talk:72.67.35.214|talk]]) 05:07, 28 April 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:: I found out that a user named JDoorjam deleted it on april 12th 2008. He cites some opinion he has of the article as the reason for deletion. I personally think he is horribly abusing his power as an admin. Heres the deletion:
+
+::* '''23:08, 12 April 2008 JDoorjam (Talk | contribs | block) deleted &quot;UniModal&quot; ‎ (Reading through the article's history, it becomes clear that this was added to the project as purely promotional material. The bare bones that remain seem to outline an untested idea that no one wants to invest in.) (restore)''' 
+
+::[[User:Fresheneesz|Fresheneesz]] ([[User talk:Fresheneesz|talk]]) 22:30, 4 May 2008 (UTC)
+
+== Please Add Stuff from the Old Skytran Website==
+
+Especially this statement from Skytran (and Robosoaurus inventor) Douglas J. Malewicki: 
+
+'''Current Status of SkyTran''' [http://web.archive.org/web/20051108171517/http://www.skytran.net/04Technical/pod14.htm]
+
+''&quot;Aaaarrrrgghh! Ain't no such animal - yet. It is still just a concept that makes a lot of theoretical sense. It needs money to tear into it properly - a lot.
+
+''Why it hasn't happened yet is mostly my fault. I detest paperwork and details. I can't see myself applying for any government energy or innovation grants because of all the bureaucratic crap that I would be stuck with. If they supplied paperwork bozos along with the grants to take care of their required paperwork, it might be more appealing. I guess I also don't want to deal with all their other silly rules either. If I want to hire all black engineers (and I know a bunch of dam good practical ones), to the exclusion of Hispanics, Women, Polaks, etc. the government won't let me. I start reading the grant application forms and rules and never finish - because I toss it all in the garbage first in disgust. Basically, I'm selfish. I prefer to think and create. I have plenty of other non-hassle projects I can be involved in to feed my brain endorphins or whatever. I am definitely not the right kind of personality to carry this project to fruition in the real world!&quot;
+
+...and please include a picture of  the guideway-extruding robot that makes Skytran cheap to build [http://web.archive.org/web/20051108171118/http://www.skytran.net/04Technical/pod04.htm][[User:Avidor|Avidor]] ([[User talk:Avidor|talk]]) 18:50, 7 May 2008 (UTC)
+
+=== Status? ===
+
+What is the status of Skytran? Are they ready to go into production, or do they still have tons of R&amp;D to do?  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/72.67.35.214|72.67.35.214]] ([[User talk:72.67.35.214|talk]]) 06:26, 8 May 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+*Someone should write a letter.... ask what happened to the grants mentioned in the comments of  this article - [http://www.azcentral.com/arizonarepublic/opinions/articles/0802skytran0802.html]  
+:&quot;The USDOT has already contracted with SkyTran to develop the MagLev components of the system and NASA's Center for Advanced Manufacturing is already assisting SkyTran's development. There are investment &quot;angels&quot; already behind the SkyTran prototype project&quot;
+
+:&quot;Investment angels&quot;? Referring to this?: [http://www.carbonangel.org/advisory_duglas_malewicki.php]... Publicly funded transit systems have to ADA compliant. Skytran is not ADA compliant. That should be in the article....[[User:Avidor|Avidor]] ([[User talk:Avidor|talk]]) 12:14, 8 May 2008 (UTC)
+:: I think even you can admit skytran is going places. Don't you think Skytran is a hell of alot better than cars Avidor? [[User:Fresheneesz|Fresheneesz]] ([[User talk:Fresheneesz|talk]]) 07:10, 14 May 2008 (UTC)
+:::I'd much rather see Taxi 2000 succeed. At least they have a prototype! Doug hasn't even made so much as a toy model!  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/72.67.35.214|72.67.35.214]] ([[User talk:72.67.35.214|talk]]) 04:03, 15 May 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+::::And yet their site remains to this day, more than a decade later and still no developments....  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/173.58.251.147|173.58.251.147]] ([[User talk:173.58.251.147|talk]]) 17:09, 22 June 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+What happens when it goes around curve? What keeps it from knocking the supporting poles down when centrifical forces act upon the passenger capsule?  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/66.134.52.169|66.134.52.169]] ([[User talk:66.134.52.169|talk]]) 17:37, 14 May 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+: It slows down. Its obvious. [[User:Fresheneesz|Fresheneesz]] ([[User talk:Fresheneesz|talk]]) 02:01, 18 May 2008 (UTC)
+
+== New quote is undue weight ==
+
+An unflattering quote from an old (archived) blog entry of Malewicki has been added to the article. I believe this creates WP:WEIGHT issues for a small article such as this. If we are going to include an offhand quote (obviously made in frustration) from his private website, we should also include his designs, which were also documented on his site. Those designs have been previously pared down to nothing because they were considered unreliable, but if we can include that quote, we should also include his designs (with qualifications, of course, to indicate that they are untested)
+
+So I suggest we either (a) restore the technical details that were removed or (b) remove the quote. [[User:ATren|ATren]] ([[User talk:ATren|talk]]) 01:50, 15 May 2008 (UTC)
+
+:Agreed! [[User:Skybum|Skybum]] ([[User talk:Skybum|talk]]) 10:10, 15 May 2008 (UTC)
+:Agreed, too! Put back the tech details that actually described the system, not a quote that is of no interest to anyone who would like to know what the SkyTran idea is about.[[User:Jeremija81|Jeremija81]] ([[User talk:Jeremija81|talk]]) 08:15, 17 May 2008 (UTC)
+
+:::Yeah, don't wnt to have anything '''real''' in this article like the supposed inventor saying his supposed invention isn't worth wasting his time on...[[User:Avidor|Avidor]] ([[User talk:Avidor|talk]]) 00:12, 18 May 2008 (UTC)
+
+&quot;Off hand quote&quot;? &quot;private website&quot;? User Attren making some assumptions pulled out of his butt sounds like.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/66.134.52.169|66.134.52.169]] ([[User talk:66.134.52.169|talk]]) 20:59, 15 May 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:::Keep it in the article. Let the inventor speak for himself...[[User:Avidor|Avidor]] ([[User talk:Avidor|talk]]) 18:33, 17 May 2008 (UTC)
+::::Fine, then we should keep the ''invention'' too. Either both or neither. [[User:ATren|ATren]] ([[User talk:ATren|talk]]) 18:51, 17 May 2008 (UTC)
+What invention? Looking forward to seeing how you bury Malewicki's quote in tons of fluff... [[User:Avidor|Avidor]] ([[User talk:Avidor|talk]]) 19:57, 17 May 2008 (UTC)
+:Well, he has several inventions, but the one relevant to this article is the (as yet unbuilt) design for an elevated transportation system. [[User:ATren|ATren]] ([[User talk:ATren|talk]]) 20:15, 17 May 2008 (UTC)
+
+:: I'm relatively certain this article will be replaced with whats at [[UniModal]]. So I'm not sure any of this matters. [[User:Fresheneesz|Fresheneesz]] ([[User talk:Fresheneesz|talk]]) 01:56, 18 May 2008 (UTC)
+
+== SkyTran in San Francisco? ==
+
+I'm sure Skytran's elevated guideways and thousands of stations would be a welcome replacement for all those hideous cable cars - [http://www.uweb.ucsb.edu/~frencheneesz/Skytran%20report.htm]...[[User:Avidor|Avidor]] ([[User talk:Avidor|talk]]) 02:00, 18 May 2008 (UTC)
+
+:This has nothing to do with the article, which doesn't even mention San Francisco. So why are you quoting it here? Does it have anything to do with the fact that the author is Fresheneesz? It is inappropriate to post comments that are only intended to incide another editor. If you had some other reason for bringing up ''this particular link'', then please enlighten us; otherwise, cease. [[User:ATren|ATren]] ([[User talk:ATren|talk]]) 02:16, 18 May 2008 (UTC)
+::::More information and discussion is a good thing. Do you think Skytran  is appropriate for San Francisco? Do you a city-wide system using elevated guideways and hundreds, perhaps thousands of stations would be welcome in San Francisco? San Francisco has many historic districts - perhaps the article should have something about whether regulations would permit elevated guideways in those districts...[[User:Avidor|Avidor]] ([[User talk:Avidor|talk]]) 14:56, 18 May 2008 (UTC)
+:::::::* San Francisco is 48 square miles. This translates to 96 miles of track spaced at 1 mile. Since portals are supposed to be 1 mile apart.. this makes for 96 portals - not thousands. If I thought you would pass, I'd give you the advice to go back to 3rd grade and learn some math and fact-checking skills. [[Special:Contributions/68.6.103.233|68.6.103.233]] ([[User talk:68.6.103.233|talk]]) 09:19, 27 May 2008 (UTC)
+With a population of 764,976 and commuters coming in from the entire Bay area, only 96 &quot;portals&quot; on one track?... and when you say &quot;portals, I assume you mean stations with elevators... where on busy SF streets will these stations be located?...[[User:Avidor|Avidor]] ([[User talk:Avidor|talk]]) 20:03, 27 May 2008 (UTC)
+:::::No, this forum is for discussion of the article. ''San Francisco is not in the article - never has been''. Now, please explain to me the relevance of discussing ''this particular'' analysis, other than the fact that it was authored by Fresheneesz. And I'll repeat, it is inappropriate to post comments that are only intended to incite another author. Attacking Fresheneesz's paper is wholly inappropriate unless it is being considered for the article. Please stop. [[User:ATren|ATren]] ([[User talk:ATren|talk]]) 15:17, 18 May 2008 (UTC)
+I didn't mention the author... and since this essay is compelling and relevant for many reasons. One reason in particular is that many cities have regulations against [[Visual pollution]]. It's difficult for me to imagine that Skytran (or any transportation system with an elevated guideway) could be built in a historic or scenic area... but, perhaps I'm wrong... I think the issue of visual pollution of elevated guideways should be mentioned in the article... wht do you think?...[[User:Avidor|Avidor]] ([[User talk:Avidor|talk]]) 15:42, 18 May 2008 (UTC)
+:I repeat: the essay is not mentioned whatsoever in the article, and unless you are advocating adding it to the article, it's irrelevant. Also, this is not the place to debate PRT or SkyTran - this page is for discussing the SkyTran ''article''. If you really want a debate, I seem to recall someone openly challenging you to a PRT debate, someone who runs a blog... oh wait, that was me! :-) So if you wish to debate the merits of PRT with me, browse on over to my blog and answer my many-months-old open challenge, and we can find an appropriate forum. But Wikipedia is '''clearly''' not the forum for that, so please stop now. [[User:ATren|ATren]] ([[User talk:ATren|talk]]) 15:53, 18 May 2008 (UTC)
+
+== Skytran Critics? ==
+
+Who are the &quot;critics&quot; of Skytran cited [http://www.phoenixnewtimes.com/2000-03-09/news/traffic-thicket/1 in this article?] Do they include the inventor?&quot; '''&quot;We're not real, yet,&quot; Malewicki admits.&quot;'''-- Are there any other critics of Skytran? Here's one; [http://laurelsandlances.blogspot.com/2007/08/untested-and-unproven-you-just-have-to.html]
+
+Maybe it would be more accurate to say &quot;public officials&quot;, &quot;experts&quot; or &quot;transportation professionals&quot;... Quote from Arizona Republic article-[http://www.azcentral.com/arizonarepublic/opinions/articles/0802skytran0802.html]; '''&quot;Kyle Jones, chairman of the City Council's transportation and infrastructure committee, said the idea is more &quot;pipe dream&quot; than reality.&quot;'''... here's another from the same article; '''&quot;Mike James, Mesa's senior transportation planner, said SkyTran &quot;is an idea on the Internet, but that's about the only place it exists.&quot;
+&quot;'''
+
+
+== Skytran Proponents ==
+
+Skytran is proposed mainly by people opposed to public spending on transit [http://www.marinij.com/editorial/ci_7681004][[http://www.phoenixnewtimes.com/2000-03-09/news/traffic-thicket/1][http://www.novatoadvance.com/articles/2007/11/21/news/doc4744a3cc2fe67169517304.txt]
+
+== The quote is inappropriate for this article. ==
+
+It is highly inappropriate to include this one single quote about Malewicki, an isolated quote from five years ago that never received a bit of attention until long after it was removed from his site (and is only receiving attention now because one of his ideological enemies dug it up on a web archive - who also happens to be the editor trying to add it here). We say almost nothing about Malewicki in this article, and I believe it is a violation of both WP:WEIGHT and WP:BLP to include such a non-notable quote here. Avidor, if you continue to revert, I will raise this at BLP noticeboard. [[User:ATren|ATren]] ([[User talk:ATren|talk]]) 22:55, 19 May 2008 (UTC)
+
+
+== Skytran Inventor's Quote Very Appropriate for this Article ==
+
+Is  Malwicki the inventor of Skytran? If he has doubts about his own concept, that should be in the article. Another Malewicki quote: '''&quot;We're not real, yet,&quot; Malewicki admits.&quot;'''[http://www.phoenixnewtimes.com/2000-03-09/news/traffic-thicket/1]...   [[User:Avidor|Avidor]] ([[User talk:Avidor|talk]]) 23:38, 19 May 2008 (UTC)
+
+You have once again added that unflattering quote. It is not appropriate per BLP or WEIGHT. Please don't add it without further discussion.
+
+As for the ''editorial'' you quote above, we might discuss adding opinion to the article, but then of course there is the NY Times piece which is very complimentary of Malewicki. I think adding a bunch of competing opinions on Malewicki is counterproductive, since this is about SkyTran, not Malewicki. But this is a separate issue from the archived, isolated 5-year-old quote from his website that has been long since removed. [[User:ATren|ATren]] ([[User talk:ATren|talk]]) 23:40, 19 May 2008 (UTC)
+
+:::That was an article, not an editorial. This is from an Arizona blogger[http://laurelsandlances.blogspot.com/2007/08/untested-and-unproven-you-just-have-to.html]
+[[User:Avidor|Avidor]] ([[User talk:Avidor|talk]]) 00:01, 20 May 2008 (UTC)
+
+:My view on adding commentary is expressed [http://en.wikipedia.org/w/index.php?title=Talk:SkyTran&amp;diff=213586109&amp;oldid=213585773 here].
+
+:Also, I have sought advice from [[WP:BLP/N]] on the quote that you reverted to 3 times. [[User:ATren|ATren]] ([[User talk:ATren|talk]]) 00:15, 20 May 2008 (UTC)
+
+:Also, by the way, the Traffic Thicket opinion you quoted above is ''already in the article'', while the blog is inappropriate. [[User:ATren|ATren]] ([[User talk:ATren|talk]]) 00:17, 20 May 2008 (UTC)
+
+:: Blogs are not reliable sources, although the article which says ''&quot;We're not real, yet,&quot; Malewicki admits'' (which is obvious from the article already) also says: ''his résumé reveals more serious educational and professional qualifications, including a master's degree in aeronautical and astronautical engineering from Stanford University''. He's clearly intelligent and the system is speculative - but probably less so that a [[space elevator]]. [[User:Stephen B Streater|Stephen B Streater]] ([[User talk:Stephen B Streater|talk]]) 19:19, 21 May 2008 (UTC)
+
+== Malewicki; &quot;frankly not very notable&quot;==
+
+Quoting Atren-[http://en.wikipedia.org/wiki/Wikipedia:Biographies_of_living_persons/Noticeboard#Doug_Malewicki]
+
+{{cquote|In short, I believe this quote is highly inappropriate per BLP. We say almost nothing about Malewicki anywhere on Wiki, he has no article of his own,Correction: he does have a small stub article, see below no reliable source ever reported the quote, and the SkyTran article itself is practically a stub so that this quote would make up half the article. Malewicki may be a bit of an eccentric, but he has a long list of inventions and is, on balance, a respected figure. To include this one inflammatory quote in isolation is inappropriate; to include more would also be inappropriate since Malewicki is frankly not very notable}}
+
+The inventor is not notable, but  the invention the inventor admits does not exist is notable... time to pull the plug on this farce...[[User:Avidor|Avidor]] ([[User talk:Avidor|talk]])  &lt;small&gt;—Preceding [[Wikipedia:Signatures|comment]] was added at 02:17, 20 May 2008 (UTC)&lt;/small&gt;&lt;!--Template:Undated--&gt; &lt;!--Autosigned by SineBot--&gt;
+::I agree. Let's delete this page.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/72.67.35.214|72.67.35.214]] ([[User talk:72.67.35.214|talk]]) 06:46, 20 May 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:In the wikipedia, something is ''notable'' if it is described in respected publications, not whether it presently exists or not. Concepts like [[space colonization]] aren't currently real, but are you arguing these articles should be deleted? That's not the way the wikipedia works.- ([[User:Wolfkeeper|User]]) '''WolfKeeper''' ([[User_talk:Wolfkeeper|Talk]]) 02:00, 27 May 2008 (UTC)
+
+== Skytran's Lack of ADA Compliance ==
+
+To quote another editor- [http://en.wikipedia.org/w/index.php?title=User_talk:Skybum&amp;diff=prev&amp;oldid=57937045]- ...&quot;their actual system design is fatally flawed. Their proposition that they don't need to provide handicapped access because it would be cheaper to use vans to get people around is, well, just plain wrong.&quot; - The article should mention that there is no chance of Skytran being implemented in any American city without ADA compliance....[[User:Avidor|Avidor]] ([[User talk:Avidor|talk]]) 03:06, 27 May 2008 (UTC)
+
+:I've already archived this exact same section, because it is irrelevant to the article and likely a violation of [[WP:SOAP]]. What one Wikipedia editor says or thinks about SkyTran is completely irrelevant to a discussion about what should be in the article. 
+
+:This is (at least) the second time I'm politely asking you to stop posting this kind of stuff, yet you continue to do it. There are plenty of places to post your opinions on SkyTran; Wikipedia is not one of those places. Please take it elsewhere.
+
+:I will leave this up for a few days to make sure you've read this response, and then I will remove it. In the future, please refrain from adding such material it unless it deals ''specifically'' with the article '''and''' is backed by a reliable source. [[User:ATren|ATren]] ([[User talk:ATren|talk]]) 22:22, 27 May 2008 (UTC)
+
+::::Here is a list of guidelines [http://www.dotcr.ost.dot.gov/documents/ycr/ada_trans_guide.htm from the U.S. Government]... The fact that Skytran does not meet these regulatory  guidelines means it cannot be built in America.... that should be in the article...[[User:Avidor|Avidor]] ([[User talk:Avidor|talk]]) 00:10, 28 May 2008 (UTC)
+
+:::::Avidor, any source needs to specifically discuss the non-compliance of the SkyTran system; otherwise, it's original research.  If you can find secondary sources that discuss that aspect of the proposed design, I agree, that seems like it would be quite relevant, but until then, it's not appropriate for the article.  ATren, don't remove comment threads from the talk page, even your own, as leaving them here makes them far easier to refer to should this discussion come up again.
+::::::JDoorjam, Avidor knows all this. He's been arguing these same points on talk pages for nearly 3 years. I've requested reliable sources probably more than a dozen times; he's never provided any, even while continuing to post his own unsourced opinions and allegations. After 3 years of not providing a single source, it starts to look somewhat [[WP:SOAP]]y, and I ''archived'' (not removed) on those grounds. Also, the posting of several entire newspaper articles was cluttering up the page (not to mention the potential copyvios).
+::::::If you like, I can provide diffs to support this. [[User:ATren|ATren]] ([[User talk:ATren|talk]]) 20:30, 3 June 2008 (UTC)
+::::::::Nope, I believe you, but I don't really care about his past history.  For me, for now, this is an issue of content, not an issue of conduct.  On this page, at least, it is now on the record that ADA compliance issues will need reliable second-hand sources to include in the article. '''[[User:JDoorjam|JDoorjam]]'''     &lt;small&gt;[[User Talk:JDoorjam|JDiscourse]]&lt;/small&gt; 20:16, 4 June 2008 (UTC)
+
+&quot;SkyTran is not currently compliant...&quot;[http://www.gettherefast.org/lightrailnow.html]...&quot;llustrated below is a simulation of an elevated station for a SkyTran suspended-vehicle Personal Rapid Transit system proposed for Seattle. The design appears to provide only stairway access to the vehicle boarding platform – a non-ADA-compliant feature which would be illegal in reality.&quot;[http://www.lightrailnow.org/facts/fa_prt001.htm]... &quot;Handicap access Designated stops have electric lift capability to special vehicles for ADA compliance.&quot;[http://www.unimodal.net/index.php?option=com_content&amp;task=view&amp;id=14&amp;Itemid=36&amp;limit=1&amp;limitstart=2]...The problem with finding official comments on Skytran's ADA compliance is that Skytran has, to my knowledge not been evaluated by any government agency such as the FTA. It's worth noting that Skytran did not participate in this 2003  Advanced Transit Association report evaluating the technology of PRT concepts; &quot;Each of the vendors below was contacted and asked to participate in the study by answering 19 questions in writing about their systems. In addition, an open invitation was sent to two internet listserves 
+– transit-alternatives, and alt-transp.&quot;-[http://advancedtransit.org/pub/2002/prt/tech6.pdf] Also worth noting that Skytran did not supply ATRA with a business address...[[User:Avidor|Avidor]] ([[User talk:Avidor|talk]]) 13:46, 4 June 2008 (UTC)
+:The unimodal.net reference above is the strongest of the lot, though that is also not a reliable second-hand source (and, incidentally, shouldn't be used as a source for other claims in the article -- they ought to be written about in ''news'' sources or other referenceable works). '''[[User:JDoorjam|JDoorjam]]'''     &lt;small&gt;[[User Talk:JDoorjam|JDiscourse]]&lt;/small&gt; 20:16, 4 June 2008 (UTC)
+
+== Skytran's Secret Details ==
+
+&quot;SkyTran – Venture capital sources require that the details of this system not be made public (however, there is some information on the web site)&quot; - [http://advancedtransit.org/pub/2002/prt/tech6.pdf]... How can an article be written about Skytran if the concept's details are not public?...[[User:Avidor|Avidor]] ([[User talk:Avidor|talk]]) 15:16, 4 June 2008 (UTC)
+:... seems like there's plenty of sourced information to write an article.  While it makes the hurdles of proving notability higher, it's not an impasse. '''[[User:JDoorjam|JDoorjam]]'''     &lt;small&gt;[[User Talk:JDoorjam|JDiscourse]]&lt;/small&gt; 20:16, 4 June 2008 (UTC)
+
+== This article requires reliable sources that actually discuss the subject. ==
+
+I've removed several assertions from the article that rest either on unreliable sources, such as a PowerPoint presentation hosted at &quot;SolarEVolution.com,&quot; and statements that are apparently extrapolations from an article about the Inductrack system which doesn't even mention SkyTran at all.  All information included in this article needs to come from a reliable source which explicitly mentions SkyTran.  Because SkyTran is entirely theoretical, it is critical that the sources are trustworthy and relevant.  '''[[User:JDoorjam|JDoorjam]]'''     &lt;small&gt;[[User Talk:JDoorjam|JDiscourse]]&lt;/small&gt; 07:51, 11 June 2008 (UTC)
+
+:I seem to remember there being more sources for this topic. Not a whole lot, but more than we have now. But I can't find them anymore. It may have been that some of the claims were sourced to the SkyTran website itself, which now seems to have removed most of those details. I'll keep looking. [[User:ATren|ATren]] ([[User talk:ATren|talk]]) 12:04, 11 June 2008 (UTC)
+
+:: Why exactly is the PowerPoint from SolarEVolution.com unreliable? Information based on Inductrack is NOT an extrapolation. Inductrack is a technology meant to be used in SkyTran, and thus its benefits, drawbacks, and other qualities are part of SkyTran as well. I don't see what the problem is with citing information about Inductrack where it is relevant to SkyTran. Lets discuss this before the article is changed. [[User:Fresheneesz|Fresheneesz]] ([[User talk:Fresheneesz|talk]]) 22:44, 11 June 2008 (UTC)
+:::The article about Inductrack doesn't mention SkyTran at all.  The system they were testing looks nothing whatsoever like the schematics of the SkyTran system, which means anything the article says about the Inductrack test track has no bearing on this article unless it directly, explicitly mentions SkyTran.  Meanwhile, the Transportation category was removed because, being listed as a vehicle, a green vehicle, and other categories, it's already automatically in the &quot;Transportation&quot; sub-category, which means it's redundant to have the &quot;Transportation&quot; tag.  Please produce references that explicitly state that '''SkyTran''' will have the design features you are saying it will before reinserting that content. '''[[User:JDoorjam|JDoorjam]]'''     &lt;small&gt;[[User Talk:JDoorjam|JDiscourse]]&lt;/small&gt; 23:22, 11 June 2008 (UTC)
+
+:::: I did. That powerpoint you removed. What about it is &quot;unreliable&quot; exactly? Also, it doesn't make sense that SkyTran would *not* have core design &quot;features&quot; like a liftoff speed. Those things that are inherent in the physics of Inductrack would be in Skytran's design. Its stupid to require that SkyTran be mentioned in an article when Skytran uses that technology. SkyTran is not proposing creating new technology that is like inductrack - it is 100% using the inductrack technology. Why don't you try to look for these sources you want yourself? Please lets come to a concensus before you change the article. [[User:Fresheneesz|Fresheneesz]] ([[User talk:Fresheneesz|talk]]) ([[User talk:68.6.120.133|talk]]) 19:06, 12 June 2008 (UTC)
+:::::I've been looking for reliable sources, but have run into the same challenges others are seeming to have in tracking them down. Are you saying that, hypothetically, any PowerPoint found hosted somewhere on the internet, purporting to detail how SkyTran works, is reliable enough to include in this article as a reputable source?  That seems problematic to me.  That would mean that if Avidor, who above and elsewhere has made his dislike for PRT clearly known, were to post a PowerPoint saying whatever he pleased about SkyTran, that information should also be included in the article.
+:::::I would hope we can agree that the article about Inductrack doesn't mention SkyTran at all.  That means that any specifics about takeoff speeds, distances traveled, power needed for liftoff, etc., are referring to [https://www.llnl.gov/str/October04/gifs/Post1.jpg this vehicle], the Inductrack prototype, and not [[:Image:SkyTran_Seattle2.jpg|this vehicle]], the SkyTran design concept. I removed the source you added for the grid of tracks, as it isn't a reliable source -- it's a conference agenda blurb.  There's absolutely no way of determining who wrote that, when, based on what evidence, if any.  This may be a bit of text straight from Unimodal, but we can't even use it as such in the article and list is as a quotation, because we simply don't know its source.  (Compare the verifiability of that conference agenda to the Inductrack paper which is hosted by a reputable government agency and is part of a specific, dated periodical, provides extended, technical explanations, and credits the author, with multiple forms of contact listed.)  Again, this article requires iron-clad, reliable sources.  Otherwise, snippets of rumor can become like barnacles in articles like this, until finally the article may become more hypothesis than fact. '''[[User:JDoorjam|JDoorjam]]'''     &lt;small&gt;[[User Talk:JDoorjam|JDiscourse]]&lt;/small&gt; 07:40, 13 June 2008 (UTC)
+:::::: *sigh* alright, you make a good point. However, I still question why you think SolarEVolution.com isn't reliable enough. I also feel compelled to thank you for being patient with me. [[User:Fresheneesz|Fresheneesz]] ([[User talk:Fresheneesz|talk]]) 21:11, 13 June 2008 (UTC)
+:::::::The issue with the PowerPoint is two-fold: first, I'm trying to figure out exactly what SolarEVolution.com is -- is it an advocacy site?  It seems to be a collection of links, but I can't quite determine what the purpose of the organization is, so it's tough to know what we're looking at.  The PowerPoint seems to be straight from UniModal, complete with invisible-to-the-audience notes about how to make a strong case for SkyTran -- but it doesn't say who made it, and even if we ''knew'' it was from UniModal, it's not an independent, third-party source.  It does strongly hint that such content may exist somewhere, though.  Thanks for being patient with ''me'' and the fact-finding process.  It's really frustrating, I know, to personally know a thing is likely true, but not be able to find supporting evidence for it for an article.  But reliable sources will turn up, and then the article will be both reliable ''and'' thorough in its coverage. '''[[User:JDoorjam|JDoorjam]]'''     &lt;small&gt;[[User Talk:JDoorjam|JDiscourse]]&lt;/small&gt; 23:58, 13 June 2008 (UTC)
+:::::::: : ) [[User:Fresheneesz|Fresheneesz]] ([[User talk:Fresheneesz|talk]]) 05:42, 15 June 2008 (UTC)
+
+== What's going on? ==
+
+It's been over a decade since I first heard about SkyTran and still nothing. Not even a simple prototype!  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/72.87.243.160|72.87.243.160]] ([[User talk:72.87.243.160|talk]]) 18:06, 3 March 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:It's 2010 and still NOTHING. No test track, not even a scale model. ULTRA PRT is about to open its first system at London's Heathrow airport. If successful, the city of London is planning to build a city-wide system serving millions of people per day. The city of San Jose is about to announce their own system as well. I think Skytran missed the boat.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/74.100.52.87|74.100.52.87]] ([[User talk:74.100.52.87|talk]]) 18:15, 3 January 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+::&quot;It's 2010 and still NOTHING. No test track, not even a scale model.&quot; You spoke 2 months too soon. http://www.mv-voice.com/news/show_story.php?id=2694 [http://www.mv-voice.com/news/show_photo.php?main_id=2694&amp;type=p&amp;media_id=998&amp;section_id=1 photo 1 &amp; 2]''&lt;u&gt;'''[[User:Kmarinas86|Kmarinas86]]''' &lt;sup&gt;'''[[User_talk:Kmarinas86|(6''sin''8''karma'')]]'''&lt;/sup&gt;&lt;/u&gt; 22:23, 4 April 2010 (UTC)
+:::I'll believe when I see it. In the meantime, Ultra is real- it exists today. [[Special:Contributions/173.58.251.147|173.58.251.147]] ([[User talk:173.58.251.147|talk]])  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|undated]] comment added 06:01, 11 June 2010 (UTC).&lt;/span&gt;&lt;!--Template:Undated--&gt; &lt;!--Autosigned by SineBot--&gt;
+:::Look at the date on that article - April 1! It's a hoax. If it were real, they would have waited until April 2nd to make the announcement.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/173.58.99.57|173.58.99.57]] ([[User talk:173.58.99.57|talk]]) 08:12, 25 June 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+::::Very cunning.''&lt;u&gt;'''[[User:Kmarinas86|Kmarinas86]]''' &lt;sup&gt;'''[[User_talk:Kmarinas86|(6''sin''8''karma'')]]'''&lt;/sup&gt;&lt;/u&gt; 21:40, 3 August 2010 (UTC)
+
+== NASA Partnership ==
+
+NASA seems to have signed an agreement with Unimodal a few months ago: http://www.nasa.gov/topics/nasalife/features/unimodal.html Maybe someone can add that to the article? --[[User:SmilingBoy|SmilingBoy]] ([[User talk:SmilingBoy|talk]]) 22:55, 7 December 2009 (UTC)
+:I'll believe it when I see it.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/71.243.221.144|71.243.221.144]] ([[User talk:71.243.221.144|talk]]) 07:27, 21 February 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+::&quot;I'll believe it when I see it.&quot; Then why don't you contact Ruth Marlaire at the Ames Research Center (ruth.marlaire@nasa.gov) and ask her to fax you a copy of the signed agreement? You can also call her at 650-604-4709.''&lt;u&gt;'''[[User:Kmarinas86|Kmarinas86]]''' &lt;sup&gt;'''[[User_talk:Kmarinas86|(6''sin''8''karma'')]]'''&lt;/sup&gt;&lt;/u&gt; 19:26, 22 June 2010 (UTC)
+:::Yet another year has gone by and still NOTHING! Skytran is a JOKE! Please delete this article as it has no value whatsoever.[[Special:Contributions/108.23.147.17|108.23.147.17]] ([[User talk:108.23.147.17|talk]])  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|undated]] comment added 02:08, 6 September 2011 (UTC).&lt;/span&gt;&lt;!--Template:Undated--&gt; &lt;!--Autosigned by SineBot--&gt;
+::::[[WP:AFD]] is the only way that could happen. Note that poorly conceived projects, dead/unstarted/unfunded projects, and even complete scams and hopeless pipedreams are all valid wikipedia topics if they meet the [[WP:N|standard for notability]] by being written about in [[WP:RS|reliable sources]]. If it's crap, find sources that say it's crap and then the article can state that these sources say it's crap. [[User:DMacks|DMacks]] ([[User talk:DMacks|talk]]) 02:44, 6 September 2011 (UTC)
+:::::It's simple really. SkyTran is underfunded. Nothing more unusual than that is involved. When funding starts coming, does a &quot;joke&quot; become serious? Does the impossible become possible?(http://www.mako.co.il/news-money/tech/Article-91deaca05615a31004.htm&amp;sCh=31750a2610f26110&amp;pId=786102762)&lt;span style=&quot;display:inline-block; margin-bottom:-0.3em; vertical-align:-0.4em; line-height:1.2em;  font-size:85%; text-align:right;&quot;&gt;&lt;!--
+  --&gt;'''[[User:Kmarinas86|siNkarma86]]'''—Expert ''Sectioneer'' of Wikipedia&lt;br /&gt;&lt;!--
+  --&gt;&lt;sup&gt;''86'' = ''19+9+14 + karma = 19+9+14 + [[User talk:Kmarinas86|talk]]''&lt;/sup&gt;&lt;/span&gt; 00:25, 12 October 2012 (UTC)
+
+== Israeli blog asserts specific route and schedule in Tel Aviv ==
+
+Following the announcement late in 2013 by the Tel Aviv-Yafo Municipality that JGM Civil Engineers would be providing planning, civil engineering, and construction management for the Tel Aviv automated transit network (ATN) system:
+http://www.tel-aviv.gov.il/eng/Pages/Item.aspx?List={4FE3C3A4-0379-47BE-B94A-78707EF750C1}&amp;ID=98
+the Israeli Innovation News blog NoCamels reports on 14 April 2014:
+&quot;At an estimated cost of $50 million, the four-mile route, to be constructed during the coming year, will connect the Tel Aviv University train station with the nearby Atidim high-tech park and take about 18 months to construct. Further north, the coastal city of Netanya is also considering the construction of a SkyTran system.&quot;
+http://nocamels.com/2014/04/top-10-futuristic-technologies-made-in-israel/
+I'll let you guys sort out whether you think this is relevant. $50 million dollars funding is not politically impossible as a target. Jenkins Gales and Martinez seems to have 50 to 100 employees.
+http://start.cortera.com/company/research/k3m5lsk5n/jenkins-gales--martinez-inc/
+Presumably the Tel Aviv-Yafo Municipality website is a reliable source. Appointing a contract would seem to be significant as an indicator of something.
+[[User:Star A Star|Star A Star]] ([[User talk:Star A Star|talk]]) 15:54, 30 April 2014 (UTC)
+
+== Contradiction re Tel Aviv ==
+
+Intro states that building work not seen in Tel Aviv, but further down it states that only a test track away from public view is planned.  According to some of the info on this talk page, it states that a route would go in public areas.... Clarity would be nice!
+	</talkpage>
+</article>

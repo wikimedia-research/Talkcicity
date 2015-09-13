@@ -1,0 +1,28 @@
+<article id="41521239" title=User talk:Factfinder246>
+	<talkpage id="41521239" title="User talk:Factfinder246">
+
+==Welcome!==
+
+Hello, Factfinder246, and welcome to Wikipedia! Thank you for [[Special:Contributions/Factfinder246|your contributions]]. I hope you like the place and decide to stay. Here are a few links to pages you might find helpful:
+*[[Help:Getting started|Getting Started]]
+*[[Wikipedia:Introduction|Introduction to Wikipedia]]
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Help:Editing|How to edit a page]] and [[Wikipedia:Article development|How to develop articles]]
+*[[Wikipedia:Your first article|How to create your first article]] 
+*[[Wikipedia:Simplified Manual of Style|Simplified Manual of Style]]
+Please remember to [[Wikipedia:Signatures|sign]] your messages on [[Help:Using talk pages|talk page]]s by typing four [[tilde]]s (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically insert your username and the date. If you need help, check out [[Wikipedia:Questions]], ask me on [[user talk:Ashbeckjonathan|my talk page]], or ask your question on this page and then place &lt;code&gt;&lt;nowiki&gt;{{help me}}&lt;/nowiki&gt;&lt;/code&gt; before the question. Again, welcome! &lt;!-- Template:Welcome --&gt; [[User:Ashbeckjonathan|Ashbeckjonathan]] ([[User talk:Ashbeckjonathan|talk]]) 18:59, 1 January 2014 (UTC)
+
+== Factfinder246, you are invited to the Teahouse ==
+
+
+{| style=&quot;margin: 2em 4em;&quot;
+|- valign=&quot;top&quot;
+| [[File:WP teahouse logo 2.png|alt=Teahouse logo|link=w:en:WP:Teahouse|File:WP teahouse logo 2.png by User:Heatherawalls, licensed under CC BY-SA 3.0]]
+| &lt;div style=&quot;background-color:#f4f3f0; color: #393D38; padding: 1em;border-radius:10px; font-size: 1.1em;&quot;&gt;
+Hi '''Factfinder246'''! Thanks for contributing to Wikipedia. &lt;br /&gt;Be our guest at [[w:WP:teahouse|the Teahouse]]! The Teahouse is a friendly space where new editors can ask questions about contributing to Wikipedia and get help from peers and experienced editors. I hope to see you there! [[User_talk:Technical 13|Technical 13]] ([[w:en:WP:Teahouse/Hosts|I'm a Teahouse host]])
+&lt;div class=&quot;submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only&quot; role=&quot;button&quot; aria-disabled=&quot;false&quot;&gt;&lt;span class=&quot;ui-button-text&quot;&gt;[[WP:Teahouse|Visit the Teahouse]]&lt;/span&gt;&lt;/div&gt;&lt;small&gt;&lt;span style=&quot;text-align:right;&quot;&gt;This message was delivered automatically by your robot friend, [[User:HostBot|HostBot]] ([[User talk:HostBot|talk]]) 20:42, 3 January 2014 (UTC)&lt;/small&gt;&lt;/span&gt;
+&lt;/div&gt; 
+|}
+[[Category:Wikipedians who have received a Teahouse invitation]]&lt;!-- Template:Teahouse_HostBot_Invitation --&gt;
+	</talkpage>
+</article>

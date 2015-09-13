@@ -1,0 +1,5 @@
+<article id="43362276" title=Talk:Venturebeat>
+	<talkpage id="43362276" title="Talk:Venturebeat">
+{{WPAFC|class=redirect|ts=20140722050604|reviewer=Ollieinc}}
+	</talkpage>
+</article>

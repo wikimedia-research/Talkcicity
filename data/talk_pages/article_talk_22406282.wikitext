@@ -1,0 +1,183 @@
+<article id="22406282" title=User talk:Larry T. Farrell>
+	<talkpage id="22406282" title="User talk:Larry T. Farrell">
+== Uploading woes ==
+Hi there. I'm trying to post images in the Atlantic Philanthropies article and I'm having bother understanding the licencing I need to apply. 
+I have the permission of the copyright holder to use these images. These images should be free to use for anyone with no restrictions. They are low resolution and in the context of the article, they are fair use, as I understand it. 
+I would appreciate a steer as to the most suitable licence to arrange for this content.
+rgds
+LTF
+I
+
+==Fair use rationale for File:AP Logo Official b.jpg==
+Thanks for uploading '''[[:File:AP Logo Official b.jpg]]'''.  You've indicated that the image meets Wikipedia's [[Wikipedia:Non-free content|criteria for non-free content]], but there is no explanation of why it meets those criteria.  Please go to [[:File:AP Logo Official b.jpg|the image description page]] and edit it to include a fair use rationale.  If you have any questions, please post them at [[Wikipedia:Media copyright questions]].
+
+Thank you for your cooperation. NOTE: once you correct this, please remove the tag from the image's page. [[User:STBotI|STBotI]] ([[User talk:STBotI|talk]]) 20:47, 20 April 2009 (UTC)
+
+LTF= NOTE: This is completed. Awaiting approval from Wikipedia.
+
+==Disputed fair use rationale for File:BiomedicineAP.jpg}==
+Thank you for uploading '''[[:File:BiomedicineAP.jpg]]'''. However, there is a concern that the rationale provided for using this image under &quot;fair use&quot; may not meet the criteria required by [[Wikipedia:Non-free content]]. This can be corrected by going to the image description page and add or clarify the reason why the image qualifies for fair use. In particular, for each page the image is used on, the image must have an [[Wikipedia:Non-free use rationale guideline|explanation]] linking to that page which explains why it needs to be used on that page.  Can you please check:
+:* That there is a [[Wikipedia:Non-free use rationale guideline|non-free use rationale]] on the image's escription page for each article the image is used in.
+:* That every article it is used on is linked to from its description page.
+Please be aware that a fair use rationale is not the same as an [[Wikipedia:Image copyright tags/Non-free|image copyright tag]]; descriptions for images used under the fair use policy require both a copyright tag and a fair use rationale.
+
+If it is determined that the image does not qualify under fair use, it might be deleted by adminstrator within a few days in accordance with our [[Wikipedia:Criteria for speedy deletion#Images/media|criteria for speedy deletion]]. If you have any questions, please ask them at the [[Wikipedia:Media copyright questions|media copyright questions page]]. Thank you. NOTE: once you correct this, please remove the tag from the image's page. [[User:STBotI|STBotI]] ([[User talk:STBotI|talk]]) 23:15, 20 April 2009 (UTC)
+
+==Disputed fair use rationale for File:BiomedicineAP.jpg}==
+Thank you for uploading '''[[:File:BiomedicineAP.jpg]]'''. However, there is a concern that the rationale provided for using this image under &quot;fair use&quot; may not meet the criteria required by [[Wikipedia:Non-free content]]. This can be corrected by going to the image description page and add or clarify the reason why the image qualifies for fair use. In particular, for each page the image is used on, the image must have an [[Wikipedia:Non-free use rationale guideline|explanation]] linking to that page which explains why it needs to be used on that page.  Can you please check:
+:* That there is a [[Wikipedia:Non-free use rationale guideline|non-free use rationale]] on the image's escription page for each article the image is used in.
+:* That every article it is used on is linked to from its description page.
+Please be aware that a fair use rationale is not the same as an [[Wikipedia:Image copyright tags/Non-free|image copyright tag]]; descriptions for images used under the fair use policy require both a copyright tag and a fair use rationale.
+
+If it is determined that the image does not qualify under fair use, it might be deleted by adminstrator within a few days in accordance with our [[Wikipedia:Criteria for speedy deletion#Images/media|criteria for speedy deletion]]. If you have any questions, please ask them at the [[Wikipedia:Media copyright questions|media copyright questions page]]. Thank you. NOTE: once you correct this, please remove the tag from the image's page. [[User:STBotI|STBotI]] ([[User talk:STBotI|talk]]) 23:15, 20 April 2009 (UTC)
+
+== effort to restore balance and resolve any perceived conflict of interest ==
+
+This is my first effort at Wikipedia pages.
+I got flagged for what I would describe as imbalance.
+First of all, I appreciate the feedback. 
+I have looked again at the content and if it's not unorthodox, I would like to have another go in order to address the points raised in the feedback.
+ 
+In other words, I've identified some edits that could be better and I'd like to fix them up in a way that faithfully addresses the spirit and mission of Wikipedia. 
+That's all for now. rgds LTF
+
+=== edit to historical leadership ===
+I have identified this subsection as possible controversial content. I have removed this subsection in favor of a rewrite off-line. On reflection, it may not appear well balanced or precise enough within guidelines of Wikipedia. 
+ACTION: Taken out. 
+ROADMAP: Rewrite the salient history in an editorially balanced way so that any relevant content conforms to Wikipedia guidelines. Possible future re-submission.
+
+
+=== edit to introduction/overview ===
+reconfigured the facts and references to comply to neutrality guidelines. Tried to focus in on the verifiable facts and eliminate any unverifiable facts to restore editorial balance.
+
+== Re: self importance is our greatest enemy ==
+
+Thank you for being responsive to feedback. It's been my experience that non-profits and humanitarian organizations are represented by capable people, more so than those paid to advertise a business via the wiki. In order to clarify the editorial concerns I'd like to point you to [[WP:RS]] &amp; [[WP:NPOV]]. Please keep in mind that primary source information may be challenged or altogether deleted. Sections discussing the general philosophies of AP and its donees seem a bit advertorial. Details of any recognition the organization has received are welcome, however a thorough listing of all individual projects makes the article read like a directory.
+
+Oh, and almost forgot. You're a new user, so...
+{{#if:|== {{{heading}}} ==|}}
+{| width=&quot;100%&quot; style=&quot;background:transparent&quot;
+{| width=&quot;100%&quot; style=&quot;background-color:&lt;!-- Bug --&gt;#{{#switch:{{{color}}}|pink=FFF5F5|F5FFFA}}&quot;
+|style=&quot;width: 50%; border:1px solid &lt;!-- Strange bug makes the number sign have to go in front of the parserfunction here--&gt;#{{#switch:{{{color}}}|pink=800808|084080}}; background-color:&lt;!-- Bug --&gt;#{{#switch:{{{color}}}|pink=FFF5F5|F5FFFA}}; vertical-align:top&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;2&quot; style=&quot;vertical-align:top; background-color:&lt;!-- Bug --&gt;#{{#switch:{{{color}}}|pink=FFF5F5|F5FFFA}}&quot;
+| &lt;div style=&quot;margin: 0; background-color:{{#switch:{{{color}}}|cyan=#CEF2E0|pink=#F2CECE|#CECEF2}}; font-family: sans-serif; border:1px solid {{#switch:{{{color}}}|pink=#800808|#084080}}; text-align:left; color:black; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;&lt;p&gt;Hello, Larry T. Farrell, and '''''[[Wikipedia:Welcoming committee/Welcome to Wikipedia|Welcome to Wikipedia!]]'''''&lt;/p&gt;
+&lt;p&gt;Please remember to [[Wikipedia:Sign your posts on talk pages|sign your name on talk pages]] by clicking [[Image:Signature icon.png]] or using four tildes &lt;nowiki&gt;(~~~~)&lt;/nowiki&gt;; this will automatically produce your username and the date. Also, please do your best to always fill in the [[m:Help:Edit summary|edit summary field]]. Below are some useful links to facilitate your involvement.&lt;/p&gt;{{#if:|&lt;p&gt;{{{1}}}&lt;/p&gt;|}}
+&lt;p&gt;Happy editing! ˉˉ&lt;sup&gt;[[User:Anetode|'''anetode''']]&lt;/sup&gt;[[User_talk:Anetode|╦╩]] 11:21, 22 April 2009 (UTC)&lt;/p&gt;
+|}
+{| width=&quot;100%&quot; style=&quot;background-color:&lt;!-- Bug --&gt;#{{#switch:{{{color}}}|pink=FFF5F5|F5FFFA}}&quot;
+|style=&quot;width: 50%; border:0; background-color:&lt;!-- Bug --&gt;#{{#switch:{{{color}}}|pink=FFF5F5|F5FFFA}}; vertical-align:top&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;2&quot; style=&quot;vertical-align:top; background-color:&lt;!-- Bug --&gt;#{{#switch:{{{color}}}|pink=FFF5F5|F5FFFA}};&quot;
+|-
+! &lt;div style=&quot;margin: 0; background-color:{{#switch:{{{color}}}|cyan=#E2F9ED|pink=#F9E2E2|#084080}}; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid {{#switch:{{{color}}}|cyan=#A3BFB1|pink=#BFA3A3|#CEF2E0}}; text-align:left; color:{{#switch:{{{color}}}|pink=black|cyan=black|#FFC000}}; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Getting started&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Introduction|Introduction]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Wikipedia:How to edit a page|How to edit a page]]
+* [[Help:Wikipedia: The Missing Manual|Intuitive guide to Wikipedia]]
+|-
+! &lt;div style=&quot;margin: 0; background:{{#switch:{{{color}}}|cyan=#E2F9ED|pink=#F9E2E2|#084080}}; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid {{#switch:{{{color}}}|cyan=#A3BFB1|pink=#BFA3A3|#CEF2E0}}; text-align:left; color:{{#switch:{{{color}}}|pink=black|cyan=black|#FFC000}}; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Finding your way around&lt;/div&gt;
+|-
+| style=&quot;color:#000&quot;|
+* [[Wikipedia:Contents|Table of contents]]
+* [[Wikipedia:Department directory|Department directory]]
+|-
+! &lt;div style=&quot;margin: 0; background-color:{{#switch:{{{color}}}|cyan=#E2F9ED|pink=#F9E2E2|#084080}}; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid {{#switch:{{{color}}}|cyan=#A3BFB1|pink=#BFA3A3|#CEF2E0}}; text-align:left; color:{{#switch:{{{color}}}|pink=black|cyan=black|#FFC000}}; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Editing articles&lt;/div&gt;
+|-
+| style=&quot;color:#000&quot;|
+* [[Wikipedia:Article development#How to develop an article|How to develop an article]]
+* [[Wikipedia:Manual of Style|Manual of Style]]
+|-
+|}
+|style=&quot;width: 50%; border:0; background-color:&lt;!-- Bug --&gt;#{{#switch:{{{color}}}|pink=FFF5F5|F5FFFA}}; vertical-align:top&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;2&quot; style=&quot;vertical-align:top; background-color:&lt;!-- Bug --&gt;#{{#switch:{{{color}}}|pink=FFF5F5|F5FFFA}}&quot;
+! &lt;div style=&quot;margin: 0; background-color:{{#switch:{{{color}}}|cyan=#E2F9ED|pink=#F9E2E2|#084080}}; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid {{#switch:{{{color}}}|cyan=#A3BFB1|pink=#BFA3A3|#CEF2E0}}; text-align:left; color:{{#switch:{{{color}}}|pink=black|cyan=black|#FFC000}}; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Getting help&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Overview FAQ|Frequently asked questions]]
+* [[Wikipedia:Cheatsheet|Cheatsheet]]
+* [[Wikipedia:Questions|Where to ask a question]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:New contributors' help page|New contributors' help page]]
+|-
+! &lt;div style=&quot;margin: 0; background-color:{{#switch:{{{color}}}|cyan=#E2F9ED|pink=#F9E2E2|#084080}}; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid {{#switch:{{{color}}}|cyan=#A3BFB1|pink=#BFA3A3|#CEF2E0}}; text-align:left; color:{{#switch:{{{color}}}|pink=black|cyan=black|#FFC000}}; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;How you can help&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Contributing to Wikipedia|Contributing to Wikipedia]]
+* [[Wikipedia:Community Portal|Community Portal]]
+* Follow [[Wikipedia:Etiquette|Wikipedia etiquette]]
+* Practice [[Wikipedia:Civility|civility]]
+|-
+|}
+|}
+|}
+|}
+
+
+Regards ˉˉ&lt;sup&gt;[[User:Anetode|'''anetode''']]&lt;/sup&gt;[[User_talk:Anetode|╦╩]] 11:21, 22 April 2009 (UTC)
+
+== Redacted to a simpler version focussed on essential information ==
+
+Redacted to a simpler version focussed on essential information, incorporating content from previous versions. Would like to include further details about specific funding choices at a later date to illustrate the scope of impact of this philanthropic activity.
+
+Rolled back the following headings: 
+
+FUNDING
+
+OPERATIONS
+
+DONEES AND PROJECTS
+
+==Orphaned non-free media (File:NCLRpresident.jpg)==
+[[Image:Ambox warning blue.svg|25px]] Thanks for uploading '''[[:File:NCLRpresident.jpg]]'''. The media description page currently specifies that it is non-free and may only be used on Wikipedia under a [[WP:FU|claim of fair use]]. However, it is currently [[Wikipedia:WikiProject Orphanage|orphaned]], meaning that it is not used in any articles on Wikipedia. If the media was previously in an article, please go to the article and see why it was removed. [[WP:BOLD|You may add it back]] if you think that that will be useful. However, please note that media for which a replacement could be created are not acceptable for use on Wikipedia (see [[Wikipedia:Non-free content#Policy|our policy for non-free media]]).
+
+If you have uploaded other unlicensed media, please check whether they're used in any articles or not. You can find a list of 'image' pages you have edited by clicking on the &quot;[[Special:Contributions/{{PAGENAME}}|my contributions]]&quot; link (it is located at the very top of any Wikipedia page when you are logged in), and then selecting &quot;Image&quot; from the dropdown box. Note that all non-free media not used in any '''articles''' will be deleted after seven days, as described on [[wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. Thank you.&lt;!-- Template:Orphaned --&gt; [[User:BJBot|BJBot]] ([[User talk:BJBot|talk]]) 06:07, 24 April 2009 (UTC)
+
+== History edits ==
+
+These changes are to enhance the history of AP with 3rd party references to every fact mentioned for greater effect. 
+It is hoped that edits such as this will go some way to eliminate any perceived conflict of interest or 'advertorial' tone. 
+[[User:Larry T. Farrell|Larry T. Farrell]] ([[User talk:Larry T. Farrell#top|talk]]) 03:01, 30 April 2009 (UTC)
+
+== removed 'tags' indicating conflict of interest etc ==
+
+In the interests of clarifying the page for the general reader, and following on from extensive edits, I went ahead and removed the tags placed there that indicated a perceived conflict of interest. 
+This is important because a TV show will be broadcast in Ireland and the traffic to the page ought to increase. If the edits have resolved the perceived conflict of interest and boosted the Neutral POV then the tags are no longer adding to the situation.
+Readers would potentially be confused because  - the situation has changed a lot since those tags were applied. 
+I hope that's ok. [[User:Larry T. Farrell|Larry T. Farrell]] ([[User talk:Larry T. Farrell#top|talk]]) 01:52, 5 May 2009 (UTC)
+
+== added current references to sources in history ==
+
+There is currently some coverage of Chuck Feeney and Atlantic Philanthropies in the Irish media which has been included as source material to refer to in the history section. 
+TV info &lt;ref&gt; [TV show broadcast May 5 2009| http://www.newdecade.ie/chuckfeeney/] &lt;/ref&gt;
+Newspaper coverage&lt;ref&gt; [Article in Irish Times| http://www.irishtimes.com/newspaper/ireland/2009/0505/1224245943052.html} &lt;/ref&gt; 
+[[User:Larry T. Farrell|Larry T. Farrell]] ([[User talk:Larry T. Farrell#top|talk]]) 01:57, 5 May 2009 (UTC)
+
+== edit to Activities section ==
+
+This edit gives references and details of specific AP activities as well as some references to recognition. So far have discussed activities in four countries, will add more later.
+Comprehensive references and footnotes included. (May be subject to minor edits to improve look &amp; feel)
+rgds [[User:Larry T. Farrell|Larry T. Farrell]] ([[User talk:Larry T. Farrell#top|talk]]) 03:05, 5 May 2009 (UTC)
+
+
+==Disputed non-free use rationale for File:AP Logo Official b.jpg==
+[[File:Copyright-problem.svg|64px|left]]
+Thank you for uploading '''[[:File:AP Logo Official b.jpg]]'''. However, there is a concern that the rationale provided for using this file on Wikipedia may not meet the criteria required by [[Wikipedia:Non-free content]]. This can be corrected by going to the file description page and adding or clarifying the reason why the file qualifies under this policy. Adding and completing one of the templates available from [[Wikipedia:Non-free use rationale guideline]] is an easy way to ensure that your file is in compliance with Wikipedia policy. Please be aware that a non-free use rationale is not the same as an [[Wikipedia:Image copyright tags/Non-free|image copyright tag]]; descriptions for files used under the non-free content policy require both a copyright tag and a non-free use rationale.
+
+If it is determined that the file does not qualify under the non-free content policy, it might be deleted by an administrator within a few days in accordance with our [[Wikipedia:Criteria for speedy deletion#Files|criteria for speedy deletion]]. If you have any questions, please ask them at the [[Wikipedia:Media copyright questions|media copyright questions page]]. Thank you.&lt;!-- Template:No fair --&gt; [[User:Sfan00 IMG|Sfan00 IMG]] ([[User talk:Sfan00 IMG|talk]]) 19:05, 28 April 2010 (UTC)
+
+== Possibly unfree File:Cocleary secbillionaire book.jpg ==
+A file that you uploaded or altered, [[:File:Cocleary secbillionaire book.jpg]], has been listed at [[Wikipedia:Possibly unfree files]] because its copyright status is unclear or disputed. If the file's copyright status cannot be verified, it may be deleted. You may find more information on the [[:File:Cocleary secbillionaire book.jpg|file description page]]. You are welcome to add comments to its entry at [[Wikipedia:Possibly unfree files/2010 August 31#File:Cocleary secbillionaire book.jpg|the discussion]] if you are interested in it not being deleted. Thank you. &lt;!-- Template:Fdw-puf --&gt; --[[User:Skier Dude|&lt;span style=&quot;color:ForestGreen&quot;&gt;Skier Dude&lt;/span&gt;]] ([[User_talk:Skier Dude|&lt;span style=&quot;color:SaddleBrown&quot;&gt;talk&lt;/span&gt;]] 02:10, 31 August 2010 (UTC)
+
+==Fair use rationale for File:Cocleary secbillionaire book.jpg==
+[[File:Copyright-problem.svg|64px|left]]
+Thanks for uploading or contributing to '''[[:File:Cocleary secbillionaire book.jpg]]'''. I notice the file page specifies that the file is being used under [[Wikipedia:Fair use|fair use]] but there is not a suitable explanation or rationale as to why each specific use in Wikipedia constitutes fair use. Please go to [[:File:Cocleary secbillionaire book.jpg|the file description page]] and edit it to include a [[Wikipedia:Non-free use rationale guideline|fair use rationale]].
+
+If you have uploaded other fair use media, consider checking that you have specified the fair use rationale on those pages too. You can find a list of 'file' pages you have edited by clicking on the &quot;[[Special:Contributions/Larry T. Farrell|my contributions]]&quot; link (it is located at the very top of any Wikipedia page when you are logged in), and then selecting &quot;File&quot; from the dropdown box. Note that any non-free media lacking such an explanation will be deleted one week after they have been tagged, as described on [[Wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. If you have any questions please ask them at the [[Wikipedia:media copyright questions|Media copyright questions page]]. Thank you.&lt;!-- Template:Di-no fair use rationale-notice --&gt; [[User:After Midnight|After Midnight]] &lt;sup&gt;&lt;small&gt;[[User talk:After Midnight|0001]]&lt;/small&gt;&lt;/sup&gt; 02:30, 13 September 2010 (UTC)
+
+==Orphaned non-free image File:AP Logo Official b.jpg==
+&lt;span style=&quot;font-size:32px; line-height:1em&quot;&gt;'''[[Image:Ambox warning blue.svg|35px|left|&amp;#x26A0;|link=]]'''&lt;/span&gt; Thanks for uploading '''[[:File:AP Logo Official b.jpg]]'''. The image description page currently specifies that the image is non-free and may only be used on Wikipedia under a [[WP:FU|claim of fair use]]. However, the image is currently [[Wikipedia:Orphan|orphaned]], meaning that it is not used in any articles on Wikipedia. If the image was previously in an article, please go to the article and see why it was removed. [[WP:BOLD|You may add it back]] if you think that that will be useful. However, please note that images for which a replacement could be created are not acceptable for use on Wikipedia (see [[Wikipedia:Non-free content#Policy|our policy for non-free media]]).
+
+If you have uploaded other unlicensed media, please check whether they're used in any articles or not. You can find a list of &quot;file&quot; pages you have edited by clicking on the &quot;[[Special:MyContributions|my contributions]]&quot; link (it is located at the very top of any Wikipedia page when you are logged in), and then selecting &quot;File&quot; from the dropdown box. Note that any non-free images not used in any '''articles''' will be deleted after seven days, as described on [[wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. Thank you. &lt;!-- Template:Di-orphaned fair use-notice --&gt; [[User:Hugahoody|Hugahoody]] ([[User talk:Hugahoody|talk]]) 22:43, 29 December 2010 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="26510892" title=User talk:96.54.78.17>
+	<talkpage id="26510892" title="User talk:96.54.78.17">
+[[File:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia{{#if:Vancouver Canucks|, as you did to [[:Vancouver Canucks]]}}. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Thank you.&lt;!-- Template:uw-vandalism2 --&gt; [[User:Resolute|Reso]][[User Talk:Resolute|lute]] 05:20, 11 March 2010 (UTC)
+	</talkpage>
+</article>

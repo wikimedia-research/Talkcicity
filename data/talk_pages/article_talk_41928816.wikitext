@@ -1,0 +1,12 @@
+<article id="41928816" title=User talk:115.84.140.85>
+	<talkpage id="41928816" title="User talk:115.84.140.85">
+
+
+== February 2014 ==
+[[Image:Information.svg|left|25px|alt=|link=]] Hello, and welcome to Wikipedia. This is a message letting you know that one or more of your recent edits to [[:Airtel Bangladesh]] has been undone by an automated computer program called [[User:ClueBot NG|ClueBot NG]].
+{{clear}}
+* ClueBot NG makes very few [[User:ClueBot NG#Information About False Positives|mistakes]], but it does happen. If you believe the change you made was constructive, please [[User:ClueBot NG#Information About False Positives|read about it]], [{{User:ClueBot NG/Warnings/FPReport|1698842}} report it here], remove this message from your talk page, and then make the edit again.
+* For help, take a look at the [[Wikipedia:Introduction|introduction]].
+* The following is the log entry regarding this message: [[Airtel Bangladesh]] was [http://en.wikipedia.org/w/index.php?title=Airtel+Bangladesh&amp;diff=595270660&amp;oldid=585237811 changed] by [[Special:Contributions/115.84.140.85|115.84.140.85]] [[User:115.84.140.85|(u)]] [[User talk:115.84.140.85|(t)]] ANN scored at 0.900043 on 2014-02-13T08:35:50+00:00 &lt;!-- MySQL ID: 1698842 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]) 08:35, 13 February 2014 (UTC)
+	</talkpage>
+</article>

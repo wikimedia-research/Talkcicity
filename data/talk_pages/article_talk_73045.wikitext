@@ -1,0 +1,6 @@
+<article id="73045" title=Talk:Bundesregierung>
+	<talkpage id="73045" title="Talk:Bundesregierung">
+Bundesregierung is not a valid English word. Moved the text to
+[[Politics of Germany]] where it properly belongs.
+	</talkpage>
+</article>

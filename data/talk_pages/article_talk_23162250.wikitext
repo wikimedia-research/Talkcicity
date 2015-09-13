@@ -1,0 +1,7 @@
+<article id="23162250" title=User talk:69.108.108.154>
+	<talkpage id="23162250" title="User talk:69.108.108.154">
+
+
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to contribute constructively to the encyclopedia, adding content without [[Wikipedia:Citing sources|citing]] a [[Wikipedia:Reliable sources|reliable source]]{{#if:|, as you did to [[:{{{1}}}]],}} is not consistent with our policy of [[Wikipedia:Verifiability|verifiability]]. Take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia.  If you are familiar with [[Wikipedia:Citing sources]], please take this opportunity to add references to the article. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-unsourced1 --&gt; &lt;span style=&quot;color:#930000;&quot;&gt;'''Mod'''&lt;/span&gt;.&lt;sup&gt;&lt;span style=&quot;color:#B90000;&quot;&gt;'''[[User:Mod.torrentrealm|torrent]]'''&lt;/span&gt;&lt;span style=&quot;color:#FF0000;&quot;&gt;'''[[User_talk:Mod.torrentrealm|realm]]'''&lt;/span&gt;&lt;/sup&gt; 23:54, 9 June 2009 (UTC)
+	</talkpage>
+</article>

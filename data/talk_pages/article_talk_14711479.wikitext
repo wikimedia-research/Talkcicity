@@ -1,0 +1,5 @@
+<article id="14711479" title=Talk:Ghost Train (TV series)>
+	<talkpage id="14711479" title="Talk:Ghost Train (TV series)">
+{{TelevisionWikiProject|class=stub|importance=low}}
+	</talkpage>
+</article>

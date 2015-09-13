@@ -1,0 +1,6 @@
+<article id="37827031" title=Talk:Solariella luteola>
+	<talkpage id="37827031" title="Talk:Solariella luteola">
+{{WikiProject Gastropods|class=stub|importance=low|needs-photo=yes}}
+{{WikiProject New Zealand|class=Stub}}
+	</talkpage>
+</article>

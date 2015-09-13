@@ -1,0 +1,6 @@
+<article id="9682558" title=Talk:U.S. Route 20A>
+	<talkpage id="9682558" title="Talk:U.S. Route 20A">
+{{WikiProject Disambiguation}}
+{{U.S. Roads WikiProject|type=US|class=dab|state1=NY|state2=OH}}
+	</talkpage>
+</article>

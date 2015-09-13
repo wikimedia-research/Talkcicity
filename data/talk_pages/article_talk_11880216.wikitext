@@ -1,0 +1,6 @@
+<article id="11880216" title=Talk:Halocaridina rubra>
+	<talkpage id="11880216" title="Talk:Halocaridina rubra">
+{{WikiProject Arthropods |class=C |importance=low}}
+{{WikiProject Hawaii |class=C |importance=mid}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="22840031" title=Talk:1996 Torneo Descentralizado>
+	<talkpage id="22840031" title="Talk:1996 Torneo Descentralizado">
+{{football|class=stub|importance=low}}
+	</talkpage>
+</article>

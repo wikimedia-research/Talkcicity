@@ -1,0 +1,11 @@
+<article id="18536893" title=User talk:89.36.245.209>
+	<talkpage id="18536893" title="User talk:89.36.245.209">
+== July 2008 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. One or more of the [[Wikipedia:External links|external links]] you added in &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Reactor_(Havok)?diff=227156862 this edit]&lt;/span&gt; to [[:Reactor (Havok)]] do not comply with our [[Wikipedia:External links|guidelines for external links]] and have been removed. Wikipedia is [[Wikipedia:What Wikipedia is not#LINK|not a collection of links]]; nor should it be used for [[Wikipedia:Spam|advertising or promotion]]. You may wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thanks. &lt;!-- Template:uw-hugglespam1 --&gt; [[User:Closedmouth|Closedmouth]] ([[User talk:Closedmouth|talk]]) 06:52, 22 July 2008 (UTC)
+
+[[Image:Information.png|25px]] Please do not add inappropriate [[Wikipedia:External links|external links]] to Wikipedia, as you did in &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Inverse_kinematics?diff=227157189 this edit]&lt;/span&gt; to [[:Inverse kinematics]]. Inappropriate links include links to personal web sites, links to web sites with which you are affiliated, and links that serve as [[Wikipedia:Spam|advertising or promotion]]. Thanks. &lt;!-- Template:uw-hugglespam2 --&gt; [[User:Closedmouth|Closedmouth]] ([[User talk:Closedmouth|talk]]) 06:55, 22 July 2008 (UTC)
+
+[[Image:Nuvola apps important.svg|25px]] Please do not add inappropriate external links, as you did with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Brazil_R/S?diff=227157357 this edit]&lt;/span&gt; to [[:Brazil R/S]]. If you continue to do so, you will be blocked from editing. &lt;!-- Template:uw-hugglespam3 --&gt; [[User:Closedmouth|Closedmouth]] ([[User talk:Closedmouth|talk]]) 06:56, 22 July 2008 (UTC)
+	</talkpage>
+</article>

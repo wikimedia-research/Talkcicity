@@ -1,0 +1,5 @@
+<article id="32410189" title=Talk:Renaud cante el' Nord>
+	<talkpage id="32410189" title="Talk:Renaud cante el' Nord">
+{{album}}
+	</talkpage>
+</article>

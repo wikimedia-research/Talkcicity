@@ -1,0 +1,6 @@
+<article id="18169477" title=Talk:Michel G. Malti>
+	<talkpage id="18169477" title="Talk:Michel G. Malti">
+{{WikiProject Biography|living=no|class=Start|listas=Malti, Michel}}
+{{Old AfD multi|date=18 June 2008|result='''keep'''|page=Michel G. Malti}}
+	</talkpage>
+</article>

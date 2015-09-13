@@ -1,0 +1,7 @@
+<article id="21277778" title=User talk:149.254.218.219>
+	<talkpage id="21277778" title="User talk:149.254.218.219">
+== January 2009 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Galashiels?diff=266691519 recent edit]&lt;/span&gt; you made to [[:Galashiels]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:Camw|Camw]] ([[User talk:Camw|talk]]) 06:05, 27 January 2009 (UTC)
+	</talkpage>
+</article>

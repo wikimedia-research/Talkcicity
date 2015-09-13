@@ -1,0 +1,5 @@
+<article id="12668911" title=Talk:Vertigo hubrichti>
+	<talkpage id="12668911" title="Talk:Vertigo hubrichti">
+{{WikiProject Gastropods|class=Stub|importance=low|needs-photo=yes}}
+	</talkpage>
+</article>

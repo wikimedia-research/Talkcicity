@@ -1,0 +1,8 @@
+<article id="23880933" title=User talk:70.169.193.105>
+	<talkpage id="23880933" title="User talk:70.169.193.105">
+
+== August 2009 ==
+
+[[Image:Information.svg|25px]] Welcome to Wikipedia. The project's content policies require that all articles be written from a [[Wikipedia:Neutral point of view|neutral point of view]], and not introduce bias or give undue weight to viewpoints. Please bear this in mind when making edits such as your &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Halter_(horse_show)?diff=306306644 recent edit]&lt;/span&gt; to [[:Halter (horse show)]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:Uw-hugglenpov1 --&gt; [[User talk:MuZemike|MuZemike]] 00:07, 6 August 2009 (UTC)
+	</talkpage>
+</article>

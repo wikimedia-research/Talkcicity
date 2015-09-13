@@ -1,0 +1,9 @@
+<article id="21973255" title=User talk:67.236.111.207>
+	<talkpage id="21973255" title="User talk:67.236.111.207">
+[[Image:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia{{#if:Second World‎|, as you did to [[:Second World‎]]}}. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism2 --&gt; --[[user:Tavrian|Tavrian]] 20:15, 14 March 2009 (UTC)
+
+[[Image:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia{{#if:European Pine Marten|, as you did to [[:European Pine Marten]]}}. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism2 --&gt; [[User:Piano non troppo|Piano non troppo]] ([[User talk:Piano non troppo|talk]]) 20:29, 14 March 2009 (UTC)
+
+Also vandalism to [[Mouse]]. That's three for three. If you continue your computer will be blocked from editing. This is a formal warning. [[User:Piano non troppo|Piano non troppo]] ([[User talk:Piano non troppo|talk]]) 20:31, 14 March 2009 (UTC)
+	</talkpage>
+</article>

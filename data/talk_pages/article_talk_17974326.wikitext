@@ -1,0 +1,8 @@
+<article id="17974326" title=Talk:Streatham-Croydon RFC>
+	<talkpage id="17974326" title="Talk:Streatham-Croydon RFC">
+{{WikiProjectBannerShell|1=
+{{WikiProject Rugby union|class=Start|importance=Low}}
+{{WPLondon|class=Start|importance=Low}}
+}}
+	</talkpage>
+</article>

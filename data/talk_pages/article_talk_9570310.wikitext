@@ -1,0 +1,31 @@
+<article id="9570310" title=Talk:New York Medical College>
+	<talkpage id="9570310" title="Talk:New York Medical College">
+{{WikiProject New York|class=Stub|importance=Low}}
+{{WikiProject Universities|class=Stub}}
+
+==Flower and Fifth==
+The &quot;Flower&quot; was after a 19th-century Governor of New York, right? [[User:RahadyanS|RahadyanS]] 05:38, 18 February 2007 (UTC)
+
+==First Woman Physician==
+According to the United States National Library of Medicine/National Institutes of Health Elizabeth Blackwell was the first woman to graduate from a medical college in the United States (1849). See the following web page: http://www.nlm.nih.gov/changingthefaceofmedicine/physicians/biography_35.html
+
+The statement in this article that Emily Stowe was the first woman to graduate from medical college in the US is therefore incorrect according to the previously cited authority. Also since Elizabeth Blackwell graduated from Geneva College in New York State it would not be correct to say that she was the first female MD to graduate in NY either. Perhaps a claim can be made for New York City or New York Medical College.
+[[User:Hochstein|Hochstein]] ([[User talk:Hochstein|talk]]) 23:53, 8 May 2008 (UTC)
+
+== [[:File:NYMC_logo.jpg]] may be deleted ==
+
+I have tagged [[:File:NYMC_logo.jpg]], which is in use in this article for [[Wikipedia:CSD#F4|deletion]] because it does not have a copyright tag. If a [[Wikipedia:Image copyright tags|copyright tag]] is not added within seven days the image will be deleted. --[[User_talk:Chris G|&lt;b&gt;&lt;font style=&quot;color:Green;&quot;&gt;Chris&lt;/font&gt;&lt;/b&gt;]] 01:01, 28 April 2009 (UTC)
+
+== Section: History ==
+
+According to this article, the New York Medical College was founded in 1850 at 112 East 13th Street:&lt;br&gt;
+
+Jacobi, Abraham. [https://play.google.com/books/reader?id=2d_nAAAAMAAJ&amp;printsec=frontcover&amp;output=reader&amp;authuser=0&amp;hl=en&amp;pg=GBS.PA370 &quot;The New York Medical College 1782-1906&quot;] ''Annals of Medical History'' Vol. 1 No. 4 (Winter 1917), p. 370, col. 2.
+
+This contradicts the information given in the section. [[User:Vzeebjtf|Vzeebjtf]] ([[User talk:Vzeebjtf|talk]]) 23:29, 15 December 2013 (UTC)
+
+== Advertisement? ==
+
+This article reads like an advertisement for NYMC.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/129.85.8.228|129.85.8.228]] ([[User talk:129.85.8.228|talk]]) 17:20, 25 February 2014 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

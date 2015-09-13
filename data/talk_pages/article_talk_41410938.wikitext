@@ -1,0 +1,6 @@
+<article id="41410938" title=Talk:KNGR>
+	<talkpage id="41410938" title="Talk:KNGR">
+{{WikiProject Radio Stations|class=stub|importance=low}}
+{{WikiProject United States|class=stub|importance=low|TX=yes|TX-importance=low}}
+	</talkpage>
+</article>

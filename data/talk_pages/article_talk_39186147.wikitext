@@ -1,0 +1,26 @@
+<article id="39186147" title=User talk:Simon andrew cooper>
+	<talkpage id="39186147" title="User talk:Simon andrew cooper">
+
+&lt;!-- Template:Welcomelaws --&gt;
+;Welcome!
+Hello and [[Wikipedia:Welcome, newcomers|welcome]] to [[Wikipedia]]. Thank you for [[Special:Contributions/Simon andrew cooper|your contributions]]. I hope you like the place and decide to stay. The following links will help you begin editing on Wikipedia:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Wikipedia:Tutorial|Editing tutorial]]
+*[[Wikipedia:Picture tutorial|Picture tutorial]]
+*[[Wikipedia:How to write a great article|How to write a great article]]
+*[[Wikipedia:Naming conventions|Naming conventions]]
+*[[Wikipedia:Simplified Manual of Style|Simplified Manual of Style]]
+
+;Please bear these points in mind while editing Wikipedia:
+* [[Wikipedia:Copyrights|Respect copyrights]] – do not copy and paste text or images directly from other websites.
+* Maintain a [[Wikipedia:Neutral point of view|neutral point of view]] – this is one of Wikipedia's core policies.
+* Take particular care while adding biographical material about a [[Wikipedia:Biographies of living persons|living person]] to any Wikipedia page and follow [[Wikipedia:Biographies of living persons|Wikipedia's Biography of Living Persons policy]]. Particularly, controversial and negative statements should be [[Help:Introduction to referencing/1|referenced]] with multiple [[Wikipedia:Reliable sources|reliable sources]].
+* No [[Wikipedia:Edit warring|edit warring]] or [[Wikipedia:Sock puppetry|sock puppetry]].
+* If you are testing, please use the [[Wikipedia:Sandbox|Sandbox]] to &lt;span class=&quot;plainlinks&quot;&gt;[{{fullurl:Wikipedia:Sandbox|action=edit}} do so]&lt;/span&gt;.
+* Do not add troublesome content to any [[Wikipedia:What is an article|article]], such as: [[copyright]]ed text, [[Wikipedia:Libel|libel]], [[WP:ARTSPAM|advertising]] or [[WP:NOTADVERTISING|promotional messages]], and text that is not related to an article's subject. Deliberately adding such content or otherwise editing articles maliciously is considered [[Wikipedia:Vandalism|vandalism]]; doing so will result in your account or IP being [[WP:BLOCK|blocked from editing]].
+* Do not use talk pages as discussion or forum pages as Wikipedia is [[WP:NOT#FORUM|not a forum]].
+
+The [[Wikipedia:Tutorial|Wikipedia tutorial]] is a good place to start learning about Wikipedia. If you have any questions, see the [[Wikipedia:Help|help pages]], add a question to the [[Wikipedia:village pump|village pump]] or ask me on [[User talk:Theroadislong|my talk page]]. By the way, you can sign your name on Talk and discussion pages using four tildes, like this: &amp;#126;&amp;#126;&amp;#126;&amp;#126; (the software will replace them with your signature and the date). Again, welcome! [[User:Theroadislong|Theroadislong]] ([[User talk:Theroadislong|talk]]) 14:19, 22 April 2013 (UTC)
+	</talkpage>
+</article>

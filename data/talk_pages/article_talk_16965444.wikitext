@@ -1,0 +1,13 @@
+<article id="16965444" title=User talk:71.174.208.11>
+	<talkpage id="16965444" title="User talk:71.174.208.11">
+== April 2008 ==
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits{{#if:Neanderthal|, such as the one you made to [[:Neanderthal]],}} did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed.  Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing to this encyclopedia. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism1 --&gt; [[User:Neverquick|Neverquick]] ([[User talk:Neverquick|talk]]) 19:34, 16 April 2008 (UTC)
+:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
+
+[[Image:Information.png|25px|left]] The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Neanderthal?diff=206086249 recent edit]&lt;/span&gt; you made to [[:Neanderthal]] constitutes [[Wikipedia:Vandalism|vandalism]], and has been reverted. Please do not continue to vandalize pages; use the [[Wikipedia:Sandbox|sandbox]] for testing. Thanks. &lt;!-- Template:uw-huggle2 --&gt; [[User:Cream|Cream]] ([[User talk:Cream|talk]]) 19:39, 16 April 2008 (UTC))
+
+:[[Image:Nuvola apps important.svg|25px]] Please stop. If you continue to [[Wikipedia:Vandalism|vandalize]] Wikipedia{{#if:Neanderthal|, as you did to [[:Neanderthal]]}}, you will be [[Wikipedia:Blocking policy|blocked]] from editing. {{#if:|{{{2}}}|}}&lt;!-- Template:uw-vandalism3 --&gt; &lt;font color=&quot;#8b4513&quot;&gt;[[User:Mindmatrix|Mind]]&lt;/font&gt;&lt;font color=&quot;#ee8811&quot;&gt;[[User_talk:Mindmatrix|matrix]]&lt;/font&gt; 19:47, 16 April 2008 (UTC)
+
+{{{icon|[[Image:Nuvola apps important.svg|25px]] }}} Your recent edit to [[:Homo habilis]] ([http://en.wikipedia.org/w/index.php?title=Homo_habilis&amp;curid=14348&amp;diff=208652564&amp;oldid=208353909 diff]) was reverted by an '''automated bot'''. The edit was identified as adding test edits to the page. If you want to experiment, please use the '''preview button''' while editing or consider using the [[Wikipedia:Sandbox|sandbox]]. If this revert was in error, please contact the bot operator. Thanks!&lt;!-- Template:uw-vandalism4 --&gt; // [[User:VoABot II|VoABot II]] ([[User talk:VoABot II|talk]]) 01:01, 28 April 2008 (UTC)
+	</talkpage>
+</article>

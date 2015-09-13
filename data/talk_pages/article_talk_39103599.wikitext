@@ -1,0 +1,18 @@
+<article id="38842536" title=User talk:009o9/Harold Cronk>
+	<talkpage id="38842536" title="User talk:009o9/Harold Cronk">
+{{WikiProject Biography
+| living             = yes
+| class              = 
+| filmbio-work-group = yes
+| filmbio-priority   = 
+| needs-photo        = 
+| needs-infobox      = 
+| needs-filmography  = 
+| needs-persondata   = 
+| listas             = Cronk, Harold
+}}
+{{WikiProject Michigan|class=start}}
+
+{{Connected contributor|009o9|Example article|editedhere=yes}}
+	</talkpage>
+</article>

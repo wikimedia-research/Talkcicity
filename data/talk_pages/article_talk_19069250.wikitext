@@ -1,0 +1,6 @@
+<article id="19069250" title=Talk:Ocean City School District>
+	<talkpage id="19069250" title="Talk:Ocean City School District">
+{{WPSchools|class=start|importance=low|needs-infobox=no}}
+{{WikiProject New Jersey|class=start|importance=low|needs-infobox=no|education=yes|education-importance=High}}
+	</talkpage>
+</article>

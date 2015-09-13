@@ -1,0 +1,5 @@
+<article id="20380277" title=Talk:La Martre>
+	<talkpage id="20380277" title="Talk:La Martre">
+{{DisambigProject}}
+	</talkpage>
+</article>

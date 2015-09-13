@@ -1,0 +1,5 @@
+<article id="20179739" title=Talk:Wilczogęby>
+	<talkpage id="20179739" title="Talk:Wilczogęby">
+{{WikiProject Poland|class=stub|importance=}}
+	</talkpage>
+</article>

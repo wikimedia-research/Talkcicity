@@ -1,0 +1,5 @@
+<article id="29232442" title=Talk:Cayarani District>
+	<talkpage id="29232442" title="Talk:Cayarani District">
+{{WikiProject Peru |importance=|class=stub}}
+	</talkpage>
+</article>

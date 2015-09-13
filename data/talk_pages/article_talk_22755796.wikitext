@@ -1,0 +1,8 @@
+<article id="22755796" title=User talk:Dgw718>
+	<talkpage id="22755796" title="User talk:Dgw718">
+== Your submission at [[WP:AFC|Articles for creation]] ==
+
+[[File:AFC-Logo.png|50px|left]] Thank you for submitting an article at [[Wikipedia:Articles for Creation]]. Your submission has been reviewed and has been put on hold pending clarification or improvements from you or other editors. Please take a look and respond if possible. {{#if:Daniel Wesley (Actor/Entertainer)|You can find it at [[Wikipedia{{#ifexist:Wikipedia:Articles for creation/Daniel Wesley (Actor/Entertainer)||&amp;#32;talk}}:Articles for creation/Daniel Wesley (Actor/Entertainer)]].}} If there is no response within twenty-four hours the request may be declined; if this happens feel free to continue to work on the article and resubmit when you believe the concerns have been addressed. Thank you. [[User:SharkxFanSJ|SharkxFanSJ]] ([[User talk:SharkxFanSJ|talk]]) 21:53, 10 May 2009 (UTC)
+::This article submission lacks any independant, secondary sources about the subject.  The one article listed talks about the production, but does not mention the actor.  In order for a biographical article to be accepted by Wikipedia, the subject's notability must be established in accordance with the [[WP:BIO]] policy.  I've placed the article on hold for now pending improvements.  Thanks..  --[[User:SharkxFanSJ|SharkxFanSJ]] ([[User talk:SharkxFanSJ|talk]]) 21:53, 10 May 2009 (UTC)
+	</talkpage>
+</article>

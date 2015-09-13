@@ -1,0 +1,5 @@
+<article id="30249387" title=User talk:Theend123>
+	<talkpage id="30249387" title="User talk:Theend123">
+{{talk archive|Talk:Theend123}}
+	</talkpage>
+</article>

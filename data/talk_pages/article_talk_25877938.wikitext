@@ -1,0 +1,11 @@
+<article id="25877938" title=User talk:139.168.143.142>
+	<talkpage id="25877938" title="User talk:139.168.143.142">
+
+
+== January 2010 ==
+[[Image:Information.svg|left|25px]] Welcome to Wikipedia. Everyone is welcome to make constructive contributions to Wikipedia, but at least one of your recent edits, such as the one you made to [[:Dexter (TV series)]], did not appear to be constructive and has been '''automatically [[Help:Reverting|reverted]]''' by [[User:ClueBot|ClueBot]]. 
+* Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. Note that human editors do monitor recent changes to Wikipedia articles, and [[WP:ADMINS|administrators]] have the ability to [[WP:BLOCK|block]] users from editing if they repeatedly engage in [[WP:vandalism|vandalism]].
+* Cluebot produces very few [[false positives]], but it does happen. If you believe the change you made should not have been detected as unconstructive, please [[User:ClueBot/FalsePositives|report it here]], remove this warning from your talk page, and then make the edit again. 
+* The following is the log entry regarding this warning: [[Dexter (TV series)]] was [http://en.wikipedia.org/w/index.php?title=Dexter+%28TV+series%29&amp;diff=338944928&amp;oldid=338939670 changed] by [[Special:Contributions/139.168.143.142|139.168.143.142]] [[User:139.168.143.142|(u)]] [[User talk:139.168.143.142|(t)]] making a minor change adding &quot;!!!&quot; on 2010-01-20T12:50:06+00:00 &lt;!-- MySQL ID: 528962 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot|ClueBot]] ([[User talk:ClueBot|talk]]) 12:50, 20 January 2010 (UTC)
+	</talkpage>
+</article>

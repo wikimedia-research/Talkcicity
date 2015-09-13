@@ -1,0 +1,7 @@
+<article id="13540715" title=Talk:Jacob Broom House>
+	<talkpage id="13540715" title="Talk:Jacob Broom House">
+{{WikiProject National Register of Historic Places|class=stub|importance=High}}
+{{WikiProject United States|class=stub|importance=low|DE=yes|DE-importance=mid}}
+{{Notice|[[Image:External.svg|15px]] [[tools:~dispenser/view/Checklinks|External links checked]] 2008-09-13. &lt;!-- add comments --&gt; --User:Ceyockey (&lt;small&gt;''[[User talk:Ceyockey|talk to me]]''&lt;/small&gt;) 00:50, 13 September 2008 (UTC) }}
+	</talkpage>
+</article>

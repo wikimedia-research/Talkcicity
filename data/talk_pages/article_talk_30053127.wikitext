@@ -1,0 +1,5 @@
+<article id="30053127" title=Talk:Cristian Heyne>
+	<talkpage id="30053127" title="Talk:Cristian Heyne">
+{{WikiProject Biography|living=yes|listas=Heyne, Cristian}}
+	</talkpage>
+</article>

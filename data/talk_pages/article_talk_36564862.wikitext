@@ -1,0 +1,47 @@
+<article id="36563752" title=Talk:Leanne Del Toso>
+	<talkpage id="36563752" title="Talk:Leanne Del Toso">
+{{Articlehistory
+|action1=GAN
+|action1date=15:25, 14 August 2013
+|action1link=/GA1
+|action1result=listed
+|action1oldid=568520069
+
+|action2=GTC
+|action2date=00:20, 8 December 2013 (UTC)
+|action2link=Wikipedia:Featured topic candidates/Australia women's national wheelchair basketball team at the 2012 Summer Paralympics/archive1
+|action2result=promoted
+
+|ftname=Australia women's national wheelchair basketball team at the 2012 Summer Paralympics
+
+|currentstatus=GA
+|topic=sports
+}}
+
+{{WikiProjectBannerShell|blp=yes|1=
+{{WikiProject Biography
+|living=yes
+|class=GA
+|sports-work-group=yes|sports-priority=low
+|listas=Del Toso, Leanne
+}}
+{{WikiProject Australia|class=GA|importance=low|sports=yes|sport-importance=low}}
+{{WikiProject Olympics|Paralympics=yes|class=GA|importance=low}}
+{{WikiProject HOPAU|class=GA|importance=Mid}}
+{{WikiProject Basketball|Australia=yes|class=GA|importance=low}}
+}}
+{{Australian English}}
+{{dyktalk|21 August|2012|entry=... that [[Australia at the 2012 Summer Paralympics|2012 Australian Paralympic wheelchair basketball player]] '''[[Leanne Del Toso]]''' played able-bodied [[basketball]] prior to being diagnosed with [[chronic inflammatory demyelinating polyneuropathy]]?}}
+
+==Overcitations==
+&lt;ref name=2012stars&gt;{{cite web|url=http://www.sportingpulse.com/assoc_page.cgi?client=11-6734-0-0-0&amp;sID=119018&amp;&amp;news_task=DETAIL&amp;articleID=15950198 |title=New-look WNWBL ignites this weekend&amp;nbsp;— Women’s National Wheelchair Basketball League |publisher=SportingPulse |date=2012-06-30 |accessdate=2012-07-28}}&lt;/ref&gt;&lt;ref name=apc/&gt;&lt;ref name=snamedteam&gt;{{cite web|url=http://wwos.ninemsn.com.au/article.aspx?id=8494652 |title=Games wheelchair basketball squads named |publisher=Nine MSN |location=Australia |date= |accessdate=13 July 2012}}&lt;/ref&gt;&lt;ref name=somethingsourcesyes&gt;{{Cite news | title=PARA:Games wheelchair basketball squads named | journal=AAP News | publication-date=2012-07-05 | publisher=Financial Times Ltd | url=http://trove.nla.gov.au/work/168610881 | accessdate=27 July 2012 }}&lt;/ref&gt;
+{{reflist}}
+--[[User:LauraHale|LauraHale]] ([[User talk:LauraHale|talk]]) 02:31, 28 July 2012 (UTC)
+
+== Article improvement efforts ==
+
+Efforts are being made to add content to this article to get it improved enough to nominate for [[WP:GAN|Good Article]].  Efforts to improve the article are nominally being based on the article about [[Lauren Jackson]] given the sheer amount of information available about female wheelchair basketball players when compared to other sports like [[goalball]].  Hence, the article could really use a good copy edit, maintaining as much information as possible for the short term until all the content is in to determine what belongs and does not. The goal is to nominate the article for [[WP:GAN|Good Article]] by the end of September. --[[User:LauraHale|LauraHale]] ([[User talk:LauraHale|talk]]) 10:49, 17 September 2012 (UTC)
+
+{{Talk:Leanne Del Toso/GA1}}
+	</talkpage>
+</article>

@@ -1,0 +1,7 @@
+<article id="44312394" title=User talk:207.99.173.14>
+	<talkpage id="44312394" title="User talk:207.99.173.14">
+== November 2014 ==
+[[File:Information.svg|25px|alt=Information icon]] Welcome to Wikipedia. At least one of [[Special:Contributions/207.99.173.14|your recent edits]], such as the edit you made to [[:Oswalt Academy]], did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed. Although everyone is welcome to contribute to Wikipedia, please take some time to familiarise yourself with our policies and guidelines. You can find information about these at the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] which also provides further information about contributing constructively to this encyclopedia. If you only meant to make some test edits, please use [[Wikipedia:Sandbox|the sandbox]] for that. If you think I made a mistake, or if you have any questions, you may leave a message on my talk page. Thank you.&lt;!-- Template:uw-disruptive1 --&gt; [[User:Amortias|Amortias]] ([[User talk:Amortias|T]])([[Special:Contributions/Amortias|C]]) 22:26, 5 November 2014 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

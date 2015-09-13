@@ -1,0 +1,13 @@
+<article id="6903954" title=User talk:JXP293>
+	<talkpage id="6903954" title="User talk:JXP293">
+
+==License tagging for Image:CURVES.jpg==
+Thanks for uploading [[:Image:CURVES.jpg]].  Wikipedia gets thousands of images uploaded every day, and in order to verify that the images can be legally used on Wikipedia, the source and copyright status must be indicated.  Images need to have an [[Wikipedia:Image copyright tags|image tag]] applied to the [[Wikipedia:Image description page|image description page]] indicating the copyright status of the image.  This uniform and easy-to-understand method of indicating the license status allows potential re-users of the images to know what they are allowed to do with the images.
+
+For more information on using images, see the following pages:
+*[[Wikipedia:Image use policy]]
+*[[Wikipedia:Image copyright tags]]
+
+This is an automated notice by [[User:OrphanBot|OrphanBot]].  If you need help on selecting a tag to use, or in adding the tag to the image description, feel free to post a message at [[Wikipedia:Media copyright questions]]. 21:06, 8 September 2006 (UTC)
+	</talkpage>
+</article>

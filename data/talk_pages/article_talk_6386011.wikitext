@@ -1,0 +1,15 @@
+<article id="6386011" title=Talk:David Swann>
+	<talkpage id="6386011" title="Talk:David Swann">
+{{WikiProject Biography
+|living=yes
+|class=Start
+|politician-work-group=yes
+|listas=Swann, David
+}}
+{{WikiProject Canada|ppap=yes|ab=yes|class=Start|importance=Low}}
+
+==NPOV and strange accounts of firing==
+&quot;There he discovered the deep connection between medicine and politics firsthand&quot; seems a little suspect. Also, was there no sources of the 2002 incident besides the glowing testimonial on his party's website? If you Google search the string '''&quot;Alberta Association of Medical Health Officers&quot; -swann''' you get precisely 0 hits. Is the Association related to the Society? If you Google search '''&quot;Alberta Society of Health Officers&quot; -swann''' you also get 0 hits. Is there some reference to either organization before or after he was apparently involved in it?  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/68.148.225.118|68.148.225.118]] ([[User talk:68.148.225.118|talk]]) 06:29, 2 February 2011 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+Your complaint has now been sourced. For more information check out: http://www.cbc.ca/news/canada/story/2002/10/04/docfired021004.html ([[User talk:Vinsherkid|talk]])  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/199.213.91.1|199.213.91.1]] ([[User talk:199.213.91.1|talk]]) 17:50, 16 March 2011 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

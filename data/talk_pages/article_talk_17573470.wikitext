@@ -1,0 +1,7 @@
+<article id="17573470" title=User talk:4.243.53.217>
+	<talkpage id="17573470" title="User talk:4.243.53.217">
+[[Image:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia{{#if:Brisingr|, as you did to [[:Brisingr]]}}. Your edits appeared to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism2 --&gt;
+
+[[User:Spinach Dip|'''&lt;font color=&quot;#0000FF&quot;&gt;Spinach Dip&lt;/font&gt;''']] 07:31, 23 May 2008 (UTC)
+	</talkpage>
+</article>

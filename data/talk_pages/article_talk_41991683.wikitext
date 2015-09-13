@@ -1,0 +1,12 @@
+<article id="41991683" title=User talk:Lehater>
+	<talkpage id="41991683" title="User talk:Lehater">
+
+== February 2014 ==
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Widr|Widr]]. I wanted to let you know that I undid one or more of [[Special:Contributions/Lehater|your recent contributions]]&amp;nbsp;to [[:Marcus Thornton (basketball, born 1987)]] because it did not appear constructive. If you would like to experiment, please use the [[WP:sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Widr|my talk page]]. &lt;!-- Template:uw-vandalism1 --&gt;  [[User:Widr|Widr]] ([[User talk:Widr|talk]]) 21:11, 19 February 2014 (UTC)
+
+[[File:Ambox warning pn.svg|30px|alt=|link=]] Please stop your [[Wikipedia:Disruptive editing|disruptive editing]], as you did at [[:Jason Terry]]. Your edits have been [[Help:Reverting|reverted]] or removed.
+* If you are engaged in an article [[Wikipedia:Editing policy|content dispute]] with another editor, discuss the matter with the editor at their talk page, or the article's talk page. Alternatively you can read Wikipedia's [[WP:DISPUTE|dispute resolution]] page, and ask for independent help at one of the [[Wikipedia:Dispute resolution#Ask for help at a relevant noticeboard|relevant notice boards]].
+* If you are engaged in any other form of dispute that is not covered on the dispute resolution page, seek assistance at Wikipedia's [[WP:ANI|Administrators' noticeboard/Incidents]].
+Do not continue to make edits that appear disruptive until the dispute is resolved through [[Wikipedia:Consensus|consensus]]. Continuing to edit disruptively may result in your being [[Wikipedia:Blocking policy|blocked from editing]]. &lt;!-- Template:uw-disruptive3 --&gt; [[User:Widr|Widr]] ([[User talk:Widr|talk]]) 21:12, 19 February 2014 (UTC)
+	</talkpage>
+</article>

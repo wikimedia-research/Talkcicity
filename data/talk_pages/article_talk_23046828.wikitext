@@ -1,0 +1,9 @@
+<article id="23046828" title=Talk:Hartley Peavey>
+	<talkpage id="23046828" title="Talk:Hartley Peavey">
+{{WikiProject Biography
+|living=yes
+|class=
+|listas=Peavey, Hartley
+}}
+	</talkpage>
+</article>

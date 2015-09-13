@@ -1,0 +1,68 @@
+<article id="430396" title=Talk:Poker strategy>
+	<talkpage id="430396" title="Talk:Poker strategy">
+{{WikiProject Gambling
+|class=start
+&lt;!-- B-Class checklist --&gt;
+&lt;!-- 1. It is suitably referenced, and all major points have appropriate inline citations. --&gt;|b1=
+&lt;!-- 2. It reasonably covers the topic, and does not contain obvious omissions or inaccuracies. --&gt;|b2=
+&lt;!-- 3. It has a defined structure, including a lead section and one or more sections of content. --&gt;|b3=
+&lt;!-- 4. It is free from major grammatical errors. --&gt;|b4=
+&lt;!-- 5. It contains appropriate supporting materials, such as an infobox, images, or diagrams. --&gt;|b5=
+&lt;!-- 6. The article presents its content in an appropriately accessible way. --&gt;|b6=
+|importance=low
+|poker=yes
+|poker-importance=high
+|needs-infobox=
+|needs-picture=yes}}
+
+==Article rewrite==
+I completely rewrote this article. The new article treats many more topics than the previous version. It definitely falls into the first draft category, but I hope it serves as a useful framework for describing the basic concepts of poker strategy. I tried to avoid controversial or advice-oriented content, but it is a very thin line indeed in an article like this. Did I go too far with a complete replacement of the previous article? --[[User:Toms2866|Toms2866]] 15:36, 21 April 2006 (UTC)
+: I don't think you went too far. Looks good. Well done. [[User:Essexmutant|Essexmutant]] 15:50, 21 April 2006 (UTC)
+:Good improvement. I took out one bit of pov about a certain type of hand and removed the instances of double, triple and quadruple linking to different articles.  The only need to be linked once. [[User:2005|2005]] 22:07, 21 April 2006 (UTC)
+::I rewrote the article to avoid 2nd person. I did it pretty quick, so I'm sure it could be improved.--[[User:Toms2866|Toms2866]] 13:42, 30 April 2006 (UTC)
+:: I was simply going to rewrite the section on tight and loose play but I figure I will just have my say here, in the back room, and you guys can do with it what you will.
+&quot;loose,&quot; a willingness to get involved with a wide variety of hands, is not the same as the willingness to continue with a weaker hand facing betting on subsequent rounds. This has been usually been referred to as &quot;tough&quot; in the poker literature and many loose players are not, in this sense, tough. Many of the tightest players tend to hang onto their premium starting hands much too long, being much too tough. The term usually used for being willing to let go of hands when you (should) think that they are beat is &quot;weak.&quot; Obviously, these are bad terms because &quot;tough&quot; sounds like praise, when being tough can often be incorrect, and &quot;weak&quot; seems perjorative, when weak play can cost save you a ton of money. Giving the impression that loose players will always be tough and tight players will always be weak, or even that there are strong tendencies in those directions is a disservice to the reader. We really need new terms for the two tendencies on this axis. &quot;Weak&quot; and &quot;tough&quot; are so bad that they don't get used. However, the tendencies they describe are important and should have names. 
+
+Also, tight/aggressive players are not &quot;frequently referred to as lions.&quot; They were referred to as lions in Hellmuth's awful book and nobody I ever met or read used the term. 
+Will in New Haven &lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[Special:Contributions/71.234.46.28|71.234.46.28]] ([[User talk:71.234.46.28|talk]]) 01:10, 29 March 2007 (UTC).&lt;/small&gt;&lt;!-- HagermanBot Auto-Unsigned --&gt;
+
+==Wikiproject, possible move to wikibooks==
+Hi,
+A discussion is taking place at [[Wikipedia:WikiProject Games|WikiProject Games]] about what types of game related articles should be included in wikipedia, and the preliminary concensus (of two users, including myself) is that strategy pages should be moved over to wikibooks.  With only two participants so far, I'm not willing to go ahead and move all the game strategy pages, like this one, over there yet, so I'm asking for participation in the project from the authors of the various strategy pages.  Please go to the wikiproject's [[Wikipedia talk:WikiProject Games|talk page]] to join the discussion.
+
+Please understand that we don't feel the pages should be completly deleted, just moved over to wikibooks, in their entierty.  Thanks for any contributions. [[User:Gentgeen|Gentgeen]] 08:09, 14 Jan 2004 (UTC)
+
+:I couldn't tell if anything ever came of this, but we're now doing something fairly similar at http://poker.wikicities.com .   I agree that Wikipedia's coverage of each game should only be to some finite depth, and topic-specific wikis can pick up from there.   I just didn't see much activity at http://en.wikibooks.org/wiki/Poker .   - [[User:PhilipR|PhilipR]] 16:08, 15 Jun 2005 (UTC)
+
+== Omaha strategy ==
+
+There isn't much on Omaha strategy. Can someone put up some information? [[User:128.6.175.60|128.6.175.60]] 20:38, 20 February 2006 (UTC)
+
+== More Information ==
+
+In the book ''No Limit Hold 'Em: Theory and Practice'' by David Sklansky and Ed Miller, another reason to raise is stated, called the &quot;Blocking Bet.&quot; It is used by an out of position player who is afraid that a later aggressive opponent will make a large bet. If the player makes a small bet first, the other player may simply call instead of making a big raise, as, according to Sklansky, you set the price instead of your opponent. Should this be added to the article? --[[User:Leo628|Leo628]] 19:17, 5 March 2007 (UTC)
+
+:Also, in the same book, David Sklansky writes about how important stack sizes relative to the blinds/antes are. He writes that if you have a good hand, then you might do one thing if you have $50, but do another thing entirely if you have $300. I think this can go under pot manipulation.--[[User:Leo628|Leo628]] 19:39, 5 March 2007 (UTC)
+
+In their book on big-bet poker, Reuben and Ciaffone go into great detail about how stack sizes impact your overall strategy and your tactics in a particular situation. I will have to look in the Miller/Sklansky book to see how much overlap there is but the earlier book is quite valuable.
+
+== Reasons to Call? ==
+
+In the article it states
+
+To limit loss in equity: Calling may be appropriate when a player has adequate pot odds to call but will lose equity on money contributed to the pot.
+
+However when will this ever happen. Can someone please give an example. &lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[Special:Contributions/212.58.233.129|212.58.233.129]] ([[User talk:212.58.233.129|talk]]) 09:30, 1 May 2007 (UTC).&lt;/small&gt;&lt;!-- HagermanBot Auto-Unsigned --&gt;
+
+This is simply a fancy way of saying that calling is better than raising in certain situations.  For example, on the turn in hold'em you have a flush draw and your opponent bets giving you 6:1 odds. If you believe he has a strong hand and will not fold if you raise, you should call for the reason given above.  You have proper odds to call (the first part of the statement), but lose money on the bet compared to if he had checked (the second part of the statement). [[User:Paul2432|Paul2432]] 23:31, 9 November 2007 (UTC)
+
+== Pot Odds, Probability Section ==
+I made some changes. First, I took out an example which I thought could be confusing. When you're deciding whether or not to call an opponent's bet, the money that he bet should be considered to be part of the pot already. So if the pot initially had $30 and your opponent bets $10, you should now think of the pot as containing $40, which is why you are getting 4-1 on your call. Talking about it this way makes it easier to calculate your odds. Also, if you are getting 5-1 pot odds and you have a 20% chance of winning, you will not break even. You need 4-1 pot odds to break even with a 20% chance of winning.
+
+One other change I made is regarding implied odds. I felt that the old example was misleading and overly optimistic, so I removed it. The player's implied odds would not really be 9:1 in that situation, they would be lower. Yes, he could concievably win those $20 bets on the next round, but only if he also put in another $20 on that round. So he's really putting in another $30, not just $10, to win $90. You can't include your opponents future bets without also considering yours, unless you are drawing to the nuts (an unbeatable hand) and therefore you know that you cannot lose any money on your future bets. Also, you can never be 100% sure that your opponents will call your bets on the next round. In general I think it's a mistake to try to put an exact value on your implied odds.[[User:Deepfryer99|Deepfryer99]] 17:27, 15 November 2007 (UTC)
+
+== Floating ==
+
+A float is NOT a long-ball bluff. A long-ball bluff is a situation where you come up with an intricate series of raising and betting to aim at stealing the whole pot on turn or river, a move which usually has -EV by itself and mainly serves to balance your range against your river value bets with nuts. A float, i.e. calling a continuation bet in position and then betting if checked to on the turn, is never a long-ball bluff. Firstly, unlike a long-ball bluff, you don't expect your opponent to lay down a strong hand. You expect him to lay down a mediocre hand with which he attempted to steal the pot after he failed to improve. Secondly, floating is almost never for deception, since your call flop/bet turn range consists of lots of sets and better (very rare) and pairing your ace or king on turn to make top pair (more often, but still rare). With this range, you'll tend to take the floating line much more with worse hands than with good hands, even if you float only occasionally (consult [[Bayes' theorem]]), so you won't be balancing your range by adding even more floats. [[Special:Contributions/93.139.35.28|93.139.35.28]] ([[User talk:93.139.35.28|talk]]) 17:21, 6 September 2009 (UTC)
+	</talkpage>
+</article>

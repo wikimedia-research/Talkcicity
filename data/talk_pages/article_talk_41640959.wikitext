@@ -1,0 +1,7 @@
+<article id="41640959" title=Talk:Isaac Latterell>
+	<talkpage id="41640959" title="Talk:Isaac Latterell">
+{{WikiProject Biography |living= yes |class= stub |listas= Latterell, Isaac |politician-work-group= yes |politician-priority= }}
+{{WikiProject South Dakota |class= Stub |importance= Low}}
+{{WikiProject United States |USSL= y |USSL-importance= |class= Stub}}
+	</talkpage>
+</article>

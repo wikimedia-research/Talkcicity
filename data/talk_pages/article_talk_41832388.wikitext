@@ -1,0 +1,9 @@
+<article id="41832388" title=User talk:184.175.30.76>
+	<talkpage id="41832388" title="User talk:184.175.30.76">
+==February 2014==
+[[File:Information orange.svg|25px|alt=Information icon]] Please refrain from making unconstructive edits to Wikipedia, as you did at [[:William Hall (VC)]]. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]] or removed. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. [[Wikipedia:Administrators|Administrators]] can [[WP:BLOCK|block]] users from editing if they repeatedly vandalize. Thank you.&lt;!-- Template:uw-vandalism2 --&gt; [[User:NHRHS2010|&lt;span style='font-family: &quot;American Typewriter&quot;; color:Red'&gt;&lt;big&gt;NHRHS2010 &lt;/big&gt;&lt;/span&gt;]] '''[[User talk:NHRHS2010|&lt;font color=&quot;Black&quot;&gt;&lt;small&gt;RIP M.H. (1994-2014)&lt;/small&gt;&lt;/font&gt;]]''' 23:03, 3 February 2014 (UTC)
+== September 2014 ==
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Flyer22|Flyer22]]. I wanted to let you know that I undid one or more of [[Special:Contributions/184.175.30.76|your recent contributions]]&amp;nbsp;to [[:Hart Mountain (Manitoba)]] because it did not appear constructive. If you would like to experiment, please use the [[WP:sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Flyer22|my talk page]]. &lt;!-- Template:uw-vandalism1 --&gt;  [[User:Flyer22|Flyer22]] ([[User talk:Flyer22|talk]]) 23:13, 11 September 2014 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

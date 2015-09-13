@@ -1,0 +1,7 @@
+<article id="27663406" title=User talk:Williamrae>
+	<talkpage id="27663406" title="User talk:Williamrae">
+== June 2010 ==
+
+Please do not add nonsense to Wikipedia{{#if:Pope John Paul II|, as you did {{#if:|with [{{{diff}}} this edit]}} to the [[:Pope John Paul II]] page|{{#if:|, as you did with [{{{diff}}} this edit]}}}}. Such edits are considered [[Wikipedia:Vandalism template link|vandalism]] and quickly undone. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]] instead. Thank you. &lt;!-- Template:Test2 (second level warning) --&gt; &lt;font color=&quot;#0000FF&quot;&gt;Antique&lt;/font&gt; &lt;font color=&quot;#FF007F&quot;&gt;Rose&lt;/font&gt; &amp;mdash; &lt;font color=&quot;red&quot;&gt;[[User talk:Antique Rose|Drop me a line]]&lt;/font&gt; 01:06, 10 June 2010 (UTC)
+	</talkpage>
+</article>

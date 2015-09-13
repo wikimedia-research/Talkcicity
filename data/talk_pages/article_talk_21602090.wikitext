@@ -1,0 +1,11 @@
+<article id="21602090" title=User talk:71.143.5.188>
+	<talkpage id="21602090" title="User talk:71.143.5.188">
+
+== February 2009 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Jelena+Jensen?diff=271730112 recent edit]&lt;/span&gt; you made to the page [[:Jelena Jensen]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:VX|&lt;font color=#808080; span style=&quot;font-family:Calibri, Myriad, Trebuchet MS, sans serif;font-size:100%;&quot;&gt;VX!&lt;/font&gt;]]&lt;sup&gt;[[User talk:VX|&lt;nowiki&gt;talk&lt;/nowiki&gt;]]&lt;/sup&gt; 02:48, 19 February 2009 (UTC)
+
+&lt;br&gt;
+[[Image:Information.svg|left|25px]] Please refrain from making unconstructive edits to Wikipedia, as you did to [[:Jelena Jensen]]. Your edits have been '''automatically''' marked as [[Wikipedia:Vandalism|unconstructive/possible vandalism]] and have been '''automatically''' [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]].  '''If you believe there has been a mistake and would like to report a false positive, please [[User:ClueBot/FalsePositives|report it here]] and then remove this warning from your talk page.'''  If your edit was not vandalism, please feel free to make your edit again after reporting it. The following is the log entry regarding this warning: [[Jelena Jensen]] was [http://en.wikipedia.org/w/index.php?title=Jelena+Jensen&amp;diff=271730622&amp;oldid=271730162 changed] by [[Special:Contributions/71.143.5.188|71.143.5.188]] [[User:71.143.5.188|(u)]] [[User talk:71.143.5.188|(t)]] making a minor change adding &quot;!!!&quot; on 2009-02-19T02:50:37+00:00 &lt;!-- MySQL ID: 591130 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning2 --&gt;&lt;!-- Template:uw-vandalism2 --&gt; [[User:ClueBot|ClueBot]] ([[User talk:ClueBot|talk]]) 02:50, 19 February 2009 (UTC)
+	</talkpage>
+</article>

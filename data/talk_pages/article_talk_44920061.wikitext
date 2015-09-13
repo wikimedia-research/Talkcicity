@@ -1,0 +1,5 @@
+<article id="44920061" title=Talk:1965 in North Korea>
+	<talkpage id="44920061" title="Talk:1965 in North Korea">
+{{WikiProject Korea|class=list|importance=mid|nk=yes}}
+	</talkpage>
+</article>

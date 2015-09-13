@@ -1,0 +1,13 @@
+<article id="30906899" title=Talk:Alexander Hewatt>
+	<talkpage id="30906899" title="Talk:Alexander Hewatt">
+{{WikiProject Biography
+|living= no
+|class= Stub
+|listas= Hewatt, Alexander 
+|s&amp;a-work-group= yes
+|s&amp;a-priority=
+}}
+
+'''Please consider incorporating this article into the [[Alexander Hewat|existing Wikipedia article about the same person]].''' [[User:Hewat|Hewat]] ([[User talk:Hewat|talk]]) 17:20, 9 March 2011 (UTC)
+	</talkpage>
+</article>

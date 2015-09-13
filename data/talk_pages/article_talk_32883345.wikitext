@@ -1,0 +1,5 @@
+<article id="32883345" title=Talk:Salomó>
+	<talkpage id="32883345" title="Talk:Salomó">
+{{WikiProject Spain|class=stub|importance=}}{{WikiProject Catalonia|class=stub|importance=}}
+	</talkpage>
+</article>

@@ -1,0 +1,9 @@
+<article id="15208866" title=Talk:Odani Castle>
+	<talkpage id="15208866" title="Talk:Odani Castle">
+{{WPJ|class=Stub|importance=high|milhist=y}}
+{{WPMILHIST|class=stub
+|Japanese=yes
+|Fortifications=yes
+}}
+	</talkpage>
+</article>

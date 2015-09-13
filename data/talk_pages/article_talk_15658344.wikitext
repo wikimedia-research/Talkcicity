@@ -1,0 +1,9 @@
+<article id="15658344" title=User talk:168.216.33.77>
+	<talkpage id="15658344" title="User talk:168.216.33.77">
+{{sharedipedu|West Virginia  Department of Education }}
+
+== February 2008 ==
+[[Image:Information.svg|25px]] Welcome, and thank you for experimenting with Wikipedia. Your test {{#if:Motorcycle|on the page [[:Motorcycle]]}} worked, and it has been [[Help:Reverting|reverted]] or removed. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|this encyclopedia]]. If you would like to experiment further, please use the [[Wikipedia:Sandbox|sandbox]]. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-test1 --&gt; [[User:Ww2censor|ww2censor]] ([[User talk:Ww2censor|talk]]) 19:06, 8 February 2008 (UTC)
+:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
+	</talkpage>
+</article>

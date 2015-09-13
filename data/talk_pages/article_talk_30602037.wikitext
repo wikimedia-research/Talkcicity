@@ -1,0 +1,23 @@
+<article id="30602037" title=Talk:La Tène culture/to do>
+	<talkpage id="30602037" title="Talk:La Tène culture/to do">
+{{tasks
+|requests=
+|assess=
+|cleanup=
+|copyedit=
+|disambiguation=
+|expand=Expand on the La Tène culture as it applies to (proto)Dacians (interactions with Celts); Expand on [[Celts in Transylvania]]; Expand on [http://www.eliznik.org.uk/RomaniaHistory/romania-arch-map/latene.htm La Tène Archaeological Sites in Romania]
+|infobox=
+|maintain=
+|merge=
+|npov=
+|photo=
+|split=
+|stubs=
+|update=
+|verify=
+|wikify=
+|other=
+}}
+	</talkpage>
+</article>

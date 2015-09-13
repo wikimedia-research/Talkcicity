@@ -1,0 +1,146 @@
+<article id="2784741" title=User talk:Xil/Archive 1>
+	<talkpage id="2784741" title="User talk:Xil/Archive 1">
+{{talkarchive}} 
+'''Welcome!'''
+
+Hello, {{PAGENAME}}, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for your contributions. I hope you like the place and decide to stay. Here are a few good links for newcomers:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Wikipedia:Help|Help pages]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:How to write a great article|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign_your_posts_on_talk_pages|sign your name]] on talk pages using four tildes (~&amp;#126;~~); this will automatically produce your name and the date. If you have any questions, check out [[Wikipedia:Where to ask a question]] or ask me on my talk page. Again, welcome!&amp;nbsp; --[[User:Angr|Angr]]/[[User_talk:Angr|&lt;sub&gt;{{IPA|tɔk tə mi}}&lt;/sub&gt;]] 15:49, 28 September 2005 (UTC)
+== Query on [[Talk:Shawnee]] ==
+
+*The Shawnee were originally a northern Tribe (the Algonquin Language reference would imply that), and iirc, part of the five nations of Iroquois, that migrated south under pressure from the French settlements in the 17th Centuary.  The Article says so, but attributes the migration to a much earlier date.  It is likely that various village groups (Clans?) moved on while others stayed.  Hence, the premise of the book you are concerned with probably has a good historical basis. NorthAmerica was very much a case of a pea rattling around inside the shell of a walnut (if not a grapefruit!) with respect to population density even decades after the American (US) Revolution. Caucasian migration across the Appalacian Mountain Barrier and settlement of the interior didn't occur until the post Revolutionary war era.  e.g. See Daniel Boone, Kentucky and Ohio history. [[User:Fabartus|&amp;lt;font color=&amp;quot;blue&amp;quot;&amp;gt;Fra]]&amp;#91;&amp;#91;User talk:Fabartus&amp;#124;&amp;lt;font color=&amp;quot;green&amp;quot;&amp;gt;nkB]] 15:10, 17 November 2005 (UTC)
+
+*well, maybe the author did not write a completely autobiographic novel, maybe he changd the location from the us to canada. there are groups of shawnee still living in ohio, which lies at the border to canada, at lake erie, one of the big lakes...so maybe he just changed it a bit, because when he was a young man 1920-40 before leaving to poland, the great migration of the shawnees was already completed and has not changed much since then.maybe he was part of the united remnant band in ohio, you shopuld look for that..--[[User:Larzan|Larzan]] 14:12, 7 December 2005 (UTC)
+: I think that it was autobiographic - in his article it is said that he was born in northen Canada. Wierd thing is that if he realy was great grandson of Tecumseh or his group was related with Tecumseh than how did they traveled so far back north and had cultural conections with that place - book mentions a colective thomb in cave which seems to be used for long time and they seem to fit in nature - I mean as far I know climate in northen Canada isn`t same to that in US so did they realy adopted new way of life so quickly ? 
+:Any ideas what was that english army ? -- [[User_talk:Xil|Xil - talk]] 23:14, 7 December 2005 (UTC)
+
+Tecumseh fought and died for the British in the War of 1812. No surprise that his family might find Canada more to their liking than the United States.
+:Then why they end hiding from british (BTW book mentions that they wore red, could it be Canadian police - as far I know they have red uniforms ?) and fithing with them, why din`t they unite with white people ? Book isn`t just about his family but his tribe with many clans. It would be interesting to know how long they lived in Canada or have they left any trace there (like that tomb i.e.)-- [[User_talk:Xil|Xil - talk]] 15:17, 31 December 2005 (UTC)
+
+==[[WP:BSNB]]==
+Hi, I just wanted to let you know that there is this thing, Baltic States notice board. We try to collaborate and help each other. For example, almost the same problems are with Lithuanian mythology as with Latvian. So please take part in it! (p.s. nice work on auseklis) [[User:Renata3|Renata]] 02:46, 20 February 2006 (UTC)
+:Hi, thanks - I was looking for such thing, but I still feel like I was in maze, when it comes to finding something that isn`t an article. -- [[User:Xil|Xil]]/[[User_talk:Xil|talk]] 10:06, 21 February 2006 (UTC)
+
+== On historia.lv and copyright ==
+
+The note on permission you mention at [[Talk:Pērkonkrusts]] is at the Latvian language Vikipēdija, I think (I remember seeing it, too) -- I see two major problems, though: (1) much of the material at historia.lv is taken directly from other sources, e.g. Švābe's and Andersons' encyclopedic work, for which historia.lv has permission but Wikipedia does not, and (2) it's not enough to have permission to use the work here; Wikipedia is mirrored all over the place and can be freely cited, which means that what's here is actually brought into the public domain for the most part. If you can see a way around that, it's a great source; if not, it's a great source but shouldn't be translated directly. --[[User:Peteris Cedrins|Pēteris Cedriņš]] 14:55, 28 February 2006 (UTC)
+:I will not edit that article - I could not find anything else about the topic then, since it seemed that someone else had, I just wanted to note that it is good source. Thanks for explaining copyright issues - I already thought that it is not good idea to use those latvian articles from historia.lv  in english wikipedia -- [[User:Xil|Xil]]/[[User_talk:Xil|talk]] 15:27, 28 February 2006 (UTC)
+
+== Courlandians ==
+
+Hello! I posted a response to your comment at [[Talk:Courlandians]]. [[User:Olessi|Olessi]] 22:35, 4 March 2006 (UTC)
+
+:Hello again! Would you mind taking another look at [[Talk:Courlandians]]? [[User:Olessi|Olessi]] 22:31, 3 November 2006 (UTC)
+
+== The Latvian Cities ==
+
+Hi there. I notice you've created a number of short articles on Latvian cities with separate infoboxes. I don't know if you are aware but the purpose of an infobox is ''&quot;a consistently-formatted table which is present in articles with a common subject&quot;''. To that end, may I suggest that you could use a single template for example [[:Template:Latvian Cities]] which could link all the articles. If you have any questions or you need help with this, I would be more than happy to assist. [[User:Green Giant|Green Giant]] 10:05, 22 March 2006 (UTC)
+:Hi, thanks. I am aware of existance of teplates, I just don't know how to make them and acctualy I wasn't sure if I can simply make them, I was about to learn that after I finish, because then I would know what I realy need (my primary prupose was to make artcles about all cities). I can edit your example template to mach table I am using can I ? Oh, and the dumb question - is there any use of template except unity, I mean do they categorise those articles or something ? And the last question: Can you plese give links to some help pages on this topic ?-- [[User:Xil|Xil]]/[[User_talk:Xil|talk]] 10:34, 22 March 2006 (UTC)
+
+==[[Aspazija]]==
+Hi, I translated it as you requested. But '''''please''''' verify info there. I can bet my head, there are plenty of mistakes there. [[User:Renata3|Renata]] 03:34, 16 April 2006 (UTC)
+
+Some POV on the Latvia related articles.  Would you take a look?
+:It seems that everything is correct (I'm not an expert, thought), thank you.-- [[User:Xil|Xil]]/[[User_talk:Xil|talk]] 14:16, 23 November 2006 (UTC)
+
+==Image tagging for Image:Aloja.png==
+Thanks for uploading '''[[:Image:Aloja.png]]'''. The image has been identified as not specifying the source and creator of the image, which is required by Wikipedia's policy on images. If you don't indicate the source and creator of the image on the image's description page, it may be deleted some time in the next seven days. If you have uploaded other images, please verify that you have provided source information for them as well.
+
+For more information on using images, see the following pages:
+* [[Wikipedia:Image use policy]]
+* [[Wikipedia:Image copyright tags]]
+
+This is an automated notice by [[User:OrphanBot|OrphanBot]]. For assistance on the image use policy, see [[Wikipedia:Media copyright questions]]. 14:04, 23 November 2006 (UTC)
+
+==On Baltic States==
+
+Hello, I temporary restored info of Baltic countries on [[Baltic States]], because it was a additional redir. Secondly I think it should be done using ''move'' instead of copy paste. Probably this move should went with formal request and procedures. Cheers, [[User:M.K|M.K.]] 18:15, 28 November 2006 (UTC)
+:I tried to move it, but there was a redirect with same name. I asked for opinions on the [[ Wikipedia:Baltic States notice board]], I redirected and made links to  disambiguation pages. What else should I have done ? -- [[User:Xil|Xil]]/[[User_talk:Xil|talk]] 18:34, 28 November 2006 (UTC)
+:::You should have gonne to [[WP:RM]] so that an admin could have moved the whole page with its intact history. Or you could have asked some admin privately. Because now the [[Baltic States]] do not have full info on who wrote it. I am going to fix it, but be more careful next time. [[User:Renata3|Renata]] 01:41, 29 November 2006 (UTC)
+:: Could you please, clarify the situation - you want to merge the all information of [[Baltic States]] to [[Baltic region]]? [[User:M.K|M.K.]] 19:06, 28 November 2006 (UTC)
+::: I got the answer :) yes indeed [[Baltic States]] article should have info of [[Estonia]], [[Latvia]] and [[Lithuania]], everything else on different countries should go to [[Baltic region]]. [[User:M.K|M.K.]] 19:15, 28 November 2006 (UTC)
+:::: No need to be sorry! Everything is ok! [[User:M.K|M.K.]] 14:16, 29 November 2006 (UTC)
+
+== An article which you started, or significantly expanded, ''[[Constitution of Latvia]]'', was selected for [[WP:DYK|DYK]]! ==
+
+{| class=&quot;messagebox standard-talk&quot;
+|-
+|[[Image:Updated DYK query.png|Updated DYK query]]
+|On [[December 31]], [[2006]], '''[[:Template:Did you know|Did you know?]]''' was updated with a fact from the article '''''[[Constitution of Latvia]]''''', which you created or substantially expanded. If you know of another interesting fact from a recently created article, then please suggest it on the [[:Template talk:Did you know|&quot;Did you know?&quot; talk page]].
+|} &lt;!-- [[{{CURRENTMONTHNAME}} {{CURRENTDAY}}]], [[{{CURRENTYEAR}}]] --&gt; 
+Thanks for your contributions! '''[[User:Nishkid64|&lt;span style=&quot;background:#009;color:#7FFF00&quot;&gt;Nish&lt;/span&gt;&lt;span style=&quot;background:cyan;color:#009&quot;&gt;kid&lt;/span&gt;]][[User talk:Nishkid64|&lt;span style=&quot;background:orange;color:navy blue&quot;&gt;64&lt;/span&gt;]]''' 02:34, 31 December 2006 (UTC)
+
+==Aspazija==
+Hi, there is no need to apologize for asking good questions :) I doubted the accuracy of the article because I simply translated it from LT wiki without checking with any sources (lazy me). And then my translation was translated to German... You know the game of broken telephones? LV - LT - EN - DE - and the result is nothing like the original. It would be awesome if you could double check the article, especially the titles of her works. Thanks! Oh, and a great job on Latvia-related articles! [[User:Renata3|Renata]] 04:27, 2 January 2007 (UTC)
+
+Hi, Xil, thank you for your reconfirmation and your kind offer of help. I hope you don't mind me checking your contributions from time to time and translating for German wikipedia, what grabs my attention. Thank you, bye for now. --[[User:Gf1961|Gf1961]] 10:53, 2 January 2007 (UTC)
+
+== Map of the Baltic tribes ==
+
+I would be happy to translate any map into any language.  If you have additional reference maps I could use for my map of the Baltic tribes, Xil, I would love to see them.  Either upload them here at Wikipedia, or send them to my email address.  The more sources, the better.  [[User:MapMaster|MapMaster]] 03:10, 3 January 2007 (UTC)
+
+:Here is my attempt at this map: [[:Image:Baltic Tribes c 1200.svg]].  Let me know your thoughts, and of any corrections or improvements.  I still need to translate it, of course, and I want to write up my sources etc but I wanted to get this posted tonight.  [[User:MapMaster|MapMaster]] 06:32, 13 January 2007 (UTC)
+
+::Here is the map translated into Latvian: [[:Image:Baltic Tribes Latvian.png]].  I would like Latvian for &quot;kilometers&quot;, &quot;miles&quot;, Dnieper (river), and a title for the map (your choice.  Hope you like it, [[User:MapMaster|MapMaster]] 05:21, 19 January 2007 (UTC)
+:::[[:Image:Balti ap 13.gs.svg|Here is what is perhaps the final version.]]  I attempted to make the changes you mentioned on my Talk page.   I am puzzled by the title, particularly the word &quot;sākumu&quot; - what does ''that'' mean?  Did I do this right??  If you see something that needs to be changed -- or that you would like to have changed -- please let me know. 
+:::Would you be able to add a Latvian description to the map page in Commons?  And I am of course depending on you to add this map to the appropriate articles.  :  )  Hope you like it, [[User:MapMaster|MapMaster]]
+
+==Input needed==
+Hello. I've just written [[Collectivisation_in_the_USSR#Latvia|one section]] and expanded [[Forest_Brothers#In_Latvia|another]] on Latvia. These should ideally be checked, and also the [[History_of_Latvia#Soviet_period|relevant section]] in the History article made to conform with them. Also, Plakans says the last Forest Brothers emerged in 1956; Laar says 1957 - any idea which is correct? If you're interested in the subject, I would greatly appreciate your improvements, though if you are otherwise busy, that is not a problem. [[User:Biruitorul|Biruitorul]] 04:32, 17 January 2007 (UTC)
+:I checked them with history textbook (which should be reliable since it is goverment aproved), there are few glitches - in the Forest Brother article there were complitely wrong place names, I tried to correct them, but if you have any places mantioned in resources you were using, please, check it. My book says 1956, however in this case I think it could be different - no one realy knows anything about these movements. As for the Collectivisation - I slightly expanded it, but I think the dates might be wrong - my book says that the soviet agricultural reform i Latvia begun only in 1944 and I figure that with active fithing during WWII in Latvia and first kholhoz established in 1946 (even if kholhozy weren't popular - there surely was need for example to show everyone) it seems logic. Soviet era however is not my favorite topic, so I might have misinterpreted something -- [[User:Xil|Xil]]/[[User_talk:Xil|talk]] 19:02, 17 January 2007 (UTC)
+::Thank you very much indeed! Probably no one likes the Communist era very much, but I think it's important that people know about it. Anyway, I will be fusing your work with mine soon to form a coherent single narrative. [[User:Biruitorul|Biruitorul]] 23:53, 17 January 2007 (UTC)
+==Kurzemes un Zemgales Hercogiste==
+Hello, Xil.  Could you please check the Latvian on [[:Image:Kurzemes un Zemgales Hercogiste 1740.png]]??  I have purposely kept the German names of the towns, since the Germans were (by and large) the nobility, etc.  The river names are in Latvian (I hope).  Once I am sure that the transcription is correct, I will clean it up.  Let me know your thoughts, [[User:MapMaster|MapMaster]] 02:53, 22 January 2007 (UTC)
+
+== Talk:Courlandians again ==
+
+I have done copyediting on the connected articles and would appreciate any assistance or corrections. See [http://en.wikipedia.org/w/index.php?title=Talk%3ACourlandians&amp;diff=102548173&amp;oldid=89824876 here]. Cheers, [[User:Olessi|Olessi]] 23:51, 22 January 2007 (UTC)
+
+==Freedom Monument ==
+I added a couple of questions about the [[Freedom Monument (Riga)]], [[User:Camptown|Camptown]] 12:54, 9 February 2007 (UTC)
+
+==[[:Image:Helsinki-86 14061987.jpg]]==
+You added an interesting picture to the [[Freedom Monument (Riga)]]. Do you think you can clearify its copyright status? --Cheers, [[User:Camptown|Camptown]] 21:02, 15 February 2007 (UTC)
+
+==Freedom Monument (Riga)==
+I am sorry - I should not have used the word gibberish. That was a note to myself, and I was intending to go back within a few minutes and edit it, and then unfortunately got distracted., so never did. Please accept my apologies. What I meant by it was simply that that reference as it stands is confusing - I wasn't clear what you meant by it, so didn't copyedit it. [[User:HeartofaDog|HeartofaDog]] 12:04, 17 February 2007 (UTC)
+:OK - thanks for your message. The problem with it is that it's simply not clear what the title of the work is, or why the editorial board is mentioned at all. If I wanted to go and find this reference, I wouldn't have any idea what to look for.
+:As for the general point about translating references, I generally don't do that when I am translating articles from German, on the basis that if someone wants to follow it up, they need to know the actual title of the book in the language it's available in. If they need to have it translated into English, they won't be able to make any use of it anyway. However, IF I were to translate a reference, then I would put the title in the actual language of the work plus all the additional information also in the original language as the reference itself, and add the translation at the end in brackets and italics, to make totally clear what the real title, (author, publisher etc) is, and what on the other hand the translation is. 
+
+:(I've looked at it again with the help of your notes). I think perhaps all that's necessary would be something like: Encyclopedia Riga, [name of organisation in Latvian] (''Chief Editorial Board'' etc - or whatever English translation seems good to you). Riga 1988. (No ISBN)
+
+:By the way, all your hard work on this article is making a real difference to it - it is looking much better now, thanks to you.[[User:HeartofaDog|HeartofaDog]] 14:47, 17 February 2007 (UTC)
+
+===ref name=&quot;latav5506&quot;===
+Just want to point out that there are two identical ref tags in the article, which distorts the chronology of the reference links in the article text. That is the reason why I removed it in my previous [http://en.wikipedia.org/w/index.php?title=Freedom_Monument_%28Riga%29&amp;diff=prev&amp;oldid=126421387 minor edit].
+
+&lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:Philaweb|Philaweb]] ([[User talk:Philaweb|talk]] • [[Special:Contributions/Philaweb|contribs]]) 09:04, 28 April 2007 (UTC).&lt;/small&gt;&lt;!-- HagermanBot Auto-Unsigned --&gt;
+
+Well, please excuse me. I can now see how silly the above comment is. The tag is supposed to be there twice. --[[User:Philaweb|Philaweb]] 10:27, 28 April 2007 (UTC)
+
+==Image tagging for Image:Oskars Kalpaks.jpg==
+Thanks for uploading '''[[:Image:Oskars Kalpaks.jpg]]'''. The image has been identified as not specifying the source and creator of the image, which is required by Wikipedia's policy on images. If you don't indicate the source and creator of the image on the image's description page, it may be deleted some time in the next seven days. If you have uploaded other images, please verify that you have provided source information for them as well.
+
+For more information on using images, see the following pages:
+* [[Wikipedia:Image use policy]]
+* [[Wikipedia:Image copyright tags]]
+
+This is an automated notice by [[User:OrphanBot|OrphanBot]]. For assistance on the image use policy, see [[Wikipedia:Media copyright questions]]. 12:06, 24 February 2007 (UTC)
+
+== Latvian Riflemen ==
+Thank you one more time for letting me know that Riflemen don't regard the article. But it is up to me to choose what is right for the discussion... I decided to mention this aspect, because I believe that &quot;occupation&quot; and Latvian Riflemen are connected. Of course, I'm not saying that Riflemen caused the &quot;occupation&quot;. -- [[User:Taamu|Taamu]] 14:50, 11 March 2007 (UTC)
+
+I believe that there is a link between the two. As you know, initially Riflemen supported Bolsheviks, or using the other words the Communist Party [since 1952]. So, as you see, I can say that in my opinion they supported the &quot;occupation&quot;. I know, it sounds like a nonsense to you. But it is my POV [and not only mine]. -- [[User:Taamu|Taamu]] 15:30, 11 March 2007 (UTC)
+== Litene ==
+Sveiki! Thanks for editing article [[Litene]]. Is it possible to post a picture of  a memorial to Latvian army officers, assassinated in Litene in 1941? I'm too far away to do it ;-( 
+Also I wonder if you can translate article for Latvian wikipedia? Sorry for asking for help, but my Latvian is only rudimental. [[User:Abune|User:Abune]] 03:42, 15 April 2007 (UTC)
+
+Xil! Thanks so much for your help with Latvian translation! Now we have it! [[lv:Litene]].
+As to pictures, may be someone from [[Gulbene]] will see the article now (in Latvian) and will improve it (including pictures). Thanks again! [[User:Abune|User:Abune]]
+	</talkpage>
+</article>

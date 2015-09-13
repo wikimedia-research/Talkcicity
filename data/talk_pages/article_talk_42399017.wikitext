@@ -1,0 +1,7 @@
+<article id="42399017" title=User talk:106.192.144.127>
+	<talkpage id="42399017" title="User talk:106.192.144.127">
+== April 2014 ==
+[[File:Information orange.svg|25px|alt=Information icon]] Please refrain from making unconstructive edits to Wikipedia, as you did at [[:Mayank Agarwal]]. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]] or removed. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. [[Wikipedia:Administrators|Administrators]] have the ability to [[WP:BLOCK|block]] users from editing if they repeatedly engage in vandalism. Thank you.&lt;!-- Template:uw-vandalism2 --&gt; [[User:Jevansen|Jevansen]] ([[User talk:Jevansen|talk]]) 10:48, 4 April 2014 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

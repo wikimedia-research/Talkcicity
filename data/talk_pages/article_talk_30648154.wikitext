@@ -1,0 +1,6 @@
+<article id="30648154" title=Talk:N-gumla>
+	<talkpage id="30648154" title="Talk:N-gumla">
+{{WikiProject Cities|class=stub|importance=low}}
+{{WikiProject Burma|class=stub|importance=low}}
+	</talkpage>
+</article>

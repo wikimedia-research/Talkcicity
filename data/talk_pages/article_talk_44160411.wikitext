@@ -1,0 +1,5 @@
+<article id="44160411" title=Talk:Megachile tenuitarsis>
+	<talkpage id="44160411" title="Talk:Megachile tenuitarsis">
+{{WikiProject Insects|class=start|importance=low}}
+	</talkpage>
+</article>

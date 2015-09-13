@@ -1,0 +1,17 @@
+<article id="5903804" title=User talk:JjJjJj>
+	<talkpage id="5903804" title="User talk:JjJjJj">
+
+'''Welcome!'''
+
+Hello, {{BASEPAGENAME}}, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for your contributions. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Help:Contents|Help pages]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:Article development|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (~&amp;#126;~~); this will automatically produce your name and the date. If you need help, check out [[Wikipedia:Questions]], ask me on my talk page, or place &lt;code&gt;{&amp;#123;helpme}}&lt;/code&gt; on your talk page and someone will show up shortly to answer your questions. Again, welcome!&amp;nbsp; [[User Talk:JzG|Just zis &lt;span style=&quot;border: 1px; border-style:solid; padding:0px 2px 2px 2px; color:white; background-color:darkblue; font-weight:bold&quot;&gt;Guy&lt;/span&gt; you know?]] 09:53, 10 July 2006 (UTC)
+==[[:Glen Stoll]]==
+[[Image:Information_icon.svg|left]]Hello, this is a message from [[User:Android Mouse Bot 2|an automated bot]]. A tag has been placed on [[:Glen Stoll]], by {{#ifeq:1|1|[[User:Steve Dufour|Steve Dufour]]&amp;nbsp;([[User talk:Steve Dufour|talk]]&amp;nbsp;'''·''' [[Special:Contributions/Steve Dufour|contribs]]),}} another Wikipedia user, requesting that it be [[Wikipedia:Speedy deletions|speedily deleted]] from Wikipedia. The tag claims that it should be speedily deleted because [[:Glen Stoll]] fits the criteria for speedy deletion for the following reason: &lt;br&gt;&lt;center&gt;'''He seems to be an ordinary criminal. WP can not have an article on each person convicted of crimes.'''&lt;/center&gt;&lt;br&gt;To contest the tagging and request that administrators wait before possibly deleting [[:Glen Stoll]], please affix the template &lt;nowiki&gt;{{hangon}}&lt;/nowiki&gt; to the page, and put a note on its talk page. If the article has already been deleted, see the advice and instructions at [[WP:WMD]]. Feel free to leave a message on the [[User talk:Android Mouse|bot operator's talk page]] if you have any questions about this or any problems with this bot, bearing in mind that '''this bot is only informing you of the nomination for speedy deletion; it does not perform any nominations or deletions itself.''' --[[User:Android Mouse Bot 2|Android Mouse Bot 2]] 00:07, 9 July 2007 (UTC)
+	</talkpage>
+</article>

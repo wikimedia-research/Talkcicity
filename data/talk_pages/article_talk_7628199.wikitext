@@ -1,0 +1,6 @@
+<article id="7628199" title=Talk:Ray Norbut State Fish and Wildlife Area>
+	<talkpage id="7628199" title="Talk:Ray Norbut State Fish and Wildlife Area">
+{{WikiProject Illinois |class=stub |importance=Low}}
+{{WikiProject Protected areas|class=Start|importance=Low}}
+	</talkpage>
+</article>

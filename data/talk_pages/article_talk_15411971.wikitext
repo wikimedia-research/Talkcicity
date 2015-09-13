@@ -1,0 +1,9 @@
+<article id="15411971" title=User talk:Wellknownturtleearwax>
+	<talkpage id="15411971" title="User talk:Wellknownturtleearwax">
+== January 2008 ==
+
+[[Image:Information.png|25px|left]] Hi, the &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Treatment_of_multiple_sclerosis?diff=186800605 recent edit]&lt;/span&gt; you made to [[:Treatment of multiple sclerosis]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thanks. &lt;!-- Template:uw-huggle1 --&gt; &lt;span style=&quot;color:blue;font-weight:bold;font-size:medium;font-family: Monotype Corsiva;&quot;&gt;[[User:Cometstyles|Comet]][[User talk:Cometstyles|styles]]&lt;/span&gt; 12:53, 25 January 2008 (UTC)
+
+{{{icon|[[Image:Nuvola apps important.svg|25px]] }}}Please stop. If you continue to [[Wikipedia:Vandalism|vandalize]] Wikipedia{{{{{subst|}}}#if:Ammonium lauryl sulfate|, as you did to [[:Ammonium lauryl sulfate]]}}, you will be [[Wikipedia:Blocking policy|blocked]] from editing. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|}}&lt;!-- Template:uw-vandalism3 --&gt; --'''''[[User:Calabraxthis|&lt;span style=&quot;color:#000&quot;&gt;Cala&lt;/span&gt;&lt;span style=&quot;color:#f00&quot;&gt;braxthis&lt;/span&gt;]]&lt;sup&gt;[[User talk:Calabraxthis| &lt;span style=&quot;color:#a00&quot;&gt;(talk) &lt;/span&gt;]]&lt;/sup&gt;''''' 12:58, 25 January 2008 (UTC)
+	</talkpage>
+</article>

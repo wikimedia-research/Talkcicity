@@ -1,0 +1,5 @@
+<article id="27910211" title=Talk:Procloeon>
+	<talkpage id="27910211" title="Talk:Procloeon">
+{{WikiProject Insects|class=stub|importance=low}}
+	</talkpage>
+</article>

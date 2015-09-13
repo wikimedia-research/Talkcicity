@@ -1,0 +1,6 @@
+<article id="38688286" title=Talk:Kenya gubernatorial election in Kirinyaga, 2013>
+	<talkpage id="38688286" title="Talk:Kenya gubernatorial election in Kirinyaga, 2013">
+{{WikiProject Africa|class=|importance=|Kenya=yes|Kenya-importance=}}
+{{WikiProject Elections and Referendums|class=}}
+	</talkpage>
+</article>

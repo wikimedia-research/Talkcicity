@@ -1,0 +1,10 @@
+<article id="18380725" title=Talk:Grenadian general election, 2008>
+	<talkpage id="18380725" title="Talk:Grenadian general election, 2008">
+{{ITN talk|10 July|2008}}
+{{WikiProject Elections and Referendums}}
+{{WikiProject Caribbean|class=Stub|importance=Mid}}
+
+==Untitled==
+In The News: In [[Grenada]], [[Tillman Thomas]] succeeds Keith Mitchell (pictured) as the new [[Prime Minister of Grenada|Prime Minister]] following the [[National Democratic Congress]]' win in the [[Grenadian general election, 2008|general elections]].
+	</talkpage>
+</article>

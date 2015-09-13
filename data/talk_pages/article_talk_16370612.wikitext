@@ -1,0 +1,19 @@
+<article id="16370612" title=Talk:Twenty-Second Army (Japan)>
+	<talkpage id="16370612" title="Talk:Twenty-Second Army (Japan)">
+{{talkheader}}
+{{WikiProject Japan|class=Start|importance=low|milhist=yes}}
+{{WikiProject Military history|class=Start
+|&lt;!-- B-Class-1. It is suitably referenced, and all major points have appropriate inline citations. --&gt;
+|B-Class-1=no
+&lt;!-- B-Class-2. It reasonably covers the topic, and does not contain obvious omissions or inaccuracies. --&gt;
+|B-Class-2=no
+&lt;!-- B-Class-3. It has a defined structure, including a lead section and one or more sections of content. --&gt;
+|B-Class-3=no
+&lt;!-- B-Class-4. It is free from major grammatical errors. --&gt;
+|B-Class-4=yes
+&lt;!-- B-Class-5. It contains appropriate supporting materials, such as an infobox, images, or diagrams. --&gt;
+|B-Class-5=yes
+|Japanese-task-force= yes
+|WWII-task-force= yes}}
+	</talkpage>
+</article>

@@ -1,0 +1,9 @@
+<article id="18110677" title=Talk:Oakley, Fife>
+	<talkpage id="18110677" title="Talk:Oakley, Fife">
+{{WikiProjectBannerShell|1=
+{{WikiProject UK geography|class=Start|importance=Low}}
+{{WikiProject UK geography|class=Start|importance=Low}}
+{{WikiProject Scotland|class=Start|importance=Low|auto=yes|attention=}}
+}}
+	</talkpage>
+</article>

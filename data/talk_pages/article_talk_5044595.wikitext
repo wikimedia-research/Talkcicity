@@ -1,0 +1,85 @@
+<article id="5044595" title=Talk:San Marino Calcio>
+	<talkpage id="5044595" title="Talk:San Marino Calcio">
+{{football|class=Start|importance=Low|Italy=yes}}
+{{ArticleHistory
+|action1=GAN 
+|action1date=24 Oct 2007
+|action1result=failed
+|action1oldid=166831765
+
+|action2=PR
+|action2date=15:40, 8 December 2007
+|action2link=Wikipedia:Peer review/San Marino Calcio/archive1
+|action2result=reviewed
+|action2oldid=176241821
+
+|currentstatus=FGAN
+}}
+==GA nomination==
+'''[[Wikipedia:Good article nominations|GA]] review – see [[WP:WIAGA]] for criteria'''
+#Is it '''reasonably well written'''?
+#:A. Prose quality: {{GAList/check|aye}} 
+#:B. [[Wikipedia:Manual of Style|MoS]] compliance: {{GAList/check|aye}}
+#Is it '''factually accurate''' and '''[[Wikipedia:Verifiability|verifiable]]'''?
+#:A. References to sources: {{GAList/check|nay}} ''This has been addresed and i am looking for more''
+#:B. Citation of reliable sources where necessary: {{GAList/check|nay}} 
+#:C. [[Wikipedia:No original research|No original research]]: {{GAList/check|aye}}
+#Is it '''broad in its coverage'''?
+#:A. Major aspects: {{GAList/check|nay}} 
+#:B. Focused: {{GAList/check|}}
+#Is it '''[[WP:NPOV|neutral]]'''?
+#:Fair representation without bias: {{GAList/check|aye}}
+#Is it '''stable'''?
+#: No edit wars, etc: {{GAList/check|aye}}
+#Does it '''contain [[Wikipedia:Images|images]]''' to illustrate the topic?
+#:A. Images are copyright tagged, and non-free images have [[Wikipedia:Image_description_page#Use_rationale|fair use rationales]]: {{GAList/check|aye}} 
+#:B. Images are provided where possible and appropriate, with [[WP:CAP|suitable captions]]: {{GAList/check|}}
+#'''Overall''': 
+#:Pass or Fail: {{GAList/check|nay}}
+
+Hi there!  After reviewing this article, I'm failing its [[WP:GA|Good Article]] nomination per the checklist above.  The biggest problem that I see this article facing in terms of becoming a GA is that it doesn't at all fulfill criterion 3A; that is, it's not broad in its coverage of the topic.  While an article on a Sanmarinese football club doesn't have to cover all the minutiae of the team's history, I feel there must be more that can be said beyond a few brief intro paragraphs and a listing of current players and coaches.  For example, there's got to be some historical information you could include:  well-known matches and players from the past, information on the club's formation, etc.  The article simply doesn't have enough breadth.  Take a look at some of the other GAs under the &quot;Sports teams&quot; section at the [[WP:GA|Good Article page]] for an example of what sort of information you could include.
+
+Also, there are currently no references. Every Wikipedia article needs [[WP:V|references]] to [[WP:RS|reliable sources]], especially in the case of material that is likely to be challenged.  Frankly, everything in the article right now seems fairly uncontroversial, but as you expand it, you'll need to provide references.
+
+Finally, and this isn't a ''requirement'' for GA status, it'd be great if there were some free use images in the article.  Maybe a picture of the team playing a match?
+
+If you'd like to contest this decision, you can always take the article to [[WP:GA/R|Good Article reassessment]].  If you have any questions, please contact me via my [[User talk:Esrever|talk page]].  Thanks for your work so far on this article. Cheers! [[User:Esrever|Esrever]] 22:43, 24 October 2007 (UTC)
+
+== Third Kit picture ==
+
+Can somebody please make the San Marino Calcio thrid kit picture, and put it on the club colours sections thanks.--[[User:Sunderland06|Sunderland06]] 17:02, 30 November 2007 (UTC)
+
+==Copyedit==
+{{LOCEcomplete|date=09:20, 13 June 2008 (UTC)}}
+
+I have copyedited this article to the best of my ability, but have numerous concerns to raise.  In general I do not think it is of a GA-standard.  I have linked to relevant policy where possible.  From the top:
+*[[WP:LEAD|The lead is far too short]], even for an article of this length
+*There are many short [[Wikipedia:Guide_to_writing_better_articles#Paragraphs|stubby paragraphs]], which are discouraged.  Each paragraph should be either expanded with additional information, merged with another paragraph, or removed entirely.
+*{{tick}} '''done''' Several paragraphs in the &quot;History&quot; section appear to contradict each other, to the extent that I have no choice but to add a &lt;code&gt;{{tl|contradict}}&lt;/code&gt; tag.  This is obviously a serious concern.
+*Within &quot;History&quot; particularly, very little context is given.  The team is described going up the leagues, down the leagues.  Up the leagues, down the leagues.  A balance must be found - not every one of the team's ups and downs needs be described in painful detail, but those fortune changes that ''are'' indicated should be clearly explained in terms that the layman can understand.  As someone not well acquainted with football generally, let alone the Italian football leagues, I am completely lost for much of the history section.  
+*There is a general lack of [[WP:CITE|references]] in the History section.  Don't assume that just because it's fortunes are common knowledge they don't need to be [[WP:RS|reliably sourced]].
+*{{tick}} '''done''' The phrases &quot;San Marino Calcio&quot; and &quot;A C San Marino&quot; are ''horribly'' overused.  Don't be afraid of replacing some or even most of them with &quot;the team&quot;, &quot;the squad&quot;, etc.  
+* I have delinked but not removed the [[WP:REDLINK|redlinked]] names of the manager and chairman from the &quot;History&quot; section but, in general, redlinked names are not notable enough to warrant inclusion.  If a name cannot be bluelinked in an article, it should not usually appear at all unless failing to do so would be a serious ommission.  So while the current manager's name should be included, whether or not it's a bluelink, past managers and chairmen do not usually merit such treatment.
+*{{tick}} '''you done that''' [[WP:FLAG|Flag icons are not to be used]] in the manner shown [http://en.wikipedia.org/w/index.php?title=San_Marino_Calcio&amp;oldid=177080198#Notable_Players here].  They are used ''only'' where they provide substantial ''useful'' information, not just decoration.
+*{{tick}} '''only blelinks included''' Note that when the flags are removed, the &quot;Notable players&quot; section takes on the appearance of [[WP:TRIVIA|trivia, which is prohibited]].  Certainly no non-bluelinked players are &quot;notable&quot; enough to warrant inclusion.  
+*The Italian wikipedia is not a reliable source.  Do not reference from it
+*Other than that, every one of your references are to the club's official website.  References to [[WP:PSTS|primary sources]] must be used with extreme care.  At the moment the article does not include any analysis or evaluation, which is a failing - critical evaluation of ''why'' its fortune kept changing or ''what prompted'' such-and-such a change.  However, when it does so, it should not be referenced from the club website but instead from [[WP:RS|independent secondary sources]].  Be careful to avoid [[WP:OR|original research]] or [[WP:SYN|synthesis]] when writing such analysis.
+In general the article makes an acceptable start, but needs a lot of expansion and cleanup before it is suitable for [[WP:GA|GA]] or [[WP:FA|FA]].  For an idea of what you should be working towards, keep looking at the wikipedia's football Featured articles, which are listed at [[Wikipedia:FA#Sport and recreation]].  They will give you an idea of what you should be aiming for.  Best of luck, &lt;font color=&quot;forestgreen&quot;&gt;[[User:Happy-melon|'''Happy''']]&lt;/font&gt;‑&lt;font color=&quot;darkorange&quot;&gt;[[User talk:Happy-melon|'''melon''']]&lt;/font&gt; 10:26, 20 December 2007 (UTC)
+
+:The side currently plays in [[Serie C2]] having being relegated during the 2006&amp;ndash;2007 season.&lt;ref&gt;{{cite web|url=http://www.soccerway.com/national/Italy/serie-c1/2006-2007/girone-b|title=Serie C2/B 2006&amp;ndash;07 league table|accessdate=2007-10-25|publisher=www.soccerway.com}}&lt;/ref&gt; The team's colors are white and light blue.'''LOCE 20/12/07: LAST SENTENCE IS UTTERLY UNCONNECTED TO THE REST, SURELY BELONGS BELOW'''
+::Where does this belong?'''&lt;span style=&quot;background:Red;color:White&quot;&gt;&amp;nbsp;[[User:Sunderland06|&lt;font color=&quot;White&quot;&gt;Sunder&lt;/font&gt;]][[User talk:Sunderland06|&lt;font color=&quot;black&quot;&gt;land&lt;/font&gt;]][[Special:Contributions/Sunderland06|&lt;font color=&quot;White&quot;&gt;06&lt;/font&gt;]]&amp;nbsp;&lt;/span&gt;''' 17:20, 20 December 2007 (UTC)
+:::The team colours are covered in detail in an entire subheading below.  Why is it necessary to mention it at the end of the history section?  &lt;font color=&quot;forestgreen&quot;&gt;[[User:Happy-melon|'''Happy''']]&lt;/font&gt;‑&lt;font color=&quot;darkorange&quot;&gt;[[User talk:Happy-melon|'''melon''']]&lt;/font&gt; 22:43, 20 December 2007 (UTC)
+In 1988 A.C. San Marino became a joint&amp;ndash;stock company, and changed its name from A.C. San Marino to San Marino Calcio; the change of name did not change the fortunes of the club as San Marino Calcio were relegated in the 1988&amp;ndash;89 season after finishing 17th in the league.&lt;ref name=itwiki/&gt;'''LOCE 20/12/07: THIS SENTENCE APPEARS TO CONTRADICT THE ONE ABOVE'''
+
+:How?
+::The previous paragraph listed three consecutive promotions in as many seasons - it appears that the club was on roaring form.  If thier fortunes hadn't changed they were on for a certain win - how is their relegation a continuation of their previous form?  If anything their name-change marked a huge turning point.  &lt;font color=&quot;forestgreen&quot;&gt;[[User:Happy-melon|'''Happy''']]&lt;/font&gt;‑&lt;font color=&quot;darkorange&quot;&gt;[[User talk:Happy-melon|'''melon''']]&lt;/font&gt; 22:43, 20 December 2007 (UTC)
+
+:::Please note that there is not much coverge of sammariese football therefore sorces are very hard to find. And also that i am not a native of Italy, and i know very little of the language. Thank you very much for your comments.'''&lt;span style=&quot;background:Red;color:White&quot;&gt;&amp;nbsp;[[User:Sunderland06|&lt;font color=&quot;White&quot;&gt;Sunder&lt;/font&gt;]][[User talk:Sunderland06|&lt;font color=&quot;black&quot;&gt;land&lt;/font&gt;]][[Special:Contributions/Sunderland06|&lt;font color=&quot;White&quot;&gt;06&lt;/font&gt;]]&amp;nbsp;&lt;/span&gt;''' 07:59, 21 December 2007 (UTC)
+
+Hi Sunderland06 .. the informations in the article (and in particular in the history section) are correct (I've changed only a thing) .. it's a good article in my opinion. Finding sources is very difficult for this kind of article: only the official site and fans'site (only for &quot;post millenium&quot; section) can help you ;) Sorry, but i've not a lot of time for wiki .. bye [[:it:Utente:SoloTitano|SoloTitano]]  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/79.0.86.242|79.0.86.242]] ([[User talk:79.0.86.242|talk]]) 13:10, 29 December 2007 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Post millennium section ==
+
+That section needs to be updated by someone who follows the team badly: the last information dates back to 2006... [[User:CapPixel|CapPixel]] ([[User talk:CapPixel|talk]]) 14:10, 25 February 2012 (UTC)
+	</talkpage>
+</article>

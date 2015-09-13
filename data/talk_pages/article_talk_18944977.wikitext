@@ -1,0 +1,5 @@
+<article id="11583046" title=Talk:Birampur Upazila>
+	<talkpage id="11583046" title="Talk:Birampur Upazila">
+{{WP Bangladesh|class=Start|importance=Low|geography=yes|photo=6}}
+	</talkpage>
+</article>

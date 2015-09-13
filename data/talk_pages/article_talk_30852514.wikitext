@@ -1,0 +1,6 @@
+<article id="26391861" title=Talk:Bosnia and Herzegovina Hockey League>
+	<talkpage id="26391861" title="Talk:Bosnia and Herzegovina Hockey League">
+{{ice hockey|class=stub}}
+{{WikiProject Bosnia|class=stub}}
+	</talkpage>
+</article>

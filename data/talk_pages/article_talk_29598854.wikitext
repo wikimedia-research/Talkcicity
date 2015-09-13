@@ -1,0 +1,5 @@
+<article id="29598854" title=Talk:David Lott>
+	<talkpage id="29598854" title="Talk:David Lott">
+{{WikiProject Biography|living=yes|class=|listas=Lott, David}}
+	</talkpage>
+</article>

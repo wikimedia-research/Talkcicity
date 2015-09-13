@@ -1,0 +1,13 @@
+<article id="35706389" title=Talk:Li Zhichao>
+	<talkpage id="35706389" title="Talk:Li Zhichao">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=yes
+|class=Stub
+|listas=Li, Zhichao
+}}
+{{WikiProject China|class=stub}}
+{{WikiProject Football|class=stub}}
+| blp=yes
+}}
+	</talkpage>
+</article>

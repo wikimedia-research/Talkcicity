@@ -1,0 +1,12 @@
+<article id="5566850" title=Talk:The Smokers (film)>
+	<talkpage id="5566850" title="Talk:The Smokers (film)">
+{{Film|American-task-force=yes|class=stub}}
+
+==Copied text?==
+Perhaps its just me but it seems the majority of this article is copied directly from http://www.imdb.com/title/tt0205418/plotsummary [[User:Bakilas|Bakilas]] 02:10, 18 November 2006 (UTC).
+
+== Removal of &quot;needs infobox&quot; tag ==
+This article has had its infobox tag removed by a cleanup using AWB.
+Any concerns please leave me a message at my talk page. [[User:RWardy|RWardy]] 17:48, 12 September 2007 (UTC)
+	</talkpage>
+</article>

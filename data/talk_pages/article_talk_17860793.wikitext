@@ -1,0 +1,5 @@
+<article id="17860793" title=Talk:Indiana, Ontario>
+	<talkpage id="17860793" title="Talk:Indiana, Ontario">
+{{WikiProject Canada|geography=yes|on=yes|community=yes|class=start|importance=low}}
+	</talkpage>
+</article>

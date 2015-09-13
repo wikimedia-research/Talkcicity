@@ -1,0 +1,7 @@
+<article id="43757592" title=User talk:24.91.77.22>
+	<talkpage id="43757592" title="User talk:24.91.77.22">
+== September 2014 ==
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Calidum|Calidum]]. I wanted to let you know that I undid one or more of [[Special:Contributions/24.91.77.22|your recent contributions]]&amp;nbsp;to [[:Jack (given name)]] because it did not appear constructive. If you would like to experiment, please use the [[WP:sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Calidum|my talk page]]. Thanks!&lt;!-- Template:uw-vandalism1 --&gt; '''[[User:Calidum|&lt;span style=&quot;color:#000000; font-family:serif&quot;&gt;Calidum&lt;/span&gt;]] &lt;sup&gt;[[User talk:Calidum|&lt;span style=&quot;color:#FFD700; font-family:serif&quot;&gt;Talk To Me&lt;/span&gt;]]&lt;/sup&gt;''' 15:40, 6 September 2014 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

@@ -1,0 +1,8 @@
+<article id="20215833" title=User talk:75.161.29.66>
+	<talkpage id="20215833" title="User talk:75.161.29.66">
+
+== November 2008 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Snake?diff=251886953 recent edit]&lt;/span&gt; you made to [[:Snake]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:Killiondude|Killiondude]] ([[User talk:Killiondude|talk]]) 02:00, 15 November 2008 (UTC)
+	</talkpage>
+</article>

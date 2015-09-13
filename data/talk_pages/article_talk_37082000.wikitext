@@ -1,0 +1,16 @@
+<article id="37082000" title=User talk:Kdudle3>
+	<talkpage id="37082000" title="User talk:Kdudle3">
+{{Help me-helped}}
+Need help in creation of a page of a notable law firm in Louisiana, Dudley DeBosier Injury Lawyers. How does one start?
+[[User:Kdudle3|Kdudle3]] ([[User talk:Kdudle3#top|talk]]) 17:19, 21 September 2012 (UTC)
+::Hello, I'm assuming you've read the notability guidelines as you've used the word notable. I'd also suggest reading [[WP:NPOV]], [[WP:MOS]] and [[Wikipedia:Advertising]]. If you're confident you're ready to submit then head over to [[WP:Wizard|the new article wizard]]! Kind regards. [[User:AlexJFox|'''&lt;sup&gt;Alex&lt;/sup&gt; &lt;small&gt;J&lt;/small&gt; &lt;sub&gt;Fox''']]&lt;/sub&gt; ([[User_talk:AlexJFox|Talk]]) ([[Special:Contributions/AlexJFox|Contribs]]) 18:05, 21 September 2012 (UTC)
+
+== Help ==
+
+{{help me-helped}}
+
+I would like to get feedback on an article I am creating. 
+[[User:Kdudle3|Kdudle3]] ([[User talk:Kdudle3#top|talk]])
+:Hi Kdudle3, please make sure you read our guidelines for notability of [[WP:CORP|business and organizations]] as well as using [[WP:RS|3rd party, reliable sources]]. &lt;span style=&quot;border:1px solid white;background-color: yellow; color: blue&quot;&gt;[[User:Legoktm|Lego]][[Special:Contributions/Legoktm|K&lt;sup&gt;ontribs&lt;/sup&gt;]][[user talk:Legoktm|T&lt;sup&gt;alk&lt;/sup&gt;]]M&lt;/span&gt; 17:19, 5 October 2012 (UTC)
+	</talkpage>
+</article>

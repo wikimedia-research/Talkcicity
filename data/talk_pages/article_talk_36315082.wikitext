@@ -1,0 +1,9 @@
+<article id="36315082" title=Talk:United States Senate election in Pennsylvania, 1952>
+	<talkpage id="36315082" title="Talk:United States Senate election in Pennsylvania, 1952">
+{{WikiProjectBannerShell|1=
+{{WikiProject Elections and Referendums}}
+{{WikiProject United States|class=stub|importance=low|USGov=Yes|USGov-importance=low}}
+{{WikiProject Pennsylvania|class=stub|importance=low}}
+}}
+	</talkpage>
+</article>

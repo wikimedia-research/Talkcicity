@@ -1,0 +1,6 @@
+<article id="18280253" title=Talk:Verin Getashen>
+	<talkpage id="18280253" title="Talk:Verin Getashen">
+{{talkheader}}
+{{WPAM}}
+	</talkpage>
+</article>

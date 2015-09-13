@@ -1,0 +1,5 @@
+<article id="18874182" title=Talk:Grzyby-Orzepy>
+	<talkpage id="18874182" title="Talk:Grzyby-Orzepy">
+{{WikiProject Poland|class=stub|importance=low}}
+	</talkpage>
+</article>

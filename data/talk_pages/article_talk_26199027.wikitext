@@ -1,0 +1,28 @@
+<article id="26199027" title=User talk:Gmacforce>
+	<talkpage id="26199027" title="User talk:Gmacforce">
+
+
+'''Welcome!'''
+
+Hello, {{BASEPAGENAME}}, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! {{#if:||Thank you for [[Special:Contributions/{{PAGENAME}}|your contributions]].}} I hope you like the place and decide to stay. Unfortunately, one or more of the pages you created{{#if:Fergal Moore| , like [[:Fergal Moore]],}} may not conform to some of Wikipedia's [[Wikipedia:List of policies|guidelines]] for page creation, and may soon be deleted. 
+{{Quote box
+ | quote  = You may also wish to consider using a Wizard to help you create articles. See the [[Wikipedia:Article wizard 2.0|Article Wizard]].'''''
+ | source = Thank you.
+ | width  = 20%
+ | align  = right
+}}
+There's a page about creating articles you may want to read called '''[[Wikipedia:Your first article|Your first article]]'''. If you are stuck, and looking for help, please come to the '''[[Wikipedia:New contributors' help page|New contributors' help page]]''', where experienced Wikipedians can answer any queries you have! Or, you can just type '''{{t|helpme}}''' on this page, and someone will show up shortly to answer your questions. Here are a few other good links for newcomers:
+* [[Wikipedia:Your first article|Your first article]]
+* [[Wikipedia:BLP|Biographies of living persons]]
+* [[Wikipedia:How to write a great article|How to write a great article]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Tutorial|Tutorial]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you have any questions, check out [[Wikipedia:Where to ask a question]] or ask me on {{#if:|[[User talk:{{{2}}}{{!}}my talk page]]|my talk page}}. &lt;!-- Template:Firstarticle --&gt; Again, welcome!&amp;nbsp;-- [[User:BigDom|&lt;span style=&quot;color:#990033&quot;&gt;Big&lt;/span&gt;]][[User talk:BigDom|&lt;span style=&quot;color:#3BB0FF&quot;&gt;&lt;small&gt;Dom&lt;/small&gt;&lt;/span&gt;]] 20:25, 14 February 2010 (UTC)
+
+==[[Wikipedia:Criteria for speedy deletion|Speedy deletion]] nomination of [[:Fergal Moore]]==
+[[Image:Ambox warning_pn.svg|48px|left]] A tag has been placed on [[:Fergal Moore]] requesting that it be speedily deleted from Wikipedia. This has been done under [[WP:CSD#A3|section A3 of the criteria for speedy deletion]], because it is an article with no content whatsoever, or whose contents consist only of external links, a &quot;See also&quot; section, book references, category tags, template tags, interwiki links, a rephrasing of the title, or an attempt to contact the subject of the article. Please see [[Wikipedia:Stub#Essential information about stubs|Wikipedia:Stub]] for our minimum information standards for short articles. Also please note that articles must be on [[Wikipedia:Notability|notable]] subjects and should provide references to [[Wikipedia:Reliable sources|reliable sources]] that [[Wikipedia:Verifiability|verify]] their content. You may wish to consider using a Wizard to help you create articles - see the [[Wikipedia:Article wizard2.0|Article Wizard]]. 
+
+If you think that this notice was placed here in error, you may contest the deletion by adding &lt;code&gt;{{tl|hangon}}&lt;/code&gt; to '''the top of [[:Fergal Moore|the page that has been nominated for deletion]]''' (just below the existing speedy deletion or &quot;db&quot; tag), coupled with adding a note on '''[[Talk:Fergal Moore|the talk page]]''' explaining your position, but be aware that once tagged for ''speedy'' deletion, if the page meets the criterion, it may be deleted without delay. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the page that would render it more in conformance with Wikipedia's policies and guidelines. Lastly, please note that if the page does get deleted, you can contact [[:Category:Wikipedia administrators who will provide copies of deleted articles|one of these admins]] to request that they  [[Wikipedia:Userfication#Userfication_of_deleted_content|userfy]] the page or have a copy emailed to you. &lt;!-- Template:Db-nocontent-notice --&gt; &lt;!-- Template:Db-csd-notice-custom --&gt; -- [[User:BigDom|&lt;span style=&quot;color:#990033&quot;&gt;Big&lt;/span&gt;]][[User talk:BigDom|&lt;span style=&quot;color:#3BB0FF&quot;&gt;&lt;small&gt;Dom&lt;/small&gt;&lt;/span&gt;]] 20:25, 14 February 2010 (UTC)
+	</talkpage>
+</article>

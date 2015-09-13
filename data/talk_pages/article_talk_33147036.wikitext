@@ -1,0 +1,6 @@
+<article id="33147036" title=Talk:Chilsworthy>
+	<talkpage id="33147036" title="Talk:Chilsworthy">
+{{WikiProject Devon|class=Stub|importance=Low}}
+{{WPUKgeo|class=Stub|importance=Low}}
+	</talkpage>
+</article>

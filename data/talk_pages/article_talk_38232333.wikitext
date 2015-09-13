@@ -1,0 +1,7 @@
+<article id="38232333" title=User talk:76.64.125.130>
+	<talkpage id="38232333" title="User talk:76.64.125.130">
+== January 2013 ==
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:Forgot to put name|Forgot to put name]]. I wanted to let you know that I undid one or more of [[Special:Contributions/76.64.125.130|your recent contributions]]&amp;nbsp;to [[:Spider monkey]] because it didn't appear constructive. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Forgot to put name|my talk page]]. Thanks!&lt;!-- Template:uw-vandalism1 --&gt;&lt;!-- Template:uw-cluebotwarning1 --&gt;  [[User talk:Forgot to put name|Forgot to put name]] 06:34, 15 January 2013 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

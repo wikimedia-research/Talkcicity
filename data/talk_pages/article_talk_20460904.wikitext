@@ -1,0 +1,6 @@
+<article id="20460904" title=Talk:St. Rose's Church>
+	<talkpage id="20460904" title="Talk:St. Rose's Church">
+{{DisambigProject}}
+{{WikiProject NRHP|class=dab}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="28178204" title=Talk:1997–98 Coupe de France>
+	<talkpage id="28178204" title="Talk:1997–98 Coupe de France">
+{{Football|season=yes|France=yes|class=stub|importance=low}}
+	</talkpage>
+</article>

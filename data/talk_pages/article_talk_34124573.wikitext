@@ -1,0 +1,12 @@
+<article id="34124573" title=User talk:151.193.203.12/Archive 1>
+	<talkpage id="34124573" title="User talk:151.193.203.12/Archive 1">
+{{talkarchive}}
+
+
+
+==October 2008==
+[[Image:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia{{#if:West Virginia University|, as you did to [[:West Virginia University]]}}. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism2 --&gt; [[User:Deor|Deor]] ([[User talk:Deor|talk]]) 13:54, 28 October 2008 (UTC)
+
+[[Image:Nuvola apps important.svg|25px]] Please do not vandalize pages, as you did with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/West+Virginia+University?diff=248192633 this edit]&lt;/span&gt; to [[:West Virginia University]]. If you continue to do so, you will be blocked from editing. &lt;!-- Template:uw-huggle3 --&gt; &lt;font face=&quot;Tempus Sans ITC&quot;  color=&quot;#2B0066&quot;&gt;[[User:Shell_Kinney|Shell]]   &lt;sup&gt;[[User_talk:Shell_Kinney|babelfish]]&lt;/sup&gt;&lt;/font&gt; 14:00, 28 October 2008 (UTC)
+	</talkpage>
+</article>

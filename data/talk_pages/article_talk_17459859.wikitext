@@ -1,0 +1,5 @@
+<article id="17459859" title=Talk:Dolní Ředice>
+	<talkpage id="17459859" title="Talk:Dolní Ředice">
+{{WikiProject Czech Republic|class=Stub|importance=Low}}
+	</talkpage>
+</article>

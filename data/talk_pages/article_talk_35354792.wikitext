@@ -1,0 +1,5 @@
+<article id="35354792" title=Talk:National Mills, Manitoba>
+	<talkpage id="35354792" title="Talk:National Mills, Manitoba">
+{{WikiProject Canada |mb=yes|community=yes|class=stub|importance=low}}
+	</talkpage>
+</article>

@@ -1,0 +1,8 @@
+<article id="8651641" title=User talk:172.146.212.114>
+	<talkpage id="8651641" title="User talk:172.146.212.114">
+==[[Archmere Academy]]==
+Please do not add nonsense to Wikipedia{{#if:Archmere Academy|, as you did to [[:Archmere Academy]]}}. It is considered [[Wikipedia:Vandalism|vandalism]]. If you would like to experiment, use the [[Wikipedia:Sandbox|sandbox]]. Thank you. &lt;!-- Template:Test2 (second level warning) --&gt; [[User:Blood red sandman|Blood red sandman]] 01:46, 29 December 2006 (UTC)
+
+Please stop. If you continue to [[Wikipedia:Vandalism|vandalize]] pages, {{#if:Archmere Academy|as you did to [[:Archmere Academy]],}} you will be [[Wikipedia:Blocking policy|blocked]] from editing Wikipedia. &lt;!-- Template:Test3 (Third level warning) --&gt; [[User:Blood red sandman|Blood red sandman]] 01:50, 29 December 2006 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="16106654" title=Talk:Retjons>
+	<talkpage id="16106654" title="Talk:Retjons">
+{{WikiProject France|class=Stub|importance=Low|commune=yes}}
+	</talkpage>
+</article>

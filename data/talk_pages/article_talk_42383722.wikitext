@@ -1,0 +1,9 @@
+<article id="42383722" title=Talk:Cape St. Paul Lighthouse>
+	<talkpage id="42383722" title="Talk:Cape St. Paul Lighthouse">
+{{WP Ghana
+|class=stub
+|importance
+}}
+{{reqphoto|in=Ghana}}
+	</talkpage>
+</article>

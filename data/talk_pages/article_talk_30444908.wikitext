@@ -1,0 +1,25 @@
+<article id="30444908" title=User talk:Dash2481>
+	<talkpage id="30444908" title="User talk:Dash2481">
+
+'''Welcome!'''
+
+Hello, Dash2481, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia!  I hope you like the place and decide to stay. Unfortunately, one or more of the pages you created, such as [[Mintut]], may not conform to some of Wikipedia's [[Wikipedia:List of policies|guidelines]], and may soon be deleted. 
+
+There's a page about creating articles you may want to read called '''[[Wikipedia:Your first article|Your first article]]'''. If you are stuck, and looking for help, please come to the '''[[Wikipedia:New contributors' help page|New contributors' help page]]''', where experienced Wikipedians can answer any queries you have! Or, you can just type '''{{t|helpme}}''' on this page, and someone will show up shortly to answer your questions. Here are a few other good links for newcomers:
+* [[Wikipedia:Starting an article|Starting an article]]
+* [[Wikipedia:Your first article|Your first article]]
+* [[Wikipedia:Biographies of living persons|Biographies of living persons]]
+* [[Wikipedia:How to write a great article|How to write a great article]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Tutorial|Tutorial]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you have any questions, check out [[Wikipedia:Questions]] or ask me on my talk page. &lt;!-- Template:First article --&gt; Again, welcome!&amp;nbsp;[[User:Opus 113|Opus 113]] ([[User talk:Opus 113|talk]]) 21:30, 12 January 2011 (UTC)
+
+==[[Wikipedia:Criteria for speedy deletion|Speedy deletion]] nomination of [[:Mintut]]==
+[[Image:Ambox warning pn.svg|48px|left|alt=|link=]]
+
+Please refrain from introducing inappropriate pages, such as [[:Mintut]], to Wikipedia. Doing so is not in accordance with our [[Wikipedia:List of policies|policies]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. 
+
+If you think that this notice was placed here in error, you may contest the deletion by adding {{tlc|hang on}} to '''the top of [[:Mintut|the page that has been nominated for deletion]]''' (just below the existing speedy deletion, or &quot;db&quot;, tag; if no such tag exists, then the page is no longer a speedy delete candidate and adding a hang-on tag is unnecessary), coupled with adding a note on '''[[Talk:Mintut|the talk page]]''' explaining your position, but be aware that once tagged for ''speedy'' deletion, if the page meets the criterion, it may be deleted without delay. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the page that would render it more in conformance with Wikipedia's policies and guidelines.  &lt;!-- Template:Db-vandalism-notice --&gt;&lt;!-- Template:Db-csd-notice-custom --&gt; [[User:Opus 113|Opus 113]] ([[User talk:Opus 113|talk]]) 21:30, 12 January 2011 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,7 @@
+<article id="31195148" title=User talk:92.251.162.19>
+	<talkpage id="31195148" title="User talk:92.251.162.19">
+== March 2011 ==
+[[File:Information.svg|25px|alt=|link=]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of [[Special:Contributions/92.251.162.19|your recent edits]], such as the one you made to [[:Nikki Hayes]], did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; [[User:CutOffTies|CutOffTies]] ([[User talk:CutOffTies|talk]]) 00:07, 16 March 2011 (UTC)
+:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
+	</talkpage>
+</article>

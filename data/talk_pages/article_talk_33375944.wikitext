@@ -1,0 +1,20 @@
+<article id="33375944" title=User talk:Obergmann>
+	<talkpage id="33375944" title="User talk:Obergmann">
+
+== Welcome ==
+'''Welcome!'''
+
+Hello, Obergmann, and [[Wikipedia:Introduction|welcome]] to Wikipedia! Thank you for [[Special:Contributions/Obergmann|your contributions]]. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Help:Editing|How to edit a page]] and [[Wikipedia:Article development|How to develop articles]]
+*[[Wikipedia:Your first article|How to create your first article]] (using the [[Wikipedia:Article wizard|Article Wizard]] if you wish)
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign]] your messages on [[Help:Using talk pages|discussion page]]s using four [[tilde]]s (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically insert your username and the date. If you need help, check out [[Wikipedia:Questions]], ask me on [[user talk:Mayur|my talk page]], or ask your question on this page and then place &lt;code&gt;&lt;nowiki&gt;{{help me}}&lt;/nowiki&gt;&lt;/code&gt; before the question. Again, welcome! &lt;!-- Template:Welcome --&gt; 
+[[User:Mayur|Mayur]] ([[User talk:Mayur|talk]]) 15:06, 11 October 2011 (UTC)
+
+== October 2011 ==
+[[Image:Stop hand nuvola.svg|30px|alt=|link=]] Your addition to [[:Seething Wells]] has been removed, as it appears to have added [[Wikipedia:Copyrights|copyrighted]] material to Wikipedia without [[Wikipedia:Requesting copyright permission|permission]] from the copyright holder. For [[Wikipedia:Copyrights|legal reasons]], we cannot accept copyrighted text or images borrowed from other websites or printed material; such additions will be deleted. You may use external websites or publications as a source of ''information'', but not as a source of ''article content'' such as sentences or images. Wikipedia takes copyright violations very seriously and persistent violators '''will be [[Wikipedia:Blocking policy|blocked from editing]]'''. &lt;!-- Template:uw-copyright --&gt; ''You copied the text from [http://www.seethingwells.org/Seething_Freshwater_Sardines.html this website]. That is not OK.'' [[User:Drmies|Drmies]] ([[User talk:Drmies|talk]]) 18:02, 11 October 2011 (UTC)
+*And please don't put your email address in articles, talk pages, or edit summaries, for security reasons. Thanks, [[User:Drmies|Drmies]] ([[User talk:Drmies|talk]]) 18:05, 11 October 2011 (UTC)
+	</talkpage>
+</article>

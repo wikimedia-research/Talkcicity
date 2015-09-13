@@ -1,0 +1,5 @@
+<article id="25422514" title=Talk:Online psychotherapy>
+	<talkpage id="25422514" title="Talk:Online psychotherapy">
+{{WikiProject Psychology|class=|importance=}}
+	</talkpage>
+</article>

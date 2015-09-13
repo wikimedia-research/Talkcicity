@@ -1,0 +1,12 @@
+<article id="8262551" title=Talk:The Chieftains 5>
+	<talkpage id="8262551" title="Talk:The Chieftains 5">
+{{album
+|class=Stub
+|importance=Low
+|attention=
+|needs-infobox=no
+|auto=no
+|listas=Chieftains 05}}
+{{WikiProject Irish music|importance=Low|class=Stub}}
+	</talkpage>
+</article>

@@ -1,0 +1,23 @@
+<article id="18051396" title=Talk:Set>
+	<talkpage id="18051396" title="Talk:Set">
+{{DisambigProject|class=start|importance=}}
+
+== A comedian's 'set' ==
+Comedians (and musicians, too, perhaps somewhat differently) use 'set' to mean their time on stage, don't they? Perhaps only comedians know exactly what's meant by this, but it's definitely another use. Perhaps they both fall under 'performing arts'? Any performing artist wikipedians out there wanna help clarify this?--[[User:Tyranny Sue|Tyranny Sue]] ([[User talk:Tyranny Sue|talk]]) 06:39, 4 April 2009 (UTC)
+
+== Deck of cards? ==
+
+A deck of cards, or a particular publication of a deck? (Also a number of tea cards, cigarette cards, etc.) [[Special:Contributions/92.20.150.27|92.20.150.27]] ([[User talk:92.20.150.27|talk]]) 10:43, 11 September 2011 (UTC)
+
+== Note ==
+
+I changed the definition of set (mathematics) to be consistent with the page it pointed to mentioning uniqueness as a criterion for set members.  [[User:Ckelloug|Ckelloug]] ([[User talk:Ckelloug|talk]]) 20:36, 17 November 2011 (UTC)
+
+== Note 2014==
+I believe the section 
+  Mathematics and programming
+should be changed to 
+  Mathematics and Computer programming. 
+Does any editor or reviewer disagree?  [[User:SoSivr|SoSivr]] ([[User talk:SoSivr|talk]]) 21 December 2014  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt; — Preceding [[Wikipedia:Signatures|undated]] comment added 13:05, 21 December 2014 (UTC)&lt;/span&gt;&lt;!--Template:Undated--&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

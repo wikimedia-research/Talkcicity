@@ -1,0 +1,38 @@
+<article id="4768063" title=Talk:Roosevelt High School (Seattle, Washington)>
+	<talkpage id="4768063" title="Talk:Roosevelt High School (Seattle, Washington)">
+{{WikiProjectBannerShell|1=
+{{WikiProject Historic sites|class=Start|importance=low}}
+{{WikiProject United States|class=Start|importance=Low|WA=yes|WA-importance=|Seattle=Yes|Seattle-importance=|auto=Inherit}}
+{{WikiProject Schools|class=Start|importance=Low}}
+}}
+
+==Untitled==
+:Nice to see that someone started this! Unfortunately, I graduated too long ago to help with current info. Is the Jazz Band still winning awards? Is the school motto still something like &quot;what I am to be I am now becomming&quot;? (Why I remember this I don't know.) These could be mentioned. And there is this - http://www.npr.org/news/specials/roosevelt/, a year-long series on NPR of Roosevelt and the 2002-03 school year. -Bert, class of '87 [[User:171.159.64.10|171.159.64.10]] 01:55, 2 May 2006 (UTC)
+
+Yes,  Jazz still rocks, and drama's probably one of the best in the country, but people need to help!!!!! Come on!!! Write something! Anything?????
+
+There was a movie, Heart of the Game, made about the RHS Girl's Basketball Team.
+
+
+Copy and edit done :) [[User:AussieWiki2006|AussieWiki2006]] 11:40, 20 October 2006 (UTC)
+
+I did a copyedit to the article recently, if any person has any suggestions on the article you can post it at the [[WP:LOC]] [[User:Supershow|Showmanship is the key]] 18:56, 6 April 2007 (UTC)
+
+==Copyedit==
+{{WP LoCE
+|April 2007
+|[[User:Supershow|Showmanship is the key]] 18:56, 6 April 2007 (UTC)
+|[[User:Galena11|Galena11]] 22:06, 11 April 2007 (UTC)
+}}
+
+==POV==
+This does not seem very neutral: &quot;The Roosevelt News is a 28 to 36-page monthly production which regularly puts the Ballard Talisman (well-known rag) to shame&quot;
+--[[User:DerRichter|DerRichter]] 06:41, 19 October 2007 (UTC)
+
+I've removed the POV header from the article because the statement quoted above is no longer present.  I'm not sure at what point it was removed.  In any case the quote contains derogatory language so it is obviously not acceptable. 
+--[[User:Mfero|mattelfesso]] ([[User talk:Mfero|talk]]) 09:44, 19 November 2007 (UTC)
+
+==Clubs==
+I removed a list of clubs becuase every school has lots of clubs, but if any are notable, meaning they stand out from the usual list for some reason, they may be reintroduced.  Also, names of high school athletes and claims like &quot;the facilities are excellent&quot; with no citation are inappropriate for wikipedia, but feel free to discuss.  --[[User:DerRichter|DerRichter]] ([[User talk:DerRichter|talk]]) 10:17, 25 November 2007 (UTC)
+	</talkpage>
+</article>

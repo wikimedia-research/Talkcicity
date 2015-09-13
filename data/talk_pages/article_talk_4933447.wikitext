@@ -1,0 +1,7 @@
+<article id="4933447" title=Talk:Nordenskjöld Ice Tongue>
+	<talkpage id="4933447" title="Talk:Nordenskjöld Ice Tongue">
+{{WikiProject Antarctica|class=Stub}}
+{{WikiProject Glaciers|class=stub}}
+{{GNIS source}}
+	</talkpage>
+</article>

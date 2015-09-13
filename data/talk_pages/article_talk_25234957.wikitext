@@ -1,0 +1,8 @@
+<article id="25234957" title=User talk:70.100.153.246>
+	<talkpage id="25234957" title="User talk:70.100.153.246">
+
+
+== November 2009 ==
+[[Image:Information.svg|25px]] Welcome to Wikipedia. It might not have been your intention, but your recent edit removed content from [[:Wayne Thiebaud]]. When removing text, please specify a reason in the [[Help:Edit summary|edit summary]] and discuss edits that are likely to be controversial on the article's [[Wikipedia:Talk page|talk page]]. If this was a mistake, don't worry; the text has been restored, as you can see from the &lt;span class=&quot;plainlinks&quot;&gt;[{{fullurl:Wayne Thiebaud|action=history}} page history]&lt;/span&gt;. Take a look at the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing to this encyclopedia, and if you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]].  Thank you.&lt;!-- Template:uw-delete1 --&gt; [[User:Mandarax|&lt;font color=&quot;green&quot;&gt;M&lt;small&gt;AN&lt;/small&gt;d&lt;small&gt;ARAX&lt;/small&gt;&lt;/font&gt;]]&lt;font color=&quot;6600FF&quot;&gt;&amp;nbsp;•&amp;nbsp;&lt;/font&gt;[[User talk:Mandarax|&lt;font color=&quot;999900&quot;&gt;&lt;small&gt;XAЯA&lt;/small&gt;b&lt;small&gt;ИA&lt;/small&gt;M&lt;/font&gt;]] 22:21, 28 November 2009 (UTC)
+	</talkpage>
+</article>

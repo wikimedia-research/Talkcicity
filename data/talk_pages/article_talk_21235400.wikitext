@@ -1,0 +1,5 @@
+<article id="21235400" title=Talk:Klamek ji bo Beko>
+	<talkpage id="21235400" title="Talk:Klamek ji bo Beko">
+{{Film|class=Stub|needs-image=yes}}
+	</talkpage>
+</article>

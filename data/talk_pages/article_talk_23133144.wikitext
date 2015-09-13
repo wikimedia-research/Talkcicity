@@ -1,0 +1,8 @@
+<article id="23133144" title=Talk:Squall line/GA1>
+	<talkpage id="23133144" title="Talk:Squall line/GA1">
+==GA Review==
+&lt;noinclude&gt;{{al|{{#titleparts:Squall line/GA1|-1}}|noname=yes}}&lt;br/&gt;&lt;/noinclude&gt;&lt;includeonly&gt;:''This review is [[WP:transclusion|transcluded]] from [[Talk:Squall line/GA1]]. The edit link for this section can be used to add comments to the review.''&lt;/includeonly&gt;
+&lt;!-- Please add all review comments below this comment, and do not alter what is above. To keep the review within a single section, please do not use level 2 headers (==...==) below to break up the review. Use level 3 (===...===), level 4 and so on.--&gt;
+Very nice job with the article DR! I only have one issue with it, the radar loop of the ET storm in 2008 is making the page very slow. Can you find a way to make it so that the image doesn't slow down the page? (this wont hold it back from passing GAN though). Since everything looks good, I'm passing the article. [[User:Cyclonebiskit|Cyclonebiskit]] ([[User talk:Cyclonebiskit|talk]]) 18:07, 7 June 2009 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,15 @@
+<article id="43356211" title=User talk:39.47.114.146>
+	<talkpage id="43356211" title="User talk:39.47.114.146">
+
+
+== July 2014 ==
+[[File:Information.svg|left|25px|alt=|link=]] Hello, and welcome to Wikipedia. This is a message letting you know that one or more of your recent edits to [[:Asier Illarramendi]] has been undone by an automated computer program called [[User:ClueBot NG|ClueBot NG]].
+{{clear}}
+* ClueBot NG makes very few [[User:ClueBot NG#Information About False Positives|mistakes]], but it does happen. If you believe the change you made was constructive, please [[User:ClueBot NG#Information About False Positives|read about it]], [{{User:ClueBot NG/Warnings/FPReport|1904311}} report it here], remove this message from your talk page, and then make the edit again.
+* For help, take a look at the [[Wikipedia:Introduction|introduction]].
+* The following is the log entry regarding this message: [[Asier Illarramendi]] was [http://en.wikipedia.org/w/index.php?title=Asier+Illarramendi&amp;diff=617826950&amp;oldid=617768909 changed] by [[Special:Contributions/39.47.114.146|39.47.114.146]] [[User:39.47.114.146|(u)]] [[User talk:39.47.114.146|(t)]] ANN scored at 0.891161 on 2014-07-21T10:32:41+00:00 &lt;!-- MySQL ID: 1904311 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]) 10:32, 21 July 2014 (UTC)
+
+[[File:Information orange.svg|25px|alt=Information icon]] Please do not add or change content, as you did to [[:Aleksandar Kolarov]], without [[Wikipedia:Verifiability|verifying]] it by citing a [[Wikipedia:Identifying reliable sources|reliable source]]. Please review the guidelines at [[Wikipedia:Citing sources]] and take this opportunity to add references to the article. Thank you.&lt;!-- Template:uw-unsourced2 --&gt; [[User:Mattythewhite|Mattythewhite]] ([[User talk:Mattythewhite|talk]]) 10:44, 21 July 2014 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

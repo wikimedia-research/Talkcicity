@@ -1,0 +1,8 @@
+<article id="19888819" title=Talk:Freeze thaw resistance>
+	<talkpage id="19888819" title="Talk:Freeze thaw resistance">
+{{WikiProject Banners|
+{{Physics|class=stub|importance=low}}
+{{WikiProject Science|class=stub|importance=low}}
+}}
+	</talkpage>
+</article>

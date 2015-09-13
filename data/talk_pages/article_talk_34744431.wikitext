@@ -1,0 +1,13 @@
+<article id="34744431" title=Talk:Confidence Group>
+	<talkpage id="34744431" title="Talk:Confidence Group">
+{{WikiProjectBannerShell|1=
+{{WikiProject Bangladesh|class=Start|importance=low}}
+{{WikiProject Business|class=Start|importance=low}}
+{{WikiProject Civil engineering|class=Start|importance=low}}
+{{WikiProject Companies|class=Start|importance=low}}
+}}
+
+== Fair use candidate from Commons: [[:File:CCLlogo.jpg]] ==
+The file [[:File:CCLlogo.jpg]], used on this page, has been [[:commons:File:CCLlogo.jpg|deleted from Wikimedia Commons]] and re-uploaded at [[:File:CCLlogo.jpg]]. It should be reviewed to determine if it is compliant with this project's non-free content policy, or else should be deleted and removed from this page. [[User:Commons fair use upload bot|Commons fair use upload bot]] ([[User talk:Commons fair use upload bot|talk]]) 04:06, 15 February 2012 (UTC)
+	</talkpage>
+</article>

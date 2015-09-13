@@ -1,0 +1,81 @@
+<article id="30296774" title=Talk:Priestly covenant>
+	<talkpage id="30296774" title="Talk:Priestly covenant">
+{{WikiProject Bible}}
+{{WikiProject Judaism |class=  |importance= }}
+==More accessible for the general reader==
+Moved to '''Priestly covenant''' and needs proofreading. Excessive use of foreign language words for too many obvious and basic terms where English will do.[[User:In ictu oculi|In ictu oculi]] ([[User talk:In ictu oculi|talk]]) 10:44, 30 August 2011 (UTC)
+::is not the word Kohen in [&quot;some&quot; http://dictionary.reference.com/browse/kohen] English dictionaries?--[[User:Marecheth Ho&amp;#39;eElohuth|Marecheth Ho&amp;#39;eElohuth]] ([[User talk:Marecheth Ho&amp;#39;eElohuth|talk]]) 22:20, 31 August 2011 (UTC)
+:::No, except as a surname, see Merriam-Webster, the JPS Bible has &quot;priest&quot; and &quot;high priest&quot;. The link which you've given appears to be to a Hebrew-English dictionary, not an English dictionary. It is possible it might be in some very specialist dictionaries but it is not a normal English word. [[User:In ictu oculi|In ictu oculi]] ([[User talk:In ictu oculi|talk]]) 00:02, 1 September 2011 (UTC)
+
+::::The term Kohen is listed as well in the [[New Oxford American Dictionary]] -a English dictionary by all means.
+
+Please note the following;
+#There is a fine division between the two terms: &quot;Kohen&quot; (as per [[WP:Common usage]]) refers to a male descendant of Ahron based strictly on birthright -which this particular article is discussing if not a part of its central theme.  whereas a &quot;priest&quot; is a minister of Catholic Church based on will and capability to reach to that level (which this article -as of date of your edits- does not mention).
+#Excees of &quot;citation needed&quot; tags placed on paragraphs where sources are quoted.
+#Hebrew terms innacuratly translated (why is מדרש הנעלם a &quot;hidden medrash&quot; more than &quot;a medrash on the hidden&quot;?)
+#Rabbinic names innacuratly revised (did you assume that &quot;Leibush&quot; is the [[Malbim]]'s surname?)
+#an &quot;original research&quot; tag placed where a brief look at the source would suffice (the prophet -explicitly- compares the Kohanim and Levites to the non-cessation of day and night -has the occurring of day and night come to an end?).
+
+
+In light of the above and multiple other minors nuances I am sorry to have to revert your work -It is just too much to have to pick through and correct all of them.--[[User:Marecheth Ho&amp;#39;eElohuth|Marecheth Ho&amp;#39;eElohuth]] ([[User talk:Marecheth Ho&amp;#39;eElohuth|talk]]) 17:09, 1 September 2011 (UTC)
+:::::With the revert should you wish to implement those changes to the page please discuss it here on the talk page and proceed it shall--[[User:Marecheth Ho&amp;#39;eElohuth|Marecheth Ho&amp;#39;eElohuth]] ([[User talk:Marecheth Ho&amp;#39;eElohuth|talk]]) 17:11, 1 September 2011 (UTC)
+
+:::Hi Marecheth Ho&amp;#39;eElohuth
+:::How do you feel now about [[Wikipedia:Naming conventions (use English)]] and [[Wikipedia:Naming conventions (Hebrew)]]. Have you read these and do you agree with them?
+:::As regards your specific points above, The New Oxford American Dictionary does '''not''' use kohen for Aaron, does it? Please see &quot;priest&quot; entry.
+#The issue is not the distinction between ''kohen'' as it refers to Jewish kohen, kohen of Baal, kohen of Dagon, - but the use of English. You appear to be citing Hebrew language sources as proof of English language usage.
+#I used &quot;citation needed&quot; tags sparingly, they should not be removed.
+#&quot;Hebrew terms innacuratly translated (why is מדרש הנעלם a &quot;hidden medrash&quot; more than &quot;a medrash on the hidden&quot;?)&quot; I hate to point this out but I could pick you up for spelling &quot;inaccurately&quot; as &quot;innacuratly&quot; - I have no idea what the correct English [[WP:RS]] translation for  מדרש הנעלם is, why was an untranslated Hebrew phrase in the text in the first place?
+#Rabbinic names - I thought I did pretty well.
+#we use OR tags where an editor has used a primary source, like Ezekiel, to express an opinion where [[WP:RS]] would normally be required.
+:The main point here is Wikipedia convention, the above doesn't justify your wholesale removal of all the English terms. [[User:In ictu oculi|In ictu oculi]] ([[User talk:In ictu oculi|talk]]) 22:01, 4 September 2011 (UTC)
+
+==Wikipedia style for foreign words==
+* text as was: The first person listed in the [[Hebrew Bible]] as a &quot;Kohen&quot; (priest) is [[Melchizedek]].
+* should be: The first person listed in the [[Hebrew Bible]] as a &quot;priest&quot; (Hebrew ''kohen'') is [[Melchizedek]].
+Please see [[Wikipedia:Naming conventions (use English)]]: 
+{{quotation|The title of an article should generally use the version of the name of the subject which is most common in the English language, as you would find it in reliable sources}} [[User:In ictu oculi|In ictu oculi]] ([[User talk:In ictu oculi|talk]]) 02:56, 2 September 2011 (UTC)
+===English language edits restored Sep 8th===
+Also removed this
+{{Dablink|This article is presented as an analysis of the views of ''Kehuna'' (The Jewish Priesthood) as being eternal as found in [[Chazal]]ic and [[Rabbinic Judaism]] documentary, for additional material and other views see [[Clergy]]}}
+If that's the case then the correct article title is [[Priestly covenant (views in Judaism)]]. It is okay to do that, if that is the intention, but one doesn't normally pre-POVfork a POVfork article before the generic article exists. And this article content is in the first section, generic. [[User:In ictu oculi|In ictu oculi]] ([[User talk:In ictu oculi|talk]]) 13:15, 7 September 2011 (UTC)
+===Yalkult Shimoni section reinserted===
+Temporarily removed for 4 min in restoring English, now[http://en.wikipedia.org/w/index.php?title=Covenant_of_Kehuna&amp;action=historysubmit&amp;diff=447891319&amp;oldid=447885197 reinserted] [[User:In ictu oculi|In ictu oculi]] ([[User talk:In ictu oculi|talk]]) 13:19, 7 September 2011 (UTC)
+==Structure==
+The article is now split into three main sections:
+[[User:In ictu oculi|In ictu oculi]] ([[User talk:In ictu oculi|talk]]) 13:53, 7 September 2011 (UTC)  
+Contents [hide]
+:'''1 Hebrew Bible''' 
+::1.1 Priests in Genesis 
+::1.1.1 Jacob's deathbed blessing of Levi
+::1.2 Exodus 
+::1.2.1 The priestly duties prior to Aaron
+::1.2.2 The Golden Calf, and sin of the firstborn
+::1.2.3 The firstborn (bechorim) retain their sanctity
+::1.2.4 God's reason for choosing Aaron
+::1.2.5 In the written Torah
+:'''2 The destruction of the Second Temple in Jerusalem, 70 CE''' 
+::2.1 The cessation of the priesthood's work in the Second Temple
+:'''3 The Jewish priesthood in the Third Temple''' 
+::3.1 Vision of Jeremiah
+::3.2 The Third temple in Ezekiel
+::3.3 The Third temple in the Zohar =
+::3.4 The Third Temple in Torah Commentaries
+::3.5 The priesthood in the Messianic era 
+::3.5.1 Encompassing explanation
+:4. See also
+:5. References
+:6. External links
+== Requested move ==
+&lt;div class=&quot;boilerplate&quot; style=&quot;background-color: #efe; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px dotted #aaa;&quot;&gt;&lt;!-- Template:RM top --&gt;
+:''The following discussion is an archived discussion of a [[WP:RM|requested move]]. &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made in a new section on the talk page. No further edits should be made to this section. ''
+
+The result of the move request was: '''page moved''' per request. - [[User:GTBacchus|GTBacchus]]&lt;sup&gt;([[User talk:GTBacchus|talk]])&lt;/sup&gt; 03:28, 15 September 2011 (UTC)
+
+----
+
+
+[[Covenant of Kehuna]] → {{no redirect|1=Priestly covenant}} – Rationale for the proposed page name change per [[WP:EN]] sources as per [[WP:RS]] in article, checked with usage on Google Books and JSTOR. [[User:In ictu oculi|In ictu oculi]] ([[User talk:In ictu oculi|talk]]) 04:26, 8 September 2011 (UTC)
+:''The above discussion is preserved as an archive of a [[WP:RM|requested move]].  &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made in a new section on this talk page. No further edits should be made to this section.&lt;/div&gt;&lt;!-- Template:RM bottom --&gt;
+	</talkpage>
+</article>

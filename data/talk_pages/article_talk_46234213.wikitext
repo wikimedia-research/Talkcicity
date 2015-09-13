@@ -1,0 +1,9 @@
+<article id="46234213" title=User talk:75.76.184.248>
+	<talkpage id="46234213" title="User talk:75.76.184.248">
+{{Shared IP|WideOpenWest Finance LLC}}
+
+== March 2015 ==
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Racerx11|Racerx11]]. I wanted to let you know that I undid one or more of [[Special:Contributions/75.76.184.248|your recent contributions]]&amp;nbsp;to [[:Swahili language]] because it did not appear constructive. If you would like to experiment, please use the [[WP:sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Racerx11|my talk page]]. Thanks.&lt;!-- Template:uw-vandalism1 --&gt; [[User:Racerx11|&lt;font color = &quot;orange&quot;&gt;Racer&lt;/font&gt;&lt;font color = &quot;black&quot;&gt;X&lt;sup&gt;11&lt;/sup&gt;&lt;/font&gt;]] &lt;small&gt;''[[User talk:Racerx11|Talk to me]]''&lt;/small&gt;''[[Special:Contributions/Racerx11|&lt;sup&gt;Stalk me&lt;/sup&gt;]]''  16:20, 26 March 2015 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

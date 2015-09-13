@@ -1,0 +1,6 @@
+<article id="29271285" title=Talk:Barkly Pass>
+	<talkpage id="29271285" title="Talk:Barkly Pass">
+{{WikiProject Africa|class=stub|importance=low|South Africa=yes|South Africa-importance=low}}
+{{WikiProject Mountains|class=stub|importance=low}}
+	</talkpage>
+</article>

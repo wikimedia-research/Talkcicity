@@ -1,0 +1,74 @@
+<article id="16285985" title=User talk:Gaisto17>
+	<talkpage id="16285985" title="User talk:Gaisto17">
+{{#if:|== {{{heading}}} ==|}}
+&lt;!-- This comes from the template {{W-screen}} --&gt;
+&lt;div style=&quot;align: center; padding: 1em; {{#ifeq:{{{clear}}}|true||border: solid 2px darkblue; background-color: darkblue; -moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px;}}&quot;&gt;
+&lt;center&gt;&lt;font size=&quot;+1&quot; {{#ifeq:{{{clear}}}|true||color=&quot;white&quot;}}&gt;Hi Gaisto17, and &lt;font color=&quot;orange&quot;&gt;[[Wikipedia:Welcoming committee/Welcome to Wikipedia|Welcome to Wikipedia!]]&lt;/font&gt;&lt;/font&gt; [[Image:Wikipedia-logo.png|50px]]&lt;/div&gt; 
+&lt;div style=&quot;align: left; padding: 1em; {{#ifeq:{{{clear}}}|true||border: solid 2px darkblue; background-color: white; -moz-border-radius-bottomleft: 25px; -moz-border-radius-bottomright: 25px;}}&quot;&gt;
+'''''[[Wikipedia:Welcoming committee/Welcome to Wikipedia|Welcome to Wikipedia!]]''''' I hope you enjoy the encyclopedia and want to [[Wikipedia:Wikipedians|stay]]. As a first step, you may wish to read the [[Wikipedia:Introduction|Introduction]].
+
+If you have any questions, feel free to ask me at my talk page — I'm happy to help. Or, you can ask your question at the [[Wikipedia:New contributors' help page|New contributors' help page]].
+
+-------  
+Here are some more resources to help you as you explore and contribute to [[Wikipedia|the world's largest encyclopedia...]]
+
+&lt;big&gt; '''Finding your way around:''' &lt;/big&gt;
+{{col-begin}}
+{{col-2}}
+* '''[[Wikipedia:Contents|Table of Contents]]'''
+{{col-2}}
+* '''[[Wikipedia:Department directory|Department directory]]'''
+{{col-end}}
+
+&lt;big&gt; '''Need help?''' &lt;/big&gt;
+{{col-begin}}
+{{col-2}}
+* '''[[Wikipedia:Questions|Questions]]''' — a guide on where to ask questions.
+* '''[[Wikipedia:Cheatsheet|Cheatsheet]]''' — quick reference on Wikipedia's mark-up codes.
+{{col-2}}
+* '''[[Wikipedia:Five pillars|Wikipedia's 5 pillars]]''' — an overview of Wikipedia's foundations
+* '''[[Wikipedia:Simplified Ruleset|The Simplified Ruleset]]''' — a summary of Wikipedia's most important rules.
+{{col-end}}
+
+&lt;big&gt; '''How you can help:''' &lt;/big&gt;
+{{col-begin}}
+{{col-2}}
+* '''[[Wikipedia:Contributing to Wikipedia|Contributing to Wikipedia]]''' — a guide on how you can help.
+{{col-2}}
+* '''[[Wikipedia:Community Portal|Community Portal]]''' — Wikipedia's hub of activity.
+{{col-end}}
+
+&lt;big&gt; '''Additional tips...''' &lt;/big&gt; 
+{{col-begin}}
+{{col-2}}
+* Please sign your messages on talk pages with four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;). This will automatically insert your &quot;signature&quot; (your username and a date stamp). The [[Image:Signature_icon.png]] button, on the tool bar above Wikipedia's text editing window, also does this. 
+{{col-2}}
+* If you would like to play around with your new Wiki skills the '''''[[Wikipedia:Sandbox|Sandbox]]''''' is for you. 
+{{col-end}}
+
+'' '''Good luck, and have fun.''''' {{#if:|{{{sig}}}|--[[User:Twaz|InvisibleDiplomat666]] ([[User talk:Twaz|talk]]) 07:44, 14 March 2008 (UTC)}}&lt;/div&gt;
+
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to contribute constructively to the encyclopedia, one or more of the external links you added {{#if:The Sinned Knight|to the page [[:The Sinned Knight]]}} do not comply with our [[Wikipedia:External links|guidelines for external links]] and have been removed. [[Wikipedia:What_Wikipedia_is_not#LINK|Wikipedia is not a collection of links]]; nor should it be used for [[Wikipedia:Spam|advertising]] or promotion. Since Wikipedia uses [[nofollow]] tags, external links do not alter search engine rankings. If you feel the link should be added to the article, please discuss it on the {{#if:The Sinned Knight|[[talk:The Sinned Knight|article's talk page]]|article's talk page}} before reinserting it. Please take a look at the [[Wikipedia:Welcome|welcome page]] to learn more about contributing to this encyclopedia. {{#if:&amp;nbsp;|&amp;nbsp;|Thank you.}}&lt;!-- Template:uw-spam1 --&gt;
+:Your edit [http://en.wikipedia.org/w/index.php?title=The_Sinned_Knight&amp;diff=198152231&amp;oldid=198151001 here] was reverted by an automated bot that attempts to remove [[WP:NOT#REPOSITORY|unwanted links]] and [[WP:SPAM|spam]] from Wikipedia.  If you were trying to insert a good link, please accept my creator's apologies, but note that the [[Wikipedia:External links|external link]] you added or changed is on my list of links to remove and probably shouldn't be included in Wikipedia.
+:The external links I reverted were matching the following [[regex|regex rule(s)]]: rule: '\bmyspace\.com' (link(s): http://www.myspace.com/sinnedknight) .  If the external link you inserted or changed was to a [[blog]], [[forum]], [[free web hosting service]], or similar site, then please check the information on the external site thorougly.	Note that such sites should probably not be linked to if they contain information that is in violation of the creators [[Wikipedia:COPYRIGHT|copyright]] (see [[Wikipedia:COPYRIGHT#Linking to copyrighted works|Linking to copyrighted works]]), or they are not written by a recognised, [[Wikipedia:Reliable sources|reliable source]].	Linking to sites that you are involved with is also strongly discouraged (see [[Wikipedia:Conflict of interest|conflict of interest]]).
+:Please read Wikipedia's [[WP:EL|external links guideline]] for more information, and consult my [[User:XLinkBot/Reversion reasons|list of frequently-reverted sites]].	 For more information about me, see [[User:XLinkBot/FAQ|my FAQ page]].	 Thanks! [[User:XLinkBot|XLinkBot]] ([[User talk:XLinkBot|talk]]) 08:44, 14 March 2008 (UTC)
+
+
+==Image copyright problem with Image:SQUARE.jpg==
+
+[[Image:Nuvola apps important.svg|32px|left|Image Copyright problem]]
+Thank you for uploading [[:Image:SQUARE.jpg]]. However, it currently is missing information on its copyright status. Wikipedia takes [[Wikipedia:Copyrights|copyright]] very seriously. It may be deleted soon, unless we can determine the '''license''' and the '''source''' of the image. If you know this information, then you can add a '''[[Wikipedia:Image copyright tags|copyright tag]]''' to the [[Help:Image page|image description page]].
+
+If you have any questions, please feel free to ask them at the [[Wikipedia:Media copyright questions|media copyright questions page]]. Thanks again for your cooperation. NOTE: once you correct this, please remove the tag from the image's page. [[User:STBotI|STBotI]] ([[User talk:STBotI|talk]]) 09:35, 14 March 2008 (UTC)
+
+
+==Image copyright problem with Image:Sinned Knight.jpg==
+
+[[Image:Nuvola apps important.svg|32px|left|Image Copyright problem]]
+Thank you for uploading [[:Image:Sinned Knight.jpg]]. However, it currently is missing information on its copyright status. Wikipedia takes [[Wikipedia:Copyrights|copyright]] very seriously. It may be deleted soon, unless we can determine the '''license''' and the '''source''' of the image. If you know this information, then you can add a '''[[Wikipedia:Image copyright tags|copyright tag]]''' to the [[Help:Image page|image description page]].
+
+If you have any questions, please feel free to ask them at the [[Wikipedia:Media copyright questions|media copyright questions page]]. Thanks again for your cooperation. NOTE: once you correct this, please remove the tag from the image's page. [[User:STBotI|STBotI]] ([[User talk:STBotI|talk]]) 09:50, 14 March 2008 (UTC)
+== File:Breaking the Ice.jpg listed for deletion ==
+A file that you uploaded or altered, [[:File:Breaking the Ice.jpg]], has been listed at [[Wikipedia:Files for deletion]]. Please see the [[Wikipedia:Files for deletion/2011 July 28#File:Breaking the Ice.jpg|'''discussion''']] to see why this is (you may have to search for the title of the image to find its entry), if you are interested in it not being deleted. Thank you. &lt;!-- Template:Fdw --&gt; –[[User:Drilnoth|Drilnoth]] ([[User talk:Drilnoth|T]]/[[Special:Contributions/Drilnoth|C]]) 23:42, 28 July 2011 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="23651913" title=Talk:Night Dancing>
+	<talkpage id="23651913" title="Talk:Night Dancing">
+{{WikiProject Jazz|album=yes|class=stub|auto=length|importance=}}
+{{album|class=stub|importance=}}
+	</talkpage>
+</article>

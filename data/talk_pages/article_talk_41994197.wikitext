@@ -1,0 +1,5 @@
+<article id="41994197" title=Talk:AKD Group>
+	<talkpage id="41994197" title="Talk:AKD Group">
+{{WikiProject Companies|class=Stub|importance=low}}
+	</talkpage>
+</article>

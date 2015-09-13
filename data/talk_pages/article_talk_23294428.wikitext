@@ -1,0 +1,11 @@
+<article id="23294428" title=User talk:80.7.117.101>
+	<talkpage id="23294428" title="User talk:80.7.117.101">
+== June 2009 ==
+
+Thank you for experimenting with {{#if:|the page [[:{{{1}}}]] on}} Wikipedia{{#if:|&amp;nbsp;as you did with [{{{diff}}} this edit]}}. Your test worked, and it has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any other tests you may want to do. Take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to our encyclopedia.&lt;!-- Template:Test (first level warning) --&gt; —[[User:Keenan Pepper|Keenan Pepper]] 19:12, 20 June 2009 (UTC)
+
+== July 2009 ==
+
+[[File:Information.svg|25px]] Welcome and thank you for experimenting with Wikipedia. Your test {{#if:Help:Reverting‎|on the page [[:Help:Reverting‎]]}} worked, and it has been [[Help:Reverting|reverted]] or removed. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|this encyclopedia]]. If you would like to experiment further, please use the [[Wikipedia:Sandbox|sandbox]] instead. Thank you.&lt;!-- Template:uw-test1 --&gt; [[User:Siawase|Siawase]] ([[User talk:Siawase|talk]]) 22:22, 14 July 2009 (UTC)
+	</talkpage>
+</article>

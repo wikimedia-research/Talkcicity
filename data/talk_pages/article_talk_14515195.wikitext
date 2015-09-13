@@ -1,0 +1,10 @@
+<article id="14515195" title=User talk:72.148.245.197>
+	<talkpage id="14515195" title="User talk:72.148.245.197">
+==Regarding edits made during [[December 1]] [[2007]]==
+Thank you for experimenting with {{{{{subst|}}}#if:{{{1|}}}|the page [[:{{{1}}}]] on}} Wikipedia{{{{{subst|}}}#if:{{{diff|}}}|&amp;nbsp;as you did with [{{{diff}}} this edit]}}. Your test worked, and it has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any other tests you may want to do. Take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to our encyclopedia.&lt;!-- Template:Test (first level warning) --&gt; ''If this is an [[IP address]], and it is shared by multiple users, ignore this warning if you did not make any unconstructive edits.'' [[User:Epbr123|Epbr123]] 20:23, 1 December 2007 (UTC)
+
+== May 2008 ==
+
+[[Image:Information.png|25px|left]] Hi, the &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/USA_193?diff=211481965 recent edit]&lt;/span&gt; you made to [[:USA 193]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thanks. &lt;!-- Template:uw-huggle1 --&gt; &lt;span style=&quot;border:3px solid #004e00;padding:2px;&quot;&gt;[[User:StaticGull|&lt;b&gt;StaticGull&lt;/b&gt;]] [[User_talk:StaticGull|&lt;font style=&quot;color:Black;background:Turquoise;&quot;&gt;&amp;nbsp;Talk&amp;nbsp;&lt;/font&gt;]]&lt;/span&gt; 16:08, 10 May 2008 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="37861004" title=Talk:No. 70 Maintenance Unit RAF>
+	<talkpage id="37861004" title="Talk:No. 70 Maintenance Unit RAF">
+{{WikiProject Aviation|class=Redirect}} 
+{{WPMILHIST|class=Redirect}}
+	</talkpage>
+</article>

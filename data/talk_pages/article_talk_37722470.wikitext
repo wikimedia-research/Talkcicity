@@ -1,0 +1,27 @@
+<article id="37722470" title=User talk:Francis.roads>
+	<talkpage id="37722470" title="User talk:Francis.roads">
+
+
+==Welcome!==
+
+[[Image:Chocolate chip cookies.jpg|thumb|300px|Some cookies to welcome you! [[File:Face-smile.svg|25px]]]] [[Wikipedia:Welcoming committee/Welcome to Wikipedia|Welcome to Wikipedia]], Francis.roads! Thank you for [[Special:Contributions/Francis.roads|your contributions]]. I am [[User:WereSpielChequers|WereSpielChequers]] and I have been editing Wikipedia for some time, so if you have any questions feel free to leave me a message on [[User talk:WereSpielChequers|my talk page]]. You can also check out [[Wikipedia:Questions]] or type {{tlx|helpme}} at the bottom of this page.  Here are some pages that you might find helpful:
+* [[Wikipedia:Introduction|Introduction]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Wikipedia:How to edit a page|How to edit a page]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Article development|How to write a great article]]
+Also, when you post on [[Wikipedia:Talk page|talk pages]] you should [[Wikipedia:Sign your posts on talk pages|sign your name]] using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); that will automatically produce your username and the date.  I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]!  ''[[User:WereSpielChequers|&lt;span style=&quot;color:DarkGreen&quot;&gt;Ϣere&lt;/span&gt;]][[User talk:WereSpielChequers|&lt;span style=&quot;color:DarkRed&quot;&gt;Spiel&lt;/span&gt;]]&lt;span style=&quot;color:#CC5500&quot;&gt;Chequers''&lt;/span&gt; 14:36, 23 November 2012 (UTC)
+==Including Music==
+Hi Francis, it was nice to meet you yesterday. [[Tonality]] is an article you might want to look at, it has a snippet of music. If you can load files to commons as .png files then the code &lt;nowiki&gt;[[Image:your image file.png|thumb|Caption]]&lt;/nowiki&gt; is worth copying. the thumb is for thumbnail and you can also position by adding |left |right or if you are OK with American English, |center. So &lt;nowiki&gt;[[Image:IV-V-I in C.png|thumb|Caption]]&lt;/nowiki&gt; displays as [[Image:IV-V-I in C.png|thumb|Caption]]
+
+Also you might want to join [[Wikipedia:WikiProject Music]] I'm sure there are people there who are very familiar with ways to display sheet music. ''[[User:WereSpielChequers|&lt;span style=&quot;color:DarkGreen&quot;&gt;Ϣere&lt;/span&gt;]][[User talk:WereSpielChequers|&lt;span style=&quot;color:DarkRed&quot;&gt;Spiel&lt;/span&gt;]]&lt;span style=&quot;color:#CC5500&quot;&gt;Chequers''&lt;/span&gt; 07:37, 24 November 2012 (UTC)
+
+:Hi Francis! Glad to see you yesterday.
+:You were asking about PDFs, I believe? We do support PDFs, though not always perfectly; they can be included as standard image links, with &lt;nowiki&gt;[[Image:your file.pdf|thumb|Caption]]&lt;/nowiki&gt;. This will always display the ''first'' page of a multi-page file; to get it to display an arbitrarily selected page, use &lt;nowiki&gt;[[Image:your file.pdf|thumb|Caption|page=42]]&lt;/nowiki&gt;.
+:We don't currently have a system which lets us embed or edit musical notation in articles other than as images, but it's a long-standing feature request and there has apparently been some movement on it in the past couple of months. It'd make this work a lot easier! [[User:Andrew Gray|Andrew Gray]] ([[User talk:Andrew Gray|talk]]) 15:07, 24 November 2012 (UTC)
+
+== An offer ==
+
+Hi Francis. Should you wish to practice replying to comments, please feel free to click where it says (talk) after my name, and 'Add topic' there, with your reply. Regards, [[User:Trafford09|Trafford09]] ([[User talk:Trafford09|talk]]) 17:53, 27 November 2012 (UTC)
+	</talkpage>
+</article>

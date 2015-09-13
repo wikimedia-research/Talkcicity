@@ -1,0 +1,5 @@
+<article id="20268228" title=Talk:Carlos Sosa>
+	<talkpage id="20268228" title="Talk:Carlos Sosa">
+{{DisambigProject}}
+	</talkpage>
+</article>

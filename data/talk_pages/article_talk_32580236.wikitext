@@ -1,0 +1,6 @@
+<article id="14627520" title=Talk:List of Italian films of 1961>
+	<talkpage id="14627520" title="Talk:List of Italian films of 1961">
+{{WikiProject Italy|class=List|importance=low|attention=}}
+{{film|class=list|Italian-task-force=yes}}
+	</talkpage>
+</article>

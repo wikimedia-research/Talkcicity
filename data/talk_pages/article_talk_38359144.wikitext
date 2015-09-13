@@ -1,0 +1,5 @@
+<article id="38359144" title=Talk:Autoparallel>
+	<talkpage id="38359144" title="Talk:Autoparallel">
+{{maths rating|class=Stub|priority=Low|field=geometry}}
+	</talkpage>
+</article>

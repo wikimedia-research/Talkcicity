@@ -1,0 +1,8 @@
+<article id="9378489" title=User talk:Urfnmom>
+	<talkpage id="9378489" title="User talk:Urfnmom">
+=== February 2007 ===
+[[Image:Information.svg|25px]] Please do not add unhelpful and non-constructive information to Wikipedia, as you did to [[:People]]. Your edits could be considered [[Wikipedia:Vandalism|vandalism]], and they have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{{2|Thank you.}}}&lt;!-- {{uw-vandalism2}} --&gt; [[User:Gwernol|Gwernol]] 03:14, 8 February 2007 (UTC)
+
+[[Image:Stop hand.svg|left|30px]] Welcome to Wikipedia. We invite everyone to contribute constructively to our encyclopedia. Take a look at the [[Wikipedia:Introduction|welcome page]] if you would like to learn more about contributing. However, unconstructive edits{{#if:Dust|, such as those you made to [[:Dust]],}} are considered [[Wikipedia:Vandalism|vandalism]] and immediately reverted. If you continue in this manner you may be '''[[Wikipedia:blocking policy|blocked]] from editing without further warning'''. Please stop, and consider improving rather than damaging the work of others. Thank you. &lt;!-- Template:Blatantvandal (serious warning) --&gt; &lt;span style=&quot;color:blue;font-weight:bold;font-size:larger;font-family: Monotype Corsiva;&quot;&gt;[[User talk:Cometstyles|Cometstyles]]&lt;/span&gt; 17:11, 19 February 2007 (UTC)
+	</talkpage>
+</article>

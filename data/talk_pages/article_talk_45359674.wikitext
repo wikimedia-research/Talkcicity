@@ -1,0 +1,7 @@
+<article id="45359674" title=Talk:Fernald Point Prehistoric Site>
+	<talkpage id="45359674" title="Talk:Fernald Point Prehistoric Site">
+{{WikiProject National Register of Historic Places|class=Start|importance=Low}}
+{{WikiProject Maine|class=Start|importance=Low}}
+{{reqphoto|in=Maine}}
+	</talkpage>
+</article>

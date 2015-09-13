@@ -1,0 +1,20 @@
+<article id="15605527" title=Talk:Life Begins at 40>
+	<talkpage id="15605527" title="Talk:Life Begins at 40">
+{{oldafdfull| date = 26 March 2009 (UTC) | result = '''speedy keep''' | page = Life Begins at 40 }}
+
+{{WPBeatles
+|class  = Stub
+|importance =Low
+|apple =
+|john =yes
+|display=[[John Lennon]]
+|song =yes
+|song-importance =
+|attention =
+|needs-infobox=
+}}
+
+anyone know what drum machine is on this track
+can't be many tracks of john lennon using a drum machine  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/86.128.236.48|86.128.236.48]] ([[User talk:86.128.236.48|talk]]) 22:32, 12 November 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

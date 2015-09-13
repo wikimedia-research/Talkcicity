@@ -1,0 +1,24 @@
+<article id="20700133" title=User talk:Leelegal>
+	<talkpage id="20700133" title="User talk:Leelegal">
+
+
+'''Welcome!'''
+
+Hello, {{BASEPAGENAME}}, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! {{#if:||Thank you for [[Special:Contributions/{{PAGENAME}}|your contributions]].}} I hope you like the place and decide to stay. Unfortunately, one or more of the pages you created{{#if:Lee Legal| , like [[:Lee Legal]],}} may not conform to some of Wikipedia's [[Wikipedia:List of policies|guidelines]] for page creation, and may soon be deleted (if it hasn't already). 
+
+There's a page about creating articles you may want to read called '''[[Wikipedia:Your first article|Your first article]]'''. If you are stuck, and looking for help, please come to the '''[[Wikipedia:New contributors' help page|New contributors' help page]]''', where experienced Wikipedians can answer any queries you have! Or, you can just type '''&lt;code&gt;{{tl|helpme}}&lt;/code&gt;''' on your user page, and someone will show up shortly to answer your questions. Here are a few other good links for newcomers:
+*[[Wikipedia:Your first article|Your first article]]
+*[[Wikipedia:BLP|Biographies of living persons]]
+*[[Wikipedia:How to write a great article|How to write a great article]]
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Help:Contents|Help pages]]
+*[[Wikipedia:Tutorial|Tutorial]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you have any questions, check out [[Wikipedia:Where to ask a question]] or ask me on {{#if:|[[User talk:{{{2}}}{{!}}my talk page]]|my talk page}}. &lt;!-- Template:Firstarticle --&gt; Again, welcome!&amp;nbsp;[[User:BarretBonden|BarretBonden]] ([[User talk:BarretBonden|talk]]) 00:05, 15 December 2008 (UTC)
+==Speedy deletion of &quot;Lee Legal&quot;==
+[[Image:Nuvola apps important.svg|48px|left]] A page you created, [[:Lee Legal]], has been tagged for [[Wikipedia:Deletion policy|deletion]], as it meets one or more of the [[Wikipedia:Criteria for speedy deletion|criteria for speedy deletion]]; specifically, it is about a company or corporation, but it does not indicate how it is important or significant, and thus why it should be included in an encyclopedia. Please see the guidelines for what is [[Wikipedia:Notability|generally accepted as notable]], and the [[Wikipedia:Notability (organizations and companies)|guidelines for companies]] in particular.
+
+You are welcome to contribute content which complies with our [[Wikipedia:List of policies#Content and Style|content policies]] and any applicable [[Wikipedia:Notability|inclusion guidelines]]. However, please do not simply re-create the page with the same content. You may also wish to read our [[Wikipedia:Introduction|introduction to editing]] and [[Wikipedia:Your first article|guide to writing your first article]].
+
+Thank you. [[User:BarretBonden|BarretBonden]] ([[User talk:BarretBonden|talk]]) 00:05, 15 December 2008 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,7 @@
+<article id="27018522" title=User talk:168.216.99.32>
+	<talkpage id="27018522" title="User talk:168.216.99.32">
+== April 2010 ==
+[[File:Information.svg|25px]] Welcome and thank you for experimenting with Wikipedia. Your test on the page [[:Persecution of homosexuals in Nazi Germany and the Holocaust]] worked, and it has been [[Help:Reverting|reverted]] or removed. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|this encyclopedia]]. If you would like to experiment further, please use the [[Wikipedia:Sandbox|sandbox]] instead. Thank you.&lt;!-- Template:uw-test1 --&gt; [[User:AV3000|AV3000]] ([[User talk:AV3000|talk]]) 17:04, 19 April 2010 (UTC)
+:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
+	</talkpage>
+</article>

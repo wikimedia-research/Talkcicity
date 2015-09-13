@@ -1,0 +1,18 @@
+<article id="29217152" title=User talk:Erfurt150>
+	<talkpage id="29217152" title="User talk:Erfurt150">
+== October 2010 ==
+[[File:Information.svg|25px|alt=]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of [[Special:Contributions/Erfurt150|your recent edits]], such as the one you made to [[:Gaul]], did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; &lt;span style=&quot;outline:1px dotted #d1bfa4;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&amp;#124;&lt;/font&gt; [[User:Uncle Milty|&lt;font color=&quot;#000051&quot;&gt;'''Uncle Milty'''&lt;/font&gt;]] &amp;#124; [[User talk:Uncle Milty|&lt;font color=&quot;#005c00&quot;&gt;talk&lt;/font&gt;]] &lt;font color=&quot;#ffffff&quot;&gt;&amp;#124;&lt;/font&gt;&lt;/span&gt; 17:02, 16 October 2010 (UTC)
+
+[[File:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia, as you did at [[:Portugal]]. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]] or removed. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Thank you.&lt;!-- Template:uw-vandalism2 --&gt; &lt;span style=&quot;outline:1px dotted #d1bfa4;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&amp;#124;&lt;/font&gt; [[User:Uncle Milty|&lt;font color=&quot;#000051&quot;&gt;'''Uncle Milty'''&lt;/font&gt;]] &amp;#124; [[User talk:Uncle Milty|&lt;font color=&quot;#005c00&quot;&gt;talk&lt;/font&gt;]] &lt;font color=&quot;#ffffff&quot;&gt;&amp;#124;&lt;/font&gt;&lt;/span&gt; 17:03, 16 October 2010 (UTC)
+
+==[[Wikipedia:Sock puppetry|Sockpuppetry]] case==
+{| align=&quot;left&quot; style=&quot;background: transparent;&quot;
+|| [[File:Puppeter template.svg|35px]]
+|}
+Your name has been mentioned in connection with a [[Wikipedia:Sock puppetry|sockpuppetry]] case. Please refer to [[Wikipedia:Sockpuppet investigations/Erfurt150]] for evidence. Please make sure you make yourself familiar with [[Wikipedia:Sockpuppet investigations/SPI/Guidance#Defending yourself against claims|the guide to responding to cases]] before editing the evidence page. &lt;span style=&quot;outline:1px dotted #d1bfa4;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&amp;#124;&lt;/font&gt; [[User:Uncle Milty|&lt;font color=&quot;#000051&quot;&gt;'''Uncle Milty'''&lt;/font&gt;]] &amp;#124; [[User talk:Uncle Milty|&lt;font color=&quot;#005c00&quot;&gt;talk&lt;/font&gt;]] &lt;font color=&quot;#ffffff&quot;&gt;&amp;#124;&lt;/font&gt;&lt;/span&gt; 17:08, 16 October 2010 (UTC)
+
+== ANI Notification ==
+
+Hello. This message is being sent to inform you that there currently is a discussion at [[Wikipedia:Administrators' noticeboard/Incidents]] regarding an issue with which you may have been involved. The thread is [[Wikipedia:Administrators' noticeboard/Incidents#Ban Erfurt150?|Ban Erfurt150?]].  &lt;!--Template:ANI-notice--&gt; Thank you. [[Darth]] [[User:Sjones23|Sjones23]] ([[User talk:Sjones23|talk]] - [[User:Sjones23/Wikipedia contributions|contributions]]) 16:50, 5 December 2010 (UTC)
+	</talkpage>
+</article>

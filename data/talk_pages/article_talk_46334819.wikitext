@@ -1,0 +1,39 @@
+<article id="46334819" title=Talk:2000 French Grand Prix/GA1>
+	<talkpage id="46334819" title="Talk:2000 French Grand Prix/GA1">
+==GA Review==
+{{Good article tools}}
+&lt;noinclude&gt;{{al|{{#titleparts:2000 French Grand Prix/GA1|-1}}|noname=yes}}&lt;br/&gt;&lt;/noinclude&gt;&lt;includeonly&gt;:''This review is [[WP:transclusion|transcluded]] from [[Talk:2000 French Grand Prix/GA1]]. The edit link for this section can be used to add comments to the review.''&lt;/includeonly&gt;
+
+'''Reviewer:''' [[User:Nascarking|Nascarking]]&amp;nbsp;([[User talk:Nascarking|talk]] '''·''' [[Special:Contributions/Nascarking|contribs]]) 19:37, 6 April 2015 (UTC)
+
+&lt;!-- Please add all review comments below this comment, and do not alter what is above. So that the review can be kept within a single section, please do not use level 2 headers (==...==) below to break up the review. Use level 3 (===...===), level 4 and so on.--&gt;
+
+:'''[[Wikipedia:Good article nominations|GA]] review''' (see [[Wikipedia:Good article criteria|here]] for what the criteria are, and [[WP:GACN|here]] for what they are not)
+
+#It is '''reasonably well written'''.
+#:a ''(prose, no copyvios, spelling and grammar)'': {{GAList/check|Yes}} b ''([[Wikipedia:Manual of Style|MoS]] for [[WP:LEAD|lead]], [[WP:LAYOUT|layout]], [[WP:WTW|word choice]], [[WP:WAF|fiction]], and [[Wikipedia:Embedded list|lists]])'': {{GAList/check|Yes}}
+#:: Any number between one and twelve should be spelled out.
+#::: Corrected the number issue [[User:Z105space|Z105space]] ([[User talk:Z105space|talk]]) 19:52, 6 April 2015 (UTC)
+#It is '''factually accurate''' and '''[[Wikipedia:Verifiability|verifiable]]'''.
+#:a ''([[WP:FNNR|reference section]])'': {{GAList/check|Yes}} b ''(citations to [[WP:RS|reliable sources]])'': {{GAList/check|Yes}} c ''([[Wikipedia:No original research|OR]])'': {{GAList/check|Yes}}
+#:: 
+#It is '''broad in its coverage'''.
+#:a ''([[WP:Out of scope|major aspects]])'': {{GAList/check|Yes}} b ''([[WP:LENGTH|focused]])'': {{GAList/check|Yes}}
+#:: 
+#It follows the '''[[WP:NPOV|neutral point of view]] policy'''.
+#:''Fair representation without bias'': {{GAList/check|Yes}}
+#:: 
+#It is '''stable'''.
+#:''No edit wars, etc.'': {{GAList/check|Yes}}
+#:: 
+#It is illustrated by '''[[Wikipedia:Images|images]]''' and other media, where possible and appropriate.
+#:a ''(images are tagged and non-free content have [[WP:FUR|fair use rationales]])'': {{GAList/check|Yes}} b ''([[WP:IMAGE RELEVANCE|appropriate use]] with [[WP:CAP|suitable captions]])'': {{GAList/check|Yes}}
+#:: The pictures of Coulthard and Häkkinen could be moved down a little, but it's not a deal-breaker.
+#::: Done [[User:Z105space|Z105space]] ([[User talk:Z105space|talk]]) 19:52, 6 April 2015 (UTC)
+#'''Overall''': 
+#:''Pass'': {{GAList/check|Pass}}
+#:: Just fix the minor issue with the spelling out of numbers that should be and this will be a pass.&lt;!-- Template:GAList --&gt;--[[User:Nascarking|'''''&lt;font face=&quot;century gothic&quot; color=&quot;#000000&quot;&gt;Nascar&lt;/font&gt;''''']] [[User talk:Nascarking|'''''&lt;font face=&quot;century gothic&quot; color=&quot;#556B2F&quot;&gt;&lt;small&gt;king&lt;/small&gt;&lt;/font&gt;''''']] 19:42, 6 April 2015 (UTC)
+#::: {{ping|Nascarking}} All the issues have been fixed. [[User:Z105space|Z105space]] ([[User talk:Z105space|talk]]) 19:52, 6 April 2015 (UTC)
+#:::: Then I hereby give [[2000 French Grand Prix]] a pass. It's now a Good Article.--[[User:Nascarking|'''''&lt;font face=&quot;century gothic&quot; color=&quot;#000000&quot;&gt;Nascar&lt;/font&gt;''''']] [[User talk:Nascarking|'''''&lt;font face=&quot;century gothic&quot; color=&quot;#556B2F&quot;&gt;&lt;small&gt;king&lt;/small&gt;&lt;/font&gt;''''']] 19:54, 6 April 2015 (UTC)
+	</talkpage>
+</article>

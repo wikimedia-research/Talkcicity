@@ -1,0 +1,5 @@
+<article id="8086043" title=Talk:Abu>
+	<talkpage id="8086043" title="Talk:Abu">
+{{DisambigProject}}
+	</talkpage>
+</article>

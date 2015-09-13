@@ -1,0 +1,6 @@
+<article id="42096833" title=Talk:Château de Trévarez>
+	<talkpage id="42096833" title="Talk:Château de Trévarez">
+{{WikiProject France|class=Stub |importance= }}
+{{WikiProject Architecture|class=stub}}
+	</talkpage>
+</article>

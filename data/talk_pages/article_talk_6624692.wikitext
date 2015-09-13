@@ -1,0 +1,5 @@
+<article id="6624692" title=Talk:Everybody Jam!>
+	<talkpage id="6624692" title="Talk:Everybody Jam!">
+{{album|class=Stub|importance=|attention=|needs-infobox=}}
+	</talkpage>
+</article>

@@ -1,0 +1,17 @@
+<article id="11244353" title=Talk:Harper Adams University>
+	<talkpage id="11244353" title="Talk:Harper Adams University">
+{{WikiProject Universities|importance=Mid|class=Start}}
+{{WikiProject Shropshire|class=start|importance=mid}}
+{{talkheader}}
+==Copyright violation==
+Prior content in this article duplicated one or more previously published sources. The material was copied from: http://www.harper-adams.ac.uk/about/history.htm. Infringing material has been removed and must not be restored, unless it is duly released under a compatible license. [[User:Reg porter|Reg porter]] ([[User talk:Reg porter|talk]]) 19:22, 4 March 2011 (UTC)
+
+== Women in Rural Enterprise ==
+
+Why does [[Women in Rural Enterprise]] redirect to this article? There is no mention of the organization in the article - if it redirects here it should at least be mentioned. [[User:Freikorp|Freikorp]] ([[User talk:Freikorp|talk]]) 05:25, 26 April 2013 (UTC)
+
+== Student Numbers ==
+
+The infobox currently lists student numbers as 2,755 total comprising of 2590 undergrads, 2695 postgrads and 80 FE. This obviously does not tally. The correct numbers, according to the citation listed, are 2755 total comprising 2590 undergrads, '''110 postgrads''' and '''60 FE students'''. These numbers still do not sum perfectly but are in line with the source.  &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/149.155.234.21|149.155.234.21]] ([[User talk:149.155.234.21|talk]]) 07:44, 10 June 2015 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

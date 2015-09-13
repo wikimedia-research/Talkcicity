@@ -1,0 +1,5 @@
+<article id="19640711" title=Talk:GWR 2221 Class>
+	<talkpage id="19640711" title="Talk:GWR 2221 Class">
+{{WikiProject Trains|class=start|importance=low|unref=yes|locos=yes|UK=yes|UK-importance=low}}
+	</talkpage>
+</article>

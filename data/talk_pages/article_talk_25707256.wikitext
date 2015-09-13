@@ -1,0 +1,15 @@
+<article id="6638340" title=Talk:United States presidential election in Pennsylvania, 2004>
+	<talkpage id="6638340" title="Talk:United States presidential election in Pennsylvania, 2004">
+{{WikiProjectBannerShell|1=
+
+{{WikiProject Pennsylvania|class=stub|importance=mid}}
+{{WikiProject Elections and Referendums|class=stub|importance=mid}}
+{{WikiProject United States|class=stub|importance=low|USPE=Yes|USPE-importance=Low}}
+}}
+ 
+
+== Map's caption wrong ==
+
+&quot;The cities of Philadelphia, Allentown, Pittsburgh, Wilkes-Barre, Scranton, and Erie went Democratic, while the entire rest of the state voted Bush, by varying margins&quot; is just false.  I'm from [[Montgomery County, Pennsylvania|Montgomery County]], and the map clearly shows that county, among others, went Democratic.  MontCo ''borders'' Philadelphia, but it is clearly a suburban area.  Thus, I've removed the caption. [[User:Superm401|Superm401]] - [[User_talk:Superm401|Talk]] 03:26, 3 November 2008 (UTC)
+	</talkpage>
+</article>

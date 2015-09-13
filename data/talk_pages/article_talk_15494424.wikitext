@@ -1,0 +1,10 @@
+<article id="15494424" title=Talk:Taste of Tasmania>
+	<talkpage id="15494424" title="Talk:Taste of Tasmania">
+{{WP Australia|Tasmania=yes|class=Stub}}
+== Initial Page ==
+I have created this page (version as I created available at [http://en.wikipedia.org/w/index.php?title=Taste_of_Tasmania&amp;oldid=187857035 oldid=187857035]. I do not wish to expand it as '''I am an employee of [[Hobart City Council]]''' and involved in the production of The Taste, so there is an obvious conflict of interest. I hope this article is considered NPOV and it was created because there were existing links to [[Taste of Tasmania]] despite there not being a page here. I am happy to answer any questions if you email them to me; my email address is available from [http://mine.mjec.net/ my personal website]. [[User:Mjec|mjec]] ([[User talk:Mjec|talk]]) 04:31, 30 January 2008 (UTC)
+
+==Redirect to Taste Festival==
+This festival has been renamed to the [[Taste Festival]] and I have redirected to that page to reflect this. I don't wish to expand to avoid COI issues as I am an employee of Hobart City Council. '''[[User:Mjec|mjec]]''' &lt;sup&gt;([[User talk:Mjec|t]]/[[Special:Contributions/Mjec|c]]/[[User:Mjec/plans|p]])&lt;/sup&gt; 23:27, 11 May 2009 (UTC)
+	</talkpage>
+</article>

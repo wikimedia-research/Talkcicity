@@ -1,0 +1,5 @@
+<article id="31360319" title=Talk:Agdistis asthenes>
+	<talkpage id="31360319" title="Talk:Agdistis asthenes">
+{{WikiProject Lepidoptera|class=Stub|importance=Low}}
+	</talkpage>
+</article>

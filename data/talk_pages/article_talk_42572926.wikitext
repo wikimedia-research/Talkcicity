@@ -1,0 +1,6 @@
+<article id="42572926" title=Talk:Mountain View Farm (Dublin, New Hampshire)>
+	<talkpage id="42572926" title="Talk:Mountain View Farm (Dublin, New Hampshire)">
+{{WikiProject National Register of Historic Places|class=Stub|importance=Low}}
+{{WikiProject United States|NH=Yes|class=Stub|importance=Low}}
+	</talkpage>
+</article>

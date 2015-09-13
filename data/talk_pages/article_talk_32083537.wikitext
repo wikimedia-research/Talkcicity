@@ -1,0 +1,5 @@
+<article id="32083537" title=Talk:U.S.-Venezuelan relations>
+	<talkpage id="32083537" title="Talk:U.S.-Venezuelan relations">
+{{WikiProject United States|class=Redirect|importance=NA}}
+	</talkpage>
+</article>

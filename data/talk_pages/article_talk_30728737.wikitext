@@ -1,0 +1,5 @@
+<article id="15623514" title=Talk:Tux, Tyrol>
+	<talkpage id="15623514" title="Talk:Tux, Tyrol">
+{{WikiProject Austria}}
+	</talkpage>
+</article>

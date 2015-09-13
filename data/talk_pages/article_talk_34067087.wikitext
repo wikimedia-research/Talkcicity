@@ -1,0 +1,5 @@
+<article id="34067087" title=Talk:Catshuis>
+	<talkpage id="34067087" title="Talk:Catshuis">
+{{WikiProject Netherlands|class=Stub}}
+	</talkpage>
+</article>

@@ -1,0 +1,8 @@
+<article id="21845051" title=User talk:KeepGoalss>
+	<talkpage id="21845051" title="User talk:KeepGoalss">
+.
+
+== March 2009 ==
+[[File:Information.svg|25px]] Welcome and thank you for experimenting with Wikipedia. Your test {{#if:Prapopoulos Bros s.a.|on the page [[:Prapopoulos Bros s.a.]]}} worked, so it has been [[Help:Reverting|reverted]] or removed. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|this encyclopedia]]. If you would like to experiment further, please use the [[Wikipedia:Sandbox|sandbox]] instead. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-test1 --&gt; [[User:Onorem|Onorem]][[Special:Contributions/Onorem|♠]][[User talk:Onorem|Dil]] 15:30, 6 March 2009 (UTC)
+	</talkpage>
+</article>

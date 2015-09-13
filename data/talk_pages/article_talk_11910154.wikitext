@@ -1,0 +1,14 @@
+<article id="11910154" title=Talk:Harry E. Narey>
+	<talkpage id="11910154" title="Talk:Harry E. Narey">
+{{WikiProject Biography|living=no
+|class=start
+|politician-work-group=yes
+|needs-infobox=yes
+|listas=Narey, Harry Elsworth
+|politician-priority=low
+}}
+{{WikiProject United States|class=start
+ |importance=low
+|needs-infobox=yes}}
+	</talkpage>
+</article>

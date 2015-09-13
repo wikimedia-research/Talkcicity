@@ -1,0 +1,6 @@
+<article id="16807089" title=Talk:Pereschiv River>
+	<talkpage id="16807089" title="Talk:Pereschiv River">
+{{WikiProject Romania|class=Stub|importance=low}}
+{{WikiProject Rivers|class=stub|importance=low}}
+	</talkpage>
+</article>

@@ -1,0 +1,129 @@
+<article id="13940959" title=User talk:Empezardesdecero123>
+	<talkpage id="13994413" title="User talk:Empezardesdecero123/Archive 1">
+{{discussion top}}
+{{archive}}
+== October 2007 ==
+{{{icon|[[Image:Information.svg|left|25px]] }}}Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits, such as the one you made to [[:Michael Gomez]], did not appear to be constructive and has been '''automatically [[Help:Reverting|reverted]]''' by [[User:ClueBot|ClueBot]].  Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. {{User:ClueBot/Tracker}} '''If you believe there has been a mistake and would like to report a false positive, please [[User:ClueBot/FalsePositives|report it here]] and then remove this warning from your talk page.'''  If your edit was not vandalism, please feel free to make your edit again after reporting it. The following is the log entry regarding this warning: [[Michael Gomez]] was [http://en.wikipedia.org/w/index.php?title=Michael+Gomez&amp;diff=167445363&amp;oldid=167286287 changed] by [[User:Empezardesdecero123|Empezardesdecero123]] [[Special:Contributions/Empezardesdecero123|(c)]] [[User talk:Empezardesdecero123|(t)]] replacing entire content with something else on 2007-10-27T15:57:46+00:00 &lt;!-- MySQL ID: 43216 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot|ClueBot]] 15:57, 27 October 2007 (UTC)
+
+{{{icon|[[Image:Information.svg|25px]] }}}{{{{{subst|}}}#if:User:Cobi|With regard to your comments on [[:User:Cobi]]:&amp;#32;}}Please see Wikipedia's [[Wikipedia:No personal attacks|no personal attacks]] policy. Comment on ''content'', not on contributors. Personal attacks damage the community and deter users. Note that continued personal attacks will lead to [[Wikipedia:Blocking policy|blocks]] for disruption. Please [[Wikipedia:Staying cool when the editing gets hot|stay cool]] and keep this in mind while editing. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-npa2 --&gt; [[User:Gscshoyru|Gscshoyru]] 18:34, 27 October 2007 (UTC)
+
+== October 2007 ==
+{{{icon|[[Image:Information.svg|25px]] }}}Please refrain from introducing inappropriate pages{{{{{subst|}}}#if:Archives and warnings that Empezardesdecero123 does not want|, such as [[:Archives and warnings that Empezardesdecero123 does not want]],}} to Wikipedia. Doing so is not in accordance with our [[Wikipedia:List of policies|policies]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-create2 --&gt; ''To archive a page properly, see [[WP:ARCHIVE]].'' [[User:Pyrospirit|&lt;span style=&quot;color: green&quot;&gt;Pyrospirit&lt;/span&gt;]]&amp;nbsp;([[User talk:Pyrospirit|&lt;span style=&quot;color: orange&quot;&gt;talk&lt;/span&gt;]]&amp;nbsp;'''·''' [[Special:Contributions/Pyrospirit|&lt;span style=&quot;color: red&quot;&gt;contribs&lt;/span&gt;]]) 23:04, 30 October 2007 (UTC)
+:{{fixed|1=[[User:Tiptoety|Tiptoety]]}} [[User:Tiptoety|Tiptoety]] 23:15, 30 October 2007 (UTC)
+
+==A Mi Manera==
+[[Image:Circle-style-warning.svg|left|48px|]]
+A {{[[Template:prod|prod]]}} template has been added to the article [[A Mi Manera]], suggesting that it be deleted according to the [[Wikipedia:Proposed deletion|proposed deletion]] process. All contributions are appreciated, but this article may not satisfy Wikipedia's [[Wikipedia:Criteria for inclusion|criteria for inclusion]], and the deletion notice explains why (see also &quot;[[Wikipedia:What Wikipedia is not|What Wikipedia is not]]&quot; and [[Wikipedia:Deletion policy|Wikipedia's deletion policy]]).  You may contest the proposed deletion by removing the &lt;code&gt;&lt;nowiki&gt;{{dated prod}}&lt;/nowiki&gt;&lt;/code&gt; notice, but please explain why you disagree with the proposed deletion in your edit summary or on [[Talk:A Mi Manera|its talk page]]. Also, please consider improving the article to address the issues raised. Even though removing the deletion notice will prevent deletion through the [[WP:PROD|proposed deletion process]], the article may still be deleted if it matches any of the [[Wikipedia:Criteria for speedy deletion|speedy deletion criteria]] or it can be sent to [[Wikipedia:Articles for deletion|Articles for Deletion]], where it may be deleted if [[Wikipedia:Consensus|consensus]] to delete is reached. If you endorse deletion of the article, and you are the only person who has made substantial edits to the page, please add {{tl|db-author}} to the top of the page. &lt;!-- Template:PRODWarning --&gt; [[User:Metropolitan90|Metropolitan90]] 04:35, 28 October 2007 (UTC)
+
+{{{icon|[[Image:Nuvola apps important.svg|25px]] }}}Please stop. If you continue to [[Wikipedia:Vandalism|vandalize]] pages by deliberately introducing incorrect information, {{{{{subst|}}}#if:Moises Arias|as you did to [[:Moises Arias]],}} you '''will''' be [[Wikipedia:Blocking policy|blocked]] from editing Wikipedia. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|}}&lt;!-- Template:uw-error3 --&gt; [[User talk:NrDg|NrDg]] 20:42, 28 October 2007 (UTC)
+
+*&quot;Waaaaaay smarted&quot;?  You are certainly not &quot;waaaay smarted&quot; than anyone. [[User:JuJube|JuJube]] 06:38, 29 October 2007 (UTC)
+**{{{icon|[[Image:Stop hand nuvola.svg|left|30px]] }}}Sure looked like that was you were trying to do.  And by the way, if you remove the Articles for Deletion template from the article again, you '''will''' be blocked. Consider this your final warning. [[User:JuJube|JuJube]] 01:22, 30 October 2007 (UTC)
+*Wikipedia isn't a schoolboy's game, it's an encyclopedia.  If you can't be serious about it, you should go somewhere else.  And, actually, if you're one of the actors that actually makes it worse because you have a [[WP:COI|conflict of interest]].  Please talk like a rational human being and not like a tr00 thug gangsta 4 lyfe or these conversations will not go anywhere. [[User:JuJube|JuJube]] 02:10, 30 October 2007 (UTC)
+**I'm Latino too, and I don't watch Univision, Galavision, or any other mind destroying Spanish TV crap.  But that's neither here nor there.  The point is, you need to acquaint yourself with the rules of Wikipedia before making an article.  That's all. [[User:JuJube|JuJube]] 02:15, 30 October 2007 (UTC)
+
+== Problems go here. ==
+
+Any problems? Post them here!
+*You want to comment about why you're being goofy and signing talk page messages with other names?  Go to [[WP:ANI]], I started a thread about your behavior. [[User:JuJube|JuJube]] 02:29, 30 October 2007 (UTC)
+{| class=&quot;notice&quot; style=&quot;margin:0.5em auto;&quot;
+| Hello {{BASEPAGENAME}}.  This message is being sent to inform you that there currently is a discussion at [[{{{noticeboard|Wikipedia:Administrators' noticeboard/Incidents}}}]] regarding {{{reason|an issue that you may be involved with}}}.  {{#if:{{{1|}}}|The discussion can be found under the topic [[:{{{1}}}]].}}  You are free to comment at the discussion, but please remember to keep your comments within the bounds of the [[WP:CIVIL|civility]] and &quot;[[WP:NPA|no personal attack]]&quot; policies.  Thank you.
+|}&lt;!--Template:ANI-notice--&gt;[[User:Tiptoety|Tiptoety]] 02:38, 30 October 2007 (UTC)
+:* What is this about you singing under another users username? [[User:Tiptoety|Tiptoety]] 02:47, 30 October 2007 (UTC)
+
+{{{icon|[[Image:Stop hand nuvola.svg|left|30px]] }}}This is the '''last warning''' you will receive for your disruptive comments. &lt;br&gt; If you continue to make personal attacks on other people{{{{{subst|}}}#if:User talk:JuJube|&amp;#32;as you did at [[:User talk:JuJube]]}}, you '''will''' be [[Wikipedia:Blocking policy|blocked]] for disruption. Comment on content, not on other contributors or people. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|}}&lt;!-- Template:uw-npa4 --&gt; [[User:Tiptoety|Tiptoety]] 03:17, 30 October 2007 (UTC)
+::Yes, i figured that out. Thank you. [[User:Tiptoety|Tiptoety]] 22:10, 30 October 2007 (UTC)
+
+==Notability of [[:Ser Un Rebel]]==
+A tag has been placed on [[:Ser Un Rebel]], requesting that it be speedily deleted from Wikipedia. This has been done for the following reason:
+
+&lt;center&gt;'''''Unnecessary song/album page of a deleted/non-notable artist'''''&lt;/center&gt;
+
+Under the [[WP:CSD#General_criteria|criteria for speedy deletion]], articles that do not meet ''very'' basic Wikipedia criteria may be deleted at any time. Please [[Wikipedia:Your first article|see the guidelines for what is generally accepted as an appropriate article]], and if you can indicate why the subject of this article is appropriate, you may contest the tagging. To do this, add &lt;code&gt;{{tl|hangon}}&lt;/code&gt; on the top of the page and leave a note on [[Talk:Ser Un Rebel|the article's talk page]] explaining your position. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the article that would confirm its subject's notability under the guidelines.
+
+For guidelines on specific types of articles, you may want to check out our criteria [[Wikipedia:Notability (people)|for biographies]], [[WP:WEB|for web sites]], [[WP:BAND|for bands]], or [[WP:CORP|for companies]]. Feel free to leave a note on my talk page if you have any questions about this.&lt;!-- Template:Nn-warn-reason --&gt;  '''[[User:W guice|&lt;font face=&quot;arial&quot; color=&quot;#bb0000&quot;&gt;tomasz.&lt;/font&gt;]]''' 11:54, 30 October 2007 (UTC)
+{{archive}}
+{{discussion bottom}}
+	</talkpage>
+	<talkpage id="13940959" title="User talk:Empezardesdecero123">
+[[User talk:Empezardesdecero123/Archive 1|Archive 1]]
+'''Welcome!'''
+
+Hello, {{BASEPAGENAME}}, and [[Wikipedia:Introduction|welcome]] to Wikipedia! Thank you for [[Special:Contributions/{{BASEPAGENAME}}|your contributions]]{{#if:|, especially what you did for [[{{{art}}}]]|}}. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Wikipedia:Article development|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign]] your messages on [[Wikipedia:talk page|discussion page]]s using four [[tilde]]s (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically insert your username and the date. If you need help, check out [[Wikipedia:Questions]], ask me on {{#if:|[[user talk:{{{1}}}|my talk page]]|my talk page}}, or ask your question on this page and then place &lt;code&gt;&lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt;&lt;/code&gt; before the question. Again, welcome! &lt;!-- Template:Welcome --&gt; [[User:Tiptoety|Tiptoety]] ([[User talk:Tiptoety|talk]]) 02:50, 28 November 2007 (UTC)
+== Thank you! ==
+
+Thank you for your comment! [[User:Tiptoety|Tiptoety]] 22:16, 30 October 2007 (UTC)
+{{smile|[[User:tiptoety|Tipoety]]}}
+:Instead of deleting them please [[Help:Archiving a talk page|archive]] them, so that we can keep track of the warnings that you have received. The cool things on my page? Oh, you mean [[Wikipedia:Userboxes|userboxes]], a wide selection can be found [[Wikipedia:Userboxes/Interests|here]]. Happy editing, and please remember that personal attacks and vandalism or looked down on here at wikipedia! [[User:Tiptoety|Tiptoety]] 22:26, 30 October 2007 (UTC)
+Click [[Help:Archiving a talk page|here]] to learn how, if you still do not understand let me know and i would be happy to help. [[User:Tiptoety|Tiptoety]] 22:34, 30 October 2007 (UTC)
+::I fixed it for you. [[User:Tiptoety|Tiptoety]] 23:14, 30 October 2007 (UTC)
+[[User:Bull Borgnine]] is my adoptee. [[User:Tiptoety|Tiptoety]] 23:28, 30 October 2007 (UTC)
+:What is your edit count? [[User:Tiptoety|Tiptoety]] 23:31, 30 October 2007 (UTC)
+You need 500, plus you can not adopt if you have vandalized/attacked within the last 3 weeks. [[User:Tiptoety|Tiptoety]] 23:36, 30 October 2007 (UTC)
+:Thats fine! no worries, you were un-aware of the requirements, consider making more edits and do not engage in any vandalism and you will be able to adopt in 3 weeks! [[User:Tiptoety|Tiptoety]] 23:40, 30 October 2007 (UTC)
+Do you mind if i add [[Template:User Reformed Vandal|this]] userbox to your user page? [[User:Tiptoety|Tiptoety]] 03:59, 31 October 2007 (UTC)
+:Great, it has been added! Keep up the good work! [[User:Tiptoety|Tiptoety]] 21:49, 1 November 2007 (UTC)
+I see you are interested in being an [[WP:ADMIN]], which means that you should create some articles and begin doing some [[Wikipedia:Cleaning up vandalism|anti vandal work]]. [[User:Tiptoety|Tiptoety]] 22:51, 1 November 2007 (UTC)
+:Thank you for your support. [[User:Tiptoety|Tiptoety]] 23:50, 1 November 2007 (UTC)
+
+== Welcome ==
+
+{| style=&quot;border: 1px solid {{{border|gray}}}; background-color: {{{color|#fdffe7}}};&quot;
+|rowspan=&quot;2&quot; valign=&quot;middle&quot; align=&quot;center&quot;| [[Image:Ky With HP Background.png|100px]]&lt;br&gt;'''[[Wikipedia:WikiProject Kentucky|WikiProject Kentucky]]'''
+|rowspan=&quot;2&quot; |
+|style=&quot;font-size: x-large; padding: 0; vertical-align: middle; height: 1.1em;&quot; | '''Welcome to our project!'''
+|-
+|style=&quot;vertical-align: middle; border-top: 1px solid gray;&quot; | Thank you for joining [[Wikipedia:WikiProject Kentucky|WikiProject Kentucky]].  Please take a few moments and look over our [[Wikipedia:WikiProject Kentucky|project page]] and the various [[Wikipedia:WikiProject Kentucky#Departments|project departments]]. We encourage every member to find their niche and work on the parts of the project they most enjoy. If you should have any questions, please do not hesitate to ask on our [[Wikipedia talk:WikiProject Kentucky|project talk page]]. Again, welcome!
+|}&lt;span id=&quot;Acdixon&quot; class=&quot;plainlinks&quot; style=&quot;color:#002bb8&quot;&gt;[[User:Acdixon|Acdixon]] &lt;sup&gt;([[User talk:Acdixon|talk]] &lt;small&gt;•&lt;/small&gt; [[Special:Contributions/Acdixon|contribs]] &lt;small&gt;•&lt;/small&gt; [http://tools.wikimedia.de/~interiot/cgi-bin/Tool1/wannabe_kate?username={{urlencode:Acdixon}}&amp;site={{SERVERNAME}}  &lt;span style=&quot;color:#002bb8&quot;&gt;count&lt;/span&gt;])&lt;/span&gt;&lt;/sup&gt; 14:23, 7 November 2007 (UTC)
+
+== Thanks ==
+
+&lt;div style=&quot;border-style:solid; border-color:blue; background-color:white; border-width:1px; text-align:left; padding:8px;&quot; class=&quot;plainlinks&quot;&gt;[[Image:Admin_mop_question.png|left|45px]] 
+Thank you for supporting me in my recent [[Wikipedia:Requests_for_adminship/Tiptoety_2|RFA]] which did not pass at (18/27/10). I will be sure to improve my editing skills and wait until someone nominates me next time. Thank you for you comments! [[User:Tiptoety|Tiptoety]] 00:07, 8 November 2007 (UTC)&lt;/div&gt;
+
+
+==Speedy deletion of [[:Suite Life On Deck]]==
+[[Image:Nuvola apps important.svg|32px|left]] A tag has been placed on [[:Suite Life On Deck]] requesting that it be speedily deleted from Wikipedia. This has been done under [[WP:CSD#A1|section A1 of the criteria for speedy deletion]], because it is a very short article providing little or no context to the reader. Please see [[Wikipedia:Stub#Essential information about stubs|Wikipedia:Stub]] for our minimum information standards for short articles. Also please note that articles must be on [[Wikipedia:Notability|notable]] subjects and should provide references to [[Wikipedia:Reliable sources|reliable sources]] that [[Wikipedia:Verifiability|verify]] their content. 
+
+If you think that this notice was placed here in error, you may contest the deletion by adding &lt;code&gt;{{tl|hangon}}&lt;/code&gt; to the top of the article (just below the existing speedy deletion or &quot;db&quot; tag), coupled with adding a note on '''[[Talk:Suite Life On Deck|the article's talk page]]''' explaining your position, but be aware that once tagged for ''speedy'' deletion, if the article meets the criterion it may be deleted without delay. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the article that would would render it more in conformance with Wikipedia's policies and guidelines. [[User:Hersfold|'''''&lt;em style=&quot;font-family:Bradley Hand ITC;color:blue&quot;&gt;Hers&lt;/em&gt;&lt;em style=&quot;font-family:Bradley Hand ITC;color:gold&quot;&gt;fold&lt;/em&gt;''''']] &lt;sup&gt;([[User:Hersfold/t|t]]/[[User:Hersfold/a|a]]/[[Special:Contributions/Hersfold|c]])&lt;/sup&gt; 17:57, 21 November 2007 (UTC)&lt;!-- Template:Db-nocontext-notice --&gt; &lt;!-- Template:Db-csd-notice-custom --&gt;
+
+&lt;div style=&quot;border-style:solid; border-color:blue; background-color:AliceBlue; border-width:1px; text-align:left; padding:8px;&quot; class=&quot;plainlinks&quot;&gt;[[Image:Smiley.svg|left|62px]] 
+
+{{{1|[[User:Hersfold|'''''&lt;em style=&quot;font-family:Bradley Hand ITC;color:blue&quot;&gt;Hers&lt;/em&gt;&lt;em style=&quot;font-family:Bradley Hand ITC;color:gold&quot;&gt;fold&lt;/em&gt;''''']] &lt;sup&gt;([[User:Hersfold/t|t]]/[[User:Hersfold/a|a]]/[[Special:Contributions/Hersfold|c]])&lt;/sup&gt;}}} has smiled at you! Smiles promote [[Wikipedia:WikiLove|WikiLove]] and hopefully this one has made your day better. Spread the WikiLove by smiling at someone else, whether it be someone you have had disagreements with in the past or a good friend. Happy editing! &lt;br /&gt; Smile at others by adding {{tls|Smile}} to their talk page with a friendly message.
+&lt;/div&gt;&lt;!-- Template:smile --&gt;
+:I'm sure you didn't, but to avoid unnecessary clutter on the project, we have to filter out articles about subjects that are [[WP:N|non-notable]] or whose articles don't contain enough information to provide more than a basic understanding of the subject. Once the series gets off the ground, you might be able to write an article on it, but since [[WP:CRYSTAL|Wikipedia is not a crystal ball]], we'd much rather wait until we have solid information than speculation of something that may or may not occur. You may also want to look at the [[WP:CSD|criteria for speedy deletion]] for more information. Thanks for contacting me about this, and happy editing! [[User:Hersfold|'''''&lt;em style=&quot;font-family:Bradley Hand ITC;color:blue&quot;&gt;Hers&lt;/em&gt;&lt;em style=&quot;font-family:Bradley Hand ITC;color:gold&quot;&gt;fold&lt;/em&gt;''''']] &lt;sup&gt;([[User:Hersfold/t|t]]/[[User:Hersfold/a|a]]/[[Special:Contributions/Hersfold|c]])&lt;/sup&gt; 18:23, 21 November 2007 (UTC)
+==Afd on [[Alonso R. del Portillo]]==
+This Cuba related article is up for Afd could you give your imput? Thanks [[User:Callelinea|Callelinea]] ([[User talk:Callelinea|talk]]) 00:02, 2 April 2008 (UTC)
+
+== WikiProject Cuba ==
+
+{{ambox
+| type      = notice
+| image     = [[Image:Flag of Cuba.svg|50px]]
+| style     = width: 750px; 
+| text      = Hi, thank you for being a member of [[WikiProject Cuba]]. If you would like to remain as an '''''active''''' member please note so [[Wikipedia:WikiProject Cuba/Participants/Status|here]], otherwise mark yourself '''''inactive''''' or '''''semi-active'''''. Thank you.
+}} —&lt;span style=&quot;border: 1px solid #000080;&quot;&gt;[[User:Navy Blue|&lt;span style=&quot;color: #000080;&quot;&gt;&amp;nbsp;Navy&amp;nbsp;&lt;/span&gt;]][[User talk:Navy Blue|&lt;span style=&quot;background: #000080; color: #FFFFFF;&quot;&gt;&amp;nbsp;Blue&amp;nbsp;&lt;/span&gt;]]&lt;/span&gt;&lt;sup&gt; formerly iDosh&lt;/sup&gt; 21:15, 2 August 2008 (UTC)
+
+==Invitation to join WikiProject United States==
+{| class=&quot;messagebox cleanup collapse&quot; style=&quot;{{border-radius|8px}} padding:5px; width:75%; font-size:90%;&quot; cellpadding = 5
+|-
+| [[File:Flag of the United States.svg |center|150px ]]
+| 
+Hello, '''{{PAGENAME}}'''!  '''[[Wikipedia:WikiProject United States|WikiProject United States]]''', an outreach effort supporting development of United States related articles in Wikipedia, has recently been restarted after a long period of inactivity. As a user who has shown an interest in United States related topics we wanted to invite you to join us in developing content relating to the United States. If you are interested please add your Username and area of interest to the members page [[Wikipedia:WikiProject United States/Members#Active Members|here]]. Thank you!!!
+|}--[[User:Kumioko|Kumioko]] ([[User talk:Kumioko|talk]]) 15:44, 4 January 2011 (UTC)
+
+==Invitation to join WikiProject United States==
+{| class=&quot;messagebox cleanup collapse&quot; style=&quot;{{border-radius|8px}} padding:5px; width:75%; font-size:90%;&quot; cellpadding = 5
+|-
+| [[File:Flag of the United States.svg |center|150px ]]
+| 
+Hello, '''{{PAGENAME}}'''!  '''[[Wikipedia:WikiProject United States|WikiProject United States]]''', an outreach effort supporting development of United States related articles in Wikipedia, has recently been restarted after a long period of inactivity. As a user who has shown an interest in United States related topics we wanted to invite you to join us in developing content relating to the United States. If you are interested please add your Username and area of interest to the members page [[Wikipedia:WikiProject United States/Members#Active Members|here]]. Thank you!!!
+|}--[[User:Kumioko|Kumioko]] ([[User talk:Kumioko|talk]]) 03:22, 5 January 2011 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="12886105" title=Talk:International A-class catamaran>
+	<talkpage id="12886105" title="Talk:International A-class catamaran">
+{{WikiProject Sailing|class=start|importance=}}
+	</talkpage>
+</article>

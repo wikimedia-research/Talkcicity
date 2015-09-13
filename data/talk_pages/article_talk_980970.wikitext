@@ -1,0 +1,28 @@
+<article id="484927" title=Talk:Brandybuck Clan>
+	<talkpage id="484927" title="Talk:Brandybuck Clan">
+{{ME-project|class=start|importance=high}}
+
+Text to merge:
+
+:The '''Brandybucks''' are a hobbit family, who like the [[Tooks]], are rather adventerous and to respectable hobbits &quot;queer&quot;. The most famous Brandybuck is [[Meriadoc]] son of [[ Saradoc]].
+&lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Ed Poor|Ed Poor]] ([[User talk:Ed Poor|talk]] • [[Special:Contributions/Ed Poor|contribs]]) 19:21, 23 February 2004 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt;
+
+:I see no real need to merge, this info is already present. [[User:Darkelf|Jo]][[User talk:Darkelf|'''r''']] 19:27, 23 Feb 2004 (UTC)
+
+==Merry's sister Emerald==
+
+Where is the authority that Merry has a sister named Emerald?? &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/72.17.174.18|72.17.174.18]] ([[User talk:72.17.174.18|talk]]) 15:44, 28 November 2006 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt;
+
+She is fancruft (as are several other other entries in this table).  I've removed them. [[User:Elphion|Elphion]] 20:11, 10 October 2007 (UTC)
+
+Sorry; I'm using 'fancruft' in a private sense:  I mean &quot;a detail invented by fan writers, not appearing in Tolkien's work&quot;.  I should qualify that:  &quot;not appearing anywhere ''I know of'' in Tolkien's work&quot;.  That's why I added the request for citation on any additions to the table.  But Emerald, at least, has been claimed as an &quot;original character&quot; by a fan writer.  I apologize in advance to anyone offended by 'fancruft', but I do get exasperated by non-canonical material showing up in these pages &amp;mdash; and then these pages being cited as authority for their authenticity! [[User:Elphion|Elphion]] 20:55, 10 October 2007 (UTC)
+
+== Stoor blood ==
+
+The article previously said the Stoor heritage came partly from intermarriage with hobbits from Bree, but I know of no textual authority indicating that Bree had any Stoor population.  (For that matter, the text does not specifically mention Stoor blood in the Brandybucks, though given their environs, comfort with boating, and the likely ancestry of Bucca, it seems very likely.)  The Stoors in the Marish (including presumably Bucca) came to the Shire &quot;from up south-away&quot;, not from Bree.  [[User:Elphion|Elphion]] ([[User talk:Elphion|talk]]) 04:06, 19 September 2008 (UTC)
+
+== Brandybuck as a translation ==
+
+Tolkien mentions in the Annexes to LotR that &quot;only a very bold hobbit would have referred to the Master of Buckland as ''Braldagamba'' in his hearing&quot; -- implying that ''Braldagamba'' meaning literally &quot;Brandy-buck&quot; would be a possible pun on ''Brandagamba'' &quot;March-buck&quot;, but a very cheeky one. :) [[User:Captain Pedant|Captain Pedant]] ([[User talk:Captain Pedant|talk]]) 11:35, 30 January 2012 (UTC)
+	</talkpage>
+</article>

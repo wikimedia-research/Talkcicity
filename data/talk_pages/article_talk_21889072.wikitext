@@ -1,0 +1,6 @@
+<article id="21889072" title=Talk:Darren Angell>
+	<talkpage id="21889072" title="Talk:Darren Angell">
+{{WPBiography|living=yes|class=Stub|sports-priority=Low|listas=Angell, Darren|sports-work-group=yes}}
+{{WikiProject Football|class=stub|importance=low|england=yes|non-league=low}}
+	</talkpage>
+</article>

@@ -1,0 +1,20 @@
+<article id="6652066" title=Talk:Tom Levitt>
+	<talkpage id="6652066" title="Talk:Tom Levitt">
+{{Talk header}}
+{{WikiProjectBannerShell|blp=yes|1=
+{{WikiProject Biography
+|living=yes
+|class=start
+|politician-work-group=yes
+|listas=Levitt, Tom
+}}
+{{WikiProject Politics of the United Kingdom|class                 =Stub
+|importance            =Low
+}}
+{{WikiProject Derbyshire|class                 =Stub
+|importance            =Mid
+|ibox                  =yes
+}}
+}}
+	</talkpage>
+</article>

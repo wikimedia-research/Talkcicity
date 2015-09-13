@@ -1,0 +1,11 @@
+<article id="20727727" title=Talk:Shahzada Muhammad Hidayat Afshar, Ilahi Bakhsh Bahadur>
+	<talkpage id="20727727" title="Talk:Shahzada Muhammad Hidayat Afshar, Ilahi Bakhsh Bahadur">
+{{WikiProject Biography
+|living=no
+|class=stub
+|listas=Shahzada Muhammad Hidayat Afshar, Ilahi Bakhsh Bahadur
+|royalty-work-group=yes
+}}
+Is this person the same Mirza Ilahi Bakhsh? --[[User:Vssun|Vssun]] ([[User talk:Vssun|talk]]) 12:08, 5 July 2013 (UTC)
+	</talkpage>
+</article>

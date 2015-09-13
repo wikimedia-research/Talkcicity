@@ -1,0 +1,10 @@
+<article id="19648720" title=Talk:Bruno Weil>
+	<talkpage id="19648720" title="Talk:Bruno Weil">
+{{WikiProject Biography|living=yes|class=stub|a&amp;e-work-group=yes|listas=Weil, Bruno|a&amp;e-priority=low}}
+{{WikiProject Germany|class=stub|importance=low}}
+
+== Copyright problem removed ==
+
+One or more portions of this article duplicated other source(s). {{#if:http://www.bach-cantatas.com/Bio/Weil-Bruno.htm|The material was copied from: http://www.bach-cantatas.com/Bio/Weil-Bruno.htm.|}} Infringing material has been rewritten or removed and must not be restored, ''unless'' it is duly released under a license compatible with [[GFDL]]. (For more information, please see [[Wikipedia:COPYRIGHT#Using_copyrighted_work_from_others|&quot;using copyrighted works from others&quot;]] if you are not the copyright holder of this material, or [[Wikipedia:Donating copyrighted materials|&quot;donating copyrighted materials&quot;]] if you are.) For [[Wikipedia:Copyrights|legal reasons]], we cannot accept [[Wikipedia:Copyrights|copyrighted]] text or images borrowed from other web sites or published material; such additions will be deleted. Contributors may use copyrighted publications as a source of ''information'', but not as a source of ''sentences'' or ''phrases''. Accordingly, the material ''may'' be rewritten, but only if it does not infringe on the copyright of the original ''or'' [[plagiarize]] from that source. Please see our [[Wikipedia:NFC#Text|guideline on non-free text]] for how to properly implement limited quotations of copyrighted text. Wikipedia takes copyright violations very seriously, and persistent violators '''will''' be [[Wikipedia:Blocking policy|blocked]] from editing. While we appreciate contributions, we must require all contributors to understand and comply with these policies. Thank you. &lt;!-- Template:Cclean --&gt; --&lt;!--Signature--&gt;[[User:Moonriddengirl|Moonriddengirl]] &lt;sup&gt;[[User talk:Moonriddengirl|(talk)]]&lt;/sup&gt; 19:17, 12 June 2009 (UTC)
+	</talkpage>
+</article>

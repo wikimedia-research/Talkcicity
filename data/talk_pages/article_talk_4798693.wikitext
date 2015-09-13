@@ -1,0 +1,8 @@
+<article id="4798693" title=User talk:219.252.70.188>
+	<talkpage id="4798693" title="User talk:219.252.70.188">
+
+Your recent edit to [[Fish]] was reverted by an '''automated bot''' that attempts to recognize and repair vandalism to Wikipedia articles. If the bot reverted a legitimate edit, please accept our apologies – if you bring it to the attention of the bot's owner, we may be able to improve its behavior. '''[[User:Tawkerbot2/FAQ|Click here]]''' for '''frequently asked questions''' about the bot and this warning. // [[User:Tawkerbot2|Tawkerbot2]] 17:15, 18 April 2006 (UTC)
+
+You have been blocked because of your vandalism of [[Iceland]], [[Fish]] and [[Cuisine of Morocco]]. --[[User:Biekko|Bjarki]] 17:48, 18 April 2006 (UTC)
+	</talkpage>
+</article>

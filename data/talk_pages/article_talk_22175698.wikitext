@@ -1,0 +1,6 @@
+<article id="10741368" title=Talk:Hotel Bovill>
+	<talkpage id="10741368" title="Talk:Hotel Bovill">
+{{WikiProject National Register of Historic Places|class=stub|importance=low}}
+{{WikiProject United States|class=Stub|importance=Low|ID=Yes|ID-importance=Low}}
+	</talkpage>
+</article>

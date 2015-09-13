@@ -1,0 +1,10 @@
+<article id="7367703" title=Talk:S2 (programming language)/to do>
+	<talkpage id="7367703" title="Talk:S2 (programming language)/to do">
+{{tasks
+  |expand=
+* Change some of the external links into inline references
+* Add code examples
+* See [[Wikipedia:Featured article candidates/S2 programming language]]
+}}
+	</talkpage>
+</article>

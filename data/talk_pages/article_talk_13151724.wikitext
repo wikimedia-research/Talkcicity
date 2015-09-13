@@ -1,0 +1,5 @@
+<article id="13151724" title=User talk:WinternalSoftware>
+	<talkpage id="13151724" title="User talk:WinternalSoftware">
+{{{icon|[[Image:Information.svg|25px]] }}}[[Wikipedia:Introduction|Welcome]] to Wikipedia, and thank you for your contributions. One of the core policies of Wikipedia is that articles should always be written from a [[Wikipedia:Neutral point of view|neutral point of view]]{{{{{subst|}}}#if:Go Daddy|. It appears you have not followed this policy at [[:Go Daddy]]}}. Please always observe our [[Wikipedia:Five pillars|core policies]]. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-npov1 --&gt; [[User:Neil916|Neil916]] ([[User Talk:Neil916|Talk]]) 06:23, 8 September 2007 (UTC)
+	</talkpage>
+</article>

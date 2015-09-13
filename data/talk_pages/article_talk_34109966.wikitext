@@ -1,0 +1,13 @@
+<article id="34109966" title=User talk:98.192.78.17/Archive 1>
+	<talkpage id="34109966" title="User talk:98.192.78.17/Archive 1">
+{{talkarchive}}
+
+
+==Messages==
+{{{icon|[[Image:Information.svg|25px]] }}}Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits{{{{{subst|}}}#if:Parables of Jesus|, such as the one you made to [[:Parables of Jesus]],}} did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed.  Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism1 --&gt; A link to the edit I have reverted can be found here: &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/w/index.php?title=Parables_of_Jesus&amp;diff=next&amp;oldid=145853198 link]&lt;/span&gt;. If you believe this edit should not have been reverted, please contact me. &lt;!-- 1663--&gt; [[User:Katieh5584|Katieh5584]] 18:52, 26 August 2007 (UTC)
+
+{{{icon|[[Image:Information.svg|25px]] }}}Please do not introduce incorrect information into articles{{{{{subst|}}}#if:Yeshua (name)|, as you did to [[:Yeshua (name)]]}}.  Your edits appear to be [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]].  If you believe the information you added was correct, please [[WP:CITE|cite references or sources]] or discuss the changes on the article's [[WP:TALK|talk page]] before making them again.  If you would like to experiment, use the [[Wikipedia:Sandbox|sandbox]]. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-error2 --&gt; -- [[User:Avraham|Avi]] 19:52, 26 August 2007 (UTC)
+
+{{{icon|[[Image:Nuvola apps important.svg|25px]] }}}Please stop. If you continue to [[Wikipedia:Vandalism|vandalize]] Wikipedia{{{{{subst|}}}#if:Yeshua|, as you did to [[:Yeshua]]}}, you ''will'' be [[Wikipedia:Blocking policy|blocked]] from editing. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|}}&lt;!-- Template:uw-vandalism3 --&gt; -- [[User:Avraham|Avi]] 19:52, 26 August 2007 (UTC)
+	</talkpage>
+</article>

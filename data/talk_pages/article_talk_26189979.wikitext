@@ -1,0 +1,19 @@
+<article id="26189979" title=User talk:Phaseoften>
+	<talkpage id="26189979" title="User talk:Phaseoften">
+
+{| style=&quot;background-color:#F9F9F9; border:1px solid #A00; padding:5px;&quot;
+|
+{| style=&quot;background-color:#F9F9F9; margin: auto auto auto auto&quot;
+| [[Image:Wikipedia Checkuser.svg|48px]]
+| style=&quot;text-align:center&quot; | '''[[m:CheckUser Policy|CheckUser]] evidence has determined that this [[IP address]] (or network) has been used abusively. &lt;br /&gt; This address (or network) has been blocked temporarily or permanently to prevent further abuse.'''
+|}
+&lt;hr /&gt;
+In extreme cases, an entire network may be blocked to prevent an abusive user from continually [[Dynamic Host Configuration Protocol|changing]] their IP address in order to evade blocks or abusing [[Wikipedia:Sock puppetry|multiple accounts]]. If you are a registered user and are seeing this message, please follow [[Template:Autoblock|these instructions]].
+
+'''Administrators:''' [[Wikipedia:CheckUser|CheckUsers]] are privy to confidential system logs not accessible by the public or [[Wikipedia:Administrators|administrators]] due to the Wikimedia Foundation's [[foundation:Privacy_policy|privacy policy]], and therefore '''[{{fullurl:Wikipedia:Administrators%27_noticeboard|diff=101898276&amp;oldid=101897313}} must]''' be consulted before this block can be removed.
+
+'''Users:''' If you already have an account in good standing, you may request [[Wikipedia:IP block exemption|IP block exemption]] to bypass this block. Post an [[Wikipedia:Guide to appealing blocks|unblock request]] to your user talk page. {{ #if: [[User:Alison|&lt;span style=&quot;color:#FF823D;font-family: comic sans ms&quot;&gt;'''A&lt;font color= &quot;#FF7C0A&quot;&gt;l&lt;font color= &quot;#FFB550&quot;&gt;is&lt;/font&gt;o&lt;/font&gt;n'''&lt;/span&gt;]] &lt;sup&gt;[[User_talk:Alison|❤]]&lt;/sup&gt; 22:47, 13 February 2010 (UTC) |&amp;nbsp;-- [[User:Alison|&lt;span style=&quot;color:#FF823D;font-family: comic sans ms&quot;&gt;'''A&lt;font color= &quot;#FF7C0A&quot;&gt;l&lt;font color= &quot;#FFB550&quot;&gt;is&lt;/font&gt;o&lt;/font&gt;n'''&lt;/span&gt;]] &lt;sup&gt;[[User_talk:Alison|❤]]&lt;/sup&gt; 22:47, 13 February 2010 (UTC)}}
+{{ #if:  | &lt;p&gt;'''Comments:''' {{{1}}}}}
+|}&lt;!-- Template:Checkuserblock --&gt;
+	</talkpage>
+</article>

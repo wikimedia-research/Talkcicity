@@ -1,0 +1,21 @@
+<article id="19167494" title=Talk:Religious views of Samuel Johnson>
+	<talkpage id="19167494" title="Talk:Religious views of Samuel Johnson">
+{{WikiProjectBannerShell|1=
+{{WikiProject Literature|class=start|importance=Low}}
+{{WikiProject Anglicanism|class=start|importance=Low}}
+{{WikiProject Philosophy|class=start|ethics=yes}}
+}}
+
+{{dyktalk|10 September|2008|entry=... that [[Samuel Johnson]]'s ''[[London (1738 poem)|London]]'', [[Samuel Johnson's early life|his first major work]], contains the beginnings of his views on '''[[Samuel Johnson's literary criticism|literature]]''', '''[[Samuel Johnson's politics|politics]]''' and '''[[Samuel Johnson's ethical views|ethics]]'''?|views=131}}
+
+==Article title==
+We need to talk about the name of this page. DGG mentioned ethical views. I don't care any way really. [[User:Ottava Rima|Ottava Rima]] ([[User talk:Ottava Rima|talk]]) 02:36, 4 September 2008 (UTC)
+
+::the actual content at the moment is about ethics, not religion. None of the actual examples given even mention religion., and that is because  SJ tended not to mention religion explicitly in a non-religious context. My personal impression about why he spoke &amp; wrote  that way is that he considered it too serious (in the 18th century sense) a subject to use in an argument when not specifically called for.   I would rather work on this than on what I'm currently doing, but I feel an obligation to do the rescues.  '''[[User:DGG| DGG]]''' ([[User talk:DGG| talk ]]) 01:19, 29 January 2010 (UTC)
+:::I can't agree with your statement that the article's &quot;actual content at the moment is about ethics, not religion.&quot; As far as I can see, the article is about his religious views from beginning to end. The assertion that &quot;none of the actual examples given even mention religion&quot; is certainly not correct. Here are just a few examples from the article as it currently stands:
+*''Johnson was also religious and believed in High Church Anglicanism.''
+*''This is not to say that Johnson was passive in his religious beliefs; instead, he was an 18th century evangelical, which, as he defines in his Dictionary, means &quot;Agreeable to gospel; consonant to the Christian law contained in the holy gospel&quot;.''
+*''Christian religion and ethics are the primary topic of the sermons with emphasis on marriage, repentance, hardening the heart, charity, pride, wisdom, and compassion.''
+:::I believe the current title, [[Samuel Johnson's religious views]], is the most appropriate one for an article discussing the moral/ethical/religious content of his writings, particularly because the basis for all of his moralistic writings and sermons was his own religious conviction. [[User:Neelix|Neelix]] ([[User talk:Neelix|talk]]) 19:22, 29 January 2010 (UTC)
+	</talkpage>
+</article>

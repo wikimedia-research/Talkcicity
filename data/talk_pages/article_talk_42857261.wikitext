@@ -1,0 +1,5 @@
+<article id="42857261" title=Talk:Shadow To Shine>
+	<talkpage id="42857261" title="Talk:Shadow To Shine">
+{{album|class=|importance=Low|auto=yes}}
+	</talkpage>
+</article>

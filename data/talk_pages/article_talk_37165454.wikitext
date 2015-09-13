@@ -1,0 +1,5 @@
+<article id="37165454" title=Talk:1972–73 Western Football League>
+	<talkpage id="37165454" title="Talk:1972–73 Western Football League">
+{{Football|non-league=low|class=start|importance=low|season=yes|england=yes}}
+	</talkpage>
+</article>

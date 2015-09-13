@@ -1,0 +1,6 @@
+<article id="30555655" title=Talk:Wiesbaden Phantoms>
+	<talkpage id="30555655" title="Talk:Wiesbaden Phantoms">
+{{WikiProject American football|class=Start|importance=Low}}
+{{WikiProject Germany|class=Start|importance=Low}}
+	</talkpage>
+</article>

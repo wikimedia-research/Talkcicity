@@ -1,0 +1,13 @@
+<article id="14345722" title=User talk:God282>
+	<talkpage id="14345722" title="User talk:God282">
+
+==Image tagging for Image:Yaki kadafi.jpg==
+Thanks for uploading '''[[:Image:Yaki kadafi.jpg]]'''. The image has been identified as not specifying the source and creator of the image, which is required by Wikipedia's policy on images. If you don't indicate the source and creator of the image on the image's description page, it may be deleted some time in the next seven days. If you have uploaded other images, please verify that you have provided source information for them as well.
+
+For more information on using images, see the following pages:
+* [[Wikipedia:Image use policy]]
+* [[Wikipedia:Image copyright tags]]
+
+This is an automated notice by [[User:OrphanBot|OrphanBot]]. For assistance on the image use policy, see [[Wikipedia:Media copyright questions]]. --[[User:OrphanBot|OrphanBot]] ([[User talk:OrphanBot|talk]]) 14:10, 21 November 2007 (UTC)
+	</talkpage>
+</article>

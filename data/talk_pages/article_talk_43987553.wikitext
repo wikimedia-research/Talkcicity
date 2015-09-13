@@ -1,0 +1,9 @@
+<article id="43987553" title=Talk:Soumen Chakrabarti>
+	<talkpage id="43987553" title="Talk:Soumen Chakrabarti">
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|auto=yes
+}}
+	</talkpage>
+</article>

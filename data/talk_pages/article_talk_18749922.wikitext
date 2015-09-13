@@ -1,0 +1,7 @@
+<article id="18749922" title=User talk:DannyTheKing>
+	<talkpage id="18749922" title="User talk:DannyTheKing">
+== August 2008 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Deathcore?diff=230285473 recent edit]&lt;/span&gt; you made to [[:Deathcore]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thanks. &lt;!-- Template:uw-huggle1 --&gt; [[User:SchfiftyThree|&lt;font color=&quot;4169E1&quot;&gt;'''Schfifty'''&lt;/font&gt;]][[User talk:SchfiftyThree|&lt;font color=&quot;DC143C&quot;&gt;'''Three'''&lt;/font&gt;]] 22:06, 6 August 2008 (UTC)
+	</talkpage>
+</article>

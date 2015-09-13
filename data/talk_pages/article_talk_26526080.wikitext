@@ -1,0 +1,9 @@
+<article id="26526080" title=Talk:Eledoisin>
+	<talkpage id="26526080" title="Talk:Eledoisin">
+{{WikiProjectBannerShell|1=
+{{WikiProject Molecular and Cellular Biology|class=start|importance=low}}
+{{WikiProject Pharmacology|class=start|importance=low}}
+{{WikiProject Chemicals|class=start|importance=low}}
+}}
+	</talkpage>
+</article>

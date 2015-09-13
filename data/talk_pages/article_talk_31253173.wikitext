@@ -1,0 +1,9 @@
+<article id="17555431" title=Talk:Shishman dynasty>
+	<talkpage id="17555431" title="Talk:Shishman dynasty">
+{{WikiProjectBannerShell|1=
+{{WikiProject Middle Ages|class=start|importance=mid}}
+{{WikiProject Bulgaria|class=start|importance=mid}}
+{{WikiProject Albania|class=Stub|importance=|auto=yes}}
+}}
+	</talkpage>
+</article>

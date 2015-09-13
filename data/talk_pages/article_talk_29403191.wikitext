@@ -1,0 +1,104 @@
+<article id="3831685" title=Talk:List of National Basketball Association players with most points in a game>
+	<talkpage id="3831685" title="Talk:List of National Basketball Association players with most points in a game">
+{{WikiProjectBannerShell|1=
+{{WikiProject National Basketball Association|class=list|importance=Mid}}
+{{WikiProject Lists|class=list|importance=Low}}
+{{WikiProject Biography|living=yes
+|class=list
+|listas=National Basketball Association Players With Most Points In A Game
+|sports-work-group=yes
+|sports-priority=low
+}}
+| blp=yes
+}}
+
+== Check ==
+
+I was at the game where Bernard King scored 60 points on Christmas Night, 1984.  In the notes section, someone should add that he had 46 at halftime, and only scored one field goal in the second half.  The Nets put a player named George Johnson on him.  Johnson was at least 4 inches taller than Bernard, and a very good defensive player.  Bernard hit 12 FTs, but only one basket.  
+
+Prettys sure the Knicks had the lead at the half, but that defensive move (a good one by Stan Albeck), let the Nets come back and win.  [[Special:Contributions/206.173.38.146|206.173.38.146]] ([[User talk:206.173.38.146|talk]]) 21:09, 28 April 2008 (UTC) Jay G.
+
+== Check ==
+
+Somebody may want to check the opponents in this list.  My source at nba.com had at least one mistake where Chamberlain supposedly played in a San Francisco vs. San Francisco game.  Since SF never had two teams at the same time, I looked it up at http://www.basketball-reference.com/ and found the correct opponent was Cincinnati.  That site would be a good place to double-check.  —[[User:wknight94|Wknight94]] ([[User talk:wknight94|talk]]) 17:55, 24 January 2006 (UTC)
+
+
+==Iverson==
+according to [http://sports.yahoo.com/nba/boxscore;_ylt=AkHrssbtJuYgQPjmvnwQs62kvLYF?gid=2005121220 the box score] from 12/12/05, Iverson scored 19 points, not 60. i imagine the 12/12/05 date is incorrect. [[User:Kingturtle|Kingturtle]] 22:51, 24 January 2006 (UTC)
+:Got it.  02/12/2005 is correct.  Like I said, that nba.com source definitely needs to be checked...  —[[User:wknight94|Wknight94]] ([[User talk:wknight94|talk]]) 23:43, 24 January 2006 (UTC)
+
+==Postseason?==
+Are playoff games included? If so, Michael Jordan's 63 point game vs. Boston on 20 April 1986 (2 OT) should be on the list. &lt;small&gt;&amp;mdash;''The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by'' [[User:207.172.146.57|207.172.146.57]] ([[User talk:207.172.146.57|talk]]&amp;nbsp;&amp;bull;&amp;nbsp;[[Special:Contributions/207.172.146.57|contribs]]) {{{2|}}}.&lt;/small&gt;&lt;!--Inserted with Template:Unsigned--&gt;
+:Playoff games are not included at this point.  If you have a source for those, let me know and/or feel free to add them here.  —[[User:wknight94|Wknight94]] ([[User talk:wknight94|talk]]) 04:00, 3 February 2006 (UTC)
+::Found it ! Turned out that Jordan and Baylor were the only players to ever have scored 60+ on a playoff game—[[User:Mrbluesky|Mrbluesky]] 18:10, 6+February 2006 (UTC)
+:::Well there ya go!  Nice job!  (I thought Barkley had gotten 60 in the finals once - but maybe he just got into the high 50s).  Where did you find that?  You should add it to a References or External links section.  Now that you're on a roll, do you also have any of the box scores for these so we could fill in the FG/FT/3PT stats?  :) —[[User:wknight94|Wknight94]] ([[User talk:wknight94|talk]]) 17:20, 6 February 2006 (UTC)
+::::Alas, the list I found has not been refreshed since the beginning of the 2000's. There it is :[http://members.aol.com/bradleyrd/topgames.html]. BTW, you can find in the web page some nice ideas for future articles. What do you think of it ?
+::::[[User:Mrbluesky|Mrbluesky]] 18:10, 6+February 2006 (UTC)
+
+== Duplicate wikilinks ==
+
+The list repeats the same wikilinks over and over.  As per [[Wikipedia:Manual of Style (links)#Internal links|MOS]], there shouldn't be duplicate wikilinks except for rare instances.  I am going to start delinking the duplicates, but I probably won't finish so I wanted to give people a heads up on waht I was doing. --[[User:PS2pcGAMER|PS2pcGAMER]] ([[User talk:PS2pcGAMER|talk]]) 09:59, 6 February 2006 (UTC)
+:Yes, I'm aware of that MOS - I just don't like it in a list like this.  First, it makes the list look choppy and ugly IMHO.  Second, what is the value of making a reader scroll from the bottom of the list all the way to the top to click on Wilt Chamberlain or Los Angeles Lakers?  Seems nicer from a usability perspective to have links appear once per scroll-page at least.  Anyway, I'm not fighting this battle so go ahead.  —[[User:wknight94|Wknight94]] ([[User talk:wknight94|talk]]) 11:46, 6 February 2006 (UTC)
+::Okay, now the wikilinks are being added back in by someone - but only for the players so now it's half-and-half and looks kinda ugly.  Can we come to a consensus before continuing?  Thanks!  :) —[[User:wknight94|Wknight94]] ([[User talk:wknight94|talk]]) 16:33, 12 February 2006 (UTC)
+:::Oh, now it's completely wikified.  At least it's not half-and-half.  Still, let's try to agree on a plan...  —[[User:wknight94|Wknight94]] ([[User talk:wknight94|talk]]) 16:35, 12 February 2006 (UTC)
+::::I didn't realize this was a point of contention, else I would have left it alone.  As a reader, I find it more aesthetically pleasing to have all the list items linked.  And for research purposes, I would much rather the items be linked for ease of use (as opposed to scrolling through the page searching for the desired link.)  However I also recognize the value of having uniform formatting standards from page to page.  I'll gladly leave the decision to more experienced Wikiphiles and no longer alter this page. [[User:KSchwartz|KSchwartz]] 18:12, 12 February 2006 (UTC)
+:::::I happen to agree with you, esp. on articles like this, but PS2pcGAMER is correct in that the general standard is to have items linked only once.  I'm not sure what the best approach is.  —[[User:wknight94|Wknight94]] ([[User talk:wknight94|talk]]) 18:18, 12 February 2006 (UTC)
+Since you both seem strongly for leaving the links in and I am ok with it either way, we might as well leave it with the links in. I have come across a number of lists and there doesn't seem to be a general consensus either way (at least that I am aware of). Happy editing! --[[User:PS2pcGAMER|PS2pcGAMER]] ([[User talk:PS2pcGAMER|talk]]) 18:29, 12 February 2006 (UTC)
+
+
+==Final Score ==
+
+I think it might be informative to have the game's final score included in the table. &lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:68.231.149.139|68.231.149.139]] ([[User talk:68.231.149.139|talk]] • [[Special:Contributions/68.231.149.139|contribs]]) {{{2|}}}.&lt;/small&gt;
+:You're probably right but the table is already almost too wide.  —[[User:wknight94|Wknight94]] ([[User talk:wknight94|talk]]) 22:44, 18 July 2006 (UTC)
+::Just like to add my voice to the comment calling for Final Score to be included.  Think it would add to the table more than the non existant shooting percentages (for some) [[User:Seidodge|Dodge]] 13:53, 10 August 2006 (UTC)
+Def. needs final score. Without it, it looks incomplete. --[[User:Grcampbell|Bob]] 15:52, 13 November 2007 (UTC)
+
+== Sorting by name ==
+
+After that cool sorting feature was added, it seems like the name should display as lastname, firstname so we can sort by last name.  Anyone disagree?  Is there some other way to make that happen?  —[[User:wknight94|Wknight94]] ([[User talk:wknight94|talk]]) 12:38, 17 March 2007 (UTC)
+==Jordan==
+A user has disputed the things which can be added to the Jordan entries. I feel the mention of the Celtics team as one of the NBA's best is borderline I might accept that, but the unofficial statistic doesn't make the cut. Comment and let's see if we can get consensus. [[User:Quadzilla99|Quadzilla99]] 22:46, 26 April 2007 (UTC)
+:I feel that the 1985-86 Boston team characterization as &quot;one of the greatest teams of all-time&quot; is a bit too subjective.  Furthermore, being a &quot;great team&quot; simply means the Celtics won many games (which they did for the game in question).  It doesn't mean that they shut down every player they came against.  I would be more amenable to a more objective statement like &quot;2OT loss against the future champion Boston Celtics&quot;.  [[User:Myasuda|Myasuda]] 01:49, 27 April 2007 (UTC)
+
+::The 1985-86 Celtics featured not only the #3 offense in the whole league, but more important to the case, the #2 defense in the league, barely missing the #1 spot.  [http://www.databasebasketball.com/leagues/leagueyear.htm?lg=N&amp;yr=1985 Offensive and Defensive Ratings]  All credible and major sources list them as one of the greatest of all-time, and their frontcourt is widely considered the greatest defensive frontcourt of all-time.  This opponent is quite the anomaly on the list, hence why it is notable and why Jordan's performance is more impressive.  On another note, there is nothing unofficial about Game Scores.  It is an aggregate statistic that simply uses box score statitistics to rate a player's performance. [[User:TyrusThomas4lyf|TyrusThomas4lyf]] 06:04, 27 April 2007 (UTC)
+:::The Celtics mention ''migh''t make the cut, but the Game Score is not even close, maybe 5% of fans (at best) know what that is and much, much less even understand what it signifies. Most of Hollinger's stats use complex mathematical equations, so even the majority of people pushing them forward don't know what they stand for. [[User:Quadzilla99|Quadzilla99]] 13:08, 27 April 2007 (UTC)
+::::I removed the Celtics stuff, as Myasuda said they weren't noted for their defense. &lt;i&gt;&lt;font face=&quot;arial, helvetica&quot; color=&quot;Blue&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;/font&gt;&lt;/i&gt; [[User:Tayquan|&lt;font face=&quot;Tahoma, helvetica&quot; color=&quot;Blue&quot;&gt;&lt;b&gt;&lt;i&gt;Tayquan&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;]] &lt;sup&gt;[[User talk:Tayquan|&lt;font face=&quot;Tahoma, helvetica&quot; color=&quot;Blue&quot;&gt;&lt;b&gt;&lt;i&gt;holla&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;]]&lt;/sup&gt;&lt;sub&gt;[[Special:Contributions/Tayquan|&lt;font face=&quot;Tahoma, helvetica&quot; color=&quot;Blue&quot;&gt;&lt;b&gt;&lt;i&gt;My work&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;]]&lt;/sub&gt; 12:27, 11 May 2007 (UTC)
+
+== User RfC related to this article ==
+
+See [[Wikipedia:Requests for comment/TyrusThomas4lyf]]. [[User:Quadzilla99|Quadzilla99]] 11:11, 4 May 2007 (UTC)
+==Tyrus's Kobe disclaimer==
+Tyrus keeps re-inserting the disclaimer on Kobe's 81 points. I wonder why? It's been removed by three people. &lt;i&gt;&lt;font face=&quot;arial, helvetica&quot; color=&quot;Blue&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;/font&gt;&lt;/i&gt; [[User:Tayquan|&lt;font face=&quot;Tahoma, helvetica&quot; color=&quot;Blue&quot;&gt;&lt;b&gt;&lt;i&gt;Tayquan&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;]] &lt;sup&gt;[[User talk:Tayquan|&lt;font face=&quot;Tahoma, helvetica&quot; color=&quot;Blue&quot;&gt;&lt;b&gt;&lt;i&gt;holla&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;]]&lt;/sup&gt;&lt;sub&gt;[[Special:Contributions/Tayquan|&lt;font face=&quot;Tahoma, helvetica&quot; color=&quot;Blue&quot;&gt;&lt;b&gt;&lt;i&gt;My work&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;]]&lt;/sub&gt; 02:05, 20 May 2007 (UTC)
+==Lead==
+I was looking over some of the featured lists and noticed they have fairly long leads. I'm going to work on extending this one in the next day or two. &lt;font color=&quot;Blue&quot;&gt;'''''[[User:Tayquan|Tayquan]] &lt;sup&gt;[[User talk:Tayquan|holla]]&lt;/sup&gt; &lt;sub&gt;[[Special:Contributions/Tayquan|My work]]&lt;/sub&gt;'''''&lt;/font&gt; 21:56, 26 May 2007 (UTC)
+
+I think we should move the game notes to a separate row under the other data. --fullcourt 03:45, 4 July 2007 (UTC)
+
+== Title Change Suggestion ==
+
+Awesome article, I think we should expand it to include all time basketball records rather than just NBA records. I suggest we change the heading to: &quot;Most Points in a single basketball Game&quot;. There are several sites on wikipedia that can be linked to achieve this.
+
+[[User:Ace98lau|Ace98lau]] ([[User talk:Ace98lau|talk]]) 13:54, 17 August 2010 (UTC)
+
+:There's already such a list: see [[List of basketball players who have scored 100 points in a single game]]. &amp;mdash; [[User:Myasuda|Myasuda]] ([[User talk:Myasuda|talk]]) 01:25, 18 August 2010 (UTC)
+
+*I think that's one of the worst ideas I've ever heard on Wikipedia. The title of the article is &quot;List of '''National Basketball Association''' players with 60 or more points in a game&quot;. [[User:Jrcla2|Jrcla2]] ([[User talk:Jrcla2|talk]]) 04:20, 1 September 2010 (UTC)
+
+== Including OT ==
+
+I don't understand the inclusion of overtime points as if it's an equal achievement. The extra minutes is a distinct advantage and the record books tend to (or at least they should) separate &quot;regulation&quot; performances from anything helped out by extra time, yet in this article it's lumped together. I think this is short-sided; consider if an NBA player in the future scores 75 points in the first 4 quarters and ends up scoring 27 more points in the subsequent double or triple overtime, and he breaks Chamberlain's record in this manner. Does that record really matter? I guarantee you this page would seem less significant and everyone would want to change it to most points in regulation. I think it should be chopped down to most points in regulation time of a game. Some from the current list would get to remain because they truly did have that many points in regulation, and some others whose performances benefited from the overtime(s) would get weeded out. [[User:Dancindazed|Dancindazed]] ([[User talk:Dancindazed|talk]]) 03:59, 12 June 2012 (UTC)
+:This article simply records the players with most points scored in a game (overtime or not). Whether we consider those achievements equal or not should not matter.—&lt;font face=&quot;Cambria&quot; size=&quot;3&quot;&gt;[[User:Chrishmt0423|&lt;font color=&quot;black&quot;&gt;Chris!&lt;/font&gt;]]&lt;sub&gt;[[Special:Contributions/Chrishmt0423|&lt;font color=&quot;black&quot;&gt;c&lt;/font&gt;]]/[[User talk:Chrishmt0423|&lt;font color=&quot;black&quot;&gt;t&lt;/font&gt;]]&lt;/sub&gt;&lt;/font&gt; 04:17, 12 June 2012 (UTC)
+:: My point is not that the inclusion of overtime-assisted performances doesn't fit the article. My point is that this article is less significant because of the way the information is presented. You have to remember how a reader would ever need to use this article. People usually aren't looking for data based on uneven boundaries lumped together. When the boundaries are uneven it starts to become arbitrary data, instead of significant. Refer to [[List of Major League Baseball pitchers with 18 strikeouts in one game|this article]] for the MLB. That list could very easily be players with 18 or more strikeouts in any game all lumped together like this one, but it wisely separates the two. I think this article would benefit with a similar face-lift. [[User:Dancindazed|Dancindazed]] ([[User talk:Dancindazed|talk]]) 02:23, 10 July 2012 (UTC)
+:::Unfortunately, it would be difficult and in some cases may be impossible to list the number of points scored in regulation for games played long ago, such as those in the 1960s.  The NBA box scores don't typically break out this information, and many news reports on the early games wouldn't mention this sort of information.  &amp;mdash; [[User:Myasuda|Myasuda]] ([[User talk:Myasuda|talk]]) 02:34, 10 July 2012 (UTC)
+::::I'd say if it's known the game went into overtime at all, it should be separated. If more information is known as to how many points were scored in the first four quarters, then that can be added into the information, but still separated from the 4-quarter performances. See Randy Johnson's 20 strike-out game in the above linked MLB article. He struck out 20 in 9 innings, left the game after nine, the game went to extra innings. His performance was in 9 innings, but his feat is put in the extra innings performances table, and given special mention in the body of the article. My original intention wasn't to compare that article to this one, I just happened to find that one to illustrate my point, but I'd say that one is a good model and this one is sloppy in comparison. [[User:Dancindazed|Dancindazed]] ([[User talk:Dancindazed|talk]]) 03:32, 10 July 2012 (UTC)
+
+==Navigation==
+Navigating this article is extremely difficult on my browser. The column width is too short, making a small note like the one for Joe Fulks take up 22 whole lines. The entire article would be much easier to navigate if we could just increase that width a bit.
+[[Special:Contributions/95.9.133.79|95.9.133.79]] ([[User talk:95.9.133.79|talk]]) 20:24, 6 September 2014 (UTC)
+
+This article has been repeatedly vandalized and should be placed into some sort of protected status. {{Edit semi-protected|answered=y}}
+Information about Wilt Chamberlain and Kobe Bryant have been vandalized at different points over the last few months including today.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Mcdowellju|Mcdowellju]] ([[User talk:Mcdowellju|talk]] • [[Special:Contributions/Mcdowellju|contribs]]) 06:11, 12 June 2015 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:{{Not done}} requests for page protection must be made at [[WP:Requests for page protection]] - [[User:Arjayay|Arjayay]] ([[User talk:Arjayay|talk]]) 07:27, 12 June 2015 (UTC)
+	</talkpage>
+</article>

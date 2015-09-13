@@ -1,0 +1,5 @@
+<article id="24157946" title=Talk:Dicanica>
+	<talkpage id="24157946" title="Talk:Dicanica">
+{{WikiProject Lepidoptera|class=stub|importance=low}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="26073032" title=Talk:Abou El Hassen>
+	<talkpage id="26073032" title="Talk:Abou El Hassen">
+{{WikiProject Africa|Algeria=yes|class=stub}}
+	</talkpage>
+</article>

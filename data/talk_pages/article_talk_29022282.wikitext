@@ -1,0 +1,5 @@
+<article id="29022282" title=Talk:Lötschenlücke>
+	<talkpage id="29022282" title="Talk:Lötschenlücke">
+{{WikiProject Switzerland|class=Stub|importance=Low}}
+	</talkpage>
+</article>

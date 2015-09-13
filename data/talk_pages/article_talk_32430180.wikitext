@@ -1,0 +1,5 @@
+<article id="32056597" title=Talk:Chlaenius>
+	<talkpage id="32056597" title="Talk:Chlaenius">
+{{WikiProject Insects |class=stub|importance=low}}
+	</talkpage>
+</article>

@@ -1,0 +1,7 @@
+<article id="36810349" title=Talk:Judo by country>
+	<talkpage id="36810349" title="Talk:Judo by country">
+{{talkheader}} 
+{{WikiProject Martial arts|class=list}} 
+{{WPOlympics|class=list|importance=low}}
+	</talkpage>
+</article>

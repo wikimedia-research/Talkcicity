@@ -1,0 +1,5 @@
+<article id="26104414" title=Talk:Cumaru do Norte>
+	<talkpage id="26104414" title="Talk:Cumaru do Norte">
+{{WPBrazil|class=stub|importance=low}}
+	</talkpage>
+</article>

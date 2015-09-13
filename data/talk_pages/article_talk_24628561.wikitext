@@ -1,0 +1,6 @@
+<article id="24628561" title=Talk:Cantitruncated tesseract>
+	<talkpage id="24628561" title="Talk:Cantitruncated tesseract">
+{{Talk header}}
+{{maths rating|class=Start|priority=Low|field=geometry}}
+	</talkpage>
+</article>

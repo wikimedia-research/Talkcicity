@@ -1,0 +1,5 @@
+<article id="26843707" title=Talk:Nepotilla fenestrata>
+	<talkpage id="26843707" title="Talk:Nepotilla fenestrata">
+{{WikiProject Gastropods|class=Stub|importance=Low|needs-photo=yes}}
+	</talkpage>
+</article>

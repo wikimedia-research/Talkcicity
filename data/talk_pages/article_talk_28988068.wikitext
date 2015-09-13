@@ -1,0 +1,6 @@
+<article id="17745007" title=Talk:1888 Río de la Plata earthquake>
+	<talkpage id="17745007" title="Talk:1888 Río de la Plata earthquake">
+{{WP Earthquakes|class=Start|importance=Mid}}
+{{WPArgentina|topic=|class=start|importance=mid}}
+	</talkpage>
+</article>

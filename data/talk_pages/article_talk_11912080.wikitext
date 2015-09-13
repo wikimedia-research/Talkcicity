@@ -1,0 +1,12 @@
+<article id="11912080" title=Talk:Bill Short>
+	<talkpage id="11912080" title="Talk:Bill Short">
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|listas=Short, Bill
+|auto=yes
+|sports-work-group=yes
+}}
+{{WikiProject Baseball|reds=yes|reds-importance=|class=Stub|importance=|redsox=yes|redsox-importance=Mid|yankees=yes|yankees-importance=}}
+	</talkpage>
+</article>

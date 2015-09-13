@@ -1,0 +1,6 @@
+<article id="29887204" title=Talk:A Hero of Our Times>
+	<talkpage id="29887204" title="Talk:A Hero of Our Times">
+{{film|class=stub|Italian-task-force=yes}}
+{{WikiProject Italy|class=stub|importance=low}}
+	</talkpage>
+</article>

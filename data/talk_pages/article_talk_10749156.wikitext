@@ -1,0 +1,10 @@
+<article id="10749156" title=Talk:Chris Masuak>
+	<talkpage id="10749156" title="Talk:Chris Masuak">
+{{WikiProjectBannerShell|blp=yes|banner collapsed=no|1=
+{{WikiProject Canada|class=Stub|importance=Low|music=yes|bc=yes}}
+{{WikiProject Australia|class=Stub|music-importance=|music=yes}}
+{{WikiProjectGuitarists|class=stub}}
+{{WikiProject Biography|living=yes|class=Stub|musician-priority=|musician-work-group=yes|needs-infobox=yes|listas=Masuak, Chris}}
+}}
+	</talkpage>
+</article>

@@ -1,0 +1,20 @@
+<article id="9648658" title=Talk:Frances E. Allen>
+	<talkpage id="9648658" title="Talk:Frances E. Allen">
+{{Talk header}}
+{{WikiProjectBannerShell| blp=yes
+|1=
+{{WikiProject Biography|living=yes
+|class=start
+|listas=Allen, Frances E.
+|s&amp;a-work-group=yes}}
+{{WikiProject Women's History|class=start
+|importance=mid
+}}
+{{WikiProject Women scientists|class=start|importance=high}}
+}}
+
+== Birth year ==
+
+February 2007 announcements for Turing Award gave age as 74, and CHM Hall of Fellows gives birth year 1932. [http://www.computerhistory.org/fellowawards/index.php?id=6] [[User:Jokestress|Jokestress]] 18:42, 22 February 2007 (UTC)
+	</talkpage>
+</article>

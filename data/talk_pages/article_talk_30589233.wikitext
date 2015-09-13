@@ -1,0 +1,7 @@
+<article id="30589233" title=Talk:Chemin de fer de la Rivière Romaine>
+	<talkpage id="30589233" title="Talk:Chemin de fer de la Rivière Romaine">
+{{talkheader}}
+{{WikiProject Canada|class=stub|importance=low}}
+{{WikiProject Trains|class=stub|importance=low}}
+	</talkpage>
+</article>

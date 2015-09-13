@@ -1,0 +1,22 @@
+<article id="42595931" title=User talk:184.74.161.146>
+	<talkpage id="42595931" title="User talk:184.74.161.146">
+==[[Wikipedia talk:Articles for creation/Luriya]] concern==
+Hi there, I'm [[User:HasteurBot|HasteurBot]]. I just wanted to let you know that [[Wikipedia talk:Articles for creation/Luriya]], a page you created, has not been edited in 6 months.  The Articles for Creation space is not an indefinite storage location for content that is not appropriate for articlespace.
+
+If your submission is not edited soon, it could be nominated for deletion.  If you would like to attempt to save it, you will need to improve it.
+
+If the deletion has already occured, instructions on how you may be able to retrieve it are available at [[WP:REFUND/G13]].
+
+Thank you for your attention. [[User:HasteurBot|HasteurBot]] ([[User talk:HasteurBot|talk]]) 02:04, 27 April 2014 (UTC)
+==Your draft article, [[Wikipedia talk:Articles for creation/Luriya]]==
+[[File:Information icon4.svg|48px|left|alt=|link=]]
+
+Hello 184.74.161.146. It has been over six months since you last edited your [[WP:AFC]] draft article submission, entitled &quot;[[Wikipedia talk:Articles for creation/Luriya|Luriya]]&quot;. 
+
+The page will shortly be deleted. If you plan on editing the page to address the issues raised when it was declined and resubmit it, simply {{edit|Wikipedia talk:Articles for creation/Luriya|edit the submission}} and remove the {{tlc|db-afc}} or {{tlc|db-g13}} code. Please note that Articles for Creation is not for indefinite hosting of material deemed unsuitable for the encyclopedia [[WP:mainspace|mainspace]].
+
+If your submission has already been deleted by the time you get there, and you want to retrieve it, copy this code: &lt;code&gt;&lt;nowiki&gt;{{subst:Refund/G13|&lt;/nowiki&gt;Wikipedia talk:Articles for creation/Luriya&lt;nowiki&gt;}}&lt;/nowiki&gt;&lt;/code&gt;, paste it in the edit box at &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/w/index.php?title=Wikipedia:Requests_for_undeletion&amp;action=edit&amp;section=new this link]&lt;/span&gt;, click &quot;Save page&quot;, and an administrator will in most cases undelete the submission.
+
+Thanks for your submission to Wikipedia, and happy editing. &lt;!-- Template:Db-afc-notice --&gt; &lt;!-- Template:Db-csd-notice-custom --&gt; [[User:JMHamo|JMHamo]] ([[User talk:JMHamo|talk]]) 15:51, 13 June 2014 (UTC)
+	</talkpage>
+</article>

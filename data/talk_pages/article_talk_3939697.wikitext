@@ -1,0 +1,31 @@
+<article id="3939697" title=User talk:Ceirius>
+	<talkpage id="3939697" title="User talk:Ceirius">
+'''Welcome!'''
+
+Hello, {{PAGENAME}}, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for your contributions. I hope you like the place and decide to stay. Here are a few good links for newcomers:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Help:Contents|Help pages]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:How to write a great article|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (~&amp;#126;~~); this will automatically produce your name and the date. If you need help, check out [[Wikipedia:Where to ask a question]], ask me on my talk page, or place '''&lt;code&gt;{&amp;#123;helpme}}&lt;/code&gt;''' on your talk page and someone will show up shortly to answer your questions. Again, welcome!&amp;nbsp; --[[User:Khoikhoi|Khoikhoi]] 01:06, 3 February 2006 (UTC)
+
+== Best wishes ==
+
+Hi Shreyas. Waiting to learn to more from your articles. best wishes [[User:Shyamal|Shyamal]] 04:38, 6 February 2006 (UTC)
+==Image Tagging for [[:Image:ANI.jpg]]==
+Thanks for uploading '''[[:Image:ANI.jpg]]'''. The image has been identified as not specifying the source and creator of the image, which is required by Wikipedia's policy on images.  If you don't indicate the source and creator of the image on the image's description page, it may be deleted some time in the next seven days.  If you have uploaded other images, please verify that you have provided source information for them as well.
+
+For more information on using images, see the following pages:
+*[[Wikipedia:Image use policy]]
+*[[Wikipedia:Image copyright tags]]
+
+This is an automated notice by [[User:OrphanBot|OrphanBot]].  For assistance on the image use policy, see [[Wikipedia:Media copyright questions]]. 10:59, 12 May 2006 (UTC)
+
+==[[:Image:ANI1.jpg]]==
+You uploaded this image and tagged it with {{tl|PD-release}} - which indicates you have the copyright holder's permission to release it. If this is the case you need to provide supporting evidence for this. If you took the photo you can change the license to {{tl|PD-self}} and state that it is your own work in the image summary. If this is the case for other images you've uploaded you may want to consider changing their tags as well. Best wishes.  [[User:Madmedea|Madmedea]] 10:25, 18 May 2007 (UTC)
+==[[Oligodon woodmasoni]]==
+On the article it is mentioned that the holotype was lost and that a new one has been &quot;lodged&quot; at the ZSI. Could it be clarified if that was a neotype designation. Thanks [[User:Shyamal|Shyamal]] ([[User talk:Shyamal|talk]]) 09:08, 2 August 2008 (UTC)
+	</talkpage>
+</article>

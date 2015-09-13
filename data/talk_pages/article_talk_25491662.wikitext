@@ -1,0 +1,10 @@
+<article id="25491662" title=Talk:Moyen-Congo Representative Council election, 1946–1947>
+	<talkpage id="25491662" title="Talk:Moyen-Congo Representative Council election, 1946–1947">
+{{DYK talk|26 December|2009|{{*mp}}... that in the run-up to the '''[[French legislative election in French Equatorial Africa, November 1946|1946 French legislative]]''' and '''[[Moyen-Congo Representative Council election, 1947|1947 Congolese territorial elections]]''', '''[[Congolese Progressive Party]]''' leader [[Jean-Félix Tchicaya]] condemned the system of separate [[electoral college]]s?}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Elections and Referendums}}
+{{WikiProject Politics|class=C|importance=mid}}
+{{WikiProject Africa|Republic of the Congo =yes|class=C|importance=}}
+}}
+	</talkpage>
+</article>

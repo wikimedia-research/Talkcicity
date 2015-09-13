@@ -1,0 +1,5 @@
+<article id="46330983" title=Talk:Inferior epigastric veins>
+	<talkpage id="46330983" title="Talk:Inferior epigastric veins">
+{{WikiProject Anatomy |class=redirect |field=gross}}
+	</talkpage>
+</article>

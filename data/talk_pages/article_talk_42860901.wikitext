@@ -1,0 +1,17 @@
+<article id="10976245" title=Talk:Straw-necked ibis>
+	<talkpage id="10976245" title="Talk:Straw-necked ibis">
+{{WikiProjectBannerShell|1=
+{{WikiProject Birds|class=Start |importance=Low}}
+{{WikiProject Indonesia|class=start |auto=yes |importance=low}}
+{{WikiProject Australia|class=Stub |importance=}}
+}}
+
+== WikiProject class rating==
+This article was automatically assessed because at least one WikiProject had rated the article as stub, and the rating on other projects was brought up to Stub class. [[User:BetacommandBot|BetacommandBot]] 20:53, 9 November 2007 (UTC)
+
+== [[:File:Threskiornis spinicollis - Centenary Lakes.jpg]] to appear as POTD ==
+
+Hello! This is a note to let the editors of this article know that [[:File:Threskiornis spinicollis - Centenary Lakes.jpg]] will be appearing as [[Wikipedia:picture of the day|picture of the day]] on November 30, 2013. You can view and edit the POTD blurb at [[Template:POTD/2013-11-30]]. If this article needs any attention or maintenance, it would be preferable if that could be done before its appearance on the [[Main Page]]. Thanks!&amp;nbsp;—&amp;nbsp;[[User:Crisco 1492|Crisco 1492]] ([[User talk:Crisco 1492|talk]]) 22:28, 13 November 2013 (UTC)
+{{POTD/2013-11-30}}
+	</talkpage>
+</article>

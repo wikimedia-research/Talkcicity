@@ -1,0 +1,12 @@
+<article id="38711698" title=User talk:66.108.160.78>
+	<talkpage id="38711698" title="User talk:66.108.160.78">
+
+
+== March 2013 ==
+[[Image:Information.svg|left|25px|alt=|link=]] Hello, and welcome to Wikipedia. This is a message letting you know that one of your recent edits has been undone by an automated computer program called [[User:ClueBot NG|ClueBot NG]].
+{{clear}}
+* ClueBot NG makes very few [[User:ClueBot NG#Information About False Positives|mistakes]], but it does happen. If you believe the change you made was constructive, please [[User:ClueBot NG#Information About False Positives|read about it]], [{{User:ClueBot NG/Warnings/FPReport|1541159}} report it here], remove this message from your talk page, and then make the edit again.
+* For help, take a look at the [[Wikipedia:Introduction|introduction]].
+* The following is the log entry regarding this message: [[What My Girlfriend Doesn't Know]] was [http://en.wikipedia.org/w/index.php?title=What+My+Girlfriend+Doesn%27t+Know&amp;diff=542120761&amp;oldid=509728113 changed] by [[Special:Contributions/66.108.160.78|66.108.160.78]] [[User:66.108.160.78|(u)]] [[User talk:66.108.160.78|(t)]] ANN scored at 0.913934 on 2013-03-04T23:32:15+00:00 &lt;!-- MySQL ID: 1541159 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]) 23:32, 4 March 2013 (UTC)
+	</talkpage>
+</article>

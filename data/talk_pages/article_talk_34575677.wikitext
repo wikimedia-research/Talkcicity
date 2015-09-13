@@ -1,0 +1,10 @@
+<article id="34575677" title=Talk:Henry John Matthews>
+	<talkpage id="34575677" title="Talk:Henry John Matthews">
+{{WikiProject Biography
+|class=stub
+|living=no
+|listas=Matthews, Henry John
+}}
+{{WikiProject New Zealand|class=stub|importance=low}}
+	</talkpage>
+</article>

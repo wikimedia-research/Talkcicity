@@ -1,0 +1,37 @@
+<article id="41277514" title=User talk:Davebdw>
+	<talkpage id="41277514" title="User talk:Davebdw">
+==Welcome!==
+
+Hello, Davebdw, and welcome to Wikipedia! Thank you for [[Special:Contributions/Davebdw|your contributions]]. I hope you like the place and decide to stay. Here are a few links to pages you might find helpful:
+*[[Help:Getting started|Getting Started]]
+*[[Wikipedia:Introduction|Introduction to Wikipedia]]
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Help:Editing|How to edit a page]] and [[Wikipedia:Article development|How to develop articles]]
+*[[Wikipedia:Your first article|How to create your first article]] 
+*[[Wikipedia:Simplified Manual of Style|Simplified Manual of Style]]
+Please remember to [[Wikipedia:Signatures|sign]] your messages on [[Help:Using talk pages|talk page]]s by typing four [[tilde]]s (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically insert your username and the date. If you need help, check out [[Wikipedia:Questions]], ask me on my talk page, or ask your question on this page and then place &lt;code&gt;&lt;nowiki&gt;{{help me}}&lt;/nowiki&gt;&lt;/code&gt; before the question. Again, welcome! &lt;!-- Template:Welcome --&gt;-[[User:RFD|RFD]] ([[User talk:RFD|talk]]) 11:05, 5 December 2013 (UTC)
+
+== Davebdw, you are invited on a Wikipedia Adventure! ==
+
+&lt;div style=&quot;background-color: #040023; border-radius:10px; color: #E9E9F0; font-family: 'futura', arial, sans serif; padding: 2em 1em 1em 1em&quot;&gt;
+&lt;div style=&quot;margin-left: 9em&quot;&gt;
+&lt;div style=&quot;float:left&quot;&gt;
+&lt;span style=&quot;font-size: 1.5em; color: #FFAE00; padding: 0 .1em 0 0; text-shadow: #3FB6FF 0 0 20px&quot;&gt;The&lt;/span&gt;&lt;/div&gt;
+&lt;div style=&quot;float:left; margin-top: -.45em&quot;&gt;
+[[File:Wikipedia-logo-white.svg|130px|link=WP:TWA]]&lt;/div&gt;
+&lt;div style=&quot;float:left&quot;&gt;
+&lt;span style=&quot;font-size: 1.5em; color: #FFAE00; padding: 0 0 2em .25em; text-shadow: #3FB6FF 0 0 20px&quot;&gt;Adventure&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+{{clear}}
+
+{| style=&quot;margin: 1em; font-family: helvetica, arial, sans serif;&quot;
+|- valign=&quot;top&quot;
+| [[File:TWA guide.svg|100px|alt=The Wikipedia Adventure guide|link=w:en:Wikipedia:The Wikipedia Adventure]]
+| &lt;div style=&quot;background-color:#ffffff; color: #393D38; padding: 1em;border-radius:10px; font-size: 1.1em;&quot;&gt;
+Hi '''Davebdw'''!! You're invited to play ''The Wikipedia Adventure'', an interactive game to become a great contributor to Wikipedia. It's a fun interstellar journey--learn how to edit Wikipedia in about an hour. We hope to see you there!
+&lt;div class=&quot;submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only&quot; role=&quot;button&quot; aria-disabled=&quot;false&quot;&gt;&lt;span class=&quot;ui-button-text&quot;&gt;[[Wikipedia:The Wikipedia Adventure/Portal|Play The Wikipedia Adventure]]&lt;/span&gt;&lt;/div&gt;&lt;small&gt;&lt;span style=&quot;text-align:right;&quot;&gt;&lt;br /&gt;&lt;small&gt;This message was delivered automatically by your robot friend, [[User:HostBot|HostBot]] ([[User talk:HostBot|talk]]) 17:35, 5 December 2013 (UTC)&lt;/small&gt;&lt;/small&gt;&lt;/span&gt;
+&lt;/div&gt; 
+|}
+&lt;/div&gt;
+	</talkpage>
+</article>

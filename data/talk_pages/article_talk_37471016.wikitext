@@ -1,0 +1,70 @@
+<article id="37471016" title=Talk:Blackford County Courthouse/GA1>
+	<talkpage id="37471016" title="Talk:Blackford County Courthouse/GA1">
+==GA Review==
+{{Good article tools}}
+&lt;noinclude&gt;{{al|{{#titleparts:Blackford County Courthouse/GA1|-1}}|noname=yes}}&lt;br/&gt;&lt;/noinclude&gt;&lt;includeonly&gt;:''This review is [[WP:transclusion|transcluded]] from [[Talk:Blackford County Courthouse/GA1]]. The edit link for this section can be used to add comments to the article. 
+
+review.''&lt;/includeonly&gt;
+
+'''Reviewer:''' [[User:Elekhh|Elekhh]]&amp;nbsp;([[User talk:Elekhh|talk]] '''·''' [[Special:Contributions/Elekhh|contribs]]) 23:20, 27 October 2012 (UTC)
+&lt;!-- Please add all review comments below this comment, and do not alter what is above. So that the review can be kept within a single section, please do not use level 2 headers (==...==) below to break up the review. Use level 3 (===...===), level 4 and so on.--&gt;
+:'''[[Wikipedia:Good article nominations|GA]] review''' (see [[Wikipedia:Good article criteria|here]] for what the criteria are, and [[WP:GACN|here]] for what they are not)
+
+#It is '''reasonably well written'''.
+#:a ''(prose)'': {{GAList/check|y}} b ''([[Wikipedia:Manual of Style|MoS]] for [[WP:LEAD|lead]], [[WP:LAYOUT|layout]], [[WP:WTW|word choice]], [[WP:WAF|fiction]], and [[Wikipedia:Embedded list|lists]])'': {{GAList/check|y}}
+#:: 
+#It is '''factually accurate''' and '''[[Wikipedia:Verifiability|verifiable]]'''.
+#:a ''(references)'': {{GAList/check|y}} b ''(citations to [[WP:RS|reliable sources]])'': {{GAList/check|y}} c ''([[Wikipedia:No original research|OR]])'': {{GAList/check|y}}
+#:: 
+#It is '''broad in its coverage'''.
+#:a ''(major aspects)'': {{GAList/check|y}} b ''(focused)'': {{GAList/check|y}}
+#:: 
+#It follows the '''[[WP:NPOV|neutral point of view]] policy'''.
+#:''Fair representation without bias'': {{GAList/check|y}}
+#:: 
+#It is '''stable'''.
+#:''No edit wars, etc.'': {{GAList/check|y}}
+#:: 
+#It is illustrated by '''[[Wikipedia:Images|images]]''', where possible and appropriate.
+#:a ''(images are tagged and non-free images have [[Wikipedia:Image_description_page#Use_rationale|fair use rationales]])'': {{GAList/check|y}} b ''(appropriate use with [[WP:CAP|suitable captions]])'': {{GAList/check|y}}
+#:: 
+#'''Overall''': 
+#:''Pass/Fail'': {{GAList/check|y}}
+#:: &lt;!-- Template:GAList --&gt;
+
+The article is comprehensive, and having been peer-reviewed is very close if not already at GA level. However, as I have noticed that it was previously proposed for FA as well, I will also make suggestions for improvement which go beyond the GA criteria.
+::Thank you very much for reviewing.  I could not get anyone to finish the review at FA.  I will address these suggestions over the next week.  I am in the Hurricane zone, and may not have power starting tomorrow.[[User:TwoScars|TwoScars]] ([[User talk:TwoScars|talk]]) 21:15, 28 October 2012 (UTC)
+* For broad coverage would be useful if the square in which the building is located could be described in more detail. Was it a lawn from the beginning? From old pictures it appears that it might have been different [http://www.in.gov/library/exhibits/counties/BlackfordCo3.jpg 1] [http://www.flickr.com/photos/incourts/5556789594/ 2]. For due weight it probably should have its subsection, given that each memorial within the square has one.
+::Will work on that.  The site was originally wilderness.  First the original courthouse was built, then the current one.  The pictures in your link are of the current version.[[User:TwoScars|TwoScars]] ([[User talk:TwoScars|talk]]) 21:15, 28 October 2012 (UTC)
+:::* I have added a subsection called &quot;Site&quot; that discusses the courthouse square.[[User:TwoScars|TwoScars]] ([[User talk:TwoScars|talk]]) 17:57, 29 October 2012 (UTC)
+* Site area: the text states that &quot;A public square was to be located on 1 acre&quot;, while the infobox is indicating &quot;Area 1.5 acres&quot;. Measuring it on Google Earth the 1.5 acres appears as about right, so we need an explanation as to when and how the area was increased.
+::It is possible that the original courthouse was one one acre, while the current is on 1.5 acres.  I will check the sources.[[User:TwoScars|TwoScars]] ([[User talk:TwoScars|talk]]) 21:15, 28 October 2012 (UTC)
+:::Made some changes to clarify this.  The original proposal was for 1 acre, but was not carried out.[[User:TwoScars|TwoScars]] ([[User talk:TwoScars|talk]]) 02:43, 29 October 2012 (UTC)
+::::* The issue is addressed in the new &quot;Site&quot; subsection.[[User:TwoScars|TwoScars]] ([[User talk:TwoScars|talk]]) 17:57, 29 October 2012 (UTC)
+* Maps: the relevant maps for this article would be a map of Hartford City showing the location of the courthouse and the provided site plan. The maps of the state and county are much less relevant here and are pushing the more relevant illustrations to the bottom of the article. I would suggest removing the state map at least, and replace it in the infobox with the site plan.
+::Will do this after cleaning the diagram.  The state map was original to the article.  I thought the county map was appropriate for the History discussion where Montpelier wanted the county seat to be located there—I just could not get it to fit in the History section.  Plan to remove it.[[User:TwoScars|TwoScars]] ([[User talk:TwoScars|talk]]) 21:15, 28 October 2012 (UTC)
+:::Replacing the state map will take longer than expected because of the NRHP template. This is not a simple swap of images.  I will have to do some research and testing to possibly do this.[[User:TwoScars|TwoScars]] ([[User talk:TwoScars|talk]]) 02:43, 29 October 2012 (UTC)
+::::*Replacing the state map would be inconsistent with the NRPH template.  Other NRHP sites use the state maps with pin: [[Ogle County Courthouse]], [[Hudson County Courthouse]], [[Sycamore Historic District]].  See [[Template:Infobox NRHP]].  I think your idea would work great with the Blackford County map replacing the Indiana map in the template, but I do not have the ability to alter a template.[[User:TwoScars|TwoScars]] ([[User talk:TwoScars|talk]]) 17:57, 29 October 2012 (UTC)   
+:::::* In terms of consistency I think it would be desirable for all courthouse articles to have more relevant maps, either showing the urban area in which are located (site plan) or the area for which the court is responsible, in this case the county. So I changed the infobox map with the county map, and agree with you that it does a much better job. --&lt;small&gt;[[User:Elekhh|ELEKHH]]&lt;sup&gt;[[User talk:Elekhh|T]]&lt;/sup&gt;&lt;/small&gt; 04:53, 30 October 2012 (UTC)
+
+* Site plan/diagram: this is a nice and clear diagram, very useful for the article. It could be even better if further simplified, by removing the blue box in the centre and shortening the label to &quot;Blackford county courthouse&quot;. The gray square around the north sign also seems unnecessary.
+::Easy fixes, should get to that this week.[[User:TwoScars|TwoScars]] ([[User talk:TwoScars|talk]]) 21:15, 28 October 2012 (UTC)
+:::Easy fix, but I will not have access to the software to convert the file to a .jpg until transportation is restored in the area.[[User:TwoScars|TwoScars]] ([[User talk:TwoScars|talk]]) 17:57, 29 October 2012 (UTC) 
+* size of arch(es): it would be much better to describe the arches as &quot;large&quot; and provide measurement, rather than referring to them as &quot;enormous&quot; or &quot;huge&quot;.
+::Fixed[[User:TwoScars|TwoScars]] ([[User talk:TwoScars|talk]]) 02:43, 29 October 2012 (UTC)
+* &quot;Each of the side bays had&quot; is that meant to be past tense or still ''has''?
+::Has—fixed.[[User:TwoScars|TwoScars]] ([[User talk:TwoScars|talk]]) 02:43, 29 October 2012 (UTC)
+* Layout: the images don't always align with the relevant text. This is most problematic with the images of memorials. Maybe also one of the plaque images can be taken out, or the memorial images placed in a gallery row in the relevant section, to fix this.
+::The images align with a square monitor, but not with a widescreen.  I can work on that if you believe most people use widescreens.  Moving the diagram up to where the Indiana map is will also help.[[User:TwoScars|TwoScars]] ([[User talk:TwoScars|talk]]) 21:15, 28 October 2012 (UTC)
+:::* I have &quot;doubled&quot; some of the images using multiple image, and commented out two others—this should improve the issue for widescreen monitors while still working with square monitors.[[User:TwoScars|TwoScars]] ([[User talk:TwoScars|talk]]) 17:57, 29 October 2012 (UTC)
+* Captions: for the monuments the caption could specify location (i.e. south-western corner). &quot;Wall, artwork, and ceiling inside the Blackford County Courthouse&quot; - which part of the building?
+::added captions[[User:TwoScars|TwoScars]] ([[User talk:TwoScars|talk]]) 21:15, 28 October 2012 (UTC)
+* Building plans and sections would be very informative, but this is definitely not a GA requirement, and probably hard to find.
+::I have not been able to find a plan—plus I might not be permitted to load it into Wikimedia anyway.  Since 9/11, floor plans for government buildings are sometimes &quot;frowned upon&quot;.  The text describes the inside of the building, as does the National Register Form.[[User:TwoScars|TwoScars]] ([[User talk:TwoScars|talk]]) 02:43, 29 October 2012 (UTC)
+Hope these suggestions are of help. Will place the review on hold to allow for improvements. --&lt;small&gt;[[User:Elekhh|ELEKHH]]&lt;sup&gt;[[User talk:Elekhh|T]]&lt;/sup&gt;&lt;/small&gt; 10:04, 28 October 2012 (UTC)
+
+* Sorry for noticing just now, but the [[:File:Civil War Memorial Hartford City Indiana.JPG|image of the civil war monument]] is probably not free as [[Commons:COM:FOP#United States|Freedom of Panorama]] does not apply for sculptures in the US. Maybe it could be kept with a [[WP:Fair use|fair use rationale]], but as not essential to the article I am not sure, so I would simply suggest removing it for now. The other statue is fine as &quot;published&quot; before 1923. --&lt;small&gt;[[User:Elekhh|ELEKHH]]&lt;sup&gt;[[User talk:Elekhh|T]]&lt;/sup&gt;&lt;/small&gt; 04:53, 30 October 2012 (UTC)
+
+* '''Promoted''' Thanks for the excellent improvements, happy to promote the article now. The site plan diagram can be uploaded on top of the existing file when improved. The article is also on a good way towards FA, but I suggest minor prose improvements might be possible, for which you could ask for help at [[Wikipedia:WikiProject Guild of Copy Editors|WikiProject Guild of Copy Editors]].  --&lt;small&gt;[[User:Elekhh|ELEKHH]]&lt;sup&gt;[[User talk:Elekhh|T]]&lt;/sup&gt;&lt;/small&gt; 20:26, 30 October 2012 (UTC)
+	</talkpage>
+</article>

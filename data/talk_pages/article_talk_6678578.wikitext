@@ -1,0 +1,36 @@
+<article id="6678578" title=User talk:Maksud>
+	<talkpage id="6678578" title="User talk:Maksud">
+'''Welcome!'''
+
+Hello, {{BASEPAGENAME}}, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for your contributions. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Help:Contents|Help pages]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:Article development|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you need help, check out [[Wikipedia:Questions]], ask me on my talk page, or place &lt;code&gt;&lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt;&lt;/code&gt; on your talk page and someone will show up shortly to answer your questions. Again, welcome!&amp;nbsp;
+--[[User:Ragib|Ragib]] 06:41, 25 August 2006 (UTC)
+
+==শুভ নববর্ষ।==
+
+&lt;div style=&quot;padding: 5px; background:#d8bfd8; border-style: solid; border-width: 2px; border-color:#191970; font-family: Tahoma, sans-serif; font-size: 100%; &quot;&gt;
+
+&lt;center&gt;&lt;div style=&quot;margin-top: 3px; padding-top: 9px; padding-bottom: 9px; padding-left: 9px; padding-right: 9px; width: 400px; float: center;&quot;&gt;[[Image:Krokus-kih.jpg|150px]]&lt;/div&gt;&lt;/center&gt;
+
+&lt;center&gt;&lt;div style=&quot;float:center;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;big&gt;নতুন বছরে নতুন করে জীবনকে ভালবাসার মোড়কে জড়িয়ে ফেলার স্বপ্ন নাও এই সকালে।&lt;/big&gt;--[[User:Tarif Ezaz|Tarif from Bangladesh]] ([[User talk:Tarif Ezaz|talk]]) 08:18, 14 April 2008 (UTC)&lt;/font&gt;&lt;/div&gt;&lt;/center&gt;
+
+&lt;center&gt;&lt;div style=&quot;padding: 2px; border-style: none;background: #708090; text-align: center;&quot;&gt;&lt;font color=&quot;#ffffff&quot; size = &quot;+1&quot;&gt;শুভ নববর্ষ।&lt;/font&gt;&lt;/div&gt;&lt;/center&gt;
+
+&lt;/div&gt;
+
+:D --[[User:Tarif Ezaz|Tarif from Bangladesh]] ([[User talk:Tarif Ezaz|talk]]) 08:13, 14 April 2008 (UTC)
+
+== [[WP:AWB]] ==
+
+Hi, I'm not sure if AWB will work on the Bangladeshi Wiki, but you could try it. Download, Go to Options --&gt; User and Project Preferences. Site tab, select project &quot;wikipedia&quot;, and language  &quot;bangladeshi&quot;. Click ok, file, login. It's not guaranteed, however, and I don't know if you will need to ask an Admin there to enable access for you. Cheers. --[[User:Rodhullandemu|&lt;span style=&quot;font-family:Verdana;color:#0000FF&quot;&gt;Rodhull&lt;/span&gt;]][[User_talk:Rodhullandemu|&lt;span style=&quot;font-family:Verdana;color:#FF0000&quot;&gt;andemu&lt;/span&gt;]] 19:23, 1 September 2008 (UTC)
+:Glad I could help, and I hope you can get it to work. We often get requests for other wikis and it's useful to know that it can be set up for different ones. I don't know much about the technology, but if you have trouble, [[User:Reedy]] is the guy to ask. Thanks for letting me know. --[[User:Rodhullandemu|&lt;span style=&quot;font-family:Verdana;color:#0000FF&quot;&gt;Rodhull&lt;/span&gt;]][[User_talk:Rodhullandemu|&lt;span style=&quot;font-family:Verdana;color:#FF0000&quot;&gt;andemu&lt;/span&gt;]] 13:52, 2 September 2008 (UTC)
+
+{{Wikipedia:Meetup/Kolkata/Invite}}
+	</talkpage>
+</article>

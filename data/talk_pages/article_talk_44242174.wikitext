@@ -1,0 +1,8 @@
+<article id="44242174" title=User talk:76.14.29.145>
+	<talkpage id="44242174" title="User talk:76.14.29.145">
+== October 2014 ==
+
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:I dream of horses|I dream of horses]]. An edit you recently made to [[:Pinus taeda]] seemed to be a test and has been removed. If you want more practice editing, the [[Wikipedia:Sandbox|sandbox]] is the best place to do so. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:I dream of horses|my talk page]]. Thanks. &lt;!-- Template:Huggle/warn-test-1 --&gt;&lt;!-- Template:uw-test1 --&gt;[[User:I dream of horses|I dream of horses]] &lt;span style=&quot;border:1px solid #ffa500;background:#ffce7b;&quot;&gt;&lt;small&gt;If you reply here, please leave me a &amp;#123;&amp;#123;[[Template:Talkback|Talkback]]&amp;#125;&amp;#125; message on [[User talk:I dream of horses|my talk page]].&lt;/small&gt;&lt;/span&gt; @  04:47, 29 October 2014 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

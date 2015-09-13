@@ -1,0 +1,10 @@
+<article id="27975292" title=Talk:Global civics>
+	<talkpage id="27975292" title="Talk:Global civics">
+{{WikiProject United States Public Policy}}
+{{WikiProject Globalization|class=start|importance=high}}
+
+== Wikifying ==
+
+I hope you don't mind that I wikify as you go, its a good interactive way to learn the Wikipedia formatting and stuff. [[User:Sadads|Sadads]] ([[User talk:Sadads|talk]]) 15:32, 8 July 2010 (UTC)
+	</talkpage>
+</article>

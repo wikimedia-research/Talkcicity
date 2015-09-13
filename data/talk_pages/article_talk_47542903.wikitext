@@ -1,0 +1,5 @@
+<article id="47542903" title=Talk:Athrips nitrariella>
+	<talkpage id="47542903" title="Talk:Athrips nitrariella">
+{{LepidopteraTalk|class=stub|importance=low}}
+	</talkpage>
+</article>

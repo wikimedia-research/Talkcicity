@@ -1,0 +1,5 @@
+<article id="25772027" title=Talk:Sporting News College Football Coach of the Year>
+	<talkpage id="25772027" title="Talk:Sporting News College Football Coach of the Year">
+{{WikiProject College football|class=Stub|importance=}}
+	</talkpage>
+</article>

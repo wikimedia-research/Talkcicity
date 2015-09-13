@@ -1,0 +1,9 @@
+<article id="26215556" title=Talk:Fried Egg Records>
+	<talkpage id="26215556" title="Talk:Fried Egg Records">
+{{WikiProject Bristol|class=start|importance=low}}
+{{Record Labels| class = |importance= }}
+
+==Note==
+This is a work in progress, with further information and links to be added later [[User:Cogoal|Cogoal]] ([[User talk:Cogoal|talk]]) 02:48, 16 February 2010 (UTC)
+	</talkpage>
+</article>

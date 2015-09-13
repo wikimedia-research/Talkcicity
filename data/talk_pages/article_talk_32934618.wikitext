@@ -1,0 +1,8 @@
+<article id="32934618" title=User talk:86.11.142.58>
+	<talkpage id="32934618" title="User talk:86.11.142.58">
+
+== August 2011 ==
+
+&lt;div style=clear: both&gt;&lt;/div&gt;[[File:Information.svg|25px|alt=|link=]] Welcome and thank you for experimenting with Wikipedia. Your test on the page [[:Royston Drenthe]] worked, and it has been [[Help:Reverting|reverted]] or removed. However, if you would like to experiment further, please use the '''[[Wikipedia:Sandbox|sandbox]]''' instead. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|this encyclopedia]]. Thank you. &lt;!-- Template:Huggle/warn-test-1 --&gt;&lt;!-- Template:Uw-test1 --&gt;'''[[User:Puffin|&lt;font color=&quot;teal&quot;&gt;Puffin&lt;/font&gt;]]''' ''[[User talk:Puffin|&lt;b&gt;&lt;sup&gt;&lt;small&gt;Let's talk!&lt;/small&gt;&lt;/sup&gt;&lt;/b&gt;]]'' 16:40, 31 August 2011 (UTC)
+	</talkpage>
+</article>

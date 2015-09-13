@@ -1,0 +1,5 @@
+<article id="34715582" title=Talk:Tinajo (place)>
+	<talkpage id="34715582" title="Talk:Tinajo (place)">
+{{WikiProject Cities|class=stub|importance=low}}
+	</talkpage>
+</article>

@@ -1,0 +1,10 @@
+<article id="30883135" title=Talk:List of The X Factor finalists (UK series 2)>
+	<talkpage id="30883135" title="Talk:List of The X Factor finalists (UK series 2)">
+{{talk header}}
+{{WikiProjectBannerShell|blp=yes|1=
+{{WikiProject Biography|living=yes|class=List|musician-work-group=yes|musician-priority=low|listas=X Factor Finalists (UK series 02), List Of The}}
+{{WikiProject Lists|class=list|importance=low}}
+{{WikiProject The X Factor|class=list|importance=high|listas=X Factor Finalists (UK series 02), List Of The}}
+}}
+	</talkpage>
+</article>

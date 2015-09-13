@@ -1,0 +1,10 @@
+<article id="34833158" title=Talk:Jo Kyung-ran>
+	<talkpage id="34833158" title="Talk:Jo Kyung-ran">
+{{WikiProject Biography|living=yes|a&amp;e-work-group=yes|class=Start|listas=Jo, Kyung-ran}}
+
+== Works in English? ==
+
+The &quot;Works in English&quot; heading is comprised almost entirely of works with their titles translated into what appears to be German. What gives? [[User:Webster100|Webster100]] ([[User talk:Webster100|talk]]) 12:53, 21 January 2015 (UTC)
+:Still a problem, and the &quot;Korean&quot; titles are English translations of the titles.[[User:Kdammers|Kdammers]] ([[User talk:Kdammers|talk]]) 19:51, 30 May 2015 (UTC)
+	</talkpage>
+</article>

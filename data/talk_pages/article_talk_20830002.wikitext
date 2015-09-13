@@ -1,0 +1,12 @@
+<article id="20830002" title=Talk:Roger Schjerva>
+	<talkpage id="20830002" title="Talk:Roger Schjerva">
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|listas=Schjerva, Roger
+|auto=yes
+|politician-work-group=yes
+}}
+{{WikiProject Norway|class=Stub}}
+	</talkpage>
+</article>

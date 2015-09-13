@@ -1,0 +1,9 @@
+<article id="29950421" title=Talk:United States Senate election in Hawaii, 1962>
+	<talkpage id="29950421" title="Talk:United States Senate election in Hawaii, 1962">
+{{WikiProjectBannerShell|1=
+{{WikiProject Elections and Referendums}}
+{{WikiProject United States|class=Redirect|importance=NA|USGov=Yes|USGov-importance=NA}}
+{{WikiProject Hawaii|class=Redirect}}
+}}
+	</talkpage>
+</article>

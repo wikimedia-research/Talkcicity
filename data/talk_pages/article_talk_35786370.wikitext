@@ -1,0 +1,5 @@
+<article id="35786370" title=Talk:NGC 352>
+	<talkpage id="35786370" title="Talk:NGC 352">
+{{WikiProject Astronomy|object=yes|class=stub|importance=low}}
+	</talkpage>
+</article>

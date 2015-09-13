@@ -1,0 +1,9 @@
+<article id="36438994" title=Talk:Joseph Tonzetich>
+	<talkpage id="36438994" title="Talk:Joseph Tonzetich">
+{{WikiProject Biography
+|living=no
+|class=
+|listas=Tonzetich, Joseph
+}}
+	</talkpage>
+</article>

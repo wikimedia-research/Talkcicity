@@ -1,0 +1,16 @@
+<article id="40419025" title=User talk:Ablaine2>
+	<talkpage id="40419025" title="User talk:Ablaine2">
+'''Welcome!'''
+
+Hello, {{BASEPAGENAME}}, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! I hope you like the place and decide to stay.
+
+There's a page about creating articles you may want to read called '''[[Wikipedia:Your first article|Your first article]]'''. If you are stuck, and looking for help, please come to the '''[[Wikipedia:New contributors' help page|New contributors' help page]]''', where experienced Wikipedians can answer any queries you have! Or, you can just type '''&lt;code&gt;{{tl|helpme}}&lt;/code&gt;''' on this page, and someone will show up shortly to answer your questions. Here are a few other good links for newcomers:
+*[[Wikipedia:Your first article|Your first article]]
+*[[Wikipedia:BLP|Biographies of living persons]]
+*[[Wikipedia:How to write a great article|How to write a great article]]
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Help:Contents|Help pages]]
+*[[Wikipedia:Tutorial|Tutorial]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you have any questions, check out [[Wikipedia:Where to ask a question]] or ask me on {{#if:|[[User talk:{{{2}}}{{!}}my talk page]]|my talk page}}. &lt;!-- Template:Firstarticle --&gt; Again, welcome!--[[User:Mishae|Mishae]] ([[User talk:Mishae|talk]]) 17:12, 1 September 2013 (UTC)
+	</talkpage>
+</article>

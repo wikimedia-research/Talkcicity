@@ -1,0 +1,5 @@
+<article id="14100485" title=Talk:Riot on the Grill>
+	<talkpage id="14100485" title="Talk:Riot on the Grill">
+{{album|class=Stub|importance=|auto=yes}}
+	</talkpage>
+</article>

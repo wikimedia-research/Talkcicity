@@ -1,0 +1,75 @@
+<article id="23328301" title=User talk:Milerabotnik>
+	<talkpage id="23328301" title="User talk:Milerabotnik">
+&lt;!-- Template from Template:Welcomeg --&gt;
+{| style=&quot;background-color:#F5FFFA; padding:0;&quot; cellpadding=&quot;0&quot;
+|style=&quot;border:1px solid #084080; background-color:#F5FFFA; vertical-align:top; color:#000000;&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;0&quot; cellspacing=&quot;5&quot; style=&quot;vertical-align:top; background-color:#F5FFFA; padding:0;&quot;
+| &lt;div style=&quot;margin:0; background-color:#CEF2E0; border:1px solid #084080; text-align:left; padding-left:0.4em; padding-top:0.2em; padding-bottom:0.2em;&quot;&gt;Hello, Milerabotnik! [[Wikipedia:Welcoming committee/Welcome to Wikipedia|Welcome]] to Wikipedia! Thank you for [[Special:Contributions/Milerabotnik|your contributions]] to this free encyclopedia. If you decide that you need help, check out ''Getting Help'' below, ask me on [[User talk:XLinkBot|my talk page]], or place '''{{tl|helpme}}''' on your talk page and ask your question there. Please remember to [[Wikipedia:Signatures|sign your name]] on talk pages by clicking [[Image:Signature icon.png]] or using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your username and the date. Finally, please do your best to always fill in the [[Help:Edit summary|edit summary]] field. Below are some useful links to facilitate your involvement. Happy editing! [[User:XLinkBot|XLinkBot]] ([[User talk:XLinkBot|talk]]) 23:58, 22 June 2009 (UTC)
+|}
+{| width=&quot;100%&quot; style=&quot;background-color:#F5FFFA;&quot;
+|style=&quot;width: 55%; border:1px solid #FFFFFF; background-color:#F5FFFA; vertical-align:top&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;0&quot; cellspacing=&quot;5&quot; style=&quot;vertical-align:top; background-color:#F5FFFA&quot;
+! &lt;div style=&quot;margin: 0; background-color:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Getting started&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Tutorial|A tutorial]] • [[Wikipedia:Five pillars|Our five pillars]] • [[Wikipedia:Adopt-a-User|Getting mentored]]
+* How to: [[Wikipedia:How to edit a page|edit a page]] • [[Wikipedia:Images|upload and use images]]
+*[[WP:TMM|Intuitive guide to Wikipedia]]
+|-
+! &lt;div style=&quot;margin: 0; background:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Getting help&lt;/div&gt;
+|-
+| style=&quot;color:#000&quot;|
+* [[Wikipedia:FAQ|Frequently asked questions]] • [[Wikipedia:Tips|Tips]]
+* [[Wikipedia:Questions|Where to ask questions or make comments]]
+* [[Wikipedia:Requests for administrator attention|Request administrator attention]]
+|-
+! &lt;div style=&quot;margin: 0; background:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Policies and guidelines&lt;/div&gt;
+|-
+| style=&quot;color:#000&quot;|
+* [[Wikipedia:Neutral point of view|Neutral point of view]] • [[Wikipedia:No original research|No original research]] 
+* [[Wikipedia:Verifiability|Verifiability]] • [[Wikipedia:Reliable sources|Reliable sources]] • [[Wikipedia:Citing sources|Citing sources]]
+* [[Wikipedia:What Wikipedia is not|What Wikipedia is not]] • [[Wikipedia:Biographies of living persons|Biographies of living persons]]
+&lt;hr /&gt;
+* [[Wikipedia:Manual of Style|Manual of Style]] • [[Wikipedia:Three-revert rule|Three-revert rule]] • [[Wikipedia:Sock puppetry|Sock puppetry]]
+* [[Wikipedia:Copyrights|Copyrights]] • [[Wikipedia:Non-free content|Policy for non-free content]] • [[Wikipedia:Image use policy|Image use policy]]
+* [[Wikipedia:External links|External links]] • [[Wikipedia:Spam|Spam]] • [[Wikipedia:Vandalism|Vandalism]]
+* [[Wikipedia:Deletion policy|Deletion policy]] • [[Wikipedia:Conflict of interest|Conflict of interest]] • [[Wikipedia:Notability|Notability]]
+|-
+|}
+|class=&quot;MainPageBG&quot; style=&quot;width: 55%; border:1px solid #FFFFFF; background-color:#F5FFFA; vertical-align:top&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;0&quot; cellspacing=&quot;5&quot; style=&quot;vertical-align:top; background-color:#F5FFFA&quot;
+! &lt;div style=&quot;margin: 0; background-color:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;The community&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Consensus|Build consensus]] • [[Wikipedia:Dispute resolution|Resolve disputes]]
+* [[Wikipedia:Assume good faith|Assume good faith]] • [[Wikipedia:Civility|Civility]] • [[Wikipedia:Etiquette|Etiquette]]
+* [[Wikipedia:No personal attacks|No personal attacks]] • [[Wikipedia:No legal threats|No legal threats]]
+&lt;hr /&gt;
+* [[Wikipedia:Community portal|Community portal]] • [[Wikipedia:Village pump|Village pump]]
+* [[Wikipedia:Wikipedia Signpost|Signpost]] • [[Wikipedia:IRC channels|IRC channels]] • [[Wikipedia:Mailing lists|Mailing lists]]
+|-
+! &lt;div style=&quot;margin: 0; background-color:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Writing articles&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Be bold|Be bold in editing]] • [[Wikipedia:Article development|Develop an article]]
+* [[Wikipedia:The perfect article|The perfect article]] • [[Wikipedia:Manual of Style|Manual of style]]
+* [[Wikipedia:Stub|Stubs]] • [[Wikipedia:Categorization|Categories]] • [[Wikipedia:Disambiguation|Disambiguation]]
+* [[Wikipedia:Pages needing attention|Pages needing attention]] • [[Wikipedia:Peer review|Peer review]]
+|-
+! &lt;div style=&quot;margin: 0; background-color:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Miscellaneous&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Username policy|User name]] • [[Wikipedia:User page|User pages]] • [[Wikipedia:Talk page|Talk pages]]
+* Clean up: [[Wikipedia:Cleanup|General]] • [[Wikipedia:WikiProject Spam|Spam]] • [[Wikipedia:Cleaning up vandalism|Vandalism]]
+* [[Wikipedia:WikiProject|Join a WikiProject]] • [[Wikipedia:Translation|Translation]]
+* [[Wikipedia:Template messages|Useful templates]] • [[Wikipedia:Tools|Tools]] • [[Wikipedia:WikiProject User scripts|User scripts]]
+|-
+|}
+|}
+|}&lt;!--Template:Welcomeg--&gt;
+== June 2009 ==
+Welcome to Wikipedia. Although everyone is welcome to contribute constructively to the encyclopedia, your addition of one or more external links to the page [[:CS Hobscheid]] has been reverted.&lt;br /&gt;Your edit [http://en.wikipedia.org/w/index.php?diff=298020740&amp;oldid=298020498 here] was reverted by an automated bot that attempts to remove [[WP:NOT#REPOSITORY|unwanted links]] and [[WP:SPAM|spam]] from Wikipedia.  The external link you added or changed is on my list of links to remove and probably shouldn't be included in Wikipedia.  The external links I reverted were matching the following [[regex|regex rule(s)]]: geocities\.com (links: http://www.geocities.com/cs_hobscheid). &lt;br /&gt;If you were trying to insert an [[Wikipedia:External links|external link]] that does comply with our [[Wikipedia:List of policies|policies]] and [[Wikipedia:List of guidelines|guidelines]], then please accept my creator's apologies and feel free to undo the bot's revert.  However, if the link does not comply with our policies and guidelines, but your edit included other changes to the article, feel free to make those changes again without re-adding the link.  Please read Wikipedia's [[WP:EL|external links guideline]] for more information, and consult my [[User:XLinkBot/Reversion reasons|list of frequently-reverted sites]]. For more information about me, see [[User:XLinkBot/FAQ|my FAQ page]]. Thanks! --[[User:XLinkBot|XLinkBot]] ([[User talk:XLinkBot|talk]]) 23:58, 22 June 2009 (UTC)
+
+# [[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to contribute constructively to the encyclopedia, one or more of the external links you added {{#if:FK Teteks|to the page [[:FK Teteks]]}} do not comply with our [[Wikipedia:External links|guidelines for external links]] and have been removed. [[Wikipedia:What Wikipedia is not#LINK|Wikipedia is not a collection of links]]; nor should it be used for [[Wikipedia:Spam|advertising]] or promotion. Since Wikipedia uses [[nofollow]] tags, external links do not alter search engine rankings. If you feel the link should be added to the article, please discuss it on the {{#if:FK Teteks|[[talk:FK Teteks|article's talk page]]|article's talk page}} before reinserting it. Please take a look at the [[Wikipedia:Welcome|welcome page]] to learn more about contributing to this encyclopedia. {{#if:&amp;nbsp;|&amp;nbsp;|Thank you.}}[[Category:User talk pages with Uw-spam1 notices|{{PAGENAME}}]]&lt;!-- Template:uw-spam1 --&gt;&lt;br /&gt;Your edit [http://en.wikipedia.org/w/index.php?diff=298022708&amp;oldid=298022576 here] was reverted by an automated bot that attempts to remove [[WP:NOT#REPOSITORY|unwanted links]] and [[WP:SPAM|spam]] from Wikipedia.  The external link you added or changed is on my list of links to remove and probably shouldn't be included in Wikipedia.  The external links I reverted were matching the following [[regex|regex rule(s)]]: \bblog(?:cu|fa|harbor|mybrain|post|savy|spot|townhall)?\.com\b (links: http://fcteteks.blogspot.com/).  If the external link you inserted or changed was to a [[blog]], [[forum]], [[free web hosting service]], or similar site, then please check the information on the external site thoroughly. Note that such sites should probably not be linked to if they contain information that is in violation of the creator's [[Wikipedia:COPYRIGHT|copyright]] (see [[Wikipedia:COPYRIGHT#Linking to copyrighted works|Linking to copyrighted works]]), or they are not written by a recognised, [[Wikipedia:Reliable sources|reliable source]]. Linking to sites that you are involved with is also strongly discouraged (see [[Wikipedia:Conflict of interest|conflict of interest]]).&lt;br /&gt;If you were trying to insert an [[Wikipedia:External links|external link]] that does comply with our [[Wikipedia:List of policies|policies]] and [[Wikipedia:List of guidelines|guidelines]], then please accept my creator's apologies and feel free to undo the bot's revert.  However, if the link does not comply with our policies and guidelines, but your edit included other changes to the article, feel free to make those changes again without re-adding the link.  Please read Wikipedia's [[WP:EL|external links guideline]] for more information, and consult my [[User:XLinkBot/Reversion reasons|list of frequently-reverted sites]]. For more information about me, see [[User:XLinkBot/FAQ|my FAQ page]]. Thanks!&lt;!-- Template:uw-spam1 --&gt; --[[User:XLinkBot|XLinkBot]] ([[User talk:XLinkBot|talk]]) 00:18, 23 June 2009 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="25322766" title=Talk:SJ Ra>
+	<talkpage id="25322766" title="Talk:SJ Ra">
+{{TrainsWikiProject|auto=yes|class=stub|importance=}}
+	</talkpage>
+</article>

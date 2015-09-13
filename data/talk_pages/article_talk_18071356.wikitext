@@ -1,0 +1,24 @@
+<article id="18071356" title=Talk:Julio Losada>
+	<talkpage id="18071356" title="Talk:Julio Losada">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|listas=Losanta, Julio
+|auto=yes
+|sports-work-group=yes
+}}
+{{WikiProject Football|class=Stub|importance=mid}}
+{{WikiProject Uruguay|topic=bio|class=stub|importance=}}
+| blp=yes
+}}
+
+
+
+== Requested move ==
+{{polltop}} moved as uncontroversial. --[[User:RegentsPark|rgpk]] &lt;small&gt;([[User talk:RegentsPark|comment]])&lt;/small&gt; 22:36, 7 September 2011 (UTC)
+
+[[Julio Losanta]] → {{no redirect|1=Julio Losada}} – Over redirect. No use of &quot;Losanta&quot; in the article or any of the links. [[User:Digirami|Digirami]] ([[User talk:Digirami|talk]]) 20:32, 1 September 2011 (UTC)
+{{pollbottom}}
+	</talkpage>
+</article>

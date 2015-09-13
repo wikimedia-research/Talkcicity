@@ -1,0 +1,7 @@
+<article id="32673492" title=User talk:90.196.158.218>
+	<talkpage id="32673492" title="User talk:90.196.158.218">
+
+== Your submission at [[WP:AFC|Articles for creation]] ==
+&lt;div style=&quot;border:solid 1px #9accf6;background:#f1f9ff;padding:1em;padding-top:0.5em;padding-bottom:0.5em;width:20em;color:black;margin-bottom: 1.5em;margin-left: 1.5em;width: 90%;&quot;&gt; [[File:AFC-Logo_Decline.svg|50px|left]]You recently made a submission to [[WP:AFC|Articles for Creation]]. Your article has been reviewed and because some issues were found, it could not be accepted in its current form{{;}} it is now located at [[Wikipedia&amp;#32;talk:Articles for creation/Richie Nuzzolese]]. Please view your submission to see the comments left by the reviewer. Feel free to edit the submission to address the issues raised, and resubmit once you feel they have been resolved. (You can do this by adding the text &lt;tt&gt;&lt;nowiki&gt;{{subst:AFC submission/submit}}&lt;/nowiki&gt;&lt;/tt&gt; to the top of the article.) Thank you for your contributions to Wikipedia! &lt;font style=&quot;font-family:Monotype Corsiva; font-size:15px;&quot;&gt;[[User:Jsfouche|&lt;span style=&quot;background:#191970;color:#FF8C00;padding:0 4px&quot;&gt;jsfouche &amp;#9789;&amp;#9790;&lt;/span&gt;]][[User talk:Jsfouche|&lt;font color=&quot;navy&quot;&gt;&lt;/font&gt;Talk]]&lt;/font&gt; 21:06, 7 August 2011 (UTC)&lt;/div&gt;&lt;!--Template:Afc decline--&gt;
+	</talkpage>
+</article>

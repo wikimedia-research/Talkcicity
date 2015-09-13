@@ -1,0 +1,7 @@
+<article id="27262826" title=User talk:69.47.178.173>
+	<talkpage id="27262826" title="User talk:69.47.178.173">
+== May 2010 ==
+[[File:Information.svg|25px]] Welcome and thank you for experimenting with Wikipedia. Your test on the page [[:AH-64 Apache‎]] worked, and it has been [[Help:Reverting|reverted]] or removed. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|this encyclopedia]]. If you would like to experiment further, please use the [[Wikipedia:Sandbox|sandbox]] instead. &lt;!-- Template:uw-test1 --&gt; -[[User:Fnlayson|Fnlayson]] ([[User talk:Fnlayson|talk]]) 02:04, 7 May 2010 (UTC)
+:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
+	</talkpage>
+</article>

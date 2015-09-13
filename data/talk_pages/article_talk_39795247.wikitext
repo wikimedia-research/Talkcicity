@@ -1,0 +1,7 @@
+<article id="39795247" title=Talk:Sheep farming in New Zealand>
+	<talkpage id="39795247" title="Talk:Sheep farming in New Zealand">
+{{WikiProject New Zealand |class=Start |importance=high}}
+{{WikiProject Agriculture |class=Start |importance=High |livestock=yes}}
+{{dyktalk|2 July|2013|entry=... that as of 2007, [[New Zealand]] had nearly 10 times as many '''[[Sheep farming in New Zealand|sheep]]''' as people?}}
+	</talkpage>
+</article>

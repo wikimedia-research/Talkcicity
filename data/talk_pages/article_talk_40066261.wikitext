@@ -1,0 +1,10 @@
+<article id="40066261" title=Talk:Crescent City Schools>
+	<talkpage id="40066261" title="Talk:Crescent City Schools">
+{{Talk header}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Articles for creation|class=start|ts=20130725131843|reviewer=LionMans Account}}
+{{WikiProject United States|class=start|importance=low|LA=yes|LA-importance=low|NOLA=yes|NOLA-importance=low}}
+{{WikiProject Schools|class=Start|importance=low|needs-infobox=yes}}
+}}
+	</talkpage>
+</article>

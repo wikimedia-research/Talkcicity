@@ -1,0 +1,5 @@
+<article id="22337051" title=User talk:Shinxlove>
+	<talkpage id="22337051" title="User talk:Shinxlove">
+[[Image:Information.svg|25px]] Welcome to Wikipedia. A page you recently created{{#if:|, [[:{{{1}}}]],}} may not conform to some of Wikipedia's [[Wikipedia:List of policies|guidelines]] for new pages, so it will shortly be [[Wikipedia:Deletion policy|removed]] (if it hasn't been already). Please use the [[Wikipedia:Sandbox|sandbox]] for any tests. For more information about creating articles, you may want to read [[Wikipedia:Your first article|Your first article]]. You may also want to read our [[Wikipedia:Introduction|introduction page]] to learn more about contributing. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-create1 --&gt; --[[User:PMDrive1061|PMDrive1061]] ([[User talk:PMDrive1061|talk]]) 23:41, 8 April 2009 (UTC)
+	</talkpage>
+</article>

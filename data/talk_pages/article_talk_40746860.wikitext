@@ -1,0 +1,12 @@
+<article id="40746860" title=Talk:84 Ceti>
+	<talkpage id="40746860" title="Talk:84 Ceti">
+{{WikiProject Astronomy
+ | class=stub
+ | importance=
+ | object=yes
+ | attention=no
+ | infobox=no
+ | needs-image=no
+}}
+	</talkpage>
+</article>

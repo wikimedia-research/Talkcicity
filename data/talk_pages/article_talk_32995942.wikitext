@@ -1,0 +1,7 @@
+<article id="32995942" title=User talk:99.50.162.178>
+	<talkpage id="32995942" title="User talk:99.50.162.178">
+== September 2011 ==
+[[File:Information.svg|25px|alt=|link=]] Hello, and welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of [[Special:Contributions/99.50.162.178|your recent edits]], such as the one you made to [[:Ton]], did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia.  Thank you.&lt;!-- Template:uw-vandalism1 --&gt;&lt;!-- Template:uw-cluebotwarning1 --&gt; '''[[User:Spinningspark|&lt;font style=&quot;background:#fafad2;color:#C08000&quot;&gt;Spinning&lt;/font&gt;]][[User talk:Spinningspark|&lt;font style=&quot;color:#4840a0&quot;&gt;Spark'''&lt;/font&gt;]]''' 05:48, 6 September 2011 (UTC)
+:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
+	</talkpage>
+</article>

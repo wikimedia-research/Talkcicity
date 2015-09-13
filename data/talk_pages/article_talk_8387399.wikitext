@@ -1,0 +1,12 @@
+<article id="8387399" title=Talk:Benguela Current>
+	<talkpage id="8387399" title="Talk:Benguela Current">
+{{dyktalk|6 April|2004|entry=...that '''[[Benguela current]]''' of the [[Southern Ocean]] has a small [[El Niño]] effect?}}
+I have little idea why, but the IPCC synthesis report refers to this current as the &quot;Bangwuela&quot; current. Is this an alternative spelling, or a typo, or what? (See page 45 of the WGII Technical Summary) [[User:132.241.41.99|132.241.41.99]] 18:50, 11 December 2006 (UTC)
+
+== Subantartic current ==
+
+*First: The Benguela Current is not cold because flow of Subantartic waters, but because the strong surge from deep waters. It has a similar origin to the [[Canary Current]]
+*Second: The south Atlantic current circuit has a northern limit along the equator, due to the higher ocean level at the equator because of the centrifugal force of the Earth's rotation.
+*Third: the southern branch of the south Atlantic circuit, a western current ([[Agulhas current]]) is a warm current, therefore precluding subantartic cold waters to reach intertropical latitudes. --[[User:Fev|Fev]] 16:41, 26 January 2007 (UTC). --[[User:Fev|Fev]] 14:36, 11 April 2007 (UTC)
+	</talkpage>
+</article>

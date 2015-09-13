@@ -1,0 +1,10 @@
+<article id="41665270" title=User talk:69.123.228.172>
+	<talkpage id="41665270" title="User talk:69.123.228.172">
+== January 2014 ==
+[[File:Information orange.svg|25px|alt=Information icon]] Please do not add or change content, as you did to [[:Alexander Skarsgård]], without [[Wikipedia:Verifiability|verifying]] it by citing a [[Wikipedia:Identifying reliable sources|reliable source]]. Please review the guidelines at [[Wikipedia:Citing sources]] and take this opportunity to add references to the article. Thank you.&lt;!-- Template:uw-unsourced2 --&gt; [[User:DMacks|DMacks]] ([[User talk:DMacks|talk]]) 03:13, 17 January 2014 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+
+[[Image:Stop hand nuvola.svg|30px|alt=Stop icon]] This is your '''last warning'''. The next time you [[Wikipedia:Vandalism|vandalize]] Wikipedia, as you did at [[:Alexander Skarsgård]], you may be '''[[Wikipedia:Blocking policy|blocked from editing]] without further notice'''. &lt;!-- Template:uw-vandalism4 --&gt; [[User:DMacks|DMacks]] ([[User talk:DMacks|talk]]) 03:25, 17 January 2014 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

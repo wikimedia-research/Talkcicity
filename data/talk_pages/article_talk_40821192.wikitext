@@ -1,0 +1,6 @@
+<article id="40821192" title=Talk:Charles Cook (footballer, born 1898)>
+	<talkpage id="40821192" title="Talk:Charles Cook (footballer, born 1898)">
+{{WikiProject Biography|living=no|class=stub|listas=Cook, Charles}}
+{{WikiProject Football|class=stub|importance=Low|Scotland=yes}}
+	</talkpage>
+</article>

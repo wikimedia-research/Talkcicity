@@ -1,0 +1,16 @@
+<article id="12107157" title=Talk:Alexander Kharitonov (ice hockey)>
+	<talkpage id="12107157" title="Talk:Alexander Kharitonov (ice hockey)">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=yes
+|class=Stub
+|sports-work-group=yes
+|listas=Kharitonov, Aleksandr
+|sports-priority=
+}}
+{{WikiProject Olympics|class=Stub|importance=|auto=yes}}
+{{WikiProject Ice Hockey|bio=yes|class=stub}}
+{{WikiProject Russia|class=Stub|importance=Low|sport=yes}}
+| blp=yes
+}}
+	</talkpage>
+</article>

@@ -1,0 +1,11 @@
+<article id="44086427" title=User talk:71.20.55.16>
+	<talkpage id="44086427" title="User talk:71.20.55.16">
+== October 2014 ==
+[[Image:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Amortias|Amortias]]. I noticed that you made a change to an article, [[:Ronald &quot;Slim&quot; Williams]], but you didn't provide a [[Wikipedia:Identifying reliable sources|reliable source]]. It's been removed and archived in the page history for now, but if you'd like to [[Wikipedia:Citing sources|include a citation]] and re-add it, please do so! If you need guidance on referencing, please see the [[Help:Referencing for beginners|referencing for beginners]] tutorial, or if you think I made a mistake, you can leave me a message on [[User_talk:Amortias|my talk page]]. Thank you. &lt;!-- Template:uw-unsourced1 --&gt; [[User:Amortias|Amortias]] ([[User talk:Amortias|T]])([[Special:Contributions/Amortias|C]]) 21:28, 11 October 2014 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+
+== June 2015 ==
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Gilliam|Gilliam]]. I noticed that you made an edit concerning content related to a living (or recently deceased) person{{spaces|1}}on [[:Maryland Terrapins men's basketball]], but you didn’t support your changes with a [[Wikipedia:Inline citation|citation to a reliable source]], so I removed it. Wikipedia has a very strict policy concerning [[Wikipedia:Biographies of living persons|how we write about living people]], so please help us keep such articles accurate and clear. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Gilliam|my talk page]]. Thank you! &lt;!-- Template:uw-biog1 --&gt; – [[User:Gilliam|Gilliam]] ([[User talk:Gilliam|talk]]) 06:59, 20 June 2015 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

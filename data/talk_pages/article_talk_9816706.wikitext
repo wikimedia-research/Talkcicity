@@ -1,0 +1,23 @@
+<article id="9816706" title=Talk:Anthony B. Pinn>
+	<talkpage id="9816706" title="Talk:Anthony B. Pinn">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=Stub
+
+|s&amp;a-work-group=yes
+|listas=Pinn, Anthony
+}}
+{{WikiProject Christianity|class=C|importance=Low}}
+{{WikiProject Religion}}
+| blp=yes
+}}
+
+
+
+
+== Original Research ==
+
+Much of this article reads like original research and not drawing on secondary sources that are describing Pinn's works.  Note in particular the many, many references to Pinn's own works.--[[User:Erp|Erp]] ([[User talk:Erp|talk]]) 04:57, 22 November 2010 (UTC)
+	</talkpage>
+</article>

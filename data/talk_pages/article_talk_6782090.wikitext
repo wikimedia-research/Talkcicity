@@ -1,0 +1,21 @@
+<article id="6782090" title=Talk:Geraint Jennings>
+	<talkpage id="6782090" title="Talk:Geraint Jennings">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|class=Start
+|politician-priority=low
+|politician-work-group=yes
+|living=yes
+|listas=Jennings, Geraint
+}}
+{{WikiProject University of Oxford|class=start|importance=|auto=yes}}
+{{WikiProject Journalism}}
+| blp=yes
+}}
+
+==Rating==
+
+This page needs an infobox for a higher rating on project scale
+
+[[User:RichardColgate|RichardColgate]] 11:18, 29 July 2007 (UTC)
+	</talkpage>
+</article>

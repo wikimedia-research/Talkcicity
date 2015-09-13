@@ -1,0 +1,5 @@
+<article id="26676130" title=User talk:71.177.6.109>
+	<talkpage id="26676130" title="User talk:71.177.6.109">
+[[File:Information.svg|25px|alt=]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of your recent edits{{#if: The Time Machine|, such as the one you made to [[: The Time Machine]],}} did not appear to be constructive and has been reverted. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; &lt;font style=&quot;font-family: Vivaldi&quot;&gt;[[User:Intelligentsium|&lt;span style=&quot;color:#013220&quot;&gt;Intelligent&lt;/span&gt;]]'''[[User_talk:Intelligentsium|&lt;span style=&quot;color:Black&quot;&gt;sium&lt;/span&gt;]]'''&lt;/font&gt; 23:17, 23 March 2010 (UTC)
+	</talkpage>
+</article>

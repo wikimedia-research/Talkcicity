@@ -1,0 +1,5 @@
+<article id="37217775" title=Talk:Chromis iomelas>
+	<talkpage id="37217775" title="Talk:Chromis iomelas">
+{{WikiProject Fishes|class=stub|importance=low}}
+	</talkpage>
+</article>

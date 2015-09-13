@@ -1,0 +1,5 @@
+<article id="33243548" title=Talk:WISE 0148−7202>
+	<talkpage id="33243548" title="Talk:WISE 0148−7202">
+{{WikiProject Astronomy|class=start|importance=low}}
+	</talkpage>
+</article>

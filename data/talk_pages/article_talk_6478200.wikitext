@@ -1,0 +1,22 @@
+<article id="6478200" title=Talk:Marcus Loane>
+	<talkpage id="6478200" title="Talk:Marcus Loane">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=no
+|class=Stub
+|listas=Loane, Marcus
+}}
+{{WikiProject Australia|class=Stub
+|importance=mid
+}}
+{{WikiProject Anglicanism|class=Stub
+|importance=mid}}
+}}
+
+
+== Works section (to do actions) ==
+
+I hope to list a number of his more notable books soon. [[User:David Haslam|DFH]] 11:09, 4 September 2006 (UTC)
+:Done. [[User:David Haslam|DFH]] 13:01, 4 September 2006 (UTC)
+	</talkpage>
+</article>

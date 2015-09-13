@@ -1,0 +1,10 @@
+<article id="35527495" title=Talk:Jordan Wolfson>
+	<talkpage id="35527495" title="Talk:Jordan Wolfson">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=yes|class=start|listas=Wolfson, Jordan|a&amp;e-work-group=yes}}
+{{WikiProject Articles for creation|class=start|ts=20120417111428|reviewer=Tom Morris|assess-date=May 2012}}
+{{WikiProject Visual arts|class=start}}
+| blp=yes
+}}
+	</talkpage>
+</article>

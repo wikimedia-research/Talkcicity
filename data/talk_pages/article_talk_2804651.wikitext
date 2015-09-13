@@ -1,0 +1,7 @@
+<article id="2804651" title=Talk:W. J. Bryan Elementary School>
+	<talkpage id="2804651" title="Talk:W. J. Bryan Elementary School">
+{{oldafdfull|votepage=W.J. Bryan Elementary School|date=21 September 2005 |result='''keep''' (no consensus)}}
+{{WikiProject Miami|class=stub|importance=low}}
+{{WPSchools|class=Stub|importance=low|needs-infobox=yes}}
+	</talkpage>
+</article>

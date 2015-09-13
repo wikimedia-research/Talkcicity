@@ -1,0 +1,9 @@
+<article id="31689769" title=Talk:Enjoy Yourself (Kylie Minogue album)/GA1>
+	<talkpage id="31689769" title="Talk:Enjoy Yourself (Kylie Minogue album)/GA1">
+==GA Reassessment==
+&lt;noinclude&gt;{{al|{{#titleparts:Enjoy Yourself (Kylie Minogue album)/GA1|-1}}|noname=yes}}&lt;br/&gt;&lt;/noinclude&gt;&lt;includeonly&gt;:''This discussion is [[WP:transclusion|transcluded]] from [[Talk:Enjoy Yourself (Kylie Minogue album)/GA1]]. The edit link for this section can be used to add comments to the reassessment.''&lt;/includeonly&gt;
+&lt;!-- Please add all reassessment comments below this comment, and do not alter what is above. To keep the discussion within a single section, please do not use level 2 headers (==...==) below to break up the reassessment. Use level 3 (===...===), level 4 and so on.--&gt;
+Does not meet the [[GA criteria]]. This article is not only skinny as a start/stub, but it is not fully sourced (breaks #2; [[Enjoy Yourself (Kylie Minogue album)#Chart performance and sales|Chart performance and sales]], [[Enjoy Yourself (Kylie Minogue album)#Singles|Singles]], [[Enjoy Yourself (Kylie Minogue album)#Track listing|Track listing]]). Also does not match current layout guidelines in [[WikiProject Albums]]. ''' ''[[User:IHelpWhenICan|I Help, When I Can.]]'' '''&lt;sup&gt;[[User talk :IHelpWhenICan|[12]]]&lt;/sup&gt; 00:38, 6 May 2011 (UTC)
+:Agree; the reception and recording sections should be split and expanded on top of all that. As such I'm closing this as delisted. [[User:Wizardman|&lt;span style=&quot;color:#030&quot;&gt;'''''Wizardman'''''&lt;/span&gt;]] &lt;sub&gt;[[User:Wizardman/Operation Big Bear|&lt;span style=&quot;color:#600&quot;&gt;Operation Big Bear&lt;/span&gt;]]&lt;/sub&gt; 23:09, 6 July 2011 (UTC)
+	</talkpage>
+</article>

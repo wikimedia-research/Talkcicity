@@ -1,0 +1,6 @@
+<article id="3624297" title=Talk:Marshall railway station>
+	<talkpage id="3624297" title="Talk:Marshall railway station">
+{{WikiProject Australia|class=Start|importance=Low|Geelong=yes|Victoria-importance=Low}}
+{{TrainsWikiProject|auto=yes|stations=yes|class=stub|importance=}}
+	</talkpage>
+</article>

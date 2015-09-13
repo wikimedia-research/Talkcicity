@@ -1,0 +1,10 @@
+<article id="35813965" title=Talk:Zanis Waldheims>
+	<talkpage id="35813965" title="Talk:Zanis Waldheims">
+{{WikiProject Biography
+|living=no
+|class=Stub
+|listas=Waldheims, Zanis
+}}
+{{WikiProject Latvia|class=stub |importance=}}
+	</talkpage>
+</article>

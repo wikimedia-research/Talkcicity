@@ -1,0 +1,8 @@
+<article id="42445610" title=Talk:Samuel Grenier>
+	<talkpage id="42445610" title="Talk:Samuel Grenier">
+{{WikiProjectBannerShell|1=
+{{WPBiography|living=no|class=stub|listas=}}
+{{WikiProject Sri Lanka|class=Stub|importance=High}}
+}}
+	</talkpage>
+</article>

@@ -1,0 +1,33 @@
+<article id="41389887" title=User talk:Krisma66>
+	<talkpage id="41389887" title="User talk:Krisma66">
+== Welcome ==
+Hello Krisma66, and '''[[Wikipedia:Introduction|welcome]]''' to [[Wikipedia]]! Thank you for [[Special:Contributions/{{PAGENAME}}|your contributions]], they have helped improve Wikipedia and make it more informative. I hope you enjoy using Wikipedia and decide to make additional contributions. Some resources to help new Wikipedians include:
+
+:[[Wikipedia:How to edit a page|How to edit a page]]
+:[[Wikipedia:Tutorial|Editing tutorial]]
+:[[Wikipedia:Picture tutorial|Picture tutorial]]
+:[[Wikipedia:How to write a great article|How to write a great article]]
+:[[Wikipedia:Naming conventions|Naming conventions]]
+:[[Wikipedia:Manual of Style|Manual of Style]]
+
+As a contributor to Norwegian articles,  you may like to connect with other Norwegian Wikipedians through the [[Wikipedia:Norwegian Wikipedians' notice board|Norwegian Wikipedians' notice board]] and take a look at the activities in [[Wikipedia:WikiProject Norway]] and associated sub-projects.
+
+Please [[Wikipedia:Sign_your_posts_on_talk_pages|sign your name]] on talk pages using four tildes &lt;nowiki&gt;~~~~&lt;/nowiki&gt;; this will automatically produce your name and the date. 
+
+If you have any questions, please see [[Wikipedia:Where to ask a question]], try the [[Wikipedia:Help desk]], or ask me on my talk page.  Or you can just type '''&lt;code&gt;{&amp;#123;helpme}}&lt;/code&gt;''' on your user page, and someone will show up shortly to answer your questions. 
+
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Thank you for signing up!  [[User:Vanjagenije|Vanjagenije]] ([[User talk:Vanjagenije|talk]]) 11:04, 17 December 2013 (UTC)
+
+== Welcome to Wikipedia: check out the Teahouse! ==
+
+{{Wikipedia:Teahouse/Invitation|sign=[[User:Vanjagenije|Vanjagenije]] ([[User talk:Vanjagenije|talk]]) 11:04, 17 December 2013 (UTC)}}
+== Your submission at [[Wikipedia:Articles for creation|Articles for creation]]: [[User:Krisma66/sandbox|User:Krisma66/sandbox]] (December 17) ==
+&lt;div style=&quot;border:solid 1px #9accf6;background:#f1f9ff;padding:1em;padding-top:0.5em;padding-bottom:0.5em;width:20em;color:black;margin-bottom: 1.5em;margin-left: 1.5em;width: 90%;&quot;&gt; [[File:AFC-Logo_Decline.svg|50px|left]]Thank you for your recent submission to [[WP:AFC|Articles for Creation]]. Your article submission has been reviewed.  Unfortunately, it has not been accepted at this time. Please view your submission to see the comments left by the reviewer. You are welcome to edit the submission to address the issues raised, and resubmit if you feel they have been resolved.&lt;br&gt;&lt;br&gt;
+&lt;div class=&quot;plainlinks&quot;&gt;
+* If you would like to continue working on the submission, you can find it at {{#ifeq:¬|¬|[[{{#ifeq:¬|¬|Wikipedia&amp;#32;talk:Articles for creation/|{{#ifeq:{{{2}}}|||{{{2}}}/}}}}Krisma66/sandbox]]|[[{{{full}}}]]}}.
+* To edit the submission, click on the &quot;Edit&quot; tab at the top of the window.
+* If you need any assistance, you can ask for help at the [{{fullurl:Wikipedia:WikiProject_Articles_for_creation/Help_desk|action=edit&amp;section=new}} '''Articles for creation help desk'''], or on the &lt;span class=&quot;noprint plainlinks&quot;&gt;[{{fullurl:User_talk:Aggie80|action=edit&amp;section=new reviewer's talk page]}}&lt;/span&gt;. Please remember to link to the submission!
+*You can also get [http://webchat.freenode.net/?channels=#wikipedia-en-help real-time chat help from experienced editors].
+:Thank you for your contributions to Wikipedia! [[User:Aggie80|The Ukulele Dude - Aggie80]] ([[User talk:Aggie80|talk]]) 13:06, 17 December 2013 (UTC)&lt;/div&gt;&lt;!--Template:Afc decline--&gt;&lt;/div&gt;
+	</talkpage>
+</article>

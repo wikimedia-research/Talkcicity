@@ -1,0 +1,16 @@
+<article id="23027558" title=Talk:Clive Calver>
+	<talkpage id="23027558" title="Talk:Clive Calver">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=Start
+|listas=Calver, Clive
+}}
+{{WikiProject Christianity|class=Start}}
+{{WikiProject Connecticut|importance=Low|class=Start}}
+{{WikiProject England|class=Start}}
+| blp=yes
+}}
+{{Image requested|people associated with religion}}
+	</talkpage>
+</article>

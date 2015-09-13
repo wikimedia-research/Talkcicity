@@ -1,0 +1,6 @@
+<article id="34874133" title=Talk:Samuel Fuller (priest)>
+	<talkpage id="34874133" title="Talk:Samuel Fuller (priest)">
+{{WikiProject Biography|living=no|class=start|listas=Fuller, Samuel|needs-photo = yes}}
+{{WikiProject Lincolnshire|class=Start|importance=low}}
+	</talkpage>
+</article>

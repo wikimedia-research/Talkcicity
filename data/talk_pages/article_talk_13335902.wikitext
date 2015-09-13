@@ -1,0 +1,5 @@
+<article id="13335902" title=User talk:CalebMichaels>
+	<talkpage id="13335902" title="User talk:CalebMichaels">
+[[Image:Stop x nuvola.svg|left|30px|]] '''You have been temporarily [[Wikipedia:Blocking policy|blocked]] from editing Wikipedia {{#if:{{{1|}}}|for a period of {{{1|}}}}} {{#if:{{{2|}}}|as a result of your creation of the inappropriate page [[:{{{2}}}]]|as a result of your creation of inappropriate pages}}.''' Please read up on [[Wikipedia:Vandalism|our vandalism policy]], [[Wikipedia:Notability|Wikipedia's notability guidelines]], and [[Wikipedia:Wikipedia is an encyclopedia|what Wikipedia is]].  You are welcome to edit Wikipedia when the block expires, but please only make pages and edits that improve Wikipedia.&lt;!-- Template:Test5article --&gt; ˉˉ&lt;sup&gt;[[User:Anetode|'''anetode''']]&lt;/sup&gt;[[User_talk:Anetode|╦╩]] 04:12, 19 September 2007 (UTC)
+	</talkpage>
+</article>

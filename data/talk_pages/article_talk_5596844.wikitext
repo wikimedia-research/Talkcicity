@@ -1,0 +1,21 @@
+<article id="5596844" title=User talk:Edroan>
+	<talkpage id="5596844" title="User talk:Edroan">
+&lt;!-- Template:Welcomelaws --&gt;
+'''Welcome!'''&lt;br&gt;Hello and [[Wikipedia:Welcome, newcomers|welcome]] to [[Wikipedia]]. Thank you for [[Special:Contributions/{{PAGENAME}}|your contributions]]. I hope you like the place and decide to stay. The following links will help you begin editing on Wikipedia:
+*[[Wikipedia:Five pillars|The Five Pillars of Wikipedia]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Wikipedia:Tutorial|Editing tutorial]]
+*[[Wikipedia:Picture tutorial|Picture tutorial]]
+*[[Wikipedia:How to write a great article|How to write a great article]]
+*[[Wikipedia:Naming conventions|Naming conventions]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+
+'''Please bear these points in mind while editing Wikipedia:'''
+* Please [[Wikipedia:Copyrights|respect others' copyrights]]; do not copy and paste the contents from webpages directly.
+* Please use a [[Wikipedia:Neutral point of view|neutral point of view]] when editing articles; this is possibly the most important Wikipedia policy.
+* If you are testing, please use the [[Wikipedia:Sandbox|Sandbox]] to [http://en.wikipedia.org/w/index.php?title=Wikipedia:Sandbox&amp;action=edit do so]. 
+* Do not add unreasonable contents into any [[Wikipedia:What is an article|articles]], such as: [[copyright]]ed text, advertisement messages, and text that is not related to an article's subject. Adding such unreasonable information or otherwise editing articles maliciously is considered [[Wikipedia:Vandalism|vandalism]], and will result in your account being blocked.
+
+The [[Wikipedia:Tutorial|Wikipedia Tutorial]] is a good place to start learning about Wikipedia. If you have any questions, see the [[Wikipedia:Help|help pages]], add a question to the [[Wikipedia:village pump|village pump]] or ask me on &lt;!-- [[{{ns:3}}:{{{1}}}|my Talk page]] (broken) --&gt; my talk page. By the way, you can sign your name on Talk and vote pages using three tildes, like this: &amp;#126;&amp;#126;&amp;#126;. Four tildes (&amp;#126;&amp;#126;&amp;#126;&amp;#126;) produces your name and the current date. Again, welcome! &amp;mdash;[[User:Kf4bdy|&lt;font color=&quot;red&quot;&gt;&lt;b&gt;&lt;i&gt;Kf4bdy&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;]] &lt;sup&gt;[[User_talk:Kf4bdy|&lt;font color=&quot;blue&quot;&gt;talk&lt;/font&gt;]]&lt;/sup&gt; &lt;sup&gt;[[Special:Contributions/Kf4bdy|&lt;font color=&quot;black&quot;&gt;contribs&lt;/font&gt;]]&lt;/sup&gt;
+	</talkpage>
+</article>

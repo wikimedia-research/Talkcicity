@@ -1,0 +1,6 @@
+<article id="47386611" title=User talk:ATVUK>
+	<talkpage id="47386611" title="User talk:ATVUK">
+== July 2015 ==
+[[File:Information orange.svg|25px|alt=Information icon]] Please do not remove content or templates from pages on Wikipedia, as you did to [[:James Arthur (singer)]], without giving a valid reason for the removal in the [[Help:Edit summary|edit summary]]. Your content removal does not appear constructive and has been [[Help:Reverting|reverted]]. Please make use of the [[Wikipedia:Sandbox|sandbox]] if you'd like to experiment with test edits. Thank you.&lt;!-- Template:uw-delete2 --&gt; [[User:Cannolis|Cannolis]] ([[User talk:Cannolis|talk]]) 22:32, 30 July 2015 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,11 @@
+<article id="35001729" title=Talk:Tripti Mitra>
+	<talkpage id="35001729" title="Talk:Tripti Mitra">
+{{Talk header}}
+{{WikiProject Biography
+|living=no
+|class=
+}}
+{{WikiProject India|class=start|importance=low|bengal=yes|bengal-importance=low|assess-date=March 2012}}
+{{Find sources 2}}
+	</talkpage>
+</article>

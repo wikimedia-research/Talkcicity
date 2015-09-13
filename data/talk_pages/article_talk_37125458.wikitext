@@ -1,0 +1,5 @@
+<article id="37125458" title=Talk:Ice (1998 film)>
+	<talkpage id="37125458" title="Talk:Ice (1998 film)">
+{{WPFILM|class=stub}}
+	</talkpage>
+</article>

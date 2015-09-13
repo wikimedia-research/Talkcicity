@@ -1,0 +1,20 @@
+<article id="40087512" title=User talk:Cyborian>
+	<talkpage id="40087512" title="User talk:Cyborian">
+==Welcome!==
+
+Hello, Cyborian, and welcome to Wikipedia! Thank you for [[Special:Contributions/Cyborian|your contributions]]. I hope you like the place and decide to stay. Here are a few links to pages you might find helpful:
+*[[Wikipedia:Introduction|Introduction to Wikipedia]]
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Help:Editing|How to edit a page]] and [[Wikipedia:Article development|How to develop articles]]
+*[[Wikipedia:Your first article|How to create your first article]] 
+*[[Wikipedia:Simplified Manual of Style|Simplified Manual of Style]]
+Please remember to [[Wikipedia:Signatures|sign]] your messages on [[Help:Using talk pages|talk page]]s by typing four [[tilde]]s (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically insert your username and the date. If you need help, check out [[Wikipedia:Questions]], ask me on my talk page, or ask your question on this page and then place &lt;code&gt;&lt;nowiki&gt;{{help me}}&lt;/nowiki&gt;&lt;/code&gt; before the question. Again, welcome! &lt;!-- Template:Welcome --&gt;
+
+== July 2013 ==
+
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:BracketBot|BracketBot]]. I have automatically detected that [//en.wikipedia.org/w/index.php?diff=566079910 your edit] to [[List of films set in ancient Rome]] may have broken the [[syntax]] by modifying 1 &quot;()&quot;s. If you have, don't worry, just [{{fullurl:List of films set in ancient Rome|action=edit&amp;minor=minor&amp;summary=Fixing+typo+raised+by+%5B%5BUser%3ABracketBot%7CBracketBot%5D%5D}} edit the page] again to fix it. If I misunderstood what happened, or if you have any questions, you can leave a message on [//en.wikipedia.org/w/index.php?action=edit&amp;preload=User:A930913/BBpreload&amp;editintro=User:A930913/BBeditintro&amp;minor=&amp;title=User_talk:A930913&amp;preloadtitle=BracketBot%20-%20{{subst&lt;/noinclude&gt;:REVISIONUSER}}&amp;section=new my operator's talk page].
+:List of unpaired brackets remaining on the page:
+*&lt;nowiki&gt;(2001 film)|Quo Vadis]]'' (2001) – a Polish superproduction directed by [[Jerzy Kawalerowicz]]&lt;/nowiki&gt;{{red|'''&amp;#41;'''}}&lt;nowiki&gt;&lt;/nowiki&gt;
+Thanks, &lt;!-- (-1, 0, 0, 0) --&gt;&lt;!-- User:BracketBot/inform --&gt;[[User:BracketBot|BracketBot]] ([[User talk:BracketBot|talk]]) 23:39, 27 July 2013 (UTC)
+	</talkpage>
+</article>

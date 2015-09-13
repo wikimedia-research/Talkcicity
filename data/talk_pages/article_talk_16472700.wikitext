@@ -1,0 +1,5 @@
+<article id="16472700" title=Talk:Renaissance Elementary School>
+	<talkpage id="16472700" title="Talk:Renaissance Elementary School">
+{{WPSchools|class=Stub|importance=|needs-infobox=yes}}
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="43058952" title=Talk:Eindhoven–Weert railway>
+	<talkpage id="43058952" title="Talk:Eindhoven–Weert railway">
+{{WikiProject Trains|class=stub|importance=low|bycountry=yes}}
+{{WikiProject Netherlands|class=stub|importance=low}}
+	</talkpage>
+</article>

@@ -1,0 +1,7 @@
+<article id="9881529" title=Talk:McLaren F1 GTR>
+	<talkpage id="9881529" title="Talk:McLaren F1 GTR">
+{{WikiProject Automobiles |class=Start |importance=Low}}
+{{WikiProject Sports Car Racing}}
+{{dyktalk|10 March|2007|entry=...that the '''[[McLaren F1 GTR]]''', based on the production [[McLaren F1]] [[supercar]], won the [[1995 24 Hours of Le Mans]] in its first year against purpose-built [[Le Mans Prototype]]s?}}
+	</talkpage>
+</article>

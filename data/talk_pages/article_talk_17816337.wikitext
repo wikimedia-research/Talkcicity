@@ -1,0 +1,5 @@
+<article id="17816337" title=Talk:Zgornje Škofije>
+	<talkpage id="17816337" title="Talk:Zgornje Škofije">
+{{WikiProject Slovenia|class=stub|importance=low}}
+	</talkpage>
+</article>

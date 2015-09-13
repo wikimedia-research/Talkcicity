@@ -1,0 +1,22 @@
+<article id="9644484" title=Talk:Lorenzo Magnani>
+	<talkpage id="9644484" title="Talk:Lorenzo Magnani">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|listas=Magnani, Lorenzo
+
+|s&amp;a-work-group=yes
+}}
+{{WikiProject Philosophy|class=stub|importance=low|philosopher=yes}}
+{{WikiProject Italy}}
+| blp=yes
+}}
+
+
+
+==Which university==
+It is not clear whether Magnani is a visiting professor at [[Sun Yat-sen University]] in the [[People's Republic of China]] or at [[National Sun Yat-sen University]] in [[Taiwan]], [[Republic of China]].  There are no references in the article for this (or any other) information.  — [[User:Athaenara|Athaenara]] [[User talk:Athaenara| ✉ ]] 21:00, 27 August 2007 (UTC)
+:It is [[Sun Yat-sen University]], PRC, per the subject as received in OTRS ticket [[ticket:2011090810000877|2011090810000877]]. &amp;ndash;&amp;nbsp;[[User:Adrignola|Adrignola]]&amp;nbsp;&lt;small&gt;[[User talk:Adrignola|talk]]&lt;/small&gt; 17:13, 8 September 2011 (UTC)
+	</talkpage>
+</article>

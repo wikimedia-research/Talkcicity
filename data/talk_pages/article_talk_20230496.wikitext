@@ -1,0 +1,17 @@
+<article id="20230496" title=Talk:Alf Goullet>
+	<talkpage id="20230496" title="Talk:Alf Goullet">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=no
+|class=C
+|sports-priority=Low
+|sports-work-group=yes
+|listas=Goullet, Alf
+}}
+{{WikiProject Australia|class=C
+|importance=Low
+|sports=yes
+}}
+{{WikiProject Cycling|class=C}}
+}}
+	</talkpage>
+</article>

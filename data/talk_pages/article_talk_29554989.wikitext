@@ -1,0 +1,6 @@
+<article id="29554989" title=Talk:Adenanthos × pamela>
+	<talkpage id="29554989" title="Talk:Adenanthos × pamela">
+{{WikiProject Plants|class=C|importance=low|needs-photo=yes}}
+{{WP Australia|class=C|importance=low|biota=yes|WA=yes |WA-importance=low}}
+	</talkpage>
+</article>

@@ -1,0 +1,10 @@
+<article id="19981714" title=Talk:Charles Gordon, 2nd Earl of Aboyne>
+	<talkpage id="19981714" title="Talk:Charles Gordon, 2nd Earl of Aboyne">
+{{WPBiography
+|living=no
+|class=stub
+|peerage-work-group=yes
+|listas=Aboyne, Charles Gordon, 2nd Earl Of
+}}
+	</talkpage>
+</article>

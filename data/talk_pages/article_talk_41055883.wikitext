@@ -1,0 +1,6 @@
+<article id="41055883" title=Talk:25C-NBOH>
+	<talkpage id="41055883" title="Talk:25C-NBOH">
+{{WikiProject Pharmacology|class=stub|importance=low}}
+{{chemicals|class=stub|importance=low}}
+	</talkpage>
+</article>

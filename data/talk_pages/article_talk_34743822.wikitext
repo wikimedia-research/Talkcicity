@@ -1,0 +1,14 @@
+<article id="34743822" title=Talk:Hensodon>
+	<talkpage id="34743822" title="Talk:Hensodon">
+{{WikiProject Palaeontology
+|small=
+|class= stub
+|importance= Low
+|attention=
+|needs-taxobox=
+|needs-photo=
+}}
+
+{{Fishproject|class=stub|importance=low}}
+	</talkpage>
+</article>

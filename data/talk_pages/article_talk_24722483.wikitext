@@ -1,0 +1,15 @@
+<article id="24722483" title=Talk:Joseph Thornton (biologist)>
+	<talkpage id="24722483" title="Talk:Joseph Thornton (biologist)">
+{{WikiProject Biography
+|living=yes
+|class=
+|listas=Thornton, Joseph
+}}
+
+
+== Requested move ==
+
+[[User:Wakman/new article name here]] → [[Joseph (Joe) Thornton (biologist)]] — [New user not yet autoconfirmed.] --[[User:Wakman|Wakman]] ([[User talk:Wakman|talk]]) 07:23, 17 October 2009 (UTC)
+:Moved to ''Joseph Thornton (biologist'') per [[WP:NCP]] guidelines. Will create dablink from ''Joe Thornton''. [[User:Station1|Station1]] ([[User talk:Station1|talk]]) 20:22, 25 October 2009 (UTC)
+	</talkpage>
+</article>

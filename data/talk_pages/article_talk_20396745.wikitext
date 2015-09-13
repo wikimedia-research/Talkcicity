@@ -1,0 +1,11 @@
+<article id="20396745" title=User talk:Synfx>
+	<talkpage id="20396745" title="User talk:Synfx">
+== November 2008 ==
+&lt;div class=&quot;user-block&quot;&gt;[[Image:Stop_x_nuvola.svg|left|40px]]'''This account has been ''blocked indefinitely from editing Wikipedia'', because it has been identified as an account used for promotion of a company or group, with a username that implies that this has been done by that company or group.''' See '''[[Wikipedia:Business' FAQ]]''' and '''[[Wikipedia:Conflict of interest]]'''.
+
+This kind of activity is considered [[Wikipedia:Spam|spamming]] and is forbidden by Wikipedia policies.  In addition, the use of a username like yours violates [[Wikipedia:Username policy|our username policy]].  
+
+You may [[Wikipedia:Appealing a block|appeal this block]] by adding the text &lt;!-- Copy the text as it appears on your page, not as it appears in this edit area. Do not include the &quot;nowiki&quot; tags. --&gt;&lt;nowiki&gt;{{&lt;/nowiki&gt;unblock|''your reason here''&lt;nowiki&gt;}}&lt;/nowiki&gt;&lt;!-- Do not include the &quot;nowiki&quot; tags. --&gt; {{#switch:{{NAMESPACE}}|User talk=below|on [[Special:MyTalk|your user talk page]]}} or emailing the administrator who blocked you.  
+Your reason should include your response to this issue ''and'' a new username you wish to adopt that does not violate our [[Wikipedia:Username policy|username policy]] (specifically, understand that accounts are for individuals, not companies or groups, and that your username should reflect this).  Usernames that have already been taken are listed [[Special:ListUsers|here]]. {{#if:true|[[User:Ioeth|Ioeth]] &lt;sub&gt;([[User_talk:Ioeth|talk]] [[Special:Contributions/Ioeth|contribs]] [[WP:FRIENDLY|friendly]])&lt;/sub&gt; 20:09, 25 November 2008 (UTC)}}&lt;/div&gt;[[Category:Wikipedians who are indefinitely blocked for spamming]]&lt;!-- Template:Uw-spamublock --&gt;
+	</talkpage>
+</article>

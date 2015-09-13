@@ -1,0 +1,16 @@
+<article id="17304418" title=User talk:61.9.147.254>
+	<talkpage id="17304418" title="User talk:61.9.147.254">
+
+
+== May 2008 ==
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to contribute constructively to the encyclopedia, one or more of the external links you added {{#if:Rain garden|to the page [[:Rain garden]]}} do not comply with our [[Wikipedia:External links|guidelines for external links]] and have been removed. [[Wikipedia:What_Wikipedia_is_not#LINK|Wikipedia is not a collection of links]]; nor should it be used for [[Wikipedia:Spam|advertising]] or promotion. Since Wikipedia uses [[nofollow]] tags, external links do not alter search engine rankings. If you feel the link should be added to the article, please discuss it on the {{#if:Rain garden|[[talk:Rain garden|article's talk page]]|article's talk page}} before reinserting it. Please take a look at the [[Wikipedia:Welcome|welcome page]] to learn more about contributing to this encyclopedia. {{#if:&amp;nbsp;|&amp;nbsp;|Thank you.}}&lt;!-- Template:uw-spam1 --&gt;
+
+Your edit [http://en.wikipedia.org/w/index.php?title=Rain_garden&amp;diff=210763848&amp;oldid=210763548 here] was reverted by an automated bot that attempts to remove [[WP:NOT#REPOSITORY|unwanted links]] and [[WP:SPAM|spam]] from Wikipedia. If you were trying to insert a good link, please accept my creator's apologies, but note that the [[Wikipedia:External links|external link]] you added or changed is on my list of links to remove and probably shouldn't be included in Wikipedia.
+
+The external links I reverted were matching the following [[regex|regex rule(s)]]: rule: '\bsmugmug\.com' (link(s): http://www.smugmug.com/gallery/4866594_7sxbA) .
+
+Please read Wikipedia's [[WP:EL|external links guideline]] for more information, and consult my [[User:XLinkBot/Reversion reasons|list of frequently-reverted sites]]. For more information about me, see [[User:XLinkBot/FAQ|my FAQ page]]. Thanks! &lt;!-- Template:uw-spam1 --&gt;[[User:XLinkBot|XLinkBot]] ([[User talk:XLinkBot|talk]]) 08:38, 7 May 2008 (UTC)
+
+&lt;small&gt;If this is a shared [[IP address]], and you didn't make the edit, please ignore this notice.&lt;/small&gt;&lt;!-- Template:uw-spam1 --&gt;
+	</talkpage>
+</article>

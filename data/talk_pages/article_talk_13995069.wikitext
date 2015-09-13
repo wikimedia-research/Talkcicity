@@ -1,0 +1,9 @@
+<article id="13995069" title=User talk:59.152.90.107>
+	<talkpage id="13995069" title="User talk:59.152.90.107">
+{{{icon|[[Image:Information.svg|25px]] }}}Please refrain from making unconstructive edits to Wikipedia{{{{{subst|}}}#if:Bulletin board system|, as you did to [[:Bulletin board system]]}}. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism2 --&gt; —[[User:DerHexer|DerHexer]]&amp;nbsp;&lt;small&gt;[[User talk:DerHexer|(Talk)]]&lt;/small&gt; 00:02, 31 October 2007 (UTC)
+
+== November 2007 ==
+
+{{{icon|[[Image:Information.svg|25px]] }}}Please do not delete content from pages on Wikipedia, as you did to [[:Thread (computer science)]].  Your edits do not appear to be constructive and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use [[Wikipedia:Sandbox|the sandbox]] for test edits. Thank you.&lt;!-- Template:uw-delete2 --&gt; --[[User:Oxymoron83|Oxymoron]]&lt;sup&gt;[[User_talk:Oxymoron83|83]]&lt;/sup&gt; 15:39, 2 November 2007 (UTC)
+	</talkpage>
+</article>

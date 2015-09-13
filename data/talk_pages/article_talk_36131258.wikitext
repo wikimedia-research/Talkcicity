@@ -1,0 +1,5 @@
+<article id="35337255" title=Talk:On A Mission Tour>
+	<talkpage id="35337255" title="Talk:On A Mission Tour">
+{{Concert Tours}}
+	</talkpage>
+</article>

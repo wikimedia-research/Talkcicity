@@ -1,0 +1,46 @@
+<article id="24241963" title=User talk:Elitetraveler>
+	<talkpage id="24241963" title="User talk:Elitetraveler">
+==Welcome==
+Welcome to Wikipedia. Take a look at the [[Wikipedia:Introduction|welcome page]]. To stay in Wikipedia, an article has to be about something ''notable'', that is, of general interest.  Click on [[WP:NOTE|Notability]] for an explanation of what that means, and on [[WP:ORG|Notability (organizations and companies)]] for more detail. Also, it must give [[WP:IS|independently]] [[WP:V|verifiable sources]]. Articles that don't meet these requirements are likely to be [[WP:DP|deleted]].
+* For advice about creating articles, read the [[WP:Introduction|Introduction]] and the [[Wikipedia:Your_first_article|Guide to creating your first article]].
+* You should not write articles about [[WP:AUTO|yourself]], your band, your group, your client, your website or your best friend - that's a [[WP:COI|conflict of interest]].
+* '''Wikipedia is an [[WP:ENC|encyclopedia]], not a free [[WP:ADVERT|advertising service]] or a business directory. Please read [[WP:BFAQ|FAQ/Organizations]] before you write about your own product or organization.'''
+* For experiments, please use the [[WP:sandbox|sandbox]].
+[[User:JohnCD|JohnCD]] ([[User talk:JohnCD|talk]]) 17:01, 6 September 2009 (UTC)
+==[[Wikipedia:Criteria for speedy deletion|Speedy deletion]] nomination of [[:Elite Traveler]]==
+[[Image:Nuvola apps important.svg|left|48px|]]&lt;!-- use [[Image:Nuvola apps important yellow.svg|left|48px|]] for YELLOW flag --&gt;
+{{Quote box
+ | quote  = You may also wish to consider using a Wizard to help you create articles. See the [[Wikipedia:Article wizard2.0|Article Wizard]].'''''
+ | source = Thank you.
+ | width  = 20%
+ | align  = right
+}}
+A tag has been placed on '''[[:Elite Traveler]]''', requesting that it be speedily deleted from Wikipedia. This has been done under the [[WP:CSD#Articles|criteria for speedy deletion]], because the article seems to be blatant advertising that only promotes a company, product, group, service or person and would need to be fundamentally rewritten in order to become an encyclopedia article. Please read [[Wikipedia:Criteria for speedy deletion#G11|the general criteria for speedy deletion]], particularly item 11, as well as [[WP:SPAM|the guidelines on spam]]. 
+
+If you can indicate why the subject of this article is not blatant advertising, you may contest the tagging. To do this, please add &lt;code&gt;{{tl|hangon}}&lt;/code&gt; on the top of '''[[:Elite Traveler]]''' and leave a note on '''[[Talk:Elite Traveler|the article's talk page]]''' explaining your position. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the article that would help make it encyclopedic, as well as adding any [[Wikipedia:Citing sources|citations]] from independent [[Wikipedia:Reliable sources|reliable sources]] to ensure that the article will be [[Wikipedia:Verifiability|verifiable]]. Feel free to leave a note on my talk page if you have any questions about this.[[Category:User talk pages with Spam-warn notices||{{PAGENAME}}]]&lt;!-- Template:Spam-warn --&gt;  [[User:JohnCD|JohnCD]] ([[User talk:JohnCD|talk]]) 17:01, 6 September 2009 (UTC)
+
+==Conflict of Interest==
+[[Image:Information.svg|25px]] If you are affiliated with some of the people, places or things you have written about {{#if:|in the article [[{{{1}}}]]|on Wikipedia}}, you may have a [[Wikipedia:Conflict of interest|conflict of interest]].  In keeping with Wikipedia's [[Wikipedia:Neutral point of view|neutral point of view]] policy, edits where there is a conflict of interest, or where such a conflict might reasonably be inferred from the tone of the edit and the proximity of the editor to the subject, are strongly discouraged. If you have a conflict of interest, you should '''avoid''' or '''exercise great caution''' when:
+#'''editing''' or '''creating''' articles related to you, your organization, or its competitors, as well as projects and products they are involved with;
+#'''participating''' in [[Wikipedia:Deletion policy#Deletion_processes|deletion discussions]] about articles related to your organization or its competitors; and
+# '''linking''' to the Wikipedia article or website of your organization in other articles (see [[Wikipedia:Spam]]).
+
+Please familiarize yourself with relevant policies and guidelines, especially those pertaining to [[Wikipedia:Neutral point of view|neutral point of view]], [[Wikipedia:Verifiability|verifiability of information]], and [[Wikipedia:Autobiography|autobiographies]].
+
+For information on how to contribute to Wikipedia when you have conflict of interest, please see [[Wikipedia:FAQ/Organizations|our frequently asked questions for organizations]]. For more details about what, exactly, constitutes a conflict of interest, please see [[Wikipedia:Conflict of Interest|our conflict of interest guidelines]].  {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-coi --&gt;  [[User:JohnCD|JohnCD]] ([[User talk:JohnCD|talk]]) 17:31, 6 September 2009 (UTC)
+
+[[Image:Information.svg|25px]] [[Wikipedia:Introduction|Welcome]] to Wikipedia. It might not have been your intention, but you removed a [[Wikipedia:Speedy deletions|speedy deletion]] tag from {{#if:Elite Traveler | [[:Elite Traveler]],}} a page you have created yourself.  If you do not believe the page should be deleted, you can place a {{[[Template:hangon|hangon]]}} tag on the page, under the existing speedy deletion tag (please do not remove the speedy deletion tag), and make your case on the page's {{#if:Elite Traveler|[[{{TALKPAGENAME:Elite Traveler}}|talk page]]|talk page}}. Administrators will look at your reasoning before deciding what to do with the page. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-speedy1 --&gt; [[User:JohnCD|JohnCD]] ([[User talk:JohnCD|talk]]) 17:31, 6 September 2009 (UTC)
+
+
+&lt;div class=&quot;user-block&quot;&gt;[[Image:Information.svg|left|50px]]This account, ''{{BASEPAGENAME}}'', has been ''blocked indefinitely from editing Wikipedia'', because your username does not meet our [[Wikipedia:Username policy|username policy]].
+
+Names should not be offensive, disruptive, promotional, misleading, or related to a &quot;real-world&quot; group or organization. Also, usernames may not end in the word &quot;bot&quot; unless the account is an approved [[WP:BOT|bot account]].&lt;/br&gt;
+
+Please '''[[Special:Userlogin/signup|choose a new account name]]''' that meets our [[WP:U|policy]] guidelines. However, do not create a new account if you wish to credit your existing contributions to a new name through a '''[[Wikipedia:Changing username|username change]]'''. To request a username change:
+:# Add &lt;!-- Copy the text as it appears on your page, not as it appears in this edit area. Do not include the &quot;tlx&quot; argument. --&gt;{{tlx|unblock-un|''your new username here''}} {{#switch:{{NAMESPACE}}|User talk=below.|on [[Special:MyTalk|your user talk page]].}} You should be able to edit this talk page even though you are blocked. If not, you may wish to contact the blocking administrator by clicking on &quot;E-mail this user&quot; on their talk page.
+:# At an administrator's discretion, you may be unblocked for 24 hours to file a request.
+:# Please note that you may only request a name that is not already in use, so please check [[Special:ListUsers|here]] for a list of names that have already been taken. For more information, please see [[Wikipedia:Changing username]].
+
+If you feel that you were blocked in error, you may [[Wikipedia:Appealing a block|appeal this block]] by adding the text &lt;!-- Copy the text as it appears on your page, not as it appears in this edit area. Do not include the &quot;tlx&quot; argument. --&gt;{{tlx|unblock|Your reason here}} below, but you should read our [[Wikipedia:Guide to appealing blocks|guide to appealing blocks]] first. {{#if:yes|-- [[User:Edgar181|Ed]] ([[User talk:Edgar181|Edgar181]]) 18:04, 6 September 2009 (UTC)}}&lt;/div&gt;&lt;!-- Template:Uw-ublock --&gt;{{#switch:User talk|User|User talk=}}{{z12}}&lt;!-- Template:uw-ublock --&gt;
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="23700498" title=Talk:Gōbara Station>
+	<talkpage id="23700498" title="Talk:Gōbara Station">
+{{TrainsWikiProject|class=stub|importance=low|unref=yes|Japan=yes|stations=yes}}
+{{WikiProject Japan|class=stub|importance=low}}
+	</talkpage>
+</article>

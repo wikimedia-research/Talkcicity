@@ -1,0 +1,70 @@
+<article id="44105783" title=User talk:Rjoshi7722>
+	<talkpage id="44105783" title="User talk:Rjoshi7722">
+&lt;!-- Template from Template:WelcomeMenu --&gt;== Welcome! ==
+{| style=&quot;background-color:#F5FFFA; padding:0;&quot; cellpadding=&quot;0&quot;
+|class=&quot;MainPageBG&quot; style=&quot;border:1px solid lightgrey; background-color:lightgrey; vertical-align:top; color:#000000; font-size:85%&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;0&quot; cellspacing=&quot;5&quot; style=&quot;vertical-align:top; background-color:lavender; padding:0;&quot;
+! &lt;div style=&quot;margin:0; background-color:white; font-family:sans-serif; font-size:120%; font-weight:normal; border:1px solid lightgrey; text-align:left; padding-left:0.4em; padding-top:0.2em; padding-bottom:0.2em;&quot;&gt;Hello, Rjoshi7722! '''[[Wikipedia:Introduction|Welcome]] to Wikipedia!''' Thank you for [[Special:Contributions/Rjoshi7722|your contributions]]. You may benefit from following some of the links below, which will help you get the most out of Wikipedia. If you have any questions you can ask me on my talk page, or place '''&lt;tt&gt;{&amp;#123;helpme&amp;#125;}&lt;/tt&gt;''' on your [[Help:Using talk pages|talk page]] and ask your question there. Please remember to [[Wikipedia:Signatures|sign your name]] on talk pages by clicking [[File:Insert-signature.png|link=Wikipedia:How to sign your posts|alt=]] or by typing four tildes &quot;~&amp;#126;~~&quot;; this will automatically produce your name and the date. If you are already excited about Wikipedia,  you might want to consider being &quot;[[Wikipedia:Adopt-a-user|adopted]]&quot; by a more experienced editor or joining a [[Wikipedia:WikiProject|WikiProject]] to collaborate with others in creating and improving articles of your interest. Click [[Wikipedia:WikiProject Council/Directory|here]] for a directory of all the WikiProjects. Finally, please do your best to always fill in the [[Help:Edit summary|edit summary]] field when making edits to pages. Happy editing! [[User:I dream of horses|I dream of horses]] &lt;span style=&quot;border:1px solid #ffa500;background:#ffce7b;&quot;&gt;&lt;small&gt;If you reply here, please leave me a &amp;#123;&amp;#123;[[Template:Talkback|Talkback]]&amp;#125;&amp;#125; message on [[User talk:I dream of horses|my talk page]].&lt;/small&gt;&lt;/span&gt; @  02:43, 14 October 2014 (UTC)
+|}
+{| width=&quot;100%&quot; style=&quot;background-color:white;&quot;
+|class=&quot;MainPageBG&quot; style=&quot;width: 55%; border:1px solid white; background-color:lightgrey; vertical-align:top&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;0&quot; cellspacing=&quot;5&quot; style=&quot;vertical-align:top; background-color:Lavender&quot;
+! &lt;div style=&quot;margin: 0; background-color:white; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid lightgrey; text-align:left; color:grey; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Getting Started&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+*[[Wikipedia:Contributing to Wikipedia|Contributing to Wikipedia]] 
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]] •  [[Wikipedia:Tutorial|Tutorial]] • [[Wikipedia:Your first article|Your first article]]
+* How to: [[Help:Editing|edit a page]] • [[Wikipedia:Uploading images|upload an image]]
+|-
+! &lt;div style=&quot;margin: 0; background:white; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid lightgrey; text-align:left; color:grey; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Getting Help&lt;/div&gt;
+|-
+| style=&quot;color:#000&quot;|
+* [[Wikipedia:FAQ|Frequently Asked Questions]]
+* [[Wikipedia:New contributors' help page|New contributors' help page]]
+* Where to: [[Wikipedia:Questions|ask questions]] • [[Wikipedia:Requests|make requests]]
+* [[Wikipedia:Requests for administrator attention|Request administrator attention]]
+|-
+! &lt;div style=&quot;margin: 0; background:white; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid lightgrey; text-align:left; color:grey; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Policies and Guidelines&lt;/div&gt;
+|-
+| style=&quot;color:#000&quot;|
+* [[Wikipedia:Neutral point of view|Neutral point of view]] • [[Wikipedia:Identifying reliable sources|Reliable sources]]
+* [[Wikipedia:Verifiability|Verifiability]] • [[Help:Introduction to referencing/1|Citing sources]] • [[Wikipedia:No original research|No original research]]
+* [[Wikipedia:What Wikipedia is not|What Wikipedia is not]] • [[Wikipedia:Biographies of living persons|Biographies of living persons]]
+&lt;hr /&gt;
+* [[Wikipedia:Simplified Manual of Style|Simplified Manual of Style]] • [[Wikipedia:Edit warring#The three-revert rule|Three-revert rule]]
+* [[Wikipedia:Copyrights|Copyrights]] • [[Wikipedia:Non-free content|Policy for non-free content]] • [[Wikipedia:Image use policy|Image use policy]]
+* [[Wikipedia:External links|External links]] • [[Wikipedia:Spam|Spam]] • [[Wikipedia:Vandalism|Vandalism]] • [[Wikipedia:Sock puppetry|Sock puppetry]]
+* [[Wikipedia:Deletion policy|Deletion policy]] • [[Wikipedia:Conflict of interest|Conflict of interest]] • [[Wikipedia:Notability|Notability]]
+|-
+|}
+|class=&quot;MainPageBG&quot; style=&quot;width: 55%; border:1px solid lightgrey; background-color:Seashell; vertical-align:top&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;0&quot; cellspacing=&quot;5&quot; style=&quot;vertical-align:top; background-color:Seashell&quot;
+! &lt;div style=&quot;margin: 0; background-color:white; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid lightgrey; text-align:left; color:grey; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;The Community&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Community portal|Community Portal]]  • [[Wikipedia:Adopt-a-user|Adopt-a-user program]] 
+* [[Wikipedia:Assume good faith|Assume good faith]] • [[Wikipedia:Civility|Civility]] • [[Wikipedia:Etiquette|Etiquette]]
+* [[Wikipedia:No personal attacks|No personal attacks]] • [[Wikipedia:Dispute resolution|Resolving disputes]]
+* [[Wikipedia:Consensus|Build consensus]] • [[Wikipedia:Village pump|Village pump]]
+* [[Wikipedia:IRC|IRC channels]] • [[Wikipedia:Mailing lists|Mailing lists]]
+* [[Wikipedia:Wikipedia Signpost|Discover what's going on in the Wikimedia community (''The Signpost'')]]
+|-
+! &lt;div style=&quot;margin: 0; background-color:white; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid lightgrey; text-align:left; color:grey; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Things to do&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* '''[[Wikipedia:Be bold|Be bold in editing]]''' • [[Wikipedia:Article development|Help develop an article]]
+* [[Wikipedia:Maintenance|Maintenance]] • [[Wikipedia:Peer review|Peer review]] • [[Wikipedia:Requested articles|Requested articles]]
+* [[Wikipedia:WikiProject|Join a WikiProject]] • [[Wikipedia:Translation|Translating articles]]
+* Cleaning up: [[Wikipedia:Cleanup|General]] • [[Wikipedia:WikiProject Spam|Spam]] • [[Wikipedia:Cleaning up vandalism|Vandalism]]
+|-
+! &lt;div style=&quot;margin: 0; background-color:white; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid lightgrey; text-align:left; color:grey; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Miscellaneous&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Categorization|Categories]] • [[Wikipedia:Disambiguation|Disambiguity]] • [[Wikipedia:Stub|Stubs]]
+* [[Wikipedia:User pages|User pages]] • [[Help:Using talk pages|Talk pages]]
+* [[Wikipedia:Template messages|Useful templates]] • [[Wikipedia:Tools|Tools]] • [[Wikipedia:WikiProject User scripts|User scripts]]
+|}
+|}
+|}&lt;!--Template:WelcomeMenu--&gt;
+	</talkpage>
+</article>

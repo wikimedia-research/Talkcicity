@@ -1,0 +1,5 @@
+<article id="40097596" title=Talk:World Diamond Congress>
+	<talkpage id="40097596" title="Talk:World Diamond Congress">
+{{WikiProject International relations|class=stub}}
+	</talkpage>
+</article>

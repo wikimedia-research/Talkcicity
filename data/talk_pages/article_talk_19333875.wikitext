@@ -1,0 +1,12 @@
+<article id="19333875" title=User talk:79.97.117.168>
+	<talkpage id="19333875" title="User talk:79.97.117.168">
+
+
+== September 2008 ==
+Welcome to Wikipedia. Although everyone is welcome to contribute constructively to the encyclopedia, your addition of one or more external links to the page [[:Battle of the Boyne]] has been reverted. Your edit [http://en.wikipedia.org/w/index.php?title=Battle_of_the_Boyne&amp;diff=238654915&amp;oldid=236032467 here] was reverted by an automated bot that attempts to remove [[WP:NOT#REPOSITORY|unwanted links]] and [[WP:SPAM|spam]] from Wikipedia.  The external link you added or changed is on my list of links to remove and probably shouldn't be included in Wikipedia.	 The external links I reverted were matching the following [[regex|regex rule(s)]]: rule: 'meathtourism\.ie' .
+
+If you were trying to insert an [[Wikipedia:External links|external link]] that does comply with our [[Wikipedia:List of policies|policies]] and [[Wikipedia:List of guidelines|guidelines]], then please accept my creator's apologies and feel free to undo the bot's revert.  Please read Wikipedia's [[WP:EL|external links guideline]] for more information, and consult my [[User:XLinkBot/Reversion reasons|list of frequently-reverted sites]]. For more information about me, see [[User:XLinkBot/FAQ|my FAQ page]]. Thanks! --[[User:XLinkBot|XLinkBot]] ([[User talk:XLinkBot|talk]]) 20:15, 15 September 2008 (UTC)
+
+&lt;small&gt;If this is a shared [[IP address]], and you didn't make the edit, please ignore this notice.&lt;/small&gt;
+	</talkpage>
+</article>

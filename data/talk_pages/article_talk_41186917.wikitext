@@ -1,0 +1,6 @@
+<article id="41186917" title=Talk:U 564>
+	<talkpage id="41186917" title="Talk:U 564">
+{{WPMILHIST|class=Redirect}}
+{{WPSHIPS|class=red}}
+	</talkpage>
+</article>

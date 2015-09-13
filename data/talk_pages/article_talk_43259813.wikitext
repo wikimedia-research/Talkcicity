@@ -1,0 +1,5 @@
+<article id="43259813" title=Talk:Johnson Formation>
+	<talkpage id="43259813" title="Talk:Johnson Formation">
+{{WikiProject Geology|class=stub |importance=low}}
+	</talkpage>
+</article>

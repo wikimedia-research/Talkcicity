@@ -1,0 +1,5 @@
+<article id="14300985" title=Talk:Beat It (film)>
+	<talkpage id="14300985" title="Talk:Beat It (film)">
+{{WikiProject Film|class=stub|needs-image=yes|American-task-force=yes|Silent=yes}}
+	</talkpage>
+</article>

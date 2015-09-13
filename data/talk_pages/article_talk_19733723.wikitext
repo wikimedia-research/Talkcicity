@@ -1,0 +1,5 @@
+<article id="19733723" title=Talk:Agatówka, Stalowa Wola County>
+	<talkpage id="19733723" title="Talk:Agatówka, Stalowa Wola County">
+{{WikiProject Poland|class=Stub|importance=low}}
+	</talkpage>
+</article>

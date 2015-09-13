@@ -1,0 +1,6 @@
+<article id="16890009" title=Talk:Filioara River>
+	<talkpage id="16890009" title="Talk:Filioara River">
+{{WikiProject Romania|class=Stub|importance=low}}
+{{WikiProject Rivers|class=stub|importance=low}}
+	</talkpage>
+</article>

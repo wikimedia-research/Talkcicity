@@ -1,0 +1,14 @@
+<article id="39670917" title=Talk:Luis Felipe Henao Cardona>
+	<talkpage id="39670917" title="Talk:Luis Felipe Henao Cardona">
+{{WikiProject Biography
+|living =yes
+|class =start
+|listas = Henao Cardona, Luis Felipe
+|politician-work-group =yes
+|politician-priority =mid
+|activepol =yes
+|needs-photo =yes
+}}
+{{WP Colombia|class=start|importance=high}}
+	</talkpage>
+</article>

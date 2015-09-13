@@ -1,0 +1,9 @@
+<article id="36964019" title=Talk:Edward Patrick Roche>
+	<talkpage id="36964019" title="Talk:Edward Patrick Roche">
+{{WikiProject Biography
+|living=no
+|class=
+|listas=Roche, Edward Patrick
+}}
+	</talkpage>
+</article>

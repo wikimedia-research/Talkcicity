@@ -1,0 +1,5 @@
+<article id="23196166" title=Talk:Calf (anatomy)>
+	<talkpage id="23196166" title="Talk:Calf (anatomy)">
+{{WikiProject Anatomy |class=Start |importance=Mid |field=gross}}
+	</talkpage>
+</article>

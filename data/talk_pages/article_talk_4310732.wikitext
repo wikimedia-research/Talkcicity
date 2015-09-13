@@ -1,0 +1,29 @@
+<article id="4310732" title=User talk:Piceainfo>
+	<talkpage id="4310732" title="User talk:Piceainfo">
+==Welcome==
+Hello, '''{{PAGENAME}}''', and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia. Thank you for [[Special:Contributions/{{PAGENAME}}|your contributions]]. I hope you like the place and decide to stay. If you are stuck, and looking for help, please come to the '''[[Wikipedia:Boot Camp|Wikipedia Boot Camp]]''', where experienced Wikipedians can answer any queries you have! Or, you can just type '''&lt;code&gt;{&amp;#123;helpme}}&lt;/code&gt;''' on your user page, and someone will show up shortly to answer your questions. Here are a few good links for newcomers: 
+*[[Wikipedia:Five pillars|The Five Pillars of Wikipedia]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Wikipedia:Tutorial|Editing tutorial]]
+*[[Wikipedia:Picture tutorial|Picture tutorial]]
+*[[Wikipedia:How to write a great article|How to write a great article]]
+*[[Wikipedia:Naming conventions|Naming conventions]]
+*[[Wikipedia:Manual of Style|Manual of Style]] 
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! By the way, you can sign your name on Talk and vote pages using three tildes, like this: &amp;#126;&amp;#126;&amp;#126;. Four tildes (&amp;#126;&amp;#126;&amp;#126;&amp;#126;) produces your name and the current date. If you have any questions, see the [[Wikipedia:Help|help pages]], add a question to the [[Wikipedia:village pump|village pump]] or ask me on &lt;!-- [[{{ns:3}}:kukini|my Talk page]] (broken) --&gt; my talk page. Again, welcome! [[User:Kukini|Kukini]] 19:31, 7 March 2006 (UTC)
+==License tagging for Image:Armynavy14s.jpg==
+Thanks for uploading [[:Image:Armynavy14s.jpg]]. Wikipedia gets thousands of images uploaded every day, and in order to verify that the images can be legally used on Wikipedia, the source and copyright status must be indicated. Images need to have an [[Wikipedia:Image copyright tags|image tag]] applied to the [[Wikipedia:Image description page|image description page]] indicating the copyright status of the image. This uniform and easy-to-understand method of indicating the license status allows potential re-users of the images to know what they are allowed to do with the images.
+
+For more information on using images, see the following pages:
+* [[Wikipedia:Image use policy]]
+* [[Wikipedia:Image copyright tags]]
+
+This is an automated notice by [[User:OrphanBot|OrphanBot]]. If you need help on selecting a tag to use, or in adding the tag to the image description, feel free to post a message at [[Wikipedia:Media copyright questions]]. 19:05, 30 January 2007 (UTC)
+==Image source problem with Image:Allred med.png==
+[[Image:Information_icon.svg|left|Image Copyright problem]]
+'''This is an automated message from a [[Wikipedia:Bots|robot]]'''. You have recently uploaded '''[[:Image:Allred med.png]]'''. The file's description page currently doesn't specify who created the content, so the [[copyright]] status is unclear. If you did not create this file yourself, you will need to specify the owner of the copyright. If you obtained it from a website, then a link to the website from which it was taken, together with a restatement of that website's terms of use of its content, is usually sufficient information. However, if the copyright holder is different from the website's publisher, their copyright should also be acknowledged.
+
+As well as adding the source, please add a proper copyright licensing tag if the file doesn't have one already. If you created/took the picture, audio, or video then the {{Tl|GFDL-self}} tag can be used to release it under the [[GFDL]]. If you believe the media meets the criteria at [[Wikipedia:Non-free content]], use a tag such as {{tlp|non-free fair use in|article name}} or one of the other tags listed at [[Wikipedia:Image copyright tags#Fair use]]. See [[Wikipedia:Image copyright tags]] for the full list of copyright tags that you can use.
+
+If you have uploaded other files, consider checking that you have specified their source and tagged them, too. You can find a list of files you have uploaded by following [http://en.wikipedia.org/w/index.php?title=Special:Log&amp;type=upload&amp;user=Piceainfo this link]. '''Unsourced and untagged images may be deleted one week after they have been tagged''', as described on [[wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. If the image is copyrighted under a [[Wikipedia:Image copyright tags/Fair use|non-free license]] (per [[Wikipedia:Fair use]]) then '''the image will be deleted [[WP:CSD#I7|48 hours]] after 16:10, 7 September 2007 (UTC)'''. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|Media copyright questions page]]. '''If you believe you received this message in error, please notify [[user_talk:OsamaK|the bot's owner]].''' &lt;!-- Template:Di-no source-notice --&gt; [[User:OsamaKBOT|OsamaKBOT]] 16:10, 7 September 2007 (UTC)
+	</talkpage>
+</article>

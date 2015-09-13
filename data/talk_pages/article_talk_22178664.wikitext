@@ -1,0 +1,7 @@
+<article id="22178664" title=Talk:International Teaching Centre>
+	<talkpage id="22178664" title="Talk:International Teaching Centre">
+{{WikiProject Bahá'í Faith|class=Stub|importance=}}
+{{WikiProject Israel|class=stub}}
+{{reqphoto|in=Israel}}
+	</talkpage>
+</article>

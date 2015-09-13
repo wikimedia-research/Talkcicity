@@ -1,0 +1,5 @@
+<article id="42328948" title=Talk:Perron (staircase)>
+	<talkpage id="42328948" title="Talk:Perron (staircase)">
+{{translated page|de|Freitreppe|version=118418665|insertversion=582866783|small=no}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="35664833" title=Talk:Tanzwoche>
+	<talkpage id="35664833" title="Talk:Tanzwoche">
+{{WikiProject Germany |importance=|class=stub}}
+	</talkpage>
+</article>

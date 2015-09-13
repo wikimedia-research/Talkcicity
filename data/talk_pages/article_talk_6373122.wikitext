@@ -1,0 +1,11 @@
+<article id="6373122" title=Talk:John G. Hanna>
+	<talkpage id="6373122" title="Talk:John G. Hanna">
+{{WikiProject Biography
+|living=no
+|class=Stub
+|auto=yes
+|listas=Hanna, John G.
+}}
+{{WikiProject United States|class=Stub|importance=Low|TX=yes|TX-importance=Low}}
+	</talkpage>
+</article>

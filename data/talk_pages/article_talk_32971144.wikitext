@@ -1,0 +1,7 @@
+<article id="32971144" title=User talk:41.34.42.72>
+	<talkpage id="32971144" title="User talk:41.34.42.72">
+== September 2011 ==
+[[Image:Information.svg|25px|alt=|link=]] Welcome to Wikipedia. It might not have been your intention, but your recent edit removed content from [[:2017 Africa Cup of Nations]]. When removing content, please specify a reason in the [[Help:Edit summary|edit summary]] and discuss edits that are likely to be controversial on the article's [[Wikipedia:Talk page|talk page]]. If this was a mistake, don't worry; the content has been restored, as you can see from the &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/w/index.php?title=2017_Africa_Cup_of_Nations&amp;action=history page history]&lt;/span&gt;. Take a look at the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing to this encyclopedia, and if you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]].  Thank you.&lt;!-- Template:uw-delete1 --&gt; [[User:Mathonius|Mathonius]] ([[User talk:Mathonius|talk]]) 22:04, 3 September 2011 (UTC)
+:''If this is a [[closed proxy|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

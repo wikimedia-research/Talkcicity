@@ -1,0 +1,5 @@
+<article id="7498325" title=Talk:Giles Corner, South Australia>
+	<talkpage id="7498325" title="Talk:Giles Corner, South Australia">
+{{WP Australia|place=yes|SA=yes|class=Stub}}
+	</talkpage>
+</article>

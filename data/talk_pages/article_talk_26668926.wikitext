@@ -1,0 +1,5 @@
+<article id="26668926" title=User talk:81.96.192.86>
+	<talkpage id="26668926" title="User talk:81.96.192.86">
+Please do not add nonsense to Wikipedia{{#if:|, as you did {{#if:|with [{{{diff}}} this edit]}} to the [[:{{{1}}}]] page|{{#if:|, as you did with [{{{diff}}} this edit]}}}}. Such edits are considered [[Wikipedia:Vandalism template link|vandalism]] and quickly undone. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]] instead. Thank you. &lt;!-- Template:Test2 (second level warning) --&gt; '''''[[User:Tyrenius|&lt;font color=&quot;#880088&quot;&gt;Ty&lt;/font&gt;]]''''' 13:55, 23 March 2010 (UTC)
+	</talkpage>
+</article>

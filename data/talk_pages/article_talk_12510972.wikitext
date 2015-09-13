@@ -1,0 +1,5 @@
+<article id="12510972" title=Talk:U.S. Route 52 in Virginia>
+	<talkpage id="12510972" title="Talk:U.S. Route 52 in Virginia">
+{{USRD|type=US|state=VA|needs-map=no|class=start|importance=mid|needs-jctint=no|needs-kml=no}}
+	</talkpage>
+</article>

@@ -1,0 +1,11 @@
+<article id="34955936" title=Talk:Louise Sophie of Hanau-Lichtenberg>
+	<talkpage id="34955936" title="Talk:Louise Sophie of Hanau-Lichtenberg">
+{{WikiProject Biography
+|living=no
+|class=Stub
+|listas=Louise Sophie of Hanau-Lichtenberg
+}}
+{{Translated page|de|Luise Sophie von Hanau}}
+[[User:HansM|HansM]] ([[User talk:HansM|talk]]) 16:17, 3 March 2012 (UTC)
+	</talkpage>
+</article>

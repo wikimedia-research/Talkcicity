@@ -1,0 +1,6 @@
+<article id="41595360" title=Talk:1979 World Taekwondo Championships>
+	<talkpage id="41595360" title="Talk:1979 World Taekwondo Championships">
+{{WikiProject Martial arts|class=Start|taekwando=yes}}
+{{WikiProject Germany|class=Start|importance=Low|sports=yes}}
+	</talkpage>
+</article>

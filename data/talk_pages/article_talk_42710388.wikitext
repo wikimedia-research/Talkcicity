@@ -1,0 +1,12 @@
+<article id="24566869" title=Talk:Sibbald>
+	<talkpage id="24566869" title="Talk:Sibbald">
+{{WikiProject Canada|geography=yes|ab=yes|community=yes|class=stub|importance=low}}
+
+== Name origin ==
+Has anyone carried out research into the name Sibbald and how this area came to be known as Sibbald? Is it from the Scottish surname Sibbald? [[User:183.177.120.28|183.177.120.28]] ([[User talk:183.177.120.28|talk]]) 03:07, 27 November 2011 (UTC) 
+
+:From ''Alberta Place Names'' by Larry Donovan &amp; Tom Monto (2006, Dragon Hill Publishing Ltd.)...
+::&quot;There are different stories of how this hamlet received its name. Perhaps it was named after John Sibbald, a railway engineer, or possibly after Frank Sibbald, an early rancher in the area.&quot;
+:The book doesn't confirm the heritage of either person. [[User:Hwy43|Hwy43]] ([[User talk:Hwy43|talk]]) 03:24, 27 November 2011 (UTC)
+	</talkpage>
+</article>

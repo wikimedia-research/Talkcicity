@@ -1,0 +1,5 @@
+<article id="40539655" title=Talk:Dorinda Pillow Elementary>
+	<talkpage id="40539655" title="Talk:Dorinda Pillow Elementary">
+{{WikiProject Schools |class= |importance= }}
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="28324034" title=Talk:2009 Brașov Challenger – Doubles>
+	<talkpage id="28324034" title="Talk:2009 Brașov Challenger – Doubles">
+{{WikiProject Tennis|class=stub|importance=low}}
+{{WikiProject Romania}}
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="10487163" title=Talk:Austerlands>
+	<talkpage id="10487163" title="Talk:Austerlands">
+{{WikiProject England|class=Stub|importance=low}}
+{{WikiProject Greater Manchester|class=stub|importance=Low}}
+	</talkpage>
+</article>

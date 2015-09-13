@@ -1,0 +1,33 @@
+<article id="35319282" title=User talk:Srisharmaa>
+	<talkpage id="35319282" title="User talk:Srisharmaa">
+== [[Tirumala_Venkateswara_Temple]] ==
+
+your are invited.Please Participate in the  discussion.
+[[http://en.wikipedia.org/wiki/Talk:Tirumala_Venkateswara_Temple#Requested_move_2]][[User:Eshwar.om|&lt;font color=&quot;red&quot;&gt;Eshwar&lt;/font&gt;&lt;font color=&quot;green&quot;&gt;.om&lt;/font&gt;]][[User talk:Eshwar.om|&lt;sup&gt;&lt;font color=&quot;blue&quot;&gt;Talk to&lt;/font&gt;&lt;/sup&gt;&lt;sup&gt;&lt;font color=&quot;pink&quot;&gt;me&lt;/font&gt;&lt;/sup&gt;]] 23:06, 11 January 2013 (UTC)
+
+== March 2013 ==
+[[Image:Information.svg|25px|alt=|link=]] Hello, I'm [[User:Barkeep|Barkeep]]. I noticed that you made a change to an article, [[:Holika]], but you didn't provide a [[Wikipedia:Identifying reliable sources|reliable source]]. It's been removed for now, but if you'd like to [[Wikipedia:Citing sources|include a citation]] and re-add it, please do so! If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Barkeep|my talk page]]. Thank you. &lt;!-- Template:uw-unsourced1 --&gt; &lt;i&gt;&lt;font face=&quot;Verdana&quot;&gt;[[User:Barkeep|&lt;font color=&quot;Purple&quot;&gt;'''Barkeep'''&lt;/font&gt;]]&lt;/font&gt;&lt;/i&gt;&lt;sup&gt;[[User talk:Barkeep|&lt;font color=&quot;Gray&quot;&gt;'''''Chat'''''&lt;/font&gt;]]&lt;/sup&gt;/&lt;sub&gt;[[Special:Contributions/Barkeep|&lt;font color=&quot;Gray&quot;&gt;'''''$'''''&lt;/font&gt;]]&lt;/sub&gt; 04:52, 27 March 2013 (UTC)
+
+[[Image:Information.svg|25px|alt=|link=]] Please do not add or change content, as you did to [[:Holika]], without [[Wikipedia:Verifiability|verifying]] it by citing a [[Wikipedia:Identifying reliable sources|reliable source]]. Please review the guidelines at [[Wikipedia:Citing sources]] and take this opportunity to add references to the article. Thank you.&lt;!-- Template:uw-unsourced2 --&gt; —[[User:MelbourneStar|&lt;font color=&quot;#E62020&quot;&gt;Mel&lt;/font&gt;&lt;font color=&quot;#FF2400&quot;&gt;bourne&lt;/font&gt;&lt;font color=&quot;#FF7538&quot;&gt;Star&lt;/font&gt;]]&lt;font color=&quot;#FF9F00&quot;&gt;☆&lt;/font&gt;[[User talk:MelbourneStar|&lt;sup&gt;&lt;font color=&quot;3D0376&quot;&gt;''talk''&lt;/font&gt;&lt;/sup&gt;]] 08:21, 27 March 2013 (UTC)
+==[[Wikipedia talk:Articles for creation/A1 milk]] concern==
+Hi there, I'm [[User:HasteurBot|HasteurBot]]. I just wanted to let you know that [[Wikipedia talk:Articles for creation/A1 milk]], a page you created, has not been edited in at least 180 days.  The Articles for Creation space is not an indefinite storage location for content that is not appropriate for articlespace.
+
+If your submission is not edited soon, it could be nominated for deletion.  If you would like to attempt to save it, you will need to improve it.
+
+You may request [[WP:USERFY|Userfication]] of the content if it meets requirements.
+
+If the deletion has already occured, instructions on how you may be able to retrieve it are available at [[WP:REFUND/G13]].
+
+Thank you for your attention. [[User:HasteurBot|HasteurBot]] ([[User talk:HasteurBot|talk]]) 17:56, 20 August 2013 (UTC)
+==Your draft article, [[Wikipedia talk:Articles for creation/A1 milk]]==
+[[File:Information icon4.svg|48px|left|alt=|link=]]
+
+Hello Srisharmaa. It has been over six months since you last edited your [[WP:AFC]] draft article submission, entitled &quot;[[Wikipedia talk:Articles for creation/A1 milk|A1 milk]]&quot;. 
+
+The page will shortly be deleted. If you plan on editing the page to address the issues raised when it was declined and resubmit it, simply {{edit|Wikipedia talk:Articles for creation/A1 milk|edit the submission}} and remove the {{tlc|db-afc}} or {{tlc|db-g13}} code. Please note that Articles for Creation is not for indefinite hosting of material deemed unsuitable for the encyclopedia [[WP:mainspace|mainspace]].
+
+If your submission has already been deleted by the time you get there, and you want to retrieve it, copy this code: &lt;code&gt;&lt;nowiki&gt;{{subst:Refund/G13|&lt;/nowiki&gt;Wikipedia talk:Articles for creation/A1 milk&lt;nowiki&gt;}}&lt;/nowiki&gt;&lt;/code&gt;, paste it in the edit box at &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/w/index.php?title=Wikipedia:Requests_for_undeletion&amp;action=edit&amp;section=new this link]&lt;/span&gt;, click &quot;Save&quot;, and an administrator will in most cases undelete the submission.
+
+Thanks for your submission to Wikipedia, and happy editing. &lt;!-- Template:Db-afc-notice --&gt; [[User:HasteurBot|HasteurBot]] ([[User talk:HasteurBot|talk]]) 19:31, 28 December 2013 (UTC)
+	</talkpage>
+</article>

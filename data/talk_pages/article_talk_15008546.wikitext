@@ -1,0 +1,11 @@
+<article id="15008546" title=User talk:Farleigh71>
+	<talkpage id="15008546" title="User talk:Farleigh71">
+
+
+
+==Disputed fair use rationale for Image:IMG 4606.jpg==
+Thanks for uploading '''[[:Image:IMG 4606.jpg]]'''. However, there is a concern that the rationale you have provided for using this image under &quot;fair use&quot; may be invalid. Please read the instructions at [[Wikipedia:Non-free content]] carefully, then go to the image description page and clarify why you think the image qualifies for fair use. Using one of the templates at [[Wikipedia:Fair use rationale guideline]] is an easy way to ensure that your image is in compliance with Wikipedia policy, but remember that you must complete the template. Do not simply insert a blank template on an image page.
+
+If it is determined that the image does not qualify under fair use, it will be deleted within a couple of days according to our [[Wikipedia:Criteria for speedy deletion#Images/media|criteria for speedy deletion]]. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|media copyright questions page]]. Thank you.&lt;!-- Template:No fair --&gt;[[User:BetacommandBot|BetacommandBot]] ([[User talk:BetacommandBot|talk]]) 19:26, 2 January 2008 (UTC)
+	</talkpage>
+</article>

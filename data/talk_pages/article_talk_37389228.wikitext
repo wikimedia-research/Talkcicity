@@ -1,0 +1,6 @@
+<article id="37389228" title=Talk:De panzazo>
+	<talkpage id="37389228" title="Talk:De panzazo">
+{{WikiProject Film|needs-image=yes|class=Start}}
+{{WikiProject Mexico|class=Start|importance=Low}}
+	</talkpage>
+</article>

@@ -1,0 +1,10 @@
+<article id="14949116" title=Talk:Charlotte Riddell>
+	<talkpage id="14949116" title="Talk:Charlotte Riddell">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=no|class=Start|a&amp;e-work-group=yes|listas=Riddell, Charlotte}}
+{{WikiProject Ireland|class=Start|importance=Low|listas=Riddell, Charlotte}}
+{{WikiProject Northern Ireland|class=Start|importance=|listas=Riddell, Charlotte}}
+{{WikiProject Women writers|class=start|importance=|auto=inherit}}
+}}
+	</talkpage>
+</article>

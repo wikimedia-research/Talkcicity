@@ -1,0 +1,32 @@
+<article id="2212915" title=Talk:National Defence University of Warsaw>
+	<talkpage id="2212915" title="Talk:National Defence University of Warsaw">
+{{WikiProject Poland|class=start|importance=low}}
+{{WikiProject Military history|class=start|Polish=y}}
+
+==Untitled==
+It seems to me, that this article is primarily a history of the schools that led up to the creation of the Academy of National Defense. And while none of them have enough information to warrant their own independent articles, this article needs to either be split into the individual pages, updated to actually tell about the AofND, or renamed to reflect the fact that it is more a History of Military Academies in Poland. As it is, there is nothing that really describes the school currently, or even when it's name was changed from Academy of the General Staff. [[User:Bornyesterday|Bornyesterday]] 15:01, July 11, 2005 (UTC)
+
+Was it organized in 1946 or 1947? Both numbers are in the article.[[User:Xx236|Xx236]] 14:44, 8 March 2007 (UTC)
+
+==National Defense ''Academy''==
+:''[[:pl:Akademia Obrony Narodowej|Akademia Obrony Narodowej]]'' is wrong when it renders its name in English as &quot;[[National Defence University in Warsaw|National Defence ''University]]''&quot;.  
+:Since when does &quot;''akademia''&quot; mean &quot;university&quot;?
+:This is typical Polish [[name]] [[inflation]] of recent years.
+:Another example is &quot;''akademia medyczna''&quot; (e.g., &quot;''Akademia Medyczna we Wrocławiu''&quot;), rendered as &quot;medical university&quot; (&quot;Wrocław Medical University&quot;).  The [[United States]] has [[medical school|medical ''schools'']], not &quot;medical ''universities''&quot;.
+:The [[United States]], too, has a [[military academy|military ''academy'']] — the [[United States Military Academy]] at West Point.  So far, in this field, the United States has not yielded to the [[megalomania]] of calling it a &quot;[[university]]&quot;.  [[User:Nihil novi|Nihil novi]] ([[User talk:Nihil novi|talk]]) 22:17, 20 November 2011 (UTC)
+::This is Wikipedia - not place for own original research. As you can [http://www.aon.edu.pl/wspolpraca-i-rozwoj/proces-bolonski/ects-catalogue/947-about-ndu see here], official translation of the name of this school is &quot;National Defence University&quot;. Exactly the same, like official translation of the &quot;Politechnika Warszawska&quot; is the &quot;Warsaw University of Technology&quot;. Academies in different countrys have different meanings - Akademia Obrony Narodowej alias National Defense Academy in Warsaw, is the highest rank school, with the rights to award the highest scientific degrees, including PhD and professor. --[[User:Matrek|Matrek]] ([[User talk:Matrek|talk]]) 00:25, 21 November 2011 (UTC)
+::::An institution doesn't have to call itself a &quot;[[university]]&quot; in order to have professors or to grant doctorates.  
+::::Please see &quot;[[Institute of Technology (United States)]]&quot;.
+::::What is wrong with &quot;Polytechnic,&quot; in English (the word ''does'' exist in English!), for a Polish &quot;''politechnika''&quot; such as [[Institute of technology#Poland|'''''these''''']]?
+::::I do not doubt that you do not have authority to rectify these Polish errors in [[nomenclature]].
+::::But maybe someday someone will read this who does.
+::::Thank you for your comments.  [[User:Nihil novi|Nihil novi]] ([[User talk:Nihil novi|talk]]) 04:19, 21 November 2011 (UTC)
+:::::Yes, you're right, we can not discuss with official nomenclature, but it is, like its is. Additionally, there is a big difference between Polish Akademia Obrony Narodowej and United States Military Academy at West Point that you mentioned - AON is much higher school than West Point. The West Point is an officer's school, on the same scientific level like Polish [[Tadeusz Kościuszko Land Forces Military Academy]]. Polish AON is rather scientific equivalent of US National Defense University, because AON do not provide training to obtain officer's ranks. Instead of that, AON is a typical educational and scietific institution, that provides education for a master and higher degrees, for civilians and officers already --[[User:Matrek|Matrek]] ([[User talk:Matrek|talk]]) 12:59, 21 November 2011 (UTC)
+:::A interesting point. By our own definition, ''[[Military academy]]'' prepares candidates for service in the officer corps. Meanwhile, according to webpage, AON doesn't train candidates for military officers (&quot;uczelnia nie prowadzi kształcenia kandydatów na żołnierzy zawodowych&quot;), only administrators, business managers and scientists. [http://www.aon.edu.pl/en/oferta-ksztalcenia/studia-licencjackie] — [[User:A. Kupicki|A. Kupicki]] ([[User talk:A. Kupicki|talk]]) 19:18, 25 November 2011 (UTC)
+::::That's the point. --[[User:Matrek|Matrek]] ([[User talk:Matrek|talk]]) 21:25, 26 November 2011 (UTC)
+:::::Historically, a [[university]] has tended to cultivate a broad range of [[academic discipline]]s; while single disciplines or relatively narrow bundles of disciplines have been treated at [[institutes]], which sometimes have been constituents within a university.
+:::::If you don't like &quot;[[academy]]&quot; for &quot;''Akademia'' Obrony Narodowej,&quot; how about &quot;National Defense ''Institute''&quot;?  [[User:Nihil novi|Nihil novi]] ([[User talk:Nihil novi|talk]]) 03:13, 27 November 2011 (UTC)
+::::::I'm not sure, but as far as I know, institutes do not provide education. They are pure scientific institutions. And after all, it seems to me that this is an original research. At the Wikipedia we are not entitled to do our own research and to determine ourself how the name should sound correctly --[[User:Matrek|Matrek]] ([[User talk:Matrek|talk]]) 01:27, 30 November 2011 (UTC)
+:::[[National Defence University]] would be my first choice. — [[User:A. Kupicki|A. Kupicki]] ([[User talk:A. Kupicki|talk]]) 03:36, 27 November 2011 (UTC)
+	</talkpage>
+</article>

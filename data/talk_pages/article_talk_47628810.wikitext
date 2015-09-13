@@ -1,0 +1,5 @@
+<article id="47628810" title=Talk:Olga Firsova>
+	<talkpage id="47628810" title="Talk:Olga Firsova">
+{{WikiProject Biography|living=yes}}
+	</talkpage>
+</article>

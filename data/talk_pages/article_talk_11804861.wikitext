@@ -1,0 +1,5 @@
+<article id="11804861" title=Talk:Pajęczno County>
+	<talkpage id="11804861" title="Talk:Pajęczno County">
+{{WikiProject Poland|class=stub|importance=}}
+	</talkpage>
+</article>

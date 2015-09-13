@@ -1,0 +1,5 @@
+<article id="14147491" title=Talk:4-(dimethylamino)phenylazoxybenzene reductase>
+	<talkpage id="14147491" title="Talk:4-(dimethylamino)phenylazoxybenzene reductase">
+{{Wikiproject MCB|importance=Low|class=Stub}}
+	</talkpage>
+</article>

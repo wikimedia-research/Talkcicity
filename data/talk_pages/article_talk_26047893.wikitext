@@ -1,0 +1,5 @@
+<article id="26047893" title=Talk:Tinja, Tunisia>
+	<talkpage id="26047893" title="Talk:Tinja, Tunisia">
+{{WikiProject Africa |Tunisia=yes |class=stub |importance=Low |Tunisia-importance=Low}}
+	</talkpage>
+</article>

@@ -1,0 +1,18 @@
+<article id="18532662" title=User talk:78.105.85.26>
+	<talkpage id="18532662" title="User talk:78.105.85.26">
+
+
+== Welcome ==
+[[Image:WikipediaUncleSam.JPG|right|200px]]Hello! I've noticed that you have edited Wikipedia without logging in to an account. It's great that you've been [[Special:Contributions/{{BASEPAGENAME}}|contributing]]{{#if:|, such as the one you made in [[{{{art}}}]]|}}; however, I urge you to create an account. Here is a list of the benefits of having an account:
+
+*You can [[Help:Starting a new page|create new pages]]
+*You can use [[Help:Watching pages|watchlists]]
+*You can [[Wikipedia:Uploading images|upload images]]
+*You can keep your account from being unfairly [[Wikipedia:Blocking_policy|blocked]] if you share an [[IP address]]
+*You can use [[Wikipedia:WikiProject User scripts|scripts]] to better fight annoying [[Wikipedia:Vandalism|vandalism]]
+*After four days, you can edit [[Wikipedia:Semi-protection policy|semi-protected pages]]
+
+There are '''no''' cons to signing up for an account. In fact, you can find even more pros at the [[Wikipedia:Why create an account|&quot;why create an account&quot;]] page! Signing up is completely free and you don't need to enter any personal information! Plus you can have a user page, which you can use to show your interests, style, or [[WP:USER#What may I not have on my user page?|nearly]] whatever! So, unless you can think of a con, please [[Special:Userlogin|sign up]] for an account right now! 
+&lt;font color=&quot;amaranth&quot;&gt;[[User:Shapiros10|Shapiros10]]&lt;/font&gt;''''' &lt;sup&gt;&lt;font color=&quot;chocolate&quot;&gt;[[User talk:Shapiros10|contact me]]&lt;/font&gt;&lt;/sup&gt;'''''&lt;sub&gt;&lt;font color=&quot;bistre&quot;&gt;[[Special:Contributions/Shapiros10|My work]]&lt;/font&gt;&lt;/sub&gt; 23:30, 21 July 2008 (UTC)
+	</talkpage>
+</article>

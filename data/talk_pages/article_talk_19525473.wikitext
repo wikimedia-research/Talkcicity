@@ -1,0 +1,23 @@
+<article id="19525473" title=Talk:Christina Liebherr>
+	<talkpage id="19525473" title="Talk:Christina Liebherr">
+{{Talk header}}
+{{WikiProjectBannerShell|blp=yes|collapsed=yes|1=
+{{WikiProject Olympics|class=Stub|importance=|auto=yes}}
+{{WikiProject Biography
+  |living=yes
+  |class=Stub
+  |sports-priority=Low
+  |sports-work-group=yes
+  |listas=Liebherr, Christina
+  }}
+{{WikiProject Equine
+  |class=Stub
+  |importance=Low
+  }}
+{{WikiProject Switzerland
+  |class=Stub
+  |importance=Low
+  }}
+}}
+	</talkpage>
+</article>

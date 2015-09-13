@@ -1,0 +1,12 @@
+<article id="28370043" title=User talk:Benflop>
+	<talkpage id="28370043" title="User talk:Benflop">
+
+== August 2010 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Firefly_(mobile_phone)?diff=379030766 recent edit]&lt;/span&gt; that you made to the page [[:Firefly (mobile phone)]] has been reverted, as it appears to be unconstructive. Please use the [[Wikipedia:Sandbox|sandbox]] for testing any edits; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]] for further information. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:Tide rolls|'''&lt;span style=&quot;color:White;background:darkRed&quot;&gt;Tide&lt;/span&gt;''']][[User talk:Tide rolls|'''&lt;span style=&quot;color:darkRed&quot;&gt;rolls'''&lt;/span&gt;]] 11:32, 15 August 2010 (UTC)
+
+[[Image:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia, as you did with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Firefly_(mobile_phone)?diff=379031268 this edit]&lt;/span&gt; to the page [[:Firefly (mobile phone)]]. Such edits constitute [[Wikipedia:Vandalism|vandalism]] and are [[Help:Reverting|reverted]]. Please do not continue to make unconstructive edits to pages; use the [[Wikipedia:Sandbox|sandbox]] for testing. Thank you. &lt;!-- Template:uw-huggle2 --&gt; [[User:TutterMouse|tutterMouse]] ([[User talk:TutterMouse|talk]]) 11:37, 15 August 2010 (UTC)
+
+[[Image:Nuvola apps important.svg|25px]] Please do not add [[Wikipedia:Citing sources|unsourced]] or [[Wikipedia:No original research|original content]]{{#if:Firefly (mobile phone)|, as you did with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Firefly_(mobile_phone)?diff=379031726 this edit]&lt;/span&gt; to [[:Firefly (mobile phone)]]}}. Doing so violates Wikipedia's [[Wikipedia:Verifiability|verifiability policy]]. If you continue to do so, you will be [[Wikipedia:Blocking policy|blocked]] from editing Wikipedia.&lt;!-- Template:uw-huggle3 --&gt; [[User:TutterMouse|tutterMouse]] ([[User talk:TutterMouse|talk]]) 11:42, 15 August 2010 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,8 @@
+<article id="20344844" title=User talk:74.161.35.93>
+	<talkpage id="20344844" title="User talk:74.161.35.93">
+
+== November 2008 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Mexican_cuisine?diff=253441851 recent edit]&lt;/span&gt; you made to [[:Mexican cuisine]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; '''[[User:Spencer|&lt;span style=&quot;color:#082567&quot;&gt;Spencer&lt;/span&gt;]]'''&lt;sup&gt;[[User talk:Spencer|&lt;span style=&quot;color:#FFBF00&quot;&gt;T♦&lt;/span&gt;]]&lt;/sup&gt;&lt;sup&gt;[[Special:Contributions/Spencer|&lt;span style=&quot;color:#FFBF00&quot;&gt;C&lt;/span&gt;]]&lt;/sup&gt; 19:15, 22 November 2008 (UTC)
+	</talkpage>
+</article>

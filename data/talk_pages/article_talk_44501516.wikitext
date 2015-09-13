@@ -1,0 +1,5 @@
+<article id="39816555" title=Talk:(385250) 2001 DH47>
+	<talkpage id="39816555" title="Talk:(385250) 2001 DH47">
+{{WikiProject Astronomy|object=yes|class=start|importance=low}}
+	</talkpage>
+</article>

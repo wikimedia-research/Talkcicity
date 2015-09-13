@@ -1,0 +1,10 @@
+<article id="44552320" title=Talk:Dodmore Cotton>
+	<talkpage id="44552320" title="Talk:Dodmore Cotton">
+{{WikiProject Biography
+|living=no
+|class=Stub
+|auto=yes
+}}
+{{WikiProject Great Britain}}
+	</talkpage>
+</article>

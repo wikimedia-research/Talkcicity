@@ -1,0 +1,9 @@
+<article id="15891350" title=Talk:Brewer and Nash model>
+	<talkpage id="15891350" title="Talk:Brewer and Nash model">
+{{WikiProjectBannerShell|1=
+{{WikiProject Education|class=Stub}}
+{{WikiProject Computer Security|class=Stub|importance=Low}}
+{{WikiProject Computing|class=Stub|importance=}}
+}}
+	</talkpage>
+</article>

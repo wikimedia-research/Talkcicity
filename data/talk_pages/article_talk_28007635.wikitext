@@ -1,0 +1,46 @@
+<article id="28007635" title=Talk:Licario/GA1>
+	<talkpage id="28007635" title="Talk:Licario/GA1">
+==GA Review==
+&lt;noinclude&gt;{{al|{{#titleparts:Licario/GA1|-1}}|noname=yes}}&lt;br/&gt;&lt;/noinclude&gt;&lt;includeonly&gt;:''This review is [[WP:transclusion|transcluded]] from [[Talk:Licario/GA1]]. The edit link for this section can be used to add comments to the review.''&lt;/includeonly&gt;
+&lt;!-- Please add all review comments below this comment, and do not alter what is above. To keep the review within a single section, please do not use level 2 headers (==...==) below to break up the review. Use level 3 (===...===), level 4 and so on.--&gt;
+
+'''Reviewer:''' [[User:Sturmvogel 66|Sturmvogel 66]] ([[User talk:Sturmvogel 66|talk]]) 22:23, 11 July 2010 (UTC)
+'''[[Wikipedia:Good article nominations|GA]] review – see [[WP:WIAGA]] for criteria'''
+{{#if:|&lt;hr width=50%&gt;|}}
+#Is it '''reasonably well written'''?
+#:A. Prose quality: {{GAList/check|y}} 
+#:: {{#if:One awkward tag to resolve.|One awkward tag to resolve.|}}
+#:B. [[Wikipedia:Manual of Style|MoS]] compliance: {{GAList/check|y}}
+#:: {{#if:||}}
+#Is it '''factually accurate''' and '''[[Wikipedia:Verifiability|verifiable]]'''?
+#:A. References to sources: {{GAList/check|y}} 
+#:: {{#if:||}}
+#:B. Citation of reliable sources where necessary: {{GAList/check|y}} 
+#:: {{#if:||}}
+#:C. [[Wikipedia:No original research|No original research]]: {{GAList/check|y}}
+#:: {{#if:||}}
+#Is it '''broad in its coverage'''?
+#:A. Major aspects: {{GAList/check|y}} 
+#:: {{#if:||}}
+#:B. Focused: {{GAList/check|y}}
+#:: {{#if:||}}
+#Is it '''[[WP:NPOV|neutral]]'''?
+#:Fair representation without bias: {{GAList/check|y}}
+#:: {{#if:||}}
+#Is it '''stable'''?
+#: No edit wars, etc: {{GAList/check|y}}
+#:: {{#if:||}}
+#Does it '''contain [[Wikipedia:Images|images]]''' to illustrate the topic?
+#:A. Images are copyright tagged, and non-free images have [[Wikipedia:Image_description_page#Use_rationale|fair use rationales]]: {{GAList/check|y}} 
+#:: {{#if:||}}
+#:B. Images are provided where possible and appropriate, with [[WP:CAP|suitable captions]]: {{GAList/check|y}}
+#:: {{#if:||}}
+#'''Overall''': 
+#:Pass or Fail: {{GAList/check|y}}
+#:: {{#if:||}}
+
+:Hello Sturmvogel! Thanks for taking the time to review this. I rephrased the tagged phrase, how does it look? Also, let me know if there is any other change/correction or some point you'd like to see explained or elaborated upon, beyond GA criteria. Best regards, [[User:Cplakidas|Constantine]]  [[User talk:Cplakidas| ✍ ]] 20:12, 15 July 2010 (UTC)
+::The reworded sentence is good, it was unclear as to who had died. I'd also suggest combining the two very short paragraphs in the early life section. And was he really an admiral as described in the lede? He seems more of a general, but these might have been overlapping terms as used by the Byzantines.--[[User:Sturmvogel 66|Sturmvogel 66]] ([[User talk:Sturmvogel 66|talk]]) 20:33, 15 July 2010 (UTC)
+:::Good. On your question, as you say, such things were more fluid back then, and any general might be appointed to lead a fleet. He was an admiral in so far as he led a fleet on a number of raids, and he did have the title of ''megas doux'' which made him a sort of &quot;Lord High Admiral&quot; (to borrow an older rendering of the term, or rather its function, into English). [[User:Cplakidas|Constantine]]  [[User talk:Cplakidas| ✍ ]] 20:37, 15 July 2010 (UTC)
+	</talkpage>
+</article>

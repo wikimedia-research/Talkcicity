@@ -1,0 +1,21 @@
+<article id="13675597" title=User talk:D3ppah0lic>
+	<talkpage id="13675597" title="User talk:D3ppah0lic">
+
+
+
+==Image copyright problem with Image:KamenashiKazuya.jpg==
+
+[[Image:Nuvola apps important.svg|32px|left|Image Copyright problem]]
+Thank you for uploading [[:Image:KamenashiKazuya.jpg]]. However, it currently is missing information on its copyright status. Wikipedia takes [[Wikipedia:Copyrights|copyright]] very seriously. It may be deleted soon, unless we can determine the '''license''' and the '''source''' of the image. If you know this information, then you can add a '''[[Wikipedia:Image copyright tags|copyright tag]]''' to the [[Help:Image page|image description page]].
+
+If you have any questions, please feel free to ask them at the [[Wikipedia:Media copyright questions|media copyright questions page]]. Thanks again for your cooperation. NOTE: once you correct this, please remove the tag from the image's page. [[User:STBotI|STBotI]] 09:27, 11 October 2007 (UTC)
+
+
+==Image copyright problem with Image:82068473 87bef7b00f.jpg==
+
+[[Image:Nuvola apps important.svg|32px|left|Image Copyright problem]]
+Thank you for uploading [[:Image:82068473 87bef7b00f.jpg]]. However, it currently is missing information on its copyright status. Wikipedia takes [[Wikipedia:Copyrights|copyright]] very seriously. It may be deleted soon, unless we can determine the '''license''' and the '''source''' of the image. If you know this information, then you can add a '''[[Wikipedia:Image copyright tags|copyright tag]]''' to the [[Help:Image page|image description page]].
+
+If you have any questions, please feel free to ask them at the [[Wikipedia:Media copyright questions|media copyright questions page]]. Thanks again for your cooperation. NOTE: once you correct this, please remove the tag from the image's page. [[User:STBotI|STBotI]] 09:30, 11 October 2007 (UTC)
+	</talkpage>
+</article>

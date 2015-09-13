@@ -1,0 +1,13 @@
+<article id="41709308" title=Talk:Curt Wiese>
+	<talkpage id="41709308" title="Talk:Curt Wiese">
+{{WikiProject Biography
+|living=yes
+|class=Start
+|sports-work-group=yes
+|sports-priority=
+|listas=Wiese, Curt
+}}
+{{WikiProject Wisconsin}}
+{{WikiProject College football|class=Start}}
+	</talkpage>
+</article>

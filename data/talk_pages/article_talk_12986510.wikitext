@@ -1,0 +1,12 @@
+<article id="12986510" title=Talk:Nyberg Automobile>
+	<talkpage id="12986510" title="Talk:Nyberg Automobile">
+{{Talk header}}
+{{WikiProjectBannerShell|1=
+{{WikiProject United States|class=stub|importance=low|IN=yes|IN-importance=low}}
+{{WikiProject Illinois|class=Stub|importance=Low}}
+{{WikiProject Chicago|class=Stub|importance=Low}}
+{{WikiProject Automobiles|class=stub|importance=low}}
+}}
+{{Image requested|cars}}
+	</talkpage>
+</article>

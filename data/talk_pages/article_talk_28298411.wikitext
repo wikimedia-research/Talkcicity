@@ -1,0 +1,38 @@
+<article id="28298411" title=User talk:Nodexpert>
+	<talkpage id="28298411" title="User talk:Nodexpert">
+{{puppetmaster|Mrzahidfarooq}}
+== August 2010 ==
+[[File:Information.svg|25px|alt=]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of [[Special:Contributions/Nodexpert|your recent edits]], such as the one you made to [[:List of companies of Pakistan]], did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; [[User:Ben Ben|Ben Ben]] ([[User talk:Ben Ben|talk]]) 15:37, 8 August 2010 (UTC)
+
+== Conflict of interest &amp; username problem ==
+
+[[Image:Information.svg|25px]]  '''Welcome to Wikipedia.''' Everyone is welcome to contribute constructively to the encyclopedia. However, the [[WP:ORGNAME|username]] you have chosen seems to imply that you are editing on behalf of a group, company or website.
+
+&lt;u&gt;There are two issues with this&lt;/u&gt;:
+# '''You may have a [[WP:COI|conflict of interest]].''' In keeping with Wikipedia's [[WP:NPOV|neutral point of view]] policy, you must exercise great caution when editing on topics related to your organization.
+# '''Your account [[WP:NOSHARE|cannot represent a group of people]].''' You may wish to [[Special:Userlogin/signup|create a new account]] with a username that represents only you. Alternatively, you may consider [[WP:CHU|changing your username]] to avoid giving the impression that your personal account is being used for [[WP:Spam|promotional purposes]].
+
+Regardless of whether you change your name or create a new account, '''''you are not exempted''''' from the guideline to avoid editing where you have a conflict of interest. For information on how to contribute to Wikipedia when you have a conflict of interest, please see [[Wikipedia:FAQ/Organizations|our frequently asked questions for organizations]].&lt;!-- Template:uw-coi-username --&gt; Thank you. [[Special:Contributions/69.181.249.92|69.181.249.92]] ([[User talk:69.181.249.92|talk]]) 16:12, 8 August 2010 (UTC)
+
+==[[Wikipedia:Proposed deletion|Proposed deletion]] of [[Nodexpert]]==
+[[Image:Ambox warning yellow.svg|left|48px|]]
+
+The article [[Nodexpert]] has been [[Wikipedia:Proposed deletion|proposed for deletion]]&amp;#32; because of the following concern:
+:'''Speedy was contested - non-notable company'''
+
+While all contributions to Wikipedia are appreciated, content or articles may be [[WP:DEL#REASON|deleted for any of several reasons]].
+
+You may prevent the proposed deletion by removing the &lt;code&gt;{{tl|dated prod}}&lt;/code&gt; notice, but please explain why in your [[Help:edit summary|edit summary]] or on [[Talk:Nodexpert|the article's talk page]].
+
+Please consider improving the article to address the issues raised. Removing &lt;code&gt;{{tl|dated prod}}&lt;/code&gt; will stop the [[Wikipedia:Proposed deletion|proposed deletion process]], but other [[Wikipedia:deletion process|deletion process]]es exist.  The [[Wikipedia:Criteria for speedy deletion|speedy deletion process]] can result in deletion without discussion, and [[Wikipedia:Articles for deletion|articles for deletion]] allows discussion to reach [[Wikipedia:Consensus|consensus]] for deletion.&lt;!-- Template:PRODWarning --&gt; -- [[User:Boing! said Zebedee|Boing! said Zebedee]] ([[User talk:Boing! said Zebedee|talk]]) 16:23, 8 August 2010 (UTC)
+
+&lt;div class=&quot;user-block&quot;&gt;[[Image:Information.svg|left|45px]]This account has been blocked indefinitely from editing Wikipedia because your username, ''Nodexpert'', does not meet our username policy.&lt;br /&gt;&lt;p&gt;'''Your username is the only reason for this block. You are welcome to choose a new username (see below).'''&lt;/p&gt;A username should not be promotional, related to a &quot;real-world&quot; group or organization, misleading, offensive, or disruptive. Also, usernames may not end in the word &quot;bot&quot; unless the account is an approved [[WP:BOT|bot account]].
+
+You are encouraged to '''[[Special:Userlogin/signup|choose a new account name]]''' that meets our [[WP:U|policy]] guidelines. Alternatively, if you have already made edits and you wish to keep your [[Special:MyContributions|existing contributions]] under a new name, then you may request a '''[[WP:CHU|change in username]]''' by:
+:# Adding &lt;!-- Copy the text as it appears on your page, not as it appears in this edit area. Do not include the &quot;tlx&quot; argument. --&gt;{{tlx|unblock-un|''your new username here''}} on [[Special:MyTalk|your user talk page]]. You should be able to do this even though you are blocked, as you can usually still edit your own talk page. If not, you may wish to contact the blocking administrator by clicking on &quot;E-mail this user&quot; on their talk page.
+:# At an administrator's discretion, you may be unblocked for 24 hours to file a request.
+:# Please note that you may only request a name that is not already in use, so please check [[Special:ListUsers|here]] for a listing of already taken names. The account is created upon acceptance, thus '''do not''' try to create the new account before making the request for a name change. For more information, please see [[Wikipedia:Changing username]].
+
+If you feel that you were blocked in error, you may [[Wikipedia:AAB|appeal this block]] by adding below this notice the text &lt;!-- Copy the text as it appears on your page, not as it appears in this edit area. Do not include the &quot;tlx&quot; argument. --&gt;{{tlx|unblock|Your reason here}}, but you should read our [[WP:GAB|guide to appealing blocks]] first. -- '''[[User:Cirt|Cirt]]''' ([[User talk:Cirt|talk]]) 17:56, 3 October 2010 (UTC)&lt;/div&gt;&lt;!-- Template:Uw-ublock --&gt;[[Category:Wikipedians who are indefinitely blocked for a violation of the username policy|{{PAGENAME}}]]{{z12}}&lt;!-- Template:uw-ublock --&gt;
+	</talkpage>
+</article>

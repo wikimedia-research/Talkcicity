@@ -1,0 +1,15 @@
+<article id="8560299" title=User talk:Susana G. Baylon>
+	<talkpage id="8560299" title="User talk:Susana G. Baylon">
+==Image tagging for Image:Chk7.jpg==
+Thanks for uploading '''[[:Image:Chk7.jpg]]'''. The image has been identified as not specifying the source and creator of the image, which is required by Wikipedia's policy on images. If you don't indicate the source and creator of the image on the image's description page, it may be deleted some time in the next seven days. If you have uploaded other images, please verify that you have provided source information for them as well.
+
+For more information on using images, see the following pages:
+* [[Wikipedia:Image use policy]]
+* [[Wikipedia:Image copyright tags]]
+
+This is an automated notice by [[User:OrphanBot|OrphanBot]]. For assistance on the image use policy, see [[Wikipedia:Media copyright questions]]. 08:08, 22 December 2006 (UTC)
+
+== File:Chk7.JPG listed for deletion ==
+A file that you uploaded or altered, [[:File:Chk7.JPG]], has been listed at [[Wikipedia:Files for deletion]]. Please see the [[Wikipedia:Files for deletion/2011 July 13#File:Chk7.JPG|'''discussion''']] to see why this is (you may have to search for the title of the image to find its entry), if you are interested in it not being deleted. {{#if:|{{{2}}}|Thank you.}} &lt;!-- Template:Fdw --&gt; [[User:Calliopejen1|Calliopejen1]] ([[User talk:Calliopejen1|talk]]) 15:41, 13 July 2011 (UTC)
+	</talkpage>
+</article>

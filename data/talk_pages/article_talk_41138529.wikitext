@@ -1,0 +1,9 @@
+<article id="41138529" title=Talk:Theodore Zichy>
+	<talkpage id="41138529" title="Talk:Theodore Zichy">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|class=Start|a&amp;e-work-group=yes|a&amp;e-priority=|listas=Zichy, Theodore|living=no}}
+{{WikiProject Great Britain|class=|importance=}}
+{{WikiProject Hungary|class=|importance=}}
+}}
+	</talkpage>
+</article>

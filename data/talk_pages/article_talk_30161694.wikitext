@@ -1,0 +1,5 @@
+<article id="30161694" title=Talk:List of solar eclipses in the 18th century BC>
+	<talkpage id="30161694" title="Talk:List of solar eclipses in the 18th century BC">
+{{WikiProject Eclipses|solar eclipse=Yes|solar eclipse-importance=|class=List|importance=}}
+	</talkpage>
+</article>

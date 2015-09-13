@@ -1,0 +1,5 @@
+<article id="30421317" title=Talk:List of Zoboomafoo episodes>
+	<talkpage id="30421317" title="Talk:List of Zoboomafoo episodes">
+{{WikiProject Television|episode-coverage=Yes|class=List|importance=}}
+	</talkpage>
+</article>

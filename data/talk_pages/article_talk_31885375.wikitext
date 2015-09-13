@@ -1,0 +1,8 @@
+<article id="31885375" title=User talk:189.41.213.5>
+	<talkpage id="31885375" title="User talk:189.41.213.5">
+
+== May 2011 ==
+
+&lt;div style=clear: both&gt;&lt;/div&gt;[[Image:Information.svg|25px|alt=|link=]] Welcome to Wikipedia. It might not have been your intention, but your recent edit removed content from [[:Orkut]] with  &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Orkut?diff=430934923 this edit]&lt;/span&gt;. When removing content, please specify a reason in the [[Help:Edit summary|edit summary]] and discuss edits that are likely to be controversial on the article's [[Wikipedia:Talk page|talk page]]. If this was a mistake, don't worry; the content has been restored, as you can see from the &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/w/index.php?title=Orkut&amp;action=history page history]&lt;/span&gt;. Take a look at the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing to this encyclopedia, and if you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]].  Thank you. [[User:Kinaro|'''&lt;font face=&quot;Bradley Hand ITC&quot; size=&quot;2px&quot; color=&quot;green&quot;&gt;Kinaro&lt;/font&gt;''']]&lt;sup&gt;[[User talk:Kinaro|(talk)''']]&lt;/sup&gt;&lt;sup&gt;[[Special:Contributions/Kinaro| (contribs)]]&lt;/sup&gt; 00:26, 26 May 2011 (UTC)&lt;!-- Template:Huggle/warn-delete-1 --&gt;&lt;!-- Template:uw-delete1 --&gt;
+	</talkpage>
+</article>

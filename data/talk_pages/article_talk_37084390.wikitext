@@ -1,0 +1,6 @@
+<article id="33596574" title=Talk:Saruq District>
+	<talkpage id="33596574" title="Talk:Saruq District">
+{{WikiProject Geography|class=stub|importance=low}}
+{{WikiProject Iran |importance=|class=stub}}
+	</talkpage>
+</article>

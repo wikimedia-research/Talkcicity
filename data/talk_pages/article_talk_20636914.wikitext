@@ -1,0 +1,12 @@
+<article id="20636914" title=Talk:Hocus Corpus>
+	<talkpage id="20636914" title="Talk:Hocus Corpus">
+{{WikiProjectBannerShell|1=
+{{WikiProject Pennsylvania|class=Stub|importance=low|auto=yes}}
+{{WikiProject Pittsburgh|class=Stub|importance=low|auto=yes}}
+{{WikiProject Novels|class= Stub
+|importance= Low
+|needs-infobox-cover= yes
+}}
+}}
+	</talkpage>
+</article>

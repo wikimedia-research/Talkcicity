@@ -1,0 +1,6 @@
+<article id="36353337" title=Talk:The Heredity of Taste>
+	<talkpage id="36353337" title="Talk:The Heredity of Taste">
+{{WikiProject Japan|class=start|importance=low}}
+{{NovelsWikiProject|listas=Heredity of Taste, The|class=stub|importance=low}}
+	</talkpage>
+</article>

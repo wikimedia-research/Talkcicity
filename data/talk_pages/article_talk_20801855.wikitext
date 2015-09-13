@@ -1,0 +1,6 @@
+<article id="20801855" title=Talk:Tawa Railway Station>
+	<talkpage id="20801855" title="Talk:Tawa Railway Station">
+{{WikiProject New Zealand|importance=low|class=c}}
+{{WikiProject Trains|stations=yes|class=c|importance=low|NZR=yes|portaldykdate=September 23, 2010}}
+	</talkpage>
+</article>

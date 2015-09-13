@@ -1,0 +1,17 @@
+<article id="25935629" title=Talk:Ashley Naylor>
+	<talkpage id="25935629" title="Talk:Ashley Naylor">
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|musician-priority=Low
+|musician-work-group=yes
+|listas=Naylor, Ashley 
+}}
+{{WikiProject Australia
+|class=stub
+|importance=Low
+|music=yes
+|music-importance=low
+}}
+	</talkpage>
+</article>

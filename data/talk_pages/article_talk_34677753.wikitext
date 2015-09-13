@@ -1,0 +1,75 @@
+<article id="4378710" title=Talk:Tammar wallaby>
+	<talkpage id="4378710" title="Talk:Tammar wallaby">
+{{WikiProjectBannerShell|1=
+{{WikiProject Australia|class=FA|importance=Low|biota=yes}}
+{{WikiProject Mammals|class=FA|importance=low|Monotremes=yes|}}
+{{WikiProject Guild of Copy Editors}}
+}}{{ArticleHistory
+|action1=GAN
+|action1date=04:28, 15 July 2011
+|action1link=Talk:Tammar Wallaby/GA1
+|action1result=listed
+|action1oldid=439509813
+
+|action2=GAR
+|action2date=17:36, 3 February 2012
+|action2link=Talk:Tammar Wallaby/GA2
+|action2result=kept
+|action2oldid=474814999
+
+|action3=FAC
+|action3date=19:53, 24 February 2012
+|action3link=Wikipedia:Featured article candidates/Tammar wallaby/archive1
+|action3result=not promoted
+|action3oldid=478628595
+
+|action4=FAC
+|action4date=02:51, 6 July 2012
+|action4link=Wikipedia:Featured article candidates/Tammar wallaby/archive2
+|action4result=promoted
+|action4oldid=500885218
+
+|topic=natsci
+|maindate=3 December 2014
+|currentstatus=FA
+}}
+
+{{Talk:Tammar Wallaby/GA1}}
+{{Talk:Tammar Wallaby/GA2}}
+
+== Genome ==
+
+I am moving some text about the genome here. I don't think that it should be included in the general article about the tammar wallaby.
+
+The tammar wallaby's genome consists of 3.6 [[wikt:gigabase|gigabases]] and has a short genetic map length of 1172 [[centimorgan]]s.&lt;ref name=genome&gt;{{cite web|author=Marshall Graves, J. A; Wakefield, M. J.; Renfree, M. B.; Cooper, D. W.; Speed, T.; Lindblad-Toh, K.; Lander, E. S.; Wilson, R. K.|year=2003|title=Proposal to sequence the genome of the model marsupial ''Macropus eugenii'' (Tammar Wallaby)|publisher=[[National Human Genome Research Institute]]|url=http://www.genome.gov/Pages/Research/Sequencing/SeqProposals/WallabySEQ.pdf|pages=1–3|accessdate=13 June 2011}}&lt;/ref&gt;
+
+&lt;references /&gt;
+
+[[File:Tammar Wallaby.jpg|thumb|right|Tammars are easy to keep in captivity.]]
+
+This picture in the &quot;Genome&quot; section seems to show a wallaby eating something on the side of a tree. It does not illustrate the point made in the caption &quot;Tammars are easy to keep in captivity.&quot; [[User:Axl|&lt;font color=&quot;#808000&quot;&gt;'''Axl'''&lt;/font&gt;]] &lt;font color=&quot;#3CB371&quot;&gt;¤&lt;/font&gt; &lt;small&gt;[[User talk:Axl|&lt;font color=&quot;#808000&quot;&gt;[Talk]&lt;/font&gt;]]&lt;/small&gt; 09:16, 25 May 2012 (UTC)
+
+:I replaced it with the &lt;s&gt;Budapest&lt;s&gt; Buffalo zoo image. [[User:LittleJerry|LittleJerry]] ([[User talk:LittleJerry|talk]]) 03:58, 26 May 2012 (UTC)
+
+== Species ==
+
+From &quot;Taxonomy and classification&quot;, subsection &quot;Subspecies&quot;: &quot;''All the island tammars were once thought to be of one species.''&quot; Aren't they still thought to be one species? [[User:Axl|&lt;font color=&quot;#808000&quot;&gt;'''Axl'''&lt;/font&gt;]] &lt;font color=&quot;#3CB371&quot;&gt;¤&lt;/font&gt; &lt;small&gt;[[User talk:Axl|&lt;font color=&quot;#808000&quot;&gt;[Talk]&lt;/font&gt;]]&lt;/small&gt; 23:14, 2 June 2012 (UTC)
+
+The tammar wallaby is also native to new Zealand? The map in the infobox only shows Australia. [[User:Axl|&lt;font color=&quot;#808000&quot;&gt;'''Axl'''&lt;/font&gt;]] &lt;font color=&quot;#3CB371&quot;&gt;¤&lt;/font&gt; &lt;small&gt;[[User talk:Axl|&lt;font color=&quot;#808000&quot;&gt;[Talk]&lt;/font&gt;]]&lt;/small&gt; 23:17, 2 June 2012 (UTC)
+
+:The island tammars are not considered one species. With regards to the map, I can't find one with New Zealand, I think the natural range is more imporant but one is free to create a map with both the natural and introduced ranges. [[User:LittleJerry|LittleJerry]] ([[User talk:LittleJerry|talk]]) 01:08, 3 June 2012 (UTC)
+:: Ah, sorry, I misunderstood the meaning of the sentence about the island tammars. How about changing it to &quot;The island tammars were once thought to be a separate species from the mainland population.&quot; [[User:Axl|&lt;font color=&quot;#808000&quot;&gt;'''Axl'''&lt;/font&gt;]] &lt;font color=&quot;#3CB371&quot;&gt;¤&lt;/font&gt; &lt;small&gt;[[User talk:Axl|&lt;font color=&quot;#808000&quot;&gt;[Talk]&lt;/font&gt;]]&lt;/small&gt; 08:16, 3 June 2012 (UTC)
+
+== Phylogeny ==
+
+I have drawn a diagram of the of the phylogeny of marsupials based on the  figure in Renfree MB, Papenfuss AT, Deakin JE, et al. This might be useful. [[:File:Phylogeny of marsupials.png]] [[User:GrahamColm|Graham Colm]] ([[User talk:GrahamColm|talk]]) 17:53, 7 June 2012 (UTC)
+
+:Thanks, however I have one question. The source they cite for this tree actually gives [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2375000/figure/F2/ three trees] for ''Macropus'' phylogeny. Is is a problem? [[User:LittleJerry|LittleJerry]] ([[User talk:LittleJerry|talk]]) 18:33, 7 June 2012 (UTC)
+:Also, I would prefer a tree focused only on the ''Macropus'' genus. [[User:LittleJerry|LittleJerry]] ([[User talk:LittleJerry|talk]]) 18:36, 7 June 2012 (UTC)
+
+::The authors argue that the third tree is the closer approximation. Here is an edited version of my drawing, which shows the ''Macropodidae'' branch only. [[:File:Phylogeny of Macropodidae.png]] [[User:GrahamColm|Graham Colm]] ([[User talk:GrahamColm|talk]]) 20:44, 7 June 2012 (UTC)
+::: In the middle of the diagram, it is a little confusing as to which line corresponds to each species. Perhaps if you can bring the text slightly lower down and closer to the lines, that would be helpful. [[User:Axl|&lt;font color=&quot;#808000&quot;&gt;'''Axl'''&lt;/font&gt;]] &lt;font color=&quot;#3CB371&quot;&gt;¤&lt;/font&gt; &lt;small&gt;[[User talk:Axl|&lt;font color=&quot;#808000&quot;&gt;[Talk]&lt;/font&gt;]]&lt;/small&gt; 22:03, 7 June 2012 (UTC)
+:::I have tweaked it; you might have to flush your cache to see the difference. [[User:GrahamColm|Graham Colm]] ([[User talk:GrahamColm|talk]]) 22:21, 7 June 2012 (UTC)
+:::: Okay, it's a little better. Isn't it possible to bring the text right on top of the lines? [[User:Axl|&lt;font color=&quot;#808000&quot;&gt;'''Axl'''&lt;/font&gt;]] &lt;font color=&quot;#3CB371&quot;&gt;¤&lt;/font&gt; &lt;small&gt;[[User talk:Axl|&lt;font color=&quot;#808000&quot;&gt;[Talk]&lt;/font&gt;]]&lt;/small&gt; 22:51, 7 June 2012 (UTC)
+	</talkpage>
+</article>

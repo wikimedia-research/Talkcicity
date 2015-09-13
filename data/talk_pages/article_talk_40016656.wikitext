@@ -1,0 +1,5 @@
+<article id="40016656" title=Talk:Slavsky>
+	<talkpage id="40016656" title="Talk:Slavsky">
+{{DisambigProject|class=}}
+	</talkpage>
+</article>

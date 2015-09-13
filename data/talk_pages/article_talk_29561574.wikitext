@@ -1,0 +1,5 @@
+<article id="29561574" title=Talk:Metriochroa scotinopa>
+	<talkpage id="29561574" title="Talk:Metriochroa scotinopa">
+{{WikiProject Lepidoptera|class=stub|importance=low}}
+	</talkpage>
+</article>

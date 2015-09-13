@@ -1,0 +1,9 @@
+<article id="23399285" title=User talk:86.11.99.34>
+	<talkpage id="23399285" title="User talk:86.11.99.34">
+
+
+== June 2009 ==
+[[Image:Information.svg|left|25px]] Welcome, and thank you for experimenting with Wikipedia. Your test on the page [[:Recess (TV series)]] worked, and it has been '''automatically [[Help:Reverting|reverted]]'''. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|this encyclopedia]]. If you would like to experiment further, please use the [[Wikipedia:Sandbox|sandbox]]. '''If you believe there has been a mistake and would like to report a false positive, please [[User talk:X!|report it here]].''' Thank you.&lt;br /&gt; &lt;!-- Template:uw-test1 --&gt; [[User:SoxBot III|SoxBot III]] ([[User talk:SoxBot III|talk]] | [[User:X!|owner]]) 16:49, 26 June 2009 (UTC)
+:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
+	</talkpage>
+</article>

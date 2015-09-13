@@ -1,0 +1,5 @@
+<article id="19222504" title=Talk:Diarabakoko>
+	<talkpage id="19222504" title="Talk:Diarabakoko">
+{{WikiProject Africa|Burkina Faso=yes|class=stub|importance=low}}
+	</talkpage>
+</article>

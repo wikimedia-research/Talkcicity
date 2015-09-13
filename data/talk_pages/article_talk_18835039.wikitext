@@ -1,0 +1,19 @@
+<article id="18835039" title=Talk:USS Belle Isle (AG-73)>
+	<talkpage id="18835039" title="Talk:USS Belle Isle (AG-73)">
+{{WPMILHIST|class=Start|Maritime=yes|US=yes|WWII=yes &lt;!-- B-Class-1. It is suitably referenced, and all major points have appropriate inline citations. --&gt; 
+|B1=no
+&lt;!-- B-Class-2. It reasonably covers the topic, and 
+does not contain obvious omissions or inaccuracies. --&gt; 
+|B2=no
+&lt;!-- B-Class-3. It has a defined structure, including 
+a lead section and one or more sections of content. --&gt; 
+|B3=yes
+&lt;!-- B-Class-4. It is free from major grammatical errors. --&gt; 
+|B4=yes
+&lt;!-- B-Class-5. It contains appropriate supporting materials, 
+such as an infobox, images, or diagrams. --&gt; 
+|B5=yes}}
+{{WikiProject Ships|class=Start|importance=Mid|B-Class-1=no|B-Class-2=no|B-Class-3=yes
+|B-Class-4=yes|B-Class-5=yes}}
+	</talkpage>
+</article>

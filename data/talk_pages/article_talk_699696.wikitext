@@ -1,0 +1,22 @@
+<article id="699696" title=Talk:Sancho IV of Castile>
+	<talkpage id="699696" title="Talk:Sancho IV of Castile">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=no
+|class=Start
+|royalty-work-group=yes
+|listas=Sancho 04 Of Castile
+}}
+{{WikiProject Spain|class=start}}
+{{WikiProject Middle Ages|importance=high|class=start}}
+{{WikiProject Military history|class=start|B1=n|B2=n|B3=y|B4=y|B5=y|Biography=yes|Medieval=yes}}
+}}
+
+==Untitled==
+There appears to be an error here about the date of Sancho IV's birth. If you look at the year 1257 in this encyclopedia it (&amp; Encyclopedia Britannica) states that he was born in 1257?
+
+:A fair number of sites give the date as May 12, 1258, but since none of them look particularly reliable, I just changed it to 1257/58, until/unless we get some better info. [[User:Everyking|Everyking]] 22:59, 2 Jun 2004 (UTC)
+
+note:
+Sancho IV didn't have any uncle named &quot;huan&quot;. the only &quot;huan&quot; exists on that constellation is his younger brother, the king of valencia.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/80.230.95.201|80.230.95.201]] ([[User talk:80.230.95.201|talk]]) 23:52, 14 December 2011 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

@@ -1,0 +1,9 @@
+<article id="33392167" title=User talk:Jonnolion>
+	<talkpage id="33392167" title="User talk:Jonnolion">
+=Notices=
+
+==October 2011==
+
+# [[File:Information.svg|25px|alt=|link=]] Please refrain from making unconstructive edits to Wikipedia, as you did at [[:England national under-16 football team]]. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]] or removed. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Thank you.&lt;!-- Template:uw-vandalism2 --&gt;&lt;!-- Template:uw-cluebotwarning2 --&gt; [[User:Clicriffhard|Clicriffhard]] ([[User talk:Clicriffhard|talk]]) 22:02, 12 October 2011 (UTC)
+	</talkpage>
+</article>

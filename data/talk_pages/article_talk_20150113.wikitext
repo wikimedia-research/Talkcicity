@@ -1,0 +1,5 @@
+<article id="20150113" title=Talk:Nowa Wieś, Przasnysz County>
+	<talkpage id="20150113" title="Talk:Nowa Wieś, Przasnysz County">
+{{WikiProject Poland|class=stub|importance=}}
+	</talkpage>
+</article>

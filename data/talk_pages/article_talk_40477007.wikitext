@@ -1,0 +1,5 @@
+<article id="40477007" title=Talk:MAIK>
+	<talkpage id="40477007" title="Talk:MAIK">
+{{WPJournals|class=Redirect}}
+	</talkpage>
+</article>

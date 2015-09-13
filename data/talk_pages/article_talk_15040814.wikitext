@@ -1,0 +1,24 @@
+<article id="15040814" title=Talk:Michael A. Schneider>
+	<talkpage id="15040814" title="Talk:Michael A. Schneider">
+{{WikiProject Biography
+|living=yes
+|class=start
+|listas=Schneider, Michael
+|politician-work-group=yes
+}}
+{{Image requested|people of Nevada|politicians and government-people}}
+{{WikiProject Nevada|class=start
+&lt;!-- B-Class checklist --&gt;
+&lt;!-- 1. It is suitably referenced, and all major points have appropriate inline citations. --&gt;|b1=
+&lt;!-- 2. It reasonably covers the topic, and does not contain obvious omissions or inaccuracies. --&gt;|b2=
+&lt;!-- 3. It has a defined structure, including a lead section and one or more sections of content. --&gt;|b3=
+&lt;!-- 4. It is free from major grammatical errors. --&gt;|b4=
+&lt;!-- 5. It contains appropriate supporting materials, such as an infobox, images, or diagrams. --&gt;|b5=
+&lt;!-- 6. The article presents its content in an appropriately accessible way. --&gt;|b6=
+|importance=low
+|Las Vegas=yes
+|Las Vegas-importance=low
+
+|listas=Schneider, Michael}}
+	</talkpage>
+</article>

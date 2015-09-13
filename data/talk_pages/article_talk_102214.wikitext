@@ -1,0 +1,195 @@
+<article id="102214" title=Talk:Essential amino acid>
+	<talkpage id="102214" title="Talk:Essential amino acid">
+{{talkheader}}
+{{Wikiproject MCB|class=C|importance=mid|attention=yes}}
+Could we perhaps remove `mental retardation` and put in a less offensive term? Thanks.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Tg78739|Tg78739]] ([[User talk:Tg78739|talk]] • [[Special:Contributions/Tg78739|contribs]]) 06:59, 1 March 2014 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+==Misc. old comments (2002 through 2012)==
+Does anyone know if amino acids as a vitamin aids in sleep???? That's what I was told.
+
+Some moron added a load of grammatically incorrect and confusing content. I would revert, but there have been several edits since then and no one has fixed it for some reason. Also, the information may be helpful but it has also not been verified. The single WHO citation is incorrect. I have added template messages to the article. Please explain before removing them if necessary.
+[[User:67.171.43.170|67.171.43.170]] 01:30, 29 May 2006 (UTC)
+
+---
+
+'''Use of Amino Acids as nutritional supplement?''' I was looking around the amino acids page for information on this topic, but could not find it.  Amino Acid liquid supplements are sold at GNC and other health food outlets for use by athletes, body builders, calorie restrictive dieters, and other health conscious people.  Could someone who is knowledgeable about the pros and cons of using these supplements please post something about it?  --[[User:Alecke1|Alecke1]] 01:31, 29 August 2005 (UTC)
+
+----
+This comment doesn't belong on the main page, but...
+
+One irony in Sheri Tepper's science fiction novel ''Grass'' (in my opinion, an otherwise excellent work) is that in her world, people suffer from a terrible deficiency disease which affects [[alanine]]. As stated previously, [[alanine]] is not essential and can be synthesized from [[pyruvate]]. [[User:dwmyers|David M]]
+: Of course, if one mentally substitutes phenylalanine for alanine, then at least it becomes plausible, which begs the question of which editor missed this gaffe as well. [[User:Dwmyers| David M]]
+----
+The standing issue I haven't been able to resolve to my satisfaction is the nature of arginine biosynthesis in humans. [[arginine]] can be synthesized from either [[ornithine]] or [[citrulline]] via the [[urea cycle]], which of course begs the question of whether in humans, this is a closed system or open. In other words, can carbon equivalents be fed into this cycle or does it require a source of one of these three amino acids? I know that in some bacteria there are precursers to ornithine because of constant net-references to genetic knock out studies. But does this precurser -&gt; ornithine biosynthetic pathway exist in humans? This I haven't found out yet. Dated Oct 11, 2002. [[User:dwmyers| David M]]
+
+== Is Taurine essential ? (to humans) ==
+
+Can anybody shed any light on whether Taurine is essential to humans. Is it synthesised in humans? or is our ability to synthesis it related to age?
+:Well we need it, but it can be synthesised by us to a certain extent.
+:''Is taurine essential?
+
+:''Taurine is a conditionally essential amino acid in adult humans; it is an essential amino acid for infants (mother's milk contains taurine). Gaull [1982, p. 90] discusses the need for taurine:
+:''The finding of a dietary requirement for taurine in the human infant is consistent with the negligible activity of cysteinesulfinic acid decarboxylase present both in fetal and in mature human liver (4)...''
+:''In adult man only 1% of an oral load of L-cysteine was recovered as increased urinary excretion of taurine, giving further evidence that mature human beings also have a relatively limited ability to synthesize taurine and may be largely dependant on dietary taurine (22). The rat, in striking contrast, has considerable ability to convert dietary cysteine to taurine (17).
+:''See also Gaull [1977] as cited in Gaull [1982, 1986] for more information on taurine synthesis in humans vs. other animals.''
+
+:from [http://www.beyondveg.com/billings-t/comp-anat/comp-anat-7f.shtml] [[User:Onco p53|Onco p53]] 21:54, 13 Jan 2005 (UTC)
+
+:I removed reference to taurine because it is not an amino acid; discussion of whether taurine is synthesized by humans belongs in the taurine article. [[User:Dan EH44|Dan EH44]] ([[User talk:Dan EH44|talk]]) 22:07, 2 July 2008 (UTC)
+
+
+== Selenocysteine is non-essential. ==
+Selenocysteine can be synthesized from Serine and inorganic Selenium, and is therefore not an essential amino acid.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/152.23.33.218|152.23.33.218]] ([[User talk:152.23.33.218|talk]]) 15:22, 9 April 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== arginine biosynthesis + mnemnonic ==
+
+ornithine biosythnesis in mammals competes with proline biosynthesis
+
+alpha keto glutarate + NH4+ --&gt; glutamate --&gt; gamma glutamyl phosphate --&gt; glutamyl semialdehyde --&gt; ornithine
+
+(comapared to
+alpha keto glutarate + NH4+ --&gt; glutamate --&gt; gamma glutamyl phosphate --&gt; glutamyl semialdehyde --[non enzymatic schiff base formation]--&gt; delta- pyrroline 5 carboxylate --&gt; proline + CO2
+
+in plants, you add an acetyl blocking group to avoid competition with proline
+
+conclusion; ornithine, and therefore arginine can be biosynthesized from scratch. the only problem is that infants have trouble synthesizing enough... so for kids, arginine is essential amino acid
+
+
+i'd like to take up a complaint with the mnemnonic provided... its too misleading; a better one would have to based on the official amino acid single letter designation i.e.
+
+MLKR HIV WTF
+
+ya. thats lame, i know... but it will get me through my biochem final next week
+
+my point is, find a better mnemnonic... using simply the first letter of each amino acid is too confusing... there are many amino acids beginning with the same letter
+
+== Sources of Proteins ==
+
+Can nuts be added to this little table? &lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[Special:Contributions/65.92.189.213|65.92.189.213]] ([[User talk:65.92.189.213|talk]]) 04:40, 6 December 2006 (UTC).&lt;/small&gt;&lt;!-- HagermanBot Auto-Unsigned --&gt;
+
+== Legumes need to be added to &quot;Limiting amino acid&quot; chart ==
+* From the peanut page, they lack Lysine, Cystine, and Methionine
+* The soy bean page claims soy beans are a complete protein
+* Other beans are missing some, but I'm not sure which.
+
+
+== Limiting amino acid ==
+
+Why is the limiting amino acid the essential acid whose concentration is lowest, instead of the essential amino acid whose concentration divided by the recommended daily intake is lowest? Applying the latter criterion seems to always make methionine the limiting amino acid. [[User:Icek|Icek]] 21:46, 27 April 2007 (UTC)
+
+
+The article suggests that it is necessary to eat complementary proteins, else the limiting amino acid will force the remaining protein to be &quot;wasted&quot;.  This is still true, however, there is plenty&lt;sup&gt;&lt;b&gt;[?]&lt;/sup&gt;&lt;/b&gt; of research today that says complementary proteins consumed within day's&lt;sup&gt;&lt;b&gt;[?!?]&lt;/sup&gt;&lt;/b&gt; time of each other is sufficient; it does not have to be the same meal.
+
+Yes, the concept seems to have been misunderstood: the limiting amino acid is the one without which the other amino acids are useless for protein synthesis. I.e. if you need ten Mols of lysine to make a protein that contains 5 Mols of Arg, 6 Mols of Met and 11 Mols of Tyr, then having tons of the other aminoacids still doesn't allow you to make more than two Mols of the protein, if you only have 20 Mols of lysine. [[Special:Contributions/85.178.31.153|85.178.31.153]] ([[User talk:85.178.31.153|talk]])  &lt;small&gt;—Preceding [[Wikipedia:Signatures|comment]] was added at 15:05, 4 March 2008 (UTC)&lt;/small&gt;&lt;!--Template:Undated--&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== BCAA ==
+
+Why is there no seperate article on branch chain amino acids?....
+
+== 9 or 10 e.a.a's? or 8?! ==
+
+The [[amino acid]] article says there are 10 essential amino acids.  The Essential Amino Acid article (this one) starts by saying there are 9, but it contains a table that lists 10.  I'm just a knowledge-seeking passer-by, so I wouldn't presume to edit the article myself, but can I ask the experts to remove this obvious discrepancy?&lt;br&gt;[[User:Kkken|Kkken]] 09:48, 10 July 2007 (UTC)
+
+:The [[amino acid]] article now says 8. Here said 9. But the mnemonics help one to remember 10.
+As 8 had multiple citations in the amino acid article i have changed this article to say 8. But this now disagrees with the WHO article. 
+:Maybe histidine has changed? Is now essential instead of conditionally? Either way, this article should mention the discrepancies, as some of the references will disagree. I'm inclined to believe the scientific papers rather than the WHO article, as it's less likely to be politically biased. But without further reliable sources, i don't see how we can decide either way.[[User:Yobmod|Yobmod]] ([[User talk:Yobmod|talk]]) 13:48, 8 July 2008 (UTC)
+
+This article has confused a lot of my students, it says histadine is essential in one part and then goes on later to call it conditionally essential.  I think this needs to be made clear whether there are 8 or 9 and keep it consistent at least in the same paragraph.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/129.89.166.207|129.89.166.207]] ([[User talk:129.89.166.207|talk]]) 15:18, 3 April 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== why is hemp not included on this page? ==
+
+hemp protein is a source of all 10 essential amino acids, as well as 8 others including alanine, aspartic acid, cystine, glutamic acid, glycine, proline, serine, and tyrosine.[http://www.manitobaharvest.com/products/index.asp?itemID=158] *i believe it's the most complete source of protein out there?* [[User:Dubyuh|Dubyuh]] 20:27, 26 July 2007 (UTC)
+
+== Mnemonic ==
+'''Hey,''' I was taught a great little acronym to remember the essential amino acids, it's ''Private Tim Hall'', or more accuratly, '''PVT TIM HALL'''. You need to know all the amino acids comfortably enough to figure out what each letter stands for (first letter of each name not IUPAC abbr. ), but I use it all the time in school and work, and I know other people do too, you guys/gals think it would be a worthy addition to this page? [[User:Adenosine|Adenosine]] | ''[[User talk:Adenosine|Talk]]'' 06:38, August 5, 2005 (UTC)
+: I'll go ahead and add that in as a mnemonic device.  - --[[User:Alecke1|Alecke1]] 01:31, 29 August 2005 (UTC)
+
+The wording implies that &quot;I Like Light That Tries Making Home Very Pretty&quot; is a well-known mnemonic, but a Google search really doesn't support that view at all - two hits, both relating to this article! [[User:86.149.1.65|86.149.1.65]] 03:27, 20 August 2007 (UTC)
+
+'''A''' common addition to this is PVT TIM HALL, always argues, never tires.  This is to remember that arg is the a and tyrosine is not an essential amino acid.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/144.118.131.52|144.118.131.52]] ([[User talk:144.118.131.52|talk]]) 21:29, 16 February 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+::Sorry, but the mnemonic should be removed, as per [[Wikipedia:Manual of Style (medicine)#Writing style]]:
+&quot;Most mnemonics and rules of thumb are non-notable constructs that exist primarily for the purpose of helping medical students pass tests. Consider providing the information that these contain, without necessarily  providing the artificial and distracting structure of the memory aids.&quot;[[User:Tepi|lesion]] ([[User talk:Tepi|talk]]) 12:55, 29 November 2012 (UTC)
+* {{Agree}} I don't think mnemonics should be touched upon at all, given it is an '''encyclopaedic''' article,  not a textbook.[[User:Leonard glas|Lenny]] ([[User talk:Leonard glas|talk]]) 01:50, 10 June 2013 (UTC)
+
+I don't see the pointin in having this mnemonic &quot;PVT TM HILL&quot; in the article when there is no further explanation for it other than a bunch of letters of the  amino acids put together. This should be taken out, does anyone else agree?  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/141.211.250.218|141.211.250.218]] ([[User talk:141.211.250.218|talk]]) 03:57, 4 March 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+There are 9 essential amino acids; histidine, isoleucine, leucine, lysine, methionine, phenylalanine, threonine, tryptophan, and valine. Arginine along with cysteine and  tyrosine are essential only in infants and children. They are otherwise conditionally essential.  &lt;ref&gt;http://en.wikipedia.org/wiki/Essential_amino_acid&lt;/ref&gt;  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/2601:6:6880:2B1:21E:C2FF:FEAA:AD4B|2601:6:6880:2B1:21E:C2FF:FEAA:AD4B]] ([[User talk:2601:6:6880:2B1:21E:C2FF:FEAA:AD4B|talk]]) 13:38, 9 July 2014 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+==Unreferenced section==
+
+I tagged one section as unreferenced; not only is it [[WP:NOR|OR]] at this point, but the second paragraph appears to be a defense of vegetarianism, which isn't really appropriate here but definitely needs a source if it's going to stay. [[User:MrDarcy|Mr. Darcy]] &lt;small&gt;[[User talk:MrDarcy|talk]]&lt;/small&gt; 04:32, 20 August 2007 (UTC)
+
+===Use of essential amino acids===
+
+
+----
+I wrote (many years ago) an early version of the first and third paragraphs of the limiting amino acid/net protein utilization section. The discussion derives directly from lecture notes given by Professor James Walker of Rice University in the spring of 1981, and also from the textbook of McGilvery (ISBN 0-7216-5912-8), in particular chapter 41. Now that second paragraph is nothing I recall or would entirely agree with, but I admit to being a hard core [[carnivore]]. [[User:Dwmyers|Dwmyers]] 23:54, 18 September 2007 (UTC)
+
+:Oddly enough (and I don't agree with this rule), lecture notes are not considered good sources around here unless they have been published or at least posted by the professor online. But the textbook, if the page is given, will certainly be valid. Glad to see you editing again. :) --[[User:Mav|mav]] 17:14, 19 September 2007 (UTC)
+
+::Unpublished lecture notes are not &quot;good sources&quot; for the simple reason that no one can refer to them, either to check that they are being reported correctly, or to find out more. --[[User:Macrakis|Macrakis]] ([[User talk:Macrakis|talk]]) 21:48, 10 February 2008 (UTC)
+
+==Legumes and pulses==
+
+The legume and pulse &quot;limiting amino acids&quot; are listed as different; but aren't all pulses legumes?  This section needs a reference, too.... --[[User:Macrakis|Macrakis]] ([[User talk:Macrakis|talk]]) 21:48, 10 February 2008 (UTC)
+
+By the definition in the Wiki pages linked to, they are the same. This area needs clarification - maybe the limiting amino acid varies between different pulses/legumes?   [[Special:Contributions/212.159.26.201|212.159.26.201]] ([[User talk:212.159.26.201|talk]]) 08:31, 29 March 2009 (UTC) Colin McKenzie
+
+:I was just coming here to point out the same thing. Pulses are a type of legume. [[Methionine#Dietary_aspects]] says most legumes are low in methionine, so I'm just going to move it to the legume row. --[[User:Tango|Tango]] ([[User talk:Tango|talk]]) 02:13, 12 September 2009 (UTC)
+
+== POV issue with food listing ==
+POV: where's the meat? [[Special:Contributions/122.200.166.29|122.200.166.29]] ([[User talk:122.200.166.29|talk]]) 13:00, 15 May 2008 (UTC)
+:Should be fixed now.  If it's not, please provide more explanation of what the problem is.  Thanks.  --[[User:Dachannien|'''&lt;font color=&quot;Black&quot;&gt;Dachannien&lt;/font&gt;''']]&lt;sup&gt;[[User_talk:Dachannien|&lt;font color=&quot;Blue&quot;&gt;''Talk''&lt;/font&gt;]]&lt;/sup&gt;&lt;sub&gt;[[Special:Contributions/Dachannien|&lt;font color=&quot;Green&quot;&gt;''Contrib''&lt;/font&gt;]]&lt;/sub&gt; 13:35, 15 May 2008 (UTC)
+
+::I fact tagged the vegtable complete proteins, and the limiing amino acids from animal sources. Most of the vegtables i found sources for, but 2 listed remain unsourced (their wiki-articles claim them as complete, but give no citation). 
+::The animal protein limitations seem to contradict the earlier statment that they are complete protein. All proteins must have one aa that is lowest, but this is not called a limiting aa if the protein source is complete. Hence complete protein sources are specifically described as not needing protein combining (usually by defensive vegetarians, but the logic applies to meat).[[User:Yobmod|Yobmod]] ([[User talk:Yobmod|talk]]) 14:35, 8 July 2008 (UTC)
+
+== Supplement image ==
+
+[[File:Essential amino complex pills.jpg|thumb]]
+If people have issues with the supplement image, we should discuss them here. For prior discussions see [http://en.wikipedia.org/w/index.php?title=User_talk:Sandstein&amp;oldid=274372029], at the bottom, and [http://en.wikipedia.org/w/index.php?title=User_talk:Orangemarlin&amp;diff=prev&amp;oldid=274381578]. I have no problems with moving this image, or possibly replacing it with a better one, or improving its caption. I didn't mean to imply that people ''should'' take such supplements, of course; the caption only implies that there is a market for them. For the record, I am not associated with the Swiss or German company making this brand of supplement, which I believe does not have a market presence in the US/UK, and I meant to improve the article with an illustration of its subject, not to advertise for anything. &lt;small&gt;&lt;span style=&quot;border:1px solid black;padding:1px;&quot;&gt;[[User:Sandstein|&lt;font style=&quot;color:white;background:blue;font-family:sans-serif;&quot;&gt;'''&amp;nbsp;Sandstein&amp;nbsp;'''&lt;/font&gt;]]&lt;/span&gt;&lt;/small&gt; 11:29, 2 March 2009 (UTC)
+:You mean that wasn't a word from your Sponser? Just kidding, but it's a fair point that we should be showing a [[healthy diet]] rather than implying that supplements are necessary or a Good Thing. Keep taking the purple pills. . . [[User:Dave souza|dave souza]], [[User talk:Dave souza|talk]] 12:08, 2 March 2009 (UTC)
+::We shouldn't be implying anything; that good diets don't need supplements, or that good diets do need supplements. Let's try and be NPOV. --[[User:MichaelCPrice|Michael C. Price]] &lt;sup&gt;[[User talk:MichaelCPrice|talk]]&lt;/sup&gt; 13:13, 2 March 2009 (UTC)
+:::A large part of the lysine and the methionine that people consume through animal products ''is'' supplements; in the sense that lysine (from controlled bacterial fermentation) and methionine (synthetic) are routinely added to the feed of chickens, pigs, and other animals, and that when people eat their flesh, eggs, etc., they are indirectly eating the industrially-produced amino acids. So there is in fact non sense in opposing &quot;good diets without supplements&quot; to &quot;bad diets, which need supplements&quot;. They would actually be eating ''less'' artificial lysine and methionine if they ate (purportedly) essential aa deficient vegan diets plus supplements, than by eating the &quot;naturally rich in essential aas&quot; animal protein. [[User:Olivierd|David Olivier]] ([[User talk:Olivierd|talk]]) 16:30, 10 March 2011 (UTC)
+
+Does anyone know if amino acid as a vitamin, can aid in sleep??  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/174.0.193.24|174.0.193.24]] ([[User talk:174.0.193.24|talk]]) 02:39, 8 May 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Histidine ==
+
+The WHO article (2007) that is referenced as #5 lists on page 150 that histidine is essential for adult humans (10mg/kg). I'm not sure why this is not in the Wikipedia table. Have I missed something.
+[[User:Waldingr|Waldingr]] ([[User talk:Waldingr|talk]]) 23:16, 9 March 2011 (UTC)
+
+== plant protein sources ==
+
+Under Essential Amino Acid Deficiency I found this sentence: &quot;Nevertheless, it is difficult for vegetarians to maintain essential amino acids at optimum quantity and distribution.&quot; However, the note for this sentence links to a letter to the AHA that in fact refutes that claim, most clearly in the line &quot;A vegetarian diet based on any single one or combination of these unprocessed starches (eg, rice, corn, potatoes, beans), with the addition of vegetables and fruits, supplies all the protein, amino acids, essential fats, minerals, and vitamins (with the exception of vitamin B12) necessary for excellent health.&quot; In addition, on the amino acid page it already says, &quot;It is practically impossible to design a diet based on unrefined starches and vegetables that would fail to provide enough protein, including sufficient amounts of all of the essential amino acids, to support human health.[8] Nor is it necessary to combine &quot;complementary&quot; plant sources to provide complete protein.&quot; 
+Since I can't find any real evidence for this claim and it's contradicted by other lines in the article, I'm gonna go ahead and remove it.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Chereshnya|Chereshnya]] ([[User talk:Chereshnya|talk]] • [[Special:Contributions/Chereshnya|contribs]]) 01:37, 12 May 2011 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:I have to wonder about this issue.  This doesn't really look objective.  Actually, looks like it might be vegan propaganda.  Growing children that don't get enough of the essential amino acids will have serious development and health problems.  Adults with a chronic deficiency of the essential acids (usually Lysine) will slowly develop health problems.  They are, after all, called essential amino acids because they are essential for health.   I would either try to find the answer to this issue or present the whole issue.
+:[[User:Tyrerj|Tyrerj]] ([[User talk:Tyrerj|talk]]) 03:53, 1 June 2011 (UTC)
+
+::By definition of the word &quot;enough&quot;, if you don't get enough of something, it's not good for you. That says nothing about how much of that something is enough. Essential amino acids are essential, yes, but that doesn't imply that you can't get enough of them on a vegan diet. Please note that all 20 protein-forming amino acids, including the 8 or so essential ones, are present in just about all organisms, including plants. Percentages vary, but then not so much either. I don't think that there is any serious reason to believe that vegan diets will be deficient in any essential amino acids, or protein generally, at any stage in life. [[User:Olivierd|David Olivier]] ([[User talk:Olivierd|talk]]) 08:35, 1 June 2011 (UTC)
+
+== Scope of article — '''not''' just humans ??==
+
+The article lede currently says:
+&lt;blockquote&gt;''An '''essential amino acid''' or '''indispensable amino acid''' is an [[amino acid]] that cannot be synthesized ''[[de novo synthesis|de novo]]'' by the organism '''(usually referring to humans)''' (emphasis added), and therefore must be supplied in the diet.''&lt;/blockquote&gt;
+This part about humans is incorrect.  The essential/nonessential dichotomy is relevant to large numbers of non-human animals as well.  See for example the description of plant-sucking insects at [[Plant sap#Phloem sap]] for a well-sourced description on how essential/nonessential amino acids are used in the insect order Hemiptera, true bugs, who definitely need essential amino acids, as do humans also.
+
+But the scope of the article ought not to restrict to humans, especially in the lede.[[User:N2e|N2e]] ([[User talk:N2e|talk]]) 21:45, 4 May 2013 (UTC)
+
+:&lt;b&gt;The article is about humans w/ non-human aspects randomly tossed in&lt;/b&gt;.  Further, it is a very safe guess that the bulk of the audience is looking for information to replace (potentially) dangerous flesh sources with vegetable proteins, particularly from popular soy sources.  Mixing together different types of organisms is actually stupid because each organism's type of nutritional model is different making the article more than confusing; it makes it absurd.  Either there should be different articles for each species type, or specific sections with humans (primates?) being the first, followed by common pets, perhaps including comparison, then other species if there is available contributor expertise.  --[[User:John Bessa|John Bessa]] ([[User talk:John Bessa|talk]]) 22:09, 2 August 2013 (UTC)
+
+::Perhaps.  Perhaps not.  I'll remain agnostic on your claim about separate articles per species or per group. 
+::However, I will say that the general Wikipedia practice is for the scope of an article to be summarized/described in the article lede.  And in this article, still in August 2013 (three months after the first note in this section), the article is rather explicitly about more than just humans.  Cheers.  [[User:N2e|N2e]] ([[User talk:N2e|talk]]) 03:57, 15 August 2013 (UTC)
+
+== Laughable vegetarian text on the table. ==
+
+It doesn't include meat. Stop ridiculing wikipedia and include the main source of amino acids. --[[Special:Contributions/89.210.3.234|89.210.3.234]] ([[User talk:89.210.3.234|talk]]) 21:28, 8 November 2013 (UTC)
+
+:Wikipedia is one of the most biased sources for nutrition and exercise/training you can find. That probably has to do with the fact that those areas are dominated really really bad &quot;science&quot; (Please read one of the many epidemiologic studies. They are hilarious. How they massage the data and draw obviously biased conclusions will bring you to tears). Nutrition information on wikipedia will make you stupid and ill-informed and should only be seen as cheap entertainment. --[[Special:Contributions/78.54.26.53|78.54.26.53]] ([[User talk:78.54.26.53|talk]]) 00:57, 5 July 2014 (UTC)
+
+== Most of the sources (javalime) are not there (prob weren't valid anyway) ==
+
+Since nearly all the material depends on this, one would think it is important.  I am using the info anyway because I don't have time to become an expert ~~ any suggestions? --[[User:John Bessa|John Bessa]] ([[User talk:John Bessa|talk]]) 00:25, 21 September 2014 (UTC)
+	</talkpage>
+</article>

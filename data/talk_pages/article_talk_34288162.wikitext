@@ -1,0 +1,6 @@
+<article id="34288162" title=Talk:Dinmore railway station (Herefordshire)>
+	<talkpage id="34288162" title="Talk:Dinmore railway station (Herefordshire)">
+{{WikiProject Trains |class=stub |importance=low |stations=yes |UK=yes |UK-importance=low |imageneeded=yes |Imagedetails=View of station }}
+{{WikiProject Herefordshire |class=stub |importance= }}
+	</talkpage>
+</article>

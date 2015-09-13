@@ -1,0 +1,5 @@
+<article id="41551279" title=Talk:Spirendolol>
+	<talkpage id="41551279" title="Talk:Spirendolol">
+{{WikiProject Pharmacology}}
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="32651657" title=Talk:Julián Guillermo>
+	<talkpage id="32651657" title="Talk:Julián Guillermo">
+{{WikiProject Biography|living=yes|class=stub|listas=Rojas, Julian Guillermo|sports-work-group=yes|sports-priority=low}}
+{{WikiProject Football|class=stub}}
+	</talkpage>
+</article>

@@ -1,0 +1,12 @@
+<article id="44366155" title=Talk:Lance Mounsey>
+	<talkpage id="44366155" title="Talk:Lance Mounsey">
+{{WikiProject Biography
+|living=No
+|class=stub
+|sports-work-group=yes
+|listas=Mounsey, Lance
+|sports-priority=low
+}}
+{{WikiProject Australia|class=Stub|importance=low|afl=yes|afl-importance=low}}
+	</talkpage>
+</article>

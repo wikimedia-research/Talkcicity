@@ -1,0 +1,6 @@
+<article id="22609432" title=User talk:92.15.49.7>
+	<talkpage id="22609432" title="User talk:92.15.49.7">
+==April 2009==
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits{{#if:F.C. Internazionale Milano|, such as the one you made to [[:F.C. Internazionale Milano]],}} did not appear to be constructive and has been reverted. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; --[[User:Angelo.romano|Angelo]] ([[User talk:Angelo.romano|talk]]) 23:01, 28 April 2009 (UTC)
+	</talkpage>
+</article>

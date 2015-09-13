@@ -1,0 +1,10 @@
+<article id="11499998" title=Talk:Tony Hunter (American football)>
+	<talkpage id="11499998" title="Talk:Tony Hunter (American football)">
+{{WikiProjectBannerShell|blp=yes|1=
+{{WikiProject Biography|living=yes|class=Stub|listas=Hunter, Tony|sports-work-group=yes}}
+{{WikiProject United States|class=stub|importance=low|OH=yes|OH-importance=|Notre-Dame=yes|Notre-Dame-importance=|listas=Hunter, Tony}}
+{{WikiProject College football|class=Stub}}
+{{WikiProject National Football League|class=stub}}
+}}
+	</talkpage>
+</article>

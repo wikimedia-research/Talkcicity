@@ -1,0 +1,25 @@
+<article id="38682397" title=User talk:Ftysonjr>
+	<talkpage id="38682397" title="User talk:Ftysonjr">
+
+== Welcome! ==
+
+Hello, Ftysonjr, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for [[Special:Contributions/Ftysonjr|your contributions]]. I hope you like the place and decide to stay. Unfortunately, one or more of the pages you created, such as [[Forest E. Tyson, Jr.]], may not conform to some of Wikipedia's [[Wikipedia:List of policies|guidelines]], and may not be retained. 
+
+There's a page about creating articles you may want to read called '''[[Wikipedia:Your first article|Your first article]]'''. If you are stuck, and looking for help, please come to the '''[[Wikipedia:New contributors' help page|New contributors' help page]]''', where experienced Wikipedians can answer any queries you have! Or, you can just type '''{{t|helpme}}''' on this page, followed by your question, and someone will show up shortly to answer your questions. Here are a few other good links for newcomers:
+* [[Wikipedia:Starting an article|Starting an article]]
+* [[Wikipedia:Your first article|Your first article]]
+* [[Wikipedia:Biographies of living persons|Biographies of living persons]]
+* [[Wikipedia:How to write a great article|How to write a great article]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Tutorial|Tutorial]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you have any questions, check out [[Wikipedia:Questions]] or ask me on my talk page. &lt;!-- Template:First article --&gt; Again, welcome!&amp;nbsp;[[USER:reddogsix|&lt;font color=&quot;red&quot;&gt;red&lt;/font&gt;&lt;font color=&quot;black&quot;&gt;&lt;b&gt;dog&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;black&quot;&gt;&lt;i&gt;six&lt;/i&gt;&lt;/font&gt;]] ([[User talk:reddogsix#top|talk]]) 06:03, 2 March 2013 (UTC)
+
+==[[Wikipedia:Criteria for speedy deletion|Speedy deletion]] nomination of [[:Forest E. Tyson, Jr.]]==
+[[Image:Ambox warning pn.svg|48px|left|alt=|link=]]
+{{Quote box|quote=&lt;p&gt;If this is the first article that you have created, you may want to read [[WP:Your first article|the guide to writing your first article]].&lt;/p&gt;&lt;p&gt;You may want to consider using the [[Wikipedia:Article wizard|Article Wizard]] to help you create articles.&lt;/p&gt;|width=20%|align=right}}
+A tag has been placed on [[:Forest E. Tyson, Jr.]] requesting that it be speedily deleted from Wikipedia. This has been done under [[WP:CSD#A7|section A7 of the criteria for speedy deletion]], because the article appears to be about a person or group of people, but it does not indicate how or why the subject is important or significant: that is, why an article about that subject should be included in an encyclopedia. Under the [[WP:CSD#Articles|criteria for speedy deletion]], such articles may be deleted at any time. Please [[Wikipedia:Notability|see the guidelines for what is generally accepted as notable]]. 
+
+If you think that your page should not be deleted for this reason, you may '''contest the nomination''' by [[:Forest E. Tyson, Jr.|visiting the page]] and clicking the button labelled &quot;Click here to contest this speedy deletion&quot;. This will give you the opportunity to explain why you believe the page should not be deleted. However, be aware that once a page is tagged for speedy deletion, it may be removed without delay. Please do not remove the speedy deletion tag from the page yourself, but do not hesitate to add information in line with [[Wikipedia:List of policies|Wikipedia's policies and guidelines]]. If the page is deleted, and you wish to retrieve the deleted material for future reference or improvement, you can place a request [[WP:RFUD|here]]. &lt;!-- Template:Db-notability-notice --&gt; &lt;!-- Template:Db-csd-notice-custom --&gt; [[USER:reddogsix|&lt;font color=&quot;red&quot;&gt;red&lt;/font&gt;&lt;font color=&quot;black&quot;&gt;&lt;b&gt;dog&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;black&quot;&gt;&lt;i&gt;six&lt;/i&gt;&lt;/font&gt;]] ([[User talk:reddogsix#top|talk]]) 06:03, 2 March 2013 (UTC)
+	</talkpage>
+</article>

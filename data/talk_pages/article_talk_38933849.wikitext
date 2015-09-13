@@ -1,0 +1,5 @@
+<article id="38933849" title=Talk:Eupithecia inquinata>
+	<talkpage id="38933849" title="Talk:Eupithecia inquinata">
+{{LepidopteraTalk|class=stub|importance=low}}
+	</talkpage>
+</article>

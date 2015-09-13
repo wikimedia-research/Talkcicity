@@ -1,0 +1,16 @@
+<article id="10300418" title=Talk:Kōke>
+	<talkpage id="10300418" title="Talk:Kōke">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|class=NA
+|auto=yes
+|royalty-work-group=yes
+|listas=Koke
+}}
+{{WikiProject Japan|class=start|importance=low}}
+{{WikiProject Military history|class=start
+|Japanese-task-force=yes}}
+}}
+{{translated page|ja|高家 (江戸時代)|version=14653952|insertversion=160576778|section=List|date=2007-09-27}}
+	</talkpage>
+</article>

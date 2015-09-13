@@ -1,0 +1,5 @@
+<article id="6653801" title=Talk:When I Look Down That Road>
+	<talkpage id="6653801" title="Talk:When I Look Down That Road">
+{{album|class=Stub|importance=low}}
+	</talkpage>
+</article>

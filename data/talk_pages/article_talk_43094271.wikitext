@@ -1,0 +1,54 @@
+<article id="43094271" title=Talk:Port of Skagen/GA1>
+	<talkpage id="43094271" title="Talk:Port of Skagen/GA1">
+==GA Review==
+{{Good article tools}}
+&lt;noinclude&gt;{{al|{{#titleparts:Port of Skagen/GA1|-1}}|noname=yes}}&lt;br/&gt;&lt;/noinclude&gt;&lt;includeonly&gt;:''This review is [[WP:transclusion|transcluded]] from [[Talk:Port of Skagen/GA1]]. The edit link for this section can be used to add comments to the review.''&lt;/includeonly&gt;
+
+'''Reviewer:''' [[User:Krimuk90|Krimuk90]]&amp;nbsp;([[User talk:Krimuk90|talk]] '''·''' [[Special:Contributions/Krimuk90|contribs]]) 06:27, 19 June 2014 (UTC)
+
+&lt;!-- Please add all review comments below this comment, and do not alter what is above. So that the review can be kept within a single section, please do not use level 2 headers (==...==) below to break up the review. Use level 3 (===...===), level 4 and so on.--&gt;
+Will review in the next couple of days. --[[User:Krimuk90|&lt;span style=&quot;font-family: Courier;color:#00703C&quot;&gt; '''KRIMUK'''&lt;/span&gt;''&lt;span style=&quot;font-family: Courier;color:#CC5500&quot;&gt;'''90'''&lt;/span&gt;'']]&amp;nbsp;[[User talk:Krimuk90|&lt;span style=&quot;color:#1B1B1B&quot;&gt;'''✉'''&lt;/span&gt;]] 06:27, 19 June 2014 (UTC)
+
+;Lead
+*Consider wikilinking and expanding the Danish currency krone on its first occurrence.
+*&quot; The harbour is currently being adapted to accommodate large international cruise ships&quot;. Please put &quot;as of [year]&quot; instead of &quot;currently&quot;.
+
+;Description
+*No in-line citation for the part beginning with &quot;The harbour consists of three main basins (docks with water levels controlled by flood gates): Ydre Forhavnsbassin...&quot;
+
+;History
+*In the first sentence of this section, it is unclear what the proposal was all about.
+
+;Fishing
+*Wikilink herring, whiting and plaice.
+
+;References
+*Web ref. 2 is not formatted correctly.
+
+{{ping|Dr. Blofeld}} Happy to support when these comments have been addressed. :) --[[User:Krimuk90|&lt;span style=&quot;font-family: Courier;color:#00703C&quot;&gt; '''KRIMUK'''&lt;/span&gt;''&lt;span style=&quot;font-family: Courier;color:#CC5500&quot;&gt;'''90'''&lt;/span&gt;'']]&amp;nbsp;[[User talk:Krimuk90|&lt;span style=&quot;color:#1B1B1B&quot;&gt;'''✉'''&lt;/span&gt;]] 09:08, 25 June 2014 (UTC)
+
+{{ping|Krimuk90}} Thanks for the review! All addressed I believe.♦ [[User talk:Dr. Blofeld|&lt;span style=&quot;font-variant:small-caps;color:#aba67e&quot;&gt;''Dr. Blofeld''&lt;/span&gt;]] 09:33, 25 June 2014 (UTC)
+
+'''[[Wikipedia:Good article nominations|GA]] review – see [[WP:WIAGA]] for criteria'''
+{{#if:|&lt;hr width=50%&gt;|}}
+#Is it '''reasonably well written'''?
+#:A. Prose quality: {{GAList/check|y}} 
+#:B. [[Wikipedia:Manual of Style|MoS]] compliance: {{GAList/check|y}}
+#Is it '''factually accurate''' and '''[[Wikipedia:Verifiability|verifiable]]'''?
+#:A. References to sources: {{GAList/check|y}} 
+#:B. Citation of reliable sources where necessary: {{GAList/check|y}} 
+#:C. [[Wikipedia:No original research|No original research]]: {{GAList/check|y}}
+#Is it '''broad in its coverage'''?
+#:A. Major aspects: {{GAList/check|y}} 
+#:B. Focused: {{GAList/check|y}}
+#Is it '''[[WP:NPOV|neutral]]'''?
+#:Fair representation without bias: {{GAList/check|y}}
+#Is it '''stable'''?
+#: No edit wars, etc: {{GAList/check|y}}
+#Does it '''contain [[Wikipedia:Images|images]]''' to illustrate the topic?
+#:A. Images are copyright tagged, and non-free images have [[Wikipedia:Image_description_page#Use_rationale|fair use rationales]]:{{GAList/check|y}} 
+#:B. Images are provided where possible and appropriate, with [[WP:CAP|suitable captions]]: {{GAList/check|y}}
+#'''Overall''': 
+#:Pass or Fail: {{GAList/check|y}} --[[User:Krimuk90|&lt;span style=&quot;font-family: Courier;color:#00703C&quot;&gt; '''KRIMUK'''&lt;/span&gt;''&lt;span style=&quot;font-family: Courier;color:#CC5500&quot;&gt;'''90'''&lt;/span&gt;'']]&amp;nbsp;[[User talk:Krimuk90|&lt;span style=&quot;color:#1B1B1B&quot;&gt;'''✉'''&lt;/span&gt;]] 09:43, 25 June 2014 (UTC)
+	</talkpage>
+</article>

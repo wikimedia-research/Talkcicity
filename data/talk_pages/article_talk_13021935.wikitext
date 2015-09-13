@@ -1,0 +1,11 @@
+<article id="13021935" title=Talk:Premises>
+	<talkpage id="13021935" title="Talk:Premises">
+{{oldafdfull| date = 3 June 2010 (UTC) | result = '''keep''' | page = Premises }}
+
+{{WikiProject Law|class=Start|importance=High}}
+
+== Not suitable heading for important law article ==
+
+The article on &quot;Premises&quot; is useful to define the word, and point users to other articles. [[Occupiers' Liability]] is better dealt with under Tort, [[Conveyancing]], not previously mentioned, is better dealt with under Conveyancing. [[User:Abigailgem|Abigailgem]] ([[User talk:Abigailgem|talk]]) 09:07, 12 October 2013 (UTC)
+	</talkpage>
+</article>

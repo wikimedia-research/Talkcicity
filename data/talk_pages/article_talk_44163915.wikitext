@@ -1,0 +1,25 @@
+<article id="44163915" title=User talk:Lola Dawson>
+	<talkpage id="44163915" title="User talk:Lola Dawson">
+==Welcome!==
+
+[[Image:Chocolate chip cookies.jpg|thumb|300px|Some cookies to welcome you! [[File:Face-smile.svg|25px]]]] [[Wikipedia:Welcoming committee/Welcome to Wikipedia|Welcome to Wikipedia]], Lola Dawson! Thank you for [[Special:Contributions/Lola Dawson|your contributions]]. I am [[User:Davey2010|Davey2010]] and I have been editing Wikipedia for some time, so if you have any questions feel free to leave me a message on [[User talk:Davey2010|my talk page]]. You can also check out [[Wikipedia:Questions]] or type {{tlx|help me}} at the bottom of this page.  Here are some pages that you might find helpful:
+* [[Wikipedia:Introduction|Introduction]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Help:Editing|How to edit a page]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Article development|How to write a great article]]
+* [[Wikipedia:Wikipedia Signpost|Discover what's going on in the Wikimedia community]]
+Also, when you post on [[Wikipedia:Talk page guidelines|talk pages]] you should [[Wikipedia:Signatures|sign your name]] using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); that will automatically produce your username and the date.  I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]!  –[[User:Davey2010|&lt;span style=&quot;color: blue;&quot;&gt;'''Davey'''&lt;/span&gt;&lt;span style=&quot;color: orange;&quot;&gt;'''2010'''&lt;/span&gt;]] • [[User talk:Davey2010|&lt;span style=&quot;color: navy;&quot;&gt;''(talk)''&lt;/span&gt;]] 16:18, 20 October 2014 (UTC)
+
+
+
+== October 2014 ==
+[[File:Information.svg|left|25px|alt=|link=]] Hello, and welcome to Wikipedia. This is a message letting you know that one or more of your recent edits to [[:Fulham Cross Girls School]] has been undone by an automated computer program called [[User:ClueBot NG|ClueBot NG]].
+{{clear}}
+* ClueBot NG makes very few [[User:ClueBot NG#Information About False Positives|mistakes]], but it does happen. If you believe the change you made was constructive, please [[User:ClueBot NG#Information About False Positives|read about it]], [{{User:ClueBot NG/Warnings/FPReport|1998016}} report it here], remove this message from your talk page, and then make the edit again.
+* For help, take a look at the [[Wikipedia:Introduction|introduction]].
+* The following is the log entry regarding this message: [[Fulham Cross Girls School]] was [http://en.wikipedia.org/w/index.php?title=Fulham+Cross+Girls+School&amp;diff=630390068&amp;oldid=613484803 changed] by [[Special:Contributions/Lola Dawson|Lola Dawson]] [[User:Lola Dawson|(u)]] [[User talk:Lola Dawson|(t)]] ANN scored at 0.864044 on 2014-10-20T16:09:50+00:00 &lt;!-- MySQL ID: 1998016 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]) 16:09, 20 October 2014 (UTC)
+
+[[File:Information orange.svg|25px|alt=Information icon]] Please refrain from making unconstructive edits to Wikipedia, as you did at [[:Fulham Cross Girls School]]. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]] or removed. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. [[Wikipedia:Administrators|Administrators]] have the ability to [[WP:BLOCK|block]] users from editing if they repeatedly engage in vandalism. &lt;!-- Template:uw-vandalism2 --&gt;  [[User:Widr|Widr]] ([[User talk:Widr|talk]]) 16:14, 20 October 2014 (UTC)
+	</talkpage>
+</article>

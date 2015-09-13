@@ -1,0 +1,14 @@
+<article id="19661802" title=Talk:Rachel Jessica Huxtable>
+	<talkpage id="19661802" title="Talk:Rachel Jessica Huxtable">
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|a&amp;e-work-group=yes
+|listas=Huxtable, Rachel Jessica 
+}}
+{{WikiProject Australia|class=Stub
+|importance=Low
+|television=yes
+}}
+	</talkpage>
+</article>

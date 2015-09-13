@@ -1,0 +1,6 @@
+<article id="19141938" title=Talk:Dembowski (crater)>
+	<talkpage id="19141938" title="Talk:Dembowski (crater)">
+{{WikiProject Solar System|class=start|importance=low|Moon=yes|Moon-importance=low}}
+{{WikiProject Astronomy|class=start|importance=low}}
+	</talkpage>
+</article>

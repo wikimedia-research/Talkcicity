@@ -1,0 +1,27 @@
+<article id="31420416" title=User talk:Fritzthekatz>
+	<talkpage id="31420416" title="User talk:Fritzthekatz">
+==Welcome==
+'''Welcome!'''
+
+[[Image:Wikipedia-logo-v2.svg|thumb|150px|Welcome to our family...]]
+[[Image:Welcomebanner.gif|300px]]
+
+Hello, Fritzthekatz, and [[Wikipedia:Introduction|welcome]] to Wikipedia! I'll be your guide around here whenever you need help. Thank you for [[Special:Contributions/Fritzthekatz|your recent contributions]]. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+
+* [[Wikipedia:Starting an article|Starting an article]]
+* [[Wikipedia:Your first article|Your first article]] (using the [[Wikipedia:Article wizard|Article Wizard]] if you wish)
+* [[Wikipedia:Biographies of living persons|Biographies of living persons]]
+* [[Wikipedia:How to write a great article|How to write a great article]]
+* [[Wikipedia:Article development|How to develop articles]]
+* [[Wikipedia:Manual of Style|Manual of Style]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Tutorial|Tutorial]]
+
+
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! If you need help, ask me on [[user talk:Otelemuyen|my talk page]], check out [[Wikipedia:Questions]], or ask your question on this page and then place '''&lt;code&gt;&lt;nowiki&gt;{{help me}}&lt;/nowiki&gt;&lt;/code&gt;''' before the question.
+Please [[Wikipedia:Signatures|sign]] your messages on [[Help:Using talk pages|talk page]]s, this can be done by using four [[tilde]]s (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); and will automatically insert your username and the date after your post. Again, welcome!
+&lt;!-- Template:Welcome --&gt; 
+&lt;span style=&quot;text-shadow:grey 0.118em 0.118em 0.118em; class=texhtml&quot;&gt;'''[[User:Otelemuyen|Otelemuyen]]''' ([[User talk:Otelemuyen|talk]])&lt;/span&gt; 19:17, 05 April 2011 (UTC).
+	</talkpage>
+</article>

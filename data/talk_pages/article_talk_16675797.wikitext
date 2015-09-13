@@ -1,0 +1,7 @@
+<article id="16675797" title=Talk:Lake Phalen>
+	<talkpage id="16675797" title="Talk:Lake Phalen">
+{{WikiProject Minnesota|class=C|importance=Mid}}
+{{lake project|class=C|importance=Low}}
+{{dyktalk|5 April|2008|entry=...that scientists are unsure why '''[[Lake Phalen]]''', in [[Saint Paul, Minnesota]], is home to a population of [[rainbow darter]]s, a fish normally found in fast-moving streams?|views=1514}}
+	</talkpage>
+</article>

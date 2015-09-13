@@ -1,0 +1,11 @@
+<article id="14900788" title=Talk:Rafael López (handballer)>
+	<talkpage id="14900788" title="Talk:Rafael López (handballer)">
+{{WikiProject Biography
+|living=yes
+|class=stub
+|auto=yes
+|listas=Lopez, Rafael
+}}
+{{WikiProject Olympics|class=Stub|importance=|auto=yes}}
+	</talkpage>
+</article>

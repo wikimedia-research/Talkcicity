@@ -1,0 +1,15 @@
+<article id="14172458" title=Talk:1985 Palanca Awards>
+	<talkpage id="14172458" title="Talk:1985 Palanca Awards">
+{{WPPhilippines|class=Stub|importance=Low}}
+
+== Dead link ==
+
+During several automated bot runs the following external link was found to be unavailable. Please check if the link is in fact down and fix or remove it in that case!
+
+* http://www.geocities.com/palanca_awards/1985.html
+** In [[1985 Palanca Awards]] on 2011-05-25 05:14:25, 410 Gone
+** In [[1985 Palanca Awards]] on 2011-06-07 11:48:41, 410 Gone
+
+--[[User:JeffGBot|JeffGBot]] ([[User talk:JeffGBot|talk]]) 11:49, 7 June 2011 (UTC)
+	</talkpage>
+</article>

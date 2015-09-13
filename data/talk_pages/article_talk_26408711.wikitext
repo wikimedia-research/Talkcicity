@@ -1,0 +1,15 @@
+<article id="26408711" title=Talk:Chad Knight>
+	<talkpage id="26408711" title="Talk:Chad Knight">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=yes|class=|listas=Knight, Chad}}
+{{WikiProject Pornography| listas =
+| class = Stub
+| importance = Low
+}}
+{{WikiProject LGBT studies| class= Stub
+| explanation=
+}}
+| blp=yes}}{{Notice|{{findgp*|Chad Knight}}
+|blp=yes}}
+	</talkpage>
+</article>

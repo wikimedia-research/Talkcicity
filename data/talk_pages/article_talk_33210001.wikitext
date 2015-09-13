@@ -1,0 +1,5 @@
+<article id="33210001" title=Talk:Songs of Love (Anita Ward album)>
+	<talkpage id="33210001" title="Talk:Songs of Love (Anita Ward album)">
+{{album|class=stub}}
+	</talkpage>
+</article>

@@ -1,0 +1,12 @@
+<article id="22468237" title=Talk:Jose Rafael Diaz>
+	<talkpage id="22468237" title="Talk:Jose Rafael Diaz">
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|auto=inherit
+|politician-work-group=yes
+|listas=Diaz, Jose Rafael E.
+}}
+{{WikiProject Tambayan Philippines|class=Stub|importance=Low}}
+	</talkpage>
+</article>

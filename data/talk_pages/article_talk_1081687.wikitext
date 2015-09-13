@@ -1,0 +1,38 @@
+<article id="1081687" title=Talk:Secaucus, New Jersey>
+	<talkpage id="1081687" title="Talk:Secaucus, New Jersey">
+{{WikiProjectBannerShell|1=
+{{WikiProject New Jersey|class=C|importance=Mid|hudson-county=yes|hudson-county-importance=top}}
+{{WikiProject Cities|class=c|importance=low}}
+{{WikiProject Geography|class=c|importance=low}}
+}}
+
+
+
+
+==Untitled==
+What is this, an encyclopedia or a POV article about Secaucus's not-so-glamorous past? [[User:Darkcore|Darkcore]] 02:01, 19 Oct 2004 (UTC)
+
+I dunno, but this article explains why my order from [[Newegg]] originated from this city, so it's all good to me &gt;_&gt; [[User:NoItAll|NoItAll]] 03:34, 25 January 2006 (UTC)
+
+== Passive voice ==
+
+I noticed the recent change in the article's first sentence from &quot;Secaucus is a town located in...&quot; to &quot;Secaucus is a town in...&quot; (passive to active voice), and the subsequent reversion of that change. I find the justification of &quot;all the other NJ articles do it, so this one should too&quot; a little odd, but that aside, why are we encouraging poor sentence structure? The word &quot;located,&quot; in that instance, is superfluous. [[User:Darkcore|Darkcore]] 21:38, 31 January 2006 (UTC)
+
+:Guilty as charged. I prefer to use it, even though a valid argument could be made to remove it. I read &quot;located in&quot; to mean &quot;situated in a particular spot&quot; and find that &quot;in&quot; alone does not carry that connotation. Furthermore, all 566 New jersey municipalities were created using this same wording. I guess we could revisit the &quot;located&quot; issue, along with dozens of questionable wording and formatting issues. My preference is to hew to the standardized text, which could help facilitate robotic changes down the road. I'm not very proud of this rationalization, but I'm standing by it. It's also my way to deal passive-aggresively with folks like the person who changed the Secaucus article whose primary purpose seems to be to remove the word &quot;located&quot; from random articles around the country. [[User:Alansohn|Alansohn]] 21:53, 31 January 2006 (UTC)
+
+==Pronunciation==
+
+I notice there is no mention of the correct pronunciation of Secaucus.  I have been scolded by New Jerseyites when I've pronounced it &quot;Seh-CAUC-us&quot; and told it was properly &quot;SEE-cauc-us.&quot;  Anyone know?  Doesn't it matter?  Or should it be added? -[[User:Laikalynx|Laikalynx]] 23:55, 23 April 2007 (UTC)
+
+In NJ I find just about everyone says SEE-cauc-us
+
+I'm interested in this too... would be nice in IPA....  --[[User:Zaurus|Zaurus]] 15:02, 19 June 2007 (UTC)
+
+*Here is the content of the source I added to the article: Page, Jeffrey. [http://www.northjersey.com/page.php?qstr=eXJpcnk3ZjczN2Y3dnFlZUVFeXk2MzYmZmdiZWw3Zjd2cWVlRUV5eTY3MDkxMjkmeXJpcnk3ZjcxN2Y3dnFlZUVFeXk5 &quot;Our towns challenge our tongues&quot;], ''[[The Record (Bergen County)]]'', [[June 17]], [[2005]]. Accessed [[June 19]], [[2007]]. &quot;You can always tell newcomers to Secaucus. Because most words are pronounced with emphasis on the next-to-last syllable, they say they live in see-KAW-cus - although the ones who fear their friends might recall that Secaucus used to be pig-farming country might say they live in South Carlstadt, which doesn't exist. ''If I said 'see-KAW-cus' to someone local, they'd think I didn't know what I was talking about,'' said Dan McDonough, the municipal historian. ''Of course it's SEE-kaw-cus. Everybody knows that.''&quot; [[User:Alansohn|Alansohn]] 17:05, 19 June 2007 (UTC)
+
+Is it pronounced like SEE-kaw-&lt;b&gt;k&lt;/b&gt;us or like SEE-kaw-&lt;b&gt;sh&lt;/b&gt;us? I read the letter c in pronunciations as an sh because that's what it is in some other languages but I think you might mean it as a k sound. An [[International Phonetic Alphabet|IPA]] pronunciation would be really nice.
+
+==[[Dennis Elwell]]==
+The Dennis Elwell hyperlinked isn't the right one.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/206.116.59.222|206.116.59.222]] ([[User talk:206.116.59.222|talk]]) 22:32, 23 July 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+	</talkpage>
+</article>

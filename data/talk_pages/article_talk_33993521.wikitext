@@ -1,0 +1,5 @@
+<article id="13391231" title=Talk:Flashpoint>
+	<talkpage id="13391231" title="Talk:Flashpoint">
+{{DisambigProject}}
+	</talkpage>
+</article>

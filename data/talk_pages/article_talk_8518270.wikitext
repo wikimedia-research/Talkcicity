@@ -1,0 +1,12 @@
+<article id="8518270" title=User talk:64.162.41.161>
+	<talkpage id="8518270" title="User talk:64.162.41.161">
+==Your edit to [[:Gel electrophoresis]]==
+Your recent edit to [[:Gel electrophoresis]] ([http://en.wikipedia.org/w/index.php?title=Gel_electrophoresis&amp;diff=95368621&amp;oldid=95368118 diff]) was reverted by an '''automated bot''' that attempts to recognize and repair [[Wikipedia:vandalism|vandalism]] to Wikipedia articles. If the bot reverted a legitimate edit, please accept my humble creator's apologies – if you bring it to the attention of the bot's owner, we may be able to improve its behavior. '''[[User:AntiVandalBot/FAQ|Click here]]''' for '''frequently asked questions''' about the bot and this warning. // [[User:AntiVandalBot|AntiVandalBot]] 20:31, 19 December 2006 (UTC)
+
+Please do not add nonsense to Wikipedia{{#if:Gel electrophoresis|, as you did to [[:Gel electrophoresis]]}}. It is considered [[Wikipedia:Vandalism|vandalism]]. If you would like to experiment, use the [[Wikipedia:Sandbox|sandbox]]. Thank you. &lt;!-- Template:Test2 (second level warning) --&gt; A link to the edit I have reverted can be found here: [http://en.wikipedia.org/w/index.php?title=Gel_electrophoresis&amp;diff=next&amp;oldid=95368639 link]. If you believe this edit should not have been reverted, please contact me. &lt;!-- 163--&gt; [[User_talk:Lcarsdata|Lcarsdata]] 20:38, 19 December 2006 (UTC)
+
+== November 2010 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Normalcy?diff=396361743 recent edit]&lt;/span&gt; you made to [[:Normalcy]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:Reaper Eternal|Reaper Eternal]] ([[User talk:Reaper Eternal|talk]]) 18:36, 12 November 2010 (UTC)
+	</talkpage>
+</article>

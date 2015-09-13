@@ -1,0 +1,5 @@
+<article id="38762746" title=Talk:Baldwin West Aerodrome>
+	<talkpage id="38762746" title="Talk:Baldwin West Aerodrome">
+{{WPAVIATION|class=stub|Airports-project=yes}}
+	</talkpage>
+</article>

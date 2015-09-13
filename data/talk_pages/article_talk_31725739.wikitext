@@ -1,0 +1,7 @@
+<article id="11210995" title=Talk:Lede, Belgium>
+	<talkpage id="11210995" title="Talk:Lede, Belgium">
+{{WikiProject Belgium|class=start|importance=mid}}
+
+Can someone improve the formatting of this article?--[[User:Blingice|Blingice]] 22:15, 13 May 2007 (UTC)
+	</talkpage>
+</article>

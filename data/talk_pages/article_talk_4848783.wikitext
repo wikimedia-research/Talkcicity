@@ -1,0 +1,23 @@
+<article id="4848783" title=User talk:70.162.59.142>
+	<talkpage id="4848783" title="User talk:70.162.59.142">
+&lt;div name=&quot;Attention notice&quot; class=&quot;boilerplate&quot; id=&quot;attention&quot; style=&quot;background-color: #F3F2FF; width: 85%; margin: 0 auto; padding: 5px 10px 5px 10px; text-align: left; border: 1px solid #8855AA; &quot;&gt;
+&lt;div style=&quot;font-size: 2em;&quot;&gt;[[Image:Info-pictogram.png]]'''Attention:'''&lt;/div&gt;
+
+This [[IP address]], '''{{PAGENAME}}''', is registered to '''[[Cox Communications]]''', an [[Internet service provider|Internet service provider]] through which thousands of individual users may connect to the internet. This IP may be randomly assigned to a different person when the current user disconnects. '''Warnings or messages left on this page may not be received by the intended user.''' Caution should be used when blocking this IP or reverting its contributions without checking. 
+
+If you are an unregistered user operating from this address and are frustrated by irrelevant comments appearing here, you can avoid them by '''[[Special:Userlogin|creating an account for yourself]]'''.&lt;/div&gt;
+
+[[Wikipedia:Introduction|Welcome to Wikipedia]], the free encyclopedia! You don't have to [[Special:Userlogin|log in]] to read or edit articles on Wikipedia, but creating an account is quick, free and non-intrusive, requires no personal information, and gives you many [[Wikipedia:Why create an account?|benefits]], including:
+*The use of a [[Wikipedia:Username|username]] of your choice, provided that it is [[Wikipedia:Username#Inappropriate_usernames|appropriate]].
+*The use of your own personal [[Wikipedia:Watchlist|watchlist]] to which you can add articles that interest you.
+*The ability to [[Help:Starting a new page|start new pages]].
+*The ability to [[Wikipedia:How to rename a page|rename pages]].
+*The ability to edit [[Wikipedia:Semi-protection policy|semi-protected pages]].
+*The ability to [[Special:Upload|upload images]].
+*The ability to customize the appearance and behavior of the website.
+*The eligibility to eventually become an [[Wikipedia:Administrators|administrator]].
+*Your [[IP address]] will no longer be visible to other users.
+
+We hope you enjoy your time here on Wikipedia and that you choose to become a [[Wikipedia:Wikipedian|Wikipedian]] by '''&lt;span class=&quot;plainlinksneverexpand&quot;&gt;[{{fullurl:Special:Userlogin|type=signup}} creating an account]&lt;/span&gt;'''. Feel free to ask me any questions you may have on my talk page. By the way, make sure to sign your posts and comments with '''&amp;#126;&amp;#126;&amp;#126;&amp;#126;''', which will let others know who left it.  &amp;mdash;[[User:Kenyon|Kenyon]]&amp;nbsp;([[User talk:Kenyon|t]]&amp;middot;[[Special:Contributions/Kenyon|c]]) 04:46, 22 April 2006 (UTC)
+	</talkpage>
+</article>

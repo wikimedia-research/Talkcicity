@@ -1,0 +1,5 @@
+<article id="44593823" title=Talk:Thayal Eniyadi>
+	<talkpage id="44593823" title="Talk:Thayal Eniyadi">
+{{WikiProject India|class=stub|importance=low}}
+	</talkpage>
+</article>

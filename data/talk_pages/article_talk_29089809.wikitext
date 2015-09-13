@@ -1,0 +1,10 @@
+<article id="29089809" title=User talk:174.59.146.70>
+	<talkpage id="29089809" title="User talk:174.59.146.70">
+
+== October 2010 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Pete_Gray?diff=389228919 Your test]&lt;/span&gt; on the page [[:Pete Gray]] worked, and has been removed. If you would like to experiment further, please use the [[Wikipedia:Sandbox|sandbox]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]] and its related [[Help:Editing|help page]] for more information. Thank you. &lt;!-- Template:uw-huggletest1 --&gt; [[User:Diannaa|&lt;span style=&quot;color:teal;&quot;&gt;Diannaa&lt;/span&gt;]] &lt;sup&gt;([[User talk:Diannaa|Talk]])&lt;/sup&gt; 02:35, 7 October 2010 (UTC)
+
+[[File:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia, as you did at [[:Pete Gray]]. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]] or removed. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. The reverted edit can be found &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/w/index.php?diff=389232509 here]&lt;/span&gt;. Thank you.&lt;!-- Template:uw-vandalism2 --&gt;&lt;!-- igloo:vandalism2 --&gt; [[User:Access Denied|&lt;font color=&quot;red&quot;&gt;Access Denied&lt;/font&gt;]]&amp;nbsp;&lt;sup&gt;[[User talk:Access Denied|&lt;font color=&quot;black&quot;&gt;[FATAL ERROR]&lt;/font&gt;]]&lt;/sup&gt; 02:58, 7 October 2010 (UTC)
+	</talkpage>
+</article>

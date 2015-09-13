@@ -1,0 +1,5 @@
+<article id="16669720" title=Talk:896 in Ireland>
+	<talkpage id="16669720" title="Talk:896 in Ireland">
+{{WikiProject Ireland|class= stub|importance= low}}
+	</talkpage>
+</article>

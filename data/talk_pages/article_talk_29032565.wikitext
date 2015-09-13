@@ -1,0 +1,10 @@
+<article id="29032565" title=Talk:Robert Eldridge Seiler>
+	<talkpage id="29032565" title="Talk:Robert Eldridge Seiler">
+{{WikiProject Biography
+|living=no
+|class=  
+|listas= Seiler, Robert Eldridge 
+|auto=yes
+}}
+	</talkpage>
+</article>

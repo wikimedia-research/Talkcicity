@@ -1,0 +1,15 @@
+<article id="36174657" title=Talk:Grade 1 (classification)>
+	<talkpage id="36174657" title="Talk:Grade 1 (classification)">
+{{WikiProjectBannerShell|blp=no|1=
+{{WikiProject Sports|class=RED}}
+{{WikiProject Olympics|Paralympics=yes|class=RED}}
+{{WPEQ|class=RED}}
+}}
+
+== Rename ==
+
+Assuming the four '''Grade n''' articles don't get merged into [[para-equestrian classification]], they need a better disambiguator. &quot;'''(classification)'''&quot; is totally inadequate, since anything with a numbered grade is a classification, whether it's school years, music exams, horse races, quality of meat, or anything else. [[User:Jnestorius|jnestorius]]&lt;sup&gt;([[User talk:Jnestorius|talk]])&lt;/sup&gt; 21:50, 24 August 2012 (UTC)
+
+:They've been merged.  [[User:Montanabw|&lt;font color=&quot;006600&quot;&gt;Montanabw&lt;/font&gt;]]&lt;sup&gt;[[User talk:Montanabw|(talk)]]&lt;/sup&gt; 20:53, 24 January 2013 (UTC)
+	</talkpage>
+</article>

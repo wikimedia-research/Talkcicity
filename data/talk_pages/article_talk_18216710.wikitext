@@ -1,0 +1,5 @@
+<article id="18216710" title=Talk:John Colquhoun>
+	<talkpage id="18216710" title="Talk:John Colquhoun">
+{{DisambigProject}}
+	</talkpage>
+</article>

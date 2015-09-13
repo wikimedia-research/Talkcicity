@@ -1,0 +1,7 @@
+<article id="18354651" title=User talk:58.167.94.182>
+	<talkpage id="18354651" title="User talk:58.167.94.182">
+== July 2008 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/World_peace?diff=224476673 recent edit]&lt;/span&gt; you made to [[:World peace]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thanks. &lt;!-- Template:uw-huggle1 --&gt; — &lt;font color=&quot;blue&quot;&gt;[[User:Insanity Incarnate|Insanity Incarnat]]&lt;/font&gt;&lt;font color=&quot;green&quot;&gt;[[User talk:Insanity Incarnate|e]]&lt;/font&gt; 00:41, 9 July 2008 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,10 @@
+<article id="34925550" title=Talk:Umesh Valjee>
+	<talkpage id="34925550" title="Talk:Umesh Valjee">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=yes|class=stub|listas=Valjee, Umesh|sports-work-group=yes|sports-priority=low}}
+{{WikiProject Cricket|class=stub|importance=low}}
+{{WikiProject England|class=stub|importance=low}}
+| blp=yes
+}}
+	</talkpage>
+</article>

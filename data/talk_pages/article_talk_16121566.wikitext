@@ -1,0 +1,5 @@
+<article id="16121566" title=Talk:Illoud>
+	<talkpage id="16121566" title="Talk:Illoud">
+{{WikiProject France|class=Stub|importance=Low|commune=yes}}
+	</talkpage>
+</article>

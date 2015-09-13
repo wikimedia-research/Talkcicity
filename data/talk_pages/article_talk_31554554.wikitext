@@ -1,0 +1,62 @@
+<article id="25833144" title=Talk:The Oracle (album)>
+	<talkpage id="25833144" title="Talk:The Oracle (album)">
+{{WikiProject Albums|class=B|importance=low|attention=no|needs-infobox=no}}
+{{WikiProject Metal|class=B|importance=low}}
+
+== Making of ==
+The videos aren't available anymore. But I've them on my YouTube-channel. Am I allowed to put links to the videos at the end of this article? [[User:Seelentau|Seelentau]] ([[User talk:Seelentau|talk]]) 22:51, 16 March 2010 (UTC)
+: Absolutely yes. ([[User:EternalLies|EternalLies]] ([[User talk:EternalLies|talk]]) 04:45, 19 April 2010 (UTC))
+
+== Grammatical errors ==
+
+I've been working on this article since day one I created it. My only problem is English is not my first language. So I believe that there are a couple of grammatical errors here and there. Anyone care to help fix those errors? [[User:EternalLies|EternalLies]] ([[User talk:EternalLies|talk]]) 04:50, 19 April 2010 (UTC)
+
+== Cryin' Like A Bitch!! ==
+On the back cover it says Cryin' Like A Bitch!!, including the two ! [[User:Seelentau|Seelentau]] ([[User talk:Seelentau|talk]]) 15:35, 6 June 2010 (UTC)
+: I don't care about the single's cover. If you have their CD, then take a look at the track listing located on the back cover, you will clearly see that the two ! are NOT included. EternalLies 22:56, 6 June 2010 (UTC)
+:: I have their CD and that's why I'm 100% sure that the two ! ARE included. I'm not blind, u know? I can clearly see them, right before my very own eyes. It says ''1. CRYIN' LIKE A BITCH!!'' and nothing else. [[User:Seelentau|Seelentau]] ([[User talk:Seelentau|talk]]) 11:46, 7 June 2010 (UTC)
+:: [http://www.imagebanana.com/img/czybx9j0/DSC00974.JPG Here's] a picture of my back cover as a proof. Despite the bad quality you can see the two ! [[User:Seelentau|Seelentau]] ([[User talk:Seelentau|talk]]) 11:53, 7 June 2010 (UTC)
+::: I do see the two !. However, here is a picture  of my back cover that clearly shows that the two ! are not included. [http://img251.imageshack.us/img251/5328/img0825f.jpg CLICK HERE] (EternalLies 19:50, 7 June 2010 (UTC)).
+:::: I see, yours is the censored version, huh? Since I live in Germany, I don't have such censors. But I wonder why even the ! aren't on your back cover. So, which version do we use? Yours or mine? [[User:Seelentau|Seelentau]] ([[User talk:Seelentau|talk]]) 20:02, 7 June 2010 (UTC)
+::::: It's not really a censored version, it's just the text being censored, the song itself is perfectly fine. No beeps every time Sully says bitch. Haha. Anyways, seeing that Godsmack is an American band, I think we should go with the American version of the CD.(EternalLies 20:07, 7 June 2010 (UTC))
+:::::: So it IS censored ;P But when we go with the American version, shouldn't we change the title of the song, too? [[User:Seelentau|Seelentau]] ([[User talk:Seelentau|talk]]) 20:18, 7 June 2010 (UTC)
+::::::: Haha. I don't know, but I think Wikipedia shouldn't be censored... EternalLies 20:25, 7 June 2010 (UTC)
+:::::::: That would be wrong, yes. But if we don't censor the ''bitch'', we should write the two ! too, since they're apparently part of the censorship [[User:Seelentau|Seelentau]] ([[User talk:Seelentau|talk]]) 12:07, 8 June 2010 (UTC)
+::::::::: You know what, just leave it the way it is, it won't make much difference. EternalLies 09:16, 9 June 2010 (UTC)
+
+== Orphaned references in [[:The Oracle (album)]] ==
+
+I check pages listed in [[:Category:Pages with incorrect ref formatting]] to try to fix reference errors. One of the things I do is look for content for [[User:AnomieBOT/docs/OrphanReferenceFixer|orphaned references]] in wikilinked articles. I have found content for some of [[:The Oracle (album)]]'s orphans, the problem is that I found more than one version. I can't determine which (if any) is correct for ''this'' article, so I am asking for a sentient editor to look it over and copy the correct ref content into this article.
+
+&lt;b&gt;Reference named &quot;RIAA&quot;:&lt;/b&gt;&lt;ul&gt;
+&lt;li&gt;From [[List of music recording certifications]]: {{cite web
+  | url = http://www.riaa.com/goldandplatinum.php?content_selector=criteria
+  | title = RIAA - Recording Industry Association of America
+  | publisher = [[Recording Industry Association of America]]
+  | accessdate = 2008-05-26}}&lt;/li&gt;
+&lt;li&gt;From [[Hard rock]]: {{cite web
+| url=http://www.riaa.com/goldandplatinumdata.php?resultpage=1&amp;table=SEARCH_RESULTS&amp;action=&amp;title=&amp;artist=The%20Black%20Crowes&amp;format=&amp;debutLP=&amp;category=&amp;sex=&amp;releaseDate=&amp;requestNo=&amp;type=&amp;level=&amp;label=&amp;company=&amp;certificationDate=&amp;awardDescription=&amp;catalogNo=&amp;aSex=&amp;rec_id=&amp;charField=&amp;gold=&amp;platinum=&amp;multiPlat=&amp;level2=&amp;certDate=&amp;album=&amp;id=&amp;after=&amp;before=&amp;startMonth=1&amp;endMonth=1&amp;startYear=1958&amp;endYear=2007&amp;sort=Artist&amp;perPage=25|title=RIAA Certifications|publisher=[[Recording Industry Association of America]]|accessdate=16 January 2010}}&lt;/li&gt;
+&lt;li&gt;From [[Godsmack discography]]: {{cite web| url=http://riaa.com/goldandplatinumdata.php?|title=RIAA Searchable database–Gold and Platinum |publisher=[[Recording Industry Association of America]] |accessdate=2008-01-03}}&lt;/li&gt;
+&lt;li&gt;From [[Justin Bieber]]: {{cite web|url=http://www.riaa.com/goldandplatinumdata.php?table=SEARCH_RESULTS&amp;artist=Justin%20Bieber&amp;format=SINGLE&amp;go=Search&amp;perPage=50|title=RIAA – Gold and Platinum – June&amp;nbsp;15,&amp;nbsp;2010|publisher=Recording Industry Association of America|accessdate=January 10, 2010}}&lt;/li&gt;
+&lt;li&gt;From [[I Stand Alone (song)]]: {{cite web| url=http://riaa.com/goldandplatinumdata.php?resultpage=1&amp;table=SEARCH_RESULTS&amp;action=&amp;title=&amp;artist=Godsmack&amp;format=&amp;debutLP=&amp;category=&amp;sex=&amp;releaseDate=&amp;requestNo=&amp;type=&amp;level=&amp;label=&amp;company=&amp;certificationDate=&amp;awardDescription=&amp;catalogNo=&amp;aSex=&amp;rec_id=&amp;charField=&amp;gold=&amp;platinum=&amp;multiPlat=&amp;level2=&amp;certDate=&amp;album=&amp;id=&amp;after=&amp;before=&amp;startMonth=1&amp;endMonth=1&amp;startYear=1958&amp;endYear=2008&amp;sort=Artist&amp;perPage=25|title=RIAA Searchable database–Gold and Platinum |publisher=[[Recording Industry Association of America]] |accessdate=2008-01-03}}&lt;/li&gt;
+&lt;/ul&gt;
+
+I apologize if any of the above are effectively identical; I am just a simple computer program, so I can't determine whether minor differences are significant or not. [[User:AnomieBOT|AnomieBOT]][[User talk:AnomieBOT|&lt;font color=&quot;#888800&quot;&gt;⚡&lt;/font&gt;]] 21:20, 22 November 2011 (UTC)
+==File:Love-Hate-Sex-Pain Sample.ogg Nominated for speedy Deletion==
+&lt;!--TSTAMP:{{{4}}}--&gt;
+{|
+|-
+| [[File:Image-x-generic.svg|100px]] 
+| &lt;!--IMAGES--&gt;
+An image used in this article, [[:File:Love-Hate-Sex-Pain Sample.ogg|File:Love-Hate-Sex-Pain Sample.ogg]], has been nominated for speedy deletion for the following reason: ''Wikipedia files with no non-free use rationale as of 3 December 2011'' 
+&lt;!--/IMAGES--&gt;
+;What should I do?
+''Don't panic''; you should have time to contest the deletion (although please review [[WP:CSD|deletion guidelines]] before doing so). The best way to contest this form of deletion is by posting on the image talk page.
+* If the image is [[WP:NFCC|non-free]] then you may need to provide a [[WP:FUR|fair use rationale]]
+* If the image isn't freely licensed and there is no fair use rationale, then it cannot be uploaded or used.
+* If the image has already been deleted you may want to try [[WP:DRV|Deletion Review]]
+
+''This notification is provided by a Bot'' --[[User:CommonsNotificationBot|CommonsNotificationBot]] ([[User talk:CommonsNotificationBot|talk]]) 10:58, 3 December 2011 (UTC)
+|}
+	</talkpage>
+</article>

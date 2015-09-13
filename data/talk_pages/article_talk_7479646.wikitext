@@ -1,0 +1,29 @@
+<article id="7479646" title=User talk:Lajollacaves>
+	<talkpage id="7479646" title="User talk:Lajollacaves">
+{{Copied 
+|from       = User:Lajollacaves
+|from_oldid = 617720361
+|to         = San Diego-La Jolla Underwater Park
+|to_diff    = 617732014
+|to_oldid   = 583776744
+|date       = 17:41, 20 July 2014
+|small      =
+}}
+== Image:La_jolla_kayak_home_page.jpg listed for deletion ==
+&lt;div style=&quot;padding:5px; background-color:#E1F1DE;&quot;&gt;'''Dear uploader:''' The media file you uploaded as [[:Image:La_jolla_kayak_home_page.jpg]] has been listed for [[Wikipedia:Speedy deletions|speedy deletion]] because you selected a copyright license type implying some type of restricted use, such as '''''for non-commercial use only''''', or '''''for educational use only''''' or  '''''for use on Wikipedia by permission.'''''  While it might seem reasonable to assume that such files can be freely used on Wikipedia, a non-profit website, [http://mail.wikimedia.org/pipermail/wikien-l/2005-May/023760.html this is in fact '''not''' the case]. Please do not upload any more files with these restrictions on them, because content on Wikipedia needs to be compatible with the [[GNU Free Documentation License]], which allows anyone to use it for any purpose, commercial or non-commercial.
+
+'''If you ''created'' this media file''' and want to use it on Wikipedia, you may re-upload it, but use the license &lt;nowiki&gt;{{GFDL-self}}&lt;/nowiki&gt; to license it under the [[GFDL]], or &lt;nowiki&gt;{{cc-by-sa-2.5}}&lt;/nowiki&gt; to license it under the [[Creative Commons]] Attribution-ShareAlike license, or use &lt;nowiki&gt;{{PD-self}}&lt;/nowiki&gt; to release it into the public domain.
+
+'''If you ''did not create'' this media file''' but want to use it on Wikipedia, there are two ways to proceed.  First, you may choose one of the fair use tags from [[Wikipedia:Fair Use#Tagging fair use images|this list]] if you believe one of those [[fair use]] rationales applies to this file.  Second, you may want to contact the copyright holder and [[Wikipedia:Example requests for permission|request that they make the media available under a '''free''' license]].
+
+If you have any questions please ask at [[Wikipedia:Media copyright questions]]. Thank you. {{{2|[[User:24.20.69.240|24.20.69.240]] 03:21, 17 October 2006 (UTC)}}}&lt;/div&gt;&lt;!-- Template:Idw-noncom --&gt;
+
+== Image:La Jolla Caves.jpg listed for deletion ==
+An image or media file that you uploaded or altered, [[:Image:La Jolla Caves.jpg]], has been listed at [[Wikipedia:Images and media for deletion/2006 November 26#Image:La Jolla Caves.jpg|Wikipedia:Images and media for deletion]]. Please look there to see why this is (you may have to search for the title of the image to find its entry), if you are interested in its not being deleted. Thank you. —[[User:Nv8200p|Nv8200p]] [[User_talk:Nv8200p|talk]] 13:44, 26 November 2006 (UTC)&lt;!-- Template:Idw --&gt;
+
+== Image:Cave shot brdr.jpg listed for deletion ==
+An image or media file that you uploaded or altered, [[:Image:Cave shot brdr.jpg]], has been listed at [[Wikipedia:Images and media for deletion/2006 November 26#Image:Cave shot brdr.jpg|Wikipedia:Images and media for deletion]]. Please look there to see why this is (you may have to search for the title of the image to find its entry), if you are interested in its not being deleted. Thank you. —[[User:Nv8200p|Nv8200p]] [[User_talk:Nv8200p|talk]] 13:45, 26 November 2006 (UTC)&lt;!-- Template:Idw --&gt;
+==MfD nomination of [[User:Lajollacaves]]==
+[[User:Lajollacaves]], a page you substantially contributed to, has been nominated for [[WP:MfD|deletion]]. Your opinions on the matter are welcome; please participate in the discussion by adding your comments at [[Wikipedia:Miscellany for deletion/User:Lajollacaves ]] and please be sure to [[WP:SIG|sign your comments]] with four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;).  You are free to edit the content of [[User:Lajollacaves]] during the discussion but should not remove the miscellany for deletion template from the top of the page; such a removal will not end the deletion discussion.  Thank you.&lt;!-- Template:MFDWarning --&gt; [[User:Whpq|Whpq]] ([[User talk:Whpq|talk]]) 20:47, 25 June 2014 (UTC)
+	</talkpage>
+</article>

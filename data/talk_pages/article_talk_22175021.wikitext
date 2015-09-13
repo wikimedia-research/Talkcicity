@@ -1,0 +1,9 @@
+<article id="22175021" title=Talk:Peter Flora>
+	<talkpage id="22175021" title="Talk:Peter Flora">
+{{WikiProject Biography
+|living=yes
+|class=start
+|listas=Flora, Peter
+}}
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="15951488" title=Talk:1950–51 in English football>
+	<talkpage id="15951488" title="Talk:1950–51 in English football">
+{{Football|class=Stub|importance=Low|England=yes|season=yes}}
+{{WikiProject England|class=Stub|importance=Low}}
+	</talkpage>
+</article>

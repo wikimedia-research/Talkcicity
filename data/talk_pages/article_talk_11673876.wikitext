@@ -1,0 +1,11 @@
+<article id="11673876" title=Talk:Bela B.>
+	<talkpage id="11673876" title="Talk:Bela B.">
+{{WPBiography
+|living=yes
+|class=Start
+|musician-priority=Low
+|musician-work-group=yes
+|listas=B., Bela
+}}
+	</talkpage>
+</article>

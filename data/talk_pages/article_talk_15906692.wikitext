@@ -1,0 +1,8 @@
+<article id="15906692" title=User talk:66.233.130.56>
+	<talkpage id="15906692" title="User talk:66.233.130.56">
+
+
+== February 2008 ==
+[[Image:Information.svg|left|25px]] Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits, such as the one you made to [[:Ethos]], did not appear to be constructive and has been '''automatically [[Help:Reverting|reverted]]''' by [[User:ClueBot|ClueBot]].  Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. {{User:ClueBot/Tracker}} '''If you believe there has been a mistake and would like to report a false positive, please [[User:ClueBot/FalsePositives|report it here]] and then remove this warning from your talk page.'''  If your edit was not vandalism, please feel free to make your edit again after reporting it. The following is the log entry regarding this warning: [[Ethos]] was [http://en.wikipedia.org/w/index.php?title=Ethos&amp;diff=193425197&amp;oldid=189487881 changed] by [[Special:Contributions/66.233.130.56|66.233.130.56]] [[User:66.233.130.56|(u)]] [[User talk:66.233.130.56|(t)]] blanking the page on 2008-02-23T04:15:55+00:00 &lt;!-- MySQL ID: 237250 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot|ClueBot]] ([[User talk:ClueBot|talk]]) 04:15, 23 February 2008 (UTC)
+	</talkpage>
+</article>

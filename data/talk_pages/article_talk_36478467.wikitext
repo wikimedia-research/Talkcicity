@@ -1,0 +1,9 @@
+<article id="36478467" title=Talk:Phạm Hồng Sơn>
+	<talkpage id="36478467" title="Talk:Phạm Hồng Sơn">
+{{WikiProject Banner Shell|blp=yes|
+{{WikiProject Biography|listas=Pham, Hong Son|living=yes|class=start}}
+{{WikiProject Human rights|class=start|importance=low}}
+{{WikiProject Vietnam|class=start}}
+}}
+	</talkpage>
+</article>

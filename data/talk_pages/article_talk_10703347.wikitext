@@ -1,0 +1,5 @@
+<article id="10703347" title=Talk:Pebbles, Volume 9 (CD)>
+	<talkpage id="10703347" title="Talk:Pebbles, Volume 9 (CD)">
+{{album|class=|importance=}}
+	</talkpage>
+</article>

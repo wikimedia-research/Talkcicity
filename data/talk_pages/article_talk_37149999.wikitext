@@ -1,0 +1,5 @@
+<article id="37149999" title=Talk:Wetterhahn>
+	<talkpage id="37149999" title="Talk:Wetterhahn">
+{{WikiProject Anthroponymy|class=Redirect}}
+	</talkpage>
+</article>

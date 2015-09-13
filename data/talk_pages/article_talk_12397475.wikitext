@@ -1,0 +1,5 @@
+<article id="12397475" title=Talk:Mantidactylus melanopleura>
+	<talkpage id="12397475" title="Talk:Mantidactylus melanopleura">
+{{AARTalk|class=Stub}}
+	</talkpage>
+</article>

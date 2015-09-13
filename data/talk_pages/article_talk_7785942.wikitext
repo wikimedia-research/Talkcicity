@@ -1,0 +1,14 @@
+<article id="7785942" title=Talk:Phiroze Jamshedji Jeejeebhoy>
+	<talkpage id="7785942" title="Talk:Phiroze Jamshedji Jeejeebhoy">
+{{WikiProjectBannerShell|1=
+{{WikiProject Zoroastrianism|class=Stub|importance=|auto=yes}}
+{{WikiProject Biography|living=no
+|class=Stub
+|auto=yes
+|listas=Jeejeebhoy, Phiroze Jamshedji
+}}
+{{WikiProject India|class=stub
+|importance=low}}
+}}
+	</talkpage>
+</article>

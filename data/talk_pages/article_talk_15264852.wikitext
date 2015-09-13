@@ -1,0 +1,10 @@
+<article id="15264852" title=Talk:Maura Harty>
+	<talkpage id="15264852" title="Talk:Maura Harty">
+{{WikiProject Biography
+|living=yes
+|class=
+|listas=Harty, Maura
+}}
+{{WikiProject International relations}}
+	</talkpage>
+</article>

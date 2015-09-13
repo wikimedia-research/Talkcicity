@@ -1,0 +1,9 @@
+<article id="17819429" title=Talk:Full Frontal Fashion>
+	<talkpage id="17819429" title="Talk:Full Frontal Fashion">
+{{WikiProject Television | class= | priority=low | needs-infobox = no}}
+
+== Needs work ==
+
+This entire article is pretty unorganized. I'd love to see it in a better place with some justified sources so we can remove some of the Citation needed tags. There are a lot of unjustified claims on this page, I feel. We need a &quot;host&quot; section because it talks of various hosts in various spots of the article. I also hid a sentence that is too poorly written to understand the meaning. Hopefully we can restore the page to a reputable spot. I'll add an IMDb link with a small addition to get the ball rolling. [[User:Chewbakadog|Chewbakadog]] ([[User talk:Chewbakadog|talk]]) 00:40, 19 August 2015 (UTC)
+	</talkpage>
+</article>

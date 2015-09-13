@@ -1,0 +1,11 @@
+<article id="22909134" title=Talk:Rick Tsai>
+	<talkpage id="22909134" title="Talk:Rick Tsai">
+{{WPBiography
+|living=yes
+|class=Stub
+|auto=yes
+|listas=Tsai, Rick
+}}
+{{WPTAIWAN|class=stub|importance=low}}
+	</talkpage>
+</article>

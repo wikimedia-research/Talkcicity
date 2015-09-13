@@ -1,0 +1,18 @@
+<article id="21874840" title=Talk:Bloomingburg Reformed Protestant Dutch Church>
+	<talkpage id="21874840" title="Talk:Bloomingburg Reformed Protestant Dutch Church">
+{{WikiProjectBannerShell|1=
+{{WikiProject Christianity|class=C|importance=low|calvinism=yes|calvinism-importance=low}}
+{{WikiProject National Register of Historic Places|class=C|importance=low}}
+{{WikiProject Architecture|class=C|importance=Low}}
+{{WikiProject Hudson Valley|class=C|importance=Low}}
+}}
+{{dyktalk|20 March|2009}}
+
+== Confusing ==
+
+This, and the dyk hook, are rather confusing on the layout, using &quot;sides&quot; when &quot;ends&quot; seems to be meant, and &quot;front&quot;, which is not very helpful. I suggest it is touched up, using the term &quot;tower end&quot; as a start for orientation. [[User:Johnbod|Johnbod]] ([[User talk:Johnbod|talk]]) 21:39, 16 March 2009 (UTC)
+:If you want ... I just thought it was unusual to have the altar next to the main entrance rather than across from it. Hey, maybe I should phrase it that way. [[User:Daniel Case|Daniel Case]] ([[User talk:Daniel Case|talk]]) 16:09, 18 March 2009 (UTC)
+::It is unusual, but I found it hard to understand where the altar was originally, and where it is now. It doesn't help that the conventional term for the altar end is the &quot;east end&quot; following the traditional medieval orientation of churches. I've added a sentence in an attempt to make clearer what I hope is right - please adjust as necessary. [[User:Johnbod|Johnbod]] ([[User talk:Johnbod|talk]]) 17:35, 18 March 2009 (UTC)
+:::No problems. Works for me. [[User:Daniel Case|Daniel Case]] ([[User talk:Daniel Case|talk]]) 03:11, 19 March 2009 (UTC)
+	</talkpage>
+</article>

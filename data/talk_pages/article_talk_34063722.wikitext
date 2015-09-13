@@ -1,0 +1,5 @@
+<article id="34063722" title=Talk:Bugs' White Water Rapids>
+	<talkpage id="34063722" title="Talk:Bugs' White Water Rapids">
+{{WikiProject Amusement Parks|sixflags=yes|sixflags-importance=mid|importance=low|class=start}}
+	</talkpage>
+</article>

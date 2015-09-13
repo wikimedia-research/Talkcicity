@@ -1,0 +1,13 @@
+<article id="9096744" title=Talk:Nicholas Longworth (winemaker)>
+	<talkpage id="9096744" title="Talk:Nicholas Longworth (winemaker)">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=no
+|class=Start
+|listas=Longworth, Nicholas
+}}
+{{WikiProject Wine|class=start|importance=mid|needs-picture=yes}}
+{{WikiProject United States|class=Start|importance=Low|OH=yes|OH-importance=}}
+}}
+	</talkpage>
+</article>

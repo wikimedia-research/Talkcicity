@@ -1,0 +1,6 @@
+<article id="3850019" title=Talk:Monroe, Green County, Wisconsin>
+	<talkpage id="3850019" title="Talk:Monroe, Green County, Wisconsin">
+{{WikiProject Wisconsin|class=start|importance=low}}
+{{WPCities|class=start|importance=low}}
+	</talkpage>
+</article>

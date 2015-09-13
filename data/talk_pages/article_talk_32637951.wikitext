@@ -1,0 +1,5 @@
+<article id="32491616" title=Talk:1999–2000 Liga Nacional de Hockey Hielo season>
+	<talkpage id="32491616" title="Talk:1999–2000 Liga Nacional de Hockey Hielo season">
+{{ice hockey|class=stub}}
+	</talkpage>
+</article>

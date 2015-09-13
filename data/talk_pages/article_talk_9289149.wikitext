@@ -1,0 +1,8 @@
+<article id="9289149" title=Talk:Kat Colorado>
+	<talkpage id="9289149" title="Talk:Kat Colorado">
+{{NovelsWikiProject|class=Redirect|importance=NA|crime-task-force=yes}}
+{{WPBooks|class=Redirect|importance=NA|needs-infobox=}}
+== WikiProject class rating==
+This article was automatically assessed because at least one WikiProject had rated the article as stub, and the rating on other projects was brought up to Stub class. [[User:BetacommandBot|BetacommandBot]] 13:40, 9 November 2007 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,29 @@
+<article id="28720163" title=User talk:Duducukier01>
+	<talkpage id="28720163" title="User talk:Duducukier01">
+
+'''Welcome!'''
+
+Hello, Duducukier01, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for [[Special:Contributions/Duducukier01|your contributions]]. I hope you like the place and decide to stay. Unfortunately, one or more of the pages you created, such as [[Cocaine Girl]], may not conform to some of Wikipedia's [[Wikipedia:List of policies|guidelines]], and may soon be deleted. 
+
+There's a page about creating articles you may want to read called '''[[Wikipedia:Your first article|Your first article]]'''. If you are stuck, and looking for help, please come to the '''[[Wikipedia:New contributors' help page|New contributors' help page]]''', where experienced Wikipedians can answer any queries you have! Or, you can just type '''{{t|helpme}}''' on this page, and someone will show up shortly to answer your questions. Here are a few other good links for newcomers:
+* [[Wikipedia:Starting an article|Starting an article]]
+* [[Wikipedia:Your first article|Your first article]]
+* [[Wikipedia:Biographies of living persons|Biographies of living persons]]
+* [[Wikipedia:How to write a great article|How to write a great article]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Tutorial|Tutorial]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you have any questions, check out [[Wikipedia:Questions]] or ask me on my talk page. &lt;!-- Template:First article --&gt; Again, welcome!&amp;nbsp;— [[User:Explicit|&lt;font color=&quot;B22222&quot;&gt;'''ξ'''&lt;/font&gt;]][[User talk:Explicit|&lt;font color=&quot;000000&quot;&gt;&lt;sup&gt;xplicit&lt;/sup&gt;&lt;/font&gt;]] 00:02, 6 September 2010 (UTC)
+==[[Wikipedia:Proposed deletion|Proposed deletion]] of [[Cocaine Girl]]==
+[[Image:Ambox warning yellow.svg|left|48px|]]
+
+The article [[Cocaine Girl]] has been [[Wikipedia:Proposed deletion|proposed for deletion]]&amp;#32; because of the following concern:
+:'''Non-notable unreleased song.'''
+
+While all contributions to Wikipedia are appreciated, content or articles may be [[WP:DEL#REASON|deleted for any of several reasons]].
+
+You may prevent the proposed deletion by removing the &lt;code&gt;{{tl|dated prod}}&lt;/code&gt; notice, but please explain why in your [[Help:edit summary|edit summary]] or on [[Talk:Cocaine Girl|the article's talk page]].
+
+Please consider improving the article to address the issues raised. Removing &lt;code&gt;{{tl|dated prod}}&lt;/code&gt; will stop the [[Wikipedia:Proposed deletion|proposed deletion process]], but other [[Wikipedia:deletion process|deletion process]]es exist.  The [[Wikipedia:Criteria for speedy deletion|speedy deletion process]] can result in deletion without discussion, and [[Wikipedia:Articles for deletion|articles for deletion]] allows discussion to reach [[Wikipedia:Consensus|consensus]] for deletion.&lt;!-- Template:PRODWarning --&gt; — [[User:Explicit|&lt;font color=&quot;B22222&quot;&gt;'''ξ'''&lt;/font&gt;]][[User talk:Explicit|&lt;font color=&quot;000000&quot;&gt;&lt;sup&gt;xplicit&lt;/sup&gt;&lt;/font&gt;]] 00:02, 6 September 2010 (UTC)
+	</talkpage>
+</article>

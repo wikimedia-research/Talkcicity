@@ -1,0 +1,11 @@
+<article id="6956241" title=Talk:Kevin L. Ward>
+	<talkpage id="6956241" title="Talk:Kevin L. Ward">
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|politician-work-group=yes
+|listas=Ward, Kevin
+}}
+{{WikiProject Oklahoma|class=Stub|importance=low}}
+	</talkpage>
+</article>

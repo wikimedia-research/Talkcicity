@@ -1,0 +1,10 @@
+<article id="9284940" title=Talk:It's Such a Beautiful Day>
+	<talkpage id="9284940" title="Talk:It's Such a Beautiful Day">
+{{NovelsWikiProject
+|class=Stub
+|importance=Mid
+|short-story-task-force=yes
+|sf-task-force=yes
+}}
+	</talkpage>
+</article>

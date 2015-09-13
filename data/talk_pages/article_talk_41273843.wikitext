@@ -1,0 +1,6 @@
+<article id="41273843" title=Talk:Glen Mary Plantation>
+	<talkpage id="41273843" title="Talk:Glen Mary Plantation">
+{{WikiProject National Register of Historic Places|class=Start|importance=Low}}
+{{WikiProject Georgia (U.S. state)|class=Start|importance=Low}}
+	</talkpage>
+</article>

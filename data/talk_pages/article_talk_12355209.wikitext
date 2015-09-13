@@ -1,0 +1,5 @@
+<article id="12355209" title=Talk:Oncosperma>
+	<talkpage id="12355209" title="Talk:Oncosperma">
+{{WikiProject Plants|class=Stub}}
+	</talkpage>
+</article>

@@ -1,0 +1,9 @@
+<article id="23766452" title=User talk:174.115.131.191>
+	<talkpage id="23766452" title="User talk:174.115.131.191">
+
+
+== July 2009 ==
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to contribute constructively to the encyclopedia, one or more of the external links you added {{#if:Diesel particulate filter|such as to the page [[:Diesel particulate filter]]}} do not comply with our [[Wikipedia:External links|guidelines for external links]] and have been removed. [[Wikipedia:What Wikipedia is not#LINK|Wikipedia is not a collection of links]]; nor should it be used for [[Wikipedia:Spam|advertising]] or promotion, and doing so is contrary to the goals of this project. Since Wikipedia uses [[nofollow]] tags, external links do not alter search engine rankings. If you feel the link should be added to the article, please discuss it on the {{#if:Diesel particulate filter|[[talk:Diesel particulate filter|article's talk page]]|article's talk page}} before reinserting it. Please take a look at the [[Wikipedia:Welcome|welcome page]] to learn more about contributing to this encyclopedia. {{#if:|{{{2}}}|Thank you.}}[[Category:User talk pages with Uw-spam1 notices|{{PAGENAME}}]]&lt;!-- Template:uw-spam1 --&gt; [[User:Scheinwerfermann|Scheinwerfermann]] ([[User talk:Scheinwerfermann|talk]]) 20:42, 27 July 2009 (UTC)
+:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
+	</talkpage>
+</article>

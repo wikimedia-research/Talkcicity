@@ -1,0 +1,5 @@
+<article id="22931407" title=Talk:Koszelewy>
+	<talkpage id="22931407" title="Talk:Koszelewy">
+{{WikiProject Poland|class=start|importance=mid}}
+	</talkpage>
+</article>

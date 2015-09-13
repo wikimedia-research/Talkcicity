@@ -1,0 +1,5 @@
+<article id="30921258" title=Talk:Pablo Corral>
+	<talkpage id="30921258" title="Talk:Pablo Corral">
+{{WikiProject Biography|living=yes|class=stub|auto=yes|listas=Corral, Pablo}}
+	</talkpage>
+</article>

@@ -1,0 +1,19 @@
+<article id="39955020" title=User talk:78.105.250.78>
+	<talkpage id="39955020" title="User talk:78.105.250.78">
+
+== Welcome to Wikipedia! ==
+
+Hello, and [[Wikipedia:Introduction|welcome]] to Wikipedia! Thank you for [[Special:Contributions/78.105.250.78|your contributions]]. I hope you like the place and decide to stay. Here are some pages you might like to see:
+
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Tutorial|Tutorial]]
+* [[Wikipedia:How to edit a page|How to edit a page]] and [[Wikipedia:Article development|How to develop articles]]
+* [[Wikipedia:Simplified Manual of Style|Simplified Manual of Style]]
+* [[Help:Wikipedia: The Missing Manual|Intuitive guide to Wikipedia]]
+
+You are welcome to continue editing without [[Special:Userlogin|logging in]], but you may want to consider '''&lt;span class=&quot;plainlinks&quot;&gt;[{{fullurl:Special:Userlogin|type=signup&amp;campaign=anonwelcometemplate}} creating an account]&lt;/span&gt;'''. Doing so is free, requires no personal information, and provides several benefits such as the ability to create articles. For a full outline and explanation of the benefits that come with creating an account, please see [[Wikipedia:Why create an account?|this page]]. If you edit without a username, your [[IP address]] (78.105.250.78) is used to identify you instead.
+
+In any case, I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign your comments]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your IP address (or username if you're logged in) and the date. If you need help, check out [[Wikipedia:Questions]], ask me on [[User talk:Cirt|my talk page]], or ask your question and then place &lt;code&gt;&lt;nowiki&gt;{{&lt;/nowiki&gt;[[:Category:Wikipedians looking for help|helpme]]&lt;nowiki&gt;}}&lt;/nowiki&gt;&lt;/code&gt; before the question on this page. Again, welcome! &lt;!-- Template:welcome-anon --&gt; &amp;mdash; '''[[User:Cirt|Cirt]]''' ([[User talk:Cirt|talk]]) 17:56, 13 July 2013 (UTC)
+	</talkpage>
+</article>

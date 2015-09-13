@@ -1,0 +1,9 @@
+<article id="27567898" title=Talk:2005 IIHF World Championship Division II>
+	<talkpage id="27567898" title="Talk:2005 IIHF World Championship Division II">
+{{WikiProjectBannerShell|1=
+{{WikiProject Ice Hockey|class=Start}}
+{{WikiProject Croatia|class=start|importance=low}}
+{{WikiProject Serbia|class=start|importance=low}}
+}}
+	</talkpage>
+</article>

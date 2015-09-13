@@ -1,0 +1,16 @@
+<article id="40050028" title=Talk:Juan Manuel López (racing driver)>
+	<talkpage id="40050028" title="Talk:Juan Manuel López (racing driver)">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=C
+|listas=López , Juan Manuel
+|auto=yes
+}}
+{{WikiProject Argentina|class=C|importance=low}}
+{{WikiProject Motorsport|class=C|importance=low}}
+{{WikiProject Sports Car Racing|class=C}}
+{{Old AfD|result=delete}}
+}}
+	</talkpage>
+</article>

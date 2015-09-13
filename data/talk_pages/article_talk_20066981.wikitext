@@ -1,0 +1,13 @@
+<article id="20066981" title=User talk:Pete maddington>
+	<talkpage id="20066981" title="User talk:Pete maddington">
+
+
+==Speedy deletion of [[:Martyn graham]]==
+[[Image:Ambox warning_pn.svg|48px|left]] Please do not make personal attacks. Wikipedia has a strict policy against [[Wikipedia:No personal attacks|personal attacks]]. [[Wikipedia:Attack_page|Attack pages]] and images '''are not tolerated''' by Wikipedia and are [[Wikipedia:Criteria for speedy deletion|speedily deleted]]. Users who continue to create or repost such pages and images in violation of our [[Wikipedia:Biographies of living persons|biographies of living persons]] policy will be [[Wikipedia:Blocking policy|blocked]] from editing Wikipedia. Thank you. 
+
+If you think that this notice was placed here in error, you may contest the deletion by adding &lt;code&gt;{{tl|hangon}}&lt;/code&gt; to '''the top of [[:Martyn graham|the page that has been nominated for deletion]]''' (just below the existing speedy deletion or &quot;db&quot; tag), coupled with adding a note on '''[[ Talk:Martyn graham|the talk page]]''' explaining your position, but be aware that once tagged for ''speedy'' deletion, if the article meets the criterion it may be deleted without delay. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the article that would would render it more in conformance with Wikipedia's policies and guidelines.  &lt;!-- Template:Db-attack-notice --&gt; &lt;!-- Template:Db-csd-notice-custom --&gt; [[User:Largoplazo|—Largo Plazo]] ([[User talk:Largoplazo|talk]]) 09:56, 4 November 2008 (UTC)
+
+== November 2008 ==
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to contribute constructively to the encyclopedia, {{#if:Martyn graham||some of}} your recent edits {{#if:Martyn graham|to [[:Martyn graham]]}} have been reverted as they could be seen to be defamatory or potentially [[Wikipedia:Libel|libellous]]. Take a look at our [[Wikipedia:Welcome|welcome page]] to learn more about contributing to this encyclopedia. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-defamatory1 --&gt; [[User:Largoplazo|—Largo Plazo]] ([[User talk:Largoplazo|talk]]) 09:56, 4 November 2008 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,11 @@
+<article id="33522917" title=User talk:174.66.155.11>
+	<talkpage id="33522917" title="User talk:174.66.155.11">
+
+
+== October 2011 ==
+[[Image:Information.svg|left|25px|alt=|link=]] Hello, and welcome to Wikipedia. Everyone is welcome to make constructive contributions to Wikipedia, but at least one of your recent edits, such as the one you made to [[:Get Back Loretta]], did not appear to be constructive and has been '''automatically [[Help:Reverting|reverted]]''' (undone) by [[User:ClueBot NG|ClueBot NG]]. 
+* Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. Note that human editors do monitor recent changes to Wikipedia articles, and [[WP:ADMINS|administrators]] have the ability to [[WP:BLOCK|block]] users from editing if they repeatedly engage in [[WP:vandalism|vandalism]].
+* ClueBot NG produces very few [[User:ClueBot NG#Information About False Positives|false positives]], but it does happen. If you believe the change you made should not have been detected as unconstructive, please [[User:ClueBot NG#Information About False Positives|read about it]], [{{User:ClueBot NG/Warnings/FPReport|676405}} report it here], remove this warning from your talk page, and then make the edit again. 
+* The following is the log entry regarding this warning: [[Get Back Loretta]] was [http://en.wikipedia.org/w/index.php?title=Get+Back+Loretta&amp;diff=457262208&amp;oldid=447212643 changed] by [[Special:Contributions/174.66.155.11|174.66.155.11]] [[User:174.66.155.11|(u)]] [[User talk:174.66.155.11|(t)]] ANN scored at 0.969967 on 2011-10-25T04:05:29+00:00 &lt;!-- MySQL ID: 676405 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]) 04:05, 25 October 2011 (UTC)
+	</talkpage>
+</article>

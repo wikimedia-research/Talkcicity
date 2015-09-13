@@ -1,0 +1,9 @@
+<article id="20538064" title=User talk:68.192.49.216>
+	<talkpage id="20538064" title="User talk:68.192.49.216">
+
+
+== December 2008 ==
+[[Image:Information.svg|25px]] [[Wikipedia:Introduction|Welcome]] to Wikipedia, and thank you for your contributions. One of the core policies of Wikipedia is that articles should always be written from a [[Wikipedia:Neutral point of view|neutral point of view]]{{#if:Whale Wars|. A contribution you made to [[:Whale Wars]] appears to carry a non-neutral point of view, and your edit may have been changed or reverted to correct the problem}}. Please remember to observe our [[Wikipedia:Five pillars|core policies]]. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-npov1 --&gt; [[User:Terrillja|&lt;font color=&quot;003300&quot;&gt;Terrillja&lt;/font&gt;]][[User Talk:Terrillja|&lt;font color=&quot;black&quot;&gt;&lt;sub&gt; talk&lt;/sub&gt;&lt;/font&gt;]] 01:47, 4 December 2008 (UTC)
+:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
+	</talkpage>
+</article>

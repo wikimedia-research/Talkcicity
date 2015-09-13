@@ -1,0 +1,26 @@
+<article id="33430463" title=Talk:USS Concord (1828)>
+	<talkpage id="33430463" title="Talk:USS Concord (1828)">
+{{WikiProject Ships|class=b|B1=y|B2=y|B3=y|B4=y|B5=y}}
+{{WPMILHIST|class=b|B1=y|B2=y|B3=y|B4=y|B5=y|Maritime=y|US=y}}
+
+==opening comments==
+Currently the existing sources (uncovered so far) only contain cursory information. Other sources/info' needed to expand article. -- [[User:Gwillhickers|Gwillhickers]] ([[User talk:Gwillhickers|talk]]) 18:26, 16 October 2011 (UTC)
+
+==Varying Sloop of War designs==
+Searching for an adequate image for use with the [[USS Concord (1828)|''Concord'']] article I came up with these ships, listed/linked below whose tonnage, length, beam and draft (t,L,B,D) are identical to that of ''Concord's''. These three vessels were built at different shipyards in 1828, 1825 and 1825 respectively and being built during the same time period hopefully they employed the same building techniques.
+
+:[[USS Concord (1828)]] 700 tons, L:127', B:33' 9&quot;, D:16'
+:===============================================
+:[[USS Boston (1825)]] 700 tons, L:127', B: 33'9&quot;, D:16'
+:[[USS Lexington (1825)]] 702 tons, L:127', L: B  33'6&quot;, D:16'6&quot;
+
+Would like comment on their image use for this article.
+
+I also found an image of the hull (of ''Concord''?) taken from [http://members.cox.net/tdshiflett/ships/data/sow/concord_sow.html Chapelle's ''The History of the American Sailing Navy ..'' (1949)]. From what I can tell the image here resembles that of ''Boston'' more than the ''Lexington'' whose quarter deck is raised, where as the ''Boston'''s deck appears to be at the same level from stem to stern, like that pictured at this address. Not sure of its copyright status so am foregoing any upload of the image at this point. -- [[User:Gwillhickers|Gwillhickers]] ([[User talk:Gwillhickers|talk]]) 17:27, 18 October 2011 (UTC)
+
+:There is no requirement to use an image of the ship in the infobox, either because one cannot be found under a suitable license, or because one may not exist. To avoid any [[WP:OR]] on what ship we think looks most like the ''Concord'' by its size and length, it would be better not to use any image in the infobox. You wouldn't put a picture of a man reported to look like the subject of a biography article because you can't find an image of him, and the same logic would seem to apply here. If you want to show what a sloop in general looks like, perhaps you could put an image of one of these ships in the article body, but that doesn't seem necessary either. [[User:Benea|Benea]] ([[User talk:Benea|talk]]) 14:58, 19 October 2011 (UTC)
+:::Analogy to using an image of a different person a little off. Person is a living entity, and unless the image was that of an identical twin, would of course be inappropriate. Even with. Bear in mind also that we're dealing with paintings or drawings not photos. Using an image of an illustration of an identical vessel could have a caption which read: ''Sloop of war design employed in the Concord'', with a footnote, but if this has never been done before then by all means I don't want this ship's article to be an exception. I was told by another user that using an image of an identical &quot;sister ship&quot; would be adequate but he didn't give an example. Will hold on image use in info box for now at least. Thanks for looking out. -- [[User:Gwillhickers|Gwillhickers]] ([[User talk:Gwillhickers|talk]]) 19:02, 19 October 2011 (UTC).
+
+:::On the [[USS Yorktown (1839)]] page an image of the USS ''Dale'' is used in the info box, with a caption that reads:&lt;br/&gt;&lt;br/&gt;&lt;center&gt;''&quot;The sloop of war USS Dale, similar in design to the Yorktown.&quot;''&lt;/center&gt;&lt;br/&gt;It's been this way since January of 2010. -- [[User:Gwillhickers|Gwillhickers]] ([[User talk:Gwillhickers|talk]]) 00:24, 20 October 2011 (UTC)
+	</talkpage>
+</article>

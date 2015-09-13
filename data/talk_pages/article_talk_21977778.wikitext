@@ -1,0 +1,16 @@
+<article id="21977778" title=Talk:Thomas Walter Jennings>
+	<talkpage id="21977778" title="Talk:Thomas Walter Jennings">
+{{WikiProject Biography
+|living=no
+|class=
+|listas=Jennings, Thomas Walter
+}}
+
+
+===Focus &amp; overlap===
+
+This article seems to focus on JMI products, mainly Vox amps, rather than the life of Tom Jennings. Also there is a lot of overlap between these articles: [[Thomas Walter Jennings]], [[Vox (musical equipment)]], &amp; [[Jennings Musical Instruments]].      
+
+[[User:CPES|CPES]] ([[User talk:CPES|talk]]) 11:04, 13 February 2014 (UTC)
+	</talkpage>
+</article>

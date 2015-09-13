@@ -1,0 +1,6 @@
+<article id="15951864" title=Talk:1981–82 in English football>
+	<talkpage id="15951864" title="Talk:1981–82 in English football">
+{{Football|class=Start|importance=Low|England=yes}}
+{{WikiProject England|class=Start|importance=low}}
+	</talkpage>
+</article>

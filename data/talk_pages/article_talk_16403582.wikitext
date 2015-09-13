@@ -1,0 +1,7 @@
+<article id="16403582" title=User talk:161.97.244.167>
+	<talkpage id="16403582" title="User talk:161.97.244.167">
+
+== March 2008 ==
+{{{icon|[[Image:Information.svg|25px]] }}} Your recent edit to [[:Transcontinental railroad]] ([http://en.wikipedia.org/w/index.php?title=Transcontinental_railroad&amp;curid=51916&amp;diff=199364619&amp;oldid=198862085 diff]) was reverted by an '''automated bot'''. The edit was identified as adding [[WP:VAND|vandalism]], or [[WP:SPAM|link spam]] to the page or having an inappropriate [[WP:ES|edit summary]]. If you want to experiment, please use the preview button while editing or consider using the [[Wikipedia:Sandbox|sandbox]]. If this revert was in error, please contact the bot operator. If you made an edit that removed a large amount of content, try doing smaller edits instead. Thanks!&lt;!-- Template:uw-vandalism1 --&gt; // [[User:VoABot II|VoABot II]] ([[User talk:VoABot II|talk]]) 15:59, 19 March 2008 (UTC)
+	</talkpage>
+</article>

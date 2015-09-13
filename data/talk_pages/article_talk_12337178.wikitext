@@ -1,0 +1,7 @@
+<article id="12337178" title=Talk:Ethiopian amphibious rat>
+	<talkpage id="12337178" title="Talk:Ethiopian amphibious rat">
+{{WikiProject Africa|class=stub|importance=low|Ethiopia=yes|Ethiopia-importance=low}}
+{{WikiProject Mammals|class=stub|importance=low|needs-photo=yes}}
+{{WikiProject Rodents|class=stub|importance=low|needs-photo=yes}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="20429665" title=Talk:Persephone (disambiguation)>
+	<talkpage id="20429665" title="Talk:Persephone (disambiguation)">
+{{DisambigProject}}
+	</talkpage>
+</article>

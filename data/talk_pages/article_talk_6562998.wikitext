@@ -1,0 +1,12 @@
+<article id="6562998" title=Talk:John Karr>
+	<talkpage id="6562998" title="Talk:John Karr">
+{{DisambigProject}}
+----
+
+This page was originally a redirect to [[John Mark Karr]], then a dab mentioning a horror fiction author by the name of John Karr.  Since the author was a red link with no links pointing to it, I have restored the redirect. [[User:Raggaga|Raggaga]] 00:15, 20 August 2006 (UTC)
+
+:This was discussed on the [[John mark Karr]] page and a number of people felt that it was important that there be a disambiguation page - so right now we have about three for it, and one against it. If you want we can argue over it, or someone can take 2 mins to create the stub for the scifi author (name, date of birth and occupation should get it going). -- [[User:Stbalbach|Stbalbach]] 02:23, 20 August 2006 (UTC)
+
+:: Why should we create a stub on a non-notable person just because he shares the name of a notable one?  The author is not at all notable; he seems to have had only one book published, by a tiny publishing house.  No one would care about the redirect if John Karr's alleged crime were not so infamous, but alas, thousands of people share unfortunate names. That doesn't mean that anytime someone searches for, say, &quot;[[Joel Rifkin]]&quot;, they shouldn't be pointed to a dab page that mentions a different Joel Rifkin who currently waits tables in Peoira.  Think about it: would you create the article on John Karr the author had you never heard of John Karr the alleged murderer?  [[User:Raggaga|Raggaga]] 03:53, 20 August 2006 (UTC)
+	</talkpage>
+</article>

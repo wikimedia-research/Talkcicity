@@ -1,0 +1,15 @@
+<article id="14887769" title=Talk:Gerald Shapiro (composer)>
+	<talkpage id="14887769" title="Talk:Gerald Shapiro (composer)">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=start
+|auto=inherit
+|listas=Shapiro, Gerald
+}}
+{{WikiProject Composers|class=Start}}
+{{WikiProject Contemporary music}}
+| blp=yes
+}}
+	</talkpage>
+</article>

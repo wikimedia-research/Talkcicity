@@ -1,0 +1,8 @@
+<article id="40621304" title=User talk:59.91.130.42>
+	<talkpage id="40621304" title="User talk:59.91.130.42">
+
+== September 2013 ==
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Gareth Griffith-Jones|Gareth Griffith-Jones]]. I wanted to let you know that I undid one or more of [[Special:Contributions/59.91.130.42|your recent contributions]]&amp;nbsp;to [[:List of soft drinks by country]] because it did not appear constructive. If you would like to experiment, you can use the [[WP:sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Gareth Griffith-Jones|my talk page]]. &lt;!-- Template:uw-vandalism1 --&gt;  &lt;br /&gt;&lt;strong&gt;— &amp;#124; [[User:Gareth Griffith-Jones|Gareth Griffith-Jones]] &amp;#124; &lt;small&gt;[[User talk:Gareth Griffith-Jones|The Welsh Buzzard ]]&lt;/small&gt; &amp;#124;&lt;/strong&gt; —  20:04, 24 September 2013 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

@@ -1,0 +1,19 @@
+<article id="9514870" title=User talk:Silver616>
+	<talkpage id="9514870" title="User talk:Silver616">
+
+'''Welcome!'''
+
+Hello, {{BASEPAGENAME}}, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for your contributions. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Help:Contents|Help pages]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:Article development|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you need help, check out [[Wikipedia:Questions]], ask me on my talk page, or place &lt;code&gt;&lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt;&lt;/code&gt; on your talk page and ask your question there. Again, welcome!&amp;nbsp; &lt;span style=&quot;font-family:trebuchet ms&quot;&gt;[[User:riana_dzasta|riana]]_[[User talk:riana_dzasta|'''dzasta''']]&lt;/span&gt; 03:44, 15 February 2007 (UTC)
+{{#if:{{{header|}}}|=={{{header-text|[[:Pearl info]]}}}==}}
+A tag has been placed on [[:Pearl info]], requesting that it be speedily deleted from Wikipedia. This has been done under the [[WP:CSD#Articles|criteria for speedy deletion]], because it is a very short article providing little or no context to the reader. Please see [[Wikipedia:Stub#Essential information about stubs|Wikipedia:Stub]] for our minimum information standards for short articles. Also please note that articles must be on [[Wikipedia:Notability|notable]] subjects and should provide references to [[Wikipedia:Reliable sources|reliable sources]] that [[Wikipedia:Verifiability|verify]] their content. 
+
+Please do not remove the speedy deletion tag yourself. If you plan to expand the article, you can request that [[Wikipedia:Administrators|administrators]] wait a while for you to add contextual material.  To do this, affix the template &lt;code&gt;{{tl|hangon}}&lt;/code&gt; to the page and state your intention on the article's [[Help:Talk page|talk page]]. Feel free to leave a note on my talk page if you have any questions about this.&lt;!-- Template:Empty-warn --&gt; &lt;span style=&quot;font-family:trebuchet ms&quot;&gt;[[User:riana_dzasta|riana]]_[[User talk:riana_dzasta|'''dzasta''']]&lt;/span&gt; 03:44, 15 February 2007 (UTC)
+	</talkpage>
+</article>

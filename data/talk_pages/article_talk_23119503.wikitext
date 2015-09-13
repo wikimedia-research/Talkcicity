@@ -1,0 +1,122 @@
+<article id="23119503" title=User talk:92.143.4.107>
+	<talkpage id="23119503" title="User talk:92.143.4.107">
+&lt;div class=&quot;notice metadata plainlinks&quot; id=&quot;stub&quot;&gt;''This article is a [[Wikipedia:Stub|stub]]. You can help Wikipedia by [{{fullurl:{{FULLPAGENAME}}|action=edit}} expanding it]. ''&lt;/div&gt;
+
+
+user made changes here
+
+http://en.wikipedia.org/w/index.php?title=Timeline_of_computing_2000-2009&amp;diff=294776404&amp;oldid=294776296
+
+then did more here
+http://en.wikipedia.org/wiki/Special:Contributions/92.143.4.107
+
+== [[Special:Contributions/92.143.4.107|92.143.4.107]] ([[User talk:92.143.4.107#top|talk]]) 15:27, 6 June 2009 (UTC) ==
+
+thank you for your apreciations
+this ip at this time has been signed X
+[[Special:Contributions/92.143.4.107|92.143.4.107]] ([[User talk:92.143.4.107#top|talk]]) 15:27, 6 June 2009 (UTC)
+
+personnally i do not find it necesary to show credit to my person as i have only made suggestions for the better organisation of now, present, (this is long infinitlly teadyous work)
+it would be apreciated that the final result permits me to vote for this article using this ip adress once only ivedently but not being able to find the vote tool attatchement or even see what article is the most apreciated be the wikinautes at this perticular moment in time i result in typing here that [[Special:Contributions/92.143.4.107|92.143.4.107]] ([[User talk:92.143.4.107#top|talk]]) 15:34, 6 June 2009 (UTC) has voted for this article at timestamp
+
+http://en.wikipedia.org/w/index.php?title=User_talk:92.143.4.107&amp;diff=294795639&amp;oldid=294794695
+
+== disscussions on wikivotes ==
+
+http://meta.wikimedia.org/wiki/Talk:Voting_procedure
+
+== promoting to featured content ==
+
+try this http://en.wikipedia.org/wiki/Talk:Main_Page#featured_content
+
+== wiki needs more visable tools ==
+
+i can not show an article as featured content because i can't find the tool to propose it.
+
+this suggestion needs to be worked on but the solution resides in a bot that creates featured content articles by means of querying user votes
+
+== featured content ==
+
+wiki needs more featured content pages.
+so that people can find interesting info by different search requirements.
+
+and why is there so little posabilitys of navigation anyway ?
+
+we also need a world featured content page so as we can see what articles are most saurt after in the world and can be translated quicker due to importance
+
+== the finale breakthrough ==
+
+dear user you have finally understood that number of articles on the wiki are not nutral at all.
+
+{{Fact}} is that at the very moment i type these words if have taken part in a chose. weither or not i write this now is indefenetly chosen as i can not half type in any one caracter for the meare reason that the binary system is eather one or the other choice
+
+we can however find a result that categorises every single choice into a single nutral choice 
+
+but what is nutral ? in this case is a question on the behalf of neutrality.
+
+i can then having chosen to transcript this idea on the neutrality of choice.
+ask you to engage in helping me to proceed in categorising these choises.
+
+how many users voted yes for the image of the day ?
+how many users voted no for the image of today ?
+how many users did not vote for the image of the day after seeing it ?
+how many users did not see the image of the day before it became what it is today on this wiki portal ?
+
+
+of corse i do not want to deleate this image of the day as it proves it's existance and i wish to help it existe by way of promoting it as it may be very usefull to any nutral being. this way i will be able to use the wiki to find the most interesting articles and translate then into evey language comprehendable to neutrality
+
+== more theory on voting procedures ==
+
+[[Voting_paradox]]
+
+[[Arrow's_impossibility_theorem]]
+
+==Stub template on user page==
+Hi {{ #ifeq: {{{1}}} | {{BASEPAGENAME}} | {{{1}}} | {{BASEPAGENAME}} }}. I hope you don't mind that I [[Wikipedia:Template substitution|subst'ed]] the [[Wikipedia:Stub|stub template]] on this page and removed the category link; I did this so that your page doesn't turn up in a category of articles for editors to expand (only articles are supposed to be stubs). [[User:Grutness|Grutness]]...''&lt;small&gt;&lt;font color=&quot;#008822&quot;&gt;[[User_talk:Grutness|wha?]]&lt;/font&gt;&lt;/small&gt;'' 00:51, 7 June 2009 (UTC)
+
+== wiki chat box ==
+
+ébauche de projet en libre création/supression euh pour faire vite je cherche a crée un truc qui supprime le texte sur une page en gardant seulement les 10 derniers insertion  sur l'article  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/92.133.176.175|92.133.176.175]] ([[User talk:92.133.176.175|talk]]) 15:51, 7 June 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+for the link to the french collaborations http://fr.wikipedia.org/wiki/Wikipédia:Oracle/semaine_23_2009#c.27est_quoi_neutre_sur_wiki_.3F
+
+
+wiki chat box
+if i write this then this texte number -10 is deleated  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/92.133.176.175|92.133.176.175]] ([[User talk:92.133.176.175|talk]]) 16:02, 7 June 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== another brilliant idea ==
+
+&lt;gallery&gt;
+ Image:age.png|[[while]]
+ Image:NonFreeImageRemoved.svg|[[reading]]
+ Image:this.jpg|[[this]]
+ Image:writing.png|[[text]]
+ Image:a.png|[[an]]
+ Image:photo.jpg|[[image]]
+ Image:probability.png|[[sould]]
+ Image:show.png|[[apear]]
+ Image:under.jpg|[[below]]
+ Image:the.png|[[the]]
+ Image:mouse.png|[[mouse]]
+ Image:arrow.png|[[pointer]]
+&lt;/gallery&gt;
+
+
+
+where can i find this ?  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Timeturn|Timeturn]] ([[User talk:Timeturn|talk]] • [[Special:Contributions/Timeturn|contribs]]) 23:29, 23 July 2009 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Un compte sur WP:FR ? ==
+
+Salut,
+
+Il semble que tu as autant de difficultés à te créer un compte ici que sur la Wikipédia francophone. Comme dit dans la page de l'Oracle, je n'ai pas supprimé les discussions que tu as lancées par animosité personnelle mais parce que ça n'avait rien à faire dans cette page. Je veux bien discuter avec toi mais en ucun cas par ''chat'' : ni dans, ni hors de Wikipédia, je n'utilise ce moyen. Pour information, il existe déjà plusieurs canaux de discussion en temps réel sur Wikipédia, si tu préfères ce moyen, et plein de contributeurs qui les utilisent.
+
+Je vais placer à la fin de de message ma signature, mais si tu désires continuer le débat, écris plutôt sur ma page [[:fr:Discussion utilisateur:Olivier Hammam]] que sur celle anglophone, j'y suis rarement.
+
+Amicalement. [[User:Olivier Hammam|Olivier Hammam]] ([[User talk:Olivier Hammam|talk]]) 16:46, 7 June 2009 (UTC)
+----
+Je viens de m'apercevoir que tu as créé un compte, du coup je vais t'y laisser un message. [[User:Olivier Hammam|Olivier Hammam]] ([[User talk:Olivier Hammam|talk]]) 16:49, 7 June 2009 (UTC)
+
+merci [[User:Items|Items]] ([[User talk:Items|talk]]) 17:06, 7 June 2009 (UTC)
+	</talkpage>
+</article>

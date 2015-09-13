@@ -1,0 +1,8 @@
+<article id="44096427" title=User talk:108.254.156.254>
+	<talkpage id="44096427" title="User talk:108.254.156.254">
+== October 2014 ==
+
+[[Image:Information.svg|25px|alt=|link=]] Hello, I'm [[User:Donner60|Donner60]]. I noticed that you recently removed some content from [[:John Wise (balloonist)]] &amp;nbsp;with &lt;span class=&quot;plainlinks&quot;&gt;[https://en.wikipedia.org/w/index.php?title=John%20Wise%20%28balloonist%29&amp;diff=629377986 this edit]&lt;span&gt;, without explaining why. In the future, it would be helpful to others if you described your changes to Wikipedia with an [[Wikipedia:Edit summary|edit summary]]. If this was a mistake, don't worry, the removed content has been restored. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Donner60|my talk page]]. Thanks. &lt;!-- Template:Huggle/warn-delete-1 --&gt;&lt;!-- Template:uw-delete1 --&gt;[[User:Donner60|Donner60]] ([[User talk:Donner60|talk]]) 01:25, 13 October 2014 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

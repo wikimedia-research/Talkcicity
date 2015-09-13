@@ -1,0 +1,5 @@
+<article id="15224875" title=Talk:Johnston (surname)>
+	<talkpage id="15224875" title="Talk:Johnston (surname)">
+{{WikiProject Anthroponymy | class =Start | importance =Low }}
+	</talkpage>
+</article>

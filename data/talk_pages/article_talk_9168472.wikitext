@@ -1,0 +1,16 @@
+<article id="9168472" title=Talk:Diiron nonacarbonyl>
+	<talkpage id="9168472" title="Talk:Diiron nonacarbonyl">
+{{WikiProject Chemicals|class=start|importance=mid}}
+
+==Solubility in THF==
+Hello!
+I need a reference for the following passage of this article:
+&quot;In these conversions, it is proposed that small amounts of Fe2(CO)9 dissolve according the following reaction:
+
+    Fe2(CO)9 → Fe(CO)5 + Fe(CO)4(THF) &quot;
+
+I would appreciate a paper that involves this.
+Thank you!  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/141.51.191.83|141.51.191.83]] ([[User talk:141.51.191.83|talk]]) 14:15, 17 June 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+*I have found several papers that describe reactions of Fe2(CO)9 in THF. A widely cited one is by Horton et al (1984). One[http://www.jjc.yu.edu.jo/Issues/Vol4No2PDF/02.pdf paper by Al-Shboul et al.] even claims that it is soluble (p.112, &quot;was added dropwise at 0°C to a solution of 0.17 g of Fe2(CO)9 (0.458 mmol) in 35 ml of THF. The color of the solution changed from yellow to red.&quot;). All the best, --[[User:Jorge Stolfi|Jorge Stolfi]] ([[User talk:Jorge Stolfi|talk]]) 01:32, 18 January 2010 (UTC)
+	</talkpage>
+</article>

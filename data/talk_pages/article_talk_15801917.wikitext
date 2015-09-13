@@ -1,0 +1,7 @@
+<article id="15801917" title=User talk:67.188.23.67>
+	<talkpage id="15801917" title="User talk:67.188.23.67">
+== Steve Seskin ==
+
+[[Image:Crystal Clear action edit add.png|32px|left]] '''Your nomination at [[WP:AFC|Articles for Creation]] was a success, and {{#if:Steve Seskin|[[Steve Seskin]]|the article}} was created.''' Please continue making quality contributions to [[Wikipedia]]{{#ifeq:{{lc:{{PAGENAME}}}}|{{uc:{{PAGENAME}}}}|, and please consider [[Wikipedia:Why create an account?|registering an account]] so you can create articles yourself}}. {{#ifeq:{{lc:{{PAGENAME}}}}|{{uc:{{PAGENAME}}}}||Note that because you are a logged-in user, you can create articles yourself, and don't have to post a request.}} Thank you for helping Wikipedia! [[User:Msgj|MSGJ]] ([[User talk:Msgj|talk]]) 09:41, 17 February 2008 (UTC)
+	</talkpage>
+</article>

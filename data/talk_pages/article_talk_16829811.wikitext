@@ -1,0 +1,5 @@
+<article id="16829811" title=Talk:Nebraska Highway 74>
+	<talkpage id="16829811" title="Talk:Nebraska Highway 74">
+{{USRD|state=NE|importance=mid|class=start|needs-map=yes|needs-jctint=no}}
+	</talkpage>
+</article>

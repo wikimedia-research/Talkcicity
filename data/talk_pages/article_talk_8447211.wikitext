@@ -1,0 +1,18 @@
+<article id="8447211" title=Talk:Strategic Air and Space Museum>
+	<talkpage id="8447211" title="Talk:Strategic Air and Space Museum">
+{{WikiProject United States|class=Stub|auto=Inherit|importance=Low|NE=Yes|NE-importance=}}
+{{WPMILHIST
+|class=Stub 
+|auto= 
+|Aviation-task-force= yes
+|US-task-force= yes
+}}
+
+=Copyright=
+Parts of this article seem to be derived from a tourist brochure or the museum's website. The assertion that the museum is &quot;regarded as the nation's foremost facility of its kind&quot; has no reputable organization backing up that claim. 
+
+Maybe someone has additional sources about the museum that can objectivize this a little more. [[User:Jessep28|Jessep28]] ([[User talk:Jessep28|talk]]) 17:17, 20 April 2008 (UTC)
+
+:I have gone though and tried to edit the article to clean up a lot of the copyright violations, however almost the entire article is taken directly from the museum's official website. I'm too tired to finish this up right now but will try to work on it some more in the future, it still needs a lot of work and more references.[[User:Civilengtiger|Civilengtiger]] ([[User talk:Civilengtiger|talk]]) 04:30, 8 May 2008 (UTC)
+	</talkpage>
+</article>

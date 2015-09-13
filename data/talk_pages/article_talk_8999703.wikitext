@@ -1,0 +1,91 @@
+<article id="8999703" title=User talk:Echiesse~enwiki>
+	<talkpage id="8999703" title="User talk:Echiesse~enwiki">
+&lt;!-- Template from Template:Welcomeg --&gt;{| style=&quot;background-color:#F5FFFA; padding:0;&quot; cellpadding=&quot;0&quot;
+|class=&quot;MainPageBG&quot; style=&quot;border:1px solid #084080; background-color:#F5FFFA; vertical-align:top; color:#000000; font-size:85%&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;0&quot; cellspacing=&quot;5&quot; style=&quot;vertical-align:top; background-color:#F5FFFA; padding:0;&quot;
+! &lt;div style=&quot;margin:0; background-color:#CEF2E0; font-family:sans-serif; font-size:120%; font-weight:bold; border:1px solid #084080; text-align:left; padding-left:0.4em; padding-top:0.2em; padding-bottom:0.2em;&quot;&gt;Hello Echiesse! [[Wikipedia:Introduction|Welcome]] to Wikipedia! Thank you for [[Special:Contributions/Echiesse|your contributions]]. If you decide that you need help, check out ''Getting Help'' below, ask me on my talk page, or place '''&lt;tt&gt;{&amp;#123;helpme&amp;#125;}&lt;/tt&gt;''' on your talk page and ask your question there. Please remember to [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages by clicking [[Image:Button sig2.png]] or using four tildes (~&amp;#126;~~); this will automatically produce your name and the date. Finally, please do your best to '''always fill in the [[Help:Edit summary|edit summary]] field'''. Below are some useful links to facilitate your involvement. Happy editing! [[User:Smeelgova|Smee]] 08:07, 19 January 2007 (UTC)
+|}
+{| width=&quot;100%&quot; style=&quot;background-color:#F5FFFA;&quot;
+|class=&quot;MainPageBG&quot; style=&quot;width: 55%; border:1px solid #FFFFFF; background-color:#F5FFFA; vertical-align:top&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;0&quot; cellspacing=&quot;5&quot; style=&quot;vertical-align:top; background-color:#F5FFFA&quot;
+! &lt;div style=&quot;margin: 0; background-color:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Getting started&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Tutorial|Wikipedia tutorial]] • [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* How to: [[Wikipedia:How to edit a page|edit a page]] • [[Wikipedia:Uploading images|upload an image]]
+|-
+! &lt;div style=&quot;margin: 0; background:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Getting help&lt;/div&gt;
+|-
+| style=&quot;color:#000&quot;|
+* [[Wikipedia:FAQ|Frequently asked questions]]
+* [[Wikipedia:Questions|Where to ask questions or make comments]]
+* [[Wikipedia:Requests for administrator attention|Request administrator attention]]
+|-
+! &lt;div style=&quot;margin: 0; background:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Policies and guidelines&lt;/div&gt;
+|-
+| style=&quot;color:#000&quot;|
+* [[Wikipedia:Neutral point of view|Neutral point of view]] • [[Wikipedia:Reliable sources|Reliable sources]]
+* [[Wikipedia:Verifiability|Verifiability]] • [[Wikipedia:Citing sources|Citing sources]] • [[Wikipedia:No original research|No original research]]
+* [[Wikipedia:What Wikipedia is not|What Wikipedia is not]] • [[Wikipedia:Biographies of living persons|Biographies of living persons]]
+&lt;hr /&gt;
+* [[Wikipedia:Manual of Style|Manual of Style]] • [[Wikipedia:Three-revert rule|Three-revert rule]] • [[Wikipedia:Sock puppetry|Sock puppetry]]
+* [[Wikipedia:Copyrights|Copyrights]] • [[Wikipedia:Fair use|Fair use]] • [[Wikipedia:Image use policy|Image use policy]]
+* [[Wikipedia:External links|External links]] • [[Wikipedia:Spam|Spam]] • [[Wikipedia:Vandalism|Vandalism]]
+* [[Wikipedia:Deletion policy|Deletion policy]] • [[Wikipedia:Conflict of interest|Conflict of interest]] • [[Wikipedia:Notability|Notability]]
+|-
+|}
+|class=&quot;MainPageBG&quot; style=&quot;width: 55%; border:1px solid #FFFFFF; background-color:#F5FFFA; vertical-align:top&quot;|
+{| width=&quot;100%&quot; cellpadding=&quot;0&quot; cellspacing=&quot;5&quot; style=&quot;vertical-align:top; background-color:#F5FFFA&quot;
+! &lt;div style=&quot;margin: 0; background-color:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;The community&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Consensus|Build consensus]] • [[Wikipedia:Resolving disputes|Resolving disputes]]
+* [[Wikipedia:Assume good faith|Assume good faith]] • [[Wikipedia:Civility|Civility]] • [[Wikipedia:Etiquette|Etiquette]]
+* [[Wikipedia:No personal attacks|No personal attacks]] • [[Wikipedia:No legal threats|No legal threats]]
+* [[Wikipedia:Community Portal|Community Portal]] • [[Wikipedia:Village pump|Village pump]]
+* [[Wikipedia:Wikipedia Signpost|Signpost]] • [[Wikipedia:IRC channels|IRC channels]] • [[Wikipedia:Mailing lists|Mailing lists]]
+|-
+! &lt;div style=&quot;margin: 0; background-color:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Things to do&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Be bold in updating pages|Be bold in editing]] • [[Wikipedia:Article development|Help develop an article]]
+* [[Wikipedia:Pages needing attention|Pages needing attention]] • [[Wikipedia:Peer review|Peer review]]
+* [[Wikipedia:WikiProject|Join a WikiProject]] • [[Wikipedia:Translation|Translating articles]]
+* Cleaning up: [[Wikipedia:Cleanup|General]] • [[Wikipedia:WikiProject Spam|Spam]] • [[Wikipedia:Cleaning up vandalism|Vandalism]]
+|-
+! &lt;div style=&quot;margin: 0; background-color:#084080; font-family: sans-serif; font-size:120%; font-weight:bold; border:1px solid #CEF2E0; text-align:left; color:#FFC000; padding-left:0.4em; padding-top: 0.2em; padding-bottom: 0.2em;&quot;&gt;Miscellaneous&lt;/div&gt;
+|-
+|style=&quot;color:#000&quot;|
+* [[Wikipedia:Categorization|Categories]] • [[Wikipedia:Disambiguation|Disambiguity]] • [[Wikipedia:Stub|Stubs]]
+* [[Wikipedia:User page|User pages]] • [[Help:Talk page|Talk pages]]
+* [[Wikipedia:Template messages|Useful templates]] • [[Wikipedia:Tools|Tools]] • [[Wikipedia:WikiProject User scripts|User scripts]]
+|-
+|}
+|}
+|}&lt;!--Template:Welcomeg--&gt;
+
+== Your account will be renamed ==
+
+&lt;div class=&quot;plainlinks mw-content-ltr&quot; lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;
+Hello,
+
+The developer team at Wikimedia is making some changes to how accounts work, as part of our on-going efforts to provide new and better tools for our users like cross-wiki notifications. These changes will mean you have the same account name everywhere. This will let us give you new features that will help you edit and discuss better, and allow more flexible user permissions for tools. One of the side-effects of this is that user accounts will now have to be unique across all 900 Wikimedia wikis. See [[m:Special:MyLanguage/Single User Login finalisation announcement|the announcement]] for more information.
+
+Unfortunately, your account clashes with another account also called Echiesse. To make sure that both of you can use all Wikimedia projects in future, we have reserved the name Echiesse~enwiki that only you will have. If you like it, you don't have to do anything. If you do not like it, you can [[Special:GlobalRenameRequest|pick out a different name]]. If you think you might own all of the accounts with this name and this message is in error, please visit [[Special:MergeAccount]] to check and attach all of your accounts to prevent them from being renamed.
+
+Your account will still work as before, and you will be credited for all your edits made so far, but you will have to use the new account name when you log in.
+
+Sorry for the inconvenience.
+
+Yours,&lt;br /&gt;[[m:User:Keegan (WMF)|Keegan Peterzell]]&lt;br /&gt;Community Liaison, Wikimedia Foundation
+&lt;/div&gt; 23:36, 19 March 2015 (UTC)
+&lt;!-- SUL finalisation notification --&gt;
+
+== Renamed ==
+
+&lt;div class=&quot;plainlinks mw-content-ltr&quot; lang=&quot;en&quot; dir=&quot;ltr”&gt;
+This account has been renamed as part of [[m:Special:MyLanguage/Single User Login finalisation announcement|single-user login finalisation]]. If you own this account you can [[{{#special:userlogin}}|log in using your previous username and password]] for more information. If you do not like this account's new name, you can choose your own using this form after logging in: [[{{#special:GlobalRenameRequest}}]]. -- [[m:User:Keegan (WMF)|Keegan (WMF)]] ([[m:User talk:Keegan (WMF)|talk]])
+&lt;/div&gt; 12:25, 22 April 2015 (UTC)
+&lt;!-- SUL post-rename notification --&gt;
+	</talkpage>
+</article>

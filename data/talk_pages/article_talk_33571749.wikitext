@@ -1,0 +1,5 @@
+<article id="33571749" title=Talk:Seenbach>
+	<talkpage id="33571749" title="Talk:Seenbach">
+{{WikiProject Germany|class=stub}}
+	</talkpage>
+</article>

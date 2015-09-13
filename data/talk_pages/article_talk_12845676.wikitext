@@ -1,0 +1,5 @@
+<article id="12845676" title=User talk:81.98.219.69>
+	<talkpage id="12845676" title="User talk:81.98.219.69">
+{{{icon|[[Image:Information.svg|25px]] }}}Constructive contributions are appreciated and strongly encouraged, but your recent edit to the [[Wikipedia:User page|userpage]] of another user may be considered [[Wikipedia:Vandalism|vandalism]]. {{{{{subst|}}}#if:User:Arran64|Specifically, your edit to [[:User:Arran64]] may be offensive or unwelcome.}} If you are the user, please log in under that account and proceed to make the changes. Please use [[Wikipedia:Sandbox|the sandbox]] for any tests you may want to do. Take a look at our [[Wikipedia:Introduction|introduction page]] to learn more about contributing to our encyclopedia. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-upv --&gt; [[User_talk:Wimt|Will]] &lt;small&gt;&lt;font color=&quot;red&quot;&gt;(aka [[User:Wimt|&lt;font color=&quot;red&quot;&gt;Wimt&lt;/font&gt;]])&lt;/font&gt;&lt;/small&gt; 01:12, 20 August 2007 (UTC)
+	</talkpage>
+</article>

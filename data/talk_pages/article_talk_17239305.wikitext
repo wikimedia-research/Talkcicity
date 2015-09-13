@@ -1,0 +1,5 @@
+<article id="17239305" title=Talk:66934 Kálalová>
+	<talkpage id="17239305" title="Talk:66934 Kálalová">
+{{WPAstronomy|object=yes|class=Stub|importance=Low}}
+	</talkpage>
+</article>

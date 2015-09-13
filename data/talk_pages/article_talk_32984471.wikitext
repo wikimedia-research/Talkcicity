@@ -1,0 +1,5 @@
+<article id="32984471" title=Talk:Tristano (album)>
+	<talkpage id="32984471" title="Talk:Tristano (album)">
+{{album|class=redirect}}
+	</talkpage>
+</article>

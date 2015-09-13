@@ -1,0 +1,14 @@
+<article id="16701161" title=Talk:Maria Marques>
+	<talkpage id="16701161" title="Talk:Maria Marques">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|listas=Marques, Maria
+}}
+{{WikiProject Swimming|class=Stub|importance=low}}
+{{WikiProject Brazil|class=Stub|importance=low}}
+| blp=yes
+}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="23224009" title=Talk:Kerala United Theological Seminary>
+	<talkpage id="23224009" title="Talk:Kerala United Theological Seminary">
+{{WP India|class=Stub|importance=Low|kerala=yes|kerala-importance=low }}
+	</talkpage>
+</article>

@@ -1,0 +1,24 @@
+<article id="45321877" title=User talk:Agataredus>
+	<talkpage id="45321877" title="User talk:Agataredus">
+
+== Welcome! ==
+
+Hello, Agataredus, and [[Project:Introduction|welcome]] to Wikipedia! Thank you for [[Special:Contributions/Agataredus|your contributions]]. I hope you like the place and decide to stay. Unfortunately, one or more of the pages you created, such as [[Agatone]], may not conform to some of Wikipedia's [[Wikipedia:List of policies|guidelines]], and may not be retained. 
+
+There's a page about creating articles you may want to read called '''[[Wikipedia:Your first article|Your first article]]'''. If you are stuck, and looking for help, please come to the '''[[Wikipedia:Teahouse|Teahouse]]''', where experienced Wikipedians can answer any queries you have! Or, you can just type '''{{tl|help me}}''' on this page, followed by your question, and someone will show up shortly to answer your questions. Here are a few other good links for newcomers:
+* [[Wikipedia:Your first article|Your first article]]
+* [[Wikipedia:Contributing to Wikipedia|Contributing to Wikipedia]]
+* [[Wikipedia:Biographies of living persons|Biographies of living persons]]
+* [[Wikipedia:Article development|How to write a great article]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Tutorial|Tutorial]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you have any questions, check out [[Wikipedia:Questions]] or ask me on my talk page. &lt;!-- Template:First article --&gt; Again, welcome!&amp;nbsp;[[User:Qwertyus|Q&lt;small&gt;VVERTYVS&lt;/small&gt;]] &lt;small&gt;([[User talk:Qwertyus|hm?]])&lt;/small&gt; 15:04, 6 February 2015 (UTC)
+==[[Wikipedia:Proposed deletion|Proposed deletion]] of [[Agatone]]==
+[[File:Ambox warning yellow.svg|left|link=|48px|]]
+
+The article [[Agatone]] has been [[WP:BLPPROD|proposed for deletion]] because it appears to have no references. Under [[Wikipedia:BLPPROD#Objecting|Wikipedia policy]], this newly created '''[[WP:BLP|biography of a living person]]''' will be deleted unless it has at least one reference to a [[WP:V#Sources|reliable source]] that directly supports material in the article. 
+
+If you created the article, please don't be offended. Instead, consider improving the article. For help on inserting references, see [[Wikipedia:Referencing for beginners|Referencing for beginners]], or ask at the [[Wikipedia:Help desk|help desk]]. Once you have provided at least one [[WP:V#Sources|reliable source]], you may remove the {{tl|prod blp}} tag. '''Please do not remove the tag unless the article is sourced.''' If you cannot provide such a source within seven days, the article may be deleted, but you can {{#ifexist:Agatone|request that it be undeleted|[[Wikipedia:Requests for undeletion|request that it be undeleted]]}} when you are ready to add one.&lt;!-- Template:ProdwarningBLP --&gt; [[User:Qwertyus|Q&lt;small&gt;VVERTYVS&lt;/small&gt;]] &lt;small&gt;([[User talk:Qwertyus|hm?]])&lt;/small&gt; 15:04, 6 February 2015 (UTC)
+	</talkpage>
+</article>

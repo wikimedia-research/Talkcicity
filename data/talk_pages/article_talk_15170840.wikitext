@@ -1,0 +1,5 @@
+<article id="15170840" title=Talk:Zola Predosa>
+	<talkpage id="15170840" title="Talk:Zola Predosa">
+{{WP Italy|importance=Low|class=Stub}}
+	</talkpage>
+</article>

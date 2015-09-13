@@ -1,0 +1,7 @@
+<article id="27670419" title=User talk:117.199.37.88>
+	<talkpage id="27670419" title="User talk:117.199.37.88">
+== June 2010 ==
+[[File:Information.svg|25px]] Welcome and thank you for experimenting with Wikipedia. Your test  worked, and it has been [[Help:Reverting|reverted]] or removed. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|this encyclopedia]]. If you would like to experiment further, please use the [[Wikipedia:Sandbox|sandbox]] instead. Thank you.&lt;!-- Template:uw-test1 --&gt; [[User:JMS Old Al|Old Al]] ([[User Talk:JMS Old Al|Talk]]) 17:13, 10 June 2010 (UTC)
+:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
+	</talkpage>
+</article>

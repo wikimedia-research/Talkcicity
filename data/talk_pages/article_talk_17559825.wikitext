@@ -1,0 +1,5 @@
+<article id="17559825" title=Talk:Taquarussu, Mato Grosso do Sul>
+	<talkpage id="17559825" title="Talk:Taquarussu, Mato Grosso do Sul">
+{{WikiProject Brazil|class=stub|importance=low}}
+	</talkpage>
+</article>

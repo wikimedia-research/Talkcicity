@@ -1,0 +1,31 @@
+<article id="25053364" title=User talk:Nerdpope>
+	<talkpage id="25053364" title="User talk:Nerdpope">
+&lt;div class=&quot;user-block&quot;&gt;[[Image:Information.svg|left|50px]]This account, ''{{BASEPAGENAME}}'', has been blocked indefinitely from editing Wikipedia, because your username does not meet our [[Wikipedia:Username policy|username policy]].
+
+'''Your username is the only reason for this block. You are welcome to choose a new username (see below).'''
+
+A username should not be promotional, related to a &quot;real-world&quot; group or organization, misleading, offensive, or disruptive. Also, usernames may not end in the word &quot;bot&quot; unless the account is an approved [[WP:BOT|bot account]].&lt;/br&gt;
+
+Please '''[[Special:Userlogin/signup|choose a new account name]]''' that meets our [[WP:U|policy]] guidelines. However, do not create a new account if you wish to credit your existing contributions to a new name through a '''[[Wikipedia:Changing username|username change]]'''. To request a username change:
+:# Add &lt;!-- Copy the text as it appears on your page, not as it appears in this edit area. Do not include the &quot;tlx&quot; argument. --&gt;{{tlx|unblock-un|''your new username here''}} {{#switch:{{NAMESPACE}}|User talk=below.|on [[Special:MyTalk|your user talk page]].}} You should be able to edit this talk page even though you are blocked. If not, you may wish to contact the blocking administrator by clicking on &quot;E-mail this user&quot; on their talk page.
+:# At an administrator's discretion, you may be unblocked for 24 hours to file a request.
+:# Please note that you may only request a name that is not already in use, so please check [[Special:ListUsers|here]] for a list of names that have already been taken. For more information, please see [[Wikipedia:Changing username]].
+
+If you feel that you were blocked in error, you may [[Wikipedia:Appealing a block|appeal this block]] by adding the text &lt;!-- Copy the text as it appears on your page, not as it appears in this edit area. Do not include the &quot;tlx&quot; argument. --&gt;{{tlx|unblock|Your reason here}} below, but you should read our [[Wikipedia:Guide to appealing blocks|guide to appealing blocks]] first. {{#if:|[[User:PMDrive1061|PMDrive1061]] ([[User talk:PMDrive1061|talk]]) 03:30, 12 November 2009 (UTC)}}&lt;/div&gt;&lt;!-- Template:Uw-ublock --&gt;{{#switch:User talk|User|User talk=}}{{z12}}&lt;!-- Template:uw-ublock --&gt; --[[User:PMDrive1061|PMDrive1061]] ([[User talk:PMDrive1061|talk]]) 03:30, 12 November 2009 (UTC)
+
+{| width=&quot;75%&quot; align=&quot;center&quot; class=&quot;notice noprint&quot; style=&quot;background: none; border: 1px solid #aaa; padding: 0.5em; margin: 0.5em auto;&quot;
+|-
+| valign=&quot;top&quot; style=&quot;padding: 0.5em&quot; | [[File:Artículo bueno.svg|50 px]]
+| style=&quot;padding: 0.1em&quot; | 
+
+'''Your request to be unblocked''' has been '''granted''' for the following reason(s):
+&lt;br&gt;&lt;br&gt;I agree with Kinu below that there is no blatant violation of the username policy here. Please note that this issue may come up again in the future if other editors find your username offensive; you are still welcome to consider changing your username at any point.
+
+''Request handled by:'' [[User:Dekimasu|Dekimasu]]&lt;small&gt;[[User talk:Dekimasu|よ!]]&lt;/small&gt; 06:54, 12 November 2009 (UTC)
+
+&lt;small&gt; '''Unblocking administrator''': Please check for &lt;span class=&quot;plainlinks&quot;&gt;[http://toolserver.org/~eagle/autoblockfinder.php?user={{PAGENAMEE}} active autoblocks] on this user after accepting the unblock request.&lt;/small&gt;
+&lt;!-- Request accepted (after-block request) --&gt;
+|}
+*I will defer to another administrator, but I am inclined to agree with the user's assertion that there is no blatant violation of the username policy here. --&lt;font face=&quot;Book Antiqua&quot;&gt;[[User:Kinu|&lt;font color=&quot;blue&quot;&gt;&lt;strong&gt;Kinu&lt;/strong&gt;&lt;/font&gt;]] &lt;sup&gt;[[User_talk:Kinu|&lt;font color=&quot;red&quot;&gt;''t''&lt;/font&gt;]]&lt;/sup&gt;/&lt;sub&gt;[[Special:Contributions/Kinu|&lt;font color=&quot;red&quot;&gt;''c''&lt;/font&gt;]]&lt;/sub&gt;&lt;/font&gt; 04:49, 12 November 2009 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,9 @@
+<article id="17818059" title=User talk:71.63.86.30>
+	<talkpage id="17818059" title="User talk:71.63.86.30">
+
+== June 2008 ==
+{{{icon|[[Image:Information.svg|25px]] }}} Your recent edit to [[:War on Terrorism]] ([http://en.wikipedia.org/w/index.php?title=War_on_Terrorism&amp;curid=13425800&amp;diff=217662815&amp;oldid=217319444 diff]) was reverted by an '''automated bot'''. The edit was identified as adding [[WP:VAND|vandalism]], or [[WP:SPAM|link spam]] to the page or having an inappropriate [[WP:ES|edit summary]]. If you want to experiment, please use the preview button while editing or consider using the [[Wikipedia:Sandbox|sandbox]]. If you made an edit that removed a large amount of content, try doing smaller edits instead. Thanks! (Report bot mistakes [[User:VoABot_II/Mistakes|here]])&lt;!-- Template:uw-vandalism1 --&gt; // [[User:VoABot II|VoABot II]] ([[User talk:VoABot II|talk]]) 02:00, 7 June 2008 (UTC)
+
+[[Image:Information.png|25px]] The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Text_messaging?diff=217663629 recent edit]&lt;/span&gt; you made to [[:Text messaging]] constitutes [[Wikipedia:Vandalism|vandalism]], and has been reverted. Please do not continue to vandalize pages; use the [[Wikipedia:Sandbox|sandbox]] for testing. Thanks. &lt;!-- Template:uw-huggle2 --&gt; [[User:Alexfusco5|&lt;b&gt;&lt;font color=&quot;Blue&quot;&gt;'''Alex'''&lt;/font&gt;&lt;/b&gt;]][[User talk:Alexfusco5|&lt;b&gt;&lt;font color=&quot;Red&quot;&gt;'''fusco'''&lt;/font&gt;&lt;/b&gt;]][[Special:Contributions/Alexfusco5|&lt;b&gt;&lt;font color=&quot;Green&quot;&gt;&lt;sup&gt;'''5'''&lt;/sup&gt;&lt;/font&gt;&lt;/b&gt;]] 02:06, 7 June 2008 (UTC)
+	</talkpage>
+</article>

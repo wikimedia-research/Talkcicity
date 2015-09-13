@@ -1,0 +1,6 @@
+<article id="29834565" title=Talk:Alliinase>
+	<talkpage id="29834565" title="Talk:Alliinase">
+{{Wikiproject MCB}}
+{{merged-from|Alliin lyase}}
+	</talkpage>
+</article>

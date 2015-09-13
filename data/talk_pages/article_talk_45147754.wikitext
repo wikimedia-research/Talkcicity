@@ -1,0 +1,9 @@
+<article id="45147754" title=Talk:2014 Adelaide United W-League season>
+	<talkpage id="45147754" title="Talk:2014 Adelaide United W-League season">
+{{WikiProjectBannerShell|1=
+{{WikiProject Australia|class=start|importance=low|Adelaide=yes|Adelaide-importance=low|sports=yes|sports-importance=low}}
+{{WikiProject Women's sport|class=Start|auto=Inherit|importance=low}}
+{{WikiProject Football|class=start|importance=low|women=yes|Australia=yes}}
+}}
+	</talkpage>
+</article>

@@ -1,0 +1,62 @@
+<article id="12258644" title=Talk:2006–07 Southeast Asian floods>
+	<talkpage id="12258644" title="Talk:2006–07 Southeast Asian floods">
+{{On this day|date1=2011-12-18|oldid1=466456114}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Floods|class=B|importance=Mid}}
+{{WikiProject Disaster management}}
+{{WikiProject Indonesia|class=B|importance=Mid}}
+{{WikiProject Malaysia|class=B|importance=Mid}}
+{{WikiProject Singapore|class=B|importance=Mid}}
+{{WikiProject Non-tropical storms|class=B|importance=Mid}}
+}}
+
+==Should not be merge or put together for Indonesian Flood==
+
+From my Point of view, it is a big disaster for Malaysia and Indonesia , so it should not be merged because both of the event have different situation eventhough in the same time and cause by same things. The relief works are different within these two countries. So to make a link from a page as an example from  &quot;[[Flood cause by Typhoon Utor in 2006]]&quot; is advisable.[[User:Senyuman]]12.23a.m GMT +8, 14 Jan 07 
+
+==Don't copy and paste==
+Do not copy and paste news report. [[User:Earth|__earth]] &lt;sup&gt;([[User talk:Earth|Talk]])&lt;/sup&gt; 07:08, 23 December 2006 (UTC)
+
+==Related floods in North Sumatra ignored==
+I'm surprised to see that the floods in nearby North Sumatra are not even mentioned in this article. Compared to the six dead in Malaysia, the 105 dead and several hundred missing in Sumatra are much more noteable [http://news.bbc.co.uk/2/hi/asia-pacific/6211891.stm]. I suggest that the article is rewritten so that the Sumatra floods become its main subject and the Malaysian side-effects are treated as such. [[User:Preslav|Preslav]] 16:21, 29 December 2006 (UTC)
+:I agree we should have info on the Sumatra floods somewhere on wikipedia. However I disagree with the suggested title. It doesn't make sense to call it 2006 North Sumatran floods. The Malaysian floods weren't simply 'side-effects' of the North Sumatran floods. Rather both floods were the side-effects of [[Typhoon Utor]] but they are largely seperate events AFAIK. I don't know how much you know about South East Asian geography, but Malaysia and Sumatra are separated by the Straits of Malacca and there is no land connection between the two so there's really no way flooding in Malaysia could be a side effect of flooding in Sumatra. In terms of importance, both are arguably equally important. I don't agree with your view that the number of deaths or missing has any bearing on how important each event is. The Malaysia floods is cited as the worst in a century and has caused over 60k people displaced (Sumatra is 400k I believe). The number of deaths and missing in Sumatra could be a reflection it's affected a wider area or perhaps a poorer response on the part of Indonesian officials or something of that sort. For you info, I think the Malaysian flooding was mention in the local paper here in NZ but IIRC the Sumatran one only minimally. Similarly, I think a BBC World report I saw covered the Malaysian one in more depth. Of course, this is probably more of a reflection of the avaibility of coverage then anything else. So either we rename this article or we develop a seperate article. If we choose the former, then we would have t come up with a suitable name. One I've come up with is [[2006 Typhoon Utor associated flooding]] [[User:Nil Einne|Nil Einne]] 18:16, 29 December 2006 (UTC)
+:From a quick analysis, the first report I found of the Indonesia flooding was 23rd December. If you look at this page and from my own searches, the reports of the Malaysian flooding started earlier. Either the Malaysian flooding occured before the North Sumatran (which again, just goes to show it's not a side effect) or perhaps it just reflects the lower levvel of coverage (especially English language) from that region of Indonesia. Whatever the case, it does show a lot of the earlier reports concentrated on Malaysia. In terms of wikipedia, likely one of the key reasons why it concentrated on Malaysia is because Malaysian are working on it. [[User:Nil Einne|Nil Einne]] 18:27, 29 December 2006 (UTC)
+:I suggest this talk be move to [[User talk:SpLoT/Floods]] [[User:Nil Einne|Nil Einne]] 18:38, 29 December 2006 (UTC)
+
+I disagree on the renaming. It would be better to have two separate pages that mention each other. Or, if we are to merge it, perhaps a page with the effect of [[Effect of Typhoon Utor on Southeast Asia]] is more suitable. [[User:Earth|__earth]] &lt;sup&gt;([[User talk:Earth|Talk]])&lt;/sup&gt; 03:59, 30 December 2006 (UTC)
+
+:I'm tempted to consider a renaming to [[2006 Southeast Asian floods]] or [[December 2006 Southeast Asian floods]], since the flood already spans multiple countries, while the name does little to outshine one particular nation. But given the flooding is currently isolated in the western regions of the [[Malay Archipelago]], including Malaysia (its eastern states are now included, I've read), Singapore and Sumatra, [[2006 Malay Archipelago floods]] or [[2006 western Malay Archipelago floods]] may be suitable, but may also be inappropiate, because it leaves out [[Peninsular Malaysia]]. [[User:Two hundred percent|Two hundred percent]] 17:14, 2 January 2007 (UTC)
+
+== Indonesia ==
+
+Given that this is main page linked, I felt that we need to update it to include Indonesia. I've begun to add Indonesia but someone needs to continue. Also, could a brave sole or an admin move it to [[2006 Typhoon Utor associated floods]] or whatever you think is appropriate. Ideally we should discuss this first but I think we should move it to a more neutral name first given that it's not just covering the Malaysian floods. I was planning to do this myself but I decided moving a mainpage linked article might be more reckless then bold. [[User:Nil Einne|Nil Einne]] 19:36, 29 December 2006 (UTC)
+
+:That should be discussed at [[Talk:2006 Pacific hurricane season]], for an article at [[Typhoon Utor (2006)]]. That would go into the jurisdiction of WikiProject Tropical Cyclones. [[User:CrazyC83|CrazyC83]] 04:37, 31 December 2006 (UTC)
+
+::As I have explained at [[User talk:SpLoT/Floods]], Typhoon Utor, or its remnants, '''did not directly cause the floods'''. - 05:16, 31 December 2006 (UTC)
+
+== Politicizing ==
+
+There have been reports of politicization of the flood; this includes but not limited to the &quot;wrath of god&quot; theory, poor storm water and river management. Should these be in the article? --[[User:124.82.8.195|124.82.8.195]] 13:51, 10 February 2007 (UTC)
+
+== Dead link ==
+
+During several automated bot runs the following external link was found to be unavailable. Please check if the link is in fact down and fix or remove it in that case!
+
+* http://edition.cnn.com/2006/WORLD/asiapcf/12/22/malaysia.floods.ap/
+** In [[2006–2007 Malaysian floods]] on 2011-05-26 02:34:50, 404 Not Found
+** In [[2006–2007 Malaysian floods]] on 2011-06-15 00:52:43, 404 Not Found
+
+--[[User:JeffGBot|JeffGBot]] ([[User talk:JeffGBot|talk]]) 00:52, 15 June 2011 (UTC)
+
+== Dead link 2 ==
+
+During several automated bot runs the following external link was found to be unavailable. Please check if the link is in fact down and fix or remove it in that case!
+
+* http://www.bharian.com.my/m/BHarian/Tuesday/Mukadepan/20070129235113/Article/
+** In [[2006–2007 Malaysian floods]] on 2011-05-26 02:34:56, 404 Not Found
+** In [[2006–2007 Malaysian floods]] on 2011-06-15 00:53:27, 404 Not Found
+
+--[[User:JeffGBot|JeffGBot]] ([[User talk:JeffGBot|talk]]) 00:53, 15 June 2011 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="39979237" title=Talk:Höglund>
+	<talkpage id="39979237" title="Talk:Höglund">
+{{WikiProject Anthroponymy|class=list}}
+	</talkpage>
+</article>

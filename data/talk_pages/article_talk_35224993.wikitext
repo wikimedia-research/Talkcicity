@@ -1,0 +1,24 @@
+<article id="35224993" title=User talk:99.83.1.133>
+	<talkpage id="35224993" title="User talk:99.83.1.133">
+==Welcome==
+
+Hello, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia!
+
+Thank you for experimenting with Wikipedia. Your test on the page [[:Respect]] worked, and it has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any other tests you may want to do.
+
+Here are a few good links for newcomers:
+
+*'''[[Wikipedia:Five pillars|The five pillars of Wikipedia]]'''
+*'''[[Wikipedia:How to edit a page|How to edit a page]]'''
+*'''[[Wikipedia:Your first article|Tips on starting your first article]]'''
+*'''[[Help:Contents|Help pages]]'''
+*'''[[Wikipedia:Tutorial|Tutorial]]'''
+
+Here are some other hints and tips:
+* I recommend that you get a username.  You don't have to [[Special:Userlogin|log in]] to read or edit articles on Wikipedia, but creating an account is quick, free and non-intrusive, requires no personal information, and there are many [[Wikipedia:Why create an account?|benefits of having a username]].  (If you edit without a username, your [[IP address]] is used to identify you instead.)
+* When using [[Wikipedia:talk pages|talk pages]], please [[Wikipedia:Sign your posts on talk pages|sign your name]] at the end of your messages by typing four tildes (~&amp;#126;~~). This will automatically produce your username (or IP address) and the date.
+
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! If you need help, check out [[Wikipedia:Where to ask a question]], ask me on my talk page, or type &lt;code&gt;{&amp;#123;helpme}}&lt;/code&gt; here on ''your'' talk page and someone will show up shortly to answer your questions. Again, welcome! &lt;!-- Template:Welcome-anon-test --&gt; 
+&lt;span style=&quot;font-family:Arial;font-weight:bold;color:#000;&quot;&gt;[[User:Begoon|&lt;span style=&quot;color:#0645AD;&quot;&gt;Begoon&lt;/span&gt;]]&amp;thinsp;[[User talk:Begoon|&lt;span style=&quot;color:gray;&quot;&gt;&lt;sup&gt;talk&lt;/sup&gt;&lt;/span&gt;]]&lt;/span&gt; 10:36, 26 March 2012 (UTC)
+	</talkpage>
+</article>

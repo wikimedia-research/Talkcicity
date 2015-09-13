@@ -1,0 +1,55 @@
+<article id="8547508" title=Talk:Nuclear Suppliers Group>
+	<talkpage id="8547508" title="Talk:Nuclear Suppliers Group">
+=Need to Break Out Section on India Situation=
+
+The new US/India situation needs to be brought out as the co-equal second phase of the entire subject, not just as a mention at the end. The founding purpose of the organization was to block exports to India. And now its most powerful member is about to start exports... to India. This seems to be a sea change.
+
+Does it effectively reduce the organization to meaninglessness?
+
+Is the NSG a binding legal treaty? Will the US be violating international law?
+
+Is the NSG directly connected to the Non-Proliferation Treaty? Is is possible or impossible that -- or uncertain whether -- an NSG member is allowed to export to a non-NPT nation like India?
+
+Can a nation such as the US which will be in violation of the Non-Proliferation Treaty by exporting to India even be a member of the NSG?
+
+What concept -- &quot;safe use&quot;? -- will the US be trying to use to justify altering NSG policy regarding India?
+
+
+Here's some reading that touches on the subject of both what exactly Congress has actually agreed to (do they require NSG acquiencence before anything can occur?) and the Bush administration's intentions:
+
+http://news.yahoo.com/s/nm/20061221/pl_nm/nuclear_india_usa_dc
+
+= NPOV Issue =
+Quoting from article -
+
+''This ironically (keeping in mind the origin of the group) will exert pressure on the Nuclear Suppliers Group to ease restrictions on exports to India''
+
+As ironic as this may or may not be - inclusion of this line in a factual article that should be independent of viewpoints is debatable. User comments welcome.
+
+:The concerns have been addressed a while before. It can be seen [http://en.wikipedia.org/w/index.php?title=Nuclear_Suppliers_Group&amp;diff=225031821&amp;oldid=209589525 here] and [http://en.wikipedia.org/w/index.php?title=Nuclear_Suppliers_Group&amp;diff=225140172&amp;oldid=225031821 here]. Guess we dont need the NPOV tag anymore atleast for the reasons why it was inserted. &lt;FONT FACE=&quot;Times New Roman&quot; SIZE=&quot;+1&quot; Color=&quot;#FF0000&quot;&gt;[[User:Docku|Docku]]&lt;/FONT&gt;&lt;sup&gt;&lt;FONT FACE=&quot;Benguiat Bk BT&quot; SIZE=&quot;+1&quot; Color=&quot;blue&quot;&gt;[[User talk:Docku|Hi]]&lt;/FONT&gt;&lt;/sup&gt; 17:58, 21 August 2008 (UTC)
+
+= Is India a member of NSG now? =
+
+Is India a member state of NSG now? Do we have any reference clearly indicating so?
+If yes, the members count should be 46 and not 45 as indicated.
+If no, the members list should not include India.
+
+There is no India included in the 'Paticipants' page of Nuclear exports official webpage. http://www.nuclearsuppliersgroup.org/member.htm  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Williamsze|Williamsze]] ([[User talk:Williamsze|talk]] • [[Special:Contributions/Williamsze|contribs]]) 19:12, 6 September 2008 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+Also If India is member, the map should be updated.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/67.169.107.193|67.169.107.193]] ([[User talk:67.169.107.193|talk]]) 16:12, 6 September 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:India is '''not''' a member of the NSG.  To become a member a state must first formally adhere to the NSG Guidelines, by sending a letter to the Director General of the IAEA, and then be accepted as a member by consensus of current members.  India has not yet adhered, though it has committed to do so.  Also, it is unlikely that India would be accepted as a member.  Not even the United States supports that. [[User:NPguy|NPguy]] ([[User talk:NPguy|talk]]) 01:00, 7 September 2008 (UTC)
+
+== Factual error: No pledge was made by India, only a reaffirmation of an existing position. ==
+
+The article states that India made a formal pledge to not share nuclear technology or uphold its voluntary moratorium on testing. Minister Pranab Mukherjee's statement was not a formal pledge by India. It was a statement reaffirming India's current position that it does not share nuclear technology, and that it has a voluntary ban on further nuclear testing.
+
+http://in.news.yahoo.com/139/20080905/874/twl-nsg-welcomes-pranab-s-statement-us-o.html
+
+[[Special:Contributions/75.67.237.251|75.67.237.251]] ([[User talk:75.67.237.251|talk]]) 09:43, 7 September 2008 (UTC)
+
+== Map update needed ==
+
+The map needs an update to reflect the fact that Mexico recently joined the NSG.  Anyone know how to do that? [[User:NPguy|NPguy]] ([[User talk:NPguy|talk]]) 01:53, 22 December 2012 (UTC)
+	</talkpage>
+</article>

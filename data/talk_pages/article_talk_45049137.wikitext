@@ -1,0 +1,5 @@
+<article id="45049137" title=Talk:Metasia grootbergensis>
+	<talkpage id="45049137" title="Talk:Metasia grootbergensis">
+{{LepidopteraTalk|class=stub|importance=low}}
+	</talkpage>
+</article>

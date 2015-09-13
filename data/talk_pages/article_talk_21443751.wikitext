@@ -1,0 +1,11 @@
+<article id="21443751" title=Talk:Donetsk State University of Management>
+	<talkpage id="21443751" title="Talk:Donetsk State University of Management">
+{{WikiProject Universities|class=Stub}}
+{{WikiProject Ukraine|class=stub|importance=}}
+==Done the following edits:==
+*Added Alumni section and List
+*Added  fields of study 
+*Added Students Life section
+*History section briefed
+	</talkpage>
+</article>

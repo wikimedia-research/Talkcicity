@@ -1,0 +1,7 @@
+<article id="17374961" title=Talk:Acanthorhodeus>
+	<talkpage id="17374961" title="Talk:Acanthorhodeus">
+{{fishproject|importance=low|class=stub}}
+
+There are two species in the genus, so there needs to be a separate genus page, instead of a redirect to just one species. [[User:Bruinfan12|Bruinfan12]] ([[User talk:Bruinfan12|talk]]) 09:11, 27 April 2014 (UTC)
+	</talkpage>
+</article>

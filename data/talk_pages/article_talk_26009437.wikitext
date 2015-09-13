@@ -1,0 +1,5 @@
+<article id="26009437" title=User talk:Tristan youngs 961120>
+	<talkpage id="26009437" title="User talk:Tristan youngs 961120">
+[[Image:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia{{#if:|, as you did to [[:{{{1}}}]]}}. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Thank you.&lt;!-- Template:uw-vandalism2 --&gt; [[User:Saturn star|Saturn star]] ([[User talk:Saturn star|talk]]) 23:06, 30 January 2010 (UTC)
+	</talkpage>
+</article>

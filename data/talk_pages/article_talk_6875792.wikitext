@@ -1,0 +1,7 @@
+<article id="6875792" title=Talk:Swea City, Iowa>
+	<talkpage id="6875792" title="Talk:Swea City, Iowa">
+{{WPCities|class=start|importance=Low}}
+{{Project Iowa|communities=yes}}
+{{reqphoto|in=Kossuth County, Iowa}}
+	</talkpage>
+</article>

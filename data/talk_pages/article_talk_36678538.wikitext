@@ -1,0 +1,10 @@
+<article id="24411654" title=Talk:Gordon baronets>
+	<talkpage id="24411654" title="Talk:Gordon baronets">
+{{WikiProject Biography
+|living=no
+|class=Stub
+|peerage-work-group=yes
+|listas=Gordon Baronets
+}}
+	</talkpage>
+</article>

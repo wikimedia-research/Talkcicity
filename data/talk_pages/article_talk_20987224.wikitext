@@ -1,0 +1,8 @@
+<article id="6975705" title=Talk:Amritha Express>
+	<talkpage id="6975705" title="Talk:Amritha Express">
+{{WikiProject India|class=start|importance=low|railways=yes|railways-importance=low|image-needed=yes|assess-date=May 2012}}
+{{WikiProject Trains|class=start|passenger=yes|importance=low|unref=yes|imageneeded=yes|mapneeded=yes}}
+== WikiProject class rating==
+This article was automatically assessed because at least one WikiProject had rated the article as start, and the rating on other projects was brought up to start class. [[User:BetacommandBot|BetacommandBot]] 17:16, 9 November 2007 (UTC)
+	</talkpage>
+</article>

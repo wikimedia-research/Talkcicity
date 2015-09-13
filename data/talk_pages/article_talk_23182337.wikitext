@@ -1,0 +1,7 @@
+<article id="23182337" title=Talk:The Glorious Unseen>
+	<talkpage id="23182337" title="Talk:The Glorious Unseen">
+{{talkheader}}
+{{Christianmusic|class=Stub|importance=Low|Contemporary Christian-work-group=yes}}
+{{WikiProject Tennessee|class=Stub|importance=Low}}
+	</talkpage>
+</article>

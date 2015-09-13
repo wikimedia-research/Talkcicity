@@ -1,0 +1,5 @@
+<article id="37210612" title=Talk:Acrolophus pseudohirsutus>
+	<talkpage id="37210612" title="Talk:Acrolophus pseudohirsutus">
+{{WikiProject Lepidoptera|class=stub|importance=low}}
+	</talkpage>
+</article>

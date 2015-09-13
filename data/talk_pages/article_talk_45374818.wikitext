@@ -1,0 +1,6 @@
+<article id="45374818" title=Talk:Hugh Hudson (politician)>
+	<talkpage id="45374818" title="Talk:Hugh Hudson (politician)">
+{{WikiProject Biography|living=?|class=stub|listas=Hudson, Hugh|politician-work-group=yes|politician-priority=low}}
+{{WikiProject Australia|class=Stub|importance=Low|politics=y|SA=y}}
+	</talkpage>
+</article>

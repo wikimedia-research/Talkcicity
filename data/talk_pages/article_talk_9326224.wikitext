@@ -1,0 +1,6 @@
+<article id="9326224" title=Talk:Diocese of Agder og Telemark>
+	<talkpage id="9326224" title="Talk:Diocese of Agder og Telemark">
+{{WikiProject Lutheranism|class=start|importance=mid}}
+{{WikiProject Norway|class=start}}
+	</talkpage>
+</article>

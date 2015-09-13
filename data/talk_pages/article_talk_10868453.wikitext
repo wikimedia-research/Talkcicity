@@ -1,0 +1,5 @@
+<article id="10868453" title=User talk:74.100.96.144>
+	<talkpage id="10868453" title="User talk:74.100.96.144">
+{{{icon|[[Image:Stop hand nuvola.svg|30px|left]] }}}This is your '''last warning'''. The next time you [[Wikipedia:Vandalism|vandalize]] Wikipedia{{{{{subst|}}}#if:Existential dread|, as you did to [[:Existential dread]]}}, you will be [[Wikipedia:Blocking policy|blocked]] from editing. {{{2|}}}&lt;!-- Template:uw-vandalism4 --&gt; A link to the edit I have reverted can be found here: &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/w/index.php?title=Existential_dread&amp;diff=next&amp;oldid=83843679 link]&lt;/span&gt;. If you believe this edit should not have been reverted, please contact me. &lt;!-- 38--&gt; [[User:Rimmeraj|Rimmeraj]] 09:29, 24 April 2007 (UTC)
+	</talkpage>
+</article>

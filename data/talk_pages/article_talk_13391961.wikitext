@@ -1,0 +1,12 @@
+<article id="13391961" title=Talk:John de Beauchamp, 1st Baron Beauchamp (fourth creation)>
+	<talkpage id="13391961" title="Talk:John de Beauchamp, 1st Baron Beauchamp (fourth creation)">
+{{WikiProject Biography
+|living=no
+|class=Stub
+
+|listas=Beauchamp, John
+|baronets-work-group=yes
+}}
+[[Category:Articles requiring a direct DNB link]]
+	</talkpage>
+</article>

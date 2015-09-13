@@ -1,0 +1,16 @@
+<article id="7261490" title=Talk:Braid (band)>
+	<talkpage id="7261490" title="Talk:Braid (band)">
+{{WikiProjectBannerShell|1=
+{{WikiProject Illinois |class=Stub |importance=Low}}
+{{Wikiproject Emo|class=|importance=|listas=Braid}}
+{{WPBiography|living=no|class=Stub|musician-work-group=yes|listas=Braid}}
+}}
+{{oldafdfull | date = 18 February 2008 | result = '''keep''' | page = Hey Mercedes }}
+
+== rewrite ==
+
+This article is in desperate need of cleaning up.  I've just finished reading about Braid (Post by Eric Grubbs) and will attempt to clean up the article.  However, I would appreciate any help that anyone can offer. It will probably take me several edits, so please keep that in mind before deciding to put it up for deletion.[[User:Natt the Hatt|Natt the Hatt]] ([[User talk:Natt the Hatt|talk]]) 19:01, 14 August 2010 (UTC)
+
+Okay, I've finished the clean up of this article.  I still need to get my sources in, but that may take some time.  Please add any you may come across to make this article better. [[User:Natt the Hatt|Natt the Hatt]] ([[User talk:Natt the Hatt|talk]]) 20:10, 2 October 2010 (UTC)
+	</talkpage>
+</article>

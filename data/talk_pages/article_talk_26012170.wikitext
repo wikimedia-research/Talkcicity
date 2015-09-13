@@ -1,0 +1,9 @@
+<article id="26012170" title=Talk:Banks Simpson>
+	<talkpage id="26012170" title="Talk:Banks Simpson">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=no|class=stub|listas=Simpson, Banks|sports-work-group=yes|sports-priority=low}}
+{{WikiProject NASCAR|class=Stub|importance=Low}}
+{{WikiProject United States|class=stub|importance=low|NC=Yes|NC-importance=low}}
+}}
+	</talkpage>
+</article>

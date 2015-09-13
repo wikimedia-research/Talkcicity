@@ -1,0 +1,6 @@
+<article id="22667831" title=Talk:Yvonne Welbon>
+	<talkpage id="22667831" title="Talk:Yvonne Welbon">
+{{WikiProject Biography|living=yes|class=Stub|needs-infobox=yes|filmbio-work-group=yes|listas=Welbon, Yvonne}}
+{{WikiProject Chicago|class=Stub|auto=Inherit|importance=}}
+	</talkpage>
+</article>

@@ -1,0 +1,11 @@
+<article id="29348122" title=User talk:70.54.126.76>
+	<talkpage id="29348122" title="User talk:70.54.126.76">
+
+
+== October 2010 ==
+[[Image:Information.svg|left|25px]] Welcome to Wikipedia. Everyone is welcome to make constructive contributions to Wikipedia, but at least one of your recent edits, such as the one you made to [[:Architecture of ancient Rome]], did not appear to be constructive and has been '''automatically [[Help:Reverting|reverted]]''' by [[User:ClueBot|ClueBot]]. 
+* Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. Note that human editors do monitor recent changes to Wikipedia articles, and [[WP:ADMINS|administrators]] have the ability to [[WP:BLOCK|block]] users from editing if they repeatedly engage in [[WP:vandalism|vandalism]].
+* Cluebot produces very few [[false positives]], but it does happen. If you believe the change you made should not have been detected as unconstructive, please [[User:ClueBot/FalsePositives|report it here]], remove this warning from your talk page, and then make the edit again. 
+* The following is the log entry regarding this warning: [[Architecture of ancient Rome]] was [http://en.wikipedia.org/w/index.php?title=Architecture+of+ancient+Rome&amp;diff=392866423&amp;oldid=392866228 changed] by [[Special:Contributions/70.54.126.76|70.54.126.76]] [[User:70.54.126.76|(u)]] [[User talk:70.54.126.76|(t)]] making a minor change adding &quot;!!!&quot; on 2010-10-25T21:38:04+00:00 &lt;!-- MySQL ID: 3236 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot|ClueBot]] ([[User talk:ClueBot|talk]]) 21:38, 25 October 2010 (UTC)
+	</talkpage>
+</article>

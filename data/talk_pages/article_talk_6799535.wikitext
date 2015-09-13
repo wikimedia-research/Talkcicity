@@ -1,0 +1,20 @@
+<article id="6799535" title=User talk:74.129.42.15>
+	<talkpage id="6799535" title="User talk:74.129.42.15">
+==Talk:XYZ Affair==
+
+'''Welcome!'''
+
+Hello, {{BASEPAGENAME}}, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for your contributions. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Help:Contents|Help pages]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:Article development|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you need help, check out [[Wikipedia:Questions]], ask me on my talk page, or place &lt;code&gt;&lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt;&lt;/code&gt; on your talk page and someone will show up shortly to answer your questions. Again, welcome!&amp;nbsp; [[User:Ya ya ya ya ya ya|Ya ya ya ya ya ya]] 17:43, 1 September 2006 (UTC)
+
+[[Image:Stop hand.svg|left|30px]] Welcome to Wikipedia. We invite everyone to contribute constructively to our encyclopedia. Take a look at the [[Wikipedia:Welcome, newcomers|welcome page]] if you would like to learn more about contributing. However, unconstructive edits, such as those you made to [[:Slavery]], are considered [[Wikipedia:Vandalism|vandalism]]. If you continue in this manner you may be '''blocked from editing without further warning'''. Please stop, and consider improving rather than damaging the hard work of others. Thanks. &lt;!-- Template:blatantvandal-n --&gt; A link to the edit I have reverted can be found here: [http://en.wikipedia.org/w/index.php?title=Slavery&amp;diff=next&amp;oldid=74059414 link]. If you believe this edit should not have been reverted, please contact me. &lt;!-- 89--&gt; [[User:Ale_jrb|&lt;font color=&quot;green&quot;&gt;A&lt;/font&gt;&lt;small&gt;&lt;font color=&quot;green&quot;&gt;le_Jrb&lt;/font&gt;]]&lt;/small&gt;&lt;sup&gt;[[User_talk:Ale_jrb|&lt;font color=&quot;blue&quot;&gt;talk&lt;/font&gt;]]&lt;/sup&gt; 15:33, 6 September 2006 (UTC)
+
+Please stop. If you continue to vandalize pages, as you did to [[:Slavery]], you will be [[Wikipedia:Blocking policy|blocked]] from editing Wikipedia. &lt;!-- Template:Test3-n (Third level warning) --&gt;  If you feel that the [http://en.wikipedia.org/w/index.php?title=Slavery&amp;diff=74147388&amp;oldid=74147296 edit I reverted] should not have been reverted, please contact me. -- [[User:Omicronpersei8|Omicronpersei8]] ([[User_talk:Omicronpersei8|talk]]) 15:35, 6 September 2006 (UTC)
+	</talkpage>
+</article>

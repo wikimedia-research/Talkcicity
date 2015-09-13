@@ -1,0 +1,357 @@
+<article id="44206189" title=User talk:Amanda Smalls/Archive 6>
+	<talkpage id="44206189" title="User talk:Amanda Smalls/Archive 6">
+{{talk archive navigation}}
+
+== Articles you might like to edit, from SuggestBot ==
+
+''Note:'' All columns in this table are sortable, allowing you to rearrange the table so the articles most interesting to you are shown at the top.  All images have mouse-over popups with more information.  For more information about the columns and categories, please [[User:SuggestBot/Documentation/Suggestion columns|consult the documentation]], and please do get in touch on [[User talk:SuggestBot|SuggestBot's talk page]] with any questions you might have.
+
+{| class=&quot;wikitable sortable&quot; border=&quot;1&quot; style=&quot;text-align: center;&quot;
+|-
+! scope=&quot;col&quot; | Views/Day
+! scope=&quot;col&quot; | Quality
+! scope=&quot;col&quot; | Title
+! scope=&quot;col&quot; | Content
+! scope=&quot;col&quot; | Headings
+! scope=&quot;col&quot; | Images
+! scope=&quot;col&quot; | Links
+! scope=&quot;col&quot; | Sources
+! scope=&quot;col&quot; | Tagged with…
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:175}}
+|| {{Hs|2.0}} [[File:Stars320.svg|60 px|alt=Quality: Medium, Assessed class: Start, Predicted class: B|link=Beefsteak|Quality: Medium, Assessed class: Start, Predicted class: B]]
+| align='left' | [[Beefsteak]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:Beefsteak|talk]])&lt;/span&gt;
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more content|link=Beefsteak|Please add more content]]
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more sources|link=Beefsteak|Please add more sources]]
+|| Add sources
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:1386}}
+|| {{Hs|2.0}} [[File:Stars320.svg|60 px|alt=Quality: Medium, Assessed class: C, Predicted class: B|link=Italian cuisine|Quality: Medium, Assessed class: C, Predicted class: B]]
+| align='left' | [[Italian cuisine]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:Italian cuisine|talk]])&lt;/span&gt;
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| Add sources
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:90}}
+|| {{Hs|2.0}} [[File:Stars320.svg|60 px|alt=Quality: Medium, Assessed class: Start, Predicted class: C|link=New Haven-style pizza|Quality: Medium, Assessed class: Start, Predicted class: C]]
+| align='left' | [[New Haven-style pizza]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:New Haven-style pizza|talk]])&lt;/span&gt;
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more content|link=New Haven-style pizza|Please add more content]]
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more sources|link=New Haven-style pizza|Please add more sources]]
+|| Add sources
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:23}}
+|| {{Hs|1.0}} [[File:Stars310.svg|60 px|alt=Quality: Low, Assessed class: Stub, Predicted class: Stub|link=Bruttiboni|Quality: Low, Assessed class: Stub, Predicted class: Stub]]
+| align='left' | [[Bruttiboni]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:Bruttiboni|talk]])&lt;/span&gt;
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more content|link=Bruttiboni|Please add more content]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please create proper section headings|link=Bruttiboni|Please create proper section headings]]
+|| {{Hs|2.0}}
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more wikilinks|link=Bruttiboni|Please add more wikilinks]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more sources|link=Bruttiboni|Please add more sources]]
+|| Add sources
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:274}}
+|| {{Hs|1.0}} [[File:Stars310.svg|60 px|alt=Quality: Low, Assessed class: Start, Predicted class: Start|link=New York-style pizza|Quality: Low, Assessed class: Start, Predicted class: Start]]
+| align='left' | [[New York-style pizza]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:New York-style pizza|talk]])&lt;/span&gt;
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more content|link=New York-style pizza|Please add more content]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please create proper section headings|link=New York-style pizza|Please create proper section headings]]
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more sources|link=New York-style pizza|Please add more sources]]
+|| Add sources
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:791}}
+|| {{Hs|1.0}} [[File:Stars310.svg|60 px|alt=Quality: Low, Assessed class: Start, Predicted class: Start|link=Cut of beef|Quality: Low, Assessed class: Start, Predicted class: Start]]
+| align='left' | [[Cut of beef]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:Cut of beef|talk]])&lt;/span&gt;
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more content|link=Cut of beef|Please add more content]]
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more sources|link=Cut of beef|Please add more sources]]
+|| Add sources
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:8}}
+|| {{Hs|1.0}} [[File:Stars310.svg|60 px|alt=Quality: Low, Assessed class: Start, Predicted class: Stub|link=Henry Kucera|Quality: Low, Assessed class: Start, Predicted class: Stub]]
+| align='left' | [[Henry Kucera]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:Henry Kucera|talk]])&lt;/span&gt;
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more content|link=Henry Kucera|Please add more content]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please create proper section headings|link=Henry Kucera|Please create proper section headings]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more images|link=Henry Kucera|Please add more images]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more wikilinks|link=Henry Kucera|Please add more wikilinks]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more sources|link=Henry Kucera|Please add more sources]]
+|| Cleanup
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:1265}}
+|| {{Hs|3.0}} [[File:Stars330.svg|60 px|alt=Quality: High, Assessed class: C, Predicted class: FA|link=Iraqi insurgency (2011–present)|Quality: High, Assessed class: C, Predicted class: FA]]
+| align='left' | [[Iraqi insurgency (2011–present)]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:Iraqi insurgency (2011–present)|talk]])&lt;/span&gt;
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| Cleanup
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:376}}
+|| {{Hs|2.0}} [[File:Stars320.svg|60 px|alt=Quality: Medium, Assessed class: Start, Predicted class: C|link=Internet safety|Quality: Medium, Assessed class: Start, Predicted class: C]]
+| align='left' | [[Internet safety]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:Internet safety|talk]])&lt;/span&gt;
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more content|link=Internet safety|Please add more content]]
+|| {{Hs|2.0}}
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more images|link=Internet safety|Please add more images]]
+|| {{Hs|2.0}}
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more sources|link=Internet safety|Please add more sources]]
+|| Cleanup
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:13}}
+|| {{Hs|1.0}} [[File:Stars310.svg|60 px|alt=Quality: Low, Assessed class: List, Predicted class: Start|link=FA Youth Cup Finals of the 1980s|Quality: Low, Assessed class: List, Predicted class: Start]]
+| align='left' | [[FA Youth Cup Finals of the 1980s]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:FA Youth Cup Finals of the 1980s|talk]])&lt;/span&gt;
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more sources|link=FA Youth Cup Finals of the 1980s|Please add more sources]]
+|| Expand
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:1037}}
+|| {{Hs|3.0}} [[File:Stars330.svg|60 px|alt=Quality: High, Assessed class: C, Predicted class: A|link=World's fair|Quality: High, Assessed class: C, Predicted class: A]]
+| align='left' | [[World's fair]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:World's fair|talk]])&lt;/span&gt;
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| Expand
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:284}}
+|| {{Hs|2.0}} [[File:Stars320.svg|60 px|alt=Quality: Medium, Assessed class: C, Predicted class: B|link=File Explorer|Quality: Medium, Assessed class: C, Predicted class: B]]
+| align='left' | [[File Explorer]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:File Explorer|talk]])&lt;/span&gt;
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more sources|link=File Explorer|Please add more sources]]
+|| Expand
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:617}}
+|| {{Hs|3.0}} [[File:Stars330.svg|60 px|alt=Quality: High, Assessed class: C, Predicted class: FA|link=Radical feminism|Quality: High, Assessed class: C, Predicted class: FA]]
+| align='left' | [[Radical feminism]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:Radical feminism|talk]])&lt;/span&gt;
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more images|link=Radical feminism|Please add more images]]
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| Unencyclopaedic
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:633}}
+|| {{Hs|2.0}} [[File:Stars320.svg|60 px|alt=Quality: Medium, Assessed class: Start, Predicted class: C|link=Enoch (ancestor of Noah)|Quality: Medium, Assessed class: Start, Predicted class: C]]
+| align='left' | [[Enoch (ancestor of Noah)]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:Enoch (ancestor of Noah)|talk]])&lt;/span&gt;
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more content|link=Enoch (ancestor of Noah)|Please add more content]]
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more sources|link=Enoch (ancestor of Noah)|Please add more sources]]
+|| Unencyclopaedic
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:76}}
+|| {{Hs|1.0}} [[File:Stars310.svg|60 px|alt=Quality: Low, Assessed class: C, Predicted class: Start|link=Steak sandwich|Quality: Low, Assessed class: C, Predicted class: Start]]
+| align='left' | [[Steak sandwich]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:Steak sandwich|talk]])&lt;/span&gt;
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more content|link=Steak sandwich|Please add more content]]
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more sources|link=Steak sandwich|Please add more sources]]
+|| Unencyclopaedic
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:373}}
+|| {{Hs|1.0}} [[File:Stars310.svg|60 px|alt=Quality: Low, Assessed class: Start, Predicted class: Start|link=Calamondin|Quality: Low, Assessed class: Start, Predicted class: Start]]
+| align='left' | [[Calamondin]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:Calamondin|talk]])&lt;/span&gt;
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more content|link=Calamondin|Please add more content]]
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more wikilinks|link=Calamondin|Please add more wikilinks]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more sources|link=Calamondin|Please add more sources]]
+|| Merge
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:28}}
+|| {{Hs|1.0}} [[File:Stars310.svg|60 px|alt=Quality: Low, Assessed class: Stub, Predicted class: Start|link=Multiplex (television)|Quality: Low, Assessed class: Stub, Predicted class: Start]]
+| align='left' | [[Multiplex (television)]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:Multiplex (television)|talk]])&lt;/span&gt;
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more content|link=Multiplex (television)|Please add more content]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please create proper section headings|link=Multiplex (television)|Please create proper section headings]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more images|link=Multiplex (television)|Please add more images]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more wikilinks|link=Multiplex (television)|Please add more wikilinks]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more sources|link=Multiplex (television)|Please add more sources]]
+|| Merge
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:249}}
+|| {{Hs|1.0}} [[File:Stars310.svg|60 px|alt=Quality: Low, Assessed class: Start, Predicted class: Start|link=Adult movie theater|Quality: Low, Assessed class: Start, Predicted class: Start]]
+| align='left' | [[Adult movie theater]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:Adult movie theater|talk]])&lt;/span&gt;
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more content|link=Adult movie theater|Please add more content]]
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more wikilinks|link=Adult movie theater|Please add more wikilinks]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more sources|link=Adult movie theater|Please add more sources]]
+|| Merge
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:26}}
+|| {{Hs|1.0}} [[File:Stars310.svg|60 px|alt=Quality: Low, Assessed class: Unassessed, Predicted class: Start|link=Proxomitron|Quality: Low, Assessed class: Unassessed, Predicted class: Start]]
+| align='left' | [[Proxomitron]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:Proxomitron|talk]])&lt;/span&gt;
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more content|link=Proxomitron|Please add more content]]
+|| {{Hs|2.0}}
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more images|link=Proxomitron|Please add more images]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more wikilinks|link=Proxomitron|Please add more wikilinks]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more sources|link=Proxomitron|Please add more sources]]
+|| Wikify
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:516}}
+|| {{Hs|3.0}} [[File:Stars330.svg|60 px|alt=Quality: High, Assessed class: Start, Predicted class: A|link=Prostitution in Thailand|Quality: High, Assessed class: Start, Predicted class: A]]
+| align='left' | [[Prostitution in Thailand]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:Prostitution in Thailand|talk]])&lt;/span&gt;
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| Wikify
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:1034}}
+|| {{Hs|3.0}} [[File:Stars330.svg|60 px|alt=Quality: High, Assessed class: Start, Predicted class: GA|link=Vidyut Jamwal|Quality: High, Assessed class: Start, Predicted class: GA]]
+| align='left' | [[Vidyut Jamwal]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:Vidyut Jamwal|talk]])&lt;/span&gt;
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more content|link=Vidyut Jamwal|Please add more content]]
+|| {{Hs|2.0}}
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more images|link=Vidyut Jamwal|Please add more images]]
+|| {{Hs|2.0}}
+|| {{Hs|2.0}}
+|| Wikify
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:1}}
+|| {{Hs|1.0}} [[File:Stars310.svg|60 px|alt=Quality: Low, Assessed class: Stub, Predicted class: Stub|link=Richard Bangwe|Quality: Low, Assessed class: Stub, Predicted class: Stub]]
+| align='left' | [[Richard Bangwe]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:Richard Bangwe|talk]])&lt;/span&gt;
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more content|link=Richard Bangwe|Please add more content]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please create proper section headings|link=Richard Bangwe|Please create proper section headings]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more images|link=Richard Bangwe|Please add more images]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more wikilinks|link=Richard Bangwe|Please add more wikilinks]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more sources|link=Richard Bangwe|Please add more sources]]
+|| Orphan
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:1}}
+|| {{Hs|1.0}} [[File:Stars310.svg|60 px|alt=Quality: Low, Assessed class: Stub, Predicted class: Stub|link=Richard Riley (footballer)|Quality: Low, Assessed class: Stub, Predicted class: Stub]]
+| align='left' | [[Richard Riley (footballer)]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:Richard Riley (footballer)|talk]])&lt;/span&gt;
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more content|link=Richard Riley (footballer)|Please add more content]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please create proper section headings|link=Richard Riley (footballer)|Please create proper section headings]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more images|link=Richard Riley (footballer)|Please add more images]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more wikilinks|link=Richard Riley (footballer)|Please add more wikilinks]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more sources|link=Richard Riley (footballer)|Please add more sources]]
+|| Orphan
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:1}}
+|| {{Hs|1.0}} [[File:Stars310.svg|60 px|alt=Quality: Low, Assessed class: Stub, Predicted class: Stub|link=Richard Allsebrook|Quality: Low, Assessed class: Stub, Predicted class: Stub]]
+| align='left' | [[Richard Allsebrook]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:Richard Allsebrook|talk]])&lt;/span&gt;
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more content|link=Richard Allsebrook|Please add more content]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please create proper section headings|link=Richard Allsebrook|Please create proper section headings]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more images|link=Richard Allsebrook|Please add more images]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more wikilinks|link=Richard Allsebrook|Please add more wikilinks]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more sources|link=Richard Allsebrook|Please add more sources]]
+|| Orphan
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:2}}
+|| {{Hs|1.0}} [[File:Stars310.svg|60 px|alt=Quality: Low, Assessed class: Start, Predicted class: Stub|link=Cebu F.A.|Quality: Low, Assessed class: Start, Predicted class: Stub]]
+| align='left' | [[Cebu F.A.]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:Cebu F.A.|talk]])&lt;/span&gt;
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more content|link=Cebu F.A.|Please add more content]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please create proper section headings|link=Cebu F.A.|Please create proper section headings]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more images|link=Cebu F.A.|Please add more images]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more wikilinks|link=Cebu F.A.|Please add more wikilinks]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more sources|link=Cebu F.A.|Please add more sources]]
+|| Stub
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:147}}
+|| {{Hs|1.0}} [[File:Stars310.svg|60 px|alt=Quality: Low, Assessed class: Stub, Predicted class: Stub|link=Cube steak|Quality: Low, Assessed class: Stub, Predicted class: Stub]]
+| align='left' | [[Cube steak]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:Cube steak|talk]])&lt;/span&gt;
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more content|link=Cube steak|Please add more content]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please create proper section headings|link=Cube steak|Please create proper section headings]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more images|link=Cube steak|Please add more images]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more wikilinks|link=Cube steak|Please add more wikilinks]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more sources|link=Cube steak|Please add more sources]]
+|| Stub
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:225}}
+|| {{Hs|1.0}} [[File:Stars310.svg|60 px|alt=Quality: Low, Assessed class: Stub, Predicted class: Stub|link=Adi Shankar|Quality: Low, Assessed class: Stub, Predicted class: Stub]]
+| align='left' | [[Adi Shankar]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:Adi Shankar|talk]])&lt;/span&gt;
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more content|link=Adi Shankar|Please add more content]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please create proper section headings|link=Adi Shankar|Please create proper section headings]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more images|link=Adi Shankar|Please add more images]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more wikilinks|link=Adi Shankar|Please add more wikilinks]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more sources|link=Adi Shankar|Please add more sources]]
+|| Stub
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:1}}
+|| {{Hs|1.0}} [[File:Stars310.svg|60 px|alt=Quality: Low, Assessed class: Stub, Predicted class: Stub|link=Stade Municipal de Richard Toll|Quality: Low, Assessed class: Stub, Predicted class: Stub]]
+| align='left' | [[Stade Municipal de Richard Toll]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:Stade Municipal de Richard Toll|talk]])&lt;/span&gt;
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more content|link=Stade Municipal de Richard Toll|Please add more content]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please create proper section headings|link=Stade Municipal de Richard Toll|Please create proper section headings]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more images|link=Stade Municipal de Richard Toll|Please add more images]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more wikilinks|link=Stade Municipal de Richard Toll|Please add more wikilinks]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more sources|link=Stade Municipal de Richard Toll|Please add more sources]]
+|| Stub
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:40}}
+|| {{Hs|1.0}} [[File:Stars310.svg|60 px|alt=Quality: Low, Assessed class: Stub, Predicted class: Stub|link=Carne pizzaiola|Quality: Low, Assessed class: Stub, Predicted class: Stub]]
+| align='left' | [[Carne pizzaiola]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:Carne pizzaiola|talk]])&lt;/span&gt;
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more content|link=Carne pizzaiola|Please add more content]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please create proper section headings|link=Carne pizzaiola|Please create proper section headings]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more images|link=Carne pizzaiola|Please add more images]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more wikilinks|link=Carne pizzaiola|Please add more wikilinks]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more sources|link=Carne pizzaiola|Please add more sources]]
+|| Stub
+
+|- align='center' style='height: 30px;'
+| align='right' | {{formatnum:20}}
+|| {{Hs|1.0}} [[File:Stars310.svg|60 px|alt=Quality: Low, Assessed class: Stub, Predicted class: Stub|link=Castagnaccio|Quality: Low, Assessed class: Stub, Predicted class: Stub]]
+| align='left' | [[Castagnaccio]] &lt;span style=&quot;font-size: 80%&quot;&gt;([[Talk:Castagnaccio|talk]])&lt;/span&gt;
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more content|link=Castagnaccio|Please add more content]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please create proper section headings|link=Castagnaccio|Please create proper section headings]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more images|link=Castagnaccio|Please add more images]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more wikilinks|link=Castagnaccio|Please add more wikilinks]]
+|| {{Hs|0.0}} [[File:Redx2.svg|18px|alt=Please add more sources|link=Castagnaccio|Please add more sources]]
+|| Stub
+|}
+
+SuggestBot picks articles in a number of ways based on other articles you've edited, including straight text similarity, following wikilinks, and matching your editing patterns against those of other Wikipedians.  It tries to recommend only articles that other Wikipedians have marked as needing work.  We appreciate that you have signed up to receive suggestions regularly, your contributions make Wikipedia better — thanks for helping!
+
+If you have feedback on how to make SuggestBot better, please let us know on [[User_talk:SuggestBot|SuggestBot's talk page]].  Regards from [[User:Nettrom|Nettrom]] ([[User talk:Nettrom|talk]]), SuggestBot's caretaker. -- [[User:SuggestBot|SuggestBot]] ([[User talk:SuggestBot|talk]]) 10:35, 14 October 2014 (UTC)
+{{collapse bottom}}
+	</talkpage>
+</article>

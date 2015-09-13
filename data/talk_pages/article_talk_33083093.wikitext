@@ -1,0 +1,19 @@
+<article id="33083093" title=Talk:Furusato Ginga Line>
+	<talkpage id="33083093" title="Talk:Furusato Ginga Line">
+{{WikiProject Japan|class=b|importance=low| b1 &lt;!--Referencing &amp; citations--&gt; = y
+| b2 &lt;!--Coverage &amp; accuracy    --&gt; = y
+| b3 &lt;!--Structure              --&gt; = y
+| b4 &lt;!--Grammar &amp; style        --&gt; = y
+| b5 &lt;!--Supporting materials   --&gt; = y
+| b6 &lt;!--Accessibility          --&gt; = yes|trains=y}}
+{{WikiProject Trains|class=b|importance=low|unref=yes|mapneeded=yes|Japan=yes|portaldykdate=August 22, 2012}}
+
+== Line Diagram ==
+
+Hey Sushiya, first off, thanks for putting the proper infobox up. However I also noticed that you deleted the line diagram because it didn't &quot;add much information to station list&quot;. It's true that it's a pretty boring and simplistic line diagram (a straight shot from beginning to end), but the whole point of those boxes are to give an easy-to-understand overview of the makeup of the line. And in this case, not having much information is exactly the information it's supposed to convey.
+
+Anyway, I added the diagram back but used the 'hide' tag so it doesn't get in the way. Hopefully you'll find that a suitable compromise.
+
+I've been planning to start writing English-language articles for the many abandoned rail lines in Hokkaido, but as I haven't gotten around to it yet, I'm happy to see someone else doing so. :)   [[User:Purplepumpkins|purplepumpkins]] ([[User talk:Purplepumpkins|talk]]) 13:32, 18 September 2011 (UTC)
+	</talkpage>
+</article>

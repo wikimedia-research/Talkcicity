@@ -1,0 +1,5 @@
+<article id="18186911" title=Talk:GLUT5>
+	<talkpage id="18186911" title="Talk:GLUT5">
+{{Wikiproject MCB|class=stub|importance=low}}
+	</talkpage>
+</article>

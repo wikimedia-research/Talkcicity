@@ -1,0 +1,12 @@
+<article id="28057347" title=User talk:218.185.162.22>
+	<talkpage id="28057347" title="User talk:218.185.162.22">
+{{ipsock|Inouea}}
+
+== July 2010 ==
+[[File:Information.svg|25px|alt=]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of [[Special:Contributions/218.185.162.22|your recent edits]], such as the one you made to [[:Hitomi Yoshizawa]], did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; [[User:YumeChaser|&lt;font color=&quot;Gold&quot;&gt;夢&lt;/font&gt;]][[User talk:YumeChaser|&lt;font color=&quot;orange&quot;&gt;追人&lt;/font&gt;]]&lt;font color=&quot;black&quot;&gt;&lt;sup&gt;YumeChaser&lt;/sup&gt;&lt;/font&gt; 16:44, 16 July 2010 (UTC)
+:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
+
+[[File:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia, as you did at [[:Hitomi Yoshizawa]]. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]] or removed. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Thank you.&lt;!-- Template:uw-vandalism2 --&gt; [[User:YumeChaser|&lt;font color=&quot;Gold&quot;&gt;夢&lt;/font&gt;]][[User talk:YumeChaser|&lt;font color=&quot;orange&quot;&gt;追人&lt;/font&gt;]]&lt;font color=&quot;black&quot;&gt;&lt;sup&gt;YumeChaser&lt;/sup&gt;&lt;/font&gt; 15:09, 17 July 2010 (UTC)
+:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
+	</talkpage>
+</article>

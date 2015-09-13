@@ -1,0 +1,11 @@
+<article id="15408676" title=Talk:Jiřina Bohdalová>
+	<talkpage id="15408676" title="Talk:Jiřina Bohdalová">
+{{WPBiography
+|living=yes
+|class=Stub
+|auto=yes
+|listas=Bohdalova, Jirina
+}}
+{{WikiProject Czech Republic|class=stub}}
+	</talkpage>
+</article>

@@ -1,0 +1,7 @@
+<article id="15614983" title=User talk:68.108.79.7>
+	<talkpage id="15614983" title="User talk:68.108.79.7">
+
+== February 2008 ==
+{{{icon|[[Image:Information.svg|25px]] }}} Your recent edit to [[:Liquid crystal display]] ([http://en.wikipedia.org/w/index.php?title=Liquid_crystal_display&amp;curid=17932&amp;diff=189383054&amp;oldid=188745331 diff]) was reverted by an '''automated bot'''. The edit was identified as adding test edits to the page. If you want to experiment, please use the '''preview button''' while editing or consider using the [[Wikipedia:Sandbox|sandbox]]. If this revert was in error, please contact the bot operator. Thanks!&lt;!-- Template:uw-vandalism1 --&gt; // [[User:VoABot II|VoABot II]] ([[User talk:VoABot II|talk]]) 00:05, 6 February 2008 (UTC)
+	</talkpage>
+</article>

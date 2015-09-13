@@ -1,0 +1,5 @@
+<article id="38527029" title=Talk:Mordella diversinotata>
+	<talkpage id="38527029" title="Talk:Mordella diversinotata">
+{{WikiProject Insects|class=stub|importance=low}}
+	</talkpage>
+</article>

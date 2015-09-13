@@ -1,0 +1,28 @@
+<article id="27275906" title=User talk:Alanbovinett>
+	<talkpage id="27275906" title="User talk:Alanbovinett">
+==[[:Alan Bovinett]]==
+[[Image:Copyright-problem.svg|left|40px]]
+This is an automated message from [[User:CorenSearchBot|CorenSearchBot]].  I have performed a web search with the contents of [[:Alan Bovinett]], and it appears to include a substantial copy of http://www.alanbovinett.com/Bio.html.  For legal reasons, we cannot accept copyrighted text or images borrowed from other web sites or printed material; such additions will be deleted. You may use external websites as a source of information, but not as a source of sentences. See our [[Wikipedia:Copyrights|copyright policy]] for further details. (If you own the copyright to the previously published content and wish to donate it, see [[Wikipedia:Donating copyrighted materials]] for the procedure.)
+
+This message was placed automatically, and it is possible that the bot is confused and found similarity where none actually exists.  If that is the case, you can remove the tag from the article and it would be appreciated if you could drop a note on [[User talk:Coren|the maintainer's talk page]]. [[User:CorenSearchBot|CorenSearchBot]] ([[User talk:CorenSearchBot|talk]]) 00:40, 8 May 2010 (UTC)
+
+
+==Notability of [[:Alan Bovinett]]==
+{{Quote box
+ | quote  = You may wish to consider using a Wizard to help you create articles. See the [[Wikipedia:Article wizard2.0|Article Wizard]].'''''
+ | source = Thank you.
+ | width  = 20%
+ | align  = right
+}}
+[[Image:Ambox warning pn.svg|48px|left]]The article [[:Alan Bovinett]] has been speedily deleted from Wikipedia. This was done because the article, which appeared to be about a real person, individual animal, organization (band, club, company, ''etc.''), or web content, did not indicate how or why the subject is notable, that is, why an article about that subject should be included in Wikipedia. Under the [[WP:CSD#Articles|criteria for speedy deletion]], articles that do not indicate the notability of the subject may be deleted at any time. If you can indicate why the subject is really notable, you are free to re-create the article, making sure to [[Wikipedia:Citing sources|cite]] any [[Wikipedia:Verifiability|verifiable sources]].
+
+Please [[Wikipedia:Notability|see the guidelines for what is generally accepted as notable]], and for specific types of articles, you may want to check out our criteria [[Wikipedia:Notability (people)|for biographies]], [[WP:WEB|for web sites]], [[WP:MUSIC|for musicians]], or [[WP:CORP|for companies]]. Feel free to leave a note on my talk page if you have any questions about this.&lt;!-- Template:Nn-warn-deletion --&gt;  —'''[[User:C.Fred|C.Fred]]''' ([[User_talk:C.Fred|talk]]) 00:45, 8 May 2010 (UTC)
+
+
+[[Image:Information.svg|25px]] You should wait for others to write an article about subjects in which you are personally involved, instead of writing it yourself, as you did at [[:Alan Bovinett]]. This applies to articles about you, your achievements, your band, your business, your publications, your website, your relatives, and any other possible [[WP:COI|conflict of interest]]. 
+
+Creating an [[Wikipedia:Autobiography|article about yourself]] is ''strongly'' discouraged. If you create such an article, it might be listed on [[wikipedia:articles for deletion|articles for deletion]]. Deletion is not certain, but many feel strongly that you should not ''start'' articles about yourself. This is because independent creation encourages independent validation of both significance and verifiability. All edits to articles must conform to [[Wikipedia:No original research]], [[Wikipedia:Neutral point of view]], and [[Wikipedia:Verifiability]]. 
+
+If you are not [[WP:notability|&quot;notable&quot;]] under Wikipedia guidelines, creating an article about yourself may violate the policy that [[Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_blog.2C_webspace_provider.2C_social_networking.2C_or_memorial_site|Wikipedia is not a personal webspace provider]] and would thus qualify for [[Wikipedia:Criteria for speedy deletion#a7|speedy deletion]].  If your achievements, etc., are verifiable and genuinely notable, and thus suitable for inclusion in Wikipedia, someone else will probably create an article about you sooner or later. (See [[Wikipedia:Wikipedians with articles]].)  Thank you.&lt;!-- Template:uw-autobiography --&gt; —'''[[User:C.Fred|C.Fred]]''' ([[User_talk:C.Fred|talk]]) 00:45, 8 May 2010 (UTC)
+	</talkpage>
+</article>

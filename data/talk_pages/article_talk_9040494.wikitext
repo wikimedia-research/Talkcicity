@@ -1,0 +1,12 @@
+<article id="9040494" title=Talk:Sabas Pretelt de la Vega>
+	<talkpage id="9040494" title="Talk:Sabas Pretelt de la Vega">
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|politician-work-group=yes
+|listas=Pretelt De La Vega, Sabas
+|politician-priority=low
+}}
+{{WikiProject Colombia|class=stub|importance=low}}
+	</talkpage>
+</article>

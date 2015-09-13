@@ -1,0 +1,27 @@
+<article id="23307200" title=User talk:22yearswothanks>
+	<talkpage id="23307200" title="User talk:22yearswothanks">
+== Welcome! ==
+
+[[Image:Chocolate chip cookies.jpg|thumb|300px|Some cookies to welcome you! [[Image:Face-grin.svg|25px]]]] [[Wikipedia:Welcoming committee/Welcome to Wikipedia|Welcome to Wikipedia]], 22yearswothanks! I {{#if: I dream of horses|am [[User:I dream of horses|I dream of horses]] and|}} have been editing Wikipedia for quite some time. I just wanted to say hi and welcome you to Wikipedia! If you have any questions, feel free to leave me a message on {{#if: I dream of horses|[[User talk:I dream of horses|my talk page]]|my talk page}} or by typing ''{{tl|helpme}}'' at the bottom of this page. I love to help new users, so don't be afraid to leave a message! {{#if:|&amp;#32;{{{2}}}|}} I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+* [[Wikipedia:Introduction|Introduction]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Wikipedia:How to edit a page|How to edit a page]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Article development|How to write a great article]]
+* [[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Oh yeah, I almost forgot, when you post on [[Wikipedia:Talk page|talk pages]] you should [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); that should automatically produce your username and the date after your post.
+If you need help, check out [[Wikipedia:Questions]], ask me on {{#if: I dream of horses|[[User talk:I dream of horses|my talk page]]|my talk page}}, or place {{tl|helpme}} on your talk page and ask your question there. Again, welcome! {{#if:|&amp;#32;{{{3}}}|}}
+ 
+[[User:I dream of horses|I dream of horses]] ([[User talk:I dream of horses|talk]]) 14:57, 21 June 2009 (UTC)
+:If you need help, just ask me. --[[User:I dream of horses|I dream of horses]] ([[User talk:I dream of horses|talk]]) 15:01, 21 June 2009 (UTC)
+
+== September 2009 ==
+[[Image:Information.svg|left|25px]] One of your recent edits to [[:Parents Television Council controversies]], was '''automatically [[Help:Reverting|reverted]]''' by [[User:ClueBot|ClueBot]].  '''If you believe there has been a false positive, please report it and then remove this warning from your talk page.'''  Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot|ClueBot]] ([[User talk:ClueBot|talk]]) 23:08, 25 September 2009 (UTC)Made corrections and undid redirect on talk page[[User:22yearswothanks|22yearswothanks]] ([[User talk:22yearswothanks#top|talk]]) 13:39, 26 September 2009 (UTC)
+
+==Disambiguation link notification for April 8==
+
+Hi. Thank you for your recent edits. Wikipedia appreciates your help. We noticed though that when you edited [[Kent State shootings]], you added a link pointing to the disambiguation page [[Chris Butler]] ([[tools:~dispenser/cgi-bin/dablinks.py/Kent_State_shootings|check to confirm]]&amp;nbsp;|&amp;nbsp;[[tools:~dispenser/cgi-bin/dab_solver.py/Kent_State_shootings|fix with Dab solver]]). Such links are almost always unintended, since a disambiguation page is merely a list of &quot;Did you mean...&quot; article titles. &lt;small&gt;Read the [[User:DPL bot/Dablink notification FAQ|FAQ]]{{*}} Join us at the [[Wikipedia:Disambiguation pages with links|DPL WikiProject]].&lt;/small&gt;
+
+It's OK to remove this message. Also, to stop receiving these messages, follow these [[User:DPL bot|opt-out instructions]]. Thanks, [[User:DPL bot|DPL bot]] ([[User talk:DPL bot|talk]]) 14:04, 8 April 2013 (UTC)
+	</talkpage>
+</article>

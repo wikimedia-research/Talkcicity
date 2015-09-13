@@ -1,0 +1,12 @@
+<article id="23069858" title=Talk:Ignacy Tokarczuk>
+	<talkpage id="23069858" title="Talk:Ignacy Tokarczuk">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=no
+|class=Start
+|listas=Tokarczuk, Ignacy
+}}
+{{WikiProject Catholicism|class=Start|importance=Low}}
+{{WikiProject Poland|class=Start|importance=Low}}
+}}
+	</talkpage>
+</article>

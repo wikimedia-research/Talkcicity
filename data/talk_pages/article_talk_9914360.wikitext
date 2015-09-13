@@ -1,0 +1,14 @@
+<article id="9914360" title=User talk:Bigevan1>
+	<talkpage id="9914360" title="User talk:Bigevan1">
+[[Image:Information.svg|25px]] Welcome to Wikipedia. We invite everyone to contribute constructively to our encyclopedia. Some of your recent edits{{{{{subst|}}}#if:{{{1|}}}|, such as those you made to [[:{{{1}}}]],}} have been considered unhelpful or unconstructive and have been [[Help:Reverting|reverted]] or removed.  Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- {{uw-vandalism1}} --&gt;'''〈&lt;font color=&quot;red&quot;&gt;[[User:Redvers|RED]]&lt;/font&gt;&lt;font color=&quot;red&quot;&gt;[[User_talk:Redvers|VEЯS]]&lt;/font&gt;〉''' 15:40, 7 March 2007 (UTC)
+
+=={{{header-text|[[:Steve Sarkela]]}}}==
+Welcome to [[Wikipedia]]! We welcome your help to create new content, but your recent additions (such as [[:Steve Sarkela]]) are considered nonsense. [[Wikipedia:Patent nonsense|Please refrain from creating nonsense articles]]. If you want to test things out, edit the [[Wikipedia:Sandbox|sandbox]] instead. Take a look at the [[Wikipedia:Introduction|welcome]] page if you would like to learn more about contributing to our encyclopedia.&lt;!-- Template:Nonsensepages --&gt; 
+--[[User:Webkami|Webkami]] 16:01, 7 March 2007 (UTC)
+
+== Your edits to [[Goaltender]] ==
+
+Thank you for experimenting with {{#if:{{{1|}}}|the page [[:{{{1}}}]] on}} Wikipedia{{#if:{{{diff|}}}|&amp;nbsp;as you did with [{{{diff}}} this edit]}}. Your test worked, and it has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any other tests you may want to do. Take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to our encyclopedia.&lt;!-- Template:Test (first level warning) --&gt; — [[User:Dorvaq|Dorvaq]] &lt;small&gt;([[User_talk:Dorvaq|talk]])&lt;/small&gt; 19:36, 16 March 2007 (UTC)
+:Please do not add nonsense to Wikipedia{{#if:Goaltender|, as you did {{#if:{{{diff|}}}|with [{{{diff}}} this edit]}} to the [[:Goaltender]] page|{{#if:{{{diff|}}}|, as you did with [{{{diff}}} this edit]}}}}. It is considered [[Wikipedia:Vandalism|vandalism]]. If you would like to experiment, use the [[Wikipedia:Sandbox|sandbox]]. Thank you. &lt;!-- Template:Test2 (second level warning) --&gt; [[User:Improbcat|Improbcat]] 18:10, 19 March 2007 (UTC)
+	</talkpage>
+</article>

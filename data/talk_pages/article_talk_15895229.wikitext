@@ -1,0 +1,8 @@
+<article id="15895229" title=Talk:Stable theory>
+	<talkpage id="15895229" title="Talk:Stable theory">
+{{maths rating|class=B|priority=Low|field=foundations}}
+== Free groups ==
+
+At the moment it may be a bit too early to mention this here, but as soon as Zlil Sela's &quot;Diophantine geometry over groups VIII: stability&quot; is published we should definitely include the theory of a free group with &gt;1 generators as an example of a stable not superstable theory. --[[User:Hans Adler|Hans Adler]] ([[User talk:Hans Adler|talk]]) 15:12, 22 February 2008 (UTC)
+	</talkpage>
+</article>

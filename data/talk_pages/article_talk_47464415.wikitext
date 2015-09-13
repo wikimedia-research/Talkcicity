@@ -1,0 +1,5 @@
+<article id="47464415" title=Talk:Holger B. Deising>
+	<talkpage id="47464415" title="Talk:Holger B. Deising">
+{{WikiProject Biography|living=yes}}
+	</talkpage>
+</article>

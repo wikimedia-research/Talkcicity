@@ -1,0 +1,17 @@
+<article id="5607866" title=User talk:Itprochris>
+	<talkpage id="5607866" title="User talk:Itprochris">
+
+'''Welcome!'''
+
+Hello, {{BASEPAGENAME}}, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for your contributions. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Help:Contents|Help pages]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:Article development|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (~&amp;#126;~~); this will automatically produce your name and the date. If you need help, check out [[Wikipedia:Questions]], ask me on my talk page, or place &lt;code&gt;{&amp;#123;helpme}}&lt;/code&gt; on your talk page and someone will show up shortly to answer your questions. Again, welcome!&amp;nbsp;  [[User:Rklawton|Rklawton]] 04:11, 18 June 2006 (UTC)
+
+Regrettably, I've nominated your article [[Cbreak]] for deletion as the article makes no claims of notability for the software described.  Indeed, the article appears to be little more than a small advertisement for the software.  You can still fix this if you are interested.  For example, you might list articles written about this software, number of downloads, or some other indicator of notability.  Best wishes, [[User:Rklawton|Rklawton]] 04:11, 18 June 2006 (UTC)
+	</talkpage>
+</article>

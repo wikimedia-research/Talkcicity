@@ -1,0 +1,6 @@
+<article id="28780935" title=Talk:Allqaqucha (Pasco)>
+	<talkpage id="28780935" title="Talk:Allqaqucha (Pasco)">
+{{WikiProject Lakes|class=stub|importance=low}}
+{{WikiProject South America|class=stub|importance=low|Peru=yes|Peru-importance=low}}
+	</talkpage>
+</article>

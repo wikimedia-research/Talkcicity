@@ -1,0 +1,7 @@
+<article id="47617118" title=User talk:2601:19B:4302:DDBA:1C52:284E:4E42:7A8E>
+	<talkpage id="47617118" title="User talk:2601:19B:4302:DDBA:1C52:284E:4E42:7A8E">
+== August 2015 ==
+[[File:Information orange.svg|25px|alt=Information icon]] Please do not remove content or templates from pages on Wikipedia, as you did to [[:Alex Jones (radio host)]], without giving a valid reason for the removal in the [[Help:Edit summary|edit summary]]. Your content removal does not appear constructive and has been [[Help:Reverting|reverted]]. Please make use of the [[Wikipedia:Sandbox|sandbox]] if you'd like to experiment with test edits. Thank you.&lt;!-- Template:uw-delete2 --&gt; [[User:Rubbish computer|''Rubbish'']] [[User talk:Rubbish computer|''computer'']] 02:13, 25 August 2015 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

@@ -1,0 +1,40 @@
+<article id="47364811" title=User talk:Benjit89>
+	<talkpage id="47364811" title="User talk:Benjit89">
+== Welcome! ==
+
+Hello, Benjit89, and welcome to Wikipedia! Thank you for [[Special:Contributions/Benjit89|your contributions]]. I hope you like the place and decide to stay. Here are a few links to pages you might find helpful:
+* [[Wikipedia:Introduction|Introduction]] and [[Help:Getting started|Getting started]]
+* [[Wikipedia:Contributing to Wikipedia|Contributing to Wikipedia]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Help:Editing|How to edit a page]] and [[Wikipedia:Article development|How to develop articles]]
+* [[Wikipedia:Your first article|How to create your first article]] 
+* [[Wikipedia:Simplified Manual of Style|Simplified Manual of Style]]
+
+You may also want to take the [[Wikipedia:The Wikipedia Adventure|Wikipedia Adventure]], an interactive tour that will help you learn the basics of editing Wikipedia.
+
+Please remember to [[Wikipedia:Signatures|sign]] your messages on [[Help:Using talk pages|talk page]]s by typing four [[tilde]]s (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically insert your username and the date. If you need help, check out [[Wikipedia:Questions]], ask me on my talk page, or {{edit|Special:MyTalk|click here|section=new|preload=Help:Contents/helpmepreload|preloadtitle=Help me!}} to ask for help on your talk page, and a volunteer should respond shortly. Again, welcome! &lt;!-- Template:Welcome --&gt;[[User:RFD|RFD]] ([[User talk:RFD|talk]]) 14:49, 28 July 2015 (UTC)
+
+== Benjit89, you are invited on a [[WP:TWA|Wikipedia Adventure]]! ==
+
+&lt;div style=&quot;background-color: #040023; border-radius:10px; color: #E9E9F0; font-family: 'futura', arial, sans serif; padding: 2em 1em 1em 1em&quot;&gt;
+&lt;div style=&quot;margin-left: 9em&quot;&gt;
+&lt;div style=&quot;float:left&quot;&gt;
+&lt;span style=&quot;font-size: 1.5em; color: #FFAE00; padding: 0 .1em 0 0; text-shadow: #3FB6FF 0 0 20px&quot;&gt;The&lt;/span&gt;&lt;/div&gt;
+&lt;div style=&quot;float:left; margin-top: -.45em&quot;&gt;
+[[File:Wikipedia-logo-white.svg|130px|link=WP:TWA]]&lt;/div&gt;
+&lt;div style=&quot;float:left&quot;&gt;
+&lt;span style=&quot;font-size: 1.5em; color: #FFAE00; padding: 0 0 2em .25em; text-shadow: #3FB6FF 0 0 20px&quot;&gt;Adventure&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+{{clear}}
+
+{| style=&quot;margin: 1em; font-family: helvetica, arial, sans serif;&quot;
+|- valign=&quot;top&quot;
+| [[File:TWA guide.svg|100px|alt=The Wikipedia Adventure guide|link=w:en:Wikipedia:The Wikipedia Adventure]]
+| &lt;div style=&quot;background-color:#ffffff; color: #393D38; padding: 1em;border-radius:10px; font-size: 1.1em;&quot;&gt;
+Hi '''Benjit89'''!! You're invited:  learn how to edit Wikipedia in under an hour.  I hope to see you there! {{noping|Ocaasi}}
+&lt;div class=&quot;submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only&quot; role=&quot;button&quot; aria-disabled=&quot;false&quot;&gt;&lt;span class=&quot;ui-button-text&quot;&gt;[[Wikipedia:The Wikipedia Adventure/Portal|Play The Wikipedia Adventure]]&lt;/span&gt;&lt;/div&gt;&lt;small&gt;&lt;span style=&quot;text-align:right;&quot;&gt;&lt;br /&gt;&lt;small&gt;This message was delivered by [[User:HostBot|HostBot]] ([[User talk:HostBot|talk]]) 17:30, 28 July 2015 (UTC)&lt;/small&gt;&lt;/small&gt;&lt;/span&gt;
+&lt;/div&gt; 
+|}
+&lt;/div&gt;
+	</talkpage>
+</article>

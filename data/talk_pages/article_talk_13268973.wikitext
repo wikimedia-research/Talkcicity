@@ -1,0 +1,5 @@
+<article id="13268973" title=Talk:USS Indiana (BB-50)>
+	<talkpage id="13268973" title="Talk:USS Indiana (BB-50)">
+{{WikiProject Ships|class=redirect}}
+	</talkpage>
+</article>

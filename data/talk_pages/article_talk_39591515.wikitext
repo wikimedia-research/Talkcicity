@@ -1,0 +1,68 @@
+<article id="39591515" title=User talk:Josiahbartlett99>
+	<talkpage id="39591515" title="User talk:Josiahbartlett99">
+== Welcome ==
+
+
+&lt;!-- This comes from the template {{subst:W-screen}} --&gt;
+&lt;div style=&quot;text-align: center; padding: 1em; border: solid 2px darkblue; background-color: darkblue; -moz-border-radius: 25px 25px 0 0; -webkit-border-radius: 25px 25px 0 0; border-radius: 25px 25px 0 0;&quot;&gt;
+&lt;span style=&quot;font-size:120%; color:white&quot;&gt;Hello Josiahbartlett99, and [[Wikipedia:Welcoming committee/Welcome to Wikipedia|&lt;span style=&quot;color:orange&quot;&gt;Welcome to Wikipedia!&lt;/span&gt;]]&lt;/span&gt;[[File:New-Bouncywikilogo.gif|50px]]&lt;/div&gt; 
+&lt;div style=&quot;align: left; padding: 1em; border: solid 2px darkblue; background-color: white; -moz-border-radius: 0 0 25px 25px; -webkit-border-radius: 0 0 25px 25px; border-radius: 0 0 25px 25px;&quot;&gt;
+'''''[[Wikipedia:Welcoming committee/Welcome to Wikipedia|Welcome to Wikipedia!]]''''' I hope you enjoy the encyclopedia and want to [[Wikipedia:Wikipedians|stay]]. As a first step, you may wish to read the [[Wikipedia:Introduction|Introduction]].
+
+If you have any questions, feel free to ask me at [[User talk:Oliverlyc|my talk page]] – I'm happy to help. Or, you can ask your question at the [[Wikipedia:New contributors' help page|New contributors' help page]].
+
+-------  
+Here are some more resources to help you as you explore and contribute to [[Wikipedia|the world's largest encyclopedia...]]
+
+&lt;big&gt; '''Finding your way around:''' &lt;/big&gt;
+{{col-begin}}
+{{col-2}}
+* '''[[Portal:Contents|Table of contents]]'''
+{{col-2}}
+* '''[[Wikipedia:Department directory|Department directory]]'''
+{{col-end}}
+
+&lt;big&gt; '''Need help?''' &lt;/big&gt;
+{{col-begin}}
+{{col-2}}
+* '''[[Wikipedia:Questions|Questions]]''' – a guide on where to ask questions
+* '''[[Wikipedia:Cheatsheet|Cheatsheet]]''' – quick reference on Wikipedia's mark-up codes
+* '''[[Wikipedia:Five pillars|Wikipedia's 5 pillars]]''' – an overview of Wikipedia's foundations
+{{col-2}}
+* '''[[Wikipedia:Article wizard|Article wizard]]''' – a Wizard to help you create articles
+* '''[[Wikipedia:Simplified ruleset|The simplified ruleset]]''' – a summary of Wikipedia's most important rules
+*'''[[Help:Wikipedia: The Missing Manual|Guide to Wikipedia]]''' – a thorough step-by-step guide to Wikipedia
+{{col-end}}
+
+&lt;big&gt; '''How you can help:''' &lt;/big&gt;
+{{col-begin}}
+{{col-2}}
+* '''[[Wikipedia:Contributing to Wikipedia|Contributing to Wikipedia]]''' – a guide on how you can help
+{{col-2}}
+* '''[[Wikipedia:Community portal|Community portal]]''' – Wikipedia's hub of activity
+{{col-end}}
+
+&lt;big&gt; '''Additional tips...''' &lt;/big&gt; 
+{{col-begin}}
+{{col-2}}
+* Please sign your messages on talk pages with four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;). This will automatically insert your &quot;signature&quot; (your username and a date stamp). The [[File:Button sig.png]] or [[File:Insert-signature.png]] button, on the tool bar above Wikipedia's text editing window, also does this. 
+{{col-2}}
+* If you would like to play around with your new Wiki skills the '''''[[Wikipedia:Sandbox|Sandbox]]''''' is for you. 
+{{col-end}}
+
+''Josiahbartlett99, '''good luck, and have fun.''''' – &lt;span style=&quot;border:2px solid #000;background:#000&quot;&gt;[[User:Oliverlyc|&lt;span style=&quot;color:#fff;&quot;&gt;Oliver&lt;/span&gt;]][[User Talk:Oliverlyc|&lt;span style=&quot;color:#0f0&quot;&gt;lyc&lt;/span&gt;]]&lt;/span&gt; 03:23, 6 June 2013 (UTC)&lt;/div&gt;
+
+== Josiahbartlett99, you are invited to the Teahouse ==
+
+
+{| style=&quot;margin: 2em 4em;&quot;
+|- valign=&quot;top&quot;
+| [[File:WP teahouse logo 2.png|alt=Teahouse logo|link=w:en:WP:Teahouse|File:WP teahouse logo 2.png by User:Heatherawalls, licensed under CC BY-SA 3.0]]
+| &lt;div style=&quot;background-color:#f4f3f0; color: #393D38; padding: 1em;border-radius:10px; font-size: 1.1em;&quot;&gt;
+Hi '''Josiahbartlett99'''! Thanks for contributing to Wikipedia. &lt;br /&gt;Be our guest at [[w:WP:teahouse|the Teahouse]]! The Teahouse is a friendly space where new editors can ask questions about contributing to Wikipedia and get help from peers and experienced editors. I hope to see you there! [[User_talk:Doctree|Doctree]] ([[w:en:WP:Teahouse/Hosts|I'm a Teahouse host]])
+&lt;div class=&quot;submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only&quot; role=&quot;button&quot; aria-disabled=&quot;false&quot;&gt;&lt;span class=&quot;ui-button-text&quot;&gt;[[WP:Teahouse|Visit the Teahouse]]&lt;/span&gt;&lt;/div&gt;&lt;small&gt;&lt;span style=&quot;text-align:right;&quot;&gt;This message was delivered automatically by your robot friend, [[User:HostBot|HostBot]] ([[User talk:HostBot|talk]]) 01:15, 7 June 2013 (UTC)&lt;/small&gt;&lt;/span&gt;
+&lt;/div&gt; 
+|}
+[[Category:Wikipedians who have received a Teahouse invitation]]&lt;!-- Template:Teahouse_HostBot_Invitation --&gt;
+	</talkpage>
+</article>

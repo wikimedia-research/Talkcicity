@@ -1,0 +1,14 @@
+<article id="6613975" title=Talk:Sana Saeed>
+	<talkpage id="6613975" title="Talk:Sana Saeed">
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|filmbio-work-group=yes
+|listas=Saeed, Sana
+}}
+{{WikiProject India
+|class=Stub
+|importance=low
+}}
+	</talkpage>
+</article>

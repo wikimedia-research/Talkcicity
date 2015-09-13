@@ -1,0 +1,10 @@
+<article id="28089017" title=User talk:86.171.101.52>
+	<talkpage id="28089017" title="User talk:86.171.101.52">
+
+== July 2010 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. One or more of the [[Wikipedia:External links|external links]] you added in &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/North_Rigton?diff=374386204 this edit]&lt;/span&gt; to the page [[:North Rigton]] do not comply with our [[Wikipedia:External links|guidelines for external links]] and have been removed. Wikipedia is [[Wikipedia:What Wikipedia is not#LINK|not a collection of links]]; nor should it be used for [[Wikipedia:Spam|advertising or promotion]]. You may wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-hugglespam1 --&gt; [[User:Excirial|&lt;font color=&quot;191970&quot;&gt;'''Excirial''']]&lt;/font&gt;&lt;sup&gt; ([[User talk:Excirial|&lt;font color=&quot;FF8C00&quot;&gt;Contact me&lt;/font&gt;]],[[Special:Contributions/Excirial|&lt;font color=&quot;FF8C00&quot;&gt;Contribs&lt;/font&gt;]])&lt;/sup&gt; 22:38, 19 July 2010 (UTC)
+
+[[Image:Information.svg|25px|]] Please do not add promotional material to Wikipedia, as you did to [[:North Rigton]]. While [[Wikipedia:Neutral point of view|objective prose]] about products or services ''is'' acceptable, Wikipedia is not intended to be [[Wikipedia:What Wikipedia is not#Wikipedia is not a soapbox|a vehicle for advertising or promotion]]. Thank you.[[Category:User talk pages with Uw-advert2 notices|{{PAGENAME}}]]&lt;!-- Template:Uw-advert2 --&gt; [[User:Tcncv|&lt;font style=&quot;color:maroon;&quot;&gt;'''''Tom&amp;nbsp;N'''''&lt;/font&gt;&amp;nbsp;(tcncv)]]&amp;nbsp;&lt;small&gt;[[User talk:Tcncv|talk]]/[[Special:Contributions/Tcncv|contrib]]&lt;/small&gt; 22:51, 19 July 2010 (UTC)
+	</talkpage>
+</article>

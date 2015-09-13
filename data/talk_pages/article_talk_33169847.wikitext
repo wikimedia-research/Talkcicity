@@ -1,0 +1,6 @@
+<article id="33169847" title=Talk:Kreuzfahrt ins Glück>
+	<talkpage id="33169847" title="Talk:Kreuzfahrt ins Glück">
+{{WikiProject Germany|class=Stub|importance=Low}}
+{{WikiProject Television|class=Stub|importance=}}
+	</talkpage>
+</article>

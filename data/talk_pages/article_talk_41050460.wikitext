@@ -1,0 +1,9 @@
+<article id="41050460" title=Talk:Terry Carbine>
+	<talkpage id="41050460" title="Talk:Terry Carbine">
+{{talkheader}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Firearms|class=Stub|importance=Low|needs-image=y}}
+{{WikiProject United States|class=Stub|importance=Low|image-needed=y}}
+}}
+	</talkpage>
+</article>

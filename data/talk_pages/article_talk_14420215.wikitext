@@ -1,0 +1,11 @@
+<article id="14420215" title=Talk:Harry Terry>
+	<talkpage id="14420215" title="Talk:Harry Terry">
+{{WikiProject Biography
+|living=no
+|class=stub
+|filmbio-work-group=yes
+|listas=Terry, Harry
+}}
+{{WikiProject England|class=stub|importance=low}}
+	</talkpage>
+</article>

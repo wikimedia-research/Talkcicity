@@ -1,0 +1,6 @@
+<article id="25673198" title=Talk:List of people executed in Texas, 1819–49>
+	<talkpage id="25673198" title="Talk:List of people executed in Texas, 1819–49">
+{{WikiProject Death|class=list|importance=low}}
+{{WikiProject United States|class=List|importance=low|TX=yes|TX-importance=low}}
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="18858716" title=Talk:Orłów Drewniany>
+	<talkpage id="18858716" title="Talk:Orłów Drewniany">
+{{WPCities|class=stub|importance=low}}
+{{WikiProject Poland|class=stub|importance=low}}
+	</talkpage>
+</article>

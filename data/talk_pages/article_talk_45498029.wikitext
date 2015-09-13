@@ -1,0 +1,11 @@
+<article id="45498029" title=Talk:Newman-Cotter House>
+	<talkpage id="45498029" title="Talk:Newman-Cotter House">
+== NRHP ==
+
+As far as I can tell, this property is not listed on the [[National Register of Historic Places]], it is a local landmark.  Please don't use the NRHP infobox, as it has several side effects - it adds categories, and adds tracking information to several [https://en.wikipedia.org/wiki/Wikipedia:WikiProject_National_Register_of_Historic_Places NRHP project] pages for things like missing or incorrect reference numbers. I deleted the infobox altogether as it now uses the wrong reference number.  An earlier edit showed how to use a different infobox to display the map and other data.
+
+If the topic of the article is the Newman-Cotter House, why are other properties also listed in such detail?  If the intent is to have a list of Perinton local landmarks, write that article and move those descriptions there.
+
+Reference for Ted Phillips is simply a description of the school, and not a cite that Phillips attended.  In general, there is a lot on un-referenced detail on the family, which while exemplary, may not pass Wikipedia's notability tests.  Consider reducing or removing the family history, especially if there is no references cited to back it up. [[User:Generic1139|Generic1139]] ([[User talk:Generic1139|talk]]) 23:02, 24 February 2015 (UTC)
+	</talkpage>
+</article>

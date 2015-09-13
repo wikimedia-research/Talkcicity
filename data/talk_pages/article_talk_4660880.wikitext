@@ -1,0 +1,23 @@
+<article id="4660880" title=Talk:Rolling Thunder 2>
+	<talkpage id="4660880" title="Talk:Rolling Thunder 2">
+{{album|class=Stub|auto=yes|importance=Low}}
+{{cvgproj|class=Stub|importance=Low}}
+
+== WikiProject class rating==
+This article was automatically assessed because at least one WikiProject had rated the article as stub, and the rating on other projects was brought up to Stub class. [[User:BetacommandBot|BetacommandBot]] 19:43, 28 August 2007 (UTC)
+
+==Fair use rationale for Image:Rolling Thunder 2 (USA).PNG==
+[[Image:Nuvola apps important.svg|70px|left]]
+'''[[:Image:Rolling Thunder 2 (USA).PNG]]''' is being used on this article. I notice the image page specifies that the image is being used under [[Wikipedia:Fair use|fair use]] but there is no [[Wikipedia:Fair use rationale guideline|explanation or rationale]] as to why its use in '''this''' Wikipedia article constitutes fair use. In addition to the [[Wikipedia:Image copyright tags/Fair use|boilerplate fair use template]], you must also write out on the image description page a specific explanation or rationale for why using this image in each article is consistent with [[WP:FU|fair use]].
+
+Please go to [[:Image:Rolling Thunder 2 (USA).PNG|the image description page]] and edit it to include a [[Wikipedia:Fair use rationale guideline |fair use rationale]]. Using one of the templates at [[Wikipedia:Fair use rationale guideline]] is an easy way to insure that your image is in compliance with Wikipedia policy, but remember that you must complete the template. Do not simply insert a blank template on an image page.
+
+If there is  other fair use media, consider checking that you have specified the fair use rationale on the other images used on this page.  Note that any fair use images uploaded after 4 May, 2006, and lacking such an explanation will be deleted one week after they have been uploaded, as described on [[Wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|Media copyright questions page]]. Thank you.&lt;!-- Template:Missing rationale2 --&gt;
+
+[[User:BetacommandBot|BetacommandBot]] ([[User talk:BetacommandBot|talk]]) 19:49, 26 November 2007 (UTC)
+
+== Screenshot of Gameplay ==
+
+How about a screenshot of RT2 Gameplay? [[User:Andy5421|Andy_Howard]] ([[User talk:Andy5421|talk]]) 08:08, 14 May 2011 (UTC)
+	</talkpage>
+</article>

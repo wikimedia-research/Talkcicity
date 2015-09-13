@@ -1,0 +1,5 @@
+<article id="45061293" title=Talk:Mike Joseph>
+	<talkpage id="45061293" title="Talk:Mike Joseph">
+{{WikiProject Biography|living=yes}}
+	</talkpage>
+</article>

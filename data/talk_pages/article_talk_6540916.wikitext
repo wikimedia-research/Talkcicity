@@ -1,0 +1,23 @@
+<article id="6540916" title=Talk:Rafael Hernández Colón>
+	<talkpage id="6540916" title="Talk:Rafael Hernández Colón">
+{{WikiProject Biography
+|living=yes
+|class=B
+|politician-work-group=yes
+|listas=Hernandez Colon, Rafael
+}}
+{{WikiProject Puerto Rico|class=B|importance=Mid}}
+
+==Pardon me==
+Pardon me if this has been addressed elsewhere, but can anyone explain why Hernandez Colon is recorded only as the 4th Governor of PR?  Shouldn't his two nonconsecutive election cycles count as two separate gubernatorial administrations, such as we see with Grover Cleveland's two separate presidential administrations (22 and 24)? Left this way, he remains the 4th governor even when serving after the 5th, Romero Barcelo. [[User:The Original Historygeek|The Original Historygeek]] ([[User talk:The Original Historygeek|talk]]) 09:39, 16 January 2009 (UTC)
+
+I went ahead and adjusted this to reflect the fact that Hernandez Colon led two separate gubernatorial administrations (4th and 6th).  I also adjusted all gubernatorial administrations following his second to reflect the correct numbering scheme.  Additionally, I changed the introductory text that claimed he had three nonconsecutive terms which is incorrect.  His second and third terms were most certainly consecutive. [[User:The Original Historygeek|The Original Historygeek]] ([[User talk:The Original Historygeek|talk]]) 20:56, 21 January 2009 (UTC)
+
+==Does anyone?==
+Does anyone oppose adding a sentence about where Hernandez Colon attended elementary and middle school? His official biography contains the information. I just figured it's a little bit of information on the guy that I can contribute to the project.&lt;ref&gt;http://www.rafaelhernandezcolon.org/PDF/BiografiaRHC.pdf&lt;/ref&gt;    [[User:CespiT|CespiT]] ([[User talk:CespiT|talk]]) 15:01, 9 September 2011 (UTC)
+: Yeah. That info is missing. His high school period should be added also. Regards. [[User:Mercy11|Mercy11]] ([[User talk:Mercy11|talk]]) 17:59, 12 September 2011 (UTC)
+
+==Edits by WikiSoldier86 seeking to specify &quot;U.S.&quot; after place of birth==
+This subject is under discussion at [https://en.wikipedia.org/wiki/Talk:Alejandro_Garc%C3%ADa_Padilla#Specifying_US_in_birthplace_field_by_Jbabylon91_.2F_WikiSoldier86]. Please go [https://en.wikipedia.org/wiki/Talk:Alejandro_Garc%C3%ADa_Padilla#Specifying_US_in_birthplace_field_by_Jbabylon91_.2F_WikiSoldier86 THERE] if you wish to join the discussion. [[User:Mercy11|Mercy11]] ([[User talk:Mercy11|talk]]) 15:11, 23 June 2014 (UTC)
+	</talkpage>
+</article>

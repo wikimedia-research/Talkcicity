@@ -1,0 +1,31 @@
+<article id="28328484" title=User talk:Partyinterested>
+	<talkpage id="28328484" title="User talk:Partyinterested">
+
+'''Welcome!'''
+
+Hello, Partyinterested, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for [[Special:Contributions/Partyinterested|your contributions]]. I hope you like the place and decide to stay. Unfortunately, one or more of the pages you created, such as [[James Billmaier]], may not conform to some of Wikipedia's [[Wikipedia:List of policies|guidelines]], and may soon be deleted. 
+{{Quote box
+ | quote  = You may also wish to consider using a Wizard to help you create articles. See the [[Wikipedia:Article wizard|Article Wizard]]. Thank you.
+ | source = 
+ | width  = 20%
+ | align  = right
+}}
+There's a page about creating articles you may want to read called '''[[Wikipedia:Your first article|Your first article]]'''. If you are stuck, and looking for help, please come to the '''[[Wikipedia:New contributors' help page|New contributors' help page]]''', where experienced Wikipedians can answer any queries you have! Or, you can just type '''{{t|helpme}}''' on this page, and someone will show up shortly to answer your questions. Here are a few other good links for newcomers:
+* [[Wikipedia:Starting an article|Starting an article]]
+* [[Wikipedia:Your first article|Your first article]]
+* [[Wikipedia:Biographies of living persons|Biographies of living persons]]
+* [[Wikipedia:How to write a great article|How to write a great article]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Tutorial|Tutorial]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you have any questions, check out [[Wikipedia:Questions]] or ask me on my talk page. &lt;!-- Template:First article --&gt; Again, welcome!&amp;nbsp;[[User:Christopher Connor|Christopher Connor]] ([[User talk:Christopher Connor|talk]]) 04:42, 11 August 2010 (UTC)
+
+==[[Wikipedia:Criteria for speedy deletion|Speedy deletion]] nomination of [[:James Billmaier]]==
+[[Image:Ambox warning_pn.svg|48px|left]] A tag has been placed on [[:James Billmaier]], requesting that it be speedily deleted from Wikipedia. This has been done under [[WP:CSD#G4|section G4 of the criteria for speedy deletion]], because the article appears to be a repost of material that was previously deleted following a [[Wikipedia:Deletion debates|deletion debate]], {{#if:|at [[{{{2}}}]]|such as at [[Wikipedia:Articles for deletion|articles for deletion]]}}. Under the specified criteria, where an article has substantially identical content to that of an article deleted after debate, and any changes in the content do not address the reasons for which the material was previously deleted, it may be deleted at any time. 
+
+If you think that this notice was placed here in error, you may contest the deletion by adding &lt;code&gt;{{tl|hangon}}&lt;/code&gt; to '''the top of [[:James Billmaier|the page that has been nominated for deletion]]''' (just below the existing speedy deletion or &quot;db&quot; tag - if no such tag exists then the page is no longer a speedy delete candidate and adding a hangon tag is unnecessary), coupled with adding a note on '''[[Talk:James Billmaier|the talk page]]''' explaining your position, but be aware that once tagged for ''speedy'' deletion, if the page meets the criterion, it may be deleted without delay. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the page that would render it more in conformance with Wikipedia's policies and guidelines. Lastly, please note that if the page does get deleted, you can contact [[:Category:Wikipedia administrators who will provide copies of deleted articles|one of these admins]] to request that they  [[Wikipedia:Userfication#Userfication_of_deleted_content|userfy]] the page or have a copy emailed to you. &lt;!-- Template:Db-repost-notice --&gt; &lt;!-- Template:Db-csd-notice-custom --&gt; [[User:Christopher Connor|Christopher Connor]] ([[User talk:Christopher Connor|talk]]) 04:42, 11 August 2010 (UTC)
+
+== Possibly unfree File:Jon Van Caneghem.jpeg ==
+A file that you uploaded or altered, [[:File:Jon Van Caneghem.jpeg]], has been listed at [[Wikipedia:Possibly unfree files]] because its copyright status is unclear or disputed. If the file's copyright status cannot be verified, it may be deleted. You may find more information on the [[:File:Jon Van Caneghem.jpeg|file description page]]. You are welcome to add comments to its entry at [[Wikipedia:Possibly unfree files/2010 August 25#File:Jon Van Caneghem.jpeg|the discussion]] if you are interested in it not being deleted. Thank you. &lt;!-- Template:Fdw-puf --&gt; --[[User:MGA73|MGA73]] ([[User talk:MGA73|talk]]) 19:31, 25 August 2010 (UTC)
+	</talkpage>
+</article>

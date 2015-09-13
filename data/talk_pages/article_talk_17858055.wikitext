@@ -1,0 +1,7 @@
+<article id="17858055" title=User talk:71.96.216.51>
+	<talkpage id="17858055" title="User talk:71.96.216.51">
+== June 2008 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Robotech?diff=218199914 recent edit]&lt;/span&gt; you made to [[:Robotech]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thanks. &lt;!-- Template:uw-huggle1 --&gt; [[User:Rror|Rror]] ([[User talk:Rror|talk]]) 16:32, 9 June 2008 (UTC)
+	</talkpage>
+</article>

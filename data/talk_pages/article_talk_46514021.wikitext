@@ -1,0 +1,9 @@
+<article id="46514021" title=User talk:Lanie1992>
+	<talkpage id="46514021" title="User talk:Lanie1992">
+
+==License tagging for File:Cityofdrawers.jpg==
+Thanks for uploading [[:File:Cityofdrawers.jpg]].  You don't seem to have indicated the license status of the image.  Wikipedia uses a set of [[Wikipedia:Image copyright tags|image copyright tags]] to indicate this information. 
+
+To add a tag to the image, select the appropriate tag from [[Wikipedia:Image copyright tags/All|this list]], click on [[:File:Cityofdrawers.jpg|this link]], then click &quot;Edit this page&quot; and add the tag to the image's description.  If there doesn't seem to be a suitable tag, the image is probably not appropriate for use on Wikipedia. For help in choosing the correct tag, or for any other questions, leave a message on [[Wikipedia:Media copyright questions]].  Thank you for your cooperation.&lt;!-- User:OrphanBot/untagged-new --&gt; --[[User:ImageTaggingBot|ImageTaggingBot]] ([[User talk:ImageTaggingBot|talk]]) 04:05, 25 April 2015 (UTC)
+	</talkpage>
+</article>

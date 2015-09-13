@@ -1,0 +1,6 @@
+<article id="40532000" title=Talk:X5 Music Group>
+	<talkpage id="40532000" title="Talk:X5 Music Group">
+{{WikiProject Sweden|class=start|importance=low}}
+{{WikiProject Record Labels|class=start|importance=}}
+	</talkpage>
+</article>

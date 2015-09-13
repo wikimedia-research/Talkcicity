@@ -1,0 +1,22 @@
+<article id="8297845" title=Talk:Jamie Spencer>
+	<talkpage id="8297845" title="Talk:Jamie Spencer">
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|auto=yes
+|sports-work-group=yes
+|listas=Spencer, Jamie
+}}
+{{WikiProject Thoroughbred racing|class= Start|importance=low}}
+
+
+==Untitled==
+Obviously I would appreciate any help with this article. I only know a limited amount. Thanks --[[User:Wikipediatastic|Wikipediatastic]] 14:53, 6 December 2006 (UTC)
+== To the IP editor who keeps blanking sections of this article ==
+I'm addressing you here since you appear to have a dynamic IP and it looks like you're not getting the messages left on the IP talk pages:
+
+It seems that you might be the subject of one of our articles and are displeased with some of the contents.  See [[Wikipedia:Contact us/Article problem/Factual error (from subject)]] for a general overview of ways to get problems fixed (as well as an email address).  You can also mention specific problems on [[Talk: Jamie Spencer]] (this page) if you want specific mistakes corrected. 
+
+The email address is info-en-q@wikimedia.org. The first thing you might be asked to do is to privately establish your identity.  [[User:Toddst1|Toddst1]] &lt;small&gt;([[User talk: Toddst1|talk]])&lt;/small&gt; 16:50, 12 November 2012 (UTC)
+	</talkpage>
+</article>

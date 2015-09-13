@@ -1,0 +1,5 @@
+<article id="12889590" title=Talk:Ixora foliosa>
+	<talkpage id="12889590" title="Talk:Ixora foliosa">
+{{WikiProject Plants|class=Stub|needs-photo=yes}}
+	</talkpage>
+</article>

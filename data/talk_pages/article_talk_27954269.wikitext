@@ -1,0 +1,7 @@
+<article id="27954269" title=User talk:122.168.231.215>
+	<talkpage id="27954269" title="User talk:122.168.231.215">
+== July 2010 ==
+[[File:Information.svg|25px|alt=]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of [[Special:Contributions/122.168.231.215|your recent edits]] did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; &lt;font color=&quot;Grey&quot; face=&quot;comic sans ms&quot;&gt;[[User:Reconsider the static|Reconsider]]&lt;/font&gt;&lt;font color=&quot;black&quot; face=&quot;comic sans ms&quot;&gt;[[User talk:Reconsider the static|!]]&lt;/font&gt; 10:16, 6 July 2010 (UTC)
+:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
+	</talkpage>
+</article>

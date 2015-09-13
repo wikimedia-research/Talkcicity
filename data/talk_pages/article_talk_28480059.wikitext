@@ -1,0 +1,7 @@
+<article id="28480059" title=Talk:Frances Lincoln Publishers>
+	<talkpage id="28480059" title="Talk:Frances Lincoln Publishers">
+{{WikiProject Companies|class=stub|importance=|auto=yes}}
+{{WikiProject Literature|class=stub|importance=}} 
+{{WikiProject Children's literature|class=Stub |importance=Low }}
+	</talkpage>
+</article>

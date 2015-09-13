@@ -1,0 +1,10 @@
+<article id="28079121" title=Talk:Umberto Tachinardi>
+	<talkpage id="28079121" title="Talk:Umberto Tachinardi">
+{{WikiProject Biography
+|living=yes
+|class=stub
+|listas=Tachinardi, Umberto
+}}
+{{WikiProject Chicago|class=stub|importance=}}
+	</talkpage>
+</article>

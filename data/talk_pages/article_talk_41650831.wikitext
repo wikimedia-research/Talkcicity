@@ -1,0 +1,6 @@
+<article id="5744525" title=Talk:List of Washington, D.C., railroads>
+	<talkpage id="5744525" title="Talk:List of Washington, D.C., railroads">
+{{WikiProject United States|class=list|importance=low|DC=Yes|DC-importance=low}}
+{{WikiProject Trains|class=list|importance=low}}
+	</talkpage>
+</article>

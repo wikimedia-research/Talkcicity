@@ -1,0 +1,14 @@
+<article id="22297498" title=User talk:68.118.185.70>
+	<talkpage id="22297498" title="User talk:68.118.185.70">
+==Welcome==
+Hello, '''68.118.185.70''', and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia. Thank you for [[Special:Contributions/68.118.185.70|your contributions]]. I hope you like the place and decide to stay. If you are stuck, and looking for help, please come to the '''[[Wikipedia:New contributors' help page|New contributors' help page]]''', where experienced Wikipedians can answer any queries you have! Or, you can just type '''&lt;code&gt;&lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt;&lt;/code&gt;''' and your question on this page, and someone will show up shortly to answer. Here are a few good links for newcomers: 
+*[[Wikipedia:Five pillars|The Five Pillars of Wikipedia]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Wikipedia:Tutorial|Editing tutorial]]
+*[[Wikipedia:Picture tutorial|Picture tutorial]]
+*[[Wikipedia:How to write a great article|How to write a great article]]
+*[[Wikipedia:Naming conventions|Naming conventions]]
+*[[Wikipedia:Manual of Style|Manual of Style]] 
+We hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! By the way, you can sign your name on talk and vote pages using four tildes, like this: &amp;#126;&amp;#126;&amp;#126;&amp;#126;. If you have any questions, see the [[Wikipedia:Help|help pages]], add a question to the [[Wikipedia:village pump|village pump]] or ask me on my talk page. Again, welcome! --[[User:A Nobody|A Nobody]]&lt;sup&gt;''[[User talk:A Nobody|My talk]]''&lt;/sup&gt; 03:32, 6 April 2009 (UTC)
+	</talkpage>
+</article>

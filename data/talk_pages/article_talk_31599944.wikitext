@@ -1,0 +1,11 @@
+<article id="31599944" title=Talk:Plantscape Inc.>
+	<talkpage id="31599944" title="Talk:Plantscape Inc.">
+{{WikiProject Minnesota|class=start|importance=low}}
+{{WikiProject Companies| class=start| importance=low}}
+{{Old prod full
+| nomreason= promotional article with no significan claim of notability
+| con=       Ravikrishnani
+| conreason= Added reference and external links. Removed uncited data
+}}
+	</talkpage>
+</article>

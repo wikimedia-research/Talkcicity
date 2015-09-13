@@ -1,0 +1,10 @@
+<article id="26768257" title=Talk:Society of Antiquaries of Scotland>
+	<talkpage id="26768257" title="Talk:Society of Antiquaries of Scotland">
+{{WikiProjectBannerShell|1=
+{{WikiProject Scotland|class=start|importance=high}}
+{{WikiProject Archaeology|class=Start|importance=Mid}}
+{{WikiProject History|class=Start|importance=Mid}}
+{{WikiProject Libraries|class=Start|importance=Low}}
+}}
+	</talkpage>
+</article>

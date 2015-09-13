@@ -1,0 +1,7 @@
+<article id="44126251" title=Talk:Kericho Gold>
+	<talkpage id="44126251" title="Talk:Kericho Gold">
+{{old AfD multi
+ |date1 = December 11 2013 |result1 = '''delete''' |page1 = Kericho gold
+}}
+	</talkpage>
+</article>

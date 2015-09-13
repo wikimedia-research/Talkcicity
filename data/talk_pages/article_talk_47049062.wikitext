@@ -1,0 +1,6 @@
+<article id="47049062" title=Talk:Tatyana Vasilyeva>
+	<talkpage id="47049062" title="Talk:Tatyana Vasilyeva">
+{{Old AfD multi | date = 31 August 2015 | result = '''keep''' | page = Tatyana Vasilyeva}}
+{{WikiProject Biography|living=yes}}
+	</talkpage>
+</article>

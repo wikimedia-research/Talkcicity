@@ -1,0 +1,12 @@
+<article id="32840916" title=Talk:Ernest Alexander Payne>
+	<talkpage id="32840916" title="Talk:Ernest Alexander Payne">
+{{WPBiography
+|living=no
+|class=Stub
+|listas=Payne, Ernest Alexander
+|s&amp;a-priority=Low
+|s&amp;a-work-group=yes
+}}
+{{WikiProject Christianity|class=Stub|importance=Low|baptist-work-group=yes}}
+	</talkpage>
+</article>

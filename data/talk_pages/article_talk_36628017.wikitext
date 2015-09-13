@@ -1,0 +1,12 @@
+<article id="36628017" title=User talk:Scoobie123456>
+	<talkpage id="36628017" title="User talk:Scoobie123456">
+
+
+==[[Wikipedia:Criteria for speedy deletion|Speedy deletion]] nomination of [[:Cow alien invasion]]==
+[[Image:Ambox warning pn.svg|48px|left|alt=|link=]]
+
+Hello, and welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, introducing inappropriate pages, such as [[:Cow alien invasion]], is not in accordance with our [[Wikipedia:List of policies|policies]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. 
+
+If you think that the page was nominated in error, contest the nomination by clicking on the button labelled &quot;Click here to contest this speedy deletion&quot; in the speedy deletion tag. Doing so will take you to the talk page where you can explain why you believe the page should not be deleted. You can also visit '''[[Talk:Cow alien invasion|the page's talk page directly]]''' to give your reasons, but be aware that once a page is tagged for speedy deletion, it may be removed without delay. Please do not remove the speedy deletion tag yourself, but do not hesitate to add information that is consistent with [[Wikipedia:List of policies|Wikipedia's policies and guidelines]]. If the page is deleted, you can contact [[:Category:Wikipedia administrators who will provide copies of deleted articles|one of these administrators]] to request that the administrator [[Wikipedia:Userfication#Userfication of deleted content|userfy]] the page or email a copy to you. &lt;!-- Template:Db-vandalism-notice --&gt;&lt;!-- Template:Db-csd-notice-custom --&gt; &lt;span style=&quot;border: 1px solid red;&quot;&gt;[[User_talk:BarkingFish|&lt;font style=&quot;background:white;&quot; color=&quot;purple&quot;&gt;&amp;nbsp;'''BarkingFish'''&amp;nbsp;&lt;/font&gt;]]&lt;/span&gt; 01:32, 4 August 2012 (UTC)
+	</talkpage>
+</article>

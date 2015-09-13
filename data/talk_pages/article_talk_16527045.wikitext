@@ -1,0 +1,6 @@
+<article id="16182001" title=Talk:Thomas Foley, 2nd Baron Foley (1742–1793)>
+	<talkpage id="16182001" title="Talk:Thomas Foley, 2nd Baron Foley (1742–1793)">
+{{WikiProject Politics of the United Kingdom|class=Stub|importance=|auto=yes}}
+{{WikiProject Biography|living=no|class=Stub|peerage-work-group=yes|listas=Foley, Thomas Foley, 2nd Baron}}
+	</talkpage>
+</article>

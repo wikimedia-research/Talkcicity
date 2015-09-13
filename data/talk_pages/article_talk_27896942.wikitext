@@ -1,0 +1,27 @@
+<article id="27896942" title=User talk:Candleflicker>
+	<talkpage id="27896942" title="User talk:Candleflicker">
+
+'''Welcome!'''
+
+Hello, Candleflicker, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! Thank you for [[Special:Contributions/Candleflicker|your contributions]]. I hope you like the place and decide to stay. Unfortunately, one or more of the pages you created, such as [[MOTHS]], may not conform to some of Wikipedia's [[Wikipedia:List of policies|guidelines]] for page creation, and may soon be deleted. 
+{{Quote box
+ | quote  = You may also wish to consider using a Wizard to help you create articles. See the [[Wikipedia:Article wizard|Article Wizard]]. Thank you.
+ | source = 
+ | width  = 20%
+ | align  = right
+}}
+There's a page about creating articles you may want to read called '''[[Wikipedia:Your first article|Your first article]]'''. If you are stuck, and looking for help, please come to the '''[[Wikipedia:New contributors' help page|New contributors' help page]]''', where experienced Wikipedians can answer any queries you have! Or, you can just type '''{{t|helpme}}''' on this page, and someone will show up shortly to answer your questions. Here are a few other good links for newcomers:
+* [[Wikipedia:Your first article|Your first article]]
+* [[Wikipedia:BLP|Biographies of living persons]]
+* [[Wikipedia:How to write a great article|How to write a great article]]
+* [[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+* [[Help:Contents|Help pages]]
+* [[Wikipedia:Tutorial|Tutorial]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you have any questions, check out [[Wikipedia:Where to ask a question]] or ask me on my talk page. &lt;!-- Template:First article --&gt; Again, welcome!&amp;nbsp;[[User:Zelse81|Zelse81]] ([[User talk:Zelse81|talk]]) 08:21, 30 June 2010 (UTC)
+
+==[[Wikipedia:Criteria for speedy deletion|Speedy deletion]] nomination of [[:MOTHS]]==
+[[Image:Ambox warning_pn.svg|48px|left]] A tag has been placed on [[:MOTHS]] requesting that it be speedily deleted from Wikipedia. This has been done under [[WP:CSD#A7|section A7 of the criteria for speedy deletion]], because the article appears to be about an organization or company, but it does not indicate how or why the subject is important or significant: that is, why an article about that subject should be included in an encyclopedia. Under the [[WP:CSD#Articles|criteria for speedy deletion]], such articles may be deleted at any time. Please [[Wikipedia:Notability|see the guidelines for what is generally accepted as notable]], as well as our subject-specific [[Wikipedia:Notability (organizations and companies)|notability guideline for organizations and companies]]. You may also wish to consider using a Wizard to help you create articles - see the [[Wikipedia:Article wizard2.0|Article Wizard]]. 
+
+If you think that this notice was placed here in error, you may contest the deletion by adding &lt;code&gt;{{tl|hangon}}&lt;/code&gt; to '''the top of [[:MOTHS|the page that has been nominated for deletion]]''' (just below the existing speedy deletion or &quot;db&quot; tag - if no such tag exists then the page is no longer a speedy delete candidate and adding a hangon tag is unnecessary), coupled with adding a note on '''[[Talk:MOTHS|the talk page]]''' explaining your position, but be aware that once tagged for ''speedy'' deletion, if the page meets the criterion, it may be deleted without delay. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the page that would render it more in conformance with Wikipedia's policies and guidelines. Lastly, please note that if the page does get deleted, you can contact [[:Category:Wikipedia administrators who will provide copies of deleted articles|one of these admins]] to request that they  [[Wikipedia:Userfication#Userfication_of_deleted_content|userfy]] the page or have a copy emailed to you. &lt;!-- Template:Db-inc-notice --&gt; &lt;!-- Template:Db-csd-notice-custom --&gt; [[User:Zelse81|Zelse81]] ([[User talk:Zelse81|talk]]) 08:21, 30 June 2010 (UTC)
+	</talkpage>
+</article>

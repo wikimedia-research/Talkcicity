@@ -1,0 +1,6 @@
+<article id="24856882" title=User talk:143.238.95.161>
+	<talkpage id="24856882" title="User talk:143.238.95.161">
+
+[[File:Information.svg|25px]] Welcome and thank you for experimenting with Wikipedia. Your test {{#if:Blue-ringed octopus|on the page [[:Blue-ringed octopus]]}} worked, and it has been [[Help:Reverting|reverted]] or removed. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|this encyclopedia]]. If you would like to experiment further, please use the [[Wikipedia:Sandbox|sandbox]] instead. Thank you.&lt;!-- Template:uw-test1 --&gt; [[User:Diagonalfish|Diagonalfish]] ([[User talk:Diagonalfish|talk]]) 04:45, 27 October 2009 (UTC)
+	</talkpage>
+</article>

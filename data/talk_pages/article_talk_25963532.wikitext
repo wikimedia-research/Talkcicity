@@ -1,0 +1,7 @@
+<article id="25963532" title=User talk:166.122.70.83>
+	<talkpage id="25963532" title="User talk:166.122.70.83">
+== January 2010 ==
+
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of your recent edits{{#if:Creativity|, such as the one you made to [[:Creativity]],}} did not appear to be constructive and has been reverted. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; -- &lt;span style=&quot;font-family:serif&quot;&gt;[[User:Why Not A Duck|Why Not A Duck]]&lt;/span&gt; 02:22, 27 January 2010 (UTC)
+	</talkpage>
+</article>

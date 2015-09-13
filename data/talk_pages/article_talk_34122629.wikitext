@@ -1,0 +1,132 @@
+<article id="34122629" title=User talk:Chris G/Archives/2011/December>
+	<talkpage id="34122629" title="User talk:Chris G/Archives/2011/December">
+{{Talkarchive}}
+
+==Please comment on [[Wikipedia:Village pump (proposals)#rfc_8C6831A|Wikipedia:Village pump (proposals)]]==
+{{Quote box|title = Responding to RFCs|width     = 35%|quote=&lt;p&gt;Remember that RFCs are part of [[WP:DR|Dispute Resolution]] and at times may take place in a heated environment. Please take a look at the relevant RFC page before responding and be sure that you are willing and able to enter that environment and contribute to making the discussion a calm and productive one focussed on the content issue at hand. See also [[Wikipedia:Requests for comment#Suggestions for responding]].&lt;/p&gt;}}
+Greetings! You have been randomly selected to receive an invitation to participate in the [[Wikipedia:Request for comment|request for comment]] on '''[[Wikipedia:Village pump (proposals)#rfc_8C6831A|Wikipedia:Village pump (proposals)]]'''. Should you wish to respond to the invitation, your contribution to this discussion will be very much appreciated! However, please note that your input will carry no greater weight than anyone else's: remember that an RFC aims to reach a reasoned [[WP:CONSENSUS|consensus]] position, and is [[WP:NOTAVOTE|not a vote]]. In support of that, your contribution should focus on thoughtful evaluation of the issues and available evidence, and provide further relevant evidence if possible.
+
+''You have received this notice because your name is on [[Wikipedia:Feedback request service]]. If you do not wish to receive these types of notices, please remove your name from that page.'' &lt;!-- Template:FRS message --&gt; [[User:RFC&amp;#32;bot|RFC&amp;#32;bot]] ([[User talk:RFC&amp;#32;bot|talk]]) 09:15, 4 December 2011 (UTC)
+
+== All RfCs removed from the request boards ==
+
+The bot has removed all the RfCs from the request boards. ([http://en.wikipedia.org/w/index.php?title=Wikipedia:Requests_for_comment/Biographies&amp;diff=463950701&amp;oldid=463670003] [http://en.wikipedia.org/w/index.php?title=Wikipedia:Requests_for_comment/Economy,_trade,_and_companies&amp;diff=463950715&amp;oldid=463846790]). I suspect a malfuction. [[User:PaoloNapolitano|&lt;font color=&quot;red&quot;&gt;Paolo&lt;/font&gt;]][[User talk:PaoloNapolitano|&lt;font color=&quot;blue&quot;&gt;Napolitano&lt;/font&gt;]] 16:08, 4 December 2011 (UTC)
+:Thank you for notifying me about that. It should now be fixed. --[[User_talk:Chris G|&lt;span style=&quot;color:Green; font-weight: bold;&quot;&gt;Chris&lt;/span&gt;]] 16:16, 4 December 2011 (UTC)
+::The problem still hasn't been fixed and you might want to have a say [[Wikipedia:Administrators' noticeboard/Incidents#RfC bot malfunction]]. [[User:PaoloNapolitano|&lt;font color=&quot;red&quot;&gt;Paolo&lt;/font&gt;]][[User talk:PaoloNapolitano|&lt;font color=&quot;blue&quot;&gt;Napolitano&lt;/font&gt;]] 17:55, 5 December 2011 (UTC)
+
+Just so you know, I have blocked [[User:RFC bot]] for malfunction. Feel free to revert. '''[[User:Malinaccier|&lt;span style=&quot;color:#003153&quot;&gt;Malinaccier&lt;/span&gt;]] ([[User talk:Malinaccier|&lt;span style=&quot;color:#003153&quot;&gt;talk&lt;/span&gt;]])''' 18:01, 5 December 2011 (UTC)
+
+== RFC bot adaptation ==
+
+Hi Chris! I was thinking of creating a bot to generate noticeboard summaries similiar to WP:DASHBOARD, but for the talk pages in this template {{tl|Christianity-related talkpages}}. I have experience in Visual Basic. Do you think it would be difficult? Thanks! &amp;ndash; [[user:Lionelt|Lionel]] &lt;sup&gt;([[user talk:Lionelt|talk]])&lt;/sup&gt; 11:59, 6 December 2011 (UTC)
+
+== ''The Signpost'': 05 December 2011 ==
+
+&lt;div style=&quot;-moz-column-count:2; -webkit-column-count:2; column-count:2;&quot;&gt;
+{{Wikipedia:Wikipedia Signpost/2011-12-05}}
+&lt;/div&gt;&lt;!--Volume 7, Issue 49--&gt;
+&lt;div class=&quot;hlist&quot; style=&quot;margin-top:10px; font-size:90%; padding-left:5px; font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;&quot;&gt;
+* '''[[Wikipedia:Wikipedia Signpost|Read this Signpost in full]]'''
+* [[Wikipedia:Signpost/Single|Single-page]]
+* [[Wikipedia:Wikipedia Signpost/Subscribe|Unsubscribe]]
+* [[User:EdwardsBot|EdwardsBot]] ([[User talk:EdwardsBot|talk]]) 18:18, 6 December 2011 (UTC)
+&lt;/div&gt;
+&lt;!-- EdwardsBot 0208 --&gt;
+
+== [[Wikipedia:Bots/Requests for approval/Fbot 10]] ==
+
+Hi Chris, hope you're well.  I'm going to make a separate bot account to edit the fully protected [[User:Fbot/Replace]].  I'll file a new BRFA for it. If it's not too much trouble, and when you have time, could you remove the statement about having [[User:Fbot]] flagged as an admin?  Thanks, '''[[User:Fastily|&lt;span style='font-family: &quot;Trebuchet MS&quot;; color:#4B0082'&gt;&lt;big&gt;F&lt;/big&gt;&lt;small&gt;ASTILY&lt;/small&gt;&lt;/span&gt;]]''' &lt;sup&gt;&lt;small&gt;[[User talk:Fastily|&lt;span style = 'color:#4B0082'&gt;(TALK)&lt;/span&gt;]]&lt;/small&gt;&lt;/sup&gt; 23:44, 6 December 2011 (UTC)
+:I've filed the new BRFA [[Wikipedia:Bots/Requests for approval/Fbot10|here]], if you're interested.  Best, '''[[User:Fastily|&lt;span style='font-family: &quot;Trebuchet MS&quot;; color:#4B0082'&gt;&lt;big&gt;F&lt;/big&gt;&lt;small&gt;ASTILY&lt;/small&gt;&lt;/span&gt;]]''' &lt;sup&gt;&lt;small&gt;[[User talk:Fastily|&lt;span style = 'color:#4B0082'&gt;(TALK)&lt;/span&gt;]]&lt;/small&gt;&lt;/sup&gt; 23:52, 6 December 2011 (UTC)
+
+==Please comment on [[Wikipedia:Village pump (proposals)#rfc_A5EAFF9|Wikipedia:Village pump (proposals)]]==
+{{Quote box|title = Responding to RFCs|width     = 35%|quote=&lt;p&gt;Remember that RFCs are part of [[WP:DR|Dispute Resolution]] and at times may take place in a heated environment. Please take a look at the relevant RFC page before responding and be sure that you are willing and able to enter that environment and contribute to making the discussion a calm and productive one focussed on the content issue at hand. See also [[Wikipedia:Requests for comment#Suggestions for responding]].&lt;/p&gt;}}
+Greetings! You have been randomly selected to receive an invitation to participate in the [[Wikipedia:Request for comment|request for comment]] on '''[[Wikipedia:Village pump (proposals)#rfc_A5EAFF9|Wikipedia:Village pump (proposals)]]'''. Should you wish to respond to the invitation, your contribution to this discussion will be very much appreciated! However, please note that your input will carry no greater weight than anyone else's: remember that an RFC aims to reach a reasoned [[WP:CONSENSUS|consensus]] position, and is [[WP:NOTAVOTE|not a vote]]. In support of that, your contribution should focus on thoughtful evaluation of the issues and available evidence, and provide further relevant evidence if possible.
+
+''You have received this notice because your name is on [[Wikipedia:Feedback request service]]. If you do not wish to receive these types of notices, please remove your name from that page.'' &lt;!-- Template:FRS message --&gt; [[User:RFC&amp;#32;bot|RFC&amp;#32;bot]] ([[User talk:RFC&amp;#32;bot|talk]]) 10:15, 7 December 2011 (UTC)
+
+== uncivil ==
+
+[[User_talk:AndyTheGrump#Only_Warning]]
+
+editor continues his uncivil behaviour here:
+
+[http://en.wikipedia.org/w/index.php?title=Talk%3ACETI_Patterson_Power_Cell&amp;action=historysubmit&amp;diff=464793152&amp;oldid=464790166]
+
+The targetted editor got herself blocked indefinitely [http://en.wikipedia.org/w/index.php?title=Special:Log/block&amp;page=User%3AAnnaBennett] for personal attacks and harassment.
+
+Andy wins ...
+
+--[[User:POVbrigand|POVbrigand]] ([[User talk:POVbrigand|talk]]) 21:27, 8 December 2011 (UTC)
+
+==Please comment on [[Talk:KDAV#rfc_A557116|Talk:KDAV]]==
+{{Quote box|title = Responding to RFCs|width     = 35%|quote=&lt;p&gt;Remember that RFCs are part of [[WP:DR|Dispute Resolution]] and at times may take place in a heated environment. Please take a look at the relevant RFC page before responding and be sure that you are willing and able to enter that environment and contribute to making the discussion a calm and productive one focussed on the content issue at hand. See also [[Wikipedia:Requests for comment#Suggestions for responding]].&lt;/p&gt;}}
+Greetings! You have been randomly selected to receive an invitation to participate in the [[Wikipedia:Request for comment|request for comment]] on '''[[Talk:KDAV#rfc_A557116|Talk:KDAV]]'''. Should you wish to respond to the invitation, your contribution to this discussion will be very much appreciated! However, please note that your input will carry no greater weight than anyone else's: remember that an RFC aims to reach a reasoned [[WP:CONSENSUS|consensus]] position, and is [[WP:NOTAVOTE|not a vote]]. In support of that, your contribution should focus on thoughtful evaluation of the issues and available evidence, and provide further relevant evidence if possible.
+
+''You have received this notice because your name is on [[Wikipedia:Feedback request service]]. If you do not wish to receive these types of notices, please remove your name from that page.'' &lt;!-- Template:FRS message --&gt; [[User:RFC&amp;#32;bot|RFC&amp;#32;bot]] ([[User talk:RFC&amp;#32;bot|talk]]) 10:18, 10 December 2011 (UTC)
+
+==Red link at Wikipedia:Dashboard/Requests for comment==
+
+It appears that {{User|RFC bot}} is maintaining a red link as of [//en.wikipedia.org/w/index.php?title=Wikipedia:Dashboard/Requests_for_comment&amp;oldid=465131451 this] revision of [[Wikipedia:Dashboard/Requests for comment]]. I hope you can fix this soon. – [[User:Allen4names|Allen]]4[[User talk:Allen4names|names]] 16:00, 10 December 2011 (UTC)
+:[https://en.wikipedia.org/w/index.php?title=Wikipedia%3ADashboard%2FRequests_for_comment&amp;action=historysubmit&amp;diff=465149759&amp;oldid=465146283 fixed]. --[[User_talk:Chris G|&lt;span style=&quot;color:Green; font-weight: bold;&quot;&gt;Chris&lt;/span&gt;]] 17:59, 10 December 2011 (UTC)
+::Thank you. – [[User:Allen4names|Allen]]4[[User talk:Allen4names|names]] 20:52, 11 December 2011 (UTC)
+
+==Minor error by GA bot==
+
+Not sure what the cause would be, but GAbot just threw the GAN of a dating game under &quot;Sports and Recreation&quot;. Might want to look into that. [http://en.wikipedia.org/w/index.php?title=Wikipedia%3AGood_article_nominations&amp;action=historysubmit&amp;diff=465400670&amp;oldid=465397089] --[[User:erachima|erachima]] &lt;small&gt;[[User talk:erachima|talk]]&lt;/small&gt; 03:57, 12 December 2011 (UTC)
+:Problem solved, the nomination in question was merely mistagged. --[[User:erachima|erachima]] &lt;small&gt;[[User talk:erachima|talk]]&lt;/small&gt; 04:09, 12 December 2011 (UTC)
+==Please comment on [[Template talk:Orphan#rfc_61979E7|Template talk:Orphan]]==
+{{Quote box|title = Responding to RFCs|width     = 35%|quote=&lt;p&gt;Remember that RFCs are part of [[WP:DR|Dispute Resolution]] and at times may take place in a heated environment. Please take a look at the relevant RFC page before responding and be sure that you are willing and able to enter that environment and contribute to making the discussion a calm and productive one focussed on the content issue at hand. See also [[Wikipedia:Requests for comment#Suggestions for responding]].&lt;/p&gt;}}
+Greetings! You have been randomly selected to receive an invitation to participate in the [[Wikipedia:Request for comment|request for comment]] on '''[[Template talk:Orphan#rfc_61979E7|Template talk:Orphan]]'''. Should you wish to respond to the invitation, your contribution to this discussion will be very much appreciated! However, please note that your input will carry no greater weight than anyone else's: remember that an RFC aims to reach a reasoned [[WP:CONSENSUS|consensus]] position, and is [[WP:NOTAVOTE|not a vote]]. In support of that, your contribution should focus on thoughtful evaluation of the issues and available evidence, and provide further relevant evidence if possible.
+
+''You have received this notice because your name is on [[Wikipedia:Feedback request service]]. If you do not wish to receive these types of notices, please remove your name from that page.'' &lt;!-- Template:FRS message --&gt; [[User:RFC&amp;#32;bot|RFC&amp;#32;bot]] ([[User talk:RFC&amp;#32;bot|talk]]) 17:16, 13 December 2011 (UTC)
+
+== ''The Signpost'': 12 December 2011 ==
+
+&lt;div style=&quot;-moz-column-count:2; -webkit-column-count:2; column-count:2;&quot;&gt;
+{{Wikipedia:Wikipedia Signpost/2011-12-12}}
+&lt;/div&gt;&lt;!--Volume 7, Issue 50--&gt;
+&lt;div class=&quot;hlist&quot; style=&quot;margin-top:10px; font-size:90%; padding-left:5px; font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;&quot;&gt;
+* '''[[Wikipedia:Wikipedia Signpost|Read this Signpost in full]]'''
+* [[Wikipedia:Signpost/Single|Single-page]]
+* [[Wikipedia:Wikipedia Signpost/Subscribe|Unsubscribe]]
+* [[User:EdwardsBot|EdwardsBot]] ([[User talk:EdwardsBot|talk]]) 17:29, 13 December 2011 (UTC)
+&lt;/div&gt;
+&lt;!-- EdwardsBot 0209 --&gt;
+==Please comment on [[Wikipedia:Village pump (proposals)#rfc_B425FB5|Wikipedia:Village pump (proposals)]]==
+Greetings! You have been randomly selected to receive an invitation to participate in the [[Wikipedia:Request for comment|request for comment]] on '''[[Wikipedia:Village pump (proposals)#rfc_B425FB5|Wikipedia:Village pump (proposals)]]'''. Should you wish to respond to the invitation, your contribution to this discussion will be very much appreciated! If in doubt, please see [[Wikipedia:Requests for comment#suggestions for responding|suggestions for responding]]. If you do not wish to receive these types of notices, please remove your name from [[Wikipedia:Feedback request service]].'' &lt;!-- Template:FRS message --&gt;— [[User:RFC&amp;#32;bot|RFC&amp;#32;bot]] ([[User talk:RFC&amp;#32;bot|talk]]) 17:15, 19 December 2011 (UTC)
+== ''The Signpost'': 19 December 2011 ==
+
+&lt;div style=&quot;-moz-column-count:2; -webkit-column-count:2; column-count:2;&quot;&gt;
+{{Wikipedia:Wikipedia Signpost/2011-12-19}}
+&lt;/div&gt;&lt;!--Volume 7, Issue 51--&gt;
+&lt;div class=&quot;hlist&quot; style=&quot;margin-top:10px; font-size:90%; padding-left:5px; font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;&quot;&gt;
+* '''[[Wikipedia:Wikipedia Signpost|Read this Signpost in full]]'''
+* [[Wikipedia:Signpost/Single|Single-page]]
+* [[Wikipedia:Wikipedia Signpost/Subscribe|Unsubscribe]]
+* [[User:EdwardsBot|EdwardsBot]] ([[User talk:EdwardsBot|talk]]) 03:38, 21 December 2011 (UTC)
+&lt;/div&gt;
+&lt;!-- EdwardsBot 0211 --&gt;
+==Please comment on [[Wikipedia:Village pump (proposals)#rfc_6B7BF38|Wikipedia:Village pump (proposals)]]==
+Greetings! You have been randomly selected to receive an invitation to participate in the [[Wikipedia:Request for comment|request for comment]] on '''[[Wikipedia:Village pump (proposals)#rfc_6B7BF38|Wikipedia:Village pump (proposals)]]'''. Should you wish to respond to the invitation, your contribution to this discussion will be very much appreciated! If in doubt, please see [[Wikipedia:Requests for comment#suggestions for responding|suggestions for responding]]. If you do not wish to receive these types of notices, please remove your name from [[Wikipedia:Feedback request service]].'' &lt;!-- Template:FRS message --&gt;— [[User:RFC&amp;#32;bot|RFC&amp;#32;bot]] ([[User talk:RFC&amp;#32;bot|talk]]) 18:15, 22 December 2011 (UTC)
+==Please comment on [[Help talk:Citation Style 1#rfc_2D083DB|Help talk:Citation Style 1]]==
+Greetings! You have been randomly selected to receive an invitation to participate in the [[Wikipedia:Request for comment|request for comment]] on '''[[Help talk:Citation Style 1#rfc_2D083DB|Help talk:Citation Style 1]]'''. Should you wish to respond to the invitation, your contribution to this discussion will be very much appreciated! If in doubt, please see [[Wikipedia:Requests for comment#suggestions for responding|suggestions for responding]]. If you do not wish to receive these types of notices, please remove your name from [[Wikipedia:Feedback request service]].'' &lt;!-- Template:FRS message --&gt;— [[User:RFC&amp;#32;bot|RFC&amp;#32;bot]] ([[User talk:RFC&amp;#32;bot|talk]]) 18:15, 25 December 2011 (UTC)
+== ''The Signpost'': 26 December 2011 ==
+
+&lt;div style=&quot;-moz-column-count:2; -webkit-column-count:2; column-count:2;&quot;&gt;
+{{Wikipedia:Wikipedia Signpost/2011-12-26}}
+&lt;/div&gt;&lt;!--Volume 7, Issue 52--&gt;
+&lt;div class=&quot;hlist&quot; style=&quot;margin-top:10px; font-size:90%; padding-left:5px; font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;&quot;&gt;
+* '''[[Wikipedia:Wikipedia Signpost|Read this Signpost in full]]'''
+* [[Wikipedia:Signpost/Single|Single-page]]
+* [[Wikipedia:Wikipedia Signpost/Subscribe|Unsubscribe]]
+* [[User:EdwardsBot|EdwardsBot]] ([[User talk:EdwardsBot|talk]]) 03:08, 28 December 2011 (UTC)
+&lt;/div&gt;
+&lt;!-- EdwardsBot 0213 --&gt;
+==Welcome==
+Welcome to Wikipedia, Chris G, and thanks for your edits!
+--[[User:MorrisS|MorrisS]] ([[User talk:MorrisS|talk]]) 21:15, 28 December 2011 (UTC)
+
+==Please comment on [[Wikipedia talk:WikiProject College football#rfc_08B63DA|Wikipedia talk:WikiProject College football]]==
+Greetings! You have been randomly selected to receive an invitation to participate in the [[Wikipedia:Request for comment|request for comment]] on '''[[Wikipedia talk:WikiProject College football#rfc_08B63DA|Wikipedia talk:WikiProject College football]]'''. Should you wish to respond to the invitation, your contribution to this discussion will be very much appreciated! If in doubt, please see [[Wikipedia:Requests for comment#suggestions for responding|suggestions for responding]]. If you do not wish to receive these types of notices, please remove your name from [[Wikipedia:Feedback request service]].'' &lt;!-- Template:FRS message --&gt;— [[User:RFC&amp;#32;bot|RFC&amp;#32;bot]] ([[User talk:RFC&amp;#32;bot|talk]]) 19:15, 28 December 2011 (UTC)
+	</talkpage>
+</article>

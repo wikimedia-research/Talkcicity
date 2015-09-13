@@ -1,0 +1,5 @@
+<article id="19259546" title=Talk:Grabowiec, Podkarpackie Voivodeship>
+	<talkpage id="19259546" title="Talk:Grabowiec, Podkarpackie Voivodeship">
+{{WikiProject Poland|class=stub|importance=low}}
+	</talkpage>
+</article>

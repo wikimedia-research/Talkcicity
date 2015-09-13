@@ -1,0 +1,7 @@
+<article id="40659024" title=Talk:Masa's Wine Bar & Kitchen>
+	<talkpage id="40659024" title="Talk:Masa's Wine Bar & Kitchen">
+{{WikiProject Food and drink |class=Start}}
+{{WikiProject Companies |class=Start}}
+{{WikiProject California |importance=Low |class=Start |imageneeded=y |in=San Francisco, California |sfba=y |sfba-importance=Mid}}
+	</talkpage>
+</article>

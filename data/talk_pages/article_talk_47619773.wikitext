@@ -1,0 +1,32 @@
+<article id="47619773" title=User talk:49.199.168.44>
+	<talkpage id="47619773" title="User talk:49.199.168.44">
+== Welcome! ==
+
+Hello, and [[Wikipedia:Introduction|welcome to Wikipedia]]! Thank you for [[Special:Contributions/49.199.168.44|your contributions]]&amp;#32;so far. I hope you like the place and decide to stay.
+
+Here are some links to pages you may find useful:
+* [[Wikipedia:Contributing to Wikipedia|Contributing to Wikipedia]]
+* [[Wikipedia:Tutorial|Tutorial]]
+* [[Wikipedia:How to edit a page|How to edit a page]] and [[Wikipedia:Article development|How to develop articles]]
+* [[Wikipedia:Simplified Manual of Style|Simplified Manual of Style]]
+
+You don't have to [[Special:Userlogin|log in]] to read or edit articles on Wikipedia, but if you wish to acquire [[Wikipedia:Why create an account?|additional privileges]], you can simply create an account.  It's free, requires no personal information, and lets you:
+* '''[[Help:Starting a new page|Create new pages]]''' and '''[[Wikipedia:How to rename a page|rename pages]]'''
+* Edit '''[[Wikipedia:Semi-protection policy|semi-protected pages]]'''
+* '''[[Help:Upload|Upload images]]'''
+* Have your own '''[[Wikipedia:Watchlist|watchlist]]''', which shows when articles you are interested in have changed
+
+If you edit without an account, your [[IP address]] (49.199.168.44) is used to identify you instead.
+
+We hope that you choose to become a Wikipedian and '''&lt;span class=&quot;plainlinks&quot;&gt;[{{fullurl:Special:Userlogin|type=signup&amp;campaign=anonwelcometemplate}} create an account]&lt;/span&gt;'''.  If you need help, check out [[Wikipedia:Questions]], ask me on [[User talk:BracketBot|my talk page]], or ask your question and then place &lt;code&gt;&lt;nowiki&gt;{{&lt;/nowiki&gt;[[:Category:Wikipedians looking for help|helpme]]&lt;nowiki&gt;}}&lt;/nowiki&gt;&lt;/code&gt; before the question on this page.  We also have an [[WP:TMM|intuitive guide on editing]] if you're interested. By the way, please make sure to [[Wikipedia:Sign your posts on talk pages|sign and date]] your talk page comments with four tildes ('''&amp;#126;&amp;#126;&amp;#126;&amp;#126;'''). 
+
+Happy editing! &lt;!-- Template:welcome-anon --&gt; [[User:BracketBot|BracketBot]] ([[User talk:BracketBot|talk]]) 10:48, 25 August 2015 (UTC)
+
+== August 2015 ==
+
+[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:BracketBot|BracketBot]]. I have automatically detected that &lt;span class=&quot;plainlinks&quot;&gt;[//en.wikipedia.org/w/index.php?diff=677760994 your edit] to [[Macy]] may have broken the [[syntax]] by modifying 1 &quot;{}&quot;s. If you have, don't worry: just [{{fullurl:Macy|action=edit&amp;minor=minor&amp;summary=Fixing+typo+raised+by+%5B%5BUser%3ABracketBot%7CBracketBot%5D%5D}} edit the page] again to fix it. If I misunderstood what happened, or if you have any questions, you can leave a message on [//en.wikipedia.org/w/index.php?action=edit&amp;preload=User:A930913/BBpreload&amp;editintro=User:A930913/BBeditintro&amp;minor=&amp;title=User_talk:A930913&amp;preloadtitle=BracketBot%20–%20{{subst&lt;/noinclude&gt;:REVISIONUSER}}&amp;section=new my operator's talk page].&lt;/span&gt;
+:List of unpaired brackets remaining on the page:
+*&lt;nowiki&gt;&lt;/nowiki&gt;{{red|'''&amp;#123;'''}}&lt;nowiki&gt;&lt;/nowiki&gt;
+It's OK to remove this message. Also, to stop receiving these messages, follow [[User:BracketBot#Opting out|these opt-out instructions]]. Thanks, &lt;!-- (0, 0, 1, 0) --&gt;&lt;!-- User:BracketBot/inform --&gt;[[User:BracketBot|BracketBot]] ([[User talk:BracketBot|talk]]) 10:48, 25 August 2015 (UTC)
+	</talkpage>
+</article>

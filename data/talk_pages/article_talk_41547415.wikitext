@@ -1,0 +1,6 @@
+<article id="41547415" title=Talk:James Bradshaw (cricketer, born 1902)>
+	<talkpage id="41547415" title="Talk:James Bradshaw (cricketer, born 1902)">
+{{WPBIO|living=no|listas=Bradshaw, James C.|class=stub}}
+{{WikiProject Cricket|class=stub|importance=low}}
+	</talkpage>
+</article>

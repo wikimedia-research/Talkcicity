@@ -1,0 +1,8 @@
+<article id="46984583" title=User talk:89.192.250.46>
+	<talkpage id="46984583" title="User talk:89.192.250.46">
+== June 2015 ==
+
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Accents|Accents]]. I wanted to let you know that I reverted one of [[Special:Contributions/89.192.250.46|your recent contributions]]&amp;nbsp;—the one you made with &lt;span class=&quot;plainlinks&quot;&gt;[https://en.wikipedia.org/w/index.php?title=Structured%20systems%20analysis%20and%20design%20method&amp;diff=667027053 this edit]&lt;/span&gt; to [[:Structured systems analysis and design method]]— because it didn’t appear constructive to me. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Accents|my talk page]]. Thanks. &lt;!-- Template:Huggle/warn-1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt;[[User:Accents|Accents]] 10:08, 15 June 2015 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

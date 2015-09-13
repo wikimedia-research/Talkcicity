@@ -1,0 +1,6 @@
+<article id="47334534" title=Talk:The Dark Blue>
+	<talkpage id="47334534" title="Talk:The Dark Blue">
+{{WikiProject United Kingdom|class=Stub}}
+{{WikiProject Magazines|class=Stub|importance=|auto=yes}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="31827754" title=Talk:Safety certification>
+	<talkpage id="31827754" title="Talk:Safety certification">
+{{WPAFC|class=redirect|ts=20110519191619|reviewer=Armbrust}}
+	</talkpage>
+</article>

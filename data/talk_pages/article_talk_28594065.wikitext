@@ -1,0 +1,5 @@
+<article id="28594065" title=Talk:Jurdani>
+	<talkpage id="28594065" title="Talk:Jurdani">
+{{WikiProject Croatia|class=stub|importance=low}}
+	</talkpage>
+</article>

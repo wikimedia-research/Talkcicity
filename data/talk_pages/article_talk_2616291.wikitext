@@ -1,0 +1,30 @@
+<article id="2616291" title=Talk:AP Chemistry>
+	<talkpage id="2616291" title="Talk:AP Chemistry">
+{{WikiProject Education}}
+''[[:Category:Chemistry]] is overpopulated. If you can help, please ensure this article is in an appropriate subcategory and remove it from [[:Category:Chemistry]].''
+* placement of the article in [[:Category:Chemistry]] was superfluous; decategorized [[User:Ceyockey|Courtland]] 01:50, 5 September 2005 (UTC)
+
+==the last of it's kind==
+This seems to be the last remaining article about AP classes, all the others have been deleted for some reason, watch this one carefully--[[User:205.188.116.69|205.188.116.69]] 22:33, 6 February 2006 (UTC)
+
+What? I just came to this page linked from the article on AP Biology 
+[[User:Andyo2000|Andyo2000]] 12:18, 7 February 2007 (UTC)
+
+:Note that the message you are responding to was posted one year and one day ago. In short, you're responding to an outdated post. --&lt;sup&gt;[[User talk:Physicq210|&lt;font color=&quot;000000&quot;&gt;210&lt;/font&gt;]]&lt;/sup&gt;'''[[User:Physicq210|&lt;font color=&quot;#0000C0&quot; face=&quot;Comic Sans MS&quot;&gt;physicq&lt;/font&gt;]]''' (''[[Special:Contributions/Physicq210|&lt;font color=&quot;#0000C0&quot;&gt;c&lt;/font&gt;]]'') 19:44, 7 February 2007 (UTC)
+
+==Acceptance into Course==
+I removed the statement below from the page. This may be true at someone's high school, but it varies widely (and there is no requirement by the college board that any course is taken at all in order to take the exam.)
+
+:&quot;Normally for acceptance in an AP Chemistry course in any high school, one needs to have first taken regular, or, if offered, an &quot;honors&quot;-type chemistry course. The grade range for acceptance usually falls around a B+ or better in any chemistry class.&quot;
+
+&amp;mdash;[[User:Jnk|Jnk]] 15:09, 5 May 2006 (UTC)
+
+::The acceptance into the course varies from school to school. Some accelerated teachers may teach both [[Chemistry]] and [[AP Chemistry]] in the same year, while other schools require their students to take [[Chemistry]] before taking [[AP Chemistry]]. The [[Advanced Placement Program]] only makes recommendations on what is 'best' for schools to do, but school districts make the decision. --[[User:GoOdCoNtEnT|GoOdCoNtEnT]] 20:43, 9 July 2006 (UTC)
+
+
+I added the part about the 2007 test, and i believe that these changes will most likely remain for subsequent tests. I'm sorry that i dont have a citation, but luckily for me i am currently enrolled in the class :-)     [[User:76.173.161.67|76.173.161.67]] 06:25, 26 January 2007 (UTC)Davidoaf
+
+==Move discussion in progress==
+There is a move discussion in progress on [[Talk:Advanced Placement United States History#Suggested move |Talk:Advanced Placement United States History]] which affects this page. Please participate on that page and not in this talk page section. Thank you. &lt;!-- Talk:Advanced Placement United States History crosspost --&gt; —[[User:RMCD bot|RMCD bot]] 21:28, 28 December 2012 (UTC)
+	</talkpage>
+</article>

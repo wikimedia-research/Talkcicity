@@ -1,0 +1,9 @@
+<article id="34103406" title=User talk:74.14.23.81/Archive 1>
+	<talkpage id="34103406" title="User talk:74.14.23.81/Archive 1">
+{{talkarchive}}
+
+
+==December 2009==
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of your recent edits{{#if:Wikipedia:Biographies of living persons|, such as the one you made to [[:Wikipedia:Biographies of living persons]],}} did not appear to be constructive and has been reverted. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; — Cheers, [[User:Jacklee|&lt;span style=&quot;color:#ce2029&quot;&gt;Jack&lt;/span&gt;&lt;span style=&quot;color:#800000&quot;&gt;'''Lee'''&lt;/span&gt;]] &lt;sup&gt;&amp;ndash;[[User talk:Jacklee|talk]]&amp;ndash;&lt;/sup&gt; 07:09, 4 December 2009 (UTC)
+	</talkpage>
+</article>

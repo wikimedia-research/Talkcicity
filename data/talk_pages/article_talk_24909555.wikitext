@@ -1,0 +1,6 @@
+<article id="24909555" title=Talk:Baja Prog – Live in Mexico '99>
+	<talkpage id="24909555" title="Talk:Baja Prog – Live in Mexico '99">
+{{album|class=start}}
+{{Progressive Rock|class=start|importance=Low}}
+	</talkpage>
+</article>

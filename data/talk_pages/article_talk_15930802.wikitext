@@ -1,0 +1,9 @@
+<article id="15930802" title=User talk:90.194.115.25>
+	<talkpage id="15930802" title="User talk:90.194.115.25">
+
+
+== February 2008 ==
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to contribute constructively to the encyclopedia, adding content without [[Wikipedia:Citing sources|citing]] a [[Wikipedia:Reliable sources|reliable source]]{{#if:Call the Shots|, as you did to [[:Call the Shots]],}} is not consistent with our policy of [[Wikipedia:Verifiability|verifiability]]. This is especially important when dealing with ''[[Wikipedia:Biographies of living persons|biographies of living people]]'', but applies to all Wikipedia articles. Take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia.  If you are already familiar with [[Wikipedia:Citing sources]], please take this opportunity to add your reference to the article. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-unsourced1 --&gt; ~~ [[User:JGXenite|&lt;span style=&quot;color: #AB0F31&quot;&gt;[Jam]&lt;/span&gt;]]&lt;sup&gt;[[User talk:JGXenite|&lt;span style=&quot;color: #000000;&quot;&gt;[talk]&lt;/span&gt;]]&lt;/sup&gt; 17:03, 24 February 2008 (UTC)
+:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
+	</talkpage>
+</article>

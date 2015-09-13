@@ -1,0 +1,8 @@
+<article id="46837463" title=User talk:217.197.61.176>
+	<talkpage id="46837463" title="User talk:217.197.61.176">
+== May 2015 ==
+
+[[Image:Information.svg|25px|alt=|link=]] Hello, I'm [[User:Donner60|Donner60]]. I noticed that you made a change to an article, [[:Sergi Roberto]], but you didn't provide a source. I’ve removed it for now, but if you’d like to [[Wikipedia:Citing sources|include a citation]] to a reliable source and re-add it, please do so! If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Donner60|my talk page]]. Thanks. &lt;!-- Template:Huggle/warn-unsor-1 --&gt;&lt;!-- Template:uw-unsourced1 --&gt; [[User:Donner60|Donner60]] ([[User talk:Donner60|talk]]) 19:22, 29 May 2015 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

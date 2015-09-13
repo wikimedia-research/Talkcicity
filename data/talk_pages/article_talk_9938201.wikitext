@@ -1,0 +1,5 @@
+<article id="9938201" title=Talk:Gonnoi>
+	<talkpage id="9938201" title="Talk:Gonnoi">
+{{WikiProject Greece|class=Start|importance=Low}}
+	</talkpage>
+</article>

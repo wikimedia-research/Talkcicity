@@ -1,0 +1,5 @@
+<article id="47342009" title=Talk:Paluwas>
+	<talkpage id="47342009" title="Talk:Paluwas">
+{{WP India|class=stub|importance=low}}
+	</talkpage>
+</article>

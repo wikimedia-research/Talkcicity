@@ -1,0 +1,14 @@
+<article id="4618785" title=Talk:Daisuke Gōri>
+	<talkpage id="4618785" title="Talk:Daisuke Gōri">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=no
+|class=Stub
+|a&amp;e-work-group=yes
+|listas=Gori, Daisuke
+}}
+{{WikiProject Japan|class=Start|importance=mid|biography=y}}
+{{WikiProject Anime and manga|class=Stub|importance=Low|biography-work-group=yes|listas=Gori, Daisuke}}
+}}
+	</talkpage>
+</article>

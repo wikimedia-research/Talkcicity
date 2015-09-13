@@ -1,0 +1,9 @@
+<article id="29039379" title=User talk:92.106.134.25>
+	<talkpage id="29039379" title="User talk:92.106.134.25">
+== Warnings ==
+
+
+===October 2010===
+#[[Image:Information.svg|25px]] Your recent edit to the page [[:Osmosis]] appears to have added incorrect information and has been [[Help:Reverting|reverted]] or removed. All information in this encyclopedia must be [[Wikipedia:Verifiability|verifiable]] in a [[Wikipedia:Reliable sources|reliable]], published source. If you believe the information that you added was correct, please [[Wikipedia:Citing sources|cite the references or sources]] or before making the changes, discuss them on the article's [[Wikipedia:Talk page guidelines|talk page]]. Please use the [[Wikipedia:Sandbox|sandbox]] for any tests that you wish to make. Do take a look at the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] if you would like to learn more about contributing to our encyclopedia. Thank you.&lt;!-- Template:uw-error1 --&gt; [[User:Philip Trueman|Philip Trueman]] ([[User talk:Philip Trueman|talk]]) 11:16, 3 October 2010 (UTC)
+	</talkpage>
+</article>

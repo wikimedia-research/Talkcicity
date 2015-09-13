@@ -1,0 +1,9 @@
+<article id="9859646" title=Talk:Gymnastics at the 1896 Summer Olympics – Men's team parallel bars>
+	<talkpage id="9859646" title="Talk:Gymnastics at the 1896 Summer Olympics – Men's team parallel bars">
+{{WikiProjectBannerShell|1=
+{{WikiProject Gymnastics|importance=|class=Start}}
+{{WikiProject Olympics|class=Start|importance=Low}}
+{{WikiProject Greece|class=Start|athens-task-force=yes}}
+}}
+	</talkpage>
+</article>

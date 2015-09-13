@@ -1,0 +1,32 @@
+<article id="21446050" title=Talk:Foca-class submarine>
+	<talkpage id="21446050" title="Talk:Foca-class submarine">
+{{Talk header}}
+{{WikiProjectBannerShell|1=
+{{WPMILHIST|class=Start|importance=
+|Maritime=yes|Italian=yes|British=yes|WWII=yes
+&lt;!-- B-Class-1. It is suitably referenced, and all major points 
+have appropriate inline citations. --&gt; 
+|B1=
+&lt;!-- B-Class-2. It reasonably covers the topic, and 
+does not contain obvious omissions or inaccuracies. --&gt; 
+|B2=
+&lt;!-- B-Class-3. It has a defined structure, including 
+a lead section and one or more sections of content. --&gt; 
+|B3=
+&lt;!-- B-Class-4. It is free from major grammatical errors. --&gt; 
+|B4=
+&lt;!-- B-Class-5. It contains appropriate supporting materials, 
+such as an infobox, images, or diagrams. --&gt; 
+|B5=
+}}
+{{WikiProject Ships|class=Start|B1=
+no|B2=
+no|B3=
+no|B4=
+yes|B5=
+no}}
+{{WPITALY|class=start|importance=low}}
+{{WPUK|class=start|importance=low}}
+}}
+	</talkpage>
+</article>

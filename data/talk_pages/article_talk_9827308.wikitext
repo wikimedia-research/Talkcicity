@@ -1,0 +1,17 @@
+<article id="9827308" title=Talk:Corney Swanepoel>
+	<talkpage id="9827308" title="Talk:Corney Swanepoel">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|sports-work-group=yes
+|listas=Swanepoel, Corney
+|auto=yes
+}}
+{{WikiProject Olympics|class=Stub|importance=|auto=yes}}
+{{WikiProject New Zealand|class=Stub|importance=low|auto=yes}}
+{{WikiProject Swimming| class=Stub}}
+| blp=yes
+}}
+	</talkpage>
+</article>

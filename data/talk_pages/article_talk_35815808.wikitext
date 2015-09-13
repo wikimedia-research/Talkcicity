@@ -1,0 +1,118 @@
+<article id="35815808" title=User talk:VeritosNow>
+	<talkpage id="35815808" title="User talk:VeritosNow">
+==Welcome==
+{| width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;6&quot; style=&quot;font-size:95%; line-height: 15px; background-color: #faf6ed; border: 1px solid #faecc8&quot;
+|-
+| colspan=&quot;4&quot; style=&quot;background-color: #faecc8; font-family:'Century Gothic';&quot; |&lt;big&gt;'''Hello ''VeritosNow'': ''' Welcome to the English version of Wikipedia &lt;/big&gt;
+|-
+| colspan=&quot;4&quot; style=&quot;font-family:'Century Gothic';&quot;| Thanks to you for [[Special:Contributions/VeritosNow|your active participation]] in this project. We hope that you will stay to contribute more and that you will continue to find the collaboration process enjoyable.
+|-
+| colspan=&quot;4&quot; style=&quot;font-family:'Century Gothic';&quot;| Wikipedia is an online encyclopedia that began in 2001 and is free for anyone to use and edit under certain guidelines and principles that all users should understand and adhere to.&lt;br /&gt; These principles and guidelines are listed below. Click on the link next to the images for more information.
+|-
+| align=&quot;right&quot; | &lt;imagemap&gt;
+File:Crystal Clear app lassist.png|31x31px
+default [[Wikipedia:Wikipedia:Five pillars]]
+desc none
+&lt;/imagemap&gt;
+| [[Wikipedia:Five pillars|'''The five pillars of Wikipedia'''.&lt;br /&gt;The fundamental principles of the project.]]
+| align=&quot;right&quot; | &lt;imagemap&gt;
+File:Gtk-dialog-info.svg|31x31px
+default [[Wikipedia:Help]]
+desc none
+&lt;/imagemap&gt;
+| [[User:Brendon111/Help|'''Help'''.&lt;br /&gt;How to get help.]]
+|-
+| width=&quot;8%&quot; align=&quot;right&quot; | &lt;imagemap&gt;
+File:Crystal Clear app Startup Wizard.png|31x31px
+default [[Wikipedia:Tutorial]]
+desc none
+&lt;/imagemap&gt;
+| width=&quot;38%&quot; | [[Wikipedia:Tutorial|'''Tutorial'''.&lt;br /&gt;This tutorial is a basic guide to editing.]]
+| align=&quot;right&quot; | &lt;imagemap&gt;
+File:Crystal Clear app kedit.png|31x31px
+default [[Wikipedia:User page]]
+desc none
+&lt;/imagemap&gt;
+| width=&quot;38%&quot; | [[Wikipedia:User page|'''Your user pages and your sandbox'''.&lt;br /&gt;How to experiment and edit in your user space.]]
+|-
+| align=&quot;right&quot; | &lt;imagemap&gt;
+File:Cicero-head.png|31x31px
+default [[Wikipedia:Mentorship]]
+desc none
+&lt;/imagemap&gt;
+| [[Wikipedia:Mentorship| '''Mentoring program'''.&lt;br /&gt;Request help in your first steps of editing.]]
+| align=&quot;right&quot; | &lt;imagemap&gt;
+File:Crystal Clear action edit.png|31x31px
+default [[Wikipedia:Your first article]]
+desc none
+&lt;/imagemap&gt;
+| [[Wikipedia:Your first article|'''How to start a page'''.&lt;br /&gt;Help on creating your first article.]]
+|-
+| align=&quot;right&quot; | &lt;imagemap&gt;
+File:Nuvola apps important yellow.svg|31x31px
+default [[Wikipedia:What Wikipedia is not]]
+desc none
+&lt;/imagemap&gt;
+| [[Wikipedia:What Wikipedia is not|'''Things to avoid'''.&lt;br /&gt;How to avoid common errors and mistakes.]]
+| width=&quot;8%&quot; align=&quot;right&quot; | &lt;imagemap&gt;
+File:Crystal Clear action apply.png|31x31px
+default [[Wikipedia:Manual of Style]]
+desc none
+&lt;/imagemap&gt;
+| [[Wikipedia:Manual of Style|'''Style Guide'''.&lt;br /&gt;How to write in an acceptable style]].
+|-
+| align=&quot;right&quot; | &lt;imagemap&gt;
+File:Crystal Clear app file-manager.png|31x31px
+default [[Wikipedia:Policies and guidelines]]
+desc none
+&lt;/imagemap&gt;
+| [[Wikipedia:Policies and guidelines|'''Main policies of Wikipedia'''.&lt;br /&gt;Wikipedia's main policies and guidelines.]]
+| align=&quot;right&quot; | &lt;imagemap&gt;
+File:Nuvola apps ksirc.png|31x31px
+default [[Wikipedia:FAQ]]
+desc none
+&lt;/imagemap&gt;
+| [[Wikipedia:FAQ|'''Frequently asked questions'''.&lt;br /&gt;Some common questions and their answers.]]
+|-
+| align=&quot;right&quot; | &lt;imagemap&gt;
+File:Nuvola apps kteatime.png|31x31px
+default [[Wikipedia:Help desk]]
+desc none
+&lt;/imagemap&gt;
+| [[Wikipedia:Help desk|'''Help Desk'''.&lt;br /&gt;Here you can ask other editors for assistance]]
+| align=&quot;right&quot; | &lt;imagemap&gt;
+File:Curly Brackets.svg|31x31px
+default [[Wikipedia:Cheatsheet]]
+desc none
+&lt;/imagemap&gt;
+| [[Wikipedia:Cheatsheet| '''Quick reference'''.&lt;br /&gt;A handy quick reference guide for editing ''Wiki''.]]
+|-
+| colspan=&quot;4&quot; style=&quot;border-top:2px solid #f4e8c4&quot; |
+&lt;inputbox&gt;
+type=comment
+preload=Template:W-FAQ/Helpme
+editintro=Template:W-FAQ/Helpintro
+hidden=yes
+default={{FULLPAGENAME}}
+buttonlabel=Click here for requesting help on your talk-page
+&lt;/inputbox&gt;
+|-
+| colspan=&quot;4&quot; style=&quot;border-top:2px solid #f4e8c4&quot; |
+[[File:ToolbarSignVector.png|right]]&lt;span style=&quot;font-family:'Century Gothic';&quot;&gt;This is your [[Help:Talk page|'''Talk page''']] where you can receive messages from other [[Wikipedia:Wikipedians|Wikipedians]] and discuss things with them. At the end of your messages you should always enter your signature by signing with four [[Wikipedia:Signatures|'''&lt;big&gt;&lt;nowiki&gt;~~~~&lt;/nowiki&gt;&lt;/big&gt;''']] or by pressing the button in the editor shown here in the picture. By the way, it is not necessary to sign edits that you make in the articles themselves as [[Wikipedia:Sign#When signatures should and should not be used|''those messages will be deleted'']]. My name is Brendon. If you have any questions or face any initial hurdles, post {{tlx|helpme|your question}} on [[User talk:VeritosNow|your talk page]] (this page), someone will quickly come up and attend to your query. And also, feel free to contact me on [[user talk:Brendon111|my talk page]] and I will do what I can to assist. Good Luck Editing!&lt;/span&gt; &lt;small&gt;&lt;span style=&quot;border:1px solid black;padding:1px;&quot;&gt;[[User:Brendon111|&lt;font style=&quot;color:Green;background:Yellow;&quot;&gt;&amp;nbsp;'''Brendon&amp;nbsp;is'''&lt;/font&gt;]][[User_talk:Brendon111|&lt;font style=&quot;color:White;background:red;&quot;&gt;'''here'''&lt;/font&gt;]]&lt;/span&gt;&lt;/small&gt; 11:05, 14 May 2012 (UTC)
+|}
+&lt;!-- Welcome Template --&gt;
+
+
+===Little tips to make discussions easier to read and understand===
+Hi VeritosNow,&lt;br&gt; I wanted to share some tips with you on how to edit talkpages. Before we go any further, as a precautionary step, I'd like to humbly remind you that there are some things which [[WP:NOT|Wikipedia is not]], e.g. a [[WP:NOTFORUM|forum]] or a [[WP:NOTGOSSIP|soapbox]] or a [[WP:NOTBLOG|blog]]. &lt;p&gt;So let's come to the point. It's important that you properly indent your comments while responding to others' comments on talk pages. Good [[WP:INDENT|indentation]] makes prolonged discussions easier to read and understand. It might be helpful to think of discussions as reports with numbered/bulleted sections and subsections where material is not necessarily written in chronological order. &lt;br /&gt;''See also'':
+:[[WP:CUSTOMSIG]] 
+::Signatures '''must''' include at least one internal link to your user page, user talk page, or contributions page; this allows other editors easy access to your talk page and contributions log. The lack of such a link is widely viewed as obstructive. If, while making modifications, you accidentally disable this link, click [[Wikipedia:How to fix your signature|here]]. When you insert your signature on your talk page or user page, a link to that page will appear black, bold and inactive, so test your signature elsewhere, such as the Sandbox.
+::[[File:Pictogram voting comment.svg|20px|link=|alt=]] '''Note:'''&lt;!-- Template:EP --&gt; - ''Do not'' include links to external websites in your signature.
+:[[WP:INDENT]] [[File:Indentation_highlight.jpg|thumb|right|250px|Highlighting the indentation button on edit toolbar]]
+:#A reply should be placed beneath the original comment. The reply should be indented. To indent check your edit tool bar for a button like this → &lt;sub&gt;[[Image:Vector_toolbar_indentation_button.png|20px]]&lt;/sub&gt;.
+:#If two replies are made to one specific comment, they should be at the same level of indentation with the later reply at the bottom.
+:#A response to a reply should be placed below that reply, but above all later replies. The response should be indented relative to the adjacent replies.
+:#A new comment or sub-thread that is being added after a number of replies should go at the bottom. Do not add a new comment or sub-thread where it will separate an earlier comment from its replies.
+I hope this helps. If you still need something else, don't worry and visit the &lt;tt&gt;[[User:Brendon111/Help|Help-page]]&lt;/tt&gt;. &lt;small&gt;&lt;span style=&quot;border:1px solid black;padding:1px;&quot;&gt;[[User:Brendon111|&lt;font style=&quot;color:Green;background:Yellow;&quot;&gt;&amp;nbsp;'''Brendon&amp;nbsp;is'''&lt;/font&gt;]][[User_talk:Brendon111|&lt;font style=&quot;color:White;background:red;&quot;&gt;'''here'''&lt;/font&gt;]]&lt;/span&gt;&lt;/small&gt; 11:05, 14 May 2012 (UTC)
+	</talkpage>
+</article>

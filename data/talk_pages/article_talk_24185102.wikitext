@@ -1,0 +1,19 @@
+<article id="24185102" title=Talk:Tacoma mayoral election, 2009>
+	<talkpage id="24185102" title="Talk:Tacoma mayoral election, 2009">
+{{WikiProject United States|class=redirect|importance=|WA=yes|WA-importance=}}
+{{Old prod full| nom       = Admrboltz
+| nomdate   = 2011-01-05
+| nomreason = Non-notable city mayoral election.
+| con       = 72.244.204.201
+| condate   = 2011-01-12
+| conreason = remove PROD; since [[WP:elections]] is purely informational, an AFD might be called for
+}}
+
+==THIS IS PRELIMINARY STUB==
+Thank you.--[[Special:Contributions/174.21.81.123|174.21.81.123]] ([[User talk:174.21.81.123|talk]])
+
+== Admrboltz's response to a contested PROD  was a WP:BLANKANDREDIRECT ==
+
+It is inappropriate to respond to a contested PROD an article with a [[WP:BLANKANDREDIRECT]]. You should have responded with a [[WP:Proposed deletion]].  &amp;mdash;[[Special:Contributions/72.244.204.201|72.244.204.201]] ([[User talk:72.244.204.201|talk]]) 09:11, 10 September 2014 (UTC)
+	</talkpage>
+</article>

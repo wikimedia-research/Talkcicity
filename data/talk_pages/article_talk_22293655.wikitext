@@ -1,0 +1,5 @@
+<article id="22293655" title=Talk:Dunava parish>
+	<talkpage id="22293655" title="Talk:Dunava parish">
+{{WikiProject Latvia|class=Stub|importance=Low}}
+	</talkpage>
+</article>

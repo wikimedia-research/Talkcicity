@@ -1,0 +1,7 @@
+<article id="37424222" title=User talk:38.96.192.35>
+	<talkpage id="37424222" title="User talk:38.96.192.35">
+== October 2012 ==
+[[Image:Information.svg|25px|alt=|link=]] Hello, I'm [[User:Vacation9|Vacation9]]. I noticed that you made a change to an article, [[:Web traffic]], but you didn't provide a reliable source. I've removed it for now, but if you'd like to [[Wikipedia:Citing sources|include a citation]] and re-add it, please do so! If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Vacation9|my talk page]]. Thank you. &lt;!-- Template:uw-unsourced1 --&gt; [[User:Vacation9|Vacation9]] ([[User talk:Vacation9|talk]]) 22:18, 23 October 2012 (UTC)
+:''If this is a [[open proxy|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

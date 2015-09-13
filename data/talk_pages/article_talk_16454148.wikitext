@@ -1,0 +1,17 @@
+<article id="10844496" title=Talk:Mike Harris (racing driver)>
+	<talkpage id="10844496" title="Talk:Mike Harris (racing driver)">
+{{WikiProject Biography
+|living=yes
+|class=Stub
+|auto=yes
+|sports-work-group=yes
+|listas=Harris, Mike
+}}
+{{WikiProject Formula One|importance=low|class=stub}}
+== Rhodesia, Northern Rhodesia or South Africa ==
+
+What's Mike Harris' nationality? I gather he was born in [[Northern Rhodesia]] and, during his Formula One races in 1962, was in fact Northern Rhodesian. This page lists him as South African, though.
+
+:It depends on which source you believe - some say Rhodesian, some say South African. I don't know if Northern Rhodesia issued racing licences, and if not, he may have raced under a foreign licence - it's the nationality of the racing licence that should appear in the infobox. We should probably find a few sources and make a note regarding the lack of clarity - I'll do that when I get the chance, unless someone else wants to. [[User:Bretonbanquet|Bretonbanquet]] 19:23, 25 June 2007 (UTC)
+	</talkpage>
+</article>

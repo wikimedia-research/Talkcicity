@@ -1,0 +1,19 @@
+<article id="14570532" title=Talk:History of Vanuatu>
+	<talkpage id="14570532" title="Talk:History of Vanuatu">
+{{WikiProject History|class=Start}}
+{{WikiProject Melanesia|class=Start|importance=|Vanuatu=yes}}
+
+==Vice Bune==
+
+The following text has been removed, pending some sources being provided.
+''The first [[Europe]]ans that reached the islands in the 16th century, were a [[Dalmatia]]n expedition led by captain ''Vice Bune'' in the galley ''Caraca'' sailing from [[Goa]] via the [[Philippines]]. From 1594 they detected and named the northern island ''Rava'', then advancing southwards they named the islands of ''Valun, Mata, Marina, Mala, Malakula, Palenta, Nina'' with the exploration of Vanuatu completed at the southern island of ''Matas'' in 1597.''
+
+There is extensive discussion regarding Vice Bune (a real merchant from Dubrovnik who served the Spanish crown, but about whom verifiable details are very limited) at [http://la.wikipedia.org/wiki/Disputatio:Vincentius_Bune]. Apparently main WP deleted an entry about him some time ago, deciding he was a non-existant person. The few remaining references to him on google are generally based on the old WP entry.
+
+There is significant documentation existing from Quiros' voyage, indicating they were the first Europeans the people had seen--[[User:Nickm57|Nickm57]] ([[User talk:Nickm57|talk]]) 00:53, 12 December 2007 (UTC)
+
+Note: I notice all the WP entries relating to Vice Bune and alleged Ragusian exploration of/trade with the Pacific appear from two anonymous IP addresses on 28 and 29 October 2006. --[[User:Nickm57|Nickm57]] ([[User talk:Nickm57|talk]]) 04:16, 12 December 2007 (UTC)
+
+:Hmm. It appears this is just a hoax that has slipped through the cracks. Good catch. I hope the other Wikipedias that have articles on this follow our example and purge this nonsense.--[[User:Cuchullain|Cúchullain]] [[User talk:Cuchullain|&lt;sup&gt;t&lt;/sup&gt;]]/[[Special:Contributions/Cuchullain|&lt;small&gt;c&lt;/small&gt;]] 17:41, 12 December 2007 (UTC)
+	</talkpage>
+</article>

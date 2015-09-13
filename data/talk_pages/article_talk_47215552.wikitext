@@ -1,0 +1,29 @@
+<article id="47215552" title=User talk:96.41.193.193>
+	<talkpage id="47215552" title="User talk:96.41.193.193">
+== Welcome! ==
+
+Hello, and [[Wikipedia:Introduction|welcome to Wikipedia]]! Thank you for [[Special:Contributions/96.41.193.193|your contributions]]&amp;#32;so far. I hope you like the place and decide to stay.
+
+Here are some links to pages you may find useful:
+* [[Wikipedia:Contributing to Wikipedia|Contributing to Wikipedia]]
+* [[Wikipedia:Tutorial|Tutorial]]
+* [[Wikipedia:How to edit a page|How to edit a page]] and [[Wikipedia:Article development|How to develop articles]]
+* [[Wikipedia:Simplified Manual of Style|Simplified Manual of Style]]
+
+You don't have to [[Special:Userlogin|log in]] to read or edit articles on Wikipedia, but if you wish to acquire [[Wikipedia:Why create an account?|additional privileges]], you can simply create an account.  It's free, requires no personal information, and lets you:
+* '''[[Help:Starting a new page|Create new pages]]''' and '''[[Wikipedia:How to rename a page|rename pages]]'''
+* Edit '''[[Wikipedia:Semi-protection policy|semi-protected pages]]'''
+* '''[[Help:Upload|Upload images]]'''
+* Have your own '''[[Wikipedia:Watchlist|watchlist]]''', which shows when articles you are interested in have changed
+
+If you edit without an account, your [[IP address]] (96.41.193.193) is used to identify you instead.
+
+We hope that you choose to become a Wikipedian and '''&lt;span class=&quot;plainlinks&quot;&gt;[{{fullurl:Special:Userlogin|type=signup&amp;campaign=anonwelcometemplate}} create an account]&lt;/span&gt;'''.  If you need help, check out [[Wikipedia:Questions]], ask me on [[User talk:BracketBot|my talk page]], or ask your question and then place &lt;code&gt;&lt;nowiki&gt;{{&lt;/nowiki&gt;[[:Category:Wikipedians looking for help|helpme]]&lt;nowiki&gt;}}&lt;/nowiki&gt;&lt;/code&gt; before the question on this page.  We also have an [[WP:TMM|intuitive guide on editing]] if you're interested. By the way, please make sure to [[Wikipedia:Sign your posts on talk pages|sign and date]] your talk page comments with four tildes ('''&amp;#126;&amp;#126;&amp;#126;&amp;#126;'''). 
+
+Happy editing! &lt;!-- Template:welcome-anon --&gt; [[User:BracketBot|BracketBot]] ([[User talk:BracketBot|talk]]) 23:54, 11 July 2015 (UTC)
+
+== July 2015 ==
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:General Ization|General Ization]]. I noticed that you made an edit concerning content related to a living (or recently deceased) person{{spaces|1}}on [[:Jennie Garth]], but you didn't support your changes with a [[Wikipedia:Inline citation|citation to a reliable source]], so I removed it. Wikipedia has a very strict policy concerning [[Wikipedia:Biographies of living persons|how we write about living people]], so please help us keep such articles accurate and clear. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:General Ization|my talk page]]. Thank you! &lt;!-- Template:uw-biog1 --&gt; &lt;span style=&quot;font-family: Gill Sans MT, Arial, Helvetica; font-weight:140;&quot;&gt;[[User:General Ization|&lt;font color=&quot;#006633&quot;&gt;General &lt;i&gt;Ization&lt;/i&gt;&lt;/font&gt;]]&lt;/span&gt; &lt;sup&gt;''[[User talk:General Ization|&lt;font color=&quot;#000666&quot;&gt;Talk  &lt;/font&gt;]] ''&lt;/sup&gt; 02:12, 12 July 2015 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

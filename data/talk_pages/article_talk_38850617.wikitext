@@ -1,0 +1,10 @@
+<article id="38850617" title=User talk:205.126.32.128>
+	<talkpage id="38850617" title="User talk:205.126.32.128">
+
+== March 2013 ==
+
+&lt;div style=clear: both&gt;&lt;/div&gt;[[File:Information.svg|25px|alt=|link=]] Please refrain from making unconstructive edits to Wikipedia, as you did at [[:Water cycle]] with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Water_cycle?diff=545243609 this edit]&lt;/span&gt;. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]] or removed. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Thank you. &lt;!-- Template:Huggle/warn-2 --&gt;&lt;!-- Template:uw-vandalism2 --&gt;&amp;nbsp;—[[User:Smalljim|S&lt;small&gt;MALL&lt;/small&gt;]][[User talk:Smalljim#top|&lt;small&gt;JIM&lt;/small&gt;]]&amp;nbsp; 17:44, 18 March 2013 (UTC)
+
+[[File:Stop hand nuvola.svg|30px]] '''This is your last warning'''. You may be '''blocked from editing without further warning''' the next time you vandalize a page, as you did with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Water_cycle?diff=545243826 this edit]&lt;/span&gt; to [[:Water cycle]]. &lt;!-- Template:Huggle/warn-4 --&gt;&lt;!-- Template:uw-vandalism4 --&gt; &amp;nbsp;—[[User:Smalljim|S&lt;small&gt;MALL&lt;/small&gt;]][[User talk:Smalljim#top|&lt;small&gt;JIM&lt;/small&gt;]]&amp;nbsp; 17:45, 18 March 2013 (UTC)
+	</talkpage>
+</article>

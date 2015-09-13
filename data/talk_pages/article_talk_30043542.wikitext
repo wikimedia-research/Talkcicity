@@ -1,0 +1,6 @@
+<article id="18784504" title=Talk:TuRU Düsseldorf>
+	<talkpage id="18784504" title="Talk:TuRU Düsseldorf">
+{{WikiProject Germany|class=start|importance=low}}
+{{WikiProject Football|class=start|importance=low|Germany=yes}}
+	</talkpage>
+</article>

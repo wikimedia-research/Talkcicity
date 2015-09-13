@@ -1,0 +1,6 @@
+<article id="14960878" title=Talk:Armageddon – Les Effets Speciaux>
+	<talkpage id="14960878" title="Talk:Armageddon – Les Effets Speciaux">
+{{WikiProject Amusement Parks|disney-importance=mid|disney=yes|class=start|importance=low}}
+{{WP Disney|class=stub}}
+	</talkpage>
+</article>

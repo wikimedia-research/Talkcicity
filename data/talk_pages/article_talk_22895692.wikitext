@@ -1,0 +1,5 @@
+<article id="22895692" title=Talk:Łojki, Silesian Voivodeship>
+	<talkpage id="22895692" title="Talk:Łojki, Silesian Voivodeship">
+{{WikiProject Poland|class=start|importance=mid}}
+	</talkpage>
+</article>

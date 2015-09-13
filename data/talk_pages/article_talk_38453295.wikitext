@@ -1,0 +1,7 @@
+<article id="38320154" title=Talk:Sarojini Naidu-class extra-fast patrol vessel>
+	<talkpage id="38320154" title="Talk:Sarojini Naidu-class extra-fast patrol vessel">
+{{WPSHIPS|class=start |B1=y |B2=n |B3=n |B4=y |B5=n }}
+==Move discussion in progress==
+There is a move discussion in progress on [[Talk:Rajshree class inshore patrol vessel#Requested move |Talk:Rajshree class inshore patrol vessel]] which affects this page. Please participate on that page and not in this talk page section. Thank you. &lt;!-- Talk:Rajshree class inshore patrol vessel crosspost --&gt; —[[User:RMCD bot|RMCD bot]] 20:32, 24 January 2013 (UTC)
+	</talkpage>
+</article>

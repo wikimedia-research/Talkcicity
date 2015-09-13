@@ -1,0 +1,7 @@
+<article id="9143208" title=User talk:71.60.177.158>
+	<talkpage id="9143208" title="User talk:71.60.177.158">
+[[Image:Nuvola_apps_important.svg|25px]] Please stop. If you continue to [[Wikipedia:Vandalism|vandalise]] Wikipedia{{{{{subst|}}}#if:Bobby Convey|, as you did to [[:Bobby Convey]]}}, you '''will''' be [[Wikipedia:Blocking policy|blocked]]. {{{2|}}}&lt;!-- {{uw-vandalism3}} --&gt; [[User:Robwingfield|robwingfield]]&amp;nbsp;&lt;sup&gt;&amp;laquo;[[User talk:Robwingfield|T]]&amp;bull;[[Special:Contributions/Robwingfield|C]]&amp;raquo;&lt;/sup&gt; 13:24, 27 January 2007 (UTC)
+
+[[Image:Stop_hand.svg|25px]] This is your '''last warning'''. The next time you [[Wikipedia:Vandalism|vandalise]] Wikipedia{{{{{subst|}}}#if:Bobby Convey|, as you did to [[:Bobby Convey]]}}, you '''will''' be [[Wikipedia:Blocking policy|blocked]] from editing. {{{2|}}}&lt;!-- {{uw-vandalism4}} --&gt; [[User:Robwingfield|robwingfield]]&amp;nbsp;&lt;sup&gt;&amp;laquo;[[User talk:Robwingfield|T]]&amp;bull;[[Special:Contributions/Robwingfield|C]]&amp;raquo;&lt;/sup&gt; 16:12, 8 February 2007 (UTC)
+	</talkpage>
+</article>

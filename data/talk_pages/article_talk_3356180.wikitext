@@ -1,0 +1,18 @@
+<article id="3356180" title=User talk:J D Good>
+	<talkpage id="3356180" title="User talk:J D Good">
+== '''Welcome to Wikipedia!''' ==
+Dear {{PAGENAME}}:
+[[Wikipedia:Welcome, newcomers|Welcome]] to [[Wikipedia]], a free and open-content encyclopedia.  I hope you enjoy contributing.  To help get you settled in, I thought you might find the following pages useful:
+
+* [[Wikipedia:Five pillars|Five Pillars of Wikipedia]]
+* [[Wikipedia:Community Portal|Community Portal]]
+* [[Wikipedia:FAQ|Frequently Asked Questions]]
+* [[Wikipedia:How to edit a page|How to edit a page]]
+* [[Wikipedia:Revert|How to revert to a previous version of a page]]
+* [[Wikipedia:Tutorial|Tutorial]]
+* [[Wikipedia:Copyrights|Copyrights]]
+* [[Wikipedia:Shortcuts|Shortcuts]]
+
+Don't worry too much about being perfect.  Very few of us are!  Just in case you are not perfect, click [[Wikipedia:Avoiding common mistakes|here]] to see how you can avoid making common mistakes.  Wikipedians try to follow a strict policy of [[Wikipedia:Please do not bite the newcomers|never biting new users]].  If you are unsure of how to do something, you are welcome to ask a more experienced user such as an [[Wikipedia:Administrator|administrator]].  One last bit of advise, please sign any dicussion comment with four tildes (~&amp;#126;~~).  The software will automatically convert this into you signature which can be altered in the &quot;Preferences&quot; tab at the top of the screen.  I hope I have not overwhelmed you with information.  If you need any help just let me know.  Once again welcome to Wikipedia, and don't forget to [[Wikipedia:User page|tell us about yourself]] and be [[Wikipedia:Bold|'''BOLD''']]! [[User:FCYTravis|FCYTravis]] 05:40, 8 December 2005 (UTC)
+	</talkpage>
+</article>

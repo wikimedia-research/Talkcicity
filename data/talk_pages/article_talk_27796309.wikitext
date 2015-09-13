@@ -1,0 +1,5 @@
+<article id="27796309" title=Talk:Rancho San Diego Island>
+	<talkpage id="27796309" title="Talk:Rancho San Diego Island">
+{{WikiProject California|class=start|importance=low}}
+	</talkpage>
+</article>

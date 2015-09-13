@@ -1,0 +1,5 @@
+<article id="25059252" title=Talk:San Felipe de Austin>
+	<talkpage id="25059252" title="Talk:San Felipe de Austin">
+{{WikiProject United States|class=redirect|importance=NA|TX=yes|TX-importance=NA}}
+	</talkpage>
+</article>

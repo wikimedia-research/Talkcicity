@@ -1,0 +1,10 @@
+<article id="19289259" title=Talk:Philip S. Cifarelli>
+	<talkpage id="19289259" title="Talk:Philip S. Cifarelli">
+{{WikiProject Biography
+|living=no
+|class=Start
+
+|listas=Cifarelli, Philip S.
+}}
+	</talkpage>
+</article>

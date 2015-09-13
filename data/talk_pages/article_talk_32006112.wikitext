@@ -1,0 +1,6 @@
+<article id="32006112" title=User talk:71.194.157.100>
+	<talkpage id="32006112" title="User talk:71.194.157.100">
+== June 2011 ==
+[[File:Information.svg|25px|alt=|link=]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of [[Special:Contributions/71.194.157.100|your recent edits]], such as the one you made to [[:I Believe (Bon Jovi song)]], did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. The reverted edit can be found &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/w/index.php?diff=432983912 here]&lt;/span&gt;. Thank you.&lt;!-- Template:uw-vandalism1 --&gt;&lt;!-- igloo:vandalism1 --&gt; [[User:Wasbeer|&lt;b style=&quot;white-space:nowrap;text-shadow:#000 0em 0em 0.4em,#5a0 -0.2em -0.2em 0.4em,#00a 0.2em 0.2em 0.4em;color:#ddd&quot;&gt;Wasbeer&lt;/b&gt;]] 05:58, 7 June 2011 (UTC)
+	</talkpage>
+</article>

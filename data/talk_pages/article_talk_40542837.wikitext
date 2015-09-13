@@ -1,0 +1,7 @@
+<article id="40542837" title=User talk:71.191.162.111>
+	<talkpage id="40542837" title="User talk:71.191.162.111">
+== September 2013 ==
+[[Image:Stop hand nuvola.svg|30px|alt=Stop icon]] This is your '''only warning'''; if you [[Wikipedia:Vandalism|vandalize]] Wikipedia again, as you did at [[:71.191.162.111]], you may be '''[[Wikipedia:Blocking policy|blocked from editing]] without further notice'''. &lt;!-- Template:uw-vandalism4im --&gt; [[User:EvergreenFir|EvergreenFir]] ([[User talk:EvergreenFir|talk]]) 01:54, 16 September 2013 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

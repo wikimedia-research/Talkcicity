@@ -1,0 +1,10 @@
+<article id="24738610" title=Talk:Revolutionary War Cemetery>
+	<talkpage id="24738610" title="Talk:Revolutionary War Cemetery">
+{{WikiProjectBannerShell|1=
+{{WikiProject National Register of Historic Places|class=B|importance=low|needs-infobox=no}}
+{{WikiProject Capital District|class=B|importance=Mid}}
+{{WPMILHIST|class=B|B1=y|B2=y|B3=y|B4=y|B5=y|US=yes|Memorials=yes|ARW=yes}}
+}}
+{{dyktalk|29 October|2009|{{*mp}}... that local lore in [[Salem (village), New York|Salem, New York]], has it that one of the first people buried in the '''[[Revolutionary War Cemetery]]''' was an unknown local [[Native Americans in the United States|Indian]] who wandered into town and died?}}
+	</talkpage>
+</article>

@@ -1,0 +1,5 @@
+<article id="39876446" title=Talk:De Villagra>
+	<talkpage id="39876446" title="Talk:De Villagra">
+{{WikiProject Anthroponymy|class=List}}
+	</talkpage>
+</article>

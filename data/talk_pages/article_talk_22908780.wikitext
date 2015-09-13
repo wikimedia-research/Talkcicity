@@ -1,0 +1,28 @@
+<article id="22908780" title=User talk:JAKKE KAAOS>
+	<talkpage id="22908780" title="User talk:JAKKE KAAOS">
+
+
+'''Welcome!'''
+
+Hello, {{BASEPAGENAME}}, and [[Wikipedia:Welcome, newcomers|welcome]] to Wikipedia! {{#if:yes||Thank you for [[Special:Contributions/{{PAGENAME}}|your contributions]].}} I hope you like the place and decide to stay. Unfortunately, one or more of the pages you created{{#if:User:JAKKE KAAOS| , like [[:User:JAKKE KAAOS]],}} may not conform to some of Wikipedia's [[Wikipedia:List of policies|guidelines]] for page creation, and may soon be deleted. 
+
+There's a page about creating articles you may want to read called '''[[Wikipedia:Your first article|Your first article]]'''. If you are stuck, and looking for help, please come to the '''[[Wikipedia:New contributors' help page|New contributors' help page]]''', where experienced Wikipedians can answer any queries you have! Or, you can just type '''&lt;code&gt;{{tl|helpme}}&lt;/code&gt;''' on this page, and someone will show up shortly to answer your questions. Here are a few other good links for newcomers:
+*[[Wikipedia:Your first article|Your first article]]
+*[[Wikipedia:BLP|Biographies of living persons]]
+*[[Wikipedia:How to write a great article|How to write a great article]]
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Help:Contents|Help pages]]
+*[[Wikipedia:Tutorial|Tutorial]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Sign your posts on talk pages|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you have any questions, check out [[Wikipedia:Where to ask a question]] or ask me on {{#if:|[[User talk:{{{2}}}{{!}}my talk page]]|my talk page}}. &lt;!-- Template:Firstarticle --&gt; Again, welcome!&amp;nbsp;[[User:Dan D. Ric|Dan D. Ric]] ([[User talk:Dan D. Ric|talk]]) 03:14, 23 May 2009 (UTC)
+==[[Wikipedia:Criteria for speedy deletion|Speedy deletion]] nomination of [[:User:JAKKE KAAOS]]==
+[[Image:Ambox warning_pn.svg|48px|left]] Please refrain from introducing inappropriate pages, such as [[:User:JAKKE KAAOS]], to Wikipedia. Doing so is not in accordance with our [[Wikipedia:List of policies|policies]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. 
+
+If you think that this notice was placed here in error, you may contest the deletion by adding &lt;code&gt;{{tl|hangon}}&lt;/code&gt; to '''the top of [[:User:JAKKE KAAOS|the page that has been nominated for deletion]]''' (just below the existing speedy deletion or &quot;db&quot; tag), coupled with adding a note on '''[[User talk:JAKKE KAAOS|the talk page]]''' explaining your position, but be aware that once tagged for ''speedy'' deletion, if the page meets the criterion it may be deleted without delay. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the page that would render it more in conformance with Wikipedia's policies and guidelines. Lastly, please note that if the page does get deleted, you can contact [[:Category:Wikipedia administrators who will provide copies of deleted articles|one of these admins]] to request that they  [[Wikipedia:Userfication#Userfication_of_deleted_content|userfy]] the page or have a copy emailed to you. &lt;!-- Template:Db-vandalism-notice --&gt; &lt;!-- Template:Db-csd-notice-custom --&gt; [[User:Dan D. Ric|Dan D. Ric]] ([[User talk:Dan D. Ric|talk]]) 03:14, 23 May 2009 (UTC)
+
+fuck you
+
+== May 2009 ==
+
+[[Image:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia, as you did with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/User%3aDan_D._Ric?diff=291745537 this edit]&lt;/span&gt; to the page [[:User:Dan D. Ric]]. Such edits constitute [[Wikipedia:Vandalism|vandalism]] and are [[Help:Reverting|reverted]]. Please do not continue to make unconstructive edits to pages; use the [[Wikipedia:Sandbox|sandbox]] for testing. Thank you. &lt;!-- Template:uw-huggle2 --&gt; [[User:Tide rolls|'''&lt;span style=&quot;color:White;background:darkRed&quot;&gt;Tide&lt;/span&gt;''']][[User talk:Tide rolls|'''&lt;span style=&quot;color:darkRed&quot;&gt;rolls'''&lt;/span&gt;]] 03:22, 23 May 2009 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,13 @@
+<article id="16359730" title=Talk:Marcel Herrand>
+	<talkpage id="16359730" title="Talk:Marcel Herrand">
+{{WikiProject France|class=stub}}
+{{WikiProject Biography
+|living=no
+|class=Stub
+|filmbio-work-group=yes
+|needs-photo=yes
+|listas=Herrand, Marcel
+|filmbio-priority=low
+}}
+	</talkpage>
+</article>

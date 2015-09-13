@@ -1,0 +1,5 @@
+<article id="42219252" title=Talk:Dreamers (album)>
+	<talkpage id="42219252" title="Talk:Dreamers (album)">
+{{WP Albums|class=start|importance=low}}
+	</talkpage>
+</article>

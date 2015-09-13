@@ -1,0 +1,6 @@
+<article id="32139004" title=Talk:360: Three Sixty>
+	<talkpage id="32139004" title="Talk:360: Three Sixty">
+{{Talk header}}
+{{WikiProject Video games|class=Stub|importance=low}}
+	</talkpage>
+</article>

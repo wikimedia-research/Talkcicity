@@ -1,0 +1,5 @@
+<article id="18846873" title=User:Wedmedjew>
+	<talkpage id="18846873" title="User:Wedmedjew">
+{{sockpuppet|RGayboy|confirmed|evidence=[[Special:Contributions/{{PAGENAME}}|contributions]]}}
+	</talkpage>
+</article>

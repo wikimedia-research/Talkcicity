@@ -1,0 +1,5 @@
+<article id="32091469" title=Talk:Coleophora ivrizensis>
+	<talkpage id="32091469" title="Talk:Coleophora ivrizensis">
+{{LepidopteraTalk|class=stub|importance=low}}
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="24729583" title=User talk:69.130.172.208>
+	<talkpage id="24729583" title="User talk:69.130.172.208">
+==October 2009==
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to contribute constructively to the encyclopedia, adding content without [[Wikipedia:Citing sources|citing]] a [[Wikipedia:Reliable sources|reliable source]]{{#if:|, as you did to [[:{{{1}}}]],}} is not consistent with our policy of [[Wikipedia:Verifiability|verifiability]]. Take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia.  If you are familiar with [[Wikipedia:Citing sources]], please take this opportunity to add references to the article. Thank you.&lt;!-- Template:uw-unsourced1 --&gt; [[User:JNW|JNW]] ([[User talk:JNW|talk]]) 22:39, 17 October 2009 (UTC)
+	</talkpage>
+</article>

@@ -1,0 +1,6 @@
+<article id="24021470" title=Talk:Animal machine>
+	<talkpage id="24021470" title="Talk:Animal machine">
+{{philosophy|modern=yes|importance=low|mind=yes|class=stub}}
+{{WikiProject Animals}}
+	</talkpage>
+</article>

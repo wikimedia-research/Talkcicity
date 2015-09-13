@@ -1,0 +1,8 @@
+<article id="22338707" title=User talk:71.75.202.24>
+	<talkpage id="22338707" title="User talk:71.75.202.24">
+
+== April 2009 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Rush_(band)?diff=282683106 recent edit]&lt;/span&gt; you made to the page [[:Rush (band)]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:Tide rolls|'''&lt;span style=&quot;color:White;background:Red&quot;&gt;Tide&lt;/span&gt;''']][[User talk:Tide rolls|'''&lt;span style=&quot;color:Red&quot;&gt;rolls'''&lt;/span&gt;]] 02:23, 9 April 2009 (UTC)
+	</talkpage>
+</article>

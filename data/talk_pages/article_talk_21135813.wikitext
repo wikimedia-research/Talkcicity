@@ -1,0 +1,20 @@
+<article id="9937765" title=Talk:Rubin Carter (American football)>
+	<talkpage id="9937765" title="Talk:Rubin Carter (American football)">
+{{WikiProjectBannerShell|blp=yes|1=
+{{WikiProject Biography
+|living=yes
+|class=Start
+|sports-work-group=yes
+|sports-priority=
+|listas=Carter, Rubin
+}}
+{{WikiProject College football|class=Start|importance=high}}
+{{WikiProject National Football League|class=Start|importance=}}
+}}
+
+== African-American ==
+
+Is Carter African-American? I do not know. I read the article in the sources about his being made a coach at Purdue and it had nothing to say about Carter's ethnicity. All I know is that until somewhere in the text says that Carter is African-American, we should not categorize him as such.[[User:Johnpacklambert|John Pack Lambert]] ([[User talk:Johnpacklambert|talk]]) 01:37, 23 September 2013 (UTC)
+*This was five second verifiable, [http://caafootball.wordpress.com/2013/02/20/celebrating-black-history-towsons-rubin-carter/ photo and text]. Removing easily verifiable information does not make this article better. It takes less time to verify in sources than to complain of the lack of citation. __[[User:Elaqueate|Elaqueate]] ([[User talk:Elaqueate|talk]]) 07:43, 23 September 2013 (UTC)
+	</talkpage>
+</article>

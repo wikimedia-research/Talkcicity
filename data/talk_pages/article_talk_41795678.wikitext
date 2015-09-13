@@ -1,0 +1,10 @@
+<article id="41795678" title=Talk:Sakhteman-e Mansur>
+	<talkpage id="41795678" title="Talk:Sakhteman-e Mansur">
+{{WikiProjectBannerShell|1=
+{{WikiProject Geography|class=stub|importance=low}}
+{{WikiProject Iran |importance=|class=stub}}
+{{WikiProject Cities|class=stub|importance=low}}
+{{Image requested|in=Iran}}
+}}
+	</talkpage>
+</article>

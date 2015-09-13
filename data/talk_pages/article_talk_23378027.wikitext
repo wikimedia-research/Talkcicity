@@ -1,0 +1,14 @@
+<article id="23378027" title=User talk:205.237.134.4>
+	<talkpage id="23378027" title="User talk:205.237.134.4">
+
+== June 2009 ==
+
+[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Principality_of_Sealand?diff=298436990 recent edit]&lt;/span&gt; you made to the page [[:Principality of Sealand]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:Alansohn|Alansohn]] ([[User talk:Alansohn|talk]]) 21:12, 24 June 2009 (UTC)
+== March 2011 ==
+[[File:Information.svg|25px|alt=|link=]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of [[Special:Contributions/205.237.134.4|your recent edits]], such as the one you made to [[:Japurá River]], did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you!&lt;!-- Template:uw-vandalism1 --&gt; -- [[User:Jncraton|Jncraton]] ([[User talk:Jncraton|talk]]) 15:11, 28 March 2011 (UTC)
+
+== June 2013 ==
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:The Anonymouse|The Anonymouse]]. I wanted to let you know that I undid one or more of [[Special:Contributions/205.237.134.4|your recent contributions]]&amp;nbsp;to [[:Russian roulette]] because it did not appear constructive. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:The Anonymouse|my talk page]]. Thanks!&lt;!-- Template:uw-vandalism1 --&gt;&lt;!-- Template:uw-cluebotwarning1 --&gt;  '''[[User:The Anonymouse|The&amp;nbsp;Anonymouse]]'''&amp;nbsp;([[User talk:The Anonymouse|talk]]) 18:34, 12 June 2013 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+	</talkpage>
+</article>

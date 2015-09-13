@@ -1,0 +1,6 @@
+<article id="24239857" title=Talk:Heavy Rhyme Experience, Vol. 1>
+	<talkpage id="24239857" title="Talk:Heavy Rhyme Experience, Vol. 1">
+{{WikiProject Jazz|class=Stub|album=yes}}
+{{WikiProject Albums|class=stub}}
+	</talkpage>
+</article>

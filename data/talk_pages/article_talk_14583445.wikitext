@@ -1,0 +1,6 @@
+<article id="14583445" title=Talk:Stadium Merdeka>
+	<talkpage id="14583445" title="Talk:Stadium Merdeka">
+{{WikiProject Event Venues|class=start}}
+{{WP Malaysia|class=stub|importance=mid}}
+	</talkpage>
+</article>

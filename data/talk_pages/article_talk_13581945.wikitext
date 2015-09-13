@@ -1,0 +1,18 @@
+<article id="13581945" title=User talk:Lucyinthe>
+	<talkpage id="13581945" title="User talk:Lucyinthe">
+
+
+== Welcome ==
+'''Welcome!'''
+
+Hello, {{BASEPAGENAME}}, and [[Wikipedia:Introduction|welcome]] to Wikipedia! Thank you for [[Special:Contributions/{{BASEPAGENAME}}|your contributions]]{{#if:{{{art|}}}|, especially what you did for [[{{{art}}}]]|}}. I hope you like the place and decide to stay. Here are some pages that you might find helpful:
+*[[Wikipedia:Five pillars|The five pillars of Wikipedia]]
+*[[Wikipedia:How to edit a page|How to edit a page]]
+*[[Help:Contents|Help pages]]
+*[[Wikipedia:Tutorial|Tutorial]]
+*[[Wikipedia:Article development|How to write a great article]]
+*[[Wikipedia:Manual of Style|Manual of Style]]
+I hope you enjoy editing here and being a [[Wikipedia:Wikipedians|Wikipedian]]! Please [[Wikipedia:Signatures|sign your name]] on talk pages using four tildes (&lt;nowiki&gt;~~~~&lt;/nowiki&gt;); this will automatically produce your name and the date. If you need help, check out [[Wikipedia:Questions]], ask me on {{#if:Ioeth|[[user talk:Ioeth|my talk page]]|my talk page}}, or ask your question and then place &lt;code&gt;&lt;nowiki&gt;{{&lt;/nowiki&gt;[[:Category:Wikipedians looking for help|helpme]]&lt;nowiki&gt;}}&lt;/nowiki&gt;&lt;/code&gt; before the question on your talk page. Again, welcome! &lt;!-- Template:Welcome --&gt;
+[[User:Ioeth|Ioeth]] &lt;sub&gt;([[User_talk:Ioeth|talk]] [[Special:Contributions/Ioeth|contribs]] [[WP:Friendly|friendly]])&lt;/sub&gt; 14:56, 5 October 2007 (UTC)
+	</talkpage>
+</article>

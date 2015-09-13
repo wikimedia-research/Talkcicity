@@ -1,0 +1,16 @@
+<article id="15081902" title=Talk:Summer Erb>
+	<talkpage id="15081902" title="Talk:Summer Erb">
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography
+|living=yes
+|class=stub
+|auto=yes
+|sports-work-group=yes
+|listas=Erb, Summer
+}}
+{{WikiProject Basketball|class=Stub|auto=yes}}
+{{WikiProject Women's sport|class=Stub|auto=Inherit|importance=}}
+| blp=yes
+}}
+	</talkpage>
+</article>

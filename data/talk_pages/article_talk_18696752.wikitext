@@ -1,0 +1,6 @@
+<article id="18696752" title=Talk:Rochelle>
+	<talkpage id="18696752" title="Talk:Rochelle">
+{{DisambigProject}}
+{{Anthroponymy|class=dab}}
+	</talkpage>
+</article>

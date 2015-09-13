@@ -1,0 +1,58 @@
+<article id="43393617" title=User talk:Manikandan natarajan92>
+	<talkpage id="43393617" title="User talk:Manikandan natarajan92">
+
+
+== July 2014 ==
+[[File:Information.svg|left|25px|alt=|link=]] Hello, and welcome to Wikipedia. This is a message letting you know that one or more of your recent edits to [[:Ingan-munhwage]] has been undone by an automated computer program called [[User:ClueBot NG|ClueBot NG]].
+{{clear}}
+* ClueBot NG makes very few [[User:ClueBot NG#Information About False Positives|mistakes]], but it does happen. If you believe the change you made was constructive, please [[User:ClueBot NG#Information About False Positives|read about it]], [{{User:ClueBot NG/Warnings/FPReport|1907315}} report it here], remove this message from your talk page, and then make the edit again.
+* For help, take a look at the [[Wikipedia:Introduction|introduction]].
+* The following is the log entry regarding this message: [[Ingan-munhwage]] was [http://en.wikipedia.org/w/index.php?title=Ingan-munhwage&amp;diff=618447002&amp;oldid=617146226 changed] by [[Special:Contributions/Manikandan natarajan92|Manikandan natarajan92]] [[User:Manikandan natarajan92|(u)]] [[User talk:Manikandan natarajan92|(t)]] ANN scored at 0.957584 on 2014-07-25T18:14:08+00:00 &lt;!-- MySQL ID: 1907315 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]) 18:14, 25 July 2014 (UTC)
+
+{| class=&quot;wikitable&quot; style=&quot;width:100%&quot;
+|colspan=&quot;2&quot; |&lt;center&gt;[[Image:AnimWIKISTAR-laurier-WT.gif|AnimWIKISTAR-laurier-WT.gif]]
+&lt;big&gt;&lt;center&gt;Hello, &lt;span style=&quot;color: #0047AB&quot;&gt;'''{{BASEPAGENAME}}'''&lt;/span&gt;, and [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome to Wikipedia!]]&lt;/br&gt;Thank you for registering an account.&lt;/br&gt;I hope you like the place and decide to stay.&lt;/center&gt;&lt;/big&gt;&lt;/br&gt;
+----
+{|  style=&quot;width:100%&quot;
+! style=&quot;width:15%;&quot;|
+! style=&quot;width:42%;&quot;|
+! style=&quot;width:43%;&quot;|
+|-
+| ||[[Image:Information_icon.svg|23px]] &amp;nbsp; '''''[[Wikipedia:Introduction|Introduction]]'''''&lt;/br&gt;
+&amp;nbsp;&lt;big&gt;&lt;font color=&quot;orange&quot;&gt;'''5'''&lt;/font&gt;&lt;/big&gt;&lt;!----&gt; &amp;nbsp;&amp;nbsp;'''''[[WP:5P|The five pillars of Wikipedia]]'''''&lt;/br&gt;
+[[Image:Crystal package utilities.png|23px]] &amp;nbsp; '''''[[WP:HEP|How to edit a page]]'''''&lt;/br&gt;
+[[Image:Crystal khelpcenter.png|23px]] &amp;nbsp; '''''[[Help:Contents|Help]]'''''&lt;/br&gt;
+[[Image:Crystal Clear app ktip.png|23px]] &amp;nbsp; '''''[[Wikipedia:Tips|Tips]]'''''&lt;/br&gt;
+||
+[[Image:Cscr-featured.png|23px|]] &amp;nbsp; '''''[[WP:YFA|How to write a great article]]'''''&lt;/br&gt;
+[[Image:Crystal_Clear_app_kedit.png|23px]] &amp;nbsp; '''''[[WP:MOS|Manual of Style]]'''''&lt;/br&gt;
+[[Image:UncialB-01.png|23px]] &amp;nbsp; '''''[[WP:BB|Be Bold]]'''''&lt;/br&gt;
+[[Image:Face-angel.svg|23px]] &amp;nbsp; '''''[[WP:AGF|Assume Good faith]]'''''&lt;/br&gt;
+[[Image:Presa de decissions.png|23px]] &amp;nbsp; '''''[[WP:ADOPT|Get adopted]]'''''&lt;/br&gt;
+|}
+|-
+|colspan=&quot;2&quot; |&lt;center&gt;If you need help, ask me on my talk page, or get instant online help at [http://webchat.freenode.net/?channels=#wikipedia-en-help IRC].&lt;/br&gt;
+You can also place &lt;code&gt;&lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt;&lt;/code&gt; on your talk page and someone will come shortly to answer your questions.&lt;/center&gt;
+|-
+|}
+[[User:Anna Frodesiak|Anna Frodesiak]] ([[User talk:Anna Frodesiak|talk]]) 08:25, 26 July 2014 (UTC)
+
+==Your userpage==
+I have deleted your user page. It is intended for '''basic''' information about yourself or your Wikimedia-related activities. Although a lot of leeway is allowed in personalizing your user page, it is [[WP:NOT#HOST|not a personal website, blog, or social networking medium]], nor should it be used to promote yourself, or host a [[WP:FAKEARTICLE|fake article]], CV, or lengthy biography.
+
+Please don't be offended, and please feel welcome here. I encourage you to help build the encyclopedia. If there is anything you ever need, just ask. Best wishes, [[User:Anna Frodesiak|Anna Frodesiak]] ([[User talk:Anna Frodesiak|talk]]) 08:25, 26 July 2014 (UTC)
+
+== Manikandan natarajan92, you are invited to the Teahouse! ==
+
+
+{| style=&quot;margin: 2em 4em;&quot;
+|- valign=&quot;top&quot;
+| [[File:WP teahouse logo 2.png|alt=Teahouse logo|link=w:en:WP:Teahouse|File:WP teahouse logo 2.png by User:Heatherawalls, licensed under CC BY-SA 3.0]]
+| &lt;div style=&quot;background-color:#f4f3f0; color: #393D38; padding: 1em;border-radius:10px; font-size: 1.1em;&quot;&gt;
+Hi '''Manikandan natarajan92'''! Thanks for contributing to Wikipedia. Come join other new editors at [[WP:Teahouse|the Teahouse]]! The Teahouse is a space where new editors can get help from '''other new editors'''.  These editors have also just begun editing Wikipedia; they may have had similar experiences as you. Come share your experiences, ask questions, and '''get advice from your peers'''. I hope to see you there! {{noping|Nathan2055}} ([[w:en:WP:Teahouse/Hosts|I'm a Teahouse host]])
+&lt;div class=&quot;submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only&quot; role=&quot;button&quot; aria-disabled=&quot;false&quot;&gt;&lt;span class=&quot;ui-button-text&quot;&gt;[[WP:Teahouse|Visit the Teahouse]]&lt;/span&gt;&lt;/div&gt;&lt;small&gt;&lt;span style=&quot;text-align:right;&quot;&gt;This message was delivered automatically by your robot friend, [[User:HostBot|HostBot]] ([[User talk:HostBot|talk]]) 16:07, 27 July 2014 (UTC)&lt;/small&gt;&lt;/span&gt;
+&lt;/div&gt; 
+|}
+[[Category:Wikipedians who have received a Teahouse invitation]]&lt;!-- Template:Teahouse_HostBot_Invitation --&gt;
+	</talkpage>
+</article>

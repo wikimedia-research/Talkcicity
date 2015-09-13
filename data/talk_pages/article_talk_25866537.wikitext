@@ -1,0 +1,9 @@
+<article id="25866537" title=User talk:86.17.43.23>
+	<talkpage id="25866537" title="User talk:86.17.43.23">
+
+
+== January 2010 ==
+[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of your recent edits, such as the one you made to [[:Talk:British Empire]], did not appear to be constructive and has been reverted. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; [[User:Marek69|{{#if:|&lt;span style=&quot;background-color:Marek;color:DarkBlue;&quot;&gt;&lt;/span&gt;|&lt;span style=&quot;color:DarkBlue;&quot;&gt;Marek&lt;/span&gt;}}]]&lt;small&gt;.&lt;/small&gt;[[Special:Contributions/Marek69|&lt;small&gt;{{#if:|&lt;span style=&quot;background-color:69;color:Blue;&quot;&gt;&lt;/span&gt;|&lt;span style=&quot;color:Blue;&quot;&gt;69&lt;/span&gt;}}&lt;/small&gt;]][[User_talk:Marek69|&lt;small&gt;{{#if:|&lt;span style=&quot;background-color:&lt;sup&gt;'' talk''&lt;/sup&gt;;color:Green;&quot;&gt;&lt;/span&gt;|&lt;span style=&quot;color:Green;&quot;&gt;&lt;sup&gt;'' talk''&lt;/sup&gt;&lt;/span&gt;}}&lt;/small&gt;]] 16:33, 19 January 2010 (UTC)
+:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
+	</talkpage>
+</article>

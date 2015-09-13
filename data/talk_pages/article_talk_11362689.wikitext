@@ -1,0 +1,7 @@
+<article id="11362689" title=User talk:Solllss>
+	<talkpage id="11362689" title="User talk:Solllss">
+
+=== May 2007 ===
+{{{icon|[[Image:Information.svg|25px]] }}}Please do not add unhelpful and unconstructive content to Wikipedia, as you did to [[:Phentermine]]. Your edits appear to be [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Thank you.&lt;!-- Template:uw-vandalism2 --&gt; --[[User:Rrburke|Rrburke]]&lt;sup&gt;&lt;small&gt;([[User_talk:Rrburke|talk]])&lt;/small&gt;&lt;/sup&gt; 19:18, 22 May 2007 (UTC)
+	</talkpage>
+</article>
