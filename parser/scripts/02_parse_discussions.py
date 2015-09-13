@@ -108,18 +108,18 @@ compact_header_fields = ['global_id','parent_global_id','id','parent_id','level'
 text_header_fields = ['text']
 
 if write_compact:
-    compact_output = open(outFolder + 'discussions.csv', 'w')
+    compact_output = open(outFolder + 'discussions.tsv', 'w')
     compact_output.write(sep.join(compact_header_fields) + '\n')
 
 if write_compact_text:
-    compact_output_text = open(outFolder + 'discussions_text.csv', 'w')
+    compact_output_text = open(outFolder + 'discussions_text.tsv', 'w')
     compact_output_text.write(sep.join(compact_header_fields + text_header_fields) + '\n' )
 
 if write_titles:
-    out_titles = open(outFolder + 'talk_titles.csv', 'w')
+    out_titles = open(outFolder + 'talk_titles.tsv', 'w')
     out_titles.write(sep.join(['article_id','talk_page_id','talk_page_title']) + '\n')
 if write_thread_titles:
-    thread_file = open(outFolder + 'thread_titles.csv', 'w')
+    thread_file = open(outFolder + 'thread_titles.tsv', 'w')
     thread_file.write(sep.join(['article_id','talk_page_id','talk_page','thread_id','thread_title']) + '\n')
 
 users = {}
