@@ -52,7 +52,6 @@ db = False
 #assign ids to all nodes
 currentNodeIdGlobal = -1
 
-
 ### VERY IMPORTANT: set it to true if the input files are user talk pages, false otherwise
 userTalk = False
 
@@ -81,11 +80,13 @@ optparser.add_option("-d", "--directory", dest="dir", default="../talk_pages/",
    help="directory containing talk page files")
 optparser.add_option("-n", "--name", dest="name", default="",
     help="prefix of output file names")
+optparser.add_option("-o", "--outpath", dest="outpath", default="./discussions/",
+    help="Output file path")
 (opts, args) = optparser.parse_args()
 
 prefix = opts.name
 if prefix != "": prefix += '_'
-outFolder = "./discussions/" + prefix
+outFolder = opts.outpath + prefix
 logFolder = './logs/' + prefix
 
 #inventing the ids of users...

@@ -34,4 +34,6 @@ main <- function(){
   write.table(results, file = "./data/parser_input.tsv", row.names = FALSE, col.names = FALSE, quote = FALSE, sep = "\t")
   
   system("python ./parser/scripts/01_extract_discussions.py -l ./data/parser_input.tsv -verbose False -debug False -debug_more False")
+  system("python ./parser/scripts/02_extract_discussions.py ")
+  
 }
