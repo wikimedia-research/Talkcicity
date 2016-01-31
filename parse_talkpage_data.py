@@ -4,6 +4,7 @@ from os import listdir
 import random
 import re
 import mwparserfromhell as mwp
+import pickle
 
 def extract_sections(page_text):
   for section in page_text['sections']:
@@ -38,3 +39,5 @@ for file in files:
     except:
       pass
 
+with open("parsed_sample.pickle", "wb") as file:
+  pickle.dump(output, file)
