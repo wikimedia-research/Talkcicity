@@ -6,17 +6,15 @@ import re
 import mwparserfromhell as mwp
 
 def extract_sections(page_text):
-  output = list()
   for section in page_text['sections']:
-    output = output + extract_comments(section)
-  return(output)
+    section = extract_comments(section)
+  return(page_text)
 
 # Once we've got an individual section, this goes through each comment getting the text
 def extract_comments(section):
-  output = list()
   for comment in section['comments']:
-    output.append(extract_text(comment['text_blocks']))
-  return(output)
+    comment['text_blocks'] = extract_text(comment['text_blocks'])
+  return(section)
 
 # Get the actual comment text :/
 def extract_text(comment):
@@ -29,8 +27,14 @@ def extract_text(comment):
 # Get the wikitext files, subset
 files = random.sample(listdir("./data/talk_pages"), 100)
 
+output = list()
 for file in files:
   f_path = "./data/talk_pages/" + file;
   with open(f_path, "r") as f:
     text = f.read()
-    parsed = talkpageparser.parse(text)
+    try:
+      parsed = talkpageparser.parse(text)
+      output = (output + extract_sections(parsed))
+    except:
+      pass
+
