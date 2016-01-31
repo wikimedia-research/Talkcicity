@@ -15,13 +15,13 @@ class talk_collection:
   # Extract sections from the page
   def extract_sections(page_text): # I might rewrite those so that it's more of an "apply FUN to each section"
     for section in page_text['sections']:
-      section = extract_comments(section)
+      section = self.extract_comments(section)
     return(page_text)
   
   # Once we've got an individual section, this goes through each comment getting the text
   def extract_comments(section):
     for comment in section['comments']:
-      comment['text_blocks'] = parse_text(comment['text_blocks'])
+      comment['text_blocks'] = self.parse_text(comment['text_blocks'])
     return(section)
   
   # Get the actual comment text :/
@@ -44,7 +44,7 @@ class talk_collection:
         text = f.read()
       try:
         parsed = talkpageparser.parse(text)
-        self.talk_entries.append(extract_sections(parsed))
+        self.talk_entries.append(self.extract_sections(parsed))
       except:
         self.failed_files.append(file)
       
