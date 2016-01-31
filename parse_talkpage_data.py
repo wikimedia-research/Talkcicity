@@ -34,7 +34,7 @@ for file in files:
     text = f.read()
     try:
       parsed = talkpageparser.parse(text)
-      output = (output + extract_sections(parsed))
+      output.append(extract_sections(parsed))
     except:
       pass
 
