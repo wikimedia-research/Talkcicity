@@ -38,10 +38,10 @@ class talk_collection:
   
   # Get the actual comment text :/
   def parse_text(self, comment):
-    comment = re.sub("\\[\\[(File|Image):.*\\]\\]", "", '\n'.join(comment)) # File and image links go wonky when mwp handles it.
+    comment = re.sub("\\[\\[(File|Image):.*\\]\\]", "", ' '.join(comment)) # File and image links go wonky when mwp handles it.
     comment = re.sub("<article id=.*\\n\\t<talkpage.*>", "", comment) # Merge and remove content metadata
     comment = mwp.parse(comment).strip_code(normalize=True, collapse=True)
-    comment = re.sub("(<!--.*-->|</article>|</talkpage>)", "", comment)
+    comment = re.sub("(<!--.*-->|</article>|</talkpage>|\t|\n)", "", comment)
     return(comment)
   
   # The constructor. Takes in a list of files, parses and cleans the comments and stores
