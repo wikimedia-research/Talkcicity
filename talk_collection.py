@@ -13,7 +13,7 @@ class talk_collection:
       pickle.dump(self.talk_entries, file)
   
   # Extract sections from the page
-  def extract_sections(page_text):
+  def extract_sections(page_text): # I might rewrite those so that it's more of an "apply FUN to each section"
     for section in page_text['sections']:
       section = extract_comments(section)
     return(page_text)
