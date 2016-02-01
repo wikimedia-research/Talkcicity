@@ -14,7 +14,7 @@ class talk_collection:
       for section in entry['sections']:
         for i, index in enumerate(section['comments']):
           if i == 0:
-            output.append(["", index["text_blocks"]])
+            output.append(["N/A", index["text_blocks"]])
           else:
             output.append([section["comments"][i-1]["text_blocks"], index["text_blocks"]])
     return(output)
@@ -38,10 +38,7 @@ class talk_collection:
   
   # Get the actual comment text :/
   def parse_text(self, comment):
-    comment = re.sub("\\[\\[(File|Image):.*\\]\\]", "", ' '.join(comment)) # File and image links go wonky when mwp handles it.
-    comment = re.sub("<article id=.*\\n\\t<talkpage.*>", "", comment) # Merge and remove content metadata
-    comment = mwp.parse(comment).strip_code(normalize=True, collapse=True)
-    comment = re.sub("(<!--.*-->|</article>|</talkpage>|\t|\n)", "", comment)
+    comment = re.sub("(\t|\n)", "", ' '.join(comment))
     return(comment)
   
   # The constructor. Takes in a list of files, parses and cleans the comments and stores
