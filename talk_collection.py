@@ -1,5 +1,6 @@
 # Python 3 please.
 from wikichatter import talkpageparser
+from wikichatter import signatureutils
 import re
 import mwparserfromhell as mwp
 import pickle
@@ -38,7 +39,16 @@ class talk_collection:
   
   # Get the actual comment text :/
   def parse_text(self, comment):
-    comment = re.sub("(\t|\n)", "", ' '.join(comment))
+    comment = re.sub("(\t|\n)", "", ' '.join(comment)) # Smush it together
+    
+    # Handle signatures!
+    if signatureutils.has_signature(comment):
+      sig = signatureutils._extract_rightmost_signature(comment)
+      if(len(sig)):
+        sig = sig["start"]
+        if sig is not 0:
+          sig-=1
+        comment = comment[:sig]
     return(comment)
   
   # The constructor. Takes in a list of files, parses and cleans the comments and stores
@@ -51,12 +61,11 @@ class talk_collection:
     for file in files:
       with open(file, "r") as f:
         text = f.read()
-      try:
-        parsed = talkpageparser.parse(text)
-        self.talk_entries.append(self.extract_sections(parsed))
-      except:
-        self.failed_files.append(file)
-      
+        try:
+          parsed = talkpageparser.parse(text)
+          self.talk_entries.append(self.extract_sections(parsed))
+        except:
+          self.failed_files.append(file)
     if warn is True:
       if len(self.failed_files) > 0:
         warnings.warn("Some files failed to be read and parsed. See the failed_files list in the talk_collection object")
