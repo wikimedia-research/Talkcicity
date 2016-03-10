@@ -122,7 +122,7 @@ main <- function(){
   pageview_data$url <- paste0("https://en.wikipedia.org/wiki/", pageview_data$title, "?oldid=", pageview_data$revision)
   pageview_data <- pageview_data[,c("title", "events", "url", "type", "class")]
   results <- rbind(data, pageview_data)
-  write.table(results, file = file.path(getwd(),"/data/parser_input.tsv"), row.names = FALSE, col.names = FALSE, quote = FALSE, sep = "\t")
+  write.table(results, file = file.path(getwd(),"/data/selected_articles.tsv"), row.names = FALSE, col.names = FALSE, quote = FALSE, sep = "\t")
 }
 
 main()
