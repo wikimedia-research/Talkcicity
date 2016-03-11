@@ -1,7 +1,0 @@
-<article id="26834538" title=User talk:Wirehat>
-	<talkpage id="26834538" title="User talk:Wirehat">
-== Do not take over articles to promote your company ==
-
-[[Image:Nuvola apps important.svg|25px]] Please stop. If you continue to [[Wikipedia:What Wikipedia is not#Wikipedia is not a soapbox|add promotional material to Wikipedia]]{{#if:Network service provider|, as you did to [[:Network service provider]]}}, you will be [[Wikipedia:Conflict of interest#Blocks|blocked]] from editing. {{#if:|{{{2}}}|}}[[Category:User talk pages with Uw-advert3 notices||{{PAGENAME}}]]&lt;!-- Template:Uw-advert3 --&gt; —'''[[User:C.Fred|C.Fred]]''' ([[User_talk:C.Fred|talk]]) 05:17, 6 April 2010 (UTC)
-	</talkpage>
-</article>

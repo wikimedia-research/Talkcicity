@@ -1,5 +1,0 @@
-<article id="37718236" title=Talk:Joeri Vastmans>
-	<talkpage id="37718236" title="Talk:Joeri Vastmans">
-{{WikiProject Biography|living=yes|class=stub|auto=yes|listas=Vastmans, Joeri}}
-	</talkpage>
-</article>

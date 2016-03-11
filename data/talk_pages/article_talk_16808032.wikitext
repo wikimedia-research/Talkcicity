@@ -1,6 +1,0 @@
-<article id="16808032" title=Talk:Oroiu River>
-	<talkpage id="16808032" title="Talk:Oroiu River">
-{{WikiProject Romania|class=Stub|importance=low}}
-{{WikiProject Rivers|class=stub|importance=low}}
-	</talkpage>
-</article>

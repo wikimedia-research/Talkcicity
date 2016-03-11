@@ -1,5 +1,0 @@
-<article id="25465527" title=Talk:Polje ob Sotli>
-	<talkpage id="25465527" title="Talk:Polje ob Sotli">
-{{WikiProject Slovenia|class=stub|importance=low}}
-	</talkpage>
-</article>

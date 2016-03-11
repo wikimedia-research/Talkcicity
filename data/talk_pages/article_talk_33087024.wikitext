@@ -1,5 +1,0 @@
-<article id="33087024" title=Talk:Asartodes>
-	<talkpage id="33087024" title="Talk:Asartodes">
-{{WikiProject Lepidoptera|class=Stub|importance=Low}}
-	</talkpage>
-</article>

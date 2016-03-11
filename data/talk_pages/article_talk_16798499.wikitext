@@ -1,5 +1,0 @@
-<article id="16798499" title=User talk:69.225.92.162>
-	<talkpage id="16798499" title="User talk:69.225.92.162">
-[[Image:Nuvola apps important.svg|25px]] Please stop. If you continue to [[Wikipedia:Vandalism|vandalize]] Wikipedia{{#if:|, as you did to [[:{{{1}}}]]}}, you will be [[Wikipedia:Blocking policy|blocked]] from editing. {{#if:|{{{2}}}|}}&lt;!-- Template:uw-vandalism3 --&gt;
-	</talkpage>
-</article>

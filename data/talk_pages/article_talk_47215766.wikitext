@@ -1,7 +1,0 @@
-<article id="47215766" title=User talk:70.194.143.193>
-	<talkpage id="47215766" title="User talk:70.194.143.193">
-== July 2015 ==
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Gilliam|Gilliam]]. Wikipedia is written by people who have a wide diversity of opinions, but we try hard to make sure articles have a [[Wikipedia:Neutral point of view|neutral point of view]]. Your recent edit  seemed less than neutral to me, so I removed it for now. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Gilliam|my talk page]]. Thank you. &lt;!-- Template:uw-npov1 --&gt; – [[User:Gilliam|Gilliam]] ([[User talk:Gilliam|talk]]) 00:42, 12 July 2015 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

@@ -1,9 +1,0 @@
-<article id="20796510" title=Talk:Property Institute of New Zealand>
-	<talkpage id="20796510" title="Talk:Property Institute of New Zealand">
-{{WikiProject New Zealand|importance=low|class=stub|auto=yes}}
-
-== Issues ==
-In what sense does this need wikifying? --[[User:RatnimSnave|RatnimSnave]] ([[User talk:RatnimSnave|talk]]) 13:14, 19 April 2011 (UTC)
-: Oh wait, I see actually. It's written in the 1st person.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:RatnimSnave|RatnimSnave]] ([[User talk:RatnimSnave|talk]] • [[Special:Contributions/RatnimSnave|contribs]]) 13:16, 19 April 2011 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
-	</talkpage>
-</article>

@@ -1,6 +1,0 @@
-<article id="22957066" title=Talk:Żeronice, Greater Poland Voivodeship>
-	<talkpage id="22957066" title="Talk:Żeronice, Greater Poland Voivodeship">
-{{WPCities|class=start|importance=low}}
-{{WikiProject Poland|class=start|importance=mid}}
-	</talkpage>
-</article>

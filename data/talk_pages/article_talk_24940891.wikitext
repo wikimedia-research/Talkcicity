@@ -1,9 +1,0 @@
-<article id="24940891" title=Talk:Escape Route>
-	<talkpage id="24940891" title="Talk:Escape Route">
-{{WikiProjectBannerShell|1=
-{{WikiProject Albums|class=Start|importance=low}}
-{{WikiProject Hip hop|class=Start|importance=low}}
-}}
-{{oldafdfull| date = 12 October 2009 (UTC) | result = '''keep''' | page = Escape Route }}
-	</talkpage>
-</article>

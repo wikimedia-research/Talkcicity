@@ -1,5 +1,0 @@
-<article id="42183461" title=Talk:Microcebus>
-	<talkpage id="42183461" title="Talk:Microcebus">
-{{PrimateTalk|class=redirect}}
-	</talkpage>
-</article>

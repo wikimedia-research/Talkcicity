@@ -1,7 +1,0 @@
-<article id="27129388" title=Talk:Magnus Church of England Academy>
-	<talkpage id="27129388" title="Talk:Magnus Church of England Academy">
-{{WikiProject Nottinghamshire|class=start|importance=mid}}
-{{WikiProject Schools|class=start|importance=low}}
-{{reqphoto|in=Nottinghamshire}}
-	</talkpage>
-</article>

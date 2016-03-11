@@ -1,5 +1,0 @@
-<article id="19435406" title=Talk:Gmina Miastko>
-	<talkpage id="19435406" title="Talk:Gmina Miastko">
-{{WikiProject Poland|class=stub|importance=low}}
-	</talkpage>
-</article>

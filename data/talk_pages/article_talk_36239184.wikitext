@@ -1,8 +1,0 @@
-<article id="36239184" title=User talk:86.150.69.70>
-	<talkpage id="36239184" title="User talk:86.150.69.70">
-
-== June 2012 ==
-[[File:Information.svg|25px|alt=|link=]] Hello, and welcome to Wikipedia. Although everyone is invited to contribute, at least one of [[Special:Contributions/86.150.69.70|your recent edits]], such as the one you made to [[:Ali G]], did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. &lt;!-- Template:uw-vandalism1 --&gt;&lt;!-- Template:uw-cluebotwarning1 --&gt;  [[User:Electriccatfish2|Electriccatfish2]] ([[User talk:Electriccatfish2|talk]]) 21:31, 24 June 2012 (UTC)
-:''If this is a [[open proxy|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

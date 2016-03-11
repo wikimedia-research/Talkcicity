@@ -1,5 +1,0 @@
-<article id="4853207" title=User talk:This Guy Here>
-	<talkpage id="4853207" title="User talk:This Guy Here">
-Please refrain from adding nonsense to Wikipedia, as you did to [[:French People]]. It is considered [[Wikipedia:Vandalism|vandalism]]. If you would like to experiment, use the [[Wikipedia:Sandbox|sandbox]]. &lt;!-- Template:Test2-n (Second level warning) --&gt; [[User:Oogles|Oogles]] 14:56, 22 April 2006 (UTC)
-	</talkpage>
-</article>

@@ -1,6 +1,0 @@
-<article id="43348967" title=User talk:188.70.40.94>
-	<talkpage id="43348967" title="User talk:188.70.40.94">
-== July 2014 ==
-[[Image:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Pinethicket|Pinethicket]]. I noticed that you recently removed some content from [[:Root]]&amp;nbsp;without explaining why. In the future, it would be helpful to others if you described your changes to Wikipedia with an accurate [[Help:Edit summary|edit summary]]. If this was a mistake, don't worry; I restored the removed content. If you would like to experiment, please use the [[WP:Sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Pinethicket|my talk page]]. Thanks!&lt;!-- Template:uw-delete1 --&gt; [[User:Pinethicket|Pinethicket]] ([[User talk:Pinethicket|talk]]) 10:09, 20 July 2014 (UTC)
-	</talkpage>
-</article>

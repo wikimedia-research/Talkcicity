@@ -1,5 +1,0 @@
-<article id="39854984" title=Talk:Matheass>
-	<talkpage id="39854984" title="Talk:Matheass">
-{{WikiProject Computing|class=stub|importance=low}}
-	</talkpage>
-</article>

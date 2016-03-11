@@ -1,9 +1,0 @@
-<article id="10797996" title=Talk:Myyrmanni>
-	<talkpage id="10797996" title="Talk:Myyrmanni">
-{{WikiProject Shopping Centers
-|class=
-|importance=
-}}
-{{Finland|class=Stub|importance=Low}}
-	</talkpage>
-</article>

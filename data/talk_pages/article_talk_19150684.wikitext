@@ -1,9 +1,0 @@
-<article id="19150684" title=Talk:Pittsburgh South Side>
-	<talkpage id="19150684" title="Talk:Pittsburgh South Side">
-{{WikiProjectBannerShell|1=
-{{WikiProject Basketball|class=Stub|importance=low}}
-{{WikiProject Pennsylvania|class=stub|importance=low}}
-{{WikiProject Pittsburgh|class=Stub|importance=low}}
-}}
-	</talkpage>
-</article>

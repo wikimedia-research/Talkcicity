@@ -1,8 +1,0 @@
-<article id="1358364" title=Talk:Ralph Willis>
-	<talkpage id="1358364" title="Talk:Ralph Willis">
-{{WikiProject Biography|living=yes|class=Start|politician-work-group=yes|listas=Willis, Ralph
-}}
-{{WikiProject Australia|politics=yes|class=start|importance=mid}}
-{{Image requested|politicians and government-people|people of Australia}}
-	</talkpage>
-</article>

@@ -1,8 +1,0 @@
-<article id="20902390" title=User talk:72.137.61.51>
-	<talkpage id="20902390" title="User talk:72.137.61.51">
-
-== December 2008 ==
-
-[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Insulin?diff=261092113 recent edit]&lt;/span&gt; you made to [[:Insulin]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:Ajh16|Ajh16]] ([[User talk:Ajh16|talk]]) 14:36, 31 December 2008 (UTC)
-	</talkpage>
-</article>

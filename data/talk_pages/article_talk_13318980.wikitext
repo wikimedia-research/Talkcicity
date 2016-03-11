@@ -1,6 +1,0 @@
-<article id="13318980" title=Talk:Jerk Out>
-	<talkpage id="13318980" title="Talk:Jerk Out">
-{{WikiProject R&amp;B and Soul Music|class=Stub|auto=Inherit|importance=}}
-{{Songs|class=stub}}
-	</talkpage>
-</article>

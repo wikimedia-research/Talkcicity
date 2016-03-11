@@ -1,5 +1,0 @@
-<article id="32287744" title=Talk:Jamaica In My Head>
-	<talkpage id="32287744" title="Talk:Jamaica In My Head">
-{{WPSongs|class=redirect}}
-	</talkpage>
-</article>

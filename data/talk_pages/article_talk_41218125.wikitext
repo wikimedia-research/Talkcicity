@@ -1,6 +1,0 @@
-<article id="34940849" title=Talk:Shane Martin>
-	<talkpage id="34940849" title="Talk:Shane Martin">
-{{WikiProject Biography|living=yes|class=stub|listas=Martin, Shane|politician-work-group=yes|politician-priority=low}}
-{{WikiProject United States|class=stub|importance=low|SC=yes|SC-importance=low}}
-	</talkpage>
-</article>

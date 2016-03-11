@@ -1,6 +1,0 @@
-<article id="18123761" title=Talk:Swifterbant>
-	<talkpage id="18123761" title="Talk:Swifterbant">
-{{WikiProject Netherlands |class=Stub |muni=yes |muni-importance=Low}}
-{{WikiProject Cities |class=Stub |importance=Low}}
-	</talkpage>
-</article>

@@ -1,6 +1,0 @@
-<article id="41377968" title=User talk:124.181.200.120>
-	<talkpage id="41377968" title="User talk:124.181.200.120">
-=== December 2013 ===
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Gutworth|Gutworth]]. I wanted to let you know that I undid one or more of [[Special:Contributions/124.181.200.120|your recent contributions]]&amp;nbsp;to [[:Langroya]] because it did not appear constructive. If you would like to experiment, please use the [[WP:sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Gutworth|my talk page]]. Thanks!&lt;!-- Template:uw-vandalism1 --&gt; [[User:Gutworth|Gutworth]] ([[User talk:Gutworth|talk]]) 04:24, 16 December 2013 (UTC)
-	</talkpage>
-</article>

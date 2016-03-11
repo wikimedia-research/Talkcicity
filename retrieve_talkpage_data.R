@@ -122,6 +122,57 @@ main <- function(){
   pageview_data$url <- paste0("https://en.wikipedia.org/wiki/", pageview_data$title, "?oldid=", pageview_data$revision)
   pageview_data <- pageview_data[,c("title", "events", "url", "type", "class")]
   results <- rbind(data, pageview_data)
+  
+  # Controversial articles
+  content <- WikipediR::page_content("en", "wikipedia", page_name = "Wikipedia:List of controversial issues",
+                                     as_wikitext = TRUE)$parse$wikitext
+  content <- stri_split_lines1(unlist(content))
+  content <- content[which(grepl(x = content, pattern = "==="))[1]:length(content)]
+  links <- stri_extract_first_regex(str = content, pattern = "\\[{2}.*?\\]{2}")
+  links <- gsub(x = links[!is.na(links)], pattern = "(\\|.*|\\[{2}|\\]{2})", replacement = "")
+  links <- links[!grepl(x = links, pattern = ":", fixed = TRUE)]
+  articles <- paste0("Talk:", sample(links, 30))
+  article_ids <- unlist(lapply(articles, function(page){
+    cat(".")
+    content <- try({
+      content <- page_content("en", "wikipedia", page_name = page)
+    }, silent = TRUE)
+    if("try-error" %in% class(content)){
+      return(NA)
+    }
+    return(content$parse$revid)
+  }))
+  controversial_articles <- data.frame(title = articles, events = NA,
+                                       url = paste0("https://en.wikipedia.org/wiki/",
+                                                    gsub(x = articles, pattern = " ", replacement = "_"),
+                                                    "?oldid=", article_ids),
+                                       type = "Article talk",
+                                       class = "Controversial",
+                                       stringsAsFactors = FALSE)
+  results <- rbind(results, controversial_articles)
+  
+  dispute_boards <- c("Wikipedia:Administrators'_noticeboard", "Wikipedia:Administrators'_noticeboard/Incidents",
+                      "Wikipedia:Arbitration/Requests/Enforcement", "Wikipedia:Biographies_of_living_persons/Noticeboard",
+                      "Wikipedia:Fringe_theories/Noticeboard", "Wikipedia:No_original_research/Noticeboard",
+                      "Wikipedia:Reliable_sources/Noticeboard")
+  dispute_ids <- unlist(lapply(dispute_boards, function(page){
+    cat(".")
+    content <- try({
+      content <- page_content("en", "wikipedia", page_name = page)
+    }, silent = TRUE)
+    if("try-error" %in% class(content)){
+      return(NA)
+    }
+    return(content$parse$revid)
+  }))
+  dispute_articles <- data.frame(title = dispute_boards, events = NA,
+                                 url = paste0("https://en.wikipedia.org/wiki/",
+                                              gsub(x = dispute_boards, pattern = " ", replacement = "_"),
+                                              "?oldid=", dispute_ids),
+                                 type = "Wikipedia",
+                                 class = "Dispute resolution",
+                                 stringsAsFactors = FALSE)
+  results <- rbind(results, dispute_articles)
   write.table(results, file = file.path(getwd(),"/data/selected_articles.tsv"), row.names = FALSE, quote = FALSE, sep = "\t")
 }
 

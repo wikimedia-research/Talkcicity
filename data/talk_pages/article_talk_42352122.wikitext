@@ -1,5 +1,0 @@
-<article id="42352122" title=Talk:Allium narcissiflorum>
-	<talkpage id="42352122" title="Talk:Allium narcissiflorum">
-{{WikiProject Plants|class=stub|importance=low}}
-	</talkpage>
-</article>

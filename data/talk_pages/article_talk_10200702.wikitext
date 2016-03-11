@@ -1,9 +1,0 @@
-<article id="10200702" title=Talk:John Frederick I, Elector of Saxony>
-	<talkpage id="10200702" title="Talk:John Frederick I, Elector of Saxony">
-{{WikiProjectBannerShell|1=
-{{WikiProject Biography|living=no|class=C|royalty-work-group=yes|listas=John Frederick 01 Of Saxony, Elector}}
-{{WikiProject Lutheranism|class=C |importance=high}}
-{{WikiProject Germany|class=start |importance=mid}}
-}}
-	</talkpage>
-</article>

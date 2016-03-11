@@ -1,6 +1,0 @@
-<article id="26341560" title=Talk:Vancouver Paralympic Centre>
-	<talkpage id="26341560" title="Talk:Vancouver Paralympic Centre">
-
-{{WPAFC|class=redirect|ts=20100225230439|reviewer=Fastily}}
-	</talkpage>
-</article>

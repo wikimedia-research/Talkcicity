@@ -1,5 +1,0 @@
-<article id="44578637" title=Talk:Kurutzesantu Museum>
-	<talkpage id="44578637" title="Talk:Kurutzesantu Museum">
-{{WikiProject Spain|class=stub|importance=low}}
-	</talkpage>
-</article>

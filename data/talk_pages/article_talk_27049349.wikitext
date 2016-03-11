@@ -1,5 +1,0 @@
-<article id="27049349" title=Talk:The State of Mind Report>
-	<talkpage id="27049349" title="Talk:The State of Mind Report">
-{{album}}
-	</talkpage>
-</article>

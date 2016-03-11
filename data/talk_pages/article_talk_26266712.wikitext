@@ -1,6 +1,0 @@
-<article id="26266712" title=User talk:82.45.196.246>
-	<talkpage id="26266712" title="User talk:82.45.196.246">
-== February 2010 ==
-[[File:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of your recent edits{{#if:Gilbert Arenas|, such as the one you made to [[:Gilbert Arenas]],}} did not appear to be constructive and has been reverted. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; [[User:The New Mikemoral|&lt;span style=&quot;color: green&quot;&gt;Mike&lt;/span&gt;]][[User talk:The New Mikemoral|&lt;span style=&quot;color: #21421E&quot;&gt;moral&lt;/span&gt;]][[Special:Contributions/The New Mikemoral|&lt;span style=&quot;color: #01796F&quot;&gt;♪♫&lt;/span&gt;]] 03:55, 20 February 2010 (UTC)
-	</talkpage>
-</article>

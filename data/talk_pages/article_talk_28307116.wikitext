@@ -1,6 +1,0 @@
-<article id="28307116" title=Talk:Government AV Modern High School, Faisalabad>
-	<talkpage id="28307116" title="Talk:Government AV Modern High School, Faisalabad">
-{{WikiProject Pakistan|class=stub|importance=}}
-{{WPSchools|class=Stub|importance=Low|needs-infobox=yes}}
-	</talkpage>
-</article>

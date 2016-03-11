@@ -1,5 +1,0 @@
-<article id="24233033" title=Talk:Augustin (film)>
-	<talkpage id="24233033" title="Talk:Augustin (film)">
-{{Film|class=Stub|French-task-force=yes}}
-	</talkpage>
-</article>

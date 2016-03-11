@@ -1,9 +1,0 @@
-<article id="36410071" title=Talk:Danielle Senior>
-	<talkpage id="36410071" title="Talk:Danielle Senior">
-{{WikiProject Biography
-|living=yes
-|class=
-|listas=Senior, Danielle
-}}
-	</talkpage>
-</article>

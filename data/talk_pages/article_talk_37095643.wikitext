@@ -1,5 +1,0 @@
-<article id="23595704" title=Talk:Senate (Lesotho)>
-	<talkpage id="23595704" title="Talk:Senate (Lesotho)">
-{{AfricaProject|Lesotho=yes|class=Stub}}
-	</talkpage>
-</article>

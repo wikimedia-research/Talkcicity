@@ -1,6 +1,0 @@
-<article id="36441349" title=Talk:Economists for Peace and Security>
-	<talkpage id="36441349" title="Talk:Economists for Peace and Security">
-{{WikiProject Organizations}}
-{{WikiProject Economics}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="8171949" title=Talk:Phase problem>
-	<talkpage id="8171949" title="Talk:Phase problem">
-{{physics|class=start|importance=low}}
-	</talkpage>
-</article>

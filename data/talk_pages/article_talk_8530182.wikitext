@@ -1,5 +1,0 @@
-<article id="8530182" title=Talk:Hill Miri people>
-	<talkpage id="8530182" title="Talk:Hill Miri people">
-{{WikiProject India|class=stub|importance=low|arunachal=yes|arunachal-importance=high|assess-date=April 2012|needs-infobox=yes}}
-	</talkpage>
-</article>

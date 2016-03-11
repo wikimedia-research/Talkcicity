@@ -1,5 +1,0 @@
-<article id="18539464" title=User talk:82.38.209.3>
-	<talkpage id="18539464" title="User talk:82.38.209.3">
-[[Image:Information.svg|25px]] [[Wikipedia:Introduction|Welcome]] to Wikipedia, and thank you for your contributions. One of the core policies of Wikipedia is that articles should always be written from a [[Wikipedia:Neutral point of view|neutral point of view]]{{#if:George Sampson|. A contribution you made to [[:George Sampson]] appears to carry a non-neutral point of view, and your edit may have been changed or reverted to correct the problem}}. Please remember to observe our [[Wikipedia:Five pillars|core policies]]. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-npov1 --&gt; --[[User:Mschel|Mark]] [[User_talk:Mschel|(Mschel)]] 12:46, 22 July 2008 (UTC)
-	</talkpage>
-</article>

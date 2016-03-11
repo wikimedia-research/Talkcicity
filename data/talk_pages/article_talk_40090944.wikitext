@@ -1,8 +1,0 @@
-<article id="40090944" title=User talk:117.235.25.2>
-	<talkpage id="40090944" title="User talk:117.235.25.2">
-
-== July 2013 ==
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Materialscientist|Materialscientist]]. I wanted to let you know that I undid one or more of [[Special:Contributions/117.235.25.2|your recent contributions]]&amp;nbsp;to [[:Carbon footprint]] because it did not appear constructive. If you would like to experiment, you can use the [[WP:sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Materialscientist|my talk page]]. &lt;!-- Template:uw-vandalism1 --&gt;  [[User:Materialscientist|Materialscientist]] ([[User talk:Materialscientist|talk]]) 08:07, 28 July 2013 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

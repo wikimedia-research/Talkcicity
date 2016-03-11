@@ -1,6 +1,0 @@
-<article id="6345323" title=Talk:Brad Divens>
-	<talkpage id="6345323" title="Talk:Brad Divens">
-{{WikiProject Biography|living=yes|class=stub|musician-priority=Low|musician-work-group=yes|listas=Divens, Brad}}
-{{WikiProject Metal|class=stub|importance=low}}
-	</talkpage>
-</article>

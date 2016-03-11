@@ -1,5 +1,0 @@
-<article id="31797196" title=Talk:United States tax history>
-	<talkpage id="31797196" title="Talk:United States tax history">
-{{WikiProject United States|class=Redirect|importance=NA|USGov=Yes|USGov-importance=NA}}
-	</talkpage>
-</article>

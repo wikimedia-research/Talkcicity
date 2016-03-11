@@ -1,5 +1,0 @@
-<article id="22326032" title=Talk:1927 in basketball>
-	<talkpage id="22326032" title="Talk:1927 in basketball">
-{{WikiProject Basketball|class=|importance=}}
-	</talkpage>
-</article>

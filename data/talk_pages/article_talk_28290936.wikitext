@@ -1,5 +1,0 @@
-<article id="28290936" title=Talk:If We've Ever Needed You>
-	<talkpage id="28290936" title="Talk:If We've Ever Needed You">
-{{song|class=stub}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="6556573" title=Talk:Eophliantidae>
-	<talkpage id="6556573" title="Talk:Eophliantidae">
-{{WikiProject Arthropods|Stub|Low}}
-	</talkpage>
-</article>

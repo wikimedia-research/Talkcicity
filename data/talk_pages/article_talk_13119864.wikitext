@@ -1,7 +1,0 @@
-<article id="13119864" title=Talk:Waimate Branch>
-	<talkpage id="13119864" title="Talk:Waimate Branch">
-{{WikiProject Trains|class=B|importance=low|NZR=yes|NZR-importance=low|imageneeded=yes|mapneeded=yes}}
-{{WikiProject New Zealand|class=B|importance=low}}
-{{Image requested|in=Canterbury, New Zealand}}
-	</talkpage>
-</article>

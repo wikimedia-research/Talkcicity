@@ -1,6 +1,0 @@
-<article id="30017218" title=Talk:United States Senate election in Mississippi, 2000>
-	<talkpage id="30017218" title="Talk:United States Senate election in Mississippi, 2000">
-{{WikiProject Elections and Referendums}}
-{{WikiProject United States|class=List|importance=low|USGov=Yes|USGov-importance=low|MS=yes|MS-importance=low}}
-	</talkpage>
-</article>

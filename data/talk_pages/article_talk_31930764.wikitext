@@ -1,5 +1,0 @@
-<article id="31930764" title=Talk:Corderoite>
-	<talkpage id="31930764" title="Talk:Corderoite">
-{{WikiProject Rocks and minerals|class=start|importance=low}}
-	</talkpage>
-</article>

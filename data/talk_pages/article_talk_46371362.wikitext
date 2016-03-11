@@ -1,6 +1,0 @@
-<article id="24168627" title=Talk:The Boys in the Back Room (song)>
-	<talkpage id="24168627" title="Talk:The Boys in the Back Room (song)">
-{{WikiProject Songs|class=Stub|auto=yes}}
-{{Notice|{{find}}}}
-	</talkpage>
-</article>

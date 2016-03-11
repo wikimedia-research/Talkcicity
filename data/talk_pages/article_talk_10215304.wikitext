@@ -1,6 +1,0 @@
-<article id="10215304" title=Talk:Air Equator>
-	<talkpage id="10215304" title="Talk:Air Equator">
-{{talkheader}}
-{{WPAVIATION|class=stub|defunct=yes}}
-	</talkpage>
-</article>

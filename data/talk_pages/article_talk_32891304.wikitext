@@ -1,6 +1,0 @@
-<article id="32891304" title=Talk:1953 Estonian SSR Football Championship>
-	<talkpage id="32891304" title="Talk:1953 Estonian SSR Football Championship">
-{{WikiProject Football |class=stub |importance=low |season=y |needs-infobox=y}}
-{{WikiProject Estonia|class=stub |importance=low}}
-	</talkpage>
-</article>

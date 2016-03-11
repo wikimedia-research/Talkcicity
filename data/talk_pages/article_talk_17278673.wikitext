@@ -1,8 +1,0 @@
-<article id="17278673" title=User talk:Planetrock>
-	<talkpage id="17278673" title="User talk:Planetrock">
-
-
-== Image:Bernai's Program For 11.26.2005.pdf listed for deletion ==
-An image or media file that you uploaded or altered, [[:Image:Bernai's Program For 11.26.2005.pdf]], has been listed at [[Wikipedia:Images and media for deletion]]. Please see the [[Wikipedia:Images and media for deletion/2008 May 5#Image:Bernai's Program For 11.26.2005.pdf|discussion]] to see why this is (you may have to search for the title of the image to find its entry), if you are interested in it not being deleted. {{#if:|{{{2}}}|Thank you.}}  &lt;small&gt;Do you want to [[Template:Bots#Message notification opt out|opt out]] of receiving this notice?&lt;/small&gt; &lt;small style=&quot;font:bold 10px Trebuchet MS;display:inline;border:#B22 solid 1px;padding:1px 6px 2px 7px;white-space:nowrap&quot;&gt;[[User:Richard0612|&lt;font color=&quot;#630&quot;&gt;RichardΩ612&lt;/font&gt;]] [[User talk:Richard0612| ''Ɣ'']] |[[Special:Contributions/Richard0612|''ɸ'']] 19:52, May 5, 2008 (UTC)&lt;/small&gt; 19:52, 5 May 2008 (UTC) &lt;!-- Template:Idw --&gt;
-	</talkpage>
-</article>

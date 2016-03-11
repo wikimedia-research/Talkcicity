@@ -1,7 +1,0 @@
-<article id="7572983" title=Talk:San Francisco Daily>
-	<talkpage id="7572983" title="Talk:San Francisco Daily">
-{{WikiProject California|class=start|importance=|sfba=yes|sfba-importance=low}}
-{{WikiProject Journalism}}
-{{Old AfD multi|page=San Francisco Daily|date=10 November 2012|result='''no consensus'''}}
-	</talkpage>
-</article>

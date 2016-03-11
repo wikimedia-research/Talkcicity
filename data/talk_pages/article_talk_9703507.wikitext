@@ -1,6 +1,0 @@
-<article id="9703507" title=User talk:Cyhsgolf>
-	<talkpage id="9703507" title="User talk:Cyhsgolf">
-{{#if:{{{header|}}}|=={{{header-text|[[:Chris hartman]]}}}==}}
-[[Image:Information.svg|25px]] Welcome to Wikipedia and thank you for your contributions.  Unfortunately, an article you recently created{{{{{subst|}}}#if:Chris hartman|, [[:Chris hartman]],}} doesn't conform to some of Wikipedia's [[Wikipedia:List of policies|guidelines]] for new articles so it will shortly be [[Wikipedia:Deletion policy|removed]], if it hasn't been already. Please use the [[Wikipedia:Sandbox|sandbox]] for any tests you may want to do and please read our [[Wikipedia:Introduction|introduction page]] to learn more about contributing. {{{2|Thank you.}}}&lt;!-- {{uw-create1}} --&gt; --&lt;font color=&quot;#0000CC&quot; face=&quot;Comic Sans MS&quot;&gt;[[User:Hojimachong|'''Hojimachong''']]&lt;/font&gt;&lt;sup&gt;&lt;font color=&quot;00FFAA&quot;&gt;[[User_Talk:Hojimachong|talk]]&lt;/font&gt;&lt;/sup&gt; 03:34, 25 February 2007 (UTC)
-	</talkpage>
-</article>

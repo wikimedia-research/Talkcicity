@@ -1,9 +1,0 @@
-<article id="17346208" title=User talk:75.80.238.54>
-	<talkpage id="17346208" title="User talk:75.80.238.54">
-
-
-== May 2008 ==
-[[Image:Information.svg|25px]] Welcome to Wikipedia. Thank you for [[Help:Reverting|reverting]] your recent experiment{{#if:Tuberculosis|&amp;#32;with the page [[:Tuberculosis]]}}. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to our encyclopedia. In the future, please do not experiment on article pages; instead, use the [[Wikipedia:Sandbox|sandbox]]. Thank you. &lt;!-- Template:Uw-selfrevert--&gt; [[User:TimVickers|Tim Vickers]] ([[User talk:TimVickers|talk]]) 21:47, 9 May 2008 (UTC)
-:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
-	</talkpage>
-</article>

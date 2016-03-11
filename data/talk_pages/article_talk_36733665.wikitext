@@ -1,6 +1,0 @@
-<article id="36733665" title=Talk:Athletics at the 1968 Summer Olympics – Women's 400 metres>
-	<talkpage id="36733665" title="Talk:Athletics at the 1968 Summer Olympics – Women's 400 metres">
-{{WikiProject Athletics}}
-{{WikiProject Olympics}}
-	</talkpage>
-</article>

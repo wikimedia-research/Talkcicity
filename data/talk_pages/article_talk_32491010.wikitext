@@ -1,6 +1,0 @@
-<article id="32491010" title=Talk:Wal Campbell>
-	<talkpage id="32491010" title="Talk:Wal Campbell">
-{{WPBiography|living=no|listas=Campbell, Wal|class=start}}
-{{WP Australia}}
-	</talkpage>
-</article>

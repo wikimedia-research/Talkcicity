@@ -1,7 +1,0 @@
-<article id="10759018" title=User talk:70.21.165.40>
-	<talkpage id="10759018" title="User talk:70.21.165.40">
-
-
-Your recent edit to [[:Sylph]] ([http://en.wikipedia.org/w/index.php?title=Sylph&amp;diff=123894675&amp;oldid=121059691 diff]) was reverted by an '''automated bot''' that attempts to recognize and repair [[Wikipedia:vandalism|vandalism]] to Wikipedia articles. If the bot reverted a legitimate edit, please accept my humble creator's apologies – if you bring it to the attention of the bot's owner, we may be able to improve its behavior. '''[[User:Tawkerbot2/FAQ|Click here]]''' for '''frequently asked questions''' about the bot and this warning. // [[User:MartinBot|MartinBot]] 20:03, 18 April 2007 (UTC)
-	</talkpage>
-</article>

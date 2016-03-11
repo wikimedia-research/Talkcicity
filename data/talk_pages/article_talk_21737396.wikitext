@@ -1,9 +1,0 @@
-<article id="21737396" title=User talk:69.248.221.7>
-	<talkpage id="21737396" title="User talk:69.248.221.7">
-== February 2009 ==
-
-[[Image:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia{{#if:Wikipedia talk:Village pump|, as you did to [[:Wikipedia talk:Village pump]]}}. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism2 --&gt; '''[[User:Mmxx|&lt;span style='color:#800000;background-color:#FFE4E1;'&gt;&amp;nbsp; ■ MMXX&lt;/span&gt;]]'''&lt;sup&gt;[[User talk:Mmxx|''&lt;span style='color: #800000;'&gt;talk&lt;/span&gt;'']]&amp;nbsp;&lt;/sup&gt; 21:53, 27 February 2009 (UTC)
-
-[[Image:Nuvola apps important.svg|25px]] Please do not vandalize pages, as you did with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Wikipedia_talk%3aVillage_pump?diff=273741687 this edit]&lt;/span&gt; to [[:Wikipedia talk:Village pump]]. If you continue to do so, you will be blocked from editing. &lt;!-- Template:uw-huggle3 --&gt; -- [[User:Mentifisto|&lt;font color=&quot;#800080&quot; face=&quot;courier new&quot;&gt;Menti&lt;/font&gt;]][[User talk:Mentifisto|&lt;font color=&quot;#000000&quot; face=&quot;courier new&quot;&gt;fisto&lt;/font&gt;]] 21:54, 27 February 2009 (UTC)
-	</talkpage>
-</article>

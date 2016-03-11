@@ -1,9 +1,0 @@
-<article id="32134812" title=Talk:Congo at the 2012 Summer Olympics>
-	<talkpage id="32134812" title="Talk:Congo at the 2012 Summer Olympics">
-{{AfricaProject|class=stub|Republic of the Congo=yes}}
-{{OlympicsWikiProject|class=stub}}
-
-==PROD==
-I fail to see why this one is singled out over all the articles in [[:Category:Nations at the 2012 Summer Olympics]]. It should be kept as part of a series. [[Special:Contributions/65.94.47.63|65.94.47.63]] ([[User talk:65.94.47.63|talk]]) 04:23, 19 June 2011 (UTC)
-	</talkpage>
-</article>

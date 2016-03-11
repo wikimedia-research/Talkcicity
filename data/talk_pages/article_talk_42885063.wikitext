@@ -1,5 +1,0 @@
-<article id="42885063" title=Talk:Placoptila cyclas>
-	<talkpage id="42885063" title="Talk:Placoptila cyclas">
-{{LepidopteraTalk|class=stub|importance=low}}
-	</talkpage>
-</article>

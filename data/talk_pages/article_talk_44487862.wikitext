@@ -1,6 +1,0 @@
-<article id="44487862" title=Talk:Filosofská historie>
-	<talkpage id="44487862" title="Talk:Filosofská historie">
-{{WikiProject Film|class=stub|needs-image=yes}}
-{{WikiProject Czech Republic|class=stub|importance=low}}
-	</talkpage>
-</article>

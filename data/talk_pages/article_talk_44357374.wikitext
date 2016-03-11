@@ -1,7 +1,0 @@
-<article id="44357374" title=User talk:Ladi Folarin>
-	<talkpage id="44357374" title="User talk:Ladi Folarin">
-== November 2014 ==
-
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Lugia2453|Lugia2453]]. I wanted to let you know that I undid one of [[Special:Contributions/Ladi Folarin|your recent contributions]]&amp;nbsp;—the one you made with &lt;span class=&quot;plainlinks&quot;&gt;[https://en.wikipedia.org/w/index.php?title=Mastergate%20%28play%29&amp;diff=633236945 this edit]&lt;/span&gt; to [[:Mastergate (play)]]— because it didn’t appear constructive to me. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Lugia2453|my talk page]]. Thanks. &lt;!-- Template:Huggle/warn-1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt;[[User:Lugia2453|Lugia2453]] ([[User talk:Lugia2453|talk]]) 15:14, 10 November 2014 (UTC)
-	</talkpage>
-</article>

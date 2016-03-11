@@ -1,7 +1,0 @@
-<article id="41070344" title=Talk:Dale Ahlquist>
-	<talkpage id="41070344" title="Talk:Dale Ahlquist">
-{{WikiProject Biography|living=yes|class=C|listas=Ahlquist, Dale}}
-{{WikiProject Catholicism|class=C|importance=Low}}
-{{WikiProject Minnesota|class=C|importance=}}
-	</talkpage>
-</article>

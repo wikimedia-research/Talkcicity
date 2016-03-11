@@ -1,5 +1,0 @@
-<article id="9966381" title=Talk:Heliconia tortuosa>
-	<talkpage id="9966381" title="Talk:Heliconia tortuosa">
-{{WikiProject Plants|class=Stub|importance=}}
-	</talkpage>
-</article>

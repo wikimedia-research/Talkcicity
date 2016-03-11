@@ -1,8 +1,0 @@
-<article id="25525860" title=Talk:Arc d'X>
-	<talkpage id="25525860" title="Talk:Arc d'X">
-==Notability?==
-
-I can't see what is the problem about notability about this novel. Other novels by Erickson have their own articles, and nobody raised a notability issue about those. Arc d'X has been translated into Italian, for example, and other languages; nobody questioned the notability of its author; I wonder what is the problem with this novel in particular.--[[User:James.kerans|James.kerans]] ([[User talk:James.kerans|talk]]) 16:33, 22 December 2009 (UTC)
-:I have removed the notability tag because a novel which is discussed in an article published by such a prestigious and terribly selective academic journal as ''Modern Fiction Studies'' must be culturally and literarily relevant.--[[Special:Contributions/93.40.89.127|93.40.89.127]] ([[User talk:93.40.89.127|talk]]) 17:02, 22 December 2009 (UTC)
-	</talkpage>
-</article>

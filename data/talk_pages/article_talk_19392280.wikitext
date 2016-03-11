@@ -1,6 +1,0 @@
-<article id="19392280" title=Talk:Dun-sur-Auron>
-	<talkpage id="19392280" title="Talk:Dun-sur-Auron">
-{{Translated|fr|Dun-sur-Auron}}
-{{WikiProject France|commune=yes|class=start|importance=Low}}
-	</talkpage>
-</article>

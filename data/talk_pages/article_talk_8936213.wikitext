@@ -1,9 +1,0 @@
-<article id="8936213" title=User talk:JoeBastholm>
-	<talkpage id="8936213" title="User talk:JoeBastholm">
-Please refrain from creating inappropriate pages{{{{{subst|}}}#if:The Uriah Rennie Show|&amp;#32;such as [[:The Uriah Rennie Show]]}}. It is considered [[Wikipedia:Vandalism|vandalism]]. If you would like to experiment, use the [[Wikipedia:Sandbox|sandbox]]. &lt;!-- Template:Test2article (second level warning) --&gt; [[User:NawlinWiki|NawlinWiki]] 15:43, 15 January 2007 (UTC)
-
-[[Image:Stop_hand.svg|left|30px]] This is your '''last warning'''. &lt;br /&gt;The next time you create an inappropriate page{{{{{subst|}}}#if:T.U.R.bin.S|&amp;#32;such as [[:T.U.R.bin.S]]}}, you ''will'' be [[Wikipedia:Blocking policy|blocked]] from editing Wikipedia. &lt;!-- Template:Test4article (Fourth level warning) --&gt;  [[User:NawlinWiki|NawlinWiki]] 19:29, 15 January 2007 (UTC)
-
-:: JoeBastholm/[[User:LiamSAFC|LiamSAFC]]. While blocked from editing Wikipedia, contributors are not permitted to create [[WP:SOCK|sockpuppet]] accounts to violated policy (as you did in creating [[User:JoeBastholm|JoeBastholm]] to recreate the very content for which [[User:LiamSAFC|LiamSAFC]] was blocked for 1 week). I have therefore blocked this account indefinitely. Be aware that any further attempt to use this, or '''any''' other account, to recreate '''any''' article related to TURS will result in '''all''' your accounts being blocked permanently, on sight. You have had enough warnings, now is the time to stop or begin to heed our [[WP:POLICY|policies]]. [[User:Rockpocket|&lt;font color=&quot;green&quot;&gt;Rockpock&lt;/font&gt;]]&lt;font color=&quot;black&quot;&gt;e&lt;/font&gt;[[User_talk:Rockpocket|&lt;font color=&quot;green&quot;&gt;t&lt;/font&gt;]] 06:49, 17 January 2007 (UTC)
-	</talkpage>
-</article>

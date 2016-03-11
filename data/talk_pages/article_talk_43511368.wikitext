@@ -1,9 +1,0 @@
-<article id="43511368" title=Talk:Albert Glandaz>
-	<talkpage id="43511368" title="Talk:Albert Glandaz">
-{{WikiProject Biography|living=no
-|class=Stub
-|auto=yes
-}}
-{{WikiProject Olympics|class=stub |importance=low}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="19259737" title=Talk:La Voyageuse>
-	<talkpage id="19259737" title="Talk:La Voyageuse">
-{{WikiProject Thoroughbred racing |class=stub |importance=low }}
-	</talkpage>
-</article>

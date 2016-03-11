@@ -1,6 +1,0 @@
-<article id="41763137" title=Talk:Mount Gower>
-	<talkpage id="41763137" title="Talk:Mount Gower">
-{{WikiProject Mountains|class=stub|importance=low}}
-{{WikiProject Australia|class=stub|importance=low|NSW=yes}}
-	</talkpage>
-</article>

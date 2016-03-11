@@ -1,6 +1,0 @@
-<article id="20188899" title=Talk:KSID (AM)>
-	<talkpage id="20188899" title="Talk:KSID (AM)">
-{{WikiProject Radio Stations|class=stub|importance=}}
-{{WikiProject United States|class=stub|importance=low|NE=Yes|NE-importance=Low}}
-	</talkpage>
-</article>

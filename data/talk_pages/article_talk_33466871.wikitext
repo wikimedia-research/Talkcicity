@@ -1,9 +1,0 @@
-<article id="33466871" title=Talk:Nell Tangeman>
-	<talkpage id="33466871" title="Talk:Nell Tangeman">
-{{WikiProject Biography
-|living=no
-|class=
-}}
-{{WikiProject Opera|class=stub}}
-	</talkpage>
-</article>

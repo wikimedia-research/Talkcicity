@@ -1,6 +1,0 @@
-<article id="38323479" title=Talk:Tongan Australian>
-	<talkpage id="38323479" title="Talk:Tongan Australian">
-{{WikiProject Australia|class=Start|importance=Low|Demographics=y}}
-{{WikiProject Tonga|class=Start|importance=Low}}
-	</talkpage>
-</article>

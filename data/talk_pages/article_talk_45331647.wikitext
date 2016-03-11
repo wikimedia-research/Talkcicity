@@ -1,7 +1,0 @@
-<article id="45331647" title=User talk:101.217.217.112>
-	<talkpage id="45331647" title="User talk:101.217.217.112">
-== February 2015 ==
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:John of Reading|John of Reading]]. An edit that you recently made to [[:Portal:Biology/Featured picture]] seemed to be a test and has been removed. If you want more practice editing, please use the [[Wikipedia:Sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:John of Reading|my talk page]]. Thanks!&lt;!-- Template:uw-test1 --&gt; [[User:John of Reading|John of Reading]] ([[User talk:John of Reading|talk]]) 16:27, 7 February 2015 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

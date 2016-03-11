@@ -1,5 +1,0 @@
-<article id="20423814" title=Talk:Observatory Hill>
-	<talkpage id="20423814" title="Talk:Observatory Hill">
-{{DisambigProject}}
-	</talkpage>
-</article>

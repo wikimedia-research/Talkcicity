@@ -1,5 +1,0 @@
-<article id="42778795" title=Talk:Zubeldia>
-	<talkpage id="42778795" title="Talk:Zubeldia">
-{{WikiProject Anthroponymy |class=list}}
-	</talkpage>
-</article>

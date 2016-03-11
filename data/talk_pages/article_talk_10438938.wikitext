@@ -1,9 +1,0 @@
-<article id="10438938" title=User talk:FFXIICOOL>
-	<talkpage id="10438938" title="User talk:FFXIICOOL">
-{{{icon|[[Image:Stop hand nuvola.svg|30px|left]] }}}This is the '''only warning''' you will receive for your disruptive edits. If you [[Wikipedia:Vandalism|vandalize]] Wikipedia again{{{{{subst|}}}#if:Aesthetica magazine|, as you did to [[:Aesthetica magazine]]}}, you will be [[Wikipedia:Blocking policy|blocked]] from editing. {{{2|}}}&lt;!-- Template:uw-vandalism4im --&gt; -- '''[[Special:Contributions/The Hybrid|&lt;font color=&quot;Blue&quot;&gt;The&lt;/font&gt;]] [[User:The Hybrid|&lt;font color=&quot;Red&quot;&gt;Hyb&lt;/font&gt;]][[User Talk:The Hybrid|&lt;font color=&quot;Green&quot;&gt;rid&lt;/font&gt;]]''' 09:17, 6 April 2007 (UTC)
-
-== Block ==
-
-As a result of [http://en.wikipedia.org/w/index.php?title=Aesthetica_magazine&amp;diff=120693175&amp;oldid=92302599 the comments here], I have blocked you indefinitely for issuing a [[WP:NLT|legal threat]]—[[User:Ryulong|&lt;font color=&quot;blue&quot;&gt;Ryūlóng&lt;/font&gt;]] ([[User talk:Ryulong|&lt;font color=&quot;gold&quot;&gt;竜龍&lt;/font&gt;]]) 09:18, 6 April 2007 (UTC)
-	</talkpage>
-</article>

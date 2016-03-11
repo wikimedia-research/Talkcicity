@@ -1,6 +1,0 @@
-<article id="26050482" title=Talk:Tavisuplebis Moedani (Tbilisi Metro)>
-	<talkpage id="26050482" title="Talk:Tavisuplebis Moedani (Tbilisi Metro)">
-{{TrainsWikiProject|class=stub|importance=low|stations=yes|subway=yes|SovMetro=yes}}
-{{WPGC|class=stub|importance=low}}
-	</talkpage>
-</article>

@@ -1,6 +1,0 @@
-<article id="32053012" title=Talk:French submarine Blaison (Q165)>
-	<talkpage id="32053012" title="Talk:French submarine Blaison (Q165)">
-{{WPMILHIST|class=Redirect}}
-{{WikiProject Ships|class=Redirect}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="40330322" title=Talk:1986–87 Irish League Cup>
-	<talkpage id="40330322" title="Talk:1986–87 Irish League Cup">
-{{Football|class=Start|importance=Low|season=yes}}
-	</talkpage>
-</article>

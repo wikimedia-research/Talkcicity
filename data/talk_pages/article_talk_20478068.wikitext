@@ -1,5 +1,0 @@
-<article id="20478068" title=Talk:Third Avenue Elevated>
-	<talkpage id="20478068" title="Talk:Third Avenue Elevated">
-{{DisambigProject}}
-	</talkpage>
-</article>

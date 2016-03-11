@@ -1,5 +1,0 @@
-<article id="45623212" title=User talk:Brandon19bs>
-	<talkpage id="45623212" title="User talk:Brandon19bs">
-[[Image:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Saturn star|Saturn star]]. I noticed that you recently removed some content without explaining why. In the future, it would be helpful to others if you described your changes to Wikipedia with an accurate [[Help:Edit summary|edit summary]]. If this was a mistake, don't worry; I restored the removed content. If you would like to experiment, please use the [[WP:Sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Saturn star|my talk page]]. Thanks!&lt;!-- Template:uw-delete1 --&gt; [[User:Saturn star|Saturn star]] ([[User talk:Saturn star|talk]]) 03:02, 9 March 2015 (UTC)
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="27584170" title=Talk:Jocelyn Solis-Reyes>
-	<talkpage id="27584170" title="Talk:Jocelyn Solis-Reyes">
-{{WikiProject Biography|living=yes|class=|listas=Solis-Reyes, Jocelyn}}
-	</talkpage>
-</article>

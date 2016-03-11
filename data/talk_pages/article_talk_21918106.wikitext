@@ -1,7 +1,0 @@
-<article id="21918106" title=Talk:Lago di Gramolazzo>
-	<talkpage id="21918106" title="Talk:Lago di Gramolazzo">
-{{lake project|class=stub|importance=}}
-{{WikiProject Italy|class=stub|importance=}}
-{{Translated page|it|Lago di Gramolazzo|Translated on {{date|2009-02-21}}.}}
-	</talkpage>
-</article>

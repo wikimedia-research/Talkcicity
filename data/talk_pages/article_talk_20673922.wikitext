@@ -1,6 +1,0 @@
-<article id="20673922" title=User talk:4.224.225.219>
-	<talkpage id="20673922" title="User talk:4.224.225.219">
-== December 2008 ==
-[[Image:Information.svg|25px]]  Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits{{#if:Smells Like Nirvana|, such as the one you made to [[:Smells Like Nirvana]],}} did not appear to be constructive and has been reverted. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism1 --&gt; —&lt;font color=&quot;green&quot;&gt;[[User:Mythdon|Mythdon]]&lt;/font&gt; (&lt;font color=&quot;teal&quot;&gt;[[User talk:Mythdon|talk]]&lt;/font&gt; • &lt;font color=&quot;teal&quot;&gt;[[Special:Contributions/Mythdon|contribs]]&lt;/font&gt;) 03:42, 13 December 2008 (UTC)
-	</talkpage>
-</article>

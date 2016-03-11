@@ -1,9 +1,0 @@
-<article id="6797564" title=Talk:La Crosse Aquinas Catholic Schools>
-	<talkpage id="6797564" title="Talk:La Crosse Aquinas Catholic Schools">
-{{WikiProjectBannerShell|1=
-{{WikiProject Wisconsin|class=stub|importance=low}}
-{{WikiProject Schools|class=Stub|importance=|needs-infobox=}}
-{{WikiProject Catholicism|class=stub}}
-}}
-	</talkpage>
-</article>

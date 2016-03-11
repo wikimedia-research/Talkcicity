@@ -1,6 +1,0 @@
-<article id="25515208" title=Talk:Jack Hixon>
-	<talkpage id="25515208" title="Talk:Jack Hixon">
-{{WikiProject Biography|living=no|class=Stub|sports-work-group=yes|listas=Hixon, Jack}}
-{{WikiProject Football|class=Stub|importance=|England=yes}}
-	</talkpage>
-</article>

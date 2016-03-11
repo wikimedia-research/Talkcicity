@@ -1,5 +1,0 @@
-<article id="18276764" title=Talk:Sirens F.C.>
-	<talkpage id="18276764" title="Talk:Sirens F.C.">
-{{Football|class=Stub|importance=|auto=yes}}
-	</talkpage>
-</article>

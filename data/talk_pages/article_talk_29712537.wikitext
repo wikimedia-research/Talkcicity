@@ -1,5 +1,0 @@
-<article id="29712537" title=Talk:1978 in poetry>
-	<talkpage id="29712537" title="Talk:1978 in poetry">
-{{WPPoetry|class=NA|importance=NA}}
-	</talkpage>
-</article>

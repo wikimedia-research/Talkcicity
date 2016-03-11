@@ -1,9 +1,0 @@
-<article id="24553716" title=User talk:69.183.19.130>
-	<talkpage id="24553716" title="User talk:69.183.19.130">
-
-
-== October 2009 ==
-[[Image:Information.svg|25px|]] Welcome to Wikipedia. Everyone is welcome to contribute constructively to the encyclopedia. However, please do not add promotional material to articles or other Wikipedia pages{{#if:|, as you did to [[:{{{1}}}]]}}. [[Wikipedia:What Wikipedia is not#Wikipedia is not a soapbox|Advertising]] and using Wikipedia as a &quot;[[soapbox]]&quot; is strongly discouraged. Take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about Wikipedia. {{#if:|{{{2}}}|Thank you.}}[[Category:User talk pages with Uw-advert1 notices||{{PAGENAME}}]]&lt;!-- Template:Uw-advert1 --&gt; [[User:CliffC|CliffC]] ([[User talk:CliffC|talk]]) 22:31, 2 October 2009 (UTC)
-:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
-	</talkpage>
-</article>

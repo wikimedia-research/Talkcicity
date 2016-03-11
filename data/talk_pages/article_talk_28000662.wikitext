@@ -1,7 +1,0 @@
-<article id="28000662" title=User talk:173.63.254.199>
-	<talkpage id="28000662" title="User talk:173.63.254.199">
-== July 2010 ==
-[[File:Information.svg|25px|alt=]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of [[Special:Contributions/173.63.254.199|your recent edits]], such as the one you made to [[:Quinn Shephard]], did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; [[User:Logical Fuzz|Logical Fuzz]] ([[User talk:Logical Fuzz|talk]]) 02:17, 11 July 2010 (UTC)
-:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
-	</talkpage>
-</article>

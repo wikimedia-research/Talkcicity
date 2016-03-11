@@ -1,6 +1,0 @@
-<article id="28617397" title=Talk:1984 Hamilton Tiger-Cats season>
-	<talkpage id="28617397" title="Talk:1984 Hamilton Tiger-Cats season">
-{{WP Canada|on=yes|sport=yes|class=start|importance=low}}
-{{WikiProject Canadian football|class=start|importance=low}}
-	</talkpage>
-</article>

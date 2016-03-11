@@ -1,5 +1,0 @@
-<article id="14404725" title=User talk:74.186.144.234>
-	<talkpage id="14404725" title="User talk:74.186.144.234">
-{{{icon|[[Image:Information.svg|25px]] }}}Please do not introduce incorrect information into articles{{{{{subst|}}}#if:{{{1|}}}|, as you did to [[:{{{1}}}]]}}.  Your edits appear to be [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]].  If you believe the information you added was correct, please [[WP:CITE|cite references or sources]] or discuss the changes on the article's [[WP:TALK|talk page]] before making them again.  If you would like to experiment, use the [[Wikipedia:Sandbox|sandbox]]. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-error2 --&gt; -- '''&lt;font color=&quot;navy&quot;&gt;[[User talk:Dalbury|Donald Albury]]&lt;/font&gt;''' 17:42, 24 November 2007 (UTC)
-	</talkpage>
-</article>

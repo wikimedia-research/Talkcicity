@@ -1,8 +1,0 @@
-<article id="39160013" title=User talk:Devinmiller21>
-	<talkpage id="39160013" title="User talk:Devinmiller21">
-
-== April 2013 ==
-
-[[Image:Information.svg|25px|alt=|link=]] Hello, I'm [[User:Seaphoto|Seaphoto]]. I noticed that you made a change to an article, [[:Breckenridge, Minnesota]], but you didn't provide a source. I’ve removed it for now, but if you’d like to [[Wikipedia:Citing sources|include a citation]] to a reliable source and re-add it, please do so! If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Seaphoto|my talk page]]. Thanks, &lt;!-- Template:Huggle/warn-unsor-1 --&gt; [[User:Seaphoto|&lt;font color=&quot;3333cc&quot;&gt;'''Sea'''&lt;/font&gt;&lt;font color=&quot;330099&quot;&gt;'''photo'''&lt;/font&gt;]]&lt;sup&gt;[[User_talk:Seaphoto|&lt;font color=&quot;3333cc&quot;&gt;Talk&lt;/font&gt;]]&lt;/sup&gt; 18:48, 19 April 2013 (UTC)
-	</talkpage>
-</article>

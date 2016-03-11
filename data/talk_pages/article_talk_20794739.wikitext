@@ -1,6 +1,0 @@
-<article id="20794739" title=Talk:Afternoon Ragas>
-	<talkpage id="20794739" title="Talk:Afternoon Ragas">
-{{Album|class=Stub|importance=low}}
-{{WP India|class=Stub|importance=low|music=yes|music-importance=low}}
-	</talkpage>
-</article>

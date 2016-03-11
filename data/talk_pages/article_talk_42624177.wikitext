@@ -1,5 +1,0 @@
-<article id="42624177" title=Talk:Coleoxestia cinnamomea>
-	<talkpage id="42624177" title="Talk:Coleoxestia cinnamomea">
-{{WikiProject Insects|class=stub|importance=low}}
-	</talkpage>
-</article>

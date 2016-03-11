@@ -1,7 +1,0 @@
-<article id="13621231" title=Talk:Ädelfors folkhögskola>
-	<talkpage id="13621231" title="Talk:Ädelfors folkhögskola">
-{{WikiProject Sweden|class=start|importance=low}}
-{{WPSchools|class=start|importance=low|needs-infobox=}}
-{{reqphoto|in=Sweden}}
-	</talkpage>
-</article>

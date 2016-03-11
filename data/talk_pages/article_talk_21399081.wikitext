@@ -1,8 +1,0 @@
-<article id="21399081" title=User talk:75.91.92.234>
-	<talkpage id="21399081" title="User talk:75.91.92.234">
-
-== February 2009 ==
-
-[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Perimeter?diff=268551903 recent edit]&lt;/span&gt; you made to the page [[:Perimeter]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:Rror|Rror]] ([[User talk:Rror|talk]]) 21:24, 4 February 2009 (UTC)
-	</talkpage>
-</article>

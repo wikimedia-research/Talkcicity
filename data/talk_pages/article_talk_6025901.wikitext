@@ -1,7 +1,0 @@
-<article id="6025901" title=Talk:3rd South Carolina Regiment>
-	<talkpage id="6025901" title="Talk:3rd South Carolina Regiment">
-{{talkheader}}
-{{WikiProject Military history|class=Stub|US=y|ARW=y}}
-{{WikiProject United States|class=Stub|importance=Low|image-needed=y|USMIL=y|ARW=y|SC=y}}
-	</talkpage>
-</article>

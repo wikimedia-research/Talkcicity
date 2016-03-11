@@ -1,5 +1,0 @@
-<article id="9221083" title=Talk:In the Life>
-	<talkpage id="9221083" title="Talk:In the Life">
-{{LGBTProject | class=Stub}}
-	</talkpage>
-</article>

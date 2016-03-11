@@ -1,5 +1,0 @@
-<article id="42463162" title=Talk:Cycas debaoensis>
-	<talkpage id="42463162" title="Talk:Cycas debaoensis">
-{{WikiProject Plants|class=stub|importance=low|needs-photo=yes}}
-	</talkpage>
-</article>

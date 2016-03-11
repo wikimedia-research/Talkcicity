@@ -1,9 +1,0 @@
-<article id="14252741" title=User talk:70.48.104.223>
-	<talkpage id="14252741" title="User talk:70.48.104.223">
-
-
-== November 2007 ==
-{{{icon|[[Image:Information.svg|25px]] }}}Please refrain from making unconstructive edits to Wikipedia{{{{{subst|}}}#if:Toto (band)|, as you did to [[:Toto (band)]]}}. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism2 --&gt; [[User:Bloodzombie|Bloodzombie]] 02:01, 15 November 2007 (UTC)
-:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
-	</talkpage>
-</article>

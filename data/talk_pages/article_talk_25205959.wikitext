@@ -1,9 +1,0 @@
-<article id="25205959" title=User talk:206.255.145.16>
-	<talkpage id="25205959" title="User talk:206.255.145.16">
-
-
-== November 2009 ==
-[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of your recent edits, such as the one you made to [[:List of Pokémon (1–20)]], did not appear to be constructive and has been reverted. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; [[User:BIONICLE233|&lt;span style=&quot;background:#000;color:red&quot;&gt;BIONIC&lt;/span&gt;]][[User talk:BIONICLE233|&lt;span style=&quot;background:#000;color:red&quot;&gt;LE233&lt;/span&gt;]][[User:BIONICLE233/Guestbook|&lt;span style=&quot;background:red;color:#000&quot;&gt;♥♠♣&lt;/span&gt;]] 00:17, 26 November 2009 (UTC)
-:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
-	</talkpage>
-</article>

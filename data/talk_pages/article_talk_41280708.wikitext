@@ -1,8 +1,0 @@
-<article id="41280708" title=User talk:ANØNYMØUS>
-	<talkpage id="41280708" title="User talk:ANØNYMØUS">
-
-== December 2013 ==
-
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Wikipelli|Wikipelli]]. I wanted to let you know that I undid one of [[Special:Contributions/ANØNYMØUS|your recent contributions]],&amp;nbsp;such as the one you made with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/113th_United_States_Congress?diff=584723977 this edit]&lt;/span&gt; to [[:113th United States Congress]], because it didn’t appear constructive to me. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Wikipelli|my talk page]]. Thanks. &lt;!-- Template:Huggle/warn-1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt;'''''&lt;span style=&quot;font-family: Papyrus&quot;&gt;[[User:Wikipelli|&lt;font color=&quot;#005751&quot;&gt;Wikipelli&lt;/font&gt;]] ''[[User talk:Wikipelli|&lt;font color=&quot;#7b68ee&quot;&gt;&lt;sup&gt;Talk&lt;/sup&gt;&lt;/font&gt;]]&lt;/span&gt;''' 18:14, 5 December 2013 (UTC)
-	</talkpage>
-</article>

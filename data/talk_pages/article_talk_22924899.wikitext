@@ -1,5 +1,0 @@
-<article id="22924899" title=Talk:Stawno, Kamień County>
-	<talkpage id="22924899" title="Talk:Stawno, Kamień County">
-{{WikiProject Poland|class=start|importance=mid}}
-	</talkpage>
-</article>

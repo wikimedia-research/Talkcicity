@@ -1,5 +1,0 @@
-<article id="13227391" title=Talk:Sony Pictures Television International>
-	<talkpage id="13227391" title="Talk:Sony Pictures Television International">
-{{TelevisionWikiProject|class=stub|importance=|auto=yes}}
-	</talkpage>
-</article>

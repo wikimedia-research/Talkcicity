@@ -1,6 +1,0 @@
-<article id="16797562" title=Talk:List of Trinity Blood light novels>
-	<talkpage id="16797562" title="Talk:List of Trinity Blood light novels">
-{{WikiProject Anime and manga|class=start|listas=Trinity Blood light novels|importance=low}}
-{{WikiProject Lists}}
-	</talkpage>
-</article>

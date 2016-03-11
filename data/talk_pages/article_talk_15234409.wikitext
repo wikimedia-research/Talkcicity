@@ -1,8 +1,0 @@
-<article id="15234409" title=User talk:88.73.49.232>
-	<talkpage id="15234409" title="User talk:88.73.49.232">
-{{{icon|[[Image:Stop hand nuvola.svg|30px]] }}}This is the '''only warning''' you will receive for your disruptive edits.&lt;br/&gt; If you [[Wikipedia:Vandalism|vandalize]] Wikipedia again{{{{{subst|}}}#if:Anna Faris‎|, as you did to [[:Anna Faris‎]]}}, you '''will''' be [[Wikipedia:Blocking policy|blocked]] from editing. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|}}&lt;!-- Template:uw-vandalism4im --&gt; [[User:Ward3001|Ward3001]] ([[User talk:Ward3001|talk]]) 18:04, 15 January 2008 (UTC)
-
-==FINAL WARNING==
-{{{icon|[[Image:Stop hand nuvola.svg|30px]] }}}This is the '''last warning''' you will receive for your disruptive edits. &lt;br/&gt; The next time you [[Wikipedia:Vandalism|vandalize]] Wikipedia{{{{{subst|}}}#if:User talk:Ward3001|, as you did to [[:User talk:Ward3001]]}}, you '''will''' be [[Wikipedia:Blocking policy|blocked]] from editing. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|}}&lt;!-- Template:uw-vandalism4 --&gt; [[User:Ward3001|Ward3001]] ([[User talk:Ward3001|talk]]) 23:36, 15 January 2008 (UTC)
-	</talkpage>
-</article>

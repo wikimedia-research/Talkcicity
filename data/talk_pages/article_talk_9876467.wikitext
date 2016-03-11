@@ -1,6 +1,0 @@
-<article id="9876467" title=Talk:One Israel (1980)>
-	<talkpage id="9876467" title="Talk:One Israel (1980)">
-{{WikiProject Israel |class=stub}}
-{{WikiProject Political Parties|class=stub|importance=low}}
-	</talkpage>
-</article>

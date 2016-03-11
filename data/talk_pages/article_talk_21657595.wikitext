@@ -1,9 +1,0 @@
-<article id="21657595" title=User talk:66.223.151.211>
-	<talkpage id="21657595" title="User talk:66.223.151.211">
-[[File:Information.svg|25px]] Welcome, and thank you for experimenting with Wikipedia. Your test {{#if:|on the page [[:]]}} worked, and it has been [[Help:Reverting|reverted]] or removed. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|this encyclopedia]]. If you would like to experiment further, please use the [[Wikipedia:Sandbox|sandbox]] instead. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-test1 --&gt; [[User:Prince Ludwig|Prince Ludwig]] ([[User talk:Prince Ludwig|talk]]) 19:35, 22 February 2009 (UTC)
-
-== March 2009 ==
-[[Image:Information.svg|left|25px]] Welcome, and thank you for experimenting with Wikipedia. Your test on the page [[:The Perilous Road]] worked, and it has been '''automatically [[Help:Reverting|reverted]]'''. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|this encyclopedia]]. If you would like to experiment further, please use the [[Wikipedia:Sandbox|sandbox]]. '''If you believe there has been a mistake and would like to report a false positive, please [[User talk:X!|report it here]].''' Thank you.&lt;br /&gt; &lt;!-- Template:uw-test1 --&gt; [[User:SoxBot III|SoxBot III]] ([[User talk:SoxBot III|talk]] | [[User:X!|owner]]) 05:19, 13 March 2009 (UTC)
-:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
-	</talkpage>
-</article>

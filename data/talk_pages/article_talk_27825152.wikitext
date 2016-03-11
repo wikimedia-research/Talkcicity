@@ -1,7 +1,0 @@
-<article id="27825152" title=Talk:Benzobarbital>
-	<talkpage id="27825152" title="Talk:Benzobarbital">
-{{Reliable sources for medical articles}}
-{{WikiProject Pharmacology|class=stub|importance=low}}
-{{WikiProject Chemicals|class=stub|importance=low}}
-	</talkpage>
-</article>

@@ -1,6 +1,0 @@
-<article id="42685334" title=Talk:Khutzeymateen River>
-	<talkpage id="42685334" title="Talk:Khutzeymateen River">
-{{WikiProject Rivers|class=stub|importance=low}}
-{{WikiProject Canada|bc=yes|geography=yes|class=stub|importance=low}}
-	</talkpage>
-</article>

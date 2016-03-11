@@ -1,8 +1,0 @@
-<article id="15355289" title=User talk:75.155.211.223>
-	<talkpage id="15355289" title="User talk:75.155.211.223">
-
-
-== January 2008 ==
-{{{icon|[[Image:Stop hand nuvola.svg|30px]] }}}This is the '''only warning''' you will receive for your disruptive edits.&lt;br/&gt; If you [[Wikipedia:Vandalism|vandalize]] Wikipedia again{{{{{subst|}}}#if:{{{1|}}}|, as you did to [[:{{{1}}}]]}}, you '''will''' be [[Wikipedia:Blocking policy|blocked]] from editing. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|}}&lt;!-- Template:uw-vandalism4im --&gt; &lt;span style=&quot;font-family: Verdana&quot;&gt;[[User:WODUP|'''&lt;font color=&quot;#002BB8&quot;&gt;W&lt;font color=&quot;#000&quot;&gt;ODU&lt;/font&gt;P&lt;/font&gt;''']]&lt;/span&gt; 00:03, 22 January 2008 (UTC)
-	</talkpage>
-</article>

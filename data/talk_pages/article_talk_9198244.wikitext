@@ -1,5 +1,0 @@
-<article id="9198244" title=Talk:Blond Barbarians and Noble Savages>
-	<talkpage id="9198244" title="Talk:Blond Barbarians and Noble Savages">
-{{WPBooks|class=stub|needs-infobox=}}
-	</talkpage>
-</article>

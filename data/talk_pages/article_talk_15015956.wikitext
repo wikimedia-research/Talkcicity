@@ -1,6 +1,0 @@
-<article id="15015956" title=Talk:Hypagoptera>
-	<talkpage id="15015956" title="Talk:Hypagoptera">
-{{WikiProject Lepidoptera|class=stub|importance=low}}
-{{WikiProject Insects|class=stub|importance=low}}
-	</talkpage>
-</article>

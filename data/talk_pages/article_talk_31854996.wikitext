@@ -1,5 +1,0 @@
-<article id="31854996" title=Talk:Leeds Rhinos 2011>
-	<talkpage id="31854996" title="Talk:Leeds Rhinos 2011">
-{{WikiProject Yorkshire|class=Start|importance=Low}}
-	</talkpage>
-</article>

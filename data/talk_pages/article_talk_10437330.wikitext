@@ -1,6 +1,0 @@
-<article id="10437330" title=Talk:Røros Station>
-	<talkpage id="10437330" title="Talk:Røros Station">
-{{WikiProjectTrains|class=stub|importance=low|stations=yes}}
-{{NorwayProject|class=stub}}
-	</talkpage>
-</article>

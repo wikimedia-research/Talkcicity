@@ -1,6 +1,0 @@
-<article id="36764443" title=Talk:1974 Scottish Cup Final>
-	<talkpage id="36764443" title="Talk:1974 Scottish Cup Final">
-{{WikiProject Football |class=start |importance=low |season=yes |scotland=yes }}
-{{WikiProject Scotland |class=start |importance=low}}
-	</talkpage>
-</article>

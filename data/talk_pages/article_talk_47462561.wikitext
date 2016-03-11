@@ -1,5 +1,0 @@
-<article id="47462561" title=Talk:Christopher Ragland>
-	<talkpage id="47462561" title="Talk:Christopher Ragland">
-{{WikiProject Biography |living=yes |class=Start}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="17627795" title=Talk:Old Town (Mississippi)>
-	<talkpage id="17627795" title="Talk:Old Town (Mississippi)">
-{{WikiProject United States|class=stub|importance=low|MS=yes|MS-importance=}}
-	</talkpage>
-</article>

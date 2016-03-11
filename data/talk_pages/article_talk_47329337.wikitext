@@ -1,6 +1,0 @@
-<article id="47329337" title=Talk:USCGC Tahoe (1928)>
-	<talkpage id="47329337" title="Talk:USCGC Tahoe (1928)">
-{{WikiProject Military history|class=start|Maritime=yes|US=yes}}
-{{WikiProject Ships|class=start}}
-	</talkpage>
-</article>

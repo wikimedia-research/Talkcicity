@@ -1,9 +1,0 @@
-<article id="10833891" title=Talk:Astronautics Corporation of America>
-	<talkpage id="10833891" title="Talk:Astronautics Corporation of America">
-{{WikiProjectBannerShell|1=
-{{WikiProject Aviation|class=start|b1=n|b2=y|b3=y|b4=y|b5=y|Aircraft=yes}}
-{{WikiProject Military history|class=start|B1=n|B2=y|B3=y|B4=y|B5=y|Aviation=yes|US=yes|importance=low}}
-{{WikiProject Wisconsin}}
-}}
-	</talkpage>
-</article>

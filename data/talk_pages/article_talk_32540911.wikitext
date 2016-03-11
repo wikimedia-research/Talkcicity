@@ -1,5 +1,0 @@
-<article id="32540911" title=Talk:Cassell Webb>
-	<talkpage id="32540911" title="Talk:Cassell Webb">
-{{WikiProject Biography|living=yes|class=stub|musician-work-group=yes|listas=Webb, Cassell}}
-	</talkpage>
-</article>

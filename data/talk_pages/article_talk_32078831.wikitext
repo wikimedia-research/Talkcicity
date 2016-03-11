@@ -1,5 +1,0 @@
-<article id="32078831" title=Talk:Australasian College of Health Informatics>
-	<talkpage id="32078831" title="Talk:Australasian College of Health Informatics">
-{{WikiProject Academic Journals|class=Start|needs-infobox=yes}}
-	</talkpage>
-</article>

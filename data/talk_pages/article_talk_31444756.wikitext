@@ -1,6 +1,0 @@
-<article id="31444756" title=User talk:Atulkkum>
-	<talkpage id="31444756" title="User talk:Atulkkum">
-== April 2011 ==
-[[Image:Stop hand nuvola.svg|30px|alt=|link=]] This is your '''only warning'''; if you insert a [[Wikipedia:Spam|spam]] link to Wikipedia again, as you did at [[::Category:Scholarships in India]], you may be '''[[Wikipedia:Blocking policy|blocked from editing]] without further notice'''. Persistent spammers may have their websites [[Wikipedia:Spam blacklist|blacklisted]], preventing anyone from linking to them from all [[foundation:Our projects|Wikimedia sites]] as well as potentially being penalized by search engines.[[Category:User talk pages with Uw-spam4im notices|{{PAGENAME}}]]&lt;!-- Template:uw-spam4im --&gt; ''I know it's a very old spam edit from 2010, and was only recently removed - but the strong warning needs to be given.'' [[User:Lantrix|&lt;font style=&quot;color:#3300FF;&quot;&gt;Lantrix&lt;/font&gt;]] &lt;span style=&quot;vertical-align: baseline; font-size: 0.7em; position: relative; top: -0.5em; bolder&quot;&gt;//[[User_talk:Lantrix|&lt;font style=&quot;color:#FF3300;&quot;&gt;Talk&lt;/font&gt;]]//[[Special:Contributions/Lantrix|&lt;font style=&quot;color:#009933;&quot;&gt;Contrib&lt;/font&gt;]]//&lt;/span&gt; 10:30, 9 April 2011 (UTC)
-	</talkpage>
-</article>

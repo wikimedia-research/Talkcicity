@@ -1,5 +1,0 @@
-<article id="21152887" title=Talk:Lian, Norway>
-	<talkpage id="21152887" title="Talk:Lian, Norway">
-{{WikiProject Norway|class=start}}
-	</talkpage>
-</article>

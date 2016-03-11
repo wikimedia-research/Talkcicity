@@ -1,5 +1,0 @@
-<article id="32526758" title=User talk:182.72.210.30>
-	<talkpage id="32526758" title="User talk:182.72.210.30">
-[[Image:Information.svg|25px|alt=|link=]] Welcome to Wikipedia. Everyone is welcome to contribute to the encyclopedia, but when you add or change content, as you did to the article [[:Lodhi]], please cite a [[Wikipedia:Reliable sources|reliable source]] for your addition. This helps maintain our policy of [[Wikipedia:Verifiability|verifiability]]. See [[Wikipedia:Citing sources]] for how to cite sources, and the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. Thank you.&lt;!-- Template:uw-unsourced1 --&gt; &lt;span style=&quot;border:1px solid;background:blue&quot;&gt;[[User:Planetary Chaos Redux|'''&lt;span style=&quot;background:white;color:blue&quot;&gt;Planetary Chaos&lt;/span&gt;''']][[User talk:Planetary Chaos Redux |&lt;span style=&quot;color:#white;background-color:red;&quot;&gt;Talk&lt;/span&gt;]]&lt;/span&gt; 10:29, 25 July 2011 (UTC)
-	</talkpage>
-</article>

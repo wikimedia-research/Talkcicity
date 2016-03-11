@@ -1,6 +1,0 @@
-<article id="19059835" title=Talk:Wola Kamocka>
-	<talkpage id="19059835" title="Talk:Wola Kamocka">
-{{WPCities|class=stub|importance=low}}
-{{WikiProject Poland|class=stub|importance=low}}
-	</talkpage>
-</article>

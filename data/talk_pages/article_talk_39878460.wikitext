@@ -1,5 +1,0 @@
-<article id="39878460" title=Talk:McCalmon>
-	<talkpage id="39878460" title="Talk:McCalmon">
-{{WikiProject Anthroponymy|class=List}}
-	</talkpage>
-</article>

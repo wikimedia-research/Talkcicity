@@ -1,5 +1,0 @@
-<article id="14532898" title=Talk:Nunavut Land Claims Agreement>
-	<talkpage id="14532898" title="Talk:Nunavut Land Claims Agreement">
-{{WikiProject Canada|nu=yes|canlaw=yes|class=Stub|importance=Low}}
-	</talkpage>
-</article>

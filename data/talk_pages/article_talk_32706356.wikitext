@@ -1,5 +1,0 @@
-<article id="32706356" title=Talk:Queen of Egypt>
-	<talkpage id="32706356" title="Talk:Queen of Egypt">
-{{WikiProject Disambiguation}}
-	</talkpage>
-</article>

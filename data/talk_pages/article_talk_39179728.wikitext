@@ -1,8 +1,0 @@
-<article id="39179728" title=User talk:142.161.144.87>
-	<talkpage id="39179728" title="User talk:142.161.144.87">
-
-== April 2013 ==
-
-[[Image:Information.svg|25px|alt=|link=]] Hello, I'm [[User:NickW557|NickW557]]. Your recent edit to the page [[:Frank Abagnale]] appears to have added incorrect information, so I removed it for now. If you believe the information was correct, please [[Wikipedia:Citing sources|cite a reliable source]] or discuss your change on the article's talk page. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:NickW557|my talk page]]. Thanks, &lt;!-- Template:Huggle/warn-error-1 --&gt;&lt;!-- Template:uw-error1 --&gt;[[User:NickW557|Nick]]—&lt;sup&gt;[[User talk:NickW557|Contact]]&lt;/sup&gt;/&lt;sub&gt;[[Special:Contributions/NickW557|Contribs]]&lt;/sub&gt; 21:25, 21 April 2013 (UTC)
-	</talkpage>
-</article>

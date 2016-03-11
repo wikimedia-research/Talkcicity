@@ -1,5 +1,0 @@
-<article id="25221568" title=Talk:Huisman>
-	<talkpage id="25221568" title="Talk:Huisman">
-{{WikiProject Anthroponymy|class=List|importance=NA}}
-	</talkpage>
-</article>

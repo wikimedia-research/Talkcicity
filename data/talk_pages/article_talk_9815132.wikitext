@@ -1,8 +1,0 @@
-<article id="9815132" title=User talk:Eskllz>
-	<talkpage id="9815132" title="User talk:Eskllz">
-
-A tag has been placed on [[:Evan Minior]], requesting that it be speedily deleted from Wikipedia. This has been done because the article seems to be about a person, group of people, band, club, company, or web content, but it does not indicate how or why the subject is notable, that is, why an article about that subject should be included in Wikipedia. Under the [[WP:CSD#Articles|criteria for speedy deletion]], articles that do not assert notability may be deleted at any time. Please [[Wikipedia:Notability|see the guidelines for what is generally accepted as notable]], and if you can indicate why the subject of this article is notable, you may contest the tagging. To do this, add &lt;code&gt;{{tl|hangon}}&lt;/code&gt; on the top of the page (below the existing db tag) and leave a note on [[Talk:Evan Minior|the article's talk page]] explaining your position. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the article that would confirm its subject's notability under the guidelines.
-
-For guidelines on specific types of articles, you may want to check out our criteria [[Wikipedia:Notability (people)|for biographies]], [[WP:WEB|for web sites]], [[WP:BAND|for bands]], or [[WP:CORP|for companies]]. Feel free to leave a note on my talk page if you have any questions about this.&lt;!-- Template:Nn-warn --&gt;  --[[User:Jon186|Jon186]] 20:43, 2 March 2007 (UTC)
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="20246275" title=Talk:Az Zawiyah (disambiguation)>
-	<talkpage id="20246275" title="Talk:Az Zawiyah (disambiguation)">
-{{DisambigProject}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="18173383" title=Talk:Carduelis sinica>
-	<talkpage id="18173383" title="Talk:Carduelis sinica">
-{{BirdTalk|class=NA}}
-	</talkpage>
-</article>

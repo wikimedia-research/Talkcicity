@@ -1,5 +1,0 @@
-<article id="11875059" title=Talk:1520s in architecture>
-	<talkpage id="11875059" title="Talk:1520s in architecture">
-{{WikiProject Architecture|class=stub}}
-	</talkpage>
-</article>

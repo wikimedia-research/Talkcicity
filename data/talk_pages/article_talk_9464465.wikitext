@@ -1,6 +1,0 @@
-<article id="9464465" title=Talk:List of Australian Open mixed doubles champions>
-	<talkpage id="9464465" title="Talk:List of Australian Open mixed doubles champions">
-{{WP-Tennis|class=List|importance=High}}
-{{WP Australia |class=list |importance=low}}
-	</talkpage>
-</article>

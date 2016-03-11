@@ -1,7 +1,0 @@
-<article id="45075674" title=User talk:68.184.192.140>
-	<talkpage id="45075674" title="User talk:68.184.192.140">
-== January 2015 ==
-[[File:Information orange.svg|25px|alt=Information icon]] Please refrain from making unconstructive edits to Wikipedia, as you did at [[:Gothic architecture]]. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]] or removed. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. [[Wikipedia:Administrators|Administrators]] have the ability to [[WP:BLOCK|block]] users from editing if they repeatedly engage in vandalism. Thank you.&lt;!-- Template:uw-vandalism2 --&gt; [[User:Andy Dingley|Andy Dingley]] ([[User talk:Andy Dingley|talk]]) 10:55, 16 January 2015 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

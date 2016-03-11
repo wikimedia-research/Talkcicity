@@ -1,5 +1,0 @@
-<article id="16487294" title=Talk:Crane Hill, Alabama>
-	<talkpage id="16487294" title="Talk:Crane Hill, Alabama">
-{{WikiProject Alabama|class=Stub}}
-	</talkpage>
-</article>

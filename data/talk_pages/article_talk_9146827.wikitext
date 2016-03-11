@@ -1,5 +1,0 @@
-<article id="9146827" title=Talk:Biscarrosse>
-	<talkpage id="9146827" title="Talk:Biscarrosse">
-{{WikiProject France|commune=yes|class=stub|importance=low}}
-	</talkpage>
-</article>

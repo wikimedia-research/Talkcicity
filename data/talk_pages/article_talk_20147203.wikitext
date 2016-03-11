@@ -1,9 +1,0 @@
-<article id="20147203" title=User talk:203.191.197.105>
-	<talkpage id="20147203" title="User talk:203.191.197.105">
-
-
-== November 2008 ==
-[[Image:Information.svg|25px]]  Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits{{#if:Brno|, such as the one you made to [[:Brno]],}} did not appear to be constructive and has been removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism1 --&gt; [[User:Beano|&lt;b&gt;&lt;span style=&quot;color:#C00000&quot;&gt;~Beano~&lt;/span&gt;&lt;/b&gt;]]&lt;sup&gt;&lt;small&gt;&lt;b&gt;[[User_talk:Beano|&lt;span style=&quot;color:blue&quot;&gt; (talk)&lt;/span&gt;]] [[Special:Contributions/Beano|&lt;span style=&quot;color:green&quot;&gt;(contribs)&lt;/span&gt;]]&lt;/b&gt;&lt;/small&gt;&lt;/sup&gt; 06:55, 10 November 2008 (UTC)
-:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
-	</talkpage>
-</article>

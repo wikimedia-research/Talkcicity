@@ -1,5 +1,0 @@
-<article id="13266050" title=User talk:76.107.76.200>
-	<talkpage id="13266050" title="User talk:76.107.76.200">
-{{{icon|[[Image:Information.svg|25px]] }}}Welcome, and thank you for experimenting with {{{{{subst|}}}#if:The Masque of the Red Death|the page [[:The Masque of the Red Death]] on}} Wikipedia. Your test worked, and it has been [[Help:Reverting|reverted]] or removed. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|our encyclopedia]]. If you would like to experiment further, please use the [[Wikipedia:Sandbox|sandbox]]. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-test1 --&gt; --[[User:Midnightdreary|Midnightdreary]] 19:04, 14 September 2007 (UTC)
-	</talkpage>
-</article>

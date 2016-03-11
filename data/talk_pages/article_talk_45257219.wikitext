@@ -1,8 +1,0 @@
-<article id="45257219" title=User talk:86.7.201.155>
-	<talkpage id="45257219" title="User talk:86.7.201.155">
-== January 2015 ==
-
-[[Image:Information.svg|25px|alt=|link=]] Hello, I'm [[User:Orphan Wiki|Orphan Wiki]]. I noticed that you recently removed some content from [[:Muslim Jat clans of Jalandhar Division]] &amp;nbsp;with &lt;span class=&quot;plainlinks&quot;&gt;[https://en.wikipedia.org/w/index.php?title=Muslim%20Jat%20clans%20of%20Jalandhar%20Division&amp;diff=644839381 this edit]&lt;span&gt;, without explaining why. In the future, it would be helpful to others if you described your changes to Wikipedia with an [[Wikipedia:Edit summary|edit summary]]. If this was a mistake, don't worry, the removed content has been restored. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Orphan Wiki|my talk page]]. Thanks. &lt;!-- Template:Huggle/warn-delete-1 --&gt;&lt;!-- Template:uw-delete1 --&gt;[[User:Orphan Wiki|&lt;font color=&quot;#1F5C32&quot;&gt;'''Orphan Wiki'''&lt;/font&gt;]] 12:45, 30 January 2015 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

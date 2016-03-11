@@ -1,7 +1,0 @@
-<article id="40763087" title=User talk:107.213.89.79>
-	<talkpage id="40763087" title="User talk:107.213.89.79">
-== October 2013 ==
-
-[[Image:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Ginsuloft|Ginsuloft]]. I noticed that you recently removed some content from [[:Hopi people]]&amp;nbsp;without explaining why. In the future, it would be helpful to others if you described your changes to Wikipedia with an [[Wikipedia:Edit summary|edit summary]]. If this was a mistake, don't worry: I restored the removed content. If you would like to experiment, you can use the [[WP:Sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Ginsuloft|my talk page]]. Thanks!&lt;!-- Template:uw-delete1 --&gt; [[User:Ginsuloft|Ginsuloft]] ([[User talk:Ginsuloft|talk]]) 00:18, 11 October 2013 (UTC)
-	</talkpage>
-</article>

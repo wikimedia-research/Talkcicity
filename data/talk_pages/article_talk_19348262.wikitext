@@ -1,5 +1,0 @@
-<article id="19348262" title=Talk:Shandril Shessair>
-	<talkpage id="19348262" title="Talk:Shandril Shessair">
-{{D&amp;D|class=merge|importance=Low}}
-	</talkpage>
-</article>

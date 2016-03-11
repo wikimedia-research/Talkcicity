@@ -1,5 +1,0 @@
-<article id="32804663" title=Talk:Silver Retirement Medallion>
-	<talkpage id="32804663" title="Talk:Silver Retirement Medallion">
-{{WPODMBanner|class=Stub|importance=low}}
-	</talkpage>
-</article>

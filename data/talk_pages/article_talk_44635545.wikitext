@@ -1,5 +1,0 @@
-<article id="9991046" title=Talk:Ulmus minor 'Sarniensis'>
-	<talkpage id="9991046" title="Talk:Ulmus minor 'Sarniensis'">
-{{WikiProject Plants|class=Start|importance=Low}}
-	</talkpage>
-</article>

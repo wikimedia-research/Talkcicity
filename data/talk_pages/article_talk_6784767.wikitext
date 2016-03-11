@@ -1,9 +1,0 @@
-<article id="6784767" title=Talk:The Q Centre>
-	<talkpage id="6784767" title="Talk:The Q Centre">
-{{WikiProjectBannerShell|1=
-{{WikiProject Ice Hockey|class=stub|importance=}}
-{{WikiProject Lacrosse|importance=Low|class=Stub}}
-{{WikiProject Canada|sport=yes|bc=yes|importance=Low|class=Stub}}
-}}
-	</talkpage>
-</article>

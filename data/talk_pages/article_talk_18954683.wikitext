@@ -1,5 +1,0 @@
-<article id="18954683" title=Talk:Rəsulzadə>
-	<talkpage id="18954683" title="Talk:Rəsulzadə">
-{{WikiProject Azerbaijan|class=stub|importance=low}}
-	</talkpage>
-</article>

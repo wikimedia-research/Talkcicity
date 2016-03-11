@@ -1,5 +1,0 @@
-<article id="44471280" title=Talk:Reiber>
-	<talkpage id="44471280" title="Talk:Reiber">
-{{WikiProject Anthroponymy|class = list|importance = low}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="14448045" title=Talk:MV Ocean Life>
-	<talkpage id="14448045" title="Talk:MV Ocean Life">
-{{WikiProject Ships| class=stub | importance=mid }}
-	</talkpage>
-</article>

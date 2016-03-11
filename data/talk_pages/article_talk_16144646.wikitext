@@ -1,5 +1,0 @@
-<article id="16144646" title=Talk:Bellancourt>
-	<talkpage id="16144646" title="Talk:Bellancourt">
-{{WikiProject France|class=Stub|importance=Low|commune=yes}}
-	</talkpage>
-</article>

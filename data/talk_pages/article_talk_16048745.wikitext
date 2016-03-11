@@ -1,5 +1,0 @@
-<article id="16048745" title=Talk:Kryst the Conqueror>
-	<talkpage id="16048745" title="Talk:Kryst the Conqueror">
-{{HMM|class=stub}}
-	</talkpage>
-</article>

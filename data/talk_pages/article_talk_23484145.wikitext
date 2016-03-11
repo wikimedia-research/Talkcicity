@@ -1,8 +1,0 @@
-<article id="23484145" title=User talk:211.28.195.106>
-	<talkpage id="23484145" title="User talk:211.28.195.106">
-
-
-== July 2009 ==
-[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits{{#if:Ernest Shackleton|, such as the one you made to [[:Ernest Shackleton]],}} did not appear to be constructive and has been reverted. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; -'''[[User:MBK004|MBK]]'''&lt;sub&gt;[[User talk:MBK004|004]]&lt;/sub&gt; 02:21, 4 July 2009 (UTC)
-	</talkpage>
-</article>

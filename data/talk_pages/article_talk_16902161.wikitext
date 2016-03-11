@@ -1,5 +1,0 @@
-<article id="16902161" title=Talk:15378 Artin>
-	<talkpage id="16902161" title="Talk:15378 Artin">
-{{WPAstronomy|object=yes|class=Stub|importance=Low}}
-	</talkpage>
-</article>

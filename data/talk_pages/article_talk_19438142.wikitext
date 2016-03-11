@@ -1,5 +1,0 @@
-<article id="19438142" title=Talk:Pokémon (disambiguation)>
-	<talkpage id="19438142" title="Talk:Pokémon (disambiguation)">
-{{DisambigProject|class=|importance=}}
-	</talkpage>
-</article>

@@ -1,9 +1,0 @@
-<article id="26108383" title=User talk:68.81.164.225>
-	<talkpage id="26108383" title="User talk:68.81.164.225">
-
-
-== February 2010 ==
-[[Image:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia, as you did to [[:Montgomery Burns]]. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Thank you.&lt;!-- Template:uw-vandalism2 --&gt; &lt;font face=&quot;Kristen ITC&quot;&gt;[[User:Ctjf83|&lt;font color=&quot;#ff0000&quot;&gt;C&lt;/font&gt;&lt;font color=&quot;#ff6600&quot;&gt;T&lt;/font&gt;&lt;font color=&quot;#ffff00&quot;&gt;J&lt;/font&gt;&lt;font color=&quot;#009900&quot;&gt;F&lt;/font&gt;&lt;font color=&quot;#0000ff&quot;&gt;8&lt;/font&gt;&lt;font color=&quot;#6600cc&quot;&gt;3&lt;/font&gt;]] [[User Talk:Ctjf83|chat]]&lt;/font&gt; 18:03, 7 February 2010 (UTC)
-:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
-	</talkpage>
-</article>

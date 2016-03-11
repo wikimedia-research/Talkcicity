@@ -1,8 +1,0 @@
-<article id="22537741" title=User talk:67.79.108.243>
-	<talkpage id="22537741" title="User talk:67.79.108.243">
-
-== April 2009 ==
-
-[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Mike_Burns_(basketball_coach)?diff=285702556 recent edit]&lt;/span&gt; you made to the page [[:Mike Burns (basketball coach)]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:Excirial|&lt;font color=&quot;191970&quot;&gt;'''Excirial''']]&lt;/font&gt;&lt;sup&gt; ([[User talk:Excirial|&lt;font color=&quot;FF8C00&quot;&gt;Contact me&lt;/font&gt;]],[[Special:Contributions/Excirial|&lt;font color=&quot;FF8C00&quot;&gt;Contribs&lt;/font&gt;]])&lt;/sup&gt; 18:55, 23 April 2009 (UTC)
-	</talkpage>
-</article>

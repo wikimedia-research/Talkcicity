@@ -1,5 +1,0 @@
-<article id="20225361" title=Talk:21st Division>
-	<talkpage id="20225361" title="Talk:21st Division">
-{{DisambigProject}}
-	</talkpage>
-</article>

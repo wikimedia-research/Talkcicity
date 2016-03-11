@@ -1,5 +1,0 @@
-<article id="17681529" title=Talk:Wiesbach, Germany>
-	<talkpage id="17681529" title="Talk:Wiesbach, Germany">
-{{WikiProject Germany|class=stub|importance=low}}
-	</talkpage>
-</article>

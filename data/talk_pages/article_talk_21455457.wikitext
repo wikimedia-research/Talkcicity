@@ -1,5 +1,0 @@
-<article id="21455457" title=Talk:Kourouninkoto>
-	<talkpage id="21455457" title="Talk:Kourouninkoto">
-{{WikiProject Africa|Mali=yes|class=stub}}
-	</talkpage>
-</article>

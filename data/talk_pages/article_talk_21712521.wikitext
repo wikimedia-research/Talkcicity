@@ -1,5 +1,0 @@
-<article id="21712521" title=Talk:Cers (wind)>
-	<talkpage id="21712521" title="Talk:Cers (wind)">
-{{Meteorology|class=stub|importance=}}
-	</talkpage>
-</article>

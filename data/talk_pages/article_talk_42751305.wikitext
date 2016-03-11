@@ -1,7 +1,0 @@
-<article id="42751305" title=User talk:216.162.48.103>
-	<talkpage id="42751305" title="User talk:216.162.48.103">
-
-
-Hi, I just reverted your edit, because you did not provide any [[WP:RS|reliable sources]] for your change. If you think I made a mistake, or if you have any questions, please feel free to contact me. Regards,
-	</talkpage>
-</article>

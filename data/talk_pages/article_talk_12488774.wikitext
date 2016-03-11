@@ -1,5 +1,0 @@
-<article id="12488774" title=Talk:Yucatan vireo>
-	<talkpage id="12488774" title="Talk:Yucatan vireo">
-{{BirdTalk|class=stub|importance=low|needs-photo=yes}}
-	</talkpage>
-</article>

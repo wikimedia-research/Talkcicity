@@ -1,5 +1,0 @@
-<article id="23116654" title=Talk:Nicolaes Boddingius>
-	<talkpage id="23116654" title="Talk:Nicolaes Boddingius">
-{{WikiProject Biography |living=no |class=Start |listas=Boddingius, Nicolaes}}
-	</talkpage>
-</article>

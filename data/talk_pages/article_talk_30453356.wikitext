@@ -1,5 +1,0 @@
-<article id="30453356" title=Talk:Allanbank, Scottish Borders>
-	<talkpage id="30453356" title="Talk:Allanbank, Scottish Borders">
-{{WikiProject Scotland}}
-	</talkpage>
-</article>

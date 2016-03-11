@@ -1,7 +1,0 @@
-<article id="47045965" title=User talk:124.106.47.73>
-	<talkpage id="47045965" title="User talk:124.106.47.73">
-== June 2015 ==
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Gilliam|Gilliam]]. I wanted to let you know that I undid one or more of [[Special:Contributions/124.106.47.73|your recent contributions]]&amp;nbsp;to [[:Cisco Certified Entry Networking Technician]] because it did not appear constructive. If you would like to experiment, please use the [[WP:sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Gilliam|my talk page]]. Thanks.&lt;!-- Template:uw-vandalism1 --&gt; – [[User:Gilliam|Gilliam]] ([[User talk:Gilliam|talk]]) 08:50, 22 June 2015 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

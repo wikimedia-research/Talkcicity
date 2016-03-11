@@ -1,5 +1,0 @@
-<article id="25607598" title=Talk:List of geometrid genera: E>
-	<talkpage id="25607598" title="Talk:List of geometrid genera: E">
-{{WikiProject Lepidoptera|importance=low|class=list}}
-	</talkpage>
-</article>

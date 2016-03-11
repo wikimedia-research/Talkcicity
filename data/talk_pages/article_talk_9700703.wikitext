@@ -1,5 +1,0 @@
-<article id="9700703" title=User talk:Stumboggler>
-	<talkpage id="9700703" title="User talk:Stumboggler">
-Some of the people, places or things you have written about {{#if:Stumboggling|in the article [[Stumboggling]]|on Wikipedia}} may not be sufficiently well-known to merit articles of their own. The Wikipedia community [[Wikipedia:Introduction|welcomes newcomers]]. On Wikipedia, all users are entitled to a [[Wikipedia:user page|user page]] in which they can describe themselves, and this article's content may be incorporated into that page. However, to merit inclusion in the encyclopedia proper, a subject must be [[Wikipedia:Notability (people)|notable]], with reference to [[Wikipedia:Reliable sources|reliable published sources]]. We encourage you to write or improve articles on notable subjects. &lt;!-- Template:ConflictOfInterest --&gt;  [[User_talk:FreplySpang|FreplySpang]] 00:20, 25 February 2007 (UTC)
-	</talkpage>
-</article>

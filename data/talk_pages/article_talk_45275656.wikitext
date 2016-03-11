@@ -1,9 +1,0 @@
-<article id="45275656" title=Talk:31st Annie Awards>
-	<talkpage id="45275656" title="Talk:31st Annie Awards">
-{{WikiProjectBannerShell|
-{{WikiProject Film|class=list|Awards=yes}}
-{{WikiProject Animation|class=list|importance=low}}
-{{WikiProject Awards and prizes|class=list|importance=low}}
-}}
-	</talkpage>
-</article>

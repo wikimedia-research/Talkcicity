@@ -1,9 +1,0 @@
-<article id="40342664" title=User talk:MikeDKnight>
-	<talkpage id="40342664" title="User talk:MikeDKnight">
-== Possibly unfree [[:File:Aerial shot of Saint Michael's College.jpg]] ==
-A file that you uploaded or altered, [[:File:Aerial shot of Saint Michael's College.jpg]], has been listed at [[Wikipedia:Possibly unfree files]] because its copyright status is unclear or disputed. If the file's copyright status cannot be verified, it may be deleted. You may find more information on the [[:File:Aerial shot of Saint Michael's College.jpg|file description page]]. You are welcome to add comments to its entry at [[Wikipedia:Possibly unfree files/2013 August 24#File:Aerial shot of Saint Michael's College.jpg|the discussion]] if you object to the listing for any reason. Thank you. &lt;!-- Template:Fdw-puf --&gt; [[User:Finavon|Finavon]] ([[User talk:Finavon|talk]]) 15:37, 24 August 2013 (UTC)
-:(moved from [[User talk:Finavon]] to keep conversation together)
-Hello, I am the uploader and an employee of Saint Michael's College, I can confirm that this is our photograph. What do I need to do to get this problem fixed? Thanks. &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:MikeDKnight|MikeDKnight]] ([[User talk:MikeDKnight|talk]] • [[Special:Contributions/MikeDKnight|contribs]]) 12:34, 26 August 2013 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
-:Excellent. If you can license the image, we can keep it. It would be best to authenticate your ownership and copyright on [[Wikimedia Commons]] (unless you wish to restrict its use to the English Wikipedia). Follow the instructions [http://commons.wikimedia.org/wiki/OTRS here]. I have marked the image as OTRS-pending which might stop the en.wiki copy from being deleted. [[User:Finavon|Finavon]] ([[User talk:Finavon#top|talk]]) 17:40, 26 August 2013 (UTC)
-	</talkpage>
-</article>

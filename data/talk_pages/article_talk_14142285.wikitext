@@ -1,7 +1,0 @@
-<article id="14142285" title=User talk:70.250.41.58>
-	<talkpage id="14142285" title="User talk:70.250.41.58">
-==November 2007==
-
-{{{icon|[[Image:Information.svg|25px]] }}}Please refrain from making test edits in Wikipedia articles{{{{{subst|}}}#if:Lettuce|, such as those you made to [[:Lettuce]],}} even if your ultimate intention is to fix them.  Such edits appear to be [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]].  If you would like to experiment again, please use the [[Wikipedia:Sandbox|sandbox]]. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-test2 --&gt;  [[User:Bsherr|Bsherr]] 16:41, 8 November 2007 (UTC)
-	</talkpage>
-</article>

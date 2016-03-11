@@ -1,6 +1,0 @@
-<article id="28077331" title=Talk:SS Ilse L M Russ>
-	<talkpage id="28077331" title="Talk:SS Ilse L M Russ">
-{{WPSHIPS|class=c|B1=y|B2=n|B3=y|B4=y|B5=y}}
-{{WPMILHIST||class=C|auto=inherit| b1  = yes| b2  = no| b3  = yes| b4  = yes| b5  = yes|Maritime-task-force=yes|WWII=yes|German=yes|British=yes|importance=}}
-	</talkpage>
-</article>

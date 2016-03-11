@@ -1,5 +1,0 @@
-<article id="26922054" title=Talk:Harvest Jazz and Blues Festival>
-	<talkpage id="26922054" title="Talk:Harvest Jazz and Blues Festival">
-{{WikiProject Jazz|class=stub|auto=length|importance=}}
-	</talkpage>
-</article>

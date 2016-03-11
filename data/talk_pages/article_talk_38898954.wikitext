@@ -1,5 +1,0 @@
-<article id="38693227" title=Talk:Nanhu salamander>
-	<talkpage id="38693227" title="Talk:Nanhu salamander">
-{{WikiProject Amphibians and Reptiles|class=Stub|importance=low|needs-photo=yes}}
-	</talkpage>
-</article>

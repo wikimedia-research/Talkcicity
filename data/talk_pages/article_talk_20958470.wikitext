@@ -1,5 +1,0 @@
-<article id="20958470" title=Talk:Alexander Berzin>
-	<talkpage id="20958470" title="Talk:Alexander Berzin">
-{{DisambigProject}}
-	</talkpage>
-</article>

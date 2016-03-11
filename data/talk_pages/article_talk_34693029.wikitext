@@ -1,5 +1,0 @@
-<article id="34693029" title=Talk:Aenetus toxopeusi>
-	<talkpage id="34693029" title="Talk:Aenetus toxopeusi">
-{{WikiProject Lepidoptera|class=Stub|importance=Low}}
-	</talkpage>
-</article>

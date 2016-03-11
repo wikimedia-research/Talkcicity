@@ -1,5 +1,0 @@
-<article id="13266106" title=Talk:Rupert of Hee Haw>
-	<talkpage id="13266106" title="Talk:Rupert of Hee Haw">
-{{WikiProject Film|class=stub|needs-image=yes|American-task-force=yes|Silent=yes}}
-	</talkpage>
-</article>

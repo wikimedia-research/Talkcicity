@@ -1,5 +1,0 @@
-<article id="28451092" title=Talk:Defeat You>
-	<talkpage id="28451092" title="Talk:Defeat You">
-{{WPSongs|class=redirect}}
-	</talkpage>
-</article>

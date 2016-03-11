@@ -1,6 +1,0 @@
-<article id="39410383" title=Talk:John Foster (textile manufacturer)>
-	<talkpage id="39410383" title="Talk:John Foster (textile manufacturer)">
-{{WikiProject Biography|class=|living=no|listas=Foster, John}}
-{{WikiProject Business }}
-	</talkpage>
-</article>

@@ -1,6 +1,0 @@
-<article id="32617771" title=Talk:2004 All-Ireland Senior Ladies' Football Championship Final>
-	<talkpage id="32617771" title="Talk:2004 All-Ireland Senior Ladies' Football Championship Final">
-{{GaelicGamesProject}}
-{{WikiProject Ireland|class=stub|importance=low}}
-	</talkpage>
-</article>

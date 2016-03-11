@@ -1,5 +1,0 @@
-<article id="8063683" title=Talk:Cryptochiridae>
-	<talkpage id="8063683" title="Talk:Cryptochiridae">
-{{WikiProject Arthropods|Stub|low}}
-	</talkpage>
-</article>

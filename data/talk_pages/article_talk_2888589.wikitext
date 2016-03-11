@@ -1,6 +1,0 @@
-<article id="2888589" title=Talk:Harvard Journal of Asiatic Studies>
-	<talkpage id="2888589" title="Talk:Harvard Journal of Asiatic Studies">
-{{WikiProject Academic Journals | class=Start }}
-{{WikiProject East Asia|class=start|importance=low}}
-	</talkpage>
-</article>

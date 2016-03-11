@@ -1,6 +1,0 @@
-<article id="35893368" title=Talk:U.S. Route 121 in Virginia>
-	<talkpage id="35893368" title="Talk:U.S. Route 121 in Virginia">
-{{WikiProject U.S. Roads|type=US|state1=VA|class=Redirect|importance=|needs-map=N/A|needs-kml=NA}}
-{{WikiProject Virginia|class=Redirect|importance=}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="18929312" title=Talk:Ağdaş, Jalilabad>
-	<talkpage id="18929312" title="Talk:Ağdaş, Jalilabad">
-{{WikiProject Azerbaijan|class=stub|importance=low}}
-	</talkpage>
-</article>

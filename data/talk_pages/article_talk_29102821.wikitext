@@ -1,6 +1,0 @@
-<article id="29102821" title=Talk:Mickey Reichenbach>
-	<talkpage id="29102821" title="Talk:Mickey Reichenbach">
-{{WikiProject Biography|living=yes|sports-work-group= yes|class=Start|listas=Reichenbach, Mickey}}
-{{WikiProject Baseball|class=start|importance=low|college=yes}}
-	</talkpage>
-</article>

@@ -1,7 +1,0 @@
-<article id="14178737" title=Talk:Acres Nook>
-	<talkpage id="14178737" title="Talk:Acres Nook">
-{{Talk header}}
-{{WikiProject Cities|class=Stub|importance=Low}}
-{{WikiProject England|class=Stub|importance=low}}
-	</talkpage>
-</article>

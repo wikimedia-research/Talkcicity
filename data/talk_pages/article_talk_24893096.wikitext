@@ -1,5 +1,0 @@
-<article id="24893096" title=Talk:Behavior Genetics (Journal)>
-	<talkpage id="24893096" title="Talk:Behavior Genetics (Journal)">
-{{WPJournals|class=Redirect}}
-	</talkpage>
-</article>

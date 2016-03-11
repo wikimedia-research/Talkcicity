@@ -1,6 +1,0 @@
-<article id="11999090" title=Talk:USS Mineral County (LST-988)>
-	<talkpage id="11999090" title="Talk:USS Mineral County (LST-988)">
-{{WikiProject Ships|class=Start|importance=Mid}}
-{{WPMILHIST|class=Start|b1=n|b2=n|b3=y|b4=y|b5=y|Maritime=yes|US=yes|WWII=yes}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="23893151" title=Talk:There Are Eight Million Stories...>
-	<talkpage id="23893151" title="Talk:There Are Eight Million Stories...">
-{{album|class=stub|importance=low}}
-	</talkpage>
-</article>

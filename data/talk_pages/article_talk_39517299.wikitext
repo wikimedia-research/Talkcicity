@@ -1,8 +1,0 @@
-<article id="39517299" title=User talk:66.90.149.128>
-	<talkpage id="39517299" title="User talk:66.90.149.128">
-
-== May 2013 ==
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:MelbourneStar|MelbourneStar]]. I wanted to let you know that I undid one or more of [[Special:Contributions/66.90.149.128|your recent contributions]]&amp;nbsp;to [[:Pandora's box]] because it did not appear constructive. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:MelbourneStar|my talk page]]. &lt;!-- Template:uw-vandalism1 --&gt;&lt;!-- Template:uw-cluebotwarning1 --&gt;   —[[User:MelbourneStar|&lt;font color=&quot;#E62020&quot;&gt;Mel&lt;/font&gt;&lt;font color=&quot;#FF2400&quot;&gt;bourne&lt;/font&gt;&lt;font color=&quot;#FF7538&quot;&gt;Star&lt;/font&gt;]][[Special:Contributions|&lt;font color=&quot;#FF9F00&quot;&gt;☆&lt;/font&gt;]][[User talk:MelbourneStar|&lt;sup&gt;&lt;font color=&quot;3D0376&quot;&gt;''talk''&lt;/font&gt;&lt;/sup&gt;]] 06:30, 29 May 2013 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

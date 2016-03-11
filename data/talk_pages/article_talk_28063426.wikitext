@@ -1,5 +1,0 @@
-<article id="28063426" title=Talk:Corynocarpus>
-	<talkpage id="28063426" title="Talk:Corynocarpus">
-{{WikiProject Plants|class=stub|importance=low}}
-	</talkpage>
-</article>

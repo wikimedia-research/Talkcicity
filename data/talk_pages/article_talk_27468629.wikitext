@@ -1,6 +1,0 @@
-<article id="27468629" title=Talk:Cherna, Dobrich Province>
-	<talkpage id="27468629" title="Talk:Cherna, Dobrich Province">
-{{WikiProject Europe|class=stub|importance=}}
-{{WikiProject Bulgaria|class=stub|importance=low}}
-	</talkpage>
-</article>

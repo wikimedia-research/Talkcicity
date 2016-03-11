@@ -1,5 +1,0 @@
-<article id="22649513" title=Talk:Daskalio>
-	<talkpage id="22649513" title="Talk:Daskalio">
-{{WikiProject Greece}}
-	</talkpage>
-</article>

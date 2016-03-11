@@ -1,8 +1,0 @@
-<article id="39972635" title=User talk:84.229.248.26>
-	<talkpage id="39972635" title="User talk:84.229.248.26">
-
-== July 2013 ==
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Widr|Widr]]. I wanted to let you know that I undid one or more of [[Special:Contributions/84.229.248.26|your recent contributions]]&amp;nbsp;to [[:Mortal Kombat]] because it did not appear constructive. If you would like to experiment, you can use the [[WP:sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Widr|my talk page]]. &lt;!-- Template:uw-vandalism1 --&gt;&lt;!-- Template:uw-cluebotwarning1 --&gt;   [[User:Widr|Widr]] ([[User talk:Widr|talk]]) 15:09, 15 July 2013 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

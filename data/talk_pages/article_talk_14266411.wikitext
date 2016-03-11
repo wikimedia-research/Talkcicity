@@ -1,5 +1,0 @@
-<article id="14266411" title=Talk:Quercetin-3-sulfate 3'-sulfotransferase>
-	<talkpage id="14266411" title="Talk:Quercetin-3-sulfate 3'-sulfotransferase">
-{{Wikiproject MCB|importance=Low|class=Stub}}
-	</talkpage>
-</article>

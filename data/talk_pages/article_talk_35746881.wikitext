@@ -1,8 +1,0 @@
-<article id="35746881" title=Talk:Tower Cube>
-	<talkpage id="35746881" title="Talk:Tower Cube">
-{{oldafdfull| date = 7 May 2012 | result = '''merge to [[Combination puzzle]]''' | page = Tower Cube }}
-
-{{WikiProject Toys|class=redirect}}
-{{findsources}}
-	</talkpage>
-</article>

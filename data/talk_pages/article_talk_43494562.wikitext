@@ -1,5 +1,0 @@
-<article id="43494562" title=Talk:Gasport Formation>
-	<talkpage id="43494562" title="Talk:Gasport Formation">
-{{WikiProject Geology|class=stub |importance=low}}
-	</talkpage>
-</article>

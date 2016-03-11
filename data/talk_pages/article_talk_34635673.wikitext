@@ -1,5 +1,0 @@
-<article id="21720873" title=Talk:Eriksbergs Mekaniska Verkstad>
-	<talkpage id="21720873" title="Talk:Eriksbergs Mekaniska Verkstad">
-{{WPSweden|class=Start|importance=Mid}}
-	</talkpage>
-</article>

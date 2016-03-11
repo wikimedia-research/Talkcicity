@@ -1,5 +1,0 @@
-<article id="44526292" title=Talk:Carriage & Wagon Workshop, Jagadhari>
-	<talkpage id="44526292" title="Talk:Carriage & Wagon Workshop, Jagadhari">
-{{WP India|class=stub|importance=low|haryana=yes|haryana-importance=low|railways=yes|railways-importance=low|assess-date=November 2014}}
-	</talkpage>
-</article>

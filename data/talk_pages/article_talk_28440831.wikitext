@@ -1,5 +1,0 @@
-<article id="28440831" title=Talk:Karula, Lääne-Viru County>
-	<talkpage id="28440831" title="Talk:Karula, Lääne-Viru County">
-{{WikiProject Estonia|class=stub|importance=low}}
-	</talkpage>
-</article>

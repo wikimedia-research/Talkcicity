@@ -1,7 +1,0 @@
-<article id="38714214" title=User talk:67.190.219.47>
-	<talkpage id="38714214" title="User talk:67.190.219.47">
-== March 2013 ==
-[[Image:Information.svg|25px|alt=|link=]] Hello, I'm [[User:Jeh|Jeh]]. I noticed that you recently removed some content from [[:Greater fool theory]]&amp;nbsp;without explaining why. In the future, it would be helpful to others if you described your changes to Wikipedia with an [[Wikipedia:Edit summary|edit summary]]. If this was a mistake, don't worry: I restored the removed content. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Jeh|my talk page]].  Thanks!&lt;!-- Template:uw-delete1 --&gt; ''In addition, for ALL edits, please use the &quot;Edit summary&quot; field in the edit form to explain briefly your reason for your edit. Thank you. '' [[User:Jeh|Jeh]] ([[User talk:Jeh|talk]]) 05:27, 5 March 2013 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

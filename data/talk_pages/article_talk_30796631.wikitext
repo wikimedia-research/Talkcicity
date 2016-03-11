@@ -1,5 +1,0 @@
-<article id="18264469" title=Talk:Breezand, Zeeland>
-	<talkpage id="18264469" title="Talk:Breezand, Zeeland">
-{{WikiProject Netherlands|class=stub|importance=}}
-	</talkpage>
-</article>

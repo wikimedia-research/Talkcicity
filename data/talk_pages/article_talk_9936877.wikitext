@@ -1,5 +1,0 @@
-<article id="9936877" title=User talk:75.60.212.214>
-	<talkpage id="9936877" title="User talk:75.60.212.214">
-[[Image:Information.svg|25px]] Welcome to Wikipedia. We invite everyone to contribute constructively to our encyclopedia. Some of your recent edits{{{{{subst|}}}#if:Fire-bellied toad|, such as those you made to [[:Fire-bellied toad]],}} have been considered unhelpful or unconstructive and have been [[Help:Reverting|reverted]] or removed.  Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- {{uw-vandalism1}} --&gt;  [[User:JoJan|JoJan]] 18:53, 8 March 2007 (UTC)
-	</talkpage>
-</article>

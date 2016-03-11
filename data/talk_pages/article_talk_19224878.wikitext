@@ -1,9 +1,0 @@
-<article id="19224878" title=User talk:Anon90012>
-	<talkpage id="19224878" title="User talk:Anon90012">
-
-
-== September 2008 ==
-[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to contribute constructively to the encyclopedia, we would like to remind you not to [[Wikipedia:No personal attacks|attack]] other editors{{#if:User talk:Oschaper|, as you did on [[:User talk:Oschaper]]}}. Please comment on the contributions and not the contributors. Take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-npa1 --&gt; '''[[User:Cirt|Cirt]]''' ([[User talk:Cirt|talk]]) 01:09, 8 September 2008 (UTC)
-:Regarding [[User talk:Oschaper]] - users have the right to blank their own talkpage. '''[[User:Cirt|Cirt]]''' ([[User talk:Cirt|talk]]) 22:30, 26 September 2008 (UTC)
-	</talkpage>
-</article>

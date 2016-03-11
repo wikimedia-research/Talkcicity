@@ -1,6 +1,0 @@
-<article id="10433247" title=Talk:Sabana de Torres>
-	<talkpage id="10433247" title="Talk:Sabana de Torres">
-{{WikiProject Colombia|class=stub|importance=low}}
-{{WikiProject South America|class=stub}}
-	</talkpage>
-</article>

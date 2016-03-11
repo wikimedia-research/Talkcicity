@@ -1,7 +1,0 @@
-<article id="24687864" title=User talk:204.81.226.252>
-	<talkpage id="24687864" title="User talk:204.81.226.252">
-{{schoolip|New Brunswick Department of Education, CA}}
-
-Thank you for experimenting with {{#if:|the page [[:]] on}} Wikipedia{{#if:|&amp;nbsp;as you did with [{{{diff}}} this edit]}}. Your test worked, and it has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any other tests you may want to do. Take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to our encyclopedia.&lt;!-- Template:Test (first level warning) --&gt; -- [[User:Syrthiss|Syrthiss]] ([[User talk:Syrthiss|talk]]) 14:02, 14 October 2009 (UTC)
-	</talkpage>
-</article>

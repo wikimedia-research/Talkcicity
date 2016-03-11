@@ -1,5 +1,0 @@
-<article id="19949195" title=User talk:96.237.194.87>
-	<talkpage id="19949195" title="User talk:96.237.194.87">
-[[Image:Information.svg|25px]]  Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits{{#if:Arch bridge|, such as the one you made to [[:Arch bridge]],}} did not appear to be constructive and has been removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism1 --&gt; [[User:Tedickey|Tedickey]] ([[User talk:Tedickey|talk]]) 21:27, 26 October 2008 (UTC)
-	</talkpage>
-</article>

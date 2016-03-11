@@ -1,5 +1,0 @@
-<article id="26928390" title=Talk:Tribometer>
-	<talkpage id="26928390" title="Talk:Tribometer">
-{{engineering}}
-	</talkpage>
-</article>

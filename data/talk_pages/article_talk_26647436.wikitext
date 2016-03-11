@@ -1,5 +1,0 @@
-<article id="26647436" title=Talk:Racková>
-	<talkpage id="26647436" title="Talk:Racková">
-{{WikiProject Czech Republic|class=stub|importance=Low}}
-	</talkpage>
-</article>

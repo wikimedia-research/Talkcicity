@@ -1,9 +1,0 @@
-<article id="18693778" title=Talk:Cool Beans Productions>
-	<talkpage id="18693778" title="Talk:Cool Beans Productions">
-{{WikiProjectBannerShell|1=
-{{WikiProject England|class=stub|importance=low}}
-{{WikiProject Companies|class=stub|importance=low}}
-{{WikiProject Yorkshire|class=Stub|importance=Low}}
-}}
-	</talkpage>
-</article>

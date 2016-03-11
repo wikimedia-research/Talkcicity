@@ -1,5 +1,0 @@
-<article id="39876290" title=Talk:Caskey>
-	<talkpage id="39876290" title="Talk:Caskey">
-{{WikiProject Anthroponymy|class=List}}
-	</talkpage>
-</article>

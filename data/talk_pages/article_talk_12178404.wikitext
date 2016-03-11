@@ -1,9 +1,0 @@
-<article id="12178404" title=Talk:Title 30 of the United States Code>
-	<talkpage id="12178404" title="Talk:Title 30 of the United States Code">
-{{WikiProject Law|class=Stub|importance=Mid}}
-{{WikiProject United States
- |class=Stub
- |importance=low
-}}
-	</talkpage>
-</article>

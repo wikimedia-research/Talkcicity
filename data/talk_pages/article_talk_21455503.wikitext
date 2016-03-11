@@ -1,5 +1,0 @@
-<article id="21455503" title=Talk:Sedum lineare>
-	<talkpage id="21455503" title="Talk:Sedum lineare">
-{{WikiProject Plants|class=Stub|importance=Low}}
-	</talkpage>
-</article>

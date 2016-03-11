@@ -1,7 +1,0 @@
-<article id="9237420" title=Talk:Costa Rica at the 1984 Summer Olympics>
-	<talkpage id="9237420" title="Talk:Costa Rica at the 1984 Summer Olympics">
-{{talkheader}}
-{{OlympicsWikiProject|class=Stub|importance=mid}}
-{{WikiProject Central America|class=stub|importance=low|Costa Rica=yes}}
-	</talkpage>
-</article>

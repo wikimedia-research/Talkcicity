@@ -1,5 +1,0 @@
-<article id="35678299" title=Talk:Sri Sri Centre for Media Studies>
-	<talkpage id="35678299" title="Talk:Sri Sri Centre for Media Studies">
-{{WikiProject India|class=stub|importance=low|karnataka=yes|karnataka-importance=low|education=yes|education-importance=low|assess-date=May 2012}}
-	</talkpage>
-</article>

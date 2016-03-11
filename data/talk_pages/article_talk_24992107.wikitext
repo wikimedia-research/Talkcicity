@@ -1,6 +1,0 @@
-<article id="24992107" title=Talk:Bob Callies Elementary School>
-	<talkpage id="24992107" title="Talk:Bob Callies Elementary School">
-{{WikiProject United States|class=Stub|importance=Low|ND=Yes|ND-importance=Low}}
-{{WikiProject Articles for creation|class=stub|ts=20091107003733|reviewer=Tim Song}}
-	</talkpage>
-</article>

@@ -1,9 +1,0 @@
-<article id="44573067" title=Talk:George Sowley Holroyd>
-	<talkpage id="44573067" title="Talk:George Sowley Holroyd">
-{{WikiProject Biography
-|living=no
-|class=Stub
-|auto=yes
-}}
-	</talkpage>
-</article>

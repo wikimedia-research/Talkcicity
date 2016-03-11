@@ -1,8 +1,0 @@
-<article id="24017223" title=Talk:Boo Robinson>
-	<talkpage id="24017223" title="Talk:Boo Robinson">
-{{WikiProject Biography|living=yes|class=Start|sports-work-group=yes|needs-photo=|listas=Robinson, Boo|sports-priority=Low}}
-{{Image requested|sportspeople}}
-
-{{WikiProject National Football League}}
-	</talkpage>
-</article>

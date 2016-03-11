@@ -1,5 +1,0 @@
-<article id="45345901" title=Talk:Gillilandtown, New Jersey>
-	<talkpage id="45345901" title="Talk:Gillilandtown, New Jersey">
-{{WikiProject New Jersey|class=stub|importance=low}}
-	</talkpage>
-</article>

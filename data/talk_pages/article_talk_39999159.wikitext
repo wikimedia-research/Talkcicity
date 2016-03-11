@@ -1,5 +1,0 @@
-<article id="39999159" title=Talk:Hye-kyung>
-	<talkpage id="39999159" title="Talk:Hye-kyung">
-{{WikiProject Anthroponymy|class=list}}
-	</talkpage>
-</article>

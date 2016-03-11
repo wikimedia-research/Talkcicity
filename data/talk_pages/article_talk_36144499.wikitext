@@ -1,8 +1,0 @@
-<article id="36144499" title=Talk:Close the Door campaign>
-	<talkpage id="36144499" title="Talk:Close the Door campaign">
-{{WikiProject Companies|class=stub|importance=|auto=yes}}
-{{WikiProject Retailing |importance= Mid|class=stub}}
-{{environment|class=stub}}
-{{WikiProject Energy|class=stub|importance=low}}
-	</talkpage>
-</article>

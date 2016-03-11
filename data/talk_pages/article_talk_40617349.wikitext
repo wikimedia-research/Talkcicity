@@ -1,8 +1,0 @@
-<article id="40617349" title=User talk:54.240.220.184>
-	<talkpage id="40617349" title="User talk:54.240.220.184">
-
-== September 2013 ==
-
-[[Image:Information.svg|25px|alt=|link=]] Hello, I'm [[User:IronGargoyle|IronGargoyle]]. I noticed that you made a change to an article, [[:Copperstone University]], but you didn't provide a source. I’ve removed it for now, but if you’d like to [[Wikipedia:Citing sources|include a citation]] to a reliable source and re-add it, please do so! If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:IronGargoyle|my talk page]]. Thanks. &lt;!-- Template:Huggle/warn-unsor-1 --&gt;&lt;!-- Template:uw-unsourced1 --&gt; [[User:IronGargoyle|IronGargoyle]] ([[User talk:IronGargoyle|talk]]) 10:32, 24 September 2013 (UTC)
-	</talkpage>
-</article>

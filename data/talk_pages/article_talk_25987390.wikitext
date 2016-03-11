@@ -1,5 +1,0 @@
-<article id="25987390" title=User talk:174.55.161.148>
-	<talkpage id="25987390" title="User talk:174.55.161.148">
-[[Image:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia{{#if:Kingdom Hearts Birth by Sleep|, as you did to [[:Kingdom Hearts Birth by Sleep]]}}. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Thank you.&lt;!-- Template:uw-vandalism2 --&gt; [[User:HalfShadow|&lt;font color=&quot;gray&quot;&gt;'''Half'''&lt;/font&gt;]][[User talk:HalfShadow|&lt;font color=&quot;black&quot;&gt;'''Shadow'''&lt;/font&gt;]] 01:37, 29 January 2010 (UTC)
-	</talkpage>
-</article>

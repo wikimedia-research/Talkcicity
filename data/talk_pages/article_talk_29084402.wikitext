@@ -1,5 +1,0 @@
-<article id="29084402" title=Talk:Eric Nicks>
-	<talkpage id="29084402" title="Talk:Eric Nicks">
-{{WikiProject Biography|living=yes|musician-work-group=yes|class=Start|listas=Nicks, Eric}}
-	</talkpage>
-</article>

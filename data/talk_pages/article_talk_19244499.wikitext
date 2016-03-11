@@ -1,7 +1,0 @@
-<article id="19244499" title=User talk:123456789paul>
-	<talkpage id="19244499" title="User talk:123456789paul">
-== TfD nomination of [[:Template:{{ucfirst:Singles By Rihanna}}]] ==
-[[Template:{{ucfirst:Singles By Rihanna}}]] has been nominated for deletion. You are invited to comment on the discussion at [[Wikipedia:Templates for deletion#Template:{{ucfirst:Singles By Rihanna}}|the template's entry on the Templates for Deletion page]]. Thank you.&lt;!--Template:Tfdnotice--&gt; [[User:Woohookitty|''Woohookitty'']]&lt;sup&gt;[[User talk:Woohookitty|Woohoo!]]&lt;/sup&gt; 10:30, 9 September 2008 (UTC)
-:Please do not remove the TfD notice or attempt to create identical templates. Thanks. --[[User:Woohookitty|''Woohookitty'']]&lt;sup&gt;[[User talk:Woohookitty|Woohoo!]]&lt;/sup&gt; 10:30, 9 September 2008 (UTC)
-	</talkpage>
-</article>

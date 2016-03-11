@@ -1,5 +1,0 @@
-<article id="38175902" title=Talk:Sarnen railway station>
-	<talkpage id="38175902" title="Talk:Sarnen railway station">
-{{WikiProject Switzerland|class=Stub|importance=Low}}
-	</talkpage>
-</article>

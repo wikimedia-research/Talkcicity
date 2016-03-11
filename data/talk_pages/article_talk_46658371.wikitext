@@ -1,6 +1,0 @@
-<article id="46658371" title=Talk:Volok (unit)>
-	<talkpage id="46658371" title="Talk:Volok (unit)">
-{{WikiProject Lithuania |class=stub |importance=low}}
-{{WikiProject Poland |class=stub |importance=low}}
-	</talkpage>
-</article>

@@ -1,7 +1,0 @@
-<article id="34999903" title=Talk:Lee Juck>
-	<talkpage id="34999903" title="Talk:Lee Juck">
-{{WikiProject Biography|living=yes|class=stub|listas=Lee, Juck|musician-work-group=yes}}
-{{WikiProject Pop music}}
-{{WikiProject Korea|pop=yes}}
-	</talkpage>
-</article>

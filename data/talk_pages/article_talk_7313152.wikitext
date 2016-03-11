@@ -1,5 +1,0 @@
-<article id="7313152" title=User talk:Angelof07>
-	<talkpage id="7313152" title="User talk:Angelof07">
-Thank you for experimenting with Wikipedia by creating the page [[:J-Pimpin': The Infamous Pimp of the 21st Century]]. Your test worked, and has been or will soon be removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any other tests you want to do. Take a look at the [[Wikipedia:Welcome, newcomers|welcome page]] if you would like to learn more about contributing to our encyclopedia.&lt;!-- Template:Testarticle-n (first level warning) --&gt;  [[User:NawlinWiki|NawlinWiki]] 03:09, 6 October 2006 (UTC)
-	</talkpage>
-</article>

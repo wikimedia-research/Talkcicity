@@ -1,5 +1,0 @@
-<article id="20570610" title=Talk:UTC+05:00>
-	<talkpage id="20570610" title="Talk:UTC+05:00">
-{{WikiProject Time|class=C|importance=low}}
-	</talkpage>
-</article>

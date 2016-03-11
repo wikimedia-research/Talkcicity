@@ -1,6 +1,0 @@
-<article id="32901647" title=Talk:2012 OFC Women's Olympic Qualifying Football Tournament>
-	<talkpage id="32901647" title="Talk:2012 OFC Women's Olympic Qualifying Football Tournament">
-{{WikiProject Olympics}}
-{{WikiProject Football |class=Stub |importance=Low |Women=yes }}
-	</talkpage>
-</article>

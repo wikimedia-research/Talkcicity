@@ -1,6 +1,0 @@
-<article id="40422659" title=Talk:Arga-class tugboat>
-	<talkpage id="40422659" title="Talk:Arga-class tugboat">
-{{WikiProject Ships|class=stub}}
-{{WPMILHIST|class=stub|Maritime=yes|South-Asian=yes}}
-	</talkpage>
-</article>

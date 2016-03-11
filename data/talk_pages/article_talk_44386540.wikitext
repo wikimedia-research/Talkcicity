@@ -1,8 +1,0 @@
-<article id="44386540" title=User talk:Pune Detectives>
-	<talkpage id="44386540" title="User talk:Pune Detectives">
-
-==Welcome!==
-
-Hi, Pune Detectives. Welcome to Wikipedia! Thank you for your contributions. I hope you like the place and decide to stay. Our [[Wikipedia:Contributing to Wikipedia|intro page]] contains a lot of helpful material for new users—please check it out! If you need help, visit [[Wikipedia:Questions]], ask me on [[User talk:Muazim Balwan|my talk page]], or place '''&lt;code&gt;&lt;nowiki&gt;{{helpme}}&lt;/nowiki&gt;&lt;/code&gt;''' on this page, followed by your question, and someone will show up shortly to answer your questions.  [[User:Muazim Balwan|Muazim Balwan]] ([[User talk:Muazim Balwan|talk]]) 08:58, 13 November 2014 (UTC)
-	</talkpage>
-</article>

@@ -1,6 +1,0 @@
-<article id="31556512" title=Talk:Not intended to be a factual statement>
-	<talkpage id="31556512" title="Talk:Not intended to be a factual statement">
-==Wrong Kyl==
-Yipes, thanks to the editor who spotted and fixed the faulty redirect. --[[User talk:Tony Sidaway|TS]] 13:39, 21 April 2011 (UTC)
-	</talkpage>
-</article>

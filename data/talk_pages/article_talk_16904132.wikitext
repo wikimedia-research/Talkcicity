@@ -1,5 +1,0 @@
-<article id="16904132" title=Talk:Lancaster (CDP), New Hampshire>
-	<talkpage id="16904132" title="Talk:Lancaster (CDP), New Hampshire">
-{{WPCities|class=redirect|importance=NA}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="40035049" title=Talk:B. graveolens>
-	<talkpage id="40035049" title="Talk:B. graveolens">
-{{WikiProject Disambiguation}}
-	</talkpage>
-</article>

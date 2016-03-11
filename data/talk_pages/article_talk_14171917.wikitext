@@ -1,6 +1,0 @@
-<article id="14171917" title=Talk:DWBR>
-	<talkpage id="14171917" title="Talk:DWBR">
-{{WPPhilippines|class=Start|importance=Low}}
-{{RadioStationsProject}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="39880202" title=Talk:Tatsuyoshi>
-	<talkpage id="39880202" title="Talk:Tatsuyoshi">
-{{WikiProject Anthroponymy|class=List}}
-	</talkpage>
-</article>

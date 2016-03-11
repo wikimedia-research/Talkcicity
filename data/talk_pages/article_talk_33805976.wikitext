@@ -1,5 +1,0 @@
-<article id="33805976" title=Talk:Pillar Falls>
-	<talkpage id="33805976" title="Talk:Pillar Falls">
-{{WikiProject United States|class=Stub|importance=Low|ID=yes|ID-importance=Low}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="46222404" title=Talk:Aluminum Manufacturers, Inc.>
-	<talkpage id="46222404" title="Talk:Aluminum Manufacturers, Inc.">
-{{WikiProject Companies|class=redirect}}
-	</talkpage>
-</article>

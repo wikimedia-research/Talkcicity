@@ -1,6 +1,0 @@
-<article id="12521843" title=Talk:Nelson's spiny pocket mouse>
-	<talkpage id="12521843" title="Talk:Nelson's spiny pocket mouse">
-{{WikiProject Rodents|class=stub|importance=low|needs-photo=yes|Pocket-pet=yes}}
-{{WikiProject Mammals|class=stub|importance=low|needs-photo=yes|Pocket-pet=yes}}
-	</talkpage>
-</article>

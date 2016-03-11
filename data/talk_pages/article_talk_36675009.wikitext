@@ -1,5 +1,0 @@
-<article id="36675009" title=Talk:North American Open 2012>
-	<talkpage id="36675009" title="Talk:North American Open 2012">
-{{WikiProject Squash|class=Start|importance=Low}}
-	</talkpage>
-</article>

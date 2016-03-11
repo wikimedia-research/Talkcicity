@@ -1,6 +1,0 @@
-<article id="23861952" title=Talk:Brave New World (The Rippingtons album)>
-	<talkpage id="23861952" title="Talk:Brave New World (The Rippingtons album)">
-{{WikiProject Jazz|album=yes|class=Stub|importance=}}
-{{WikiProject Albums|class=stub|importance=}}
-	</talkpage>
-</article>

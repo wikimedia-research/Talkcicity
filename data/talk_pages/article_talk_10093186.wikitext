@@ -1,5 +1,0 @@
-<article id="10093186" title=Talk:Central simple algebra>
-	<talkpage id="10093186" title="Talk:Central simple algebra">
-{{Maths_rating|class=start|importance=low|field=algebra}}
-	</talkpage>
-</article>

@@ -1,8 +1,0 @@
-<article id="8352851" title=Talk:Aksaray Province>
-	<talkpage id="8352851" title="Talk:Aksaray Province">
-{{talkheader}}
-{{WPTR|class=Start|importance=Mid}}
-
-= Comments =
-	</talkpage>
-</article>

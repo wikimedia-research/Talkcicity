@@ -1,6 +1,0 @@
-<article id="41785780" title=Talk:Pulau virus>
-	<talkpage id="41785780" title="Talk:Pulau virus">
-{{Talk header}}
-{{WikiProject Viruses|class=stub|importance=low}}
-	</talkpage>
-</article>

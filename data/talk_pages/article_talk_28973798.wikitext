@@ -1,9 +1,0 @@
-<article id="28973798" title=Talk:Rushern Baker>
-	<talkpage id="28973798" title="Talk:Rushern Baker">
-{{WikiProject Biography
-|living=yes
-|class=Stub
-|listas=Baker, Rushern
-}}
-	</talkpage>
-</article>

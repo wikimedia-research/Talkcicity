@@ -1,5 +1,0 @@
-<article id="20665412" title=Talk:Gunahi>
-	<talkpage id="20665412" title="Talk:Gunahi">
-{{WikiProject Nepal|class=|importance=}}
-	</talkpage>
-</article>

@@ -1,6 +1,0 @@
-<article id="10133184" title=Talk:Mbum languages>
-	<talkpage id="10133184" title="Talk:Mbum languages">
-{{WP Languages|class=Stub}}
-{{AfricaProject|class=Stub|Cameroon=yes|Chad=yes|Central African Republic=yes}}
-	</talkpage>
-</article>

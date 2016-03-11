@@ -1,5 +1,0 @@
-<article id="38840907" title=Talk:Chandrikacharya>
-	<talkpage id="38840907" title="Talk:Chandrikacharya">
-{{WPAFC|class=redirect|ts=20130317160638|reviewer=Amorymeltzer}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="13705390" title=Talk:Today! (Skip James album)>
-	<talkpage id="13705390" title="Talk:Today! (Skip James album)">
-{{Album|class=stub|importance=|attention=|needs-infobox=|auto=yes}}
-	</talkpage>
-</article>

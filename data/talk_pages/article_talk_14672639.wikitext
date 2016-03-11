@@ -1,8 +1,0 @@
-<article id="14672639" title=User talk:81.137.22.185>
-	<talkpage id="14672639" title="User talk:81.137.22.185">
-{{whois|host=host81-137-22-185.in-addr.btopenworld.com|[[BT Openworld]], UK}}
-{{Repeat vandal}}
-
-{{OW}} [[User:BD2412|&lt;font style=&quot;background:tan&quot;&gt;'''''bd2412'''''&lt;/font&gt;]] [[User talk:BD2412|'''T''']] 03:09, 8 September 2010 (UTC)
-	</talkpage>
-</article>

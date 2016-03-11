@@ -1,5 +1,0 @@
-<article id="38207501" title=Talk:Nipperkin>
-	<talkpage id="38207501" title="Talk:Nipperkin">
-{{WikiProject Measurement |class=Stub |importance=Low}}
-	</talkpage>
-</article>

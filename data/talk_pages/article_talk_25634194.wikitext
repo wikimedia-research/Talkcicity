@@ -1,5 +1,0 @@
-<article id="12614058" title=Talk:Icons of the Underground: Vol. 1 – Glenn Danzig>
-	<talkpage id="12614058" title="Talk:Icons of the Underground: Vol. 1 – Glenn Danzig">
-{{album|class=stub|importance=low}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="15373553" title=Talk:Local Council (Uganda)>
-	<talkpage id="15373553" title="Talk:Local Council (Uganda)">
-{{AfricaProject|Uganda=yes|importance=high|class=start|Uganda-importance=high}}
-	</talkpage>
-</article>

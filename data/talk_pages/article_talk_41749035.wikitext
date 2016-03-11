@@ -1,7 +1,0 @@
-<article id="41749035" title=User talk:217.42.94.98>
-	<talkpage id="41749035" title="User talk:217.42.94.98">
-== January 2014 ==
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Gilliam|Gilliam]]. I wanted to let you know that I undid one or more of [[Special:Contributions/217.42.94.98|your recent contributions]]&amp;nbsp;to [[:Polymer]] because it did not appear constructive. If you would like to experiment, please use the [[WP:sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Gilliam|my talk page]]. Thanks!&lt;!-- Template:uw-vandalism1 --&gt; [[User:Gilliam|Gilliam]] ([[User talk:Gilliam|talk]]) 14:14, 26 January 2014 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

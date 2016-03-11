@@ -1,6 +1,0 @@
-<article id="24301932" title=Talk:Early Stages>
-	<talkpage id="24301932" title="Talk:Early Stages">
-{{album|class=Start}}
-{{Progressive Rock | class = Start| importance = Low}}
-	</talkpage>
-</article>

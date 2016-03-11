@@ -1,6 +1,0 @@
-<article id="18995580" title=Talk:Michałówek, Łowicz County>
-	<talkpage id="18995580" title="Talk:Michałówek, Łowicz County">
-{{WPCities|class=stub|importance=low}}
-{{WikiProject Poland|class=stub|importance=low}}
-	</talkpage>
-</article>

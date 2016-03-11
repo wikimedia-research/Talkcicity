@@ -1,7 +1,0 @@
-<article id="3641224" title=User talk:Payool>
-	<talkpage id="3641224" title="User talk:Payool">
-== RL and ZPL ==
-
-Hi there, welcome to Wikipedia and thanks for your feedback on [[NL (complexity)]]. When I wrote this I was referring not to the polynomial-time restricted versions of RL and ZPL, which a lot of people call RL and ZPL, but the unrestricted-time versions, which rather trivially equal NL (Complexity Zoo says in its RL entry &quot;It must also run in polynomial time (since otherwise we would just get NL).&quot;) I read the same of ZPL in a lecture by Oded Goldreich linked on the [[RL]] page (I think). This is a pretty frequent source of confusion, and I'm unsure whether I should even refer to the unrestricted-time versions of RL and ZPL. [[User:Deco|Deco]] 22:54, 6 January 2006 (UTC)
-	</talkpage>
-</article>

@@ -1,6 +1,0 @@
-<article id="15125965" title=Talk:USS Garfield Thomas (DE-193)>
-	<talkpage id="15125965" title="Talk:USS Garfield Thomas (DE-193)">
-{{WPMILHIST|class=Start|B1=n|B2=n|B3=y|B4=y|B5=y|US=yes|WWII=yes|Maritime=yes}}
-{{WikiProject Ships|class=Start|importance=Mid}}
-	</talkpage>
-</article>

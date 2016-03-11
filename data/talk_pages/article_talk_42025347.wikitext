@@ -1,5 +1,0 @@
-<article id="42025347" title=Talk:Business Casual (EP)>
-	<talkpage id="42025347" title="Talk:Business Casual (EP)">
-{{WP Albums|class=stub|importance=low}}
-	</talkpage>
-</article>

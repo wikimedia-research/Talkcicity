@@ -1,6 +1,0 @@
-<article id="8919898" title=Talk:Edgewater railway station>
-	<talkpage id="8919898" title="Talk:Edgewater railway station">
-{{WP Australia|class=Stub|importance=Low|WA=yes|WA-importance=low|Perth=yes}}
-{{TrainsWikiProject|auto=yes|stations=yes|class=stub|importance=}}
-	</talkpage>
-</article>

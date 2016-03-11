@@ -1,9 +1,0 @@
-<article id="12093301" title=User talk:69.157.247.109>
-	<talkpage id="12093301" title="User talk:69.157.247.109">
-
-
-== July 2007 ==
-{{{icon|[[Image:Information.svg|25px]] }}}Please refrain from making unconstructive edits to Wikipedia, as you did to [[:Police]]. Your edits appear to be [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Thank you.&lt;!-- Template:uw-vandalism2 --&gt; [[User:Dust Filter|Dust Filter]] 01:55, 5 July 2007 (UTC)
-:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
-	</talkpage>
-</article>

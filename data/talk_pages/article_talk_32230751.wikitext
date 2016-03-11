@@ -1,7 +1,0 @@
-<article id="32230751" title=User talk:117.204.48.139>
-	<talkpage id="32230751" title="User talk:117.204.48.139">
-== June 2011 ==
-[[File:Information.svg|25px|alt=|link=]] Welcome and thank you for experimenting with Wikipedia. Your test on the page [[:Intel]] worked, and it has been [[Help:Reverting|reverted]] or removed. If you would like to experiment further, please use the '''[[Wikipedia:Sandbox|sandbox]]''' instead. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|this encyclopedia]]. Thank you.&lt;!-- Template:uw-test1 --&gt; [[User:Jsayre64|&lt;font style=&quot;font-family:Rockwell&quot;&gt;&lt;b&gt;Jsayre64&lt;/b&gt;&lt;/font&gt;]] [[User talk:Jsayre64|&lt;font style=&quot;font-family:Rockwell&quot;&gt;&lt;b&gt;(talk)&lt;/b&gt;&lt;/font&gt;]] 15:20, 27 June 2011 (UTC)
-:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
-	</talkpage>
-</article>

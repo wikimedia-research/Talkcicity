@@ -1,5 +1,0 @@
-<article id="19210658" title=Talk:Arrondissement of Clamecy>
-	<talkpage id="19210658" title="Talk:Arrondissement of Clamecy">
-{{WikiProject France|class=List|importance=NA}}
-	</talkpage>
-</article>

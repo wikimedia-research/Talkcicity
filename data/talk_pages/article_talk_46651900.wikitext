@@ -1,6 +1,0 @@
-<article id="46651900" title=Talk:Dmitri Bushuyev>
-	<talkpage id="46651900" title="Talk:Dmitri Bushuyev">
-{{WikiProject Biography|living=yes|class=|listas=}}
-{{WikiProject Football}}
-	</talkpage>
-</article>

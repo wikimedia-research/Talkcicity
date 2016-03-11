@@ -1,5 +1,0 @@
-<article id="25044496" title=Talk:Transactions of the Association of American Physicians>
-	<talkpage id="25044496" title="Talk:Transactions of the Association of American Physicians">
-{{WPJournals|class=Redirect}}
-	</talkpage>
-</article>

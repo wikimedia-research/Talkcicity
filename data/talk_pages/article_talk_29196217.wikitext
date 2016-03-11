@@ -1,5 +1,0 @@
-<article id="29196217" title=Talk:Pagramantis>
-	<talkpage id="29196217" title="Talk:Pagramantis">
-{{WikiProject Lithuania |class=stub |importance=}}
-	</talkpage>
-</article>

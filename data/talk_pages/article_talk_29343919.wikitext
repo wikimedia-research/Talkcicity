@@ -1,6 +1,0 @@
-<article id="29343919" title=Talk:Unia Leszno>
-	<talkpage id="29343919" title="Talk:Unia Leszno">
-{{WikiProject Poland|class=Stub
-}}
-	</talkpage>
-</article>

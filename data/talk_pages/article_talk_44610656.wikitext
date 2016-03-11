@@ -1,9 +1,0 @@
-<article id="44610656" title=Talk:Randulf Hansen>
-	<talkpage id="44610656" title="Talk:Randulf Hansen">
-{{WikiProject Biography|living=no
-|class=Stub
-|auto=yes
-}}
-{{WikiProject Norway|class=stub|importance=low}}
-	</talkpage>
-</article>

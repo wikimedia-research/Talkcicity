@@ -1,6 +1,0 @@
-<article id="31271126" title=Talk:There's Never a Forever Thing>
-	<talkpage id="31271126" title="Talk:There's Never a Forever Thing">
-{{Old AfD multi | date = 25 October 2014 | result = '''Redirect to [[Stay on These Roads]]''' | page = There's Never a Forever Thing}}
-{{songs|class=redirect}}
-	</talkpage>
-</article>

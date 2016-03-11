@@ -1,5 +1,0 @@
-<article id="20406861" title=Talk:Michelle Smith (disambiguation)>
-	<talkpage id="20406861" title="Talk:Michelle Smith (disambiguation)">
-{{DisambigProject}}
-	</talkpage>
-</article>

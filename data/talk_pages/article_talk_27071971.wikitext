@@ -1,7 +1,0 @@
-<article id="27071971" title=User talk:82.24.26.167>
-	<talkpage id="27071971" title="User talk:82.24.26.167">
-== April 2010 ==
-[[Image:Information.svg|25px|]] Welcome to Wikipedia. Everyone is welcome to contribute constructively to the encyclopedia. However, please do not add promotional material to articles or other Wikipedia pages, as you did to [[:Spotify]]. [[Wikipedia:What Wikipedia is not#Wikipedia is not a soapbox|Advertising]] and using Wikipedia as a &quot;[[soapbox]]&quot; is against Wikipedia policy and not permitted. Take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about Wikipedia. Thank you.[[Category:User talk pages with Uw-advert1 notices|{{PAGENAME}}]]&lt;!-- Template:Uw-advert1 --&gt; [[User:Raywil|Raywil]] ([[User talk:Raywil|talk]]) 00:43, 23 April 2010 (UTC)
-:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
-	</talkpage>
-</article>

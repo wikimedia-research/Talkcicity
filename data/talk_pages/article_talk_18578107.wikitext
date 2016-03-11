@@ -1,9 +1,0 @@
-<article id="18578107" title=Talk:Contaminated Gaussian>
-	<talkpage id="18578107" title="Talk:Contaminated Gaussian">
-{{physics|class=Stub|importance=low}}
-
-== Article tuned into redirect  ==
-
-The article had an inadequate name and practically no contents. The topic is covered in much more detail in the artciles [[Mixture model]] and [[Mixture distribution]] (which may be merged eventually) Therefore this article was turned into a redirect to &quot;Mixture model&quot;. --[[User:Jorge Stolfi|Jorge Stolfi]] ([[User talk:Jorge Stolfi|talk]]) 04:56, 11 February 2013 (UTC)
-	</talkpage>
-</article>

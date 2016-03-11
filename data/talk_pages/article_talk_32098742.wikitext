@@ -1,6 +1,0 @@
-<article id="32098742" title=Talk:Dermot Hannafin>
-	<talkpage id="32098742" title="Talk:Dermot Hannafin">
-{{WikiProject Biography|living=yes|class=start|listas=Hannafin, Dermot|sports-work-group=yes|sports-priority=low}}
-{{WikiProject Gaelic games}}
-	</talkpage>
-</article>

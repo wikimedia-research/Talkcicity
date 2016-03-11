@@ -1,5 +1,0 @@
-<article id="27999403" title=Talk:Chantel Sauvé>
-	<talkpage id="27999403" title="Talk:Chantel Sauvé">
-{{WikiProject Degrassi|show=TNG|class=redir|importance=}}
-	</talkpage>
-</article>

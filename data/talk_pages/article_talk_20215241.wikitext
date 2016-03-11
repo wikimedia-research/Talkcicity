@@ -1,6 +1,0 @@
-<article id="20215241" title=Talk:Hurricane Tina>
-	<talkpage id="20215241" title="Talk:Hurricane Tina">
-{{WikiProject Disambiguation}}
-{{WikiProject Tropical cyclones|class=Dab|importance=}}
-	</talkpage>
-</article>

@@ -1,6 +1,0 @@
-<article id="13338091" title=User talk:86.130.148.93>
-	<talkpage id="13338091" title="User talk:86.130.148.93">
-==Regarding your edits to [[:Quantum tunnelling]]:==
-Your recent edit to [[:Quantum tunnelling]] ([http://en.wikipedia.org/w/index.php?title=Quantum_tunnelling&amp;curid=643769&amp;diff=158909363&amp;oldid=157883256 diff]) was reverted by an '''automated bot'''. The edit was identified as adding either test edits, [[WP:VAND|vandalism]], or [[WP:SPAM|link spam]] to the page or having an inappropriate [[WP:ES|edit summary]]. If you want to experiment, please use the preview button while editing or consider using the [[Wikipedia:Sandbox|sandbox]]. If this revert was in error, please contact the bot operator. If you made an edit that removed a large amount of content, try doing smaller edits instead. Thanks! // [[User:VoABot II|VoABot II]] 08:37, 19 September 2007 (UTC)
-	</talkpage>
-</article>

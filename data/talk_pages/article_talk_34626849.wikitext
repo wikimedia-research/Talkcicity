@@ -1,9 +1,0 @@
-<article id="34626849" title=Talk:Princess Charlotte of Lorraine>
-	<talkpage id="34626849" title="Talk:Princess Charlotte of Lorraine">
-{{WikiProject Biography
-|living=no
-|class=
-}}
-{{WikiProject Women's History|class=stub|importance=}}
-	</talkpage>
-</article>

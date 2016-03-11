@@ -1,5 +1,0 @@
-<article id="6045469" title=Talk:Oak Point Link>
-	<talkpage id="6045469" title="Talk:Oak Point Link">
-{{TrainsWikiProject|class=start}}
-	</talkpage>
-</article>

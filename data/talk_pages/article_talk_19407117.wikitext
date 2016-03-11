@@ -1,5 +1,0 @@
-<article id="19407117" title=Talk:Soleilhas>
-	<talkpage id="19407117" title="Talk:Soleilhas">
-{{WikiProject France|class=Stub|importance=Low|commune=yes}}
-	</talkpage>
-</article>

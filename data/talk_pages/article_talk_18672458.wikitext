@@ -1,9 +1,0 @@
-<article id="8046755" title=Talk:Richland Township, Rice County, Minnesota>
-	<talkpage id="8046755" title="Talk:Richland Township, Rice County, Minnesota">
-{{WPCities|class=start|importance=low}}
-{{WikiProject Minnesota|class=start|importance=low}}
-
-Good article - however, more information can be added about its history, etc.
-Mikario 18:08, 18 October 2009 (UTC)
-	</talkpage>
-</article>

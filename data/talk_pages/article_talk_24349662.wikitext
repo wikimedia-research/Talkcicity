@@ -1,6 +1,0 @@
-<article id="24349662" title=User talk:Prashant.saxena>
-	<talkpage id="24349662" title="User talk:Prashant.saxena">
-==Advertising==
-Please do not add advertising or inappropriate external links to Wikipedia{{#if:Genus|, as you did in [[:Genus]]}}. [[Wikipedia:What Wikipedia is not#Wikipedia is not a directory|Wikipedia is not a mere directory of links]] nor should it be used for advertising or promotion.  Inappropriate links include (but are not limited to) links to personal web sites, links to web sites with which you are affiliated, and links that exist to attract visitors to a web site or promote a product.  See [[Wikipedia:External links|the external links guideline]] and [[Wikipedia:Spam|spam policies]] for further explanations of links that are considered appropriate.  If you feel the link should be added to the article, then please discuss it on the {{#if:Genus|[[talk:Genus|article's talk page]]|article's talk page}} rather than re-adding it. See the [[Wikipedia:Welcome, newcomers|welcome page]] to learn more about Wikipedia. Thank you.[[Category:User talk pages with Uw-spam1 notices]]&lt;!-- Template:Spam --&gt;
-	</talkpage>
-</article>

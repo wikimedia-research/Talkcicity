@@ -1,5 +1,0 @@
-<article id="36401001" title=Talk:UMF Álftanes>
-	<talkpage id="36401001" title="Talk:UMF Álftanes">
-{{WikiProject Basketball|class=stub}}
-	</talkpage>
-</article>

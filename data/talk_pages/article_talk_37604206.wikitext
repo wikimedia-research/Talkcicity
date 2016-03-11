@@ -1,6 +1,0 @@
-<article id="15419992" title=Talk:1993 Sligo Senior Football Championship>
-	<talkpage id="15419992" title="Talk:1993 Sligo Senior Football Championship">
-{{WikiProject Gaelic games}}
-{{WikiProject Ireland|class=Start |importance=Low |listas= }}
-	</talkpage>
-</article>

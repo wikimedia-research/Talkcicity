@@ -1,5 +1,0 @@
-<article id="38578559" title=Talk:George Mkuchika>
-	<talkpage id="38578559" title="Talk:George Mkuchika">
-{{WikiProject Biography|living=yes|class=stub|auto=yes|listas=Mkuchika, George}}
-	</talkpage>
-</article>

@@ -1,9 +1,0 @@
-<article id="15388607" title=User talk:86.42.132.168>
-	<talkpage id="15388607" title="User talk:86.42.132.168">
-
-
-== January 2008 ==
-{{{icon|[[Image:Nuvola apps important.svg|25px]] }}}Please stop. If you continue to [[Wikipedia:Vandalism|vandalize]] Wikipedia{{{{{subst|}}}#if:{{{1|}}}|, as you did to [[:{{{1}}}]]}}, you will be [[Wikipedia:Blocking policy|blocked]] from editing. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|}}&lt;!-- Template:uw-vandalism3 --&gt; [[User:Niaz|&lt;font color=&quot;Green&quot; face=&quot;tahoma&quot;&gt;Niaz&lt;/font&gt;]][[User_talk:Niaz|&lt;font color=&quot;red&quot;&gt;&lt;sup&gt;(Talk •&lt;/sup&gt;&lt;/font&gt;]][[Special:Contributions/Niaz|&lt;font color=&quot;red&quot;&gt;&lt;sup&gt; Contribs)&lt;/sup&gt;&lt;/font&gt;]] 23:59, 23 January 2008 (UTC)
-:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
-	</talkpage>
-</article>

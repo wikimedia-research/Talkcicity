@@ -1,5 +1,0 @@
-<article id="45035956" title=Talk:Lygropia egerialis>
-	<talkpage id="45035956" title="Talk:Lygropia egerialis">
-{{LepidopteraTalk|class=stub|importance=low}}
-	</talkpage>
-</article>

@@ -1,7 +1,0 @@
-<article id="15743587" title=User talk:70.119.30.54>
-	<talkpage id="15743587" title="User talk:70.119.30.54">
-
-== February 2008 ==
-{{{icon|[[Image:Information.svg|25px]] }}} Your recent edit to [[:Cactus]] ([http://en.wikipedia.org/w/index.php?title=Cactus&amp;curid=7819&amp;diff=191259524&amp;oldid=190743623 diff]) was reverted by an '''automated bot'''. The edit was identified as adding [[WP:VAND|vandalism]], or [[WP:SPAM|link spam]] to the page or having an inappropriate [[WP:ES|edit summary]]. If you want to experiment, please use the preview button while editing or consider using the [[Wikipedia:Sandbox|sandbox]]. If this revert was in error, please contact the bot operator. If you made an edit that removed a large amount of content, try doing smaller edits instead. Thanks!&lt;!-- Template:uw-vandalism1 --&gt; // [[User:VoABot II|VoABot II]] ([[User talk:VoABot II|talk]]) 22:00, 13 February 2008 (UTC)
-	</talkpage>
-</article>

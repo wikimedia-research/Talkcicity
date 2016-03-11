@@ -1,5 +1,0 @@
-<article id="14871455" title=User talk:99.237.93.61>
-	<talkpage id="14871455" title="User talk:99.237.93.61">
-{{{icon|[[Image:Nuvola apps important.svg|25px]] }}}Please stop. If you continue to [[Wikipedia:Vandalism|vandalize]] Wikipedia{{{{{subst|}}}#if:YouTube TV Channel|, as you did to [[:YouTube TV Channel]]}}, you will be [[Wikipedia:Blocking policy|blocked]] from editing. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|}}&lt;!-- Template:uw-vandalism3 --&gt; --[[User:Mhking|Mhking]] ([[User talk:Mhking|talk]]) 21:13, 24 December 2007 (UTC)
-	</talkpage>
-</article>

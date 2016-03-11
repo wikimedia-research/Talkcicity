@@ -1,7 +1,0 @@
-<article id="12864467" title=Talk:Home News Tribune>
-	<talkpage id="12864467" title="Talk:Home News Tribune">
-{{WikiProject Journalism|class=start}}
-{{ISSN-needed}}
-{{WikiProject New Jersey|class=Start|importance=}}
-	</talkpage>
-</article>

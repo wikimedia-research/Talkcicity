@@ -1,5 +1,0 @@
-<article id="8642379" title=Talk:Djambi>
-	<talkpage id="8642379" title="Talk:Djambi">
-{{WikiProject Chess|class=Start|importance=Low}}
-	</talkpage>
-</article>

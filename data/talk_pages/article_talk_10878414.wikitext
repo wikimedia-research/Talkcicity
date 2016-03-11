@@ -1,9 +1,0 @@
-<article id="10878414" title=Talk:Lon A. Scott>
-	<talkpage id="10878414" title="Talk:Lon A. Scott">
-{{WikiProject Biography|living=no|class=Stub|listas=Scott, Lon Allen|auto=yes}}
-{{WikiProject Tennessee|importance=low|class=stub}}
-{{Image requested|politicians and government-people|in=Tennessee}}
-== WikiProject class rating==
-This article was automatically  assessed because at least one article was rated and this bot brought all the other ratings up to at least that level. [[User:BetacommandBot|BetacommandBot]] 23:08, 27 August 2007 (UTC)
-	</talkpage>
-</article>

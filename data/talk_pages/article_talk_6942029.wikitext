@@ -1,6 +1,0 @@
-<article id="6942029" title=Talk:Strathmore, Victoria>
-	<talkpage id="6942029" title="Talk:Strathmore, Victoria">
-{{WP Australia|Melbourne=yes|importance=Low|class=Start|Melbourne-importance=Mid}}
-{{reqphoto|in=Melbourne}}
-	</talkpage>
-</article>

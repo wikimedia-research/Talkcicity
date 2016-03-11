@@ -1,5 +1,0 @@
-<article id="22583282" title=Talk:Bącka Huta>
-	<talkpage id="22583282" title="Talk:Bącka Huta">
-{{WikiProject Poland|class=start|importance=mid}}
-	</talkpage>
-</article>

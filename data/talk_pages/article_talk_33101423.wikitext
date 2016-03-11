@@ -1,5 +1,0 @@
-<article id="33101423" title=Talk:The Unholy Grail>
-	<talkpage id="33101423" title="Talk:The Unholy Grail">
-{{WikiProject Novels|class=stub|importance=mid|fantasy-task-force=yes}}
-	</talkpage>
-</article>

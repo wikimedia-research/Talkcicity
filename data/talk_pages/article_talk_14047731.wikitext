@@ -1,5 +1,0 @@
-<article id="14047731" title=Talk:Myalyeshkavichy>
-	<talkpage id="14047731" title="Talk:Myalyeshkavichy">
-{{WikiProject Belarus|class=Stub|importance=}}
-	</talkpage>
-</article>

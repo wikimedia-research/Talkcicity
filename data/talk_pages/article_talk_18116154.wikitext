@@ -1,6 +1,0 @@
-<article id="18116154" title=Talk:Storm (comics)>
-	<talkpage id="18116154" title="Talk:Storm (comics)">
-{{disambigProj}}
-{{comicsproj|class=disambig|importance=no}}
-	</talkpage>
-</article>

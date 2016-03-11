@@ -1,5 +1,0 @@
-<article id="22781188" title=Talk:Z Rock (TV series)>
-	<talkpage id="22781188" title="Talk:Z Rock (TV series)">
-{{WikiProject Television|class=start|importance=low}}
-	</talkpage>
-</article>

@@ -1,6 +1,0 @@
-<article id="28842213" title=Talk:Cidade Nova, Rio de Janeiro>
-	<talkpage id="28842213" title="Talk:Cidade Nova, Rio de Janeiro">
-{{WikiProject Brazil |class=stub |importance=low |geo=yes}}
-{{WikiProject Cities |class=stub |importance=low}}
-	</talkpage>
-</article>

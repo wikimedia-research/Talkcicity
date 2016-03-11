@@ -1,7 +1,0 @@
-<article id="9236343" title=Talk:Apeiba tibourbou>
-	<talkpage id="9236343" title="Talk:Apeiba tibourbou">
-{{WikiProject Plants|needs-photo=yes|class=Stub|importance=}}
-
-{{WikiProject Central America|class=stub|importance=low|Costa Rica=yes}}
-	</talkpage>
-</article>

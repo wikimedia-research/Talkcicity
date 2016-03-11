@@ -1,9 +1,0 @@
-<article id="10292097" title=Talk:Agrihan>
-	<talkpage id="10292097" title="Talk:Agrihan">
-{{WikiProjectBannerShell|1=
-{{WikiProject Volcanoes| class=Start | importance=Mid}}
-{{WikiProject Micronesia|class=Start|importance=|NMI=yes}}
-{{WikiProject Islands|class=Start}}
-}}
-	</talkpage>
-</article>

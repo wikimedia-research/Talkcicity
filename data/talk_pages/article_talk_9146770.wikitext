@@ -1,5 +1,0 @@
-<article id="9146770" title=Talk:Les Eyzies-de-Tayac-Sireuil>
-	<talkpage id="9146770" title="Talk:Les Eyzies-de-Tayac-Sireuil">
-{{WikiProject France|commune=yes|class=stub|importance=low}}
-	</talkpage>
-</article>

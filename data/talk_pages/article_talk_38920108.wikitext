@@ -1,7 +1,0 @@
-<article id="38920108" title=User talk:173.30.149.230>
-	<talkpage id="38920108" title="User talk:173.30.149.230">
-== March 2013 ==
-
-[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:BarrelProof|BarrelProof]]. I wanted to let you know that I undid one or more of [[Special:Contributions/173.30.149.230|your recent contributions]]&amp;nbsp;to [[:Epiphyte]] because it didn't appear constructive. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:BarrelProof|my talk page]]. Thanks!&lt;!-- Template:uw-vandalism1 --&gt;&lt;!-- Template:uw-cluebotwarning1 --&gt;  —[[User:BarrelProof|BarrelProof]] ([[User talk:BarrelProof|talk]]) 23:34, 25 March 2013 (UTC)
-	</talkpage>
-</article>

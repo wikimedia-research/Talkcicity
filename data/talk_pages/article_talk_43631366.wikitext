@@ -1,5 +1,0 @@
-<article id="43631366" title=Talk:Fissicrambus briseis>
-	<talkpage id="43631366" title="Talk:Fissicrambus briseis">
-{{WikiProject Lepidoptera|class=Stub|importance=Low}}
-	</talkpage>
-</article>

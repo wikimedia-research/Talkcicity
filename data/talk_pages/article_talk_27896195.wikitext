@@ -1,5 +1,0 @@
-<article id="27896195" title=Talk:Pterogeniidae>
-	<talkpage id="27896195" title="Talk:Pterogeniidae">
-{{WikiProject Insects|class=stub|importance=low}}
-	</talkpage>
-</article>

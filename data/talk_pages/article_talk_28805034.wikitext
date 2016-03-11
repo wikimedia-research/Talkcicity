@@ -1,5 +1,0 @@
-<article id="28805034" title=Talk:Mike Hinton>
-	<talkpage id="28805034" title="Talk:Mike Hinton">
-{{WikiProject Biography |living=no |class=Stub |listas=Hinton, Mike}}
-	</talkpage>
-</article>

@@ -1,9 +1,0 @@
-<article id="37747981" title=Talk:Association of Christians in Student Development>
-	<talkpage id="37747981" title="Talk:Association of Christians in Student Development">
-{{WikiProjectBannerShell|1=
-{{WikiProject Christianity|class=Start|importance=Low}}
-{{WikiProject Organizations|class=Start|importance=Low}}
-{{WikiProject Universities|class=Start}}
-}}
-	</talkpage>
-</article>

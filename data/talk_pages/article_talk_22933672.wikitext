@@ -1,5 +1,0 @@
-<article id="22933672" title=Talk:Poganówko>
-	<talkpage id="22933672" title="Talk:Poganówko">
-{{WikiProject Poland|class=start|importance=mid}}
-	</talkpage>
-</article>

@@ -1,7 +1,0 @@
-<article id="12520978" title=Talk:Phillips' kangaroo rat>
-	<talkpage id="12520978" title="Talk:Phillips' kangaroo rat">
-{{WikiProject Rodents|class=start|importance=low}}
-{{WikiProject Mammals|Pocket-pet=yes|class=Start|importance=low|needs-photo=yes}}
-{{dyktalk|23 August|2014|entry= ... that the '''[[silky pocket mouse]]''' sometimes shares a burrow with the '''[[banner-tailed kangaroo rat]]''' or the '''[[Phillips' kangaroo rat]]'''?|nompage=Template:Did you know nominations/Silky pocket mouse}}
-	</talkpage>
-</article>

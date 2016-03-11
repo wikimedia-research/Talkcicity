@@ -1,9 +1,0 @@
-<article id="20128557" title=User talk:24.187.42.211>
-	<talkpage id="20128557" title="User talk:24.187.42.211">
-
-
-== November 2008 ==
-[[Image:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia{{#if:Albert Fish|, as you did to [[:Albert Fish]]}}. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism2 --&gt; [[User:CIreland|CIreland]] ([[User talk:CIreland|talk]]) 23:54, 8 November 2008 (UTC)
-:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
-	</talkpage>
-</article>

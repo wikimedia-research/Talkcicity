@@ -1,5 +1,0 @@
-<article id="28636588" title=Talk:64th Delaware General Assembly>
-	<talkpage id="28636588" title="Talk:64th Delaware General Assembly">
-{{WikiProject United States|class=start|importance=mid|DE=yes|DE-importance=mid}}
-	</talkpage>
-</article>

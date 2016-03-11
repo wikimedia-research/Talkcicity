@@ -1,5 +1,0 @@
-<article id="17925409" title=Talk:George Mueller>
-	<talkpage id="17925409" title="Talk:George Mueller">
-{{DisambigProject}}
-	</talkpage>
-</article>

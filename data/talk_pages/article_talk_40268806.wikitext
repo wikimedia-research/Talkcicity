@@ -1,8 +1,0 @@
-<article id="40268806" title=Talk:Robert Lévy>
-	<talkpage id="40268806" title="Talk:Robert Lévy">
-{{WikiProject Biography|living=no|class=B|listas=Levy, Robert}}
-{{WikiProject Jewish history|class=B|importance=low}}
-{{WikiProject Medicine|class=B|importance=low}}
-{{WikiProject Poland|class=B|importance=low}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="31573235" title=User talk:61.245.83.184>
-	<talkpage id="31573235" title="User talk:61.245.83.184">
-[[Image:Information.svg|25px|alt=|link=]] Welcome to Wikipedia. Everyone is welcome to contribute to the encyclopedia, but when you add or change content, as you did to the article [[:Democratic Republic of the Congo]], please cite a [[Wikipedia:Reliable sources|reliable source]] for the content of your edit. This helps maintain our policy of [[Wikipedia:Verifiability|verifiability]]. See [[Wikipedia:Citing sources]] for how to cite sources, and the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. Thank you.&lt;!-- Template:uw-unsourced1 --&gt; -- [[User talk:Donald Albury|Donald Albury]] 10:20, 23 April 2011 (UTC)
-	</talkpage>
-</article>

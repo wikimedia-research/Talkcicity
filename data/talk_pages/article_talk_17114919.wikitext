@@ -1,9 +1,0 @@
-<article id="17114919" title=Talk:131st Fighter Squadron>
-	<talkpage id="17114919" title="Talk:131st Fighter Squadron">
-{{Talk header}}
-{{American-English}}
-{{WPMILHIST|class=start|B1=n|B2=n|B3=y|B4=y|B5=y
-|Aviation-task-force=yes
-|US-task-force=yes|WWII=y|Cold-War=y}}
-	</talkpage>
-</article>

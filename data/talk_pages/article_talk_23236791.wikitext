@@ -1,5 +1,0 @@
-<article id="23236791" title=Talk:San Mateo Etlatongo>
-	<talkpage id="23236791" title="Talk:San Mateo Etlatongo">
-{{WikiProject Mexico|class=stub}}
-	</talkpage>
-</article>

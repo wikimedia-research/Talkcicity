@@ -1,5 +1,0 @@
-<article id="47378471" title=Talk:Abby Ryder Fortson>
-	<talkpage id="47378471" title="Talk:Abby Ryder Fortson">
-{{WP Bio|living=yes|class=stub|listas=Fortson, Abby Ryder}}
-	</talkpage>
-</article>

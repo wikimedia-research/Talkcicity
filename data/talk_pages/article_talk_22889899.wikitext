@@ -1,5 +1,0 @@
-<article id="22889899" title=Talk:Gałęzinowo>
-	<talkpage id="22889899" title="Talk:Gałęzinowo">
-{{WikiProject Poland|class=start|importance=mid}}
-	</talkpage>
-</article>

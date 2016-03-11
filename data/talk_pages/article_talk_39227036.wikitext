@@ -1,5 +1,0 @@
-<article id="39227036" title=Talk:2013 Tunis Open>
-	<talkpage id="39227036" title="Talk:2013 Tunis Open">
-{{WikiProject Tennis|class=start|importance=low}}
-	</talkpage>
-</article>

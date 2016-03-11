@@ -1,6 +1,0 @@
-<article id="13198854" title=Talk:NICHCY>
-	<talkpage id="13198854" title="Talk:NICHCY">
-{{WikiProject Disability|class=stub|importance=}}
-All NICHCY publications and website content is copyright free and entered here with permission.
-	</talkpage>
-</article>

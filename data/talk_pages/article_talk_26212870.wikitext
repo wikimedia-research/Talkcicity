@@ -1,8 +1,0 @@
-<article id="26212870" title=Talk:Palmoplantar keratoderma of the Norrbotten type>
-	<talkpage id="26212870" title="Talk:Palmoplantar keratoderma of the Norrbotten type">
-{{WPMED|class=redirect|importance=|dermatology=yes}}
-
-== Redirect categorization ==
-This redirect was categorized based on scheme outlined at [[WP:DERM:CAT]]. ---[[User:Kilbad|kilbad]] ([[User talk:Kilbad|talk]]) 22:55, 15 February 2010 (UTC)
-	</talkpage>
-</article>

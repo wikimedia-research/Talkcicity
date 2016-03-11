@@ -1,8 +1,0 @@
-<article id="46193026" title=User talk:23.120.226.6>
-	<talkpage id="46193026" title="User talk:23.120.226.6">
-
-
-==Recent edit to Chicago Bulls==
-[[Image:Information.svg|25px]] Hello. I noticed that you recently made a contribution to the [[Chicago Bulls]] article that seemed to be a test. Your test worked! However, test edits on live articles disrupt Wikipedia and may confuse readers. If you want more practice editing, the [[Wikipedia:Sandbox|sandbox]] is the best place to do so. If you think I made a mistake, or if you have any questions, you can leave me a message on my talk page. Thank you! [[User:Materialscientist|Materialscientist]] ([[User talk:Materialscientist|talk]]) 05:41, 22 March 2015 (UTC)
-	</talkpage>
-</article>

@@ -1,7 +1,0 @@
-<article id="16235169" title=Talk:Mount Massif>
-	<talkpage id="16235169" title="Talk:Mount Massif">
-{{WP Australia|class=Stub|Tasmania=yes|importance=Low|Tasmania-importance=low}}
-{{WikiProject Mountains|class=stub|importance=low}}
-{{photoreq|in=Tasmania}}
-	</talkpage>
-</article>

@@ -1,7 +1,0 @@
-<article id="5215965" title=Talk:Centrahoma, Oklahoma>
-	<talkpage id="5215965" title="Talk:Centrahoma, Oklahoma">
-{{WikiProject Oklahoma|class=Start|importance=Low}}
-{{WikiProject Cities|class=Start|importance=Low}}
-{{Image requested|in=Oklahoma}}
-	</talkpage>
-</article>

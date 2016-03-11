@@ -1,5 +1,0 @@
-<article id="30203191" title=Talk:Batagur baska>
-	<talkpage id="30203191" title="Talk:Batagur baska">
-{{WikiProject Turtles|class=Redirect|importance=NA}}
-	</talkpage>
-</article>

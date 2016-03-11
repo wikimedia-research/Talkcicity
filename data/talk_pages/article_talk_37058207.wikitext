@@ -1,8 +1,0 @@
-<article id="37058207" title=Talk:Virna Lindt>
-	<talkpage id="37058207" title="Talk:Virna Lindt">
-{{WikiProject Biography
-|living=yes
-|class=
-}}
-	</talkpage>
-</article>

@@ -1,6 +1,0 @@
-<article id="38425307" title=Talk:Cop in Drag>
-	<talkpage id="38425307" title="Talk:Cop in Drag">
-{{WikiProject Film|class=stub|Italian=yes}}
-{{WikiProject Italy|class=stub|importance=low}}
-	</talkpage>
-</article>

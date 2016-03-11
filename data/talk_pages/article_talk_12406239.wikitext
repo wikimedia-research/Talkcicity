@@ -1,8 +1,0 @@
-<article id="12406239" title=Talk:Limnonectes>
-	<talkpage id="12406239" title="Talk:Limnonectes">
-{{AARTalk|class=Stub|importance=low}}
-
-== New research shows rapid evolution of fanged frog ==
-http://www.sciencedaily.com/releases/2011/07/110727164711.htm [[Special:Contributions/74.118.30.114|74.118.30.114]] ([[User talk:74.118.30.114|talk]]) 18:22, 1 August 2011 (UTC)
-	</talkpage>
-</article>

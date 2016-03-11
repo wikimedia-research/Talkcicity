@@ -1,6 +1,0 @@
-<article id="47085833" title=User talk:190.253.160.221>
-	<talkpage id="47085833" title="User talk:190.253.160.221">
-== June 2015 ==
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:KylieTastic|KylieTastic]]. I wanted to let you know that I undid one or more of [[Special:Contributions/190.253.160.221|your recent contributions]]&amp;nbsp;to [[:Maicao]] because it did not appear constructive. If you would like to experiment, please use the [[WP:sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:KylieTastic|my talk page]]. Thanks.&lt;!-- Template:uw-vandalism1 --&gt; [[User:KylieTastic|KylieTastic]] ([[User talk:KylieTastic|talk]]) 17:08, 26 June 2015 (UTC)
-	</talkpage>
-</article>

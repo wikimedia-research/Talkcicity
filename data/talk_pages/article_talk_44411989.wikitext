@@ -1,5 +1,0 @@
-<article id="44411989" title=Talk:Eden Township, Walsh County, North Dakota>
-	<talkpage id="44411989" title="Talk:Eden Township, Walsh County, North Dakota">
-{{WikiProject United States|ND=yes}}
-	</talkpage>
-</article>

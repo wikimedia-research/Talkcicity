@@ -1,5 +1,0 @@
-<article id="24305857" title=Talk:Pulmosphaeria>
-	<talkpage id="24305857" title="Talk:Pulmosphaeria">
-{{WikiProject Fungi|class=stub|importance=low}}
-	</talkpage>
-</article>

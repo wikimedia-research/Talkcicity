@@ -1,5 +1,0 @@
-<article id="18057573" title=Talk:Bauragai>
-	<talkpage id="18057573" title="Talk:Bauragai">
-{{WikiProject Afghanistan|class=stub|importance=}}
-	</talkpage>
-</article>

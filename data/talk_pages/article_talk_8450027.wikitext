@@ -1,5 +1,0 @@
-<article id="8450027" title=User talk:Paines>
-	<talkpage id="8450027" title="User talk:Paines">
-&lt;div class=&quot;user-block&quot; style=&quot;clear:both;&quot;&gt;[[Image:Octagon-warning.svg|30px|left]] It has become apparent that your account is only being used for [[Wikipedia:Vandalism|vandalism]], so it has been [[Wikipedia:Blocking policy|blocked indefinitely]].&lt;/div&gt;&lt;!-- {{vandalblock}} --&gt;--[[User:Kchase02|Kchase]] [[User_talk:Kchase02|T]] 10:11, 15 December 2006 (UTC)
-	</talkpage>
-</article>

@@ -1,7 +1,0 @@
-<article id="16203778" title=Talk:Sekelek>
-	<talkpage id="16203778" title="Talk:Sekelek">
-{{talkpage}}
-{{WikiProject Central Asia|class=stub|importance=low}}
-{{WikiProject Kyrgyzstan|class=stub|importance=low}}
-	</talkpage>
-</article>

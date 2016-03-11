@@ -1,6 +1,0 @@
-<article id="10383168" title=Talk:Louisiana Highway 1>
-	<talkpage id="10383168" title="Talk:Louisiana Highway 1">
-{{U.S. Roads WikiProject|state=LA|importance=Mid|needs-jctint=no|needs-kml=no|needs-map=no|class=start}}
-{{WikiProject United States|class=start|importance=mid|LA=yes|LA-importance=mid}}
-	</talkpage>
-</article>

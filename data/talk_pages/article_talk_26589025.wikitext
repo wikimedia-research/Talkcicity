@@ -1,9 +1,0 @@
-<article id="26589025" title=User talk:71.243.66.226>
-	<talkpage id="26589025" title="User talk:71.243.66.226">
-
-
-== March 2010 ==
-[[File:Information.svg|25px|alt=]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of your recent edits, such as the one you made to [[:James P. Timilty Middle School]], did not appear to be constructive and has been reverted. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; [[User:Jevansen|Jevansen]] ([[User talk:Jevansen|talk]]) 12:42, 17 March 2010 (UTC)
-:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
-	</talkpage>
-</article>

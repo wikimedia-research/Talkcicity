@@ -1,5 +1,0 @@
-<article id="20345036" title=User talk:76.226.51.203>
-	<talkpage id="20345036" title="User talk:76.226.51.203">
-[[Image:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia{{#if:Aang|, as you did to [[:Aang]]}}. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism2 --&gt; [[User:Sesshomaru|Lord Sesshomaru]] &lt;small&gt;([[User talk:Sesshomaru|talk]] • [[Special:Contributions/Sesshomaru|edits]])&lt;/small&gt; 19:27, 22 November 2008 (UTC)
-	</talkpage>
-</article>

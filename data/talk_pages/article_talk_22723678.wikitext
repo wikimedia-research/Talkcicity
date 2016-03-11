@@ -1,9 +1,0 @@
-<article id="22723678" title=Talk:Gaseous detection device>
-	<talkpage id="22723678" title="Talk:Gaseous detection device">
-{{WikiProject Physics |class=C |importance=low}}
-{{WikiProject Medicine |class=C |importance=low}}
-
-==Welcome==
-Following the commercialization of ESEM, the new gaseous detection device (GDD) is now being widely used even on SEMs with low vacuum.  This is done under different commercial brand names reaching the wider electron microscopy community. Contributions to improve this article are welcome.
-	</talkpage>
-</article>

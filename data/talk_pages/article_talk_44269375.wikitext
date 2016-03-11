@@ -1,6 +1,0 @@
-<article id="44269375" title=User talk:121.188.234.253>
-	<talkpage id="44269375" title="User talk:121.188.234.253">
-
-[[Image:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Materialscientist|Materialscientist]]. I noticed that you recently removed some content without explaining why. In the future, it would be helpful to others if you described your changes to Wikipedia with an accurate [[Help:Edit summary|edit summary]]. If this was a mistake, don't worry; I restored the removed content. If you would like to experiment, please use the [[WP:Sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Materialscientist|my talk page]]. Thanks!&lt;!-- Template:uw-delete1 --&gt; [[User:Materialscientist|Materialscientist]] ([[User talk:Materialscientist|talk]]) 08:14, 1 November 2014 (UTC)
-	</talkpage>
-</article>

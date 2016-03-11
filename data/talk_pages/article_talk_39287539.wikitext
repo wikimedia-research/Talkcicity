@@ -1,9 +1,0 @@
-<article id="35288986" title=Talk:Alex Brillantes, Jr.>
-	<talkpage id="35288986" title="Talk:Alex Brillantes, Jr.">
-{{WikiProject Biography|living=yes
-|class=Stub
-|auto=yes
-}}
-{{WikiProject Tambayan Philippines}}
-	</talkpage>
-</article>

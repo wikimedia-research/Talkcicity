@@ -1,8 +1,0 @@
-<article id="21136093" title=User talk:78.149.75.222>
-	<talkpage id="21136093" title="User talk:78.149.75.222">
-
-== January 2009 ==
-
-[[Image:Information.svg|25px]] Welcome to Wikipedia. The project's content policies require that all articles be written from a [[Wikipedia:Neutral point of view|neutral point of view]], and not introduce bias or give undue weight to viewpoints. Please bear this in mind when making edits such as your &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Say_Say_Say?diff=264716307 recent edit]&lt;/span&gt; to [[:Say Say Say]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:Uw-hugglenpov1 --&gt; [[User:ZX81|&lt;span style=&quot;font-size:14px;font-weight:bold;font-family:verdana;color:#800040;filter:Shadow(color=#000000,strength=1);height:15px;&quot;&gt;ZX81&lt;/span&gt;]] [[User talk:ZX81|&lt;span style=&quot;font-size:11px;font-family:verdana;&quot;&gt;&lt;sup&gt;talk&lt;/sup&gt;&lt;/span&gt;]] 19:10, 17 January 2009 (UTC)
-	</talkpage>
-</article>

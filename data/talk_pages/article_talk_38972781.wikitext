@@ -1,6 +1,0 @@
-<article id="38972781" title=Talk:Robert M. Ockene>
-	<talkpage id="38972781" title="Talk:Robert M. Ockene">
-{{talkheader}}
-{{WikiProject Articles for creation|class=start|ts=20130331153235|reviewer=Rushton2010}}
-	</talkpage>
-</article>

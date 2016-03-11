@@ -1,5 +1,0 @@
-<article id="44325136" title=Talk:Allen Flat>
-	<talkpage id="44325136" title="Talk:Allen Flat">
-{{WikiProject United States|class=|importance=|AZ=Yes|AZ-importance=}}
-	</talkpage>
-</article>

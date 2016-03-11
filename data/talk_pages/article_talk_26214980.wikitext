@@ -1,6 +1,0 @@
-<article id="26214980" title=Talk:United Nations Security Council Resolution 744>
-	<talkpage id="26214980" title="Talk:United Nations Security Council Resolution 744">
-{{WikiProject International relations|class=Stub|importance=Low|un=yes}}
-{{WikiProject European Microstates|class=Stub|importance=Low|San Marino=yes}}
-	</talkpage>
-</article>

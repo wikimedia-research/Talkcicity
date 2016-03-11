@@ -1,6 +1,0 @@
-<article id="47207262" title=User talk:125.18.61.67>
-	<talkpage id="47207262" title="User talk:125.18.61.67">
-==July 2015==
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Ponyo|Ponyo]]. An edit that you recently made to [[:Kunal Kapoor (actor)]] seemed to be a test and has been removed. If you want more practice editing, please use the [[Wikipedia:Sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Ponyo|my talk page]]. Thanks!&lt;!-- Template:uw-test1 --&gt;--[[User:Ponyo|&lt;font color=&quot;Navy&quot;&gt;Jezebel's '''Ponyo'''&lt;/font&gt;]]&lt;sup&gt;[[User_talk:Ponyo|&lt;font color=&quot;Navy&quot;&gt;''bons mots''&lt;/font&gt;]]&lt;/sup&gt;  22:06, 10 July 2015 (UTC)
-	</talkpage>
-</article>

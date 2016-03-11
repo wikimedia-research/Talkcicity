@@ -1,6 +1,0 @@
-<article id="44052442" title=Talk:Scytovirin>
-	<talkpage id="44052442" title="Talk:Scytovirin">
-{{WikiProject Pharmacology |class=Stub |importance=Low}}
-{{WikiProject AIDS |class=Stub |importance=Low }}
-	</talkpage>
-</article>

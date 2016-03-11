@@ -1,5 +1,0 @@
-<article id="18131096" title=Talk:Journal (computing)>
-	<talkpage id="18131096" title="Talk:Journal (computing)">
-{{WikiProject Computing|class=Stub|importance=|auto=yes}}
-	</talkpage>
-</article>

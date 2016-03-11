@@ -1,6 +1,0 @@
-<article id="11708576" title=User talk:Mthode>
-	<talkpage id="11708576" title="User talk:Mthode">
-{{#if:1|=={{{header-text|Attacks in the article [[:Andrew Thode]]}}}==}}
-Please do not make personal attacks{{{{{subst|}}}#if:Andrew Thode|&amp;#32;as you did at [[:Andrew Thode]]}}. Wikipedia has a strict policy against [[Wikipedia:No personal attacks|personal attacks]]. [[Wikipedia:Attack_page|Attack pages]] and images '''are not tolerated''' by Wikipedia and are [[Wikipedia:Criteria for speedy deletion|speedily deleted]]. Users who continue to create or repost such pages and images in violation of our [[Wikipedia:Biographies of living persons]] policy will be [[Wikipedia:Blocking policy|blocked]] from editing Wikipedia. Thank you. &lt;!-- Template:attack --&gt; [[User:Anonymous Dissident|&lt;span style=&quot;font-family:Script MT Bold;color:DarkRed&quot;&gt;Anonymous Dissident&lt;/span&gt;]] '''[[User_talk:Anonymous Dissident|&lt;sup&gt;&lt;font color=&quot;black&quot;&gt;Utter&lt;/font&gt;&lt;/sup&gt;]]''' 07:11, 11 June 2007 (UTC)
-	</talkpage>
-</article>

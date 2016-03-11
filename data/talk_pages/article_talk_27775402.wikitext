@@ -1,5 +1,0 @@
-<article id="27775402" title=Talk:Boljare>
-	<talkpage id="27775402" title="Talk:Boljare">
-{{WikiProject Serbia|class=stub|importance=low}}
-	</talkpage>
-</article>

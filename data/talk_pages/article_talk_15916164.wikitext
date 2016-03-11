@@ -1,6 +1,0 @@
-<article id="7288307" title=Talk:Berlin Jungfernheide station>
-	<talkpage id="7288307" title="Talk:Berlin Jungfernheide station">
-{{WikiProject Trains|class=start|importance=low|DE=yes|DE-importance=low|subway=yes|stations=yes|unref=yes}}
-{{WikiProject Germany|class=Start|importance=low}}
-	</talkpage>
-</article>

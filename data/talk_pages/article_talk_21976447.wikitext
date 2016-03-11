@@ -1,5 +1,0 @@
-<article id="21976447" title=User talk:75.74.159.15>
-	<talkpage id="21976447" title="User talk:75.74.159.15">
-[[Image:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia{{#if:Grassland|, as you did to [[:Grassland]]}}. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism2 --&gt;&amp;mdash;[[User:Tetracube|Tetracube]] ([[User talk:Tetracube|talk]]) 23:53, 14 March 2009 (UTC)
-	</talkpage>
-</article>

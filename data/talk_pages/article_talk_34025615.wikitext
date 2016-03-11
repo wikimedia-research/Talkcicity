@@ -1,8 +1,0 @@
-<article id="34025615" title=Talk:Gerard Tickle>
-	<talkpage id="34025615" title="Talk:Gerard Tickle">
-{{WikiProjectBannerShell|1=
-{{WikiProject Biography|living=no|class=start|listas=Tickle, Gerard William}}
-{{WikiProject Christianity|class=start|importance=low|catholicism=yes|catholicism-importance=low}}
-}}
-	</talkpage>
-</article>

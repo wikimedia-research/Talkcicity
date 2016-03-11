@@ -1,5 +1,0 @@
-<article id="7618107" title=Talk:Point source (light)>
-	<talkpage id="7618107" title="Talk:Point source (light)">
-{{physics|class=redirect |importance=NA}}
-	</talkpage>
-</article>

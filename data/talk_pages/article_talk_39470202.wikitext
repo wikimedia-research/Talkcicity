@@ -1,7 +1,0 @@
-<article id="39470202" title=User talk:24.20.102.242>
-	<talkpage id="39470202" title="User talk:24.20.102.242">
-== May 2013 ==
-[[Image:Information.svg|25px|alt=Information icon]] [[Wikipedia:Introduction|Welcome]], and thank you for your attempt to lighten up Wikipedia. However, this is an encyclopedia and the articles are intended to be serious, so please don't make joke edits, as you did to [[:We Are the In Crowd]]. Readers looking for accurate information will not find them amusing. If you'd like to experiment with editing, try the [[Wikipedia:Sandbox|sandbox]], where you are given a good deal of freedom in what you write.   &lt;!-- Template:uw-joke1 --&gt; &amp;ndash;&amp;nbsp;[[User:2001:db8|2001:db8::]]&amp;nbsp;([[User talk:2001:db8|rfc]]&amp;nbsp;&amp;#124;&amp;nbsp;[[Special:Contributions/2001:db8|diff]]) 23:53, 23 May 2013 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

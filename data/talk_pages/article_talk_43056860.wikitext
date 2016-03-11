@@ -1,6 +1,0 @@
-<article id="43056860" title=Talk:Riccardo Fainardi>
-	<talkpage id="43056860" title="Talk:Riccardo Fainardi">
-{{WikiProject Visual arts |class=Stub |importance=}}
-{{WikiProject Biography |living=no |class=Stub |listas= |a&amp;e-work-group=yes}}
-	</talkpage>
-</article>

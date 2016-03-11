@@ -1,5 +1,0 @@
-<article id="8644067" title=Talk:Athyma nefte>
-	<talkpage id="8644067" title="Talk:Athyma nefte">
-{{WikiProject Lepidoptera|class=B|importance=low}}
-	</talkpage>
-</article>

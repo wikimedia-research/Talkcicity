@@ -1,9 +1,0 @@
-<article id="18302573" title=User talk:88.107.173.176>
-	<talkpage id="18302573" title="User talk:88.107.173.176">
-== July 2008 ==
-
-[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Homer_Simpson?diff=223755700 recent edit]&lt;/span&gt; you made to [[:Homer Simpson]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thanks. &lt;!-- Template:uw-huggle1 --&gt; [[User:Justinfr|justinfr]] ([[User talk:Justinfr|talk]]) 17:12, 5 July 2008 (UTC)
-
-[[Image:Information.png|25px]] The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Richard_Arkwright?diff=223756662 recent edit]&lt;/span&gt; you made to [[:Richard Arkwright]] constitutes [[Wikipedia:Vandalism|vandalism]], and has been reverted. Please do not continue to vandalize pages; use the [[Wikipedia:Sandbox|sandbox]] for testing. Thanks. &lt;!-- Template:uw-huggle2 --&gt; [[User:IceUnshattered|IceUnshattered]] ([[User talk:IceUnshattered|talk]]) 17:16, 5 July 2008 (UTC)
-	</talkpage>
-</article>

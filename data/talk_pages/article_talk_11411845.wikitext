@@ -1,6 +1,0 @@
-<article id="11411845" title=User talk:125.0.4.204>
-	<talkpage id="11411845" title="User talk:125.0.4.204">
-{{openproxy}}
-&lt;div align=&quot;right&quot;&gt;--[[User:MichaelBillington|Michael Billington]] ([[User talk:MichaelBillington|talk]]) 12:38, 25 May 2007 (UTC)&lt;/div&gt;
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="37217680" title=Talk:Creole wrasse>
-	<talkpage id="37217680" title="Talk:Creole wrasse">
-{{WikiProject Fishes|class=stub|importance=low}}
-	</talkpage>
-</article>

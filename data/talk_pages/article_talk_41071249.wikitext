@@ -1,5 +1,0 @@
-<article id="41071249" title=Talk:Priscilla Wong>
-	<talkpage id="41071249" title="Talk:Priscilla Wong">
-{{WikiProject Biography|living=yes}}
-	</talkpage>
-</article>

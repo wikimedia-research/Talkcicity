@@ -1,8 +1,0 @@
-<article id="47551581" title=User talk:41.190.14.72>
-	<talkpage id="47551581" title="User talk:41.190.14.72">
-== August 2015 ==
-
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Crystallizedcarbon|Crystallizedcarbon]]. I wanted to let you know that I reverted one of [[Special:Contributions/41.190.14.72|your recent contributions]]&amp;nbsp;—the one you made with &lt;span class=&quot;plainlinks&quot;&gt;[https://en.wikipedia.org/w/index.php?title=Rochdale%20Principles&amp;diff=676551795 this edit]&lt;/span&gt; to [[:Rochdale Principles]]— because it didn’t appear constructive to me. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Crystallizedcarbon|my talk page]]. Thanks. &lt;!-- Template:Huggle/warn-1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt;[[User:Crystallizedcarbon|Crystallizedcarbon]] ([[User talk:Crystallizedcarbon|talk]]) 18:43, 17 August 2015 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

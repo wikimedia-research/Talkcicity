@@ -1,6 +1,0 @@
-<article id="40253346" title=User talk:Ariasimo>
-	<talkpage id="40253346" title="User talk:Ariasimo">
-== August 2013 ==
-[[File:Information.svg|25px|alt=Information icon]] Please refrain from making unconstructive edits to Wikipedia, as you did at [[:Channel 4]]. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]] or removed. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Thank you.&lt;!-- Template:uw-vandalism2 --&gt; &lt;span style=&quot;border:3px solid #000;background:#000&quot;&gt;[[User:Deadbeef|&lt;span style=&quot;color:#0f0;&quot;&gt;Dea&lt;/span&gt;]][[User Talk:Deadbeef|&lt;span style=&quot;color:#fff&quot;&gt;db&lt;/span&gt;]][[Special:Contributions/Deadbeef|&lt;span style=&quot;color:#0f0&quot;&gt;eef&lt;/span&gt;]]&lt;/span&gt; 00:30, 16 August 2013 (UTC)
-	</talkpage>
-</article>

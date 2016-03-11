@@ -1,7 +1,0 @@
-<article id="4639859" title=Talk:Vicenza Calcio>
-	<talkpage id="4639859" title="Talk:Vicenza Calcio">
-{{football|class=start|importance=mid|Italy=yes}}
-
-''Magnagatti'' (means ''cat-eaters'') is a nickname given to [[Vicenza]] citizens, not to Vicenza Calcio's players. I changed it. [[User:CapPixel|CapPixel]] 19:05, 5 April 2006 (UTC)
-	</talkpage>
-</article>

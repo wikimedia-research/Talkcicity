@@ -1,9 +1,0 @@
-<article id="29531051" title=User talk:12.68.17.7>
-	<talkpage id="29531051" title="User talk:12.68.17.7">
-== November 2010 ==
-[[Image:Information.svg|25px]] [[Wikipedia:Introduction|Welcome]], and thank you for your attempt to lighten up Wikipedia. However, this is an encyclopedia and the articles are intended to be serious, so please don't make joke edits, as you did to [[:Rush (band)]]. Readers looking for accurate information will not find them amusing. If you'd like to experiment with editing, try the [[Wikipedia:Sandbox|sandbox]], where you can write practically anything you want.   &lt;!-- Template:uw-joke1 --&gt; [[User:Berean Hunter|&lt;font face=&quot;High Tower Text&quot; size=&quot;2px&quot;&gt;&lt;b style=&quot;color:#00C&quot;&gt;⋙–Ber&lt;/b&gt;&lt;b style=&quot;color:#66f&quot;&gt;ean–Hun&lt;/b&gt;&lt;b style=&quot;color:#00C&quot;&gt;ter—►&lt;/b&gt;&lt;/font&gt;]] ([[User talk:Berean Hunter|&lt;b style=&quot;color:#00C&quot;&gt;(⊕)&lt;/b&gt;]]) 22:06, 8 November 2010 (UTC)
-:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
-
-[[Image:Information.png|25px|alt=|link=]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Skid_Row_(American_band)?diff=398315031 recent edit]&lt;/span&gt; you made to [[:Skid Row (American band)]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:Alansohn|Alansohn]] ([[User talk:Alansohn|talk]]) 21:14, 22 November 2010 (UTC)
-	</talkpage>
-</article>

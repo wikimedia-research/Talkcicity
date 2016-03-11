@@ -1,7 +1,0 @@
-<article id="12276628" title=User talk:ANThony>
-	<talkpage id="12276628" title="User talk:ANThony">
-
-==[[:Twisted Metal 3 Infomation]]==
-[[Image:Information_icon.svg|left]]Hello, this is a message from [[User:Android Mouse Bot 2|an automated bot]]. A tag has been placed on [[:Twisted Metal 3 Infomation]], by {{#ifeq:1|1|[[User:Tygartl1|Tygartl1]]&amp;nbsp;([[User talk:Tygartl1|talk]]&amp;nbsp;'''·''' [[Special:Contributions/Tygartl1|contribs]]),}} another Wikipedia user, requesting that it be [[Wikipedia:Speedy deletions|speedily deleted]] from Wikipedia. The tag claims that it should be speedily deleted because [[:Twisted Metal 3 Infomation]] fits the criteria for speedy deletion for the following reason: &lt;br&gt;&lt;center&gt;'''misspelled--unneeded redirect'''&lt;/center&gt;&lt;br&gt;To contest the tagging and request that administrators wait before possibly deleting [[:Twisted Metal 3 Infomation]], please affix the template &lt;nowiki&gt;{{hangon}}&lt;/nowiki&gt; to the page, and put a note on its talk page. If the article has already been deleted, see the advice and instructions at [[WP:WMD]]. Feel free to leave a message on the [[User talk:Android Mouse|bot operator's talk page]] if you have any questions about this or any problems with this bot, bearing in mind that '''this bot is only informing you of the nomination for speedy deletion; it does not perform any nominations or deletions itself.''' --[[User:Android Mouse Bot 2|Android Mouse Bot 2]] 13:53, 16 July 2007 (UTC)
-	</talkpage>
-</article>

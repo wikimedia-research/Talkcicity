@@ -1,5 +1,0 @@
-<article id="12652947" title=Talk:Cupedora sutilosa>
-	<talkpage id="12652947" title="Talk:Cupedora sutilosa">
-{{WikiProject Gastropods|class=Stub|importance=low|needs-photo=yes}}
-	</talkpage>
-</article>

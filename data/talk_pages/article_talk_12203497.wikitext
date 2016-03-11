@@ -1,5 +1,0 @@
-<article id="12203497" title=Talk:Provisional Government of Belgium>
-	<talkpage id="12203497" title="Talk:Provisional Government of Belgium">
-{{WPBelgium|class=start|importance=high}}
-	</talkpage>
-</article>

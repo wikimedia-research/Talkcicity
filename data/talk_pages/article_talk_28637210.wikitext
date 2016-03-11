@@ -1,5 +1,0 @@
-<article id="28637210" title=Talk:White Briar, Delaware>
-	<talkpage id="28637210" title="Talk:White Briar, Delaware">
-{{WikiProject United States|class=stub|importance=low|DE=yes|DE-importance=low}}
-	</talkpage>
-</article>

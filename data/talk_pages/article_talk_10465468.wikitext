@@ -1,9 +1,0 @@
-<article id="10465468" title=Talk:Al-Mubarrad>
-	<talkpage id="10465468" title="Talk:Al-Mubarrad">
-{{WikiProject Biography
-|living=no
-|class=stub
-|listas=Mubarrad
-}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="33025659" title=Talk:U.S. Route 127 Business (Clare, Michigan)>
-	<talkpage id="33025659" title="Talk:U.S. Route 127 Business (Clare, Michigan)">
-{{USRD|type=US|state=MI|class=redirect}}
-	</talkpage>
-</article>

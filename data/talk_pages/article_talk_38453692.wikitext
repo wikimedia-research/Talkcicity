@@ -1,5 +1,0 @@
-<article id="38453692" title=Talk:Ittefaq Hospital>
-	<talkpage id="38453692" title="Talk:Ittefaq Hospital">
-{{WikiProject Hospitals|class=stub|importance=low|needs-infobox=yes|needs-photo=yes}}
-	</talkpage>
-</article>

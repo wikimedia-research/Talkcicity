@@ -1,6 +1,0 @@
-<article id="27815911" title=Talk:Palacio de los Reyes de Navarra, Estella>
-	<talkpage id="27815911" title="Talk:Palacio de los Reyes de Navarra, Estella">
-{{WikiProject Architecture|historic-houses=yes}}
-{{WikiProject Spain|class=stub|importance=lox}}
-	</talkpage>
-</article>

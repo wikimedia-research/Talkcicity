@@ -1,8 +1,0 @@
-<article id="11177483" title=User talk:216.213.235.197>
-	<talkpage id="11177483" title="User talk:216.213.235.197">
-{{SharedIPEDU|Education Service Center Region XI}}
-
-
-Thank you for experimenting with {{#if:Decatur, Texas|the page [[:Decatur, Texas]] on}} Wikipedia{{#if:{{{diff|}}}|&amp;nbsp;as you did with [{{{diff}}} this edit]}}. Your test worked, and it has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any other tests you may want to do. Take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to our encyclopedia.&lt;!-- Template:Test (first level warning) --&gt; [[User:Werdan7|Werdan7]]&lt;sup&gt;[[User_talk:Werdan7|T]] [[Special:Emailuser/Werdan7|@]]&lt;/sup&gt; 20:34, 11 May 2007 (UTC)
-	</talkpage>
-</article>

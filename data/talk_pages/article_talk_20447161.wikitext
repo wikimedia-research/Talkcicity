@@ -1,6 +1,0 @@
-<article id="20447161" title=Talk:Salinas River>
-	<talkpage id="20447161" title="Talk:Salinas River">
-{{DisambigProject}}
-{{River|class=Dab}}
-	</talkpage>
-</article>

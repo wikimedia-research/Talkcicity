@@ -1,5 +1,0 @@
-<article id="17816112" title=Talk:Vrhe, Celje>
-	<talkpage id="17816112" title="Talk:Vrhe, Celje">
-{{WikiProject Slovenia|class=stub|importance=low}}
-	</talkpage>
-</article>

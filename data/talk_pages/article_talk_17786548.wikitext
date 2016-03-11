@@ -1,7 +1,0 @@
-<article id="17786548" title=User talk:195.72.45.49>
-	<talkpage id="17786548" title="User talk:195.72.45.49">
-== June 2008 ==
-[[Image:Information.svg|25px|]] Welcome to Wikipedia. We welcome and appreciate your contributions, {{#if:Religious Education| including your edits to [[:Religious Education]],}} but we regretfully cannot accept [[Wikipedia:No original research|original research]]. Original research also encompasses novel, unpublished syntheses of previously published material. Please be prepared to cite a [[Wikipedia:Reliable sources|reliable source]] for all of your information. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:Uw-nor1 --&gt; &lt;span style=&quot;border: 2px solid #828282; padding: 0px;&quot;&gt;[[User:S3000|&lt;span style=&quot;background: #ffffff; color: #828282;&quot;&gt;&amp;nbsp;S3000&amp;nbsp;&lt;/span&gt;]][[User talk:S3000|&lt;span style=&quot;background: #828282; color: #FFFFFF;&quot;&gt;&amp;nbsp;☎&lt;/span&gt;]]&lt;/span&gt; 11:11, 5 June 2008 (UTC)
-:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
-	</talkpage>
-</article>

@@ -1,8 +1,0 @@
-<article id="7002650" title=Talk:Serbian Heraldry Society>
-	<talkpage id="7002650" title="Talk:Serbian Heraldry Society">
-{{WikiProject Heraldry and vexillology|class=stub}}
-{{Wikiproject Serbia|class=Stub|importance=}}
-== WikiProject class rating==
-This article was automatically assessed because at least one WikiProject had rated the article as stub, and the rating on other projects was brought up to Stub class. [[User:BetacommandBot|BetacommandBot]] 16:14, 10 November 2007 (UTC)
-	</talkpage>
-</article>

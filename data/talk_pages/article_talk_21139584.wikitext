@@ -1,6 +1,0 @@
-<article id="17103381" title=Talk:Dias contados>
-	<talkpage id="17103381" title="Talk:Dias contados">
-{{film|class=Stub|Spanish-task-force=yes}}
-{{WikiProject Spain|class=stub|importance=low}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="35659914" title=Talk:Mylothris bernice>
-	<talkpage id="35659914" title="Talk:Mylothris bernice">
-{{LepidopteraTalk|class=stub|importance=low}}
-	</talkpage>
-</article>

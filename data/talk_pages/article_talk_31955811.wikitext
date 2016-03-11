@@ -1,6 +1,0 @@
-<article id="31955811" title=Talk:Jack McQuaid>
-	<talkpage id="31955811" title="Talk:Jack McQuaid">
-{{WikiProject Biography|living=no|class=start|sports-work-group=yes|sports-priority=low|listas=McQuaid, Jack}}
-{{WikiProject Baseball|umpires=yes|umpires-importance=low|class=start|importance=low|oldtime=yes|oldtime-importance=low}}
-	</talkpage>
-</article>

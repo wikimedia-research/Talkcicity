@@ -1,6 +1,0 @@
-<article id="41373989" title=Talk:The Old Testament (film)>
-	<talkpage id="41373989" title="Talk:The Old Testament (film)">
-{{WP Film|class=stub|Italian=yes|needs-image=yes}}
-{{WikiProject Italy|class=stub|importance=low}}
-	</talkpage>
-</article>

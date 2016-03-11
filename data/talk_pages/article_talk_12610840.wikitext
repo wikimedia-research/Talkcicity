@@ -1,5 +1,0 @@
-<article id="12610840" title=Talk:Acharanga Sutra>
-	<talkpage id="12610840" title="Talk:Acharanga Sutra">
-{{WikiProject Jainism|class=Start|importance=mid}}
-	</talkpage>
-</article>

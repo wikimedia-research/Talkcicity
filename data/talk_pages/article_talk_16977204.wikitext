@@ -1,5 +1,0 @@
-<article id="16977204" title=Talk:Modelu>
-	<talkpage id="16977204" title="Talk:Modelu">
-{{WikiProject Romania|class=Stub|importance=}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="26764185" title=Talk:Digital asset>
-	<talkpage id="26764185" title="Talk:Digital asset">
-{{WikiProject Libraries|class=Start|importance=Low|auto=no}}
-	</talkpage>
-</article>

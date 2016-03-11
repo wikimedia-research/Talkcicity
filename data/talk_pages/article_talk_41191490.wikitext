@@ -1,8 +1,0 @@
-<article id="41191490" title=User talk:162.227.241.31>
-	<talkpage id="41191490" title="User talk:162.227.241.31">
-
-== November 2013 ==
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Flyer22|Flyer22]]. I wanted to let you know that I undid one or more of [[Special:Contributions/162.227.241.31|your recent contributions]]&amp;nbsp;to [[:Culture of Panama]] because it did not appear constructive. If you would like to experiment, you can use the [[WP:sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Flyer22|my talk page]]. &lt;!-- Template:uw-vandalism1 --&gt;  [[User:Flyer22|Flyer22]] ([[User talk:Flyer22|talk]]) 21:04, 25 November 2013 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

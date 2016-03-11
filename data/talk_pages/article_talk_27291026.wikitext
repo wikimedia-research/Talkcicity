@@ -1,6 +1,0 @@
-<article id="27291026" title=Talk:Flekkerøy IL>
-	<talkpage id="27291026" title="Talk:Flekkerøy IL">
-{{WikiProject Norway|class=Stub}}
-{{WikiProject Football|class=Stub|importance=Low}}
-	</talkpage>
-</article>

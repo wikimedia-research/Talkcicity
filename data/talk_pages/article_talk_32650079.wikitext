@@ -1,7 +1,0 @@
-<article id="32650079" title=User talk:24.238.81.41>
-	<talkpage id="32650079" title="User talk:24.238.81.41">
-== August 2011 ==
-[[File:Information.svg|25px|alt=|link=]] Hello, and welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of [[Special:Contributions/24.238.81.41|your recent edits]], such as the one you made to [[:Lacey Duvalle]], did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt;&lt;!-- Template:uw-cluebotwarning1 --&gt; —&amp;nbsp;[[User:Malik Shabazz|Malik Shabazz]]&amp;nbsp;&lt;sup&gt;[[User talk:Malik Shabazz|Talk]]&lt;/sup&gt;/&lt;sub&gt;[[Special:Contributions/Malik Shabazz|Stalk]]&lt;/sub&gt; 20:37, 5 August 2011 (UTC)
-:''If this is a [[closed proxy|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:SharedIPAdvice --&gt;
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="22022040" title=Talk:1997 French motorcycle Grand Prix>
-	<talkpage id="22022040" title="Talk:1997 French motorcycle Grand Prix">
-{{motorcycle racing}}
-	</talkpage>
-</article>

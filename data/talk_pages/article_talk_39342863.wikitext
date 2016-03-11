@@ -1,6 +1,0 @@
-<article id="39342863" title=Talk:Sagenista>
-	<talkpage id="39342863" title="Talk:Sagenista">
-The Sagenista illustration is wrong, it shows a Chrysophyte coloutless algae of the genus Paraphysomonas. They are scales and not reproductive bodies. The 'nucleus' is actually the cell body. This picture should be removed.
-Also, putting (Photosynthetic) below Ochrophyta (int he table) is misleading since Photosynthesis has been lost in several groups - having a photosynthetic ancestor doesn't necessarily make something a photosynthetic organism.--[[User:Paraphyso|Paraphyso]] ([[User talk:Paraphyso|talk]]) 08:59, 9 May 2013 (UTC)
-	</talkpage>
-</article>

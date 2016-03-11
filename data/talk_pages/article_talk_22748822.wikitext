@@ -1,5 +1,0 @@
-<article id="21375263" title=Talk:Mayors of Valenzuela>
-	<talkpage id="21375263" title="Talk:Mayors of Valenzuela">
-{{WPPhilippines|class=List|importance=Low}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="25606297" title=Talk:Jilin Television>
-	<talkpage id="25606297" title="Talk:Jilin Television">
-{{WikiProject China|class=stub|auto=yes}}
-	</talkpage>
-</article>

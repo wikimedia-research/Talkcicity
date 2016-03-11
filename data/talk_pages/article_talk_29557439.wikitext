@@ -1,5 +1,0 @@
-<article id="29557439" title=Talk:Place Matters>
-	<talkpage id="29557439" title="Talk:Place Matters">
-{{WikiProject New York City|class=Start|importance=Low}}
-	</talkpage>
-</article>

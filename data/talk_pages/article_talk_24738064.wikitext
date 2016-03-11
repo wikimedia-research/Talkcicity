@@ -1,5 +1,0 @@
-<article id="24738064" title=User talk:69.131.69.189>
-	<talkpage id="24738064" title="User talk:69.131.69.189">
-[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits{{#if:Erin Crocker|, such as the one you made to [[:Erin Crocker]],}} did not appear to be constructive and has been reverted. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; -- [[User:Casmith_789|Casmith_789]] ([[User talk:Casmith_789|talk]]) 18:05, 18 October 2009 (UTC)
-	</talkpage>
-</article>

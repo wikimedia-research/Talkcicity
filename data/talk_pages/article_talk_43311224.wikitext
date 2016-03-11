@@ -1,7 +1,0 @@
-<article id="43311224" title=User talk:125.16.178.50>
-	<talkpage id="43311224" title="User talk:125.16.178.50">
-== July 2014 ==
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:FenixFeather|FenixFeather]]. Wikipedia is written by people who have a wide diversity of opinions, but we try hard to make sure articles have a [[Wikipedia:Neutral point of view|neutral point of view]]. Your recent edit to [[:Click (2006 film)]] seemed less than neutral to me, so I removed it for now. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:FenixFeather|my talk page]]. Thank you. &lt;!-- Template:uw-npov1 --&gt; &amp;ndash; [[User:FenixFeather|&lt;font color=&quot;SlateBlue&quot;&gt;'''''FenixFeather'''''&lt;/font&gt;]] &lt;sup&gt;[[User_talk:FenixFeather|&lt;font color=&quot;SlateBlue&quot;&gt;(talk)]]&lt;/font&gt;&lt;/sup&gt;&lt;sup&gt;[[Special:Contributions/FenixFeather|&lt;font color=&quot;SlateBlue&quot;&gt;(Contribs)]]&lt;/font&gt;&lt;/sup&gt; 23:31, 15 July 2014 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

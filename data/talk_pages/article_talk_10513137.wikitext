@@ -1,9 +1,0 @@
-<article id="10513137" title=Talk:Cryptomys>
-	<talkpage id="10513137" title="Talk:Cryptomys">
-{{WikiProject Rodents|class=stub|importance=low}}
-{{WikiProject Mammals|class=stub|importance=low|Pocket-pet=yes}}
-
-==Untitled==
-Page created. [[User:TeamZissou|TeamZissou]] 07:29, 7 April 2007 (UTC)
-	</talkpage>
-</article>

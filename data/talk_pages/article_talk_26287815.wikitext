@@ -1,5 +1,0 @@
-<article id="26287815" title=Talk:Simple set>
-	<talkpage id="26287815" title="Talk:Simple set">
-{{maths rating|class=Start|priority=Low|field=foundations}}
-	</talkpage>
-</article>

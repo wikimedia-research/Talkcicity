@@ -1,5 +1,0 @@
-<article id="27009815" title=Talk:Adelphocoris>
-	<talkpage id="27009815" title="Talk:Adelphocoris">
-{{WikiProject Insects|class=stub|importance=low}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="29230630" title=Talk:Zia (Papua New Guinea)>
-	<talkpage id="29230630" title="Talk:Zia (Papua New Guinea)">
-{{WikiProject Papua New Guinea}}
-	</talkpage>
-</article>

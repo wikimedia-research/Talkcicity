@@ -1,7 +1,0 @@
-<article id="14044639" title=Talk:Internet Citizen's Band>
-	<talkpage id="14044639" title="Talk:Internet Citizen's Band">
-{{WikiProject Computing|class=Start}}
-== Conflict of interest disclosure ==
-I created this article, and I believe it's sufficiently notable etc etc.  However, I should disclose that I am an active user of this software and have made contributions to the code over time.  Just so there's no question about undisclosed conflict of interest.  [[User:Georgewilliamherbert|Georgewilliamherbert]] 00:47, 3 November 2007 (UTC)
-	</talkpage>
-</article>

@@ -1,8 +1,0 @@
-<article id="21584706" title=User talk:69.251.70.59>
-	<talkpage id="21584706" title="User talk:69.251.70.59">
-
-
-== February 2009 ==
-[[Image:Information.svg|left|25px]] Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits, such as the one you made to [[:Fart]], did not appear to be constructive and has been '''automatically [[Help:Reverting|reverted]]''' by [[User:ClueBot|ClueBot]].  Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia.  '''If you believe there has been a mistake and would like to report a false positive, please [[User:ClueBot/FalsePositives|report it here]] and then remove this warning from your talk page.'''  If your edit was not vandalism, please feel free to make your edit again after reporting it. The following is the log entry regarding this warning: [[Fart]] was [http://en.wikipedia.org/w/index.php?title=Fart&amp;diff=271459775&amp;oldid=271409530 changed] by [[Special:Contributions/69.251.70.59|69.251.70.59]] [[User:69.251.70.59|(u)]] [[User talk:69.251.70.59|(t)]] making a minor change adding &quot;!!!&quot; on 2009-02-18T00:07:59+00:00 &lt;!-- MySQL ID: 588029 --&gt;. Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot|ClueBot]] ([[User talk:ClueBot|talk]]) 00:08, 18 February 2009 (UTC)
-	</talkpage>
-</article>

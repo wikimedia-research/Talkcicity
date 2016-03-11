@@ -1,6 +1,0 @@
-<article id="11004132" title=Talk:Židikai Marija Pečkauskaitė secondary school>
-	<talkpage id="11004132" title="Talk:Židikai Marija Pečkauskaitė secondary school">
-{{WikiProject Lithuania| class=Stub|importance=Mid|comments=}}
-{{WikiProject Schools|class=stub|importance=low}}
-	</talkpage>
-</article>

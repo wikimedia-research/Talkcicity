@@ -1,5 +1,0 @@
-<article id="26548880" title=Talk:Strings (Strings album)>
-	<talkpage id="26548880" title="Talk:Strings (Strings album)">
-{{album|class=Stub|importance=|needs-infobox=no}}
-	</talkpage>
-</article>

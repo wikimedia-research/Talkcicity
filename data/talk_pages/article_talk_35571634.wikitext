@@ -1,6 +1,0 @@
-<article id="33585621" title=Talk:Karamdaata>
-	<talkpage id="33585621" title="Talk:Karamdaata">
-{{Film|class=Stub|Indian-task-force=yes}}
-{{WikiProject India|class=stub|importance=low|cinema=yes|cinema-importance=low}}
-	</talkpage>
-</article>

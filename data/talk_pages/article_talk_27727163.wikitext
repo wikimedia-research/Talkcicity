@@ -1,6 +1,0 @@
-<article id="27727163" title=Talk:Lorenzenite>
-	<talkpage id="27727163" title="Talk:Lorenzenite">
-{{WikiProject Geology|class=stub|importance=low}}
-{{WikiProject Rocks and minerals|class=stub|importance=low}}
-	</talkpage>
-</article>

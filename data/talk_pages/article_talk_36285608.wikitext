@@ -1,6 +1,0 @@
-<article id="36285608" title=Talk:Yeh Khula Aasmaan>
-	<talkpage id="36285608" title="Talk:Yeh Khula Aasmaan">
-{{WikiProject Film|Indian-task-force=yes|class=Start}}
-{{WikiProject India|class=Start|importance=low|cinema=yes|cinema-importance=low}}
-	</talkpage>
-</article>

@@ -1,7 +1,0 @@
-<article id="36995776" title=User talk:12.165.140.155>
-	<talkpage id="36995776" title="User talk:12.165.140.155">
-== September 2012 ==
-[[Image:Information.svg|25px|alt=|link=]] Thank you for [[Special:Contributions/12.165.140.155|your contributions]] to Wikipedia. It appears that you copied or moved text from one page into another page. While you are welcome to re-use Wikipedia's content, here or elsewhere, [[WP:Copyrights|Wikipedia's licensing]] does require that you provide attribution to the original contributor(s). When copying within Wikipedia, this is supplied at minimum in an [[Help:Edit summary|edit summary]] at the page into which you've copied content. It is good practice, especially if copying is extensive, to make a note in an edit summary at the source page as well. The attribution has been provided for this situation, but if you have copied material between pages before, even if it was a long time ago, please provide attribution for that duplication. You can read more about the procedure and the reasons at [[Wikipedia:Copying within Wikipedia]]. Thank you. &lt;!-- Template:uw-copying--&gt; [[User:Dougweller|Dougweller]] ([[User talk:Dougweller|talk]]) 16:19, 12 September 2012 (UTC)
-:''If this is a [[open proxy|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

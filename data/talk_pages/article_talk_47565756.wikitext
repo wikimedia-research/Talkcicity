@@ -1,6 +1,0 @@
-<article id="47565756" title=Talk:Elsa Guerdrum Allen>
-	<talkpage id="47565756" title="Talk:Elsa Guerdrum Allen">
-{{WikiProject Biography|class=stub|living=n|listas=Allen, Elsa Guerdrum|s&amp;a-work-group=y|needs-photo=y}}
-{{WikiProject Birds|class=stub|importance=low}}
-	</talkpage>
-</article>

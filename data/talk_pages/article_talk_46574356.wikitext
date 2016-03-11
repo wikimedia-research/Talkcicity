@@ -1,5 +1,0 @@
-<article id="46574356" title=Talk:Indianapolis Union Station—Wholesale Historic District>
-	<talkpage id="46574356" title="Talk:Indianapolis Union Station—Wholesale Historic District">
-{{WikiProject NRHP|class=Redirect}}
-	</talkpage>
-</article>

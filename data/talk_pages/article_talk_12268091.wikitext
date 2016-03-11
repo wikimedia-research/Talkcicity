@@ -1,7 +1,0 @@
-<article id="12268091" title=Talk:New Jersey Superior Court>
-	<talkpage id="12268091" title="Talk:New Jersey Superior Court">
-{{WikiProject Law|class=Start|importance=Low}}
-
-{{WikiProject New Jersey|class=C|importance=High}}
-	</talkpage>
-</article>

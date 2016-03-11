@@ -1,5 +1,0 @@
-<article id="42891531" title=Talk:Runnin' Out of Air>
-	<talkpage id="42891531" title="Talk:Runnin' Out of Air">
-{{WPSongs|class=start}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="22836664" title=Talk:Shooting at the 1900 Summer Olympics – Men's 50 metre free pistol, team>
-	<talkpage id="22836664" title="Talk:Shooting at the 1900 Summer Olympics – Men's 50 metre free pistol, team">
-{{WikiProject Olympics|importance=low|class=}}
-	</talkpage>
-</article>

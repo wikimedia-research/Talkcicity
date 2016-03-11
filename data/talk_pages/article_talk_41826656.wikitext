@@ -1,8 +1,0 @@
-<article id="41826656" title=User talk:89.165.76.119>
-	<talkpage id="41826656" title="User talk:89.165.76.119">
-
-== February 2014 ==
-
-[[Image:Information.svg|25px|alt=|link=]] Hello, I'm [[User:CogitoErgoSum14|CogitoErgoSum14]]. Your recent edit to the page [[:Shiraz]] appears to have added incorrect information, so I removed it for now. If you believe the information was correct, please [[Wikipedia:Citing sources|cite a reliable source]] or discuss your change on the article's talk page. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:CogitoErgoSum14|my talk page]]. Thanks. &lt;!-- Template:Huggle/warn-error-1 --&gt;&lt;!-- Template:uw-error1 --&gt;[[User:CogitoErgoSum14|Cogito-Ergo-Sum (14)]] ([[User talk:CogitoErgoSum14|talk]]) 13:12, 3 February 2014 (UTC)
-	</talkpage>
-</article>

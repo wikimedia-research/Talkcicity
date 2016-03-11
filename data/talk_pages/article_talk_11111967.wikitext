@@ -1,9 +1,0 @@
-<article id="11111967" title=Talk:Mount Wilson (Nevada)>
-	<talkpage id="11111967" title="Talk:Mount Wilson (Nevada)">
-{{WikiProjectBannerShell|1=
-{{WikiProject Cycling|class=stub}}
-{{WikiProject Mountains|class=Stub|importance=Low}}
-{{WikiProject Nevada|class=stub|importance=low|Las Vegas=yes|Las Vegas-importance=low}}
-}}
-	</talkpage>
-</article>

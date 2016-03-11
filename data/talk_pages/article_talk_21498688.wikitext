@@ -1,7 +1,0 @@
-<article id="21498688" title=Talk:Abraham Jones House>
-	<talkpage id="21498688" title="Talk:Abraham Jones House">
-{{WikiProject National Register of Historic Places|class=stub|importance=low}}
-{{WikiProject Maryland|class=Stub|importance=Low}}
-{{reqphoto|in=Worcester County, Maryland}}
-	</talkpage>
-</article>

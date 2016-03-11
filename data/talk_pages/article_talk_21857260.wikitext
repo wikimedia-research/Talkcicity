@@ -1,8 +1,0 @@
-<article id="21857260" title=User talk:62.150.141.204>
-	<talkpage id="21857260" title="User talk:62.150.141.204">
-
-
-== March 2009 ==
-[[File:Information.svg|25px]] Welcome and thank you for experimenting with Wikipedia. Your test {{#if:Apollo 11|on the page [[:Apollo 11]]}} worked, so it has been [[Help:Reverting|reverted]] or removed. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|this encyclopedia]]. If you would like to experiment further, please use the [[Wikipedia:Sandbox|sandbox]] instead. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-test1 --&gt; --[[User:Bongwarrior|Bongwarrior]] ([[User talk:Bongwarrior|talk]]) 10:41, 7 March 2009 (UTC)
-	</talkpage>
-</article>

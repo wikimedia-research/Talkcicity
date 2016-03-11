@@ -1,5 +1,0 @@
-<article id="41034719" title=Talk:Svetozar Vlajković>
-	<talkpage id="41034719" title="Talk:Svetozar Vlajković">
-{{WikiProject Biography|living=yes}}
-	</talkpage>
-</article>

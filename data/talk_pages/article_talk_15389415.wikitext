@@ -1,8 +1,0 @@
-<article id="15389415" title=User talk:76.220.225.250>
-	<talkpage id="15389415" title="User talk:76.220.225.250">
-
-== January 2008 ==
-
-[[Image:Information.png|25px|left]] Hi, the &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Breathing_gas?diff=186470735 recent edit]&lt;/span&gt; you made to [[:Breathing gas]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thanks. &lt;!-- Template:uw-huggle1 --&gt; &lt;i&gt;&lt;b&gt;[[User:Snowolf|&lt;font color = &quot;darkmagenta&quot;&gt;Snowolf&lt;/font&gt;]] &lt;sup&gt;&lt;small&gt;[[User talk:Snowolf|&lt;font color = &quot;darkmagenta&quot;&gt;How can I help?&lt;/font&gt;]]&lt;/small&gt;&lt;/sup&gt;&lt;/b&gt;&lt;/i&gt; 00:45, 24 January 2008 (UTC)
-	</talkpage>
-</article>

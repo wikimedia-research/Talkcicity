@@ -1,9 +1,0 @@
-<article id="28546528" title=Talk:Sueña Conmigo>
-	<talkpage id="28546528" title="Talk:Sueña Conmigo">
-{{WikiProjectBannerShell|1=
-{{WikiProject Soap Operas|class=}}
-{{WikiProject Nickelodeon|class=Start|importance=Low}}
-{{WPArgentina|class=start|importance=mid}}
-}}
-	</talkpage>
-</article>

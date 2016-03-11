@@ -1,5 +1,0 @@
-<article id="25607174" title=Talk:Nyingzhong Township>
-	<talkpage id="25607174" title="Talk:Nyingzhong Township">
-{{WikiProject China|class=stub|auto=yes}}
-	</talkpage>
-</article>

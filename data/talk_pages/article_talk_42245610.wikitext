@@ -1,9 +1,0 @@
-<article id="42245610" title=Talk:Highland Park Presbyterian Church>
-	<talkpage id="42245610" title="Talk:Highland Park Presbyterian Church">
-{{WikiProjectBannerShell|1=
-{{WikiProject Disambiguation}}
-{{WikiProject Calvinism|class=dab}}
-{{WikiProject United States|class=dab}}
-}}
-	</talkpage>
-</article>

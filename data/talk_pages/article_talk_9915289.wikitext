@@ -1,6 +1,0 @@
-<article id="9915289" title=User talk:121.44.236.252>
-	<talkpage id="9915289" title="User talk:121.44.236.252">
-[[Image:Stop hand.svg|30px|left]] This is your '''last warning'''. The next time you insert a [[Wikipedia:Spam|spam]] link,  {{{{{subst|}}}#if:{{{1|}}}|as you did to [[:{{{1|}}}]],}} you ''will'' be blocked from editing Wikipedia. Persistent spammers may have their websites [[meta:Talk:Spam blacklist|blacklisted]] from Wikipedia. &lt;!-- Template:Spam4 --&gt;
-[[User:SpamAssasin/Voyages|See what you've done]]
-	</talkpage>
-</article>

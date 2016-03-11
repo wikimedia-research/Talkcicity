@@ -1,5 +1,0 @@
-<article id="13261940" title=Talk:Pascoe Vale Football Club>
-	<talkpage id="13261940" title="Talk:Pascoe Vale Football Club">
-{{WP Australia|sports=yes|Melbourne=yes|class=Stub|afl=yes|afl-importance=low|importance=low|Melbourne-importance=Low}}
-	</talkpage>
-</article>

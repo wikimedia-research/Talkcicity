@@ -1,5 +1,0 @@
-<article id="32082262" title=Talk:United States Assistant Secretary for European and Eurasian Affairs>
-	<talkpage id="32082262" title="Talk:United States Assistant Secretary for European and Eurasian Affairs">
-{{WikiProject United States|class=Redirect|importance=NA|USGov=yes|USGov-importance=NA}}
-	</talkpage>
-</article>

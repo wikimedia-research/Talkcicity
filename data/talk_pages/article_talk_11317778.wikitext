@@ -1,5 +1,0 @@
-<article id="11317778" title=Talk:Masquerade (Nielsen)>
-	<talkpage id="11317778" title="Talk:Masquerade (Nielsen)">
-{{WikiProject Opera|class=Start}}
-	</talkpage>
-</article>

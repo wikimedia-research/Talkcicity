@@ -1,9 +1,0 @@
-<article id="26684639" title=Talk:Focus Bangla>
-	<talkpage id="26684639" title="Talk:Focus Bangla">
-{{WikiProject India|class=stub|importance=high|television=yes|television-importance=top}}
-
-
-==Untitled==
-Change tagging.--[[User:Kkm010|&lt;font color=&quot;YellowGreen&quot;&gt;User&lt;/font&gt;&lt;font color=&quot;OrangeRed&quot;&gt;Kkm010&lt;/font&gt;]] [[User talk:Kkm010|&lt;font color=&quot;DodgerBlue&quot;&gt;talk&lt;/font&gt;]]  13:16, 18 April 2010 (UTC)
-	</talkpage>
-</article>

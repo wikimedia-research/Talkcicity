@@ -1,6 +1,0 @@
-<article id="15152070" title=Talk:Buncombe County Schools System>
-	<talkpage id="15152070" title="Talk:Buncombe County Schools System">
-{{WPSchools|class=Stub|importance=|needs-infobox=yes}}
-{{WikiProject United States|class=stub|importance=low|NC=yes|NC-importance=low}}
-	</talkpage>
-</article>

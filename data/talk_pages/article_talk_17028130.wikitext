@@ -1,6 +1,0 @@
-<article id="17028130" title=User talk:Rapps55>
-	<talkpage id="17028130" title="User talk:Rapps55">
-==Vandalism==
-Please do not add nonsense to Wikipedia{{#if:Image:Jesus Omar Rivera.jpg‎|, as you did {{#if:|with [{{{diff}}} this edit]}} to the [[:Image:Jesus Omar Rivera.jpg‎]] page|{{#if:|, as you did with [{{{diff}}} this edit]}}}}. It is considered [[Wikipedia:Vandalism template link|vandalism]]. If you would like to experiment, use the [[Wikipedia:Sandbox|sandbox]]. Thank you. &lt;!-- Template:Test2 (second level warning) --&gt; [[Special:Contributions/24.139.245.193|24.139.245.193]] ([[User talk:24.139.245.193|talk]]) 23:19, 20 April 2008 (UTC)
-	</talkpage>
-</article>

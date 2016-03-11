@@ -1,5 +1,0 @@
-<article id="47577076" title=Talk:Joe Galante>
-	<talkpage id="47577076" title="Talk:Joe Galante">
-{{WikiProject Biography|living=yes|class=stub|listas=Galante, Joe|musician-work-group=yes|musician-priority=}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="11302963" title=Talk:Gardiners Warehouse>
-	<talkpage id="11302963" title="Talk:Gardiners Warehouse">
-{{Bristol WP|class=Stub|importance=low|photo=yes|map=yes|ibox=yes}}
-	</talkpage>
-</article>

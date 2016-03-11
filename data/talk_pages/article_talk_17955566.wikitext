@@ -1,5 +1,0 @@
-<article id="17955566" title=Talk:Sono Department>
-	<talkpage id="17955566" title="Talk:Sono Department">
-{{AfricaProject|class=Stub|importance=|Burkina Faso=yes|Burkina Faso-importance=}}
-	</talkpage>
-</article>

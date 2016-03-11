@@ -1,5 +1,0 @@
-<article id="24638585" title=Talk:Zollern II/IV Colliery>
-	<talkpage id="24638585" title="Talk:Zollern II/IV Colliery">
-{{WP Energy|class=start|importance=low}}
-	</talkpage>
-</article>

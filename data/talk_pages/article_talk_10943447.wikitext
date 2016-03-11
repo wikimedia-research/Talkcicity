@@ -1,9 +1,0 @@
-<article id="10943447" title=Talk:Ukrainian National Museum>
-	<talkpage id="10943447" title="Talk:Ukrainian National Museum">
-{{WikiProjectBannerShell|1=
-{{WikiProject Museums|class=Stub|importance=|auto=yes}}
-{{WikiProject Illinois|class=Stub |importance=Low}}
-{{WikiProject Chicago|class=stub |importance=low |attention=}}
-}}
-	</talkpage>
-</article>

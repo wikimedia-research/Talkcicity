@@ -1,7 +1,0 @@
-<article id="32323848" title=User talk:60.53.82.127>
-	<talkpage id="32323848" title="User talk:60.53.82.127">
-== July 2011 ==
-[[Image:Information.svg|25px|alt=|link=]] Welcome to Wikipedia. Everyone is welcome to contribute to the encyclopedia, but when you add or change content, as you did to the article [[:Angry Birds]], please cite a [[Wikipedia:Reliable sources|reliable source]] for your addition. This helps maintain our policy of [[Wikipedia:Verifiability|verifiability]]. See [[Wikipedia:Citing sources]] for how to cite sources, and the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. Thank you.&lt;!-- Template:uw-unsourced1 --&gt; '''[[User:McDoobAU93|&lt;span style=&quot;color:#000080&quot;&gt;McDoob&lt;/span&gt;]][[User talk:McDoobAU93|&lt;span style=&quot;color:#cc5500&quot;&gt;AU&lt;/span&gt;]][[Special:Contributions/McDoobAU93|&lt;span style=&quot;color:#000080&quot;&gt;93&lt;/span&gt;]]''' 13:32, 6 July 2011 (UTC)
-:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
-	</talkpage>
-</article>

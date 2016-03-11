@@ -1,5 +1,0 @@
-<article id="30418397" title=Talk:List of Dempsey and Makepeace episodes>
-	<talkpage id="30418397" title="Talk:List of Dempsey and Makepeace episodes">
-{{WikiProject Television|episode-coverage=Yes|class=List|importance=}}
-	</talkpage>
-</article>

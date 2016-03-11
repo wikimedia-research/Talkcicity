@@ -1,6 +1,0 @@
-<article id="12136218" title=Talk:Leuk Daek District>
-	<talkpage id="12136218" title="Talk:Leuk Daek District">
-{{WikiProject Cambodia|class=Stub|importance=mid}}
-{{WikiProject Southeast Asia|class=Stub}}
-	</talkpage>
-</article>

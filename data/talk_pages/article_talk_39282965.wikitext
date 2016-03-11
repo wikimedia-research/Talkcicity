@@ -1,5 +1,0 @@
-<article id="39282965" title=Talk:X Brigade, Royal Horse Artillery>
-	<talkpage id="39282965" title="Talk:X Brigade, Royal Horse Artillery">
-{{WPMILHIST|class=start|B1=y|B2=n|B3=y|B4=y|B5=y|British=y|WWI=y}}
-	</talkpage>
-</article>

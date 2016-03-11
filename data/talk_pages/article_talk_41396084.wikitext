@@ -1,7 +1,0 @@
-<article id="41396084" title=Talk:QuebecAir Flight 321>
-	<talkpage id="41396084" title="Talk:QuebecAir Flight 321">
-{{oldafdfull| date = 9 January 2014 (UTC) | result = '''merge to [[List of aircraft hijackings]]''' | page = QuebecAir Flight 321 }}
-
-{{WPAVIATION|class=stub|Accidents=y|b1=n|b2=n|b3=n|b4=n|b5=n}}
-	</talkpage>
-</article>

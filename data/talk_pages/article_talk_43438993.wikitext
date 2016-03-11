@@ -1,7 +1,0 @@
-<article id="43438993" title=Talk:Robert Montgomery McDowall>
-	<talkpage id="43438993" title="Talk:Robert Montgomery McDowall">
-{{WikiProject New Zealand|class=stub|importance=low}}
-{{WikiProject Biography|living=no|listas=McDowall,Robert Montgomery|s&amp;a-work-group=yes|class=stub}}
-{{WikiProject Fishes|class=stub|importance=low}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="46256952" title=Talk:A Commentary on the General Prologue to The Canterbury Tales>
-	<talkpage id="46256952" title="Talk:A Commentary on the General Prologue to The Canterbury Tales">
-{{WikiProject Books|class=stub|listas=Commentary on the General Prologue to The Canterbury Tales, A}}
-	</talkpage>
-</article>

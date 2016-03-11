@@ -1,5 +1,0 @@
-<article id="9708175" title=Talk:European Me ep>
-	<talkpage id="9708175" title="Talk:European Me ep">
-{{WikiProject Albums|class=redirect}}
-	</talkpage>
-</article>

@@ -1,7 +1,0 @@
-<article id="46941432" title=User talk:203.215.122.53>
-	<talkpage id="46941432" title="User talk:203.215.122.53">
-== June 2015 ==
-[[File:Information orange.svg|25px|alt=Information icon|link=]] Please refrain from making unconstructive edits to Wikipedia, as you did at [[:Plotter]]. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]] or removed. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Repeated [[Wikipedia:Vandalism|vandalism]] can result in the [[Wikipedia:Blocking policy|loss of editing privileges]]. Thank you.&lt;!-- Template:uw-vandalism2 --&gt; [[User:Deli nk|Deli nk]] ([[User talk:Deli nk|talk]]) 11:57, 10 June 2015 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

@@ -1,6 +1,0 @@
-<article id="39764991" title=Talk:Ne kažką>
-	<talkpage id="39764991" title="Talk:Ne kažką">
-{{WikiProject Lithuania|class=redirect}}
-{{WikiProject Songs|class=redirect}}
-	</talkpage>
-</article>

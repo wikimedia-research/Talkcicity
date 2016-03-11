@@ -1,5 +1,0 @@
-<article id="40109294" title=Talk:Tiger Mom>
-	<talkpage id="40109294" title="Talk:Tiger Mom">
-{{oldafdfull| date = 23 July 2013 (UTC) | result = '''merge to [[Battle Hymn of the Tiger Mother]]''' | page = Tiger Mom }}
-	</talkpage>
-</article>

@@ -1,9 +1,0 @@
-<article id="39738376" title=Talk:1589 in Scotland>
-	<talkpage id="39738376" title="Talk:1589 in Scotland">
-{{WikiProjectBannerShell|1=
-{{WikiProject Lists|class=list|importance=low}}
-{{WikiProject Scotland|class=list|importance=low}}
-{{WikiProject Years|class=list|importance=low}}
-}}
-	</talkpage>
-</article>

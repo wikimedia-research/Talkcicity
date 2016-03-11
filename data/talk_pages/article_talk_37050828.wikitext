@@ -1,8 +1,0 @@
-<article id="37050828" title=User talk:117.205.249.72>
-	<talkpage id="37050828" title="User talk:117.205.249.72">
-==Your recent edits==
-[[Image:Information.svg|25px|link=]] Hello. In case you didn't know, when you add content to [[Wikipedia:Talk page|talk pages]] and Wikipedia pages that have open discussion, you should [[Wikipedia:Signatures|sign your posts]] by typing four [[tilde]]s  ( &amp;#126;&amp;#126;&amp;#126;&amp;#126; ) at the end of your comment. You could also click on the signature button [[File:Insert-signature.png|link=Wikipedia:How to sign your posts]] or [[File:Signature icon.png|link=Wikipedia:How to sign your posts]] located above the edit window.  This will automatically insert a signature with your username or IP address and the time you posted the comment. This information is useful because other editors will be able to tell who said what, and when they said it. Thank you. &lt;!-- Template:uw-tilde --&gt; --[[User:SineBot|SineBot]] ([[User talk:SineBot|talk]]) 15:29, 18 September 2012 (UTC)
-
-::Ruskin may well be worked up to meet [[WP:GA|GA]] standard. To this end, please add a [[WP:RS|source]] for the para you added on Ruskin's economics. Thanks &lt;font style=&quot;font-family:Monotype Corsiva; font-size:15px;&quot;&gt;[[User:Spanglej|Span]] ([[User talk:Spanglej|talk]])&lt;/font&gt; 16:17, 18 September 2012 (UTC)
-	</talkpage>
-</article>

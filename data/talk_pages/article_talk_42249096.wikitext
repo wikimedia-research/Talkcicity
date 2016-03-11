@@ -1,5 +1,0 @@
-<article id="42249096" title=Talk:Badminton at the 2014 Commonwealth Games>
-	<talkpage id="42249096" title="Talk:Badminton at the 2014 Commonwealth Games">
-{{WikiProject Badminton}}
-	</talkpage>
-</article>

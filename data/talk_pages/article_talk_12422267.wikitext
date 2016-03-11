@@ -1,5 +1,0 @@
-<article id="12422267" title=Talk:Vanellus malarbaricus>
-	<talkpage id="12422267" title="Talk:Vanellus malarbaricus">
-{{BirdTalk|class=Redirect}}
-	</talkpage>
-</article>

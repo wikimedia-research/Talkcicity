@@ -1,7 +1,0 @@
-<article id="13105389" title=Talk:Heckler & Koch MSG3>
-	<talkpage id="13105389" title="Talk:Heckler & Koch MSG3">
-{{WPGUNS
-|class=RED
-}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="42640202" title=Talk:Saugus General Hospital>
-	<talkpage id="42640202" title="Talk:Saugus General Hospital">
-{{WikiProject Hospitals|class=start|importance=mid|needs-coord=yes|needs-photo=yes}}
-	</talkpage>
-</article>

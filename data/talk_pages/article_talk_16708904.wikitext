@@ -1,5 +1,0 @@
-<article id="9991913" title=Talk:Ulmus parvifolia 'Dwarf Weeper'>
-	<talkpage id="9991913" title="Talk:Ulmus parvifolia 'Dwarf Weeper'">
-{{WikiProject Plants|class=Stub|importance=}}
-	</talkpage>
-</article>

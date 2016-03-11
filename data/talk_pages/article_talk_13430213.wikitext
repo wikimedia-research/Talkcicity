@@ -1,6 +1,0 @@
-<article id="13430213" title=Talk:Russian Bible Society>
-	<talkpage id="13430213" title="Talk:Russian Bible Society">
-{{ChristianityWikiProject|class=start|importance=mid}}
-{{Wikiproject Russia|class=Start|importance=Mid|lit=yes|sci=yes|hist=yes|relig=yes}}
-	</talkpage>
-</article>

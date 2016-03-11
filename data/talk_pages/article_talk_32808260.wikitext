@@ -1,5 +1,0 @@
-<article id="19733628" title=Talk:Jazowa, Podkarpackie Voivodeship>
-	<talkpage id="19733628" title="Talk:Jazowa, Podkarpackie Voivodeship">
-{{WikiProject Poland|class=Stub|importance=low}}
-	</talkpage>
-</article>

@@ -1,9 +1,0 @@
-<article id="37140542" title=Talk:Diadophis punctatus stictogenys>
-	<talkpage id="37140542" title="Talk:Diadophis punctatus stictogenys">
-{{WikiProjectBannerShell|1=
-{{WikiProject Amphibians and Reptiles|class=Start|importance=Low|needs-taxobox=no}}
-{{WikiProject United States|class=Start|importance=Low}}
-{{WikiProject Alabama|class=Start}}
-}}
-	</talkpage>
-</article>

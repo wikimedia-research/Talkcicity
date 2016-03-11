@@ -1,7 +1,0 @@
-<article id="28104650" title=Talk:Manuel Rodríguez Lozano>
-	<talkpage id="28104650" title="Talk:Manuel Rodríguez Lozano">
-
-{{WikiProject Mexico|class=|importance=}}
-{{WikiProject Visual arts|class=|importance=}}
-	</talkpage>
-</article>

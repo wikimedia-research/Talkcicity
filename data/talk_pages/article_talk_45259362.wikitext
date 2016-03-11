@@ -1,5 +1,0 @@
-<article id="45259362" title=Talk:ソニックカラーズ>
-	<talkpage id="45259362" title="Talk:ソニックカラーズ">
-{{WPAFC|class=redirect|ts=20150130175600|reviewer=Rcsprinter123}}
-	</talkpage>
-</article>

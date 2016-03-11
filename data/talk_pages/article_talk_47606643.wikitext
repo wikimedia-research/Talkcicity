@@ -1,5 +1,0 @@
-<article id="47606643" title=Talk:Imaginary logic>
-	<talkpage id="47606643" title="Talk:Imaginary logic">
-{{WPAFC|class=redirect|ts=20150824001156|reviewer=Happysailor}}
-	</talkpage>
-</article>

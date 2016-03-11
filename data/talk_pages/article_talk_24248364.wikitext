@@ -1,9 +1,0 @@
-<article id="24248364" title=Talk:Christopher H. Schroeder>
-	<talkpage id="24248364" title="Talk:Christopher H. Schroeder">
-{{WikiProject Biography
-|living=yes
-|class=
-|listas=Schroeder, Christopher
-}}
-	</talkpage>
-</article>

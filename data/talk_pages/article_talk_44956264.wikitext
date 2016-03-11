@@ -1,6 +1,0 @@
-<article id="18342460" title=Talk:Almondbury Community School>
-	<talkpage id="18342460" title="Talk:Almondbury Community School">
-{{WPSchools|class=stub|importance=Mid|needs-infobox=no}}
-{{WikiProject Yorkshire|class=Stub|importance=Mid}}
-	</talkpage>
-</article>

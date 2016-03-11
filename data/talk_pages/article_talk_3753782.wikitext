@@ -1,9 +1,0 @@
-<article id="3753782" title=Talk:Arteixo>
-	<talkpage id="3753782" title="Talk:Arteixo">
-{{WikiProject Spain|class=Stub|importance=}}
-{{Translated page|es|Arteixo}}
-
-==Municipality in Spain==
-We do need to recognize that this is a municipality of Spain. I changed the article back to reflect this. It was already recognized as being a community of Galacia later in the sentence.--[[User:Kungfuadam|Adam]] &lt;sup&gt;([[User_talk:Kungfuadam|talk]])&lt;/sup&gt; 20:42, 17 January 2006 (UTC)
-	</talkpage>
-</article>

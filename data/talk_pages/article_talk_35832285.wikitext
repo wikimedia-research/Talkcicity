@@ -1,6 +1,0 @@
-<article id="35832285" title=Talk:TMEM131>
-	<talkpage id="35832285" title="Talk:TMEM131">
-{{talkheader}}
-{{WikiProject Articles for creation|class=start|ts=20120515200222|reviewer=SarahStierch}}
-	</talkpage>
-</article>

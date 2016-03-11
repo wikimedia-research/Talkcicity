@@ -1,5 +1,0 @@
-<article id="15629523" title=User talk:69.202.53.115>
-	<talkpage id="15629523" title="User talk:69.202.53.115">
-[[Image:Information.svg|25px]] Welcome, and thank you for experimenting with Wikipedia. Your test {{#if:Robot|on the page [[:Robot]]}} worked, and it has been [[Help:Reverting|reverted]] or removed. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|this encyclopedia]]. If you would like to experiment further, please use the [[Wikipedia:Sandbox|sandbox]]. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-test1 --&gt; [[User:SchfiftyThree|&lt;font color=&quot;4169E1&quot;&gt;'''Schfifty'''&lt;/font&gt;]][[User talk:SchfiftyThree|&lt;font color=&quot;cobaltblue&quot;&gt;'''Three'''&lt;/font&gt;]] 22:24, 6 February 2008 (UTC)
-	</talkpage>
-</article>

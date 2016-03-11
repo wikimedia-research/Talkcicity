@@ -1,5 +1,0 @@
-<article id="46947634" title=Talk:Daegu Samsung Lions Park>
-	<talkpage id="46947634" title="Talk:Daegu Samsung Lions Park">
-{{WikiProject Baseball|class=Stub|importance=Low}}
-	</talkpage>
-</article>

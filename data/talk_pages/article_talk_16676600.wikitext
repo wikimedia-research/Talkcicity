@@ -1,6 +1,0 @@
-<article id="16676600" title=Talk:Second Army (Australia)>
-	<talkpage id="16676600" title="Talk:Second Army (Australia)">
-{{WP Australia |class=Stub |importance=}}
-{{WPMILHIST|class=Stub|WWII=yes|Australian=yes}}
-	</talkpage>
-</article>

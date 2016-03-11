@@ -1,6 +1,0 @@
-<article id="31502008" title=Talk:Vincent Subramaniam>
-	<talkpage id="31502008" title="Talk:Vincent Subramaniam">
-{{WikiProject Biography|living=yes|class=stub|listas=Subramaniam, Vincent|sports-work-group=yes|sports-priority=low}}
-{{WikiProject Football|class=stub}}
-	</talkpage>
-</article>

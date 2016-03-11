@@ -1,6 +1,0 @@
-<article id="16873545" title=Talk:Curpătu River>
-	<talkpage id="16873545" title="Talk:Curpătu River">
-{{WikiProject Romania|class=Stub|importance=low}}
-{{WikiProject Rivers|class=stub|importance=low}}
-	</talkpage>
-</article>

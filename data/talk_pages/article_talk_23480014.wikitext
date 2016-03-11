@@ -1,5 +1,0 @@
-<article id="23480014" title=Talk:Santa Rita, Santa Barbara County, California>
-	<talkpage id="23480014" title="Talk:Santa Rita, Santa Barbara County, California">
-{{WikiProject California|class=Stub|importance=Low|santabarbaracounty=yes|santabarbaracounty-importance=Low}}
-	</talkpage>
-</article>

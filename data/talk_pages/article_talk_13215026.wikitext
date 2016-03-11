@@ -1,6 +1,0 @@
-<article id="13215026" title=Talk:American Champion Male Turf Horse>
-	<talkpage id="13215026" title="Talk:American Champion Male Turf Horse">
-{{WikiProject United States|class=List|importance=Low}}
-{{WikiProject Thoroughbred racing|class=list|importance=mid}}
-	</talkpage>
-</article>

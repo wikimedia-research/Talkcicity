@@ -1,7 +1,0 @@
-<article id="13711514" title=Talk:All Mine>
-	<talkpage id="13711514" title="Talk:All Mine">
-{{Songs|class=Stub|auto=yes}}
-
-Sorry, but you can't just list all the lyrics to a song on Wikipedia like that. It's considered copyright infringement to do so in some cases, so we avoid listing lyrics here. [[User:GamerErman2001|GamerErman2001]] ([[User talk:GamerErman2001|talk]]) 09:11, 17 March 2009 (UTC)
-	</talkpage>
-</article>

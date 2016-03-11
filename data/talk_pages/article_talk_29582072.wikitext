@@ -1,5 +1,0 @@
-<article id="29582072" title=Talk:100.3 The Point>
-	<talkpage id="29582072" title="Talk:100.3 The Point">
-{{DisambigProject}}
-	</talkpage>
-</article>

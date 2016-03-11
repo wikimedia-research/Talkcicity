@@ -1,6 +1,0 @@
-<article id="19010269" title=Talk:Koło, Łódź Voivodeship>
-	<talkpage id="19010269" title="Talk:Koło, Łódź Voivodeship">
-{{WPCities|class=stub|importance=low}}
-{{WikiProject Poland|class=stub|importance=low}}
-	</talkpage>
-</article>

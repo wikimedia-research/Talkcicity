@@ -1,6 +1,0 @@
-<article id="18133403" title=Talk:Lake Guardian>
-	<talkpage id="18133403" title="Talk:Lake Guardian">
-{{WikiProject Ships|class=Start|importance=Mid|B-Class-1=no|B-Class-2=no
-|B-Class-3=yes|B-Class-4=yes|B-Class-5=yes|needs-infobox=y}}
-	</talkpage>
-</article>

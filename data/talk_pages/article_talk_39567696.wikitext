@@ -1,6 +1,0 @@
-<article id="39567696" title=Talk:Saurer MH4>
-	<talkpage id="39567696" title="Talk:Saurer MH4">
-{{WPMILHIST|class=stub|Land-vehicles=y}}
-{{WikiProject Switzerland|class=Stub|importance=Low}}
-	</talkpage>
-</article>

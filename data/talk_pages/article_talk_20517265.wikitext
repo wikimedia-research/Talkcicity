@@ -1,9 +1,0 @@
-<article id="20517265" title=User talk:74.92.85.137>
-	<talkpage id="20517265" title="User talk:74.92.85.137">
-
-
-== December 2008 ==
-[[Image:Information.svg|25px]] Welcome to Wikipedia. It might not have been your intention, but your recent edit removed content from {{#if:Yellowstone National Park|[[:Yellowstone National Park]]|Wikipedia}}. When removing text, please specify a reason in the [[Help:Edit summary|edit summary]] and discuss edits that are likely to be controversial on the article's [[Wikipedia:Talk page|talk page]]. If this was a mistake, don't worry; the text has been restored, as you can see from the {{#if:Yellowstone National Park|&lt;span class=&quot;plainlinks&quot;&gt;[{{fullurl:Yellowstone National Park|action=history}} page history]&lt;/span&gt;|[[Help:Page history|page history]]}}. Take a look at the [[Wikipedia:Welcome|welcome page]] to learn more about contributing to this encyclopedia, and if you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]].  {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-delete1 --&gt; [[User:Eve Hall|Eve Hall]] ([[User talk:Eve Hall|talk]]) 17:12, 2 December 2008 (UTC)
-:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
-	</talkpage>
-</article>

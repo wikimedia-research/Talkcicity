@@ -1,5 +1,0 @@
-<article id="27018999" title=User talk:79.191.100.115>
-	<talkpage id="27018999" title="User talk:79.191.100.115">
-{{ipsock|Wikinger|confirmed}}
-	</talkpage>
-</article>

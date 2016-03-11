@@ -1,8 +1,0 @@
-<article id="40894054" title=User talk:Alisonwonderlen>
-	<talkpage id="40894054" title="User talk:Alisonwonderlen">
-
-== October 2013 ==
-
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:John Cline|John Cline]]. I wanted to let you know that I undid one of [[Special:Contributions/Alisonwonderlen|your recent contributions]],&amp;nbsp;such as the one you made with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Self-deprecation?diff=578773437 this edit]&lt;/span&gt; to [[:Self-deprecation]], because it didn’t appear constructive to me. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:John Cline|my talk page]]. Thanks. &lt;!-- Template:Huggle/warn-1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt;—[[User:John Cline|John Cline]] ([[User talk:John Cline|talk]]) 02:28, 26 October 2013 (UTC)
-	</talkpage>
-</article>

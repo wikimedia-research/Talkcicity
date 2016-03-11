@@ -1,5 +1,0 @@
-<article id="27780378" title=Talk:Milutinovac>
-	<talkpage id="27780378" title="Talk:Milutinovac">
-{{WikiProject Serbia|class=Stub|importance=Low}}
-	</talkpage>
-</article>

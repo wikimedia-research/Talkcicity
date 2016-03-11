@@ -1,5 +1,0 @@
-<article id="33470059" title=Talk:Jalbotina>
-	<talkpage id="33470059" title="Talk:Jalbotina">
-{{WP Serbia|class=stub}}
-	</talkpage>
-</article>

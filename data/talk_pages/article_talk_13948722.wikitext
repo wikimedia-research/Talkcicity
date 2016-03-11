@@ -1,6 +1,0 @@
-<article id="13948722" title=Talk:Welcome, Maryland>
-	<talkpage id="13948722" title="Talk:Welcome, Maryland">
-{{WikiProject Maryland|class=stub|importance=high}}
-{{reqphoto|in=Charles County, Maryland}}
-	</talkpage>
-</article>

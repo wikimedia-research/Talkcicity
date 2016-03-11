@@ -1,5 +1,0 @@
-<article id="39359198" title=Talk:Of Paradise and Power>
-	<talkpage id="39359198" title="Talk:Of Paradise and Power">
-{{WikiProject Books|class=stub|importance=low}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="27398933" title=Talk:Artocarpus anisophyllus>
-	<talkpage id="27398933" title="Talk:Artocarpus anisophyllus">
-{{WikiProject Plants|class=stub|importance=low}}
-	</talkpage>
-</article>

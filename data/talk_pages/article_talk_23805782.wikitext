@@ -1,8 +1,0 @@
-<article id="23805782" title=User talk:86.165.156.42>
-	<talkpage id="23805782" title="User talk:86.165.156.42">
-
-== July 2009 ==
-
-[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Strabane?diff=305162318 recent edit]&lt;/span&gt; you made to the page [[:Strabane]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[w:User:Martin451|Martin'''&lt;font style=&quot;color:#FB0&quot;&gt;4&lt;/font&gt;&lt;font style=&quot;color:#F00&quot;&gt;5&lt;/font&gt;&lt;font style=&quot;color:#F60&quot;&gt;1&lt;/font&gt;''']] ([[w:User talk:Martin451#top|talk]]) 22:14, 30 July 2009 (UTC)
-	</talkpage>
-</article>

@@ -1,8 +1,0 @@
-<article id="38921121" title=User talk:50.45.173.50>
-	<talkpage id="38921121" title="User talk:50.45.173.50">
-
-== March 2013 ==
-[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:I dream of horses|I dream of horses]]. I wanted to let you know that I undid one or more of [[Special:Contributions/50.45.173.50|your recent contributions]]&amp;nbsp;to [[:Foundation series]] because it didn't appear constructive. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:I dream of horses|my talk page]]. &lt;!-- Template:uw-vandalism1 --&gt;&lt;!-- Template:uw-cluebotwarning1 --&gt;   [[User:I dream of horses|I dream of horses]] &lt;span style=&quot;border:1px solid #ffa500;background:#ffce7b;&quot;&gt;&lt;small&gt;If you reply here, please leave me a {{[[Template:Talkback|Talkback]]}} message on [[User talk:I dream of horses|my talk page]].&lt;/small&gt;&lt;/span&gt; @  01:32, 26 March 2013 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

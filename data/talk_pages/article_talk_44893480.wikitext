@@ -1,5 +1,0 @@
-<article id="44893480" title=Talk:Bazaar Bizarre>
-	<talkpage id="44893480" title="Talk:Bazaar Bizarre">
-{{WikiProject Books|class=start|importance=low}}
-	</talkpage>
-</article>

@@ -1,6 +1,0 @@
-<article id="17048611" title=Talk:KFXR-FM>
-	<talkpage id="17048611" title="Talk:KFXR-FM">
-{{WikiProject United States|class=stub|importance=low|AZ=Yes|AZ-importance=Low}}
-{{RadioStationsProject|class=Stub}}
-	</talkpage>
-</article>

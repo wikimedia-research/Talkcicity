@@ -1,5 +1,0 @@
-<article id="11675960" title=Talk:Guglielmo Ratcliff>
-	<talkpage id="11675960" title="Talk:Guglielmo Ratcliff">
-{{WikiProject Opera|class=Start|auto=yes}}
-	</talkpage>
-</article>

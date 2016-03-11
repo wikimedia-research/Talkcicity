@@ -1,7 +1,0 @@
-<article id="39962944" title=Talk:Cleland (surname)>
-	<talkpage id="39962944" title="Talk:Cleland (surname)">
-{{WikiProject Anthroponymy|class=list}}
-{{WikiProject Scotland|class=list}}
-{{WikiProject Lists|class=list}}
-	</talkpage>
-</article>

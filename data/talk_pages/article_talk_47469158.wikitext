@@ -1,5 +1,0 @@
-<article id="47469158" title=Talk:Thaung Su Nyein>
-	<talkpage id="47469158" title="Talk:Thaung Su Nyein">
-{{WikiProject Biography|living=yes}}
-	</talkpage>
-</article>

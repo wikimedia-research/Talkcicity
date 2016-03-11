@@ -1,9 +1,0 @@
-<article id="40969768" title=Talk:Ćorović>
-	<talkpage id="40969768" title="Talk:Ćorović">
-{{WikiProjectBannerShell|1=
-{{WikiProject Disambiguation}}
-{{WikiProject Anthroponymy|class=Disambig}}
-{{WikiProject Serbia|class=Disambig}}
-}}
-	</talkpage>
-</article>

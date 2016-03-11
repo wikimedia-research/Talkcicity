@@ -1,5 +1,0 @@
-<article id="33354498" title=Talk:2011 Royal Bank of Scotland Challenger – Singles>
-	<talkpage id="33354498" title="Talk:2011 Royal Bank of Scotland Challenger – Singles">
-{{WikiProject Tennis|class=stub|importance=low}}
-	</talkpage>
-</article>

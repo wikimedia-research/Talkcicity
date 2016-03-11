@@ -1,7 +1,0 @@
-<article id="27245587" title=User talk:92.12.43.159>
-	<talkpage id="27245587" title="User talk:92.12.43.159">
-==May 2010==
-[[File:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia, as you did to [[Mauser C96]]. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]] or removed. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Thank you.&lt;!-- Template:uw-vandalism2 --&gt; [[User:ROG5728|ROG5728]] ([[User talk:ROG5728|talk]]) 21:19, 5 May 2010 (UTC)
-:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
-	</talkpage>
-</article>

@@ -1,7 +1,0 @@
-<article id="28611800" title=User talk:116.240.142.175>
-	<talkpage id="28611800" title="User talk:116.240.142.175">
-== August 2010 ==
-[[Image:Information.svg|25px]] [[Wikipedia:Introduction|Welcome]] to Wikipedia, and thank you for [[Special:Contributions/116.240.142.175|your contributions]]. However, please be aware of Wikipedia's policy that [[Wikipedia:Biographies of living persons|biographical information about living persons]] must not be [[Wikipedia:Libel|libelous]]. Any controversial statements about a living person added to an article, or any other Wikipedia page, must include proper [[Wikipedia:Verifiability|sources]]. If you don't know how to [[WP:Citing sources|cite a source]], you may want to read [[Wikipedia:Referencing for beginners]] for instructions. Thank you.&lt;!-- Template:uw-biog1 --&gt; [[User:Camw|Camw]] ([[User talk:Camw|talk]]) 01:58, 29 August 2010 (UTC)
-:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
-	</talkpage>
-</article>

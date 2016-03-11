@@ -1,5 +1,0 @@
-<article id="23893076" title=Talk:Sign of Victory>
-	<talkpage id="23893076" title="Talk:Sign of Victory">
-{{album|class=stub|importance=|attention=|needs-infobox=|auto=yes}}
-	</talkpage>
-</article>

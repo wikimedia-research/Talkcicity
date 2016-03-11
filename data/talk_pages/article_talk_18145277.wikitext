@@ -1,8 +1,0 @@
-<article id="18145277" title=Talk:SAP BI Accelerator>
-	<talkpage id="18145277" title="Talk:SAP BI Accelerator">
-As far as I know the accelerator can also run on a Windows server? I can't seem to find a good source to back that up though [[User:Sorenw|Sorenw]] ([[User talk:Sorenw|talk]]) 13:45, 10 July 2014 (UTC)
-&lt;br /&gt;
-
-{{WikiProject Computing|class=Stub|importance=|auto=yes}}
-	</talkpage>
-</article>

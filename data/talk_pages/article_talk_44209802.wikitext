@@ -1,6 +1,0 @@
-<article id="12617044" title=Talk:Lethrinops marginatus>
-	<talkpage id="12617044" title="Talk:Lethrinops marginatus">
-{{AfricaProject|Tanzania=yes|Tanzania-importance=|class=Stub|importance=}}
-{{Fishproject|class=Stub|needs-photo=yes}}
-	</talkpage>
-</article>

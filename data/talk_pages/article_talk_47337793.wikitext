@@ -1,9 +1,0 @@
-<article id="47337793" title=Talk:Amparo Moraleda Martínez>
-	<talkpage id="47337793" title="Talk:Amparo Moraleda Martínez">
-{{WPBio|living=Yes|class=start|listas=Moraleda Martinez, Amparo }}
-{{WP Business|class=start}}
-
-==Creation==
-This article created at a [[Wikipedia:Meetup/DC/Women in Arts and Tech|Wikipedia Meetup &amp; Edit-a-thon]].
-	</talkpage>
-</article>

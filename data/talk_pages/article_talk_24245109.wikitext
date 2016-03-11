@@ -1,7 +1,0 @@
-<article id="24245109" title=User talk:71.137.241.48>
-	<talkpage id="24245109" title="User talk:71.137.241.48">
-[[Image:Information.svg|25px]] Please do not add commentary or your own [[Wikipedia:No original research|personal analysis]] to Wikipedia articles{{#if:Dome|, as you did to [[:Dome]]}}. Doing so violates Wikipedia's [[Wikipedia:Neutral point of view|neutral point of view policy]] and breaches the formal tone expected in an encyclopedia.  {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-npov2 --&gt; [[User:Piano non troppo|Piano non troppo]] ([[User talk:Piano non troppo|talk]]) 21:56, 6 September 2009 (UTC)
-
-:People bring boredom with them. It's baggage. Look at something simple, and try to see something interesting in it. Regards, [[User:Piano non troppo|Piano non troppo]] ([[User talk:Piano non troppo|talk]]) 21:57, 6 September 2009 (UTC)
-	</talkpage>
-</article>

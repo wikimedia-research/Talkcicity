@@ -1,6 +1,0 @@
-<article id="10081529" title=Talk:Rangiora>
-	<talkpage id="10081529" title="Talk:Rangiora">
-{{Talk header}}
-{{WikiProject New Zealand|class=Start|importance=mid}}
-	</talkpage>
-</article>

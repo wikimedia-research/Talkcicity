@@ -1,6 +1,0 @@
-<article id="9400088" title=Talk:Reverolle>
-	<talkpage id="9400088" title="Talk:Reverolle">
-{{WikiProject Switzerland|class=stub|importance=Mid}}
-{{reqphoto|in=Switzerland}}
-	</talkpage>
-</article>

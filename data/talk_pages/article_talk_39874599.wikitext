@@ -1,5 +1,0 @@
-<article id="39874599" title=Talk:Ahokas>
-	<talkpage id="39874599" title="Talk:Ahokas">
-{{WikiProject Anthroponymy|class=redirect}}
-	</talkpage>
-</article>

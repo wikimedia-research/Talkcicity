@@ -1,6 +1,0 @@
-<article id="22540766" title=Talk:Progress State Research and Production Rocket Space Center>
-	<talkpage id="22540766" title="Talk:Progress State Research and Production Rocket Space Center">
-{{WikiProject Russia|class=C|importance=High|tech=yes|sci=yes|econ=yes|mil=yes}}
-{{WikiProject Spaceflight|class=C|importance=High}}
-	</talkpage>
-</article>

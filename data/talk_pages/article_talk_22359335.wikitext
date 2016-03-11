@@ -1,7 +1,0 @@
-<article id="22359335" title=User talk:75.66.67.47>
-	<talkpage id="22359335" title="User talk:75.66.67.47">
-== April 2009 ==
-
-[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits{{#if:Nathan Fisher|, such as the one you made to [[:Nathan Fisher]],}} did not appear to be constructive and has been reverted. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism1 --&gt; [[User:Mattythewhite|Mattythewhite]] ([[User talk:Mattythewhite|talk]]) 16:47, 10 April 2009 (UTC)
-	</talkpage>
-</article>

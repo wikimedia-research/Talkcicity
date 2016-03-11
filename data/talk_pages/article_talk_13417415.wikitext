@@ -1,7 +1,0 @@
-<article id="13417415" title=User talk:Midmeet>
-	<talkpage id="13417415" title="User talk:Midmeet">
-{{{icon|[[Image:Information.svg|25px]] }}}Please refrain from making unconstructive edits to Wikipedia{{{{{subst|}}}#if:Midnighter|, as you did to [[:Midnighter]]}}. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism2 --&gt; [[User:Fram|Fram]] 14:35, 24 September 2007 (UTC)
-
-{{{icon|[[Image:Nuvola apps important.svg|25px]] }}}Please stop. If you continue to [[Wikipedia:Vandalism|vandalize]] Wikipedia{{{{{subst|}}}#if:Midnighter|, as you did to [[:Midnighter]]}}, you ''will'' be [[Wikipedia:Blocking policy|blocked]] from editing. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|}}&lt;!-- Template:uw-vandalism3 --&gt; [[User:Fram|Fram]] 14:35, 24 September 2007 (UTC)
-	</talkpage>
-</article>

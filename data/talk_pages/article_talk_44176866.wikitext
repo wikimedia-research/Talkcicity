@@ -1,8 +1,0 @@
-<article id="44176866" title=User talk:75.179.141.151>
-	<talkpage id="44176866" title="User talk:75.179.141.151">
-
-== October 2014 ==
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Materialscientist|Materialscientist]]. I wanted to let you know that I undid one or more of [[Special:Contributions/75.179.141.151|your recent contributions]]&amp;nbsp;to [[:Interplanetary spaceflight]] because it did not appear constructive. If you would like to experiment, please use the [[WP:sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Materialscientist|my talk page]]. &lt;!-- Template:uw-vandalism1 --&gt;  [[User:Materialscientist|Materialscientist]] ([[User talk:Materialscientist|talk]]) 22:21, 21 October 2014 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

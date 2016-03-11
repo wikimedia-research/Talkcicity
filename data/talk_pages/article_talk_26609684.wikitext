@@ -1,7 +1,0 @@
-<article id="26609684" title=Talk:AL-1095>
-	<talkpage id="26609684" title="Talk:AL-1095">
-{{Reliable sources for medical articles}}
-{{WikiProject Pharmacology|class=stub|importance=low}}
-{{chemicals|class=stub|importance=low}}
-	</talkpage>
-</article>

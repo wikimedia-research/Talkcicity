@@ -1,8 +1,0 @@
-<article id="18286577" title=User talk:Bullseye408>
-	<talkpage id="18286577" title="User talk:Bullseye408">
-
-[[Image:Ambox warning pn.svg|48px|left]]The article [[:Captain Jack O' Hawk]] has been speedily deleted from Wikipedia. This was done because the article seemed to be about a real person, organization (band, club, company, ''etc.''), or web content, but it did not indicate how or why the subject is notable, that is, why an article about that subject should be included in Wikipedia. Under the [[WP:CSD#Articles|criteria for speedy deletion]], articles that do not indicate the notability of the subject may be deleted at any time. If you can indicate why the subject is really notable, you are free to re-create the article, making sure to [[Wikipedia:Citing sources|cite]] any [[Wikipedia:Verifiability|verifiable sources]].
-
-Please [[Wikipedia:Notability|see the guidelines for what is generally accepted as notable]], and for specific types of articles, you may want to check out our criteria [[Wikipedia:Notability (people)|for biographies]], [[WP:WEB|for web sites]], [[WP:MUSIC|for musicians]], or [[WP:CORP|for companies]]. Feel free to leave a note on my talk page if you have any questions about this.&lt;!-- Template:Nn-warn-deletion --&gt;  [[User:NawlinWiki|NawlinWiki]] ([[User talk:NawlinWiki|talk]]) 13:53, 4 July 2008 (UTC)
-	</talkpage>
-</article>

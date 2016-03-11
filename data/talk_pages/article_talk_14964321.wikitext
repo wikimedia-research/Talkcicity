@@ -1,9 +1,0 @@
-<article id="14964321" title=Talk:North West Staffordshire (UK Parliament constituency)>
-	<talkpage id="14964321" title="Talk:North West Staffordshire (UK Parliament constituency)">
-{{WikiProjectBannerShell|1=
-{{WikiProject Elections and Referendums}}
-{{WikiProject Politics of the United Kingdom|class=Stub|importance=low|auto=yes}}
-{{WikiProject UK Parliament constituencies}}
-}}
-	</talkpage>
-</article>

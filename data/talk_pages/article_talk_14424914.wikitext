@@ -1,9 +1,0 @@
-<article id="14424914" title=User talk:70.49.117.74>
-	<talkpage id="14424914" title="User talk:70.49.117.74">
-
-
-== November 2007 ==
-{{{icon|[[Image:Information.svg|25px]] }}}Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits{{{{{subst|}}}#if:Refugee|, such as the one you made to [[:Refugee]],}} did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed.  Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism1 --&gt; [[User:Neranei|&lt;span style=&quot;color:#50C878; font-family: comic sans ms; font-variant: small-caps&quot;&gt;'''Ne&lt;font color= &quot;#03C03C&quot;&gt;ra&lt;font color= &quot;#32CD32&quot;&gt;n&lt;/font&gt;e&lt;/font&gt;i'''&lt;/span&gt;]] [[User talk:Neranei|&lt;span style=&quot;color:#228B22; font-family: Ariel; font-variant: small-caps&quot;&gt;(talk)&lt;/span&gt;&lt;/font&gt;]] 23:36, 25 November 2007 (UTC)
-:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
-	</talkpage>
-</article>

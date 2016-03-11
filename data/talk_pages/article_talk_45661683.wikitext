@@ -1,5 +1,0 @@
-<article id="45661683" title=Talk:Camacinia>
-	<talkpage id="45661683" title="Talk:Camacinia">
-{{WikiProject Insects|class=stub|importance=low|needs-photo=yes}}
-	</talkpage>
-</article>

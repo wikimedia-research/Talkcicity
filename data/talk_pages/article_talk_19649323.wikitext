@@ -1,9 +1,0 @@
-<article id="19649323" title=Talk:Generic data model>
-	<talkpage id="19649323" title="Talk:Generic data model">
-{{WikiProjectBannerShell|1=
-{{WikiProject Computing|class=Start|importance=}}
-{{WPDATABASE|class=Start|importance=high}}
-{{Sys rating |class=start |importance=mid |field=Scientific modeling}}
-}}
-	</talkpage>
-</article>

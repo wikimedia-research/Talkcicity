@@ -1,5 +1,0 @@
-<article id="38074490" title=Talk:Aomusic>
-	<talkpage id="38074490" title="Talk:Aomusic">
-{{WikiProject United States}}
-	</talkpage>
-</article>

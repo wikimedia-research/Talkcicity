@@ -1,5 +1,0 @@
-<article id="15511276" title=Talk:China Legal Publishing House>
-	<talkpage id="15511276" title="Talk:China Legal Publishing House">
-{{WPCHINA|class=stub|importance=mid}}
-	</talkpage>
-</article>

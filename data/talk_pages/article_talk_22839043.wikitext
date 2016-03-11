@@ -1,5 +1,0 @@
-<article id="22839043" title=Talk:Pushed Again>
-	<talkpage id="22839043" title="Talk:Pushed Again">
-{{WikiProject Songs|class=stub|importance=}}
-	</talkpage>
-</article>

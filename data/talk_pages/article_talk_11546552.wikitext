@@ -1,6 +1,0 @@
-<article id="11546552" title=User talk:James liu 000>
-	<talkpage id="11546552" title="User talk:James liu 000">
-{{#if:1|=={{{header-text|Attacks in the article [[:James liu]]}}}==}}
-Please do not make personal attacks{{{{{subst|}}}#if:James liu|&amp;#32;as you did at [[:James liu]]}}. Wikipedia has a strict policy against [[Wikipedia:No personal attacks|personal attacks]]. [[Wikipedia:Attack_page|Attack pages]] and images '''are not tolerated''' by Wikipedia and are [[Wikipedia:Criteria for speedy deletion|speedily deleted]]. Users who continue to create or repost such pages and images in violation of our [[Wikipedia:Biographies of living persons]] policy will be [[Wikipedia:Blocking policy|blocked]] from editing Wikipedia. Thank you. &lt;!-- Template:attack --&gt; ~&lt;span style=&quot;font-variant:small-caps&quot;&gt;[[User:Enviroboy|Enviroboy]]&lt;/span&gt;&lt;sup&gt;[[User talk:Enviroboy|Talk]]&lt;/sup&gt;&lt;sub&gt;[[special:contributions/Enviroboy|Contribs]]&lt;/sub&gt; - 23:22, 1 June 2007 (UTC)
-	</talkpage>
-</article>

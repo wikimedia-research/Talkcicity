@@ -1,5 +1,0 @@
-<article id="29105156" title=Talk:Avgorou>
-	<talkpage id="29105156" title="Talk:Avgorou">
-{{WikiProject Cyprus|importance=|class=stub}}
-	</talkpage>
-</article>

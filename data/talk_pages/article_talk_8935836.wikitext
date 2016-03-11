@@ -1,6 +1,0 @@
-<article id="8935836" title=Talk:Newington Park>
-	<talkpage id="8935836" title="Talk:Newington Park">
-{{WikiProject Baseball|class=stub|importance=low|oldtime=yes|oldtime-importance=low}}
-{{WikiProject Maryland|class=stub|importance=low}}
-	</talkpage>
-</article>

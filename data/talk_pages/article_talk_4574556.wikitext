@@ -1,7 +1,0 @@
-<article id="4574556" title=User talk:84.65.79.185>
-	<talkpage id="4574556" title="User talk:84.65.79.185">
-
-
-Thanks for experimenting with Wikipedia. Your test worked, and has been reverted or removed by an '''[[Internet bot|automated bot]]'''. Please use [[Wikipedia:Sandbox|the sandbox]] for any other tests you want to do. Take a look at the [[Wikipedia:Welcome, newcomers|welcome page]] if you would like to learn more about contributing to our encyclopedia. Thanks. If you feel you have received this notice in error, please [[User talk:Tawkerbot2|contact the bot owner]] &lt;!-- from Template:Test (Tawkerbot2 auto warn version) --&gt;  // [[User:Tawkerbot2|Tawkerbot2]] 00:26, 31 March 2006 (UTC)
-	</talkpage>
-</article>

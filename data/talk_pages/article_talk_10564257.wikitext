@@ -1,9 +1,0 @@
-<article id="10564257" title=Talk:Pietro Tacca>
-	<talkpage id="10564257" title="Talk:Pietro Tacca">
-{{WikiProject Biography
-|living=no
-|class=
-|listas=Tacca, Pietro
-}}
-	</talkpage>
-</article>

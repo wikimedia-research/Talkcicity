@@ -1,7 +1,0 @@
-<article id="33869138" title=User talk:14.97.131.16>
-	<talkpage id="33869138" title="User talk:14.97.131.16">
-== November 2011 ==
-[[File:Information.svg|25px|alt=|link=]] Welcome and thank you for [[Special:Contributions/14.97.131.16|your contributions]]. This is a notice that your test on the page [[:White-box testing]] has been [[Help:Reverting|reverted]] or removed. If you would like to experiment further, please use the '''[[Wikipedia:Sandbox|sandbox]]''' instead. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|this encyclopedia]]. Thank you.&lt;!-- Template:uw-test1 --&gt; [[User:Walter Görlitz|Walter Görlitz]] ([[User talk:Walter Görlitz|talk]]) 04:37, 26 November 2011 (UTC)
-:''If this is a [[closed proxy|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

@@ -1,7 +1,0 @@
-<article id="39391077" title=Talk:Garden County Courthouse>
-	<talkpage id="39391077" title="Talk:Garden County Courthouse">
-{{Talk header}}
-{{WikiProject United States|class=stub|importance=low|NE=yes|NE-importance=low}}
-{{WikiProject National Register of Historic Places|class=stub|importance=low}}
-	</talkpage>
-</article>

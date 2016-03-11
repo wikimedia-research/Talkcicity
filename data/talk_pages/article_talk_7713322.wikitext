@@ -1,6 +1,0 @@
-<article id="7713322" title=Talk:Bradda Hill>
-	<talkpage id="7713322" title="Talk:Bradda Hill">
-{{BIhills|class=Stub}}
-{{WikiProject Isle of Man|class=stub |importance=low}}
-	</talkpage>
-</article>

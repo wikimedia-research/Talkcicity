@@ -1,6 +1,0 @@
-<article id="35771233" title=Talk:Zadetkyi>
-	<talkpage id="35771233" title="Talk:Zadetkyi">
-{{WikiProject Islands |class=stub}}
-{{WikiProject Burma|importance= |class=stub}}
-	</talkpage>
-</article>

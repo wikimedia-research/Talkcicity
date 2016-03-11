@@ -1,5 +1,0 @@
-<article id="45035160" title=Talk:United States House of Representatives election in Mississippi, 1839>
-	<talkpage id="45035160" title="Talk:United States House of Representatives election in Mississippi, 1839">
-{{WikiProject United States|MS=Yes}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="27719576" title=Talk:Mayfly (film)>
-	<talkpage id="27719576" title="Talk:Mayfly (film)">
-{{WikiProject Film|needs-image=yes|American-task-force=yes|class=stub}}
-	</talkpage>
-</article>

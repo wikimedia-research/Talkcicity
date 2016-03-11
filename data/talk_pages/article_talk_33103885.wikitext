@@ -1,7 +1,0 @@
-<article id="33103885" title=User talk:222.153.254.184>
-	<talkpage id="33103885" title="User talk:222.153.254.184">
-== September 2011 ==
-[[File:Information.svg|25px|alt=|link=]] Hello, and welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of [[Special:Contributions/222.153.254.184|your recent edits]], such as the one you made to [[:Paul Tito]], did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia.  Thank you.&lt;!-- Template:uw-vandalism1 --&gt;&lt;!-- Template:uw-cluebotwarning1 --&gt; [[User:Jevansen|Jevansen]] ([[User talk:Jevansen|talk]]) 11:32, 16 September 2011 (UTC)
-:''If this is a [[closed proxy|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

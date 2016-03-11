@@ -1,5 +1,0 @@
-<article id="44768930" title=Talk:My Love (EP)>
-	<talkpage id="44768930" title="Talk:My Love (EP)">
-{{album|auto=yes}}
-	</talkpage>
-</article>

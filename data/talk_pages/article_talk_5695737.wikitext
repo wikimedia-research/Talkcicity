@@ -1,7 +1,0 @@
-<article id="5695737" title=User talk:70.184.189.61>
-	<talkpage id="5695737" title="User talk:70.184.189.61">
-Please refrain from adding nonsense to Wikipedia, as you did to [[:East Carolina University]]. It is considered [[Wikipedia:Vandalism|vandalism]]. If you would like to experiment, use the [[Wikipedia:Sandbox|sandbox]]. &lt;!-- Template:Test2-n (Second level warning) --&gt; A link to the edit I have reverted can be found here: [http://en.wikipedia.org/w/index.php?title=East_Carolina_University&amp;diff=next&amp;oldid=59490938 link]. If you believe this edit should not have been reverted, please contact me. &lt;!-- 97--&gt; [[User:TheJC|TheJC]] &lt;sup&gt;[[User talk:TheJC|Talk]]&lt;/sup&gt;&lt;sub&gt;[[Special:Contributions/TheJC|Contributions]]&lt;/sub&gt; 20:03, 24 June 2006 (UTC)
-
-Please stop. If you continue to vandalize pages, as you did to [[:East Carolina University]], you will be [[Wikipedia:Blocking policy|blocked]] from editing Wikipedia. &lt;!-- Template:Test3-n (Third level warning) --&gt;  A link to the edit I have reverted can be found here: [http://en.wikipedia.org/w/index.php?title=East_Carolina_University&amp;diff=next&amp;oldid=60380712 link]. If you believe this edit should not have been reverted, please contact me. &lt;!-- 109--&gt; [[User:TheJC|TheJC]] &lt;sup&gt;[[User talk:TheJC|Talk]]&lt;/sup&gt;&lt;sub&gt;[[Special:Contributions/TheJC|Contributions]]&lt;/sub&gt; 07:35, 25 June 2006 (UTC)
-	</talkpage>
-</article>

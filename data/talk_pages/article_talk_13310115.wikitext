@@ -1,6 +1,0 @@
-<article id="13310115" title=Talk:British Journal of Cancer>
-	<talkpage id="13310115" title="Talk:British Journal of Cancer">
-{{Talk header}}
-{{WikiProject Academic Journals | needs-infobox=no | class=start}}
-	</talkpage>
-</article>

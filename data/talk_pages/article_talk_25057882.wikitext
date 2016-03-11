@@ -1,6 +1,0 @@
-<article id="25057882" title=Talk:Gymnastics at the 2000 Summer Olympics – Women's trampoline>
-	<talkpage id="25057882" title="Talk:Gymnastics at the 2000 Summer Olympics – Women's trampoline">
-{{WikiProject Olympics|importance=low|class=}}
-{{WikiProject Gymnastics}}
-	</talkpage>
-</article>

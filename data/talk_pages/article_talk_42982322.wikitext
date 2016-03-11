@@ -1,5 +1,0 @@
-<article id="42982322" title=Talk:Clepsis exaraesima>
-	<talkpage id="42982322" title="Talk:Clepsis exaraesima">
-{{LepidopteraTalk|class=stub|importance=low}}
-	</talkpage>
-</article>

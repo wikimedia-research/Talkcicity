@@ -1,7 +1,0 @@
-<article id="30783807" title=User talk:119.154.119.92>
-	<talkpage id="30783807" title="User talk:119.154.119.92">
-== February 2011 ==
-[[Image:Information.svg|25px|alt=|link=]] Welcome to Wikipedia. It might not have been your intention, but your recent edit removed content from [[:Disease]]. When removing content, please specify a reason in the [[Help:Edit summary|edit summary]] and discuss edits that are likely to be controversial on the article's [[Wikipedia:Talk page|talk page]]. If this was a mistake, don't worry; the content has been restored, as you can see from the &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/w/index.php?title=Disease&amp;action=history page history]&lt;/span&gt;. Take a look at the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing to this encyclopedia, and if you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]].  Thank you.&lt;!-- Template:uw-delete1 --&gt; [[User:Edison|Edison]] ([[User talk:Edison|talk]]) 20:13, 7 February 2011 (UTC)
-:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
-	</talkpage>
-</article>

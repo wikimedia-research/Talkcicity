@@ -1,5 +1,0 @@
-<article id="45606918" title=Talk:Smoke Rings (Swedish radio program)>
-	<talkpage id="45606918" title="Talk:Smoke Rings (Swedish radio program)">
-{{WikiProject Sweden|class=redirect}}{{WPRADIO|class=redirect}}
-	</talkpage>
-</article>

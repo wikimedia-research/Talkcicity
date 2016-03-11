@@ -1,9 +1,0 @@
-<article id="26454092" title=User talk:174.0.195.195>
-	<talkpage id="26454092" title="User talk:174.0.195.195">
-
-
-== March 2010 ==
-[[File:Information.svg|25px]] Welcome and thank you for experimenting with Wikipedia. Your test on the page [[:Friend zone]] worked, and it has been [[Help:Reverting|reverted]] or removed. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|this encyclopedia]]. If you would like to experiment further, please use the [[Wikipedia:Sandbox|sandbox]] instead. Thank you.&lt;!-- Template:uw-test1 --&gt; [[User:JForget|&lt;font color = &quot;orange&quot;&gt;'''JForget''' &lt;/font&gt;]] 01:59, 7 March 2010 (UTC)
-:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
-	</talkpage>
-</article>

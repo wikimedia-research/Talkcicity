@@ -1,5 +1,0 @@
-<article id="10231069" title=Talk:GDF6>
-	<talkpage id="10231069" title="Talk:GDF6">
-{{Wikiproject MCB|importance=Low|class=Stub}}
-	</talkpage>
-</article>

@@ -1,7 +1,0 @@
-<article id="28325355" title=User talk:78.144.159.29>
-	<talkpage id="28325355" title="User talk:78.144.159.29">
-== August 2010 ==
-[[File:Information.svg|25px|alt=]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of [[Special:Contributions/78.144.159.29|your recent edits]], such as the one you made to [[:Joleon Lescott]], did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; [[User:Gsp8181|&lt;font color=&quot;red&quot; face=&quot;Century Gothic&quot;&gt;Gsp&lt;/font&gt;]][[User_Talk:Gsp8181|&lt;font color=&quot;Blue&quot; face=&quot;Century Gothic&quot;&gt;8181&lt;/font&gt;]] 22:36, 10 August 2010 (UTC)
-:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
-	</talkpage>
-</article>

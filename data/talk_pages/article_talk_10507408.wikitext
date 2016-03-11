@@ -1,9 +1,0 @@
-<article id="10507408" title=Talk:Hermas (freedman)>
-	<talkpage id="10507408" title="Talk:Hermas (freedman)">
-{{WikiProject Biography
-|living=no
-|class=
-|listas=Hermas
-}}
-	</talkpage>
-</article>

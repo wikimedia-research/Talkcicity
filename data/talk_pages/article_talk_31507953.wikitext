@@ -1,5 +1,0 @@
-<article id="31507953" title=Talk:Peter J. Dean>
-	<talkpage id="31507953" title="Talk:Peter J. Dean">
-{{WikiProject Articles for creation|class=start|ts=20110415164040|reviewer=Wikipedian2}}
-	</talkpage>
-</article>

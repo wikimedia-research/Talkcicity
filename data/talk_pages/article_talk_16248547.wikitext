@@ -1,8 +1,0 @@
-<article id="16248547" title=User talk:70.232.140.113>
-	<talkpage id="16248547" title="User talk:70.232.140.113">
-
-== March 2008 ==
-
-[[Image:Information.png|25px|left]] Hi, the &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Wikipedia:Avoid_peacock_terms?diff=197602704 recent edit]&lt;/span&gt; you made to [[:Wikipedia:Avoid peacock terms]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thanks. &lt;!-- Template:uw-huggle1 --&gt; [[User:Dycedarg|&lt;span style=&quot;border:1px solid red;color:red; padding:1px;background:#000&quot;&gt;'''Dycedarg'''&lt;/span&gt;]] [[User talk:Dycedarg|'''&lt;span style=&quot;color:#000000&quot;&gt;&amp;#x0436;&lt;/span&gt;''']] 00:04, 12 March 2008 (UTC)
-	</talkpage>
-</article>

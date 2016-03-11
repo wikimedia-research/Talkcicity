@@ -1,8 +1,0 @@
-<article id="18696427" title=Talk:National Education Institute>
-	<talkpage id="18696427" title="Talk:National Education Institute">
-{{WikiProjectBannerShell|1=
-{{WikiProject Slovenia|class=Start|importance=mid}}
-{{WikiProject Education|class=Start|importance=}}
-}}
-	</talkpage>
-</article>

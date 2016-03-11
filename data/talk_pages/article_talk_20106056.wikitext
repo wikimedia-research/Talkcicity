@@ -1,5 +1,0 @@
-<article id="20106056" title=Talk:Aleksandrów, Grójec County>
-	<talkpage id="20106056" title="Talk:Aleksandrów, Grójec County">
-{{WikiProject Poland|class=stub|importance=Low}}
-	</talkpage>
-</article>

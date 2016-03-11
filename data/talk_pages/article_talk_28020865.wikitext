@@ -1,9 +1,0 @@
-<article id="28020865" title=Talk:List of Playboy Playmates of 1995>
-	<talkpage id="28020865" title="Talk:List of Playboy Playmates of 1995">
-{{Pornproject|class=list|importance=low}}
-
-== External links in the Playboy Lists ==
-
-There has been recent action to delete external links to the Playboy Wiki in these lists. &lt;br /&gt;If you are interested, either for or against, there is a discussion about it here: [[WP:ELN#Playboy_Wiki_as_an_external_link_in_Playmate_Lists|Noticeboard for External links]]. [[User:Wikilister|Wikilister]] ([[User talk:Wikilister|talk]]) 13:51, 16 December 2013 (UTC)
-	</talkpage>
-</article>

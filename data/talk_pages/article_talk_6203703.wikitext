@@ -1,6 +1,0 @@
-<article id="6203703" title=Talk:Butterfly (KCR)>
-	<talkpage id="6203703" title="Talk:Butterfly (KCR)">
-{{TrainsWikiProject|Stations=yes|Imageneeded=yes|class=redirect}}
-{{oldafdfull|date= [[2007-01-17]] |result= '''no consensus for delete''' |votepage= Affluence (KCR)}}
-	</talkpage>
-</article>

@@ -1,8 +1,0 @@
-<article id="12252118" title=Talk:Zbigniew Nowosadzki>
-	<talkpage id="12252118" title="Talk:Zbigniew Nowosadzki">
-{{Old AfD multi|date= 13 July 2007 |result= '''no consensus''' |page= Zbigniew Nowosadzki }}
-{{WikiProject Biography|class=Stub|a&amp;e-work-group=yes|living=yes|listas=Nowosadzki, Zbigniew
-}}
-{{WikiProject Poland|class=stub|importance=low}}
-	</talkpage>
-</article>

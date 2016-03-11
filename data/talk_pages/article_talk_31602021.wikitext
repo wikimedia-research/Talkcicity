@@ -1,7 +1,0 @@
-<article id="31602021" title=User talk:60.48.218.48>
-	<talkpage id="31602021" title="User talk:60.48.218.48">
-== April 2011 ==
-[[Image:Information.svg|25px|alt=|link=]] Welcome to Wikipedia. Although everyone is welcome to contribute constructively to the encyclopedia,  [[Special:Contributions/60.48.218.48|your recent edits]] to [[:Arjen Robben]] have been reverted as they could be seen to be defamatory or potentially [[Wikipedia:Libel|libellous]]. Take a look at our [[Wikipedia:Welcome|welcome page]] to learn more about contributing to this encyclopedia. Thank you.&lt;!-- Template:uw-defamatory1 --&gt; [[User:Off2riorob|Off2riorob]] ([[User talk:Off2riorob|talk]]) 18:29, 26 April 2011 (UTC)
-:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
-	</talkpage>
-</article>

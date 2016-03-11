@@ -1,6 +1,0 @@
-<article id="34386013" title=User talk:Shadowms12>
-	<talkpage id="34386013" title="User talk:Shadowms12">
-== January 2012 ==
-[[Image:Information.svg|25px|alt=|link=]] Welcome to Wikipedia. It might not have been your intention, but your recent edit removed content from [[:Lars Vilks]]. When removing content, please specify a reason in the [[Help:Edit summary|edit summary]] and discuss edits that are likely to be controversial on the article's [[Wikipedia:Talk page|talk page]]. If this was a mistake, don't worry; the content has been restored, as you can see from the &lt;span class=&quot;plainlinks&quot;&gt;[//en.wikipedia.org/w/index.php?title=Lars_Vilks&amp;action=history page history]&lt;/span&gt;. Take a look at the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing to this encyclopedia, and if you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]].  Thank you.&lt;!-- Template:uw-delete1 --&gt; [[User:Saddhiyama|Saddhiyama]] ([[User talk:Saddhiyama|talk]]) 09:46, 15 January 2012 (UTC)
-	</talkpage>
-</article>

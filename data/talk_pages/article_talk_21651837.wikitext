@@ -1,7 +1,0 @@
-<article id="21651837" title=Talk:The Wastrel>
-	<talkpage id="21651837" title="Talk:The Wastrel">
-{{WikiProject Italy|class=stub|importance=low}}
-{{WikiProject Cyprus|class=stub|importance=low}}
-{{Film|class=Stub|Italian-task-force=yes|needs-image=yes}}
-	</talkpage>
-</article>

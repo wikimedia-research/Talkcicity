@@ -1,9 +1,0 @@
-<article id="15953346" title=User talk:76.241.105.230>
-	<talkpage id="15953346" title="User talk:76.241.105.230">
-
-== February 2008 ==
-{{{icon|[[Image:Information.svg|25px]] }}} Your recent edit to [[:Omarion]] ([http://en.wikipedia.org/w/index.php?title=Omarion&amp;curid=186260&amp;diff=194025422&amp;oldid=193831915 diff]) was reverted by an '''automated bot'''. The edit was identified as adding [[WP:VAND|vandalism]], or [[WP:SPAM|link spam]] to the page or having an inappropriate [[WP:ES|edit summary]]. If you want to experiment, please use the preview button while editing or consider using the [[Wikipedia:Sandbox|sandbox]]. If this revert was in error, please contact the bot operator. If you made an edit that removed a large amount of content, try doing smaller edits instead. Thanks!&lt;!-- Template:uw-vandalism1 --&gt; // [[User:VoABot II|VoABot II]] ([[User talk:VoABot II|talk]]) 22:01, 25 February 2008 (UTC)
-
-[[Image:Information.png|25px|left]] The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Omarion?diff=194026386 recent edit]&lt;/span&gt; you made to [[:Omarion]] constitutes [[Wikipedia:Vandalism|vandalism]], and has been reverted. Please do not continue to vandalize pages; use the [[Wikipedia:Sandbox|sandbox]] for testing. Thanks. &lt;!-- Template:uw-huggle2 --&gt; - [[User:Milk's Favorite Cookie|'''''&lt;font face=&quot;Monotype Corsiva&quot; size=&quot;3px&quot; color=&quot;#4D0100&quot;&gt;Milk's&lt;/font&gt;''''']] [[User talk:Milk's Favorite Cookie|'''''&lt;font face=&quot;Monotype Corsiva&quot; size=&quot;3px&quot; color=&quot;#4D0100&quot;&gt;Favorite&lt;/font&gt;''''']] [[Special:Contributions/Milk's Favorite Cookie|'''''&lt;font face=&quot;Monotype Corsiva&quot; size=&quot;3px&quot; color=&quot;#4D0100&quot;&gt;Cookie&lt;/font&gt;''''']] 22:06, 25 February 2008 (UTC))
-	</talkpage>
-</article>

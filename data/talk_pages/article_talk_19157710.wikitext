@@ -1,5 +1,0 @@
-<article id="19157710" title=Talk:Créchy>
-	<talkpage id="19157710" title="Talk:Créchy">
-{{WikiProject France|class=Stub|importance=Low|commune=yes}}
-	</talkpage>
-</article>

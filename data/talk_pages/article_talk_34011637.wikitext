@@ -1,5 +1,0 @@
-<article id="34011637" title=Talk:Siren (series)>
-	<talkpage id="34011637" title="Talk:Siren (series)">
-{{WikiProject Video games|class=Start|importance=low}}
-	</talkpage>
-</article>

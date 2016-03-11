@@ -1,8 +1,0 @@
-<article id="14260393" title=User talk:Devlinator>
-	<talkpage id="14260393" title="User talk:Devlinator">
-
-
-== November 2007 ==
-{{{icon|[[Image:Nuvola apps important.svg|25px]] }}}Please stop. If you continue to [[Wikipedia:Vandalism|vandalize]] Wikipedia{{{{{subst|}}}#if:Yorkshire|, as you did to [[:Yorkshire]]}}, you ''will'' be [[Wikipedia:Blocking policy|blocked]] from editing. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|}}&lt;!-- Template:uw-vandalism3 --&gt; ~~ [[User:JGXenite|[Jam]]]&lt;sup&gt;[[User talk:JGXenite|[talk]]]&lt;/sup&gt; 17:23, 15 November 2007 (UTC)
-	</talkpage>
-</article>

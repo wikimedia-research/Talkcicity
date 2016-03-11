@@ -1,5 +1,0 @@
-<article id="24625941" title=Talk:Rancho Cañada de Capay>
-	<talkpage id="24625941" title="Talk:Rancho Cañada de Capay">
-{{WikiProject California|importance=mid|class=Start}}
-	</talkpage>
-</article>

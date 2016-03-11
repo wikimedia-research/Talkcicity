@@ -1,6 +1,0 @@
-<article id="20464973" title=Talk:Strut (disambiguation)>
-	<talkpage id="20464973" title="Talk:Strut (disambiguation)">
-{{DisambigProject}}
-{{WikiProject_Java|class=Disambig}}
-	</talkpage>
-</article>

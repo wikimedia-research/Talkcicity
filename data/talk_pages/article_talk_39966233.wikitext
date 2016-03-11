@@ -1,6 +1,0 @@
-<article id="39966233" title=Talk:Donck>
-	<talkpage id="39966233" title="Talk:Donck">
-{{WikiProject Disambiguation}}
-{{WikiProject Anthroponymy|class=list}}
-	</talkpage>
-</article>

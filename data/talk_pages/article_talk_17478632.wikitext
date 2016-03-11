@@ -1,7 +1,0 @@
-<article id="17478632" title=User talk:82.34.96.182>
-	<talkpage id="17478632" title="User talk:82.34.96.182">
-== May 2008 ==
-[[Image:Information.svg|25px]] Please do not add [[Wikipedia:Libel|defamatory]] content to Wikipedia{{#if:Chris Fountain|, as you did to [[:Chris Fountain]]}}. If you would like to experiment please use the [[WP:Sandbox|sandbox]]. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-defamatory2 --&gt; ~~ [[User:JGXenite|&lt;span style=&quot;color: #AB0F31&quot;&gt;[Jam]&lt;/span&gt;]]&lt;sup&gt;[[User talk:JGXenite|&lt;span style=&quot;color: #000000;&quot;&gt;[talk]&lt;/span&gt;]]&lt;/sup&gt; 21:17, 17 May 2008 (UTC)
-:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
-	</talkpage>
-</article>

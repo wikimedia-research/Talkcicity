@@ -1,8 +1,0 @@
-<article id="24929419" title=User talk:68.14.189.114>
-	<talkpage id="24929419" title="User talk:68.14.189.114">
-== November 2009 ==
-
-[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Niceville%2c_Florida?diff=323406731 recent edit]&lt;/span&gt; you made to the page [[:Niceville, Florida]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:J.delanoy|&lt;font color=&quot;green&quot;&gt;J'''.'''delanoy&lt;/font&gt;]][[User Talk:J.delanoy|&lt;sup&gt;&lt;font color=&quot;red&quot;&gt;gabs&lt;/font&gt;&lt;/sup&gt;]][[Special:Contributions/J.delanoy|&lt;font color=&quot;blue&quot;&gt;&lt;sub&gt;adds&lt;/sub&gt;&lt;/font&gt;]] 03:28, 2 November 2009 (UTC)
-:I have blocked this account for 31 hours for vandalism and harassment. [[User:Newyorkbrad|Newyorkbrad]] ([[User talk:Newyorkbrad|talk]]) 03:42, 2 November 2009 (UTC)
-	</talkpage>
-</article>

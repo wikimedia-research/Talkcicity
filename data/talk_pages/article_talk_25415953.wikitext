@@ -1,5 +1,0 @@
-<article id="25415953" title=Talk:Mount Taveuni>
-	<talkpage id="25415953" title="Talk:Mount Taveuni">
-{{WikiProject Volcanoes|class=start|importance=low}}
-	</talkpage>
-</article>

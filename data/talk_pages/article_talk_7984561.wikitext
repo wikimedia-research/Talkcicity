@@ -1,5 +1,0 @@
-<article id="7984561" title=Talk:Sundern>
-	<talkpage id="7984561" title="Talk:Sundern">
-{{WikiProject Germany|class=stub|importance=low}}
-	</talkpage>
-</article>

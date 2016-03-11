@@ -1,5 +1,0 @@
-<article id="29017271" title=Talk:Novi Šeher>
-	<talkpage id="29017271" title="Talk:Novi Šeher">
-{{WikiProject Bosnia and Herzegovina|class=Stub|importance=}}
-	</talkpage>
-</article>

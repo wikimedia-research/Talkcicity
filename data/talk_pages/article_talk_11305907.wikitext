@@ -1,7 +1,0 @@
-<article id="11305907" title=User talk:122.2.36.155>
-	<talkpage id="11305907" title="User talk:122.2.36.155">
-
-
-Your recent edit to [[:Philippines]] ([http://en.wikipedia.org/w/index.php?title=Philippines&amp;diff=132004509&amp;oldid=132002813 diff]) was reverted by an '''automated bot''' that attempts to recognize and repair [[Wikipedia:vandalism|vandalism]] to Wikipedia articles. If the bot reverted a legitimate edit, please accept my humble creator's apologies – if you bring it to the attention of the bot's owner, we may be able to improve its behavior. '''[[User:Tawkerbot2/FAQ|Click here]]''' for '''frequently asked questions''' about the bot and this warning. // [[User:MartinBot|MartinBot]] 14:12, 19 May 2007 (UTC)
-	</talkpage>
-</article>

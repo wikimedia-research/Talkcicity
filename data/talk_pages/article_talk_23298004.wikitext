@@ -1,6 +1,0 @@
-<article id="23298004" title=Talk:Texas Tower 1>
-	<talkpage id="23298004" title="Talk:Texas Tower 1">
-{{WikiProject United States|class=Redirect|importance=NA|NH=yes|NH-importance=NA}}
-{{WPMILHIST|class=Redirect|importance=NA|US=yes|Technology=yes}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="26073696" title=Talk:Souk El Khemis District>
-	<talkpage id="26073696" title="Talk:Souk El Khemis District">
-{{WikiProject Africa|Algeria=yes|class=stub}}
-	</talkpage>
-</article>

@@ -1,6 +1,0 @@
-<article id="41515273" title=Talk:Michael J. Willett>
-	<talkpage id="41515273" title="Talk:Michael J. Willett">
-{{WikiProject Biography|living=yes|class=start}}
-{{WikiProject LGBT studies| class=Start}}
-	</talkpage>
-</article>

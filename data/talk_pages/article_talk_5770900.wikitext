@@ -1,5 +1,0 @@
-<article id="5770900" title=User talk:81.154.92.9>
-	<talkpage id="5770900" title="User talk:81.154.92.9">
-Thank you for experimenting with the page [[:Wycombe Wanderers F.C.]] on Wikipedia. Your test worked, and has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any other tests you want to do. Take a look at the [[Wikipedia:Welcome, newcomers|welcome page]] if you would like to learn more about contributing to our encyclopedia.&lt;!-- Template:Test-n (first level warning) --&gt;  A link to the edit I have reverted can be found here: [http://en.wikipedia.org/w/index.php?title=Wycombe_Wanderers_F.C.&amp;diff=next&amp;oldid=61346517 link]. If you believe this edit should not have been reverted, please contact me. &lt;!-- 43--&gt; [[User:Charlesknight|Charlesknight]] 11:11, 30 June 2006 (UTC)
-	</talkpage>
-</article>

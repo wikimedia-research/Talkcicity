@@ -1,8 +1,0 @@
-<article id="22087290" title=Talk:USS Kermoor (1907)>
-	<talkpage id="22087290" title="Talk:USS Kermoor (1907)">
-{{WPMILHIST|class=Start|Maritime=yes|US=yes|WWI=yes|B1=n|B2=y|B3=n&lt;!-- Lead --&gt;
-|B4=y|B5=y}}
-{{WPSHIPS|class=Start|importance=Mid|B1=n|B2=y|B3=n&lt;!-- Lead --&gt;
-|B4=y|B5=y}}
-	</talkpage>
-</article>

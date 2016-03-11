@@ -1,8 +1,0 @@
-<article id="36494126" title=Talk:Terence Soall>
-	<talkpage id="36494126" title="Talk:Terence Soall">
-{{WikiProject Biography
-|living=no
-|class=
-}}
-	</talkpage>
-</article>

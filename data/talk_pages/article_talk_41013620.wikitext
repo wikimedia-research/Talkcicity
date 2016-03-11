@@ -1,5 +1,0 @@
-<article id="41013620" title=Talk:Reception piece>
-	<talkpage id="41013620" title="Talk:Reception piece">
-{{Visual arts|class=stub}}
-	</talkpage>
-</article>

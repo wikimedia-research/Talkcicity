@@ -1,5 +1,0 @@
-<article id="17849284" title=Talk:Compendium of postage stamp issuers (U)>
-	<talkpage id="17849284" title="Talk:Compendium of postage stamp issuers (U)">
-{{Philately|class=List|importance=Low}}
-	</talkpage>
-</article>

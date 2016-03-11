@@ -1,6 +1,0 @@
-<article id="31586374" title=Talk:Prashantha De Silva>
-	<talkpage id="31586374" title="Talk:Prashantha De Silva">
-{{WikiProject Biography|living=yes|listas=Silva, Prashantha De}}
-{{WikiProject Sri Lanka|class=Stub|importance=Mid}}
-	</talkpage>
-</article>

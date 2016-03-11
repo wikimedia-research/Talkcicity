@@ -1,7 +1,0 @@
-<article id="33229922" title=Talk:Leonardo Dudreville>
-	<talkpage id="33229922" title="Talk:Leonardo Dudreville">
-{{WikiAfrica/Artgate}}
-
-{{WikiProject Biography |living=no |class=Stub |listas=Dudreville, Leonardo |auto=no}}
-	</talkpage>
-</article>

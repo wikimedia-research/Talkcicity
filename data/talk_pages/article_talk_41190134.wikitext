@@ -1,5 +1,0 @@
-<article id="41190134" title=Talk:Netechma cordillerana>
-	<talkpage id="41190134" title="Talk:Netechma cordillerana">
-{{LepidopteraTalk|class=stub|importance=low}}
-	</talkpage>
-</article>

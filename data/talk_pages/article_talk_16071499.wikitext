@@ -1,6 +1,0 @@
-<article id="16071499" title=User talk:Blockhead94>
-	<talkpage id="16071499" title="User talk:Blockhead94">
-----
-[[Image:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia{{#if:coal|, as you did to [[:coal]]}}. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism2 --&gt; -- [[User:Edgar181|Ed]] ([[User talk:Edgar181|Edgar181]]) 15:41, 3 March 2008 (UTC)
-	</talkpage>
-</article>

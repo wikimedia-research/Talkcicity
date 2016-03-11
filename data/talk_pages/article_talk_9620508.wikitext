@@ -1,7 +1,0 @@
-<article id="9620508" title=User talk:71.214.252.66>
-	<talkpage id="9620508" title="User talk:71.214.252.66">
-Please do not add nonsense to Wikipedia{{#if:Whale|, as you did {{#if:{{{diff|}}}|with [{{{diff}}} this edit]}} to the [[:Whale]] page|{{#if:{{{diff|}}}|, as you did with [{{{diff}}} this edit]}}}}. It is considered [[Wikipedia:Vandalism|vandalism]]. If you would like to experiment, use the [[Wikipedia:Sandbox|sandbox]]. Thank you. &lt;!-- Template:Test2 (second level warning) --&gt; —[[User:wknight94|Wknight94]] ([[User talk:wknight94|talk]]) 02:34, 21 February 2007 (UTC)
-
-Please stop. If you continue to [[Wikipedia:Vandalism|vandalize]] pages, {{#if:Whale|as you did {{#if:{{{diff|}}}|with [{{{diff}}} this edit]}} to [[:Whale]],|{{#if:{{{diff|}}}as you did with [{{{diff}}} this edit],}}}} you will be [[Wikipedia:Blocking policy|blocked]] from editing Wikipedia. &lt;!-- Template:Test3 (Third level warning) --&gt; —[[User:wknight94|Wknight94]] ([[User talk:wknight94|talk]]) 02:37, 21 February 2007 (UTC)
-	</talkpage>
-</article>

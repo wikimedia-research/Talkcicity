@@ -1,7 +1,0 @@
-<article id="32235162" title=Talk:David Kershaw>
-	<talkpage id="32235162" title="Talk:David Kershaw">
-{{oldafdfull| date = 10 August 2011 (UTC) | result = '''keep''' | page = David Kershaw }}
-
-{{WikiProject Biography|living=yes|class=stub|listas=Kershaw, David|s&amp;a-work-group=yes|s&amp;a-priority=low}}
-	</talkpage>
-</article>

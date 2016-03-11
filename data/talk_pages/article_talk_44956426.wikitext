@@ -1,5 +1,0 @@
-<article id="44956426" title=Talk:Cleptometopus biapicatus>
-	<talkpage id="44956426" title="Talk:Cleptometopus biapicatus">
-{{WikiProject Beetles|class=Stub|importance=Low|needs-photo=yes}}
-	</talkpage>
-</article>

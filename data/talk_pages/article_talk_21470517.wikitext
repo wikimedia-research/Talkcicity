@@ -1,9 +1,0 @@
-<article id="21470517" title=Talk:Harry Griffiths (footballer, born 1912)>
-	<talkpage id="21470517" title="Talk:Harry Griffiths (footballer, born 1912)">
-{{WikiProjectBannerShell|1=
-{{WikiProject Biography|living=No|class=Start|sports-priority=Low|sports-work-group=yes|listas=Griffiths, Harry}}
-{{WikiProject Football|class=Start|importance=Low|England=yes}}
-{{WikiProject Baseball|class=start}}
-}}
-	</talkpage>
-</article>

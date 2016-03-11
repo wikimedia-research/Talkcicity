@@ -1,6 +1,0 @@
-<article id="23624492" title=Talk:Betty Shabazz International Charter School>
-	<talkpage id="23624492" title="Talk:Betty Shabazz International Charter School">
-{{WikiProject Chicago||class=Start|importance=}}
-{{WikiProject Schools|class=Start}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="20791440" title=Talk:Clinical Decision Unit>
-	<talkpage id="20791440" title="Talk:Clinical Decision Unit">
-{{WikiProject Medicine |class=Redirect |importance=}}
-	</talkpage>
-</article>

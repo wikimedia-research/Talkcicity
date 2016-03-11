@@ -1,6 +1,0 @@
-<article id="26226257" title=User talk:72.71.206.213>
-	<talkpage id="26226257" title="User talk:72.71.206.213">
-== February 2010==
-[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of your recent edits{{#if:Emerald|, such as the one you made to [[:Emerald]],}} did not appear to be constructive and has been reverted. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt;   [[User:Pinethicket|Pinethicket]] ([[User talk:Pinethicket|talk]]) 23:49, 16 February 2010 (UTC)
-	</talkpage>
-</article>

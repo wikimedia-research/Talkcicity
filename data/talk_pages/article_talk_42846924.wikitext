@@ -1,5 +1,0 @@
-<article id="42846924" title=Talk:Finis Malorum>
-	<talkpage id="42846924" title="Talk:Finis Malorum">
-{{album|class=stub|importance=Low}}
-	</talkpage>
-</article>

@@ -1,9 +1,0 @@
-<article id="22005173" title=User talk:85.132.114.158>
-	<talkpage id="22005173" title="User talk:85.132.114.158">
-
-
-== March 2009 ==
-[[Image:Information.svg|left|25px]] Welcome, and thank you for experimenting with Wikipedia. Your test on the page [[:Paint.NET]] worked, and it has been '''automatically [[Help:Reverting|reverted]]'''. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|this encyclopedia]]. If you would like to experiment further, please use the [[Wikipedia:Sandbox|sandbox]]. '''If you believe there has been a mistake and would like to report a false positive, please [[User talk:X!|report it here]].''' Thank you.&lt;br /&gt; &lt;!-- Template:uw-test1 --&gt; [[User:SoxBot III|SoxBot III]] ([[User talk:SoxBot III|talk]] | [[User:X!|owner]]) 16:55, 16 March 2009 (UTC)
-:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
-	</talkpage>
-</article>

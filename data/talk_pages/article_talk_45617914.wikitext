@@ -1,7 +1,0 @@
-<article id="45617914" title=User talk:129.94.130.212>
-	<talkpage id="45617914" title="User talk:129.94.130.212">
-== March 2015 ==
-[[File:Information orange.svg|25px|alt=Information icon|link=]] Please refrain from making unconstructive edits to Wikipedia, as you did at [[:Eliathamby Ambikairajah]]. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]] or removed. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. [[Wikipedia:Administrators|Administrators]] have the ability to [[WP:BLOCK|block]] users from editing if they repeatedly engage in vandalism. Thank you.&lt;!-- Template:uw-vandalism2 --&gt; &lt;b&gt;&lt;font color=&quot;red&quot; face=&quot;fantasy&quot;&gt;[[User:Obi2canibe|obi2canibe]]&lt;/font&gt;&lt;sup&gt;[[User_talk:Obi2canibe|talk]] [[Special:Contributions/Obi2canibe|contr]]&lt;/sup&gt;&lt;/b&gt; 15:26, 8 March 2015 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

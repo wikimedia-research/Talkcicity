@@ -1,7 +1,0 @@
-<article id="27629814" title=Talk:List of never used railways>
-	<talkpage id="27629814" title="Talk:List of never used railways">
-{{TWP 
-|class=List
-|importance=Low}}
-	</talkpage>
-</article>

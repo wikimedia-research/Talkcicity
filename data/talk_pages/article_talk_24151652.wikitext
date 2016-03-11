@@ -1,5 +1,0 @@
-<article id="24151652" title=Talk:Bombia>
-	<talkpage id="24151652" title="Talk:Bombia">
-{{WikiProject Lepidoptera|class=stub|importance=low}}
-	</talkpage>
-</article>

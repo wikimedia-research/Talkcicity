@@ -1,5 +1,0 @@
-<article id="15712148" title=Talk:1905 Detroit Tigers season>
-	<talkpage id="15712148" title="Talk:1905 Detroit Tigers season">
-{{WikiProject Baseball|class=start|importance=low}}
-	</talkpage>
-</article>

@@ -1,6 +1,0 @@
-<article id="29318624" title=Talk:Orión Point>
-	<talkpage id="29318624" title="Talk:Orión Point">
-{{WikiProject United Kingdom}}
-{{WikiProject Antarctica |British=yes}}
-	</talkpage>
-</article>

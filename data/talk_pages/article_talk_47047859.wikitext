@@ -1,5 +1,0 @@
-<article id="47047859" title=Talk:Arienne Dwyer>
-	<talkpage id="47047859" title="Talk:Arienne Dwyer">
-{{WikiProject Biography |living=yes |class=Stub}}
-	</talkpage>
-</article>

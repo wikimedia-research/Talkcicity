@@ -1,6 +1,0 @@
-<article id="29205772" title=Talk:Cummings Shoe Factory>
-	<talkpage id="29205772" title="Talk:Cummings Shoe Factory">
-{{WikiProject National Register of Historic Places|class=start|importance=low}}
-{{WikiProject Maine|class=Start|importance=Low}}
-	</talkpage>
-</article>

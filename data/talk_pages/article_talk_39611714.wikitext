@@ -1,7 +1,0 @@
-<article id="39611714" title=Talk:Yellow Dog Linux Powerstation>
-	<talkpage id="39611714" title="Talk:Yellow Dog Linux Powerstation">
-{{talkheader}}
-
-{{WikiProject Articles for creation|class=redirect|ts=20130608002237|reviewer=DGG}}
-	</talkpage>
-</article>

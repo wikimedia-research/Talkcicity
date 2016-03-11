@@ -1,5 +1,0 @@
-<article id="33377080" title=Talk:Linotype Univers>
-	<talkpage id="33377080" title="Talk:Linotype Univers">
-{{WikiProject Typography|class=redirect}}
-	</talkpage>
-</article>

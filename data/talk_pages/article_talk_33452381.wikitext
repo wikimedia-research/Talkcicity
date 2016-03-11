@@ -1,5 +1,0 @@
-<article id="33452381" title=Talk:Electron deficiency>
-	<talkpage id="33452381" title="Talk:Electron deficiency">
-{{WikiProject Chemistry|class=stub|importance=low}}
-	</talkpage>
-</article>

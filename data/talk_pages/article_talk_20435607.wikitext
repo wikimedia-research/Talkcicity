@@ -1,5 +1,0 @@
-<article id="20435607" title=Talk:Priscilla>
-	<talkpage id="20435607" title="Talk:Priscilla">
-{{WikiProject Anthroponymy|class=NA|importance=}}
-	</talkpage>
-</article>

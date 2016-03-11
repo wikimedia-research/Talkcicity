@@ -1,5 +1,0 @@
-<article id="28188469" title=Talk:Fjellbergella>
-	<talkpage id="28188469" title="Talk:Fjellbergella">
-{{WikiProject Arthropods|class=stub|importance=low}}
-	</talkpage>
-</article>

@@ -1,9 +1,0 @@
-<article id="34641322" title=Talk:List of number-one albums of 2006 (Spain)>
-	<talkpage id="34641322" title="Talk:List of number-one albums of 2006 (Spain)">
-{{WikiProjectBannerShell|
-{{WikiProject Spain|class=list|importance=low}}
-{{WikiProject Charts|class=list|importance=low}}
-{{WikiProject Albums|class=list|importance=low}}
-{{WikiProject Lists|class=list|importance=low|listas=Number-One Albums Of 2006, List Of}}}}
-	</talkpage>
-</article>

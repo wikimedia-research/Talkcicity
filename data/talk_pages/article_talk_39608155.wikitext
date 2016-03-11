@@ -1,8 +1,0 @@
-<article id="39608155" title=User talk:46.64.25.244>
-	<talkpage id="39608155" title="User talk:46.64.25.244">
-
-== June 2013 ==
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:MusikAnimal|MusikAnimal]]. I wanted to let you know that I undid one or more of [[Special:Contributions/46.64.25.244|your recent contributions]]&amp;nbsp;to [[:Japanese television drama]] because it did not appear constructive. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:MusikAnimal|my talk page]]. &lt;!-- Template:uw-vandalism1 --&gt;&lt;!-- Template:uw-cluebotwarning1 --&gt;   &amp;mdash; [[User:MusikAnimal|&lt;font color=&quot;black&quot;&gt;&lt;b&gt;&lt;i&gt;MusikAnimal&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;]] [[User talk:MusikAnimal|&lt;font color=&quot;green&quot; &gt;&lt;sup&gt;&lt;b&gt;talk&lt;/b&gt;&lt;/sup&gt;&lt;/font&gt;]] 15:28, 7 June 2013 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

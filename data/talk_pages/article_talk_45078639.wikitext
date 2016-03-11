@@ -1,5 +1,0 @@
-<article id="45078639" title=Talk:United States House of Representatives elections in Vermont, 1834>
-	<talkpage id="45078639" title="Talk:United States House of Representatives elections in Vermont, 1834">
-{{WikiProject United States|VT=yes}}
-	</talkpage>
-</article>

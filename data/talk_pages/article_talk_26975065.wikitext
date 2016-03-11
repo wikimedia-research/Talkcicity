@@ -1,7 +1,0 @@
-<article id="26975065" title=User talk:124.41.239.222>
-	<talkpage id="26975065" title="User talk:124.41.239.222">
-== April 2010 ==
-[[File:Information.svg|25px]] Welcome and thank you for experimenting with Wikipedia. Your test on the page [[:Highest-valued currency unit]] worked, and it has been [[Help:Reverting|reverted]] or removed. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|this encyclopedia]]. If you would like to experiment further, please use the [[Wikipedia:Sandbox|sandbox]] instead. Thank you.&lt;!-- Template:uw-test1 --&gt; [[User:Nifky?|&lt;span style=&quot;color: #66cc00&quot;&gt;Nifky&lt;/span&gt;]]&lt;sup&gt;[[User talk:Nifky?|&lt;b&gt;&lt;span style=&quot;color: green&quot;&gt;^&lt;/span&gt;&lt;/b&gt;]]&lt;/sup&gt; 10:58, 16 April 2010 (UTC)
-:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
-	</talkpage>
-</article>

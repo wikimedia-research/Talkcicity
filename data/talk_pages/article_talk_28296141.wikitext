@@ -1,5 +1,0 @@
-<article id="28296141" title=User talk:Davealexander/Books/Pop 1961-64 Black>
-	<talkpage id="28296141" title="User talk:Davealexander/Books/Pop 1961-64 Black">
-{{User:WildBot/b01|rev=377769030|time=05:19 08 August 2010 (UTC)|parens={{User:WildBot/b09|1=Maxine Brown (soul singer)}}{{User:WildBot/b09|1=The Spinners (American band)}}{{User:WildBot/b09|1=William Bell (singer)}}{{User:WildBot/b09|1=Jimmy Hughes (singer)}}{{User:WildBot/b09|1=Willie Mitchell (musician)}}{{User:WildBot/b09|1=Jimmy Smith (musician)}}{{User:WildBot/b09|1=The Majors (band)}}{{User:WildBot/b09|1=James Ray (singer)}}{{User:WildBot/b09|1=Bobby Parker (guitarist)}}|notitle=none|b01}}
-	</talkpage>
-</article>

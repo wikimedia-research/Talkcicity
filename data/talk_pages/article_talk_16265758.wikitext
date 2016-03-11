@@ -1,5 +1,0 @@
-<article id="16265758" title=User talk:68.84.212.69>
-	<talkpage id="16265758" title="User talk:68.84.212.69">
-[[Image:Nuvola apps important.svg|25px]] Please stop. If you continue to [[Wikipedia:Vandalism|vandalize]] Wikipedia{{#if:The Wiz|, as you did to [[:The Wiz]]}}, you will be [[Wikipedia:Blocking policy|blocked]] from editing. {{#if:|{{{2}}}|}}&lt;!-- Template:uw-vandalism3 --&gt;--[[User:Ward3001|Ward3001]] ([[User talk:Ward3001|talk]]) 00:34, 13 March 2008 (UTC)
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="44534051" title=User talk:2.50.141.250>
-	<talkpage id="44534051" title="User talk:2.50.141.250">
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Materialscientist|Materialscientist]]. An edit that you recently made  seemed to be a test and has been removed. If you want more practice editing, please use the [[Wikipedia:Sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Materialscientist|my talk page]]. Thanks!&lt;!-- Template:uw-test1 --&gt; [[User:Materialscientist|Materialscientist]] ([[User talk:Materialscientist|talk]]) 09:40, 28 November 2014 (UTC)
-	</talkpage>
-</article>

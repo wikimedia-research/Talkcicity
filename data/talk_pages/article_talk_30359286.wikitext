@@ -1,5 +1,0 @@
-<article id="30359286" title=Talk:1945 Latvian SSR Higher League>
-	<talkpage id="30359286" title="Talk:1945 Latvian SSR Higher League">
-{{WikiProject Latvia |class=stub |importance=}}
-	</talkpage>
-</article>

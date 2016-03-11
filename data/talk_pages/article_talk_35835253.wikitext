@@ -1,5 +1,0 @@
-<article id="35835253" title=User talk:174.103.139.190>
-	<talkpage id="35835253" title="User talk:174.103.139.190">
-[[Image:Information.svg|25px|alt=|link=]] Welcome to Wikipedia. Everyone is welcome to contribute to the encyclopedia, but when you add or change content, please cite a [[Wikipedia:Identifying reliable sources|reliable source]] for your addition. This helps maintain our policy of [[Wikipedia:Verifiability|verifiability]]. See [[Wikipedia:Citing sources]] for how to cite sources, and the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. Thank you.&lt;!-- Template:uw-unsourced1 --&gt; [[User:Materialscientist|Materialscientist]] ([[User talk:Materialscientist|talk]]) 01:10, 16 May 2012 (UTC)
-	</talkpage>
-</article>

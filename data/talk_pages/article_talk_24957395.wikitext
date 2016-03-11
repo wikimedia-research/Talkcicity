@@ -1,6 +1,0 @@
-<article id="24957395" title=Talk:Triptykon (album)>
-	<talkpage id="24957395" title="Talk:Triptykon (album)">
-{{WikiProject Jazz|class=start|importance=high|album=yes}}
-{{WikiProject Albums|class=start|importance=high}}
-	</talkpage>
-</article>

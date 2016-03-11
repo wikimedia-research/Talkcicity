@@ -1,6 +1,0 @@
-<article id="27984797" title=Talk:Roman Catholic Archdiocese of Lilongwe>
-	<talkpage id="27984797" title="Talk:Roman Catholic Archdiocese of Lilongwe">
-{{WikiProject Catholicism|class=start|importance=Low}}
-{{WikiProject Africa|Malawi=yes|class=start|importance=Low}}
-	</talkpage>
-</article>

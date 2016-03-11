@@ -1,5 +1,0 @@
-<article id="34040713" title=Talk:Mundoona>
-	<talkpage id="34040713" title="Talk:Mundoona">
-{{WikiProject Australia|class=Stub|importance=Low|VIC=yes}}
-	</talkpage>
-</article>

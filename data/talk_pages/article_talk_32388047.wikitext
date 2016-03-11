@@ -1,5 +1,0 @@
-<article id="32388047" title=Talk:Vino, Dinero Y Amor>
-	<talkpage id="32388047" title="Talk:Vino, Dinero Y Amor">
-{{WikiProject Songs|class=redirect}}
-	</talkpage>
-</article>

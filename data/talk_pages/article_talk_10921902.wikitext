@@ -1,7 +1,0 @@
-<article id="10921902" title=Talk:List of neighbourhoods of Chennai>
-	<talkpage id="10921902" title="Talk:List of neighbourhoods of Chennai">
-{{Talk header}}
-{{WikiProjectBannerShell|1={{WikiProject India|class=start|importance=Low|tamilnadu=yes|chennai=yes|chennai-importance=High|tamilnadu-importance=Mid|geography=yes|geography-importance=low}}
-}}
-	</talkpage>
-</article>

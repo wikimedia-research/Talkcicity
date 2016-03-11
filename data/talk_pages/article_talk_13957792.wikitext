@@ -1,8 +1,0 @@
-<article id="13957792" title=User talk:24.153.213.152>
-	<talkpage id="13957792" title="User talk:24.153.213.152">
-
-
-==Regarding edits to [[Razor]]==
-Thank you for contributing to Wikipedia, 24.153.213.152! However, your edit [http://en.wikipedia.org/w/index.php?title=Razor&amp;diff=167674630&amp;oldid=167577957 here] was reverted by an automated bot that attempts to remove [[WP:SPAM|spam]] from Wikipedia. If you were trying to insert a good link, please accept my creator's apologies, but note that the link you added, matching rule lemonparty\.org, is on my list of links to remove and probably shouldn't be included in Wikipedia. Please read Wikipedia's [[WP:EL|external links guidelines]] for more information, and consult my [[User:AntiSpamBot/Reversion reasons|list of frequently-reverted sites]]. For more information about me, see [[User:AntiSpamBot/FAQ|my FAQ page]]. Thanks! [[User:AntiSpamBot|AntiSpamBot]] 18:42, 28 October 2007 (UTC)
-	</talkpage>
-</article>

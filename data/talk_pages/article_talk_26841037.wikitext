@@ -1,8 +1,0 @@
-<article id="26841037" title=User talk:90.203.104.7>
-	<talkpage id="26841037" title="User talk:90.203.104.7">
-
-== April 2010 ==
-
-[[Image:Information.svg|25px]] Welcome to Wikipedia. The project's content policies require that all articles be written from a [[Wikipedia:Neutral point of view|neutral point of view]], and not introduce bias or give undue weight to viewpoints. Please bear this in mind when making edits such as your &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Paul_Murphy_(politician)?diff=354191630 recent edit]&lt;/span&gt; to [[:Paul Murphy (politician)]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:Uw-hugglenpov1 --&gt; '''[[User:Ronhjones|&lt;span style=&quot;border:1px solid black;color:black; padding:1px;background:yellow&quot;&gt;&lt;font color=&quot;green&quot;&gt;&amp;nbsp;Ron&lt;font color=&quot;red&quot;&gt;h&lt;/font&gt;jones&amp;nbsp;&lt;/font&gt;&lt;/span&gt;]]'''&lt;sup&gt;[[User talk:Ronhjones|&amp;nbsp;(Talk)]]&lt;/sup&gt; 22:01, 5 April 2010 (UTC)
-	</talkpage>
-</article>

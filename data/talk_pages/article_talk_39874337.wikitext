@@ -1,5 +1,0 @@
-<article id="39874337" title=Talk:Agblexo>
-	<talkpage id="39874337" title="Talk:Agblexo">
-{{WikiProject Anthroponymy|class=redirect}}
-	</talkpage>
-</article>

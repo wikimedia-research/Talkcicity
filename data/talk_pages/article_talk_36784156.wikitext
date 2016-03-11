@@ -1,9 +1,0 @@
-<article id="36784156" title=Talk:Daniel Nord>
-	<talkpage id="36784156" title="Talk:Daniel Nord">
-{{WikiProject Biography
-|living=yes
-|class=
-|listas=Nord, Daniel
-}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="13175687" title=Talk:Carbonero el Mayor>
-	<talkpage id="13175687" title="Talk:Carbonero el Mayor">
-{{WikiProject Spain|class=Stub|importance=}}
-	</talkpage>
-</article>

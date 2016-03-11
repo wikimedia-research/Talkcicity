@@ -1,5 +1,0 @@
-<article id="33239354" title=Talk:Agonopterix pallorella>
-	<talkpage id="33239354" title="Talk:Agonopterix pallorella">
-{{LepidopteraTalk|class=stub|importance=low}}
-	</talkpage>
-</article>

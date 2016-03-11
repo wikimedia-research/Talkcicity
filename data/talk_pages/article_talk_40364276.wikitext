@@ -1,6 +1,0 @@
-<article id="40364276" title=User talk:Heredianisimo>
-	<talkpage id="40364276" title="User talk:Heredianisimo">
-== August 2013 ==
-[[Image:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Minna Sora no Shita|Minna Sora no Shita]]. I noticed that you recently removed some content from [[:File:CSHerediano.PNG]]&amp;nbsp;without explaining why. In the future, it would be helpful to others if you described your changes to Wikipedia with an [[Wikipedia:Edit summary|edit summary]]. If this was a mistake, don't worry: I restored the removed content. If you would like to experiment, you can use the [[WP:Sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Minna Sora no Shita|my talk page]]. Thanks!&lt;!-- Template:uw-delete1 --&gt; [[User:Minna Sora no Shita|みんな空の下]] ([[User talk:Minna Sora no Shita|トーク]]) 20:44, 26 August 2013 (UTC)
-	</talkpage>
-</article>

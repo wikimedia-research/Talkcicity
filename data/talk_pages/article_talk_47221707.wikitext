@@ -1,6 +1,0 @@
-<article id="40235516" title=Talk:Zettai Kareshi (TV series)>
-	<talkpage id="40235516" title="Talk:Zettai Kareshi (TV series)">
-{{WikiProject Japan|class=start|importance=Low}}
-{{WikiProject Television}}
-	</talkpage>
-</article>

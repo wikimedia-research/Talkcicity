@@ -1,5 +1,0 @@
-<article id="38597021" title=Talk:Paul Morel Hospital>
-	<talkpage id="38597021" title="Talk:Paul Morel Hospital">
-{{WikiProject Hospitals|class=stub|importance=|needs-infobox=yes|needs-coord=yes}}
-	</talkpage>
-</article>

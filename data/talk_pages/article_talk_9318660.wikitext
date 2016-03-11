@@ -1,6 +1,0 @@
-<article id="9318660" title=User talk:71.246.132.231>
-	<talkpage id="9318660" title="User talk:71.246.132.231">
-==February 2007==
-Please do not remove content from Wikipedia{{#if:{{{1|}}}|, as you did to [[:{{{1}}}]]}}. It is considered [[Wikipedia:Vandalism|vandalism]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Thank you. &lt;!-- Template:Test2a (Second level warning) --&gt; &lt;b&gt;&lt;font color=&quot;#2EC401&quot;&gt;[[User:Jacek_Kendysz|Jacek]]&lt;/font&gt; &lt;font color=&quot;#206600&quot;&gt;[[User:Jacek_Kendysz|Kendysz]]&lt;/font&gt;&lt;/b&gt; 01:32, 5 February 2007 (UTC)
-	</talkpage>
-</article>

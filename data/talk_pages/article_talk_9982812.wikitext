@@ -1,5 +1,0 @@
-<article id="9982812" title=User talk:68.163.235.88>
-	<talkpage id="9982812" title="User talk:68.163.235.88">
-[[Image:Information.svg|25px]] Please do not add unhelpful and non-constructive information to Wikipedia{{{{{subst|}}}#if:Marques Houston|, as you did to [[:Marques Houston]]}}. Your edits could be considered [[Wikipedia:Vandalism|vandalism]], and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{{2|Thank you.}}}&lt;!-- {{uw-vandalism2}} --&gt; --[[User:Yamla|Yamla]] 00:31, 11 March 2007 (UTC)
-	</talkpage>
-</article>

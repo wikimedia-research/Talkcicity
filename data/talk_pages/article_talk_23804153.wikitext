@@ -1,6 +1,0 @@
-<article id="23804153" title=Talk:Why? (film)>
-	<talkpage id="23804153" title="Talk:Why? (film)">
-{{Film|class=Stub}}
-{{WikiProject Czech Republic|class=Stub|importance=low}}
-	</talkpage>
-</article>

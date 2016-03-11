@@ -1,6 +1,0 @@
-<article id="24700417" title=User talk:41.185.100.149>
-	<talkpage id="24700417" title="User talk:41.185.100.149">
-
-[[Image:Information.svg|25px]] Please refrain from making nonconstructive edits to Wikipedia{{#if:Alessandro Volta|, as you did to [[:Alessandro Volta]]}}. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Thank you.&lt;!-- Template:uw-vandalism2 --&gt; [[User:Piano non troppo|Piano non troppo]] ([[User talk:Piano non troppo|talk]]) 13:28, 15 October 2009 (UTC)
-	</talkpage>
-</article>

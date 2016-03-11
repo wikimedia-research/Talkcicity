@@ -1,5 +1,0 @@
-<article id="21227791" title=Talk:Lvovskoye, Tver Oblast>
-	<talkpage id="21227791" title="Talk:Lvovskoye, Tver Oblast">
-{{WPRUSSIA|class=Stub|importance=Low|humgeo=yes}}
-	</talkpage>
-</article>

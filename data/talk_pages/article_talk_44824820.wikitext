@@ -1,5 +1,0 @@
-<article id="44824820" title=Talk:Mr Whippy>
-	<talkpage id="44824820" title="Talk:Mr Whippy">
-{{WikiProject Food and Drink}}
-	</talkpage>
-</article>

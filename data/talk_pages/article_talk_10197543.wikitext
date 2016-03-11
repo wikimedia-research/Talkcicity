@@ -1,6 +1,0 @@
-<article id="10197543" title=Talk:Framing Armageddon: Something Wicked Part 1>
-	<talkpage id="10197543" title="Talk:Framing Armageddon: Something Wicked Part 1">
-{{album|class=C|importance=Low}}
-{{HMM|class=C}}
-	</talkpage>
-</article>

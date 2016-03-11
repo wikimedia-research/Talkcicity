@@ -1,7 +1,0 @@
-<article id="44836382" title=User talk:2602:30A:2CFB:13B0:2898:5ED:18BD:A7C5>
-	<talkpage id="44836382" title="User talk:2602:30A:2CFB:13B0:2898:5ED:18BD:A7C5">
-
-== December 2014 ==
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:TerryAlex|TerryAlex]]. I wanted to let you know that I undid one or more of [[Special:Contributions/2602:30A:2CFB:13B0:2898:5ED:18BD:A7C5|your recent contributions]]&amp;nbsp;to [[:1 Thing]] because it did not appear constructive. If you would like to experiment, please use the [[WP:sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:TerryAlex|my talk page]]. &lt;!-- Template:uw-vandalism1 --&gt;  [[User:TerryAlex|TerryAlex]] ([[User talk:TerryAlex|talk]]) 03:43, 25 December 2014 (UTC)
-	</talkpage>
-</article>

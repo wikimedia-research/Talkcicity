@@ -1,5 +1,0 @@
-<article id="30514580" title=Talk:Paduwangoda>
-	<talkpage id="30514580" title="Talk:Paduwangoda">
-{{WikiProject Sri Lanka|class=Stub|importance=Low}}
-	</talkpage>
-</article>

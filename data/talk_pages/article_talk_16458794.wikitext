@@ -1,6 +1,0 @@
-<article id="16458794" title=Talk:Woodlark (disambiguation)>
-	<talkpage id="16458794" title="Talk:Woodlark (disambiguation)">
-{{DisambigProject}}
-{{WikiProject Animals|class=disambig|importance=NA}}
-	</talkpage>
-</article>

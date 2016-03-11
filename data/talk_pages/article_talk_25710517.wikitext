@@ -1,8 +1,0 @@
-<article id="25710517" title=User talk:124.182.48.12>
-	<talkpage id="25710517" title="User talk:124.182.48.12">
-
-
-== January 2010 ==
-[[Image:Information.svg|25px]] Welcome to Wikipedia. It might not have been your intention, but your recent edit removed content from [[:Something, Something, Something, Dark Side]]. When removing text, please specify a reason in the [[Help:Edit summary|edit summary]] and discuss edits that are likely to be controversial on the article's [[Wikipedia:Talk page|talk page]]. If this was a mistake, don't worry; the text has been restored, as you can see from the &lt;span class=&quot;plainlinks&quot;&gt;[{{fullurl:Something, Something, Something, Dark Side|action=history}} page history]&lt;/span&gt;. Take a look at the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing to this encyclopedia, and if you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]].  Thank you.&lt;!-- Template:uw-delete1 --&gt; [[User:SchfiftyThree|&lt;font color=&quot;DeepSkyBlue&quot;&gt;'''Schfifty'''&lt;/font&gt;]][[User talk:SchfiftyThree|&lt;font color=&quot;OrangeRed&quot;&gt;'''3'''&lt;/font&gt;]] 04:02, 7 January 2010 (UTC)
-	</talkpage>
-</article>

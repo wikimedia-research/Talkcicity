@@ -1,5 +1,0 @@
-<article id="12034540" title=User talk:77.101.66.192>
-	<talkpage id="12034540" title="User talk:77.101.66.192">
-{{{icon|[[Image:Information.svg|25px]] }}}Please refrain from making unconstructive edits to Wikipedia{{{{{subst|}}}#if:Mecca|, as you did to [[:Mecca]]}}. Your edits appear to be [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism2 --&gt; A link to the edit I have reverted can be found here: &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/w/index.php?title=Mecca&amp;diff=next&amp;oldid=141782597 link]&lt;/span&gt;. If you believe this edit should not have been reverted, please contact me. &lt;!-- 149--&gt; [[User:Euryalus|Euryalus]] 11:51, 1 July 2007 (UTC)
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="22636338" title=Talk:Stabilized images>
-	<talkpage id="22636338" title="Talk:Stabilized images">
-{{WPMED |class=Stub|importance=Low}}
-	</talkpage>
-</article>

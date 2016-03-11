@@ -1,6 +1,0 @@
-<article id="18364101" title=Talk:Varzob District>
-	<talkpage id="18364101" title="Talk:Varzob District">
-{{WikiProject Central Asia|class=stub|importance=low}}
-{{WikiProject Tajikistan|class=stub|importance=low}}
-	</talkpage>
-</article>

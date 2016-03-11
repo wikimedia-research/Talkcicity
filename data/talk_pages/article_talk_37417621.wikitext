@@ -1,6 +1,0 @@
-<article id="37417621" title=Talk:A Kiss So Deadly>
-	<talkpage id="37417621" title="Talk:A Kiss So Deadly">
-{{WikiProject Film|class=stub|American=yes}}
-{{WikiProject Television|class=stub|importance=low}}
-	</talkpage>
-</article>

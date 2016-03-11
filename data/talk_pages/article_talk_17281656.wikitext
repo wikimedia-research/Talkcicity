@@ -1,9 +1,0 @@
-<article id="17281656" title=User talk:213.205.149.136>
-	<talkpage id="17281656" title="User talk:213.205.149.136">
-
-
-== May 2008 ==
-[[Image:Nuvola apps important.svg|25px]] Please stop your disruptive editing{{#if:User:Raul654|, such as the edit you made to [[:User:Raul654]]}}. If your [[Wikipedia:Vandalism|vandalism]] continues, you will be [[Wikipedia:Blocking policy|blocked]] from editing Wikipedia. {{#if:|{{{2}}}|}}&lt;!-- Template:uw-vandalism3 --&gt; [[User:Cirt|Cirt]] ([[User talk:Cirt|talk]]) 02:16, 6 May 2008 (UTC)
-:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
-	</talkpage>
-</article>

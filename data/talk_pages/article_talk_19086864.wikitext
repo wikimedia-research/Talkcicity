@@ -1,9 +1,0 @@
-<article id="19086864" title=User talk:80.73.185.32>
-	<talkpage id="19086864" title="User talk:80.73.185.32">
-
-
-== August 2008 ==
-[[Image:Information.svg|25px]] Thank you for your contributions to Wikipedia{{#if:Albania national football team|. Regarding your edit(s) to [[:Albania national football team]]|. In the future}}, it is recommended that you use the [[Help:Show preview|preview]] button before you save; this helps you find any errors you have made, and prevents clogging up [[Special:Recentchanges|recent changes]] and the [[Wikipedia:page history|page history]]. {{#if:|{{{2}}}|Thank you.}} &lt;!-- Template:uw-preview --&gt; [[User:Xeltran|Xeltran]] ([[User talk:Xeltran|talk]]) 10:44, 29 August 2008 (UTC)
-:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
-	</talkpage>
-</article>

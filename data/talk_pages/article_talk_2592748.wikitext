@@ -1,7 +1,0 @@
-<article id="2592748" title=User talk:64.9.15.158>
-	<talkpage id="2592748" title="User talk:64.9.15.158">
-{{SharedIPEDU|Bensalem Township School District}}
-
-{{schoolblock}}
-	</talkpage>
-</article>

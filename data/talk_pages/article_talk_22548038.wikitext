@@ -1,6 +1,0 @@
-<article id="22548038" title=Talk:Buy This>
-	<talkpage id="22548038" title="Talk:Buy This">
-{{album|class=redirect}}
-{{WikiProject Alternative music|class=Stub|importance=low}}
-	</talkpage>
-</article>

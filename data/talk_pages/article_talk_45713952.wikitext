@@ -1,8 +1,0 @@
-<article id="45713952" title=Talk:Delmer Berg>
-	<talkpage id="45713952" title="Talk:Delmer Berg">
-{{WikiProject Biography |listas=Berg, Delmer |living=yes |class=Start}}
-{{WikiProject California |class=Start}}
-{{WikiProject Socialism |class=Start}}
-{{WikiProject Military history |US=yes |class=Start}}
-	</talkpage>
-</article>

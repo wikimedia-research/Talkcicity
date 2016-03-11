@@ -1,8 +1,0 @@
-<article id="47437938" title=User talk:81.145.216.116>
-	<talkpage id="47437938" title="User talk:81.145.216.116">
-== August 2015 ==
-
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Jaaron95|Jaaron95]]. I wanted to let you know that I reverted one of [[Special:Contributions/81.145.216.116|your recent contributions]]&amp;nbsp;—the one you made with &lt;span class=&quot;plainlinks&quot;&gt;[https://en.wikipedia.org/w/index.php?title=Imanol%20Agirretxe&amp;diff=674686685 this edit]&lt;/span&gt; to [[:Imanol Agirretxe]]— because it didn’t appear constructive to me. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Jaaron95|my talk page]]. Thanks. &lt;!-- Template:Huggle/warn-1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt;[[User:Jaaron95|&lt;font color=&quot;CornflowerBlue&quot; face=&quot;Times&quot;&gt;'''JAaron95'''&lt;/font&gt;]] &lt;sup&gt;[[User talk:Jaaron95|&lt;font color=&quot;Green&quot; face= &quot;Times&quot;&gt;Talk&lt;/font&gt;]]&lt;/sup&gt;  14:05, 5 August 2015 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

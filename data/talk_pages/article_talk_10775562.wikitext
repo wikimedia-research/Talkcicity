@@ -1,9 +1,0 @@
-<article id="10775562" title=Talk:Linda Catlin Smith>
-	<talkpage id="10775562" title="Talk:Linda Catlin Smith">
-{{WikiProjectBannerShell|1=
-{{WikiProject Composers|class=Stub}}
-{{WikiProject Contemporary music}}
-{{WikiProject Biography|living=yes|class=Stub|musician-work-group=yes|listas=Smith, Linda Catlin}}
-|blp=yes}}
-	</talkpage>
-</article>

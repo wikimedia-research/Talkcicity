@@ -1,5 +1,0 @@
-<article id="29244712" title=Talk:Curierul Național>
-	<talkpage id="29244712" title="Talk:Curierul Național">
-{{WikiProject Romania |importance=|class=stub}}
-	</talkpage>
-</article>

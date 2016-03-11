@@ -1,5 +1,0 @@
-<article id="38091956" title=Talk:Muang Khua>
-	<talkpage id="38091956" title="Talk:Muang Khua">
-{{WikiProject Southeast Asia|class=stub|Laos=yes}}
-	</talkpage>
-</article>

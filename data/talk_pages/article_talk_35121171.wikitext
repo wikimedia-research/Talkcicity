@@ -1,8 +1,0 @@
-<article id="35121171" title=Talk:Portalban>
-	<talkpage id="35121171" title="Talk:Portalban">
-{{tpr|Delley-Portalban}}
-
-
-{{WikiProject Switzerland|class=Redirect|importance=NA}}
-	</talkpage>
-</article>

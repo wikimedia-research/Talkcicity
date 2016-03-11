@@ -1,6 +1,0 @@
-<article id="12613337" title=Talk:Haplochromis paropius>
-	<talkpage id="12613337" title="Talk:Haplochromis paropius">
-{{AfricaProject|Tanzania=yes|Tanzania-importance=|class=Stub|importance=}}
-{{Fishproject|class=Stub|needs-photo=yes}}
-	</talkpage>
-</article>

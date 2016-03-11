@@ -1,6 +1,0 @@
-<article id="14917562" title=Talk:Red Market>
-	<talkpage id="14917562" title="Talk:Red Market">
-{{WikiProject China|class=stub|auto=yes}}
-{{WPMacau|class=stub|importance=low}}
-	</talkpage>
-</article>

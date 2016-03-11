@@ -1,6 +1,0 @@
-<article id="14814084" title=User talk:90.206.122.85>
-	<talkpage id="14814084" title="User talk:90.206.122.85">
-
-{{{icon|[[Image:Information.svg|25px]] }}}Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits{{{{{subst|}}}#if:Wiley (rapper)|, such as the one you made to [[:Wiley (rapper)]],}} did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed.  Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-vandalism1 --&gt; [[User talk:Slartibartfast1992|&lt;font color=&quot;black&quot;&gt;'''Slarti'''&lt;/font&gt;]][[Special:Contributions/Slartibartfast1992|&lt;font color=&quot;black&quot;&gt;'''bartfast'''&lt;/font&gt;]]&lt;small&gt;1992&lt;/small&gt; 01:12, 21 December 2007 (UTC)
-	</talkpage>
-</article>

@@ -1,6 +1,0 @@
-<article id="42406523" title=Talk:Recycling antimatter>
-	<talkpage id="42406523" title="Talk:Recycling antimatter">
-{{WikiProject Chicago|class=Stub}}
-{{WikiProject Physics|class=stub|importance=low}}
-	</talkpage>
-</article>

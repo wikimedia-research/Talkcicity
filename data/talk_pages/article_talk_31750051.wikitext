@@ -1,5 +1,0 @@
-<article id="31750051" title=Talk:United States-Japan Security Treaty>
-	<talkpage id="31750051" title="Talk:United States-Japan Security Treaty">
-{{WikiProject United States|class=Redirect|importance=NA}}
-	</talkpage>
-</article>

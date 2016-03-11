@@ -1,5 +1,0 @@
-<article id="30615118" title=Talk:Colpodella>
-	<talkpage id="30615118" title="Talk:Colpodella">
-{{WikiProject Microbiology}}
-	</talkpage>
-</article>

@@ -1,6 +1,0 @@
-<article id="19816995" title=Talk:My Story (Scholastic UK)>
-	<talkpage id="19816995" title="Talk:My Story (Scholastic UK)">
-{{NovelsWikiProject|class=Stub|importance=Mid}}
-{{WikiProject Children's literature|class=Stub|importance=High}}
-	</talkpage>
-</article>

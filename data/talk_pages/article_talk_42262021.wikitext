@@ -1,5 +1,0 @@
-<article id="42262021" title=Talk:Symphlebia juvenis>
-	<talkpage id="42262021" title="Talk:Symphlebia juvenis">
-{{LepidopteraTalk|class=stub|importance=low}}
-	</talkpage>
-</article>

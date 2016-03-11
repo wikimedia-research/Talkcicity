@@ -1,5 +1,0 @@
-<article id="12373396" title=Talk:Reversal of Fortune (disambiguation)>
-	<talkpage id="12373396" title="Talk:Reversal of Fortune (disambiguation)">
-{{DisambigProject}}
-	</talkpage>
-</article>

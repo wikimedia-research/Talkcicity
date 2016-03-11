@@ -1,8 +1,0 @@
-<article id="20824197" title=User talk:74.76.12.154>
-	<talkpage id="20824197" title="User talk:74.76.12.154">
-
-== December 2008 ==
-
-[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Festivus?diff=259819037 recent edit]&lt;/span&gt; you made to [[:Festivus]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:Luckas Blade|Luckas Blade]] ([[User talk:Luckas Blade|talk]]) 00:25, 24 December 2008 (UTC)
-	</talkpage>
-</article>

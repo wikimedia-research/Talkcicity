@@ -1,5 +1,0 @@
-<article id="31593195" title=Talk:Fucus distichus>
-	<talkpage id="31593195" title="Talk:Fucus distichus">
-{{WikiProject Algae |class=start |importance=low}}
-	</talkpage>
-</article>

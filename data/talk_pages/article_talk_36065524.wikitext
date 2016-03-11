@@ -1,9 +1,0 @@
-<article id="36065524" title=Talk:Michael Shor>
-	<talkpage id="36065524" title="Talk:Michael Shor">
-{{WikiProject Biography
-|living=no
-|class=Stub
-|listas=Shor, Michael
-}}
-	</talkpage>
-</article>

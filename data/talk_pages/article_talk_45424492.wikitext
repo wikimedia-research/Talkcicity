@@ -1,7 +1,0 @@
-<article id="45424492" title=User talk:106.68.22.102>
-	<talkpage id="45424492" title="User talk:106.68.22.102">
-== February 2015 ==
-[[Image:Information.svg|25px|alt=Information icon]] [[Wikipedia:Welcoming committee/Welcome to Wikipedia|Welcome to Wikipedia]]. It might not have been your intention, but your recent edit removed [[Wikipedia:Maintenance templates|maintenance templates]] from [[:Jesse John Fleay]]. When removing maintenance templates, please be sure to either resolve the problem that the template refers to, or give a valid reason for the removal in the [[Help:Edit summary|edit summary]]. If this was a mistake, don't worry, as your removal of this template has been [[Help:Reverting|reverted]]. Take a look at the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing to this encyclopedia, and if you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Thank you.&lt;!-- Template:uw-tdel1 --&gt; -[[User:War wizard90|War wizard90]] ([[User talk:War wizard90#top|talk]]) 06:01, 17 February 2015 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

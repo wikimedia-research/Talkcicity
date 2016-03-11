@@ -1,5 +1,0 @@
-<article id="41228940" title=Talk:Prionacalus buckleyi>
-	<talkpage id="41228940" title="Talk:Prionacalus buckleyi">
-{{WikiProject Insects|class=Stub|importance=Low}}
-	</talkpage>
-</article>

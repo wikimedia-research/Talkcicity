@@ -1,6 +1,0 @@
-<article id="7288631" title=Talk:Louis-Lewin-Straße (Berlin U-Bahn)>
-	<talkpage id="7288631" title="Talk:Louis-Lewin-Straße (Berlin U-Bahn)">
-{{TrainsWikiProject|class=stub|importance=low|DE=yes|DE-importance=low|Subway=yes|Stations=yes}}
-{{WikiProject Germany|class=Stub|importance=low}}
-	</talkpage>
-</article>

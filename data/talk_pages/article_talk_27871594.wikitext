@@ -1,8 +1,0 @@
-<article id="27871594" title=User talk:87.202.52.141>
-	<talkpage id="27871594" title="User talk:87.202.52.141">
-
-== June 2010 ==
-
-[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Terra_Nova_Expedition?diff=370489651 recent edit]&lt;/span&gt; that you made to the page [[:Terra Nova Expedition]] has been reverted, as it appears to be unconstructive. Please use the [[Wikipedia:Sandbox|sandbox]] for testing any edits; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]] for further information. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:Tide rolls|'''&lt;span style=&quot;color:White;background:darkRed&quot;&gt;Tide&lt;/span&gt;''']][[User talk:Tide rolls|'''&lt;span style=&quot;color:darkRed&quot;&gt;rolls'''&lt;/span&gt;]] 22:11, 27 June 2010 (UTC)
-	</talkpage>
-</article>

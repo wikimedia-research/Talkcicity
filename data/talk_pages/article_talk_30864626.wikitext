@@ -1,6 +1,0 @@
-<article id="30864626" title=Talk:Music Box Films>
-	<talkpage id="30864626" title="Talk:Music Box Films">
-{{WikiProject Chicago|class=Stub}}
-{{WikiProject Film|class=stub}}
-	</talkpage>
-</article>

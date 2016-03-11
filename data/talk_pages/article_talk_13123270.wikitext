@@ -1,5 +1,0 @@
-<article id="13123270" title=Talk:Lecrín>
-	<talkpage id="13123270" title="Talk:Lecrín">
-{{WikiProject Spain|class=Stub|importance=}}
-	</talkpage>
-</article>

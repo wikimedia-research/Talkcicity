@@ -1,5 +1,0 @@
-<article id="35192547" title=Talk:County Route 41 (Ontario County, New York)>
-	<talkpage id="35192547" title="Talk:County Route 41 (Ontario County, New York)">
-{{U.S. Roads WikiProject|state=NY-CRTF|class=Redirect}}
-	</talkpage>
-</article>

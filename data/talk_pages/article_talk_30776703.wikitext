@@ -1,6 +1,0 @@
-<article id="30776703" title=Talk:Hawthorne School District>
-	<talkpage id="30776703" title="Talk:Hawthorne School District">
-{{WikiProject Schools|class=stub|importance=low}}
-{{WikiProject California|class=stub|importance=low|la=yes|la-importance=low}}
-	</talkpage>
-</article>

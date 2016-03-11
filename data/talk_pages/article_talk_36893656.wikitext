@@ -1,5 +1,0 @@
-<article id="9966172" title=Talk:School District 18>
-	<talkpage id="9966172" title="Talk:School District 18">
-{{WikiProject Canada|nb=yes|class=List|importance=Low|education=yes}}
-	</talkpage>
-</article>

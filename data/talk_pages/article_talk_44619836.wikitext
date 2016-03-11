@@ -1,5 +1,0 @@
-<article id="44619836" title=Talk:Otten>
-	<talkpage id="44619836" title="Talk:Otten">
-{{WikiProject Anthroponymy|class=List|importance=NA}}
-	</talkpage>
-</article>

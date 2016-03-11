@@ -1,5 +1,0 @@
-<article id="28339961" title=Talk:Vatici>
-	<talkpage id="28339961" title="Talk:Vatici">
-{{WPMoldova|class=stub}}
-	</talkpage>
-</article>

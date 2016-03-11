@@ -1,6 +1,0 @@
-<article id="44342323" title=Talk:Bir El Qutt inscriptions>
-	<talkpage id="44342323" title="Talk:Bir El Qutt inscriptions">
-{{WPGC|class=start|importance=high}}
-{{WikiProject Christianity|class=start}}
-	</talkpage>
-</article>

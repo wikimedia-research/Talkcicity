@@ -1,6 +1,0 @@
-<article id="4435348" title=Talk:County Road 372A (Wakulla County, Florida)>
-	<talkpage id="4435348" title="Talk:County Road 372A (Wakulla County, Florida)">
-{{WikiProject Florida|class=Redirect}}
-{{U.S. Roads WikiProject|class=Redirect|importance=Low|state=FL-CRTF|needs-map=yes}}
-	</talkpage>
-</article>

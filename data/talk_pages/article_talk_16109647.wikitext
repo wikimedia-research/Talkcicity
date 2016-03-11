@@ -1,5 +1,0 @@
-<article id="16109647" title=Talk:Learning Assistant Model>
-	<talkpage id="16109647" title="Talk:Learning Assistant Model">
-{{WikiProject Education}}
-	</talkpage>
-</article>

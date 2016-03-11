@@ -1,7 +1,0 @@
-<article id="42701310" title=User talk:76.27.52.166>
-	<talkpage id="42701310" title="User talk:76.27.52.166">
-== May 2014 ==
-[[Image:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Adamblack93|Adamblack93]]. I noticed that you recently removed some content from [[:Lucid dream]]&amp;nbsp;without explaining why. In the future, it would be helpful to others if you described your changes to Wikipedia with an accurate [[Help:Edit summary|edit summary]]. If this was a mistake, don't worry; I restored the removed content. If you would like to experiment, please use the [[WP:Sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Adamblack93|my talk page]]. Thanks!&lt;!-- Template:uw-delete1 --&gt; [[User:Adamblack93|Adam Black]] ([[User talk:Adamblack93|talk]]) 18:11, 8 May 2014 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="24154488" title=Talk:Dasmophora>
-	<talkpage id="24154488" title="Talk:Dasmophora">
-{{WikiProject Lepidoptera|class=stub|importance=low}}
-	</talkpage>
-</article>

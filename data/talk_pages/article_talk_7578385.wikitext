@@ -1,8 +1,0 @@
-<article id="7578385" title=User talk:Irving Gleeson>
-	<talkpage id="7578385" title="User talk:Irving Gleeson">
-
-[[Image:Stop_hand.svg|left|30px]] This is your '''last warning''' for editing [[:Yankee Stadium]] ([http://en.wikipedia.org/w/index.php?title=Yankee_Stadium&amp;diff=83152256&amp;oldid=83152057 diff]). The next time you [[Wikipedia:Vandalism|vandalize]] a page, you ''will'' be [[Wikipedia:Blocking policy|blocked]] from editing Wikipedia. &lt;!-- Template:Test4 (Fourth level warning / AntiVandalBot autowarn version) --&gt;  // [[User:AntiVandalBot|AntiVandalBot]] 05:13, 23 October 2006 (UTC)
-
-&lt;div class=&quot;user-block&quot; style=&quot;clear:both;&quot;&gt;[[Image:Octagon-warning.svg|30px|left]] It has become apparent that your account is only being used for [[Wikipedia:Vandalism|vandalism]], so it has been [[Wikipedia:Blocking policy|blocked indefinitely]]. &lt;!-- {{vandalblock}} --&gt; &lt;/div&gt; [[User:Luna Santin|Luna Santin]] 05:13, 23 October 2006 (UTC)
-	</talkpage>
-</article>

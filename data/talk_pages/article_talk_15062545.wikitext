@@ -1,9 +1,0 @@
-<article id="15062545" title=Talk:Alan Bean (activist)>
-	<talkpage id="15062545" title="Talk:Alan Bean (activist)">
-{{WPBiography
-|living=yes
-|class=Stub
-|listas=Bean, Alan
-}}
-	</talkpage>
-</article>

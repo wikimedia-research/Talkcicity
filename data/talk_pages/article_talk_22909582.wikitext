@@ -1,5 +1,0 @@
-<article id="22909582" title=Talk:Kończewice, Pomeranian Voivodeship>
-	<talkpage id="22909582" title="Talk:Kończewice, Pomeranian Voivodeship">
-{{WikiProject Poland|class=start|importance=mid}}
-	</talkpage>
-</article>

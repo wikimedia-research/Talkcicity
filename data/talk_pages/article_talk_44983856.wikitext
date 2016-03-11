@@ -1,6 +1,0 @@
-<article id="44983856" title=Talk:Parhippopsicon albovittatum>
-	<talkpage id="44983856" title="Talk:Parhippopsicon albovittatum">
-{{WikiProject Insects|class=Stub|importance=Low|needs-photo=yes}}
-{{WikiProject Beetles|class=Stub|importance=Low|needs-photo=yes}}
-	</talkpage>
-</article>

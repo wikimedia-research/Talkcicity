@@ -1,5 +1,0 @@
-<article id="43689747" title=User talk:Enaiburg>
-	<talkpage id="43689747" title="User talk:Enaiburg">
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Ohnoitsjamie|Ohnoitsjamie]]. I wanted to let you know that I undid one or more of [[Special:Contributions/Enaiburg|your recent contributions]] because it appeared to be promotional. [[Wikipedia:What Wikipedia is not#Wikipedia is not a soapbox|Advertising]] and using Wikipedia as a &quot;[[WP:SOAP|soapbox]]&quot; are against Wikipedia policy and not permitted. Take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about Wikipedia. Thank you.[[Category:User talk pages with Uw-advert1 notices|{{PAGENAME}}]]&lt;!-- Template:uw-advert1 --&gt; &lt;b&gt;[[User:Ohnoitsjamie|OhNo&lt;font color=&quot;#D47C14&quot;&gt;itsJamie&lt;/font&gt;]] [[User talk:Ohnoitsjamie|&lt;sup&gt;Talk&lt;/sup&gt;]]&lt;/b&gt; 14:11, 29 August 2014 (UTC)
-	</talkpage>
-</article>

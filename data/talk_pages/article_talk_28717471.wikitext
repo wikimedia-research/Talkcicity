@@ -1,5 +1,0 @@
-<article id="17689889" title=Talk:Lourdes Hospital (Kerala)>
-	<talkpage id="17689889" title="Talk:Lourdes Hospital (Kerala)">
-{{WikiProject India|class=stub|importance=low|assess-date=March 2012}}
-	</talkpage>
-</article>

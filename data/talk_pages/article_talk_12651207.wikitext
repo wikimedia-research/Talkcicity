@@ -1,5 +1,0 @@
-<article id="12651207" title=Talk:Bythinella cylindrica>
-	<talkpage id="12651207" title="Talk:Bythinella cylindrica">
-{{WikiProject Gastropods|class=Stub|importance=low|needs-photo=yes}}
-	</talkpage>
-</article>

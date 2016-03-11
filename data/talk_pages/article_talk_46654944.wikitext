@@ -1,6 +1,0 @@
-<article id="46654944" title=Talk:Yngve Ekström>
-	<talkpage id="46654944" title="Talk:Yngve Ekström">
-{{WikiProject Biography|living=no}}
-{{WikiProject Sweden}}
-	</talkpage>
-</article>

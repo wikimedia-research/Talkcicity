@@ -1,5 +1,0 @@
-<article id="39059107" title=Talk:Galactofuranosylgalactofuranosylrhamnosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,5/1,6-galactofuranosyltransferase>
-	<talkpage id="39059107" title="Talk:Galactofuranosylgalactofuranosylrhamnosyl-N-acetylglucosaminyl-diphospho-decaprenol beta-1,5/1,6-galactofuranosyltransferase">
-{{WikiProject Molecular and Cellular Biology|class=stub|importance=low}}
-	</talkpage>
-</article>

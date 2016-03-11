@@ -1,7 +1,0 @@
-<article id="17252057" title=User talk:The.malefactor>
-	<talkpage id="17252057" title="User talk:The.malefactor">
-
-== Image:Lokacija.gif listed for deletion ==
-An image or media file that you uploaded or altered, [[:Image:Lokacija.gif]], has been listed at [[Wikipedia:Images and media for deletion]]. Please see the [[Wikipedia:Images and media for deletion/2008 May 3#Image:Lokacija.gif|discussion]] to see why this is (you may have to search for the title of the image to find its entry), if you are interested in it not being deleted. {{#if:|{{{2}}}|Thank you.}}  &lt;small&gt;Do you want to [[Template:Bots#Message notification opt out|opt out]] of receiving this notice?&lt;/small&gt; [[User:BigrTex|&lt;font color=&quot;blue&quot;&gt;Bigr&lt;/font&gt;]][[User Talk:BigrTex|&lt;font color=&quot;red&quot;&gt;Tex&lt;/font&gt;]] 23:39, 3 May 2008 (UTC) &lt;!-- Template:Idw --&gt;
-	</talkpage>
-</article>

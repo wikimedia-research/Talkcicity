@@ -1,5 +1,0 @@
-<article id="14140270" title=Talk:British logistics in the Second Boer War>
-	<talkpage id="14140270" title="Talk:British logistics in the Second Boer War">
-{{WPMILHIST|class=stub|British=yes|African=yes}}
-	</talkpage>
-</article>

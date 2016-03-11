@@ -1,6 +1,0 @@
-<article id="13860683" title=Talk:Osteochondroma>
-	<talkpage id="13860683" title="Talk:Osteochondroma">
-{{Reliable sources for medical articles}}
-{{WPMED|class=C|importance=Mid}}
-	</talkpage>
-</article>

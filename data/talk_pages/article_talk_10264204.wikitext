@@ -1,9 +1,0 @@
-<article id="10264204" title=Talk:Les Fatals Picards>
-	<talkpage id="10264204" title="Talk:Les Fatals Picards">
-{{WikiProject France|class=start|importance= }}
-{{EurovisionNotice|class=start|importance=low}}
-What does &quot;Les Fatals Picards&quot; mean in English? --[[User:81.231.187.228|81.231.187.228]] 00:03, 20 May 2007 (UTC)
-
-The band's website describes it as a name of ridicule or a taunt, used to describe those people who come from the [[Picardie]] region in France but who pursue higher education or work in Paris to the south.  It's meant to make light of these people giving up their roots to study or work in the 'big city.'  - [[User:Mochajava97|Mochajava97]] 09:07, 28 May 2007 (UTC)
-	</talkpage>
-</article>

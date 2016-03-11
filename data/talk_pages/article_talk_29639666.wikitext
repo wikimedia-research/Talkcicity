@@ -1,5 +1,0 @@
-<article id="29639666" title=Talk:Streaky rashers>
-	<talkpage id="29639666" title="Talk:Streaky rashers">
-{{WikiProject Bacon|class=Redirect}}
-	</talkpage>
-</article>

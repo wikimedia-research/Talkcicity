@@ -1,5 +1,0 @@
-<article id="31228354" title=Talk:Bids for the 1976 Winter Olympics>
-	<talkpage id="31228354" title="Talk:Bids for the 1976 Winter Olympics">
-{{WikiProject Olympics|class=stub|Olympic Bids=yes}}
-	</talkpage>
-</article>

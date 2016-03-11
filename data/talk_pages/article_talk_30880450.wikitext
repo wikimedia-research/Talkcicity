@@ -1,6 +1,0 @@
-<article id="30880450" title=Talk:Ernest Charles>
-	<talkpage id="30880450" title="Talk:Ernest Charles">
-{{WikiProject Biography|living=no|class=Start|musician-work-group=yes|listas=Charles, Ernest}}
-{{WikiProject Composers|class=start}}
-	</talkpage>
-</article>

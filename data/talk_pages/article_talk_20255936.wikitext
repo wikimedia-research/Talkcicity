@@ -1,5 +1,0 @@
-<article id="20255936" title=Talk:Bosnia (disambiguation)>
-	<talkpage id="20255936" title="Talk:Bosnia (disambiguation)">
-{{DisambigProject}}
-	</talkpage>
-</article>

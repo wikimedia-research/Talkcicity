@@ -1,5 +1,0 @@
-<article id="30212294" title=Talk:Districts of Fiji>
-	<talkpage id="30212294" title="Talk:Districts of Fiji">
-{{WikiProject Fiji}}
-	</talkpage>
-</article>

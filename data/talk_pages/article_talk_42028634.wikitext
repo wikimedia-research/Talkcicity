@@ -1,5 +1,0 @@
-<article id="42028634" title=Talk:Orthomorpha>
-	<talkpage id="42028634" title="Talk:Orthomorpha">
-{{WP Arthropods|class=stub|importance=low}}
-	</talkpage>
-</article>

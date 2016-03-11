@@ -1,5 +1,0 @@
-<article id="17995227" title=Talk:The Carnegie Foundation>
-	<talkpage id="17995227" title="Talk:The Carnegie Foundation">
-{{DisambigProject|class=|importance=}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="23468906" title=Talk:Monument aux Morts de Montauban>
-	<talkpage id="23468906" title="Talk:Monument aux Morts de Montauban">
-{{Visual arts|class=stub}}
-	</talkpage>
-</article>

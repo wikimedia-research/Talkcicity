@@ -1,6 +1,0 @@
-<article id="12404899" title=Talk:Limnonectes xizangensis>
-	<talkpage id="12404899" title="Talk:Limnonectes xizangensis">
-{{WikiProject Amphibians and Reptiles|class=Stub|importance=low|needs-photo=yes}}
-{{WikiProject China|class=stub|importance=low}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="17005568" title=Talk:On Our Own (1977 TV series)>
-	<talkpage id="17005568" title="Talk:On Our Own (1977 TV series)">
-{{WikiProject Television | class= | priority=  | needs-infobox = no}}
-	</talkpage>
-</article>

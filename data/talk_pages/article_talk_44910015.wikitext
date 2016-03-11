@@ -1,9 +1,0 @@
-<article id="23667829" title=Talk:Dan Sullivan (Alaska politician)>
-	<talkpage id="23667829" title="Talk:Dan Sullivan (Alaska politician)">
-{{WikiProject Biography|living=yes|activepol=yes|class=start|politician-work-group=yes|politician-priority=|listas=Sullivan, Dan}}
-{{WikiProject Alaska|class=start|importance=mid}}
-
-==Article name==
-There are two Dan Sullivans in Alaska running for office at the same time. They're both called Daniel Sullivan, but both go by Dan Sullivan - see [http://www.today.com/news/two-dan-sullivans-run-office-alaska-1D80082116 here], where it also states that &quot;Middle initials would allow for some clarity (the mayor’s is A, and the former attorney general’s is S), but both candidates declined that option&quot;, so calling the articles &quot;Daniel S. Sullivan&quot; and &quot;Daniel A. Sullivan&quot; won't work (nevermind [[WP:COMMONNAME]]). We can't even keep &quot;Dan Sullivan (mayor)&quot; at that disambig because he's running for (and likely to be elected) Lieutenant Governor and we can't keep changing article names based on what office the subject is elected to. Thus, I'm going to move this article to &quot;Dan Sullivan (politician, born 1951)&quot; and Daniel S. Sullivan to &quot;Dan Sullivan (politician, born 1964)&quot;. When talking about them on the same page (for example, [[United States Senate election in Alaska, 2014|here]]), middle initials should be used to easily distinguish in polling tables etc. [[User:Tiller54|Tiller54]] ([[User talk:Tiller54|talk]]) 20:24, 22 August 2014 (UTC)
-	</talkpage>
-</article>

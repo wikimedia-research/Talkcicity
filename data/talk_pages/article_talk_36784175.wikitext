@@ -1,9 +1,0 @@
-<article id="36784175" title=Talk:David M. Morgan>
-	<talkpage id="36784175" title="Talk:David M. Morgan">
-{{WikiProject Biography
-|living=yes
-|class=
-|listas=Morgan, David M.
-}}
-	</talkpage>
-</article>

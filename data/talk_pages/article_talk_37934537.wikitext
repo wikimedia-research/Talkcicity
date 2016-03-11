@@ -1,5 +1,0 @@
-<article id="37934537" title=Talk:Irmak, Hasankeyf>
-	<talkpage id="37934537" title="Talk:Irmak, Hasankeyf">
-{{WPTR|class=Stub|importance=Low}}
-	</talkpage>
-</article>

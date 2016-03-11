@@ -1,8 +1,0 @@
-<article id="24601185" title=User talk:75.159.37.222>
-	<talkpage id="24601185" title="User talk:75.159.37.222">
-
-== October 2009 ==
-
-[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Imperialism?diff=318361607 recent edit]&lt;/span&gt; you made to the page [[:Imperialism]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; &lt;sup&gt;(C/[[Sergeant#United_States|SGT]])&lt;/sup&gt;[[User:G2sai|G2sai]]&lt;sub&gt;([[User talk:G2sai|talk]])&lt;/sub&gt; 00:56, 7 October 2009 (UTC)
-	</talkpage>
-</article>

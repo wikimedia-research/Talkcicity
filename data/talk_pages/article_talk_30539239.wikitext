@@ -1,5 +1,0 @@
-<article id="30539239" title=Talk:Dodangoda Divisional Secretariat>
-	<talkpage id="30539239" title="Talk:Dodangoda Divisional Secretariat">
-{{WikiProject Sri Lanka|class=Start|importance=Low}}
-	</talkpage>
-</article>

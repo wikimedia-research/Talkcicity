@@ -1,9 +1,0 @@
-<article id="7857146" title=User talk:Vector623>
-	<talkpage id="7857146" title="User talk:Vector623">
-==[[:Alex martin]]==
-
-A tag has been placed on [[:Alex martin]], requesting that it be speedily deleted from Wikipedia. This has been done because the article seems to be about a person, group of people, band, club, company, or web content, but it does not indicate how or why the subject is notable [[Wikipedia:Notability|(see the guidelines for notability here)]]. If you can indicate why the subject of this article is notable, you may contest the tagging. To do this, please write &lt;code&gt;{{tl|hangon}}&lt;/code&gt; on the top of the page and leave a note on [[Talk:Alex martin|the article's talk page]] explaining your position. Please do not remove the speedy deletion tag yourself.
-
-Please read the [[WP:CSD|criteria for speedy deletion]] (specifically, articles #7) and [[Wikipedia:Notability (people)|our general biography criteria]]. Feel free to leave a note on my talk page if you have any questions about this.&lt;!-- Template:Nn-warn --&gt;  [[User:Diez2|Diez2]] 18:13, 9 November 2006 (UTC)
-	</talkpage>
-</article>

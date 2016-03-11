@@ -1,5 +1,0 @@
-<article id="44871245" title=Talk:List of awards and nominations received by Ameesha Patel>
-	<talkpage id="44871245" title="Talk:List of awards and nominations received by Ameesha Patel">
-{{WikiProject Biography|living=yes|class=list|filmbio-work-group=yes|filmbio-priority=}}
-	</talkpage>
-</article>

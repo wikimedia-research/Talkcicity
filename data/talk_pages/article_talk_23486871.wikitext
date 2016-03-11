@@ -1,9 +1,0 @@
-<article id="23486871" title=Talk:Jersey Post>
-	<talkpage id="23486871" title="Talk:Jersey Post">
-{{WikiProjectBannerShell|1=
-{{WikiProject United Kingdom |class=Start |importance=Low}}
-{{WikiProject Philately |class=Start |importance=Low}}
-{{WikiProject Jersey |class=Start |importance=Mid}}
-}}
-	</talkpage>
-</article>

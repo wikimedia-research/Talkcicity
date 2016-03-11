@@ -1,6 +1,0 @@
-<article id="31875972" title=Talk:Survivors (Max Roach album)>
-	<talkpage id="31875972" title="Talk:Survivors (Max Roach album)">
-{{WikiProject Albums|class=start}}
-{{WikiProject Jazz|class=Start|album=yes}}
-	</talkpage>
-</article>

@@ -1,9 +1,0 @@
-<article id="13746107" title=Talk:St Gregory's Minster, Kirkdale>
-	<talkpage id="13746107" title="Talk:St Gregory's Minster, Kirkdale">
-{{WikiProjectBannerShell|1=
-{{WikiProject Anglo-Saxon Kingdoms|importance =Low | class =Stub }}
-{{WikiProject Yorkshire|class=Stub|importance=High}}
-{{WikiProject Christianity|class=stub|importance=low|anglicanism=yes|anglicanism-importance=low}}
-}}
-	</talkpage>
-</article>

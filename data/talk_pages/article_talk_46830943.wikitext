@@ -1,7 +1,0 @@
-<article id="9367571" title=Talk:Puerto Armuelles>
-	<talkpage id="9367571" title="Talk:Puerto Armuelles">
-{{WikiProject Central America|class=start|importance=low}}
-
-This reads like a travel guide, not an encyclopedia article. Someone fix it.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/190.141.82.107|190.141.82.107]] ([[User talk:190.141.82.107|talk]]) 04:26, 27 July 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
-	</talkpage>
-</article>

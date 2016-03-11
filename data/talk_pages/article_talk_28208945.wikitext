@@ -1,8 +1,0 @@
-<article id="28208945" title=User talk:99.144.194.218>
-	<talkpage id="28208945" title="User talk:99.144.194.218">
-
-== July 2010 ==
-
-[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Chi_Sigma_Tau?diff=376378078 recent edit]&lt;/span&gt; that you made to the page [[:Chi Sigma Tau]] has been reverted, as it appears to be unconstructive. Please use the [[Wikipedia:Sandbox|sandbox]] for testing any edits; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]] for further information. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:Coasterlover1994|&lt;font color=&quot;red&quot;&gt;&lt;b&gt;Coasterlover&lt;/b&gt;&lt;/font&gt;]][[User talk:Coasterlover1994|&lt;font color=&quot;black&quot;&gt;&lt;b&gt;1994&lt;/b&gt;&lt;/font&gt;]][[User:Coasterlover1994/Guestbook|&lt;font color=&quot;black&quot;&gt;&lt;sup&gt;Leave your mark!&lt;/sup&gt;&lt;/font&gt;]] 05:15, 31 July 2010 (UTC)
-	</talkpage>
-</article>

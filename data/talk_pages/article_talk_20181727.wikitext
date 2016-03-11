@@ -1,5 +1,0 @@
-<article id="20181727" title=Talk:Sycyna-Kolonia>
-	<talkpage id="20181727" title="Talk:Sycyna-Kolonia">
-{{WikiProject Poland|class=stub|importance=}}
-	</talkpage>
-</article>

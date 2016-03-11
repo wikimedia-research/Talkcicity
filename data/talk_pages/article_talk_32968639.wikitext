@@ -1,5 +1,0 @@
-<article id="6137738" title=Talk:Irura (spider)>
-	<talkpage id="6137738" title="Talk:Irura (spider)">
-{{WikiProject Spiders|class=stub|importance=low}}
-	</talkpage>
-</article>

@@ -1,6 +1,0 @@
-<article id="28569757" title=User talk:Tracy Logistic>
-	<talkpage id="28569757" title="User talk:Tracy Logistic">
-
-[[Image:Information.svg|25px|]] Please do not add promotional material to Wikipedia, as you did to [[:Supply chain management ‎]]. While [[Wikipedia:Neutral point of view|objective prose]] about products or services ''is'' acceptable, Wikipedia is not intended to be [[Wikipedia:What Wikipedia is not#Wikipedia is not a soapbox|a vehicle for advertising or promotion]]. Thank you.[[Category:User talk pages with Uw-advert2 notices|{{PAGENAME}}]]&lt;!-- Template:Uw-advert2 --&gt; [[User:Kuru|&lt;span style=&quot;font-family:Segoe print; color:#cd853f; text-shadow:gray 0.2em 0.2em 0.4em;&quot;&gt;Kuru&lt;/span&gt;]] [[User talk:Kuru|&lt;span style=&quot;color:#f5deb3&quot;&gt;''(talk)''&lt;/span&gt;]] 23:43, 26 August 2010 (UTC) &lt;br clear=&quot;both&quot;&gt;
-	</talkpage>
-</article>

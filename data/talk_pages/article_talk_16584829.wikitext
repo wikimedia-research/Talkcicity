@@ -1,9 +1,0 @@
-<article id="16584829" title=User talk:71.31.205.215>
-	<talkpage id="16584829" title="User talk:71.31.205.215">
-
-== March 2008 ==
-{{{icon|[[Image:Information.svg|25px]] }}} Your recent edit to [[:FANBOYS]] ([http://en.wikipedia.org/w/index.php?title=FANBOYS&amp;curid=244898&amp;diff=200965535&amp;oldid=191766543 diff]) was reverted by an '''automated bot'''. The edit was identified as adding test edits to the page. If you want to experiment, please use the '''preview button''' while editing or consider using the [[Wikipedia:Sandbox|sandbox]]. If this revert was in error, please contact the bot operator. Thanks!&lt;!-- Template:uw-vandalism1 --&gt; // [[User:VoABot II|VoABot II]] ([[User talk:VoABot II|talk]]) 02:12, 26 March 2008 (UTC)
-
-[[Image:Information.png|25px|left]] The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Grammatical_conjunction?diff=200965770 recent edit]&lt;/span&gt; you made to [[:Grammatical conjunction]] constitutes [[Wikipedia:Vandalism|vandalism]], and has been reverted. Please do not continue to vandalize pages; use the [[Wikipedia:Sandbox|sandbox]] for testing. Thanks. &lt;!-- Template:uw-huggle2 --&gt; '''[[User:Sceptre|Sceptre]]''' &lt;sup&gt;([[User talk:Sceptre|talk]])&lt;/sup&gt; 02:14, 26 March 2008 (UTC))
-	</talkpage>
-</article>

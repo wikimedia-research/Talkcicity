@@ -1,6 +1,0 @@
-<article id="35075064" title=Talk:Jan Larsson>
-	<talkpage id="35075064" title="Talk:Jan Larsson">
-{{WikiProject Biography|living=yes|class=stub|listas=Larsson, Jan|sports-work-group=yes|sports-priority=low}}
-{{WikiProject Ice Hockey|class=stub|bio=yes}}
-	</talkpage>
-</article>

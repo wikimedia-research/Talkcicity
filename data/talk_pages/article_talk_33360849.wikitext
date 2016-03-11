@@ -1,6 +1,0 @@
-<article id="26073871" title=Talk:Canon of Laws>
-	<talkpage id="26073871" title="Talk:Canon of Laws">
-{{WPCHINA|importance=high|class=stub|history=yes}}
-{{translated page|zh|法经|version=342021685|insertversion=12264123|section=}}
-	</talkpage>
-</article>

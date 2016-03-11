@@ -1,7 +1,0 @@
-<article id="18698422" title=User talk:219.77.76.210>
-	<talkpage id="18698422" title="User talk:219.77.76.210">
-== August 2008 ==
-
-[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Mr._Hong_Kong?diff=229536757 recent edit]&lt;/span&gt; you made to [[:Mr. Hong Kong]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thanks. &lt;!-- Template:uw-huggle1 --&gt; [[User:King of Hearts|King of]] [[User:King of Hearts|&lt;font color=&quot;red&quot;&gt;&amp;hearts;&lt;/font&gt;]] [[User talk:King of Hearts|&lt;font color=&quot;red&quot;&gt;&amp;diams;&lt;/font&gt;]] [[Special:Contributions/King of Hearts|&lt;font color=&quot;black&quot;&gt;&amp;clubs;&lt;/font&gt;]] &amp;spades; 05:55, 3 August 2008 (UTC)
-	</talkpage>
-</article>

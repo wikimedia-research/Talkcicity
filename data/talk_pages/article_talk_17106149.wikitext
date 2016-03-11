@@ -1,9 +1,0 @@
-<article id="17106149" title=Talk:The Massachusetts Review>
-	<talkpage id="17106149" title="Talk:The Massachusetts Review">
-{{WikiProjectBannerShell|1=
-{{WikiProject Magazines|class=Stub|importance=low}}
-{{WikiProject Academic Journals|class=stub|needs-infobox=yes}}
-{{WikiProject United States|class=stub|importance=low|MA=yes|MA-importance=low|UMass=yes|UMass-importance=low}}
-}}
-	</talkpage>
-</article>

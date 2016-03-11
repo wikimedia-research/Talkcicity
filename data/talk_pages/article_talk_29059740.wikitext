@@ -1,6 +1,0 @@
-<article id="29059740" title=Talk:Athyra (Thrace)>
-	<talkpage id="29059740" title="Talk:Athyra (Thrace)">
-{{WikiProject Greece|class=Stub|importance=Low|topic=history}}
-{{Classical Greece and Rome|class=Stub|importance=Low}}
-	</talkpage>
-</article>

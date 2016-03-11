@@ -1,6 +1,0 @@
-<article id="16596850" title=Talk:Australian Shooter>
-	<talkpage id="16596850" title="Talk:Australian Shooter">
-{{WikiProject Magazines|class=Stub|importance=|auto=yes}}
-{{WP Australia |class=Stub |importance=}}
-	</talkpage>
-</article>

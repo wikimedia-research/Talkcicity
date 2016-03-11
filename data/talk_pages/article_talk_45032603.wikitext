@@ -1,5 +1,0 @@
-<article id="45032603" title=Talk:Lygropia memmialis>
-	<talkpage id="45032603" title="Talk:Lygropia memmialis">
-{{LepidopteraTalk|class=stub|importance=low}}
-	</talkpage>
-</article>

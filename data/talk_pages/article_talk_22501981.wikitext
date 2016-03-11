@@ -1,5 +1,0 @@
-<article id="22501981" title=Talk:Waltonia (fungus)>
-	<talkpage id="22501981" title="Talk:Waltonia (fungus)">
-{{WikiProject Fungi|class=stub|importance=low}}
-	</talkpage>
-</article>

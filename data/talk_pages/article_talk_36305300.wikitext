@@ -1,5 +1,0 @@
-<article id="36305300" title=Talk:Op TOSCA>
-	<talkpage id="36305300" title="Talk:Op TOSCA">
-{{WikiProject Cyprus|class=redirect}}
-	</talkpage>
-</article>

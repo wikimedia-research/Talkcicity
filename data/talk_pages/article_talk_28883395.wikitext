@@ -1,7 +1,0 @@
-<article id="22500144" title=Talk:The Oil Factor>
-	<talkpage id="22500144" title="Talk:The Oil Factor">
-{{Talk header}}
-{{WikiProject Energy|class=start|importance=low}}
-{{WikiProject Film|American-task-force=yes|class=start|Documentary=yes}}
-	</talkpage>
-</article>

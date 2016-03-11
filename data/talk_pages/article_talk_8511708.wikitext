@@ -1,9 +1,0 @@
-<article id="8511708" title=Talk:Names of Macau>
-	<talkpage id="8511708" title="Talk:Names of Macau">
-{{WPMacau}}
-
-== &quot;Bay of A-Ma&quot;? ==
-
-The article says that the transliteration &quot;A-Ma-Gao&quot; (it cites an article that calls it &quot;A-Ma-Gau&quot;) means &quot;Bay of A-Ma&quot;. What Chinese Characters exactly is this supposed to be? I can't think of a character pronounced like &quot;Gao&quot; that means &quot;Bay&quot;. [http://www.66163.com/Fujian_w/news/kfcb/kfcb9904/kfa-6b.html This article] seems to say that &quot;Macao&quot; comes directly from 媽閣 (maa gok), which doesn't have any part that means &quot;bay&quot;. --[[Special:Contributions/76.167.241.45|76.167.241.45]] ([[User talk:76.167.241.45|talk]]) 23:01, 19 April 2009 (UTC)
-	</talkpage>
-</article>

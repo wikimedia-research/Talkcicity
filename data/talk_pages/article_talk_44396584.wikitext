@@ -1,6 +1,0 @@
-<article id="17309271" title=Talk:Ega (river)>
-	<talkpage id="17309271" title="Talk:Ega (river)">
-{{WikiProject Spain|class=Stub|importance=}}
-{{Rivers|class=stub|importance=low}}
-	</talkpage>
-</article>

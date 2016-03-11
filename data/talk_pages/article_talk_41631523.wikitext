@@ -1,6 +1,0 @@
-<article id="41631523" title=Talk:Lilou Mace>
-	<talkpage id="41631523" title="Talk:Lilou Mace">
-{{WikiProject Biography|living=yes|listas=Mace, Lilou}}
-{{WikiProject Women writers|importance=|class=}}
-	</talkpage>
-</article>

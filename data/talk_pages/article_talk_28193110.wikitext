@@ -1,9 +1,0 @@
-<article id="28193110" title=Talk:Santa Maria del Regno>
-	<talkpage id="28193110" title="Talk:Santa Maria del Regno">
-{{WikiProjectBannerShell|1=
-{{WikiProject Architecture|importance=Low|class=Start}}
-{{WikiProject Italy|importance=Low|class=Start}}
-{{WikiProject Catholicism|importance=Low|class=Start}}
-}}
-	</talkpage>
-</article>

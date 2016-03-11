@@ -1,6 +1,0 @@
-<article id="29559222" title=Talk:11th British Columbia general election>
-	<talkpage id="29559222" title="Talk:11th British Columbia general election">
-{{WikiProject Elections and Referendums}}
-{{WikiProject Canada|class=redirect|bc=yes}}
-	</talkpage>
-</article>

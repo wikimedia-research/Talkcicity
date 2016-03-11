@@ -1,5 +1,0 @@
-<article id="18239514" title=Talk:PPP2R5C>
-	<talkpage id="18239514" title="Talk:PPP2R5C">
-{{Wikiproject MCB|class=stub|importance=low}}
-	</talkpage>
-</article>

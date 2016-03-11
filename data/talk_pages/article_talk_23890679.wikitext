@@ -1,7 +1,0 @@
-<article id="23890679" title=Talk:Epidendrum rigidum>
-	<talkpage id="23890679" title="Talk:Epidendrum rigidum">
-{{WikiProject Plants|class=start|importance=low|needs-photo=yes}}
-==Categorization==
-I have removed the request that ''Epidendrum rigidum'' be put in some categories.  It was already categorized as needing translation/expansion from the Portuguese article.  I have now added the &quot;orchid stub&quot; category (also a template) and a category for the subsection.  [[User:Jay L09|Jay L09]] ([[User talk:Jay L09|talk]]) 20:01, 6 August 2009 (UTC)
-	</talkpage>
-</article>

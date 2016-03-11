@@ -1,5 +1,0 @@
-<article id="41452786" title=Talk:Rusty Banksia>
-	<talkpage id="41452786" title="Talk:Rusty Banksia">
-{{WikiProject Banksia|class=Redirect|importance=NA}}
-	</talkpage>
-</article>

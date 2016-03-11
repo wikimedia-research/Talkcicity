@@ -1,9 +1,0 @@
-<article id="23065813" title=Talk:Tiffany Terrell>
-	<talkpage id="23065813" title="Talk:Tiffany Terrell">
-{{WikiProject Biography
-|living=yes
-|class=
-|listas=Terrell, Tiffany
-}}
-	</talkpage>
-</article>

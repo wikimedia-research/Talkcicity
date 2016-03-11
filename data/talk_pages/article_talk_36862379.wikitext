@@ -1,5 +1,0 @@
-<article id="27385891" title=Talk:National football centre>
-	<talkpage id="27385891" title="Talk:National football centre">
-{{WikiProject Football|class=stub|importance=low}}
-	</talkpage>
-</article>

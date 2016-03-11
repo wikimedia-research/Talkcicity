@@ -1,6 +1,0 @@
-<article id="24300784" title=Talk:Rosamond Lake>
-	<talkpage id="24300784" title="Talk:Rosamond Lake">
-{{WikiProject California|class=Stub|importance=mid}}
-{{Lake project|class=Stub|importance=mid}}
-	</talkpage>
-</article>

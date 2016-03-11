@@ -1,5 +1,0 @@
-<article id="29727634" title=Talk:Colorado Lottery>
-	<talkpage id="29727634" title="Talk:Colorado Lottery">
-{{WikiProject United States|class=Start|importance=Low|CO=Yes|CO-importance=Low}}
-	</talkpage>
-</article>

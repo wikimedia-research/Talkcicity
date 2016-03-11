@@ -1,5 +1,0 @@
-<article id="28317482" title=Talk:Alvania scrobiculata>
-	<talkpage id="28317482" title="Talk:Alvania scrobiculata">
-{{WikiProject Gastropods|class=Stub|importance=Low|needs-photo=yes}}
-	</talkpage>
-</article>

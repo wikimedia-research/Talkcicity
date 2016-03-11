@@ -1,6 +1,0 @@
-<article id="9157459" title=Talk:The Whale (ELO song)>
-	<talkpage id="9157459" title="Talk:The Whale (ELO song)">
-{{oldafdfull|page=First Movement (Jumping Biz)|date=20 February 2008|result='''redirect''' to album article}}
-{{WikiProject Songs|class=redirect|listas=Whale (ELO song)}}
-	</talkpage>
-</article>

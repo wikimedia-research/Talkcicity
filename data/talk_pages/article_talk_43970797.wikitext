@@ -1,8 +1,0 @@
-<article id="40694834" title=Talk:The Accidental Apprentice>
-	<talkpage id="40694834" title="Talk:The Accidental Apprentice">
-{{WikiProject Novels|class=stub|importance=low|listas=Accidental Apprentice, The}}
-
-I found this useful.
-john f[[Special:Contributions/94.196.223.177|94.196.223.177]] ([[User talk:94.196.223.177|talk]]) 09:47, 28 May 2014 (UTC)
-	</talkpage>
-</article>

@@ -1,7 +1,0 @@
-<article id="42582981" title=User talk:72.87.79.44>
-	<talkpage id="42582981" title="User talk:72.87.79.44">
-== April 2014 ==
-[[Image:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:A.Minkowiski|A.Minkowiski]]. I noticed that you recently removed some content from [[:Flag of Kentucky]]&amp;nbsp;without explaining why. In the future, it would be helpful to others if you described your changes to Wikipedia with an accurate [[Help:Edit summary|edit summary]]. If this was a mistake, don't worry; I restored the removed content. If you would like to experiment, please use the [[WP:Sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:A.Minkowiski|my talk page]]. Thanks!&lt;!-- Template:uw-delete1 --&gt; [[User:A.Minkowiski|'''A.''Minkowiski''''']]&lt;sup&gt;[[User talk:A.Minkowiski| _Lets t@lk]]&lt;/sup&gt; 16:55, 25 April 2014 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

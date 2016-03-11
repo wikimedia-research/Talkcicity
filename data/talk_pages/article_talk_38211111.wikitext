@@ -1,8 +1,0 @@
-<article id="38211111" title=Talk:Brad Armstrong (Home and Away)>
-	<talkpage id="38211111" title="Talk:Brad Armstrong (Home and Away)">
-{{WikiProject Soap Operas|class=Redirect}}
-{{old AfD multi
- |date1 = December 6 2007 |result1 = '''Delete''' |page1 = Brad Armstrong (Home and Away)
-}}
-	</talkpage>
-</article>

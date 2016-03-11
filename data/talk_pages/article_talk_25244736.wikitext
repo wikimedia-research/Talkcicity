@@ -1,5 +1,0 @@
-<article id="25244736" title=User talk:201.29.175.223>
-	<talkpage id="25244736" title="User talk:201.29.175.223">
-[[Image:Information.svg|25px]] Please do not introduce incorrect information into articles{{#if:|, as you did to [[:{{{1}}}]]}}.  Your edits appear to be [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]].  If you believe the information you added was correct, please [[Wikipedia:Citing sources|cite references or sources]] or discuss the changes on the article's [[Wikipedia:Talk page guidelines|talk page]] before making them again.  If you would like to experiment, use the [[Wikipedia:Sandbox|sandbox]]. Thank you.&lt;!-- Template:uw-error2 --&gt;--[[User:Microcell|Microcell]] ([[User talk:Microcell|talk]]) 20:06, 29 November 2009 (UTC)
-	</talkpage>
-</article>

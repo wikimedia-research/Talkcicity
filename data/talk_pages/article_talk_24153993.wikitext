@@ -1,5 +1,0 @@
-<article id="24153993" title=Talk:Crocopteryx>
-	<talkpage id="24153993" title="Talk:Crocopteryx">
-{{WikiProject Lepidoptera|class=stub|importance=low}}
-	</talkpage>
-</article>

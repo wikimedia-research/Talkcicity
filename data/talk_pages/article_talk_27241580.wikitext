@@ -1,6 +1,0 @@
-<article id="27241580" title=User talk:41.185.164.78>
-	<talkpage id="27241580" title="User talk:41.185.164.78">
-
-{{{icon|[[Image:Information.svg|25px]] }}}Please refrain from making unconstructive edits to Wikipedia, as you did to [[:Aviation in World War I]]. Your edits constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]].  [[User:Trekphiler|&lt;font color=&quot;#1034A6&quot;&gt;&lt;small&gt;TREKphiler&lt;/small&gt;&lt;/font&gt;]] [[User talk:Trekphiler|&lt;font color=&quot;#1034A6&quot;&gt;&lt;sup&gt;&lt;small&gt;any time you're ready, Uhura&lt;/small&gt; &lt;/sup&gt;]]&lt;/font&gt; 17:24, 5 May 2010 (UTC)
-	</talkpage>
-</article>

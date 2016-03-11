@@ -1,6 +1,0 @@
-<article id="27980133" title=Talk:2004 Cupa României Final>
-	<talkpage id="27980133" title="Talk:2004 Cupa României Final">
-{{football|class=stub|importance=low|season=yes}}
-{{WikiProject Romania|class=stub|importance=}}
-	</talkpage>
-</article>

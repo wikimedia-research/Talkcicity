@@ -1,6 +1,0 @@
-<article id="47215420" title=Talk:Markus Gottschlich>
-	<talkpage id="47215420" title="Talk:Markus Gottschlich">
-{{WikiProject Biography|living=yes|class=||listas=}}
-{{WikiProject Jazz|class=stub|importance=low}}
-	</talkpage>
-</article>

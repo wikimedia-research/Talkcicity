@@ -1,5 +1,0 @@
-<article id="15081245" title=Talk:Ready or Not (Herbie Hancock song)>
-	<talkpage id="15081245" title="Talk:Ready or Not (Herbie Hancock song)">
-{{Songs|class=Stub|auto=yes}}
-	</talkpage>
-</article>

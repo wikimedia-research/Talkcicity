@@ -1,6 +1,0 @@
-<article id="47472249" title=Talk:Sarayönü Mosque>
-	<talkpage id="47472249" title="Talk:Sarayönü Mosque">
-{{WP Cyprus|class=start|importance=low}}
-{{Architecture|class=start|importance=low}}
-	</talkpage>
-</article>

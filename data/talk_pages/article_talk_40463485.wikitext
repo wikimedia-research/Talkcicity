@@ -1,7 +1,0 @@
-<article id="40463485" title=User talk:216.46.198.97>
-	<talkpage id="40463485" title="User talk:216.46.198.97">
-== September 2013 ==
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Abce2|Abce2]]. An edit that you recently made to [[:Ray Bradbury]] seemed to be a test and has been removed. If you want more practice editing, please use the [[Wikipedia:Sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Abce2|my talk page]]. Thanks!&lt;!-- Template:uw-test1 --&gt; [[User:Abce2|Abce2]] ([[User talk:Abce2|talk]]) 17:23, 6 September 2013 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

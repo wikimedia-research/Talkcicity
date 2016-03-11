@@ -1,5 +1,0 @@
-<article id="15280390" title=Talk:The Gates of Sleep>
-	<talkpage id="15280390" title="Talk:The Gates of Sleep">
-{{WikiProject Novels|class=Stub|importance=|fantasy-task-force=yes|listas=Gates of Sleep, The}}
-	</talkpage>
-</article>

@@ -1,6 +1,0 @@
-<article id="37134973" title=User talk:116.88.46.106>
-	<talkpage id="37134973" title="User talk:116.88.46.106">
-==September 2012==
-[[Image:Information.svg|25px|alt=|link=]] Hello, I'm [[User:SassyLilNugget|SassyLilNugget]]. I noticed that you made a change to an article, [[:Central Provident Fund]], but you didn't provide a reliable source. I’ve removed it for now, but if you’d like to [[Wikipedia:Citing sources|include a citation]] and re-add it, please do so! If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:SassyLilNugget|my talk page]]. Thank you. &lt;!-- Template:uw-unsourced1 --&gt; [[User:SassyLilNugget|SassyLilNugget]] ([[User talk:SassyLilNugget|talk]]) 11:41, 27 September 2012 (UTC)
-	</talkpage>
-</article>

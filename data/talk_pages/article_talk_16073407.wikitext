@@ -1,8 +1,0 @@
-<article id="16073407" title=User talk:172.141.208.212>
-	<talkpage id="16073407" title="User talk:172.141.208.212">
-
-== March 2008 ==
-
-[[Image:Information.png|25px|left]] Hi, the &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Howard_Carter_(archaeologist)?diff=195592018 recent edit]&lt;/span&gt; you made to [[:Howard Carter (archaeologist)]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thanks. &lt;!-- Template:uw-huggle1 --&gt; '''-''' &lt;font size=&quot;+1&quot; color=&quot;red&quot;&gt;&amp;#10032;&lt;/font&gt;&lt;strong style=&quot;letter-spacing:1px;font-family:Verdana&quot;&gt;[[User:Allstarecho|ALLSTAR]]&lt;/strong&gt;&lt;font size=&quot;+1&quot; color=&quot;red&quot;&gt;&amp;#10032;&lt;/font&gt; &lt;sup&gt;&lt;small&gt;[[User_talk:Allstarecho|echo]]&lt;/small&gt;&lt;/sup&gt; 17:46, 3 March 2008 (UTC)
-	</talkpage>
-</article>

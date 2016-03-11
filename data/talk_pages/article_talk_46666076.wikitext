@@ -1,5 +1,0 @@
-<article id="46666076" title=Talk:Code Red (Monica album)>
-	<talkpage id="46666076" title="Talk:Code Red (Monica album)">
-{{Album|class=future|importance=low}}
-	</talkpage>
-</article>

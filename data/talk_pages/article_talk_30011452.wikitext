@@ -1,6 +1,0 @@
-<article id="30011452" title=Talk:West Central High School>
-	<talkpage id="30011452" title="Talk:West Central High School">
-{{WikiProject Illinois|class=|importance=Low}}
-{{WPSchools|class=C|importance=Low|needs-infobox=no||info=Structured, Sourced, Infoboxed, Linked, Well-written with timeline. [[User:SBaker43|SBaker43]] ([[User talk:SBaker43|talk]]) 14:43, 21 January 2011 (UTC)}}
-	</talkpage>
-</article>

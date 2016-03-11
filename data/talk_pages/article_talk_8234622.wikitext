@@ -1,5 +1,0 @@
-<article id="8234622" title=User talk:82.18.173.59>
-	<talkpage id="8234622" title="User talk:82.18.173.59">
-It might not have been your intention, but your recent edit removed content from {{{{{subst|}}}#if:Dave Finlay|[[:Dave Finlay]]|an article}}. Please be careful not to remove content from Wikipedia without a valid reason, which you should specify in the [[Help:Edit summary|edit summary]] or on the article's [[Help:Talk page|talk page]]. Take a look at our [[Wikipedia:Welcome|welcome page]] to learn more about contributing to this encyclopedia. Thank you. &lt;!-- Template:Test1a (First level warning) --&gt; A link to the edit I have reverted can be found here: [http://en.wikipedia.org/w/index.php?title=Dave_Finlay&amp;diff=next&amp;oldid=91569321 link]. If you believe this edit should not have been reverted, please contact me. &lt;!-- 15--&gt; [[User:Raelx|Raelx]] 16:19, 2 December 2006 (UTC)
-	</talkpage>
-</article>

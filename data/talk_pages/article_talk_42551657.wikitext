@@ -1,6 +1,0 @@
-<article id="42551657" title=Talk:Bondia nigella>
-	<talkpage id="42551657" title="Talk:Bondia nigella">
-{{WikiProject Lepidoptera|class=Stub|importance=Low}}
-{{WikiProject Australia|class=Stub|importance=Low|biota=yes}}
-	</talkpage>
-</article>

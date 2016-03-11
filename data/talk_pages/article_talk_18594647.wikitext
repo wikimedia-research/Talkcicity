@@ -1,6 +1,0 @@
-<article id="18594647" title=Talk:Silver redhorse>
-	<talkpage id="18594647" title="Talk:Silver redhorse">
-{{fishproject|class = stub}}
-{{Educational assignment|link=User:Sclemm/Fishes of Tennessee}}
-	</talkpage>
-</article>

@@ -1,8 +1,0 @@
-<article id="2450624" title=Talk:Butterfingers>
-	<talkpage id="2450624" title="Talk:Butterfingers">
-{{WikiProject Disambiguation}}
-
-==Untitled==
-See also [[Talk:Butterfingers (Australian band)]]
-	</talkpage>
-</article>

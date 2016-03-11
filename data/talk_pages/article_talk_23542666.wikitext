@@ -1,6 +1,0 @@
-<article id="23542666" title=Talk:Bulgarian parliamentary election, 1997>
-	<talkpage id="23542666" title="Talk:Bulgarian parliamentary election, 1997">
-{{WikiProject Elections and Referendums|class=}}
-{{WikiProject Bulgaria|class=stub|importance=low}}
-	</talkpage>
-</article>

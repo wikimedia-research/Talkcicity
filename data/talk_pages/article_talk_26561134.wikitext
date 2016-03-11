@@ -1,5 +1,0 @@
-<article id="26561134" title=Talk:Pyrgo>
-	<talkpage id="26561134" title="Talk:Pyrgo">
-{{WPDisambiguation}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="35597872" title=Talk:Internet campaign>
-	<talkpage id="35597872" title="Talk:Internet campaign">
-{{WPAFC|class=redirect|ts=20120423231852|reviewer=WheresTristan}}
-	</talkpage>
-</article>

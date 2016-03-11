@@ -1,5 +1,0 @@
-<article id="43400845" title=Talk:UofL School of Law>
-	<talkpage id="43400845" title="Talk:UofL School of Law">
-{{WikiProject United States|class=Redirect|Louisville=yes|Louisville-importance=NA}}
-	</talkpage>
-</article>

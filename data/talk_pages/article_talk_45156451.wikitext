@@ -1,8 +1,0 @@
-<article id="45156451" title=User talk:76.88.116.226>
-	<talkpage id="45156451" title="User talk:76.88.116.226">
-
-
-==Recent edit to [[Lovage]]==
-[[Image:Information.svg|25px]] Hello, and welcome to Wikipedia. I noticed that you removed some content from [[Lovage]] without explaining why. In the future, it would be helpful to others if you described your changes to Wikipedia with an accurate [[Help:Edit summary|edit summary]]. If this was a mistake, don't worry; I restored the removed content. If you would like to experiment, please use the [[WP:Sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on my talk page. Thank you! [[User:Materialscientist|Materialscientist]] ([[User talk:Materialscientist|talk]]) 22:39, 21 January 2015 (UTC)
-	</talkpage>
-</article>

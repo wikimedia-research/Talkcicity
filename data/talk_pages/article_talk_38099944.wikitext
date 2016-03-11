@@ -1,9 +1,0 @@
-<article id="34416907" title=Talk:Baker Lake (Custer County, Idaho)>
-	<talkpage id="34416907" title="Talk:Baker Lake (Custer County, Idaho)">
-{{WikiProjectBannerShell|1=
-{{WikiProject Lakes|class=Stub|importance=Low|attention=|mapneeded=|needs-infobox=}}
-{{WikiProject Geography|class=Stub|importance=Low}}
-{{WikiProject United States|class=Stub|importance=Low|ID=Yes|ID-importance=Low}}
-}}
-	</talkpage>
-</article>

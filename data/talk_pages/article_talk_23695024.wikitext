@@ -1,5 +1,0 @@
-<article id="23695024" title=Talk:China Water Affairs Group>
-	<talkpage id="23695024" title="Talk:China Water Affairs Group">
-{{WPCHINA|class=stub|importance=mid}}
-	</talkpage>
-</article>

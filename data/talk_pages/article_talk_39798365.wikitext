@@ -1,5 +1,0 @@
-<article id="39798365" title=Talk:Bomu language>
-	<talkpage id="39798365" title="Talk:Bomu language">
-{{WikiProject Languages|class=stub}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="29672685" title=Talk:Kwun Yam Shrine>
-	<talkpage id="29672685" title="Talk:Kwun Yam Shrine">
-{{WPHK|class=stub|importance=Low}}
-	</talkpage>
-</article>

@@ -1,6 +1,0 @@
-<article id="33102321" title=User talk:Eladino34>
-	<talkpage id="33102321" title="User talk:Eladino34">
-== September 2011 ==
-[[Image:Stop hand nuvola.svg|30px|alt=|link=]] Your addition to [[:Im Tirtzu]] has been removed, as it appears to have added [[Wikipedia:Copyrights|copyrighted]] material to Wikipedia without [[Wikipedia:Requesting copyright permission|permission]] from the copyright holder. For [[Wikipedia:Copyrights|legal reasons]], we cannot accept copyrighted text or images borrowed from other websites or printed material; such additions will be deleted. You may use external websites or publications as a source of ''information'', but not as a source of ''article content'' such as sentences or images. Wikipedia takes copyright violations very seriously and persistent violators '''will be [[Wikipedia:Blocking policy|blocked from editing]]'''. &lt;!-- Template:uw-copyright --&gt; –[[User:Roscelese|Roscelese]] ([[User talk:Roscelese|talk]] &amp;sdot; [[Special:Contributions/Roscelese|contribs]]) 06:58, 16 September 2011 (UTC)
-	</talkpage>
-</article>

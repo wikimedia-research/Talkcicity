@@ -1,7 +1,0 @@
-<article id="35880709" title=User talk:88.246.222.47>
-	<talkpage id="35880709" title="User talk:88.246.222.47">
-== May 2012 ==
-[[Image:Information.svg|25px|alt=|link=]] Please do not add inappropriate [[Wikipedia:External links|external links]] to Wikipedia. [[Wikipedia:What Wikipedia is not#LINK|Wikipedia is not a collection of links]], nor should it be used for advertising or promotion. Inappropriate links include (but are not limited to) links to personal web sites, links to web sites with which you are affiliated, and links that attract visitors to a web site or promote a product.  See [[Wikipedia:External links|the external links guideline]] and [[Wikipedia:Spam|spam guideline]] for further explanations. Because Wikipedia uses the [[nofollow]] attribute value, its external links are disregarded by most search engines. If you feel the link should be added to the article, please discuss it on the article's talk page rather than re-adding it. Thank you.[[Category:User talk pages with Uw-spam2 notices|{{PAGENAME}}]]&lt;!-- Template:uw-spam2 --&gt; ''[http://spam.turkishtravelblog.com]'' [[User:MER-C|MER-C]] 11:52, 20 May 2012 (UTC)
-:''If this is a [[closed proxy|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

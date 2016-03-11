@@ -1,5 +1,0 @@
-<article id="16881826" title=Talk:Dhawalagiri>
-	<talkpage id="16881826" title="Talk:Dhawalagiri">
-{{DisambigProject}}
-	</talkpage>
-</article>

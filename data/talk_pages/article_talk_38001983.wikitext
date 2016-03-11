@@ -1,5 +1,0 @@
-<article id="38001983" title=Talk:Eien Yori Nagaku/Drive me crazy>
-	<talkpage id="38001983" title="Talk:Eien Yori Nagaku/Drive me crazy">
-{{song|class=stub}}
-	</talkpage>
-</article>

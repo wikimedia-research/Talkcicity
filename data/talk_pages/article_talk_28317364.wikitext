@@ -1,5 +1,0 @@
-<article id="28317364" title=Talk:Alvania freitasi>
-	<talkpage id="28317364" title="Talk:Alvania freitasi">
-{{WikiProject Gastropods|class=Stub|importance=Low|needs-photo=yes}}
-	</talkpage>
-</article>

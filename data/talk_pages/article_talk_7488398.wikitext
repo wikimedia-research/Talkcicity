@@ -1,5 +1,0 @@
-<article id="7488398" title=User talk:81.152.192.228>
-	<talkpage id="7488398" title="User talk:81.152.192.228">
-Your change to the page [[:Factory]] was determined to be unhelpful, and has been reverted. Please use [[Wikipedia:Sandbox|the sandbox]] for any tests you want to do. Take a look at the [[Wikipedia:Welcome, newcomers|welcome page]] if you would like to learn more about contributing. Thanks.&lt;!-- Template:Vw-n (first level warning) --&gt; -- [[User:Gogo Dodo|Gogo Dodo]] 19:35, 17 October 2006 (UTC)
-	</talkpage>
-</article>

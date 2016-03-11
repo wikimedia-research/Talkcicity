@@ -1,7 +1,0 @@
-<article id="24141138" title=User talk:Foucault12221112>
-	<talkpage id="24141138" title="User talk:Foucault12221112">
-[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits, such as the one you made to [[:Ricchar]], did not appear to be constructive and has been reverted. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- {{Uw-vandalism1|Ricchar}} --&gt;
-
-I have deleted [[Ricchar]] as vandalism.  If you can write an article about him that is based on the truth and the references then it could be acceptable. See http://www.fordham.edu/halsall/basis/gregory-hist.html [[User:Graeme Bartlett|Graeme Bartlett]] ([[User talk:Graeme Bartlett|talk]]) 10:23, 28 August 2009 (UTC)
-	</talkpage>
-</article>

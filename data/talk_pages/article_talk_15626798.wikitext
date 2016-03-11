@@ -1,8 +1,0 @@
-<article id="15626798" title=User talk:78.144.132.98>
-	<talkpage id="15626798" title="User talk:78.144.132.98">
-
-== February 2008 ==
-
-[[Image:Information.png|25px|left]] Hi, the &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Chav?diff=189556142 recent edit]&lt;/span&gt; you made to [[:Chav]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thanks. &lt;!-- Template:uw-huggle1 --&gt; [[User:Sam Korn|Sam Korn]] &lt;sup&gt;[[User talk:Sam Korn|(smoddy)]]&lt;/sup&gt; 19:14, 6 February 2008 (UTC)
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="16129967" title=Talk:Beaubray>
-	<talkpage id="16129967" title="Talk:Beaubray">
-{{WikiProject France|class=Stub|importance=Low|commune=yes}}
-	</talkpage>
-</article>

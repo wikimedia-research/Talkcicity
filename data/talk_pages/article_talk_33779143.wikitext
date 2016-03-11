@@ -1,6 +1,0 @@
-<article id="17813737" title=Talk:Bucharest Metro Line M6>
-	<talkpage id="17813737" title="Talk:Bucharest Metro Line M6">
-{{TrainsWikiProject|class=stub|importance=low|subway=yes}}
-{{WikiProject Romania|class=stub|importance=}}
-	</talkpage>
-</article>

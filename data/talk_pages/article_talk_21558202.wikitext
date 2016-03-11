@@ -1,8 +1,0 @@
-<article id="21558202" title=Talk:Ministry of Planning (Cambodia)>
-	<talkpage id="21558202" title="Talk:Ministry of Planning (Cambodia)">
-{{WikiProject Cambodia|class=stub}}
-==Deletion, moving, undo move, maintain redirect...==
-Not only has an editor moved this page from [[Ministry of Planning, Cambodia]], he or she has also requested that the redirect be deleted.  Like most of the other government ministries 'round the world, this page was named with the Ministry name first followed by the country; please check any category in [[:Category:Ministries by portfolio]] to verify.  The deletion of the redirect page seems irresponsible.  I am requesting that the page be moved back to where it was, before it was moved less than an hour after it was created.  Thanks. --[[User:Mr Accountable|Mr Accountable]] ([[User talk:Mr Accountable|talk]]) 08:21, 16 February 2009 (UTC)
-:I restored both pages. I don't think this is the correct naming convention, but I'm not going to get into it at this point. &lt;span style=&quot;color:dimgray; font-size: smaller; font-weight: bold;&quot;&gt;§[[User:FreeRangeFrog|FreeRangeFrog]]&lt;/span&gt; 09:00, 16 February 2009 (UTC)
-	</talkpage>
-</article>

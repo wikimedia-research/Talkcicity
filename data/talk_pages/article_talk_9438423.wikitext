@@ -1,5 +1,0 @@
-<article id="9438423" title=Talk:Mörschwil>
-	<talkpage id="9438423" title="Talk:Mörschwil">
-{{WikiProject Switzerland|class=stub|importance=Mid}}
-	</talkpage>
-</article>

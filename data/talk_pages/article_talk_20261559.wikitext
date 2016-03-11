@@ -1,5 +1,0 @@
-<article id="20261559" title=Talk:Hydrogenography>
-	<talkpage id="20261559" title="Talk:Hydrogenography">
-{{chemistry|class=Start|importance=low}}
-	</talkpage>
-</article>

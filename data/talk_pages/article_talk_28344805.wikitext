@@ -1,5 +1,0 @@
-<article id="28344805" title=Talk:Halichondrin B>
-	<talkpage id="28344805" title="Talk:Halichondrin B">
-{{chemicals}}
-	</talkpage>
-</article>

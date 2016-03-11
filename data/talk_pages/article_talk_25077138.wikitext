@@ -1,8 +1,0 @@
-<article id="25077138" title=User talk:82.43.142.27>
-	<talkpage id="25077138" title="User talk:82.43.142.27">
-
-== November 2009 ==
-
-[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/2003_Bam_earthquake?diff=325781046 recent edit]&lt;/span&gt; that you made to the page [[:2003 Bam earthquake]] has been reverted, as it appears to be unconstructive. Please use the [[Wikipedia:Sandbox|sandbox]] for testing any edits; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]] for further information. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:Javierito92|by----&gt;Javierito92]]   '''([[User talk:Javierito92|Talk to me]])''' 11:16, 14 November 2009 (UTC)
-	</talkpage>
-</article>

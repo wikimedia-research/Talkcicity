@@ -1,7 +1,0 @@
-<article id="7655128" title=Talk:Coat of arms of Birmingham>
-	<talkpage id="7655128" title="Talk:Coat of arms of Birmingham">
-{{WikiProject Heraldry and vexillology|class=start}}
-{{WPWM|class=start|importance=low}}
-{{WP Birmingham|class=Start|importance=Mid}}
-	</talkpage>
-</article>

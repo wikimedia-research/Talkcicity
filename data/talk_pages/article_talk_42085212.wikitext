@@ -1,5 +1,0 @@
-<article id="42085212" title=Talk:G.F. Smith Chemicals>
-	<talkpage id="42085212" title="Talk:G.F. Smith Chemicals">
-{{WPAFC|class=redirect|ts=20140301214156|reviewer=Mz7}}
-	</talkpage>
-</article>

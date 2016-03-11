@@ -1,6 +1,0 @@
-<article id="9701396" title=User talk:Andrewnollins10106>
-	<talkpage id="9701396" title="User talk:Andrewnollins10106">
-{{#if:1|=={{{header-text|Attacks in the article [[:Steve stkeier]]}}}==}}
-Please do not make personal attacks on other people{{{{{subst|}}}#if:Steve stkeier|&amp;#32;as you did at [[:Steve stkeier]]}}. Wikipedia has a strict policy against [[Wikipedia:No personal attacks|personal attacks]]. [[Wikipedia:Attack_page|Attack pages]] and images '''are not tolerated''' by Wikipedia and are [[Wikipedia:Criteria for speedy deletion|speedily deleted]]. Users who continue to create or repost such pages and images will be [[Wikipedia:Blocking policy|blocked]] from editing Wikipedia. Thank you. &lt;!-- Template:attack --&gt; &lt;font color=&quot;DarkGray&quot;&gt;...&lt;/font&gt; [[User:discospinster|&lt;font color=&quot;DarkOrange&quot;&gt;'''disco'''&lt;/font&gt;&lt;font color=&quot;DarkOliveGreen&quot;&gt;'''spinster'''&lt;/font&gt;]] &lt;sub&gt;[[User talk:discospinster|'''&lt;font color=&quot;DarkGray&quot;&gt;talk&lt;/font&gt;''']]&lt;/sub&gt; 00:54, 25 February 2007 (UTC)
-	</talkpage>
-</article>

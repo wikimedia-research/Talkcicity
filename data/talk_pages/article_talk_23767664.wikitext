@@ -1,5 +1,0 @@
-<article id="23767664" title=Talk:The Nun and the Sergeant>
-	<talkpage id="23767664" title="Talk:The Nun and the Sergeant">
-{{Film|class=Stub|American-task-force=yes|War-task-force=yes}}
-	</talkpage>
-</article>

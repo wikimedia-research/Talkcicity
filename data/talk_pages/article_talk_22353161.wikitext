@@ -1,5 +1,0 @@
-<article id="22353161" title=Talk:Child labour in Swaziland>
-	<talkpage id="22353161" title="Talk:Child labour in Swaziland">
-{{AfricaProject|importance=high|Swaziland=yes|Swaziland-importance=high|class=Stub}}
-	</talkpage>
-</article>

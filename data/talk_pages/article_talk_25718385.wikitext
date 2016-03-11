@@ -1,5 +1,0 @@
-<article id="25718385" title=Talk:Cristozoa>
-	<talkpage id="25718385" title="Talk:Cristozoa">
-{{WikiProject Animals}}
-	</talkpage>
-</article>

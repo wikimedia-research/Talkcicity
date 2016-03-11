@@ -1,5 +1,0 @@
-<article id="22204314" title=Talk:2002–03 Slovenian Football Cup>
-	<talkpage id="22204314" title="Talk:2002–03 Slovenian Football Cup">
-{{WikiProject Slovenia|class=stub|importance=low}}
-	</talkpage>
-</article>

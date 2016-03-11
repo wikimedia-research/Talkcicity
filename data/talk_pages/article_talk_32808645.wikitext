@@ -1,5 +1,0 @@
-<article id="19287133" title=Talk:Rokszyce, Podkarpackie Voivodeship>
-	<talkpage id="19287133" title="Talk:Rokszyce, Podkarpackie Voivodeship">
-{{WikiProject Poland|class=stub|importance=low}}
-	</talkpage>
-</article>

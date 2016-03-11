@@ -1,7 +1,0 @@
-<article id="37948800" title=User talk:82.156.112.140>
-	<talkpage id="37948800" title="User talk:82.156.112.140">
-==December 2012==
-
-[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:Materialscientist|Materialscientist]]. I removed an edit that you recently made to [[:Yu Shirota]] that seemed to be a test. If you want more practice editing, the [[Wikipedia:Sandbox|sandbox]] is the best place to do so. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Materialscientist|my talk page]]. Thank you. &lt;!-- Template:uw-test1 --&gt; [[User:Materialscientist|Materialscientist]] ([[User talk:Materialscientist|talk]]) 21:58, 16 December 2012 (UTC)
-	</talkpage>
-</article>

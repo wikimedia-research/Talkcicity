@@ -1,6 +1,0 @@
-<article id="36144355" title=Talk:Growbag>
-	<talkpage id="36144355" title="Talk:Growbag">
-{{WikiProject Horticulture and Gardening |importance= |class=stub}}
-{{oldafdfull| date = 29 January 2015 (UTC) | result = '''keep''' | page = Growbag }}
-	</talkpage>
-</article>

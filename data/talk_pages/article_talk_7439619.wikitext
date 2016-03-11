@@ -1,9 +1,0 @@
-<article id="7439619" title=Talk:Fighting for Freedom>
-	<talkpage id="7439619" title="Talk:Fighting for Freedom">
-{{WPMILHIST
-|class=Stub
-|auto=yes
-|WWII-task-force=yes
-}}
-	</talkpage>
-</article>

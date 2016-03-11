@@ -1,5 +1,0 @@
-<article id="29908181" title=Talk:Triumph, Louisiana>
-	<talkpage id="29908181" title="Talk:Triumph, Louisiana">
-{{WikiProject United States|class=Stub|importance=Low|LA=yes|LA-importance=Low}}
-	</talkpage>
-</article>

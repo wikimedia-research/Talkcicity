@@ -1,9 +1,0 @@
-<article id="38204755" title=Talk:Tony Streather>
-	<talkpage id="38204755" title="Talk:Tony Streather">
-{{WikiProject Biography
-|living=yes
-|class=Stub
-|auto=yes
-}}
-	</talkpage>
-</article>

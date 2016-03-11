@@ -1,6 +1,0 @@
-<article id="24857035" title=Talk:Lu Guang (painter)>
-	<talkpage id="24857035" title="Talk:Lu Guang (painter)">
-{{WikiProject China|class=stub|auto=yes}}
-{{WikiProject Biography|living=no|class=stub|listas=Lu Guang}}
-	</talkpage>
-</article>

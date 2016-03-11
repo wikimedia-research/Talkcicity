@@ -1,5 +1,0 @@
-<article id="26116449" title=Talk:Pontal do Paraná>
-	<talkpage id="26116449" title="Talk:Pontal do Paraná">
-{{WPBrazil|class=stub|importance=low}}
-	</talkpage>
-</article>

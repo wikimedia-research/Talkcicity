@@ -1,6 +1,0 @@
-<article id="42259891" title=Talk:Kamaljit Singh Garewal>
-	<talkpage id="42259891" title="Talk:Kamaljit Singh Garewal">
-{{WikiProject Articles for creation|class=start|ts=20140320211327|reviewer=Technical 13}}
-{{WikiProject Biography|living=yes|class=start|listas=Garewal, Kamaljit Singh}}
-	</talkpage>
-</article>

@@ -1,7 +1,0 @@
-<article id="19905470" title=Talk:Top button>
-	<talkpage id="19905470" title="Talk:Top button">
-This is a tiny article on a totally trivial item: a single button.  The content here is all uncited, mostly rambling and disconnected facts (RAF pilots? where did that come from/lead to?).  The relevant information could easily merged into [[dress shirt]] and [[blouse]], which have most of the relevant detail already. Thoughts? — [[User:Kan8eDie|Kan8eDie]] ([[User talk:Kan8eDie|talk]]) 14:57, 23 October 2008 (UTC)
-
-No response at all, and PROD contested on the basis of &quot;Topic does not appear trivial. Has plenty of varying info. Not orphaned because of navbox. If you think it is well covered by another article, suggest a merge.&quot; Topic is trivial (no-one has ever written a book about a single button!), information is a mixture of OR (&quot;both in an effort to remain cool in the cockpit, and to emphasize their individualistic image as an elite group&quot;!), and now fully duplicated on the other articles. Accordingly, I am merging by redirecting.— [[User:Kan8eDie|Kan8eDie]] ([[User talk:Kan8eDie|talk]]) 14:17, 21 December 2008 (UTC)
-	</talkpage>
-</article>

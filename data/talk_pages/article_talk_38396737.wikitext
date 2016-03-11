@@ -1,5 +1,0 @@
-<article id="38396737" title=Talk:Version 3.0 (album)>
-	<talkpage id="38396737" title="Talk:Version 3.0 (album)">
-{{album|class=stub}}
-	</talkpage>
-</article>

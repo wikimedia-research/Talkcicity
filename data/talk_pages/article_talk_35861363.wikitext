@@ -1,5 +1,0 @@
-<article id="35861363" title=Talk:Polonium hexafluoride>
-	<talkpage id="35861363" title="Talk:Polonium hexafluoride">
-{{chemicals|class=stub|importance=low}}
-	</talkpage>
-</article>

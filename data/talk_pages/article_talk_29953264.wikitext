@@ -1,5 +1,0 @@
-<article id="29953264" title=Talk:Boone Township, Hancock County, Iowa>
-	<talkpage id="29953264" title="Talk:Boone Township, Hancock County, Iowa">
-{{WikiProject Iowa|communities=yes}}
-	</talkpage>
-</article>

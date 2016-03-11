@@ -1,6 +1,0 @@
-<article id="27550265" title=Talk:Vienna College>
-	<talkpage id="27550265" title="Talk:Vienna College">
-{{AfricaProject|Uganda=yes|Uganda-importance=|class=Stub|importance=}}
-{{WikiProject Schools |class=|importance= }}
-	</talkpage>
-</article>

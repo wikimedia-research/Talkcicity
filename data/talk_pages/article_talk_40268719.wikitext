@@ -1,5 +1,0 @@
-<article id="40268719" title=Talk:Fast Draw (game show)>
-	<talkpage id="40268719" title="Talk:Fast Draw (game show)">
-{{WikiProject Television|class=|auto=yes}}
-	</talkpage>
-</article>

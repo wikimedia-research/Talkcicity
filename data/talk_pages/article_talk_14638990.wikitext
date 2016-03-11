@@ -1,9 +1,0 @@
-<article id="14638990" title=Talk:Planned Parenthood of Central Missouri v. Danforth>
-	<talkpage id="14638990" title="Talk:Planned Parenthood of Central Missouri v. Danforth">
-{{WikiProjectBannerShell|1=
-{{WikiProject Abortion|class=Stub}}
-{{WikiProject U.S. Supreme Court cases|class=stub|importance= |needs infobox= |flag= }}
-{{WikiProject Law|class=Stub}}
-}}
-	</talkpage>
-</article>

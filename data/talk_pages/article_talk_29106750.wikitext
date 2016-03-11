@@ -1,7 +1,0 @@
-<article id="29106750" title=User talk:64.92.139.32>
-	<talkpage id="29106750" title="User talk:64.92.139.32">
-== October 2010 ==
-[[File:Information.svg|25px]] Welcome and thank you for experimenting with Wikipedia. Your test on the page [[:The Scarlet Letter]] worked, and it has been [[Help:Reverting|reverted]] or removed. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|this encyclopedia]]. If you would like to experiment further, please use the [[Wikipedia:Sandbox|sandbox]] instead. Thank you.&lt;!-- Template:uw-test1 --&gt; [[User:Clementina|&lt;span style=&quot;color:#6B8AB8&quot;&gt;Clementina&lt;/span&gt;]] [[User talk:Clementina|&lt;span style=&quot;font-family:calibri; font-size:9pt; color:#50C878&quot;&gt;talk&lt;/span&gt;]] 00:38, 8 October 2010 (UTC)
-:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="30847839" title=Talk:Egyptian national identity>
-	<talkpage id="30847839" title="Talk:Egyptian national identity">
-{{WikiProject Egypt|class=NA}}
-	</talkpage>
-</article>

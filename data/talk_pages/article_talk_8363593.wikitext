@@ -1,5 +1,0 @@
-<article id="8363593" title=Talk:Elk Cove (Oregon)>
-	<talkpage id="8363593" title="Talk:Elk Cove (Oregon)">
-{{WikiProject Oregon|class=Stub|importance=Low}}
-	</talkpage>
-</article>

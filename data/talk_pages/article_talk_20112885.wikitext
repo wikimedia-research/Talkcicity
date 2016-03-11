@@ -1,5 +1,0 @@
-<article id="20112885" title=Talk:Bronisławy, Gmina Rybno>
-	<talkpage id="20112885" title="Talk:Bronisławy, Gmina Rybno">
-{{WikiProject Poland|class=start|importance=low}}
-	</talkpage>
-</article>

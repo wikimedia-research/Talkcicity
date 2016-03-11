@@ -1,5 +1,0 @@
-<article id="37447760" title=Talk:WELG>
-	<talkpage id="37447760" title="Talk:WELG">
-{{WikiProject Disambiguation}}
-	</talkpage>
-</article>

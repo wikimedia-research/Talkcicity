@@ -1,5 +1,0 @@
-<article id="41543111" title=Talk:Chalcogenide chemical vapour deposition>
-	<talkpage id="41543111" title="Talk:Chalcogenide chemical vapour deposition">
-{{chemistry|class=start|importance=low}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="31502633" title=Talk:Cairo Exit>
-	<talkpage id="31502633" title="Talk:Cairo Exit">
-{{WikiProject Film|class=Start}}
-	</talkpage>
-</article>

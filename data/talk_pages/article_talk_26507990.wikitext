@@ -1,5 +1,0 @@
-<article id="26507990" title=Talk:Armand Bayou Elementary>
-	<talkpage id="26507990" title="Talk:Armand Bayou Elementary">
-{{oldafdfull| date = 3 March 2010 (UTC) | result = '''redirect to [[Clear Creek Independent School District]]''' | page = Armand Bayou Elementary }}
-	</talkpage>
-</article>

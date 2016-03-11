@@ -1,5 +1,0 @@
-<article id="38849944" title=Talk:You Get What You Want>
-	<talkpage id="38849944" title="Talk:You Get What You Want">
-{{WPBeatles|class=Redirect|importance=NA|display=[[Julian Lennon]]|song=yes}}
-	</talkpage>
-</article>

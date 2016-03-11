@@ -1,9 +1,0 @@
-<article id="11557789" title=Talk:Sochaczew>
-	<talkpage id="11557789" title="Talk:Sochaczew">
-{{WikiProject Poland|class=stub|importance=low}}
-
-
-Proszę nie pisać po polsku - to jest strona dla gości anglojęzycznych - nikt z tego nic nie zrozumie!!!
-Don't write in polish here! It's article for english speaking people. Nobody will understand it.
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="37511418" title=Talk:Koonya, Tasmania>
-	<talkpage id="37511418" title="Talk:Koonya, Tasmania">
-{{WikiProject Australia|class=stub|importance=|place=yes|Tasmania=yes|Tasmania-importance=}}
-	</talkpage>
-</article>

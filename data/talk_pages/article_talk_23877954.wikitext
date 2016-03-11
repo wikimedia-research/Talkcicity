@@ -1,5 +1,0 @@
-<article id="23877954" title=Talk:Psycho Thug>
-	<talkpage id="23877954" title="Talk:Psycho Thug">
-{{album|class=stub|importance=|attention=|needs-infobox=|auto=yes}}
-	</talkpage>
-</article>

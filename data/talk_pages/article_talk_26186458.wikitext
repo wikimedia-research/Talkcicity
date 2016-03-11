@@ -1,5 +1,0 @@
-<article id="26186458" title=Talk:Aero Pictorial>
-	<talkpage id="26186458" title="Talk:Aero Pictorial">
-{{WPAVIATION|class=stub}}
-	</talkpage>
-</article>

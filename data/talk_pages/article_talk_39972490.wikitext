@@ -1,5 +1,0 @@
-<article id="39972490" title=Talk:Engelberger>
-	<talkpage id="39972490" title="Talk:Engelberger">
-{{WikiProject Anthroponymy|class=List}}
-	</talkpage>
-</article>

@@ -1,7 +1,0 @@
-<article id="28256587" title=User talk:Razonklnbd>
-	<talkpage id="28256587" title="User talk:Razonklnbd">
-
-== Your submission at [[WP:AFC|Articles for creation]] ==
-[[File:Symbol declined.svg|35px|left]]Your article submission has been declined, and [[Wikipedia&amp;#32;talk:Articles for creation/আধুনিক: আমরা ধুমপান নিবারন করি (ADHUNIK: We do Prevent Smoking)]] was not created. Please view your submission to see the comments left by the reviewer, and please feel free to resubmit once the issues have been addressed. (You can do this by adding the text &lt;tt&gt;&lt;nowiki&gt;{{subst:AFC submission/submit}}&lt;/nowiki&gt;&lt;/tt&gt; to the top of the article.) Thank you for your contributions to Wikipedia! &lt;small&gt;&lt;span style=&quot;border:1px solid;background:#00008B&quot;&gt;[[User:Chzz|'''&lt;span style=&quot;background:#00008B;color:white&quot;&gt;&amp;nbsp;Chzz&amp;nbsp;&lt;/span&gt;''']][[User talk:Chzz|&lt;span style=&quot;color:#00008B;background-color:yellow;&quot;&gt;&amp;nbsp;►&amp;nbsp;&lt;/span&gt;]]&lt;/span&gt;&lt;/small&gt; 14:35, 4 August 2010 (UTC)
-	</talkpage>
-</article>

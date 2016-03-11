@@ -1,5 +1,0 @@
-<article id="16154151" title=Talk:Taizé-Aizie>
-	<talkpage id="16154151" title="Talk:Taizé-Aizie">
-{{WikiProject France|class=Stub|importance=Low|commune=yes}}
-	</talkpage>
-</article>

@@ -1,9 +1,0 @@
-<article id="20929384" title=Talk:Irish Open (tennis)>
-	<talkpage id="20929384" title="Talk:Irish Open (tennis)">
-{{WikiProjectBannerShell|1=
-{{WikiProject Women's sport|class=Stub|auto=Inherit|importance=}}
-{{WikiProject Tennis|class=stub|importance=low}}
-{{WikiProject Ireland|class=Stub|importance=low}}
-}}
-	</talkpage>
-</article>

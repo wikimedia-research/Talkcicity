@@ -1,5 +1,0 @@
-<article id="44140633" title=Talk:Upper Roaring Meg power station>
-	<talkpage id="44140633" title="Talk:Upper Roaring Meg power station">
-{{WikiProject New Zealand|class=redirect}}
-	</talkpage>
-</article>

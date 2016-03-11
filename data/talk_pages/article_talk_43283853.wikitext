@@ -1,5 +1,0 @@
-<article id="43283853" title=Talk:Onopryivka>
-	<talkpage id="43283853" title="Talk:Onopryivka">
-{{WikiProject Ukraine|class=Start|importance=Low}}
-	</talkpage>
-</article>

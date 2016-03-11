@@ -1,5 +1,0 @@
-<article id="12367762" title=Talk:Hyloxalus toachi>
-	<talkpage id="12367762" title="Talk:Hyloxalus toachi">
-{{AARTalk|class=Stub|needs-photo=yes}}
-	</talkpage>
-</article>

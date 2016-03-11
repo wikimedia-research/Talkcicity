@@ -1,5 +1,0 @@
-<article id="8977106" title=User talk:71.124.106.95>
-	<talkpage id="8977106" title="User talk:71.124.106.95">
-[[Image:Stop hand.svg|left|30px]] Welcome to Wikipedia. We invite everyone to contribute constructively to our encyclopedia. Take a look at the [[Wikipedia:Introduction|welcome page]] if you would like to learn more about contributing. However, unconstructive edits{{#if:Survival of the fittest|, such as those you made to [[:Survival of the fittest]],}} are considered [[Wikipedia:Vandalism|vandalism]] and immediately reverted. If you continue in this manner you may be '''[[Wikipedia:blocking policy|blocked]] from editing without further warning'''. Please stop, and consider improving rather than damaging the work of others. Thank you. &lt;!-- Template:Blatantvandal (serious warning) --&gt;  [[User:Dave souza|dave souza]], [[User talk:Dave souza|talk]] 23:15, 17 January 2007 (UTC)
-	</talkpage>
-</article>

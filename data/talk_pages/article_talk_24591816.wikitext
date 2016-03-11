@@ -1,9 +1,0 @@
-<article id="24591816" title=User talk:124.191.146.44>
-	<talkpage id="24591816" title="User talk:124.191.146.44">
-
-
-== October 2009 ==
-[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to contribute constructively to the encyclopedia, one or more of the external links you added {{#if:Tom Anderson (MySpace)|such as to the page [[:Tom Anderson (MySpace)]]}} do not comply with our [[Wikipedia:External links|guidelines for external links]] and have been removed. [[Wikipedia:What Wikipedia is not#LINK|Wikipedia is not a collection of links]]; nor should it be used for [[Wikipedia:Spam|advertising]] or promotion, and doing so is contrary to the goals of this project. Since Wikipedia uses [[nofollow]] tags, external links do not alter search engine rankings. If you feel the link should be added to the article, please discuss it on the {{#if:Tom Anderson (MySpace)|[[{{TALKPAGENAME:Tom Anderson (MySpace)}}|article's talk page]]|article's talk page}} before reinserting it. Please take a look at the [[Wikipedia:Welcome|welcome page]] to learn more about contributing to this encyclopedia. Thank you.[[Category:User talk pages with Uw-spam1 notices|{{PAGENAME}}]]&lt;!-- Template:uw-spam1 --&gt; [[User:CardinalDan|CardinalDan]] ([[User talk:CardinalDan|talk]]) 05:27, 6 October 2009 (UTC)
-:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
-	</talkpage>
-</article>

@@ -1,6 +1,0 @@
-<article id="31553528" title=User talk:69.112.241.26>
-	<talkpage id="31553528" title="User talk:69.112.241.26">
-== April 2011 ==
-[[File:Information.svg|25px|alt=|link=]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of [[Special:Contributions/69.112.241.26|your recent edits]], such as the one you made to [[:Pia Toscano]], did not appear to be constructive and has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. The reverted edit can be found &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/w/index.php?diff=425104856 here]&lt;/span&gt;. Thank you.&lt;!-- Template:uw-vandalism1 --&gt;&lt;!-- igloo:vandalism1 --&gt; [[User:Philg88|&lt;span style=&quot;color:#646464; font-weight:bold; font-size:11px; border:2px solid #FFCC33;background-color:#cde0fc; padding: 2px 10px;&quot;&gt;►&amp;nbsp;Philg88&amp;nbsp;◄&lt;/span&gt;]] &lt;sup&gt;[[File:star.png|11px]][[User_talk:Philg88|talk]]&lt;/sup&gt; 02:29, 21 April 2011 (UTC)
-	</talkpage>
-</article>

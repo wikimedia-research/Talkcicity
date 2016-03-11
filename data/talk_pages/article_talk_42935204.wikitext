@@ -1,9 +1,0 @@
-<article id="42935204" title=Talk:Geometric magic square>
-	<talkpage id="42935204" title="Talk:Geometric magic square">
-{{maths rating|
-|field = general
-|importance = low
-|class = B
-}}
-	</talkpage>
-</article>

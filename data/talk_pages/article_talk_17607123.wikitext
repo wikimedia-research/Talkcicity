@@ -1,9 +1,0 @@
-<article id="17607123" title=Talk:1190>
-	<talkpage id="17607123" title="Talk:1190">
-{{WikiProjectBannerShell|1=
-{{WikiProject Years|class=list}}
-{{WikiProject Middle Ages|class=list}}
-{{WikiProject Lists|class=list}}
-}}
-	</talkpage>
-</article>

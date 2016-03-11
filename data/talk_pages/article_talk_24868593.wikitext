@@ -1,8 +1,0 @@
-<article id="24868593" title=User talk:68.230.48.167>
-	<talkpage id="24868593" title="User talk:68.230.48.167">
-
-== October 2009 ==
-
-[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Edward_VI_of_England?diff=322449926 recent edit]&lt;/span&gt; you made to the page [[:Edward VI of England]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:Marek69|{{#if:|&lt;span style=&quot;background-color:Marek;color:DarkBlue;&quot;&gt;&lt;/span&gt;|&lt;span style=&quot;color:DarkBlue;&quot;&gt;Marek&lt;/span&gt;}}]]&lt;small&gt;.&lt;/small&gt;[[Special:Contributions/Marek69|&lt;small&gt;{{#if:|&lt;span style=&quot;background-color:69;color:Blue;&quot;&gt;&lt;/span&gt;|&lt;span style=&quot;color:Blue;&quot;&gt;69&lt;/span&gt;}}&lt;/small&gt;]][[User_talk:Marek69|&lt;small&gt;{{#if:|&lt;span style=&quot;background-color:&lt;sup&gt;'' talk''&lt;/sup&gt;;color:Green;&quot;&gt;&lt;/span&gt;|&lt;span style=&quot;color:Green;&quot;&gt;&lt;sup&gt;'' talk''&lt;/sup&gt;&lt;/span&gt;}}&lt;/small&gt;]] 01:02, 28 October 2009 (UTC)
-	</talkpage>
-</article>

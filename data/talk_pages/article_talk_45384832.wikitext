@@ -1,7 +1,0 @@
-<article id="45384832" title=User talk:50.88.172.141>
-	<talkpage id="45384832" title="User talk:50.88.172.141">
-== February 2015 ==
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Thelimiter|Thelimiter]]. I noticed that you made a change to an article, [[:Recess: School's Out]], but you didn't provide a [[Wikipedia:Identifying reliable sources|reliable source]]. It's been removed and archived in the page history for now, but if you'd like to [[Wikipedia:Citing sources|include a citation]] and re-add it, please do so! If you need guidance on referencing, please see the [[Help:Referencing for beginners|referencing for beginners]] tutorial, or if you think I made a mistake, you can leave me a message on [[User_talk:Thelimiter|my talk page]]. Thank you. &lt;!-- Template:uw-unsourced1 --&gt; [[User:Thelimiter|Thelimiter]] ([[User talk:Thelimiter|talk]]) 23:55, 12 February 2015 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

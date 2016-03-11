@@ -1,6 +1,0 @@
-<article id="16010189" title=Talk:United States Senate election in Louisiana, 2008>
-	<talkpage id="16010189" title="Talk:United States Senate election in Louisiana, 2008">
-{{WikiProject United States|class=List|importance=low|USGov=Yes|USGov-importance=low|LA=yes|LA-importance=low}}
-{{WikiProject Elections and Referendums|class=|importance=}}
-	</talkpage>
-</article>

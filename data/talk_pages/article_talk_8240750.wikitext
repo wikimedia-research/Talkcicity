@@ -1,9 +1,0 @@
-<article id="8240750" title=User talk:Mirari202>
-	<talkpage id="8240750" title="User talk:Mirari202">
-A tag has been placed on [[:Jared Jordan]], requesting that it be speedily deleted from Wikipedia. This has been done because the article seems to be about a person, group of people, band, club, company, or web content, but it does not indicate how or why the subject is notable [[Wikipedia:Notability|(see the guidelines for notability here)]]. If you can indicate why the subject of this article is notable, you may contest the tagging. To do this, please add &lt;code&gt;{{tl|hangon}}&lt;/code&gt; on the top of the page and leave a note on [[Talk:Jared Jordan|the article's talk page]] explaining your position. Please do not remove the speedy deletion tag yourself.
-
-Please read the [[WP:CSD|criteria for speedy deletion]] (specifically, articles #7) and [[Wikipedia:Notability (people)|our general biography criteria]]. Feel free to leave a note on my talk page if you have any questions about this.&lt;!-- Template:Nn-warn --&gt; --[[User:Fuhghettaboutit|Fuhghettaboutit]] 00:35, 3 December 2006 (UTC)
-
-&lt;div class=&quot;user-block&quot; style=&quot;clear:both;&quot;&gt;[[Image:Octagon-warning.svg|30px|left]] It has become apparent that your account is only being used for [[Wikipedia:Vandalism|vandalism]], so it has been [[Wikipedia:Blocking policy|blocked indefinitely]].&lt;/div&gt;&lt;!-- {{vandalblock}} --&gt; &lt;tt class=&quot;plainlinks&quot;&gt;[[User:Khoikhoi|Khoi]][[User talk:Khoikhoi|khoi]]&lt;/tt&gt; 02:23, 4 December 2006 (UTC)
-	</talkpage>
-</article>

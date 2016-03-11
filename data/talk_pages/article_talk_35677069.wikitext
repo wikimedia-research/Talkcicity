@@ -1,7 +1,0 @@
-<article id="35677069" title=Talk:Hystrix paukensis>
-	<talkpage id="35677069" title="Talk:Hystrix paukensis">
-{{WikiProject Rodents|class=stub|importance=Low}}
-{{WikiProject Mammals|class=stub|importance=low}}
-{{ExtinctionTalk|class=Stub|importance=Low}}
-	</talkpage>
-</article>

@@ -1,7 +1,0 @@
-<article id="37751312" title=User talk:92.98.172.122>
-	<talkpage id="37751312" title="User talk:92.98.172.122">
-== November 2012 ==
-[[File:Information.svg|25px|alt=|link=]] Please refrain from making unconstructive edits to Wikipedia, as you did at [[:Atlantis, The Palm‎]]. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]] or removed. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Thank you.&lt;!-- Template:uw-vandalism2 --&gt;&lt;!-- Template:uw-cluebotwarning2 --&gt; [[User talk:emerson7|emerson7]] 19:40, 26 November 2012 (UTC)
-:''If this is a [[open proxy|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

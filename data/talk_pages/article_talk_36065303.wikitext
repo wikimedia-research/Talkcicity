@@ -1,5 +1,0 @@
-<article id="36065303" title=Talk:Mordellistena discolor>
-	<talkpage id="36065303" title="Talk:Mordellistena discolor">
-{{WikiProject Insects|class=Stub|importance=Low|needs-photo=yes}}
-	</talkpage>
-</article>

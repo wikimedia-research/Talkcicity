@@ -1,7 +1,0 @@
-<article id="47430743" title=User talk:166.170.39.239>
-	<talkpage id="47430743" title="User talk:166.170.39.239">
-== August 2015 ==
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:BaldBoris|BaldBoris]]. I wanted to let you know that I undid one or more of [[Special:Contributions/166.170.39.239|your recent contributions]]&amp;nbsp;to [[:File:Peppa Pig.png]] because it did not appear constructive. If you would like to experiment, please use the [[WP:sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:BaldBoris|my talk page]]. Thanks.&lt;!-- Template:uw-vandalism1 --&gt; [[User:BaldBoris|Bald]][[User talk:BaldBoris|Boris]] 17:37, 4 August 2015 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

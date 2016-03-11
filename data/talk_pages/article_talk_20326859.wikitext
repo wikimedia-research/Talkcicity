@@ -1,5 +1,0 @@
-<article id="20326859" title=Talk:Goulds>
-	<talkpage id="20326859" title="Talk:Goulds">
-{{DisambigProject}}
-	</talkpage>
-</article>

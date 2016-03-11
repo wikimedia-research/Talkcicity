@@ -1,5 +1,0 @@
-<article id="27929245" title=Talk:List of Buffalo Wild Wings Bowl broadcasters>
-	<talkpage id="27929245" title="Talk:List of Buffalo Wild Wings Bowl broadcasters">
-{{WikiProject College football|class=List|importance=low}}
-	</talkpage>
-</article>

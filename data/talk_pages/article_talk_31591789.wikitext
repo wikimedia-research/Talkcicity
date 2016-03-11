@@ -1,5 +1,0 @@
-<article id="31591789" title=Talk:Board for International Broadcasting>
-	<talkpage id="31591789" title="Talk:Board for International Broadcasting">
-{{WAP assignment| course=Wikipedia:WikiProject United States Public Policy/Courses/Spring 2011/Arab Media (Adel Iskandar)|university=Georgetown University|term=2011 Spring}}
-	</talkpage>
-</article>

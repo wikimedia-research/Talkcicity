@@ -1,5 +1,0 @@
-<article id="44642665" title=Talk:Agbaja>
-	<talkpage id="44642665" title="Talk:Agbaja">
-{{WikiProject Nigeria|class=stub|importance=low}}
-	</talkpage>
-</article>

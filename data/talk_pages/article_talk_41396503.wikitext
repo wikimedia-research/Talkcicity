@@ -1,6 +1,0 @@
-<article id="41396503" title=Talk:Scoparia cyameuta>
-	<talkpage id="41396503" title="Talk:Scoparia cyameuta">
-{{WikiProject New Zealand|class=|importance=}}
-{{WikiProject Lepidoptera|class=stub|importance=low}}
-	</talkpage>
-</article>

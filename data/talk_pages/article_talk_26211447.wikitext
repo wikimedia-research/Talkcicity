@@ -1,6 +1,0 @@
-<article id="26211447" title=Talk:Home Economics Building>
-	<talkpage id="26211447" title="Talk:Home Economics Building">
-{{WikiProject NRHP|class=dab}}
-{{DisambigProject}}
-	</talkpage>
-</article>

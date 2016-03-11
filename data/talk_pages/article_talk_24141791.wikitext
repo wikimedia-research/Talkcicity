@@ -1,5 +1,0 @@
-<article id="24141791" title=Talk:UNSW School of Art History and Theory>
-	<talkpage id="24141791" title="Talk:UNSW School of Art History and Theory">
-{{WikiProject Australia|class=|importance=}}
-	</talkpage>
-</article>

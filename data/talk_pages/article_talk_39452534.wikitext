@@ -1,7 +1,0 @@
-<article id="39452534" title=User talk:Assassinador>
-	<talkpage id="39452534" title="User talk:Assassinador">
-== May 2013 ==
-
-[[File:Ambox warning pn.svg|25px|alt=|link=]] Please stop your [[Wikipedia:Disruptive editing|disruptive editing]]. If you continue to [[Wikipedia:Vandalism|vandalize]] Wikipedia, as you did at [[:Australia national association football team]], you may be [[Wikipedia:Blocking policy|blocked from editing]]. &lt;!-- Template:uw-vandalism3 --&gt;&lt;!-- Template:uw-cluebotwarning3 --&gt; --[[User:2nyte|2nyte]] ([[User talk:2nyte|talk]]) 02:30, 22 May 2013 (UTC)
-	</talkpage>
-</article>

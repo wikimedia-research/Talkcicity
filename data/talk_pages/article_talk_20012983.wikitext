@@ -1,6 +1,0 @@
-<article id="17831025" title=Talk:Széll Kálmán tér>
-	<talkpage id="17831025" title="Talk:Széll Kálmán tér">
-{{WikiProject Hungary}}
-{{TrainsWikiProject|auto=yes|class=stub|importance=}}
-	</talkpage>
-</article>

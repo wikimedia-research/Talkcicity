@@ -1,7 +1,0 @@
-<article id="31641787" title=User talk:76.93.139.170>
-	<talkpage id="31641787" title="User talk:76.93.139.170">
-== May 2011 ==
-[[Image:Information.svg|25px|alt=|link=]] Welcome to Wikipedia. Everyone is welcome to contribute constructively to the encyclopedia. However, please do not add promotional material to articles or other Wikipedia pages, as you did to [[:Laryngopharyngeal reflux]]. [[Wikipedia:What Wikipedia is not#Wikipedia is not a soapbox|Advertising]] and using Wikipedia as a &quot;[[soapbox]]&quot; are against Wikipedia policy and not permitted. Take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about Wikipedia. Thank you.[[Category:User talk pages with Uw-advert1 notices|{{PAGENAME}}]]&lt;!-- Template:Uw-advert1 --&gt; [[User:CliffC|CliffC]] ([[User talk:CliffC|talk]]) 00:26, 1 May 2011 (UTC)
-:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
-	</talkpage>
-</article>

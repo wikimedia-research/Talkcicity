@@ -1,7 +1,0 @@
-<article id="29784076" title=User talk:174.122.148.130>
-	<talkpage id="29784076" title="User talk:174.122.148.130">
-== November 2010 ==
-[[Image:Stop hand nuvola.svg|30px|alt=|link=]] This is your '''only warning'''. If you [[Wikipedia:Vandalism|vandalize]] Wikipedia again, as you did at [[:Shlomo Sand]], you may be '''[[Wikipedia:Blocking policy|blocked from editing]] without further notice'''. &lt;!-- Template:uw-vandalism4im --&gt; [[User:Invitrovanitas|Invitrovanitas]] ([[User talk:Invitrovanitas|talk]]) 10:51, 28 November 2010 (UTC)
-:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
-	</talkpage>
-</article>

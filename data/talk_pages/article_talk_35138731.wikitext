@@ -1,6 +1,0 @@
-<article id="35138731" title=Talk:Marasmiellus hapuuarum>
-	<talkpage id="35138731" title="Talk:Marasmiellus hapuuarum">
-{{WikiProject Fungi|class=start|importance=low}}
-{{dyktalk|23 March|2012|entry=... that the fungi '''''[[Callistosporium vinosobrunneum]]''''', '''''[[Marasmiellus hapuuarum]]''''', '''''[[Marasmius koae]]''''', '''''[[Mycena marasmielloides]]''''', and '''''[[Pleurocybella ohiae]]''''', newly described in 2011, are known only from the [[Hawaiian tropical rainforests#Wet forests|wet forests]] of [[Hawaii]]?|nompage=Template:Did you know nominations/Callistosporium vinosobrunneum, Marasmiellus hapuuarum, Marasmius koae, Mycena marasmielloides, Pleurocybella ohiae}}
-	</talkpage>
-</article>

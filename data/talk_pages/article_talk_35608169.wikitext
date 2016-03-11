@@ -1,5 +1,0 @@
-<article id="35608169" title=Talk:(20179) 1996 XX31>
-	<talkpage id="35608169" title="Talk:(20179) 1996 XX31">
-{{WikiProject Astronomy|object=yes|class=stub|importance=low}}
-	</talkpage>
-</article>

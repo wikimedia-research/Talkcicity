@@ -1,6 +1,0 @@
-<article id="40726533" title=Talk:Yeğenli>
-	<talkpage id="40726533" title="Talk:Yeğenli">
-{{WikiProject Disambiguation}}
-{{WikiProject Turkey|class=dab}}
-	</talkpage>
-</article>

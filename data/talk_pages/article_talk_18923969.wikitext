@@ -1,9 +1,0 @@
-<article id="18923969" title=Talk:ELA-3>
-	<talkpage id="18923969" title="Talk:ELA-3">
-{{WikiProjectBannerShell|1=
-{{WikiProject Spaceflight|class=Stub|importance=}}
-{{WikiProject Rocketry}}
-{{WikiProject Europe|ESA=yes|ESA-importance=|class=stub|importance=low}}
-}}
-	</talkpage>
-</article>

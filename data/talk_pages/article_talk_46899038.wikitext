@@ -1,7 +1,0 @@
-<article id="46899038" title=User talk:151.227.179.136>
-	<talkpage id="46899038" title="User talk:151.227.179.136">
-== June 2015 ==
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Qed237|Qed237]]. I noticed that you made an edit concerning content related to a living (or recently deceased) person{{spaces|1}}on [[:Adam Lallana]], but you didn’t support your changes with a [[Wikipedia:Inline citation|citation to a reliable source]], so I removed it. Wikipedia has a strict policy concerning [[Wikipedia:Biographies of living persons|how we write about living people]], so please help us keep such articles accurate. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Qed237|my talk page]]. Thank you. &lt;!-- Template:uw-biog1 --&gt; &lt;i style=&quot;font-family:Sans-serif&quot;&gt;[[User:Qed237|&lt;b style=&quot;color:blue&quot;&gt;Qed&lt;/b&gt;&lt;b style=&quot;color:red&quot;&gt;237&lt;/b&gt;]]&amp;#160;[[User talk:Qed237|&lt;b style=&quot;color:green&quot;&gt;(talk)&lt;/b&gt;]]&lt;/i&gt; 12:49, 5 June 2015 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

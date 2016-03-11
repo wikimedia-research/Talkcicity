@@ -1,9 +1,0 @@
-<article id="5550593" title=Talk:Cape Krusenstern>
-	<talkpage id="5550593" title="Talk:Cape Krusenstern">
-{{WikiProjectBannerShell|1=
-{{WikiProject Alaska|class=stub|importance=low}}
-{{WikiProject Russia|class=Stub|importance=Low|hist=yes|physgeo=yes}}
-{{WikiProject Arctic|class=Stub|importance=Mid}}
-}}
-	</talkpage>
-</article>

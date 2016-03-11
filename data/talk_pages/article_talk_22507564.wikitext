@@ -1,6 +1,0 @@
-<article id="22507564" title=User talk:204.184.205.39>
-	<talkpage id="22507564" title="User talk:204.184.205.39">
-----
-[[Image:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia{{#if:tellurium|, as you did to [[:tellurium]]}}. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Thank you.&lt;!-- Template:uw-vandalism2 --&gt; -- [[User:Edgar181|Ed]] ([[User talk:Edgar181|Edgar181]]) 13:37, 21 April 2009 (UTC)
-	</talkpage>
-</article>

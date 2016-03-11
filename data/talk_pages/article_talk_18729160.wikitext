@@ -1,7 +1,0 @@
-<article id="6906623" title=Talk:Burtts Corner>
-	<talkpage id="6906623" title="Talk:Burtts Corner">
-{{WikiProject Canada|nb=yes|community=yes|class=start|importance=low}}
-
-A bit of copy editing done, minor changes. It would be nice if this article included something about the present state of the town as well. [[User:Elsbeth0|Elsbeth0]] 00:50, 9 September 2006 (UTC)
-	</talkpage>
-</article>

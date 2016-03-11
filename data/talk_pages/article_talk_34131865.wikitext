@@ -1,5 +1,0 @@
-<article id="34131865" title=Talk:Cradoc, Powys>
-	<talkpage id="34131865" title="Talk:Cradoc, Powys">
-{{WikiProject Wales|class=stub|importance=low}}
-	</talkpage>
-</article>

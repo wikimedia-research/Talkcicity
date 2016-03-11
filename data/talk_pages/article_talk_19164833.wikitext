@@ -1,9 +1,0 @@
-<article id="19164833" title=User talk:68.7.132.57>
-	<talkpage id="19164833" title="User talk:68.7.132.57">
-
-==Speedy deletion of [[:Image talk:Wacom Pen-tablet.jpg]]==
-[[Image:Ambox warning_pn.svg|48px|left]] Thank you for experimenting with Wikipedia. Your test worked, and the page that you created has been or soon will be deleted. Please use [[Wikipedia:Sandbox|the sandbox]] for any other tests you want to do. Take a look at the [[Wikipedia:Welcome, newcomers|welcome page]] if you would like to learn more about contributing to our encyclopedia. 
-
-If you think that this notice was placed here in error, you may contest the deletion by adding &lt;code&gt;{{tl|hangon}}&lt;/code&gt; to '''the top of [[:Image talk:Wacom Pen-tablet.jpg|the page that has been nominated for deletion]]''' (just below the existing speedy deletion or &quot;db&quot; tag), coupled with adding a note on '''[[ Talk:Image talk:Wacom Pen-tablet.jpg|the talk page]]''' explaining your position, but be aware that once tagged for ''speedy'' deletion, if the article meets the criterion it may be deleted without delay. Please do not remove the speedy deletion tag yourself, but don't hesitate to add information to the article that would would render it more in conformance with Wikipedia's policies and guidelines. Lastly, please note that if the article does get deleted, you can contact [[:Category:Wikipedia administrators who will provide copies of deleted articles|one of these admins]] to request that a copy be emailed to you. &lt;!-- Template:Db-test-notice --&gt; &lt;!-- Template:Db-csd-notice-custom --&gt; [[User:OsamaK|O]][[User talk:OsamaK|sama]][[Special:Contributions/OsamaK|K]]&lt;sup&gt;Reply? on my [[User talk:OsamaK|talk page]], please&lt;/sup&gt; 22:43, 3 September 2008 (UTC)
-	</talkpage>
-</article>

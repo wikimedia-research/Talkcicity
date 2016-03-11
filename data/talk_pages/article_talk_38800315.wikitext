@@ -1,5 +1,0 @@
-<article id="12532235" title=Talk:Doucet's musk shrew>
-	<talkpage id="12532235" title="Talk:Doucet's musk shrew">
-{{WikiProject Mammals|class=stub|importance=low|needs-photo=yes}}
-	</talkpage>
-</article>

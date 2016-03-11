@@ -1,5 +1,0 @@
-<article id="46456920" title=Talk:Leo Meyer (producer)>
-	<talkpage id="46456920" title="Talk:Leo Meyer (producer)">
-{{WikiProject Biography|living=no|class=stub|listas=Meyer, Leo|filmbio-work-group=yes}}
-	</talkpage>
-</article>

@@ -1,6 +1,0 @@
-<article id="42866004" title=Talk:Nannavanu>
-	<talkpage id="42866004" title="Talk:Nannavanu">
-{{WikiProject Film|class=start|needs-image=yes|Indian=yes}}
-{{WikiProject India|class=start|importance=low|karnataka=yes|karnataka-importance=low|cinema=yes|cinema-importance=low|assess-date=February 2015}}
-	</talkpage>
-</article>

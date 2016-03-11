@@ -1,5 +1,0 @@
-<article id="37533368" title=Talk:1989 European Cup (athletics)>
-	<talkpage id="37533368" title="Talk:1989 European Cup (athletics)">
-{{WikiProject Athletics|class=start|importance=mid}}
-	</talkpage>
-</article>

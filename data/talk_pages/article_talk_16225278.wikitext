@@ -1,9 +1,0 @@
-<article id="16225278" title=User talk:65.69.64.8>
-	<talkpage id="16225278" title="User talk:65.69.64.8">
-
-
-== March 2008 ==
-[[Image:Information.svg|25px]] Welcome to Wikipedia. It might not have been your intention, but your recent edit removed content from {{#if:Gaara|[[:Gaara]]|Wikipedia}}.  When removing text, please specify a reason in the [[Help:Edit summary|edit summary]] and discuss edits that are likely to be controversial on the article's [[Wikipedia:Talk page|talk page]]. If this was a mistake, don't worry; the text has been restored, as you can see from the [[Help:Page history|page history]]. Take a look at the [[Wikipedia:Welcome|welcome page]] to learn more about contributing to this encyclopedia, and if you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]].  {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-delete1 --&gt; &lt;font face=&quot;Verdana&quot;&gt;[[User:Sephiroth BCR|&lt;font color=&quot;navy&quot;&gt;'''Sephiroth BCR'''&lt;/font&gt;]] &lt;sup&gt;'''([[User talk:Sephiroth BCR|&lt;font color=&quot;blue&quot;&gt;Converse&lt;/font&gt;]])'''&lt;/sup&gt;&lt;/font&gt; 22:01, 10 March 2008 (UTC)
-:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
-	</talkpage>
-</article>

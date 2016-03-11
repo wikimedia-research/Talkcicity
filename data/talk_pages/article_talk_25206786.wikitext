@@ -1,7 +1,0 @@
-<article id="25206786" title=Talk:Yuqing County>
-	<talkpage id="25206786" title="Talk:Yuqing County">
-{{WPCHINA|class=stub|importance=mid}}
-{{reqphoto|in=Guizhou}}
-{{reqmapin|China}}
-	</talkpage>
-</article>

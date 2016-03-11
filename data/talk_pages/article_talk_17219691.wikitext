@@ -1,5 +1,0 @@
-<article id="17219691" title=Talk:3477 Kazbegi>
-	<talkpage id="17219691" title="Talk:3477 Kazbegi">
-{{WPAstronomy|object=yes|class=Stub|importance=Low}}
-	</talkpage>
-</article>

@@ -1,7 +1,0 @@
-<article id="7462361" title=Talk:Gillette–Campbell County Airport>
-	<talkpage id="7462361" title="Talk:Gillette–Campbell County Airport">
-{{WikiProject United States|class=Stub|importance=Low|WY=Yes|WY-importance=}}
-{{Talkheader}}
-{{WPAVIATION|Airports-project=yes|class=Stub|auto=yes}}
-	</talkpage>
-</article>

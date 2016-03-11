@@ -1,7 +1,0 @@
-<article id="43433194" title=User talk:71.86.26.2>
-	<talkpage id="43433194" title="User talk:71.86.26.2">
-== July 2014 ==
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:K6ka|K6ka]]. I wanted to let you know that I undid one or more of [[Special:Contributions/71.86.26.2|your recent contributions]]&amp;nbsp;to [[:C. Thomas Howell]] because it did not appear constructive. If you would like to experiment, please use the [[WP:sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:K6ka|my talk page]]. Thanks!&lt;!-- Template:uw-vandalism1 --&gt; --'''[[:User:K6ka|k6ka]]''' ([[:User_talk:K6ka#|talk]] &amp;#124; [[:Special:Contributions/K6ka|contribs]])  15:02, 30 July 2014 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

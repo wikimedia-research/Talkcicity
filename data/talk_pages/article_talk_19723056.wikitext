@@ -1,8 +1,0 @@
-<article id="19723056" title=User talk:70.53.122.211>
-	<talkpage id="19723056" title="User talk:70.53.122.211">
-
-== October 2008 ==
-
-[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Species?diff=244474000 recent edit]&lt;/span&gt; you made to [[:Species]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:Res2216firestar|Res]][[User Talk: Res2216firestar|2216]][[Special:Contributions/Res2216firestar|firestar]] 23:53, 10 October 2008 (UTC)
-	</talkpage>
-</article>

@@ -1,6 +1,0 @@
-<article id="25394053" title=Talk:Swimming at the 1972 Summer Olympics – Women's 200 metre backstroke>
-	<talkpage id="25394053" title="Talk:Swimming at the 1972 Summer Olympics – Women's 200 metre backstroke">
-{{WikiProject Olympics|class=stub|auto=length|importance=low}}
-{{WP Swimming}}
-	</talkpage>
-</article>

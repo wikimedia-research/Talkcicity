@@ -1,5 +1,0 @@
-<article id="18269995" title=Talk:Nerkin Shengavit>
-	<talkpage id="18269995" title="Talk:Nerkin Shengavit">
-{{WPAM}}
-	</talkpage>
-</article>

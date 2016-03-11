@@ -1,8 +1,0 @@
-<article id="35421423" title=Talk:Workers' Party (Paraguay)>
-	<talkpage id="35421423" title="Talk:Workers' Party (Paraguay)">
-{{WikiProject South America|class=stub|importance=low
-|Paraguay=yes|Paraguay-importance=low}}
-{{WikiProject Politics|class=stub|importance=low|political-parties=yes
-|political-parties-importance=low}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="6291654" title=Talk:The Killing Jar>
-	<talkpage id="6291654" title="Talk:The Killing Jar">
-{{WikiProjectSongs|auto=yes|class=C}}
-	</talkpage>
-</article>

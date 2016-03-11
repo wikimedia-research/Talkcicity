@@ -1,6 +1,0 @@
-<article id="10862836" title=Talk:1979 College World Series>
-	<talkpage id="10862836" title="Talk:1979 College World Series">
-{{WikiProject Baseball|class=redirect|college=yes}}
-{{Merged-to|1979 NCAA Division I Baseball Tournament#College World Series|August 23, 2014}}
-	</talkpage>
-</article>

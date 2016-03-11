@@ -1,8 +1,0 @@
-<article id="13903583" title=Talk:WRZZ>
-	<talkpage id="13903583" title="Talk:WRZZ">
-{{WikiProjectBannerShell|1=
-{{RadioStationsProject|class=Stub}}
-{{WikiProject United States|class=Stub|importance=Low|WV=Yes|WV-importance=Low}}
-}}
-	</talkpage>
-</article>

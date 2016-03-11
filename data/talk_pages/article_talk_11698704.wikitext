@@ -1,7 +1,0 @@
-<article id="11698704" title=User talk:67.68.61.11>
-	<talkpage id="11698704" title="User talk:67.68.61.11">
-
-
-{{{icon|[[Image:Information.svg|25px]] }}}Please do not delete content from articles on Wikipedia{{{{{subst|}}}#if:Ludwig van Beethoven|, as you did to [[:Ludwig van Beethoven]]}}.  Your edits do not appear to be constructive and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use [[Wikipedia:Sandbox]] for test edits. {{{{{subst|}}}#if:{{{2|}}}|{{{2}}}|Thank you.}}&lt;!-- Template:uw-delete2 --&gt; [[User:Stephen Burnett|Stephen Burnett]] 18:28, 10 June 2007 (UTC) &lt;br clear=&quot;both&quot;&gt;
-	</talkpage>
-</article>

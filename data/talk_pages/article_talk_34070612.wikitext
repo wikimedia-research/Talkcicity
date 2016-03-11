@@ -1,6 +1,0 @@
-<article id="34070612" title=Talk:Alexandra Liao>
-	<talkpage id="34070612" title="Talk:Alexandra Liao">
-{{WikiProject Biography|class=stub|living=yes|listas=Liao, Alexandra}}
-{{WikiProject Peru|class=stub|importance=low}}
-	</talkpage>
-</article>

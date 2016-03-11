@@ -1,9 +1,0 @@
-<article id="35983808" title=User talk:86.143.37.68>
-	<talkpage id="35983808" title="User talk:86.143.37.68">
-
-== May 2012 ==
-
-&lt;div style=clear: both&gt;&lt;/div&gt;[[File:Information.svg|25px|alt=|link=]] Hello, and welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of [[Special:Contributions/86.143.37.68|your recent edits]], such as the one you made to [[:Assassin's Creed III]] with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Assassin's_Creed_III?diff=495143640 this edit]&lt;/span&gt;, did not appear to be constructive, and has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you. &lt;!-- Template:Huggle/warn-1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt;
-&lt;font color=&quot;aqua&quot;&gt;[[User:A520|A520]]&lt;/font&gt; &amp;#124;  &lt;font color=&quot;red&quot;&gt;[[User talk:A520|Talk me away!]]&lt;/font&gt;/&lt;small&gt;''[[User:A520/Guestbook|sign it!]]''&lt;/small&gt; 15:28, 30 May 2012 (UTC)
-	</talkpage>
-</article>

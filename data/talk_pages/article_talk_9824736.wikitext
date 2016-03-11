@@ -1,8 +1,0 @@
-<article id="9824736" title=User talk:147.253.106.100>
-	<talkpage id="9824736" title="User talk:147.253.106.100">
-{{SharedIPEDU|Stetson University Academic Computing Services}}
-
-==Your edit to [[Phi Sigma Kappa]]==
-Please do not add nonsense to Wikipedia{{#if:{{{1|}}}|, as you did {{#if:{{{diff|}}}|with [{{{diff}}} this edit]}} to the [[:{{{1}}}]] page|{{#if:{{{diff|}}}|, as you did with [{{{diff}}} this edit]}}}}. It is considered [[Wikipedia:Vandalism|vandalism]]. If you would like to experiment, use the [[Wikipedia:Sandbox|sandbox]]. Thank you. &lt;!-- Template:Test2 (second level warning) --&gt; --&lt;font color=&quot;0000CC&quot;&gt;[[User:Dysepsion|† Ðy§ep§ion †]] &lt;sup&gt; [[User_talk:Dysepsion|&lt;i&gt;Speak your mind&lt;/i&gt;]]&lt;/sup&gt;&lt;/font&gt; 04:41, 3 March 2007 (UTC)
-	</talkpage>
-</article>

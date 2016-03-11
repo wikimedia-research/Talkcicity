@@ -1,9 +1,0 @@
-<article id="13952927" title=Talk:St. John's University, Shanghai>
-	<talkpage id="13952927" title="Talk:St. John's University, Shanghai">
-{{WikiProjectBannerShell|1=
-{{WikiProject Universities|class=Start}}
-{{WikiProject China|class=start|importance=low}}
-{{WikiProject Christianity|class=Start|importance=low|china-work-group=yes|china-importance=low}}
-}}
-	</talkpage>
-</article>

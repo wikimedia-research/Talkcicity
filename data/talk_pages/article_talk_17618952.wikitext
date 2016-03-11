@@ -1,5 +1,0 @@
-<article id="17618952" title=Talk:Stankovce>
-	<talkpage id="17618952" title="Talk:Stankovce">
-{{WikiProject Slovakia|class=Stub|importance=low}}
-	</talkpage>
-</article>

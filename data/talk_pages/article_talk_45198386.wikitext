@@ -1,6 +1,0 @@
-<article id="45198386" title=Talk:Calloodes rayneri>
-	<talkpage id="45198386" title="Talk:Calloodes rayneri">
-{{WikiProject Beetles|class=Stub|importance=Low}}
-{{WikiProject Insects|class=stub|importance=low}}
-	</talkpage>
-</article>

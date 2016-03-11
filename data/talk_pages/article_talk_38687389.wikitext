@@ -1,8 +1,0 @@
-<article id="38687389" title=User talk:50.193.163.197>
-	<talkpage id="38687389" title="User talk:50.193.163.197">
-== March 2013 ==
-[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:Stryn|Stryn]]. I wanted to let you know that I undid one or more of [[Special:Contributions/50.193.163.197|your recent contributions]]&amp;nbsp;to [[:San Angelo, Texas]] because it didn't appear constructive. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Stryn|my talk page]]. Thanks!&lt;!-- Template:uw-vandalism1 --&gt;&lt;!-- Template:uw-cluebotwarning1 --&gt;  [[User:Stryn|Stryn]] ([[User talk:Stryn|talk]]) 19:32, 2 March 2013 (UTC)
-
-&lt;div style=clear: both&gt;&lt;/div&gt;[[File:Information.svg|25px|alt=|link=]] Please refrain from making unconstructive edits to Wikipedia, as you did at [[:Jacksonville, Florida]] with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Jacksonville%2c_Florida?diff=541773666 this edit]&lt;/span&gt;. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]] or removed. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Thank you. &lt;!-- Template:Huggle/warn-2 --&gt;&lt;!-- Template:uw-vandalism2 --&gt;[[User:Wtmitchell|Wtmitchell]]  [[User talk:Wtmitchell|(talk)]] &lt;small&gt;(earlier ''Boracay Bill'')&lt;/small&gt; 19:39, 2 March 2013 (UTC)
-	</talkpage>
-</article>

@@ -1,9 +1,0 @@
-<article id="35805556" title=User talk:76.95.172.97>
-	<talkpage id="35805556" title="User talk:76.95.172.97">
-{{ISP | Roadrunner, Yorba Linda, California, U.S.}}
-
-== May 2012 ==
-[[File:Ambox warning pn.svg|25px|alt=|link=]] Please stop your [[Wikipedia:Disruptive editing|disruptive editing]]. If you continue to [[Wikipedia:Vandalism|vandalize]] Wikipedia, as you did at [[:Jedediah Smith]], you may be [[Wikipedia:Blocking policy|blocked from editing]]. &lt;!-- Template:uw-vandalism3 --&gt;&lt;!-- Template:uw-cluebotwarning3 --&gt; —[[user:EncMstr|EncMstr]] ([[user talk:EncMstr|talk]]) 08:28, 13 May 2012 (UTC)
-:''If this is a [[closed proxy|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="38594121" title=Talk:Systems geology>
-	<talkpage id="38594121" title="Talk:Systems geology">
-{{WikiProject Geology|class=stub|importance=low}}
-	</talkpage>
-</article>

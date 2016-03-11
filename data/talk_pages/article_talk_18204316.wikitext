@@ -1,5 +1,0 @@
-<article id="18204316" title=Talk:PLAA (gene)>
-	<talkpage id="18204316" title="Talk:PLAA (gene)">
-{{Wikiproject MCB|class=stub|importance=low}}
-	</talkpage>
-</article>

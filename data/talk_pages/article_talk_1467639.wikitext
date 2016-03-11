@@ -1,7 +1,0 @@
-<article id="1467639" title=Talk:Hedger>
-	<talkpage id="1467639" title="Talk:Hedger">
-Should be merged with [[hedge (finance)]], loads of overlap. [[User:Pcb21|Pcb21|]] [[User_talk:Pcb21|Pete]] 00:59, 5 Feb 2005 (UTC)
-
-Yes.  Nothing in here that isn't covered in [[hedge (finance)]].  - [[User:Carax|Carax]] 12:48, 24 August 2005 (UTC)
-	</talkpage>
-</article>

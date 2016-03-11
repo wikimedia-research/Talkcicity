@@ -1,7 +1,0 @@
-<article id="43512566" title=Talk:Army Aviation Badge (Philippines)>
-	<talkpage id="43512566" title="Talk:Army Aviation Badge (Philippines)">
-{{WikiProject Military History|b1=|b2=|b3=|b4=|b5=|Southeast-Asian=y|class=stub}}
-{{WikiProject Tambayan Philippines}}
-{{WikiProject Orders, Decorations, and Medals}}
-	</talkpage>
-</article>

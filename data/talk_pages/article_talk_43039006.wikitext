@@ -1,5 +1,0 @@
-<article id="43039006" title=Talk:Hemilissa rufa>
-	<talkpage id="43039006" title="Talk:Hemilissa rufa">
-{{WikiProject Insects|class=stub|importance=low}}
-	</talkpage>
-</article>

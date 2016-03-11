@@ -1,5 +1,0 @@
-<article id="25535797" title=Talk:Noliproctis>
-	<talkpage id="25535797" title="Talk:Noliproctis">
-{{WikiProject Lepidoptera|importance=low|class=stub}}
-	</talkpage>
-</article>

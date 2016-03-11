@@ -1,5 +1,0 @@
-<article id="39866274" title=Talk:Aboab>
-	<talkpage id="39866274" title="Talk:Aboab">
-{{WikiProject Anthroponymy|class=List|importance=NA}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="40735318" title=Talk:James J. Gaffney, III>
-	<talkpage id="40735318" title="Talk:James J. Gaffney, III">
-{{WikiProject Biography|living=yes}}
-	</talkpage>
-</article>

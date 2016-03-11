@@ -1,6 +1,0 @@
-<article id="6017385" title=Talk:Australian Rail Track Corporation>
-	<talkpage id="6017385" title="Talk:Australian Rail Track Corporation">
-{{TrainsWikiProject|class=start|importance=high|unref=yes|Imageneeded=yes|Mapneeded=yes}}
-{{WP Australia|class=C|importance=Mid}}
-	</talkpage>
-</article>

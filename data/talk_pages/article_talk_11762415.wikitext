@@ -1,6 +1,0 @@
-<article id="11762415" title=Talk:Munich Opera Festival>
-	<talkpage id="11762415" title="Talk:Munich Opera Festival">
-
-{{WikiProject Opera|class=Stub|auto=yes}}
-	</talkpage>
-</article>

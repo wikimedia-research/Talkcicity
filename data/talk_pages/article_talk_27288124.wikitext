@@ -1,5 +1,0 @@
-<article id="27288124" title=Talk:Gaekwar's Baroda State Railway>
-	<talkpage id="27288124" title="Talk:Gaekwar's Baroda State Railway">
-{{WP India|railways=yes|railways-importance=low|class=stub|importance=low}}
-	</talkpage>
-</article>

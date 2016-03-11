@@ -1,9 +1,0 @@
-<article id="46984250" title=User talk:104.157.185.168>
-	<talkpage id="46984250" title="User talk:104.157.185.168">
-
-
-==Recent edit to [[Preston High School (Ontario)]]==
-[[Image:Information.svg|25px|alt=Information icon]] Hello, and welcome to Wikipedia. I noticed that you made a change to an article, [[Preston High School (Ontario)]], but you didn't provide a [[Wikipedia:Identifying reliable sources|reliable source]]. It's been removed for now, but if you'd like to [[Wikipedia:Citing sources|include a citation]] and re-add it, please do so! If you need guidance on referencing, please see the [[Help:Referencing for beginners|referencing for beginners]] tutorial, or if you think I made a mistake, you can leave me a message on my talk page. Thank you! &lt;b style=&quot;font-family:tahoma&quot;&gt;[[User:TeaLover1996|&lt;b style=&quot;color:green&quot;&gt;Tea&lt;/b&gt;&lt;b style=&quot;color:blue&quot;&gt;Lover&lt;/b&gt;&lt;b style=&quot;color:red&quot;&gt;1996&lt;/b&gt;]] [[User talk:TeaLover1996|&lt;span style=&quot;color:purple&quot;&gt;&lt;sup&gt;Talk to me &lt;font size=&quot;5&quot;&gt;☏&lt;/font&gt;&lt;/sup&gt;&lt;/span&gt;]]&lt;/b&gt; 08:42, 15 June 2015 (UTC)
-:@104.157.185.168: You can ignore the above message - [https://en.wikipedia.org/w/index.php?title=Preston_High_School_(Ontario)&amp;diff=prev&amp;oldid=666409279 the edit] was correct in fixing the dashes, and I've restored it. Thanks, '''~''[[User:SuperHamster|&lt;span style=&quot;color:#07517C&quot;&gt;Super&lt;/span&gt;]]''[[User:SuperHamster|&lt;span style=&quot;color:#6FA23B&quot;&gt;Hamster&lt;/span&gt;]]''' &lt;small&gt;[[User talk:SuperHamster|Talk]] [[Special:Contribs/SuperHamster|Contribs]]&lt;/small&gt; 15:36, 16 June 2015 (UTC)
-	</talkpage>
-</article>

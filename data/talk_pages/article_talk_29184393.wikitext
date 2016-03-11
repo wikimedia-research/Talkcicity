@@ -1,6 +1,0 @@
-<article id="29184393" title=Talk:Wesu District Hospital>
-	<talkpage id="29184393" title="Talk:Wesu District Hospital">
-{{WikiProject Africa|Kenya=yes|importance=mid|class=start|assess-date=August 2012}}
-{{WikiProject Hospitals|class=start|importance=low|needs-infobox=yes|needs-photo=yes}}
-	</talkpage>
-</article>

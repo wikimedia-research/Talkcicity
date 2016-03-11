@@ -1,5 +1,0 @@
-<article id="35826939" title=Talk:Ranui Swanson>
-	<talkpage id="35826939" title="Talk:Ranui Swanson">
-{{WikiProject New Zealand |class=stub |importance=}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="5220595" title=User talk:71.149.166.252>
-	<talkpage id="5220595" title="User talk:71.149.166.252">
-[[Image:Stop_hand.svg|left|30px]] This is your '''last warning'''. The next time you [[Wikipedia:Vandalism|vandalize]] a page, you ''will'' be [[Wikipedia:Blocking policy|blocked]] from editing Wikipedia. &lt;!-- Template:Test4 (Fourth level warning) --&gt;
-	</talkpage>
-</article>

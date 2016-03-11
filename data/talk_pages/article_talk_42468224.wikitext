@@ -1,5 +1,0 @@
-<article id="30974623" title=Talk:List of parks in Midland County, Michigan>
-	<talkpage id="30974623" title="Talk:List of parks in Midland County, Michigan">
-{{WikiProject Michigan|class=list|importance=low}}
-	</talkpage>
-</article>

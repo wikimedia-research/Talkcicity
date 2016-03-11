@@ -1,5 +1,0 @@
-<article id="44553972" title=Talk:La Puntilla, Pichilemu>
-	<talkpage id="44553972" title="Talk:La Puntilla, Pichilemu">
-{{WPChile|class=Stub|importance=Low}}
-	</talkpage>
-</article>

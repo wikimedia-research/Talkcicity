@@ -1,6 +1,0 @@
-<article id="17161162" title=Talk:1998 Philadelphia Phillies season>
-	<talkpage id="17161162" title="Talk:1998 Philadelphia Phillies season">
-{{WikiProject Philadelphia|class=start|importance=low}}
-{{WikiProject Baseball|phillies=yes|class=start|importance=low}}
-	</talkpage>
-</article>

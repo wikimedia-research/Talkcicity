@@ -1,6 +1,0 @@
-<article id="6807987" title=Talk:Benton Metro station>
-	<talkpage id="6807987" title="Talk:Benton Metro station">
-{{TrainsWikiProject|class=start|importance=low|unref=yes|UK=yes|UK-importance=low|Subway=yes|stations=yes}}
-{{WPTyneandWear|class=start|importance=low}}
-	</talkpage>
-</article>

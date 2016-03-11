@@ -1,5 +1,0 @@
-<article id="25346196" title=Talk:Ilkley Playhouse>
-	<talkpage id="25346196" title="Talk:Ilkley Playhouse">
-{{WikiProject Yorkshire|class=Stub|importance=Low}}
-	</talkpage>
-</article>

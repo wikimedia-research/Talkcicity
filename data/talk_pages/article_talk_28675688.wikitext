@@ -1,8 +1,0 @@
-<article id="28675688" title=User talk:168.10.60.224>
-	<talkpage id="28675688" title="User talk:168.10.60.224">
-
-== September 2010 ==
-
-[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Ginger?diff=382482279 recent edit]&lt;/span&gt; that you made to the page [[:Ginger]] has been reverted, as it appears to be unconstructive. Please use the [[Wikipedia:Sandbox|sandbox]] for testing any edits; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]] for further information. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:Torchwoodwho|Torchwood Who?]] ([[User talk:Torchwoodwho|talk]]) 14:34, 2 September 2010 (UTC)
-	</talkpage>
-</article>

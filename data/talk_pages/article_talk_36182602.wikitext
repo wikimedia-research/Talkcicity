@@ -1,5 +1,0 @@
-<article id="26739091" title=Talk:Truro 27A>
-	<talkpage id="26739091" title="Talk:Truro 27A">
-{{WikiProject Canada|geography=yes|class=stub|importance=low}}
-	</talkpage>
-</article>

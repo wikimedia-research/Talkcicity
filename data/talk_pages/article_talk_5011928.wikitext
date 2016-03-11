@@ -1,9 +1,0 @@
-<article id="5011928" title=User talk:UV>
-	<talkpage id="5011928" title="User talk:UV">
-&lt;div style=&quot;border:3px dashed #00FFFF;background-color:#99FFFF&quot;&gt;
-'''Please, do NOT contact me here''' (I may not notice for a long time or forever).
-
-Instead, contact me at [[:de:Benutzer_Diskussion:UV]].
-&lt;/div&gt;
-	</talkpage>
-</article>

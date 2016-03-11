@@ -1,6 +1,0 @@
-<article id="33990805" title=Talk:Athirathram (film)>
-	<talkpage id="33990805" title="Talk:Athirathram (film)">
-{{Film|class=Stub|Indian-task-force=yes}}
-{{WP India|class=Stub|importance=Low|cinema=yes|cinema-importance=low|kerala=yes|kerala-importance=low}}
-	</talkpage>
-</article>

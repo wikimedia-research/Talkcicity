@@ -1,5 +1,0 @@
-<article id="6378173" title=Talk:Lexington, Texas>
-	<talkpage id="6378173" title="Talk:Lexington, Texas">
-{{WikiProject United States|class=Start|importance=Low|TX=yes|TX-importance=Low}}
-	</talkpage>
-</article>

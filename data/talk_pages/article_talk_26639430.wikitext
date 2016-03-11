@@ -1,6 +1,0 @@
-<article id="26639430" title=Talk:Onoekōkōmae Station>
-	<talkpage id="26639430" title="Talk:Onoekōkōmae Station">
-{{TrainsWikiProject|class=start|importance=low|Japan=yes|stations=yes}}
-{{WikiProject Japan|class=start|importance=low|trains=yes}}
-	</talkpage>
-</article>

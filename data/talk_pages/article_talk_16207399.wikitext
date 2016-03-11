@@ -1,6 +1,0 @@
-<article id="16207399" title=Talk:Oakwood Cemetery (Richmond, Virginia)>
-	<talkpage id="16207399" title="Talk:Oakwood Cemetery (Richmond, Virginia)">
-{{WikiProject Virginia|class=Stub|importance=Low}}
-{{WP Death|class=stub|importance=low}}
-	</talkpage>
-</article>

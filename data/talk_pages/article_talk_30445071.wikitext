@@ -1,7 +1,0 @@
-<article id="30445071" title=Talk:List of schools in North Charleston, South Carolina>
-	<talkpage id="30445071" title="Talk:List of schools in North Charleston, South Carolina">
-{{talkheader}}
-{{WPCities|class=List|importance=Low}}
-{{WikiProject United States|class=List|importance=Low|SC=Yes|SC-importance=High}}
-	</talkpage>
-</article>

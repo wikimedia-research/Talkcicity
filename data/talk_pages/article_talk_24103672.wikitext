@@ -1,6 +1,0 @@
-<article id="24103672" title=Talk:USS William J. Pattison (APD-104)>
-	<talkpage id="24103672" title="Talk:USS William J. Pattison (APD-104)">
-{{WPSHIPS|class=Start|importance=Low|B1=n|B2=y|B3=n&lt;!-- lead --&gt;|B4=y|B5=y}}
-{{WikiProject United States|class=start|importance=low}}
-	</talkpage>
-</article>

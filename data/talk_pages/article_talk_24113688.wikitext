@@ -1,5 +1,0 @@
-<article id="24113688" title=Talk:Version of the Truth>
-	<talkpage id="24113688" title="Talk:Version of the Truth">
-{{album|class=stub|importance=|auto=yes}}
-	</talkpage>
-</article>

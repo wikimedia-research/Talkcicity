@@ -1,5 +1,0 @@
-<article id="45487847" title=Talk:White Crow (album)>
-	<talkpage id="45487847" title="Talk:White Crow (album)">
-{{WP Albums|class=stub|importance=low}}
-	</talkpage>
-</article>

@@ -1,7 +1,0 @@
-<article id="37960941" title=Talk:The Little Cowboy>
-	<talkpage id="37960941" title="Talk:The Little Cowboy">
-{{WikiProject Film|class=Stub}}
-{{WikiProject Turkey|class=Stub|importance=low}}
-{{Westerns|class=stub}}
-	</talkpage>
-</article>

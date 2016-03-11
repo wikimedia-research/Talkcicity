@@ -1,5 +1,0 @@
-<article id="42847017" title=Talk:Freedom At Midnight>
-	<talkpage id="42847017" title="Talk:Freedom At Midnight">
-{{album|class=|importance=Low|auto=yes}}
-	</talkpage>
-</article>

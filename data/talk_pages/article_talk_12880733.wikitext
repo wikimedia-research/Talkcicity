@@ -1,6 +1,0 @@
-<article id="12880733" title=Talk:Islands of Fleet>
-	<talkpage id="12880733" title="Talk:Islands of Fleet">
-{{WPSI|class=stub|importance=mid}}
-{{WPUKgeo|class=Stub|importance=Low}}
-	</talkpage>
-</article>

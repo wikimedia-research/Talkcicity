@@ -1,6 +1,0 @@
-<article id="34130241" title=Talk:Newton by Malpas>
-	<talkpage id="34130241" title="Talk:Newton by Malpas">
-{{WikiProject England|class=stub|importance=low}}
-{{WikiProject Cheshire|class=stub|importance=low}}
-	</talkpage>
-</article>

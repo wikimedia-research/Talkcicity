@@ -1,5 +1,0 @@
-<article id="42604803" title=Talk:Acceleration Team Sweden>
-	<talkpage id="42604803" title="Talk:Acceleration Team Sweden">
-{{WP Sweden}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="31954272" title=Talk:Galleriinae>
-	<talkpage id="31954272" title="Talk:Galleriinae">
-{{WikiProject Lepidoptera |class=start |importance=low}}
-	</talkpage>
-</article>

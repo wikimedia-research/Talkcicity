@@ -1,5 +1,0 @@
-<article id="32082622" title=Talk:U.S. Army Interrogation Field Manual>
-	<talkpage id="32082622" title="Talk:U.S. Army Interrogation Field Manual">
-{{WikiProject United States|class=Redirect|importance=NA|USGov=yes|USGov-importance=NA}}
-	</talkpage>
-</article>

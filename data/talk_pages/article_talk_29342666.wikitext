@@ -1,5 +1,0 @@
-<article id="29342666" title=Talk:Victory Lighthouse>
-	<talkpage id="29342666" title="Talk:Victory Lighthouse">
-{{WikiProject Lighthouses|class=redirect}}
-	</talkpage>
-</article>

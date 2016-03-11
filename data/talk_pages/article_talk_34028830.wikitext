@@ -1,7 +1,0 @@
-<article id="34028830" title=Talk:Edward S. Little>
-	<talkpage id="34028830" title="Talk:Edward S. Little">
-{{Talk header}}
-{{WikiProject Biography |living=no |class=Stub |politician-work-group = yes |listas=Little, Edward S.}}
-{{WikiProject United States|class=Stub|importance=Low|USGov=yes|USGov-importance=Low}}
-	</talkpage>
-</article>

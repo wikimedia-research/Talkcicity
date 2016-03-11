@@ -1,8 +1,0 @@
-<article id="15805427" title=Talk:Certified Interconnect Designer>
-	<talkpage id="15805427" title="Talk:Certified Interconnect Designer">
-{{WikiProject Computing|class=Stub|importance=|auto=yes}}
-{{WikiProject Education}}
-
-External link does not work anymore [[User:Jeroen74|Jeroen74]] ([[User talk:Jeroen74|talk]]) 21:16, 27 March 2008 (UTC)
-	</talkpage>
-</article>

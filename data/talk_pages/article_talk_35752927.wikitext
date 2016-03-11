@@ -1,5 +1,0 @@
-<article id="35752927" title=Talk:Poko people>
-	<talkpage id="35752927" title="Talk:Poko people">
-{{WikiProject Africa | South Africa=yes | South Africa-importance= |class=stub}}
-	</talkpage>
-</article>

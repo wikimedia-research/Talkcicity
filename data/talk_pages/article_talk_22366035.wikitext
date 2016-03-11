@@ -1,9 +1,0 @@
-<article id="22366035" title=User talk:24.46.192.44>
-	<talkpage id="22366035" title="User talk:24.46.192.44">
-
-
-== April 2009 ==
-[[Image:Information.svg|25px]] [[Wikipedia:Introduction|Welcome]] to Wikipedia, and thank you for your contributions. One of the core policies of Wikipedia is that articles should always be written from a [[Wikipedia:Neutral point of view|neutral point of view]]{{#if:Capitalism|. A contribution you made to [[:Capitalism]] appears to carry a non-neutral point of view, and your edit may have been changed or reverted to correct the problem}}. Please remember to observe our [[Wikipedia:Five pillars|core policies]]. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-npov1 --&gt; [[User:Shadowjams|Shadowjams]] ([[User talk:Shadowjams|talk]]) 03:06, 11 April 2009 (UTC)
-:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="20264769" title=Talk:CAIT>
-	<talkpage id="20264769" title="Talk:CAIT">
-{{DisambigProject}}
-	</talkpage>
-</article>

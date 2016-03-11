@@ -1,8 +1,0 @@
-<article id="37564287" title=User talk:68.98.138.78>
-	<talkpage id="37564287" title="User talk:68.98.138.78">
-
-== November 2012 ==
-
-[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:Widr|Widr]]. I wanted to let you know that I undid one of [[Special:Contributions/68.98.138.78|your recent contributions]],&amp;nbsp;such as the one you made to [[:Eden Riegel]], because it didn’t appear constructive to me. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Widr|my talk page]]. Thanks, &lt;!-- Template:Huggle/warn-1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt;[[User:Widr|Widr]] ([[User talk:Widr|talk]]) 22:26, 6 November 2012 (UTC)
-	</talkpage>
-</article>

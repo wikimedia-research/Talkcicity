@@ -1,6 +1,0 @@
-<article id="43257692" title=User talk:Swagdaddyone>
-	<talkpage id="43257692" title="User talk:Swagdaddyone">
-== July 2014 ==
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Nasnema|Nasnema]]. I wanted to let you know that I undid one or more of [[Special:Contributions/Swagdaddyone|your recent contributions]]&amp;nbsp;to [[:Marcus Smart]] because it did not appear constructive. If you would like to experiment, please use the [[WP:sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Nasnema|my talk page]]. ''The other two were reverted as a precaution.''&lt;!-- Template:uw-vandalism1 --&gt; &lt;small&gt;&lt;span style=&quot;border:2px solid green;padding:0px;&quot;&gt;[[User:Nasnema|&lt;font style=&quot;color:green;background:white;&quot;&gt;&lt;b&gt;Nasnema&lt;/b&gt;&lt;/font&gt;]] [[User_talk:Nasnema|&lt;font style=&quot;color:white;background:green;&quot;&gt;&amp;nbsp;Chat&amp;nbsp;&lt;/font&gt;]]&lt;/span&gt;&lt;/small&gt; 19:35, 9 July 2014 (UTC)
-	</talkpage>
-</article>

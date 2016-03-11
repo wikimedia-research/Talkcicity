@@ -1,5 +1,0 @@
-<article id="38506216" title=Talk:List of Baki the Grappler episodes>
-	<talkpage id="38506216" title="Talk:List of Baki the Grappler episodes">
-{{WikiProject Anime and manga|class=stub|importance=low}}
-	</talkpage>
-</article>

@@ -1,6 +1,0 @@
-<article id="23451545" title=Talk:Mornington (New Zealand electorate)>
-	<talkpage id="23451545" title="Talk:Mornington (New Zealand electorate)">
-{{WikiProject Elections and Referendums}}
-{{WikiProject New Zealand|class=start|importance=low |politics=yes|politics-importance=low}}
-	</talkpage>
-</article>

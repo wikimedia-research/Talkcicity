@@ -1,6 +1,0 @@
-<article id="34666516" title=Talk:Mediations (journal)>
-	<talkpage id="34666516" title="Talk:Mediations (journal)">
-{{WikiProject Chicago|class=stub|auto=Hazard-Bot}}
-{{WPJournals|class=Stub|needs-infobox=yes}}
-	</talkpage>
-</article>

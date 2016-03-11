@@ -1,6 +1,0 @@
-<article id="40813951" title=Talk:Cap'n B. F. Hawkeye Pierce>
-	<talkpage id="40813951" title="Talk:Cap'n B. F. Hawkeye Pierce">
-{{WikiProject Television|class=Redirect|importance=NA|listas=Pierce}}
-{{WikiProject Fictional characters|class=Redirect|importance=NA}}
-	</talkpage>
-</article>

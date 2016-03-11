@@ -1,9 +1,0 @@
-<article id="6875586" title=Talk:Webster, Iowa>
-	<talkpage id="6875586" title="Talk:Webster, Iowa">
-{{WPCities|class=start|importance=low}}
-{{Project Iowa|communities=yes}}
-
-
-.
-	</talkpage>
-</article>

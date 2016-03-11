@@ -1,9 +1,0 @@
-<article id="2113293" title=Talk:Goryeo politics>
-	<talkpage id="2113293" title="Talk:Goryeo politics">
-{{WikiProject Korea|class=NA}}
-
-this article seems to add nothing to [[Goryeo Dynasty]], which has a section on political life - is there any reason not to merge it into the bigger article?  Same goes for the one on [[Joseon Dynasty politics]].  [[User:Seglea|seglea]] 23:45, 26 January 2006 (UTC)
-
-Monastic monks, eh? Isn't that rather redundant? --[[User:Tydaj|Tydaj]] 03:08, 14 April 2006 (UTC)
-	</talkpage>
-</article>

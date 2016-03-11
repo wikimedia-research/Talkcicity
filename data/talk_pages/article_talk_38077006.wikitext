@@ -1,5 +1,0 @@
-<article id="38077006" title=Talk:The Galilee Hitch-Hiker>
-	<talkpage id="38077006" title="Talk:The Galilee Hitch-Hiker">
-{{WikiProject Poetry|class=stub|importance=low}}
-	</talkpage>
-</article>

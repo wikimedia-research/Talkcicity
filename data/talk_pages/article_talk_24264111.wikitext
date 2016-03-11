@@ -1,9 +1,0 @@
-<article id="24264111" title=Talk:Pap Dean>
-	<talkpage id="24264111" title="Talk:Pap Dean">
-{{WikiProjectBannerShell|1=
-{{WikiProject Biography|living=no|class=start|a&amp;e-work-group=yes|a&amp;e-priority=low|listas=Dean, Pap}}
-{{WikiProject Chicago|class=start}}
-{{WikiProject Comics|class=start|importance=low|creators=yes|US=yes}}
-}}
-	</talkpage>
-</article>

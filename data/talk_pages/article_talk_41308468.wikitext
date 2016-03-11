@@ -1,6 +1,0 @@
-<article id="41308468" title=Talk:Wat Ratchaburana, Ayutthaya>
-	<talkpage id="41308468" title="Talk:Wat Ratchaburana, Ayutthaya">
-{{WikiProject Thailand|class=
-}}
-	</talkpage>
-</article>

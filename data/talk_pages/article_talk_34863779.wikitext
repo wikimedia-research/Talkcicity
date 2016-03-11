@@ -1,5 +1,0 @@
-<article id="34863779" title=Talk:Lovesexy Tour>
-	<talkpage id="34863779" title="Talk:Lovesexy Tour">
-{{Concert Tours}}
-	</talkpage>
-</article>

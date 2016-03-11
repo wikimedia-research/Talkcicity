@@ -1,7 +1,0 @@
-<article id="28764199" title=Talk:List of United States bicycle advocacy organizations>
-	<talkpage id="28764199" title="Talk:List of United States bicycle advocacy organizations">
-{{WikiProject Cycling|class=list|importance=low}}
-{{WikiProject Lists|class=list|importance=low}}
-{{WikiProject United States|class=list|importance=low}}
-	</talkpage>
-</article>

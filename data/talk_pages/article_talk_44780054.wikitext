@@ -1,6 +1,0 @@
-<article id="44780054" title=Talk:Irhal>
-	<talkpage id="44780054" title="Talk:Irhal">
-{{WikiProject Songs |class=Start |needs-infobox=yes}}
-{{WikiProject Egypt |class=Start |importance=Low}}
-	</talkpage>
-</article>

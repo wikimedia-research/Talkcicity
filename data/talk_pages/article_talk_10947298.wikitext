@@ -1,6 +1,0 @@
-<article id="10947298" title=Talk:Roman Catholic Archdiocese of Bobo-Dioulasso>
-	<talkpage id="10947298" title="Talk:Roman Catholic Archdiocese of Bobo-Dioulasso">
-{{AfricaProject|class=Stub}}
-{{Project Catholicism|class=Stub|importance=low}}
-	</talkpage>
-</article>

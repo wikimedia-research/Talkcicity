@@ -1,6 +1,0 @@
-<article id="9967668" title=Talk:Escontria>
-	<talkpage id="9967668" title="Talk:Escontria">
-{{WikiProject Mexico|class=stub|importance=low}}
-{{WikiProject Plants|class=stub|importance=low}}
-	</talkpage>
-</article>

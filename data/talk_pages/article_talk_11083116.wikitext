@@ -1,9 +1,0 @@
-<article id="11083116" title=Talk:ADAC>
-	<talkpage id="11083116" title="Talk:ADAC">
-{{WikiProject Germany|class=start|importance=high}}
-{{WikiProject Automobiles|class=start|importance=mid}}
-
-==Update needed==
-The ADAC is subject of a massive multi-faceted kickback/manipulation/abuse of member fees scandal, its tax status is being re-evaluated and 1% of its members quit within only 6 weeks or so. This number is expected to rise further as the club may partially lose tax exemptions (as it is de facto a somewhat coercive car insurance corporation - most people join under duress after autobahn accidents, being given the choice of joining or being left stranded by the ADAC first-response team). See https://de.wikipedia.org/wiki/ADAC#Berichterstattung_und_Kritik_in_den_Medien and https://de.wikipedia.org/wiki/ADAC#Manipulationen_beim_Gelben_Engel. [[User:Dysmorodrepanis|Dysmorodrepanis]] ([[User talk:Dysmorodrepanis|talk]]) 17:47, 10 March 2014 (UTC)
-	</talkpage>
-</article>

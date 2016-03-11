@@ -1,7 +1,0 @@
-<article id="38239182" title=User talk:46.233.72.72>
-	<talkpage id="38239182" title="User talk:46.233.72.72">
-== January 2013 ==
-[[Image:Information.svg|25px|alt=|link=]] Hello, I'm [[User:Addshore|Addshore]]. I noticed that you made a comment on the page [[:Pluto (newspaper)]] that didn't seem very [[Wikipedia:Civility|civil]], so it has been removed. Wikipedia needs people like you and me to collaborate, so it's one of our core principles to interact with one another in a polite and respectful manner. If you have any questions, you can leave me a message on [[User_talk:Addshore|my talk page]]. Thank you. &lt;!-- Template:uw-npa1 --&gt; '''[[User:Addshore|&lt;span style=&quot;color:black;&quot;&gt;·Add§hore·&lt;/span&gt;]]''' &lt;sup&gt;[[User_talk:Addshore|&lt;span style=&quot;color:black;&quot;&gt;T&lt;small&gt;alk&lt;/small&gt; T&lt;small&gt;o&lt;/small&gt; M&lt;small&gt;e&lt;/small&gt;!&lt;/span&gt;]]&lt;/sup&gt;&lt;/span&gt; 00:33, 16 January 2013 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

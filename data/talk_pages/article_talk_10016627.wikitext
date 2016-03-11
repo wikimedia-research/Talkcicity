@@ -1,5 +1,0 @@
-<article id="10016627" title=Talk:The Happy Gang>
-	<talkpage id="10016627" title="Talk:The Happy Gang">
-{{WikiProject Radio|class=Start|importance=low}}
-	</talkpage>
-</article>

@@ -1,8 +1,0 @@
-<article id="1581564" title=User talk:Vautin>
-	<talkpage id="1581564" title="User talk:Vautin">
-Hello folks!
-
-== Possibly unfree Image:Plateau.jpg ==
- &lt;div style=&quot;padding:5px; background-color:#E1F1DE;&quot;&gt; An image that you uploaded or altered, [[:Image:Plateau.jpg]], has been listed at [[Wikipedia:Possibly unfree images]] because its copyright status is disputed. If the image's copyright status cannot be verified, it may be deleted. Please go to its [[:Image:Plateau.jpg|page]] for more information if you are interested in it not being deleted. Thank you. [[User:MetsBot|MetsBot]] 20:01, 9 December 2006 (UTC)&lt;!-- Template:Idw-pui --&gt;&lt;/div&gt;
-	</talkpage>
-</article>

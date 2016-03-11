@@ -1,6 +1,0 @@
-<article id="18282087" title=Talk:1924 Coupe de France Final>
-	<talkpage id="18282087" title="Talk:1924 Coupe de France Final">
-{{WikiProject France|class=stub|importance=low}}
-{{Football|class=Stub|importance=low|season=yes}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="32892512" title=Talk:1984 UEFA European Under-16 Championship>
-	<talkpage id="32892512" title="Talk:1984 UEFA European Under-16 Championship">
-{{WikiProject Football |class=stub |importance=low }}
-	</talkpage>
-</article>

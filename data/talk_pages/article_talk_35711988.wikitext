@@ -1,7 +1,0 @@
-<article id="35711988" title=User talk:24.253.248.75>
-	<talkpage id="35711988" title="User talk:24.253.248.75">
-== May 2012 ==
-[[File:Information.svg|25px|alt=|link=]] Thank you for your interest in editing Wikipedia. Your edit to [[:Cristina Fernández de Kirchner]] was successful, but because it was not considered beneficial to the page, the edit has been [[Help:Reverting|reverted]] or removed. If you would like to experiment with editing, please use the '''[[Wikipedia:Sandbox|sandbox]]''' instead. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to [[Wikipedia|this encyclopedia]]. Thank you.&lt;!-- Template:uw-test1 --&gt; [[User:Zymurgy|Zymurgy]] ([[User talk:Zymurgy|talk]]) 23:06, 3 May 2012 (UTC)
-:''If this is a [[closed proxy|shared IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

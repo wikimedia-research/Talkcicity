@@ -1,5 +1,0 @@
-<article id="28060220" title=Talk:National Union of Students Wales>
-	<talkpage id="28060220" title="Talk:National Union of Students Wales">
-{{WikiProject Education|class=|importance=}}
-	</talkpage>
-</article>

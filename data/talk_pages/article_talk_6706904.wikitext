@@ -1,6 +1,0 @@
-<article id="6706904" title=Talk:Twins (2001 EP)>
-	<talkpage id="6706904" title="Talk:Twins (2001 EP)">
-{{WikiProject China|class=stub|auto=yes}}
-{{album|class=Stub|importance=|auto=yes}}
-	</talkpage>
-</article>

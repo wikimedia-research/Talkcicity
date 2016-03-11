@@ -1,5 +1,0 @@
-<article id="42375966" title=Talk:Vamuna bipars>
-	<talkpage id="42375966" title="Talk:Vamuna bipars">
-{{LepidopteraTalk|class=stub|importance=low}}
-	</talkpage>
-</article>

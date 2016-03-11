@@ -1,8 +1,0 @@
-<article id="19531965" title=User talk:75.65.53.3>
-	<talkpage id="19531965" title="User talk:75.65.53.3">
-
-== September 2008 ==
-
-[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Lupe+Fiasco?diff=241912019 recent edit]&lt;/span&gt; you made to [[:Lupe Fiasco]] has been reverted, as it appears to be unconstructive. Use the [[Wikipedia:Sandbox|sandbox]] for testing; if you believe the edit was constructive, ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]]. Thank you. &lt;!-- Template:uw-huggle1 --&gt; &amp;nbsp; '''[[User:Jj137|&lt;font color=&quot;#008040&quot;&gt;jj137&lt;/font&gt;]] [[User talk:Jj137|&lt;font color=&quot;#008040&quot;&gt;(&lt;/font&gt;&lt;font color=&quot;black&quot;&gt;talk&lt;/font&gt;&lt;font color=&quot;#008040&quot;&gt;)&lt;/font&gt;]]''' 01:36, 30 September 2008 (UTC)
-	</talkpage>
-</article>

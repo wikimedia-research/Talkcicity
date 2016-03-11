@@ -1,6 +1,0 @@
-<article id="33951945" title=Talk:Anthea McIntyre>
-	<talkpage id="33951945" title="Talk:Anthea McIntyre">
-{{WikiProject Biography|listas=Mcintyre, Anthea|living=yes}}
-{{WikiProject United Kingdom}}
-	</talkpage>
-</article>

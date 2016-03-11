@@ -1,5 +1,0 @@
-<article id="33098695" title=Talk:List of Underoath members>
-	<talkpage id="33098695" title="Talk:List of Underoath members">
-{{WPRock|class=stub|importance=low}}
-	</talkpage>
-</article>

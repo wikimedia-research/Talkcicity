@@ -1,8 +1,0 @@
-<article id="25817417" title=User talk:167.93.84.95>
-	<talkpage id="25817417" title="User talk:167.93.84.95">
-
-== January 2010 ==
-
-[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/The_Santa_Clause?diff=338021258 recent edit]&lt;/span&gt; that you made to the page [[:The Santa Clause]] has been reverted, as it appears to be unconstructive. Please use the [[Wikipedia:Sandbox|sandbox]] for testing any edits; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]] for further information. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:Clarince63|Clarince63]] ([[User talk:Clarince63|talk]]) 16:52, 15 January 2010 (UTC)
-	</talkpage>
-</article>

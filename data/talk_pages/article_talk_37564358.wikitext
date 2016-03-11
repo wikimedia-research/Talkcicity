@@ -1,5 +1,0 @@
-<article id="37564358" title=Talk:Carabus hummeli>
-	<talkpage id="37564358" title="Talk:Carabus hummeli">
-{{WikiProject Beetles|class=Stub|importance=Low|needs-photo=yes}}
-	</talkpage>
-</article>

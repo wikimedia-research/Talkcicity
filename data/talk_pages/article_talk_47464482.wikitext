@@ -1,5 +1,0 @@
-<article id="47464482" title=Talk:Hêvî Îbrahîm>
-	<talkpage id="47464482" title="Talk:Hêvî Îbrahîm">
-{{WikiProject Biography|living=yes}}
-	</talkpage>
-</article>

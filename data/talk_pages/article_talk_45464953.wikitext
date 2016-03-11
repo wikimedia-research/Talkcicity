@@ -1,5 +1,0 @@
-<article id="31901529" title=Talk:1938–39 Turkish National Division Championship>
-	<talkpage id="31901529" title="Talk:1938–39 Turkish National Division Championship">
-{{Football|class=stub|importance=low|season=yes}}
-	</talkpage>
-</article>

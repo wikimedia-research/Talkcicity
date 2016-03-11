@@ -1,5 +1,0 @@
-<article id="8088319" title=Talk:Ōsakikamijima, Hiroshima>
-	<talkpage id="8088319" title="Talk:Ōsakikamijima, Hiroshima">
-{{WikiProject Japan|class=Start|importance=Low}}
-	</talkpage>
-</article>

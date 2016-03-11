@@ -1,6 +1,0 @@
-<article id="11071898" title=Talk:Old City Hall (Knoxville)>
-	<talkpage id="11071898" title="Talk:Old City Hall (Knoxville)">
-{{WikiProject Tennessee|class=start|importance=low}}
-{{WikiProject National Register of Historic Places|class=start|importance=low}}
-	</talkpage>
-</article>

@@ -1,9 +1,0 @@
-<article id="33426611" title=Talk:James Morrish>
-	<talkpage id="33426611" title="Talk:James Morrish">
-{{WikiProjectBannerShell|1=
-{{WikiProject Biography|living=no|politician-work-group=yes|listas=Morrish, James|class=Stub}}
-{{WikiProject Australia|politics=yes|NSW=yes}}
-{{WikiProject Socialism|class=stub|importance=low}}
-}}
-	</talkpage>
-</article>

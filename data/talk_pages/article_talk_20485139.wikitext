@@ -1,5 +1,0 @@
-<article id="16264402" title=Talk:Universe (disambiguation)>
-	<talkpage id="16264402" title="Talk:Universe (disambiguation)">
-{{disambigProject|class=|importance=}}
-	</talkpage>
-</article>

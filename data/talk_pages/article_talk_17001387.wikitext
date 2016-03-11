@@ -1,6 +1,0 @@
-<article id="17001387" title=Talk:Rječina>
-	<talkpage id="17001387" title="Talk:Rječina">
-{{WikiProject Croatia|class=Start|importance=Low}}
-{{river|class=start| importance=low}}
-	</talkpage>
-</article>

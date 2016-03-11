@@ -1,6 +1,0 @@
-<article id="39817884" title=Talk:Sherman Clay>
-	<talkpage id="39817884" title="Talk:Sherman Clay">
-{{WikiProject Business &amp; Economics|class=stub|importance=low}}
-{{WikiProject California|class=start|importance=low}}
-	</talkpage>
-</article>

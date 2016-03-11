@@ -1,5 +1,0 @@
-<article id="26234036" title=Talk:Golo people>
-	<talkpage id="26234036" title="Talk:Golo people">
-{{WikiProject Africa|class=redirect|importance=NA|Sudan=yes|Sudan-importance=NA}}
-	</talkpage>
-</article>

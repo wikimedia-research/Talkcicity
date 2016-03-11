@@ -1,6 +1,0 @@
-<article id="18835762" title=Talk:Polyinosinic:polycytidylic acid>
-	<talkpage id="18835762" title="Talk:Polyinosinic:polycytidylic acid">
-{{Reliable sources for medical articles}}
-{{WikiProject Pharmacology|class=Stub|importance=}}
-	</talkpage>
-</article>

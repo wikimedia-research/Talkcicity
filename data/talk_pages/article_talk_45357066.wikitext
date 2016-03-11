@@ -1,7 +1,0 @@
-<article id="7651738" title=Talk:Institute for Energy and Transport>
-	<talkpage id="7651738" title="Talk:Institute for Energy and Transport">
-{{European Union|class=stub|importance=low}}
-{{WikiProject Energy|class=|importance=}}
- [[User:Pvosta|Pvosta]] 19:30, 27 October 2006 (UTC)
-	</talkpage>
-</article>

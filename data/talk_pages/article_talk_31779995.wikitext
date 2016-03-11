@@ -1,5 +1,0 @@
-<article id="15272334" title=Talk:Chichimeca Jonaz people>
-	<talkpage id="15272334" title="Talk:Chichimeca Jonaz people">
-{{WikiProject Mexico|class=stub|importance=}}
-	</talkpage>
-</article>

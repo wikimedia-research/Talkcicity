@@ -1,6 +1,0 @@
-<article id="22199642" title=Talk:Paracroria>
-	<talkpage id="22199642" title="Talk:Paracroria">
-{{WikiProject Lepidoptera|class=stub|importance=low}}
-{{WikiProject Insects|class=stub|importance=low}}
-	</talkpage>
-</article>

@@ -1,8 +1,0 @@
-<article id="38238812" title=User talk:82.47.172.173>
-	<talkpage id="38238812" title="User talk:82.47.172.173">
-
-== January 2013 ==
-
-[[Image:Information.svg|25px|alt=|link=]] Hello, I'm [[User:Skamecrazy123|Skamecrazy123]]. I noticed that you recently removed some content from [[:Zero Dark Thirty]]&amp;nbsp;without explaining why. In the future, it would be helpful to others if you described your changes to Wikipedia with an [[Wikipedia:Edit summary|edit summary]]. If this was a mistake, don't worry, the removed content has been restored. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Skamecrazy123|my talk page]]. Thanks, &lt;!-- Template:Huggle/warn-delete-1 --&gt;&lt;!-- Template:Uw-delete1 --&gt;[[User:Skamecrazy123|Skamecrazy123]] ([[User talk:Skamecrazy123|talk]]) 23:51, 15 January 2013 (UTC)
-	</talkpage>
-</article>

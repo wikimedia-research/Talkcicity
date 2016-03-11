@@ -1,6 +1,0 @@
-<article id="42300683" title=Talk:Sunil Sukhada>
-	<talkpage id="42300683" title="Talk:Sunil Sukhada">
-{{WikiProject Biography|living=yes|class=Stub|listas=Sukhada, Sunil|filmbio-work-group=yes|filmbio-priority=Low}}
-{{WikiProject India|class=Stub|importance=Low|kerala=yes|kerala-importance=Low|assess-date=March 2014}}
-	</talkpage>
-</article>

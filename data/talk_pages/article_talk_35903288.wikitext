@@ -1,7 +1,0 @@
-<article id="35903288" title=User talk:Swren>
-	<talkpage id="35903288" title="User talk:Swren">
-
-== File:Garden-and-peak2.jpg listed for deletion ==
-A file that you uploaded or altered, [[:File:Garden-and-peak2.jpg]], has been listed at [[Wikipedia:Files for deletion]]. Please see the [[Wikipedia:Files for deletion/2012 May 22#File:Garden-and-peak2.jpg|'''discussion''']] to see why this is (you may have to search for the title of the image to find its entry), if you are interested in it not being deleted. Thank you. &lt;!-- Template:Fdw --&gt; [[User:Calliopejen1|Calliopejen1]] ([[User talk:Calliopejen1|talk]]) 18:31, 22 May 2012 (UTC)
-	</talkpage>
-</article>

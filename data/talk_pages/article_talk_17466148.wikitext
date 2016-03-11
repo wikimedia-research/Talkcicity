@@ -1,6 +1,0 @@
-<article id="17466148" title=User talk:Danster3461>
-	<talkpage id="17466148" title="User talk:Danster3461">
-== May 2008 ==
-[[Image:Information.svg|25px]] Welcome to Wikipedia. Although everyone is welcome to contribute constructively to the encyclopedia, adding content without [[Wikipedia:Citing sources|citing]] a [[Wikipedia:Reliable sources|reliable source]]{{#if:Revan|, as you did to [[:Revan]],}} is not consistent with our policy of [[Wikipedia:Verifiability|verifiability]]. Take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia.  If you are familiar with [[Wikipedia:Citing sources]], please take this opportunity to add references to the article. {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-unsourced1 --&gt; [[User:J.delanoy|&lt;font color=&quot;#ffe800&quot;&gt;J.d&lt;/font&gt;&lt;font color=&quot;#00ff00&quot;&gt;ela&lt;/font&gt;&lt;font color=&quot;green&quot;&gt;noy&lt;/font&gt;]][[User Talk:J.delanoy|&lt;sup&gt;&lt;font color=&quot;red&quot;&gt;gabs&lt;/font&gt;&lt;/sup&gt;]][[Special:Contributions/J.delanoy|&lt;sub&gt;&lt;font color=&quot;blue&quot;&gt;adds&lt;/font&gt;&lt;/sub&gt;]] 01:04, 17 May 2008 (UTC)
-	</talkpage>
-</article>

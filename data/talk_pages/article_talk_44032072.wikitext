@@ -1,9 +1,0 @@
-<article id="11002829" title=Talk:Ajax Sportsman Combinatie>
-	<talkpage id="11002829" title="Talk:Ajax Sportsman Combinatie">
-{{WikiProjectBannerShell|1=
-{{WikiProject Cricket|class=stub|importance=low}}
-{{WikiProject Football|class=Stub|importance=low}}
-{{WikiProject Netherlands|class=stub}}
-}}
-	</talkpage>
-</article>

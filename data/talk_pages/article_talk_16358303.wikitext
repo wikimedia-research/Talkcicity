@@ -1,7 +1,0 @@
-<article id="16358303" title=User talk:71.99.136.8>
-	<talkpage id="16358303" title="User talk:71.99.136.8">
-
-== March 2008 ==
-{{{icon|[[Image:Information.svg|25px]] }}} Your recent edit to [[:Ascaris]] ([http://en.wikipedia.org/w/index.php?title=Ascaris&amp;curid=1945285&amp;diff=198942868&amp;oldid=194409027 diff]) was reverted by an '''automated bot'''. The edit was identified as adding [[WP:VAND|vandalism]], or [[WP:SPAM|link spam]] to the page or having an inappropriate [[WP:ES|edit summary]]. If you want to experiment, please use the preview button while editing or consider using the [[Wikipedia:Sandbox|sandbox]]. If this revert was in error, please contact the bot operator. If you made an edit that removed a large amount of content, try doing smaller edits instead. Thanks!&lt;!-- Template:uw-vandalism1 --&gt; // [[User:VoABot II|VoABot II]] ([[User talk:VoABot II|talk]]) 20:56, 17 March 2008 (UTC)
-	</talkpage>
-</article>

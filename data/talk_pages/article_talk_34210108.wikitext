@@ -1,5 +1,0 @@
-<article id="33988530" title=Talk:Baby, Don't Get Hooked on Me (album)>
-	<talkpage id="33988530" title="Talk:Baby, Don't Get Hooked on Me (album)">
-{{album|class=stub}}
-	</talkpage>
-</article>

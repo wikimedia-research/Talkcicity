@@ -1,6 +1,0 @@
-<article id="17985296" title=Talk:Dobkowice, Lower Silesian Voivodeship>
-	<talkpage id="17985296" title="Talk:Dobkowice, Lower Silesian Voivodeship">
-{{WPCities|class=stub|importance=low}}
-{{WikiProject Poland|class=stub|importance=low}}
-	</talkpage>
-</article>

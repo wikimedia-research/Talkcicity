@@ -1,5 +1,0 @@
-<article id="10717691" title=Talk:Antelope Valley-Crestview, Wyoming>
-	<talkpage id="10717691" title="Talk:Antelope Valley-Crestview, Wyoming">
-{{WikiProject United States|class=start|importance=Low|WY=Yes|WY-importance=}}
-	</talkpage>
-</article>

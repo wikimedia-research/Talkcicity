@@ -1,8 +1,0 @@
-<article id="26894555" title=User talk:Logan DeArman>
-	<talkpage id="26894555" title="User talk:Logan DeArman">
-== April 2010 ==
-[[File:Information.svg|25px]] Please refrain from making unconstructive edits to Wikipedia, as you did to [[:Skillet (band)]]. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Thank you.&lt;!-- Template:uw-vandalism2 --&gt; [[User:Walter Görlitz|Walter Görlitz]] ([[User talk:Walter Görlitz|talk]]) 18:09, 9 April 2010 (UTC)
-
-[[Image:Nuvola apps important.svg|25px]] Please do not [[WP:Vandalism|vandalize]] pages, as you did with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Skillet_(band)?diff=354989782 this edit]&lt;/span&gt; to [[:Skillet (band)]]. If you continue to do so, you will be [[Wikipedia:Blocking policy|blocked]] from editing. &lt;!-- Template:uw-huggle3 --&gt; [[User:Acebulf|Acebulf]] ([[User talk:Acebulf|talk]]) 18:14, 9 April 2010 (UTC)
-	</talkpage>
-</article>

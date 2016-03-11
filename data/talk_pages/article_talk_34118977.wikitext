@@ -1,5 +1,0 @@
-<article id="34118977" title=Talk:Actual entity>
-	<talkpage id="34118977" title="Talk:Actual entity">
-{{WikiProject Philosophy|metaphysics=yes|contemporary=yes|importance=low|class=stub}}
-	</talkpage>
-</article>

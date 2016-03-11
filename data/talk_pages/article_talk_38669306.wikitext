@@ -1,8 +1,0 @@
-<article id="38669306" title=User talk:83.61.9.67>
-	<talkpage id="38669306" title="User talk:83.61.9.67">
-
-== February 2013 ==
-
-[[File:Information.svg|25px|alt=|link=]] Hello, I'm [[User:Excirial|Excirial]]. I wanted to let you know that I undid one of [[Special:Contributions/83.61.9.67|your recent contributions]],&amp;nbsp;such as the one you made with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Rugby_football?diff=541329363 this edit]&lt;/span&gt; to [[:Rugby football]], because it didn’t appear constructive to me. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Excirial|my talk page]]. Thanks, &lt;!-- Template:Huggle/warn-1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt;[[User:Excirial|&lt;font color=&quot;191970&quot;&gt;'''Excirial''']]&lt;/font&gt;&lt;sup&gt; ([[User talk:Excirial|&lt;font color=&quot;FF8C00&quot;&gt;Contact me&lt;/font&gt;]],[[Special:Contributions/Excirial|&lt;font color=&quot;FF8C00&quot;&gt;Contribs&lt;/font&gt;]])&lt;/sup&gt; 20:13, 28 February 2013 (UTC)
-	</talkpage>
-</article>

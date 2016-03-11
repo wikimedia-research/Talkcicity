@@ -1,5 +1,0 @@
-<article id="27043237" title=Talk:Leptothyra gestroi>
-	<talkpage id="27043237" title="Talk:Leptothyra gestroi">
-{{WikiProject Gastropods|class=Stub|importance=Low|needs-photo=yes}}
-	</talkpage>
-</article>

@@ -1,9 +1,0 @@
-<article id="36801743" title=Talk:Jay Rodne>
-	<talkpage id="36801743" title="Talk:Jay Rodne">
-{{WikiProject Biography|living=yes
-|class=Stub
-|auto=yes
-}}
-{{WikiProject United States|class=Stub|importance=Low|WA=Yes|WA-importance=Low}}
-	</talkpage>
-</article>

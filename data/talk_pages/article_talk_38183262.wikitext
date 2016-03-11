@@ -1,5 +1,0 @@
-<article id="38183262" title=Talk:Hexagrammos decagrammus>
-	<talkpage id="38183262" title="Talk:Hexagrammos decagrammus">
-{{WikiProject Fishes|class=stub|importance=low}}
-	</talkpage>
-</article>

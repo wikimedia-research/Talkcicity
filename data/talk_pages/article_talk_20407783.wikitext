@@ -1,5 +1,0 @@
-<article id="20407783" title=Talk:MINC (disambiguation)>
-	<talkpage id="20407783" title="Talk:MINC (disambiguation)">
-{{DisambigProject}}
-	</talkpage>
-</article>

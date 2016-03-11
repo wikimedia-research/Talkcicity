@@ -1,5 +1,0 @@
-<article id="41582843" title=Talk:Heliconius elevatus>
-	<talkpage id="41582843" title="Talk:Heliconius elevatus">
-{{LepidopteraTalk|class=stub|importance=low}}
-	</talkpage>
-</article>

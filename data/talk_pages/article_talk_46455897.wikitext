@@ -1,9 +1,0 @@
-<article id="25779273" title=Talk:Otakebi Boy Wao! / Tomodachi wa Tomodachi Nanda!>
-	<talkpage id="25779273" title="Talk:Otakebi Boy Wao! / Tomodachi wa Tomodachi Nanda!">
-{{WikiProjectBannerShell|1=
-{{WikiProject Songs|class=Stub|auto=yes}}
-{{WikiProject Anime and manga|class=Stub|importance=Low}}
-{{WikiProject Hello! Project|class=stub}}
-}}
-	</talkpage>
-</article>

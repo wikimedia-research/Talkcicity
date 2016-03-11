@@ -1,9 +1,0 @@
-<article id="16786332" title=Talk:Volviceramus>
-	<talkpage id="16786332" title="Talk:Volviceramus">
-{{WikiProjectBannerShell|1=
-{{WikiProject Palaeontology|class=Stub|importance=}}
-{{WikiProject Bivalves|class=Stub|importance=mid|needs-photo=no}}
-{{WikiProject Articles for creation|ts=20080405234853|reviewer=Acer|class=stub}}
-}}
-	</talkpage>
-</article>

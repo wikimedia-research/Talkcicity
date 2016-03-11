@@ -1,9 +1,0 @@
-<article id="35122031" title=Talk:Elizabeth Close>
-	<talkpage id="35122031" title="Talk:Elizabeth Close">
-{{WikiProjectBannerShell|1=
-{{WikiProject Biography|living=no|class=Start|a&amp;e-work-group=yes|listas=Close, Elizabeth}}
-{{WikiProject Architecture|class=start|importance=low}}
-{{WikiProject Minnesota|class=start}}
-}}
-	</talkpage>
-</article>

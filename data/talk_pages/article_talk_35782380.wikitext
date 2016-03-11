@@ -1,6 +1,0 @@
-<article id="35782380" title=Talk:Takamasa Sakai>
-	<talkpage id="35782380" title="Talk:Takamasa Sakai">
-{{WikiProject Biography|living=yes|class=stub|listas=Sakai, Takamasa|sports-work-group=yes|sports-priority=low}}
-{{WikiProject Football|class=stub}}
-	</talkpage>
-</article>

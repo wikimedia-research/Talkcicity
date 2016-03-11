@@ -1,8 +1,0 @@
-<article id="5617309" title=User talk:71.108.130.246>
-	<talkpage id="5617309" title="User talk:71.108.130.246">
-
-
-==Your edit to [[Nigel Jag]]==
-Your recent edit to [[Nigel Jag]] was reverted by an '''automated bot''' that attempts to recognize and repair [[Wikipedia:vandalism|vandalism]] to Wikipedia articles. If the bot reverted a legitimate edit, please accept my humble creator's apologies – if you bring it to the attention of the bot's owner, we may be able to improve its behavior. '''[[User:Tawkerbot2/FAQ|Click here]]''' for '''frequently asked questions''' about the bot and this warning. // [[User:AntiVandalBot|AntiVandalBot]] 22:52, 18 June 2006 (UTC)
-	</talkpage>
-</article>

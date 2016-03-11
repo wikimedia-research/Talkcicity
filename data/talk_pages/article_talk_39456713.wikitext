@@ -1,7 +1,0 @@
-<article id="39456713" title=User talk:82.33.17.163>
-	<talkpage id="39456713" title="User talk:82.33.17.163">
-== May 2013 ==
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Mattythewhite|Mattythewhite]]. I wanted to let you know that I undid one or more of [[Special:Contributions/82.33.17.163|your recent contributions]]&amp;nbsp;to [[:Gaël Clichy]] because it did not appear constructive. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Mattythewhite|my talk page]]. Thanks!&lt;!-- Template:uw-vandalism1 --&gt;&lt;!-- Template:uw-cluebotwarning1 --&gt;  [[User:Mattythewhite|Mattythewhite]] ([[User talk:Mattythewhite|talk]]) 15:04, 22 May 2013 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

@@ -1,9 +1,0 @@
-<article id="36977102" title=Talk:Brian W. Cook>
-	<talkpage id="36977102" title="Talk:Brian W. Cook">
-{{WikiProject Biography
-|living=yes
-|class=Stub
-|listas=Cook, Brian W.
-}}
-	</talkpage>
-</article>

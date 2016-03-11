@@ -1,5 +1,0 @@
-<article id="34723652" title=Talk:American war of 1812>
-	<talkpage id="34723652" title="Talk:American war of 1812">
-{{WikiProject United States|class=Redirect|importance=NA|}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="43426332" title=Talk:Psapharochrus albomaculatus>
-	<talkpage id="43426332" title="Talk:Psapharochrus albomaculatus">
-{{WikiProject Beetles|class=Stub|importance=Low|needs-photo=yes}}
-	</talkpage>
-</article>

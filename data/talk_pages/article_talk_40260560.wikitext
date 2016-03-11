@@ -1,6 +1,0 @@
-<article id="40260560" title=Talk:2013 Pacific Mini Games>
-	<talkpage id="40260560" title="Talk:2013 Pacific Mini Games">
-{{Talk header}}
-{{WikiProject Sports|class=Start|importance=Low}}
-	</talkpage>
-</article>

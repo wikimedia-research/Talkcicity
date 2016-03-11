@@ -1,5 +1,0 @@
-<article id="17219040" title=Talk:Jack Armstrong (serial)>
-	<talkpage id="17219040" title="Talk:Jack Armstrong (serial)">
-{{Film|American-task-force=yes|class=start|needs-image=yes}}
-	</talkpage>
-</article>

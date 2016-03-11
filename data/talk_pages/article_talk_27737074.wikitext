@@ -1,6 +1,0 @@
-<article id="27737074" title=Talk:Hahnenkamm (Altmühl valley)>
-	<talkpage id="27737074" title="Talk:Hahnenkamm (Altmühl valley)">
-{{WikiProject Germany|class=stub|importance=low}}
-{{WikiProject Mountains|class=Stub|importance=Low}}
-	</talkpage>
-</article>

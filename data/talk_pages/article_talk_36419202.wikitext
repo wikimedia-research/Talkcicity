@@ -1,8 +1,0 @@
-<article id="36419202" title=Talk:H. A. Perera>
-	<talkpage id="36419202" title="Talk:H. A. Perera">
-{{WikiProject Biography
-|living=no
-|class=|listas=Perera, H. A.}}
-{{WikiProject Sri Lanka|class=Stub|importance=Low}}
-	</talkpage>
-</article>

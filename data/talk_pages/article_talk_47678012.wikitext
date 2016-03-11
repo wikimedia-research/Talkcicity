@@ -1,8 +1,0 @@
-<article id="47678012" title=User talk:110.20.157.155>
-	<talkpage id="47678012" title="User talk:110.20.157.155">
-
-
-==Recent edit to Waratah==
-[[Image:Information.svg|25px]] Hello. I noticed that you made an edit that introduces praise or promotional language to the [[Waratah]] article. On Wikipedia, we adhere to a [[WP:NPOV|neutral point of view (NPOV)]] and avoid promotional language or puffery. Please read the NPOV policy page, as well as [[Wikipedia:Manual of Style/Words to watch|this page of language to avoid]] to better understand how to expand this article in a style suitable to an encyclopedia.  If you have questions, please see [[Wikipedia:Help desk|the Help Desk page]]. Thank you! [[User:Materialscientist|Materialscientist]] ([[User talk:Materialscientist|talk]]) 08:35, 31 August 2015 (UTC)
-	</talkpage>
-</article>

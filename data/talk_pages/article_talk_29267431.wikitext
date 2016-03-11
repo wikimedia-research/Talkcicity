@@ -1,5 +1,0 @@
-<article id="29267431" title=Talk:Trikomo, Greece>
-	<talkpage id="29267431" title="Talk:Trikomo, Greece">
-{{WikiProject Greece |importance=|class=stub}}
-	</talkpage>
-</article>

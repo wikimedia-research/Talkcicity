@@ -1,5 +1,0 @@
-<article id="25089047" title=User talk:201.218.100.121>
-	<talkpage id="25089047" title="User talk:201.218.100.121">
-[[Image:Information.svg|25px]] Welcome to Wikipedia. Thank you for [[Help:Reverting|reverting]] your recent experiment{{#if:Eurovision Song Contest|&amp;#32;with the page [[:Eurovision Song Contest]]}}. Please take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to our encyclopedia. If you would like to experiment further, please use the [[Wikipedia:Sandbox|sandbox]] instead. Thank you. &lt;!-- Template:Uw-selfrevert--&gt; [[User:Camaron|Camaron&lt;span style=&quot;font-weight:bold;&quot;&gt;&amp;nbsp;·&lt;/span&gt;  Christopher]]&lt;small&gt;&lt;span style=&quot;font-weight:bold;&quot;&gt;&amp;nbsp;·&lt;/span&gt; [[User talk:Camaron|talk]]&lt;/small&gt; 15:09, 15 November 2009 (UTC)
-	</talkpage>
-</article>

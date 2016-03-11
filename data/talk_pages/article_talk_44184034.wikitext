@@ -1,5 +1,0 @@
-<article id="44184034" title=Talk:Bartolucci>
-	<talkpage id="44184034" title="Talk:Bartolucci">
-{{WikiProject Disambiguation}}
-	</talkpage>
-</article>

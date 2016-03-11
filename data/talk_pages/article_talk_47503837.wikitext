@@ -1,8 +1,0 @@
-<article id="47503837" title=User talk:2601:41:C102:2F47:6C1B:B138:C94C:8C41>
-	<talkpage id="47503837" title="User talk:2601:41:C102:2F47:6C1B:B138:C94C:8C41">
-== August 2015 ==
-
-[[Image:Information.svg|25px|alt=|link=]] Hello, I'm [[User:Donner60|Donner60]]. I noticed that you made an edit to a biography of a living person, [[:Bill O'Brien (American football)]], but that you didn’t support your changes with a citation to a reliable source. Wikipedia has a strict policy concerning [[Wikipedia:Biographies of living people|how we write about living people]], so please help us keep such articles accurate. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Donner60|my talk page]]. Thanks. &lt;!-- Template:Huggle/warn-bio-1 --&gt;&lt;!-- Template:uw-biog1 --&gt;[[User:Donner60|Donner60]] ([[User talk:Donner60|talk]]) 04:39, 12 August 2015 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="12621019" title=Talk:Defeasible estate>
-	<talkpage id="12621019" title="Talk:Defeasible estate">
-{{WikiProject Law|class=Start|importance=Low}}
-	</talkpage>
-</article>

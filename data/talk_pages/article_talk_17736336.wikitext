@@ -1,7 +1,0 @@
-<article id="17736336" title=User talk:86.136.154.177>
-	<talkpage id="17736336" title="User talk:86.136.154.177">
-== June 2008 ==
-
-[[Image:Information.svg|25px]] Welcome to Wikipedia. It might not have been your intention, but your recent edit removed content from {{#if:Kris Commons|[[:Kris Commons]]|Wikipedia}}. When removing text, please specify a reason in the [[Help:Edit summary|edit summary]] and discuss edits that are likely to be controversial on the article's [[Wikipedia:Talk page|talk page]]. If this was a mistake, don't worry; the text has been restored, as you can see from the [[Help:Page history|page history]]. Take a look at the [[Wikipedia:Welcome|welcome page]] to learn more about contributing to this encyclopedia, and if you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]].  {{#if:|{{{2}}}|Thank you.}}&lt;!-- Template:uw-delete1 --&gt; [[User:Dreaded Walrus|Dreaded Walrus]] &lt;sup&gt; [[User talk:Dreaded Walrus|t]] [[Special:Contributions/Dreaded Walrus|c]]&lt;/sup&gt; 17:54, 2 June 2008 (UTC)
-	</talkpage>
-</article>

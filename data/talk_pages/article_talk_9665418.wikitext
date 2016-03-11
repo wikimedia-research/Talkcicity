@@ -1,5 +1,0 @@
-<article id="9665418" title=Talk:O Incio>
-	<talkpage id="9665418" title="Talk:O Incio">
-{{WikiProject Spain|class=Stub|importance=}}
-	</talkpage>
-</article>

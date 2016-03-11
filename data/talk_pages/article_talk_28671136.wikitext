@@ -1,6 +1,0 @@
-<article id="28671136" title=Talk:Ieygo River>
-	<talkpage id="28671136" title="Talk:Ieygo River">
-{{WikiProject Micronesia|class=stub|importance=|Guam=yes}}
-{{WikiProject Rivers|class=stub|importance=low}}
-	</talkpage>
-</article>

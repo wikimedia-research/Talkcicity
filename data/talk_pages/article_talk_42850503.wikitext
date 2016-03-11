@@ -1,5 +1,0 @@
-<article id="12217103" title=Talk:Sula megapode>
-	<talkpage id="12217103" title="Talk:Sula megapode">
-{{WikiProject Birds|class=stub|importance=low|needs-photo=yes}}
-	</talkpage>
-</article>

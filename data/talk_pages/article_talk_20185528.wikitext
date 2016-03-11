@@ -1,6 +1,0 @@
-<article id="20185528" title=Talk:National People's Movement>
-	<talkpage id="20185528" title="Talk:National People's Movement">
-{{DisambigProject}}
-{{WikiProject Politics|class=Dab|importance=NA}}
-	</talkpage>
-</article>

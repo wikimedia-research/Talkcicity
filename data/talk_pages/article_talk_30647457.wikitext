@@ -1,5 +1,0 @@
-<article id="30647457" title=Talk:Argyrolobium>
-	<talkpage id="30647457" title="Talk:Argyrolobium">
-{{WikiProject Plants|class=Stub|importance=Low}}
-	</talkpage>
-</article>

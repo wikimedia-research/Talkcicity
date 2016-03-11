@@ -1,5 +1,0 @@
-<article id="26931833" title=Talk:SS Harmodius (1919)>
-	<talkpage id="26931833" title="Talk:SS Harmodius (1919)">
-{{WPSHIPS|class=dab}}
-	</talkpage>
-</article>

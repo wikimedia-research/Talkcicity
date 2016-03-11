@@ -1,5 +1,0 @@
-<article id="29745020" title=Talk:Cape Garcia>
-	<talkpage id="29745020" title="Talk:Cape Garcia">
-{{WikiProject Antarctica|class=Stub}}
-	</talkpage>
-</article>

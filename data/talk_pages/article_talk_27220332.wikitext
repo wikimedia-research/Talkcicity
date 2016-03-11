@@ -1,6 +1,0 @@
-<article id="27220332" title=Talk:Bofors 283 mm gun>
-	<talkpage id="27220332" title="Talk:Bofors 283 mm gun">
-{{WPMILHIST|class=Stub|Maritime=yes|Weaponry=yes|Nordic=yes}}
-{{WikiProject Sweden|class=Stub|importance=Low}}
-	</talkpage>
-</article>

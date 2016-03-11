@@ -1,5 +1,0 @@
-<article id="24764242" title=Talk:Pons Racing>
-	<talkpage id="24764242" title="Talk:Pons Racing">
-{{WPMS|class=start|importance=low}}
-	</talkpage>
-</article>

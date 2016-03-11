@@ -1,6 +1,0 @@
-<article id="20411816" title=Talk:Moscow Nights (disambiguation)>
-	<talkpage id="20411816" title="Talk:Moscow Nights (disambiguation)">
-{{DisambigProject}}
-{{WikiProject Russia|class=disambiguation|perform=yes}}
-	</talkpage>
-</article>

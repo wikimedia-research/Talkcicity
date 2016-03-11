@@ -1,6 +1,0 @@
-<article id="38343550" title=Talk:Iglesia Vaticana Castrense de San Francisco>
-	<talkpage id="38343550" title="Talk:Iglesia Vaticana Castrense de San Francisco">
-{{WikiProject Spain|class=stub|importance=mid}}
-{{WikiProject GibraltarpediA|class=stub|importance=low}}
-	</talkpage>
-</article>

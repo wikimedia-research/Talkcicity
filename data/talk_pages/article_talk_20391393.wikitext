@@ -1,5 +1,0 @@
-<article id="20391393" title=User talk:MaximAfinogenov>
-	<talkpage id="20391393" title="User talk:MaximAfinogenov">
-Please do not add nonsense to Wikipedia{{#if:Classical language|, as you did {{#if:|with [{{{diff}}} this edit]}} to the [[:Classical language]] page|{{#if:|, as you did with [{{{diff}}} this edit]}}}}. It is considered [[Wikipedia:Vandalism template link|vandalism]]. If you would like to experiment, use the [[Wikipedia:Sandbox|sandbox]]. Thank you. &lt;!-- Template:Test2 (second level warning) --&gt; Please stop. If you continue to [[Wikipedia:Vandalism template link|vandalize]] pages, {{#if:Classical language|as you did {{#if:|with [{{{diff}}} this edit]}} to [[:Classical language]],|{{#if:as you did with [{{{diff}}} this edit],}}}} you will be [[Wikipedia:Blocking policy|blocked]] from editing Wikipedia. &lt;!-- Template:Test3 (Third level warning) --&gt;
-	</talkpage>
-</article>

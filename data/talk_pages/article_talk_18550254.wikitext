@@ -1,6 +1,0 @@
-<article id="18550254" title=Talk:Raúl Quiroga>
-	<talkpage id="18550254" title="Talk:Raúl Quiroga">
-{{WikiProject Biography|living=yes|class=Stub|sports-work-group=yes|listas=Quiroga, Raul}}
-{{WikiProject Olympics|class=Stub|importance=|auto=yes}}
-	</talkpage>
-</article>

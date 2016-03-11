@@ -1,5 +1,0 @@
-<article id="24878102" title=Talk:Kildare Borrowes>
-	<talkpage id="24878102" title="Talk:Kildare Borrowes">
-{{disambigproject}}
-	</talkpage>
-</article>

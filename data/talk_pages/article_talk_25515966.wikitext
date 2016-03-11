@@ -1,8 +1,0 @@
-<article id="25515966" title=User talk:71.170.56.101>
-	<talkpage id="25515966" title="User talk:71.170.56.101">
-
-== December 2009 ==
-
-[[Image:Information.png|25px]] Welcome to Wikipedia. The &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Child_pornography?diff=333104269 recent edit]&lt;/span&gt; that you made to the page [[:Child pornography]] has been reverted, as it appears to be unconstructive. Please use the [[Wikipedia:Sandbox|sandbox]] for testing any edits; if you believe the edit was constructive, please ensure that you provide an informative [[Help:Edit summary|edit summary]]. You may also wish to read the [[Wikipedia:Introduction|introduction to editing]] for further information. Thank you. &lt;!-- Template:uw-huggle1 --&gt; [[User:Minimac94|&lt;font color=&quot;#002BB8&quot;&gt;Minimac94&lt;/font&gt;]] ([[User talk:Minimac94|&lt;font color=&quot;#002BB8&quot;&gt;talk&lt;/font&gt;]]) 19:04, 21 December 2009 (UTC)
-	</talkpage>
-</article>

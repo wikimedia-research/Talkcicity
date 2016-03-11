@@ -1,6 +1,0 @@
-<article id="44312330" title=Talk:Coal creek serpentinite (Texas Geology)>
-	<talkpage id="44312330" title="Talk:Coal creek serpentinite (Texas Geology)">
-{{WikiProject Geology|class=stub|importance=low}}
-{{WikiProject United States|class=stub|importance=low|TX=yes|TX-importance=low}}
-	</talkpage>
-</article>

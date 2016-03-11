@@ -1,6 +1,0 @@
-<article id="12447116" title=Talk:1999 Arizona Diamondbacks season>
-	<talkpage id="12447116" title="Talk:1999 Arizona Diamondbacks season">
-{{WikiProject Baseball|class=start|importance=mid}}
-{{WikiProject United States|class=start|importance=|AZ=Yes|AZ-importance=}}
-	</talkpage>
-</article>

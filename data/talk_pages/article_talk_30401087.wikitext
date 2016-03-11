@@ -1,9 +1,0 @@
-<article id="30401087" title=Talk:Ògbójú Ọdẹ nínú Igbó Irúnmalẹ̀>
-	<talkpage id="30401087" title="Talk:Ògbójú Ọdẹ nínú Igbó Irúnmalẹ̀">
-{{WikiProjectBannerShell|1=
-{{WikiProject Novels|class=stub|importance=}}
-{{WikiProject Books|class=stub|needs-infobox=|needs-infobox-cover=}}
-{{WikiProject Nigeria}}
-}}
-	</talkpage>
-</article>

@@ -1,6 +1,0 @@
-<article id="8459397" title=User talk:74.113.216.216>
-	<talkpage id="8459397" title="User talk:74.113.216.216">
-==[[Ayana Angel]]==
-Please do not add nonsense to Wikipedia{{#if:Ayana Angel|, as you did to [[:Ayana Angel]]}}. It is considered [[Wikipedia:Vandalism|vandalism]]. If you would like to experiment, use the [[Wikipedia:Sandbox|sandbox]]. Thank you. &lt;!-- Template:Test2 (second level warning) --&gt; --[[User:JFreeman|'''JFreeman''']] [[User talk:JFreeman|&lt;sup&gt;''(talk)''&lt;/sup&gt;]] 00:23, 16 December 2006 (UTC)
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="29455121" title=Talk:Big Bear Frontier>
-	<talkpage id="29455121" title="Talk:Big Bear Frontier">
-{{WikiProject California|class=stub}}
-	</talkpage>
-</article>

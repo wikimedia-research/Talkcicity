@@ -1,7 +1,0 @@
-<article id="31547279" title=User talk:76.168.49.87>
-	<talkpage id="31547279" title="User talk:76.168.49.87">
-== Your edit ==
-
-Hello, if you really are Erin Fitzgerald as you claim in your edit summary [http://en.wikipedia.org/w/index.php?title=Erin_Fitzgerald&amp;diff=prev&amp;oldid=424978240 here] then you really need to read Wikipedia policy on [[WP:COI|conflicts of interest]] and then also, and perhaps most importantly, the guideline on writing/contributing to the article about yourself [[WP:AUTOBIOGRAPHY|here]].  The best way to go about getting your article to contain the information you think it needs is to let other editors know and provide them with reliable sources independent from you (read [[WP:RS]]). It's important that for every single claim in your article any future reader will have the ability to verify ([[WP:V]]) the truth of that claim without having to ask you.  Finally Wikipedia requires that articles conform to a certain formal/business-like tone that some of your edits were not in line with.  You can read about that [[WP:TONE|here]].  If you have any questions or comments you can reach me at my talk page. Thanks. [[User:SQGibbon|SQGibbon]] ([[User talk:SQGibbon|talk]]) 06:36, 20 April 2011 (UTC)
-	</talkpage>
-</article>

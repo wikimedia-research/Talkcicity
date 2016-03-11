@@ -1,5 +1,0 @@
-<article id="36272160" title=Talk:Epsilon Circini>
-	<talkpage id="36272160" title="Talk:Epsilon Circini">
-{{WPAstronomy|class=stub|importance=low}}
-	</talkpage>
-</article>

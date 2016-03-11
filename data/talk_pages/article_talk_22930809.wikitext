@@ -1,5 +1,0 @@
-<article id="22930809" title=Talk:Kosy, Warmian-Masurian Voivodeship>
-	<talkpage id="22930809" title="Talk:Kosy, Warmian-Masurian Voivodeship">
-{{WikiProject Poland|class=start|importance=mid}}
-	</talkpage>
-</article>

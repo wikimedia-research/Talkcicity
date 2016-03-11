@@ -1,8 +1,0 @@
-<article id="41953640" title=User talk:SupportJasper>
-	<talkpage id="41953640" title="User talk:SupportJasper">
-
-== February 2014 ==
-
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Rmosler2100|Rmosler2100]]. I wanted to let you know that I undid one of [[Special:Contributions/SupportJasper|your recent contributions]],&amp;nbsp;such as the one you made with &lt;span class=&quot;plainlinks&quot;&gt;[http://en.wikipedia.org/wiki/Salad?diff=595636115 this edit]&lt;/span&gt; to [[:Salad]], because it didn’t appear constructive to me. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Rmosler2100|my talk page]]. Thanks. &lt;!-- Template:Huggle/warn-1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt;[[User:rmosler2100|&lt;span style=&quot;color:green&quot;&gt;'''R'''&lt;/span&gt;&lt;span style=&quot;color:black; font-variant:small-caps&quot;&gt;'''mosler'''&lt;/span&gt;]]&amp;nbsp;|[[User_talk:Rmosler2100| &lt;span style=&quot;color:black; font-variant:small-caps&quot;&gt;●&lt;/span&gt;]]  21:25, 15 February 2014 (UTC)
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="18996718" title=Talk:Pathauti>
-	<talkpage id="18996718" title="Talk:Pathauti">
-{{WikiProject Nepal|class=stub|importance=low}}
-	</talkpage>
-</article>

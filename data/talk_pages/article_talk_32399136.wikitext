@@ -1,5 +1,0 @@
-<article id="32398965" title=Talk:Petr Hořava>
-	<talkpage id="32398965" title="Talk:Petr Hořava">
-{{WikiProject Disambiguation}}
-	</talkpage>
-</article>

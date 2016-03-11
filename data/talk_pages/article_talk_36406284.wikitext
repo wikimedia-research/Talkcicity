@@ -1,9 +1,0 @@
-<article id="36406284" title=Talk:Charles Grayson>
-	<talkpage id="36406284" title="Talk:Charles Grayson">
-{{WikiProject Biography
-|living=no
-|class=
-|listas=Grayson, Charles
-}}
-	</talkpage>
-</article>

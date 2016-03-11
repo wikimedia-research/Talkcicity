@@ -1,5 +1,0 @@
-<article id="25401609" title=Talk:Gandaritis>
-	<talkpage id="25401609" title="Talk:Gandaritis">
-{{WikiProject Lepidoptera|class=Stub|importance=Low}}
-	</talkpage>
-</article>

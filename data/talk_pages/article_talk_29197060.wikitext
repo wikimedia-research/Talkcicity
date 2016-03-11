@@ -1,7 +1,0 @@
-<article id="29197060" title=User talk:184.76.136.232>
-	<talkpage id="29197060" title="User talk:184.76.136.232">
-== October 2010 ==
-[[Image:Stop hand nuvola.svg|30px]]  Your addition to [[:Belles de Jour]] has been removed, as it appears to have added [[Wikipedia:Copyrights|copyrighted]] material to Wikipedia without [[Wikipedia:Requesting copyright permission|permission]] from the copyright holder. For [[Wikipedia:Copyrights|legal reasons]], we cannot accept copyrighted text or images borrowed from other websites or printed material; such additions will be deleted. You may use external websites or publications as a source of ''information'', but not as a source of ''article content'' such as sentences or images. Wikipedia takes copyright violations very seriously and persistent violators '''will be [[Wikipedia:Blocking policy|blocked from editing]]'''. &lt;!-- Template:uw-copyright --&gt; ''[http://en.wikipedia.org/w/index.php?title=Belles_de_Jour&amp;action=historysubmit&amp;diff=385821482&amp;oldid=385637917 This edit] was copied word-for-word from http://www.scriptedtvfans.com/2010/09/gossip-girl-91310-belles-de-jour-episode-mini-recap/.'' [[User:Logical Fuzz|Logical Fuzz]] ([[User talk:Logical Fuzz|talk]]) 23:47, 14 October 2010 (UTC)
-:''If this is a shared [[IP address]], and you didn't make the edit, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''
-	</talkpage>
-</article>

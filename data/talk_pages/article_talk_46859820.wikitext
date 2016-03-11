@@ -1,9 +1,0 @@
-<article id="46859820" title=Talk:Penny Barg>
-	<talkpage id="46859820" title="Talk:Penny Barg">
-{{WPBS|blp=yes|1=
-{{WikiProject Biography |living=yes |class=stub |sports-priority=low |sports-work-group=yes |listas=Barg, Penny}}
-{{WikiProject Tennis |class=stub |importance=low}}
-{{WikiProject Women's sport|class=stub|auto=Inherit|importance=low}}
-}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="42293705" title=Talk:Demeter (surname)>
-	<talkpage id="42293705" title="Talk:Demeter (surname)">
-{{WikiProject Anthroponymy|class=List|importance=NA}}
-	</talkpage>
-</article>

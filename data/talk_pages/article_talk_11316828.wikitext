@@ -1,7 +1,0 @@
-<article id="11316828" title=User talk:Doubleonerd>
-	<talkpage id="11316828" title="User talk:Doubleonerd">
-
-=== May 2007 ===
-{{{icon|[[Image:Information.svg|25px]] }}}Please refrain from introducing inappropriate pages, such as [[:Dale Hounsome-Vail]], to Wikipedia. Doing so is not in accordance with our [[Wikipedia:List of policies|policies]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Thank you.&lt;!-- Template:uw-create2 --&gt; [[User:SuperDT|SuperDT]] 04:24, 20 May 2007 (UTC)
-	</talkpage>
-</article>

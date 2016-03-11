@@ -1,5 +1,0 @@
-<article id="42913156" title=Talk:Sulcus (Neuroanatomy)>
-	<talkpage id="42913156" title="Talk:Sulcus (Neuroanatomy)">
-{{WikiProject Anatomy |class=Redirect |importance=NA |field=NA}}
-	</talkpage>
-</article>

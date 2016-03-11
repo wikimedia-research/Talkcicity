@@ -1,9 +1,0 @@
-<article id="10292336" title=Talk:Sarigan>
-	<talkpage id="10292336" title="Talk:Sarigan">
-{{WikiProjectBannerShell|1=
-{{WikiProject Micronesia|class=Start|importance=|NMI=yes}}
-{{WikiProject Volcanoes|class=Start|importance=Low}}
-{{WikiProject Islands|class=start}}
-}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="44604047" title=Talk:Herman Langelius>
-	<talkpage id="44604047" title="Talk:Herman Langelius">
-{{WikiProject Netherlands|class=stub|importance=low}}
-	</talkpage>
-</article>

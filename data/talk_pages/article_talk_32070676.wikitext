@@ -1,5 +1,0 @@
-<article id="32070676" title=Talk:Journal of Cellular Plastics>
-	<talkpage id="32070676" title="Talk:Journal of Cellular Plastics">
-{{WikiProject Academic Journals|class=start}}
-	</talkpage>
-</article>

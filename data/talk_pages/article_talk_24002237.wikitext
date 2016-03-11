@@ -1,6 +1,0 @@
-<article id="24002237" title=Talk:Garabogaz>
-	<talkpage id="24002237" title="Talk:Garabogaz">
-{{WikiProject Central Asia|class=stub|importance=low}}
-{{WikiProject Turkmenistan|class=stub|importance=low}}
-	</talkpage>
-</article>

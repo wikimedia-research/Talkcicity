@@ -1,6 +1,0 @@
-<article id="30674978" title=Talk:Bluemont Presbyterian Church and Cemetery>
-	<talkpage id="30674978" title="Talk:Bluemont Presbyterian Church and Cemetery">
-{{WikiProject Virginia|class=stub|importance=low}}
-{{WikiProject National Register of Historic Places|class=stub|importance=low}}
-	</talkpage>
-</article>

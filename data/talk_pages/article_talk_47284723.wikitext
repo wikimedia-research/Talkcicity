@@ -1,6 +1,0 @@
-<article id="47284723" title=Talk:Game of Thrones (season 6)>
-	<talkpage id="47284723" title="Talk:Game of Thrones (season 6)">
-{{WikiProject A Song of Ice and Fire|class=start|importance=high}}
-{{WikiProject Television|class=start|importance=mid}}
-	</talkpage>
-</article>

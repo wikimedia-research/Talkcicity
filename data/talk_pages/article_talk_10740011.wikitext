@@ -1,6 +1,0 @@
-<article id="10740011" title=Talk:Ming Ming>
-	<talkpage id="10740011" title="Talk:Ming Ming">
-{{Film|class=Start|Chinese-task-force=yes}}
-{{WPHK|class=start|importance=low|cinema=yes}}
-	</talkpage>
-</article>

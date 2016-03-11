@@ -1,5 +1,0 @@
-<article id="41657875" title=Talk:Aethes atomosana>
-	<talkpage id="41657875" title="Talk:Aethes atomosana">
-{{LepidopteraTalk|class=stub|importance=low}}
-	</talkpage>
-</article>

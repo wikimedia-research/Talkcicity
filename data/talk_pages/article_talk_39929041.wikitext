@@ -1,5 +1,0 @@
-<article id="39929041" title=Talk:Vicaut>
-	<talkpage id="39929041" title="Talk:Vicaut">
-{{WikiProject Anthroponymy|class=redirect}}
-	</talkpage>
-</article>

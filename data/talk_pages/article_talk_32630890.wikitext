@@ -1,6 +1,0 @@
-<article id="32630890" title=Talk:2001–02 Serbian Hockey League season>
-	<talkpage id="32630890" title="Talk:2001–02 Serbian Hockey League season">
-{{Ice hockey|class=stub|importance=low}}
-{{WP Serbia|class=stub|importance=low}}
-	</talkpage>
-</article>

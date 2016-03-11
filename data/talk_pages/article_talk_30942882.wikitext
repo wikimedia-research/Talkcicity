@@ -1,6 +1,0 @@
-<article id="30942882" title=Talk:Sjukdom>
-	<talkpage id="30942882" title="Talk:Sjukdom">
-{{albums|class=Stub}}
-{{WikiProject Sweden|class=Stub|importance=Low}}
-	</talkpage>
-</article>

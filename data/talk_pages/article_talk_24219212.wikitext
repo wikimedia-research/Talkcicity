@@ -1,5 +1,0 @@
-<article id="24219212" title=Talk:Free Music!>
-	<talkpage id="24219212" title="Talk:Free Music!">
-{{album|class=stub}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="47037545" title=Talk:Río Grande, Veraguas>
-	<talkpage id="47037545" title="Talk:Río Grande, Veraguas">
-{{WikiProject Central America|class=stub|importance=low|Panama=yes}}
-	</talkpage>
-</article>

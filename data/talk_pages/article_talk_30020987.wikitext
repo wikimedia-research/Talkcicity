@@ -1,5 +1,0 @@
-<article id="30020987" title=Talk:Lead star>
-	<talkpage id="30020987" title="Talk:Lead star">
-{{WPAstronomy|class=stub|importance=low}}
-	</talkpage>
-</article>

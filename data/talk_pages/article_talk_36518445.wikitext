@@ -1,9 +1,0 @@
-<article id="36518445" title=Talk:Laurie Rosenwald>
-	<talkpage id="36518445" title="Talk:Laurie Rosenwald">
-{{WikiProject Biography
-|living=yes
-|class=
-|listas=Rosenwald, Laurie
-}}
-	</talkpage>
-</article>

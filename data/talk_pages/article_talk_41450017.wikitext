@@ -1,6 +1,0 @@
-<article id="41450017" title=User talk:Cj126>
-	<talkpage id="41450017" title="User talk:Cj126">
-== December 2013 ==
-[[Image:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:SummerPhD|SummerPhD]]. I noticed that you made a change to an article, [[:TeenNick]], but you didn't provide a [[Wikipedia:Identifying reliable sources|reliable source]]. It's been removed for now, but if you'd like to [[Wikipedia:Citing sources|include a citation]] and re-add it, please do so! If you need guidance on referencing, please see [[Help:Referencing for beginners|the referencing for beginners]] tutorial, or if you think I made a mistake, you can leave me a message on [[User_talk:SummerPhD|my talk page]]. Thank you. &lt;!-- Template:uw-unsourced1 --&gt; [[User:SummerPhD|&lt;span style=&quot;color:#D70270;background-color:white;&quot;&gt;Sum&lt;/span&gt;&lt;span style=&quot;color:#734F96;background-color:white;&quot;&gt;mer&lt;/span&gt;&lt;span style=&quot;color:#0038A8;background-color:white;&quot;&gt;PhD&lt;/span&gt;]] ([[User talk:SummerPhD|talk]]) 16:32, 24 December 2013 (UTC)
-	</talkpage>
-</article>

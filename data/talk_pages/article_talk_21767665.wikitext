@@ -1,9 +1,0 @@
-<article id="21767665" title=Talk:Jack Talbert>
-	<talkpage id="21767665" title="Talk:Jack Talbert">
-{{WPBiography|living=yes|class=Start|listas=Talbert, Jack}} 
-
-{{oldafdfull| date = 6 April 2009 (UTC) | result = '''no consensus''' | page = Jack Talbert }}
-
-{{oldafdfull| date = 25 February 2009 (UTC) | result = '''no consensus''' | page = Jack Talbert }}
-	</talkpage>
-</article>

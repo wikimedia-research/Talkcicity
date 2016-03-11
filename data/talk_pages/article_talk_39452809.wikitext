@@ -1,6 +1,0 @@
-<article id="39452809" title=Talk:Lettuce big-vein associated virus>
-	<talkpage id="39452809" title="Talk:Lettuce big-vein associated virus">
-{{Wikiproject MCB|class=stub}}
-{{WikiProject Viruses|class=stub|importance=low}}
-	</talkpage>
-</article>

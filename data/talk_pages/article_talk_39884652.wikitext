@@ -1,5 +1,0 @@
-<article id="39884652" title=Talk:Vithana>
-	<talkpage id="39884652" title="Talk:Vithana">
-{{WikiProject Anthroponymy|class=List}}
-	</talkpage>
-</article>

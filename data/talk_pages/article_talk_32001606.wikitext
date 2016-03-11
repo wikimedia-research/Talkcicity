@@ -1,9 +1,0 @@
-<article id="32001606" title=Talk:Open Marxism>
-	<talkpage id="32001606" title="Talk:Open Marxism">
-{{WikiProject Socialism}}
-
-==Categorization==
-
-Which pages in philosophy, sociology, and Marxism should this page be linked up with? Michael 19:49, 6 June 2011 (UTC)
-	</talkpage>
-</article>

@@ -1,7 +1,0 @@
-<article id="42789387" title=User talk:2606:A000:C6A0:9100:D888:EB91:A19D:668>
-	<talkpage id="42789387" title="User talk:2606:A000:C6A0:9100:D888:EB91:A19D:668">
-
-== May 2014 ==
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Vanamonde93|Vanamonde93]]. I wanted to let you know that I undid one or more of [[Special:Contributions/2606:A000:C6A0:9100:D888:EB91:A19D:668|your recent contributions]]&amp;nbsp;to [[:Solange (disambiguation)]] because it did not appear constructive. If you would like to experiment, please use the [[WP:sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Vanamonde93|my talk page]]. &lt;!-- Template:uw-vandalism1 --&gt;  [[User:Vanamonde93|Vanamonde93]] ([[User talk:Vanamonde93|talk]]) 05:15, 18 May 2014 (UTC)
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="26663401" title=Talk:Split Sides, Volume 1>
-	<talkpage id="26663401" title="Talk:Split Sides, Volume 1">
-{{album}}
-	</talkpage>
-</article>

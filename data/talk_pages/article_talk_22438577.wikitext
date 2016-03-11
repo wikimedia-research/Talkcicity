@@ -1,6 +1,0 @@
-<article id="22438577" title=Talk:Synchronized swimming at the 2002 Asian Games>
-	<talkpage id="22438577" title="Talk:Synchronized swimming at the 2002 Asian Games">
-{{WP Swimming}}
-{{WikiProject Multi-sport events|Asian Games=yes|class=C|importance=Low}}
-	</talkpage>
-</article>

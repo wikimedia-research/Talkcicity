@@ -1,8 +1,0 @@
-<article id="35354367" title=Talk:Al-Nahda Club (Saudi Arabia)>
-	<talkpage id="35354367" title="Talk:Al-Nahda Club (Saudi Arabia)">
-{{WikiProject Saudi Arabia|class=Stub
-|importance=
-|auto=yes
-}}
-	</talkpage>
-</article>

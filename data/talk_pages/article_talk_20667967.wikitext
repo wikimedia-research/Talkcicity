@@ -1,5 +1,0 @@
-<article id="20667967" title=Talk:34 Canadian Brigade Group>
-	<talkpage id="20667967" title="Talk:34 Canadian Brigade Group">
-{{WPMILHIST|class=Stub|Canadian=yes}}
-	</talkpage>
-</article>

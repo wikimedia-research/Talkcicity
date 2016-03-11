@@ -1,6 +1,0 @@
-<article id="25540380" title=Talk:Blood Indian Creek Reservoir>
-	<talkpage id="25540380" title="Talk:Blood Indian Creek Reservoir">
-{{WikiProject Canada|geography=yes|ab=yes|class=Stub|importance=Low}}
-{{Lake project|class=Stub|importance=Low}}
-	</talkpage>
-</article>

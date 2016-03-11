@@ -1,5 +1,0 @@
-<article id="11738392" title=Talk:Tancrou>
-	<talkpage id="11738392" title="Talk:Tancrou">
-{{WikiProject France|class=Stub|importance=Low|commune=yes}}
-	</talkpage>
-</article>

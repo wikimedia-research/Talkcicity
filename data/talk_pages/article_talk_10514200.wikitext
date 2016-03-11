@@ -1,9 +1,0 @@
-<article id="10514200" title=Talk:Norfolk Island national rugby league team>
-	<talkpage id="10514200" title="Talk:Norfolk Island national rugby league team">
-{{WikiProject Rugby league|class=stub|importance=mid}}
-
-== Norfolk Island national rugby league team ==
-
-Norfolk Island '''national''' rugby league team? But [[Norfolk Island]]'s not a nation. Is it?--[[User:Jeff79|Jeff79]] 20:54, 19 April 2007 (UTC)
-	</talkpage>
-</article>

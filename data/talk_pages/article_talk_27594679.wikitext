@@ -1,6 +1,0 @@
-<article id="27594679" title=Talk:Farm to Market Road 1378>
-	<talkpage id="27594679" title="Talk:Farm to Market Road 1378">
-{{U.S. Roads WikiProject|state=TX|class=Start|importance=Low|needs-kml=yes|needs-map=yes|needs-jctint=no}}
-{{WikiProject United States|class=Start|importance=Low|TX=yes|TX-importance=Low}}
-	</talkpage>
-</article>

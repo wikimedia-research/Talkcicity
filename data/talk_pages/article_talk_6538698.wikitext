@@ -1,6 +1,0 @@
-<article id="6538698" title=Talk:Mount Hope (town), Wisconsin>
-	<talkpage id="6538698" title="Talk:Mount Hope (town), Wisconsin">
-{{WikiProject Wisconsin|class=stub|importance=low}}
-{{WPCities|class=stub|importance=low}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="6114987" title=User talk:71.192.48.158>
-	<talkpage id="6114987" title="User talk:71.192.48.158">
-Thank you for experimenting with the page [[:Captain Jack Sparrow]] on Wikipedia. Your test worked, and has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any other tests you want to do. Take a look at the [[Wikipedia:Welcome, newcomers|welcome page]] if you would like to learn more about contributing to our encyclopedia.&lt;!-- Template:Test-n (first level warning) --&gt;  A link to the edit I have reverted can be found here: [http://en.wikipedia.org/w/index.php?title=Captain_Jack_Sparrow&amp;diff=next&amp;oldid=65718674 link]. If you believe this edit should not have been reverted, please contact me. &lt;!-- 234--&gt; -- '''[[User:HumbleGod|H·G]]''' (&lt;sup&gt;[[User_talk:HumbleGod|&lt;font size=&quot;0.5&quot;&gt;words&lt;/font&gt;]]&lt;/sup&gt;/&lt;sub&gt;[[Special:Contributions/HumbleGod|&lt;font size=&quot;0.5&quot;&gt;works&lt;/font&gt;]]&lt;/sub&gt;) 19:12, 25 July 2006 (UTC)
-	</talkpage>
-</article>

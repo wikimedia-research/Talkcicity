@@ -1,5 +1,0 @@
-<article id="24308354" title=Talk:Catocala obscura>
-	<talkpage id="24308354" title="Talk:Catocala obscura">
-{{WikiProject Lepidoptera|class=stub|importance=low}}
-	</talkpage>
-</article>

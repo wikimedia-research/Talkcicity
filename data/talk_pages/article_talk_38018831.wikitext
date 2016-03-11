@@ -1,6 +1,0 @@
-<article id="38018831" title=Talk:Pathoclisis>
-	<talkpage id="38018831" title="Talk:Pathoclisis">
-{{WikiProject Physiology|class=|importance=mid|field=neuro}}
-{{WikiProject Neuroscience}}
-	</talkpage>
-</article>

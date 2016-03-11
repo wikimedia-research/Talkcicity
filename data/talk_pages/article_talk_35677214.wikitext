@@ -1,5 +1,0 @@
-<article id="35677214" title=Talk:Chookhia>
-	<talkpage id="35677214" title="Talk:Chookhia">
-{{Talk header}} {{WikiProject India|importance=low |class=stub |punjab=yes |punjab-importance=low}}
-	</talkpage>
-</article>

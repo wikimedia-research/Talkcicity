@@ -1,7 +1,0 @@
-<article id="26921717" title=User talk:79.125.234.55>
-	<talkpage id="26921717" title="User talk:79.125.234.55">
-== April 2010 ==
-[[File:Information.svg|25px|alt=]] Welcome to Wikipedia. Although everyone is welcome to contribute to Wikipedia, at least one of your recent edits, such as the one you made to [[:Baba Vanga]], did not appear to be constructive and has been reverted. Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and read the [[Wikipedia:Welcoming committee/Welcome to Wikipedia|welcome page]] to learn more about contributing constructively to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; '''[[User:Laveol|&lt;font color=&quot;#007700&quot;&gt;L&lt;font color=&quot;#009900&quot;&gt;a&lt;font color=&quot;#00aa00&quot;&gt;v&lt;font color=&quot;#00cc00&quot;&gt;e&lt;/font&gt;o&lt;/font&gt;l&lt;/font&gt;&lt;/font&gt;]] &lt;sup&gt;[[User talk:Laveol|T]]&lt;/sup&gt;''' 01:13, 12 April 2010 (UTC)
-:''If this is a shared [[IP address]], and you didn't make any [[Wikipedia:vandalism|unconstructive]] edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant warnings.''
-	</talkpage>
-</article>

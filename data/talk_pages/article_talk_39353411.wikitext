@@ -1,5 +1,0 @@
-<article id="39353411" title=Talk:Reformed worship>
-	<talkpage id="39353411" title="Talk:Reformed worship">
-{{WikiProject Christianity|class=B |importance=Mid |calvinism=yes|calvinism-importance=High }}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="20401254" title=Talk:Maple Ridge, Michigan>
-	<talkpage id="20401254" title="Talk:Maple Ridge, Michigan">
-{{WikiProject Michigan|class=stub|importance=low}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="41485137" title=Talk:Thalberg>
-	<talkpage id="41485137" title="Talk:Thalberg">
-{{WikiProject Anthroponymy|class=stub}}
-	</talkpage>
-</article>

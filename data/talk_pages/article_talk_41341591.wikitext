@@ -1,5 +1,0 @@
-<article id="41341591" title=Talk:Premios Nacionales del Deporte>
-	<talkpage id="41341591" title="Talk:Premios Nacionales del Deporte">
-{{WP Spain|class=list|importance=low}}
-	</talkpage>
-</article>

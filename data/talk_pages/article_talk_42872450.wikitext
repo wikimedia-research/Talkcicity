@@ -1,6 +1,0 @@
-<article id="33533998" title=Talk:Michael Keane (footballer, born 1993)>
-	<talkpage id="33533998" title="Talk:Michael Keane (footballer, born 1993)">
-{{WikiProject Biography|class=Start|living=yes|listas=Keane, Michael|sports-work-group=yes|sports-priority=low}}
-{{WikiProject Football|class=Start|importance=Low|England=Low|ManUtd=Low}}
-	</talkpage>
-</article>

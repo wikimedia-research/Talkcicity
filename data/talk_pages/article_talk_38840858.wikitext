@@ -1,6 +1,0 @@
-<article id="38840858" title=Talk:Kempston West>
-	<talkpage id="38840858" title="Talk:Kempston West">
-{{WikiProjectBannerShell|1={{WikiProject England|class=stub|importance=low}}
-{{WikiProject Bedfordshire|infobox=Complete|class=Stub|importance=Low}}{{WikiProject UK geography|class=stub|importance=low}}}}
-	</talkpage>
-</article>

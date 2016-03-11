@@ -1,8 +1,0 @@
-<article id="3579418" title=Talk:Loukoum>
-	<talkpage id="3579418" title="Talk:Loukoum">
-==Reason for this article/redirect==
-This is the spelling found on boxes sold in greek stores, in the Turkish deli in Pike Place market in Seattle and most significantly in the illustration to the article itself where &quot;Lokum/Loukoumia&quot; is superimposed in small letters on the picture (&quot;loukoum&quot; is an obvious anglicization of &quot;loukoumia&quot;).
-
-I have never actually seen the spelling &quot;lokum&quot;.  There is also a prior redirect &quot;Loukoumi&quot; to &quot;Turkish Delight&quot;.
-	</talkpage>
-</article>

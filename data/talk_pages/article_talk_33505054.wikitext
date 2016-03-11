@@ -1,5 +1,0 @@
-<article id="21347292" title=Talk:The Donnie Baker Collection: Boat for Sale>
-	<talkpage id="21347292" title="Talk:The Donnie Baker Collection: Boat for Sale">
-{{album|class=stub|auto=no|attention=no|needs-infobox=no|importance=low}}
-	</talkpage>
-</article>

@@ -1,5 +1,0 @@
-<article id="30362707" title=Talk:Maltese Third Division 2010–11>
-	<talkpage id="30362707" title="Talk:Maltese Third Division 2010–11">
-{{WikiProject European Microstates |Malta=yes}}
-	</talkpage>
-</article>

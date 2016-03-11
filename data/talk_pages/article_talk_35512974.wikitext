@@ -1,5 +1,0 @@
-<article id="35512974" title=Talk:New Orleans Catholic League>
-	<talkpage id="35512974" title="Talk:New Orleans Catholic League">
-{{WikiProject United States|class=Start|importance=Low|LA=yes|LA-importance=low|NOLA=yes|NOLA-importance=low}}
-	</talkpage>
-</article>

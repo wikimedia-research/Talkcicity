@@ -1,6 +1,0 @@
-<article id="8720064" title=User talk:Bjd1309>
-	<talkpage id="8720064" title="User talk:Bjd1309">
-==Brian daggett==
-Please refrain from creating inappropriate pages{{{{{subst|}}}#if:{{{1|}}}|&amp;#32;such as [[:{{{1}}}]]}}. It is considered [[Wikipedia:Vandalism|vandalism]]. If you would like to experiment, use the [[Wikipedia:Sandbox|sandbox]]. &lt;!-- Template:Test2article (second level warning) --&gt; -- [[User:Merope|&lt;b&gt;&lt;font color=&quot;#3D59AB&quot;&gt;Merope&lt;/font&gt;&lt;/b&gt;]] 16:00, 2 January 2007 (UTC)
-	</talkpage>
-</article>

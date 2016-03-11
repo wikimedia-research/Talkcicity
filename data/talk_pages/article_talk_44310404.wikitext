@@ -1,8 +1,0 @@
-<article id="44310404" title=User talk:76.16.237.3>
-	<talkpage id="44310404" title="User talk:76.16.237.3">
-
-== November 2014 ==
-[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Epicgenius|Epicgenius]]. I wanted to let you know that I undid one or more of [[Special:Contributions/76.16.237.3|your recent contributions]]&amp;nbsp;to [[:The Devil is in the detail]] because it did not appear constructive. If you would like to experiment, please use the [[WP:sandbox|sandbox]]. If you think I made a mistake, or if you have any questions, you can leave me a message on [[User_talk:Epicgenius|my talk page]]. &lt;!-- Template:uw-vandalism1 --&gt;  [[User:Epicgenius|Epicgenius]] ([[User talk:Epicgenius|talk]]) 18:02, 5 November 2014 (UTC)
-:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
-	</talkpage>
-</article>

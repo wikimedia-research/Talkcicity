@@ -1,6 +1,0 @@
-<article id="33433826" title=Talk:Jayezan District>
-	<talkpage id="33433826" title="Talk:Jayezan District">
-{{WikiProject Geography|class=stub|importance=low}}
-{{WikiProject Iran |importance=|class=stub}}
-	</talkpage>
-</article>

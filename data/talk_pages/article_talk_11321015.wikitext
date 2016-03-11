@@ -1,7 +1,0 @@
-<article id="11321015" title=User talk:Deledio 03>
-	<talkpage id="11321015" title="User talk:Deledio 03">
-
-=== May 2007 ===
-{{{icon|[[Image:Information.svg|25px]] }}}Welcome to Wikipedia. We invite everyone to contribute constructively to our encyclopedia. At least one of your recent edits, such as the one you made to [[:Monash Union of Berwick Students (MUBS)]], was neither helpful nor constructive and has been [[Help:Reverting|reverted]] or removed.  Please use [[Wikipedia:Sandbox|the sandbox]] for any test edits you would like to make, and take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to this encyclopedia. Thank you.&lt;!-- Template:uw-vandalism1 --&gt; &amp;mdash; [[User:Indon|Indon]] ([[User_talk:Indon |&lt;font color=&quot;green&quot;&gt;reply&lt;/font&gt;]]) &amp;mdash; 12:55, 20 May 2007 (UTC)
-	</talkpage>
-</article>

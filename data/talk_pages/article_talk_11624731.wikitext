@@ -1,6 +1,0 @@
-<article id="11624731" title=Talk:USS Yucca>
-	<talkpage id="11624731" title="Talk:USS Yucca">
-{{WikiProject Ships|class=Disambig|importance=NA}}
-{{WPMILHIST|class=SI|Maritime=y|US=y}}
-	</talkpage>
-</article>

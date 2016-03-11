@@ -1,5 +1,0 @@
-<article id="7333131" title=Talk:Heat transmission>
-	<talkpage id="7333131" title="Talk:Heat transmission">
-{{physics|class=redirect|importance=NA}}
-	</talkpage>
-</article>

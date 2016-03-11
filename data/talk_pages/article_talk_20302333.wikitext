@@ -1,8 +1,0 @@
-<article id="20302333" title=Talk:Hello, Harvest Moon>
-	<talkpage id="20302333" title="Talk:Hello, Harvest Moon">
-{{WikiProject Children's literature
-|class= Start
-|importance= Low
-}}
-	</talkpage>
-</article>

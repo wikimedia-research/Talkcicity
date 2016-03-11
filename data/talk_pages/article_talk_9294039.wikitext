@@ -1,6 +1,0 @@
-<article id="9294039" title=Talk:Kururu>
-	<talkpage id="9294039" title="Talk:Kururu">
-{{WikiProject Disambiguation}}
-[[talk:Kururu/Archive1|Talkpage archive of previous incarnation of this page]]
-	</talkpage>
-</article>

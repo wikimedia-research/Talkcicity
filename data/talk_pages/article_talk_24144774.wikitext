@@ -1,6 +1,0 @@
-<article id="24144774" title=Talk:WKE (WKEntertainment)>
-	<talkpage id="24144774" title="Talk:WKE (WKEntertainment)">
-{{Film|American-task-force=yes|class=start}}
-{{WikiProject Oregon|class=Start|importance=Low}}
-	</talkpage>
-</article>

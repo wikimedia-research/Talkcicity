@@ -1,5 +1,0 @@
-<article id="26678566" title=Talk:All or Nothin' (54th Platoon album)>
-	<talkpage id="26678566" title="Talk:All or Nothin' (54th Platoon album)">
-{{album|class=stub}}
-	</talkpage>
-</article>

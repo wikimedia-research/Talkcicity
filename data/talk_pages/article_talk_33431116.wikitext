@@ -1,5 +1,0 @@
-<article id="33431116" title=Talk:Resígaro language>
-	<talkpage id="33431116" title="Talk:Resígaro language">
-{{WikiProject Languages|class=stub}}
-	</talkpage>
-</article>

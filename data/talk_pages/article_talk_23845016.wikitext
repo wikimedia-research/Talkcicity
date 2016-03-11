@@ -1,5 +1,0 @@
-<article id="23845016" title=Talk:How Glory Goes>
-	<talkpage id="23845016" title="Talk:How Glory Goes">
-{{album|class=stub|importance=|attention=|needs-infobox=|auto=yes}}
-	</talkpage>
-</article>

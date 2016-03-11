@@ -1,6 +1,0 @@
-<article id="28490291" title=Talk:Miracle Planet>
-	<talkpage id="28490291" title="Talk:Miracle Planet">
-{{WikiProject Canada|tvshow=yes|class=start|importance=low}}
-{{WikiProject Television|class=start|importance=low}}
-	</talkpage>
-</article>
